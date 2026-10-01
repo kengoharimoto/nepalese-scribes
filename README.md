@@ -6,6 +6,11 @@ entries in `/mnt2/kengo/E-texts/NGMCP` (13,382 HTML files, 11,861 microfilm reel
 
 Chart: `out/nepalese_scribes.html` (published as https://claude.ai/artifact/VyE9X9o4i9sHdkHYbec1ZT).
 
+Repository: https://github.com/kengoharimoto/nepalese-scribes (private; the local working copy is
+`/mnt2/kengo/nepalese_scirbes`). It holds the parsed catalogue (`data/records.jsonl`) and the
+colophon excerpts quoted in the extraction outputs, so check the NGMCP catalogue's reuse terms
+before making it public.
+
 ## Pipeline
 
 | step | script | output |
