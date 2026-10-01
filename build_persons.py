@@ -104,6 +104,12 @@ def fold(s):
 UNUSABLE = re.compile(r'…|‥|\.\.|unnamed|illegible|lacuna|unknown|anonymous|\b(?:son|daughter|wife) of\b', re.I)
 
 
+# name forms identified by hand as one person (key -> key)
+SAME_PERSON = {
+    'ratnakaralala': 'lalaratnakara',      # catalogue reverses the parts; Kāśī 1820-1837
+    'yadolalaratnakara': 'lalaratnakara',  # B 38/11, Kāśī ŚS 1747: yadolālalaratnākarākhyaḥ
+}
+
 TITLE_ONLY = {'varma', 'varman', 'sarma', 'sarman', 'misra', 'upadhyaya', 'vajracarya', 'karmacarya',
               'josi', 'daivajna', 'thakura', 'bhata', 'bhatta'}  # a title with the name lost
 
@@ -214,6 +220,9 @@ def main():
             date = {'era': era if era in ERA_OFFSET else '', 'year': o['date']['year'], 'ce': ce_of(o),
                     'inferred': era not in ERA_OFFSET}
             date_src = 'colophon'
+        elif cat_date and cat_date['inferred'] and (o or {}).get('date', {}).get('era') in ERA_OFFSET \
+                and o['date']['era'] != cat_date['era']:  # guessed era contradicted by the colophon: undated
+            date, date_src = None, ''
         place = r.get('Place of Copying', '') or (o or {}).get('place', {}).get('normalized', '') \
             or (o or {}).get('place', {}).get('as_written', '')
         ms = {
@@ -236,6 +245,9 @@ def main():
                 continue
             kind = 'king' if set(roles) & {'king', 'queen'} else 'person'
             key = name_key(p['name'], 'king' if kind == 'king' else '')
+            if any(fold(t) == 'lala' for t in p['titles']) and not key.startswith('lala'):
+                key = 'lala' + key  # Opus puts lāla in titles: (lāla) Ratnākara = Lālaratnākara
+            key = SAME_PERSON.get(key, key)
             if len(key) < 3 or key in TITLE_ONLY:
                 continue
             a = {'ms': ms['id'], 'name': p['name'], 'roles': roles, 'titles': p['titles'],
@@ -250,7 +262,7 @@ def main():
         for role, field in (('scribe', 'Scribe'), ('donor', 'Donor'), ('king', 'King')):
             for n in split_names(r.get(field, '')):
                 kind = 'king' if role == 'king' else 'person'
-                key = name_key(n, role)
+                key = SAME_PERSON.get(name_key(n, role), name_key(n, role))
                 if not usable_name(n) or len(key) < 3 or key in TITLE_ONLY or any(fk == kind and (fk2[:6] == key[:6] or key in fk2 or fk2 in key)
                                        for fk, fk2 in found):
                     continue
