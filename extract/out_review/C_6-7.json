@@ -1,0 +1,95 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: name normalized to stem 'Jayabrahman' (śarman moved to titles); 'jasa brahmaṇā' in the verse read as a corruption of jayabrahmaṇā",
+   "p1: 'commissioner' dropped. He calls himself lekhaka-vipra, the book is his own (śrījayabrahmasya pustakaṃ) and it was made svārtha, so 'likhāyitaṃ' is most likely a loose causative for 'written'. Roles are scribe + owner",
+   "p1: titles now lekhaka, vipra, śarman",
+   "p3: name given as stem 'Vaccharudra' (maybe Vatsarudra), with 'ācārya' moved to titles; confidence lowered to low",
+   "Notes: chronogram verified, king identified as Lakṣmīkāmadeva II, and the open readings are flagged"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jasa brahmaṇā ... śrījayabrahmasya ... lekhakapipraśrījayabrahmaśarmmeṇa",
+   "name": "Jayabrahman",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "lekhaka",
+    "vipra",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījayabrahmasya(!) pustakaṃ | lekhakapipraśrījayabrahmaśarmmeṇa(!) likhāyitaṃ || svaprārthahetoḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmallakṣīkāmadevasya",
+   "name": "Lakṣmīkāmadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmallakṣīkāmadevasya vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vaccharūdrācārya",
+   "name": "Vaccharudra",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "paṇḍitācārya",
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṇḍitācāryaśrīśrī vaccharūdrācāryakṛtvā",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "śrīmallakṣīkāmadevasya vijayarājye"
+  }
+ ],
+ "date": {
+  "as_written": "yāte sapty uḍupānale bhṛgudine nepālasamvatsare māse mādhavaśuklake raṣatithau ṛkṣe ca tiṣye ... samvat 317 vaiśākaśuklaṣaṣṭhyāṃ | śukravāre | puṣyanakṣatre",
+  "era": "NS",
+  "year": "317",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "6",
+  "weekday": "Friday",
+  "nakshatra_yoga": "Puṣya",
+  "ce_approx": "1197"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtha (svaprārthahetoḥ parāparaphalaprāptaye; śivapadaṃ prāptuṃ)",
+ "notes": "The verse date and the prose date agree. In the chronogram, sapti (7), uḍupa (1) and anala (3), read right to left, give NS 317. The verse also gives mādhava = Vaiśākha, rasa (written raṣa) = 6, bhṛgudina = Friday and tiṣya = Puṣya. NS 317 is about 1197 CE, so the king must be Lakṣmīkāmadeva II of the late 12th century, not Lakṣmīkāmadeva I of the 11th century. 'lakṣī' is an error for lakṣmī. 'jasa brahmaṇā' in the verse is probably a corruption of jayabrahmaṇā. 'lekhakapipra' stands for lekhaka-vipra. Both 'hastalikhāyitaṃ' and 'likhāyitaṃ' are causatives. Here they probably just mean 'written', because Jayabrahman calls himself lekhaka and the copy is for his own use. A commissioner role cannot be ruled out entirely, though. 'paṇḍitācāryaśrīśrī vaccharūdrācāryakṛtvā' is unclear: it may name a teacher, a reviser or the person who arranged the copy, and the name may be Vatsarudra. I have not checked the weekday against an ephemeris.",
+ "_meta": {
+  "reel": "C 6/7",
+  "model": "opus",
+  "cost_usd": 0.1044278,
+  "secs": 25.7
+ }
+}

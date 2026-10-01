@@ -1,0 +1,64 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Author name normalized from the corrupt 'Śaṅkūdhara' to Śaṅkhadhara, the known author of the Kavikarpaṭī (and of the Laṭakamelaka); confidence lowered to medium; 'kavirāja' kept as title.",
+   "Noted that 'tāropākhya' means 'surnamed/called Tāra' and that 'mahāmati' is a laudatory epithet, not a title.",
+   "Notes expanded: the catalogue's King Rājendravikrama Śāha (r. 1816–1847) is not in the quoted colophon, so he is not recorded as a person; his reign is given only as an unverified date range."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkavirājaśaṃkūdhara",
+   "name": "Śaṅkhadhara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkavirājaśaṃkūdharaviracito",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rāmacandroyaṃ tāropākhyo",
+   "name": "Rāmacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lilekha rāmacandroyaṃ tāropākhyo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'śaṃkūdhara' is very likely a corruption of Śaṅkhadhara (kavirāja Śaṅkhadhara, author of the Laṭakamelaka, to whom the Kavikarpaṭī is attributed). The title is also corrupt: 'kavikarpaṭikaracanā' should be Kavikarpaṭīracanā. The scribe Rāmacandra is described as 'tāropākhya', meaning surnamed or called Tāra; the catalogue gives 'tārā'. 'mahāmati' is an epithet. The catalogue lists King Rājendravikrama Śāha (r. 1816–1847 CE), but he is not named in the quoted colophon, and the colophon has no date. If the catalogue is right, the manuscript would date to c. 1816–1847 CE. This is not verified from the colophon.",
+ "_meta": {
+  "reel": "B 310/30",
+  "model": "opus",
+  "cost_usd": 0.1068046,
+  "secs": 20.5
+ }
+}

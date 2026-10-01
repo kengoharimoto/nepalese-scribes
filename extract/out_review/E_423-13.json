@@ -1,0 +1,45 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": []
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībrahmarājena",
+   "name": "Brahmarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiteyaṃ puṣṭikā (!), śrībrahmarājena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 871 māghakṛṣṇāmāvāśyā, bṛhaspativāre",
+  "era": "NS",
+  "year": "871",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "amāvāsyā",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1751"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is not named, but \"saṃvat 871\" in a Newari-script manuscript is almost certainly Nepāla Saṃvat (NS). NS 871 + 880 = 1751. In NS 871, Māgha falls in January–February 1751. The catalogue gives the ruler as \"Queen Śrīmahārājarājeśvarī\", but the quoted colophon names no monarch. That title may come from another part of the manuscript, so no ruler is recorded here. \"puṣṭikā\" is the cataloguer's (!) form of pustikā. The verses after the colophon (about the cakras and the directions) are text, not colophon material.",
+ "_meta": {
+  "reel": "E 423/13",
+  "model": "opus",
+  "cost_usd": 0.0600758,
+  "secs": 9.7
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed '27' from tithi: it follows a lacuna '(‥) 27', and 27 cannot be a tithi (a tithi number never exceeds 15, or 30 in continuous count). It is more likely a solar day (gate/miti) or an unrelated figure. Recorded in notes instead.",
+   "Widened date.as_written to the full date-bearing passage.",
+   "Expanded notes: VS 1833 and Śaka 1698 agree (both 1776/77 CE). The catalogue's scribe and donor roles are not supported by the colophon."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīyut sītārāmabhaṭṭasya",
+   "name": "Sītārāma",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sītārāmabhaṭṭasya pustakam idaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1833 ... (‥) 27 śāke 1698",
+  "era": "VS",
+  "year": "1833",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1776"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The two eras agree: VS 1833 − 57 = 1776 and Śaka 1698 + 78 = 1776, so the year is about 1776/77 CE. '(‥) 27' comes after a lacuna. It is probably a day number (for example a solar day, gate) with the month name lost, and is not a tithi. The colophon names Sītārāma Bhaṭṭa only as owner ('sītārāmabhaṭṭasya pustakam idaṃ'). The catalogue's 'Scribe' and 'Donor' entries for him are not supported by the text, although he may also have been the scribe. The text title is written 'līlataṃtre (!)' for Nīlatantra.",
+ "_meta": {
+  "reel": "A 161/7",
+  "model": "opus",
+  "cost_usd": 0.06582779999999999,
+  "secs": 12.5
+ }
+}

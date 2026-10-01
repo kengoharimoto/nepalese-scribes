@@ -1,0 +1,88 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Commentator's father: the standard Pīyūṣadhārā colophon calls Govinda the son of Nīlakaṇṭha jyotirvid (grandson of Ananta). The garbled 'murālekāranīkaṃ ṣjyoti(!)vidatputra(!)' most likely hides '...nīlakaṇṭhajyotirvitputra'. p2 is re-identified from Murāri to Nīlakaṇṭha, with low confidence; the 'daivajña' title is dropped as unsupported.",
+   "Date: 'puṇabhrarase' is not a valid year form. The chronogram probably reads pūrṇa(0)-abhra(0)-rasa(6), giving 600 when read right to left, so a digit is probably missing. The year is left uncertain and ce_approx stays empty.",
+   "Weekday: 'scavye' is probably a corruption of 'saumye' (Wednesday).",
+   "Scribe name 'yugajmavataiḥ' kept as low-confidence. The given name is now the form as written, not a reconstructed stem.",
+   "Notes rewritten to match."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "goviṃda",
+   "name": "Govinda",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "goviṃda jyotirvīdvaracitājyaṃ(!) muhūrttaciṃtāmaṇI ṭīkāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "murālekāranīkaṃ ṣjyoti(!)vid",
+   "name": "Nīlakaṇṭha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "murālekāranīkaṃ ṣjyoti(!)vidatputra(!)",
+   "confidence": "low"
+  },
+  {
+   "pid": "p3",
+   "as_written": "yugajmavataiḥ",
+   "name": "Yugajmavat",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitāṃ yugajmavataiḥ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "ṣjyoti(!)vidatputra(!) goviṃda"
+  }
+ ],
+ "date": {
+  "as_written": "śakepuṇa(!) bhrarasemāse ca māghasite || titherekādaśī scavye",
+  "era": "ŚS",
+  "year": "puṇa(!)bhrarase (pūrṇa-abhra-rasa? = …600, incomplete)",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "ekādaśī",
+  "weekday": "scavye (saumye = Wednesday?)",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon is badly corrupt. The commentator Govinda of the Pīyūṣadhārā (composed ŚS 1525 = 1603 CE) is the son of Nīlakaṇṭha jyotirvid and nephew of Rāma Daivajña, author of the Muhūrtacintāmaṇi. So 'murālekāranīkaṃ ṣjyoti(!)vidatputra' probably garbles '...nīlakaṇṭhajyotirvitputra', not Murāri. The Śaka chronogram 'puṇa(!) bhrarase' may stand for pūrṇa(0)-abhra(0)-rasa(6), which gives 600 when read right to left. A thousands digit seems to be missing; it may be ŚS 1600 = 1678 CE, but this is unverified. The copy must postdate 1603 CE. 'scavye' probably stands for 'saumye' (Wednesday). 'likhitāṃ yugajmavataiḥ' may hide the scribe's name or may be a further corrupt chronogram/phrase. The text author Rāma is not named in the colophon.",
+ "_meta": {
+  "reel": "B 342/3",
+  "model": "opus",
+  "cost_usd": 0.09764779999999999,
+  "secs": 28.7
+ }
+}

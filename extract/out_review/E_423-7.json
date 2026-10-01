@@ -1,0 +1,63 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Weekday normalised: 'roja 7 vāla' = 7th day, i.e. Saturday (roja = day); recorded as '7 (Saturday)' rather than 'roja 7'.",
+   "as_written for Kāśīnātha trimmed to the form as it appears (kāśinātha-), without śrī; stem normalised to Kāśīnātha.",
+   "Scribe confidence lowered to medium because the instrumental keśavasiṃhana stands next to the unclear 'dai iba bhe' and the clause only says the book was completed by him.",
+   "Date: the dated clause is still read as NS (century omitted) 28. The notes now explain the conflict with the catalogue's NS 591 (= 1471 CE) and give possible ce values."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkāśināthakṛtau",
+   "name": "Kāśīnātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkāśināthakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "keśavasiṃhana",
+   "name": "Keśavasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "thva saphūlasidha yakā dina juro || || dai iba bhe || keśavasiṃhana juro",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "591 || || || ||❖ samvat. 28 pauṣaśukla 12 roja 7 vāla",
+  "era": "NS",
+  "year": "28 (century omitted?); cf. 591",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "12",
+  "weekday": "7 (Saturday)",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives NS 591 (= 1471 CE), probably from the bare number '591' right after the text's closing words. That number has no 'samvat' and could instead be a grantha/verse count. The full date with tithi and weekday is 'samvat 28 pauṣa śukla 12, Saturday', which seems to have the century left out (e.g. NS 728 = 1608 CE or NS 828 = 1708 CE). The Persian loan 'roja' (day) and the Newari wording suggest the later Malla period rather than 1471, so ce_approx is left empty. If 591 is the year, the copy dates to 1471 CE. A weekday check of Pauṣa śu. 12 against NS 591 and 728/828 could settle this. 'thva saphū lasidha yakā dina juro' = 'this is the day the book was completed'. 'dai iba bhe' is unclear (perhaps corrupt; maybe a title like daivajña, or a place or a relative). Keśavasiṃha is taken as the scribe on the strength of the instrumental 'keśavasiṃhana juro', as the catalogue also has it.",
+ "_meta": {
+  "reel": "E 423/7",
+  "model": "opus",
+  "cost_usd": 0.09390380000000001,
+  "secs": 26.1
+ }
+}

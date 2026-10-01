@@ -1,0 +1,65 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2: removed residence 'Vārāṇasī'. The colophon only gives it as the place of copying, not as where the scribe lives.",
+   "p2: changed title 'pāṇḍya' to 'Paṃḍyā (upākhya, surname)', following paṃḍyopākhya = 'surnamed Paṇḍyā'.",
+   "Notes: added that the era is written only as 'saṃvat'; VS is inferred from the place and the weekday check."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahādeva",
+   "name": "Mahādeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahādevakṛta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "paṃḍyopākhyadevanaṃdaśarmaṇā",
+   "name": "Devananda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "Paṃḍyā (upākhya, surname)",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṃḍyopākhyadevanaṃdaśarmaṇā pustakam idaṃ likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1906 mārgaśīrṣaśukla5 caṃdravāsare",
+  "era": "VS",
+  "year": "1906",
+  "month": "mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "caṃdravāsare (Monday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1849"
+ },
+ "place": {
+  "as_written": "vārāṇasyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The era is written only as 'saṃvat'. The catalogue gives ŚS 1906, but that would be 1984 CE, which is impossible here. Vikrama Saṃvat 1906 fits a Vārāṇasī copy: Mārgaśīrṣa śukla 5 falls around 19 November 1849, and that date was a Monday, which matches candravāsara. 'paṃḍyopākhya' means 'having the surname Paṇḍyā'. The scribe's residence is not stated; Vārāṇasī is only the place of copying.",
+ "_meta": {
+  "reel": "B 345/17",
+  "model": "opus",
+  "cost_usd": 0.06565180000000001,
+  "secs": 15.3
+ }
+}

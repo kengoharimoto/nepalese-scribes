@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Chronogram resolved: 'nobhranaya' read as nabho- (nabhas = 0) + nayana (2), with muni (7); read right to left this gives 720, not the two alternatives the first reading offered",
+   "Era set to 'unspecified' because the colophon names no era; NS assumed on palaeographic and historical grounds, giving ce_approx c. 1600",
+   "Year field normalized to '720'",
+   "Title 'śrīvāstaka' normalized to Śrīvāstavya (the Kāyastha subcaste); note added that Hedayasiṃha probably stands for Hṛdayasiṃha"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvāṣṭaka (!) kāyasta (!) hedayasiṃhena",
+   "name": "Hedayasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "Śrīvāstavya",
+    "kāyastha"
+   ],
+   "affiliation": "Śrīvāstavya Kāyastha",
+   "residence": "",
+   "evidence": "likhita śrīvāṣṭaka (!) kāyasta (!) hedayasiṃhena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nobhranaya (!) munivarṣe māsasyaśrāvaṇastathā śitapakṣe tṛrodaśī (!) samāptaṃ kuca dinena",
+  "era": "unspecified",
+  "year": "720",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1600"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The chronogram 'nobhranaya munivarṣe' is best read as nabho (0) + nayana (2) + muni (7). Read right to left, this gives 720. The colophon states no era. NS 720 (c. 1600 CE) is assumed because the manuscript is in Newari script; VS or ŚS 720 would be far too early. 'śrīvāṣṭaka' is a corruption of Śrīvāstavya/Śrīvāstava, a Kāyastha subcaste. 'kuca dina' stands for kujadina, i.e. Tuesday. The scribe's name 'Hedayasiṃha' (as in the catalogue) probably represents Hṛdayasiṃha. The tithi is śukla 13 (śitapakṣe = sitapakṣe). The weekday has not been verified against an ephemeris.",
+ "_meta": {
+  "reel": "B 337/27",
+  "model": "opus",
+  "cost_usd": 0.07390379999999999,
+  "secs": 20.0
+ }
+}

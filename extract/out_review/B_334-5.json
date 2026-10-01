@@ -1,0 +1,75 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 name corrected from 'Kṛṣṇavāṇaka' to 'Kṛṣṇa': 'vāṇaka' is very likely a corrupt 'gaṇaka' (an occupational title), so it is moved to titles. This fits the first reading's own note and the known author Kṛṣṇa Daivajña, son of Ballāla.",
+   "p2 confidence lowered to medium because the name rests on an emendation.",
+   "p1 Vallāla kept as relative_only (father of the commentator). Ballāla is noted as the usual spelling.",
+   "Notes expanded: there are no copy-specific persons, date or place."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vallāladaivajña",
+   "name": "Vallāla",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "sakalagaṇakasārvabhauma",
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsakalagaṇakasārvabhaumaśrīvallāladaivajña tatsuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kṛṣṇavāṇaka",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "gaṇaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tatsuta kṛṣṇavāṇakaviracite",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "vallāladaivajña tatsuta kṛṣṇavāṇakaviracite"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "This is only a section colophon ('karaṇisaḍvidhavipa(!)raṇaṃ' = karaṇīṣaḍvidhavivaraṇam) from the Bījavivṛtikalpalatāvatāra (Bījapallava/Bījāṅkura), Kṛṣṇa Daivajña's commentary on Bhāskara's Bījagaṇita. It names only the commentator and the commentator's father, Ballāla (written vallāla). The 'kṛṣṇavāṇaka' in the colophon is most likely a scribal corruption of 'kṛṣṇagaṇaka'. The colophon gives no scribe, owner, date or place for this copy.",
+ "_meta": {
+  "reel": "B 334/5",
+  "model": "opus",
+  "cost_usd": 0.050497,
+  "secs": 13.9
+ }
+}

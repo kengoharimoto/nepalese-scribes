@@ -1,0 +1,68 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2: as_written trimmed to the name compound; titles normalised to bhaṭṭa (written bhaṭa), Moḍha (Gujarati brahmin caste: Moḍha brāhmaṇa) and trivedin (the corrupt '(!) nivedinā' read as trivedinā, as the catalogue's 'Trivedī' suggests). The scribe's name Vidyādhara stays high confidence.",
+   "date: month normalised to Vaiśākha (written vaiśāṣa); weekday given as Thursday",
+   "notes expanded: the ŚS year matching VS 1716 would be 1581; possible Gujarati origin of the scribe"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhāskarācārya",
+   "name": "Bhāskara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhāskarācāryaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaṭavidyādharamoḍha (!) nivedinā",
+   "name": "Vidyādhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa",
+    "Moḍha",
+    "trivedin"
+   ],
+   "affiliation": "Moḍha brāhmaṇa",
+   "residence": "",
+   "evidence": "lkhitam idaṃ pustakaṃ bhaṭavidyādharamoḍha (!) nivedinā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1716 śake 1591 vaiśāṣakṛṣṇatṛtīyā gurau",
+  "era": "VS",
+  "year": "1716",
+  "month": "Vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "tṛtīyā",
+  "weekday": "Thursday (gurau)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1659"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The two eras conflict. VS 1716 is c. 1659 CE and should correspond to ŚS 1581, but the colophon gives ŚS 1591, which is c. 1669 CE (equal to VS 1726). One of the two years is probably a slip; this record follows VS 1716, so 1669 is also possible. Checking the weekday (Thursday) against Vaiśākha kṛṣṇa 3 in each candidate year could settle it. The scribe's designation is corrupt: 'bhaṭavidyādharamoḍha (!) nivedinā' is best read as bhaṭṭa-vidyādhara-moḍha-trivedinā, i.e. Bhaṭṭa Vidyādhara, a Moḍha brahmin and Trivedin. Moḍha is a Gujarati brahmin community, so the copy may come from western India and not Nepal. The colophon names no place.",
+ "_meta": {
+  "reel": "B 356/27",
+  "model": "opus",
+  "cost_usd": 0.0771838,
+  "secs": 18.4
+ }
+}

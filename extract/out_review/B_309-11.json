@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Notes expanded: ŚS 1724 (+78) and VS 1859 (−57) both give 1802 CE, so the eras agree",
+   "Notes: the colophon closes the commentary (ṭīkā) on sarga 7 and does not name the commentator",
+   "Notes: 'śatabhiṣaṃti' is read as the nakṣatra Śatabhiṣā, which is plausible for Vaiśākha kṛṣṇa 10"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkavikālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkavikālidāsakṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1724 samvat 1859 vaiśākhamāse kṛṣṇapakṣe daśamyāṃ tithau maṃgalavāsareasya samāptiriti(śatabhiṣaṃti)",
+  "era": "ŚS",
+  "year": "1724",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī",
+  "weekday": "maṅgalavāsara",
+  "nakshatra_yoga": "śatabhiṣā",
+  "ce_approx": "1802"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives the scribe as Viṣṇudāsa, but that name is not in the quoted colophon. It may come from another part of the manuscript, so it is left out here. The colophon gives two eras: Śaka 1724 and Vikrama saṃvat 1859. They agree, since both give 1802 CE (April–May, Vaiśākha kṛṣṇa 10, a Tuesday). The colophon closes the commentary (ṭīkā) on sarga 7 and does not name the commentator. 'śatabhiṣaṃti' is probably a corrupt mention of the nakṣatra Śatabhiṣā. That is astronomically plausible for this tithi.",
+ "_meta": {
+  "reel": "B 309/11",
+  "model": "opus",
+  "cost_usd": 0.409928,
+  "secs": 13.3
+ }
+}

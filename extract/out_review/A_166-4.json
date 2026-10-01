@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Author confidence lowered to medium: 'Bhairavācārya' may stand for the god Bhairava as the revealer of the tantra rather than a human author",
+   "Date: added VS 1914 to as_written/notes; checked that both eras give 1857 CE; weekday given as Tuesday",
+   "Notes expanded"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhairavācārya",
+   "name": "Bhairavācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhairavācāryaviracitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1779 śrīsaṃvat 1914 sāla miti śrāvaṇavadi 1 roja 3",
+  "era": "ŚS",
+  "year": "1779",
+  "month": "Śrāvaṇa",
+  "paksa": "kṛṣṇa (vadi)",
+  "tithi": "1",
+  "weekday": "Tuesday (roja 3)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1857"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives two dates, ŚS 1779 and VS 1914. Both give 1857 CE (1779+78, 1914−57), so they agree. The catalogue names Jitānanda as scribe, but that name is not in the quoted colophon. It may come from another part of the manuscript, so it has not been added as a person. The attribution to 'Bhairavācārya' may refer to the god Bhairava as the speaker of the tantra rather than a historical author. 'dvāviṃśatiḥ' is marked (!) by the cataloguer; the chapter number is 22.",
+ "_meta": {
+  "reel": "A 166/4",
+  "model": "opus",
+  "cost_usd": 0.0688078,
+  "secs": 13.6
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "purpose cleared: 'saṃni saṃsthiti coyā ... svarggavāsa lāyu' is a Newari note recording a death (someone went to heaven, svargavāsa), not a statement of purpose for the copy",
+   "date: weekday normalized to 'roja 3 (Tuesday)'; paksa normalized to śukla (śudi)",
+   "notes expanded: the catalogue's king Bhūpālendra (Bhaktapur, reigned c. 1687–1696 CE) is anachronistic for NS 977 = 1857 CE; the death note is lacunose and the deceased person's name is lost"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "amarasiṃha",
+   "name": "Amarasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "amarasiṃhāksaraṃ śubhaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 977 śālamiti caitraśudi 4 roja 3",
+  "era": "NS",
+  "year": "977",
+  "month": "Caitra",
+  "paksa": "śukla (śudi)",
+  "tithi": "4",
+  "weekday": "roja 3 (Tuesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1857"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date uses the Persian-style formula 'śālamiti … roja 3' (year-date … weekday 3 = Tuesday). Caitra śukla 4 of NS 977 falls in March/April 1857 CE. The date is followed by a lacunose Newari note, 'saṃni saṃsthiti coyā ... svarggavāsa lāyu'. It appears to record that someone died (went to heaven) on this date, but the name is lost in the lacuna. So the date may be the date of that death note rather than the date of copying. The catalogue gives the date of copying as NS 977, which suggests the cataloguer took this as the copying date. The catalogue's king, Bhūpālendra(malla), is not in the quoted colophon. He reigned in Bhaktapur c. 1687–1696 CE, which does not fit 1857 CE, so the catalogue field is probably wrong or comes from elsewhere in the manuscript.",
+ "_meta": {
+  "reel": "A 161/19",
+  "model": "opus",
+  "cost_usd": 0.0722758,
+  "secs": 15.1
+ }
+}

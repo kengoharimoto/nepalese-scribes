@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Name normalized from 'Padamāpati' to 'Padmāpati'. 'padamā-' is read as svarabhakti spelling of 'padmā-', and 'padamāpatinamidaṃ' as 'padmāpatinā idaṃ'. Confidence lowered to medium because the cataloguer marked the form (!).",
+   "Evidence shortened to the relevant substring.",
+   "Purpose reworded: the 'anena prīyatāṃ...' line is a dedicatory formula, not a statement of purpose.",
+   "Notes added on the era mismatch: VS 1830 normally corresponds to ŚS 1695, not 1696, so 1696 is probably the current (vartamāna) year. Notes also cover the name reading and the lacuna."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "padamāpatinam(idaṃ)",
+   "name": "Padmāpati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ (!) padamāpatinamidaṃ (!)",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1830 śāke 1696 phālgunakṛṣṇapratipadā",
+  "era": "VS",
+  "year": "1830",
+  "month": "Phālguna",
+  "paksa": "kṛṣṇa",
+  "tithi": "pratipadā (1)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1774"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "dedicatory formula: anena prīyatāṃ devo bhagavān pārvatīpatiḥ",
+ "notes": "Date: Phālguna of VS 1830 (Caitrādi) falls in February/March 1774 CE. The usual equivalent would be ŚS 1695 (expired), so the stated ŚS 1696 is probably the current (vartamāna) Śaka year. This is a one-year mismatch between the two eras, not a real conflict; both point to about 1774 CE. Name: the corrupt 'padamāpatinamidaṃ' is read as 'padmāpatinā idaṃ (pustakam)', giving the instrumental of Padmāpati (the catalogue has Padamāpati). The verse naming Viśvanātha as kuladaivata has a lacuna; it refers to a deity, not a person. 'pusta°°' is truncated, presumably for pustakam.",
+ "_meta": {
+  "reel": "C 21/2",
+  "model": "opus",
+  "cost_usd": 0.07616780000000001,
+  "secs": 18.2
+ }
+}

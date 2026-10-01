@@ -1,0 +1,113 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2–p4: dropped 'relative_only'. They have a real role as beneficiaries because the protection is asked for the whole family ('sakalaparivārasya rakṣā'), so 'relative_only' does not apply.",
+   "p1: kept 'donor' because the colophon calls him 'dānapati-jajamāna'. Added the possible normalised form Mānavīra in notes.",
+   "Date: weekday given as Sunday ('roja 1'). ce_approx 1884 confirmed: Kārttika kṛṣṇa falls at the end of NS 1004, i.e. Oct/Nov 1884.",
+   "Purpose rewritten as a short English summary.",
+   "Place: noted that the stated vihāra is the commissioner's residence, not explicitly the place of copying.",
+   "Notes: added that the colophon calls the book a 'karavīratantra', that the scribe is not named, and that 'Bāhādurasīṃ' = Bahādurasiṃha."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśākyabhikṣumānaviraḥ",
+   "name": "Mānavira",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "Mañjuśrīnavakamahāvihāra",
+   "residence": "Kāṣṭamaṇḍapa (Kathmandu), Nepālamaṇḍala",
+   "evidence": "dānapatijajamāna ... śrīśākyabhikṣumānaviraḥ ... likhāyitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "harṣamāna",
+   "name": "Harṣamāna",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "prathamaputraharṣamāna ... sakalaparivārasya rakṣā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "jitamāna",
+   "name": "Jitamāna",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvitiyaputrajitamāna",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "bāhādurasīṃ",
+   "name": "Bahādurasiṃha",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tṛtiyaputrabāhādurasīṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "prathamaputraharṣamāna"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "dvitiyaputrajitamāna"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "tṛtiyaputrabāhādurasīṃ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1004 mti kārttikakṛṣṇayā 11 roja 1",
+  "era": "NS",
+  "year": "1004",
+  "month": "Kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "Sunday (roja 1)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1884"
+ },
+ "place": {
+  "as_written": "nepālamaṇḍale kāṣṭamaṇḍapamahānagare mañjuśrīnavakamahāvihārāt vasthita",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "for the protection and liberation of the commissioner and his whole family, and the merit for the liberation of all beings",
+ "notes": "The catalogue field says SAM 1007, but the colophon clearly reads 'samvat 1004'. The era is not stated; NS is inferred from the Newari script and the Newari wording ('mti', 'coyā'). NS 1004 + 880 = 1883/84; Kārttika kṛṣṇa comes at the end of the NS year, so the copy dates to about Oct/Nov 1884. The colophon calls the book 'karavīrataṃtrapustakaṃ' while the explicit names it the Caṇḍamahāroṣaṇatantra. The scribe is not named; the closing verse ('yādṛṣṭaṃ ... leṣaka doṣa nāsti') is a stock formula. 'Mānaviraḥ' is probably Mānavīra. 'Bāhādurasīṃ' is the Newari spelling of Bahādura-siṃha. The vihāra is given as Mānavira's residence ('vasthita'), which may not be where the copy was made.",
+ "_meta": {
+  "reel": "C 18/7a",
+  "model": "opus",
+  "cost_usd": 0.10283980000000001,
+  "secs": 27.6
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: the final -ṭa in 'śrītrivikrameśādaṭa' is most likely the Newari dative ending ('for/to'). The book is therefore for Trivikrama..., not written by him. Roles changed from scribe+owner to owner. The scribe is not named.",
+   "p1 name: best reading is 'Trivikrama' (stem uncertain: perhaps Trivikrameśa or Trivikramadatta). Confidence lowered to low.",
+   "Residence/place: 'lānihma vāsinā' is unclear. It may be a Newari verb form ('handed over'?) and not a toponym. Removed 'Lānihma' as residence and as place of copying; explained in notes.",
+   "Purpose set to: book for Trivikrama (dative).",
+   "Date confirmed: NS 804 phālguṇa śukla 9, Friday, about 1684 CE (Feb/Mar)."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrītri(30r6)vikrameśādaṭa",
+   "name": "Trivikrama",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vāsinā śrītri(30r6)vikrameśādaṭa puṣṭakam iti",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 804 phālguṇa śikla pakṣe navamyāntithau śukravāra",
+  "era": "NS",
+  "year": "804",
+  "month": "phālguṇa",
+  "paksa": "śukla",
+  "tithi": "navamī",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1684"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "book for Trivikrama (dative -ṭa)",
+ "notes": "'śrītrivikrameśādaṭa' is corrupt. It most likely reads Trivikrama(-īśa/-datta?) plus the Newari dative -ṭa (= -yāta), meaning 'the book for Trivikrama...'. If so, he is the recipient/owner and the scribe is unnamed. 'lānihma vāsinā' is obscure: it could be '(the) resident of Lāni' or a Newari verb phrase. It is not taken as the place of copying. Everything after 'iti || ||' is a later addition: a Gaṅgā dhyāna 'from the Rudrayāmala' and Newari iconographic notes. These do not name anyone connected with this copy. 'śikla' = śukla.",
+ "_meta": {
+  "reel": "C 82/12",
+  "model": "opus",
+  "cost_usd": 0.0807678,
+  "secs": 20.3
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Nakṣatra corrected from Viśākhā to Anurādhā ('ñnulādhārakṣetra' = anurādhā-nakṣatra; consistent with the moon in Vṛścika). Yoga tentatively read as Viṣkambha ('visaṣaṃ').",
+   "Date as_written extended to include the sun and moon positions.",
+   "Place normalization 'Kathmandu' removed: the locality string (Dugaṃ vahi / tavāhā(l)) is corrupt and not certainly identified. It is the scribe's residence, not an explicit statement of where the copy was made.",
+   "Scribe confidence lowered to medium because the catalogue gives Dharmaratna; the colophon reads Dhanaratnabhadra.",
+   "Notes expanded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrāvajācāryya, dhanaratnabhadrana",
+   "name": "Dhanaratnabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "dugaṃvahite tavāhārapine kaladhukṣasa",
+   "evidence": "riṣitaṃ, dugaṃvahite tavāhārapine kaladhukṣasaconakṣya, śrāvajācāryya, dhanaratnabhadrana, durggatipariśodhana saphari, cosyaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 984 miti bhādravaśukla,savatamīñnulādhārakṣetra,visaṣaṃ vijābhā, bṛsapativārasahade, siṃdyarāsigate bhāsakare, viccharāsigate caṃdramasi",
+  "era": "NS",
+  "year": "984",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "7 (saptamī)",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "Anurādhā nakṣatra; yoga Viṣkambha? (visaṣaṃ, uncertain); sun in Siṃha, moon in Vṛścika",
+  "ce_approx": "1864"
+ },
+ "place": {
+  "as_written": "dugaṃvahite tavāhārapine kaladhukṣasa",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is not named, but 'samvat 984' with Newari-language wording is read as Nepāla Saṃvat (984 + 880 = 1864 CE). The catalogue gives the scribe as Dharmaratna Vajrācārya, but the quoted colophon reads 'dhanaratnabhadrana' (-na is the Newari ergative ending). The name may be Dhanaratna with -bhadra added, or the catalogue may have misread it. The locality string 'dugaṃvahite tavāhārapine kaladhukṣasaconakṣya' is corrupt. It seems to say that the scribe lived (conakṣya ≈ coṃmha) at some bahī/bāhā locality, possibly Dugaṃ Bahī. It is not identified with certainty, and it is not explicitly the place of copying. The 'deyadharmo 'yaṃ' phrase is the standard formula and names no donor. The transcription 'visaṣaṃ vijābhā' is unclear.",
+ "_meta": {
+  "reel": "C 18/7b",
+  "model": "opus",
+  "cost_usd": 0.07500499999999999,
+  "secs": 23.3
+ }
+}

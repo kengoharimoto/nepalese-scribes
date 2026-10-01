@@ -1,0 +1,47 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. I expanded the note on dating: the colophon says only 'saṃ', and the date is read as Nepal Saṃvat."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdāmodareṇa",
+   "name": "Dāmodara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdāmodareṇa likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 850 phālguṇakṛṣṇa pañcamyāntithau guruvāsare",
+  "era": "NS",
+  "year": "850",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "pañcamī",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1730"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives only 'saṃ 850' with no era name. The catalogue has 'VS 850', which would be about 793 CE. That is implausible for a paper manuscript in Newari script. Read as Nepal Saṃvat, NS 850 is about 1730 CE (Phālguna, February/March 1730). This is the usual reading of a bare three-digit 'saṃ' in Newari-script colophons. The weekday (Thursday) has not been checked against an ephemeris. The colophon ends the Anudyūtaparvan section of the Sabhāparvan ('77' is a section/chapter number).",
+ "_meta": {
+  "reel": "E 1706/7",
+  "model": "opus",
+  "cost_usd": 0.060739800000000004,
+  "secs": 10.0
+ }
+}

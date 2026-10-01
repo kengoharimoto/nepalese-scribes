@@ -1,0 +1,130 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2: name normalised to stem 'Darikhāna' (= Daryā Khān); the final '-daṃ' in 'darikhānadaṃ (!)' is treated as corruption and not part of the name; confidence lowered to low",
+   "p3: 'owner' added beside 'commissioner', since he had the copy made 'ātmapāṭhanārthe' (for his own reading)",
+   "p5: 'śrīvāstavya' also added to titles as the Kāyastha subcaste",
+   "date: month and pakṣa normalised (Āṣāḍha, kṛṣṇa/vadi); VS 1561 = c. 1504 CE confirmed",
+   "purpose rewritten in clearer words; notes expanded (place identification, 'sārṣe', reading of the father's name)"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mihiraśrīvarāha",
+   "name": "Varāhamihira",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mihiraśrīvarāhaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "darikhānadaṃ",
+   "name": "Darikhāna",
+   "roles": [
+    "governor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "darikhānadaṃ (!) bhujyamāne",
+   "confidence": "low"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrībahrorana",
+   "name": "Bahrorana",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "satpaṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "satpaṃḍita śrībahrorana ātmapāṭhanārthe pustaka liṣāpitaṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "paṃḍi/// nīdhara",
+   "name": "[...]nīdhara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṃḍi/// nīdharasutaḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p5",
+   "as_written": "bhāgīrathī",
+   "name": "Bhāgīrathī",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha",
+    "śrīvāstavya"
+   ],
+   "affiliation": "Śrīvāstavya (Kāyastha)",
+   "residence": "",
+   "evidence": "kāyasṭha śrīvāstavya paṃḍi/// nīdharasutaḥ bhāgīrathī lekhi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "nīdharasutaḥ bhāgīrathī"
+  },
+  {
+   "from": "p5",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "śrībahrorana ātmapāṭhanārthe pustaka liṣāpitaṃ (!) || ... bhāgīrathī lekhi"
+  },
+  {
+   "from": "p5",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "darikhānadaṃ (!) bhujyamāne"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1561 sārṣe āṣāḍha vadi 10 śukravāsare",
+  "era": "VS",
+  "year": "1561",
+  "month": "Āṣāḍha",
+  "paksa": "kṛṣṇa (vadi)",
+  "tithi": "10",
+  "weekday": "Friday (śukravāsare)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1504"
+ },
+ "place": {
+  "as_written": "śrīkaroenagare ṇṭhanagare",
+  "normalized": ""
+ },
+ "purpose": "commissioned by Bahrorana for his own study (ātmapāṭhanārthe)",
+ "notes": "The manuscript is North Indian, not Nepalese: it was copied by a Śrīvāstava Kāyastha under a Muslim governor. Because of this, plain 'saṃvat' is taken as VS (1561 − 57 = c. 1504 CE). 'sārṣe' is unclear; it is possibly a corruption, and it does not affect the era. 'darikhānadaṃ (!) bhujyamāne' most likely means 'while Daryā Khān was ruling/holding [the place]', i.e. a local Lodi-period governor, and the '-daṃ' is probably a corruption. The place reading 'śrīkaroenagare ṇṭhanagare' looks like a corrected dittography; the cataloguer reads it as Śrīkaṇṭhanagara. Śrīkaṇṭha is a traditional name for the Thanesar/Kurukṣetra region, but that identification is uncertain, so normalized is left empty. The father's name is damaged ('paṃḍi/// nīdhara'); it may be Dharaṇīdhara or similar. The catalogue's 'bhāgīrathī' is the scribe's personal name; 'Śrīvāstava' is his Kāyastha subcaste. The commissioner's name 'Bahrorana' is uncertain and may be corrupt.",
+ "_meta": {
+  "reel": "B 333/37",
+  "model": "opus",
+  "cost_usd": 0.08630499999999999,
+  "secs": 30.6
+ }
+}

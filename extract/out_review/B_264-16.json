@@ -1,0 +1,79 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Vyāsa: as_written/evidence kept; 'vaiyāsikyāṃ' is an adjective of saṃhitā ('of Vyāsa'), so author attribution stays, confidence lowered to medium",
+   "p2 Rāmabhadra: kept as scribe with title dvija; notes now cover the alternative reading of 'dvuja'",
+   "p3 Rāmakṛṣṇa: kept as possible co-scribe (low); possible son_of reading added to notes",
+   "purpose: changed from the bare word to an explanation: rājapustaka marks the copy as belonging to the king or royal library, which is an ownership statement and not a named beneficiary",
+   "date: month 12 read as Phālguna (counting from Caitra) and weekday 7 as Saturday; ce_approx refined to 1766–67, since Phālguna ŚS 1688 falls in Feb–Mar 1767"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vaiyāsikyāṃ",
+   "name": "Vyāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "saṃhitāyāṃ vaiyāsikyāṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rāmabhadradvuja",
+   "name": "Rāmabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhita rāmabhadradvuja",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rāmakṛṣṇa",
+   "name": "Rāmakṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhita rāmabhadradvuja rāmakṛṣṇa",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1688 vāre 7 māse 12",
+  "era": "ŚS",
+  "year": "1688",
+  "month": "12 (Phālguna if counted from Caitra)",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "Saturday (vāra 7)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1766–67"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "royal copy (śrīrājapustakaṃ), made for the king or the royal library",
+ "notes": "'rāmabhadradvuja' is corrupt. It most likely stands for 'rāmabhadradvija', meaning the brahmin Rāmabhadra, which is how the catalogue reads it too. It could also hide a kinship word such as '-tanuja' or '-ātmaja'. In that case the phrase would mean 'Rāmakṛṣṇa, son of Rāmabhadra', and Rāmakṛṣṇa alone would be the scribe. The relation between the two men is therefore left unrecorded. 'śrīrājapustakaṃ' marks the book as royal property, but no king is named. In ŚS 1688 (1766–67 CE) the Kathmandu Valley was being conquered by the Gorkhā ruler Pṛthvīnārāyaṇa Śāha, but nothing in the colophon says which court is meant. If 'month 12' is counted from Caitra it is Phālguna, which falls in early 1767 CE. If it is counted from Mārgaśīrṣa it is Kārttika, which falls in 1766 CE.",
+ "_meta": {
+  "reel": "B 264/16",
+  "model": "opus",
+  "cost_usd": 0.0859278,
+  "secs": 21.3
+ }
+}

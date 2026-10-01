@@ -1,0 +1,88 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Lowered p3 (scribe) confidence from high to medium: 'vyāsodaya kṛṣṇena' could be read either as Vyāsa Udayakṛṣṇa or as Kṛṣṇa (the catalogue gives Kṛṣṇavyāsa). Udayakṛṣṇa is kept as the preferred reading.",
+   "Lowered p2 confidence to medium because the case form 'sūnūnā' is corrupt (for sūnunā).",
+   "Added a check of the samvatsara: Prabhava matches VS 1734 = 1677 CE in the northern (Bārhaspatya) reckoning.",
+   "Specified that 24 Oct 1677 is a Julian date (= 3 Nov 1677 Gregorian). Moon-phase and weekday checks agree with śukla 9 and Wednesday.",
+   "Expanded the notes."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhāravi-",
+   "name": "Bhāravi",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāravikṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vyāsa śrīmadhusūdana-",
+   "name": "Madhusūdana",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "vyāsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vyāsa śrīmadhusūdanasūnūnā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vyāsodaya kṛṣṇenā-",
+   "name": "Udayakṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vyāsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vyāsodaya kṛṣṇenālekhi",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "vyāsa śrīmadhusūdanasūnūnā vyāsodaya kṛṣṇenā"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvatsaptadaśottaracatustriṃśattame varṣe prabhavanāmni saṃvatsare kārtike māsi sitepakṣe navamyāṃ budhavāsare",
+  "era": "VS",
+  "year": "1734",
+  "month": "Kārttika",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1677"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The phrase 'saptadaśottaracatustriṃśattame' means 1734 (17 hundreds + 34). The catalogue's 'SAM (ŚS) 1754' looks like a misreading or typo. ŚS 1754 (1832 CE) would not be a Prabhava year in either cycle. 'Saṃvat' with Prabhava fits VS 1734 = 1677 CE: in the northern Bārhaspatya reckoning 1677 was Prabhava (the southern-cycle Prabhava was 1687). Kārttika śukla 9 falls on about 24 Oct 1677 Julian (= 3 Nov 1677 Gregorian), which was a Wednesday. That matches budhavāsara, and the moon was about 8 days past new moon. Scribe name: 'vyāsodaya kṛṣṇena' is read as Vyāsa Udayakṛṣṇa, son of Vyāsa Madhusūdana. The catalogue's 'Kṛṣṇavyāsa' takes only the second element, so 'udaya' might not be part of the name. 'sūnūnā' should be sūnunā. The invocation 'śrīviśveśo vijayatetarām' may point to a Vārāṇasī (Viśveśvara) milieu, but no place of copying is stated.",
+ "_meta": {
+  "reel": "B 317/18",
+  "model": "opus",
+  "cost_usd": 0.1114438,
+  "secs": 36.7
+ }
+}

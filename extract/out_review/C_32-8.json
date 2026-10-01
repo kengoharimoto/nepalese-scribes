@@ -1,0 +1,90 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p3: name changed from 'Nārāyaṇa Śarman' to 'Nārāyaṇa'. 'śarman' is a brahmin suffix, so it stays only in titles.",
+   "purpose: emptied. 'īśvarechayā' (by the will of God) is a pious formula, not a statement of purpose (svārtha/parārtha etc.).",
+   "notes: added remarks on the grammar of the scribal verse and on the tulārke reading."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvāgīśvarabhaṭṭācāryya",
+   "name": "Vāgīśvara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvāgīśvarabhaṭṭācāryyaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mahāmahopādhyāya rāmajīvanatarkālaṃkārabhaṭṭācāryya",
+   "name": "Rāmajīvana",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "tarkālaṃkāra",
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmajīvanatarkālaṃkārabhaṭṭācāryyātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīnārāyaṇaśarmā",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnārāyaṇaśarmāhaṃ vyalikhad",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "rāmajīvanatarkālaṃkārabhaṭṭācāryyātmajaśrīvāgīśvara"
+  }
+ ],
+ "date": {
+  "as_written": "†turārke† sitapakṣe vai tṛtīyāyāṃ śanau",
+  "era": "none",
+  "year": "",
+  "month": "Tulā (solar; reading tulārke for †turārke†)",
+  "paksa": "śukla (sita)",
+  "tithi": "tṛtīyā",
+  "weekday": "Saturday (śani)",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The cataloguer marks '†turārke†' as corrupt. The probable reading is 'tulārke' ('when the sun is in Tulā'), which would give the solar month Tulā, roughly October–November. The colophon gives no year and no era, so the copy cannot be dated from it. The scribal verse mixes persons: 'nārāyaṇaśarmāhaṃ' is first person, but 'vyalikhad' is third person (as is 'sudhīḥ'); it is a metrical, ungrammatical verse, and the scribe is still clearly Nārāyaṇa. The colophon names the author as Vāgīśvara Bhaṭṭācārya, son of Mahāmahopādhyāya Rāmajīvana Tarkālaṃkāra Bhaṭṭācārya. The Bhaṭṭācārya title probably points to a Bengali scholarly family. The catalogue's scribe field (Nārāyaṇa Śarmā) agrees with the colophon.",
+ "_meta": {
+  "reel": "C 32/8",
+  "model": "opus",
+  "cost_usd": 0.0766718,
+  "secs": 14.5
+ }
+}

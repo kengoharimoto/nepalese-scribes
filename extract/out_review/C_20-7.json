@@ -1,0 +1,72 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name normalized from 'Haribhaṭṭācārya' to 'Hari' (bhaṭṭācārya is a title, already in titles)",
+   "Notes expanded: the Vandyaghaṭīya affiliation, the date and the corrupt tail"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīharibhaṭṭācāryyātmaja",
+   "name": "Hari",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "Vandyaghaṭīya",
+   "residence": "",
+   "evidence": "śrīharibhaṭṭācāryyātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīraghunandanabhaṭṭācāryyaviracitaṃ",
+   "name": "Raghunandana",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "Vandyaghaṭīya",
+   "residence": "",
+   "evidence": "śrīraghunandanabhaṭṭācāryyaviracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīharibhaṭṭācāryyātmajaśrīraghunandanabhaṭṭācāryya"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 842 māghe māsi śukle pakṣe śrīpaṃcamyām tithau bṛhaspativāsare",
+  "era": "NS",
+  "year": "842",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "bṛhaspativāsara (Thursday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1722"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is not stated, but the catalogue gives NS. With NS 842, Māgha falls in January/February 1722 CE. The weekday has not been checked against a calendar. The cataloguer corrected 'vaṃdhya' to 'vaṃdya' (Vandyaghaṭīya). This is the Bengali Brahmin gāñī (Bandyopādhyāya) of the author Raghunandana, and here it is also applied to his father. The post-colophonic sequence '†eśrī suda || rṇa etenali || ekhi || etaṃ ||†' is marked corrupt. It may hide a scribe's or owner's name, but none can be safely extracted. No scribe, commissioner or reigning king is named.",
+ "_meta": {
+  "reel": "C 20/7",
+  "model": "opus",
+  "cost_usd": 0.0725638,
+  "secs": 15.7
+ }
+}

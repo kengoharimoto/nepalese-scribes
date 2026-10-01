@@ -1,0 +1,89 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Brahmadeva: removed role 'reader' and added 'owner'. 'svapaṭhanārthaṃ … svahastena likhitavān' means the scribe copied it for his own study, so the roles are scribe + owner",
+   "p2: changed the name to 'Appayya' (fixing the corrupt 'apayya') and moved 'dīkṣita' to titles; added the Bhāradvāja gotra as affiliation",
+   "p3: changed the name to 'Raṅgarāja' with 'adhvarin' in titles, reading the corrupt 'raṅkarājādhvavidravara(da)' as raṅgarājādhvarivara-; added the Bhāradvāja gotra",
+   "notes: added that the era is not stated, that NS is inferred, and that the catalogue's 841 conflicts with the colophon's 814"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībramhadevaḥ",
+   "name": "Brahmadeva",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībramhadevaḥ svapaṭhanārthaṃ … svahastena likhitavān",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "apayyadīkṣitasya",
+   "name": "Appayya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "dīkṣita",
+    "advaitavidyācārya"
+   ],
+   "affiliation": "Bhāradvāja gotra",
+   "residence": "",
+   "evidence": "śrībharadvājakulajalanidhikaustubha … apayyadīkṣitasya kṛtiḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīraṅkarājādhvavidravaradasūnor",
+   "name": "Raṅgarāja",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "adhvarin"
+   ],
+   "affiliation": "Bhāradvāja gotra",
+   "residence": "",
+   "evidence": "śrīraṅkarājādhvavidravaradasūnor apayyadīkṣitasya",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "śrīraṅkarājādhvavidravaradasūnor apayyadīkṣitasya"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 814 vaiśākhamāse śuklapakṣe paṃcamyāṃ tithau",
+  "era": "NS",
+  "year": "814",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1694"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svapaṭhanārtham (for the scribe's own study)",
+ "notes": "The colophon gives the era only as 'samvat'. NS is inferred because Appayya Dīkṣita wrote in the late 16th century, which rules out VS 814 and ŚS 814 as too early. NS 814 works out to about 1694 CE. The catalogue field gives NS 841 (about 1721 CE), but the quoted colophon reads 814, so either the catalogue transposed the digits or the quotation is wrong; this needs checking on the image. The father's name is corrupt ('raṅkarājādhvavidravarada'). Other sources give the father of Appayya Dīkṣita as Raṅgarājādhvarin, so the name is read here as raṅgarājādhvari-vara(da). The text title is miswritten as 'kuvalayāndam alakāraṃ' for kuvalayānandam alaṃkāraṃ.",
+ "_meta": {
+  "reel": "B 307/3",
+  "model": "opus",
+  "cost_usd": 0.514293,
+  "secs": 32.6
+ }
+}

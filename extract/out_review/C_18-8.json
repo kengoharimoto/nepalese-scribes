@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Kept Devanātha as commissioner (medium); expanded the notes on how 'bhājudevanathavatāro' might be split, including a possible second name ('va tāro' = 'and Tāro').",
+   "Narrowed ce_approx: Māgha of NS 844 falls in about Jan–Feb 1724 CE.",
+   "Added a note on the bracketed '(ṅākṣa 1036 vida)', probably a later note (NS 1036 ≈ 1916 CE) that does not date this copy."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhājudevanathavatāro",
+   "name": "Devanātha",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "bhāju"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhājudevanathavatāro cakāvatayā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "sambat 844 māghakṛṣṇāpaṃcamī citrānakṣatra",
+  "era": "NS",
+  "year": "844",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "pañcamī",
+  "weekday": "",
+  "nakshatra_yoga": "citrā",
+  "ce_approx": "1724"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The Newari passage is corrupt. 'cakāvatayā' is most likely coyakā(va) tayā, 'had it written and kept'. That would make the named person the commissioner rather than the scribe; no scribe is named. 'bhājudevanathavatāro' is read here as bhāju (an honorific) + Devanātha (written 'devanatha'). The remainder, 'vatāro', is unclear. It could be a corruption, a genitive/ergative ending, or 'va tāro' ('and Tāro'), which would mean a second co-commissioner named Tāro/Tāra. The name, the title 'bhāju' and the role are therefore only medium confidence. The bracketed '(ṅākṣa 1036 vida)' appears to be a separate, later note: NS 1036 is about 1916 CE, and 'vida' may be Newari biyā, 'given'. It may record a later transfer of the manuscript and does not date this copy. The date itself, NS 844 Māgha kṛṣṇa 5, falls in about Jan–Feb 1724 CE.",
+ "_meta": {
+  "reel": "C 18/8",
+  "model": "opus",
+  "cost_usd": 0.07611180000000001,
+  "secs": 18.4
+ }
+}

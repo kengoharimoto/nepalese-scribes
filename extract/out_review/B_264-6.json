@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Weekday: Saturday is now given in brackets after maṃdavāsare (manda = Saturn).",
+   "Era: kept VS, but the colophon only says 'śaṃvat' with no era name. Reading it as VS is the usual convention, not something the colophon states, and the notes now say so.",
+   "Scribe confidence lowered from high to medium. The name Paramānanda is clear, but 'kāstha' as kāyastha is an emendation.",
+   "Notes: added the scribal formula (yādṛśaṃ pustakaṃ dṛṣṭvā ...) and the doubt about the catalogue's king entry."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paramānaṃdkāstha",
+   "name": "Paramānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhyate paramānaṃdkāstha",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śaṃvat 1696 samaye mā(‥)vadi trayodaśi vāra(!) maṃdavāsareḥ(!)",
+  "era": "VS",
+  "year": "1696",
+  "month": "mā(‥) (Māgha or Mārga[śīrṣa])",
+  "paksa": "vadi (kṛṣṇa)",
+  "tithi": "trayodaśī (13)",
+  "weekday": "maṃdavāsare (Saturday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1639"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives only 'śaṃvat 1696' with no era name. VS is assumed, following the usual convention for an unqualified saṃvat in Devanagari manuscripts, which gives about 1639 CE. If it were ŚS, the date would be about 1774 CE. The month is damaged: mā(‥) could be Māgha or Mārgaśīrṣa. The scribe's name and caste are written run together as 'paramānaṃdkāstha', read here as Paramānanda kāyastha (the cataloguer reads 'Pramānanda kāyastha ?'). The catalogue's 'King: Kamari Datta Sen ?' does not appear anywhere in the quoted colophon, so no king is recorded. It may come from another part of the manuscript, or it may be a mistake. The verse 'jā(!)dṛśaṃ pustakaṃ kṛṣṭvā(!) ...' is the standard scribe's disclaimer (yādṛśaṃ pustakaṃ dṛṣṭvā tādṛśaṃ likhitaṃ mayā) and says nothing about who owned or commissioned the copy.",
+ "_meta": {
+  "reel": "B 264/6",
+  "model": "opus",
+  "cost_usd": 0.0736038,
+  "secs": 17.1
+ }
+}

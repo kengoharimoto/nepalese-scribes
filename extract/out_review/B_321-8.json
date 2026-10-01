@@ -1,0 +1,134 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p3 Harṣakīrti: removed 'commissioner'; '(mallekhitaḥ)' (prob. for mayā likhitaḥ / lekhitaḥ) marks him as the writer only, and nothing says he had the copy made.",
+   "Added p5 Mānakīrti (low confidence): read 'bha° śrīmān kīrttisūri' as bhaṭṭāraka Śrī-Mānakīrtisūri, named in the lineage after Candrakīrti's paṭṭa ('(paddebha)' = paṭṭe bha[ṭṭāraka]).",
+   "p2 Candrakīrti: titles expanded to include bhaṭṭāraka (abbreviated bha in the colophon).",
+   "Relation p3→p2 kept as pupil_of but the evidence is narrowed. Added a low-confidence 'other' relation p5→p2 (successor in the paṭṭa).",
+   "p4 Samarasiṃha: kept beneficiary + reader, since paṭhanārthaṃ explicitly states the copy is for his reading.",
+   "Purpose shortened. Notes rewritten to give the probable restoration of the lineage passage."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāladāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahākavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahākavikāladāsakṛtīviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīcaṃdrakīrtti(4)sūri",
+   "name": "Candrakīrti",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "sūri",
+    "bhaṭṭāraka"
+   ],
+   "affiliation": "Nāgapurīya Tapāgaccha",
+   "residence": "",
+   "evidence": "śrīnāga(purīyatapāgache bha,) śrīcaṃdrakīrtti(4)sūri(paddebha)",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrīmān kīrttisūri",
+   "name": "Mānakīrti",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "sūri",
+    "bhaṭṭāraka"
+   ],
+   "affiliation": "Nāgapurīya Tapāgaccha",
+   "residence": "",
+   "evidence": "(paddebha)śrīmān kīrttisūripahacchaiḥ",
+   "confidence": "low"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīharṣakīrttisūrir",
+   "name": "Harṣakīrti",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "Nāgapurīya Tapāgaccha",
+   "residence": "",
+   "evidence": "śrīharṣakīrttisūrir (mallekhitaḥ)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "samarasiṃha",
+   "name": "Samarasiṃha",
+   "roles": [
+    "beneficiary",
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "samarasiṃhapaṭhanārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "śrīcaṃdrakīrtti(4)sūri(paddebha)śrīmān kīrttisūripahacchaiḥ śrīharṣakīrttisūrir"
+  },
+  {
+   "from": "p5",
+   "type": "other",
+   "to": "p2",
+   "evidence": "śrīcaṃdrakīrtti(4)sūri(paddebha)śrīmān kīrttisūri"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "śrīharṣakīrttisūrir (mallekhitaḥ) || samarasiṃhapaṭhanārthaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1658 bhādrapadabahula14dine",
+  "era": "VS",
+  "year": "1658",
+  "month": "Bhādrapada",
+  "paksa": "bahula (kṛṣṇa)",
+  "tithi": "14",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1601"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for the reading of Samarasiṃha (samarasiṃhapaṭhanārthaṃ)",
+ "notes": "This is a Jain (Śvetāmbara) colophon from western India, not a Nepalese one: it names the Nāgapurīya Tapāgaccha. The era is therefore read as Vikrama, giving VS 1658 = c. 1601 CE. The lineage passage is garbled. Probable reading: 'śrīnāgapurīyatapāgacche bha° śrīcandrakīrtisūripaṭṭe bha° śrīmānakīrtisūri...', which would name a Mānakīrti between Candrakīrti and Harṣakīrti. On that reading, 'pahacchaiḥ' (unclear) may hide śiṣyaiḥ or a similar word, and Harṣakīrti could be the pupil of Mānakīrti rather than directly of Candrakīrti. Elsewhere Harṣakīrtisūri is known as a disciple of Candrakīrtisūri of this gaccha, so the pupil_of link to Candrakīrti is kept. '(mallekhitaḥ)' is the cataloguer's uncertain reading, probably for mayā likhitaḥ. 'Nāgapurīya' names the gaccha, not the place of copying.",
+ "_meta": {
+  "reel": "B 321/8",
+  "model": "opus",
+  "cost_usd": 0.11416380000000001,
+  "secs": 31.3
+ }
+}

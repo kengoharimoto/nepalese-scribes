@@ -1,0 +1,33 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. Notes now flag that the month abbreviation 'āyā' is unclear and that '3' may be a day count rather than a tithi."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 994 āyā 3",
+  "era": "NS",
+  "year": "994",
+  "month": "āyā",
+  "paksa": "",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1874"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue names Śrīvīranātha Śarmā as the scribe, but no person appears in the quoted colophon. The name may come from another part of the manuscript, such as a cover or another folio, so no person was extracted. The era is not stated; NS is assumed from 'saṃ 994' and the catalogue field, giving 994 + 880 = 1874 CE. 'āyā' is an unclear abbreviation or corruption of a month name (possibly Āṣāḍha?). The '3' after it could be a tithi or a day count.",
+ "_meta": {
+  "reel": "E 402/2",
+  "model": "opus",
+  "cost_usd": 0.0552438,
+  "secs": 9.0
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 as_written normalised to the instrumental 'pāpayallayasūriṇā' (the cataloguer has 'sūriṇa', probably for sūriṇā); kept as the commentator, Pāpayallaya Sūri, author of the Suvarṇacaṣaka commentary on the (Kṛṣṇa)karṇāmṛta",
+   "p2 name changed from 'Nirmalabhatta' to 'Nirmala'; 'bhatta' is probably 'bhaṭṭa', which now goes in titles with upādhyāya; confidence set to medium",
+   "Notes: the corrupt epithet 'sumarttarti' is flagged, the VS and Śaka years are checked against each other, and Śivarātri is recorded"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pāpayallaya sūriṇa",
+   "name": "Pāpayallaya",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nirmalabhattopādhyāyaputreṇa pāpayallaya sūriṇa viracitāyāṃ karṇāmṛtavyākhyāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nirmalabhattopādhyāya",
+   "name": "Nirmala",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa",
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nirmalabhattopādhyāyaputreṇa",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "nirmalabhattopādhyāyaputreṇa pāpayallaya sūriṇa"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1838 śake 1703 phālgunakṛṣṇa 13 śivarātrī ravivāsare",
+  "era": "VS",
+  "year": "1838",
+  "month": "Phālguna",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1782"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue names the scribe as 'Pahamanadāsa Kāyaśtha', but this name is not in the quoted colophon (fol. 44r). It may come from another part of the manuscript, so no scribe is recorded here. The colophon is the commentary's own (third śataka of the Suvarṇacaṣaka, by Pāpayallaya Sūri), not a scribal one. The epithet 'sumarttarti' is corrupt: perhaps a form of smārta... qualifying the father. 'nirmalabhatta' is probably Nirmalabhaṭṭa. The two eras agree: VS 1838 and Śaka 1703 both give Phālguna kṛṣṇa 13 (Śivarātri) in early 1782 CE. The weekday (Sunday) has not been checked.",
+ "_meta": {
+  "reel": "B 310/19",
+  "model": "opus",
+  "cost_usd": 0.0773438,
+  "secs": 18.3
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe: name given as 'Ratnākara' with 'lāla' kept in titles, instead of 'Lālaratnākara' plus a duplicated title. The catalogue's 'Ratnākaralāla' is the same person with the parts reversed (lāla is put first in the verse).",
+   "Scribe: residence removed. Rameṭpura is where the copy was made, not a stated residence.",
+   "Date: tithi added as a tentative reading. 'īśajanya' (Gaṇeśa) probably points to Gaṇeśa-caturthī, Bhādrapada śukla 4. The chronogram could not be fully checked.",
+   "Notes: the sandhi of 'ʼlikha drameṭpure' is explained, and the Umeśapura/Kāśī idea is marked as the cataloguer's guess."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dāmodarīye",
+   "name": "Dāmodara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dāmodarīye golādeśe",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "lālaratnākaro",
+   "name": "Ratnākara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "lāla"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lālaratnākaro ʼlikha drameṭpure",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nakhapurusūraghana 1748 śāke nabhasyeśajanya ho",
+  "era": "ŚS",
+  "year": "1748",
+  "month": "Bhādrapada (nabhasya)",
+  "paksa": "śukla?",
+  "tithi": "4? (īśajanya = Gaṇeśa, i.e. Gaṇeśa-caturthī)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1826"
+ },
+ "place": {
+  "as_written": "rameṭpure",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives the year 1748 in figures, Śaka era, which is 1826 CE (Bhādrapada falls in Aug–Sep 1826). The word-numeral chronogram 'nakhapurusūraghana' is corrupt or unusual and could not be checked digit by digit. 'nabhasyeśajanya ho' is read as 'on the day of Īśa's son (Gaṇeśa) in Nabhasya', which most likely means Bhādrapada śukla 4 (Gaṇeśa-caturthī). This is tentative. 'ʼlikha drameṭpure' should be divided as (a)likhad + rameṭpure, so the place is Rameṭpura. The name looks corrupt. The catalogue's suggestion of Umeśapura = Kāśī is speculative, so the place is left unnormalized. The scribe's name appears as 'lālaratnākara' and the catalogue gives 'Ratnākaralāla'. Lāla is probably a name suffix of the Kāyastha type, so the person may be catalogued as Ratnākaralāla. 'śrīśo ʼvatu lekhakaṃ paṭhantam' is a blessing formula and names no other person.",
+ "_meta": {
+  "reel": "B 326/5",
+  "model": "opus",
+  "cost_usd": 0.1398866,
+  "secs": 32.6
+ }
+}

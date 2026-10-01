@@ -1,0 +1,67 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Lālaratna: roles changed from scribe+beneficiary to scribe+owner (he copied it 'adhyayanāya', for (his) study; no separate beneficiary)",
+   "Date: 'hy anaḍuhi' read as sun in Taurus (Vṛṣa); month 'śukra' = Jyeṣṭha; paksa normalised to śukla; tithi pratipad from 'sitādime' (tentative); weekday Wednesday from 'jñe 'hni' (written 'jenhi')",
+   "Purpose corrected: colophon has only 'adhyayanāya'; the 'bhūsurāṇām' in the first reading is not in the text ('bhūsuro 'lam' describes the scribe)",
+   "Notes expanded on the corrupt date phrase"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "varāhamihira",
+   "name": "Varāhamihira",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "varāhamihirakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "lālaratna śarmmā",
+   "name": "Lālaratna",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "śarman",
+    "bhūsura"
+   ],
+   "affiliation": "",
+   "residence": "trinayana puri",
+   "evidence": "trinayana purilālaratna śarmmā likhadidamadhyayanāya bhūsurolam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "rasa nigamagahayendu śākakerke hyanaḍuhiśukrasitādirmeke jenhi",
+  "era": "ŚS",
+  "year": "1746",
+  "month": "Śukra (= Jyeṣṭha); sun in Vṛṣa (anaḍuhi)",
+  "paksa": "śukla",
+  "tithi": "1 (pratipad), tentative",
+  "weekday": "Wednesday (jñe 'hni), tentative",
+  "nakshatra_yoga": "",
+  "ce_approx": "1824"
+ },
+ "place": {
+  "as_written": "trinayana puri",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "adhyayanāya (for study, presumably the scribe's own)",
+ "notes": "The chronogram, read right to left, is rasa 6, nigama 4, haya 7, indu 1, giving ŚS 1746 (about 1824 CE). 'gahaya' is a corruption of 'haya'. I take the corrupt date phrase as 'śākake 'rke hy anaḍuhi śukra-sitādime (?) jñe 'hni': the year in the Śaka era, the sun in Taurus, the month Śukra (= Jyeṣṭha), the first day of the bright fortnight, a Wednesday. The tithi and weekday readings are conjectural; I have not checked them against an ephemeris. Trinayanapurī ('city of the three-eyed one', i.e. Śiva) means Kāśī/Vārāṇasī, which fits the closing invocation to Viśveśvara. It could equally be the scribe's home rather than the place of copying. 'bhūsuro 'lam' marks Lālaratna as a brahmin. The catalogue's scribe field (Lālaratna Śarmā) agrees.",
+ "_meta": {
+  "reel": "B 335/3",
+  "model": "opus",
+  "cost_usd": 0.0885038,
+  "secs": 37.8
+ }
+}

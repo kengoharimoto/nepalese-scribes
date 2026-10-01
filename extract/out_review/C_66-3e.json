@@ -1,0 +1,64 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Purpose: 'iśvarī prītrīrastu' is a closing benediction (īśvarī prītir astu, 'may the Goddess be pleased'). It does not say who the copy was made for. Recorded it as a benediction and gave a normalised form.",
+   "Lakṣmīdhara's residence 'vidyāpiyā' kept, but the notes now flag it as uncertain. It is a Newari genitive ('of Vidyāpī-') and could be a place, a lineage or a corruption.",
+   "Notes expanded on the NS 832 entry. Also noted that the 832/834 years are not two conflicting eras."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "lakṣmīdharana",
+   "name": "Lakṣmīdhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmācārya"
+   ],
+   "affiliation": "",
+   "residence": "vidyāpiyā",
+   "evidence": "liṣiti vidyāpiyā karmmācarya, lakṣmīdharana saṃpurṇṇa yāṅā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vakādharaṃ",
+   "name": "Vakādhara",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "saṃvat 832 vakādharaṃ dāṅāyā hlāṣa",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 834 śrāvana śuklasaptamīkuhnu",
+  "era": "NS",
+  "year": "834",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "saptamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1714"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "benediction: īśvarī prītir astu",
+ "notes": "The Karmācārya Lakṣmīdhara finished copying this manuscript on Śrāvaṇa śukla 7, NS 834 (c. 1714 CE). His residence or affiliation 'vidyāpiyā' is unclear. It is a Newari genitive ('of Vidyāpī-') and could be a place, a lineage, or something corrupt. A separate line reads 'saṃvat 832 vakādharaṃ dāṅāyā hlāṣa', dated NS 832 (c. 1712 CE). It probably records something done by or with a person Vakādhara (perhaps Bakādhara). This could be the start of the copying, the handover of the exemplar, or a gift. The wording is obscure, so both the name and the role are uncertain. The two years 832 and 834 are both Nepāla Saṃvat and do not conflict. The colophon ends with the usual scribal verses ('yādṛṣṭaṃ pustakaṃ dṛṣṭvā…', 'yad akṣarapadabhraṣṭaṃ…').",
+ "_meta": {
+  "reel": "C 66/3e",
+  "model": "opus",
+  "cost_usd": 0.0822198,
+  "secs": 19.1
+ }
+}

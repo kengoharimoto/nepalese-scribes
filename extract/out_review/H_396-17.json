@@ -1,0 +1,63 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Lowered p2 (Rūparāja) confidence to medium: the cataloguer marks the name with (!) and gives the scribe as Purarāja.",
+   "ce_approx changed from 1502 to 1501: Kārttika is the first month of the Nepāla Saṃvat year, so Kārttika kṛṣṇa of NS 622 falls in about October/November 1501.",
+   "nakshatra_yoga now says that kṛteḥ may be a corrupt kṛttikā; the garbled parts of the date are recorded in notes.",
+   "Notes expanded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "amaradiṃha",
+   "name": "Amarasiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "amaradiṃhakṛtaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rūparājena(!)",
+   "name": "Rūparāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ, pustakaṃ, rūparājena(!)",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīmatnepālikaḥ samvata (ju)saraḥ (nīyanośi) 622 kārttikakṣṇatrayodaśyān tithau (rīsvāttarjña) kṛteḥ saubhāgyaṃ",
+  "era": "NS",
+  "year": "622",
+  "month": "kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "",
+  "nakshatra_yoga": "saubhāgya (yoga); kṛteḥ possibly kṛttikā (nakṣatra)",
+  "ce_approx": "1501"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name reads rūparājena(!), but the catalogue gives Purarāja. Which reading is right is uncertain; Rūparāja is the one taken from the quoted text. The catalogue marks the year as 'NS 622 ?'. The bracketed passages '(ju)saraḥ (nīyanośi)' and '(rīsvāttarjña)' are garbled. The first may hide a word spelling out the year. The second may hide the weekday or nakṣatra (perhaps a corrupt '...vāsare'), but neither can be read safely. 'kṛteḥ' may stand for kṛttikā nakṣatra. Because Kārttika opens the NS year, Kārttika kṛṣṇa 13 of NS 622 is about Oct/Nov 1501 CE, not 1502.",
+ "_meta": {
+  "reel": "H 396/17",
+  "model": "opus",
+  "cost_usd": 0.07837179999999999,
+  "secs": 19.1
+ }
+}

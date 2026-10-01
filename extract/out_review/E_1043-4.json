@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe's confidence lowered from high to medium: 'Jayarūndrasiṃha' looks like a corrupt spelling, probably of Jayarudrasiṃha. The as-written form is kept as the stem.",
+   "Evidence for the scribe shortened to the substring that supports the role.",
+   "Notes expanded: the catalogue gives a chronogram (durggā 9, aginī 3, vasu 8; read right to left = 839), which agrees with NS 839. It also gives a second date, 'saṃvat 831', with the same month, tithi and weekday; this conflicts with 839. The notes also say that the king and place come only from the catalogue fields and that 'puṣva' should be read as puṣya.",
+   "Nakshatra normalised in the reading (puṣya); the as-written form is still given."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajña jayarūndrasiṃ(4)ha bhāro,na",
+   "name": "Jayarūndrasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña",
+    "bhāro"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rekha daivajña jayarūndrasiṃ(4)ha bhāro,na ... saphurī siṃdhayakā juro",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "Saṃmbat 839 kāttika (Verso 32:3) kṛṣṇa , paṃcami puṣva nakṣetre subha joge, ādityavāra",
+  "era": "NS",
+  "year": "839",
+  "month": "kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "pañcamī",
+  "weekday": "ādityavāra (Sunday)",
+  "nakshatra_yoga": "puṣya (puṣva) nakṣatra, śubha yoga",
+  "ce_approx": "1718"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The scribe's name, 'Jayarūndrasiṃha', is probably a corrupt spelling of Jayarudrasiṃha. The catalogue gives a chronogram: durggā(9) aginī(3) vasu(8). Read right to left this gives 839, which matches the colophon's Saṃbat 839, so NS 839 = 1718 CE (kārttika). The catalogue also gives a bracketed second date, 'saṃvat 831', with the same month, pakṣa, tithi, nakṣatra, yoga and weekday. This conflicts with 839. It may come from a second colophon or be a misreading; 831 would be 1710/11 CE. The quoted colophon does not name the king (Mahīndrasiṃha) or the place (Kathmandu); they appear only in the catalogue fields, so they are not listed as persons or place. The date fits the reign of Mahīndrasiṃha (Mahīndra Siṃha Malla) of Kathmandu, c. 1714–1722.",
+ "_meta": {
+  "reel": "E 1043/4",
+  "model": "opus",
+  "cost_usd": 0.062401,
+  "secs": 17.7
+ }
+}

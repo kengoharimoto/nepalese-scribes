@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe evidence now uses the fuller form 'daivajña〈〈‥ ‥〉〉varmaṇā likhitaṃ'. Confidence lowered to low because the marked lacuna may hide the first part of the name (…varman).",
+   "Date: added a rough check of the weekday and nakṣatra. VS 1713 (6 Sept 1656 CE, a Wednesday, Moon in Revatī) fits better than the catalogue's ŚS 1713 (c. 15–16 Sept 1791, Thursday/Friday). ce_approx set to 1656 while the era stays 'unspecified'.",
+   "Notes expanded: the catalogue's ŚS attribution is questioned, the two colophon copies are listed, and the corrupt passage is flagged."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajña〈〈‥ ‥〉〉varmaṇā / daivajñavarmmaṇa",
+   "name": "Varman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajña〈〈‥ ‥〉〉varmaṇā likhitaṃ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1713 bhādrakṛṣṇatṛtīyāṃ vudharevatyāṃ",
+  "era": "unspecified",
+  "year": "1713",
+  "month": "bhādra",
+  "paksa": "kṛṣṇa",
+  "tithi": "tṛtīyā",
+  "weekday": "budha",
+  "nakshatra_yoga": "revatī",
+  "ce_approx": "1656"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Scribe: the name is given twice. On exp. 70 it reads 'daivajña〈〈‥ ‥〉〉varmaṇā', with a marked lacuna or insertion between daivajña and varmaṇā. On fol. 62r it reads 'daivajñavarmmaṇalikhitaṃ'. The full name may therefore be '…varman', with only the ending surviving. 'Daivajña' is taken as a title (astrologer). The catalogue's 'Varmmaṇa' is an inflected form.\n\nEra: the colophon says only 'saṃvat'. The catalogue gives ŚS 1713, which would be 1791 CE. A rough mean-lunation check (amānta Bhādrapada, kṛṣṇa 3) gives these results:\n- VS 1713: kṛṣṇa 3 falls on about 6 Sept 1656, a Wednesday, with the Moon in about Revatī. This agrees with 'budha revatyāṃ'.\n- ŚS 1713: kṛṣṇa 3 falls on about 15–16 Sept 1791 (Thursday/Friday), with the Moon near the Revatī/Aśvinī boundary. This fits less well.\nVS 1713 (c. 1656 CE) is therefore preferred, but this has not been checked with an exact pañcāṅga.\n\nText: the same dated colophon closes the 17th ullāsa (gurunāmāditattvapadārtha), apparently in two copies. The 18th-ullāsa colophon has no date. The passage '...bhāvena cuṃbite- (!) 1yuādśī bhāvanā yasya...' is corrupt in the catalogue quotation.",
+ "_meta": {
+  "reel": "A 148/11",
+  "model": "opus",
+  "cost_usd": 0.1321078,
+  "secs": 42.3
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Jayabhīmadeva: role changed from 'king' to 'other'. He reigned when the palm-leaf exemplar was copied in (NS) 380, about 1260 CE, not when this copy was made in VS 1986 (1929 CE).",
+   "p3: name changed from 'Pūrṇaprasāda Śarman' to stem form 'Pūrṇaprasāda'; śarman stays in titles only.",
+   "Date: paksa filled as śukla, which pūrṇimā implies.",
+   "Purpose: shortened to a plain description.",
+   "Notes: the exemplar's date was left without a stated era; it is now given as an inferred NS 380 with a check against Jayabhīmadeva's reign. Added notes on the exemplar's script and the corrupt word 'vilikyā'."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmajjayabhīma",
+   "name": "Jayabhīmadeva",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "parameśvara",
+    "paramamāheśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paramabhaṭṭārakaśrīmajjayabhīmarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīrājagurūhemarājapaṇḍitavarāṇām",
+   "name": "Hemarāja",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "rājaguru",
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrājagurūhemarājapaṇḍitavarāṇām ājñayā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "pūrṇaprasādaśarmaṇā",
+   "name": "Pūrṇaprasāda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pūrṇaprasādaśarmaṇā vilikyā samāpitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "hemarājapaṇḍitavarāṇām ājñayā ... pūrṇaprasādaśarmaṇā vilikyā"
+  }
+ ],
+ "date": {
+  "as_written": "1986 vaikramāvde āśvinapūrṇimāyāṃ",
+  "era": "VS",
+  "year": "1986",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1929"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "copied by order of Rājaguru Hemarāja Paṇḍita",
+ "notes": "This is a modern transcript (VS 1986, about 1929 CE). Hemarāja is almost certainly the well-known Rājaguru Hemarāja Śarmā (Paṇḍita).\n\nThe transcript was taken ('uddhṛtya') from an old palm-leaf manuscript written in Bhujimol script ('bhujavalākṣara'). It reproduces that exemplar's colophon: 'aśītyadhikasaṃyāte samvatsaraśatatraye' = year 380, Caitra śukla 5, a Friday, in the reign of Jayabhīma(deva). The exemplar's date names no era, but it is presumably NS 380 (about 1260 CE). That fits Jayabhīmadeva's reign, roughly NS 378–391.\n\nFor this reason Jayabhīmadeva has role 'other' rather than reigning king of this copy, so the catalogue's King field refers to the exemplar. 'vilikyā' stands for vilikhya. 'lekhayutāt' is unclear and may stand for lekhayuktāt.",
+ "_meta": {
+  "reel": "B 136/7",
+  "model": "opus",
+  "cost_usd": 0.0917798,
+  "secs": 20.9
+ }
+}

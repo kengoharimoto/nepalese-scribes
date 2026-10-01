@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Weekday normalized: 'roja 2' = Monday (roja 2).",
+   "Paksa normalized to śukla (śudi).",
+   "Notes: added that Caitra śukla of VS 1923 could fall in March 1867 if the year is counted from Vaiśākha (Nepalese VS usage); ce_approx kept at 1866 by the VS−57 formula.",
+   "Notes: said that the catalogue's ŚS 1923 (= 2001 CE) is impossible for this manuscript."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī jitānaṃdena",
+   "name": "Jitānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "mahābuddhopāsaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhaka śrī mahāvuddhopāśala(!) śrī jitānaṃdena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī samvat 1923 sālamiti caitra śudi 4 roja 2",
+  "era": "VS",
+  "year": "1923",
+  "month": "Caitra",
+  "paksa": "śukla (śudi)",
+  "tithi": "4",
+  "weekday": "Monday (roja 2)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1866"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives the scribe as Śrījinānanda, but the colophon reads 'śrī jitānaṃdena' (Jitānanda). Jinānanda is possible if the cataloguer misread it. 'mahāvuddhopāśala(!)' is most likely a corruption of 'mahābuddhopāsaka', a lay Buddhist epithet. The catalogue gives the era as ŚS, but ŚS 1923 would be 2001 CE, which is impossible. The 'samvat … sālamiti … roja' formula is the usual Vikrama Samvat style of 19th-century Nepal, so the era is VS 1923. If the year began with Caitra, the date is about March–April 1866. If it was counted from Vaiśākha, as is usual in Nepal, Caitra śukla 4 falls in March 1867. 'roja 2' means Monday.",
+ "_meta": {
+  "reel": "B 343/14",
+  "model": "opus",
+  "cost_usd": 0.0719078,
+  "secs": 17.4
+ }
+}

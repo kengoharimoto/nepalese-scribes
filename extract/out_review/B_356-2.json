@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed month 'saugata': it is not a month name. The phrase 'sūryā hatau saugatamāsamīhaḥ' is corrupt or obscure and gives no reliable month.",
+   "Added a caveat in notes: the Śaka 1530 verse is probably the author's epoch (the date of the text's composition), not the date this copy was made.",
+   "Added a note on the chronogram reading (nakha = 20 does not fit four digits).",
+   "Kept Viṣṇu (daivajña) as author, Śaka 1530 = c. 1608 CE, and the remark about the scribe Rudradeva."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñaviṣṇu",
+   "name": "Viṣṇu",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñaviṣṇuracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāko nakhāgnīṣubhuvaḥ samaughaḥ",
+  "era": "ŚS",
+  "year": "1530",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1608"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "1) The date verse probably belongs to the text, not to this copy. Viṣṇu Daivajña's Sūryapakṣaśaraṇa karaṇa is known to use Śaka 1530 (c. 1608 CE) as its epoch. This verse comes right after the text's own closing verse, so it most likely gives the composition/epoch year. If so, Śaka 1530 is only the earliest possible date (terminus post quem) for the copy, and the catalogue's 'Date of Copying: ŚS 1530' may be wrong. 2) The chronogram does not work out exactly. Reading 'nakhāgnīṣubhuvaḥ' right to left with nakha = 20 gives bhū 1, iṣu 5, agni 3, nakha 20, which is more than four digits. 1530 only works if nakha is taken as 0 (or the compound is read loosely). 1530 does agree with the known epoch of the work. 3) 'samaughaḥ sūryā hatau saugatamāsamīhaḥ' is corrupt or obscure. It does not clearly give a month, so no month is recorded. 4) The catalogue names the scribe as Rudradevadvija (probably Rudradeva, titled dvija), but no scribe appears in the quoted colophon. That name must come from somewhere else in the manuscript and could not be checked here.",
+ "_meta": {
+  "reel": "B 356/2",
+  "model": "opus",
+  "cost_usd": 0.0857358,
+  "secs": 27.3
+ }
+}

@@ -80,12 +80,15 @@ HONORIFIC = re.compile(r'^(?:śrī\s*|śri\s*|sri\s*|bābu\s+|paṇḍita\s+|pt\
 def split_names(s):
     if not s or len(s) > 90 or JUNK.match(s.strip()):
         return []
-    s = re.sub(r'\[.*?\]|\(.*?\)', '', s)
+    # the cataloguer's lacuna marks ('...ryānanda', '(‥)bhayānanda', '+++candra', '///hīndramalla') make a
+    # name a fragment: mark them before brackets and dots are stripped, and skip the marked names
+    s = re.sub(r'\.{2,}|‥|…|\+{2,}|/{2,}', '§', s)
+    s = re.sub(r'\[[^§]*?\]|\([^§]*?\)', '', s)
     s = re.sub(r'(?i)ṭīkākāraḥ?\s*:.*', '', s)
     out = []
     for p in re.split(r',|;|\band\b|&|/', s):
         p = p.strip(' ?.:*')
-        if len(p) < 3 or JUNK.match(p) or re.search(r'\d|exp\.|fol\.', p):
+        if len(p) < 3 or '§' in p or JUNK.match(p) or re.search(r'\d|exp\.|fol\.', p):
             continue
         out.append(p)
     return out
@@ -98,14 +101,31 @@ def fold(s):
     return s
 
 
+UNUSABLE = re.compile(r'…|‥|\.\.|unnamed|illegible|lacuna|unknown|anonymous|\b(?:son|daughter|wife) of\b', re.I)
+
+
+TITLE_ONLY = {'varma', 'varman', 'sarma', 'sarman', 'misra', 'upadhyaya', 'vajracarya', 'karmacarya',
+              'josi', 'daivajna', 'thakura', 'bhata', 'bhatta'}  # a title with the name lost
+
+
+def usable_name(n):
+    """False for placeholders ('[unnamed]', '[lacuna]') and fragments ('…deva', '[...]sena'), which would
+    otherwise fold to a bare suffix and merge with unrelated people."""
+    return bool(n.strip(' .…[]/()')) and not UNUSABLE.search(n)
+
+
 def name_key(n, role=''):
     k = fold(HONORIFIC.sub('', n.strip()))
     if role == 'king':  # regnal epithets: śrīśrīsumatijayajitāmitramalladeva = Jitāmitra Malla
         k = re.sub(r'^(?:sri|\s)+', '', k)
-        k = re.sub(r'^(?:sumati\s*)?jaya[\s-]*', '', k)
+        k2 = re.sub(r'^(?:sumati\s*)?jaya[\s-]*', '', k)
+        k = k2 if len(re.sub(r'[^a-z]', '', k2)) >= 6 else k  # but not Jayasiṃha -> siṃha
         k = re.sub(r'(?<=malla)\s*deva$', '', k)
         k = re.sub(r'r(?=mala$)', '', k)
         k = k.replace('bikram', 'vikram').replace('pratap ', 'pratapa').replace('bhaskara', 'bhaskara')
+    # Śāha / Shah dynasty names: only an explicit separate word or 'shah' (not every name in -sa: Kālidāsa)
+    k = re.sub(r'\s+(?:sah|saha|shah|sha|shaha)\s*$', 'saha', k)
+    k = re.sub(r'shaha?$', 'saha', k)
     k = re.sub(r'[^a-z]', '', k)
     k = k.replace('ee', 'i').replace('oo', 'u')
     # common orthographic variation in colophon names
@@ -117,7 +137,6 @@ def name_key(n, role=''):
                     r'daivajna|thakura?|varma|varman)$', '', k)
         k = k2 if len(k2) >= 4 else k
     k = re.sub(r'malla?$', 'mala', k)
-    k = re.sub(r'(sa|sah|saha|shah|sha|shaha)$', 'saha', k)
     return k
 
 
@@ -213,11 +232,11 @@ def main():
         found = []  # name keys from the colophon reading, to skip duplicate catalogue-field persons
         for p in (o or {}).get('persons', []):
             roles = [x for x in p['roles'] if x not in ('author', 'commentator')]
-            if not roles or not p['name'].strip(' .…[]/'):
+            if not roles or not usable_name(p['name']):
                 continue
             kind = 'king' if set(roles) & {'king', 'queen'} else 'person'
             key = name_key(p['name'], 'king' if kind == 'king' else '')
-            if len(key) < 3:
+            if len(key) < 3 or key in TITLE_ONLY:
                 continue
             a = {'ms': ms['id'], 'name': p['name'], 'roles': roles, 'titles': p['titles'],
                  'residence': p['residence'], 'affiliation': p['affiliation'], 'evidence': p['evidence'],
@@ -232,7 +251,7 @@ def main():
             for n in split_names(r.get(field, '')):
                 kind = 'king' if role == 'king' else 'person'
                 key = name_key(n, role)
-                if len(key) < 3 or any(fk == kind and (fk2[:6] == key[:6] or key in fk2 or fk2 in key)
+                if not usable_name(n) or len(key) < 3 or key in TITLE_ONLY or any(fk == kind and (fk2[:6] == key[:6] or key in fk2 or fk2 in key)
                                        for fk, fk2 in found):
                     continue
                 att[(kind, key)].append({'ms': ms['id'], 'name': n, 'roles': [role], 'titles': [],

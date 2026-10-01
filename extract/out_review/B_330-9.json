@@ -1,0 +1,123 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: corrupt 'vācaspatīśirama' read as Vācaspati with title miśra (vācaspatimiśrasūnu); name stem changed from 'Vācaspatīśirama' to 'Vācaspati'",
+   "p4 Śaṃkara: 'owner' added to his roles because he copied the manuscript 'svārtha-' (for himself and his son); affiliation normalized to the Pārvatīya jñāti (jñātau śrīpārvatīyaḥ); residence trimmed to the town",
+   "p3 Śuka: confidence lowered to medium because 'śukatanaya' might be a corrupt reading",
+   "p5 Kṛṣṇa: kept as owner; the colophon does not support the catalogue's 'donor'; noted that this is probably a later ownership entry",
+   "date: tithi normalized to ekādaśī (haridina); chronogram checked (5-3-8-1 read right to left gives 1835); the era is not named in the colophon, so VS is inferred from the catalogue and the North Indian context",
+   "place normalized field left empty; as_written given as jayaharinagare gomatītīra-",
+   "purpose rephrased"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vācaspatīśiramasūnu",
+   "name": "Vācaspati",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vācaspatīśiramasūnu lakṣmīdāsaviracite",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "lakṣmīdāsa",
+   "name": "Lakṣmīdāsa",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lakṣmīdāsaviracite bhāskarīyasiddhāṃtaśiromaṇivyākhyāne",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śuka",
+   "name": "Śuka",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śukatanayavaraḥ śaṃkaro",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śaṃkaro",
+   "name": "Śaṃkara",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "Pārvatīya jñāti",
+   "residence": "Jayaharinagara on the Gomatī",
+   "evidence": "jñātau śrīpārvatī yaḥ śukatanayavaraḥ śaṃkaro ... alikhat svārthaputrārthasiddhayai",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrīkṛṣṇajośī",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "Rāmanagara",
+   "evidence": "putakam idaṃ śrīkṛṣṇajośī rāmanagaravāle",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "vācaspatīśiramasūnu lakṣmīdāsa"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "śukatanayavaraḥ śaṃkaro"
+  }
+ ],
+ "date": {
+  "as_written": "varṣe paṃcāgnivasv iṃdu mitaharidine kārttike kṛṣṇapakṣe vāre sūryasya",
+  "era": "VS",
+  "year": "1835",
+  "month": "Kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī (haridina)",
+  "weekday": "Sunday (vāre sūryasya)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1778"
+ },
+ "place": {
+  "as_written": "jayaharinagare gomatītīra-",
+  "normalized": ""
+ },
+ "purpose": "svārtha and for his son (svārthaputrārthasiddhayai)",
+ "notes": "The chronogram pañca(5)-agni(3)-vasu(8)-indu(1), read right to left, gives 1835. The colophon does not name the era. VS (= 1778 CE) comes from the catalogue and is plausible for a copy made on the Gomatī. If the era were ŚS, the date would be 1913 CE. The weekday has not been checked. 'vācaspatīśirama' is a corruption of Vācaspatimiśra, the father of the commentator Lakṣmīdāsa. 'sāṃghrir' after 'vāre sūryasya' is unclear: it may be a corruption, perhaps 'sāṃdhri'/'saṃdhyā'. I have not treated it as a name. 'jñātau śrīpārvatī yaḥ' = 'jñātau śrīpārvatīyaḥ' (of the Pārvatīya community). The scribe's unnamed son is a beneficiary. 'putakam idaṃ śrīkṛṣṇajośī rāmanagaravāle' (= pustakam) is an ownership note, probably later and in Hindi ('vāle'). The catalogue lists Kṛṣṇa Jośī as 'Donor', but the colophon only shows ownership.",
+ "_meta": {
+  "reel": "B 330/9",
+  "model": "opus",
+  "cost_usd": 0.1029438,
+  "secs": 26.5
+ }
+}

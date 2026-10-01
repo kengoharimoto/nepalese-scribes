@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: removed 'bhaṭṭa' from titles because it is the only name available and is already used as the name; flagged that it may be a surname or brahmin title rather than a personal name",
+   "p1: confidence lowered from high to medium because the given name is unknown",
+   "purpose: rephrased as a short gloss",
+   "notes: expanded on the Bhaṭṭa ambiguity and the missing pakṣa"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭasya / bhaṭṭena",
+   "name": "Bhaṭṭa",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭasyedaṃ pustakam iti || ... alekhi vai parahitaṃ svārthaṃ ca bhaṭṭena",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "mārgaśīrṣidaśamyām",
+  "era": "none",
+  "year": "",
+  "month": "Mārgaśīrṣa",
+  "paksa": "",
+  "tithi": "10 (daśamī)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for devotees and for the benefit of others as well as for himself (sadbhaktārtham ... parahitaṃ svārthaṃ ca)",
+ "notes": "'Bhaṭṭa' may be a family name or brahmin title (Bhaṭṭa/Bhaṭ) rather than a personal name. The scribe's given name is not stated. The date gives no year or pakṣa, only Mārgaśīrṣa daśamī. The final verse line 'sadvidyāyurgguṇino gadaṃtu viduṣā cintākhyakanādarān(?)' is corrupt. It seems to be a request that learned readers bless the copyist with knowledge, long life and virtues. No other person can safely be read from it ('cintākhya' is unclear). The text is attributed to the Āgneya/Vahni Purāṇa, so no human author is extracted.",
+ "_meta": {
+  "reel": "E 1685/15",
+  "model": "opus",
+  "cost_usd": 0.0696958,
+  "secs": 14.3
+ }
+}

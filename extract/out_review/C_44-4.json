@@ -1,0 +1,82 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 name normalized from 'Surahi' to 'Sura': '-hi' is the vernacular (Apabhraṃśa/Old Hindi) instrumental/agentive ending governing 'likhāpitam'. This agrees with the catalogue's 'Sura Rāuta'. Confidence lowered to medium.",
+   "Added a servant_of relation from p2 to p1. 'tacchāsanika' (written tatchāsanika) means 'his officer, one under his command', and 'tat' refers back to Jayacandradeva.",
+   "Title 'tacchāsanika' is kept as written. Notes now explain it and record that the scribe is not named.",
+   "Weekday normalized to 'budha'."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahā⁅rā⁆jādhirājaśrījjayaccaṃdradeva",
+   "name": "Jayaccandradeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "Gāhaḍavāla dynasty",
+   "residence": "Vārāṇasī",
+   "evidence": "mahā⁅rā⁆jādhirājaśrījjayaccaṃdradevarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "tatchāsanikarāutaśrīsurahi",
+   "name": "Sura",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "tacchāsanika",
+    "rāuta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tatchāsanikarāutaśrīsurahi ātmārthe idaṃ pustikā 〇 likhāpitam",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "jayaccaṃdradevarājye ... tatchāsanikarāutaśrīsurahi"
+  },
+  {
+   "from": "p2",
+   "type": "servant_of",
+   "to": "p1",
+   "evidence": "tatchāsanikarāuta"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1239 āṣāḍhasudi 7 budhe",
+  "era": "VS",
+  "year": "1239",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "budha",
+  "nakshatra_yoga": "",
+  "ce_approx": "1182"
+ },
+ "place": {
+  "as_written": "śrīmadvārāṇasyā",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "ātmārthe (for the commissioner himself)",
+ "notes": "The colophon names Jayaccandradeva (Jayacandra, the Gāhaḍavāla king) as the reigning king in Vārāṇasī. The era is not named, but VS fits his reign (c. 1170–1194 CE), so VS 1239 ≈ 1182 CE. 'tatchāsanika' = tacchāsanika, 'his (the king's) officer/appointee'. 'rāuta' is a rank title (from rājaputra). 'surahi' is read as Sura plus the vernacular instrumental ending -hi, the agent of 'likhāpitam'; the name Surahi is less likely. The catalogue's 'Scribe: Sura Rāuta' is wrong: Sura had the copy made for himself (commissioner/owner). The actual scribe is not named; 'lekhaka' appears only in the closing benediction. The weekday has not been checked against an ephemeris.",
+ "_meta": {
+  "reel": "C 44/4",
+  "model": "opus",
+  "cost_usd": 0.0805278,
+  "secs": 17.1
+ }
+}

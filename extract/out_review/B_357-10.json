@@ -1,0 +1,65 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Place of copying cleared: the colophon does not say where the copy was made. Golamaṃdhī (Golmadhi ṭol, Bhaktapur) is only Bhorānātha's residence and stays in his record.",
+   "Dhanarāma's scribe role lowered to low confidence: the name comes straight after a lacuna and there is no verb of writing (coyā/likhitam).",
+   "Bhorānātha's confidence lowered to low and the name noted as possibly Bholānātha. His role stays 'other' because the lacuna hides what he did.",
+   "Tithi normalised to saptamī. ce_approx kept at 1704, with a note that Pauṣa śukla of NS 824 falls around Dec 1703 to Jan 1704."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhorānātha",
+   "name": "Bhorānātha",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "bhāju"
+   ],
+   "affiliation": "",
+   "residence": "Golamaṃdhī (Golmadhi, Bhaktapur)",
+   "evidence": "bhorānātha golamaṃ dhīyā bhājuyā",
+   "confidence": "low"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dhanarāma",
+   "name": "Dhanarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "------ dhanarāma || śubha ||",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 824 pauṣaśukla satami(!) thvakunhu",
+  "era": "NS",
+  "year": "824",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "saptamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1704"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The Newari text reads 'bhorānātha golamaṃdhīyā bhājuyā': 'of Bhāju Bhorānātha of Golmadhi'. The genitive probably went with a noun that is now lost in the lacuna, perhaps pustaka (making him the owner) or kāya (making Dhanarāma his son). Because of the lacuna, his role and any relation to Dhanarāma cannot be fixed. Bhorānātha may be a variant of Bholānātha. Bhāju is a Newari honorific for laymen, not a caste name. Dhanarāma is taken to be the scribe only because his name stands in the closing position. Date: NS 824 + 880 = 1703/04; Pauṣa śukla 7 falls around late Dec 1703 to Jan 1704. This matches the catalogue's NS 824.",
+ "_meta": {
+  "reel": "B 357/10",
+  "model": "opus",
+  "cost_usd": 0.0759638,
+  "secs": 17.6
+ }
+}

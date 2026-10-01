@@ -1,0 +1,135 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: name normalized to 'Appayya' (corrupt 'apya'); 'dīkṣita' kept as title; confidence medium for spelling",
+   "p2: name stripped to 'Raṅgarāja', 'adhvarīndra' moved to titles",
+   "p4 Sundara: added role 'donor' (likhitvā dattaṃ)",
+   "p5: name given as 'Kṛṣṇa' (śrī treated as honorific, consistent with Bālakṛṣṇa); śarman/jośī kept as titles; 'jośī' noted as upanāma (surname)",
+   "date: weekday normalized to Monday; VS/ŚS concordance checked (1755 VS = 1620 ŚS = 1698 CE)",
+   "purpose: clarified as copy written and given to Kṛṣṇa Jośī, merit dedicated to Kṛṣṇa (deity)"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "apya dīkṣitasya",
+   "name": "Appayya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "dīkṣita",
+    "advaitavidyācārya"
+   ],
+   "affiliation": "Bharadvājakula",
+   "residence": "",
+   "evidence": "apya dīkṣitasya kṛtiḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīraṃgarājādhvarīṃdravara(2)dasūnor",
+   "name": "Raṅgarāja",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "adhvarīndra"
+   ],
+   "affiliation": "Bharadvājakula",
+   "residence": "",
+   "evidence": "śrīraṃgarājādhvarīṃdravara(2)dasūnor apya dīkṣitasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrībālakṛṣṇadaivajñātmajaṃ",
+   "name": "Bālakṛṣṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībālakṛṣṇadaivajñātmajaṃ suṃdareṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "suṃdareṇa",
+   "name": "Sundara",
+   "roles": [
+    "scribe",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Vārāṇasī",
+   "evidence": "suṃdareṇa ... likhitvā dattaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "jośī upanāmaka śrīkṛṣṇa śarma[[ṇe]]",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "owner",
+    "beneficiary"
+   ],
+   "titles": [
+    "jośī",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jośī upanāmaka śrīkṛṣṇa śarma[[ṇe]] likhitvā dattaṃ ... pustakaṃ śrīkṛṣṇa jośī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīraṃgarājādhvarīṃdravara(2)dasūnor apya dīkṣitasya"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "śrībālakṛṣṇadaivajñātmajaṃ suṃdareṇa"
+  },
+  {
+   "from": "p4",
+   "type": "wrote_for",
+   "to": "p5",
+   "evidence": "suṃdareṇa ... śrīkṛṣṇa śarma[[ṇe]] likhitvā dattaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1755 śake 1620 jyeṣṭhaśuddha 1 some",
+  "era": "VS",
+  "year": "1755",
+  "month": "Jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1698"
+ },
+ "place": {
+  "as_written": "avimukta vārāṇasī kṣetre",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "written and given to Kṛṣṇa Jośī; merit dedicated to Kṛṣṇa (śrīkṛṣṇārpaṇam astu)",
+ "notes": "The catalogue names Śrīkṛṣṇa Jośī as scribe, but according to the colophon Sundara, son of Bālakṛṣṇa Daivajña, wrote the copy and gave it to Kṛṣṇa Jośī ('jośī upanāmaka' = surname Jośī), who is the owner ('pustakaṃ śrīkṛṣṇa jośī'). The name may be Śrīkṛṣṇa, as the catalogue gives it. Here 'śrī' is taken as an honorific. The two eras agree: VS 1755 = ŚS 1620 = 1698 CE. 'śarma[[ṇe]]' is an editorial restoration of the dative. 'apya' is a corrupt form of Appayya. 'varada' in 'raṃgarājādhvarīṃdravaradasūnor' is read as an epithet and is not treated as a separate person.",
+ "_meta": {
+  "reel": "B 306/19",
+  "model": "opus",
+  "cost_usd": 0.11837999999999999,
+  "secs": 24.6
+ }
+}

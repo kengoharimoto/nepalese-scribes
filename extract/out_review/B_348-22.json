@@ -1,0 +1,63 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Author Kāśīnātha: confidence lowered from high to medium because the written form 'kāiśātha' is corrupt; the identification rests on the known authorship of the Lagnacandrikā.",
+   "Notes: explained that 'alekhī chrīpatis' is the sandhi of alekhīt śrīpatiḥ.",
+   "Notes: the scribe's verse comes after the end-colophon, in the appended rohiṇīcakra section, so it may strictly refer only to that appendix. It most likely covers the whole copy.",
+   "Notes: added that Pauṣa śukla 2 of VS 1704 falls about Dec 1647 / Jan 1648 CE."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāiśātha",
+   "name": "Kāśīnātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkāiśāthakṛtau lagnacaṃdrikāyāṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "chrīpatis",
+   "name": "Śrīpati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "alekhī chrīpatis tv adaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vikramābde ca vedāṃbaramuniṃdubhiḥ || pauṣaśukladvitīyāyām",
+  "era": "VS",
+  "year": "1704",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1647"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author's name is corrupt: 'kāiśātha' is taken as Kāśīnātha, the known author of the Lagnacandrikā. The year is a chronogram read right to left: veda 4, ambara 0, muni 7, indu 1, giving VS 1704 (agrees with the catalogue). Pauṣa śukla 2 of VS 1704 falls about Dec 1647 / Jan 1648 CE. 'alekhī chrīpatis' is the sandhi of alekhīt śrīpatiḥ. The scribe's verse comes after the end-colophon, in the appended rohiṇīcakra material, so strictly it may refer only to that appendix. It most likely dates the whole copy.",
+ "_meta": {
+  "reel": "B 348/22",
+  "model": "opus",
+  "cost_usd": 0.0706358,
+  "secs": 14.6
+ }
+}

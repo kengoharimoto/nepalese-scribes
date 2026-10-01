@@ -1,0 +1,112 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 Pratāparudradeva: role changed from 'king' to 'other'. He is the Gajapati of Orissa who sponsored the original work (the author calls himself a bee at his lotus feet). He is not the reigning king of this VS 1865 Kathmandu copy, so the catalogue's King field is misleading.",
+   "p1 Kṛṣṇānanda: residence cleared. Kāṣṭhamaṇḍapa is given only as the place of copying.",
+   "p3 and p4: confidence lowered. 'mahāprasādi/mahāprasāda' is probably a corruption of the Orissan office title mahāpātra. The author's personal name is uncertain.",
+   "Weekday normalized to ravivāra (Sunday).",
+   "Notes expanded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṛṣṇānanda sarmanaḥ",
+   "name": "Kṛṣṇānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ kṛṣṇānanda sarmanaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmahāerājādhirājapratāparūdradeva gajapati",
+   "name": "Pratāparudradeva",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "gajapati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahāerājādhirājapratāparūdradeva gajapatipādāravindaṣaṭpadāyammānasena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "viśveśva(10)ramahāprasādi",
+   "name": "Viśveśvara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mahāprasādin (mahāpātra?)"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viśveśva(10)ramahāprasādisutena",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "kadambeśvarāddhanyāsyānamahāprasādena",
+   "name": "Kadambeśvarāddhanyāsyāna",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāprasāda (mahāpātra?)"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kadambeśvarāddhanyāsyānamahāprasādena sunṛtavādināviracite",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "viśveśva(10)ramahāprasādisutena"
+  },
+  {
+   "from": "p4",
+   "type": "servant_of",
+   "to": "p2",
+   "evidence": "pratāparūdradeva gajapatipādāravindaṣaṭpadāyammānasena"
+  }
+ ],
+ "date": {
+  "as_written": "śrīvikramādityasaṃvat 1865 sāla vaiśāṣa śukla 13 ravivāsare",
+  "era": "VS",
+  "year": "1865",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "ravivāra (Sunday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1808"
+ },
+ "place": {
+  "as_written": "kāṣṭhamaṃḍapasthāne",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The first part of the colophon (iti ... tṛtīyā dīptiḥ) is the author's own closing statement. It names Gajapati Pratāparudradeva of Orissa (16th century) as the author's patron. The work is often attributed to that king himself. Here it is written by a court servant, son of Viśveśvara. The servant calls himself 'sunṛtavādin' ('speaker of truth'), which is probably an epithet. The servant's name is corrupt. 'kadambeśvarāddhanyāsyāna' may hide a place or temple name ('Kadambeśvara') plus a name, so treat the name as uncertain. 'mahāprasādi/mahāprasāda' probably stands for mahāpātra. Pratāparudradeva is not the reigning king of this copy: the catalogue's King field takes him from the author's statement. The scribe's own colophon names no ruler. The copy was made by Kṛṣṇānanda Śarman at Kāṣṭhamaṇḍapa (Kathmandu) in VS 1865 (c. 1808 CE), Vaiśākha śukla 13, on a Sunday. The weekday has not been checked.",
+ "_meta": {
+  "reel": "B 1263/24",
+  "model": "opus",
+  "cost_usd": 0.10092380000000001,
+  "secs": 25.7
+ }
+}

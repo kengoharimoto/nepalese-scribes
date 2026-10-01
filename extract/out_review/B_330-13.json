@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Śivadeva confidence lowered from high to medium: a lacuna follows the name ('śivadeva . . . . . ja sudhimān'). The gap may have held more of the name, e.g. dvija, or a patronymic, and 'rājasūnu' could mean 'son of Rāja-…' as well as 'prince'.",
+   "Evidence string changed to the name phrase plus the verb reading.",
+   "Notes: added that the samvatsara name may not match the year, and recorded the lacunae."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivadeva",
+   "name": "Śivadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "rājasūnu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ṣaḍvidhuge lile(kh)a śrīrājasūnu śivadeva",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśākavāṇanidhiṣaḍvidhuge ... somena yukta śubhavāruṇabhe navabhyāṃ krodhisamvatsara",
+  "era": "ŚS",
+  "year": "1695",
+  "month": "",
+  "paksa": "",
+  "tithi": "navamī",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "vāruṇa (Śatabhiṣaj)",
+  "ce_approx": "1773"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram vāṇa (5), nidhi (9), ṣaḍ (6), vidhu (1) is read right to left, giving Śaka 1695, i.e. about 1773/74 CE. This matches the catalogue field. 'gelileṣa' is probably 'ge lilekha', with ṣa written for kha ('wrote'). The samvatsara is given as 'krodhi(n)'. In the southern 60-year cycle Śaka 1695 is Vijaya, and Krodhin falls in Śaka 1706 (1784/85 CE). This may be a mismatch, or the scribe used a different reckoning of the cycle. The colophon has lacunae in the scribal verse ('yādṛśaṃ ... ') and after 'śivadeva' ('. . . . . ja sudhimān'). 'rājasūnu' may mean 'prince' or may be part of a patronymic. The month and pakṣa are not stated. The final clause 'svarodayapustakaṃ ca' has no verb that survives.",
+ "_meta": {
+  "reel": "B 330/13",
+  "model": "opus",
+  "cost_usd": 0.0722798,
+  "secs": 18.4
+ }
+}

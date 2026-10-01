@@ -1,0 +1,100 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Names given without the Jain title sūri: Jayasāgarasūri → Jayasāgara and Sundarasūri → Sundara, with 'sūri' moved to titles.",
+   "Read 'bhaya' as an abbreviation of bhaṭṭāraka and added it to the titles of p2 and p3.",
+   "Changed the affiliation from Pūrṇimāgaccha to Sādhupūrṇimāgaccha, a known branch: 'śrīsādhu pūrṇimā gache' is the gaccha name, so 'sādhu' is not a title of Sundara. Removed 'sādhu' from p2's titles.",
+   "Changed Akbar's title reading to 'mudgalapātasāha' (Mughal pādśāh); the 'vā' is the cataloguer's doubtful reading.",
+   "Moved 'manmatha' out of nakshatra_yoga: it is the name of the 60-year (Jovian) year, not a nakṣatra or yoga. It is now recorded in notes.",
+   "Cleared place.normalized: identifying Sonakacha with Sonkatch is plausible but not certain.",
+   "The pupil_of relation is kept but annotated: tatpaṭṭe means successor on the pontifical seat (paṭṭa), not necessarily a direct pupil."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mudgala(vā)ta(8)sāha śrīakabararājye",
+   "name": "Akabara",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mudgalapātasāha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mudgala(vā)ta(8)sāha śrīakabararājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaya śrīsādhu suṃdarasūri",
+   "name": "Sundara",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "bhaṭṭāraka",
+    "sūri"
+   ],
+   "affiliation": "Sādhupūrṇimāgaccha",
+   "residence": "",
+   "evidence": "śrīsādhu pūrṇimā gache | bhaya śrīsādhu suṃdarasūri",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bhaya śrījayasāgarasūribhir",
+   "name": "Jayasāgara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭāraka",
+    "sūri"
+   ],
+   "affiliation": "Sādhupūrṇimāgaccha",
+   "residence": "",
+   "evidence": "tatpa(9)hebhaya śrījayasāgarasūribhir meghamālāgaṃtha likhitam asti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "suṃdarasūri tatpa(9)hebhaya śrījayasāgarasūribhir"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīakabararājye"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1644 varṣe | śāke 1509 pravarttamāne | ṣaṣṭyābdamadhye manmathanāmasaṃvatsare | ... prathamavaiśāṣavadi 11 ravi(9)vāsare",
+  "era": "VS",
+  "year": "1644",
+  "month": "prathama Vaiśākha (adhika)",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1587"
+ },
+ "place": {
+  "as_written": "mālapakakṣetre || ... ūcanudasamīpe sonakachagṛāme",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "VS 1644 and ŚS 1509 agree: both give 1587 CE. The text also names the year as 'manmathanāmasaṃvatsara' in the 60-year cycle. In the standard southern reckoning, 1587/88 is Sarvajit, not Manmatha. The name may follow a northern Bārhaspatya reckoning or may be an error; this has not been verified. 'prathamavaiśāṣa' means the first (intercalary) Vaiśākha. 'vadi' means the dark fortnight (pūrṇimānta reckoning). 'mālapakakṣetre' probably stands for Mālavakṣetre (Malwa). 'ūcanuda' is unidentified. 'sonakacha' may be Sonkatch near Dewas (Madhya Pradesh), but this is uncertain. 'bhaya' is probably the abbreviation 'bha°' for bhaṭṭāraka. 'tatpahe' stands for tatpaṭṭe: Jayasāgara succeeded Sundara(sūri) on the paṭṭa, which may not mean a direct teacher–pupil link. The name could also be read Sādhusundara, but 'śrīsādhu' more likely repeats the gaccha name. 'meghamālāgaṃtha' stands for meghamālāgrantha. The opening list (śāka, kuśa, krauñca, śālmali, ...) names dvīpas from the text and contains no persons.",
+ "_meta": {
+  "reel": "B 346/11",
+  "model": "opus",
+  "cost_usd": 0.1167878,
+  "secs": 33.8
+ }
+}

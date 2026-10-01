@@ -1,0 +1,92 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2: confidence lowered to low; 'paramasevācārya' may be a title/epithet or a corrupt name (e.g. Paramaśiva) rather than a clear personal name",
+   "date: weekday normalized to 'Saturday (śanaiścara)'; nakshatra_yoga normalized; month kept; pakṣa left blank (corrupt 'ktaghna')",
+   "notes: added that the VS 1980 catalogue date (1923 CE) suggests this may be a modern apograph that reproduces an NS 406 exemplar's colophon"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājādhirāja śrīmadanantamalladevasya",
+   "name": "Anantamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājādhirāja śrīmadanantamalladevasya vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmatparamasevācāryasya",
+   "name": "Paramaseva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatparamasevācāryasya putra",
+   "confidence": "low"
+  },
+  {
+   "pid": "p3",
+   "as_written": "paśupatidāsena",
+   "name": "Paśupatidāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paśupatidāsena likhitamida pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīmatparamasevācāryasya putra paśupatidāsena"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīmadanantamalladevasya vijayarājye"
+  }
+ ],
+ "date": {
+  "as_written": "śrīman nepālika samvatsara 406 mārgaśīṛṣaktaghna . ekādaśyāṃ tithau | śaniścaravāsare | svāti nakṣatre | śobhana yoge",
+  "era": "NS",
+  "year": "406",
+  "month": "Mārgaśīrṣa",
+  "paksa": "",
+  "tithi": "ekādaśī (11)",
+  "weekday": "Saturday (śanaiścara)",
+  "nakshatra_yoga": "Svāti nakṣatra; Śobhana yoga",
+  "ce_approx": "1285"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives NS 406 (Mārgaśīrṣa → c. Nov/Dec 1285 CE), which fits the reign of Anantamalla (c. 1274–1310). The catalogue's 'VS 1980' (1923 CE) conflicts with this. The manuscript may be a modern copy that reproduces the colophon of an NS 406 exemplar, in which case the persons and date belong to the exemplar. The pakṣa word 'ṣaktaghna' is corrupt and cannot be read safely. 'Paramasevācārya' is doubtful as a personal name: it may be an epithet/title or a corruption, perhaps of Paramaśiva.",
+ "_meta": {
+  "reel": "B 520/4a",
+  "model": "opus",
+  "cost_usd": 0.08041580000000001,
+  "secs": 15.7
+ }
+}

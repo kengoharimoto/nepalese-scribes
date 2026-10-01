@@ -1,0 +1,73 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 Bhāgirāma: role changed from 'governor' to 'minister'. In Malla-period Newari colophons, paramāna/pramāna (= pradhāna/pramāṇa) is the chief minister or noble office. The phrase 'X-yā velasa' (in the time of X) is the usual formula for naming a minister.",
+   "Relation p2→p1 changed from under_reign_of to servant_of, since a minister serves the king.",
+   "ce_approx changed from 1690 to 1689. NS 810 begins in Kārttika 1689 CE, so Kārttika śukla 9 falls in about Oct/Nov 1689.",
+   "Notes expanded: the catalogue's 'Scribe: Bhāgīrāma' is wrong, and the scribe is not named. The place is not stated, though the king reigned at Bhaktapur."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumatijayajitāmitramalladevasana",
+   "name": "Sumatijayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumatijayajitāmitramalladevasana, thva pustaka dayakā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhāgirāmaparamānayā",
+   "name": "Bhāgirāma",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "paramāna (pramāṇa/pradhāna)"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgirāmaparamānayā velasa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "servant_of",
+   "to": "p1",
+   "evidence": "bhāgirāmaparamānayā velasa"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 810 kārttika sudi 9",
+  "era": "NS",
+  "year": "810",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1689"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"Made at the order of King Jitāmitramalla\"",
+ "notes": "The colophon reads 'thva pustaka dayakā', meaning the king had this book made, so he is the commissioner. Bhāgirāma is named only to date the copy, as paramāna (minister) 'in whose time' it was made. He is not the scribe, so the catalogue's 'Scribe: Bhāgīrāma' is a misreading, and the scribe is not named. The colophon spells the name Bhāgirāma (short i), while the catalogue has Bhāgīrāma. The place of copying is not stated. Sumatijayajitāmitramalla was king of Bhaktapur, so Bhaktapur is likely but has not been entered. NS 810 Kārttika śukla 9 is about Oct/Nov 1689 CE.",
+ "_meta": {
+  "reel": "B 330/10",
+  "model": "opus",
+  "cost_usd": 0.0714558,
+  "secs": 16.2
+ }
+}

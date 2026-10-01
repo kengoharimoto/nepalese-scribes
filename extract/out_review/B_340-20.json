@@ -1,0 +1,34 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday: 'roja 7' interpreted as Saturday (7th day counting from Sunday); kept the original wording in brackets",
+   "notes: added that 'saṃvat 1871' does not agree with Śaka 1793 if read as VS (VS 1871 = c. 1814 CE, whereas Śaka 1793 = VS 1928); it agrees only if read as the CE year. Also noted that it sits oddly inside the text and is placed before the verses, not in the final colophon"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1871 [...] śāke 1793 bhādravadi 11 roja 7",
+  "era": "ŚS",
+  "year": "1793",
+  "month": "Bhādrapada",
+  "paksa": "kṛṣṇa (vadi)",
+  "tithi": "11",
+  "weekday": "Saturday (roja 7)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1871"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names no persons. The final dating is Śaka 1793 Bhādra vadi 11, roja 7 (Saturday), which is 1871 CE. The 'saṃvat 1871' that comes earlier, inside the text, does not agree with this date if it is read as Vikrama: VS 1871 would be about 1814 CE, while Śaka 1793 is VS 1928. It agrees only if it is read as the Christian year 1871, which is unusual but possible in a late manuscript. Another possibility is that it belongs to an earlier exemplar, or is a stray marginal number that got copied into the text. The catalogue's 'SAM 1871' and 'ŚS 1793' therefore point to the same year only if SAM means CE. I took the Śaka date as authoritative.",
+ "_meta": {
+  "reel": "B 340/20",
+  "model": "opus",
+  "cost_usd": 0.0621878,
+  "secs": 13.7
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p3 Śyāmasundara: role 'owner' removed. 'śyāmasūndarayāṃ tithi' seems to mean 'on the tithi of Śyāmasundara' (Newari genitive -yā), not 'his book'. Role changed to 'other' at low confidence; he may not be a human connected with this copy.",
+   "Removed the wrote_for relation p1→p3 because the colophon does not support it.",
+   "p1: confidence lowered to medium. The doubled 'śrīsrī' allows either Śrīnātharāma (catalogue reading, kept) or Nātharāma with a doubled honorific.",
+   "Date checked: NS 959 Mārgaśira śukla 5, roja 5 = Thursday. Mārgaśira of NS 959 falls in late 1838 CE, so ce_approx 1838 stands."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsrīnātharāmena",
+   "name": "Śrīnātharāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kusheputraśrīsrīnātharāmenajikhitaṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kushe",
+   "name": "Kuśe",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kusheputra",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śyāmasūndarayāṃ",
+   "name": "Śyāmasundara",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śyāmasūndarayāṃ tithi",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "kusheputraśrīsrīnātharāmena"
+  }
+ ],
+ "date": {
+  "as_written": "saṃ 959 mārgaṃ śiraśukra 5 roja 5",
+  "era": "NS",
+  "year": "959",
+  "month": "Mārgaśira",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1838"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"possibly for the tithi (anniversary/observance) of Śyāmasundara\"",
+ "notes": "\"'jikhitaṃ' is an error for 'likhitaṃ'. 'śrīsrīnātharāmena' may be read as Śrīnātharāma (the catalogue's reading) or as śrīśrī + Nātharāma. 'kushe' is probably the Newari personal name Kuśe (father of the scribe). 'śyāmasūndarayāṃ tithi' is unclear. It may mark the day as a tithi connected with Śyāmasundara: perhaps a person's śrāddha or anniversary, or the epithet of Kṛṣṇa, which would make it a deity. It is not an ownership statement. The weekday 'roja 5' = Thursday.\"",
+ "_meta": {
+  "reel": "E 402/9",
+  "model": "opus",
+  "cost_usd": 0.08375180000000002,
+  "secs": 18.9
+ }
+}

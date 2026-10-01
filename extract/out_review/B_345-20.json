@@ -1,0 +1,87 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 (Rāma): confidence lowered to medium because 'praohita' is a corrupt spelling, read as purohita (a title, not part of the name).",
+   "p3 (Devadatta): kept as scribe only, confidence set to medium. 'alīliṣat' stands for alīlikhat. That form is formally causative, but here it goes with the instrumental 'devadattena' and is loosely used to mean 'wrote'. There is no separate commissioner, so no commissioner role was added.",
+   "Date: month normalised to Vaiśākha and pakṣa to śukla. The odd 'śudi 30 anaṃtarapratipadāyāṃ' is flagged in the notes. VS and 1582 CE are confirmed.",
+   "Notes: corrected the catalogue's King field. Ṭoḍaramalla is the author or patron of the text, not the reigning king of this copy, and 'Ṭoḍarānanda' is the title of the work."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmanmahārājādhirājaśrīṭoḍaramalla",
+   "name": "Ṭoḍaramalla",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanmahārājādhirājaśrīṭoḍaramallaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "praohitarāma",
+   "name": "Rāma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "purohita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "praohitarāmātmajena",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "devadattena",
+   "name": "Devadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "praohitarāmātmajena devadattena alīliṣat",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "praohitarāmātmajena devadattena"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1639 varṣe viśākha śudi 30 anaṃtarapratipadāyāṃ śukre",
+  "era": "VS",
+  "year": "1639",
+  "month": "Vaiśākha",
+  "paksa": "śukla (śudi)",
+  "tithi": "30, then the following pratipad (anaṃtarapratipadā)",
+  "weekday": "Friday (śukra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1582"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The catalogue's King field ('Ṭoḍarānanda Malla') is wrong. Ṭoḍaramalla (Rājā Todar Mal, d. 1589) is named as author or patron of the Ṭoḍarānanda, of which the Horāsaukhya is a part, and 'Ṭoḍarānanda' is the work's title. He is not the reigning king of this copy, and no reigning ruler is named. 'saṃvat 1639' in this Devanagari, North Indian setting is taken as Vikrama, giving 1582 CE; this also fits Todar Mal's lifetime. The tithi is irregular: a bright fortnight normally ends at 15, so 'śudi 30' plus 'the following pratipad' may be a slip for vadi 30 (amāvāsyā), or it may mean the full moon followed by pratipad. 'praohita' is read as purohita. 'alīliṣat' stands for alīlikhat ('wrote / caused to be written'). The catalogue gives Devadatta as scribe, and that is accepted here. 'lleṣakapāṭhakayoḥ' (for lekhakapāṭhakayoḥ) is a standard blessing on scribe and reader, not a named person.",
+ "_meta": {
+  "reel": "B 345/20",
+  "model": "opus",
+  "cost_usd": 0.0866278,
+  "secs": 21.3
+ }
+}

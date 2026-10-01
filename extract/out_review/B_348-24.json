@@ -1,0 +1,79 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: as_written trimmed to the name itself ('varāhamihira'); 'avaṃtikācārya' recorded as residence Avantī (Ujjain) and title 'ācārya'",
+   "p2: confidence lowered to medium because the reading 'pahotpala' is corrupt; the identification as Bhaṭṭotpala, the known commentator on the Laghujātaka, is otherwise secure",
+   "date: weekday normalized to 'Friday (śukra)'; NS 856 + 880 = 1736 CE confirmed"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "varāhamihira",
+   "name": "Varāhamihira",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "Avantī",
+   "evidence": "avaṃtikācāryya śrī varāhamihirakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "pahotpala",
+   "name": "Bhaṭṭotpala",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pahotpala viracitāyāṭīkāyāṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "amalasiṃhadavajña",
+   "name": "Amalasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ amalasiṃhadavajña",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 856 āṣāḍha vadi 5 śukradine",
+  "era": "NS",
+  "year": "856",
+  "month": "Āṣāḍha",
+  "paksa": "vadi (kṛṣṇa)",
+  "tithi": "5",
+  "weekday": "Friday (śukra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1736"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'pahotpala' is a corrupt form, probably a misreading or scribal error for Bhaṭṭotpala, the commentator on the Laghujātaka. 'amalasiṃhadavajña' stands for Amalasiṃha daivajña. The era is not named; NS is assumed from the Newari script and the catalogue field. The colophon is the end of chapter 13 (naṣṭajātakādhyāya) and says 'saṃpūrṇṇa'.",
+ "_meta": {
+  "reel": "B 348/24",
+  "model": "opus",
+  "cost_usd": 0.056077,
+  "secs": 15.1
+ }
+}

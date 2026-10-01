@@ -1,0 +1,84 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 Indrānanda: removed 'owner' — the colophon says only that the copy was written and given to him (-yāta ... viyā); kept 'beneficiary'",
+   "p3 Toraṇānanda: added 'donor' because 'coyājo viyā jula' means 'wrote and gave'",
+   "date: month normalised to vaiśākha (written vaiśāṣa); weekday glossed as Tuesday; era NS is an inference, recorded in notes",
+   "purpose reworded"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "aśvaghoṣakṛte",
+   "name": "Aśvaghoṣa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "aśvaghoṣakṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīindrānaṃdayāta",
+   "name": "Indrānanda",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīindrānaṃdayāta, toraṇānaṃdanaṃ coyājo viyā jula",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "toraṇānaṃdanaṃ",
+   "name": "Toraṇānanda",
+   "roles": [
+    "scribe",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "toraṇānaṃdanaṃ coyājo viyā jula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "śrīindrānaṃdayāta, toraṇānaṃdanaṃ coyājo viyā jula"
+  }
+ ],
+ "date": {
+  "as_written": "śubhasamvat 1011miti vaiśāṣakṛṣṇa 3 maṃgalavāra",
+  "era": "NS",
+  "year": "1011",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "3",
+  "weekday": "maṅgalavāra (Tuesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1891"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "written by Toraṇānanda and given to Indrānanda (śrīindrānaṃdayāta ... coyājo viyā jula)",
+ "notes": "The era is not named ('śubhasamvat'). I read it as Nepāla Saṃvat (NS) because the colophon is in Newari and has the '-miti' formula. That gives 1891 CE, which fits a late Devanagari paper copy of the Buddhacarita (the Nepalese Buddhacarita manuscripts are 19th-century copies). The weekday was not verified against an ephemeris. 'viyā' (gave) shows the copy was a gift from the scribe to Indrānanda. The two men are not said to be related.",
+ "_meta": {
+  "reel": "B 319/17",
+  "model": "opus",
+  "cost_usd": 0.0723278,
+  "secs": 16.4
+ }
+}

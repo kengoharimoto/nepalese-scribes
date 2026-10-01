@@ -1,0 +1,62 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: as_written trimmed to 'śrīnāgabhaṭṭa'. Removed 'bhaṭṭa' from titles: it is kept as part of the conventional author name Nāgabhaṭṭa, so listing it as a title as well was inconsistent.",
+   "date: 'praºº' is read tentatively as an abbreviation of pratipadā and entered as the tithi. ce_approx refined to 1680 (Caitra śukla of NS 800 falls in spring 1680 CE).",
+   "notes: expanded on the status of 'gaṇarāja'."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnāgabhaṭṭa",
+   "name": "Nāgabhaṭṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnāgabhaṭṭaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gaṇarāja",
+   "name": "Gaṇarāja",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "|| gaṇarāja ||",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 800 caitraśu ºº praºº",
+  "era": "NS",
+  "year": "800",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "pratipadā (?)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1680"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is not stated. 'saṃvat 800' in a Newari-script manuscript is taken as NS, which agrees with the catalogue field. The date is heavily abbreviated: 'praºº' probably stands for pratipadā, but it is uncertain. 'gaṇarāja', written alone between daṇḍas after the date, is most likely the scribe's signature or an owner's name, which is common at that position in Newari colophons. It could also be an invocation of Gaṇeśa (Gaṇarāja being an epithet of the god). Its role is therefore left as 'other' with low confidence. The bhaṭṭa element in Nāgabhaṭṭa is kept as part of the author's conventional name.",
+ "_meta": {
+  "reel": "A 155/3",
+  "model": "opus",
+  "cost_usd": 0.0736878,
+  "secs": 16.2
+ }
+}

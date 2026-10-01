@@ -1,0 +1,48 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. Persons, date, era and ce_approx (NS 900 + 880 = 1780; Śrāvaṇa of NS 900 falls in mid-1780) are correct.",
+   "Notes expanded: the uncertainty about Divākara is explained in more detail, and the nakṣatra and weekday terms in the appended verse are marked as not part of the copying date."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdivākarāya",
+   "name": "Divākara",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdivākarāya rastu",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīnepālasamvatsaragate 900 śrāvaṇaśulkatṛtīyāyāṃ tīthau (!) uttarabhadraṇakṣatre (!) dhṛtiyoge śukravāsare",
+  "era": "NS",
+  "year": "900",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "tṛtīyā",
+  "weekday": "śukravāsara (Friday)",
+  "nakshatra_yoga": "uttarabhadra(pada), dhṛti",
+  "ce_approx": "1780"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "'śrīdivākarāya rastu (!)' is probably 'śrīdivākarāyāstu', a dative blessing meaning '[may it] be for Divākara'. That would fit a human owner or beneficiary named Divākara. It could also be a garbled invocation to the Sun god (Divākara), possibly a corruption of '...namo 'stu'. If it is the deity, delete p1, which is why its confidence is low. The colophon names no scribe or place. After the completion formula the copy adds a Svarodaya verse about weapons made on a Tuesday with Kṛttikā or Viśākhā; the cataloguer supplied '[[rodaye]]'. That verse's nakṣatras and weekday are not part of the copying date. 'ttaddine' is a corruption of 'taddine'. The colophon agrees with the catalogue date (NS 900).",
+ "_meta": {
+  "reel": "C 28/8",
+  "model": "opus",
+  "cost_usd": 0.0716678,
+  "secs": 16.4
+ }
+}

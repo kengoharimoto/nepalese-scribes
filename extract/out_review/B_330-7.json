@@ -1,0 +1,47 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes; refined the notes on the unnamed scribe, the obscure word 'śūramṛhāṭha' and the date conversion."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī śivadāsa",
+   "name": "Śivadāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śivadāsa vinirmite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1716 varṣe māsa kārttika sudi paurṇamāsi gurudine",
+  "era": "VS",
+  "year": "1716",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "paurṇamāsī",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1659"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon does not name the scribe. It only has the formula 'lekhaka pāṭhakayo śubhaṃ bhavatu'. The word 'śūramṛhāṭha' before the author's name is obscure and probably corrupt. It may be an epithet, a family or place name, or a garbled honorific; it is not treated as a person. The era is not named and is taken as VS (saṃvat, sudi), which matches the catalogue. Kārttika śukla 15 of VS 1716 falls in Oct/Nov 1659 CE whether the year is reckoned from Caitra or from Kārttika. The weekday (gurudina, Thursday) has not been checked.",
+ "_meta": {
+  "reel": "B 330/7",
+  "model": "opus",
+  "cost_usd": 0.0598118,
+  "secs": 12.2
+ }
+}

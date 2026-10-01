@@ -1,0 +1,103 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed 'Śrīnagara' as Viṣṇuvallabha's residence: the colophon gives it only as the place of copying ('śrīnagarabhye likhat').",
+   "Cleared purpose: 'likhat svayam' says the scribe wrote it himself, not that he wrote it for himself. No svārtha or owner role is stated.",
+   "Emptied place.normalized: 'Śrīnagara' could be Srinagar in Garhwal, Srinagar in Kashmir or another place, so the identification is not certain.",
+   "Lowered confidence for tithi 2 (read from corrupt 'dvikegatyā') and explained it in notes.",
+   "Expanded notes on the chronogram (1692) vs the figure (1693), the CE conversion for Māgha, and the 'leṣaka pāṭhayo' formula."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhānudatta miśra",
+   "name": "Bhānudatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhānudatta miśra viracitā rasamaṃjarī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "tāta śrī harivaṃśa bhaṭṭa",
+   "name": "Harivaṃśa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tāta śrī harivaṃśa bhaṭṭaika caraṇaśaraṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "gopāla bhṭṭa",
+   "name": "Gopāla",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gopāla bhṭṭakṛtā rasika raṃjanī ṭīkā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "viṣṇu vallabhena",
+   "name": "Viṣṇuvallabha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitā viṣṇu vallabhena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "tāta śrī harivaṃśa bhaṭṭaika caraṇaśaraṇa gopāla bhṭṭakṛtā"
+  }
+ ],
+ "date": {
+  "as_written": "netrāṃkabhūpa pramite śāke māghe gurau dvikegatyā(!) ... 1693",
+  "era": "ŚS",
+  "year": "1693",
+  "month": "māgha",
+  "paksa": "",
+  "tithi": "2",
+  "weekday": "gurau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1772"
+ },
+ "place": {
+  "as_written": "śrīnagarabhye",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'netrāṅkabhūpa' read right to left gives bhūpa 16, aṅka 9, netra 2, i.e. Śaka 1692. The figure written in the colophon is 1693. The text says 'śāke', so the era is taken as ŚS, even though the catalogue just has 'Saṃ. 1693(!)'. If it were VS, the date would be 1636 CE. ŚS 1693 + 78 = 1771, but Māgha falls in January–February, so Māgha of Śaka 1693 is early 1772 CE. If the chronogram's 1692 is right, it is early 1771 CE. 'dvikegatyā(!)' is corrupt. It probably hides the 2nd tithi ('dvitīyāyāṃ'?), but this is uncertain, and the pakṣa is not stated. 'śrīnagarabhye' is probably 'śrīnagarākhye' or '-madhye'. Which Śrīnagara is meant (Garhwal, Kashmir, etc.) is not certain. 'leṣaka pāṭhayo(!)' is the stock blessing 'lekhakapāṭhakayoḥ śubham' and names no one. 'likhat svayam' just means the scribe wrote it himself.",
+ "_meta": {
+  "reel": "B 308/29",
+  "model": "opus",
+  "cost_usd": 0.442532,
+  "secs": 26.6
+ }
+}

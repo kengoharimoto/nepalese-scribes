@@ -1,0 +1,69 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Persons, roles, relations and the empty date are confirmed. Only the notes were expanded, to cover the catalogue's King field and the catalogue date."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmajjayaraṇajitmalladeva",
+   "name": "Jayaraṇajitmalladeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "dinakarānvaya (solar dynasty), Malla",
+   "residence": "nepālamaṇḍala",
+   "evidence": "śrī śrīmajjayaraṇajitmalladevakṛtā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmajjayabhūpatīndramalladeva",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "Malla",
+   "residence": "",
+   "evidence": "śrī śrīmajjayabhūpatīndramalladevātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīmajjayabhūpatīndramalladevātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The quoted text is the closing rubric of the work. It names Raṇajitmalla of Bhaktapur as the author and his father Bhūpatīndramalla. It names no scribe, patron or date for this copy. The catalogue gives the copying date as NS 886 (c. 1766 CE), but this date is not in the quoted colophon. The catalogue's King field, Bhūpatīndramalla, looks wrong. He ruled c. NS 816–842 (1696–1722 CE) and appears here only as the author's father. If NS 886 is right, the reigning king would be Raṇajitmalla himself (r. 1722–1769). He is not recorded as king of this copy because the colophon does not say so. The scribe wrote 'samāmāpti' (marked '!') for 'samāpti'.",
+ "_meta": {
+  "reel": "B 325/23",
+  "model": "opus",
+  "cost_usd": 0.0679198,
+  "secs": 16.3
+ }
+}

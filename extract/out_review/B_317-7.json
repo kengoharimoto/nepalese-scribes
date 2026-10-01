@@ -1,0 +1,37 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Persons/relations confirmed empty: the 'mantrī' for whose reading the copy was made is not named, so no person record.",
+   "Date confirmed: Śaka 1758 + 78 = 1836 and VS 1893 − 57 = 1836, so the two eras agree.",
+   "Notes: added that the catalogue field 'ŚS 1785' does not match the colophon's 'śāke 1758'. The catalogue figure is probably a digit transposition.",
+   "Notes: Bālācaturdaśī is kṛṣṇa caturdaśī of Mārgaśīrṣa (Mangsir), which fits 'māse 8' if the months are counted from Vaiśākha. The paksa field is left empty because the colophon does not state it.",
+   "Purpose wording tidied."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śrī śāke 1758 sāl 1893 māse 8 tithau balācaturdaśī",
+  "era": "ŚS",
+  "year": "1758",
+  "month": "8",
+  "paksa": "",
+  "tithi": "balācaturdaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1836"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "maṃtrīpāṭḥārtham: for reading by a (unnamed) minister",
+ "notes": "The colophon names no scribe, commissioner, owner or king. The copy was made for an unnamed minister to read ('maṃtrīpāṭḥārtham'). The text is a Gorkhali (Nepali) rendering ('gorakṣavālī bhāsā') of the Daśakumāracarita, and this is the end of the 8th ucchvāsa. Two eras are given and they agree: Śaka 1758 and VS ('sāl') 1893 both give CE 1836. The catalogue field 'ŚS 1785' does not match the colophon's 'śāke 1758' and is probably a digit transposition; its 'VS 1893' is correct. 'māse 8' probably means the 8th month counted from Vaiśākha, i.e. Mārgaśīrṣa/Mangsir. That is the month of Bālācaturdaśī (kṛṣṇa 14), which would put the date around late 1836 CE.",
+ "_meta": {
+  "reel": "B 317/7",
+  "model": "opus",
+  "cost_usd": 0.0641878,
+  "secs": 14.8
+ }
+}

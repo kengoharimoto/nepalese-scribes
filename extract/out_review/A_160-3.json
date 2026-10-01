@@ -1,0 +1,142 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Jayadeva: his role changed from 'scribe' to 'other'. He wrote the palm-leaf exemplar in NS 439/539, not this 1934 copy. Name stripped to 'Jayadeva' with 'varmā' moved to titles. Affiliation split into the two vihāras.",
+   "p2 Jagajjyotirmalladeva: role changed from 'king' to 'other'. He was reigning when the exemplar was copied, not when this VS 1991 transcript was made.",
+   "p3 Keśara (General Kaiser Shumsher): role changed from 'owner' to 'other'. He collected the exemplar, not this copy. Name stripped to 'Keśara' with 'varmā' moved to titles.",
+   "p4 Hemarāja: 'śarmā' moved from the name to titles.",
+   "p5 Pūrṇaprasāda: 'śarmā' moved from the name to titles.",
+   "Added a relation from p5 to p3 (copied from the exemplar in p3's collection).",
+   "Notes: added the exemplar's full date and flagged the NS 439 vs NS 539 problem. 539 fits Jyotirmalla's reign; 439 does not.",
+   "Purpose: 'śubhāya bhavatu' is now labelled as a benediction. Jayadeva's 'svārthahetunā' (for his own purpose) applies to the exemplar, not this copy."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījayadevavarmaṇā",
+   "name": "Jayadeva",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "varmā",
+    "pradhānāṅgapātra"
+   ],
+   "affiliation": "Dakṣiṇāvihāra; Yothāvihāra",
+   "residence": "Lalitapattana, Māniglaka",
+   "evidence": "lalitapattane purādhivāsinā †śrīmāniglake† ... śrījayadevavarmaṇā naḥ svārthahetunā svahastena ... likhitam. ityantalekhayutāt",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "daityanārāyaṇayuvarājaśrīśrījagajjyotirmalladevānāṃ",
+   "name": "Jagajjyotirmalladeva",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "yuvarāja",
+    "daityanārāyaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daityanārāyaṇayuvarājaśrīśrījagajjyotirmalladevānāṃ vijayarājye likhitam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "janaralakeśaravarma",
+   "name": "Keśara",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "janarala",
+    "varmā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "janaralakeśaravarmasaṃṅgṛhītāt ... tāḍapatrapustākād uddhṛtya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "rājaguruhemarājaśarmavidvadvarākhyayā",
+   "name": "Hemarāja",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "mānyavara",
+    "prabalagorakhādakṣiṇabāhu",
+    "rājaguru",
+    "śarmā",
+    "vidvadvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājaguruhemarājaśarmavidvadvarākhyayā ... likhitam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "pūrṇaprasādaśarmaṇā",
+   "name": "Pūrṇaprasāda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarmā"
+   ],
+   "affiliation": "",
+   "residence": "Kathmandu",
+   "evidence": "nepālakāṣṭhamaṇḍaparājadhānyāṃ pūrṇaprasādaśarmaṇā likhitam idaṃ pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "śrījayadevavarmaṇā ... jagajjyotirmalladevānāṃ vijayarājye likhitam"
+  },
+  {
+   "from": "p5",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "hemarājaśarmavidvadvarākhyayā ... pūrṇaprasādaśarmaṇā likhitam"
+  },
+  {
+   "from": "p5",
+   "type": "other",
+   "to": "p3",
+   "evidence": "keśaravarmasaṃṅgṛhītāt ... tāḍapatrapustākād uddhṛtya ... pūrṇaprasādaśarmaṇā likhitam"
+  }
+ ],
+ "date": {
+  "as_written": "1991 vaikramābde",
+  "era": "VS",
+  "year": "1991",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1934"
+ },
+ "place": {
+  "as_written": "nepālakāṣṭhamaṇḍaparājadhānyāṃ",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "no purpose stated for this copy; ends with the benediction 'śubhāya bhavatu'",
+ "notes": "This manuscript is a paper transcript made in Kathmandu in VS 1991 (1934/35 CE). Pūrṇaprasāda copied it on the order of Rājaguru Hemarāja from a palm-leaf manuscript collected by General Keśara (Kaiser Shumsher Rana); the colophon calls that source largely corrupt ('prāyaśo .śuddha'). The transcript reproduces the source's own colophon ('ityantalekhayutāt'). In that colophon, Jayadeva(varmā) of Lalitapattana (Māniglaka), attached to Dakṣiṇāvihāra and Yothāvihāra, says he wrote it with his own hand for his own purpose ('svārthahetunā svahastena'). He did so on Māgha kṛṣṇa 2, under Uttaraphālgunī, in yoga Mūla, on a Sunday, in the reign of Yuvarāja Jagajjyotirmalla. Because of this, Jayadeva and the king are recorded with role 'other', not as scribe and king of this copy. The year of the source is a problem. The quoted colophon reads 'samvat 439' (1319 CE), but the catalogue gives NS 539 (1419 CE). 539 fits Jyotirmalla, son of Jayasthitimalla, who ruled about 1408–1428. 439 fits no known Jagajjyotirmalla. So 539 is probably correct and the '439' in the quotation is probably a typo; it needs checking on the reel. Several readings are uncertain: '†śrīmāniglake†' is marked corrupt by the cataloguer; 'āddhavanāyakamūrtyaṅgapradhānāṅgapātra' is an unclear string of office titles; and 'śrīdaºº.kaºº' is an abbreviated title of Keśara.",
+ "_meta": {
+  "reel": "A 160/3",
+  "model": "opus",
+  "cost_usd": 0.1466078,
+  "secs": 43.1
+ }
+}
