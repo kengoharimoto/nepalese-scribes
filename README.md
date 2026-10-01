@@ -4,12 +4,14 @@ A register of the people named in Nepalese manuscripts (scribes, commissioners, 
 reigning kings, teachers, and the kin named to identify them), built from the NGMCP catalogue
 entries in `/mnt2/kengo/E-texts/NGMCP` (13,382 HTML files, 11,861 microfilm reels).
 
-Chart: `out/nepalese_scribes.html` (published as https://claude.ai/artifact/VyE9X9o4i9sHdkHYbec1ZT).
+Chart: https://kengoharimoto.github.io/nepalese-scribes/ (built from `out/nepalese_scribes.html` by
+`.github/workflows/pages.yml` on every push that changes it; a private copy is also kept as a
+claude.ai artifact).
 
-Repository: https://github.com/kengoharimoto/nepalese-scribes (private; the local working copy is
-`/mnt2/kengo/nepalese_scirbes`). It holds the parsed catalogue (`data/records.jsonl`) and the
-colophon excerpts quoted in the extraction outputs, so check the NGMCP catalogue's reuse terms
-before making it public.
+Source data: the NGMCP descriptive catalogue (Nepalese-German Manuscript Cataloguing Project,
+University of Hamburg). `data/records.jsonl` and the extraction outputs contain catalogue fields
+and the colophon excerpts quoted by the cataloguers. The Hamburg wiki was taken offline in July 2025;
+a mirror of its files is published under CC0 at https://github.com/INDOLOGY/NGMCP-Descriptive-Catalogue.
 
 ## Pipeline
 

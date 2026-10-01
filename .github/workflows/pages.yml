@@ -1,0 +1,38 @@
+# Publish the chart to GitHub Pages. out/nepalese_scribes.html is a page body (it is also published as
+# a claude.ai artifact, which adds its own document skeleton), so wrap it in a standalone document here.
+name: pages
+on:
+  push:
+    branches: [main]
+    paths: [out/nepalese_scribes.html, .github/workflows/pages.yml]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: true
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Wrap chart as index.html
+        run: |
+          mkdir -p _site
+          {
+            printf '<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n'
+            printf '<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">\n'
+            printf '<style>body{margin:0}img{max-width:100%%}[hidden]{display:none!important}</style>\n</head>\n<body>\n'
+            cat out/nepalese_scribes.html
+            printf '\n</body>\n</html>\n'
+          } > _site/index.html
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deploy
+        uses: actions/deploy-pages@v4
