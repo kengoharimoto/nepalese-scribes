@@ -1,0 +1,109 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vācaspatīśiramasūnu",
+   "name": "Vācaspatīśirama",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vācaspatīśiramasūnu",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "lakṣmīdāsa",
+   "name": "Lakṣmīdāsa",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lakṣmīdāsaviracite bhāskarīyasiddhāṃtaśiromaṇivyākhyāne",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śuka",
+   "name": "Śuka",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śukatanayavaraḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śaṃkaro",
+   "name": "Śaṃkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "śrīpārvatīya",
+   "residence": "jayaharinagare gomatītīravāsī",
+   "evidence": "śaṃkaro bhāskarīya ṭīkāṃ tattvākhya ciṃtāmaṇim iyam alikhat",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrīkṛṣṇajośī",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "rāmanagaravāle",
+   "evidence": "putakam idaṃ śrīkṛṣṇajośī rāmanagaravāle",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "vācaspatīśiramasūnu"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "śukatanayavaraḥ śaṃkaro"
+  }
+ ],
+ "date": {
+  "as_written": "varṣe paṃcāgnivasv iṃdu mitaharidine kārttike kṛṣṇapakṣe vāre sūryasya",
+  "era": "VS",
+  "year": "1835",
+  "month": "kārttike",
+  "paksa": "kṛṣṇapakṣe",
+  "tithi": "haridine",
+  "weekday": "vāre sūryasya",
+  "nakshatra_yoga": "",
+  "ce_approx": "1778"
+ },
+ "place": {
+  "as_written": "jayaharinagare gomatītīra",
+  "normalized": ""
+ },
+ "purpose": "svārthaputrārthasiddhayai",
+ "notes": "vācaspatīśirama is likely a scribal corruption of Vācaspatimiśra (the father of Lakṣmīdāsa). Year given in chronogram pañca-agni-vasu-indu = 1835 (VS). Haridina refers to the 11th tithi (ekādaśī). Śrīkṛṣṇa Jośī of Ramanagar is mentioned as the manuscript owner (putakam idaṃ = pustakam idam).",
+ "_meta": {
+  "reel": "B 330/9",
+  "model": "gemini-flash-latest",
+  "secs": 11.9,
+  "in_tok": 926,
+  "out_tok": 3137
+ }
+}

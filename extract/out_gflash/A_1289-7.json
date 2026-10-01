@@ -1,0 +1,77 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "lolimvarāja",
+   "name": "Lolimbarāja",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lolimvarājaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "divākara",
+   "name": "Divākara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "divākarasūnulāla",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "ātmārāma",
+   "name": "Ātmārāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paṃḍyā"
+   ],
+   "affiliation": "",
+   "residence": "Jayapura",
+   "evidence": "pṃḍyā ātmārāma jayapuramadhye",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "divākarasūnulāla lolimvarāja"
+  }
+ ],
+ "date": {
+  "as_written": "mitī mārgaśira śudī 2 dutīyā saṃvat 1839 / saṃvat 1823",
+  "era": "VS",
+  "year": "1839",
+  "month": "Mārgaśira",
+  "paksa": "śukla",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1782"
+ },
+ "place": {
+  "as_written": "jayapuramadhye",
+  "normalized": "Jaipur"
+ },
+ "purpose": "",
+ "notes": "Two dates are given in two colophons within the manuscript: saṃvat 1839 on fol. 53v and saṃvat 1823 on exp. 28b.",
+ "_meta": {
+  "reel": "A 1289/7",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 811,
+  "out_tok": 1509
+ }
+}

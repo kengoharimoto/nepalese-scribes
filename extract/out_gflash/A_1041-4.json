@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devadattena",
+   "name": "Devadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devadattena lekhayo(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1759 caitrakṛṣṇa 11 gurau",
+  "era": "ŚS",
+  "year": "1759",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "gurau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1837"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "lekhayo(!) is likely corrupt for likhitam, lekhitam, or lekhitaḥ.",
+ "_meta": {
+  "reel": "A 1041/4",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 725,
+  "out_tok": 780
+ }
+}

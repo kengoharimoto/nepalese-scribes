@@ -1,0 +1,109 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed p5 'Kasya': 'kasya putra' is the interrogative formula 'whose son?' (answer: Senā Pāṇḍe), not a personal name",
+   "Senā Pāṇḍe: removed roles owner/other → relative_only; he identifies the scribe's father, nothing says the book is his",
+   "Relation changed: Keśava son_of Senā (replacing Senā son_of Kasya)",
+   "Added note on brāhmaṇapustakaṃ and on Gaṅgeśvara = Gaṅgeśa"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaṃgeśvara",
+   "name": "Gaṅgeśvara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanmahāmahopādhyāyagaṃgeśvarātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "varddhamāna",
+   "name": "Vardhamāna",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gaṃgeśvarātmajavarddhamānaracito",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "keśavapāṃḍe〈ḥ〉",
+   "name": "Keśava",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "pāṇḍe"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ likhitaṃ keśavapāṃḍe〈ḥ〉",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śenāpāṃḍebrāhmaṇaḥ",
+   "name": "Senā",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "pāṇḍe",
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kasya putraśenāpāṃḍebrāhmaṇaḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "gaṃgeśvarātmajavarddhamāna"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "kasya putraśenāpāṃḍebrāhmaṇaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1687 samaye kārtikasudī saptamī caṃdravāsare〈ḥ〉",
+  "era": "VS",
+  "year": "1687",
+  "month": "Kārtika",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1630"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'kasya putra(ḥ) śenāpāṃḍe brāhmaṇaḥ' is read as the formula 'whose son? — of the brahmin Senā Pāṇḍe', identifying the scribe Keśava Pāṇḍe's father; the case endings are garbled, so medium confidence. 'Śenā' is probably Senā (ś/s confusion). 'brāhmaṇapustakaṃ likhitaṃ' (a brahmin's book was written) does not name an owner. Gaṃgeśvara is Gaṅgeśa (Upādhyāya), author of the Tattvacintāmaṇi and father of Vardhamāna. The era is assumed to be VS (saṃvat 1687 → c. 1630 CE, Kārtika); the weekday has not been checked.",
+ "_meta": {
+  "reel": "B 49/12",
+  "model": "opus",
+  "cost_usd": 0.089646,
+  "secs": 18.6
+ }
+}

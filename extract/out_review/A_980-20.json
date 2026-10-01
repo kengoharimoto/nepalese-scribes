@@ -1,0 +1,34 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday normalized: 'roja 3' = third day of the week = Tuesday",
+   "notes expanded: why the catalogue's NS 494 is likely a digit transposition; kujikātaṃtre = Kubjikātantra"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "nepālaṃ (!) saṃvat 949 miti āṣāḍha śu di 6 roja 3",
+  "era": "NS",
+  "year": "949",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "6",
+  "weekday": "Tuesday (roja 3)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1829"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon reads NS 949 (= ca. 1829 CE). The catalogue gives 'NS 494', which looks like a transposition of the digits. The late formula ('miti ... roja') and the Devanagari script both fit NS 949 better than NS 494 (ca. 1374 CE). 'kujikātaṃtre' is a corrupt spelling of kubjikātantre (Kubjikātantra). No persons are named.",
+ "_meta": {
+  "reel": "A 980/20",
+  "model": "opus",
+  "cost_usd": 0.044735,
+  "secs": 10.5
+ }
+}

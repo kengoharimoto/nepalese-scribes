@@ -1,0 +1,43 @@
+{
+ "date": {
+  "as_written": "śrīsamvat 959 sāla miti pauṣavadi 5 śukravāa",
+  "era": "NS",
+  "year": "959",
+  "month": "Pauṣa",
+  "paksa": "kṛṣṇa (vadi)",
+  "tithi": "5",
+  "weekday": "Friday (śukravāra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1839"
+ },
+ "notes": "Scribe name agrees with catalogue (Maheśvarānaṃda). The text reads 'śrīmahāvuddhopāśaka' (mahābuddhopāsaka), a Buddhist lay devotee title, which is why it is recorded as a title. No king, commissioner or other persons are named. Pauṣa of NS 959 falls in Dec 1838/Jan 1839 (NS year begins in autumn), so ce_approx 1839 is approximate.",
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmahāvuddhopāśakaśrīmaheśvarānaṃdena",
+   "name": "Maheśvarānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "mahābuddhopāsaka"
+   ],
+   "affiliation": "",
+   "residence": "Lalitapura (Patan)",
+   "evidence": "śrīlalitāpurasya śrīmahāvuddhopāśakaśrīmaheśvarānaṃdena likhitaṃ samarpitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "place": {
+  "as_written": "śrīlalitāpurasya",
+  "normalized": "Patan"
+ },
+ "purpose": "Not stated; copy written and presented (likhitaṃ samarpitaṃ).",
+ "relations": [],
+ "_meta": {
+  "reel": "A 194/6",
+  "model": "sonnet",
+  "cost_usd": 0.0302712,
+  "secs": 7.6
+ }
+}

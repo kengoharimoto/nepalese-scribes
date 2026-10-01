@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gopālāśrama",
+   "name": "Gopālāśrama",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatparamahaṃsaparivrājakācāryaśrīgopālāśramaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rāmadhanunā",
+   "name": "Rāmadhanu",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "amuṃ pustakaṃ rāmadhanunā (!) likhet (!)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vrahmendrasarasvatī upādhyāyasya",
+   "name": "Brahmendrasarasvatī",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvrahmendrasarasvatī upādhyāyasya pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "amuṃ pustakaṃ rāmadhanunā (!) likhet (!) || śrīvrahmendrasarasvatī upādhyāyasya pustakaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 809 āṣāḍhamāse śuklapakṣe caturddaśyāṃ tithau asmin divase",
+  "era": "NS",
+  "year": "809",
+  "month": "āṣāḍha",
+  "paksa": "śuklapakṣa",
+  "tithi": "caturdaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1689"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Catalogue identifies Brahmendrasarasvatī upādhyāya as 'donor', but the text explicitly marks him as the manuscript's owner ('śrīvrahmendrasarasvatī upādhyāyasya pustakaṃ').",
+ "_meta": {
+  "reel": "B 146/6",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 811,
+  "out_tok": 1268
+ }
+}

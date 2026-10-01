@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīharṣadevasya",
+   "name": "Harṣadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīharṣadevasya ca varddhamāne rājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmatkulācāryavivekaratnakenāpi",
+   "name": "Vivekaratna",
+   "roles": [
+    "commissioner",
+    "scribe"
+   ],
+   "titles": [
+    "kulācārya",
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "Kāṣṭhamaṇḍapa",
+   "evidence": "śrīmatkulācāryavivekaratnakenāpi saṃlekhita (!) paṃḍitena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīharṣadevasya ca varddhamāne rājye ... saṃlekhita"
+  }
+ ],
+ "date": {
+  "as_written": "pakṣe śite(!) cāśvinanāmadheye tithau tṛtīyāṃ (!) dharaṇīsuteʼhni",
+  "era": "none",
+  "year": "",
+  "month": "Āśvina",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "kāṣṭhābhidhamaṃḍapa",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "svaśiṣyavarggasya vibodhanāya paropakārāya",
+ "notes": "The colophon gives the month (Āśvina), lunar fortnight (śukla), tithi (3rd), and weekday (Tuesday / dharaṇīsuta), but no year is specified. King Harṣadeva ruled in the late 11th century (c. 1082–1098 CE). Vivekaratna came to the Nepal valley ('nepāladeśaṃ samupāgatena') and resided in Kāṣṭhamaṇḍapa.",
+ "_meta": {
+  "reel": "B 119/3",
+  "model": "gemini-flash-latest",
+  "secs": 7.7,
+  "in_tok": 1148,
+  "out_tok": 1994
+ }
+}

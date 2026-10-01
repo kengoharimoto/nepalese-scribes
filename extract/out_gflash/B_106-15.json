@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvajrācārya siddhimuniyāta",
+   "name": "Siddhimuni",
+   "roles": [
+    "owner",
+    "beneficiary"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Kvāthabahāra",
+   "residence": "Thahititola",
+   "evidence": "thva pustaka thahititola kvāthabahārayā śrīvajrācārya siddhimuniyāta julo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 970 miti nastavaiśāṣa śukladasmikhunu",
+  "era": "NS",
+  "year": "970",
+  "month": "nastavaiśāṣa",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1850"
+ },
+ "place": {
+  "as_written": "thahititola kvāthabahāra",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "for Śrī-Vajrācārya Siddhimuni (siddhimuniyāta julo)",
+ "notes": "No scribe is explicitly named ('coyā julo' is passive/impersonal). Thahiti (Thahiti ṭola) and Kvāthā Bahāra (Kwatha Baha) are in uptown Kathmandu.",
+ "_meta": {
+  "reel": "B 106/15",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 1037,
+  "out_tok": 1214
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnī(2)lakaṃṭhajyotivit",
+   "name": "Nīlakaṇṭha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "vidvaddaivajñamukuṭālaṃkāra",
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnī(2)lakaṃṭhajyotivitsūnu",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "goviṃdajyotirvid",
+   "name": "Govinda",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "goviṃdajyotirvidviracitā rasālābhidhā samāvivekavivṛttiḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "kṛpārāme",
+   "name": "Kṛpārāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛpārāme (!) svahastena bhaumavāreṣu pūrṇatām",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīnī(2)lakaṃṭhajyotivitsūnu"
+  }
+ ],
+ "date": {
+  "as_written": "vedābdhihayacandreṣu ekādaśyān ithau site || ... bhaumavāreṣu",
+  "era": "ŚS",
+  "year": "1744",
+  "month": "",
+  "paksa": "śukla",
+  "tithi": "ekādaśī",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1822"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is expressed by chronogram: veda (4), abdhi (4), haya (7), candra (1) = 1744, taken as Śaka era following the catalogue entry. The catalogue records Kāśī as the place of copying, which is not found in the transcribed colophon.",
+ "_meta": {
+  "reel": "A 411/16",
+  "model": "gemini-flash-latest",
+  "secs": 8.4,
+  "in_tok": 803,
+  "out_tok": 2075
+ }
+}

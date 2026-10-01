@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayabhūpatīndramalladevasana",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayabhūpatīndramalladevasana dayakā julo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 817 māghavadi 4 hastanakṣetra ādityavāra",
+  "era": "NS",
+  "year": "817",
+  "month": "māgha",
+  "paksa": "vadi",
+  "tithi": "4",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "hastanakṣetra",
+  "ce_approx": "1697"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records Bhaktapur as the place of copying, presumably because Bhūpatīndra Malla was the king of Bhaktapur, but no place name appears in the colophon text.",
+ "_meta": {
+  "reel": "A 1240/10a",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 756,
+  "out_tok": 823
+ }
+}

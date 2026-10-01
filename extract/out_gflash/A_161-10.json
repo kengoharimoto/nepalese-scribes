@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "joga narasiṃha",
+   "name": "Joganarasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "joga narasiṃha coyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1900 sālamiti vaiśākha śudi 1 roja 1",
+  "era": "VS",
+  "year": "1900",
+  "month": "vaiśākha",
+  "paksa": "śudi",
+  "tithi": "1",
+  "weekday": "roja 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1843"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Written in a mix of Sanskrit and Newari ('coyā' meaning 'wrote').",
+ "_meta": {
+  "reel": "A 161/10",
+  "model": "gemini-flash-latest",
+  "secs": 3.0,
+  "in_tok": 732,
+  "out_tok": 626
+ }
+}

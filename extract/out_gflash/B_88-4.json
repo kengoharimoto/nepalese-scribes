@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dvijavaravaṃśaśrīniṣṭhānandanaṃ",
+   "name": "Niṣṭhānanda",
+   "roles": [
+    "scribe",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "dvijavaravaṃśa",
+   "residence": "",
+   "evidence": "dvijavaravaṃśaśrīniṣṭhānandanaṃ putrapautrapanista dhakā coyā tayā julo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepālasamvat 1026 miti kārttikakṛṣṇaikādaśyāṃ tithau hastanakṣatre, prītiyoge, bālakarṇṇasuhūtre, guruvārasare, viccharāśigate savittare, tularāśigate candramasi",
+  "era": "NS",
+  "year": "1026",
+  "month": "kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "guruvāra",
+  "nakshatra_yoga": "hasta, prīti",
+  "ce_approx": "1905"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "putrapautrapanista dhakā (for sons and grandsons)",
+ "notes": "Niṣṭhānanda is likely Niṣṭhānanda Vajrācārya (a renowned figure of the Nepal Bhasa renaissance) or a Brahmin if dvijavara is literal, who copied/prepared the manuscript for his descendants (putrapautrapanista dhakā coyā tayā julo).",
+ "_meta": {
+  "reel": "B 88/4",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 855,
+  "out_tok": 1306
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 name normalized to 'Jitāmitramalla' (regnal name keeps -malla; 'sumati' and 'jaya' are epithets, not part of the name); 'jaya' added to titles; confidence medium for the commissioner role because the note is in a later hand",
+   "p3 Bhāgīrāma: 'paramāna' read as the Newari office term pramāna/pradhāna (minister); 'pradhāna' added to titles",
+   "p1: the corrupt 'ṛṣitaṃ' (for likhitaṃ) and 'dvijavala' (for dvijavara) are recorded in notes",
+   "Date checked: NS 810 + 880 = 1690 CE, consistent with Jitāmitra Malla's reign at Bhaktapur (c. 1673–1696)",
+   "Notes expanded: the added hand, the medical recipe, the catalogue's Śrīnivāsa Malla, and place not stated"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dvijavala śrīvi[[śva]]nā(52v4]thena",
+   "name": "Viśvanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvijavala śrīvi[[śva]]nā(52v4]thena ṛṣitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīśrī sumati jaya jitāmitramalladevasana",
+   "name": "Jitāmitramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati",
+    "jaya",
+    "deva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sumati jaya jitāmitramalladevasana thva pustaka dayakā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bhāgīrāma paramānayā",
+   "name": "Bhāgīrāma",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "paramāna",
+    "pradhāna"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgīrāma paramānayā verasa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "jitāmitramalladevasana thva pustaka dayakā"
+  },
+  {
+   "from": "p3",
+   "type": "servant_of",
+   "to": "p2",
+   "evidence": "bhāgīrāma paramānayā verasa"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 810 bhādrapada śukla trayodaśyāṃtithau vudhavāsare",
+  "era": "NS",
+  "year": "810",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "trayodaśī",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1690"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "'ṛṣitaṃ' is a corruption of likhitaṃ, and 'dvijavala' stands for dvijavara. The line 'halaḍa, kaśurī, kaḍavasī ... rāvakhaṃ' is a medical recipe (haritakī, kastūrī, vaṃśalocana, puṣkaramūla, etc.) and names no persons. The note about Jitāmitra Malla is added in a different hand: 'Jitāmitra Malla had this book made, at the time of Minister (pramāna) Bhāgīrāma.' It may be a later note of commission or ownership, so it is uncertain that Viśvanātha wrote for the king. The catalogue also lists Śrīnivāsa Malla (Patan), but he does not appear in the quoted colophon; in 1690 he was no longer reigning, so the catalogue field looks wrong. The place is not stated, though Bhaktapur is implied by Jitāmitra Malla. The weekday has not been checked against an ephemeris.",
+ "_meta": {
+  "reel": "A 345/13",
+  "model": "opus",
+  "cost_usd": 0.09554599999999999,
+  "secs": 21.9
+ }
+}

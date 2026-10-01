@@ -1,0 +1,126 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayadatta",
+   "name": "Jayadatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jayadatta nāma śāḍaṃyā śāstra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jagajjyotirmmalladeva",
+   "name": "Jagajjyotirmalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "parameśvara",
+    "paramabhaṭṭāraka",
+    "rājādhirāja",
+    "prabhu",
+    "ṭhākura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śrī jagajjyotirmmalladeva prabhu ṭhākuras taṃ śrī jayantarājadevana coyā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "jayantarājadevana",
+   "name": "Jayantarājadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī jayantarājadevana coyā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "sumati jayajitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "owner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śrī sumati jayajitāmitramalladevasana thva ustaka ... dukā syaṃta yā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "bhāgīrāma",
+   "name": "Bhāgīrāma",
+   "roles": [
+    "minister",
+    "other"
+   ],
+   "titles": [
+    "paramāna"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgīrāma paramāna yā varasa",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "jagajjyotirmmalladeva prabhu ṭhākuras taṃ śrī jayantarājadevana coyā juro"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "parameśvara paramabhaṭṭāraka rājādhirāja śrī śrī jagajjyotirmmalladeva"
+  },
+  {
+   "from": "p5",
+   "type": "under_reign_of",
+   "to": "p4",
+   "evidence": "sumati jayajitāmitramalladevasana ... bhāgīrāma paramāna yā varasa"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 713 jeṣṭha kṛṣṇa tṛtīyāyāṃ utrāṣāḍha (!) nakṣatra budhavāra",
+  "era": "NS",
+  "year": "713",
+  "month": "jeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "tṛtīyā",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "utrāṣāḍha",
+  "ce_approx": "1593"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The manuscript was originally copied in NS 713 by Jayantarājadeva for King Jagajjyotirmalladeva of Bhaktapur. A secondary note records an event or inspection in NS 808 (Śrāvaṇa vadi 13) under King Sumati Jayajitāmitramalladeva during the tenure of the paramāna (officer/pramāṇa) Bhāgīrāma, whom the catalogue incorrectly listed as the scribe.",
+ "_meta": {
+  "reel": "B 171/11",
+  "model": "gemini-flash-latest",
+  "secs": 7.6,
+  "in_tok": 890,
+  "out_tok": 1944
+ }
+}

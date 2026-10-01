@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 15⁅7⁆",
+  "era": "NS",
+  "year": "157",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1037"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon contains only the title/extent formula and a broken date string (samvat 15⁅7⁆///). No personal names are mentioned.",
+ "_meta": {
+  "reel": "A 29/4",
+  "model": "gemini-flash-latest",
+  "secs": 2.1,
+  "in_tok": 651,
+  "out_tok": 327
+ }
+}

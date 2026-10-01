@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭa veṇīdatta",
+   "name": "Veṇīdatta",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭa veṇīdattanī pothī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1721 varṣe āṣāḍa śuddya (!) 5",
+  "era": "VS",
+  "year": "1721",
+  "month": "āṣāḍa",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1664"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The genitive form 'veṇīdattanī pothī' (book of Veṇīdatta) shows ownership; the catalogue lists him as donor.",
+ "_meta": {
+  "reel": "A 338/31",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 763,
+  "out_tok": 976
+ }
+}

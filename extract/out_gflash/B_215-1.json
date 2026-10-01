@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvajrācāryye machindraviranāthanatho",
+   "name": "Machindravīranātha",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvajrācāryye machindraviranāthanatho śāstra coyā julo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīupādhyāyahaladhāyāna",
+   "name": "Haladhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "maganāpuratamadhitola",
+   "evidence": "maganāpuratamadhitolayā śrīupādhyāyahaladhāyānacoyā vaviyā julaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "śrīvajrācāryye machindraviranāthanatho śāstra coyā julo ... śrīupādhyāyahaladhāyānacoyā vaviyā julaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1010 miti āśvinaśudi 1 roa 3",
+  "era": "NS",
+  "year": "1010",
+  "month": "āśvina",
+  "paksa": "śudi",
+  "tithi": "1",
+  "weekday": "roa 3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1890"
+ },
+ "place": {
+  "as_written": "maganāpuratamadhitolayā",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The phrase 'machindraviranāthanatho śāstra coyā julo' parses in Newari as 'Machindravīranāthana tho śāstra coyā julo' ('Machindravīranātha had this book written'). The scribe's name is written 'haladhāyāna' (an error for Haladhārena/Haladhara, as identified by the cataloguer), who wrote and handed over the manuscript ('coyā vaviyā julaḥ'). 'roa 3' likely stands for ro[ja] 3 (Tuesday).",
+ "_meta": {
+  "reel": "B 215/1",
+  "model": "gemini-flash-latest",
+  "secs": 19.2,
+  "in_tok": 803,
+  "out_tok": 3872
+ }
+}

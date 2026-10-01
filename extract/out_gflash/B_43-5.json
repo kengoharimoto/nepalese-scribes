@@ -1,0 +1,61 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrāmathurānāthatarkavāgīśabhaṭṭācārya",
+   "name": "Mathurānātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahāpādhyāya",
+    "tarkavāgīśa",
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrāmathurānāthatarkavāgīśabhaṭṭācāryacitam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sīvaṇāthakāethane",
+   "name": "Śivanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pothī sīvaṇāthakāethane liṣā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1798 mītī caita vadī tīrītīā",
+  "era": "VS",
+  "year": "1798",
+  "month": "caita",
+  "paksa": "vadī",
+  "tithi": "tīrītīā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1741"
+ },
+ "place": {
+  "as_written": "mānasaravarake nīkaṭa maha",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribal colophon is composed in vernacular (Hindi/Bhojpuri/Maithili).",
+ "_meta": {
+  "reel": "B 43/5",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 778,
+  "out_tok": 1124
+ }
+}

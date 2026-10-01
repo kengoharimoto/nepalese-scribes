@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī 2 jaya bhūpatīndra malladevasana",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī 2 jaya bhūpatīndra malladevasana dayakā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 832 pauṣa śudi 15",
+  "era": "NS",
+  "year": "832",
+  "month": "pauṣa",
+  "paksa": "śudi",
+  "tithi": "15",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1712"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "King Jayabhūpatīndramalladeva of Bhaktapur is recorded as having caused the text/object to be made (dayakā).",
+ "_meta": {
+  "reel": "A 237/4",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 727,
+  "out_tok": 943
+ }
+}

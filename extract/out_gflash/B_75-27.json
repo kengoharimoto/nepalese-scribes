@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṛṣṇānandabhagavatpūjyapāda",
+   "name": "Kṛṣṇānanda",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya",
+    "bhagavatpūjyapāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatkṛṣṇānandabhagavatpūjyapādaśiṣya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nṛsiṃhasarasvatī",
+   "name": "Nṛsiṃhasarasvatī",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nṛsiṃhasarasvatīkṛtā (!) vedāṃtasāraṭīkā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vīrabhadraśarmaṇaḥ",
+   "name": "Vīrabhadra",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ vīrabhadraśarmaṇaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śrīmatkṛṣṇānandabhagavatpūjyapādaśiṣyanṛsiṃhasarasvatī"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1749 śrīsamvat 1884 mārgakṛṣṇapaṃcamyāṃ gurudine",
+  "era": "ŚS",
+  "year": "1749 (ŚS) / 1884 (VS)",
+  "month": "mārga",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "gurudina",
+  "nakshatra_yoga": "",
+  "ce_approx": "1827"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "anena lipikṛtena nārāyaṇa (!) prīyatām",
+ "notes": "",
+ "_meta": {
+  "reel": "B 75/27",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 820,
+  "out_tok": 1472
+ }
+}

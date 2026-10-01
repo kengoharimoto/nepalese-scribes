@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nyāya vāgīśa śrī dīdhiti śrīkaṭa śarma",
+   "name": "Śrīkaṇṭhaśarman",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "nyāyavāgīśa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nyāya vāgīśa śrī dīdhiti śrīkaṭa śarma viracitā yāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "keśahanadāsa kāethana",
+   "name": "Keśahanadāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "līkhyā(!) keśahanadāsa kāethana",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1817 mīti(!) agahana(!) sudī duādasī 12 vāra sumavārake(!)",
+  "era": "VS",
+  "year": "1817",
+  "month": "agahana",
+  "paksa": "sudī",
+  "tithi": "duādasī 12",
+  "weekday": "sumavārake",
+  "nakshatra_yoga": "",
+  "ce_approx": "1760"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon is in a vernacular (Hindi/Braj) influenced idiom. 'kāethana' indicates the caste Kāyastha. 'agahana' is Agrahāyaṇa/Mārgaśīrṣa, and 'sumavāra' stands for Somavāra.",
+ "_meta": {
+  "reel": "B 52/10",
+  "model": "gemini-flash-latest",
+  "secs": 7.9,
+  "in_tok": 772,
+  "out_tok": 1414
+ }
+}

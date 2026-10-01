@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ṭhakkuraśrīprajñāpatinā",
+   "name": "Prajñāpati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "ṭhakkura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ṭhakkuraśrīprajñāpatinā lekhi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "la saṃ 156 phālguna vadi 2 ravau",
+  "era": "LS",
+  "year": "156",
+  "month": "phālguna",
+  "paksa": "vadi",
+  "tithi": "2",
+  "weekday": "ravau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1275"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 52/12",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 839,
+  "out_tok": 708
+ }
+}

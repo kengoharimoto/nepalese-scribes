@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñarāma",
+   "name": "Rāma",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñarāma viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "daivajñānaṃta",
+   "name": "Ananta",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñānaṃta suta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "daivajñānaṃta suta daivajñarāma"
+  }
+ ],
+ "date": {
+  "as_written": "samvat | 1902 śāke 1767 miti jyeṣṭa(!) kṛṣṇa 4",
+  "era": "VS",
+  "year": "1902",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "4",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1845"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Vikrama Saṃvat (1902) and Śaka Era (1767) are given, corresponding to 1845 CE.",
+ "_meta": {
+  "reel": "B 341/7",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 723,
+  "out_tok": 966
+ }
+}

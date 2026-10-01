@@ -1,0 +1,68 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Author name normalized to stem 'Trimalla' with 'bhaṭṭa' moved to titles only (brahmin suffix)",
+   "Author residence normalized note: Kāśī = Vārāṇasī (place of composition, not of copying)",
+   "Maṅgasena roles: reader + beneficiary (copy made 'for his reading'); spelling Maṅgasena kept",
+   "Tithi: '++daṃśyo' interpreted as probably trayodaśī (or caturdaśī), two akṣaras lost",
+   "Purpose rendered as 'for the reading (pāṭhārtha) of Maṅgasena'",
+   "Notes expanded: 'śubhasthāle' read as formula śubhasthāne, not a place name; Loknātha absent from quoted colophon"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "trimallabhaṭṭa",
+   "name": "Trimalla",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "Kāśī (Vārāṇasī)",
+   "evidence": "kāśyāṃ trimallabhaṭṭaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "maṃgasena",
+   "name": "Maṅgasena",
+   "roles": [
+    "reader",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "maṃgasenapāṭhārthe",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1803 śrāvaṇamāse śuklapakṣe ++daṃśyotithau śukravāsare",
+  "era": "VS",
+  "year": "1803",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "trayodaśī (?) — '++daṃśyo', possibly caturdaśī",
+  "weekday": "śukravāra (Friday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1746"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for the reading (pāṭhārtha) of Maṅgasena",
+ "notes": "Era is just 'saṃvat'; 1803 taken as VS (as in the catalogue), so CE 1746. Reading it as NS would give 2683, which is impossible. Tithi '++daṃśyo(tithau)' has two lost akṣaras: most likely [trayo]daśyāṃ, possibly [catur]daśyāṃ. The weekday has not been checked against the tithi. 'śrīḥ++śubhasthāle' is probably the stock formula 'śubhasthāne' ('in an auspicious place'), not a toponym, so no place of copying is recorded. Kāśī is where the author composed the text, not where this copy was made. The catalogue names Loknātha as scribe, but that name is not in the quoted colophon (it may be elsewhere in the MS or lost in a lacuna), so no scribe entry was added. The title 'samaptaḥ' (!) is the cataloguer's flag of a grammatical error, not a name.",
+ "_meta": {
+  "reel": "A 965/2",
+  "model": "opus",
+  "cost_usd": 0.085422,
+  "secs": 19.2
+ }
+}

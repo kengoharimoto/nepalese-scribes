@@ -1,0 +1,92 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paṃḍitacāṃdra",
+   "name": "Cāndra",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṃḍitacāṃdraviracitāyāṃ naiṣadhadīpikāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "harṣa",
+   "name": "Harṣa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīharṣakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "ācāryamāṇikā",
+   "name": "Māṇika",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "śrīdevadārūvana",
+   "evidence": "ācāryamāṇikāsuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "kānhākhena",
+   "name": "Kānhākha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "śrīdevadārūvana",
+   "evidence": "kānhākhena pustakām alikhi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "ācāryamāṇikāsuta kānhākhena"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1582 varṣe śrāvaṇa śudi navamyām 9 tithau bhṛhu | sadine yathā nakṣatra yogesamaye",
+  "era": "VS",
+  "year": "1582",
+  "month": "śrāvaṇa",
+  "paksa": "śudi",
+  "tithi": "navamī (9)",
+  "weekday": "Friday (bhṛhu)",
+  "nakshatra_yoga": "yathā nakṣatra yogesamaye",
+  "ce_approx": "1525"
+ },
+ "place": {
+  "as_written": "śrīdevadārūvana",
+  "normalized": ""
+ },
+ "purpose": "paropakārārthaṃ cātmanaḥ paṭhanārthaṃ (for helping others and for personal study)",
+ "notes": "The commentator Cāndra refers to Cāṇḍupaṇḍita. The scribe's name Kānhākha (inflected instrumental kānhākhena) is given as 'Kāhnā' in the catalogue.",
+ "_meta": {
+  "reel": "A 383/3",
+  "model": "gemini-flash-latest",
+  "secs": 6.2,
+  "in_tok": 835,
+  "out_tok": 1557
+ }
+}

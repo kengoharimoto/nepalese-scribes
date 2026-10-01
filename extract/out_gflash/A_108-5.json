@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "amṛtamuṇinā",
+   "name": "Amṛtamuni",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Ije Vihāra (sakva ije vāhārayā nanīje)",
+   "residence": "Saṃkharāpura (Sankhu)",
+   "evidence": "sakva ije vāhārayā nanīje yāvajācāryya amṛtamuṇinā liṣitau ahaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 827 mti pauṣakṛṣṇa ekādaśyāṃ tithau vyatipātayoge bhauma vāra",
+  "era": "NS",
+  "year": "827",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "vyatīpātayoga",
+  "ce_approx": "1707"
+ },
+ "place": {
+  "as_written": "nepāladeśe saṃkharāpuramahānagare maṇicūḍaparvvate śrīugratārāvajrayoginīsthāne sakva ije vāhārayā nanīje",
+  "normalized": "Sankhu"
+ },
+ "purpose": "putra pautrādibhyaḥ aśvāyanārthe",
+ "notes": "The title appears as 'yāvajācāryya' in the text, representing vajrācārya.",
+ "_meta": {
+  "reel": "A 108/5",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 910,
+  "out_tok": 1418
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhānudattamiśra",
+   "name": "Bhānudatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhānudattamiśraprakāśitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "karmmācāryajayasiṃha",
+   "name": "Jayasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmācārya"
+   ],
+   "affiliation": "vidyāpīṭha",
+   "residence": "",
+   "evidence": "liṣitiṃ vidyāpīṭhayā karmmācāryajayasiṃha",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vipraśrīgaṃgā[dha]rarājasya",
+   "name": "Gaṃgādhararāja",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "eyāccha",
+   "evidence": "eyācchayā vipraśrīgaṃgā[dha]rarājasya (!) pustakam idaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "liṣitiṃ ... vipraśrīgaṃgā[dha]rarājasya (!) pustakam idaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 799 mārggaśilakṛṣṇapaṃcamī, śukravāra",
+  "era": "NS",
+  "year": "799",
+  "month": "mārggaśila",
+  "paksa": "kṛṣṇa",
+  "tithi": "paṃcamī",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1679"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The term 'eyācchayā' indicates the owner's residence, likely referring to a locality such as Ināco in Bhaktapur.",
+ "_meta": {
+  "reel": "B 309/7",
+  "model": "gemini-pro-latest",
+  "secs": 19.4,
+  "in_tok": 801,
+  "out_tok": 2078
+ }
+}

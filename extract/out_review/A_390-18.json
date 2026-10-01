@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "date.tithi: 'di 3' (dina/divasa, after 'miti') is a day count, probably the solar day (gate) of Kārtika, not a lunar tithi; moved it to the month field and cleared tithi",
+   "date: checked that the eras agree: ŚS 1690+78 = VS 1825−57 = 1768 CE",
+   "notes: added the day/tithi point and the conflict with the catalogue's 'Donor' field"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvrajanāthopādhyāyasya",
+   "name": "Vrajanātha",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ śrīvrajanāthopādhyāyasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1690 samvat 1825 miti kārtike diºº 3",
+  "era": "ŚS",
+  "year": "1690 (ŚS) / 1825 (VS)",
+  "month": "kārtika, day 3",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1768"
+ },
+ "place": {
+  "as_written": "kāśīnāma nargaryāṃ (!)",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "ŚS 1690 and VS 1825 agree (1768 CE, Kārtika = Oct/Nov 1768). 'diºº 3' after 'miti' is a day number, probably the solar day (gate), not a tithi. The word 'paphāṇeti' after 'kāśīnāma nargaryāṃ' is obscure. It may be a corrupt locality name or a corrupt verb/particle ending the scribal statement. It does not clearly name a scribe. The catalogue calls Vrajanātha the 'Donor', but 'idaṃ pustakaṃ śrīvrajanāthopādhyāyasya' only states that he owns the book. No scribe is named.",
+ "_meta": {
+  "reel": "A 390/18",
+  "model": "opus",
+  "cost_usd": 0.069806,
+  "secs": 14.4
+ }
+}

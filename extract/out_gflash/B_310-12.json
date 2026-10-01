@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kālidāsakṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "digadryekamiteśāke caitre māsi śivetithau sūryasūnośca",
+  "era": "ŚS",
+  "year": "1710",
+  "month": "caitra",
+  "paksa": "",
+  "tithi": "śive tithau",
+  "weekday": "sūryasūnoḥ (śanivāra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1788"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'dig-adri-eka' gives Śāke 1710 (dig = 10, adri = 7, eka = 1). The copyist is mentioned only anonymously as a brahmin ('likhati sma mudā dvijaḥ').",
+ "_meta": {
+  "reel": "B 310/12",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 724,
+  "out_tok": 991
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jīvanāthena",
+   "name": "Jīvanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ jīvanāthenātikaṣṭena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1759 || sālamiti saṃvat 1894 phālguna sudi 5 roja 5",
+  "era": "ŚS",
+  "year": "1759",
+  "month": "phālguna",
+  "paksa": "sudi",
+  "tithi": "5",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1838"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "viṣnavestu",
+ "notes": "Both Śāka era (1759) and Vikrama Saṃvat (1894) are given.",
+ "_meta": {
+  "reel": "A 358/5",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 779,
+  "out_tok": 1024
+ }
+}

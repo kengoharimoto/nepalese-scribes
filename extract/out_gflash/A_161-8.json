@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīṣaḍānaṃdajaino",
+   "name": "Ṣaḍānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jaina"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīṣaḍānaṃdajaino vilikhati surahasyaṃ nīlataṃtraṃ samagraṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "bhujayuganidhicaṃdrai (!) saṃyute vikramābde adhikaśucisupatre glautithau jīvavāre",
+  "era": "VS",
+  "year": "1942",
+  "month": "adhika-Āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "glautithi",
+  "weekday": "jīvavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1885"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'bhujayuganidhicandra' represents 1942 (bhuja=2, yuga=4, nidhi=9, candra=1). 'adhikaśuci' indicates the intercalary month of Āṣāḍha.",
+ "_meta": {
+  "reel": "A 161/8",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 751,
+  "out_tok": 1108
+ }
+}

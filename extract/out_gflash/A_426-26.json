@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmukunda(10)daivajñena",
+   "name": "Mukunda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "varṣāgāla",
+   "evidence": "śrīmukunda(10)daivajñena varṣāgāle sthitvā liṣitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1698 māse 11 tithau 10 vāre 1 nakṣatre 5 yoge ... nāgāṃkaṣaṭrūpamite śakeṣu brahmarkṣayoge prathame ʼrkavāre",
+  "era": "ŚS",
+  "year": "1698",
+  "month": "11",
+  "paksa": "",
+  "tithi": "10",
+  "weekday": "arkavāra",
+  "nakshatra_yoga": "nakṣatre 5 yoge / brahmarkṣayoge",
+  "ce_approx": "1776"
+ },
+ "place": {
+  "as_written": "varṣāgāle",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ / sutārthaṃ (for himself and his son)",
+ "notes": "The prose gives the purpose as svārthaṃ, while the concluding verse gives sutārthaṃ.",
+ "_meta": {
+  "reel": "A 426/26",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 831,
+  "out_tok": 1179
+ }
+}

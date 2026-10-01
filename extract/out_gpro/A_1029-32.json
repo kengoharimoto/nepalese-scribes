@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgopālavilāsī",
+   "name": "Gopālavilāsī",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgopālavilāsīviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "svasti śrīsamvat 1935 sāla miti mārga vadi 10 roja 4",
+  "era": "VS",
+  "year": "1935",
+  "month": "mārga",
+  "paksa": "vadi",
+  "tithi": "10",
+  "weekday": "4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1878"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date is in Vikrama Samvat (VS) as indicated by the year 1935 and the word 'sāla'.",
+ "_meta": {
+  "reel": "A 1029/32",
+  "model": "gemini-pro-latest",
+  "secs": 8.9,
+  "in_tok": 803,
+  "out_tok": 1025
+ }
+}

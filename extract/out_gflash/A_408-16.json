@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvarāhamihira",
+   "name": "Varāhamihira",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvarāhamihiraviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 883 caitra śukla 4",
+  "era": "NS",
+  "year": "883",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1763"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe is not named (only 'likhiti saṃpūrṇam').",
+ "_meta": {
+  "reel": "A 408/16",
+  "model": "gemini-flash-latest",
+  "secs": 2.6,
+  "in_tok": 731,
+  "out_tok": 568
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: the 'teacher' role is for the teacher of this copy's people. This man taught the commentator, not anyone involved in the copy, so the role is changed to 'other'. Confidence lowered to medium because the name looks corrupt ('mukundakunda' may be a dittography).",
+   "p3: name changed from 'Śrīkṛṣṇa' to 'Kṛṣṇa'. Śrī is an honorific prefix (as in śrīrāmānaṃda), not part of the name.",
+   "p3: 'donor' role removed. The colophon only says 'pustakam idaṃ' (owner). The catalogue's Donor field is the NGMCP lender of the manuscript, not a donor named in the colophon.",
+   "place: cleared. Rāmanagara is the owner's residence, not a stated place of copying, so it stays only under p3's residence.",
+   "notes: rewritten to cover the 'pra.' abbreviation, the possibly corrupt teacher name and the doubtful figures."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmukundakundagoviṃdaśrīcaraṇa",
+   "name": "Mukundakundagovinda",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paramahaṃsaparivrājakācārya śrīmukundakundagoviṃdaśrīcaraṇaśikṣita",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīrāmānaṃdasarasvatī",
+   "name": "Rāmānandasarasvatī",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmānaṃdasarasvatīkṛtau brahmasūtravṛttau brahmāmṛtavarṣīṇyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "Śrīkṛṣṇajośī",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "rāmanagara",
+   "evidence": "pustakamidaṃ pra. Śrīkṛṣṇajośī rāmanagara",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śrīmukundakundagoviṃdaśrīcaraṇaśikṣita śrīrāmānaṃdasarasvatīkṛtau"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The text is Rāmānanda Sarasvatī's Brahmāmṛtavarṣiṇī, a vṛtti on the Brahmasūtra. The teacher's name, 'mukundakundagoviṃda', is probably corrupt. 'kunda' may be a dittography, which would give Mukundagovinda; this is not verified. The ownership note 'pustakam idaṃ pra. Śrīkṛṣṇajośī rāmanagara' marks Kṛṣṇa Jośī of Rāmanagara as owner. The abbreviation 'pra.' is unclear, possibly prāptam or a similar word for acquisition. The note may be a later addition, not a scribal colophon. The catalogue's 'Donor' field almost certainly records who lent the manuscript to NGMCP for filming, not a donor in the colophon. Rāmanagara is not identified with certainty. The colophon gives no scribe and no date. Two of the stated counts look doubtful: 'adhikaraṇa 1993' is implausible (perhaps 193), and 'catvāryadhyo' stands for catvāro 'dhyāyāḥ.",
+ "_meta": {
+  "reel": "A 1332/25",
+  "model": "opus",
+  "cost_usd": 0.09619,
+  "secs": 23.1
+ }
+}

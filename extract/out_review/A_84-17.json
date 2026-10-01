@@ -1,0 +1,74 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: name normalised to 'Śaṅkara' (the brahmin suffix 'miśra' moved to titles, as the instructions require); titles now mahāmahopādhyāya + miśra; as_written 'mamāmahopādhyāya' noted as a corrupt form of mahāmahopādhyāya",
+   "p1 role 'commentator' kept: the work is the Kalpalatā commentary on Udayana's Ātmatattvaviveka",
+   "Notes expanded: no scribe, commissioner or owner is named; the catalogue's 'Scribe: Bhavanātha' is a mistake"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mamāmahopādhyāyaśaṃkaramiśra",
+   "name": "Śaṅkara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mamāmahopādhyāyaśaṃkaramiśrakṛtātmatattvavivekakalpalatā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrībhavanātha",
+   "name": "Bhavanātha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāya śrībhavanāthātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrībhavanāthātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1955 āṣāḍhasita pratipadi",
+  "era": "VS",
+  "year": "1955",
+  "month": "āṣāḍha",
+  "paksa": "śukla (sita)",
+  "tithi": "pratipad (1)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1898"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon belongs to the text, not to the copy. It names only the commentator, Śaṅkara Miśra (author of the Kalpalatā on Udayana's Ātmatattvaviveka), and his father, Mahāmahopādhyāya Bhavanātha. The catalogue's 'Scribe: Bhavanātha' is wrong: Bhavanātha is named only as the commentator's father. No scribe, commissioner or owner of this copy is named. 'mamāmahopādhyāya' is a corrupt form of mahāmahopādhyāya. 'saṃvat 1955' is taken as VS, which agrees with the catalogue: Āṣāḍha śukla 1, VS 1955 ≈ June/July 1898 CE.",
+ "_meta": {
+  "reel": "A 84/17",
+  "model": "opus",
+  "cost_usd": 0.073966,
+  "secs": 13.6
+ }
+}

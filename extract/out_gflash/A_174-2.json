@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmahopādhyāyavidyābhūṣaṇabhaṭṭācāryyātmaja",
+   "name": "Vidyābhūṣaṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "Gauḍadeśa",
+   "evidence": "mahāmahopādhyāyavidyābhūṣaṇabhaṭṭācāryyātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīyadunāthacakravartti",
+   "name": "Yadunātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "cakravartin"
+   ],
+   "affiliation": "",
+   "residence": "Gauḍadeśa",
+   "evidence": "viracita",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "mahāmahopādhyāyavidyābhūṣaṇabhaṭṭācāryyātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "saṃ. 807 śrāvaṇavadi 12",
+  "era": "NS",
+  "year": "807",
+  "month": "śrāvaṇa",
+  "paksa": "vadi",
+  "tithi": "12",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1687"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 174/2",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 724,
+  "out_tok": 1121
+ }
+}

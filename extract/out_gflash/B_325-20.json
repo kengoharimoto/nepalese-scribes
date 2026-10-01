@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsatyadharapaṃḍita",
+   "name": "Satyadhara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsatyadharapaṃḍitā(7)tmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīcakrapāṇi",
+   "name": "Cakrapāṇi",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīcakrapāṇiviracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīsatyadharapaṃḍitā(7)tmaja"
+  }
+ ],
+ "date": {
+  "as_written": "1717 māghaśukla 1",
+  "era": "unspecified",
+  "year": "1717",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1660"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is not explicitly named in the colophon text, but the catalogue identifies the year 1717 as Vikrama Saṃvat (1660 CE). No scribe is named.",
+ "_meta": {
+  "reel": "B 325/20",
+  "model": "gemini-flash-latest",
+  "secs": 9.5,
+  "in_tok": 685,
+  "out_tok": 1919
+ }
+}

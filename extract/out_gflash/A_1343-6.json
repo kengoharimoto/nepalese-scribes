@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmabhadradvija(!)",
+   "name": "Rāmabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīrājapusta(!) kalikhitaṃ rāmabhadradvija(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1693 māse7 vāre5 nakṣatre8 tihau3",
+  "era": "ŚS",
+  "year": "1693",
+  "month": "7",
+  "paksa": "",
+  "tithi": "3",
+  "weekday": "5",
+  "nakshatra_yoga": "nakṣatre 8",
+  "ce_approx": "1771"
+ },
+ "place": {
+  "as_written": "jitāgrāme",
+  "normalized": ""
+ },
+ "purpose": "śrīśrīrājapustaka likhitaṃ",
+ "notes": "The phrase 'śrīśrīrājapustaka likhitaṃ' indicates the manuscript was written as a royal book/for a royal collection. 'rāmakṛṣṇa' following the benediction is treated as an invocation.",
+ "_meta": {
+  "reel": "A 1343/6",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 789,
+  "out_tok": 1286
+ }
+}

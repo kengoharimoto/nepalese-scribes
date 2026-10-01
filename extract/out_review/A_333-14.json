@@ -1,0 +1,74 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Chronogram checked: rudra=11, vasu=8, read right to left = NS 811; ce_approx 1691 (Vaiśākha NS 811 ≈ Apr/May 1691) confirmed, consistent with Bhūpālendra Malla's reign (c. 1687–1700)",
+   "Date fields normalized: tithi 'aṣṭamī (8)', weekday 'Sunday (ādityavāsara)', nakshatra 'Śatabhiṣā' (written śatavṛṣa) + yoga Vaidhṛti; as_written extended to include the sun and moon positions",
+   "Sun in Vṛṣa and moon in Kumbha agree with Śatabhiṣā on kṛṣṇa 8; noted",
+   "Relation evidence shortened to the minimal substring",
+   "Affiliation reworded to the catalogue's reading Pārāvata (colophon has 'kṛtayārāvata'); residence clarified as Ṅataḍhola, east side of the road",
+   "Notes: removed the uncertain claim that Keśavacandra is a 'legendary founder'; added notes on the corrupt words"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī 2 bhūpālendramallasya",
+   "name": "Bhūpālendramalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī 2 bhūpālendramallasya sāmrājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī sūryyacandrabhiunā",
+   "name": "Sūryacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhikṣu"
+   ],
+   "affiliation": "Keśavacandrakṛta Pārāvata Mahāvihāra (Itum Bahal)",
+   "residence": "Ṅataḍhola, east side of the road (mārga pūrvabhāge)",
+   "evidence": "śrī sūryyacandrabhiunā likhita",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrī 2 bhūpālendramallasya sāmrājye"
+  }
+ ],
+ "date": {
+  "as_written": "nepālasmin rudravasubhiḥ vaiśāṣakṛṣṇapakṣeaṣṭamyāṃtithau śatavṛṣa nakṣetre vaidhatiyoge ādityavāsare vṛṣarāsike savitari kumbharāsiko candramasi",
+  "era": "NS",
+  "year": "811",
+  "month": "Vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī (8)",
+  "weekday": "Sunday (ādityavāsara)",
+  "nakshatra_yoga": "Śatabhiṣā nakṣatra (written śatavṛṣa); Vaidhṛti yoga (written vaidhati); sun in Vṛṣa, moon in Kumbha",
+  "ce_approx": "1691"
+ },
+ "place": {
+  "as_written": "śrī keśavacandra kṛtayārāvatamahāvihārāvasthita, ṅataḍholake, mārga pūrvabhāge",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The year is given as a chronogram: rudra (11) and vasu (8), read right to left, give NS 811 (≈1691 CE). This matches the catalogue and Bhūpālendra Malla's reign. The astronomical details agree with each other: with the sun in Vṛṣa, the moon on kṛṣṇa 8 would be in Kumbha, which is where Śatabhiṣā lies. Some words are corrupt. 'kṛtayārāvata' should be (Keśavacandra)kṛta Pārāvata Mahāvihāra, which is Itum Bahal in Kathmandu. 'bhiunā' is most likely a corruption of bhikṣuṇā. 'likhitaiyāpustīti' probably stands for 'likhitam idaṃ pustakam iti'. The locality 'ṅataḍhola' is uncertain. Keśavacandra is part of the vihāra's name and is not a person connected with this copy.",
+ "_meta": {
+  "reel": "A 333/14",
+  "model": "opus",
+  "cost_usd": 0.088259,
+  "secs": 25.6
+ }
+}

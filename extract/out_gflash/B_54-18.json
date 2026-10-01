@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "aṇṇetyupanāmnā koṭena",
+   "name": "Koṭa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "aṇṇetyupanāmnā koṭena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śake 1787 krodhanāvde(!)",
+  "era": "ŚS",
+  "year": "1787",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1865"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe is described as 'koṭena' bearing the by-name/surname Aṇṇā ('aṇṇetyupanāmnā koṭena'); the catalogue records the scribe simply as Aṇṇa. Śaka 1787 in the 60-year Jovian cycle corresponds to the Krodhana year (1865–1866 CE).",
+ "_meta": {
+  "reel": "B 54/18",
+  "model": "gemini-flash-latest",
+  "secs": 11.0,
+  "in_tok": 704,
+  "out_tok": 2210
+ }
+}

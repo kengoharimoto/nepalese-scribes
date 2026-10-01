@@ -1,0 +1,100 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "manohara",
+   "name": "Manohara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīman manohara sūnunā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "harinātha",
+   "name": "Harinātha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "gosvāmin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gosvāminā harinātha kṛtāyāṃ vaidyajīvanaṭīkāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "puruṣottama",
+   "name": "Puruṣottama",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiṃ[[ta]] puruṣottama bhrāmhana (!)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "chaganajīvrane",
+   "name": "Chaganajī",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṃḍītasya (!) chaganajīvrane pustakalītaṃ (!) pustakaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīman manohara sūnunā gosvāminā harinātha"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "likhiṃ[[ta]] puruṣottama bhrāmhana (!) paṃḍītasya (!) chaganajīvrane pustakalītaṃ (!) pustakaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "miti āsvī dvitīyāṃ 2 maṃgalavāsare || || saṃvat || || 1890 || || vṛṣe śākha || || 17 || 14 ||",
+  "era": "VS",
+  "year": "1890 (VS) / 1714 (ŚS)",
+  "month": "Āśvina",
+  "paksa": "",
+  "tithi": "2",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1833"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon first records the composition date of the ṭīkā in a chronogram (VS 1730 or similar: khaṃ vahni sindhu..., Jyeṣṭha kṛṣṇa 7, Friday). The copy date gives both Saṃvat 1890 and Śākha (Śāke) 1714 (which are discordant: ŚS 1714 = c. 1792 CE, VS 1890 = c. 1833 CE). The commissioner's name 'chaganajīvrane' likely represents 'Chaganajī-[kāraṇe]'. 'śrī mutharaśa (!)' at the end might be Mathurā or a name/scribal remark.",
+ "_meta": {
+  "reel": "B 166/1",
+  "model": "gemini-flash-latest",
+  "secs": 10.7,
+  "in_tok": 1011,
+  "out_tok": 2649
+ }
+}

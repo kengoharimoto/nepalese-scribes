@@ -1,0 +1,64 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "date.year: normalized to '747' (chronogram barhirnāda/nāda = 7 [svara], saritpati = 4, muni = 7, read right to left); explanation moved to notes",
+   "date.weekday: guhadina = day of Guha/Skanda = Mars = Tuesday (removed query mark)",
+   "date.nakshatra_yoga: 'karkaṭa' recorded as the sun in Cancer rather than specifically the saṅkrānti day",
+   "p2 Sauparṇarāma: confidence lowered to medium (verse is corrupt; segmentation 'sauparṇarāmena saḥ' uncertain)",
+   "notes expanded on chronogram and corrupt verse"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahīdharakṛte",
+   "name": "Mahīdhara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yogavāśiṣthavivaraṇe mahīdharakṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sauparṇarāmena",
+   "name": "Sauparṇarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vilikhitaṃ vaśiṣthasāraṃ ... sauparṇarāmena",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "barhir nādasaritpatirmuniyute nepāla samvatsare saubhāgye saha karkkaṭe guhadine āṣāḍhakṛṣṇe yute paṃcamyām",
+  "era": "NS",
+  "year": "747",
+  "month": "Āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Tuesday (guhadina)",
+  "nakshatra_yoga": "saubhāgya yoga; sun (or moon) in Karkaṭa",
+  "ce_approx": "1627"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'barhir nāda-saritpati-muni' is read right to left: muni = 7 (hundreds), saritpati (ocean) = 4 (tens), and (barhir)nāda = 7 (units; nāda/svara = 7, perhaps 'barhinnāda', the peacock's cry or ṣaḍja note). This gives NS 747, which agrees with the cataloguer's NS 747? and with c. 1627 CE. If 'barhis' is instead taken as a separate number word (fire = 3), the expression would give too many digits, so the reading is uncertain. 'anuvāsite' and 'yogod yogataraṃ taraṃgavibhavaṃ' are corrupt (the cataloguer marks this with (!)). The scribe's name could also be divided differently (for example Suparṇarāma), so it is uncertain. Mahīdhara is the author of the Vivaraṇa commentary named in the section colophon.",
+ "_meta": {
+  "reel": "A 95/28",
+  "model": "opus",
+  "cost_usd": 0.092746,
+  "secs": 23.4
+ }
+}

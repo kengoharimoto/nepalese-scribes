@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vināyaka",
+   "name": "Vināyaka",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvināyakaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "giridhareṇa dvivedinā",
+   "name": "Giridhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvivedī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitam idaṃ giridhareṇa dvivedinā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1669 bhrādapada sudi pratipadā some",
+  "era": "VS",
+  "year": "1669",
+  "month": "bhrādapada",
+  "paksa": "sudi",
+  "tithi": "pratipadā",
+  "weekday": "some",
+  "nakshatra_yoga": "",
+  "ce_approx": "1612"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1054/16",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 710,
+  "out_tok": 858
+ }
+}

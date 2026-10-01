@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "maheṃdrasūri",
+   "name": "Mahendrasūri",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "maheṃdrasūriśiṣya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śramalayasūriṇā",
+   "name": "Malayasūri",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "maheṃdrasūriśiṣyaśramalayasūriṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "maheṃdrasūriśiṣya"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsaṃvat 1804",
+  "era": "VS",
+  "year": "1804",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1747"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon text contains the author/commentator statement naming Malayasūri (Malayendu Sūri), the disciple of Mahendrasūri. The four-digit year 1804 in Devanagari script indicates Vikrama Saṃvat.",
+ "_meta": {
+  "reel": "B 344/8",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 694,
+  "out_tok": 1704
+ }
+}

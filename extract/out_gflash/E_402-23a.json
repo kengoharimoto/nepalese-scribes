@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 816 pauṣakṛṣṇapañcami aṃgāra///",
+  "era": "NS",
+  "year": "816",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "pañcamī",
+  "weekday": "aṅgāra (Tuesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1696"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon breaks off after the weekday (aṃgāra...).",
+ "_meta": {
+  "reel": "E 402/23a",
+  "model": "gemini-flash-latest",
+  "secs": 2.5,
+  "in_tok": 652,
+  "out_tok": 389
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. The notes now explain how the catalogue's 'VS 1990' probably arose and that VS 1904 and Śaka 1769 agree (1904 − 135 = 1769)."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 〈19〉 (9) 1904 śake 1769 āśvina vadya (!) 4 bhaume",
+  "era": "VS",
+  "year": "1904",
+  "month": "āśvina",
+  "paksa": "vadya",
+  "tithi": "4",
+  "weekday": "bhaume",
+  "nakshatra_yoga": "",
+  "ce_approx": "1847"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue field 'VS 1990' is probably an error. The cataloguer's 〈19〉 is a deleted or extra '19' at the end of line 8, and (9) is a line number. Together with 1904 these were probably misread as 1990. The year in the colophon is VS 1904, and Śaka 1769 gives the same year (1904 − 135 = 1769), so the date is about 1847 CE (Āśvina, dark half, 4th day, Tuesday). 'vadya' is a variant of vadi, the dark half (kṛṣṇapakṣa). No persons or place are named.",
+ "_meta": {
+  "reel": "A 417/1",
+  "model": "opus",
+  "cost_usd": 0.061818,
+  "secs": 11.3
+ }
+}

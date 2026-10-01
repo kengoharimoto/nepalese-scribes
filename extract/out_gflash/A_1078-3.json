@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue queries Surendratīrtha as scribe/donor, but no persons, dates, or places are mentioned in the quoted colophon.",
+ "_meta": {
+  "reel": "A 1078/3",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 801,
+  "out_tok": 724
+ }
+}

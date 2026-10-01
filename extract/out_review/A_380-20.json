@@ -1,0 +1,84 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Gopāla: residence emptied — Sātāra is only stated as the place of copying, not his residence",
+   "Notes: added that the two dates conflict. Āṅgiras is year 6 of the 60-year Jovian cycle, so the scribe's date (Kārtika, aṣṭamī, Friday) falls in 1872 CE (ŚS 1794) or 1812 CE. Saṃvat 1920 read as VS gives 1863 CE, which is not an Āṅgiras year. The saṃvat 1920 line is probably a later note.",
+   "Date: kept the explicit saṃvat 1920 date in the structured fields (VS, ce 1863), but flagged that the scribe's own copying date is probably 1872"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vyeṃkaṭeśa sūri",
+   "name": "Veṅkaṭeśa",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "Mālavade (upanāma)",
+   "residence": "Nandītaṭakṣetra",
+   "evidence": "mālavadetyupanāmaka vyeṃkaṭeśa sūri viracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gaṇeśa",
+   "name": "Gaṇeśa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "Sānayiti (upanāma)",
+   "residence": "",
+   "evidence": "sānayiti upanāmaka gaṇeśa sūnunā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "gopālena",
+   "name": "Gopāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Sānayiti (upanāma)",
+   "residence": "",
+   "evidence": "gaṇeśa sūnunā gopālena ... mayā llihitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "gaṇeśa sūnunā gopālena"
+  }
+ ],
+ "date": {
+  "as_written": "āṅgirā nāmasaṃvatsare kārtikemāse śukravāsare ʼṣṭamyāṃ tithau ... saṃvat 1920 || mi. kā. kṛ. 13 caṃ",
+  "era": "VS",
+  "year": "1920",
+  "month": "Kārtika",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1863"
+ },
+ "place": {
+  "as_written": "sātāra nagare",
+  "normalized": "Satara"
+ },
+ "purpose": "",
+ "notes": "The colophon has two dates that conflict. (1) The scribe's own date: Āṅgiras saṃvatsara, Kārtika, Friday, aṣṭamī (the pakṣa is not stated; 'śukra' is the weekday, Friday). Āṅgiras is year 6 of the 60-year cycle, so in the southern reckoning used at Satara this is 1872 CE (ŚS 1794); 1812 CE is also possible. (2) 'saṃvat 1920 mi[ti] kā[rtika] kṛ[ṣṇa] 13 caṃ[dravāra]', a Monday. Read as VS this gives 1863 CE, which is not an Āṅgiras year. Read as ŚS it would be impossible. Line (2) follows a second ending ('iti ghaṭakarparaṭīkā samāptāḥ') on fol. 6r7–8 and is probably a later addition, perhaps a Nepalese VS note. The copying itself most likely dates to about 1872. 'śaṃkaraputra siddhivināyaka' is the deity Gaṇeśa, not a person. Mālavade and Sānayiti are upanāmas (family surnames). Satara is in Maharashtra.",
+ "_meta": {
+  "reel": "A 380/20",
+  "model": "opus",
+  "cost_usd": 0.09712599999999999,
+  "secs": 24.7
+ }
+}

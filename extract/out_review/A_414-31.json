@@ -1,0 +1,66 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Month normalised from 'mārga' to 'Mārgaśīrṣa' (the source reads 'mārga///')",
+   "Notes expanded: the date may be when the commentary was composed rather than when this copy was made, the 1551/1515 conflict is set out, and the lost patronymic is mentioned",
+   "Persons, roles, chronogram reading (1551), era and ce_approx confirmed"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśvanāthadaivajña",
+   "name": "Viśvanātha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viśvanāthadaivajñaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nīlakaṃṭhajyotirvit",
+   "name": "Nīlakaṇṭha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nīlakaṃṭhajyotirvitkṛtasaṃjñātaṃtre",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "caṃdravāṇaśaracaṃdra 1551 saramete hāyane /// śālibāhane || mārga///",
+  "era": "ŚS",
+  "year": "1551",
+  "month": "Mārgaśīrṣa",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1629"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram candra(1)-bāṇa(5)-śara(5)-candra(1) gives 1551 when read right to left, which matches the numeral 1551. The era is stated as Śālivāhana (ŚS), so the year is ŚS 1551, about 1629 CE (Mārgaśīrṣa, i.e. late 1629). This conflicts with the catalogue's date of copying, ŚS 1515: either the cataloguer transposed the digits or the catalogue date comes from elsewhere. The date comes straight after the commentator's closing verse (ṭīkāṭīkākṛtā kuryāt ...). So it may be when Viśvanātha composed the Saṃjñātantraprakāśikā, not when this copy was made. If so, this manuscript has no stated copying date. 'saramete' is probably a corruption of 'śaramite' or 'saṃmite'. The commentator's patronymic ('///tmaja') is lost. Viśvanātha Daivajña is traditionally the son of Divākara, but the colophon does not confirm this. No scribe, owner or reigning king is named.",
+ "_meta": {
+  "reel": "A 414/31",
+  "model": "opus",
+  "cost_usd": 0.078818,
+  "secs": 17.4
+ }
+}

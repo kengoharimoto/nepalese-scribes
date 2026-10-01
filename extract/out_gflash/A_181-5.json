@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vijayānandena",
+   "name": "Vijayānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ || vijayānandena sampūrṇam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1898 āṣāḍhaśuklapuṇimā",
+  "era": "VS",
+  "year": "1898",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "puṇimā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1841"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 181/5",
+  "model": "gemini-flash-latest",
+  "secs": 2.9,
+  "in_tok": 758,
+  "out_tok": 622
+ }
+}

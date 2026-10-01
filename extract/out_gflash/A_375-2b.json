@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ratnavīrasiṃha",
+   "name": "Ratnavīrasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "mānavavaṃśa",
+   "residence": "",
+   "evidence": "ratnavīramṛgendramānavavaṃśajena likekha ... ratnavīrasiṃha nathaoga sampūrṇṇayā phacoya dhunakādijuterī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śambhubhūṣaṇaviṣṇulocanamaṅgalair yyutavatsale caitrakṛṣṇadhiṣaśa(?)vāsara vyomakeśatithau ... samvat 828 || caitrakṛṣṇacaturddaśibhṛhaspativāra",
+  "era": "NS",
+  "year": "828",
+  "month": "Caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturdaśī",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1708"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'śambhubhūṣaṇa' (8) - 'viṣṇulocana' (2) - 'maṅgala' (8) matches the explicitly stated Newari numeral date Samvat 828. 'vyomakeśatithau' corresponds to the 14th tithi (caturdaśī).",
+ "_meta": {
+  "reel": "A 375/2b",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 918,
+  "out_tok": 1590
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadrājaguruhemarājavidvadvareṇa",
+   "name": "Hemarāja",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "rājaguru",
+    "vidvadvarya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svakīya bhāratībhavanārthaṃ śrīmadrājaguruhemarājavidvadvareṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhojarājaśarmadvārā",
+   "name": "Bhojarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhojarājaśarmadvārā vilikhya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "śrīmadrājaguruhemarājavidvadvareṇa bhojarājaśarmadvārā vilikhya"
+  }
+ ],
+ "date": {
+  "as_written": "1985 vaikramābdake",
+  "era": "VS",
+  "year": "1985",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1928"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svakīya bhāratībhavanārthaṃ",
+ "notes": "Copied from an old palm-leaf manuscript (prācīnatāḍapatrapustakāt) by Bhojarāja Śarman for the personal library (Bhāratī Bhavan) of Rājaguru Hemarāja Śarmā.",
+ "_meta": {
+  "reel": "A 1312/19",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 714,
+  "out_tok": 1022
+ }
+}

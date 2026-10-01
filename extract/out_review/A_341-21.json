@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Residence of p1 removed: Banaras/Rāmaghāṭ is stated only as the place of copying, not as the scribe's residence.",
+   "Confidence for p1 lowered to medium: the colophon reads 'sukīrti' but the catalogue gives 'Sukṛti', and 'samene' is only probably śarmā + Hindi -ne.",
+   "Purpose normalised to 'for the welfare of all' (savakī kalyāṇa honā cāti [= cāhatī/cāhiye] hai).",
+   "Place as_written given as 'vanārasa rāmaghāṭa' (Rāmaghāṭ, Vārāṇasī).",
+   "Notes expanded: name discrepancy with the catalogue, the stock curse verse, and the corrupt title."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sukīrti samene",
+   "name": "Sukīrti",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sukīrti samene līkhāgayā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1934",
+  "era": "VS",
+  "year": "1934",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1877"
+ },
+ "place": {
+  "as_written": "vanārasa rāmaghāṭa mai",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "for the welfare of all (savakī kalyāṇa honā cāti hai)",
+ "notes": "The colophon is in Hindi. 'sukīrti samene' most likely stands for 'Sukīrti Śarmā ne' (Hindi agentive), so the scribe is Sukīrti Śarmā. The catalogue gives the name as 'Sukṛti Śarmā', but the quoted colophon reads 'sukīrti'. I kept the colophon reading; the true form is uncertain. 'samvat' is taken as VS, which fits a Banaras copy, giving c. 1877 CE. 'arjitaṃ bhūrikaṣṭena pustakaṃ likhitaṃ mayā...' is a stock curse verse against book thieves. It does not show ownership. The title in the colophon, 'kukaraṃbhāsaṃvāde', is a corruption of Śuka-Rambhā-saṃvāda. The chapter name 'śṛṅgāranānanīyāyaḥ' is also garbled.",
+ "_meta": {
+  "reel": "A 341/21",
+  "model": "opus",
+  "cost_usd": 0.072238,
+  "secs": 15.3
+ }
+}

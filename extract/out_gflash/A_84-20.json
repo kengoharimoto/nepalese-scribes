@@ -1,0 +1,117 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śaṃkarabhagavataḥ",
+   "name": "Śaṅkara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya",
+    "bhagavat"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śaṃkarabhagavataḥ kṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīgoviṃdabhagavatpūjyapāda",
+   "name": "Govinda",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "bhagavat",
+    "pūjyapāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgoviṃdabhagavatpūjyapādaśiṣyasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rāmakṛṣṇānaṃdasarasvati[[nā]]",
+   "name": "Rāmakṛṣṇānandasarasvatī",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmakṛṣṇānaṃdasarasvati[[nā]] likhitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīmad rāmānaṃdasarasva[[ti]]pūjya(2)pāda",
+   "name": "Rāmānandasarasvatī",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "pūjyapāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmad rāmānaṃdasarasva[[ti]]pūjya(2)pādaśiṣya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrīkṛṣṇajośī",
+   "name": "Śrīkṛṣṇa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pu śrīkṛṣṇajośī",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "śrīgoviṃdabhagavatpūjyapādaśiṣyasya paramahaṃsaparivrājakācārya (1)śaṃkarabhagavataḥ"
+  },
+  {
+   "from": "p3",
+   "type": "pupil_of",
+   "to": "p4",
+   "evidence": "śrīmad rāmānaṃdasarasva[[ti]]pūjya(2)pādaśiṣya rāmakṛṣṇānaṃdasarasvati[[nā]]"
+  }
+ ],
+ "date": {
+  "as_written": "saṃmat (!) 1844 mīti (!) vaiśāṣa sudī 14",
+  "era": "VS",
+  "year": "1844",
+  "month": "vaiśāṣa",
+  "paksa": "sudī",
+  "tithi": "14",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1787"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Śrīkṛṣṇa Jośī as 'Donor' and adds '(Rāmanagaravāle)'; in the colophon text itself, he is recorded as 'pu śrīkṛṣṇajośī', where 'pu' is a standard abbreviation for 'pustakam' (owner's mark).",
+ "_meta": {
+  "reel": "A 84/20",
+  "model": "gemini-flash-latest",
+  "secs": 8.7,
+  "in_tok": 859,
+  "out_tok": 2595
+ }
+}

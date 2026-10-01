@@ -1,0 +1,87 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p3: name given as stem 'Narahari' with 'paṃtha' (Pant surname) moved to titles only; confidence lowered to low because the reading rests on the cataloguer's interpretation of the corrupt 'nahyupaṃnthena(!)'",
+   "p2: as_written trimmed to the name portion 'ānaṃtara' (in davajña-ānaṃtara-suta); evidence kept",
+   "date: ce_approx kept at 1829, with a note added: ŚS 1750+78 = 1828, but Pauṣa falls in Dec 1828–Jan 1829, so the Pauṣa amāvāsyā is most likely Jan 1829",
+   "notes: added the doubtful 'adhika' Pauṣa, the unclear 'ahaṃkārasya' phrase, and the corrupt 'davajña'"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmaviracite",
+   "name": "Rāma",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "davajñānaṃtarasutarāmaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ānaṃtara",
+   "name": "Ananta",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "davajñānaṃtarasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "nahyupaṃnthena(!)",
+   "name": "Narahari",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paṃtha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣite nahyupaṃnthena(!)",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "davajñānaṃtarasutarāmaviracite"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1750 pauṣādhikamāśye somāvāsyāṃ tithau",
+  "era": "ŚS",
+  "year": "1750",
+  "month": "Pauṣa (adhika?)",
+  "paksa": "kṛṣṇa",
+  "tithi": "amāvāsyā",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1829"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name is badly corrupt ('liṣite nahyupaṃnthena(!)'). 'Narahari Paṃtha' is the cataloguer's reading (narahari-paṃthena?) and is accepted here only tentatively. 'davajña' stands for daivajña. 'somāvāsyā' = an amāvāsyā falling on a Monday. 'pauṣādhikamāśye' is read as 'adhika Pauṣa māse', but an intercalary Pauṣa is very rare. It could instead be a garbled 'pauṣa-' plus a filler, so the adhika status has not been verified. Date: ŚS 1750 + 78 = 1828, but Pauṣa of ŚS 1750 runs Dec 1828–Jan 1829, so the Pauṣa amāvāsyā is most likely Jan 1829. The phrase 'graṃthasya ahaṃkārasya idaṃ pustakaṃ' is unclear. It may hide an owner's name or simply mean 'this book of mine'. No owner has been extracted from it.",
+ "_meta": {
+  "reel": "A 418/23",
+  "model": "opus",
+  "cost_usd": 0.092282,
+  "secs": 22.4
+ }
+}

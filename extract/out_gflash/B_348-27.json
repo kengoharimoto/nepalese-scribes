@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhānucaṃdragaṇībhi",
+   "name": "Bhānucandra",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "mahopādhyāya",
+    "gaṇi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahopādhyāya śrībhānucaṃdragaṇībhi (!) virecitā (!) yāṃ vasaṃtarājaṭikāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ. 1858",
+  "era": "VS",
+  "year": "1858",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1801"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bhānucandra Gaṇi is the Jain commentator of the Vasantarājaśakuna. The four-digit year 1858 in Devanagari script is presumably Vikrama Saṃvat (c. 1801 CE).",
+ "_meta": {
+  "reel": "B 348/27",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 780,
+  "out_tok": 860
+ }
+}

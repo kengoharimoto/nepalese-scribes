@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmahopādhyāya[[miśra]]śrīvācaspativiracite",
+   "name": "Vācaspati",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāya[[miśra]]śrīvācaspativiracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "lasaṃ 449 āśvine",
+  "era": "LS",
+  "year": "449",
+  "month": "āśvina",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1568"
+ },
+ "place": {
+  "as_written": "kākogrāme",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chapter colophon (adhyāya 3) providing author Vācaspati Miśra, date in Lakṣmaṇasena saṃvat (LS 449), and place of copying Kākogrāma.",
+ "_meta": {
+  "reel": "A 33/11",
+  "model": "gemini-flash-latest",
+  "secs": 3.3,
+  "in_tok": 689,
+  "out_tok": 697
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ācāryavijayavajrasya",
+   "name": "Vijayavajra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtir ācāryavijayavajrasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat ā cū 4 kārttikakṛṣṇatrayodaśyāṃ",
+  "era": "NS",
+  "year": "274",
+  "month": "kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1154"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is recorded in letter-numerals: ā = 200, cū = 70, 4 = 4 (NS 274). The colophon breaks off after 'śrī'.",
+ "_meta": {
+  "reel": "A 48/15",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 694,
+  "out_tok": 724
+ }
+}

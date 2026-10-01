@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "keśavana",
+   "name": "Keśava",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "keśavana coyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 720 vaiśāṣa śuddhi 1 śuklavāra",
+  "era": "NS",
+  "year": "720",
+  "month": "vaiśāṣa",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "śuklavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1600"
+ },
+ "place": {
+  "as_written": "caukvāthaśa",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe Keśava notes that he completed the copy while detained/imprisoned in Caukvātha (caukvāthaśa vandi yāṅāva talaṅāsyaṃ).",
+ "_meta": {
+  "reel": "B 280/1",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 758,
+  "out_tok": 1345
+ }
+}

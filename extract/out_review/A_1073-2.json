@@ -1,0 +1,86 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2: 'rudrabhaha' read as a corruption of 'rudrabhaṭṭa'; name normalized to Rudra, with 'bhaṭṭa' moved to titles; confidence set to low",
+   "p3: confidence lowered to low and the evidence string extended to include the ellipsis. The genitive is followed by omitted text, so the owner role is inferred only. 'Vārāṇasī' may be the place of copying (as the catalogue reads it) or part of the personal name.",
+   "notes expanded on the place/name ambiguity and on the date era"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "somadaivajña",
+   "name": "Soma",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "Jaladagrāma",
+   "evidence": "jaladagrāmavāsī rudrabhahātmajasomadaivajña viracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rudrabha[ṭṭ]a (written rudrabhaha)",
+   "name": "Rudra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rudrabhahātmaja",
+   "confidence": "low"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vārāṇasī prasādasya",
+   "name": "Vārāṇasīprasāda",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vārāṇasī prasādasya…….",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "rudrabhahātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "saṃ.1942",
+  "era": "VS",
+  "year": "1942",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1885"
+ },
+ "place": {
+  "as_written": "vārāṇasī",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "'rudrabhaha' is almost certainly a misreading or miscopying of 'rudrabhaṭṭa'. The author, Soma Daivajña of Jaladagrāma, is the son of Rudra Bhaṭṭa. 'vārāṇasī prasādasya' is ambiguous. It may be the personal name Vārāṇasīprasāda in the genitive, probably the owner. Or it may be the place Vārāṇasī followed by a person named (…)prasāda; the catalogue's 'Place of Copying' field takes it this way. The cataloguer omitted text after 'prasādasya', so the person's role and the place are both uncertain. The catalogue gives the era as ŚS, but plain 'saṃ.' with a Vārāṇasī provenance points to Vikrama Saṃvat: VS 1942 ≈ 1885 CE. ŚS 1942 would be 2020 CE, which is impossible.",
+ "_meta": {
+  "reel": "A 1073/2",
+  "model": "opus",
+  "cost_usd": 0.089618,
+  "secs": 21.2
+ }
+}

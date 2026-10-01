@@ -1,0 +1,72 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śatānaṃda",
+   "name": "Śatānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śatānaṃdaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīgoviṃdajotirvidā",
+   "name": "Govinda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgoviṃdajotirvidā likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīrāghavaśarmaṇā",
+   "name": "Rāghava Śarman",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāghavaśarmaṇā likhitam asti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śake 1643 pauṣe māse śukle 7 gurau",
+  "era": "ŚS",
+  "year": "1643",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "gurau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1721"
+ },
+ "place": {
+  "as_written": "drugulyāṃ",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthaṃ ca",
+ "notes": "The catalogue records Rāghava Śarmā as the scribe, but the colophon clearly identifies Govinda Jyotirvid as the scribe of this manuscript ('śrīgoviṃdajotirvidā likhitaṃ svārthaṃ parārthaṃ ca'). Rāghava Śarman is mentioned as the one who wrote the Gauḍa work Siddhāntarahasya cited here ('atra gauḍagraṃthe siddhāṃtarahasye ... śrīrāghavaśarmaṇā likhitam asti tenātrāsmābhir likhitaṃ').",
+ "_meta": {
+  "reel": "A 340/19",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 838,
+  "out_tok": 1577
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvata sāla 60 pradovisā || pusā māsa",
+  "era": "unspecified",
+  "year": "60",
+  "month": "pusā",
+  "paksa": "",
+  "tithi": "pradovisā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No human agents are named in the colophon. The date gives year 'sāla 60' (possibly an abbreviated era year) and month 'pusā' (Pauṣa).",
+ "_meta": {
+  "reel": "B 22/14",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 702,
+  "out_tok": 796
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mādhavātmaja",
+   "name": "Mādhava",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "cittapāvana",
+   "residence": "",
+   "evidence": "cittapāvana mādhavātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dādābhāīkṛte",
+   "name": "Dādābhāī",
+   "roles": [
+    "author",
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "cittapāvana",
+   "residence": "",
+   "evidence": "dādābhāīkṛte caṃdrakiraṇāvalīsaṃjñe saura sūtravivaraṇaṃ samāptam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vedagarbho",
+   "name": "Vedagarbha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vedagarbho vyalīlikhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "mādhavātmaja dādābhāī"
+  }
+ ],
+ "date": {
+  "as_written": "kheṣumegha miteśāke kanyāsakte divākare",
+  "era": "ŚS",
+  "year": "kheṣumegha",
+  "month": "Kanyā (solar)",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'kheṣumegha' is unusual or corrupt (perhaps for 'kheṣuveda' or similar).",
+ "_meta": {
+  "reel": "A 403/47",
+  "model": "gemini-flash-latest",
+  "secs": 8.6,
+  "in_tok": 811,
+  "out_tok": 1658
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name normalized to Ūrdhvasiṃha (as written urdhavasiṃ); confidence lowered to medium because the colophon's syntax allows other readings",
+   "p1 residence given as Gālaiti (gāla iti + genitive yā); removed the Patan identification, which is unproven",
+   "p2 Jayasiṃha: the colophon reads jayasinhu-che-sa mukām, 'staying at Jayasiṃha's house'. He is most likely the host where the copy was made, so his role stays 'other'. The catalogue's reading of him as scribe ('Jaya Siṃ') is recorded as an alternative in notes",
+   "place: as_written cut to the house phrase; normalized cleared (not certain)",
+   "weekday expanded to Saturday (roja 7)",
+   "purpose condensed to an English gloss"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "urdhavasiṃ",
+   "name": "Ūrdhvasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "Gālaiti (gāla iti)",
+   "evidence": "likhitadaivajña gāla iti yā urdhavasiṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jayasinhu",
+   "name": "Jayasiṃha",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jayasinhuchesamukām",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "other",
+   "to": "p2",
+   "evidence": "jayasinhuchesamukām (scribe staying at Jayasiṃha's house)"
+  }
+ ],
+ "date": {
+  "as_written": "śrīnepālasamvat || 923 || mārgaśila śudi 2 roja 7",
+  "era": "NS",
+  "year": "923",
+  "month": "Mārgaśira (mārgaśila)",
+  "paksa": "śukla (śudi)",
+  "tithi": "2",
+  "weekday": "Saturday (roja 7)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1802"
+ },
+ "place": {
+  "as_written": "jayasinhuchesamukām",
+  "normalized": ""
+ },
+ "purpose": "for the pleasure of the goddess Caṇḍikā (śrīśrīśrīcaṇḍikā devyai prīty arthaṃ)",
+ "notes": "The Newari is ambiguous. I read it as 'likhita daivajña Gālaiti-yā Ūrdhvasiṃ, Jayasiṃhu-che-sa mukām': written by the daivajña Ūrdhvasiṃha of Gālaiti while staying (mukām) at Jayasiṃha's house (che-sa). The catalogue gives the scribe as 'Jaya Siṃ'. Two other readings are possible: 'Ūrdhvasiṃ Jayasiṃhu' could be a single name, or Jayasiṃha could be Ūrdhvasiṃha's son and the actual scribe. The locality Gālaiti/Gālhiti is not securely identified, so I have not linked it to Patan, Kathmandu or Bhaktapur. NS 923 Mārgaśira śukla 2 falls around Nov–Dec 1802 CE.",
+ "_meta": {
+  "reel": "A 1005/2",
+  "model": "opus",
+  "cost_usd": 0.093146,
+  "secs": 23.2
+ }
+}

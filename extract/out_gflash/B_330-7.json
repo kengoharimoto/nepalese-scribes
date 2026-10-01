@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī śivadāsa",
+   "name": "Śivadāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śivadāsa vinirmite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1716 varṣe māsa kārttika sudi paurṇamāsi gurudine",
+  "era": "VS",
+  "year": "1716",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "paurṇamāsī",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1659"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe is unnamed (only mentioned generally in 'lekhaka pāṭhakayo śubhaṃ bhavatu'). The word 'śūramṛhāṭha' preceding the author's name is obscure and possibly corrupt (perhaps an epithet, title, family name, or place).",
+ "_meta": {
+  "reel": "B 330/7",
+  "model": "gemini-flash-latest",
+  "secs": 9.5,
+  "in_tok": 751,
+  "out_tok": 1191
+ }
+}

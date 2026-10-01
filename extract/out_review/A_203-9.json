@@ -1,0 +1,76 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Place normalized: 'Bhaktapur' removed; 'mṃktāpurai' reads as Muktāpura, so Bhaktapur (भ/म confusion for Bhaktāpura) is only a possibility, recorded in notes",
+   "Residence of p1/p2 changed from 'Bhaktapur' to the place as written (Muktāpura?, pācheyā)",
+   "p2 name: initial Ā corrected to Aśvinīkumārarāja (as_written keeps Āśvinī); confidence lowered to medium",
+   "p1 name given as Harakumārarāja (assuming 'jāra' is a metathesis of 'rāja', matching the son's name), confidence low",
+   "Yoga 'valiyān' identified as Varīyān; date verified (VS 1949 = NS 1012 = 1892 CE; Āṣāḍha śukla 4 ≈ Tue 28 June 1892, weekday matches)",
+   "Notes expanded"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīharakumārajāra",
+   "name": "Harakumārarāja",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "Śahara mṃktāpurai pācheyā (Muktāpura?)",
+   "evidence": "śrīharakumārajāra dvijātmaja",
+   "confidence": "low"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīāśvinīkumārarāja vipraṇa",
+   "name": "Aśvinīkumārarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "Śahara mṃktāpurai pācheyā (Muktāpura?)",
+   "evidence": "leṣaka. Śahara mṃktāpurai pācheyā śrīharakumārajāra dvijātmaja śrīāśvinīkumārarāja vipraṇa",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīharakumārajāra dvijātmaja śrīāśvinīkumārarāja"
+  }
+ ],
+ "date": {
+  "as_written": "śrīvikramasamvat 1949 sāla śrīnepālasamvat 1012 miti āṣāḍhaśukla 4 aśleṣā valiyān joga maṃgalavāra",
+  "era": "VS",
+  "year": "1949",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "maṃgalavāra",
+  "nakshatra_yoga": "aśleṣā; varīyān (valiyān) yoga",
+  "ce_approx": "1892"
+ },
+ "place": {
+  "as_written": "Śahara mṃktāpurai pācheyā",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon is in Nepali. VS 1949 and NS 1012 agree (both 1892 CE), and Āṣāḍha śukla 4 falls on about Tuesday 28 June 1892, which matches maṃgalavāra. 'mṃktāpurai' is most likely Muktāpura. It could be a misreading of Bhaktāpura (Bhaktapur), since म and भ are easily confused, but this is not certain. 'pācheyā' may name a locality or tole. The father's name 'harakumārajāra' is corrupt: it could be Harakumārarāja (with metathesis, matching the son's '-kumārarāja') or contain 'Jhā'. 'vipraṇa 21 saṃphudayekā' is unclear and may be a garbled 'vipreṇa … sampūrṇa garekā' ('completed by the vipra'). 'Tasadīna leṣaka' = 'tas dina lekhaka' ('the scribe on that day'), which confirms p2 as the scribe.",
+ "_meta": {
+  "reel": "A 203/9",
+  "model": "opus",
+  "cost_usd": 0.10233800000000001,
+  "secs": 28.3
+ }
+}

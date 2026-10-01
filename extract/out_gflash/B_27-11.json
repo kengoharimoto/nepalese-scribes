@@ -1,0 +1,89 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "saṃkhyapālasya",
+   "name": "Asaṃkhyapāla",
+   "roles": [
+    "beneficiary",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dhīmato saṃkhyapālasya puṇyajñānavivṛddhaye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kāyasthodayaharṣeṇa",
+   "name": "Udayaharṣa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāyasthodayaharṣeṇa harṣeṇa likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīmajjayabhīmadeva",
+   "name": "Jayabhīmadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "parameśvara",
+    "paramamāheśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmajjayabhīmadevarājye",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "dhīmato saṃkhyapālasya puṇyajñānavivṛddhaye || kāyasthodayaharṣeṇa harṣeṇa likhitaṃ"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "śrīmajjayabhīmadevarājye"
+  }
+ ],
+ "date": {
+  "as_written": "aśītyadhikasaṃyāte samvatsaraśatatraye | māsi caitre ʼsite pakṣe pañcamyāṃ bhṛguvāsare",
+  "era": "NS",
+  "year": "380",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1260"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "puṇyajñānavivṛddhaye",
+ "notes": "The name Asaṃkhyapāla appears sandhi-merged as 'dhīmato saṃkhyapālasya' (dhīmataḥ asaṃkhyapālasya). King Jayabhīmadeva is listed simply as 'Bhīmadeva' in the catalogue record.",
+ "_meta": {
+  "reel": "B 27/11",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 955,
+  "out_tok": 1807
+ }
+}

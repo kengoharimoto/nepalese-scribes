@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śāṃkarasya",
+   "name": "Śaṅkara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "taittirīyakabhāṣyasya śāṃkarasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1670 duṃdubhināmasaṃvatsara āṣāḍha 30",
+  "era": "unspecified",
+  "year": "1670",
+  "month": "āṣāḍha",
+  "paksa": "",
+  "tithi": "30",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names Śaṅkara as the author of the Taittirīyaka-bhāṣya. The author of the sub-commentary (ṭippaṇa) and scribe are anonymous. The catalogue interprets saṃvat 1670 as Śaka era (ŚS 1670 ≈ 1748 CE), but the colophon merely states 'saṃvat 1670 duṃdubhināmasaṃvatsara'.",
+ "_meta": {
+  "reel": "A 89/16",
+  "model": "gemini-flash-latest",
+  "secs": 11.0,
+  "in_tok": 736,
+  "out_tok": 2449
+ }
+}

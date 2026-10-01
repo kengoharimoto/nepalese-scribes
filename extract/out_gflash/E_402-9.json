@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsrīnātharāmena",
+   "name": "Śrīnātharāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsrīnātharāmenajikhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kushe",
+   "name": "Kuśe",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kusheputra",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śyāmasūndarayāṃ",
+   "name": "Śyāmasundara",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śyāmasūndarayāṃ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "kusheputraśrīsrīnātharāmena"
+  },
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "śyāmasūndarayāṃ tithi kusheputraśrīsrīnātharāmenajikhitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃ 959 mārgaṃ śiraśukra 5 roja 5",
+  "era": "NS",
+  "year": "959",
+  "month": "Mārgaśira",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1838"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe wrote 'jikhitaṃ' for 'likhitaṃ'. 'kusheputra' specifies the scribe as the son of Kuśe. 'śyāmasūndarayāṃ' reflects the Newari genitive (-yā) of Śyāmasundara, likely indicating the owner or person for whom the copy was made, though the phrasing 'śyāmasūndarayāṃ tithi' is somewhat corrupt.",
+ "_meta": {
+  "reel": "E 402/9",
+  "model": "gemini-flash-latest",
+  "secs": 15.2,
+  "in_tok": 714,
+  "out_tok": 3672
+ }
+}

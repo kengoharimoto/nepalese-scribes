@@ -1,0 +1,83 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmacandrasomayāji",
+   "name": "Rāmacandra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "somayājin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmacandrasomayājiviracitā〈〈(6)sya〉〉 samarasārasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bharata",
+   "name": "Bharata",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bharatakṛtā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "cakrānando",
+   "name": "Cakrānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "cakrānando ʼlikhat",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "vidyānandaṃ",
+   "name": "Vidyānanda",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pātu, vidyānandaṃ sadā raviḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vaiśāṣaśuklakaṃdarppatithau vedartvi(7)bhābdake ... kavau",
+  "era": "NS",
+  "year": "864",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "kandarpa (trayodaśī)",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1744"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "Protection/blessing for Vidyānanda (pātu vidyānandaṃ sadā raviḥ)",
+ "notes": "Year expressed by chronogram: veda (4), ṛtu (6), ibha (8) = 864 (NS). Kandarpa-tithi refers to the 13th tithi (trayodaśī).",
+ "_meta": {
+  "reel": "A 430/7",
+  "model": "gemini-flash-latest",
+  "secs": 8.5,
+  "in_tok": 820,
+  "out_tok": 2058
+ }
+}

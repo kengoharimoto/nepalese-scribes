@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vāmeneṃdrasvāmi-",
+   "name": "Vāmenendra",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "paramahaṃsa",
+    "parivrājakācārya",
+    "svāmin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīparamahaṃsaparivrājakācāryavāmeneṃdrasvāmicaraṇāravidasevaka",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jñāneṃdrasarasvatī",
+   "name": "Jñānendrasarasvatī",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jñāneṃdrasarasvatī(3)kṛtau siddhāṃtakaumudīvyākhyāyā tattvabodhinyākhyāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "vāmeneṃdrasvāmicaraṇāravidasevakajñāneṃdrasarasvatī"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1855",
+  "era": "VS",
+  "year": "1855",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1798"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records 'SAM 1651', but the colophon text clearly reads 'saṃvat 1855'.",
+ "_meta": {
+  "reel": "A 991/4",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 731,
+  "out_tok": 1424
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. Expanded the notes on the marginal position, the garbled folio reference, and the catalogue fields that do not appear in the quoted text."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The quoted text is only a Newari curse against theft, written in the right margin of fol. 26r: 'thva pustaka sunānaṃ robha pāpa yānā kāya madu, kāsā paṃca pāpa'. It means roughly 'nobody may take this book out of greed and so commit sin; whoever takes it incurs the five sins'. It names no person, date or place. The folio reference is garbled in the catalogue ('jālaṃdharaº' repeated, probably a running title or a slip in the database). The catalogue gives the scribe as Viśvaratna Vajrācārya and the place of copying as Kathmandu, but neither appears in this excerpt. They presumably come from a main colophon that was not quoted, so I did not extract them here.",
+ "_meta": {
+  "reel": "A 343/8",
+  "model": "opus",
+  "cost_usd": 0.044935,
+  "secs": 10.8
+ }
+}

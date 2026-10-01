@@ -1,0 +1,47 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Notes expanded: the era is not named and NS is inferred; the right-to-left reading of the chronogram is spelled out; the corrupt name segment is explained."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ʼntakrśariḥ",
+   "name": "Anantakeśarin",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitāʼntakrśariḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "aṣṭāṃkasvarasaṃyāte mārggakṛṣṇe śubhetvadaḥ | caturddaśyāṃ gurorvvāre",
+  "era": "NS",
+  "year": "798",
+  "month": "Mārgaśīrṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturdaśī",
+  "weekday": "guruvāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1677"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram is aṣṭa = 8, aṅka = 9, svara = 7. Read right to left, this gives 798. The colophon does not name the era. NS is inferred from the Newari script and from the plausibility of the date: NS 798 Mārgaśīrṣa falls in about Nov./Dec. 1677 CE. The weekday has not been checked against the date. 'śubhetvadaḥ' is corrupt, probably for something like śubhe 'hani. The scribe's name is corrupt. 'likhitāʼntakrśariḥ' probably stands for 'likhito 'nantakeśarī' (ananta- with the syllable 'na' lost, and krśari for keśarī). This matches the catalogue's reading, Anantakeśarī. The stem is given as Anantakeśarin.",
+ "_meta": {
+  "reel": "B 238/13",
+  "model": "opus",
+  "cost_usd": 0.070498,
+  "secs": 14.9
+ }
+}

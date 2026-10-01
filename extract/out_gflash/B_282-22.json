@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devarobhena",
+   "name": "Devarobha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyasya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ ------ kāyasya devarobhena",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 780 ākhāḍha śuklanavamyāntithau",
+  "era": "NS",
+  "year": "780",
+  "month": "ākhāḍha",
+  "paksa": "śukla",
+  "tithi": "navamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1660"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The title 'kāyasya' is likely an error for 'kāyastha'. The name 'devarobhena' may also be a corruption (perhaps for Devaśobha). The subsequent 'nājo' may be another designation/title (cf. Newari nāyo).",
+ "_meta": {
+  "reel": "B 282/22",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 699,
+  "out_tok": 1198
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnaraharer",
+   "name": "Narahari",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnaraharer llipir iyaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The reading following 'lipir iyaṃ' is noted as corrupt (†mariyaḥ†).",
+ "_meta": {
+  "reel": "A 1171/3",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 702,
+  "out_tok": 890
+ }
+}

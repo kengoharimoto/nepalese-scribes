@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahādeva",
+   "name": "Mahādeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahādevakṛta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "paṃḍyopākhyadevanaṃdaśarmaṇā",
+   "name": "Devananda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "pāṇḍya",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "Vārāṇasī",
+   "evidence": "paṃḍyopākhyadevanaṃdaśarmaṇā pustakam idaṃ likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1906 mārgaśīrṣaśukla5 caṃdravāsare",
+  "era": "VS",
+  "year": "1906",
+  "month": "mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "caṃdravāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1849"
+ },
+ "place": {
+  "as_written": "vārāṇasyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The catalogue records the era as Śaka Saṃvat 1906, but the date is Vikrama Saṃvat 1906 (Mārgaśīrṣa śukla 5 fell on Monday, 19 November 1849 CE, confirming Candravāsara).",
+ "_meta": {
+  "reel": "B 345/17",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 764,
+  "out_tok": 1263
+ }
+}

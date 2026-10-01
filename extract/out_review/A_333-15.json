@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes; persons, roles, date and era confirmed.",
+   "Notes expanded: the direct-order reading 794 (1674 CE) is flagged as a real possibility, given the catalogue's reading and the generally late dating of the Nepālamāhātmya; the weekday could settle it."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "cakrasiṃhena",
+   "name": "Cakrasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajña cakrasiṃhena nepāla mahimā likhet",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "munirandhai samudraiśca, yute nepālavatsare | bhādra ca sitapakṣetu, dvitīyāyāṃ ravaudine",
+  "era": "NS",
+  "year": "497",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1377"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram is muni (7), randhra (9), samudra (4). Under the standard rule aṅkānāṃ vāmato gatiḥ it reads 497, i.e. NS 497 = 1377 CE (Bhādrapada falls in Aug–Sep 1377). The catalogue reads the digits in direct order as 794(!), i.e. 1674 CE. Scribes sometimes did write chronograms in direct order. A 1377 copy of the Skandapurāṇa Nepālamāhātmya would be unusually early, which makes the 794 reading worth taking seriously. Checking whether Bhādrapada śukla 2 fell on a Sunday in NS 497 or in NS 794 should decide it. The text is 'nepāla mahimā', i.e. the Nepālamāhātmya. 'likhet' is an optative used with past meaning.",
+ "_meta": {
+  "reel": "A 333/15",
+  "model": "opus",
+  "cost_usd": 0.07436999999999999,
+  "secs": 16.2
+ }
+}

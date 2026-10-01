@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhānudattamiśra",
+   "name": "Bhānudatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhānudattamiśraprakāśitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "karmmācāryajayasiṃha",
+   "name": "Jayasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmmācārya"
+   ],
+   "affiliation": "",
+   "residence": "vidyāpīṭha",
+   "evidence": "liṣitiṃ vidyāpīṭhayā karmmācāryajayasiṃha",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vipraśrīgaṃgā[dha]rarājasya",
+   "name": "Gaṅgādhararāja",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "eyāccha",
+   "evidence": "vipraśrīgaṃgā[dha]rarājasya (!) pustakam idaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "liṣitiṃ vidyāpīṭhayā karmmācāryajayasiṃha || ... eyācchayā vipraśrīgaṃgā[dha]rarājasya (!) pustakam idaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 799 mārggaśilakṛṣṇapaṃcamī, śukravāra kunhu",
+  "era": "NS",
+  "year": "799",
+  "month": "mārggaśira",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1678"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Eyāccha (likely Yācheṃ tol) and Vidyāpīṭha appear as Newari genitives (eyācchayā, vidyāpīṭhayā) designating the residences or localities of the owner and the scribe respectively.",
+ "_meta": {
+  "reel": "B 309/7",
+  "model": "gemini-flash-latest",
+  "secs": 9.3,
+  "in_tok": 801,
+  "out_tok": 2148
+ }
+}

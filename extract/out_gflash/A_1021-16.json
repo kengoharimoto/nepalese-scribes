@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "puran ghartile",
+   "name": "Purana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "Ghartī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "puran ghartile śrīmāghamāhātmya svasthāniparameśvari kathā liṣitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1975 śrīsamvat 1960 sāla",
+  "era": "VS",
+  "year": "1960",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1903"
+ },
+ "place": {
+  "as_written": "śrīvoghaṭi(!) āśramasthāna śrīvāgesva(!)rimā",
+  "normalized": "Vāgeśvarī"
+ },
+ "purpose": "",
+ "notes": "The catalogue gives 'ŚS 1795', but the colophon transcription actually reads 'śrīśāke 1975 śrīsamvat 1960 sāla'. The era and years are mutually inconsistent unless corrupt.",
+ "_meta": {
+  "reel": "A 1021/16",
+  "model": "gemini-flash-latest",
+  "secs": 6.7,
+  "in_tok": 886,
+  "out_tok": 1633
+ }
+}

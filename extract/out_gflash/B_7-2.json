@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmaṇḍanaśarmmā",
+   "name": "Maṇḍana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmaṇḍanaśarmmālipir iti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "lasaṃ 416 vaiśākhabadi 5 śanau",
+  "era": "LS",
+  "year": "416",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "śanau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1535"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 7/2",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 720,
+  "out_tok": 855
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajācā(2)rya (!) śrījagaḍānanden (!)",
+   "name": "Jagadānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vajācā(2)rya (!) śrījagaḍānanden (!) | lekhayet",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 833 mārgaśila vadi 10",
+  "era": "NS",
+  "year": "833",
+  "month": "mārgaśila",
+  "paksa": "vadi",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1712"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Although the causative form 'lekhayet' is used, the catalogue identifies Jagadānanda Vajrācārya as the scribe.",
+ "_meta": {
+  "reel": "A 221/2",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 736,
+  "out_tok": 821
+ }
+}

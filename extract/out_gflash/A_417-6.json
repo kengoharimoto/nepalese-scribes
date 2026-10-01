@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mallārināmā",
+   "name": "Mallāri",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mallārināmā gaṇite pati(9)ṣṭhaś (!) cakrāra parvadvayasādhanaṃ hi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīkṛṣṇa",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jyotiṣī",
+    "śāstrī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jyoºº śrīkṛṣṇa śāºº",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śake 1657 mārgaśīrṣa śuddha 6 ravau",
+  "era": "ŚS",
+  "year": "1657",
+  "month": "mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "6",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1735"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "śrīrāmāya at the end is likely a dedication to the deity Rāma (e.g. śrīrāmārpaṇam / śrīrāmāya namaḥ), or possibly a human recipient/patron.",
+ "_meta": {
+  "reel": "A 417/6",
+  "model": "gemini-flash-latest",
+  "secs": 8.8,
+  "in_tok": 759,
+  "out_tok": 2017
+ }
+}

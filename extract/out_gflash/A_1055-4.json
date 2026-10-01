@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1936 sāla miti kārtika śudi 11 roja 2",
+  "era": "VS",
+  "year": "1936",
+  "month": "kārtika",
+  "paksa": "śudi",
+  "tithi": "11",
+  "weekday": "roja 2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1879"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons mentioned. 'śrīsavajanāko prasasti' is text-related (Nepali for 'praise/praśasti of all people').",
+ "_meta": {
+  "reel": "A 1055/4",
+  "model": "gemini-flash-latest",
+  "secs": 2.5,
+  "in_tok": 675,
+  "out_tok": 501
+ }
+}

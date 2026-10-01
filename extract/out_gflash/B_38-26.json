@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībodhāraṇyayati",
+   "name": "Bodhāraṇya",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "yati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībodhāraṇyayatiśiṣya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrībhāratīnāmakapati",
+   "name": "Bhāratīnāmakapati",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhāratīnāmakapatikṛtā tattva(6)kaumudīvyā[[khyā]]",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śrībodhāraṇyayatiśiṣya"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsaṃvat 1875 jeṭhamāśe (!) śuklapakṣe caturthī",
+  "era": "VS",
+  "year": "1875",
+  "month": "Jyeṣṭha",
+  "paksa": "śuklapakṣa",
+  "tithi": "caturthī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1818"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The commentator's name reading 'śrībhāratīnāmakapati' might be a scribal error or misreading for 'śrībhāratīnāmakayati' (Bhāratīyati).",
+ "_meta": {
+  "reel": "B 38/26",
+  "model": "gemini-flash-latest",
+  "secs": 7.3,
+  "in_tok": 729,
+  "out_tok": 1593
+ }
+}

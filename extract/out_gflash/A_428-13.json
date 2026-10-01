@@ -1,0 +1,101 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "divākareṇa",
+   "name": "Divākara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "divākareṇa (10) viracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nṛsiṃhadaivajña",
+   "name": "Nṛsiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nṛsiṃhadaivajñasūnunā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīkṛṣnadaivajña",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "sakalagaṇakasārvabhauma",
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsakala(9)gaṇakasārvabhauma śrīkṛṣnadaivajñasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīkṛṣṇajośī",
+   "name": "Śrīkṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "Rāmanagara",
+   "evidence": "liḥ1 śrīkṛṣṇajośī rāmanagara",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "nṛsiṃhadaivajñasūnunā divākareṇa"
+  },
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "śrīkṛṣnadaivajñasuta nṛsiṃhadaivajña"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1950 śrāvaṇakṛṣne 9 ravau prātaḥ",
+  "era": "VS",
+  "year": "1950",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "ravau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1893"
+ },
+ "place": {
+  "as_written": "rāmanagara",
+  "normalized": "Ramnagar"
+ },
+ "purpose": "śrīekavīrārpaṇam astu",
+ "notes": "The catalogue records śrīkṛṣṇajośī as donor, but 'liḥ' indicates the copyist (likhitam).",
+ "_meta": {
+  "reel": "A 428/13",
+  "model": "gemini-flash-latest",
+  "secs": 9.9,
+  "in_tok": 778,
+  "out_tok": 2403
+ }
+}

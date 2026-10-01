@@ -1,0 +1,73 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 Kālidāsa: role 'beneficiary' removed; he is the recipient to whom the finished copy was given (viyā), so the role is owner",
+   "p1 Buddhisiṃha: evidence extended to show the completion (cakre pūrṇam) and the gift (viyā)",
+   "Date: tithi normalised; chronogram verified (ṣaḍ 6, vindu 0, vasu 8, read right to left = 806); 'nepālīyamate' confirms NS; ce 1686 confirmed",
+   "Purpose expanded to include 'bhaktyā jagatsvāmine'",
+   "Notes: added remarks on 'vāravāhlācake' and on the Ujhā title"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībuddhisiṃhaḥ",
+   "name": "Buddhisiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vimaladhī śrībuddhisiṃhaḥ kṛti || cakre pūrṇṇam amuṃ svabhinnalipibhir",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīkālidāsa ujhājuyatā",
+   "name": "Kālidāsa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "ujhā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkālidāsa ujhājuyatā viyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "sidhayakāva śrīkālidāsa ujhājuyatā viyā"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 806 vaiśākhakṛṣṇa 15 amāvasyāṃ budhavāre rohina(!) nakṣatre gandhayoga kunhu; verse: je(!)ṣṭhe kṛṣṇakuhusarohinīṃ budhe ṣadvinduvaśvaṃ kṛte nepālīyamate",
+  "era": "NS",
+  "year": "806",
+  "month": "vaiśākha (amānta) = jyeṣṭha (pūrṇimānta, in the verse)",
+  "paksa": "kṛṣṇa",
+  "tithi": "15 (amāvasyā, kuhū)",
+  "weekday": "budhavāra (Wednesday)",
+  "nakshatra_yoga": "Rohiṇī nakṣatra; Gaṇḍa (gandha) yoga",
+  "ce_approx": "1686"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "For the pleasure of Puruṣottama (Jagannātha) ('bhaktyā jagatsvāmine'; 'puruṣottamapriti'). The finished copy was given to Kālidāsa Ujhā.",
+ "notes": "The verse chronogram 'ṣaḍ-vindu-vasu' (6-0-8, read right to left) gives 806 'nepālīyamate', which matches the prose 'samvat 806' (NS). The verse names the month as Jyeṣṭha (pūrṇimānta), while the prose has Vaiśākha kṛṣṇa (amānta). These are the same new moon (kuhū), so the two do not conflict. 'ujhā' (Ojhā, Maithil brahmin surname/title) with honorific -ju and dative -yatā: Kālidāsa received the book. The giver is not named explicitly but is presumably the scribe. 'vāravāhlācake(!)' is corrupt and unclear; it could be a place or a verb phrase, so it is not used as the place of copying. 'līlādāsa vayusmata(!)stutikathāmahātmyayustaṃ(!)' is corrupt. Līlādāsa could be a personal name, but it is more likely part of a description of the text, so it is not entered as a person. 'jagatsvāmine' refers to the deity, not a person.",
+ "_meta": {
+  "reel": "B 233/18",
+  "model": "opus",
+  "cost_usd": 0.100194,
+  "secs": 23.2
+ }
+}

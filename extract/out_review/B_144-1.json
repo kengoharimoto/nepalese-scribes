@@ -1,0 +1,89 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: name reduced to stem 'Gambhīra' (dīkṣita/sūri kept as titles); father of Bhāskararāya, conventionally called Gambhīrarāya Dīkṣita",
+   "p2: added surname 'Bhāratī' (bharatyupākhāne = bhāratyupākhyena) to titles; initiation name Bhāsurānandanātha recorded in notes",
+   "p3: residence moved out of the person record because the Mahābuddha phrase is given with locative -sa, so it is the place of copying; 'vijyākala' noted as an unclear word placed before the name",
+   "date: era NS confirmed (VS/ŚS 1027 would be before the 18th-century commentator), ce_approx 1907; ambiguity of 'roja. 5' noted",
+   "notes expanded"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sarvataṃtraśrīmadgaṃbhīradīkṣiasūrisununā (!)",
+   "name": "Gambhīra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "dīkṣita",
+    "sūri"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadgaṃbhīradīkṣiasūrisununā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhāskarayrāyeṇa",
+   "name": "Bhāskararāya",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "Bhāratī (upākhyā)"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāskarayrāyeṇa ... praṇītaṃ saubhāgyabhāskarākhyaṃ ... bhāṣyaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīmarendranandanaṃ",
+   "name": "Narendranandana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vijyākalaśrīmarendranandanaṃ coyā sidhayakā jula",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "gaṃbhīradīkṣiasūrisununā (!) ... bhāskarayrāyeṇa"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsaṃvat || 1027 caitrakṛṣṇaroja. 5..se",
+  "era": "NS",
+  "year": "1027",
+  "month": "Caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1907"
+ },
+ "place": {
+  "as_written": "śrī lalitāpuramahāvuddhavodhimadayasa",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The colophon is in Newari ('coyā sidhayakā jula' = written and completed), so the era is Nepāla Saṃvat: NS 1027 = c. 1907 CE. VS or ŚS 1027 would fall before Bhāskararāya (18th century), so neither is possible. 'roja. 5' is unclear: 'roja' (day) may mark 5 as the tithi or as a weekday number (5 = Thursday). Here 5 is taken as the tithi. The scribe's name 'śrīmarendranandanaṃ' is probably a slip for śrī-Narendranandana, as on the catalogue card. The word before it, 'vijyākala', is unclear: it may be a corrupt epithet or title, or part of the name. The place is the Mahābuddha (Mahābauddha) area/vihāra in Lalitpur (Patan), written 'mahāvuddhavodhimadaya-sa' with the locative -sa. Bhāskararāya is the author of the Saubhāgyabhāskara commentary on the Lalitāsahasranāma (Brahmāṇḍapurāṇa). The colophon gives his surname as Bhāratī (corrupt 'bharatyupākhāne') and his dīkṣā name as Bhāsurānandanātha (corrupt 'bhāsurānaṃdanārthot'). The text title is corrupt in the catalogue ('lalitārhasyam sāhasraṃ').",
+ "_meta": {
+  "reel": "B 144/1",
+  "model": "opus",
+  "cost_usd": 0.099322,
+  "secs": 24.0
+ }
+}

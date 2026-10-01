@@ -1,0 +1,76 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Pūrṇarāja: title changed from 'daivajña' to 'dvija' ('divja' is most likely a miswriting of dvija); confidence lowered to medium because the epithet and the following 'śirapico(?)' are corrupt",
+   "p2 Kutu: shortened the evidence",
+   "date: kept NS 782 / 1662 CE. Explained the chronogram: abdhi = 7 (the seven oceans), so reading right to left 'dvitīya-nāga-abdhi' gives 2-8-7 = 782. This is a normal value for abdhi, not a corruption",
+   "notes: the pakṣa conflict is now stated explicitly. The verse has 'site pakṣe' (śukla) and the prose has 'māghakṛṣṇa'; kṛṣṇa is kept from the prose",
+   "purpose: reworded as a benediction, since it is not a commission purpose"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pūrṇṇarājadivjasya",
+   "name": "Pūrṇarāja",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pūrṇṇarājadivjasyājñāṃ dhṛtvā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kutu; kutujosina",
+   "name": "Kutu",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña",
+    "josī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kutu lilekha daivajñaḥ … kutujosina saṃpūrṇṇa coyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "pūrṇṇarājadivjasyājñāṃ dhṛtvā… kutu lilekha"
+  }
+ ],
+ "date": {
+  "as_written": "dvitīyanāgābdhiyute gate nepālavatsare | māghamāsya site pakṣe ekādaśāttithau (!) … samvat 782 māghakṛṣṇa ekādaśyāṃ tithau",
+  "era": "NS",
+  "year": "782",
+  "month": "Māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1662"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "benediction: śrībhavānīśaṃkaraprītir astu",
+ "notes": "Chronogram: dvitīya = 2, nāga = 8, abdhi = 7 (the seven oceans). Read right to left this gives NS 782, which matches the prose 'samvat 782' and the catalogue. NS 782 is 1662 CE, Māgha falling in Jan–Feb. The two dates disagree on the pakṣa: the verse has 'site pakṣe' (śukla) and the prose has 'māghakṛṣṇa'. The prose value is recorded here, but the conflict is unresolved. 'divja' is most likely dvija (a brahmin), though daivajña is also possible. 'dhṛtvāśirapico(?)' is corrupt; the sense is probably 'ājñāṃ dhṛtvā śirasi' ('placing his order on my head'), meaning Kutu copied the book on Pūrṇarāja's instruction. 'kutulilekha' = Kutu lilekha. The Newari 'kutujosina' = Kutu Josī with the ergative -na, and josī is the Newari equivalent of the Sanskrit 'daivajñaḥ' used for the same scribe.",
+ "_meta": {
+  "reel": "A 1176/13",
+  "model": "opus",
+  "cost_usd": 0.09213,
+  "secs": 21.3
+ }
+}

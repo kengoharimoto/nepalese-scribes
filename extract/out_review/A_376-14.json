@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Added notes on the uncertain toponym vijalakochaṃ and the catalogue's misspelling 'viṣṇasiṃha'; no substantive changes to persons, date or ce_approx (NS 713 + 880 = 1593, śrāvaṇa śukla 5 ≈ July/Aug 1593)"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viṣṇusiṃha",
+   "name": "Viṣṇusiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "vijalakochaṃ",
+   "evidence": "likhiti, (!) vijalakochaṃ daivajña, viṣṇusiṃha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 713 śrāvaṇa śudi 5",
+  "era": "NS",
+  "year": "713",
+  "month": "śrāvaṇa",
+  "paksa": "śudi",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1593"
+ },
+ "place": {
+  "as_written": "vijalakochaṃ",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is not named ('samvat 713'), but in a Newari-script manuscript it is taken as NS, which matches the catalogue. 'vijalakochaṃ' is an unidentified toponym, possibly Newari with a locative ending. It most likely gives the scribe's residence, and the place of copying is inferred from it, not stated. The catalogue's 'viṣṇasiṃha' is a misspelling: the colophon reads viṣṇusiṃha. 'likhiti' is marked (!) and stands for likhitaṃ.",
+ "_meta": {
+  "reel": "A 376/14",
+  "model": "opus",
+  "cost_usd": 0.063854,
+  "secs": 10.9
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīharṣaṃ",
+   "name": "Harṣa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "nikhilakavicūḍāmaṇi",
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīharṣaviracitaṃ naiṣadhīya caritābhidhānaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīhīraḥ",
+   "name": "Hīra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīharṣaṃ kavirājarājimukuṭālaṃkārahīraḥ sutaṃ śrīhīraḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "malladevī",
+   "name": "Malladevī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yā malladevī ca yaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīgaurīśaṅkareṇa",
+   "name": "Gaurīśaṅkara",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhyasau naiṣadhākhyaḥ | śrīgaurīśaṅkareṇāmṛtasarasadṛśaḥ ... svasmai",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīharṣaṃ kavirājarājimukuṭālaṃkārahīraḥ sutaṃ śrīhīraḥ"
+  },
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "sutaṃ ... yā malladevī ca yaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "skandākumāranāge gatavati śaradi jyeṣṭhamāse ʼsite ʼsmin pakṣe viśvasya tithyām avanija divase",
+  "era": "NS",
+  "year": "866",
+  "month": "Jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1746"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svasmai",
+ "notes": "Year given in chronogram skanda (6) - kumāra (6) - nāga (8) = NS 866. Tithi viśva = 13. Avanija-divasa = Tuesday.",
+ "_meta": {
+  "reel": "B 316/8",
+  "model": "gemini-flash-latest",
+  "secs": 8.5,
+  "in_tok": 907,
+  "out_tok": 1850
+ }
+}

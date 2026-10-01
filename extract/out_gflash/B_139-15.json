@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "nepālavatsaragatagrahavāṇanāme pauṣasya śuklatithisatrayodśī ca [...] gurūdine",
+  "era": "NS",
+  "year": "grahavāṇanāme",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "trayodaśī",
+  "weekday": "guruvāra",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons (scribe, commissioner, or king) are named in the colophon. The date is expressed in Nepal Samvat using a chronogram (grahavāṇanāme: graha = 9, vāṇa = 5, nāme uncertain/corrupt, possibly nāga = 8 for NS 859).",
+ "_meta": {
+  "reel": "B 139/15",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 806,
+  "out_tok": 1185
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mādhava",
+   "name": "Mādhava",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "upādhyāya",
+    "dvijavarya"
+   ],
+   "affiliation": "",
+   "residence": "Saurāṣṭradeśa",
+   "evidence": "upādhyāya dvijavarya mādhava viracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1983 sāla jyeºº śudi 10 roja 1",
+  "era": "VS",
+  "year": "1983",
+  "month": "Jyeṣṭha",
+  "paksa": "śuklapakṣa",
+  "tithi": "10",
+  "weekday": "roja 1 (Sunday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1926"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The manuscript contains the standard scribal verse (baddhamuṣṭi...), but the scribe remains anonymous.",
+ "_meta": {
+  "reel": "A 212/13",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 816,
+  "out_tok": 827
+ }
+}

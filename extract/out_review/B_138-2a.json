@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday 'roja3' interpreted as Tuesday (roja 1 = Sunday); written form kept in as_written",
+   "month normalized to Vaiśākha (written vaiśāṣa)",
+   "notes expanded: saṃgraha read as ownership/collection; reigning king not named in colophon"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadrājakumāraśrīśrīśrīupeṃdravikramasāhadevasya",
+   "name": "Upendravikramasāhadeva",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "rājakumāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadrājakumāraśrīśrīśrīupeṃdravikramasāhadevasya saṃgrahaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīvikrama samvat 1917 sālam iti vaiśāṣavadi 12 roja3",
+  "era": "VS",
+  "year": "1917",
+  "month": "Vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "12",
+  "weekday": "Tuesday (roja 3)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1860"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for the collection (saṃgraha) of prince Upendravikramasāhadeva",
+ "notes": "The catalogue lists Upendra Vikrama Sāhadeva under King, but the colophon calls him rājakumāra (prince). He was a younger son of King Rājendra and brother of the reigning King Surendravikramasāhadeva, who is not named in the colophon. 'idaṃ pustakaṃ ... saṃgrahaṃ' says the book belongs to his collection, so his role is owner. No scribe is named. 'roja 3' is taken as Tuesday (counting Sunday as roja 1). VS 1917 Vaiśākha falls in April–May 1860 CE.",
+ "_meta": {
+  "reel": "B 138/2a",
+  "model": "opus",
+  "cost_usd": 0.06833800000000001,
+  "secs": 11.5
+ }
+}

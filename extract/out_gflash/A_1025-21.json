@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśvānaṃdaḥ",
+   "name": "Viśvānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "alikhadviśvānaṃdaḥ sugata sevakaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "giridṛgghanage śāke māse śrāvaṇa saṃjñake || kāvyavāre",
+  "era": "ŚS",
+  "year": "giridṛgghanage",
+  "month": "śrāvaṇa",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "kāvyavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1805"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe Viśvānanda describes himself as 'sugata sevakaḥ' (worshipper/servant of the Buddha). The chronogram 'giridṛgghanage' yields ŚS 1727.",
+ "_meta": {
+  "reel": "A 1025/21",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 737,
+  "out_tok": 901
+ }
+}

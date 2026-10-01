@@ -1,0 +1,75 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vaiyāsikyāṃ",
+   "name": "Vyāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vaiyāsikyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīviśvasiṃhasya",
+   "name": "Viśvasiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīviśvasiṃhasya putra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "mohana",
+   "name": "Mohana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mohanarekhitapustakam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīviśvasiṃhasya putra mohana"
+  }
+ ],
+ "date": {
+  "as_written": "grahabhuvaṇavaśunaṣṭa (!) āśvinīśukla || pañcamī viśākhāḍh (!) nakṣatre viśkaṃbhayoge somavāraḥ",
+  "era": "NS",
+  "year": "839",
+  "month": "Āśvina",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "Monday",
+  "nakshatra_yoga": "viśākhā, viṣkambha",
+  "ce_approx": "1719"
+ },
+ "place": {
+  "as_written": "kuhudhunakā",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'grahabhuvaṇavaśu...' reads 9-3-8 (NS 839). 'kuhudhunakā' is marked with cruces in the catalogue transcription and likely indicates the toponym/residence. 'rekhita' is a non-standard form of 'likhita'.",
+ "_meta": {
+  "reel": "A 1061/9",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 784,
+  "out_tok": 1469
+ }
+}

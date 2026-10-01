@@ -1,0 +1,66 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe p2: residence changed from the place-of-copying phrase to 'khāranyamaṃ' (the word right before 'kāyhastha'; probably a house or locality name, reading uncertain); confidence lowered to low because the name breaks off after 'jayate'",
+   "Date: weekday normalized to Friday (bhṛguvāsara); era NS kept but flagged as inferred, since the colophon has only 'samvata'; ce_approx filled with the range for NS 400–499",
+   "Notes expanded: Yambu/Canigala, the uncertain 'khāranyamaṃ', the lost month, and the unclear closing words"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhūbhṛddilīpa",
+   "name": "Dilīpa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhūbhṛt"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhūbhṛddilīpaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jayate///",
+   "name": "Jayate",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "khāranyamaṃ (?)",
+   "evidence": "khāranyamaṃ kāyhastha jayate///",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvata 4///śuklatṛtīyāyā(!) bhṛguvāsare punarvaśunakṣatre(!)",
+  "era": "NS",
+  "year": "4///",
+  "month": "",
+  "paksa": "śukla",
+  "tithi": "tṛtīyā",
+  "weekday": "Friday (bhṛguvāsara)",
+  "nakshatra_yoga": "Punarvasu",
+  "ce_approx": "c. 1280–1379"
+ },
+ "place": {
+  "as_written": "yambu? Bramāyā(!) śrīcanigalasthāne",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The year breaks off after '4' and the month name is lost in the lacuna. The era is not named. 'samvata' with a 4xx year, Newari script and a Kathmandu location point to Nepal Samvat (NS 400–499 = c. 1280–1379 CE), but the century is inferred. Yambu is the old name for northern Kathmandu. Canigala is unidentified, perhaps a tole of Kathmandu. 'Bramāyā(!)' is corrupt. 'khāranyamaṃ' stands before 'kāyhastha (= kāyastha) jayate///'. It is probably the scribe's house or locality name, though it could be part of his name. The scribe's name is cut off after 'Jayate-', so the full form (e.g. Jayateja…) is unknown. The closing 'lakṣmīputradve vṛ//' is unclear and may be a further blessing or a fragment of a name; it has not been treated as a person. The author 'bhūbhṛd Dilīpa' (King Dilīpa) is named only as the text's author, not as the reigning king of this copy.",
+ "_meta": {
+  "reel": "A 1156/28",
+  "model": "opus",
+  "cost_usd": 0.08539,
+  "secs": 21.7
+ }
+}

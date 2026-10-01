@@ -1,0 +1,71 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Sundarācārya: role changed from 'teacher' to 'other' — they are the author's teacher, not connected with this copy; dropped the redundant title 'ācārya' because it is already part of the name as given",
+   "p1/p2 evidence: the compound is read as caraṇāravindadvandvānte(vāsinā) 'pupil at the lotus feet of'. The pupil_of relation p2→p1 is kept",
+   "Notes expanded: the correct Śaka and Vikrama equivalents, Kali 4833 checked, and no scribe or commissioner is named"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śṛīsundarācāryya",
+   "name": "Sundarācārya",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śṛīsundarācāryyacaraṇāraviṃdadvadvāṃte vā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīnivāsabhaṭṭeba",
+   "name": "Śrīnivāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnivāsabhaṭṭeba viracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śṛīsundarācāryyacaraṇāraviṃdadvadvāṃte vā śrīnivāsabhaṭṭeba"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke samvatsare 965 || śrīvikramasamvatsare 578 ? śrīkarisamvatsare 4833 nepālasamvatsare 852 | āṣāḍhaśuklacaturddaśī, mūlanakṣatra (!) aindrayoge caṃdravāsare",
+  "era": "NS",
+  "year": "852",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "caturdaśī",
+  "weekday": "candravāsara (Monday)",
+  "nakshatra_yoga": "mūla nakṣatra, aindra yoga",
+  "ce_approx": "1732"
+ },
+ "place": {
+  "as_written": "bhaktapattanasthāna (!)",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "The colophon gives the date in four eras. Nepāla Saṃvat 852 (Āṣāḍha falls in 1732 CE) and Kali 4833 (4833−3101 = 1732) agree. Śaka 965 and Vikrama 578 do not: the expected figures are about ŚS 1654 and VS 1789. These two numbers are corrupt, either in the manuscript or in the cataloguer's transcription (the '?' after 578 may be the cataloguer's). The weekday (Monday) and the nakṣatra have not been checked against an ephemeris. Mūla on śukla 14 of Āṣāḍha is astronomically plausible. The scribe and the commissioner are not named; the passage after 'yādṛśaṃ pustakaṃ' is only the stock scribal verse. Sundarācārya and Śrīnivāsa Bhaṭṭa are connected with the composition of the Śivārcanacandrikā, not with this copy. The author's name, 'śrīnivāsabhaṭṭeba', should read śrīnivāsabhaṭṭena, and 'dvadvāṃte vā' should read dvandvāntevāsinā.",
+ "_meta": {
+  "reel": "A 191/3",
+  "model": "opus",
+  "cost_usd": 0.095838,
+  "secs": 24.5
+ }
+}

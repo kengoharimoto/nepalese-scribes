@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "uduṃvaragoviṃdena",
+   "name": "Govinda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Uduṃvara",
+   "residence": "",
+   "evidence": "uduṃvaragoviṃdenālekhi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ. 1615 | kā. Va. 8 bhaumayuktāyā tithau",
+  "era": "VS",
+  "year": "1615",
+  "month": "kāttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1558"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year 1615 in Devanagari script is taken as Vikrama Saṃvat. Uduṃvara may refer to the scribe's gotra, lineage, or place of origin (Audumbara).",
+ "_meta": {
+  "reel": "A 189/7",
+  "model": "gemini-flash-latest",
+  "secs": 6.7,
+  "in_tok": 705,
+  "out_tok": 1434
+ }
+}

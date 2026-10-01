@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījayarāmācāryya",
+   "name": "Jayarāma",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījayarāmācāryyaviracitāyāṃ kāśīkhaṇḍaṭīkāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "daivajñadhana",
+   "name": "Dhana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "re(!)khaka daivajñadhana nāma",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 868 āśviṇamāsya kṛṣṇapakṣe ṣaṣṭhamyāṃ tithau, śanivārale",
+  "era": "NS",
+  "year": "868",
+  "month": "āśviṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "ṣaṣṭhī",
+  "weekday": "śanivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1748"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe title/designation is re(!)khaka (for lekhaka). The cataloguer lists the scribe's name as Daivajñadhana, but daivajña is an astrologer title/caste designation.",
+ "_meta": {
+  "reel": "B 205/4",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 776,
+  "out_tok": 1384
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīpatibhaṭṭātmja",
+   "name": "Śrīpati",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "Jāmakheḍakara",
+   "residence": "",
+   "evidence": "śrīpatibhaṭṭātmja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "tryaṃbakabhaṭṭasya",
+   "name": "Tryambaka",
+   "roles": [
+    "owner",
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "Jāmakheḍakara",
+   "residence": "Vārāṇasī",
+   "evidence": "idaṃ pustakaṃ jāmakheḍakaropāhvaya śrīpatibhaṭṭātmjatryaṃbakabhaṭṭasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīpatibhaṭṭātmja"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1879 tathā śāke 1744 ahikāśvine māsi śuklapakṣe caturthyāṃ",
+  "era": "VS",
+  "year": "1879",
+  "month": "adhikāśvina",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1822"
+ },
+ "place": {
+  "as_written": "vārāṇasyāṃ brahma ghaṭṭe",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "Jāmakheḍakara is the family surname (upāhvaya). 'ahikāśvine' represents adhikāśvine. The catalogue identifies Tryambaka Bhaṭṭa as scribe, while the genitive phrasing 'idaṃ pustakaṃ ... tryaṃbakabhaṭṭasya' also suggests ownership.",
+ "_meta": {
+  "reel": "A 1371/9",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 878,
+  "out_tok": 1551
+ }
+}

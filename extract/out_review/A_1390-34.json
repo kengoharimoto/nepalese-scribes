@@ -1,0 +1,65 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 Siṃhaśudi: role 'teacher' changed to 'other', confidence lowered to low. The phrase sits in the text's closing formula (iti śrīkāsaṛdagacha … śrīsiṃhaśudi śiṣya…). It names the teacher of the work's author, not the scribe's teacher. 'Siṃhaśudi' is probably a corruption of Siṃhasūri.",
+   "p1: confidence lowered to medium because the name may be a corrupt form of Lakṣmaṇa. 'jyānī' kept as a title.",
+   "Notes: the era arithmetic is corrected. ŚS for VS 1856 should be 1721 (difference 135), so the stated Śāke 1620 is about 101 years off. It may be a slip for 1720/1721.",
+   "Date: ce_approx stays 1800 (VS 1856 Māgha falls in Jan/Feb 1800 CE). Paksa is normalised to kṛṣṇa (vadi)."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jyānī lakṣaṇamaṇa",
+   "name": "Lakṣaṇamaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jyānī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ līkhītaṃ jyānī lakṣaṇamaṇa",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīsiṃhaśudi",
+   "name": "Siṃhaśudi",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "Kāsadragaccha (śrīkāsaṛdagacha)",
+   "residence": "",
+   "evidence": "śrīkāsaṛdagacha || śrīsiṃhaśudi śiṣya",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1856 varṣaśāke 1620 mīti (!) māghavadi8 ravivāsare",
+  "era": "VS",
+  "year": "1856",
+  "month": "Māgha",
+  "paksa": "kṛṣṇa (vadi)",
+  "tithi": "8",
+  "weekday": "Sunday (ravivāsare)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1800"
+ },
+ "place": {
+  "as_written": "śrīpuṣmadhya",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The closing formula 'iti śrīkāsaṛdagacha (!) || śrīsiṃhaśudi śiṣyakhnenāṃ varamate ||' points to the Jain Kāsadra/Kāsahrada gaccha. It seems to attribute the work to an unnamed pupil of Siṃhaśudi (probably Siṃhasūri). This is the author's lineage, not this copy's production, so Siṃhaśudi gets role 'other' and the author is not entered as a person. 'śiṣyakhnenāṃ varamate' is too corrupt to name the author. The scribe's name 'lakṣaṇamaṇa' may be a corrupt form of Lakṣmaṇa. 'jyānī' may stand for jñānī or for a jyotiṣī/jośī-type designation. The place 'śrīpuṣmadhya' is unidentified and possibly corrupt. Date: VS 1856 matches the catalogue. The ŚS that matches VS 1856 is 1721, but the colophon gives 'varṣaśāke 1620'. That is about 101 years off and probably a scribal slip. The weekday has not been verified.",
+ "_meta": {
+  "reel": "A 1390/34",
+  "model": "opus",
+  "cost_usd": 0.15861360000000002,
+  "secs": 35.4
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmacchaṃkarācāryya°",
+   "name": "Śaṅkarācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmacchaṃkarācāryyaviracitaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1870 miti pauṣaśudi11",
+  "era": "VS",
+  "year": "1870",
+  "month": "pauṣa",
+  "paksa": "śudi",
+  "tithi": "11",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1814"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1115/2",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 728,
+  "out_tok": 899
+ }
+}

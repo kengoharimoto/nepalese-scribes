@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday normalized from 'roja7' to 'Saturday (roja 7 = 7th day)'",
+   "date: ce_approx 1892 confirmed (ŚS 1813 Phālguna falls in Feb–Mar 1892; amānta Phālguna kṛṣṇa 6 ≈ 19 March 1892, which was a Saturday, consistent with roja 7)",
+   "notes expanded: catalogue 'SAM 1813' vs colophon 'śāke'; Śaka was Nepal's official era in the 19th century; Keśava formulae read as devotional"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhavahariśarmaṇo",
+   "name": "Bhavahari",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhavahariśarmaṇo hastena likhitoyaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke1813phālguṇakṛṣṇa6 roja7",
+  "era": "ŚS",
+  "year": "1813",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "6",
+  "weekday": "Saturday (roja 7)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1892"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "sarvebhyaḥ sarvato rakṣārthaṃ (for the protection of all from every side)",
+ "notes": "The catalogue gives 'SAM 1813', but the colophon has 'śāke 1813', so the era is Śaka. In the 19th century Nepal officially used the Śaka era. Reading it as VS 1813 (1756 CE) is unlikely given the Persian-derived 'roja'. The weekday check supports the Śaka reading: amānta Phālguna kṛṣṇa 6 of ŚS 1813 falls around 19 March 1892, which was a Saturday (roja 7). 'śrīmatkeśavaprasādāt' and 'śrīmatkeśavasaraṇaḥ (!)' (probably for -śaraṇaḥ) are devotional formulae addressed to the deity Keśava (Viṣṇu), so they name no human person.",
+ "_meta": {
+  "reel": "A 1114/32",
+  "model": "opus",
+  "cost_usd": 0.082482,
+  "secs": 18.9
+ }
+}

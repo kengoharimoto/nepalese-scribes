@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñavidyādharena(!)",
+   "name": "Vidyādhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñavidyādharena(!) likhiti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "araṇya ṣaṣṭhīdivase ... samvat 833",
+  "era": "NS",
+  "year": "833",
+  "month": "Jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "ṣaṣṭhī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1713"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Araṇyaṣaṣṭhī corresponds to the tithi Jyeṣṭha śukla 6.",
+ "_meta": {
+  "reel": "B 218/2",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 719,
+  "out_tok": 726
+ }
+}

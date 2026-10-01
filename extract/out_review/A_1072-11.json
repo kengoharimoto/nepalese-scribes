@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Weekday given in normalised form alongside the spelling in the manuscript: vudhavāra = budhavāra (Wednesday)",
+   "Notes added: why the era is taken as NS, and the weekday check against the CE date"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajña lakṣmī nārāyaṇena",
+   "name": "Lakṣmīnārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiti daivajña lakṣmī nārāyaṇena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 926 pauṣaśudi 11 vudhavāra",
+  "era": "NS",
+  "year": "926",
+  "month": "pauṣa",
+  "paksa": "śudi (śukla)",
+  "tithi": "11",
+  "weekday": "vudhavāra (budhavāra, Wednesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1806"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon says only 'saṃvat 926' and does not name the era. NS is assumed because VS 926 (869 CE) is impossible for a Devanagari paper manuscript. With NS 926, Pauṣa śukla 11 falls on about 1 January 1806 CE, which was a Wednesday. That matches 'vudhavāra' and supports reading the year as NS. 'likhiti' stands for likhitaṃ. 'śrī śaṃkara sahāya' is an invocation to a deity, not a person. The scribe's name is printed as two words ('lakṣmī nārāyaṇena') but is taken as one name, Lakṣmīnārāyaṇa.",
+ "_meta": {
+  "reel": "A 1072/11",
+  "model": "opus",
+  "cost_usd": 0.062643,
+  "secs": 16.6
+ }
+}

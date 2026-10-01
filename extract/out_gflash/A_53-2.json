@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śryānandadevasya",
+   "name": "Ānandadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śryānandadevasya vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "yaṃṭākudumbajakulaputraśrīmanaharṣavarmasya",
+   "name": "Manaharṣavarman",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "kulaputra"
+   ],
+   "affiliation": "yaṃṭākudumbaja",
+   "residence": "",
+   "evidence": "yaṃṭākudumbajakulaputraśrīmanaharṣavarmasya pustako ʼyaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śryānandadevasya vijayarājye likhitam idaṃ pustakaṃ || || yaṃṭākudumbajakulaputraśrīmanaharṣavarmasya pustako ʼyaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 276 prathamapauṣakṛṣṇadivā caturthyāṃ",
+  "era": "NS",
+  "year": "276",
+  "month": "prathama-Pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "4",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1155"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Manaharṣavarman as donor, but 'pustako ʼyaṃ' marks him as the manuscript's owner.",
+ "_meta": {
+  "reel": "A 53/2",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 985,
+  "out_tok": 1400
+ }
+}

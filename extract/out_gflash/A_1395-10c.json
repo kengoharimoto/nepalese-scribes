@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vaidya tejarājyena",
+   "name": "Tejarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "śrīdevapaṭanasthāne maṇḍolivichegṛha",
+   "evidence": "vaidya tejarājyena svayaṃ le(!)khitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 999 phālguṇaśukladvādaśyāyāṃ(!) tithau",
+  "era": "NS",
+  "year": "999",
+  "month": "phālguṇa",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1879"
+ },
+ "place": {
+  "as_written": "śrīdevapaṭanasthāne maṇḍolivichegṛhavāsimo(!)",
+  "normalized": "Deopatan"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1395/10c",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 744,
+  "out_tok": 761
+ }
+}

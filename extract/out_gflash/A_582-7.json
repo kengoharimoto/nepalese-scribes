@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhaṭṭōjadīksīta",
+   "name": "Bhaṭṭojidīkṣita",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhaṭṭōjadīksītaviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "abde lakṣmaṇabhūpate ṛtusaridyo(gīmahe)śānanair bbhavye bhāskaravāsare sugaṇite māghe dvitīyāśite",
+  "era": "LS",
+  "year": "ṛtusaridyo(gīmahe)śānanaiḥ",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvitīyā",
+  "weekday": "bhāskaravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "grāme maithilasaṃsthitau surahike",
+  "normalized": ""
+ },
+ "purpose": "sūtrārtham āvaśyakam",
+ "notes": "The manuscript was copied in the village of Surahikā in Mithilā. The colophon breaks off at the end (sāgaralaṃgha(na)///), where the scribe's name was likely recorded. The chronogram for the Lakṣmaṇasena era (LS) year is difficult to reconstruct with certainty due to damaged akṣaras.",
+ "_meta": {
+  "reel": "A 582/7",
+  "model": "gemini-flash-latest",
+  "secs": 8.1,
+  "in_tok": 803,
+  "out_tok": 1935
+ }
+}

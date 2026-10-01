@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 754 āḍhaśakami hastanakṣatre",
+  "era": "NS",
+  "year": "754",
+  "month": "āḍha",
+  "paksa": "śukla",
+  "tithi": "kami",
+  "weekday": "",
+  "nakshatra_yoga": "hastanakṣatre",
+  "ce_approx": "1634"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons (scribe, commissioner, owner, king, or author) are named in the colophon. The date phrase 'āḍhaśakami' is likely a corruption or contraction for Āṣāḍha śukla (saptamī/daśamī/ekādaśī?).",
+ "_meta": {
+  "reel": "A 390/1",
+  "model": "gemini-flash-latest",
+  "secs": 3.3,
+  "in_tok": 687,
+  "out_tok": 636
+ }
+}

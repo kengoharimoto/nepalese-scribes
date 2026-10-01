@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhairaviśaraṇena",
+   "name": "Bhairaviśaraṇa",
+   "roles": [
+    "scribe",
+    "owner",
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ bhairaviśaraṇena (!) lipikṛtaṃ (8) svapaṭhanārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "kāśyāṃ madhye",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "svapaṭhanārthaṃ",
+ "notes": "The scribe's name is written as Bhairaviśaraṇa, catalogued as Bhairavīśaraṇa. Śrīkailāsavāsin, Śrīsaṃkaṭādevī, and Śrīvidyeśvara are deities.",
+ "_meta": {
+  "reel": "A 883/2",
+  "model": "gemini-pro-latest",
+  "secs": 8.7,
+  "in_tok": 751,
+  "out_tok": 896
+ }
+}

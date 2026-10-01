@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījyotirvidakṛṣṇadattopādhyābhaṭṭarāi",
+   "name": "Kṛṣṇadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jyotirvid",
+    "upādhyāya",
+    "bhaṭṭarāī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījyotirvidakṛṣṇadattopādhyābhaṭṭarāihastelikhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1806",
+  "era": "ŚS",
+  "year": "1806",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1884"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 979/25",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 722,
+  "out_tok": 856
+ }
+}

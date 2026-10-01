@@ -1,0 +1,35 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "era changed from VS to unspecified: the colophon has only 'saṃvat', and the year as written (194) is defective, so the era cannot be confirmed",
+   "month given as Bhādrapada (written 'bhādrava')",
+   "notes expanded: the catalogue's 'SAM 1904' reading would give c. 1847 CE if it is VS; ce_approx left empty"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 194(!) bhādravakṛṣṇa(!) 7",
+  "era": "unspecified",
+  "year": "194(!)",
+  "month": "Bhādrapada (bhādrava)",
+  "paksa": "kṛṣṇa",
+  "tithi": "7",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names no human persons. In the catalogue, 'SAM 1904' is entered under the Scribe field, which is the wrong field: it is a date, not a scribe. The year in the colophon is written '194(!)', apparently with a digit missing. The catalogue's reading is 1904. The colophon says only 'saṃvat', so the era is not stated. If the year is VS 1904, as is likely for a Devanagari paper manuscript, the date would be about 1847 CE. NS cannot be ruled out, but it is less likely. The catalogue's 'brahmāṃḍāvarte(!)' is part of the text-section title, not a person or place.",
+ "_meta": {
+  "reel": "A 273/6",
+  "model": "opus",
+  "cost_usd": 0.06455,
+  "secs": 11.9
+ }
+}

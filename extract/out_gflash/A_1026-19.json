@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat, 845 vaiśāṣa vadi 6 śukravāra",
+  "era": "NS",
+  "year": "845",
+  "month": "vaiśāṣa",
+  "paksa": "vadi",
+  "tithi": "6",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1725"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons are named in the colophon text; only the date and the completion of the text (śrīrāmāyaṇavyākhana dhunakā juro) are recorded.",
+ "_meta": {
+  "reel": "A 1026/19",
+  "model": "gemini-flash-latest",
+  "secs": 2.6,
+  "in_tok": 689,
+  "out_tok": 447
+ }
+}

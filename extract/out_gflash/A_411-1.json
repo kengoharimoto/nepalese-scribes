@@ -1,0 +1,72 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīpatibhaṭṭa",
+   "name": "Śrīpati",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīpatibhaṭṭaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmahādeva",
+   "name": "Mahādeva",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahādevaviracite ratnamālāvi()varaṇe",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "aravindaśarmmāḥ",
+   "name": "Aravinda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "lālitākhyenagarī",
+   "evidence": "likhitaṃ śrī aravindaśarmmāḥ (!) || ... samalikhadaravindo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke1725 śrīvikramādityasaṃvat 1860 śrīnaipālasaṃvat 924 mārgaśīrṣa śuklatithau8 vāre3 / śarakaranagacandre aṅkite śākavarṣe sahasi dhavalapakṣe bhaumavāreṣṭamīṣu",
+  "era": "ŚS",
+  "year": "1725",
+  "month": "Mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "8",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1803"
+ },
+ "place": {
+  "as_written": "lālitākhyenagaryā",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The scribe Aravinda states that he copied the text at the age of 15 ('tithimita15vayavarṣe'). Three calendar eras are provided: Śaka 1725, Vikrama 1860, and Nepāla 924.",
+ "_meta": {
+  "reel": "A 411/1",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 1030,
+  "out_tok": 1560
+ }
+}

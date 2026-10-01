@@ -1,0 +1,100 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadgaṃgeśvara",
+   "name": "Gaṅgeśvara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāyā śrīmadgaṃgeśvara viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmadhurinārāyaṇātmaja",
+   "name": "Madhurinārāyaṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadhurinārāyaṇātmaja",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīmadrūpanārāyaṇa",
+   "name": "Rūpanārāyaṇa",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājādhirāja śrīmadhurinārāyaṇātmaja śrīmadrūpanārāyaṇa bhujyamāne",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "paramānaṃdenedaṃ",
+   "name": "Paramānanda",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "caturveda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paramānaṃdenedaṃ pustakaṃ liṣāyitāḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīmadhurinārāyaṇātmaja śrīmadrūpanārāyaṇa"
+  },
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "śrīmadrūpanārāyaṇa bhujyamāne ... paramānaṃdenedaṃ pustakaṃ liṣāyitāḥ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1457 samaye kārttimārga(!) vadi caturthākuje(!)ti",
+  "era": "VS",
+  "year": "1457",
+  "month": "kārttimārga",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturthī",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1400"
+ },
+ "place": {
+  "as_written": "bhukrideśe ma ---- ra sarā vrahmottare",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "śrīmadhurinārāyaṇātmaja is likely a misreading or scribal error for śrīmaddharinārāyaṇātmaja (referring to Harinārāyaṇa). The catalogue tentatively read the year as 1456.",
+ "_meta": {
+  "reel": "A 990/24",
+  "model": "gemini-flash-latest",
+  "secs": 18.4,
+  "in_tok": 818,
+  "out_tok": 4085
+ }
+}

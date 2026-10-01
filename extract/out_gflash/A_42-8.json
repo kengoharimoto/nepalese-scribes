@@ -1,0 +1,68 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījuvarājāddhirājaśrīśrījayajyotimalladevasya",
+   "name": "Jayajyotimalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "juvarājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījuvarājāddhirājaśrīśrījayajyotimalladevasya rājyavijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "pradhānāṅgamūrtyaṅga[pātra]śrījayatejavarmaṇenaḥ",
+   "name": "Jayatejavarman",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "pradhānāṅgamūrti",
+    "aṅgapātra"
+   ],
+   "affiliation": "Yothovihāra",
+   "residence": "Māṇiglaka, Dakṣiṇavihāra",
+   "evidence": "śrījayatejavarmaṇenaḥ śva〇hastena svārtham idaṃ kālottaramahātantra likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrījuvarājāddhirājaśrīśrījayajyotimalladevasya rājyavijayarājye likhita pustakaṃ ... śrījayatejavarmaṇenaḥ śva〇hastena ... likhitam"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 538 śrāvaṇakṛṣṇe | trayodaśyāyā tithau || punavasunakṣatre || , śu〇ddhiyoge || āditavāsareḥ",
+  "era": "NS",
+  "year": "538",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "ādityavāsara",
+  "nakshatra_yoga": "punarvasu nakṣatra, śuddhi yoga",
+  "ce_approx": "1418"
+ },
+ "place": {
+  "as_written": "śrīmānīglake dakṣiṇavihāre śrīyothovihārāddhivāsinaḥ",
+  "normalized": "Patan"
+ },
+ "purpose": "svārtham",
+ "notes": "Jayatejavarman explicitly wrote the text with his own hand for himself (śvahastena svārtham ... likhitam). The ruler is given the title juvarājāddhirāja (yuvarājādhirāja).",
+ "_meta": {
+  "reel": "A 42/8",
+  "model": "gemini-flash-latest",
+  "secs": 6.7,
+  "in_tok": 910,
+  "out_tok": 1830
+ }
+}

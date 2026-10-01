@@ -1,0 +1,74 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayārimalladevānām",
+   "name": "Jayārimalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "paramabhaṭṭāraka",
+    "parameśvara",
+    "paramavaiṣṇava",
+    "paramadaivatādhideva",
+    "paramamāheśvara",
+    "raghukulatilaka",
+    "mahārājādhirāja",
+    "rājarājendra"
+   ],
+   "affiliation": "",
+   "residence": "nepālamaṇḍala",
+   "evidence": "śrīśrījayārimalladevānām vijayarājye nepālamaṇḍale",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrījayaśīhamallavarmmaṇaiḥ",
+   "name": "Jayaśīhamallavarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "pradhānāṅga",
+    "mahāpātra"
+   ],
+   "affiliation": "uttaravihāra, hnolavihāra",
+   "residence": "hnolavihāra",
+   "evidence": "uttaravihārakuṭumvodbhavaśrīhnolavihārapradhānāṅgamahāpātraśrījayaśīhamallavarmmaṇaiḥ satvārthahetunā likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīśrījayārimalladevānām vijayarājye nepālamaṇḍale"
+  }
+ ],
+ "date": {
+  "as_written": "saptapañcāśatādhikacaturaśata || śreyo stu || samvat 457 śrāvaṇakṛṣṇadvādaśyā || puṣyanakṣatre || parighayoge | śaniścara || || vāsare",
+  "era": "NS",
+  "year": "457",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādaśī",
+  "weekday": "śaniścaravāra",
+  "nakshatra_yoga": "puṣyanakṣatre || parighayoge",
+  "ce_approx": "1337"
+ },
+ "place": {
+  "as_written": "śrīhnolavihāra, nepālamaṇḍale",
+  "normalized": ""
+ },
+ "purpose": "satvārthahetunā",
+ "notes": "The catalogue records Jayaśīhamalla as donor, but the colophon text specifies that he wrote the manuscript himself ('likhitaṃ mayā ... likhitaṃ').",
+ "_meta": {
+  "reel": "B 15/22",
+  "model": "gemini-flash-latest",
+  "secs": 6.8,
+  "in_tok": 1194,
+  "out_tok": 2118
+ }
+}

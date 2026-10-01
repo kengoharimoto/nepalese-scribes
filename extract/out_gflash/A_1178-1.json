@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat……… ………..",
+  "era": "unspecified",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date portion following 'samvat' is lost or unread in the catalogue description; no personal names are preserved.",
+ "_meta": {
+  "reel": "A 1178/1",
+  "model": "gemini-flash-latest",
+  "secs": 2.2,
+  "in_tok": 693,
+  "out_tok": 287
+ }
+}

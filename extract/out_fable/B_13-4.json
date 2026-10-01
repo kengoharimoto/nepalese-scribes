@@ -1,0 +1,63 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sthitirājamallaḥ",
+   "name": "Sthitirājamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpeśa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yasmin nṛpeśa (!) sthitirājamallaḥ samastasāmantabhuvaṃ bhunakti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vīrādisiṃho",
+   "name": "Vīrasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasmin samālikhya vīrādisiṃho mahādilakṣmīṃ vratarājam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "yasmin nṛpeśa (!) sthitirājamallaḥ ... bhunakti | tasmin samālikhya vīrādisiṃho"
+  }
+ ],
+ "date": {
+  "as_written": "samvatsare bhūtakhapañcaseṣe māse site śrāvaṇajīvavāre | pūrvvādiṣāḍhe ṛkṣa kāmatithau",
+  "era": "NS",
+  "year": "505",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "13 (kāma)",
+  "weekday": "Thursday (jīvavāra)",
+  "nakshatra_yoga": "Pūrvāṣāḍhā",
+  "ce_approx": "1385"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Year given in bhūtasaṃkhyā: bhūta (5) kha (0) pañca (5) read right-to-left = 505; era not stated but NS fits the reign of Jayasthitimalla (1382–1395), so NS 505 = 1385 CE. 'vīrādisiṃha' is a metrical expansion of Vīrasiṃha (ādi inserted as filler), matching the catalogue's scribe field; likewise 'mahādilakṣmīṃ' = Mahālakṣmī (text title, not a person). 'sthitirājamallaḥ' = King Sthitimalla of the catalogue (Jayasthitirājamalla). 'kāmatithi' = 13th tithi. No place or purpose stated.",
+ "_meta": {
+  "reel": "B 13/4",
+  "model": "fable",
+  "cost_usd": 0.26770475,
+  "secs": 27.6
+ }
+}

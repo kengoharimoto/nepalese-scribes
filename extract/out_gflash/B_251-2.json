@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The quoted text is a standard chapter/parvan colophon for the Dānadharma section of the Anuśāsanaparvan of the Mahābhārata; it contains no historical persons, date, or place of copying.",
+ "_meta": {
+  "reel": "B 251/2",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 695,
+  "out_tok": 709
+ }
+}

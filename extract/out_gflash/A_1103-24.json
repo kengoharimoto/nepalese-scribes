@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "tilocanda(!) upādhyā(!)armaṇe(!)",
+   "name": "Tilocanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "evaṃ pustakaṃ likhitaṃ tilocanda(!) upādhyā(!)armaṇe(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1752 || 1887 sāla bhādravadi 2 roja 6",
+  "era": "ŚS",
+  "year": "1752 / 1887",
+  "month": "bhādra",
+  "paksa": "vadi",
+  "tithi": "2",
+  "weekday": "roja 6",
+  "nakshatra_yoga": "",
+  "ce_approx": "1830"
+ },
+ "place": {
+  "as_written": "vijaipura jille moraṃgadeśe śrīvakrāhānikaṭe raṃgelīkacaharigrāme",
+  "normalized": "Rangeli, Morang"
+ },
+ "purpose": "",
+ "notes": "Both Śāka 1752 and Vikrama Saṃvat 1887 (sāla 1887) are provided. Scribe's name is written in corrupt dative/instrumental: 'tilocanda(!) upādhyā(!)armaṇe(!)' for Tilocanda Upādhyāyaśarman.",
+ "_meta": {
+  "reel": "A 1103/24",
+  "model": "gemini-flash-latest",
+  "secs": 2.3,
+  "in_tok": 808,
+  "out_tok": 430
+ }
+}

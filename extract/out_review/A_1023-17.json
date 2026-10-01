@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "ce_approx changed from 1960 to 1961: Māgha/Phālguna of ŚS 1882 falls in Jan–Mar 1961 CE (ŚS 1882 began in spring 1960).",
+   "Notes expanded: the chronogram as quoted gives only three number words (dvi 2, aṣṭa 8, dharaṇī 1). Read right to left, that is 182, which cannot be right. 'hy' looks like a filler particle (hi). The catalogue's 1882 assumes a doubled aṣṭa or a dropped digit, so the year is uncertain.",
+   "Month: tapas normally means Māgha and tapasya means Phālguna. 'tapasāṃ' could be either, which is why the catalogue gives Phālguna. Kept Māgha but flagged it.",
+   "Purpose recorded as parārtha ('lokārtha', for others/the public).",
+   "Scribe confidence lowered to low-medium wording in notes; name 'Hirādatta' kept as the best reading of the uncertain akṣara (xrā)."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "hi(xrā)dattadvijena",
+   "name": "Hirādatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lokārtha likhitoyaṃ hi(xrā)dattadvijena",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke dvi hyāṣṭa dharaṇī tapasāṃ sita śaṃkare",
+  "era": "ŚS",
+  "year": "1882",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1961"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "lokārtha (for others / parārtha)",
+ "notes": "Chronogram: as quoted, there are only three number words: dvi (2), aṣṭa (8) and dharaṇī (1). 'hy' is probably the particle hi. Read right to left, that gives 182, which is impossible. The catalogue's ŚS 1882 assumes a second aṣṭa that was lost in copying or transcription. That is plausible but not certain. Month: 'tapasāṃ' is ambiguous. Tapas usually means Māgha, while tapasya means Phālguna; the catalogue gives Phālguna. Śaṃkara = 11 (Rudras), sita = śukla. ŚS 1882 Māgha/Phālguna = Jan–Mar 1961 CE. Scribe's name: the akṣara in 'hi(xrā)datta' is uncertain, so it could be Hirādatta or Hīrādatta.",
+ "_meta": {
+  "reel": "A 1023/17",
+  "model": "opus",
+  "cost_usd": 0.08849399999999999,
+  "secs": 21.8
+ }
+}

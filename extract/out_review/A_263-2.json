@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe name normalised to Bhuvanānanda (bhuvanādinanda = 'bhuvana-' + '-ānanda' with metrical -ādi- insertion, as the catalogue reads it); confidence lowered to medium",
+   "Month 'taiṣa' normalised to Pauṣa (month of the Tiṣya/Puṣya nakṣatra)",
+   "Tithi 'tārakajit' (Skanda, conqueror of Tāraka) decoded as ṣaṣṭhī",
+   "Weekday 'saumyadina' decoded as Wednesday (Budha)",
+   "ce_approx changed from 1768 to 1767 by the ŚS+78 rule; Pauṣa śukla of that Śaka year falls around Dec 1767/Jan 1768",
+   "Notes rewritten to describe the problem with the chronogram"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhuvanādinandaḥ",
+   "name": "Bhuvanānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yaḥ bhuvanādinandaḥ karṇādiparvaṃ likhitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "grahāṣṭajīmūtayute śakābde taiṣe site tārakajitsu tithyāṃ || saumyaidine",
+  "era": "ŚS",
+  "year": "1689",
+  "month": "Pauṣa (taiṣa)",
+  "paksa": "śukla",
+  "tithi": "ṣaṣṭhī (tārakajit = Skanda)",
+  "weekday": "Wednesday (saumya)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1767"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram: graha = 9 and aṣṭa = 8. Read right to left, these give the last two digits, 89. 'jīmūta' (cloud) is not a standard number word. It must stand for 16 to give the catalogue's ŚS 1689, so the year depends on the catalogue and is uncertain. Pauṣa śukla 6 of ŚS 1689 falls around Dec 1767/Jan 1768. The scribe's name 'bhuvanādinanda' is taken as a metrical form of Bhuvanānanda, as the catalogue reads it. A literal reading, Bhuvanādinanda, is also possible. The colophon is metrically and grammatically loose ('jagāmaḥ', 'yaḥ').",
+ "_meta": {
+  "reel": "A 263/2",
+  "model": "opus",
+  "cost_usd": 0.078074,
+  "secs": 20.9
+ }
+}

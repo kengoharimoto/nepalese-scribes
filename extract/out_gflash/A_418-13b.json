@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "naṃdarāma",
+   "name": "Nandarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ naṃdarāma",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1748 varṣe jyeṣṭhavadī budhe",
+  "era": "VS",
+  "year": "1748",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1691"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The tithi number is omitted after jyeṣṭhavadī.",
+ "_meta": {
+  "reel": "A 418/13b",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 716,
+  "out_tok": 704
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmacandrasomavā(!)ji",
+   "name": "Rāmacandra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "somavājin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmacandrasomavā(!)jiviraci(5)tāyāṃ samarasāraṭīkā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bharata",
+   "name": "Bharata",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bharatakṛtā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "daivajñadhanaḥ",
+   "name": "Dhana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rekhaka daivajñadhanaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 884 caitraśuklapūrṇṇimā (!) ha(6)stanakṣatra,(!) dhruvayoga (!) śaniścaravāra",
+  "era": "NS",
+  "year": "884",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "śaniścaravāra",
+  "nakshatra_yoga": "hastanakṣatra, dhruvayoga",
+  "ce_approx": "1764"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "rekhaka is an orthographic variant of lekhaka. Bharata is the author of the commentary (bharatakṛtā ṭīkā) on the Samarasāra of Rāmacandra Somayājin (Somavājin).",
+ "_meta": {
+  "reel": "A 426/16",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 761,
+  "out_tok": 1556
+ }
+}

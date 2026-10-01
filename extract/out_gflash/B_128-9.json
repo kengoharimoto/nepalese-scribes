@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "balabhadrasiṃhana",
+   "name": "Balabhadrasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Nhulaccha",
+   "evidence": "balabhadrasiṃhana thva pustaka saṃpūrṇa yāṅā juroṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīśaśidhararājajujuyātaṃ",
+   "name": "Śaśidhararāja",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [
+    "juju"
+   ],
+   "affiliation": "",
+   "residence": "Iyāche",
+   "evidence": "iyācheyā śrīśaśidhararājajujuyātaṃ dāna viyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 771 jyeṣṭhaśukratrayodaśī svātinakṣatre parighayogaga (!) bṛhaspativāra (!)",
+  "era": "NS",
+  "year": "771",
+  "month": "Jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "svātinakṣatre parighayoga",
+  "ce_approx": "1651"
+ },
+ "place": {
+  "as_written": "nhulaccha",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "A later hand added a deed of donation on NS 1016 Māgha vadi 14 recording a gift to Śaśidhararāja of Iyāche during a saṅkrānti festival; the donor's name from Lāviccha is illegible/corrupt (†rarasaāṃ ya†).",
+ "_meta": {
+  "reel": "B 128/9",
+  "model": "gemini-flash-latest",
+  "secs": 7.9,
+  "in_tok": 838,
+  "out_tok": 1899
+ }
+}

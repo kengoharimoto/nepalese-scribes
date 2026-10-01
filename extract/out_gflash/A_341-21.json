@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sukīrti samene",
+   "name": "Sukīrti",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "Vārāṇasī, Rāmaghāṭa",
+   "evidence": "sukīrti samene līkhāgayā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1934",
+  "era": "VS",
+  "year": "1934",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1877"
+ },
+ "place": {
+  "as_written": "vanārasarāmaghāṭa mai",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "savakī kalyāṇa honā cāti hai",
+ "notes": "The Hindi agentive form 'samene' appears to be a corrupt/colloquial writing for 'śarmane' (Śarmā-ne).",
+ "_meta": {
+  "reel": "A 341/21",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 775,
+  "out_tok": 868
+ }
+}

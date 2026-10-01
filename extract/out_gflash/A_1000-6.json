@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "srīvarāhamihira",
+   "name": "Varāhamihira",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "āvantikācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvarāhamihirakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "durggānaṃda siṃha",
+   "name": "Durgānandasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣiti (!) daivajña durggānaṃda siṃha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 898 pauṣavadi 3 bṛhaspativāla (!)",
+  "era": "NS",
+  "year": "898",
+  "month": "pauṣa",
+  "paksa": "vadi",
+  "tithi": "3",
+  "weekday": "bṛhaspativāla",
+  "nakshatra_yoga": "",
+  "ce_approx": "1778"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1000/6",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 754,
+  "out_tok": 843
+ }
+}

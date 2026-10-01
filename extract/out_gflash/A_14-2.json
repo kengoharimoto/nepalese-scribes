@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayapratāpamalladevena",
+   "name": "Jayapratāpamalladeva",
+   "roles": [
+    "king",
+    "commissioner",
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayapratāpamalladevena śrīśrīśrībhāgavatārambhaḥ kṛtaḥ aṣṭadaśadinābhyantare pārāyanasamāptiḥ kṛtāḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 768 jyeṣṭhakṛṣṇaamāvāsyān(!) tithau ārdrānakṣatre e dine",
+  "era": "NS",
+  "year": "768",
+  "month": "Jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "amāvāsyā",
+  "weekday": "",
+  "nakshatra_yoga": "ārdrā",
+  "ce_approx": "1648"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "pārāyaṇa (recitation)",
+ "notes": "Records the commencement and completion of an 18-day pārāyaṇa (recitation) of the Bhāgavatapurāṇa by/for King Pratāpa Malla of Kathmandu. No scribe is explicitly named.",
+ "_meta": {
+  "reel": "A 14/2",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 895,
+  "out_tok": 1496
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name normalized to 'Vidyāraṇya' (muni kept as title only); his role is author only",
+   "p2 Bhāratītīrtha: role changed from 'teacher' to 'other'. He is the commentator's guru, not a teacher connected with the production of this copy. 'munivarya' and 'paramahaṃsaparivrājakācārya' qualify both gurus in the compound",
+   "p3 Rāmakṛṣṇa: title 'vidvas' removed ('viduṣā' is descriptive, not a title)",
+   "Relations kept: Rāmakṛṣṇa pupil_of Bhāratītīrtha and of Vidyāraṇya (the compound '-śiṣyeṇa' covers both)",
+   "Date: pakṣa normalized to śukla ('dale … dhava[le]'); the possible meaning of lakṣmījānidina as ekādaśī/harivāsara is noted; era kept as ŚS on the basis of 'śaka[re]', confidence low; the year can't be computed",
+   "Notes expanded"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvidyāraṇyamuni",
+   "name": "Vidyāraṇya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "muni"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvidyāraṇyamunikṛtāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrībhāratītīrtha",
+   "name": "Bhāratītīrtha",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya",
+    "munivarya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhāratītīrthavidyāraṇyamunivaryaśiṣyeṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīrāmakṛṣṇākhyaviduṣā",
+   "name": "Rāmakṛṣṇa",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmakṛṣṇākhyaviduṣā viracitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "śrībhāratītīrthavidyāraṇyamunivaryaśiṣyeṇa"
+  },
+  {
+   "from": "p3",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śrībhāratītīrthavidyāraṇyamunivaryaśiṣyeṇa"
+  }
+ ],
+ "date": {
+  "as_written": "aṅkendudakadairmete (!) śakara ite patyaudyutīnāṃ ghane lakṣmījānidine dale tu dhava lekhīḥ",
+  "era": "ŚS",
+  "year": "",
+  "month": "",
+  "paksa": "śukla (dale … dhava[le])",
+  "tithi": "lakṣmījānidina (Viṣṇu's day; possibly ekādaśī / harivāsara)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date verse is badly corrupt. 'aṅkendudakadairmete' is a bhūtasaṃkhyā chronogram, perhaps aṅka(9)-indu(1)-…-mite. The middle number-words can't be recovered, so no year is given. 'śakara ite' probably stands for 'śake' (+ something), so the era is tentatively ŚS. 'patyau dyutīnāṃ ghane' probably names the sun (dyutipati) in some rāśi, but the month can't be identified with certainty. 'lakṣmījānidine' = 'on Viṣṇu's day', which could mean ekādaśī or a weekday. 'lekhīḥ' = 'wrote', but the scribe is not named. 'aglovīvīt (!)' is unintelligible. 'śrīrāmakṛṣṇa śrīrāmakṛṣṇagopāla' at the end looks like a devotional invocation. It could also be the scribe's signature, but no scribe is recorded here. Bhāratītīrtha and Vidyāraṇya are named only as the commentator's gurus. The catalogue fields are empty.",
+ "_meta": {
+  "reel": "A 90/21",
+  "model": "opus",
+  "cost_usd": 0.104806,
+  "secs": 27.2
+ }
+}

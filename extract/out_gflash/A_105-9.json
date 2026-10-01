@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdharasvāmi",
+   "name": "Śrīdharasvāmin",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "svāmin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdharasvāmiviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīkṛṣṇārpaṇam astu",
+ "notes": "patra saṃ. 153 refers to the folio number, not a date.",
+ "_meta": {
+  "reel": "A 105/9",
+  "model": "gemini-flash-latest",
+  "secs": 3.3,
+  "in_tok": 764,
+  "out_tok": 691
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "harirāmasya",
+   "name": "Harirāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ harirāmasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvatsarāni (!) naipāre (!) rasanāgahayavarṣe śubha (!) || māsa (!) kārtike baudhe di",
+  "era": "NS",
+  "year": "786",
+  "month": "kārtike",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "baudhe",
+  "nakshatra_yoga": "",
+  "ce_approx": "1666"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīkṛṣnaprītyarthaṃ",
+ "notes": "The chronogram 'rasa-nāga-haya' corresponds to 6-8-7, yielding NS 786 in the Nepal era ('naipāre' = Nepāle). The colophon breaks off after 'baudhe di[vase]'.",
+ "_meta": {
+  "reel": "B 64/5",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 715,
+  "out_tok": 1085
+ }
+}

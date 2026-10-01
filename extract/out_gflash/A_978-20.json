@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "chavilālabrāhmaṇa",
+   "name": "Chavilāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitam pustakaṃ chavilālabrāhmaṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1862 sāla miti caitra kṛṣṇa 14 roja",
+  "era": "VS",
+  "year": "1862",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "14",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1805"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The weekday after 'roja' is omitted.",
+ "_meta": {
+  "reel": "A 978/20",
+  "model": "gemini-flash-latest",
+  "secs": 2.8,
+  "in_tok": 842,
+  "out_tok": 671
+ }
+}

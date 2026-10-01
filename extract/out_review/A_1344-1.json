@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Weekday normalized to 'Tuesday (maṃgalavāla)'",
+   "ce_approx refined to 1763/1764: Pauṣa of NS 884 falls in Dec 1763 or Jan 1764",
+   "Notes expanded: the lacunose verse is the stock yādṛśaṃ pustakaṃ dṛṣṭvā… lekhako doṣo na dīyate formula; 'śvala' is unexplained and may be part of the name or a Newari verb"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nārāyaṇa",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "riṣitaṃ nārāyaṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 884 pauṣavadi 14 maṃgalavāla",
+  "era": "NS",
+  "year": "884",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "14",
+  "weekday": "Tuesday (maṃgalavāla)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1763/1764"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'kunhu sidhayāṅā' (Newari) = 'completed on that day'. 'riṣitaṃ' = likhitam. The lacunose 'yā †dṛṣṭaṃ†… ṣo na dīyate' is the stock scribal verse (yādṛśaṃ pustakaṃ dṛṣṭvā … lekhako doṣo na dīyate), not a personal statement. 'śvala' after the scribe's name is unclear. It may be a corrupt Newari verb (e.g. 'wrote/finished') or part of the name. Era not stated; NS assumed because the script is Newari and the colophon is partly in Newari. NS 884 Pauṣa kṛṣṇa 14 ≈ Dec 1763/Jan 1764 CE.",
+ "_meta": {
+  "reel": "A 1344/1",
+  "model": "opus",
+  "cost_usd": 0.069294,
+  "secs": 12.7
+ }
+}

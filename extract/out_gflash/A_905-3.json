@@ -1,0 +1,82 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśveśvara",
+   "name": "Viśveśvara",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya",
+    "bhagavatpūjyapāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatparamahaṃsaparivrājakācāryaśrīviśveśvara(4)bhagavatpūjyapādaśiṣya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "madhusūdanamuni",
+   "name": "Madhusūdana",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "muni"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadhusūdanamuniviracitaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "devendrapatro",
+   "name": "Devendra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "pātra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devendrapatro likhac",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śrīviśveśvara(4)bhagavatpūjyapādaśiṣyaśrīmadhusūdanamuni"
+  }
+ ],
+ "date": {
+  "as_written": "urjjamāsi (!) kulācalā(ṅga)turagān saṃvatsare bibhrati dvādaśyāṃ śaśihrasapakṣakalite",
+  "era": "NS",
+  "year": "767",
+  "month": "Kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "12",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1647"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śiṣyārthaṃ",
+ "notes": "Year expressed via chronogram kulācala (7), aṅga (6), turaga (7) = NS 767. śaśihrasapakṣa signifies kṛṣṇapakṣa (the waning half of the moon).",
+ "_meta": {
+  "reel": "A 905/3",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 826,
+  "out_tok": 1718
+ }
+}

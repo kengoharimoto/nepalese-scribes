@@ -1,0 +1,75 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīanaṃtadeva-",
+   "name": "Anantadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīanaṃtadevasūnunā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "āpadevena",
+   "name": "Āpadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "āpadevena (!) kṛtaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bhuvaneśvareṇa",
+   "name": "Bhuvaneśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ bhuvaneśvareṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīanaṃtadevasūnunā (!) āpadevena"
+  }
+ ],
+ "date": {
+  "as_written": "saṃmat (!) 1907 phālguṇabīdya (!) 5",
+  "era": "VS",
+  "year": "1907",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1851"
+ },
+ "place": {
+  "as_written": "avaṃtikayāṃ",
+  "normalized": "Ujjain"
+ },
+ "purpose": "svārthaṃ parārthaṃ ca",
+ "notes": "",
+ "_meta": {
+  "reel": "B 42/19",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 760,
+  "out_tok": 1153
+ }
+}

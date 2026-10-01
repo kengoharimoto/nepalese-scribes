@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīyadunāthacakravartti",
+   "name": "Yadunātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "cakravartin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīyadunāthacakra(2)varttiviracitāyām",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1955 sāla miti jyeṣṭha śudi 8 roja 7",
+  "era": "VS",
+  "year": "1955",
+  "month": "jyeṣṭha",
+  "paksa": "śuklapakṣa",
+  "tithi": "8",
+  "weekday": "roja 7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1898"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribe is named; the colophon only notes the author Yadunātha Cakravartin and the date of completion of copying.",
+ "_meta": {
+  "reel": "A 145/3",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 729,
+  "out_tok": 764
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Chronogram resolved: viyad = 0, aśva = 7, vāha = 7 (horses of the sun, standard value); read right to left gives NS 770, ce_approx ≈ 1650 CE",
+   "Year field set to 770; as_written keeps the words of the chronogram",
+   "Month: 'masye' (!) is probably a corruption of 'matsye' (solar month Mīna, ≈ Caitra). Noted as uncertain",
+   "Author's name kept as Kṛṣṇānanda; 'kṛṣṇānada' noted as a scribal error"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmahopādhyāyaśrīkṛṣṇānadabhaṭṭācāryya",
+   "name": "Kṛṣṇānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāyaśrīkṛṣṇānadabhaṭṭācāryyakṛta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "anantasiṃho",
+   "name": "Anantasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "anantasiṃho vililekha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepālikābde viyad aśvavāha māsena masye (!) dhavale ca pakṣe",
+  "era": "NS",
+  "year": "770",
+  "month": "masye (prob. matsye = Mīna, ≈ Caitra)",
+  "paksa": "śukla (dhavala)",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1650"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\",\"",
+ "notes": "The chronogram is viyad (0) aśva (7) vāha (7), which gives NS 770 (≈1649/50 CE). That fits the date of Kṛṣṇānanda Āgamavāgīśa (16th–17th century). The value 7 for vāha is the usual one (the horses that draw the sun), but it is not completely certain. The month 'masye' is corrupt: 'matsye' (solar Mīna) is the most likely reading, though 'madhye' or 'māghe' are possible. 'kṛṣṇānada' is a scribal error for Kṛṣṇānanda. The final 'śrīcakrarājasya' most likely refers to the Śrīcakra (a deity or yantra), not a human owner, so no person has been extracted from it. The closing verse forbids giving the book to others, but it names no owner. The catalogue's scribe, Ananta Siṃha, matches the colophon.",
+ "_meta": {
+  "reel": "A 1267/2",
+  "model": "opus",
+  "cost_usd": 0.078766,
+  "secs": 16.7
+ }
+}

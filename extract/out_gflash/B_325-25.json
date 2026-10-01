@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmallāridaivajña",
+   "name": "Mallāri",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmallāridaivajñaracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīdivākarasāṃvatsarācārya",
+   "name": "Divākara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "sāṃvatsarācārya",
+    "gaṇakavikulatilaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdivākarasāṃvatsarācāryasuta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīdivākarasāṃvatsarācāryasuta śrīmallāridaivajña"
+  }
+ ],
+ "date": {
+  "as_written": "saṃ. 1684 maga(!) śuddha 15",
+  "era": "VS",
+  "year": "1684",
+  "month": "maga",
+  "paksa": "śuddha",
+  "tithi": "15",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1627"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records 'Donor: Viṣṇu', but no donor named Viṣṇu appears in the quoted colophon text.",
+ "_meta": {
+  "reel": "B 325/25",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 715,
+  "out_tok": 1067
+ }
+}

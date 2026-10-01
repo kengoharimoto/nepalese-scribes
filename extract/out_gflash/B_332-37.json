@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "[ki]ṣṇa〈ki〉rāmabrāhmaṇasya",
+   "name": "Kṛṣṇakirāma",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ idaṃ pustakaṃ [ki]ṣṇa〈ki〉rāmabrāhmaṇasya (!) svakiyam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1866 śāke 1731 śrāvaṇamāse kṛṣṇapakṣe tithipaṃcamī vāra maṃdavāra",
+  "era": "VS",
+  "year": "1866",
+  "month": "Śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "maṃdavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1809"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtha (svakīyam)",
+ "notes": "Both Vikrama Samvat 1866 and Śāke 1731 correspond to 1809 CE. The scribe/owner's name is read as either Kṛṣṇakirāma or Kṛṣṇarāma.",
+ "_meta": {
+  "reel": "B 332/37",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 772,
+  "out_tok": 910
+ }
+}

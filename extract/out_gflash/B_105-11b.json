@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācaryya siddhimuninaṃ",
+   "name": "Siddhimuni",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Maitrībuddhapuri Mahāvihāra",
+   "residence": "Thahititola, Suvarṇṇapanāri Mahānagara",
+   "evidence": "śrī vajrācaryya siddhimuninaṃ, thao kṣeṃsa tayayāta thva ācāryyābhiṣeka saphu thamanaṃ coyā siddha yānāgu",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 996 miti āśvini śukla ca'uthi, bṛhaspativāradine",
+  "era": "NS",
+  "year": "996",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "caturthī",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1876"
+ },
+ "place": {
+  "as_written": "thahititola suvarṇṇapanāri mahānagale maitrībuddhapuri mahāvihāre",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "thao kṣeṃsa tayayāta (to keep in one's own house / svārtha)",
+ "notes": "",
+ "_meta": {
+  "reel": "B 105/11b",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 847,
+  "out_tok": 1058
+ }
+}

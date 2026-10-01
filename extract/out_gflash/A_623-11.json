@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījaya bhūpatīndramalladeva",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "prabhu",
+    "thākula"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījaya bhūpatīndramalladeva prabhu thākulasana kavaśiyā cosasāṃ jhyāla pratiṣṭhā yāyayātā thva saṃphuli dayakase bijyāṅā dina juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 828 māghamāse kṛṣṇapakṣa caturddaśyāṃ tithau śravaṇanakṣetre parighayoge somavāsare",
+  "era": "NS",
+  "year": "828",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturdaśī",
+  "weekday": "somavāsara",
+  "nakshatra_yoga": "śravaṇa, parigha",
+  "ce_approx": "1708"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "kavaśiyā cosasāṃ jhyāla pratiṣṭhā yāyayātā (for the consecration of a window)",
+ "notes": "The manuscript was ordered by King Bhūpatīndra Malla of Bhaktapur on the occasion of the consecration of a window (kavaśiyā cosasāṃ jhyāla pratiṣṭhā). The scribe is not named, though a standard scribal excuse stanza is included.",
+ "_meta": {
+  "reel": "A 623/11",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 893,
+  "out_tok": 1312
+ }
+}

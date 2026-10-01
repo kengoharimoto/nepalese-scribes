@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kālidāsena / śrīkālidāsana",
+   "name": "Kālidāsa",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kālidāsena saṃcitaṃ ... śrīkālidāsana sañcaya yāṅā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 765 thvadaṃ",
+  "era": "NS",
+  "year": "765",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1645"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "umeśaprītaye / śrībhavānīśaṃkara prītina (for the pleasure of Bhavānī and Śaṅkara)",
+ "notes": "The phrase 'sañcaya yāṅā' indicates collecting/accumulating or acquiring the manuscript; the cataloguer records Kālidāsa as the scribe.",
+ "_meta": {
+  "reel": "A 182/6",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 779,
+  "out_tok": 891
+ }
+}

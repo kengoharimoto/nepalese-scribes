@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "karmmācāryya cakrasiṃhana",
+   "name": "Cakrasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmmācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhita karmmācāryya cakrasiṃhana",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 819 kārtikaśuklaṣaṣṭhami utrabhadranakṣetra bṛhaspativāra",
+  "era": "NS",
+  "year": "819",
+  "month": "kārtika",
+  "paksa": "śukla",
+  "tithi": "ṣaṣṭhī",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "utrabhadranakṣetra",
+  "ce_approx": "1699"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Vimalaprabodhamata refers to the doctrinal tradition of the ritual/text (or possibly an authority/school), not a participant in the copying.",
+ "_meta": {
+  "reel": "A 150/1",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 777,
+  "out_tok": 1023
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśaṃkarācārya",
+   "name": "Śaṅkara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśaṃkarācāryavira〈ṃ〉citaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat || 18〈|〉78 (3) śāke || 1741 mitī phālguṇavadī6 bhaumavā",
+  "era": "VS",
+  "year": "1878",
+  "month": "phālguṇa",
+  "paksa": "vadī",
+  "tithi": "6",
+  "weekday": "bhaumavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1822"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Vikrama Saṃvat 1878 and Śāka 1741 are mentioned in the colophon; ŚS 1741 corresponds to c. 1820 CE, while VS 1878 corresponds to c. 1822 CE.",
+ "_meta": {
+  "reel": "A 1115/25",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 734,
+  "out_tok": 1199
+ }
+}

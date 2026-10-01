@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmanmahīdhara",
+   "name": "Mahīdhara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanmahīdharaviracito",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1825 ebhaenāma māghamāse sukulapache (!) aṣṭamyāṃ maṃgalavārake",
+  "era": "VS",
+  "year": "1825",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "aṣṭamī",
+  "weekday": "maṅgalavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1768"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The phrase 'ebhaenāma' in the date formula is obscure or corrupt (possibly a corrupted samvatsara name).",
+ "_meta": {
+  "reel": "B 233/13",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 745,
+  "out_tok": 966
+ }
+}

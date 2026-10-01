@@ -1,0 +1,108 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p4 Raṇabahādūrasena: role 'commissioner' removed; '-arthaṃ' only says the copy was made for him, so the role is beneficiary. That he commissioned it is likely but not stated (see notes).",
+   "p2 Balabhadra: title 'kāyastha' removed. The colophon applies it only to Gopāladāsa.",
+   "p1: evidence extended with the verse's 'balisuto gopālanāmā', which supports the father relation.",
+   "date.weekday: 'minavāsare' read as 'kṛṣṇāyām inavāsare' (ina = sun), so Sunday.",
+   "date.month: taiṣa normalised as Taiṣa (= Pauṣa).",
+   "date: chronogram nāga 8, yuga 4, aṅga 6, śītakiraṇa 1, read right to left = 1648, confirmed; nakṣatra/yoga/karaṇa split out.",
+   "purpose rephrased in English.",
+   "notes expanded: the date is the composition date, not the copying date; the era is unknown."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāyastha balabhadrātmajagopāladāsa",
+   "name": "Gopāladāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkāyastha balabhadrātmajagopāladāsaviracite; balisuto gopālanāmā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "balabhadra",
+   "name": "Balabhadra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "balabhadrātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "jagannāthena",
+   "name": "Jagannātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ jagannāthena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīmad raṇabahādūrasena",
+   "name": "Raṇabahādurasena",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmad raṇabahādūrasenārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "balabhadrātmaja"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "likhitaṃ jagannāthena śrīmad raṇabahādūrasenārthaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "abde nāmgayugāṃgaśītakiraṇe 1648 taiṣetithau pakṣatau 1 kṛṣṇāyā minavāsare mṛgaśiraḥ sādhyollasat kaulave",
+  "era": "unspecified",
+  "year": "1648",
+  "month": "Taiṣa (Pauṣa)",
+  "paksa": "kṛṣṇa",
+  "tithi": "1 (pakṣati = pratipad)",
+  "weekday": "Sunday (inavāsara)",
+  "nakshatra_yoga": "nakṣatra Mṛgaśiras; yoga Sādhya; karaṇa Kaulava",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "copied for Raṇabahādūrasena",
+ "notes": "The only date in the colophon is in the author's verse (saṃpūrṇaṃ kṛtavān ... gopālanāmā). The chronogram nāga 8, yuga 4, aṅga 6, śītakiraṇa 1, read right to left, gives 1648, which matches the numerals. So 1648 is when Gopāladāsa finished composing the text, not when this copy was made. The catalogue's 'Date of Copying: SAM 1648' is therefore probably wrong, and this copy is undated and must be later than 1648. No era is named: VS 1648 would be about 1591 CE and ŚS 1648 about 1726 CE, so ce_approx is left empty. 'kṛṣṇāyā minavāsare' is read as 'kṛṣṇāyām inavāsare' (Sunday). 'balisuto' in the verse is taken as a short form of Balabhadra's son. The king whose permission the author obtained (ājñām avāpyāvanīpālāt) is not named. Raṇabahādūrasena, for whom Jagannātha copied the manuscript, is presumably a Sena ruler; the catalogue gives 'King: Raṇabahādura'. The colophon gives him no royal title, so he is recorded as beneficiary only. He may also have commissioned the copy, but the colophon does not say so.",
+ "_meta": {
+  "reel": "A 227/12",
+  "model": "opus",
+  "cost_usd": 0.108942,
+  "secs": 28.4
+ }
+}

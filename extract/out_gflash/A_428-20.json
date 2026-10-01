@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jīvanāthaśarmaṇā",
+   "name": "Jīvanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitañjīvanāthaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1780 saṃvat 1915 sāla miti āṣāḍha vadī 9 roja 2",
+  "era": "ŚS",
+  "year": "1780",
+  "month": "āṣāḍha",
+  "paksa": "vadī",
+  "tithi": "9",
+  "weekday": "roja 2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1858"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śaka 1780 and Vikrama Saṃvat 1915 are given.",
+ "_meta": {
+  "reel": "A 428/20",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 704,
+  "out_tok": 820
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkalyāṇena",
+   "name": "Kalyāṇa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkalyāṇena kṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vareśvareṇa",
+   "name": "Vareśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vareśvareṇa liṣitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bhaṭalakṣmaṇasya",
+   "name": "Lakṣmaṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭalakṣmaṇasya putreṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "vareśvareṇa liṣitaṃ bhaṭalakṣmaṇasya putreṇa"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśrīśrīśrīśrīsaṃvat 171 varṣe kārttikamāse kṛṣṇāpakṣa ṣaṣṭīcaṃdravāreṇa",
+  "era": "VS",
+  "year": "171",
+  "month": "kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "ṣaṣṭhī",
+  "weekday": "caṃdravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1656"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records the scribe as Vīreśvara (text reads vareśvareṇa) and the date as SAM 1713 (text reads saṃvat 171 varṣe, where the final digit 3 was likely dropped in transcript).",
+ "_meta": {
+  "reel": "A 167/7",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 750,
+  "out_tok": 1924
+ }
+}

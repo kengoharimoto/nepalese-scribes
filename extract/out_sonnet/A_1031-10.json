@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśivanārāyaṇamiśraraḥ",
+   "name": "Śivanārāyaṇamiśra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ṛṣitaṃ śrīśivanārāyaṇamiśraraḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīkāṃta upādhyābhājuyā",
+   "name": "Śrīkāṃta",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkāṃta upādhyābhājuyā pustaka jura",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "śrīkāṃta upādhyābhājuyā pustaka jura || ṛṣitaṃ śrīśivanārāyaṇamiśraraḥ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 875 naṣṭajyeṣṭaśuklayā, daśami, utraphāguṇīnakṣatra, variyānajoge, budhavāraśare",
+  "era": "NS",
+  "year": "875",
+  "month": "naṣṭajyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "uttaraphālgunī; variyāna (variyas) yoga",
+  "ce_approx": "1755"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "Copy for the personal use of Śrīkāṃta Upādhyāya (pustaka jura = the book belongs to him).",
+ "notes": "\"ṛṣitaṃ\" is likely a corrupt form of likhitaṃ, so Śivanārāyaṇamiśra is the scribe, which matches the catalogue. The Newari phrase \"thva kuhnu śaṃpuna yāṅā juraḥ\" means the copy was completed on this day. The role of Śrīkāṃta as owner is inferred from \"pustaka jura\" (\"is the book of\"). He is not named as commissioner. The \"(Bṛhaspatiṭīkā:)\" at the end is a cataloguer's note on the text, not a person here. Bṛhaspati is the commentator's name and is not listed as a person.",
+ "_meta": {
+  "reel": "A 1031/10",
+  "model": "sonnet",
+  "cost_usd": 0.0329032,
+  "secs": 7.4
+ }
+}

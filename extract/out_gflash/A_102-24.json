@@ -1,0 +1,76 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmanmahārājādhirājakumāra yuvarājaśrīśrīśrīmannṛpapṛṭhvīnārāyaṇaśāhadevā",
+   "name": "Pṛthvīnārāyaṇa Śāhadeva",
+   "roles": [
+    "commissioner",
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirājakumāra",
+    "yuvarāja",
+    "nṛpa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanmahārājādhirājakumāra yuvarājaśrīśrīśrīmannṛpapṛṭhvīnārāyaṇaśāhadevājñayā likhitam idaṃ pustakaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmokṣeśvaraśarmmaṇā dharmmādhikaraṇena",
+   "name": "Mokṣeśvara Śarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman",
+    "dharmādhikaraṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ śrīmokṣeśvaraśarmmaṇā dharmmādhikaraṇena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "śrīmanmahārājādhirājakumāra yuvarājaśrīśrīśrīmannṛpapṛṭhvīnārāyaṇaśāhadevājñayā likhitam idaṃ pustakaṃ śrīmokṣeśvaraśarmmaṇā"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīmanmahārājādhirājakumāra yuvarājaśrīśrīśrīmannṛpapṛṭhvīnārāyaṇaśāhadevājñayā"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1659 caitraśukla 10 śanivāsare",
+  "era": "ŚS",
+  "year": "1659",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "śanivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1737"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Pṛthvīnārāyaṇa Śāha is referred to as yuvarāja/mahārājādhirājakumāra (Crown Prince).",
+ "_meta": {
+  "reel": "A 102/24",
+  "model": "gemini-flash-latest",
+  "secs": 2.9,
+  "in_tok": 854,
+  "out_tok": 760
+ }
+}

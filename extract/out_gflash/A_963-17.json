@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśvetāmbarapaṃḍitaguṇākara",
+   "name": "Guṇākara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "śvetāmbara",
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśvetāmbarapaṃḍitaguṇākaraviracitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1906 sāla miti prathama vaiśāṣavadi 14",
+  "era": "VS",
+  "year": "1906",
+  "month": "prathama vaiśāṣa",
+  "paksa": "vadi",
+  "tithi": "14",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1849"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 963/17",
+  "model": "gemini-flash-latest",
+  "secs": 2.9,
+  "in_tok": 720,
+  "out_tok": 675
+ }
+}

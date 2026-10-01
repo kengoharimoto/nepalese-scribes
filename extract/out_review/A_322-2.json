@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Date: added implied pakṣa 'kṛṣṇa' and glossed the tithi as caturdaśī (Śivarātri); the colophon itself names only the festival",
+   "Notes: confirmed that the three eras agree on 1821 CE; glossed 'saṃpūnūna julā' and the scribe's closing formula; kept the obscure phrase unresolved"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhājumana vaide",
+   "name": "Bhājumana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ bhājumana vaide",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke saṃmvat (!) 1743 || saṃmvat (!) 1878 || nipālasaṃmvat (!) 941 mti hāgruna || sivarātri khunu saṃpūnūna julā",
+  "era": "ŚS",
+  "year": "1743",
+  "month": "hāgruna (Phālguna)",
+  "paksa": "kṛṣṇa (implied by Śivarātri)",
+  "tithi": "sivarātri (caturdaśī)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1821"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The colophon gives three eras, and all three agree: ŚS 1743 (+78), VS 1878 (−57) and NS 941 (+880) each give 1821 CE. Phālguna Śivarātri falls around February–March 1821. 'saṃpūnūna julā' is Newari for 'was completed'. The phrase '(unu) torako || robhagalyā maṃcce māhāryāpa' is obscure. It may contain a locality (a ṭola?) or a further statement about the scribe or the copy, but no person or place can be read from it with confidence. The closing line 'jadi sudhorasudho vā. mama dokha na diaite' is a Nepali scribal formula meaning 'whether correct or incorrect, do not blame me'. 'vaide' is read as the caste name Vaidya. The catalogue fields (scribe Bhājumana Vaidya, ŚS 1743) agree with this reading.",
+ "_meta": {
+  "reel": "A 322/2",
+  "model": "opus",
+  "cost_usd": 0.08305000000000001,
+  "secs": 19.8
+ }
+}

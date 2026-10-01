@@ -1,0 +1,60 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "manorathasiṃ bhā",
+   "name": "Manorathasiṃha",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "bhā",
+    "paramāna"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "manorathasiṃ bhā paramānasuddhā lāṅāo yaṅa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śaṃkrasiṃha",
+   "name": "Śaṅkarasiṃha",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "paramāna"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "omisa paramāna, śaṃkrasiṃha dhāyāhma, lāta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvatsara 859 caitraśuddhi 4 ādityavāla",
+  "era": "NS",
+  "year": "859",
+  "month": "Caitra",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1739"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The dated text following 'iti snānavidhiḥ' is an added historical note or diary entry in Newari concerning military actions involving several hill forts/outposts (Bharakvaṭa, Bucākoṭa, Tyamāra, Parākhaco) rather than the copying of the manuscript itself.",
+ "_meta": {
+  "reel": "A 1156/27a",
+  "model": "gemini-flash-latest",
+  "secs": 14.8,
+  "in_tok": 842,
+  "out_tok": 3152
+ }
+}

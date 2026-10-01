@@ -1,0 +1,47 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Notes expanded: Newari 'saṃpūrṇa dhunakā dina' (day of completion) and the scribal verse 'liṣitaṃ mayā' both support Rāmacandra as scribe; NS 780 + 880 = 1660 CE checked."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmacandra",
+   "name": "Rāmacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "riṣirtti (!) rāmacandra",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 780 jyeṣṭha (6) vadi 1 bṛhaspativāra",
+  "era": "NS",
+  "year": "780",
+  "month": "jyeṣṭha",
+  "paksa": "vadi",
+  "tithi": "1",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1660"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The era is not named, but 'samvat 780' and the Newari wording ('saṃpūrṇa dhunakā dina' = 'the day it was completed') point to Nepāla Saṃvat, so NS 780 ≈ 1660 CE. The corrupt word 'riṣirtti (!)' before the name probably stands for likhita / likhitaṃ ('written by'). The scribal verse 'liṣitaṃ mayā' at the end also points to Rāmacandra as the scribe. This agrees with the catalogue field.",
+ "_meta": {
+  "reel": "B 80/12",
+  "model": "opus",
+  "cost_usd": 0.065054,
+  "secs": 12.0
+ }
+}

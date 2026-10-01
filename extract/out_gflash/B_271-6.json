@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "tārānidhi aryālaśarmaṇāḥ",
+   "name": "Tārānidhi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "aryāla",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ tārānidhi aryālaśarmaṇāḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "1943 sāla miti vaisākhakṛṣṇacatudaśī(!) somavāsare",
+  "era": "VS",
+  "year": "1943",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturdaśī",
+  "weekday": "somavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1886"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records 'Samvat 1934 and Śāke 1808', but the colophon text clearly specifies '1943 sāla', which corresponds to Śaka 1808 (1886 CE).",
+ "_meta": {
+  "reel": "B 271/6",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 732,
+  "out_tok": 898
+ }
+}

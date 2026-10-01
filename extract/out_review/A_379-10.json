@@ -1,0 +1,34 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date: expanded month 'kā.' to Kārttika, pakṣa 'kṛ.' to kṛṣṇa, weekday 'caṃ' to candravāra (Monday); kept the abbreviations in as_written",
+   "Notes: the era is not written in the colophon (only 'saṃvat'). VS is inferred from the 1920 date, the 'mi.' (miti) formula and the catalogue field; also recorded that the scribe is not named"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1920 || mi. kā. kṛ. 13 caṃ",
+  "era": "VS",
+  "year": "1920",
+  "month": "Kārttika (kā.)",
+  "paksa": "kṛṣṇa (kṛ.)",
+  "tithi": "13",
+  "weekday": "candravāra / Monday (caṃ)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1863"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives only 'saṃvat 1920', with no era named. VS is inferred: NS 1920 is impossible, and the 'mi.' (miti) formula is typical of Nepali VS dating. The catalogue also gives VS 1920. VS 1920 Kārttika kṛṣṇa 13 falls around October/November 1863 CE. The catalogue names Keśavadatta as scribe, but no personal name appears in the quoted colophon. The name may come from elsewhere in the manuscript, so it is not recorded here. The colophon names both the kāvya and its ṭīkā ('ghaṭakarparaṭīkā samāptāḥ' (!), an ungrammatical plural), so the manuscript has the text with a commentary. The commentator is not named.",
+ "_meta": {
+  "reel": "A 379/10",
+  "model": "opus",
+  "cost_usd": 0.069926,
+  "secs": 14.4
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmaheṃdra(2)sūri",
+   "name": "Mahendrasūri",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmaheṃdra(2)sūriśiṣya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmalayasūriṇā",
+   "name": "Malayasūri",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtir iyaṃ śrīmaheṃdra(2)sūriśiṣyaśrīmalayasūriṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śrīmaheṃdra(2)sūriśiṣyaśrīmalayasūriṇā"
+  }
+ ],
+ "date": {
+  "as_written": "mītī (!) śrāvaṇa[[dvitiyā]]śuklae (!) saṃ(3)vat 1863 kā",
+  "era": "VS",
+  "year": "1863",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1806"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for the welfare of the patron (yajamānasya kalyāṇo stu)",
+ "notes": "No scribe is explicitly identified. An unnamed patron (yajamāna) is invoked for blessings.",
+ "_meta": {
+  "reel": "B 344/16",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 762,
+  "out_tok": 1447
+ }
+}

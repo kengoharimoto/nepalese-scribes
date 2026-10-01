@@ -1,0 +1,111 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumati jayajitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumati jayajitāmitramalladevasana ... thva prapañcasāra mahāyatnana dayakā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhāgirāmapradhānāṅgayā",
+   "name": "Bhāgirāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "pradhāna"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgirāmapradhānāṅgayā calasa thva prapañcasāra mahāyatnana dayakā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śaṅkarabhagavataḥ",
+   "name": "Śaṅkara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya",
+    "bhagavat"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paramahaṃna(!)parivrājakācāryyaśrīmatśaṅkarabhagavataḥ kṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "govindabhagavatapūjyapāda",
+   "name": "Govinda",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya",
+    "bhagavatpūjyapāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "govindabhagavatapūjyapādaśiṣya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "śrīśrīsumati jayajitāmitramalladevasana bhāgirāmapradhānāṅgayā calasa thva prapañcasāra mahāyatnana dayakā"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīśrīsumati jayajitāmitramalladevasana bhāgirāmapradhānāṅgayā calasa"
+  },
+  {
+   "from": "p3",
+   "type": "pupil_of",
+   "to": "p4",
+   "evidence": "govindabhagavatapūjyapādaśiṣya"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 808 kārttikaśukla 9",
+  "era": "NS",
+  "year": "808",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1688"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "King Sumati Jitāmitramalla of Bhaktapur commissioned the manuscript; the Newari note warns not to neglect the text (helā yāyamate va) and to preserve/care for it diligently (yatnapūrvakena nidāna yāyamāla).",
+ "_meta": {
+  "reel": "B 132/3",
+  "model": "gemini-flash-latest",
+  "secs": 9.6,
+  "in_tok": 839,
+  "out_tok": 2720
+ }
+}

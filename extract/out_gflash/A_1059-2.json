@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "machiṃdrana",
+   "name": "Machiṃdra",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "majasyanitola",
+   "evidence": "majasyanitolayā. machiṃdrana ... thamana soyayāta. pe guliṃ saphūlidayakā julo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 931 miti āṣāḍha vadi 9",
+  "era": "NS",
+  "year": "931",
+  "month": "āṣāḍha",
+  "paksa": "vadi",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1811"
+ },
+ "place": {
+  "as_written": "majasyanitola",
+  "normalized": ""
+ },
+ "purpose": "thamana soyayāta (for his own reading/study)",
+ "notes": "The sponsor Machiṃdra of Majasyanitola had the four sections (mitralābha, suhṛdbheda, vigraha, saṃdhi) made into books for his own study (thamana soyayāta pe guliṃ saphūlidayakā julo).",
+ "_meta": {
+  "reel": "A 1059/2",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 758,
+  "out_tok": 1265
+ }
+}

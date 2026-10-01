@@ -1,0 +1,90 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Jīvanadāsa: removed 'gumaṭī' from affiliation (it is the copying location, not an affiliation); title 'bābāju' normalised to 'bābā' (-jū is an honorific suffix); role stays 'other' (copying took place in his gumaṭī)",
+   "p2 Lalana: titles glossed as paṇḍita (paṃ) and purohita (pureta)",
+   "p3 Dhanavāī: confidence lowered to low; the phrase 'kaunai hai pālakī' is obscure, so beneficiary or owner cannot be settled",
+   "place: as_written extended to include the gumaṭī of Jīvanadāsa",
+   "notes expanded: era check, catalogue scribe conflict, text identification"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībābāju sāheba jīvanadāsaju",
+   "name": "Jīvanadāsa",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "bābā",
+    "sāheba"
+   ],
+   "affiliation": "",
+   "residence": "sāhigaḍha",
+   "evidence": "śrībābāju sāheba jīvanadāsajukī gumaṭīmeṃ ho ke liṣyate",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "paṃ śrīpureta lalanajunai",
+   "name": "Lalana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paṇḍita",
+    "purohita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣyate paṃ śrīpureta lalanajunai",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīdhanavāī",
+   "name": "Dhanavāī",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdhanavāī kaunai hai pālakī",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "liṣyate paṃ śrīpureta lalanajunai śrīdhanavāī kaunai"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvatu 1909 || kuvāra vadi 8 budhe",
+  "era": "VS",
+  "year": "1909",
+  "month": "kuvāra (Āśvina)",
+  "paksa": "vadi (kṛṣṇa)",
+  "tithi": "8",
+  "weekday": "budhe (Wednesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1852"
+ },
+ "place": {
+  "as_written": "śrībābāju sāheba jīvanadāsajukī gumaṭīmeṃ ... muḥ sāhigaḍha",
+  "normalized": "Shahgarh"
+ },
+ "purpose": "copied for Dhanavāī (?), from the exemplar (jathāputaseṃ = yathāpustakam); salutations to whoever reads or hears it",
+ "notes": "The colophon is in Hindi (Braj/Bundeli). It closes the Kayāmatnāmā and the Kulajam Sāhab, the Prāṇanāthī/Praṇāmī scripture. Its author Prāṇanātha is not named in the colophon, so he is not listed. The catalogue gives the scribe as Aṃjīradāsa, but the quoted colophon names only paṃ purohita Lalanajū as the writer ('liṣyate'). Aṃjīradāsa may appear elsewhere in the manuscript; this cannot be checked here. The copy was made in the gumaṭī (small shrine or cell) of Bābā Jīvanadāsa at Sāhigaḍha. This is probably Shahgarh (Sagar district, MP), a Praṇāmī area, but the identification is not certain. 'śrīdhanavāī kaunai hai pālakī' is obscure. It may mean the copy was made for, or belongs to, Dhanabāī (a woman's name), so role and confidence are tentative. The era is assumed to be VS, because 'saṃvatu' with kuvāra vadi is the North Indian usage (VS 1909 = 1852 CE, September). The weekday was not verified.",
+ "_meta": {
+  "reel": "A 938/8",
+  "model": "opus",
+  "cost_usd": 0.16803780000000001,
+  "secs": 38.7
+ }
+}

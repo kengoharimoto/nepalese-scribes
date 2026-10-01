@@ -1,0 +1,97 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 Jayatarāma: removed 'commissioner' (no likhāpitam/lekhayāmāsa; colophon only says the copy was made pāṭhanimittena, for his reading); roles now beneficiary + reader. The catalogue's 'Donor' is not supported by the colophon.",
+   "p2 residence normalised to stem 'Bhaktāpurī' (Bhaktapur); the place of copying is emptied because the colophon gives Bhaktapur only as Jayatarāma's residence, not as the place where the copy was made.",
+   "p3: 'bhalloka' identified as the Sanskritised form of the Newar title bhāro; it stays in titles with varman.",
+   "Date: chronogram check added (bāṇa 5, śaila 7, hara 3, read right to left = 375); ce_approx 1255 kept; weekday normalised to Monday."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahārājādhirājaparameśvaraparamabhaṭṭārakaśrīmadabhayamalladevasya",
+   "name": "Abhayamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadabhayamalladevasya rājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jayatarāmasya",
+   "name": "Jayatarāma",
+   "roles": [
+    "beneficiary",
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Bhaktāpurī (Bhaktapur)",
+   "evidence": "śrībhaktāpurinivāśine jayatarāmasya pāṭhanimittena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bhallokaüdayaharṣavarmeṇa",
+   "name": "Udayaharṣa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhalloka (bhāro)",
+    "varman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhallokaüdayaharṣavarmeṇa likhitam idaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "jayatarāmasya pāṭhanimittena bhallokaüdayaharṣavarmeṇa likhitam"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīmadabhayamalladevasya rājye"
+  }
+ ],
+ "date": {
+  "as_written": "nepālasamvatsare bāṇaśailaharāṃnukaṃ | māse caitraśuklatrayodaśyāṃ | somavāsare",
+  "era": "NS",
+  "year": "375",
+  "month": "Caitra",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1255"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for Jayatarāma's reading (pāṭhanimittena)",
+ "notes": "The chronogram 'bāṇa-śaila-hara' reads 5-7-3 from right to left, giving NS 375. This fits Abhayamalla's reign (c. 1216–1255 CE). Hara is often 11 in bhūtasaṃkhyā, but 3 is the only value that gives a possible year here. 'harāṃnukaṃ' is corrupt, perhaps for 'harāṅkake'. 'nivāśine' is an error for 'nivāsinaḥ' and goes with Jayatarāma; Bhaktapur is his residence. The catalogue's 'Place of Copying: Bhaktapura' is a reasonable guess but the colophon does not state it. The catalogue's 'Donor: Jayatarāma' is not supported; he may have commissioned the copy, but the colophon does not say so. 'bhalloka' = bhāro, a Newar title.",
+ "_meta": {
+  "reel": "A 1311/18",
+  "model": "opus",
+  "cost_usd": 0.09950200000000001,
+  "secs": 23.0
+ }
+}

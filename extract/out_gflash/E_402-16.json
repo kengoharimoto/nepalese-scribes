@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñagaruḍagovindena",
+   "name": "Garuḍagovinda",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "lanhena niyaitā gṛha",
+   "evidence": "daivajñagaruḍagovindena śvakarmmavipākapustakacoyā sidhayakājula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1032 śrāvaṇaśukla || aṣṭami || anurādhā nakṣatra | īndrayoga || bhaumavāra",
+  "era": "NS",
+  "year": "1032",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "aṣṭamī",
+  "weekday": "bhaumavāra",
+  "nakshatra_yoga": "anurādhā nakṣatra | īndrayoga",
+  "ce_approx": "1912"
+ },
+ "place": {
+  "as_written": "lanhena niyaitā gṛhayā",
+  "normalized": ""
+ },
+ "purpose": "svārtha",
+ "notes": "The catalogue accidentally lists 'NS 1032' under 'Place of Copying'. Garuḍagovinda copied his own book (śvakarmmavipākapustaka coyā sidhayakā jula).",
+ "_meta": {
+  "reel": "E 402/16",
+  "model": "gemini-flash-latest",
+  "secs": 7.3,
+  "in_tok": 779,
+  "out_tok": 1468
+ }
+}

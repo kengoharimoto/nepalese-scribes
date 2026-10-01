@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday normalized from 'ravivāsare' to 'ravivāra (Sunday)'",
+   "date.as_written now includes the cataloguer's folio/line marker as quoted",
+   "purpose recast as the dedicatory prīti formula addressed to the deities, not a statement about the copy's purpose",
+   "notes expanded: the catalogue's King field probably comes from the play's prologue or the date range, not from this colophon; NS→CE conversion checked"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśvarāmeṇa",
+   "name": "Viśvarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ bhaktapaṭṭane, viśvarāmeṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 717 || daśamī ravivāsare vaiśākha śukla( 64v4 )sya",
+  "era": "NS",
+  "year": "717",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "ravivāra (Sunday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1597"
+ },
+ "place": {
+  "as_written": "bhaktapaṭṭane",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "dedication: gaṃgeśa girijā prītir astu (that Śiva and Pārvatī be pleased)",
+ "notes": "The colophon says 'saṃvat' without naming the era. Reading it as NS is the default for a Newari-script manuscript copied in Bhaktapur and agrees with the catalogue: NS 717 + 880 = 1597 CE. The weekday has not been checked. The catalogue's King field ('Gaṃgādevī-Trailokya Malla-Tribhuvana Malla') is not supported by this colophon, which names only the deities Gaṃgeśa (Śiva) and Girijā (Pārvatī). These rulers did reign in Bhaktapur around the late 16th century, so the field probably comes from the play's prologue or other text and not from the scribal colophon. For that reason they are not recorded as reigning rulers of this copy. The colophon also does not say whether Viśvarāma copied the manuscript for himself or for someone else.",
+ "_meta": {
+  "reel": "A 345/10",
+  "model": "opus",
+  "cost_usd": 0.07485,
+  "secs": 15.5
+ }
+}

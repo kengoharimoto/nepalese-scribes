@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pāṃḍitya śrīrādhāramaṇaśarmaṇā",
+   "name": "Rādhāramaṇa",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "pāṇḍitya",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ pāṃḍitya śrīrādhāramaṇaśarmaṇā svārthena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1784 jyeṣṭhaśukla 7 budhavāsare",
+  "era": "ŚS",
+  "year": "1784",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1862"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthena",
+ "notes": "",
+ "_meta": {
+  "reel": "E 423/35",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 753,
+  "out_tok": 1081
+ }
+}

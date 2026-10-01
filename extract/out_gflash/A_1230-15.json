@@ -1,0 +1,60 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "hemarāyopādhyā",
+   "name": "Hemarāya",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīhemarāyopādhyā chāta saphusa hleyā kāyā julo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kṛṣṇaṃ",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "karmācārya"
+   ],
+   "affiliation": "Vidyāpīṭha",
+   "residence": "",
+   "evidence": "liṣitaṃ vidyāpīṭhayā karmmācaryya kṛṣṇaṃ thaotā dayakā tayā julo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 918 jyeṣṭhamāse śuklapakṣe || daśamyāṃyāṃ tithau || hastasnakṣatre || sūlayoge || yathā karṇnamuhuttake || śukravārasare",
+  "era": "NS",
+  "year": "918",
+  "month": "Jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "Hasta nakṣatra, Śūla yoga",
+  "ce_approx": "1798"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtha (thaotā dayakā tayā julo)",
+ "notes": "Hemarāya Upādhyāya was the owner of the exemplar manuscript from which this copy was transcribed (chāta saphusa hleyā kāyā julo).",
+ "_meta": {
+  "reel": "A 1230/15",
+  "model": "gemini-flash-latest",
+  "secs": 6.7,
+  "in_tok": 848,
+  "out_tok": 1573
+ }
+}

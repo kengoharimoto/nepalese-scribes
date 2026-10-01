@@ -1,0 +1,60 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhāskarācārya",
+   "name": "Bhāskara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhāskarācāryaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaṭavidyādharamoḍha (!) nivedinā",
+   "name": "Vidyādhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭa",
+    "moḍha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lkhitam idaṃ pustakaṃ bhaṭavidyādharamoḍha (!) nivedinā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1716 śake 1591 vaiśāṣakṛṣṇatṛtīyā gurau",
+  "era": "VS",
+  "year": "1716",
+  "month": "vaiśāṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "tṛtīyā",
+  "weekday": "gurau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1659"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "There is a 10-year discrepancy between the two given era years: VS 1716 corresponds to c. 1659 CE, whereas ŚS 1591 corresponds to c. 1669 CE (one of them likely a scribal slip for 1726 VS or 1581 ŚS). The scribe's designation 'moḍha (!) nivedinā' is interpreted by the cataloguer as Moḍha Trivedī (traivedinā).",
+ "_meta": {
+  "reel": "B 356/27",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 750,
+  "out_tok": 1711
+ }
+}

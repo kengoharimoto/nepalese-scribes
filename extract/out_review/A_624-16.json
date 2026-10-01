@@ -1,0 +1,97 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p3: name kept as written 'Manoholā' (the first reading's 'Manoharā' was a guess); role changed to relative_only (low confidence), since the person is listed with the wife as one of 'these' (thvate) present at the copying",
+   "p4: Galīlī treated the same way, as a probable household member; confidence low",
+   "Date: added the sun and moon signs (Siṃha, Vṛṣa) to nakshatra_yoga and normalised the weekday to Wednesday; ce_approx 1688 confirmed (NS 808 + 880; Śrāvaṇa falls in 1688)",
+   "Place: Paśarache is given as the scribe's residence; it is only implied as the place of copying",
+   "Notes rewritten"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdevarāmapatina",
+   "name": "Devarāmapati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Paśarache",
+   "evidence": "paśaracheyā śrīdevarāmapatina coyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "devīmayī",
+   "name": "Devīmayī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "thava stī devīmayī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "manoholā",
+   "name": "Manoholā",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devīmayī manoholā galīlī || thvate vidyamāna yāṅāva coyā",
+   "confidence": "low"
+  },
+  {
+   "pid": "p4",
+   "as_written": "galīlī",
+   "name": "Galīlī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "manoholā galīlī || thvate vidyamāna yāṅāva coyā",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wife_of",
+   "to": "p1",
+   "evidence": "thava stī devīmayī"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 808 śrāvaṇa vadi 8 kṛrttika nakṣatre dhruvayoga yathākarṇṇa budhavāla siṃha, vṛṣa",
+  "era": "NS",
+  "year": "808",
+  "month": "śrāvaṇa",
+  "paksa": "vadi (kṛṣṇa)",
+  "tithi": "8",
+  "weekday": "budhavāla (Wednesday)",
+  "nakshatra_yoga": "Kṛttikā nakṣatra, Dhruva yoga; sun in Siṃha, moon in Vṛṣa",
+  "ce_approx": "1688"
+ },
+ "place": {
+  "as_written": "paśarache",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The Newari passage reads roughly: 'On this day it was finished: written by Devarāmapati of Paśarache; his wife Devīmayī, Manoholā, Galīlī — having made these present, [he] wrote.' Manoholā and Galīlī are probably further household members, perhaps children, but their kinship is not stated. 'Manoholā' may be a Newari form of Manoharā. 'Paśarache' is given as the scribe's residence (paśaracheyā); it is not explicitly the place of copying, and it has not been identified. The date fits together: Kṛttikā nakṣatra, with the moon in Vṛṣa and the sun in Siṃha, suits Śrāvaṇa kṛṣṇa 8. The meaning of 'yathākarṇṇa' is unclear. The colophon does not say who owned or commissioned the copy.",
+ "_meta": {
+  "reel": "A 624/16",
+  "model": "opus",
+  "cost_usd": 0.097182,
+  "secs": 24.4
+ }
+}

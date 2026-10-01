@@ -1,0 +1,67 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe role moved to Naraharaprasāda: the cataloguer's (!) on 'prasādāt' marks it as an error for an instrumental (…prasādena), and the catalogue's scribe 'Haraprasāda' points to the same name. Bhaṭa Naraharaprasāda of the Medapāṭa jñāti is now the scribe, with medium confidence.",
+   "'bhagavānena' kept as a person (Bhagavāna) but at low confidence and with role 'other', since its function is unclear. The first reading's 'p1 other p2' relation was dropped because it rests only on that unclear reading.",
+   "Affiliation normalized to Medapāṭa (Mewar) jñāti. 'Medapāṭha' is a scribal spelling of Medapāṭa.",
+   "ce_approx changed from 1638 to 1639. In VS 1695, counted from Caitra, Phālguna falls in Feb–Mar 1639 CE.",
+   "Notes now explain the VS/ŚS conflict more fully: VS 1695 equals ŚS 1560, not 1550.",
+   "'baddha muṣṭi…' identified as the stock scribal verse (bhagnapṛṣṭhakaṭigrīvo baddhamuṣṭir adhomukhaḥ…). It is not a name."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "medapāṭhajñātīyabhaṭanaraharaprasādāt (!)",
+   "name": "Naraharaprasāda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭa"
+   ],
+   "affiliation": "Medapāṭa (Mewar) jñāti",
+   "residence": "",
+   "evidence": "likhitaṃ medapāṭhajñātīyabhaṭanaraharaprasādāt (!)",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhagavānena",
+   "name": "Bhagavāna",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhagavānena 〈m〉 īdaṃ pustakaṃ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1695 varṣe śāke 1550 pravarttamāne uttarāyanagate (!) śrīsūrye vasaṃta〈r〉ṛtau śrīphālgunamāse (!) śuklapakṣe paṃcamī bhaumavāsare",
+  "era": "VS",
+  "year": "1695",
+  "month": "Phālguna",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1639"
+ },
+ "place": {
+  "as_written": "avamtīkāpurī (!) saniddhau (!) māhākālaharasiddha śiprāsaṃniddhau (!)",
+  "normalized": "Ujjain"
+ },
+ "purpose": "",
+ "notes": "The two eras conflict. VS 1695 corresponds to ŚS 1560, but the colophon gives ŚS 1550. Phālguna śukla 5 would fall in about Feb–Mar 1639 CE by the VS date, or about Feb–Mar 1629 CE by the ŚS date. The VS reading is preferred here, and the weekday (Tuesday) was not verified. The scribe passage is grammatically corrupt: 'likhitaṃ medapāṭhajñātīyabhaṭanaraharaprasādāt (!) bhagavānena'. There are two readings. (a) The cataloguer's (!) suggests an intended instrumental, making Bhaṭa Naraharaprasāda of the Medapāṭa (Mewar) community the scribe. The catalogue's 'Haraprasāda' fits this and is probably a truncation of Naraharaprasāda; the name could also split as Narahara + prasādāt ('by the grace of Narahara'). (b) It means 'written by Bhagavāna through the favour of Bhaṭa Narahara(prasāda)'. Reading (a) is followed, and Bhagavāna is retained at low confidence. The place is Avantikāpurī, near Mahākāla, Harasiddhi and the Śiprā river, i.e. Ujjain. This is not a Nepalese copy.",
+ "_meta": {
+  "reel": "A 424/16",
+  "model": "opus",
+  "cost_usd": 0.111274,
+  "secs": 30.6
+ }
+}

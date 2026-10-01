@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭakeśava",
+   "name": "Keśava",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭakeśavaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmad umāpatirāja",
+   "name": "Umāpatirāja",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmad umāpatirājodyotita",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "other",
+   "to": "p2",
+   "evidence": "śrīmad umāpatirājodyotita bhaṭṭakeśavaviracite"
+  }
+ ],
+ "date": {
+  "as_written": "munikumadakuvājiḥ sukāntaiḥ śakavara śākatale",
+  "era": "ŚS",
+  "year": "munikumadakuvājiḥ",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "sadvalesa pūryām",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The text author Bhaṭṭa Keśava composed the work under the patronage of/inspired by Umāpatirāja. The date is given in a chronogram in Śaka era ('śakavara śākatale'). The place of writing seems to be mentioned in 'sadvalesa pūryām' or similar corrupt reading.",
+ "_meta": {
+  "reel": "A 380/16",
+  "model": "gemini-flash-latest",
+  "secs": 6.7,
+  "in_tok": 757,
+  "out_tok": 1573
+ }
+}

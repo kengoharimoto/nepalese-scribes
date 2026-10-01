@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivarāmo",
+   "name": "Śivarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "vijalakvacchedathu",
+   "evidence": "śivarāmo likhac ... śivarāmana saṃpūrṇṇana coyā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vidhuvāhamunauvarṣe śrāvaṇe śuklapakṣake | ṣaṣṭhyān tithau hastaṛkṣe śivayoge ravau dine || ... samvat 771 śrāvaṇaśuklaṣaṣṭhī(2)tithi(!) hastanakṣatra (!) śivayoge ādityavāra (!)",
+  "era": "NS",
+  "year": "771",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "ṣaṣṭhī",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "hasta, śivayoga",
+  "ce_approx": "1651"
+ },
+ "place": {
+  "as_written": "vijalakvacchedathu",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'vidhuvāhamunau' corresponds to vidhu (1), vāha (7), muni (7) = NS 771, confirming the numerical date 771.",
+ "_meta": {
+  "reel": "B 128/2",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 863,
+  "out_tok": 1543
+ }
+}

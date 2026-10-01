@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nainasukha",
+   "name": "Nainasukha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nainasukha viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kesavadāsa",
+   "name": "Keśavadāsa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paṇḍita",
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpaṃḍīta vaidya kesavadāsasuta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "kesavadāsasuta nainasukha"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1817 || mī. Bhādo vadī || 13 || vāra budha ||",
+  "era": "VS",
+  "year": "1817",
+  "month": "Bhādo",
+  "paksa": "vadī",
+  "tithi": "13",
+  "weekday": "budha",
+  "nakshatra_yoga": "",
+  "ce_approx": "1760"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names the author Nainasukha and his father Keśavadāsa. No scribe or owner is mentioned for this copy.",
+ "_meta": {
+  "reel": "A 211/18",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 741,
+  "out_tok": 1082
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśeśvaraṇa",
+   "name": "Viśveśvara",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "tiprakvache",
+   "evidence": "tiprakvacheyā (9) viśeśvaraṇa coyā, tha(10)vataṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 801 vaiśākha śuddi 13 śatabhiṣa, bṛhaspati",
+  "era": "NS",
+  "year": "801",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "śatabhiṣā",
+  "ce_approx": "1681"
+ },
+ "place": {
+  "as_written": "tiprakvache",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "thavataṃ (for oneself)",
+ "notes": "Tiprakvache (Tibukchẽ) is a well-known locality in Bhaktapur. 'thavataṃ' in Newari indicates copying for oneself (svārtha).",
+ "_meta": {
+  "reel": "B 183/8a",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 746,
+  "out_tok": 821
+ }
+}

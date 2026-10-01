@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaurīdattasya",
+   "name": "Gaurīdatta",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ gaurīdattasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1690 jyeṣṭhe kṛṣṇe māyām(!)",
+  "era": "ŚS",
+  "year": "1690",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "māyām",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1768"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Gaurīdatta as the scribe, but 'idaṃ pustakaṃ gaurīdattasya' primarily indicates ownership. 'māyām(!)' likely stands for amāvāsyāyām.",
+ "_meta": {
+  "reel": "A 273/4",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 714,
+  "out_tok": 740
+ }
+}

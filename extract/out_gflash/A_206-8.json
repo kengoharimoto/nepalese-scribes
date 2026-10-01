@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "karmmācāryyacaturbhujena",
+   "name": "Caturbhuja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmmācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ karmmācāryyacaturbhujena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 891 mi āsā māse, śuklapakṣe dvādasyāṃ tithau, maṅgavārasare",
+  "era": "NS",
+  "year": "891",
+  "month": "Āṣāḍha",
+  "paksa": "śuklapakṣa",
+  "tithi": "dvādaśī",
+  "weekday": "maṅgalavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1771"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 206/8",
+  "model": "gemini-flash-latest",
+  "secs": 2.9,
+  "in_tok": 797,
+  "out_tok": 685
+ }
+}

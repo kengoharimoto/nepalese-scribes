@@ -1,0 +1,41 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdāmodareṇa",
+   "name": "Dāmodara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "amarakoṣapustakaṃ samāptaṃ śrīdāmodareṇa",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The colophon gives no explicit role for Dāmodara. 'pustakaṃ samāptaṃ śrīdāmodareṇa' ('the book was completed by Śrī Dāmodara') most likely names the scribe. The author of the Amarakoṣa is Amarasiṃha, so Dāmodara is not the author. He could also have been the person who had the copy completed (commissioner), so confidence is medium. The colophon has no date or place, and the catalogue fields are empty. The closing verse is a standard benediction (śubham astu sarvajagatāṃ...).",
+ "_meta": {
+  "reel": "B 1/2",
+  "model": "opus",
+  "cost_usd": 0.0540938,
+  "secs": 8.7
+ }
+}

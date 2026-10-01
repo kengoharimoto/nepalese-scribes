@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkṛṣṇadevena",
+   "name": "Kṛṣṇadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "thaṃ vuvaṣani",
+   "evidence": "śrīkṛṣṇadevena likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dvijavarayyāka devasya",
+   "name": "Yyākadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvijavarayyāka devasyātmajaśrīkṛṣṇadevena",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "dvijavarayyāka devasyātmajaśrīkṛṣṇadevena"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat (694) mārggaśiraśukladvādaśyāṃ tithau, aśvinīnakṣatre brahmayoge bṛhaspativāsare",
+  "era": "NS",
+  "year": "694",
+  "month": "mārggaśira",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "bṛhaspativāsara",
+  "nakshatra_yoga": "aśvinīnakṣatre brahmayoge",
+  "ce_approx": "1574"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "putrapautrādivṛddhi",
+ "notes": "The toponym or lineage modifier 'thaṃ vuvaṣanihmaṃ' in Newari indicates that the scribe is from Thaṃvuvaṣani. The father's name appears to be Yyākadeva, preceded by the epithet dvijavara.",
+ "_meta": {
+  "reel": "B 147/9",
+  "model": "gemini-flash-latest",
+  "secs": 11.1,
+  "in_tok": 819,
+  "out_tok": 2364
+ }
+}

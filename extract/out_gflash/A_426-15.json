@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmacaṃdrasomayāji",
+   "name": "Rāmacaṃdra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "somayājin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmacaṃdrasomayājiviracita",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1653 pauṣaśukladutiyā",
+  "era": "ŚS",
+  "year": "1653",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "dutiyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1731"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "paṭhanārtham",
+ "notes": "The word 'praśīt (!)' following 'likhitam idaṃ pustakaṃ paṭhanārthaṃ' is unclear or corrupt. 'rāmaḥ' at the end is an invocation to Rāma rather than a human personal name.",
+ "_meta": {
+  "reel": "A 426/15",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 721,
+  "out_tok": 1183
+ }
+}

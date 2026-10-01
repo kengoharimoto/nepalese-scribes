@@ -1,0 +1,118 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "divākara",
+   "name": "Divākara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdivākaradaivajñātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "viśvanātha",
+   "name": "Viśvanātha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "daivajña",
+    "vidvas"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viśvanāthadaivajñaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "nīlakaṃṭha",
+   "name": "Nīlakaṇṭha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nīlakaṃṭhajyotirvitkṛta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "ātmārāmeṇa",
+   "name": "Ātmārāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vidyārthī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vidhyārthī ātmārāmeṇa likhetaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "dīnānāthajīko",
+   "name": "Dīnānātha",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "gurumahārāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pustaka śrī gurumāhārāja śrī 5 dīnānāthajīko che",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīdivākaradaivajñātmaja"
+  },
+  {
+   "from": "p4",
+   "type": "wrote_for",
+   "to": "p5",
+   "evidence": "ātmārāmeṇa likhetaṃ ... pustaka śrī gurumāhārāja śrī 5 dīnānāthajīko che"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1917 śake 1782 aṃgirānāmni samvatsare kārtikamāse śuklapakṣe tithau 4 bhṛguvāsare",
+  "era": "VS",
+  "year": "1917",
+  "month": "kārtika",
+  "paksa": "śuklapakṣa",
+  "tithi": "4",
+  "weekday": "bhṛguvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1860"
+ },
+ "place": {
+  "as_written": "baraṅāvadāmadhye",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records Dīnānātha as donor, but the vernacular note (Nepali/Rajasthani) specifies the manuscript belongs to him: 'pustaka śrī gurumāhārāja śrī 5 dīnānāthajīko che'. The text also records the original composition date of Viśvanātha's commentary in Śālivāhana Śaka 1551.",
+ "_meta": {
+  "reel": "A 414/25",
+  "model": "gemini-flash-latest",
+  "secs": 9.5,
+  "in_tok": 1067,
+  "out_tok": 2613
+ }
+}

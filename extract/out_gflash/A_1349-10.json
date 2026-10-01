@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pāyaṃguḍopākhya",
+   "name": "Pāyaṃguḍa",
+   "roles": [
+    "author",
+    "commentator"
+   ],
+   "titles": [
+    "upākhya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "itipāyaṃguḍopākhya viracitecaṃdrāloka vyākhyāne",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1847 miti āṣāḍha śudi 3 roja 1",
+  "era": "VS",
+  "year": "1847",
+  "month": "āṣāḍha",
+  "paksa": "śudi",
+  "tithi": "3",
+  "weekday": "roja 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1790"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists 'Pāyaṃguḍopākhya' as scribe, but the colophon clearly says 'pāyaṃguḍopākhya viracite... vyākhyāne' referring to the author/commentator (Vaidyanātha Pāyaguṇḍe).",
+ "_meta": {
+  "reel": "A 1349/10",
+  "model": "gemini-flash-latest",
+  "secs": 1.9,
+  "in_tok": 732,
+  "out_tok": 376
+ }
+}

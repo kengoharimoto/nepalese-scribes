@@ -1,0 +1,77 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkāṇvaśaṃkaraśukla",
+   "name": "Śaṅkaraśukla",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "śukla"
+   ],
+   "affiliation": "Kāṇva",
+   "residence": "",
+   "evidence": "śrīkāṇvaśaṃkaraśuklaviracitaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dāmodara",
+   "name": "Dāmodara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dāmodarasūnu",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bālakṛsṇena",
+   "name": "Bālakṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Avaṃtī",
+   "evidence": "dāmodarasūnubālakṛsṇena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "dāmodarasūnu"
+  }
+ ],
+ "date": {
+  "as_written": "śake 1756 saṃvat 1891 mārgaśīrṣakṛṣṇa 14 iṃduvāsare",
+  "era": "ŚS",
+  "year": "1756 (ŚS) / 1891 (VS)",
+  "month": "mārgaśīrṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "14",
+  "weekday": "iṃduvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1834"
+ },
+ "place": {
+  "as_written": "avaṃtyāṃ",
+  "normalized": "Ujjain"
+ },
+ "purpose": "śrīnṛsiṃhārpaṇam astu",
+ "notes": "",
+ "_meta": {
+  "reel": "B 44/2",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 769,
+  "out_tok": 1503
+ }
+}

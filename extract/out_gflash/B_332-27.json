@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "durgādattena",
+   "name": "Durgādatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "durgādattena likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat || 1900 || śāke | 17 | 65 | pauṣamāse | śuklapakṣe || 8 || myāṃ",
+  "era": "VS",
+  "year": "1900",
+  "month": "pauṣa",
+  "paksa": "śuklapakṣa",
+  "tithi": "8",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1843"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The phrase 'utprabhātīpayonāmaka (!)' preceding Durgādatta's name is corrupt and unclear. The legendary sage Garga ('śrīgargokta') is omitted as a mythical figure.",
+ "_meta": {
+  "reel": "B 332/27",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 756,
+  "out_tok": 1358
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhājumana vaide",
+   "name": "Bhājumana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ bhājumana vaide",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke saṃmvat (!) 1743 || saṃmvat (!) 1878 || nipālasaṃmvat (!) 941 mti hāgruna || sivarātri khunu",
+  "era": "ŚS",
+  "year": "1743",
+  "month": "hāgruna",
+  "paksa": "",
+  "tithi": "sivarātri",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1821"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Three eras are recorded: Śaka 1743, Vikrama 1878, and Nepāla 941 (all corresponding to 1821 CE, Phālguna kṛṣṇa caturdaśī / Śivarātri). The subsequent phrase '(unu) torako || robhagalyā maṃcce māhāryāpa' is obscure; '(unu) torako' possibly denotes a ṭola (quarter/residence).",
+ "_meta": {
+  "reel": "A 322/2",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 772,
+  "out_tok": 1291
+ }
+}

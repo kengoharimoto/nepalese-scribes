@@ -1,0 +1,70 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīanantamalladevasya",
+   "name": "Anantamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭārika",
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīanantamalladevasya vijarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jotasomadattasya",
+   "name": "Somadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña",
+    "jota"
+   ],
+   "affiliation": "",
+   "residence": "yoyakāgraha",
+   "evidence": "devajña| jotasomadattasya likhitam iti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīśrīanantamalladevasya vijarājye|| yoyakāgrahādhivāsinā || devajña| jotasomadattasya likhitam iti"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 416 caitraśukladittīyāyāṃ titho",
+  "era": "NS",
+  "year": "416",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1296"
+ },
+ "place": {
+  "as_written": "yoyakāgraha",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "devajña is a corrupt form of daivajña; jota is likely a vernacular title equivalent to jośī / jyotiṣa.",
+ "_meta": {
+  "reel": "A 40/15",
+  "model": "gemini-flash-latest",
+  "secs": 7.3,
+  "in_tok": 932,
+  "out_tok": 1778
+ }
+}

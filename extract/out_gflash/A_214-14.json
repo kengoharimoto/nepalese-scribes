@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnityanāthasidha",
+   "name": "Nityanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "siddha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnityanāthasidha viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīarjavegī thākumanīle",
+   "name": "Thākumani",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "arjavegī"
+   ],
+   "affiliation": "",
+   "residence": "maṣanavāhāla",
+   "evidence": "śrīarjavegī thākumanīle saṃpūrṇa leṣyāko (!) ho",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1906 sāla miti phārguṇa(!) vadi 14 roja 1",
+  "era": "VS",
+  "year": "1906",
+  "month": "phārguṇa",
+  "paksa": "vadi",
+  "tithi": "14",
+  "weekday": "roja 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1850"
+ },
+ "place": {
+  "as_written": "maṣanavāhālako",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "Arjavegī represents the administrative title 'arzbegi' (officer in charge of petitions).",
+ "_meta": {
+  "reel": "A 214/14",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 865,
+  "out_tok": 1311
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "tryaṃbakabhaṭṭasya",
+   "name": "Tryambakabhaṭṭa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "bhaṭṭa",
+    "jāmakheḍakara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pu(8)stakaṃ jāmakheḍakaropāhvaya śrīpatibhaṭṭātmaja tryaṃbakabhaṭṭasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīpatibhaṭṭātmaja",
+   "name": "Śrīpatibhaṭṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpatibhaṭṭātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīpatibhaṭṭātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1879 tathā śake 1744 adhikaāśivamāsi śuklapakṣe caturthyāṃ",
+  "era": "VS",
+  "year": "1879",
+  "month": "adhika-Āśvina",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1822"
+ },
+ "place": {
+  "as_written": "vārāṇasyāṃ brahmaghaṭṭe",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "śrīgajānanārpaṇam astu",
+ "notes": "Both Vikrama Saṃvat 1879 and Śaka Saṃvat 1744 are specified. 'jāmakheḍakara' is a Marāṭhā/Deccani family name (upāhvaya).",
+ "_meta": {
+  "reel": "B 272/27",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 823,
+  "out_tok": 1308
+ }
+}

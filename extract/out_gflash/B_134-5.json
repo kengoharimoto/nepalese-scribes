@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīcakrarājyasya / cakrarāja",
+   "name": "Cakrarāja",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīcakrarājyasya ... sudhīś ca cakrarāja eva lekhayāñcakāraha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 806 mārgaśira śudi 14 āditya(!)ra / ṣaḍabhravāruṇair yute śake caturddaśītithau pracaṇḍabhānuvāsare sumārgaśīrṣamāsi vai śuklapakṣamiśrite",
+  "era": "NS",
+  "year": "806",
+  "month": "Mārgaśira",
+  "paksa": "śukla",
+  "tithi": "14",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1685"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Cakrarāja as scribe, but the text explicitly uses the causative 'lekhayāñcakāra' ('caused to be copied') and the genitive 'śrīcakrarājyasya' (for śrīcakrarājasya), identifying him as commissioner/patron. The date is given twice: first in Nepal Samvat prose (saṃvat 806 mārgaśira śudi 14 ādityavāra) and secondly in a Sanskrit verse referring to the Śaka era (śake).",
+ "_meta": {
+  "reel": "B 134/5",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 892,
+  "out_tok": 1624
+ }
+}

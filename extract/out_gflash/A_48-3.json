@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāpaṇḍitābhayākaragupta",
+   "name": "Abhayākaragupta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāpaṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāpaṇḍitābhayākaraguptaraciteyaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīratnākaraguptapaṇḍitasya",
+   "name": "Ratnākaragupta",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "śrīmajjagaddhadharmasākamahāvihāra",
+   "residence": "",
+   "evidence": "deyadharmo yaṃ pravaramahāyānayāyā○naḥ śrīmajjaga(dda)dharma(sāka)mahāvihārāsthitādhivāśi(!)śrīratnākaraguptapaṇḍitasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat ā dvi śrībhādramāsapañcamī….dinaḥ",
+  "era": "LS",
+  "year": "202",
+  "month": "bhādra",
+  "paksa": "",
+  "tithi": "pañcamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1321"
+ },
+ "place": {
+  "as_written": "śrīmānīgale tura.arṇṇava(rṇṇa)mahāvihāra",
+  "normalized": "Patan"
+ },
+ "purpose": "for the attainment of unexcelled knowledge by all sentient beings, preceded by guru, upādhyāya, and parents",
+ "notes": "The catalogue reads the date as LS 202 ('samvat ā dvi'). The scribe's name after 'liṣkita (!) śrīmānīgale tura.arṇṇava(rṇṇa)mahāvihārasthita..' is lost in a lacuna.",
+ "_meta": {
+  "reel": "A 48/3",
+  "model": "gemini-flash-latest",
+  "secs": 11.7,
+  "in_tok": 869,
+  "out_tok": 2845
+ }
+}

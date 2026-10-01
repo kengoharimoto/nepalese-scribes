@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhagavatīdāśena",
+   "name": "Bhagavatīdāsa",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhāyitaṃ (!) pustakaṃ idaṃ bhagavatīdāśena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "valabhadreṇa",
+   "name": "Balabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ valabhadreṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "lekhāyitaṃ (!) pustakaṃ idaṃ bhagavatīdāśena hi likhitaṃ valabhadreṇa"
+  }
+ ],
+ "date": {
+  "as_written": "navāṣṭarasacaṃdraiśvaśodhitebde prajāpatau || pauṣe māsi śite pakṣe caturdaśyāṃ raver dine",
+  "era": "ŚS",
+  "year": "1689",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "14",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1768"
+ },
+ "place": {
+  "as_written": "garttapāle śubhe deśe bhagavatyāḥ pure",
+  "normalized": ""
+ },
+ "purpose": "viṣṇuprīti (viśnur me prīyatām iti)",
+ "notes": "Year expressed by chronogram: nava (9), aṣṭa (8), rasa (6), candra (1) = 1689 Śaka in the Prajāpati samvatsara.",
+ "_meta": {
+  "reel": "B 254/4",
+  "model": "gemini-flash-latest",
+  "secs": 7.7,
+  "in_tok": 822,
+  "out_tok": 1408
+ }
+}

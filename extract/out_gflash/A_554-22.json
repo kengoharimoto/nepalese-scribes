@@ -1,0 +1,90 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "maithilasanmiśraśrīkṛṣṇadeva",
+   "name": "Kṛṣṇadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "maithila",
+    "sanmiśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "maithilasanmiśraśrīkṛṣṇadevatanaya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mahā⁅maho⁆pādhyāyasaṭṭhakkuraśrībhava-deva",
+   "name": "Bhavadeva",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "ṭhakkura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahā⁅maho⁆pādhyāyasaṭṭhakkuraśrībhava-devapriyaśiṣya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "mahāmahopādhyāyasanmiśraśrībhavadeva",
+   "name": "Bhavadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "sanmiśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāyasanmiśraśrībhavadevanirmmite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "maithilasanmiśraśrīkṛṣṇadevatanaya"
+  },
+  {
+   "from": "p3",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "mahā⁅maho⁆pādhyāyasaṭṭhakkuraśrībhava-devapriyaśiṣya"
+  }
+ ],
+ "date": {
+  "as_written": "daśravedamunibhūmimite bde śāradīyavijayābhidhatithyām",
+  "era": "ŚS",
+  "year": "1742",
+  "month": "Āśvina",
+  "paksa": "śukla",
+  "tithi": "daśamī (vijayābhidhatithi)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1820"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "bhaya-kṣati-hetoḥ",
+ "notes": "The chronogram 'daśra-veda-muni-bhūmi' corresponds to 2, 4, 7, 1 reversed = Śaka 1742. 'śāradīyavijayābhidhatithi' indicates Vijayadaśamī (Āśvina śukla 10).",
+ "_meta": {
+  "reel": "A 554/22",
+  "model": "gemini-flash-latest",
+  "secs": 11.8,
+  "in_tok": 810,
+  "out_tok": 2993
+ }
+}

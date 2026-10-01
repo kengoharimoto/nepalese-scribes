@@ -1,0 +1,90 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Chronogram checked and explained: kīlālākara (ocean) = 4, veda = 4, saindhava (seven seas) = 7, rasā (earth) = 1. Read right to left this gives ŚS 1744 = CE 1822, so the first reading's year was right.",
+   "Month normalised: māsi iṣe means the month Iṣa, which is Āśvina. Removed the 'Āśvina/Kārttika?' doubt.",
+   "Recorded the solar position 'ghaṭage vivasvati' (sun in Ghaṭa) in the nakshatra_yoga field and noted that it may conflict with Āśvina.",
+   "Tithi marked as unclear: 'bhāsye' cannot be confidently resolved to a number.",
+   "Notes now mention the catalogue's name form 'Ratnākaralāla' and the scribe's unnamed guru."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvidyānivāsabhaṭṭācāryātma(9)ja",
+   "name": "Vidyānivāsa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanmahāmahopādhyāyaśrīvidyānivāsabhaṭṭācāryātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīviśvanātha paṃcānanabhaṭṭācārya",
+   "name": "Viśvanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "pañcānana",
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīviśvanātha paṃcānanabhaṭṭācāryaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīlālaratnākaraḥ",
+   "name": "Lālaratnākara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Vārāṇasī (place of copying)",
+   "evidence": "samalikhan muktāvalī pustakaṃ tūrṇaṃ śrīgurupādapadmamadhupaḥ śrīlālaratnākaraḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīvidyānivāsabhaṭṭācāryātma(9)jaśrīviśvanātha"
+  }
+ ],
+ "date": {
+  "as_written": "kīlālākaravedasaīṃdhavarasābhis sammite śākake māsīṣe ghaṭage vivasvatisitai bhāsye tithau bhārgave",
+  "era": "ŚS",
+  "year": "1744",
+  "month": "Iṣa (= Āśvina)",
+  "paksa": "śukla",
+  "tithi": "bhāsye (unclear)",
+  "weekday": "bhārgava (Friday)",
+  "nakshatra_yoga": "sun in Ghaṭa (ghaṭage vivasvati)",
+  "ce_approx": "1822"
+ },
+ "place": {
+  "as_written": "śrīviśveśvarapattene",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The year is given as a word-number chronogram, read right to left: kīlālākara (ocean) = 4, veda = 4, saindhava (seven seas) = 7, rasā (earth) = 1. That gives ŚS 1744 = CE 1822, which matches the catalogue.\n\nThe month 'māsīṣe' means māsi iṣe, i.e. Āśvina. 'Ghaṭa' normally means Kumbha (Aquarius), which would not fit Āśvina. It may stand for Tulā (cf. dhaṭa, 'balance'), which would fit Āśvina; this is unresolved.\n\nThe tithi word 'bhāsye' is obscure or corrupt.\n\nThe scribe's name is written 'lālaratnākara'. The catalogue normalises it as 'Ratnākaralāla'.\n\n'śrīgurupādapadmamadhupaḥ' describes the scribe as devoted to his guru, but the guru is not named.\n\nViśveśvarapattana is Kāśī/Vārāṇasī, which matches the catalogue's place field.",
+ "_meta": {
+  "reel": "A 913/5",
+  "model": "opus",
+  "cost_usd": 0.102538,
+  "secs": 25.4
+ }
+}

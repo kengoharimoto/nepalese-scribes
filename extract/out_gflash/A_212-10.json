@@ -1,0 +1,93 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sodāsa",
+   "name": "Sodāsa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sodāsaputra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nainasuṣa",
+   "name": "Nainasukha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paṇḍita",
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṃḍitavaidyaka sodāsaputra nainasuṣaviracite vaidyamanotsave",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "ānaṃda",
+   "name": "Ānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ānaṃdaviracite kokamaṃjarī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "dhaṃju",
+   "name": "Dhaṃju",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dhaṃju vaidyana coyā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "sodāsaputra"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 902 āśviṇa vadi 13 sukravāraṣu",
+  "era": "NS",
+  "year": "902",
+  "month": "āśviṇa",
+  "paksa": "vadi",
+  "tithi": "13",
+  "weekday": "sukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1782"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Fol. 51v contains the colophon to an embedded or preceding work (Vaidyamanotsava by Nainasukha, son of Sodāsa), while fol. 93r concludes Kokamañjarī by Ānanda. The phrase 'thāsā phocoya sidhuko juro' is a Newari expression representing 'thva saphū coyā sidhuko julo' ('the copying of this book is completed'), not a place name. The catalogue reads the scribe's name as Dhuṃju, but the manuscript reads Dhaṃju.",
+ "_meta": {
+  "reel": "A 212/10",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 833,
+  "out_tok": 1823
+ }
+}

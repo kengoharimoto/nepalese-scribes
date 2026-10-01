@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkavicakravarttikālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavicakravartin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkavicakravarttikālidāsaviracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1581 samaye āṣāḍhasudi 1 bhṛgudine śivarkṣe",
+  "era": "ŚS",
+  "year": "1581",
+  "month": "āṣāḍha",
+  "paksa": "sudi",
+  "tithi": "1",
+  "weekday": "bhṛgudine",
+  "nakshatra_yoga": "śivarkṣe",
+  "ce_approx": "1659"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 279/7",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 707,
+  "out_tok": 718
+ }
+}

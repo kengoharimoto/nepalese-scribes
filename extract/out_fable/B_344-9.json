@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīlālaśarmā",
+   "name": "Śrīlāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarmā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīlālaśarmālikhad ātmatuṣṭaye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmannṛpajayasiṃhadeva",
+   "name": "Jayasiṃhadeva",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "nṛpa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nṛpajayasiṃhadevakārite yantrarājāgame",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "pṛṣatkavāṇāśvarasāmite śake nabhaḥ sitārddhāntyatithau budhāhani",
+  "era": "ŚS",
+  "year": "1755",
+  "month": "Śrāvaṇa (nabhas)",
+  "paksa": "śukla (sita)",
+  "tithi": "15 (pūrṇimā; antyatithi of the bright half)",
+  "weekday": "Wednesday (budha)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1833"
+ },
+ "place": {
+  "as_written": "kāśyām",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "svārtha: ātmatuṣṭaye (for his own satisfaction)",
+ "notes": "Chronogram read as pṛṣatka 5, vāṇa 5, aśva 7, rasā (earth) 1 -> ŚS 1755, agreeing with the catalogue. Scribe name: 'śrī' here is part of the personal name Śrīlāla (catalogue: Śrīlāla Śarmā), not an honorific; śarmā is the brahmin name-suffix. Jayasiṃhadeva (p2) is the royal patron at whose instance the Yantrarāja text itself was composed (kārite), presumably Sawai Jai Singh II of Jaipur; he is not connected with the making of this copy and is listed only so he can be filtered out. No king of the copying date, no commissioner. Weekday not verified against the calendar.",
+ "_meta": {
+  "reel": "B 344/9",
+  "model": "fable",
+  "cost_usd": 0.31296,
+  "secs": 35.0
+ }
+}

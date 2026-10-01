@@ -1,0 +1,66 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2: the scribe is the unnamed nominative subject of vyālekhīt (…maulir udyatsvakarppo). 'dhanapatiramaṇaṃ' is accusative and agrees with ādikāṇḍaṃ, so it probably means 'delighting Dhanapati' and points to a Dhanapati, perhaps a patron, rather than naming the scribe. Changed the name to Dhanapati and the role to 'other'; confidence stays low.",
+   "date.paksa: valakṣa normalised to śukla.",
+   "date.month: Tapasya = Phālguna added.",
+   "date.tithi: Hara's tithi is probably caturdaśī (Śiva rules both the 8th and the 14th); marked as uncertain.",
+   "date.year: gave a digit analysis of the chronogram, which cannot be resolved as a straightforward number; ce_approx left empty.",
+   "purpose: rephrased; the closing saṅkalpa is a formula for a vow to hear the Rāmāyaṇa, not a statement of why the copy was made.",
+   "notes: expanded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vālmīki",
+   "name": "Vālmīki",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vālmīkikṛtarāmāyaṇaśravaṇam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dhanapatiramaṇaṃ",
+   "name": "Dhanapati",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vyālekhīd ādikāṇḍaṃ dhanapatiramaṇaṃ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vāravyomograviṣvagvadanaparimite lakṣmaṇakṣoṇipālapravyaktābde valakṣe tava hara sutithau drāk tapasyasya rātrau",
+  "era": "LS",
+  "year": "vāra(7)-vyoma(0)-ugra(11?)-viṣvagvadana(4?) — unresolved",
+  "month": "Tapasya (Phālguna)",
+  "paksa": "śukla (valakṣa)",
+  "tithi": "Hara's tithi (probably caturdaśī; possibly aṣṭamī)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for the merit of the scribe (pāpahaṃ lekhakasya); the closing saṅkalpa is a formula for hearing the Rāmāyaṇa",
+ "notes": "The era is the Lakṣmaṇasena era (lakṣmaṇakṣoṇipālapravyaktābde). Reading the chronogram from the right: vāra = 7 (units), vyoman = 0 (tens), ugra = Rudra = 11?, viṣvagvadana ('faces on all sides' = Brahmā) = 4?. A Rudra value of 11 does not give a plausible year. If ugra stands for a single digit, the year would be about LS 4x07 or x07; a value around LS 407 (≈1526 CE) would fit the usual range of LS dates, but this is conjectural, so ce_approx is left empty. The date falls on the śukla tithi sacred to Hara in Phālguna, at night. The scribe does not give his name; he describes himself as having his head at Rāma's lotus-feet ('udyatsvakarppo' is corrupt and may conceal a name or epithet). 'dhanapatiramaṇaṃ' qualifies the copied ādikāṇḍa as 'delighting Dhanapati' (a common Maithil name, possibly the patron), but it could also be a pun on Kubera; the person reading is low-confidence. The closing 'oṃ sakala… vālmīkikṛtarāmāyaṇaśravaṇam ahaṅ kariṣye' is a standard saṅkalpa for hearing the Rāmāyaṇa ('dyādi' is probably for 'adyādi'). It does not record who commissioned or owned this copy.",
+ "_meta": {
+  "reel": "A 24/7",
+  "model": "opus",
+  "cost_usd": 0.197912,
+  "secs": 49.7
+ }
+}

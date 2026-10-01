@@ -1,0 +1,77 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mādhava-",
+   "name": "Mādhava",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mādhavaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "haridāsena",
+   "name": "Haridāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "samāptaṃ likhitam idaṃ dhanvaṃtari jitmānandātmaja haridāsena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "jitmānanda-",
+   "name": "Jitmānanda",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "dhanvaṃtari"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dhanvaṃtari jitmānandātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "jitmānandātmaja haridāsena"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 991 phārgunaṣaśukra yakādaśyāyāṃ rohiṇyāṃ gurau",
+  "era": "ŚS",
+  "year": "991",
+  "month": "phālguna",
+  "paksa": "śukla",
+  "tithi": "ekādaśī",
+  "weekday": "guruvāra",
+  "nakshatra_yoga": "rohiṇī",
+  "ce_approx": "1069"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is specified as Śāke 991 (ca. 1069 CE), but given the late Devanagari script, this may be an error for NS 991 (1871 CE) or a scribal omission of a millennium digit (e.g., ŚS 1691 / 1769 CE).",
+ "_meta": {
+  "reel": "A 216/14",
+  "model": "gemini-flash-latest",
+  "secs": 9.4,
+  "in_tok": 758,
+  "out_tok": 2270
+ }
+}

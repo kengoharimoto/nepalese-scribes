@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Notes: the second note is dated phārguṇa vadi 11 ro 6, so it falls on a Friday (ro 6), not a Wednesday as the first reading said",
+   "Notes: added a fuller account of the Newari secondary note and of the possible personal name in it",
+   "Place: as_written changed to 'brahmapūrache', explained as the Newari 'che' (house) plus the locative '-sa'",
+   "Kept the scribe, the NS 967 = 1847 date and the Wednesday weekday (roja 4) for the main colophon"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgovindacaraṇa upādhyāṃ",
+   "name": "Govindacaraṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "Brahmapūrache",
+   "evidence": "śrīgovindacaraṇa upādhyāṃ brahmapūrachesaconā coyāsidhayakā julo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 967 sāla mi caitra śudi 1 roja 4",
+  "era": "NS",
+  "year": "967",
+  "month": "Caitra",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1847"
+ },
+ "place": {
+  "as_written": "brahmapūrache",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The era is not named, but 'saṃvat 967 sāla' with a Newari colophon and a Newar Upādhyāya scribe points to Nepal Saṃvat, which gives about 1847 CE. 'brahmapūrachesa conā' means 'staying in the Brahmapūra house', and 'coyā sidhayakā julo' means 'finished writing'. A separate, corrupt Newari note follows, dated Phālguna vadi 11, ro 6 (Friday). It seems to say that Śakti gave this book in a dream ('śakti na svapne thva saphū vila') on the day of the Mīna-saṃkrānti. The phrase 'vipana sadhīrjavīraṃ yāṃ svapna' may hide a personal name, perhaps Dhīr(a)javīra, the person who had the dream. 'vāju' (father/elder) is also mentioned. The text is too uncertain to record either one as a person. The catalogue entry 'SAM 967' agrees with the colophon.",
+ "_meta": {
+  "reel": "A 977/5a",
+  "model": "opus",
+  "cost_usd": 0.083002,
+  "secs": 18.2
+ }
+}

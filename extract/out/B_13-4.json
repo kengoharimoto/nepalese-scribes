@@ -1,0 +1,61 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vīrādisiṃho",
+   "name": "Vīrasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasmin samālikhya vīrādisiṃho",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sthitirājamallaḥ",
+   "name": "Sthitimalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yasmin nṛpeśa (!) sthitirājamallaḥ samastasāmantabhuvaṃ bhunakti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "yasmin nṛpeśa (!) sthitirājamallaḥ ... tasmin samālikhya vīrādisiṃho"
+  }
+ ],
+ "date": {
+  "as_written": "samvatsare bhūtakhapañcaseṣe māse site śrāvaṇajīvavāre | pūrvvādiṣāḍhe ṛkṣa kāmatithau",
+  "era": "unspecified",
+  "year": "505",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "kāma (13th, trayodaśī)",
+  "weekday": "Thursday (jīvavāra)",
+  "nakshatra_yoga": "Pūrvāṣāḍhā",
+  "ce_approx": "1385"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is given as a bhūtasaṃkhyā chronogram: bhūta=5, kha=0, pañca=5, which reads 505 from right to left. No era is named, but a Newari manuscript copied under Sthitimalla (Jayasthitimalla, r. c. 1382–1395) fits NS 505 = 1385 CE. Kāmatithi means the 13th tithi (trayodaśī), since Kāma corresponds to 13. The scribe's name is written 'vīrādisiṃho'. The 'ādi' looks metrical or corrupt, and I followed the catalogue in normalizing it to Vīrasiṃha; it could also be read as Vīrādisiṃha. Sthitirājamalla is the king Sthitimalla, with 'rāja' inserted, probably for the metre. The verse is corrupt in places (nṛpeśa, īśaṃ, dineṣu).",
+ "_meta": {
+  "reel": "B 13/4",
+  "model": "opus",
+  "cost_usd": 0.0664218,
+  "secs": 12.3
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dhanaṃjayadevena",
+   "name": "Dhanaṃjayadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dhanaṃjayadevena likhitam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vīradevasya",
+   "name": "Vīradeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vīradevasya putra",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "vīradevasya putra dhanaṃjayadevena"
+  }
+ ],
+ "date": {
+  "as_written": "nepālasaṃvat 858 jyeṣṭḥaśuddhi 10",
+  "era": "NS",
+  "year": "858",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1738"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 248/7",
+  "model": "gemini-flash-latest",
+  "secs": 7.2,
+  "in_tok": 738,
+  "out_tok": 1136
+ }
+}

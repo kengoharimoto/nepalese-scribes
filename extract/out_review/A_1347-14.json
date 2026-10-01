@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Weekday normalized from 'śukravāsara' to 'śukravāra (Friday)'; the colophon writes 'śukravāsare'.",
+   "Expanded the notes: 'dhvakahna' may be a corrupt repetition of Newari 'thvakahnu' ('on this day'). In that case the scribe is identified only by the honorific 'Ṭhākuraju', which in the Malla period can mark a royal or noble person. The personal name is therefore doubtful. Scribe kept at low confidence.",
+   "Added 'ṭhākuraju' to titles to match the form as written. Added a note on the Newari completion formula and on the closing benedictory verse."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdhvakahnathākurajusannam",
+   "name": "Dhvakahna",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "ṭhākura",
+    "ṭhākuraju"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śrīdhvakahnathākurajusannam",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 794 || māghamāse kṛṣṇapakṣe dvādaśyāṃ tithau śukravāsare",
+  "era": "NS",
+  "year": "794",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādaśī",
+  "weekday": "śukravāra (Friday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1674"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives 'Scribe: ?'. 'thvakahnu saṃpūrṇṇayāphādinajulo' is Newari for '(it) was completed on this day'. The scribal note 'likhitaṃ śrīdhvakahnathākurajusannam' is best divided as 'śrī dhvakahna thākuraju-sanaṃ' ('by Śrī … Ṭhākuraju'). 'dhvakahna' may be a corrupt repetition of 'thvakahnu' ('this day'). In that case no personal name survives and the scribe is identified only by the honorific Ṭhākuraju, which in the Malla period can denote a royal or noble person. If the scribe is royal, that may explain why the name is left out. The name Dhvakahna is therefore very doubtful. NS 794 Māgha falls in early 1674 CE. The verse at the end ('caturbhis … sukhinaḥ') is a benediction added after the colophon and names no persons.",
+ "_meta": {
+  "reel": "A 1347/14",
+  "model": "opus",
+  "cost_usd": 0.08149400000000001,
+  "secs": 20.7
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jyotirvidāṃ dhanaṃjayena",
+   "name": "Dhanaṃjaya",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ jyotirvidāṃ dhanaṃjayenedaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1688",
+  "era": "ŚS",
+  "year": "1688",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1766"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "... sthārtha(!)",
+ "notes": "The catalogue mistakenly entered the date ŚS 1688 into the 'Place of Copying' field. The purpose word is broken (... sthārtha, likely parārtha or svārtha/svahastārtha).",
+ "_meta": {
+  "reel": "B 216/8",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 735,
+  "out_tok": 957
+ }
+}

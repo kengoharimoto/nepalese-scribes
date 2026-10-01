@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dharmarājadhīrasya",
+   "name": "Dharmarājadhīra",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ dharmarājadhīrasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1958 sāla miti śuddhaāṣāḍha sudi 7 roja 2",
+  "era": "VS",
+  "year": "1958",
+  "month": "śuddhaāṣāḍha",
+  "paksa": "sudi",
+  "tithi": "7",
+  "weekday": "roja 2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1901"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Dharmarājadhīra as scribe, but the phrase 'idaṃ pustakaṃ dharmarājadhīrasya' strictly indicates ownership.",
+ "_meta": {
+  "reel": "A 966/5",
+  "model": "gemini-flash-latest",
+  "secs": 2.9,
+  "in_tok": 673,
+  "out_tok": 637
+ }
+}

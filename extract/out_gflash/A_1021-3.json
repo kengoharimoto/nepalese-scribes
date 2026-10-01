@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājadaivajña",
+   "name": "Rājadaivajña",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "rājadaivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "li[[khi]]ta rājadaivajña",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 883, jyeṣṭhamāsa śuklapakṣa, trayodaśī, anurāḍha (!) nakṣatra, sādhyayā bṛhaṃvāra",
+  "era": "NS",
+  "year": "883",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "trayodaśī",
+  "weekday": "bṛhaṃvāra",
+  "nakshatra_yoga": "anurāḍha, sādhya",
+  "ce_approx": "1763"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives the date as saṃvat 883, whereas the catalogue metadata lists [NS] 896. The catalogue also mentions the king Siddhinarasiṃhamalla, who does not appear in the quoted colophon text.",
+ "_meta": {
+  "reel": "A 1021/3",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 810,
+  "out_tok": 1125
+ }
+}

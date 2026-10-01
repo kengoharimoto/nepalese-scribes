@@ -1,0 +1,75 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñaḍhuṃḍhirāja",
+   "name": "Ḍhuṇḍhirāja",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñaḍhuṃḍhirājaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "phāṭaka ity upanāmaka goviṃdajośinā",
+   "name": "Govinda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jośī",
+    "phāṭaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "phāṭaka ity upanāmaka goviṃdajośinā kāṭayāṃ lekhakataḥ likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīkṛṣṇa jyotirvid rāmanagaravāle",
+   "name": "Śrīkṛṣṇa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "Rāmanagara",
+   "evidence": "pustakam idaṃ śrīkṛṣṇa jyotirvid rāmanagaravāle",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1884 śake 1749 vilaṃbīnāmasaṃvatsare pauṣaśuddha 7 tithau iṃduvāsare",
+  "era": "VS",
+  "year": "1884",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "induvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1827"
+ },
+ "place": {
+  "as_written": "kāṭayāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "svārthaṃ parārthaṃ ca",
+ "notes": "The place name 'kāṭayāṃ' is likely a scribal or reading error for 'kāśyāṃ' (Vārāṇasī/Kāśī), as recognized in the catalogue. Śrīkṛṣṇa Jyotirvid is recorded as owner in an ownership mark at the end.",
+ "_meta": {
+  "reel": "A 408/4",
+  "model": "gemini-flash-latest",
+  "secs": 7.8,
+  "in_tok": 860,
+  "out_tok": 1870
+ }
+}

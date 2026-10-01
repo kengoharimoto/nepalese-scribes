@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvaccharudraṇa",
+   "name": "Vaccharudra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvaccharudraṇa svaparārthaheto likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 280 (vaiśā)ṣakṛṣṇaekādaśyāṃ",
+  "era": "NS",
+  "year": "280",
+  "month": "vaiśāṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1160"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svaparārtha",
+ "notes": "",
+ "_meta": {
+  "reel": "A 40/10",
+  "model": "gemini-flash-latest",
+  "secs": 2.8,
+  "in_tok": 856,
+  "out_tok": 620
+ }
+}

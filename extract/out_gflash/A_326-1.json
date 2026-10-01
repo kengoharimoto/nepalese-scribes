@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "goviṃdena",
+   "name": "Govinda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "goviṃdena ... idaṃ pustakaṃ likhitam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "viśvanātha",
+   "name": "Viśvanātha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viśvanāthātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "viśvanāthātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "śakeṃ (1710) kilak (!) saṃvatsare jyeṣṭhe māsi kṛṣṇapakṣe pratipattithau taddine",
+  "era": "ŚS",
+  "year": "1710",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "pratipad",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1788"
+ },
+ "place": {
+  "as_written": "caṃpāvatisthanagare rāmeśvarasaṃnnidhau",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The place of copying is given as Campāvatī-sthanagara near [a temple of] Rāmeśvara.",
+ "_meta": {
+  "reel": "A 326/1",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 772,
+  "out_tok": 1075
+ }
+}

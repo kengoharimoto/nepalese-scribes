@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vipravaṃśavajrācāryyaji(!)varatnena",
+   "name": "Jīvaratna",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "vipravaṃśa",
+   "residence": "",
+   "evidence": "vipravaṃśavajrācāryyaji(!)varatnena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 90/5",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 674,
+  "out_tok": 465
+ }
+}

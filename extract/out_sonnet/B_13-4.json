@@ -1,0 +1,63 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sthitirājamallaḥ",
+   "name": "Sthitirājamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpeśa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yasmin nṛpeśa (!) sthitirājamallaḥ samastasāmantabhuvaṃ bhunakti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vīrādisiṃho",
+   "name": "Vīrādisiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasmin samālikhya vīrādisiṃho mahādilakṣmīṃ vratarājam",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "yasmin nṛpeśa sthitirājamallaḥ ... tasmin samālikhya vīrādisiṃho"
+  }
+ ],
+ "date": {
+  "as_written": "samvatsare bhūtakhapañcaseṣe māse site śrāvaṇajīvavāre | pūrvvādiṣāḍhe ṛkṣa kāmatithau",
+  "era": "NS",
+  "year": "505",
+  "month": "śrāvaṇa",
+  "paksa": "śukla (site)",
+  "tithi": "kāma (13th, trayodaśī)",
+  "weekday": "jīvavāra (Thursday)",
+  "nakshatra_yoga": "pūrvāṣāḍhā",
+  "ce_approx": "1385"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtha / not stated",
+ "notes": "Year given as chronogram bhūta(5)-kha(0)-pañca(5), read in reverse (aṅkānāṃ vāmato gatiḥ) as 505, matching the catalogue's NS 505. The era is not stated in the colophon, so NS is inferred from the catalogue and the king. Catalogue gives scribe as Vīrasiṃha, but the text reads vīrādisiṃha, which may be a metrically expanded form of Vīrasiṃha; the name is recorded as written. King Sthitirājamalla is Sthitimalla (Jayasthitimalla), consistent with the catalogue. Kāma is read as tithi 13 (trayodaśī) by convention; this is an assumption. jīvavāra is Thursday (Bṛhaspati).",
+ "_meta": {
+  "reel": "B 13/4",
+  "model": "sonnet",
+  "cost_usd": 0.033405199999999996,
+  "secs": 9.0
+ }
+}

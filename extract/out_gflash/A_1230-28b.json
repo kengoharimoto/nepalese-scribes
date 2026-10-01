@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījagādānanda",
+   "name": "Jagadānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījagādānanda viracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue identified Jagadānanda as scribe, but 'viracite' marks him as the author/composer.",
+ "_meta": {
+  "reel": "A 1230/28b",
+  "model": "gemini-flash-latest",
+  "secs": 2.7,
+  "in_tok": 663,
+  "out_tok": 537
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 538 vaiśākhaśuklapūrnnamāsyā (!) titho (!) | svātinakṣatre | vyatipātajoge (!) | budhavāsare",
+  "era": "NS",
+  "year": "538",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "pūrnnamāsī",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "svātinakṣatre | vyatipātajoge",
+  "ce_approx": "1418"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons are named in the colophon. The phrase 'tadā dinalitasiddhaṃ' represents 'tadā dine likhitaṃ siddham' ('on that day the writing was completed'), followed by the common scribal formula 'sūdhaṃ vā masuvā kṣemasi' (corrupt for 'śuddhaṃ vā aśuddhaṃ vā kṣantavyam' / 'kṣamyatām').",
+ "_meta": {
+  "reel": "A 30/13",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 738,
+  "out_tok": 838
+ }
+}

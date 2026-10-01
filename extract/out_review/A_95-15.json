@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Weekday: 'atavārake' read as Ādityavāra/Itavāra, i.e. Sunday; the original spelling is kept in as_written.",
+   "ce_approx changed from 1708 to 1709: Phālguna of the Caitrādi year VS 1765 falls in February–March 1709 CE.",
+   "Notes: added that the string 'phatkaliṣatanaraghayy' cannot be interpreted and that 'madhā(!) liṣitaṃ' probably stands for 'mayā likhitaṃ'.",
+   "Scribe entry, place identification and the VS era are confirmed."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāma(7)prasāda",
+   "name": "Rāmaprasāda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ rāma(7)prasāda",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat || 1765 || samaya nāma phālgu vadi 5(6) vāre atavārake",
+  "era": "VS",
+  "year": "1765",
+  "month": "Phālguna",
+  "paksa": "vadi (kṛṣṇa)",
+  "tithi": "5",
+  "weekday": "atavārake (Ādityavāra, Sunday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1709"
+ },
+ "place": {
+  "as_written": "kāsma madhomani kanikā samīpe",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The place string 'kāsma madhomani kanikā samīpe' is a corrupt form of Kāśyāṃ madhye Maṇikarṇikā-samīpe, meaning 'near Maṇikarṇikā in Kāśī', so the place is Vārāṇasī. The catalogue gives [ŚS] 1765, which would be about 1843 CE. But the colophon writes 'saṃvat', and in a North Indian Devanagari manuscript that normally means Vikrama Saṃvat. Read as VS 1765, Phālguna vadi 5 falls in about February–March 1709 CE. The weekday is not checked against this date. 'madhā(!) liṣitaṃ' probably stands for 'mayā likhitaṃ'. 'rakṛte daśamaṃ praraṇaṃ' is probably 'prakaraṇe/prakaraṇaṃ daśamaṃ', the tenth prakaraṇa. The string 'phatkaliṣatanaraghayy', just before saṃvat, cannot be interpreted. It could be a garbled date formula or a corrupt name, but no person is extracted from it.",
+ "_meta": {
+  "reel": "A 95/15",
+  "model": "opus",
+  "cost_usd": 0.077626,
+  "secs": 17.8
+ }
+}

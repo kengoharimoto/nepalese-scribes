@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmannṛpajayasiṃhadeva",
+   "name": "Jayasiṃhadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "nṛpa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmannṛpajayasiṃhadevakārite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīlālaśarmā",
+   "name": "Śrīlāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "Vārāṇasī",
+   "evidence": "śrīlālaśarmālikhad",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "pṛṣatkavāṇāśvarasāmite śake nabhaḥ sitārddhāntyatithau budhāhani",
+  "era": "ŚS",
+  "year": "1755",
+  "month": "Śrāvaṇa",
+  "paksa": "śuklapakṣa",
+  "tithi": "15",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1833"
+ },
+ "place": {
+  "as_written": "kāśyām",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "ātmatuṣṭaye",
+ "notes": "Chronogram pṛṣatka (5), bāṇa (5), aśva (7), rasā (1) = ŚS 1755. Sitārddhāntyatithi denotes the 15th tithi of the bright half (pūrṇimā).",
+ "_meta": {
+  "reel": "B 344/9",
+  "model": "gemini-flash-latest",
+  "secs": 11.1,
+  "in_tok": 776,
+  "out_tok": 1894
+ }
+}

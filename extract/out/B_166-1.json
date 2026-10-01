@@ -1,0 +1,98 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "puruṣottama bhrāmhana (!) paṃḍītasya (!)",
+   "name": "Puruṣottama",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa",
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiṃ[[ta]] puruṣottama bhrāmhana (!) paṃḍītasya (!)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "chaganajīvrane",
+   "name": "Chaganajī",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "chaganajīvrane pustakalītaṃ (!) pustakaṃ",
+   "confidence": "low"
+  },
+  {
+   "pid": "p3",
+   "as_written": "gosvāminā harinātha",
+   "name": "Harinātha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "gosvāmin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "manohara sūnunā gosvāminā harinātha kṛtāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "manohara",
+   "name": "Manohara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīman manohara sūnunā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "manohara sūnunā gosvāminā harinātha"
+  },
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "paṃḍītasya (!) chaganajīvrane pustakalītaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "miti āsvī dvitīyāṃ 2 maṃgalavāsare || saṃvat 1890 || vṛṣe śākha 17 14",
+  "era": "VS",
+  "year": "1890",
+  "month": "Āśvina",
+  "paksa": "",
+  "tithi": "dvitīyā (2)",
+  "weekday": "Tuesday (maṅgalavāra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1833"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "possibly for Chaganajī (corrupt: 'chaganajīvrane pustakalītaṃ')",
+ "notes": "The verse \"khaṃ vahni sindhubhir, jyeṣṭha asi saptamī, bhṛguvāra\" gives the composition date of the ṭīkā, not the copy date. The copy date 'saṃvat 1890' (VS, ≈1833 CE) conflicts with 'vṛṣe śākha 17 14' (ŚS 1714 ≈ 1792 CE). VS 1890 would match ŚS 1755. The catalogue shows the 8 as an editorial insertion ('18〈〈8〉〉90'), so the year is uncertain. 'chaganajīvrane pustakalītaṃ pustakaṃ' is corrupt. It may name the person the book was written for (Chaganajī?), so the owner role is low-confidence. 'śrīnātha gosvāmibhīr ... racī' presumably refers to the commentator Harinātha again. 'śrī mutharaśa (!)' is unclear: it could be a place (Mathurā?) or a name, so it is not recorded.",
+ "_meta": {
+  "reel": "B 166/1",
+  "model": "opus",
+  "cost_usd": 0.1440768,
+  "secs": 30.0
+ }
+}

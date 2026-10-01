@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmacchaṃkarabhagavatpāda",
+   "name": "Śaṅkarabhagavatpāda",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhagavatpāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmacchaṃkarabhagavatpādakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dalipagirimahaṃta",
+   "name": "Dalipagiri",
+   "roles": [
+    "reader",
+    "beneficiary",
+    "owner"
+   ],
+   "titles": [
+    "mahanta"
+   ],
+   "affiliation": "Giri Daśanāmī sampradāya",
+   "residence": "",
+   "evidence": "patha(!)nārthidalipagirimahaṃta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "goviṃda rām(!)",
+   "name": "Govindarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "le(!)ṣitaṃ goviṃda rām(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "patha(!)nārthidalipagirimahaṃta || || le(!)ṣitaṃ goviṃda rām(!)"
+  }
+ ],
+ "date": {
+  "as_written": "śrīnepālasaṃvat 930 | śrīvikramasaṃvat 1866 | śrīsākasaṃvat 1731 miti kārttikakṛṣṇa siddha dina",
+  "era": "NS",
+  "year": "930",
+  "month": "kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "siddha",
+  "ce_approx": "1809"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "pathanārtha (for reading by Mahanta Dalipagiri)",
+ "notes": "The date is provided synchronously in three eras: NS 930, VS 1866, and ŚS 1731.",
+ "_meta": {
+  "reel": "B 78/1",
+  "model": "gemini-flash-latest",
+  "secs": 8.1,
+  "in_tok": 942,
+  "out_tok": 1903
+ }
+}

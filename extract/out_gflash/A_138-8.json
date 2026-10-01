@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jīvaratnena",
+   "name": "Jīvaratna",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhī(!)tedaṃ jīvaratnena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "ṛtuyugmakhenduyute naipālike suvatsare madhumāse pare pakṣe kāmatithimandavāsare 2 uhi ṛkṣe aindriyoge",
+  "era": "NS",
+  "year": "1026",
+  "month": "Caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "mandavāsara",
+  "nakshatra_yoga": "aindriyoge (nakṣatra: uhi...)",
+  "ce_approx": "1906"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram ṛtuyugmakhendu denotes 1026 (ṛtu = 6, yugma = 2, kha = 0, indu = 1). Kāmatithi corresponds to the 13th tithi (trayodaśī).",
+ "_meta": {
+  "reel": "A 138/8",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 827,
+  "out_tok": 1044
+ }
+}

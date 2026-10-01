@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pūrṇaprasādaṣarmaṇā",
+   "name": "Pūrṇaprasāda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pūrṇaprasādaṣarmaṇā likhitam idaṃ pustakam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ṣrājaguruhemarājaśarmaṇām",
+   "name": "Hemarāja",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "rājaguru",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ṣrājaguruhemarājaśarmaṇām ājñayā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrṇakāmadeva",
+   "name": "Śrṇakāmadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrṇakāmadevavijayarājye",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "ṣrājaguruhemarājaśarmaṇām ājñayā ... pūrṇaprasādaṣarmaṇā likhitam"
+  }
+ ],
+ "date": {
+  "as_written": "1984 vaikramābde",
+  "era": "VS",
+  "year": "1984",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1927"
+ },
+ "place": {
+  "as_written": "nepālarājadhānyāṃ",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "tadāratībhavanārthaṃ",
+ "notes": "The manuscript is a modern copy made in VS 1984 from an incomplete ancient palm-leaf manuscript copied in NS 307, Phālguna kṛṣṇa 6 under the reign of King Śr[ī/ṇ/gu]ṇakāmadeva, supplemented by another palm-leaf manuscript.",
+ "_meta": {
+  "reel": "A 301/5",
+  "model": "gemini-flash-latest",
+  "secs": 8.1,
+  "in_tok": 796,
+  "out_tok": 2177
+ }
+}

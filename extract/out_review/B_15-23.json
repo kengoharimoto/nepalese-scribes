@@ -1,0 +1,67 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Bhūgarbha: confidence lowered to medium. The name is as written, but the Mālatīmādhava is normally ascribed to Bhavabhūti, so it may be a corruption.",
+   "p2: name confidence lowered to medium because 'budhaharakita' is corrupt (Budharakṣita, or possibly Buddharakṣita). Role 'owner' is kept; the catalogue's 'Donor' is not supported by the colophon.",
+   "Date: year set to '276' with the trailing '///' treated as a lacuna marker. ce_approx 1156 is kept (Āśvina NS 276 falls in Sept/Oct 1156). Weekday normalised to Friday.",
+   "Notes expanded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhūgarbhasya",
+   "name": "Bhūgarbha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahākavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtir iyam mahākaver bhūgarbhasya",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrībhikṣubudhaharakitasya",
+   "name": "Budharakṣita",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "bhikṣu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhikṣubudhaharakitasya pustako yaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 276/// śviṇiśuklapaṃcamyā śukradine",
+  "era": "NS",
+  "year": "276",
+  "month": "Āśvina",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1156"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon ascribes the play to 'mahākavi Bhūgarbha'. The Mālatīmādhava is normally ascribed to Bhavabhūti, so this may be a corruption or a local misattribution. 'budhaharakita' is corrupt and probably stands for Budharakṣita (or Buddharakṣita). The colophon says only that the book belongs to him ('pustako yaṃ'), which makes him the owner. The catalogue's 'Donor' is not supported. No scribe is named ('likhitam iti'). The era is not stated; 'saṃ' with a Newari-script hand and 'śviṇi' (Āśvina) suggests NS, as the catalogue says. The '///' after 276 probably marks damage, so the year may be incomplete or uncertain. Read as NS 276, the date is Āśvina śukla 5, a Friday, in 1156 CE. The weekday has not been verified.",
+ "_meta": {
+  "reel": "B 15/23",
+  "model": "opus",
+  "cost_usd": 0.07994599999999999,
+  "secs": 17.1
+ }
+}

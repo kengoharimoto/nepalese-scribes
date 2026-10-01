@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sacocakā",
+   "name": "Sacocakā",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sacocakājuro",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 766 mārggakṛṣṇa 11 aiji 3",
+  "era": "NS",
+  "year": "766",
+  "month": "mārgga",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "aiji 3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1645"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The cataloguer tentatively identifies 'Sacocakā?' as the scribe from 'sacocakājuro', but this is very likely a Newari verbal phrase (cf. cokā juro 'was written') rather than a personal name.",
+ "_meta": {
+  "reel": "A 252/2",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 744,
+  "out_tok": 1446
+ }
+}

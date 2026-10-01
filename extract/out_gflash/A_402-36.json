@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmacaṃdra",
+   "name": "Rāmacaṃdra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdaivajñarāmacaṃdrātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dhameśvara",
+   "name": "Dharmeśvara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñadhameśvaraviraci(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīdaivajñarāmacaṃdrātmajadaivajñadhameśvara"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat nagarasādribhū1767 sama(3)ye yeṣṭaśuklaṣaṣṭītithau bhaumavāsare",
+  "era": "VS",
+  "year": "1767",
+  "month": "Jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "6",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1710"
+ },
+ "place": {
+  "as_written": "akasūrāvādamadhye",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'nagararasādribhū' gives 1767 in reverse (nagara 7, rasa 6, adri 7, bhū 1), matching the numeral 1767. The scribe's name may have been lost in the lacuna 〈〈…〉〉 before 'sahitā likhatam asti'.",
+ "_meta": {
+  "reel": "A 402/36",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 827,
+  "out_tok": 1551
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vikramasiṃhena",
+   "name": "Vikramasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ vikramasiṃhena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kāśīnātha-",
+   "name": "Kāśīnātha",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāśīnātha- ?",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 791 mārggaśirakṛṣṇadvitīyā, (!) mṛgaśiranakṣatra, (!) sādhyayoga, (!) śukravāra, (!)",
+  "era": "NS",
+  "year": "791",
+  "month": "mārggaśira",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvitīyā",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "mṛgaśiranakṣatra, sādhyayoga",
+  "ce_approx": "1670"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon breaks off or ends with an incomplete or uncertain reading 'kāśīnātha- ?'.",
+ "_meta": {
+  "reel": "B 297/2",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 735,
+  "out_tok": 1151
+ }
+}

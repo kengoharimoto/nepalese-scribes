@@ -1,0 +1,87 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadraṇabahādurasāhamahārāja",
+   "name": "Raṇabahādura Sāha",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadraṇabahādurasāhamahārājasamaye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīrāmabhadrapaṇḍitasya",
+   "name": "Rāmabhadra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmabhadrapaṇḍitasya putreṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "gauridattaśarmaṇā",
+   "name": "Gaurīdatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gauridattaśarmaṇā sampādita",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīrāmabhadrapaṇḍitasya putreṇa gauridattaśarmaṇā"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīmadraṇabahādurasāhamahārājasamaye ... gauridattaśarmaṇā"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1855 śāke 1720 bhādraśukladaśamyāṃ budhavāsare",
+  "era": "VS",
+  "year": "1855",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1798"
+ },
+ "place": {
+  "as_written": "nepālaśubhaschāne(!) kāntipuranagare",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 320/6",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 818,
+  "out_tok": 1563
+ }
+}

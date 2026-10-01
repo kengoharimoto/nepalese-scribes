@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1828 śāke 16 jyeṣṭhamāse yakṣmapakṣe tithau pratipadi bhauma(5)vāsare",
+  "era": "VS",
+  "year": "1828",
+  "month": "jyeṣṭha",
+  "paksa": "yakṣmapakṣe",
+  "tithi": "pratipad",
+  "weekday": "bhaumavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1771"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons mentioned. The date gives both Saṃvat 1828 and an incomplete Śāka year ('śāke 16', likely for Śaka 1693, which corresponds to VS 1828 / 1771 CE). 'yakṣmapakṣe' is likely an error for kṛṣṇa- or śuklapakṣa.",
+ "_meta": {
+  "reel": "A 910/7",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 685,
+  "out_tok": 827
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīraghudeva",
+   "name": "Raghudeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīraghudevaviracito",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "yājñikadeva",
+   "name": "Yājñikadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "yājñika"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yājñikadevātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bālakṛṣṇena",
+   "name": "Bālakṛṣṇa",
+   "roles": [
+    "scribe",
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ yājñikadevātmajabālakṛṣṇena svātmapaṭhanārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "yājñikadevātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svātmapaṭhanārtham",
+ "notes": "",
+ "_meta": {
+  "reel": "B 59/21",
+  "model": "gemini-flash-latest",
+  "secs": 12.0,
+  "in_tok": 691,
+  "out_tok": 2539
+ }
+}

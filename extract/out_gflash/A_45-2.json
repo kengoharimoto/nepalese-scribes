@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgaṇapatineti",
+   "name": "Gaṇapati",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "dvijapuṅgava",
+    "vidvatkulāvatāra"
+   ],
+   "affiliation": "",
+   "residence": "Tyālaṃcchyaṃ",
+   "evidence": "likhyāpitam idaṃ tyālaṃcchyaṃsamāvāsitadvijapuṅgavavidvatkulāvatāraśrīgaṇapatineti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "gatasamvatsara 549 caitreśuklapratidyāṃ titho | śanīścaravāsare",
+  "era": "NS",
+  "year": "549",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1429"
+ },
+ "place": {
+  "as_written": "tyālaṃcchyaṃ",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name is lost in the lacuna directly preceding 'likhitam iti'.",
+ "_meta": {
+  "reel": "A 45/2",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 789,
+  "out_tok": 998
+ }
+}

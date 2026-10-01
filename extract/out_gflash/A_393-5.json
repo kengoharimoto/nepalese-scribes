@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dāmodara",
+   "name": "Dāmodara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dāmodaraviracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1667 vaiśāṣe(!)",
+  "era": "ŚS",
+  "year": "1667",
+  "month": "vaiśāṣa",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1745"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The cataloguer recorded the date 'Śāke 1667 vaiśākha' erroneously in the scribe field.",
+ "_meta": {
+  "reel": "A 393/5",
+  "model": "gemini-flash-latest",
+  "secs": 2.9,
+  "in_tok": 690,
+  "out_tok": 592
+ }
+}

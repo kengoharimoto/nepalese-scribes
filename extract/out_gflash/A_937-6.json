@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśaṃkarabhagavataḥ",
+   "name": "Śaṅkara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhagavat"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśaṃkarabhagavataḥ kṛtau vājasaneyisaṃhitopaniṣadbhāṣyaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "durgādattena",
+   "name": "Durgādatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "durgādattena likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat bhādrakṛṣṇa 12 budhe",
+  "era": "unspecified",
+  "year": "",
+  "month": "Bhādra",
+  "paksa": "kṛṣṇa",
+  "tithi": "12",
+  "weekday": "budha",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "lakhanaū śahare",
+  "normalized": "Lucknow"
+ },
+ "purpose": "",
+ "notes": "The catalogue records the date as 'S 1913' (VS 1913 / 1856 CE), but the colophon transcript provided omits the year number.",
+ "_meta": {
+  "reel": "A 937/6",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 727,
+  "out_tok": 1219
+ }
+}

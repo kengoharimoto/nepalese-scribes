@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vāsudevo",
+   "name": "Vāsudeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vāsudevo lilekha",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "pūrṇṇasiṃhaś",
+   "name": "Pūrṇasiṃha",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pūrṇṇasiṃhaś ca prītyā naraharipadabhakto vāsudevo lilekha",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "dvijalakṣmaṇākhyo pāddhyāya śarmaṇam",
+   "name": "Lakṣmaṇa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "dvija",
+    "upādhyāya",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvijalakṣmaṇākhyo pāddhyāya śarmaṇam idaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "pūrṇṇasiṃhaś ca prītyā naraharipadabhakto vāsudevo lilekha"
+  }
+ ],
+ "date": {
+  "as_written": "nidhivasumunivarṣe māghamāsavalakṣe śiśirakiraṇaṛkṣe bhānuvāre daśamyāṃ",
+  "era": "NS",
+  "year": "789",
+  "month": "Māgha",
+  "paksa": "valakṣa (śuklapakṣa)",
+  "tithi": "daśamī",
+  "weekday": "bhānuvāra",
+  "nakshatra_yoga": "śiśirakiraṇaṛkṣa (Rohiṇī)",
+  "ce_approx": "1669"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "kuladevatāyāḥ prītyai",
+ "notes": "The chronogram 'nidhi-vasu-muni' yields 789 (nidhi = 9, vasu = 8, muni = 7). The post-colophonic verse mentions Lakṣmaṇa Upādhyāya Śarman, likely the owner of the manuscript ('śarmaṇam idaṃ' for śarmaṇa idam).",
+ "_meta": {
+  "reel": "A 1038/7",
+  "model": "gemini-flash-latest",
+  "secs": 13.3,
+  "in_tok": 906,
+  "out_tok": 3175
+ }
+}

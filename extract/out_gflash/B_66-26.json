@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 984 āśvina kṛṣṇa daśamī || maṃgaravāra",
+  "era": "NS",
+  "year": "984",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī",
+  "weekday": "maṃgaravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1864"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon text has 'samvat 984', whereas the catalogue entry lists 'NS 894'. No persons are named in the colophon.",
+ "_meta": {
+  "reel": "B 66/26",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 710,
+  "out_tok": 634
+ }
+}

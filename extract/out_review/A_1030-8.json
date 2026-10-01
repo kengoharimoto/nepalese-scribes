@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "date.month normalized to 'vaiśākha' (colophon spelling vaiśāṣa kept in as_written)",
+   "date.weekday given as 'guruvāsara (Thursday)'; the '5' after guruvāsare is most likely the weekday number (Thursday = 5th day counting from Sunday), though it could also be a tithi (pañcamī); tithi left empty",
+   "notes: era conflict restated with figures (ŚS 1756 = c. 1834 CE vs VS 1904 = c. 1847 CE); '26' is the solar day (dina gate), not a tithi"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīviṣṇubhaktena",
+   "name": "Viṣṇubhakta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīviṣṇubhaktena likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1756 || śrīsamvat 1904 sāla miti vaiśāṣa sudi || denagate || 26 || guruvāsare || 5 ||",
+  "era": "VS",
+  "year": "1904",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "guruvāsara (Thursday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1847"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The two eras disagree. Śāke 1756 is about 1834 CE (+78) and Saṃvat 1904 (VS) is about 1847 CE (−57). The normal gap between ŚS and VS is 135 years, but here it is 148. I took VS 1904 as primary because the colophon dates by it ('sāla miti'), but the year is uncertain. 'denagate 26' (= dina gate 26) is the 26th solar day of Vaiśākha, not a tithi; no tithi is given. The '5' after guruvāsare is probably the weekday number (Thursday). Vaiśākha śukla VS 1904 falls around April–May 1847. The catalogue's 'Samvat 1904' is VS, not NS.",
+ "_meta": {
+  "reel": "A 1030/8",
+  "model": "opus",
+  "cost_usd": 0.073086,
+  "secs": 13.2
+ }
+}

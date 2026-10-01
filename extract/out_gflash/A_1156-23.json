@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "la saṃ 387 jeṣṭabadi 10 kuje",
+  "era": "LS",
+  "year": "387",
+  "month": "jeṣṭa",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "kuje",
+  "nakshatra_yoga": "",
+  "ce_approx": "1506"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The quoted colophon breaks off abruptly with 'tad dene mahārā...'. Although the catalogue records 'kulapatiśarmā, son of cakrapatiśarmā' as the scribe, these names are absent from the quoted portion of the text.",
+ "_meta": {
+  "reel": "A 1156/23",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 684,
+  "out_tok": 978
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śtīmalla",
+   "name": "Malla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhūpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śtīmallabhūupati",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "mātāpitṛpūrvvagamaṃnaṃ kṛtvā sakarasatvarāśe 'nuttarā samyaksaṃbodhipada prāptayantu",
+ "notes": "The manuscript colophon breaks off mid-sentence with royal titles/biruda ('śtīmallabhūupaticaranakamaradhuridhusa...' for śrī-[...]-malla-bhūpati-caraṇa-kamala-dhūli-dhūsarita...). The king's full name is lost or corrupt (the catalogue indicates '… Malla'). A standard Mahāyāna donor dedication formula is present, but lacks a specific personal name.",
+ "_meta": {
+  "reel": "B 102/5",
+  "model": "gemini-flash-latest",
+  "secs": 8.1,
+  "in_tok": 813,
+  "out_tok": 1732
+ }
+}

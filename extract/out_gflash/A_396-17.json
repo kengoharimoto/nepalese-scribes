@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "hirānaṃda dīchīta",
+   "name": "Hīrānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "hirānaṃda dīchīta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kāsīnātha",
+   "name": "Kāśīnātha",
+   "roles": [
+    "relative_only",
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāsīnātha anamahaputaka",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "kāsīnātha anamahaputaka (!) hirānaṃda"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1733 sāvana su[[di]] amavasa (!)",
+  "era": "unspecified",
+  "year": "1733",
+  "month": "sāvana",
+  "paksa": "śukla",
+  "tithi": "amāvāsyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue reads the era as Śaka Saṃvat 1733 (ca. 1811 CE), though VS 1733 (ca. 1676 CE) is also possible. The text 'anamahaputaka' is corrupt, likely representing an inflected or compound form of putraka (hence Hīrānanda being the son of Kāśīnātha). The catalogue lists both as scribes.",
+ "_meta": {
+  "reel": "A 396/17",
+  "model": "gemini-flash-latest",
+  "secs": 10.9,
+  "in_tok": 716,
+  "out_tok": 2503
+ }
+}

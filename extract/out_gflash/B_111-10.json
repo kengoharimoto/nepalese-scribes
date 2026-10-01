@@ -1,0 +1,60 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "svātmārāmayogīṃdra",
+   "name": "Svātmārāma",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "yogīndra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svātmārāmayogīṃdraviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīdraviḍaśivabhaṭṭajuna",
+   "name": "Śivabhaṭṭa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "draviḍa",
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdraviḍaśivabhaṭṭajuna likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "ā(ṣā)ḍaśuklaekādaśi kuhnu coyā śubha samvat 776",
+  "era": "NS",
+  "year": "776",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1656"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Śrīsadāśiva in 'śrīsadāśiva pṛnātu' is a deity invoked to be pleased, not a human agent. The suffix -juna on the scribe's name is the Newari honorific agentive marker.",
+ "_meta": {
+  "reel": "B 111/10",
+  "model": "gemini-flash-latest",
+  "secs": 7.7,
+  "in_tok": 1026,
+  "out_tok": 1957
+ }
+}

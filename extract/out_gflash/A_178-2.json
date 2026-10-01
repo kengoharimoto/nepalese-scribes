@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkalīdasana",
+   "name": "Kālidāsa",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkalīdasana saṃcaya yāṅā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 752 thvadaṃ",
+  "era": "NS",
+  "year": "752",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1632"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrī 3 bhavānīprītina ... umeśaprītaye ... anena puṇyayogena tayor ante rayo 'stu me",
+ "notes": "The Newari phrase 'saṃcaya yāṅā' corresponds to the Sanskrit 'sañcitaṃ', indicating acquisition or compiling/commissioning of the tantra manuscript.",
+ "_meta": {
+  "reel": "A 178/2",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 727,
+  "out_tok": 1459
+ }
+}

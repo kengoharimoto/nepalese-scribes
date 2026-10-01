@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kuvera",
+   "name": "Kuvera",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ kuvera",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī śāke || ❁ 1711 māse || pauṣa || vadi ||",
+  "era": "ŚS",
+  "year": "1711",
+  "month": "pauṣa",
+  "paksa": "vadi",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1789/1790"
+ },
+ "place": {
+  "as_written": "rāmanagara",
+  "normalized": "Ramnagar"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 353/2b",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 718,
+  "out_tok": 993
+ }
+}

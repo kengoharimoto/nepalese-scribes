@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāyasthadevarāmeṇa",
+   "name": "Devarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ kāyasthadevarāmeṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vipra śrīharidevaśarmmaṇaḥ",
+   "name": "Haridevaśarman",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vipra śrīharidevaśarmmaṇaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "likhitaṃ kāyasthadevarāmeṇa vipra śrīharidevaśarmmaṇaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 762 vaiśākhaśuklapūrṇimāyāṃ, anurādhānakṣatraśivayoge vudhavāre",
+  "era": "NS",
+  "year": "762",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "vudhavāra",
+  "nakshatra_yoga": "anurādhānakṣatra, śivayoga",
+  "ce_approx": "1642"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue identifies Harideva Śarmmaṇa as scribe, but the colophon uses the instrumental kāyasthadevarāmeṇa for the scribe and the genitive vipra śrīharidevaśarmmaṇaḥ for the commissioner/owner.",
+ "_meta": {
+  "reel": "B 122/8",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 777,
+  "out_tok": 1379
+ }
+}

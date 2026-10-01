@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvidyādhareṇa",
+   "name": "Vidyādhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvijavara",
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "Śikharāpurī",
+   "evidence": "vidyādharadvijavaro vyalikhat samagraṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīkṛṣṇadevasya",
+   "name": "Kṛṣṇadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkṛṣṇadevasyātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīkṛṣṇadevasyātmajaśrīvidyādhareṇa"
+  }
+ ],
+ "date": {
+  "as_written": "naipālike vidhuśikhidvipasaṃtite[ʼ]bde māsy āśvine śaśitithu turagākhyake bhe | ... saṃvat 831 āśvini, śukla 15 āśvinīnakṣetre, somavāra",
+  "era": "NS",
+  "year": "831",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "15",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "āśvinī",
+  "ce_approx": "1711"
+ },
+ "place": {
+  "as_written": "kāśyāḥ puraḥ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The scribe Vidyādhara is residing in or originates from Śikharāpurī (Pharping) ('śrīśikharāpurīsthita'), but copied the manuscript in Kāśī ('kāśyāḥ puraḥ').",
+ "_meta": {
+  "reel": "B 205/3",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 893,
+  "out_tok": 1786
+ }
+}

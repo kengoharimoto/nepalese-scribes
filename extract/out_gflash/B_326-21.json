@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkākaradai(1)vajñātmaja",
+   "name": "Kākara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkākaradai(1)vajñātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "viśvanāthadaivajña",
+   "name": "Viśvanātha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viśvanāthadaivajñaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīkeśavadaivajña",
+   "name": "Keśava",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkeśavadaivajñaviracita",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīkākaradai(1)vajñātmaja viśvanātha"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chapter colophon (antarddaśādhyāyaḥ) of the commentary Udāharaṇa by Viśvanātha, son of Kākara Daivajña, on Keśava Daivajña's Paddhati.",
+ "_meta": {
+  "reel": "B 326/21",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 685,
+  "out_tok": 908
+ }
+}

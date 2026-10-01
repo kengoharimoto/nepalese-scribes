@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśaṅkaraśaṃbhu",
+   "name": "Śaṅkaraśambhu",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśaṅkaraśaṃbhuviracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 786 śrāvaṇaśuklapañcamyāṃ tithau hastanakṣatre sādhyayoge bṛhaspa(!)vāre",
+  "era": "NS",
+  "year": "786",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "hasta, sādhya",
+  "ce_approx": "1666"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 132/6",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 708,
+  "out_tok": 665
+ }
+}

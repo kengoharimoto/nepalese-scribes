@@ -1,0 +1,70 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dvijavaraśrīsūryyarāmeṇa",
+   "name": "Sūryarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ dvijavaraśrīsūryyarāmeṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "putravaladevasyārthe",
+   "name": "Baladeva",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "putravaladevasyārthe",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "likhitaṃ dvijavaraśrīsūryyarāmeṇa || putravaladevasyārthe"
+  },
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "likhitaṃ dvijavaraśrīsūryyarāmeṇa || putravaladevasyārthe"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 783 naṣṭacaitratrayodaśyāṃ tithau ravidine",
+  "era": "NS",
+  "year": "783",
+  "month": "naṣṭacaitra",
+  "paksa": "",
+  "tithi": "trayodaśī",
+  "weekday": "ravidina",
+  "nakshatra_yoga": "",
+  "ce_approx": "1663"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "putravaladevasyārthe",
+ "notes": "Naṣṭacaitra indicates an intercalary (adhika/mala) Caitra.",
+ "_meta": {
+  "reel": "A 1093/9",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 805,
+  "out_tok": 1273
+ }
+}

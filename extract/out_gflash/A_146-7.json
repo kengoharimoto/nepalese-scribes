@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaurīmaheśena",
+   "name": "Gaurīmaheśa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "varadvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gaurīmaheśena varadvijena sā lekhi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "varṣe gate ṣaccharakuṃjare ʼsite jyeṣṭhesu māse madane tithau kavau | ... saṃvat 856",
+  "era": "NS",
+  "year": "856",
+  "month": "Jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1736"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'ṣac-chara-kuṃjara' matches the numeral year 856 (6-5-8). 'Madane tithau' refers to trayodaśī, and 'kavau' refers to Friday (Śukravāra).",
+ "_meta": {
+  "reel": "A 146/7",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 738,
+  "out_tok": 942
+ }
+}

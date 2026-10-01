@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe confidence lowered from high to medium: the name is corrupt (ṭoḍarāndena), and Ṭoḍarānanda is a reconstruction.",
+   "Month normalized to Caitra (madhumāsa), pakṣa to śukla (avadāta), tithi to 3 (agni) and weekday to Wednesday (saumya = Budha).",
+   "Notes now flag that the value of 'dhanva' in the chronogram is uncertain. The era is not stated in the colophon, so VS is an inference."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīṭoḍarāndenā(likhat)",
+   "name": "Ṭoḍarānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīṭoḍarāndenālikhat",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śaradi nayanadhanvaṃṅkenduge (!) madhumāsāvadātpatre gnitithu saumyaghasre",
+  "era": "VS",
+  "year": "1952",
+  "month": "Caitra (madhumāsa)",
+  "paksa": "śukla (avadāta)",
+  "tithi": "3 (agni)",
+  "weekday": "Wednesday (saumya)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1895"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram nayana-dhanva-aṅka-indu, read right to left, gives indu = 1, aṅka = 9, dhanva = ?, nayana = 2, so the year is 19?2. 'Dhanva' (dhanus) is not a standard number word. Following the cataloguer ('SAM 1952?'), I take it as 5 (bow ~ bāṇa/arrows). If it stands for the 9th rāśi (Dhanus), the year would be 1992 (≈ 1935 CE). The colophon names no era ('śaradi' only). I infer VS because ŚS 1952 would fall in 2030 CE, which is impossible, and the manuscript is a Devanagari Navya-nyāya text. VS 1952 ≈ 1895/96 CE. The scribe's name 'ṭoḍarāndenālikhat' is corrupt, probably for ṭoḍarānandena alikhat. 'gnitithu' stands for agnitithau and 'ghasre' for ghasre/vāsare.",
+ "_meta": {
+  "reel": "B 51/18b",
+  "model": "opus",
+  "cost_usd": 0.064455,
+  "secs": 19.9
+ }
+}

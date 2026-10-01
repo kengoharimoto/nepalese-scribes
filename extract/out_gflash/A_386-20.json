@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rucirānaṃdajuna",
+   "name": "Rucirānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śidhayāṅā rucirānaṃdajuna",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kavirāmabhadrakṛtaṃ",
+   "name": "Rāmabhadra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kavirāmabhadrakṛtaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "karuṇākaropādhyāyasuta",
+   "name": "Karuṇākara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "karuṇākaropādhyāyasuta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "karuṇākaropādhyāyasuta"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 931 mārgaśira kṛºº paṃcami ādityavāºº",
+  "era": "NS",
+  "year": "931",
+  "month": "mārgaśira",
+  "paksa": "kṛṣṇa",
+  "tithi": "paṃcamī",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1811"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Verse 2 records the composition date by author Rāmabhadra in Śāke 1701 (1779 CE). The manuscript was copied in NS 931 (1811 CE) by Rucirānanda.",
+ "_meta": {
+  "reel": "A 386/20",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 843,
+  "out_tok": 1788
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names no persons. It contains only the chapter-end formula (Anekārthadhvanimañjarī, third adhyāya), the scribal formula \"śrīr astu yādṛśī pustakaṃ dṛṣṭvā...\", and a gnomic verse (guṇā doṣāyante...). \"Rāma rāma\" is an invocation, not a person. The colophon has no date. The catalogue gives \"SAM 1799\" (era unspecified), which would be VS 1799 ≈ 1742 CE if VS, or ŚS ≈ 1877 CE if ŚS. I left the date fields empty because the colophon itself does not support either reading.",
+ "_meta": {
+  "reel": "A 325/10",
+  "model": "sonnet",
+  "cost_usd": 0.028145200000000002,
+  "secs": 5.9
+ }
+}

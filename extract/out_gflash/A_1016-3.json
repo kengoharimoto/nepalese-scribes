@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāsināthale",
+   "name": "Kāśīnātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "bhādagāu ṭaumāchi ṭola",
+   "evidence": "kāsināthale leṣyāko poṣṭaka",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 986 sālamiti bhādravadi 1 roja 3 samvat 1923 sāla āśviṇa(!)vadi 1 roja 3",
+  "era": "NS",
+  "year": "986 / 1923",
+  "month": "bhādra / āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "1",
+  "weekday": "roja 3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1866"
+ },
+ "place": {
+  "as_written": "bhādagāu ṭaumāchi ṭola",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "śrīkṛṣṇārjunaprīti",
+ "notes": "The date is provided in both Nepal Samvat (986) and Vikrama Samvat (1923), corresponding to 1866 CE. The colophon note is written in Nepali.",
+ "_meta": {
+  "reel": "A 1016/3",
+  "model": "gemini-flash-latest",
+  "secs": 6.8,
+  "in_tok": 969,
+  "out_tok": 1638
+ }
+}

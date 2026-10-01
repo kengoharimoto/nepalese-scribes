@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayadharmasiṃ(8)hena",
+   "name": "Jayadharmasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiteyaṃ jayadharmasiṃ(8)hena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 844 māgha śuklatrayodaśī somadinam",
+  "era": "NS",
+  "year": "844",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "trayodaśī",
+  "weekday": "somadinam",
+  "nakshatra_yoga": "",
+  "ce_approx": "1724"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "putrapautrārtha hetunā",
+ "notes": "",
+ "_meta": {
+  "reel": "B 106/9",
+  "model": "gemini-flash-latest",
+  "secs": 3.0,
+  "in_tok": 688,
+  "out_tok": 660
+ }
+}

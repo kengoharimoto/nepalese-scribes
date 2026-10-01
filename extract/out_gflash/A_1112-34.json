@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1861 śrīśākeḥ 1796 sāla miti vaisāṣa (!) śudi 10 roja 4",
+  "era": "VS",
+  "year": "1861",
+  "month": "vaisāṣa",
+  "paksa": "śudi",
+  "tithi": "10",
+  "weekday": "roja 4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1804"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No personal names are preserved; the scribe refers to himself only in the first person ('mayā', 'mama') in the scribal apology verse. The Śaka year 1796 is likely an error for Śaka 1726, which corresponds to VS 1861 (ca. 1804 CE).",
+ "_meta": {
+  "reel": "A 1112/34",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 751,
+  "out_tok": 1160
+ }
+}

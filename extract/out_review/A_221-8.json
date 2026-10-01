@@ -1,0 +1,67 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe title normalized: 'bhaṭa' recorded as written but noted as = bhaṭṭa; residence moved to place only (nepāladeśe is the place of copying, not a stated residence)",
+   "Date: weekday normalized to 'Sunday (ravivāsara)'; nakṣatra flagged as corrupt ('anunakṣatre', possibly Anurādhā, which is astronomically unlikely for Kārtika śukla 12)",
+   "ce_approx kept at 1784 (NS 905 Kārtika = Oct/Nov 1784); notes expanded: the 'samvat 17(8)1' does not match NS 905 under VS (1781 VS = c. 1724 CE) or ŚS (1781 ŚS = 1859 CE); the catalogue's 'SS 1721' (= 1799 CE) does not match either; the expected equivalents would be VS 1841 or ŚS 1706",
+   "place.normalized set to 'Nepal (Kathmandu Valley)'"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsiddhanāgārjuna",
+   "name": "Nāgārjuna",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "siddha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsiddhanāgārjunaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhavānīśaṃkara bhaṭena",
+   "name": "Bhavānīśaṃkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhavānīśaṃkara bhaṭena likhītaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 17(8)1 nesa 905 kārtikamāse śuklapakṣe dvādaśī ravīvāsare (!) anunakṣatre",
+  "era": "NS",
+  "year": "905",
+  "month": "Kārtika",
+  "paksa": "śukla",
+  "tithi": "dvādaśī (12)",
+  "weekday": "Sunday (ravivāsara)",
+  "nakshatra_yoga": "anunakṣatre (corrupt; Anurādhā?)",
+  "ce_approx": "1784"
+ },
+ "place": {
+  "as_written": "nepāladeśe",
+  "normalized": "Nepal (Kathmandu Valley)"
+ },
+ "purpose": "",
+ "notes": "The colophon gives two eras. The NS date is primary: NS 905 Kārtika śukla 12 = c. Oct/Nov 1784 CE. The other figure, 'samvat 17(8)1', doesn't fit. As VS it gives c. 1724 CE, and as ŚS it gives c. 1859 CE. The equivalents of NS 905 would be VS 1841 or ŚS 1706. The catalogue's 'SS 1721' (= c. 1799 CE) also conflicts with NS 905. Either the samvat figure is corrupt or the cataloguer misread it. The nakṣatra 'anunakṣatre' may stand for Anurādhā, but the moon would hardly be in Anurādhā on Kārtika śukla 12 (more likely Revatī/Aśvinī), so the reading is doubtful. 'bhaṭena' stands for bhaṭṭena, so bhaṭṭa is taken as a brahmin surname or title. The scribe's formulaic 'yādṛśaṃ pustakaṃ dṛṣṭvā…' verse adds no persons.",
+ "_meta": {
+  "reel": "A 221/8",
+  "model": "opus",
+  "cost_usd": 0.085426,
+  "secs": 18.8
+ }
+}

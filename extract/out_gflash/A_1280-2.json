@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "anantasiṃha",
+   "name": "Anantasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "anantasiṃhalikhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepālavatsare yāte netraranddhrasamudrake | mādhavasya site pakṣe vacamyāṃ gurūvāsare || pitṛm eva ca nakṣtre",
+  "era": "NS",
+  "year": "792",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "Maghā (pitṛ)",
+  "ce_approx": "1672"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram netra-randhra-samudra gives 2-9-7 (NS 792). The text identified in the colophon is Prāyaścittasamuccaya, whereas the catalogue record title is Śrīpuṣkarapārameśvarīmahātantra. 'vacamyāṃ' is a scribal error for pañcamyāṃ.",
+ "_meta": {
+  "reel": "A 1280/2",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 738,
+  "out_tok": 989
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vīrabhadro",
+   "name": "Vīrabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vīrabhadro vyalīlikhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepālābda gatepakṣa, vasusāgarasaṃyute | ākhāḍha śukla bhūtāyāṃ",
+  "era": "NS",
+  "year": "782",
+  "month": "Āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "14",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1662"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'pakṣa-vasu-sāgara' encodes the year 782 (pakṣa = 2, vasu = 8, sāgara = 7). The tithi 'bhūtā' refers to the 14th day (caturdaśī).",
+ "_meta": {
+  "reel": "B 284/8",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 772,
+  "out_tok": 995
+ }
+}

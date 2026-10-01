@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭaśrīśivasvāminaḥ",
+   "name": "Śivasvāmin",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "Kashmir",
+   "evidence": "bhaṭṭaśrīśivasvāminaḥ kṛtau kapphiṇābhyudaye",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The manuscript note states that this is a modern copy made from an old palm-leaf manuscript written in ancient Newar script (prācīnanevārākṣaralikhitatāḍapatrapustakasya pratilipir iyam). No scribe or date is mentioned.",
+ "_meta": {
+  "reel": "A 377/9",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 855,
+  "out_tok": 737
+ }
+}

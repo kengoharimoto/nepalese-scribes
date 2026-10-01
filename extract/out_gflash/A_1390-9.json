@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "satānanda",
+   "name": "Satānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "satānandaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "balabhadrasameṇa (!) upādhyā luṃñiṃṭyāla leṣakayoḍha (!)",
+   "name": "Balabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman",
+    "upādhyāya"
+   ],
+   "affiliation": "Luiṭel",
+   "residence": "",
+   "evidence": "balabhadrasameṇa (!) upādhyā luṃñiṃṭyāla leṣakayoḍha (!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1761 samvat 1896 śālam (!) ... miti mārgavadi 5 roja 3",
+  "era": "ŚS",
+  "year": "1761",
+  "month": "mārga",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1839"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śaka 1761 and Vikrama Saṃvat 1896 are recorded, corresponding to 1839 CE. The scribe's name exhibits corrupt orthography: 'balabhadrasameṇa' for Balabhadraśarmaṇā, and 'luṃñiṃṭyāla' represents the Nepali Brahmin family name (thar) Luiṭel.",
+ "_meta": {
+  "reel": "A 1390/9",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 802,
+  "out_tok": 1395
+ }
+}

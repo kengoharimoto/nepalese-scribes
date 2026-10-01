@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśukayati",
+   "name": "Śuka",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "yati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśukayatikṛtā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsāke 1724 saṃvat 1859",
+  "era": "ŚS",
+  "year": "1724",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1802"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date gives both Śaka Era 1724 and Vikrama Saṃvat 1859, both corresponding to ca. 1802 CE.",
+ "_meta": {
+  "reel": "A 1350/11",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 685,
+  "out_tok": 835
+ }
+}

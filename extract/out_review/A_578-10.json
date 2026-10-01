@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Tithi normalized to trayodaśī (as written 'dvitṛyodsyā'; the 'dvi-' could be a stray syllable or dittography, noted)",
+   "Weekday normalized to Tuesday (aṅgāravāra)",
+   "Notes expanded: ŚS 989 (= 1067 CE) is impossible because the Sārasvata grammar postdates it, so NS 989 = 1869 CE is preferred; the catalogue era is wrong"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī buddharakṣita kaviḥ",
+   "name": "Buddharakṣita",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitam idaṃ śrī buddharakṣita kaviḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 989 pauṣa va dvitṛyodsyā aṃgāravāsare",
+  "era": "NS",
+  "year": "989",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "Tuesday (aṅgāravāra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1869"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives the date as [ŚS] 989. That cannot be right: ŚS 989 is about 1067 CE, which is earlier than the Sārasvata grammar itself. A bare three-digit saṃvat in a Newari-script manuscript is Nepal Saṃvat, so NS 989 = c. 1869 CE (the month is Pauṣa, so this may fall in early 1870). 'va' = vadi, the dark fortnight (kṛṣṇa). The tithi is written 'dvitṛyodsyā' and is read as trayodaśī, following the catalogue. The 'dvi-' may be a stray syllable, though dvitīyā cannot be ruled out. The weekday has not been checked against an ephemeris. The text is named in the colophon as 'śāśvatī vyākaraṇaprakriyā', probably a corruption of Sārasvatī. 'kaviḥ' is treated as a title (kavi).",
+ "_meta": {
+  "reel": "A 578/10",
+  "model": "opus",
+  "cost_usd": 0.06983,
+  "secs": 12.8
+ }
+}

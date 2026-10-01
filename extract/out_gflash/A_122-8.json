@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat || 1956 || sālamiti mārga vadi || 8 || roja || 7",
+  "era": "VS",
+  "year": "1956",
+  "month": "mārga",
+  "paksa": "vadi",
+  "tithi": "8",
+  "weekday": "roja 7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1899"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Vāśiṣṭha (Vasiṣṭha) mentioned in the title/incipit formula is the legendary interlocutor of the Avadāna text and not a historical person.",
+ "_meta": {
+  "reel": "A 122/8",
+  "model": "gemini-flash-latest",
+  "secs": 3.1,
+  "in_tok": 683,
+  "out_tok": 609
+ }
+}

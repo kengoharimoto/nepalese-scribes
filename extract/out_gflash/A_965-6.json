@@ -1,0 +1,77 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī ḍaṇḍapāṇI (!)",
+   "name": "Daṇḍapāṇi",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī ḍaṇḍapāṇI (!) putra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "devānanda vaidyeṇa (!)",
+   "name": "Devānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devānanda vaidyeṇa (!) viracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "mukuṭa ānandanena (!)",
+   "name": "Mukuṭānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lipistviyaṃ mukuṭa ānandanena (!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "ḍaṇḍapāṇI (!) putra devānanda"
+  }
+ ],
+ "date": {
+  "as_written": "triambaraṃ śūnyamekagatābde jyeṣṭhe 3 site haritithau bhṛguvāsare ca",
+  "era": "NS",
+  "year": "1003",
+  "month": "Jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "ekādaśī",
+  "weekday": "bhṛguvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1883"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is expressed by the chronogram tri (3) ambara (0) śūnya (0) eka (1) = 1003. Haritithi refers to ekādaśī. The catalogue enters the scribe's name as Ānaṇdamukuṭa.",
+ "_meta": {
+  "reel": "A 965/6",
+  "model": "gemini-flash-latest",
+  "secs": 8.8,
+  "in_tok": 761,
+  "out_tok": 2321
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayabhīme",
+   "name": "Jayabhīmadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nepālabhūpāla"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nepālabhūpāle jayabhīme",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kāyasthodayaharṣeṇa",
+   "name": "Udayaharṣa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāyasthodayaharṣeṇa ha⁅rṣe⁆ṇa likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "yadā nepālabhūpāle jayabhīme bhidhāvati | ... kāyasthodayaharṣeṇa ... likhitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "rasamaṃgalasaṃyuktavahnisaṃvat [...] kārttike māse śite pakṣe paṃcamyāṃ guruvāsare",
+  "era": "NS",
+  "year": "386",
+  "month": "Kārttika",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1265"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram: rasa (6), maṅgala (8), vahni (3) = NS 386. The catalogue lists the pakṣa as kṛṣṇa, but the colophon clearly specifies śite pakṣe (śuklapakṣa).",
+ "_meta": {
+  "reel": "B 27/17",
+  "model": "gemini-flash-latest",
+  "secs": 7.8,
+  "in_tok": 834,
+  "out_tok": 1575
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paśūromana",
+   "name": "Paśurāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paśūromana likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 778 āṣāḍhakṛṇa ekādaśyāṃ tithau vṛhaspativāsare",
+  "era": "NS",
+  "year": "778",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī",
+  "weekday": "bṛhaspativāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1658"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name appears in Newari instrumental as paśūromana, catalogued as Parśurāma.",
+ "_meta": {
+  "reel": "B 150/6",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 762,
+  "out_tok": 985
+ }
+}

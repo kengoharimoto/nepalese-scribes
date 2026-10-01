@@ -1,0 +1,76 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Era: the colophon only says 'samvat'. NS is inferred from the catalogue and from plausibility (VS 803 or ŚS 803 would be too early for a paper manuscript in Devanagari). Noted in notes; ce_approx 1683 kept.",
+   "Weekday normalized to Thursday (bṛhaspativāra); nakṣatra normalized to Aśvinī. Āśvina kṛṣṇa 1 with the moon in Aśvinī is astronomically consistent.",
+   "Purpose rewritten in plain words.",
+   "p1: confidence lowered to medium, because 'ārādhya' may be part of the name or an honorific.",
+   "Notes: the Upākarma presentation (Śrāvaṇa) happened later than the copying date, the scribe is not named, and the catalogue's 'Murārīdhara' does not match the colophon."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkīrtirājānaṃdārādhyaḥ",
+   "name": "Kīrtirājānanda",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "ārādhya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkīrtirājānaṃdārādhyaḥ ... samarpaṇīkṛtaṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmurārīśarmmaṇe",
+   "name": "Murāri",
+   "roles": [
+    "beneficiary",
+    "owner"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmurārīśarmmaṇe upākarmmamahāparvvaṇi samarpaṇīkṛtaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "other",
+   "to": "p2",
+   "evidence": "śrīkīrtirājānaṃdārādhyaḥ śrīmurārīśarmmaṇe ... samarpaṇīkṛtaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 803 āśvinavadi 1 aśuni(!) nakṣetra(!), vṛhaspatibāla(!)",
+  "era": "NS",
+  "year": "803",
+  "month": "Āśvina",
+  "paksa": "kṛṣṇa (vadi)",
+  "tithi": "1",
+  "weekday": "Thursday (bṛhaspativāra)",
+  "nakshatra_yoga": "Aśvinī nakṣatra",
+  "ce_approx": "1683"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "Kīrtirājānanda(ārādhya) presented (samarpaṇīkṛta) the book to Murāriśarman on the Upākarma festival",
+ "notes": "The colophon gives only 'samvat 803'. NS follows the catalogue and is the only plausible era for a paper manuscript in Devanagari; it gives about 1683 CE, and Āśvina kṛṣṇa 1 with the moon in Aśvinī on a Thursday is consistent with this. The scribe is not named. The catalogue lists 'Murārīdhara Śarmā' as scribe, but the colophon names Murāri(śarman) only as the person who received the book. The donor's name 'Kīrtirājānandārādhya' may be read either as Kīrtirājānanda plus the honorific ārādhya ('venerable', also a title of Vīraśaiva priests), or as a single name. Upākarma falls on Śrāvaṇa pūrṇimā, so the presentation was a later event than the completion date of Āśvina.",
+ "_meta": {
+  "reel": "A 1009/2",
+  "model": "opus",
+  "cost_usd": 0.09591,
+  "secs": 23.7
+ }
+}

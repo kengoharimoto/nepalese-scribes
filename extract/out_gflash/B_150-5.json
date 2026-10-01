@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījitānandena",
+   "name": "Jitānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "mahābauddhopāsaka"
+   ],
+   "affiliation": "Mahābauddha",
+   "residence": "Lalitāpura",
+   "evidence": "idaṃ pusaka (!) likhitaṃ śrīlalitāpuranagarasya śrīmahāvauddopāśaka (!) śrījitānandena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīvikramasamvat 1728 śrīśākesamvat 1918 śrīnepālasamvat 981 sālamiti śrāvaṇavadi 13 ravidine",
+  "era": "NS",
+  "year": "981",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "ravidine",
+  "nakshatra_yoga": "",
+  "ce_approx": "1861"
+ },
+ "place": {
+  "as_written": "śrīlalitāpuranagara",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The colophon gives three eras with apparent confusion in the labels and numbers: Vikrama Samvat 1728, Śāke Samvat 1918, and Nepāla Samvat 981. The year 1918 actually corresponds to Vikrama Samvat (and NS 981), both yielding c. 1861 CE.",
+ "_meta": {
+  "reel": "B 150/5",
+  "model": "gemini-flash-latest",
+  "secs": 9.2,
+  "in_tok": 812,
+  "out_tok": 2102
+ }
+}

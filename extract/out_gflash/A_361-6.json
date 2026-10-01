@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rādhākṛṣṇaḥ",
+   "name": "Rādhākṛṣṇa",
+   "roles": [
+    "scribe",
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "kāśikāṃmadhye śrī nṛsiṃhasamālaye",
+   "evidence": "rādhākṛṣṇaḥ svapāṭārthaṃ rāmāyaṇasaṭipaṇaṃ lilekha",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaṭṭadevarāma",
+   "name": "Devarāma",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭadevarāma sagṛhīte śrīmadrāmāyaṇīya viṣamapadavyākhyāne",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śivalāla pāṭaka",
+   "name": "Śivalāla",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "pāṭhaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śivalāla pāṭaka padānuyāyi bhaṭṭadevarāma",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p3",
+   "evidence": "śivalāla pāṭaka padānuyāyi bhaṭṭadevarāma"
+  }
+ ],
+ "date": {
+  "as_written": "pauṣaśudi 2 saṃvat 1900",
+  "era": "VS",
+  "year": "1900",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1843"
+ },
+ "place": {
+  "as_written": "kāśikāṃmadhye śrī nṛsiṃhasamālaye",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "svapāṭhārtham",
+ "notes": "",
+ "_meta": {
+  "reel": "A 361/6",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 918,
+  "out_tok": 1413
+ }
+}

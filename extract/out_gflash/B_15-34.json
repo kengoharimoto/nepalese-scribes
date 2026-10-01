@@ -1,0 +1,85 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāmandakīye",
+   "name": "Kāmandaki",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāmandakīye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīśrīsūryamalladevaprabhu",
+   "name": "Sūryamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "nṛpacakracūḍāmaṇi",
+    "parameśvara",
+    "paramabhaṭṭāraka",
+    "daityanārāyaṇāvatāra",
+    "prabhu"
+   ],
+   "affiliation": "raghuvaṃśa",
+   "residence": "",
+   "evidence": "śrīśrīsūryamalladevaprabhu,, bhujyamānāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "kusumarājarājopasevinā",
+   "name": "Kusumarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña",
+    "rājopasevin"
+   ],
+   "affiliation": "",
+   "residence": "śrībhaktapattanāntarggata thaṃthaṃccheṃ",
+   "evidence": "daivajña,,kusumarājarājopasevinā likhitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "śrīśrīsūryamalladevaprabhu,, bhujyamānāyāṃ"
+  }
+ ],
+ "date": {
+  "as_written": "śrīmannepālikasamvat 647 āṣāḍhamāse kṛṣṇapakṣe, aṣṭamyāṃ tithau, revatinakṣatre śuka(!)vāsare",
+  "era": "NS",
+  "year": "647",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "śukravāsara",
+  "nakshatra_yoga": "revatī",
+  "ce_approx": "1527"
+ },
+ "place": {
+  "as_written": "tritayapūryāṃ kāṣṭhāmaṇḍape ṭolake",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The scribe Kusumarāja is a resident of Thaṃthaṃccheṃ in Bhaktapur (śrībhaktapattanāntarggata thaṃthaṃccheṃ gṛhādhivāśī) but copied the manuscript in Kāṣṭhamaṇḍapa.",
+ "_meta": {
+  "reel": "B 15/34",
+  "model": "gemini-flash-latest",
+  "secs": 10.8,
+  "in_tok": 1395,
+  "out_tok": 2743
+ }
+}

@@ -1,0 +1,155 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Weekday normalized to 'Sunday (ādityavāsare)'; as written 'ādītyavatsare' is a scribal slip for vāsare, not a year.",
+   "Purpose shortened to a plain description of the merit-transfer formula.",
+   "Padmarāja and Candrasā lowered to medium confidence as commissioners: there is no likhāpitam; the role rests on the instrumental 'sābhāryāsahena' plus the dedication of merit. Padmarāja also given role beneficiary, since the closing verse asks the goddess to protect him and his people.",
+   "Notes added: 'uvaye ṭhākureṇa' = ubhaya-ṭhākureṇa (joint rule of both lords); 'sava(!)rāśer' = sattvarāśer; 'kāṣṭhamaṇḍa || ❁ || pa' is split by the ornament; the place is inferred from the patrons' residence, not stated as the place of copying.",
+   "Added under_reign_of relations for p1."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīpadmarāja",
+   "name": "Padmarāja",
+   "roles": [
+    "commissioner",
+    "beneficiary"
+   ],
+   "titles": [
+    "bhikṣu"
+   ],
+   "affiliation": "Kīrttipuṇyamahāvihāra",
+   "residence": "Yolācche, Kāṣṭhamaṇḍapa",
+   "evidence": "śrīkīrttipuṇyamahāvihārāvasthitayolāccheśrīpadmarājacandrasābhāryāsahena",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "candrasā",
+   "name": "Candrasā",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Yolācche, Kāṣṭhamaṇḍapa",
+   "evidence": "candrasābhāryāsahena",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīśrījayaratnamalladeva",
+   "name": "Jayaratnamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka",
+    "ṭhākura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayaratnamalladevaśrīśrījayaarimalladeva uvaye ṭhākureṇa vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīśrījayaarimalladeva",
+   "name": "Jayārimalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka",
+    "ṭhākura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayaratnamalladevaśrīśrījayaarimalladeva uvaye ṭhākureṇa vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrīrūparājena",
+   "name": "Rūparāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Maṇisaṃghavihāra",
+   "residence": "Maṇisaṃghavihāra",
+   "evidence": "likhite 'yam maṇisaṃghavihāravāsitavajrācāryaśrīrūparājena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wife_of",
+   "to": "p1",
+   "evidence": "candrasābhāryāsahena"
+  },
+  {
+   "from": "p5",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "likhite 'yam ... śrīrūparājena ... bhikṣuśrīvarapadmarājasagaṇān devī ciraṃ rakṣatuḥ"
+  },
+  {
+   "from": "p5",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "jayaratnamalladeva... uvaye ṭhākureṇa vijayarājye"
+  },
+  {
+   "from": "p5",
+   "type": "under_reign_of",
+   "to": "p4",
+   "evidence": "jayaarimalladeva uvaye ṭhākureṇa vijayarājye"
+  },
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "uvaye ṭhākureṇa vijayarājye"
+  },
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p4",
+   "evidence": "uvaye ṭhākureṇa vijayarājye"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 609 bhādrapadamāse śuklapakṣe pañcamyān tithau svāti nakṣatre saubhāgnya(!) yoge ādītya(!)vatsare ... mānse(!) bhādrapade grahāmvararase śukle tithau pañcamī",
+  "era": "NS",
+  "year": "609",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "Sunday (ādityavāsare; written ādītyavatsare)",
+  "nakshatra_yoga": "Svāti nakṣatra, Saubhāgya yoga",
+  "ce_approx": "1489"
+ },
+ "place": {
+  "as_written": "śrīkāṣṭhamaṇḍapamahānagarī śrīkīrttipuṇyamahāvihāra",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "merit transfer: the merit goes to the teachers, parents and all beings, so that they attain supreme knowledge (anuttarajñāna)",
+ "notes": "The catalogue gives NS 509, which is wrong. The colophon has 'samvat 609' in digits, and the chronogram 'grahāmvararase' confirms it: read right to left, rasa 6, ambara 0, graha 9 = 609. NS 609 is about 1489 CE, which fits the joint rule of Ratnamalla and Arimalla in Kathmandu. 'uvaye ṭhākureṇa' = ubhaya-ṭhākureṇa ('the two lords'). 'kāṣṭhamaṇḍa || ❁ || pa' is Kāṣṭhamaṇḍapa, split by the ornament. 'sava(!)rāśer' = sattvarāśer. The kīrtipuṇyamahāvihāra is where the patrons live; the colophon does not explicitly call it the place of copying. Padmarāja and Candrasā are taken as patrons only from 'sābhāryāsahena' plus the merit dedication: no likhāpitam or deyadharma appears. The wife's name 'Candrasā' may be incomplete or abbreviated. Padmarāja is called bhikṣu in the closing verse.",
+ "_meta": {
+  "reel": "A 47/5",
+  "model": "opus",
+  "cost_usd": 0.129278,
+  "secs": 30.6
+ }
+}

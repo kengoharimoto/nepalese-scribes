@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmakṛṣṇaśarmaṇe(!)",
+   "name": "Rāmakṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yathā prati tathā likhitam || ... tathā rāmakṛṣṇaśarmaṇe(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1718 || samvat 1853 māse caitrakṛṣṇaś || trayodaśī dina gatā || 16 || ādityavāsare",
+  "era": "ŚS",
+  "year": "1718",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "ādityavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1797"
+ },
+ "place": {
+  "as_written": "paśupatnyāṃ(!) pūrvabhāge || garuḍanārāyaṇapaścimabhage | brahmasthalīgrāmaḥ",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records Śakasamvat 1728, but the colophon text reads śrīśāke 1718, which accords with Vikrama Samvat 1853.",
+ "_meta": {
+  "reel": "A 1102/28",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 832,
+  "out_tok": 1667
+ }
+}

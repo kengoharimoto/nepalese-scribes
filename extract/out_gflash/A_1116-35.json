@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "si(!)vena",
+   "name": "Śiva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "si(!)vena liṣitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1731 caitra sudī 10",
+  "era": "VS",
+  "year": "1731",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1674"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1116/35",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 902,
+  "out_tok": 1149
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkāli(8)dāsakṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1538 || kārttikānte || 13",
+  "era": "ŚS",
+  "year": "1538",
+  "month": "Kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1616"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 321/4",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 695,
+  "out_tok": 579
+ }
+}

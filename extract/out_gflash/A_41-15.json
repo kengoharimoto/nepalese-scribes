@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībalade[va]rājake",
+   "name": "Baladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "nṛpānvaye",
+   "residence": "",
+   "evidence": "nṛpānvaye śrībalade[va]rājake",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "aśītiyukte saśate sa[mva]tsare site subhe māghatṛtīyavāsare",
+  "era": "NS",
+  "year": "180",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1060"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "tri...duḥkhavināśahetoḥ ... sumaṅgalārtham",
+ "notes": "The scribe is unnamed, referred to only by the pronoun 'mayā' (preceded by corrupt 'nirbhya (!)', unlikely to be a personal name).",
+ "_meta": {
+  "reel": "A 41/15",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 755,
+  "out_tok": 1495
+ }
+}

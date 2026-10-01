@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dhanajinā",
+   "name": "Dhanaji",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "udīcajātīya",
+   "residence": "bhragukṣetra",
+   "evidence": "dhanajinā likhitoyaṃ graṃthaḥ kāśyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nārāyaṇa",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nārāyaṇātmajena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "nārāyaṇātmajena dhanajinā"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1719 varṣe śāke 15 pravarttamāne caitramāse kṛṣṇapakṣe saptamyām tithau śanivāsare",
+  "era": "VS",
+  "year": "1719",
+  "month": "caitramāse",
+  "paksa": "kṛṣṇapakṣe",
+  "tithi": "saptamyām",
+  "weekday": "śanivāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1662"
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The Śaka year is truncated ('śāke 15', likely intended for 1584, which matches VS 1719). The scribe Dhanaji is described as a resident of Bhṛgukṣetra (Bharuch) of the Udīcya community ('bhragukṣetra vāstavya udīcajātīya'), copying the manuscript in Kāśī.",
+ "_meta": {
+  "reel": "A 965/3",
+  "model": "gemini-flash-latest",
+  "secs": 8.6,
+  "in_tok": 805,
+  "out_tok": 2117
+ }
+}

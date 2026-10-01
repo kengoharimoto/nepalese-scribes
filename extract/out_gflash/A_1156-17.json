@@ -1,0 +1,74 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīamṛtadevena",
+   "name": "Amṛtadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "Sohalanīmha Brahmapura",
+   "evidence": "svaputra dvijavara śrīamṛtadevena likhitam idṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvaṃkulideva agniotra somasarmaṇasya",
+   "name": "Vaṅkulideva Somaśarman",
+   "roles": [
+    "beneficiary",
+    "commissioner"
+   ],
+   "titles": [
+    "agnihotra",
+    "dvijavaramūrtyaṅga"
+   ],
+   "affiliation": "",
+   "residence": "Sohalanīmha Brahmapura",
+   "evidence": "śrīvaṃkulideva agniotra somasarmaṇasyārthena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "svaputra"
+  },
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "somasarmaṇasyārthena|| svaputra dvijavara śrīamṛtadevena likhitam idṃ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 580 mārgaśiraśukla|| trayodaśī pra| caturddaśyāyān(!) tithau|| rohiṇi(!) nakṣatre|| śubhayoge|| śanīścaravāsare(!)",
+  "era": "NS",
+  "year": "580",
+  "month": "mārgaśira",
+  "paksa": "śukla",
+  "tithi": "trayodaśī pra| caturdaśī",
+  "weekday": "śanīścaravāsara",
+  "nakshatra_yoga": "rohiṇī nakṣatra, śubha yoga",
+  "ce_approx": "1460"
+ },
+ "place": {
+  "as_written": "śrī sohalanimhaṃ brahmapuro",
+  "normalized": ""
+ },
+ "purpose": "for the sake of Agnihotrin Somaśarman (somasarmaṇasyārthena)",
+ "notes": "The beneficiary's name is given as 'śrīvaṃkulideva agniotra somasarmaṇasya', likely a single individual (Vaṅkulideva Somaśarman) combining a personal/local name ending in -deva with the ritual title Agnihotra and the Brahmanical name Somaśarman. 'Sohalanīmha Brahmapura' likely refers to a settlement or guthi of sixteen Brahmins (sohala nimha in Newari).",
+ "_meta": {
+  "reel": "A 1156/17",
+  "model": "gemini-flash-latest",
+  "secs": 41.2,
+  "in_tok": 964,
+  "out_tok": 8994
+ }
+}

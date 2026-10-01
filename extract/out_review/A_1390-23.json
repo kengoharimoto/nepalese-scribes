@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 roles: removed 'reader', added 'owner' (paṭhanārthe = copied for his own study → scribe + owner)",
+   "p1 confidence for name kept high, but noted that the suffix 'samāṇasya (!)' is corrupt (catalogue reads Varmā; possibly varmaṇaḥ/śarmaṇaḥ); title left out of 'titles' because it is not legible",
+   "date: tithi read as 'rudra' = 11 (ekādaśī), weekday as yuga = 4 (Wednesday); month given as solar Karkaṭa (Sun in Cancer); nakṣatra/yoga flagged as uncertain",
+   "purpose rephrased"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "candreśvara samāṇasya (!)",
+   "name": "Candreśvara",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "candreśvara samāṇasya (!) likhitaṃ paṭhanādrarthe",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "rupākṣisaptedugate ca śāke kulīrayukte ca divākaraścaḥ || parodratithyaṃ yugavāśareṣu śvi (!) mṛkṣe bhūmiyoga yuktaḥ",
+  "era": "ŚS",
+  "year": "1721",
+  "month": "Karkaṭa (solar; Sun in Kulīra/Cancer)",
+  "paksa": "",
+  "tithi": "rudra = 11 (ekādaśī)? ('parodratithyaṃ', corrupt)",
+  "weekday": "Wednesday (yuga = 4; 'yugavāśareṣu')",
+  "nakshatra_yoga": "'śvi (!) mṛkṣe' (nakṣatra unclear: Aśvinī? or Ārdrā via Śiva/Rudra?); 'bhūmiyoga' (yoga unclear)",
+  "ce_approx": "1799"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "paṭhanārtham: copied for the scribe's own study",
+ "notes": "The chronogram rūpa (1) akṣi (2) sapta (7) indu (1), read right to left, gives Śaka 1721, which is about CE 1799 (Sun in Cancer, July–August). The day details are corrupt. I read 'parodra' as containing rudra = 11 and 'yugavāsara' as the 4th weekday (Wednesday). The nakṣatra ('śvi mṛkṣe') and yoga ('bhūmiyoga') are uncertain. The suffix in 'samāṇasya (!)' is corrupt. The catalogue reads it as Varmā (perhaps for varmaṇaḥ), but the colophon does not clearly support this, so I have not put a title in the record. Script is Devanagari, and Candreśvara is a Maithil-type name, so the copy was possibly made in Mithilā, but no place is stated.",
+ "_meta": {
+  "reel": "A 1390/23",
+  "model": "opus",
+  "cost_usd": 0.08207400000000001,
+  "secs": 18.1
+ }
+}

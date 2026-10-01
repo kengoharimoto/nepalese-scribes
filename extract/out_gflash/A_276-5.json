@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "harikṛṣṇo jyotirvidaśarmaṇo",
+   "name": "Harikṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jyotirvid",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "harikṛṣṇo jyotirvidaśarmaṇoliṣitam idaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1738 māse vaiśāka dinagatā 24 tithau 6 vāre 7 śubhaṃ śuklapakṣa",
+  "era": "ŚS",
+  "year": "1738",
+  "month": "vaiśāka",
+  "paksa": "śukla",
+  "tithi": "6",
+  "weekday": "7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1816"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 276/5",
+  "model": "gemini-flash-latest",
+  "secs": 3.3,
+  "in_tok": 767,
+  "out_tok": 727
+ }
+}

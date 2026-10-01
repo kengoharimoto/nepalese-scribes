@@ -1,0 +1,81 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: removed role 'king'. In ŚS 1659 (1737 CE) Pṛthvīnārāyaṇa was only crown prince (yuvarāja, mahārājādhirājakumāra). The reigning king of Gorkha was his father, Narabhūpāla Śāha, who is not named in the colophon. Pṛthvīnārāyaṇa keeps the role 'commissioner' because the copy was made by his order (ājñayā likhitam).",
+   "p1: corrected as_written to the actual string, which includes the instrumental -ājñayā context ('…pṛṭhvīnārāyaṇaśāhadevājñayā'). Added the biruda 'girirājacakracūḍāmaṇi' and the epithet 'naranārāyaṇa' to titles.",
+   "Relations: removed under_reign_of p2→p1 because p1 was not the reigning king. Kept wrote_for p2→p1.",
+   "p2: kept the title as dharmādhikaraṇa (the office of judge), as written.",
+   "Purpose: filled in as copied by order of the crown prince.",
+   "Notes: expanded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmanmahārājādhirājakumāra yuvarājaśrīśrīśrīmannṛpapṛṭhvīnārāyaṇaśāhadevājñayā",
+   "name": "Pṛthvīnārāyaṇa Śāhadeva",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "girirājacakracūḍāmaṇi",
+    "naranārāyaṇa",
+    "mahārājādhirājakumāra",
+    "yuvarāja",
+    "nṛpa"
+   ],
+   "affiliation": "Śāha dynasty of Gorkha",
+   "residence": "",
+   "evidence": "yuvarājaśrīśrīśrīmannṛpapṛṭhvīnārāyaṇaśāhadevājñayā likhitam idaṃ pustakaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmokṣeśvaraśarmmaṇā dharmmādhikaraṇena",
+   "name": "Mokṣeśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman",
+    "dharmādhikaraṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ śrīmokṣeśvaraśarmmaṇā dharmmādhikaraṇena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "pṛṭhvīnārāyaṇaśāhadevājñayā likhitam idaṃ pustakaṃ śrīmokṣeśvaraśarmmaṇā"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1659 caitraśukla 10 śanivāsare",
+  "era": "ŚS",
+  "year": "1659",
+  "month": "Caitra",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "Saturday (śanivāsara)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1737"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "copied by order (ājñayā) of crown prince Pṛthvīnārāyaṇa Śāha",
+ "notes": "The colophon writes 'pṛṭhvī' with a retroflex ṭh, a scribal or typing slip for 'pṛthvī'. The text calls Pṛthvīnārāyaṇa yuvarāja / mahārājādhirājakumāra, so in ŚS 1659 (= VS 1794 = 1737 CE) he was crown prince, not king. He took the Gorkha throne in 1743. His father, Narabhūpāla Śāha, was reigning but is not named. 'Dharmādhikaraṇa' (literally 'court of justice') here describes the scribe, so it probably means he held the office of judge (dharmādhikārin) at the Gorkha court. The catalogue's VS 1794 matches ŚS 1659. The weekday has not been checked. No place of copying is stated, although Gorkha is likely.",
+ "_meta": {
+  "reel": "A 102/24",
+  "model": "opus",
+  "cost_usd": 0.093774,
+  "secs": 20.1
+ }
+}

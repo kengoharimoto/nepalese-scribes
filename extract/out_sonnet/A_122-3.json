@@ -1,0 +1,45 @@
+{
+ "date": {
+  "as_written": "nepāle saṃvadākhye kunavanavayute śrāvaṇē śuklapakṣe paṃcamyāṃ ... bhānuputrasya vāre; saṃvat 991 śrāvaṇamāsayā paṃcami utrabhādranakṣakra parighanayoga śanivāra",
+  "era": "NS",
+  "year": "991",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "pañcamī (5)",
+  "weekday": "śanivāra (Saturday, bhānuputra)",
+  "nakshatra_yoga": "Uttarabhādra (Sanskrit verse says Mūla, vaiśvadeva); Parigha yoga",
+  "ce_approx": "1871"
+ },
+ "notes": "The colophon names one person, the scribe Pūrṇānanda. The Sanskrit verse says he is a \"gurur bhaktiyuktaḥ\" (devoted guru) and writes \"pūrṇānandeti nāmā\". The Newari line says \"śrīpūrṇānandana thavata coyā jula\", meaning he copied it for himself (svārtha). No king, donor or relative is named. The date agrees with the catalogue (NS 991). The verse's numeral \"kunavanavayute\" is read as 991, with ku=1, nava=9, nava=9. The nakṣatra differs between the verse (mūla) and the Newari line (uttarabhādra); I recorded both. The text is a Bhadrakalpāvadāna in the Avadānamālā tradition, with Aśoka and Upagupta as speakers. These are characters of the text and are not listed. The place is given only as \"nepāle\", which means Nepal and is not a specific town.",
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pūrṇānanda / śrīpūrṇānandana",
+   "name": "Pūrṇānanda",
+   "roles": [
+    "scribe",
+    "owner",
+    "beneficiary"
+   ],
+   "titles": [
+    "guru"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pūrṇānandeti nāmā samalikhad amalaṃ bhadrakalpāvadānaṃ || śrīpūrṇānandana thavata coyā jula",
+   "confidence": "high"
+  }
+ ],
+ "place": {
+  "as_written": "nepāle",
+  "normalized": ""
+ },
+ "purpose": "svārtha (copied for himself: \"thavata coyā\")",
+ "relations": [],
+ "_meta": {
+  "reel": "A 122/3",
+  "model": "sonnet",
+  "cost_usd": 0.033137200000000006,
+  "secs": 10.0
+ }
+}

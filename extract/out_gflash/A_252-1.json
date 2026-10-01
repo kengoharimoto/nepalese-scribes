@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācaryya macchindraviranacauyā(dha)viyājula",
+   "name": "Macchindravīra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "Talukṣa",
+   "evidence": "liṣitaṃ talukṣayā vajrācaryya macchindraviranacauyā(dha)viyājula",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ajaṃvarajosi",
+   "name": "Ajaṃvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "josī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ajaṃvarajosinacokā gupatra 97",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1007 miti āṣāḍhaśudi 8 roja 3 ... śrīśāke samvat 1808 || || śrīvikramasamvat 1944 || miti āṣāḍhaśudi 8 ro 3",
+  "era": "NS",
+  "year": "1007",
+  "month": "āṣāḍha",
+  "paksa": "śudi",
+  "tithi": "8",
+  "weekday": "roja 3 (Tuesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1887"
+ },
+ "place": {
+  "as_written": "talukṣa",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The manuscript was copied jointly by two scribes: Ajaṃvara Josī copied 97 folios (3588 granthas) and Macchindravīra / Macchendra Vajrācārya of Talukṣa (Talachhe, Patan) copied 212 folios. The completion is triple-dated in NS 1007, ŚS 1808, and VS 1944.",
+ "_meta": {
+  "reel": "A 252/1",
+  "model": "gemini-flash-latest",
+  "secs": 8.1,
+  "in_tok": 1007,
+  "out_tok": 2246
+ }
+}

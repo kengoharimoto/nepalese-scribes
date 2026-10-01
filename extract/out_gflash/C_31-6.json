@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmahīdhara",
+   "name": "Mahīdhara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahīdharaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1757 saṃvat 1892 sāla miti mārgasīrakṛṣṇa saptamī tiṣyanakṣatre guruvāsare",
+  "era": "VS",
+  "year": "1892",
+  "month": "mārgasīra",
+  "paksa": "kṛṣṇa",
+  "tithi": "saptamī",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "tiṣya",
+  "ce_approx": "1835"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon also quotes the composition date of the Mantramahodadhi by Mahīdhara: VS 1645 (vāṇavedanṛpa) on Jyeṣṭha aṣṭamī. The copying date is Śāke 1757 / VS 1892.",
+ "_meta": {
+  "reel": "C 31/6",
+  "model": "gemini-flash-latest",
+  "secs": 9.4,
+  "in_tok": 895,
+  "out_tok": 1191
+ }
+}

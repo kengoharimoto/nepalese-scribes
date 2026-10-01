@@ -1,0 +1,76 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Govinda: role changed from 'author' to 'commentator'. The Rasālā is a vivṛti (commentary) on the Samāviveka section of his father's Tājikanīlakaṇṭhī.",
+   "Nīlakaṇṭha: role changed from 'relative_only' to 'author' plus 'relative_only'. He wrote the base text and is named here as Govinda's father. Kept 'daivajña' and 'jyotirvid' as titles; the long epithet 'vidvaddaivajñamukuṭālaṃkāra' is moved to the evidence text.",
+   "Date: 'śukre' is read as the month Śukra (= Jyeṣṭha), not as a weekday, because 'some' (Monday) is already the weekday. Kuhū = amāvāsyā, the new-moon day, so the fortnight is kṛṣṇa (dark half). The year field now records a tentative split of the chronogram.",
+   "Notes: the verse 'samāphalīyāṃ sarasāṃ rasālām alikhad budhaḥ' probably gives the author's own composition date and does not name a scribe. No copyist is identified, and 'budhaḥ' ('the learned one') is not a person entry."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "govindajyotirvidviracitāyā",
+   "name": "Govinda",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnīlakaṇṭhajyotirvitputra govindajyotirvidviracitāyā rasālāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīnīlakaṇṭhajyotirvit",
+   "name": "Nīlakaṇṭha",
+   "roles": [
+    "author",
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña",
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvidvaddaivajñamukuṭālaṃkāra śrīnīlakaṇṭhajyotirvitputra",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīnīlakaṇṭhajyotirvitputra govindajyotirvid"
+  }
+ ],
+ "date": {
+  "as_written": "śāke 'ṣṭaṣarāmeṣamite śukre some kuhūtithau",
+  "era": "ŚS",
+  "year": "'ṣṭaṣarāmeṣa (corrupt; perhaps aṣṭa 8 – śara 5 – rāma 3 – iṣu 5 / īśa 11, no consistent reading)",
+  "month": "Śukra (Jyeṣṭha)",
+  "paksa": "kṛṣṇa",
+  "tithi": "kuhū (amāvāsyā)",
+  "weekday": "Monday (soma)",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The closing verse ('śāke ... samāphalīyāṃ sarasāṃ rasālām alikhad budhaḥ') looks like the author Govinda's own date of composition, copied along with the text. It is probably not the date of this manuscript. No scribe, owner or copy date is given. The chronogram 'ṣṭaṣarāmeṣa' is corrupt. Possible elements include aṣṭa (8), śara (5), rāma (3), and iṣu (5) or īśa (11), but no combination gives a plausible Śaka year. The expected range is about Śaka 1530–1550 (early 17th century CE), the period of Govinda son of Nīlakaṇṭha. For that reason ce_approx is left empty. 'śukre' is taken as the month name Śukra (= Jyeṣṭha), because the weekday is given separately as 'some' (Monday).",
+ "_meta": {
+  "reel": "A 412/1",
+  "model": "opus",
+  "cost_usd": 0.13924999999999998,
+  "secs": 46.5
+ }
+}

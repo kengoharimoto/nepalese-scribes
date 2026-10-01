@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vipraśrīuddhava devena",
+   "name": "Uddhavadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rikhiti (!) vipraśrīuddhava devena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 723 sptaṃmyāyā (!) tithe (!)",
+  "era": "NS",
+  "year": "723",
+  "month": "",
+  "paksa": "",
+  "tithi": "saptamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1603"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Month and pakṣa are omitted in the colophon date.",
+ "_meta": {
+  "reel": "A 180/11",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 713,
+  "out_tok": 776
+ }
+}

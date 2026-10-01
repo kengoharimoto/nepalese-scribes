@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śūbhagānaṃdanāthena",
+   "name": "Subhagānandanātha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śūbhagānaṃdanāthena viracitāyāṃ manoramākhyāyāṃ vyākhyāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 970 miti jyeṣṭaśudi || 14 || || roja || 1",
+  "era": "NS",
+  "year": "970",
+  "month": "jyeṣṭha",
+  "paksa": "śuklapakṣa",
+  "tithi": "14",
+  "weekday": "roja 1 (ravivāra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1850"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Subhagānandanātha is the author of the commentary Manoramā. No scribe or patron is mentioned for this copy.",
+ "_meta": {
+  "reel": "A 198/5",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 858,
+  "out_tok": 1057
+ }
+}

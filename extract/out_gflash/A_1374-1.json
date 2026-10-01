@@ -1,0 +1,55 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkālidāsakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dvijarupanāmā",
+   "name": "Dvijarūpa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "calilekhakāvyaṃ dvijarupanāmā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepālaparṣagrahasiddhiśaine māsasite śrāvaṇike viśākhe | tithau dine sūte dine",
+  "era": "NS",
+  "year": "789",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "sūtedine",
+  "nakshatra_yoga": "viśākhā",
+  "ce_approx": "1669"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'nepālaparṣagrahasiddhiśaine' is interpreted by the cataloguer as NS 789. The verse is somewhat corrupt (e.g. 'calilekhakāvyaṃ').",
+ "_meta": {
+  "reel": "A 1374/1",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 735,
+  "out_tok": 1378
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nepāleśvaraśrī3 rājarājyendravikramasāhaḥ devasya",
+   "name": "Rājarājendravikramaśāhadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nepāleśvara",
+    "prabhu",
+    "ṭhākura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nepāleśvaraśrī3 rājarājyendravikramasāhaḥ devasya sadāsamalavijayināṃ prabhu thākurasya vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sarvvārthasiddheṇa",
+   "name": "Sarvārthasiddhi",
+   "roles": [
+    "other",
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Maitrīpurimahāvihāra",
+   "residence": "Suvarṇapatārīmahānagara",
+   "evidence": "śrīvajrācārjyaḥ sarvvārthasiddheṇa jiṇṇa udhāra yānā julaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "nepāleśvaraśrī3 rājarājyendravikramasāhaḥ devasya sadāsamalavijayināṃ prabhu thākurasya vijayarājye ... sarvvārthasiddheṇa"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 934 mti vaiśākhamāse śukrapakṣe trayodaśyā〈yā〉ṃ tithau citrānakṣatre; śuddhijoge; jathākarṇṇamuhū[r]tte saniścavārasare",
+  "era": "NS",
+  "year": "934",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "citrā, śuddhi (vṛddhi?)",
+  "ce_approx": "1814"
+ },
+ "place": {
+  "as_written": "śuvarṇṇapatārimahānagarayā, maitrīpurimahā〈vihā〉vihārayā",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "Sarvārthasiddhi is recorded as having performed restoration/renovation (jiṇṇa udhāra yānā julaṃ, i.e. jīrṇoddhāra) following 'likhitaṃ'.",
+ "_meta": {
+  "reel": "B 104/11",
+  "model": "gemini-flash-latest",
+  "secs": 9.9,
+  "in_tok": 961,
+  "out_tok": 2196
+ }
+}

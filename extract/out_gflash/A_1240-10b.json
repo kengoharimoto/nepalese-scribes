@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jaya bhūpatīndramallasana",
+   "name": "Bhūpatīndramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jaya bhūpatīndramallasana dayakā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 817 māghavadi 4",
+  "era": "NS",
+  "year": "817",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "4",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1697"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Newari 'dayakā' indicates that King Bhūpatīndramalla of Bhaktapur caused the manuscript to be prepared/made.",
+ "_meta": {
+  "reel": "A 1240/10b",
+  "model": "gemini-flash-latest",
+  "secs": 3.3,
+  "in_tok": 738,
+  "out_tok": 743
+ }
+}

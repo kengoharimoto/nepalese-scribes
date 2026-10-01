@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī amaradevasya",
+   "name": "Amaradeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī amaradevasya vijayarājya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vaidya bhīmasiṃham",
+   "name": "Bhīmasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "Devapaṭṭana",
+   "evidence": "vaidya bhīmasiṃham alikhatam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrī amaradevasya vijayarājya(11) śrīdevapaṭṭanas[thā]nādhivāsinā vaidya bhīmasiṃham alikhatam"
+  }
+ ],
+ "date": {
+  "as_written": "samva 657 caitra kṛṣṇa caturthyāyāṃ tithau sampūrṇṇa dine",
+  "era": "NS",
+  "year": "657",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturthī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1537"
+ },
+ "place": {
+  "as_written": "śrīdevapaṭṭanas[thā]na",
+  "normalized": "Devapaṭṭana"
+ },
+ "purpose": "svārthaṃ parārthañ ca putrapautrādibodhanaṃ",
+ "notes": "The catalogue records the tithi as caturdaśī, but the colophon clearly reads caturthyāyāṃ tithau (caturthī).",
+ "_meta": {
+  "reel": "A 1350/8a",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 851,
+  "out_tok": 1475
+ }
+}

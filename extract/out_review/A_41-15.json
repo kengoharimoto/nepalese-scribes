@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Baladeva: affiliation 'nṛpānvaye' removed — the word means 'in the royal line' and is not a vihāra, guṭhi or lineage affiliation.",
+   "Date: the colophon itself names no era. NS is inferred from the reign of Baladeva, and the notes now say so. Year 180 (aśīti + śata) and ce_approx 1060 (Māgha NS 180 falls in early 1060 CE) are confirmed.",
+   "Notes: 'vāsare' here means 'on the day' (the tithi), not a weekday. The weekday is left empty."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībalade[va]rājake",
+   "name": "Baladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nṛpānvaye śrībalade[va]rājake",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "aśītiyukte saśate sa[mva]tsare site subhe māghatṛtīyavāsare",
+  "era": "NS",
+  "year": "180",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1060"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "tri+++duḥkhavināśahetoḥ ... sumaṅgalārtham (to destroy the [three kinds of] suffering; for auspiciousness)",
+ "notes": "The colophon gives the year in words, 'aśītiyukte saśate' (100 + 80 = 180), but names no era. NS is inferred because Baladeva of Nepal reigned in the mid-11th century, which fits NS 180 (= 1059/60 CE) and agrees with the catalogue. The scribe is unnamed and appears only as 'mayā'. The word before it, 'nirbhya (!)', is corrupt (perhaps 'nirbhayaṃ' or similar) and is unlikely to be a personal name. The lacuna 'tri+++' probably held tri[vidha] or similar ('three kinds of suffering'). 'subhe' stands for śubhe, and 'site' means the bright fortnight (śukla).",
+ "_meta": {
+  "reel": "A 41/15",
+  "model": "opus",
+  "cost_usd": 0.05697100000000001,
+  "secs": 16.4
+ }
+}

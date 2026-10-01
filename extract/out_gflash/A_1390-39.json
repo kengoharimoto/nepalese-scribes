@@ -1,0 +1,77 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvarāhamihirātmaje",
+   "name": "Varāhamihirātmaja",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvarāhamihirātmaje (!) viracitāya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvarāhamihira",
+   "name": "Varāhamihira",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvarāhamihirātmaje",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "valabhadrasarmā",
+   "name": "Valabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "valabhadrasarmā (!) śubham astu",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīvarāhamihirātmaje"
+  }
+ ],
+ "date": {
+  "as_written": "śāke 1757 māse 5 tithau 13 roja 7",
+  "era": "ŚS",
+  "year": "1757",
+  "month": "5",
+  "paksa": "",
+  "tithi": "13",
+  "weekday": "roja 7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1835"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author of the Ṣaṭpañcāśikā is Pṛthuyaśas, referred to here by patronymic as Varāhamihirātmaja.",
+ "_meta": {
+  "reel": "A 1390/39",
+  "model": "gemini-flash-latest",
+  "secs": 7.6,
+  "in_tok": 740,
+  "out_tok": 1720
+ }
+}

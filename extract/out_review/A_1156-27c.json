@@ -1,0 +1,35 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Normalized month to 'Bhādrapada' (written bhārdapada), tithi to 'aṣṭamī', weekday to 'Tuesday (aṅgāravāra)', and the nakṣatra/yoga to 'Jyeṣṭhā nakṣatra; Viṣkambha yoga'",
+   "Added full as_written including 'śreyo’ stu' and 'saṃpūrṇṇadine'",
+   "Expanded the notes: the catalogue gives two dates; this colophon matches NS 667; internal plausibility check"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śreyo’ stu samvat 667 bhārdapadamāseśuklapakṣaasṭamyāṃn(!) tithau jaiṣṭanakṣatre viskabhayoge aṅgāravāsare saṃpūrṇṇadine",
+  "era": "NS",
+  "year": "667",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "aṣṭamī",
+  "weekday": "Tuesday (aṅgāravāra)",
+  "nakshatra_yoga": "Jyeṣṭhā nakṣatra; Viṣkambha yoga",
+  "ce_approx": "1547"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names no people. The era is not stated ('samvat'). I take it as NS because the script is Newari and the catalogue gives 'NS 667' for part 3. The colophon closes a ṣaḍaṅga section ('iti ṣaḍaṅga samāptāḥ'), so it probably belongs to part 3 of this composite reel (A 1156/27c). The catalogue's other date, NS 859, refers to another part. On the date itself: Bhādrapada śukla aṣṭamī with the moon in Jyeṣṭhā is astronomically plausible. I have not checked the weekday (Tuesday). Spellings in the colophon: 'jaiṣṭa' = Jyeṣṭhā, 'viskabha' = Viṣkambha, 'bhārdapada' = Bhādrapada.",
+ "_meta": {
+  "reel": "A 1156/27c",
+  "model": "opus",
+  "cost_usd": 0.070998,
+  "secs": 14.7
+ }
+}

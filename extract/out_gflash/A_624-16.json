@@ -1,0 +1,88 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdevarāmapatina",
+   "name": "Devarāmapati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Paśarache",
+   "evidence": "paśaracheyā śrīdevarāmapatina coyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "devīmayī",
+   "name": "Devīmayī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "thava stī devīmayī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "manoholā",
+   "name": "Manoharā",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "thvate vidyamāna yāṅāva coyā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "galīlī",
+   "name": "Galīlī",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "thvate vidyamāna yāṅāva coyā",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wife_of",
+   "to": "p1",
+   "evidence": "thava stī devīmayī"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 808 śrāvaṇa vadi 8 kṛrttika nakṣatre dhruvayoga yathākarṇṇa budhavāla siṃha, vṛṣa",
+  "era": "NS",
+  "year": "808",
+  "month": "śrāvaṇa",
+  "paksa": "vadi",
+  "tithi": "8",
+  "weekday": "budhavāla",
+  "nakshatra_yoga": "kṛrttika nakṣatre dhruvayoga",
+  "ce_approx": "1688"
+ },
+ "place": {
+  "as_written": "paśarache",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe Devarāmapati wrote the text in the presence of his wife Devīmayī and possibly other family members (manoholā galīlī; alternatively, 'manoholā galīlī' might be a corruption for 'manoharā gṛhiṇī'). Paśarache (Pasalācche) is a tole/locality in the Kathmandu Valley.",
+ "_meta": {
+  "reel": "A 624/16",
+  "model": "gemini-flash-latest",
+  "secs": 10.8,
+  "in_tok": 785,
+  "out_tok": 2423
+ }
+}

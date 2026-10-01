@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdevarā(10)mapatina",
+   "name": "Devarāmapati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "paśarache",
+   "evidence": "paśaracheyā śrīdevarā(10)mapatina dhunakā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvata 798 śrāva(exp.5left6)ṇa vadi 14 puṣpa, vyati (7) vāra sasi",
+  "era": "NS",
+  "year": "798",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "14",
+  "weekday": "sasi",
+  "nakshatra_yoga": "puṣpa, vyati",
+  "ce_approx": "1678"
+ },
+ "place": {
+  "as_written": "paśarache",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Newari dhunakā indicates the completion of the copying. 'Paśarache' (Pasalāchẽ) indicates the scribe's locality/neighborhood in the Kathmandu Valley.",
+ "_meta": {
+  "reel": "A 451/48",
+  "model": "gemini-flash-latest",
+  "secs": 6.8,
+  "in_tok": 809,
+  "out_tok": 1520
+ }
+}

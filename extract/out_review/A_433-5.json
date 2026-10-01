@@ -1,0 +1,87 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p3 Jogaratna: removed 'commissioner' — the genitive daivajñajogaratnasya marks only possession, and no causative verb (likhāpitam etc.) is used; kept 'owner'; confidence lowered to medium because the genitive could also be read as 'written for'",
+   "Date: ce_approx given as 1875 with note that ŚS 1797 runs from about March 1875 to March 1876; chronogram reading explained in notes",
+   "Purpose rephrased as the copy for/belonging to Daivajña Jogaratna",
+   "Notes expanded (reading of ghana, bhāṣitapatre, the scribe's name compared with the catalogue)"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīharināthācārya",
+   "name": "Harinātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīharināthācāryakṛtāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhuvanānandavajreṇa",
+   "name": "Bhuvanānandavajra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ bhuvanānandavajreṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "daivajñajogaratnasya",
+   "name": "Jogaratna",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ bhuvanānandavajreṇa daivajñajogaratnasya",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "likhitam idaṃ bhuvanānandavajreṇa daivajñajogaratnasya"
+  }
+ ],
+ "date": {
+  "as_written": "śrīmacchāke munigrahaghanayutavarṣena bhāṣitapatre herambatithau jīvavāre",
+  "era": "ŚS",
+  "year": "1797",
+  "month": "",
+  "paksa": "",
+  "tithi": "caturthī (herambatithi)",
+  "weekday": "Thursday (jīvavāra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1875"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for Daivajña Jogaratna (copy belonging to him)",
+ "notes": "The chronogram munigrahaghana-, read right to left, gives ghana | graha 9 | muni 7. This matches the catalogue's ŚS 1797 only if ghana stands for 17, which is not a standard bhūtasaṃkhyā value (ghana usually means 'cube'). The year ŚS 1797 is therefore taken from the catalogue and is uncertain. ŚS 1797 corresponds to about 1875/76 CE. 'bhāṣitapatre' is unclear: it may be a corruption of a month or pakṣa name, so no month is given. herambatithi = caturthī, the tithi of Gaṇeśa/Heramba. The catalogue spells the scribe 'Bhuvanānadavajra', a typo for Bhuvanānandavajra. The -vajra name suggests a Vajrācārya, but no caste title is stated. The genitive daivajñajogaratnasya is read here as ownership or 'written for'. Jogaratna = Yogaratna. The cataloguer mentions a further calculation after the colophon, which is not quoted.",
+ "_meta": {
+  "reel": "A 433/5",
+  "model": "opus",
+  "cost_usd": 0.070823,
+  "secs": 19.9
+ }
+}

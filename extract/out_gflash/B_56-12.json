@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīraghudevabhaṭṭācārya",
+   "name": "Raghudeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭācārya",
+    "vipaścit"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīraghudevabhaṭṭācāryaviracitaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śa(!)ṃkaṭeṇ[a]",
+   "name": "Saṃkaṭa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lilikhe śa(!)ṃkaṭeṇāptaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke vāṇāśvaṣaṭvidhau, phālgune māse śuklapadipat 6 holikādine",
+  "era": "ŚS",
+  "year": "1675",
+  "month": "phālguna",
+  "paksa": "śukla",
+  "tithi": "padipat 6",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1754"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Year given in chronogram: vāṇa (5), aśva (7), ṣaṭ (6), vidhu (1) = Śāka 1675. The tithi contains 'śuklapadipat 6 holikādine'.",
+ "_meta": {
+  "reel": "B 56/12",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 755,
+  "out_tok": 1110
+ }
+}

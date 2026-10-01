@@ -1,0 +1,70 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahīdharaviracite",
+   "name": "Mahīdhara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahīdharaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dasakhataguravakaśakāethaḥ",
+   "name": "Guravakaśa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "Varanasi",
+   "evidence": "līkhāḥ (!) dasakhataguravakaśakāethaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "cīraṃjīvīnāmaḥ",
+   "name": "Cirañjīvī",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "cīraṃjīvīnāmaḥ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1824 mīti (!) agahanabadī 1 vārasanīścarake",
+  "era": "VS",
+  "year": "1824",
+  "month": "agahana",
+  "paksa": "badī",
+  "tithi": "1",
+  "weekday": "sanīścara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1767"
+ },
+ "place": {
+  "as_written": "kāsī madheyī",
+  "normalized": "Varanasi"
+ },
+ "purpose": "",
+ "notes": "The scribe Guravakaśa is identified as kāetha (Kāyastha) by 'dasakhataguravakaśakāethaḥ'. The phrase 'arīparaḥ cīraṃjīvīnāmaḥ' is uncertain; it might indicate a person named Cirañjīvī (possibly associated with a locality such as Haripura/Alipura) or a corrupted blessing formula.",
+ "_meta": {
+  "reel": "A 177/1",
+  "model": "gemini-flash-latest",
+  "secs": 14.6,
+  "in_tok": 798,
+  "out_tok": 3362
+ }
+}

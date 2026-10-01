@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmadaivajña",
+   "name": "Rāma",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmadaivajñaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vāṇipūrva khalu prakāśaśarmaṇā",
+   "name": "Vāṇīprakāśa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vāṇipūrva khalu prakāśaśarmaṇā lekhanaṃ tu hitatayā tadā kṛtaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1717 māse5 ākṣivāṇavasusarvarī kare vikramārkaśakakālake gate",
+  "era": "ŚS",
+  "year": "1717 (ŚS) / 1852 (VS)",
+  "month": "5",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1795"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "hitatayā",
+ "notes": "The chronogram 'ākṣivāṇavasusarvarīkare' encodes the Vikramārka (Vikrama) year: akṣi (2), bāṇa (5), vasu (8), śarvarīkara (1) = VS 1852, alongside the numeric Śaka year 1717.",
+ "_meta": {
+  "reel": "A 433/13",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 760,
+  "out_tok": 1256
+ }
+}

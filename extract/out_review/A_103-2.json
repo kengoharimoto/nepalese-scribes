@@ -1,0 +1,69 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: the corrupt name is more likely Śaṅkarācārya, with 'śrīsudarīśakarācāyārya' standing for śrīśaṅkarācāryāya in the dative of homage. Confidence lowered to low.",
+   "p1: role changed from 'teacher' to 'other'. The line is a closing homage to the paramaguru, the founder of the tradition, who may also be the author the text is ascribed to. It does not name a personal teacher of the scribe.",
+   "The p2 pupil_of p1 relation is removed: the colophon does not support it.",
+   "Purpose rephrased as a dedication formula, not a scribal purpose.",
+   "Notes: the work-name conflict (colophon 'dvādaśa-' vs catalogue title 'Ṣoḍaśa-') is now flagged, and the Marathi note is explained."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsudarīśakarācāyārya (!)",
+   "name": "Śaṅkarācārya",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "paramaguru"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatparamaguru śrīsudarīśakarācāyārya (!) namostu",
+   "confidence": "low"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nārāyaṇatirthasvāmīyāceṃ",
+   "name": "Nārāyaṇatīrtha",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "svāmin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "he pustaka nārāyaṇatirthasvāmīyāceṃ ase hastākṣara khuda likhita",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śaṃke 1737",
+  "era": "ŚS",
+  "year": "1737",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1815"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "dedication: śrīkṛṣṇārpaṇam astu",
+ "notes": "The note at the end is in Marathi: 'he pustaka nārāyaṇatīrthasvāmīyāceṃ ase, hastākṣara khuda likhita' ('this book belongs to Nārāyaṇatīrtha Svāmī; written in [his] own hand'). So he is both owner and scribe. 'Tīrtha' is kept as part of the name because it is a Daśanāmī order name.\n\nThe homage name 'śrīsudarīśakarācāyārya' is corrupt. The most likely reading is śrīśaṅkarācāryāya (namo 'stu), meaning Śaṅkara as the paramaguru of the tradition, possibly also the author the text is ascribed to. The colophon does not support treating him as the scribe's personal teacher. A reading Sudarśanācārya is less likely.\n\nThe colophon names the work as 'dvādaśamahāvākyavivaraṇa', but the catalogue title is Ṣoḍaśamahāvākya. The number of mahāvākyas differs (12 vs 16).\n\nThe catalogue spelling 'Nārāyaṇathirtha' is a misspelling of Nārāyaṇatīrtha.\n\nŚS 1737 converts to about 1815–16 CE.",
+ "_meta": {
+  "reel": "A 103/2",
+  "model": "opus",
+  "cost_usd": 0.088254,
+  "secs": 20.6
+ }
+}

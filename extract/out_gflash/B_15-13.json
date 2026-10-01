@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīlakṣmīkāmadevasya",
+   "name": "Lakṣmīkāmadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājādhirājaparameśvara || śrīlakṣmīkāmadevasya vijayarājye",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 313 kārtikakṣṇa āditavāre",
+  "era": "NS",
+  "year": "313",
+  "month": "kārtika",
+  "paksa": "kṛṣṇa",
+  "tithi": "",
+  "weekday": "āditavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1192"
+ },
+ "place": {
+  "as_written": "lalita pantaṇa",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The tithi is omitted or corrupted in 'kārtikakṣṇa'. The place name occurs as 'lalita pantaṇa' (Lalitapaṭṭana).",
+ "_meta": {
+  "reel": "B 15/13",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 729,
+  "out_tok": 934
+ }
+}

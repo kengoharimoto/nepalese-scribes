@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dhaju",
+   "name": "Dhaju",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhakanāma dhaju",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1712 bhādravadi 5 ro 1",
+  "era": "ŚS",
+  "year": "1712",
+  "month": "bhādra",
+  "paksa": "vadi",
+  "tithi": "5",
+  "weekday": "ro 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1790"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 413/20",
+  "model": "gemini-flash-latest",
+  "secs": 3.0,
+  "in_tok": 694,
+  "out_tok": 547
+ }
+}

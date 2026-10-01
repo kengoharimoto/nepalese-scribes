@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsardāracaṃdravīrale",
+   "name": "Candravīra",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "sardāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsardāracaṃdravīrale ... lekhāyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mahānaṃdapaṇḍitamārphata",
+   "name": "Mahānanda",
+   "roles": [
+    "scribe",
+    "other"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahānaṃdapaṇḍitamārphata ... lekhāyā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "śrīsardāracaṃdravīrale ... mahānaṃdapaṇḍitamārphata ... lekhāyā"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1863 sāla phālguna kṛṣṇapakṣacaturthītithi vṛhaspativāramā",
+  "era": "VS",
+  "year": "1863",
+  "month": "phālguna",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturthī",
+  "weekday": "vṛhaspativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1807"
+ },
+ "place": {
+  "as_written": "śrīnagaramā",
+  "normalized": "Srinagar (Garhwal)"
+ },
+ "purpose": "",
+ "notes": "The catalogue card lists 'Scribe: Hariścandra; King: Pṛthvīnārāyana Śāha', which conflicts completely with the colophon text. The colophon is written in Nepali and records that Sardāra Candravīra (Candravīra Kũvar, the Gorkhali Sardar stationed in Garhwal) had the manuscript copied at Śrīnagara (Garhwal) through (mārphata) Mahānanda Paṇḍita in VS 1863.",
+ "_meta": {
+  "reel": "B 234/9",
+  "model": "gemini-flash-latest",
+  "secs": 9.0,
+  "in_tok": 806,
+  "out_tok": 1846
+ }
+}

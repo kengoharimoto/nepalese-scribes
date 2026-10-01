@@ -1,0 +1,105 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe's name: 'kānhākhena' read as kānhā-ākhyena ('named Kānhā'), so the name is Kānhā, not Kānhākha. The catalogue's 'Kāhnā' is probably a metathesis.",
+   "Scribe given roles scribe + owner, because he copied it 'ātmanaḥ paṭhanārthaṃ' (for his own study).",
+   "Author name changed to Śrīharṣa: here 'śrī' is part of the personal name ('śrīśrīharṣa' = honorific śrī + Śrīharṣa).",
+   "Commentator 'Cāndra' kept as written, with confidence lowered to medium. The Naiṣadhadīpikā is usually ascribed to Cāṇḍū Paṇḍita, so 'cāṃdra' is probably corrupt.",
+   "Residence removed from Māṇika: 'devadārūvana vāstavya' grammatically describes the scribe.",
+   "nakshatra_yoga emptied: 'yathā nakṣatra yogesamaye' is a stock formula and names no nakṣatra or yoga.",
+   "Weekday spelled out: 'bhṛhu' is a mistake for bhṛgu (Friday).",
+   "Purpose field condensed."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paṃḍitacāṃdra",
+   "name": "Cāndra",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpaṃḍitacāṃdraviracitāyāṃ naiṣadhadīpikāyāṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīharṣa",
+   "name": "Śrīharṣa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīharṣakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "ācāryamāṇikā",
+   "name": "Māṇika",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ācāryamāṇikāsuta",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "kānhākhena",
+   "name": "Kānhā",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Devadāruvana",
+   "evidence": "devadārūvana vāstavya ācāryamāṇikāsuta kānhākhena pustakām alikhi",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "ācāryamāṇikāsuta kānhākhena"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1582 varṣe śrāvaṇa śudi navamyām 9 tithau bhṛhu | sadine",
+  "era": "VS",
+  "year": "1582",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla (śudi)",
+  "tithi": "9 (navamī)",
+  "weekday": "Friday (bhṛhu for bhṛgu)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1525"
+ },
+ "place": {
+  "as_written": "śrīdevadārūvana",
+  "normalized": ""
+ },
+ "purpose": "for others (paropakārārthaṃ) and for the scribe's own study (ātmanaḥ paṭhanārthaṃ)",
+ "notes": "The scribe's name 'kānhākhena' is best read as kānhākhyena, 'by the one named Kānhā'. The catalogue's 'Kāhnā' is probably a metathesis. 'cāṃdra' is probably corrupt for Cāṇḍū Paṇḍita, the usual author of the Naiṣadhadīpikā. Neither the era nor the place is named. VS is assumed because a Devanagari manuscript with Śrāvaṇa śudi uses the 'saṃvat' formula, and it gives c. 1525 CE (ŚS would give 1660 CE). The weekday has not been checked against the date. Devadāruvana ('deodar forest') may be a hermitage or locality; its location is not identified. 'adyeha … vāstavya' suggests the book was copied there. The formula 'yathā nakṣatra yogesamaye' names no specific nakṣatra.",
+ "_meta": {
+  "reel": "A 383/3",
+  "model": "opus",
+  "cost_usd": 0.098626,
+  "secs": 23.3
+ }
+}

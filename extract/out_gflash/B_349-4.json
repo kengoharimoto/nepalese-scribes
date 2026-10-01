@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vasaṃtarāja",
+   "name": "Vasantarāja",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vasaṃtarājaviracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1957 sāla miti mārgavadi 12 roja 2",
+  "era": "VS",
+  "year": "1957",
+  "month": "mārga",
+  "paksa": "vadi",
+  "tithi": "12",
+  "weekday": "roja 2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1900"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 349/4",
+  "model": "gemini-flash-latest",
+  "secs": 3.3,
+  "in_tok": 711,
+  "out_tok": 698
+ }
+}

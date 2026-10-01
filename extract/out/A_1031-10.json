@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśivanārāyaṇamiśraraḥ",
+   "name": "Śivanārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ṛṣitaṃ śrīśivanārāyaṇamiśraraḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīkāṃta upādhyābhājuyā",
+   "name": "Śrīkānta",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkāṃta upādhyābhājuyā pustaka jura",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "śrīkāṃta upādhyābhājuyā pustaka jura || ṛṣitaṃ śrīśivanārāyaṇamiśraraḥ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 875 naṣṭajyeṣṭaśuklayā, daśami, utraphāguṇīnakṣatra, variyānajoge, budhavāraśare",
+  "era": "NS",
+  "year": "875",
+  "month": "naṣṭa-Jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "10 (daśamī)",
+  "weekday": "budhavāra (Wednesday)",
+  "nakshatra_yoga": "Uttaraphālgunī nakṣatra; Varīyān yoga",
+  "ce_approx": "1755"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "book belonging to Śrīkānta Upādhyāya",
+ "notes": "\"ṛṣitaṃ\" stands for likhitaṃ. \"Śrīkānta\" is a personal name here, not the honorific śrī + Kānta; reading it as Kānta is possible but less likely. Bhāju is a Newari honorific and has been dropped. \"Miśra\" is recorded as a title or surname. The colophon doesn't say Śivanārāyaṇa copied the book for Śrīkānta; the wrote_for relation is inferred from the ownership statement. Naṣṭa-Jyeṣṭha is the intercalary or lost Jyeṣṭha. The trailing \"(Bṛhaspatiṭīkā:)\" is the cataloguer's label for the commentary, not a person. Everything agrees with the catalogue fields.",
+ "_meta": {
+  "reel": "A 1031/10",
+  "model": "opus",
+  "cost_usd": 0.082952,
+  "secs": 13.5
+ }
+}

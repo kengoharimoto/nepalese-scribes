@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dakṣiṇāmūttimuni",
+   "name": "Dakṣiṇāmūrti",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "muni"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dakṣiṇāmūttimuni(6)viracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat || 1856",
+  "era": "VS",
+  "year": "1856",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1799"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Dakṣiṇāmūrti is named as the author of the Uddhārakośa.",
+ "_meta": {
+  "reel": "B 116/11",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 704,
+  "out_tok": 934
+ }
+}

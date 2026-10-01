@@ -1,0 +1,78 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībramhadevaḥ",
+   "name": "Brahmadeva",
+   "roles": [
+    "scribe",
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībramhadevaḥ svapaṭhanārthaṃ kuvalayāndam alakāraṃ svahastena likhitavān",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "apayyadīkṣitasya",
+   "name": "Appayyadīkṣita",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "advaitavidyācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "apayyadīkṣitasya kṛtiḥ kuvalayānandaḥ sampūrṇṇaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīraṅkarājādhvavidravaradasūnor",
+   "name": "Raṅgarājādhvarīndra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīraṅkarājādhvavidravaradasūnor apayyadīkṣitasya",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "śrīraṅkarājādhvavidravaradasūnor apayyadīkṣitasya"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 814 vaiśākhamāse śuklapakṣe paṃcamyāṃ tithau",
+  "era": "NS",
+  "year": "814",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1694"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svapaṭhanārtham",
+ "notes": "The catalogue gives the date as NS 841, but the text reads samvat 814.",
+ "_meta": {
+  "reel": "B 307/3",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 770,
+  "out_tok": 1965
+ }
+}

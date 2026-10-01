@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkāśīnāthabhaṭṭācāryya",
+   "name": "Kāśīnātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkāśīnāthabhaṭṭācāryyakṛtaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jīvānanda",
+   "name": "Jīvānanda",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ jīvānanda(!) svārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat1773 jyeṣṭha śuklapakṣa1 pramadā budhavāsare",
+  "era": "VS",
+  "year": "1773",
+  "month": "jyeṣṭha",
+  "paksa": "śuklapakṣa",
+  "tithi": "1 (pramadā)",
+  "weekday": "budhavāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1716"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ",
+ "notes": "The four-digit year 1773 in Devanagari script indicates Vikrama Saṃvat. 'pramadā' is presumably an error for pratipadā.",
+ "_meta": {
+  "reel": "A 1001/17",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 722,
+  "out_tok": 950
+ }
+}

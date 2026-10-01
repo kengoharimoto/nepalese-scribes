@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name: normalized the corrupt 'Dhatnarāja' to the probable 'Ratnarāja'. The written form is kept in as_written, and the doubt is recorded in notes and confidence.",
+   "p1 roles: kept scribe + commissioner. The roles rest on liṣitai plus riṣāyitaṃ (= likhāyitaṃ), and notes explain why the causative may be used loosely here.",
+   "Notes: added that the catalogue's 'Donor' is a misreading, and that the NS 880 conversion gives 1759/60 CE."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācāryyaśrīdhatnarājaṃ",
+   "name": "Ratnarāja",
+   "roles": [
+    "scribe",
+    "commissioner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitai (!) ... vajrācāryyaśrīdhatnarājaṃ riṣāyitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 880",
+  "era": "NS",
+  "year": "880",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1760"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The name is written 'dhatnarāja'. That is not a recognisable name, so the most likely reading is Ratnarāja; Dhanarāja is also possible. The catalogue's 'Donor: Śrī 3 āryyāvareokiteśvara' is a misreading. Āryāvalokiteśvara is the deity, and the scribe calls himself his 'caraṇasevaka' (servant at the feet). This may point to a link with a Lokeśvara shrine, but none is named. The verbs 'liṣitai' (likhitam) and 'riṣāyitaṃ' (likhāyitam/likhāpitam) are both tied to the same person. Newar copyists often use the causative loosely to mean 'written', so he may only have been the scribe and not also the commissioner. NS 880 converts to about 1759/60 CE. No month or day is given. The catalogue gives no reigning king, and none is named in the colophon.",
+ "_meta": {
+  "reel": "B 107/8",
+  "model": "opus",
+  "cost_usd": 0.12155960000000002,
+  "secs": 23.8
+ }
+}

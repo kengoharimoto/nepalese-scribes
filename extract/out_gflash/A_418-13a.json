@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jyotirvidaratnākareṇa",
+   "name": "Ratnākara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jyotirvidaratnākareṇa likhitaṃ kāśyāṃ svahastena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jyotirvidamahādevabhaṭṭa",
+   "name": "Mahādevabhaṭṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "jyotirvid",
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jyotirvidamahādevabhaṭṭātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "jyotirvidamahādevabhaṭṭātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "saṃmat 1764 śāke 1629 māsottamamāse mārgaśirṣamāse śuklapakṣe ekādaśyāṃ tithau 11 caṃdravāra",
+  "era": "VS",
+  "year": "1764",
+  "month": "Mārgaśīrṣa",
+  "paksa": "śuklapakṣa",
+  "tithi": "11",
+  "weekday": "caṃdravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1707"
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "svārthaṃ parārthaṃ ca",
+ "notes": "Both Vikrama Saṃvat 1764 and Śaka Saṃvat 1629 are stated.",
+ "_meta": {
+  "reel": "A 418/13a",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 843,
+  "out_tok": 1192
+ }
+}

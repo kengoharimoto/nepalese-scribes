@@ -1,0 +1,84 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kumāramūrttisiṃhāya",
+   "name": "Mūrttisiṃha",
+   "roles": [
+    "beneficiary",
+    "owner"
+   ],
+   "titles": [
+    "kumāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kumāramūrttisiṃhāya svabhyāsārthaṃ pradīyate",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "'bhayarāmena",
+   "name": "Abhayarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhyate 'bhayarāmena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "sthitirāmasiṃhas",
+   "name": "Sthitirāmasiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sthitirāmasiṃhas tasyātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "sthitirāmasiṃhas tasyātmaja"
+  },
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "kumāramūrttisiṃhāya svabhyāsārthaṃ pradīyate likhyate 'bhayarāmena"
+  }
+ ],
+ "date": {
+  "as_written": "samvatsare muṇinalevarabānayukte māse śvine kamalaje kamalāpatau bhe | yoge śive gurudine",
+  "era": "NS",
+  "year": "517",
+  "month": "āśvina",
+  "paksa": "kamalaje",
+  "tithi": "",
+  "weekday": "gurudina",
+  "nakshatra_yoga": "kamalāpati (nakṣatra), śiva (yoga)",
+  "ce_approx": "1397"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svabhyāsārtham (for study)",
+ "notes": "The chronogram 'muṇi-nalevara(?)-bāna' corresponds to 517 NS (muni = 7, [?] = 1, bāṇa = 5).",
+ "_meta": {
+  "reel": "A 21/7",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 836,
+  "out_tok": 1745
+ }
+}

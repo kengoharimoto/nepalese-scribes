@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrī jayabhūpatīndramalladevasana",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "chumoladevalacheyā gajula chāyā śrīśrī jayabhūpatīndramalladevasana thva dinasa julo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 820 āṣāḍha śuklaḥ aṣṭami",
+  "era": "NS",
+  "year": "820",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "aṣṭami",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1700"
+ },
+ "place": {
+  "as_written": "chumoladevalache",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "varṣavardhana pañcopacāra pūjā of the temple's pinnacle (gajula)",
+ "notes": "The manuscript includes a continuous register of annual varṣavardhana rites performed from NS 821 to NS 840.",
+ "_meta": {
+  "reel": "A 445/14",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 1485,
+  "out_tok": 1111
+ }
+}

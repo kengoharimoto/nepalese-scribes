@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "hemaṃntarāja",
+   "name": "Hemantarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmmācārya"
+   ],
+   "affiliation": "Vidyāpīṭha",
+   "residence": "",
+   "evidence": "liṣitī vīdyā(11)pīṭhayā karmmācārya hemaṃntarāja coyā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "Saṃ 836 (9) caitraśuklapakṣa catudaśī",
+  "era": "NS",
+  "year": "836",
+  "month": "caitra",
+  "paksa": "śuklapakṣa",
+  "tithi": "catudaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1716"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Vidyāpīṭha ('vīdyāpīṭhayā') is the affiliation or temple affiliation of the Karmācārya scribe.",
+ "_meta": {
+  "reel": "A 445/9",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 737,
+  "out_tok": 977
+ }
+}

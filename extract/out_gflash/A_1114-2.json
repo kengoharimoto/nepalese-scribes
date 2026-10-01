@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "janmajayagauryālakasya",
+   "name": "Janamejaya",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "Gauryālaka"
+   ],
+   "affiliation": "",
+   "residence": "phaikubāhāla",
+   "evidence": "phaikubāhālavāstavyaṃ janmajayagauryālakasya (!) 〈m〉 idaṃ pustakaṃ liṣitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1915 sāla miti bhādra vadi 10 roja 6",
+  "era": "VS",
+  "year": "1915",
+  "month": "bhādra",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "roja 6",
+  "nakshatra_yoga": "",
+  "ce_approx": "1858"
+ },
+ "place": {
+  "as_written": "phaikubāhāla",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The surname/clan name Gauryālaka corresponds to the Nepali family name Gajurel (Gajurela).",
+ "_meta": {
+  "reel": "A 1114/2",
+  "model": "gemini-flash-latest",
+  "secs": 6.2,
+  "in_tok": 827,
+  "out_tok": 1292
+ }
+}

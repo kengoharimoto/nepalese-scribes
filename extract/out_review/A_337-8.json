@@ -1,0 +1,98 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: added role 'other' for discovering/bringing to light the hidden māhātmya (verse: aṇveṣyāviś cakāredaṃ māhātmyaṃ guptam), and widened the evidence to include it",
+   "Evidence for commissioning: 'yatināni yuktena' is read as 'yatinā niyuktena' ('appointed by the ascetic'); this is noted",
+   "Date: era VS kept but marked as inferred because the colophon only says 'saṃvat'; weekday checked: 18 Aug 1881 (Janmāṣṭamī) was a Thursday, matching guruvāsara; ce_approx 1881 confirmed",
+   "Chronogram checked: rasa 6, vahni 3, aṅka 9, candra 1, read right to left = 1936, the year of the discovery, not of the copying",
+   "Place: the colophon only says the scribe lived in Vilāsapura (vilāsapuravāsinā), not that he copied there. The place is kept as probable, and the identification with Bilaspur is left unnormalised",
+   "Notes expanded: the catalogue's ŚS 1838 (=1916 CE) conflicts with the colophon's saṃvat 1938"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsvāmīpuruṣottamaḥ / svāminā śrīpuruṣottamamāśrameṇa yatinā",
+   "name": "Puruṣottamāśrama",
+   "roles": [
+    "commissioner",
+    "owner",
+    "other"
+   ],
+   "titles": [
+    "svāmin",
+    "yati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svāminā śrīpuruṣottamamāśrameṇa yatināni yuktena ... tasyaiva niyoktur idaṃ pustakam; śrīsvāmīpuruṣottamaḥ aṇveṣyāviś cakāredaṃ māhātmyaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śivalāla",
+   "name": "Śivalāla",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śivalālātmajena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rāmajīdāsaśa(8)rmaṇā",
+   "name": "Rāmajīdāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "Vilāsapura",
+   "evidence": "vilāsapuravāsinā śivalālātmajena rāmajīdāsaśarmaṇā vilikhya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śivalālātmajena rāmajīdāsaśarmaṇā"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "yatinā niyuktena ... rāmajīdāsaśarmaṇā vilikhya ... tasyaiva niyoktur idaṃ pustakam"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1938 bhādrapadakṛṣṇāṣṭamyāṃ guruvāsarānvitāyāṃ",
+  "era": "VS",
+  "year": "1938",
+  "month": "bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "guruvāsara (Thursday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1881"
+ },
+ "place": {
+  "as_written": "vilāsapura",
+  "normalized": ""
+ },
+ "purpose": "parārtha: copied for the commissioner Svāmī Puruṣottamāśrama, who owns the book",
+ "notes": "The colophon says only 'saṃvat 1938'. VS is inferred: it fits the north Indian context, and VS 1938 Bhādrapada kṛṣṇa 8 (pūrṇimānta), i.e. Janmāṣṭamī, falls around 18 Aug 1881, which was a Thursday, matching guruvāsara. The catalogue's 'ŚS 1838' (=1916 CE) does not match the colophon and is probably a cataloguing slip. Read as ŚS, 1938 would be 2016 CE, which is impossible. The verse chronogram rasa(6)-vahni(3)-aṅka(9)-candra(1), read right to left, gives 1936 (probably VS, c. 1879). This is the year Puruṣottama found and made known the 'hidden' māhātmya, two years before the copy. 'aṇveṣyāviś' stands for anviṣyāviś; 'apyuta' is unclear. 'yatināni yuktena' is read as 'yatinā niyuktena'. 'puruṣottamamāśrameṇa' is read as Puruṣottamāśrama. The colophon gives Vilāsapura only as the scribe's residence, not explicitly as the place of copying. It may be Bilaspur (Himachal Pradesh, which would suit a Himādikhaṇḍa text) or Bilaspur (Chhattisgarh), so it is left unnormalised.",
+ "_meta": {
+  "reel": "A 337/8",
+  "model": "opus",
+  "cost_usd": 0.107174,
+  "secs": 27.0
+ }
+}

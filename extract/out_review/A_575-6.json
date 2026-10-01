@@ -1,0 +1,34 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday normalized from 'ravau dine' to 'Sunday (ravau dine)'",
+   "notes expanded: the corrupt passage is the only possible place for a scribe's name and no name can be safely read from it; the author (Nāgeśa) is not named in the colophon, so he is not added"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "[ra]sāgnihayabhūśāke, māse caitre ravau dine",
+  "era": "ŚS",
+  "year": "1736",
+  "month": "caitra",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "Sunday (ravau dine)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1814"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram rasa (6) agni (3) haya (7) bhū (1), read right to left, gives Śaka 1736. This matches the catalogue field. Caitra of Śaka 1736 falls around March–April 1814 CE. The cataloguer's restoration [ra] of the first syllable is needed to read rasa = 6. The cataloguer marked '†guṇāṃ ya svādhvi pramito†' as corrupt. It stands just before 'vyalikhal' ('wrote') and needs a subject, so it probably hides the scribe's name or a self-description (e.g. a name beginning Guṇa-?). No name can be read from it with confidence, so no person is recorded. 'laghuśekharaḥ' is the work's title (Laghuśabdenduśekhara), not a person. The author is not named in the colophon.",
+ "_meta": {
+  "reel": "A 575/6",
+  "model": "opus",
+  "cost_usd": 0.08242,
+  "secs": 13.8
+ }
+}

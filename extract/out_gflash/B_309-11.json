@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkavikālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkavikālidāsakṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1724 samvat 1859 vaiśākhamāse kṛṣṇapakṣe daśamyāṃ tithau maṃgalavāsareasya samāptiriti(śatabhiṣaṃti)",
+  "era": "ŚS",
+  "year": "1724",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī",
+  "weekday": "maṅgalavāsara",
+  "nakshatra_yoga": "śatabhiṣā",
+  "ce_approx": "1802"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records the scribe as Viṣṇudāsa, but this name does not appear in the transcribed colophon text. The colophon mentions both Śaka 1724 and Vikrama Saṃvat 1859.",
+ "_meta": {
+  "reel": "B 309/11",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 812,
+  "out_tok": 1134
+ }
+}

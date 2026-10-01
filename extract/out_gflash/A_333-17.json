@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmaheśvarānaṃdena",
+   "name": "Maheśvarānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upāsaka"
+   ],
+   "affiliation": "mahābuddha",
+   "residence": "lalitāpūranagara",
+   "evidence": "śrīmaheśvarānaṃdena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsa(2)mvat 1929 sālamiti jyeṣṭhaśudi 14 roja 5",
+  "era": "VS",
+  "year": "1929",
+  "month": "jyeṣṭha",
+  "paksa": "śudi",
+  "tithi": "14",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1872"
+ },
+ "place": {
+  "as_written": "lalitāpūranagara",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The scribe is described as a resident of Lalitapura and an upāsaka of Mahābuddha (śrīmahābuddhopāśaka).",
+ "_meta": {
+  "reel": "A 333/17",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 808,
+  "out_tok": 898
+ }
+}

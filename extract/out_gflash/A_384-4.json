@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīharṣaṃ",
+   "name": "Harṣa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīharṣaṃ kavirājarājimukuṭālaṃkārahīraḥsutaṃ ... mahākāvye ca vyagalan nalasya carite sargo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīhīraḥ",
+   "name": "Hīra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sutaṃ śrīhīraḥ suṣuve",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "malladevī",
+   "name": "Malladevī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yā malladevī ca yaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "sutaṃ śrīhīraḥ suṣuve"
+  },
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "yā malladevī ca yaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "End-of-canto verse (canto 6) of the Naiṣadhīyacarita naming the author Śrīharṣa and his parents Hīra and Malladevī (Māmalladevī). No scribal colophon is preserved in this excerpt.",
+ "_meta": {
+  "reel": "A 384/4",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 735,
+  "out_tok": 1720
+ }
+}

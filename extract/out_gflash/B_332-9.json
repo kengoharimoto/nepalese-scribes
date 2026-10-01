@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "deśācāradaivajñamāneśvaranāmnena",
+   "name": "Māneśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "deśācāra",
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "jyeṣṭavāhāra śrīmahādevagṛhe",
+   "evidence": "deśācāradaivajñamāneśvaranāmnena (!) pallipari(7)kṣāpustaka sapūrṇakṛtaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1859 mārga(5)śiravadi ṣaṣṭhi (!) maghānakṣatre viskaṃbhayoge budhavāra",
+  "era": "VS",
+  "year": "1859",
+  "month": "Mārgaśira",
+  "paksa": "kṛṣṇa",
+  "tithi": "ṣaṣṭhī",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "maghā nakṣatra, viṣkambha yoga",
+  "ce_approx": "1802"
+ },
+ "place": {
+  "as_written": "jyeṣṭavāhāra (!) śrīmahādevagṛhe",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Year 1859 is in Vikrama Saṃvat. 'jyeṣṭavāhāra' likely refers to Jyeṣṭhavarṇa Mahāvihāra (Patan).",
+ "_meta": {
+  "reel": "B 332/9",
+  "model": "gemini-flash-latest",
+  "secs": 6.7,
+  "in_tok": 832,
+  "out_tok": 1261
+ }
+}

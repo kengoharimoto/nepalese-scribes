@@ -1,0 +1,55 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdharmarājādhvarīṃdra",
+   "name": "Dharmarājādhvarīndra",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdharmarājādhvarīṃdraviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "durgādattena",
+   "name": "Durgādatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Utprabhātā",
+   "evidence": "likhitam idam utprabhātīya durgādattena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vasvadyadrikuśake bhādrakrṣṇaṣaṣṭhyāṃ gurau",
+  "era": "ŚS",
+  "year": "1778",
+  "month": "bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "ṣaṣṭhī",
+  "weekday": "guru",
+  "nakshatra_yoga": "",
+  "ce_approx": "1856"
+ },
+ "place": {
+  "as_written": "lakṣmaṇapure",
+  "normalized": "Lucknow"
+ },
+ "purpose": "",
+ "notes": "The chronogram 'vasv-ady-adri-ku-śake' stands for Śaka 1778 (vasu = 8, adri = 7, adri = 7, ku = 1). The scribe is qualified as 'utprabhātīya'.",
+ "_meta": {
+  "reel": "A 901/4",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 756,
+  "out_tok": 1659
+ }
+}

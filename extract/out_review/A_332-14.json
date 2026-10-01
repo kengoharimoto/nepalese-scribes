@@ -1,0 +1,74 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "purpose: emptied — 'śrīśrīśrīpaśupatiprītir astu' is a closing benediction, not a stated purpose of the copy (mentioned in notes)",
+   "p2 titles: added 'gṛhavāsin' (householder) alongside bhikṣu; residence clarified as ṅataḍhola, east side of the road, within the vihāra",
+   "p1 name normalized to 'Bhūpālendra Malla' (regnal name with -malla retained)",
+   "date: as_written extended to include the year chronogram context and the solar/lunar rāśi data; nakshatra_yoga adds Sun in Vṛṣa, Moon in Kumbha",
+   "notes: chronogram verification and reign check added"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī 2 bhūpālendramallasya",
+   "name": "Bhūpālendra Malla",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī 2 bhūpālendramallasya sāmrājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīsūryyacandrabhiunā",
+   "name": "Sūryacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhikṣu",
+    "gṛhavāsin"
+   ],
+   "affiliation": "Keśavacandrakṛta Pārāvata Mahāvihāra",
+   "residence": "ṅataḍhola, on the eastern side of the road (Keśavacandrakṛta Pārāvata Mahāvihāra)",
+   "evidence": "gṛhavāsinā, śrīsūryyacandrabhiunā (!) likhitaiṣā pustīti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrī 2 bhūpālendramallasya sāmrājye"
+  }
+ ],
+ "date": {
+  "as_written": "nepāle smin rudravasubhi (!) vaiśāṣakṛṣṇapakṣe aṣṭamyāyāṃ (!) tithau śatavṛṣanakṣetre (!) vaidhatiyoge (!) āditavāsare (!) vṛṣarāsiko savitari kumbharāsiko candramasi",
+  "era": "NS",
+  "year": "811",
+  "month": "Vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "Śatabhiṣā nakṣatra, Vaidhṛti yoga; Sun in Vṛṣa, Moon in Kumbha",
+  "ce_approx": "1691"
+ },
+ "place": {
+  "as_written": "śrīkeśavacandrakṛta pārāvatamahāvihārāvasthita, (ṅataḍholake,) mārgapūrvabhāge",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The year is given as a chronogram in Nepāla (= NS) era: 'rudravasubhiḥ'. Read right to left it gives vasu = 8, then rudra = 11, so NS 811 (≈ 1691 CE). This agrees with the catalogue and falls within Bhūpālendra Malla's reign in Kathmandu (c. 1687–1700). The Moon in Kumbha fits Śatabhiṣā nakṣatra. The scribe's 'bhiunā' is a corrupt or vernacular form of bhikṣuṇā. 'gṛhavāsinā' marks him as a married (householder) monk living at Keśavacandrakṛta Pārāvata Mahāvihāra, i.e. Itum Bāhā in Kathmandu. 'ṅataḍhola' is a local Newari place name of uncertain identification. The closing benediction 'śrīśrīśrīpaśupatiprītir astu' is a blessing, not a purpose of copying. The 'yādṛśaṃ...' verse is the usual formula asking forgiveness for scribal errors.",
+ "_meta": {
+  "reel": "A 332/14",
+  "model": "opus",
+  "cost_usd": 0.094914,
+  "secs": 20.8
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhuvahari śarmaṇo",
+   "name": "Bhuvahari",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhuvahari śarmaṇo hastena likhitoya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1813 phālguṇakṛṣṇa 6 roja 6",
+  "era": "ŚS",
+  "year": "1813",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "6",
+  "weekday": "roja 6",
+  "nakshatra_yoga": "",
+  "ce_approx": "1892"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "sarvebhyaḥ sarvato rakṣārthaṃ",
+ "notes": "The catalogue normalizes the scribe's name as 'Bhuvanahari Śarmā', but the manuscript reads 'bhuvahari śarmaṇo'. 'śrīmat keśavaprasādāt' and 'keśvavasaraṇaḥ' refer to the deity Keśava.",
+ "_meta": {
+  "reel": "H 229/11",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 773,
+  "out_tok": 1044
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śṛīsundarācāryya",
+   "name": "Sundarācārya",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śṛīsundarācāryyacaraṇāraviṃdadvadvāṃte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīnivāsabhaṭṭeba",
+   "name": "Śrīnivāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnivāsabhaṭṭeba viracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śṛīsundarācāryyacaraṇāraviṃdadvadvāṃte vā śrīnivāsabhaṭṭeba"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke samvatsare 965 || śrīvikramasamvatsare 578 ? śrīkarisamvatsare 4833 nepālasamvatsare 852 | āṣāḍhaśuklacaturddaśī, mūlanakṣatra (!) aindrayoge caṃdravāsare",
+  "era": "NS",
+  "year": "852",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "caturddaśī",
+  "weekday": "caṃdravāsara",
+  "nakshatra_yoga": "mūlanakṣatra, aindrayoga",
+  "ce_approx": "1732"
+ },
+ "place": {
+  "as_written": "bhaktapattanasthāna (!)",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "Four eras are cited: Śaka 965 (corrupt), Vikrama 578 (corrupt), Kali 4833, and Nepāla Saṃvat 852. Both Kali 4833 and NS 852 correspond to 1732 CE.",
+ "_meta": {
+  "reel": "A 191/3",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 851,
+  "out_tok": 1792
+ }
+}

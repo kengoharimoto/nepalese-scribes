@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dhiryanārāyaṇavatāsa",
+   "name": "Dhīryanārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vatāsa"
+   ],
+   "affiliation": "",
+   "residence": "Bhādagāu Taucapāla ṭola",
+   "evidence": "idaṃ pustakaṃ likhitaṃ, bhādagāuko dhiryanārāyaṇavatāsa taucapālaṭolako ho",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1894 sālam iti bhādravadi 12 roja 2",
+  "era": "VS",
+  "year": "1894",
+  "month": "bhādra",
+  "paksa": "vadi",
+  "tithi": "12",
+  "weekday": "roja 2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1837"
+ },
+ "place": {
+  "as_written": "bhādagāuko ... taucapālaṭolako",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 265/18",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 813,
+  "out_tok": 1008
+ }
+}

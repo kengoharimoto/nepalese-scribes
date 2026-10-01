@@ -1,0 +1,111 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rudrabhaṭṭaviracitāyāṃ",
+   "name": "Rudrabhaṭṭa",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rudrabhaṭṭaviracitāyāṃ vaidyajīvanaṭīkāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīkoṇeribhaṭtasuta",
+   "name": "Koṇeribhaṭṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkoṇeribhaṭtasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrī śrīghanānanda jino",
+   "name": "Ghanānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śrīghanānanda jino ʼlikhabdaiḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "loliṃbarājaviracite",
+   "name": "Loliṃbarāja",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "loliṃbarājaviracite vaidyajīvane",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "divākarasuta",
+   "name": "Divākara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "divākarasuta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīkoṇeribhaṭtasuta"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p5",
+   "evidence": "divākarasuta"
+  }
+ ],
+ "date": {
+  "as_written": "kṛśānuṣānmātura vakradvārair naipālasaṃjñe parisaṃyutebde || tapassite bhānu tithau",
+  "era": "NS",
+  "year": "963",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "saptamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1843"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'kṛśānu-ṣāṇmātura-vakra-dvārair' represents 963 NS (kṛśānu = 3, ṣāṇmātura = 6, dvāra = 9). tapas = Māgha, sita = śukla, bhānutithi refers to the 7th or 12th tithi. The scribe is read in the catalogue as 'śrī śrīghanānandajīno', reflecting 'śrī śrīghanānanda jino ʼlikhat'.",
+ "_meta": {
+  "reel": "B 166/7",
+  "model": "gemini-flash-latest",
+  "secs": 12.5,
+  "in_tok": 864,
+  "out_tok": 2813
+ }
+}

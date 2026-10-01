@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mohanaḥ",
+   "name": "Mohana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ramyaṃ gāruḍakaṃ purāṇam alikhat dhyāyan vibhuṃ mohanaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "netrākāśagajāṅkake śaradi ... samvat 802 bhādrapadaśuklatrayodaśisomavāśare",
+  "era": "NS",
+  "year": "802",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "somavāsara",
+  "nakshatra_yoga": "pūrvvabhadra",
+  "ce_approx": "1682"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date is expressed first in verse with the chronogram netra-ākāśa-gaja (2-0-8 = 802) and nakṣatra Pūrvabhādrapadā, followed by the prose restatement: samvat 802 bhādrapadaśuklatrayodaśisomavāśare.",
+ "_meta": {
+  "reel": "B 4/4",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 812,
+  "out_tok": 1094
+ }
+}

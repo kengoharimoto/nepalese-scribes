@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bālakṛṣṇena",
+   "name": "Bālakṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bālakṛṣṇenāleṣI",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1749 samaya śrāvaṇaśuklāṣṭamyāṃ ravau",
+  "era": "unspecified",
+  "year": "1749",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "aṣṭamī",
+  "weekday": "ravau",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue interprets the date as ŚS 1749 (ca. 1827 CE), but the colophon merely writes saṃvat 1749, which could also be VS 1749 (ca. 1692 CE).",
+ "_meta": {
+  "reel": "B 269/33",
+  "model": "gemini-flash-latest",
+  "secs": 7.2,
+  "in_tok": 715,
+  "out_tok": 1353
+ }
+}

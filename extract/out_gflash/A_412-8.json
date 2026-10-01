@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīharibhaṭṭaviracite",
+   "name": "Haribhaṭṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "haribhaṭṭaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 876 jyeṣṭhavadi 13 śukravāra",
+  "era": "NS",
+  "year": "876",
+  "month": "jyeṣṭha",
+  "paksa": "vadi",
+  "tithi": "13",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1756"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 412/8",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 712,
+  "out_tok": 770
+ }
+}

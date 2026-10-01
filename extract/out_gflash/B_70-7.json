@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ambaragīra",
+   "name": "Ambaragiri",
+   "roles": [
+    "author",
+    "commentator"
+   ],
+   "titles": [
+    "giri"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ambaragīrabhāsāṣṭipan",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1891 sāla miti bhādra śudi śubhma 1",
+  "era": "VS",
+  "year": "1891",
+  "month": "bhādra",
+  "paksa": "śudi",
+  "tithi": "1",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1834"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Ambaragīra (Ambaragiri) is named as the composer/commentator of the vernacular gloss (bhāṣā-ṭippana).",
+ "_meta": {
+  "reel": "B 70/7",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 706,
+  "out_tok": 1059
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīpārthasārathimiśra",
+   "name": "Pārthasārathimiśra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpārthasārathimiśravi(2)racitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1928",
+  "era": "VS",
+  "year": "1928",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1871"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date [[saṃvat 1928 śubham ]] is enclosed in double square brackets in the cataloguer's transcription, indicating an insertion or addition.",
+ "_meta": {
+  "reel": "B 44/10",
+  "model": "gemini-flash-latest",
+  "secs": 3.1,
+  "in_tok": 702,
+  "out_tok": 728
+ }
+}

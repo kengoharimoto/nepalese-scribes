@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayadeva",
+   "name": "Jayadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jayadevakṛta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 802 phāguṇa śukla 9",
+  "era": "NS",
+  "year": "802",
+  "month": "phāguṇa",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1682"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 314/11",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 710,
+  "out_tok": 700
+ }
+}

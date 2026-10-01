@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1825 miti phā. va 6",
+  "era": "VS",
+  "year": "1825",
+  "month": "phā.",
+  "paksa": "va",
+  "tithi": "6",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1768"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives the date as SAM 1872, but the colophon text clearly reads samvat 1825. No scribe, patron, or other historical persons are mentioned.",
+ "_meta": {
+  "reel": "B 260/2b",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 745,
+  "out_tok": 1086
+ }
+}

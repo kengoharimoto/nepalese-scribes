@@ -1,0 +1,41 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīdharasvāmīviracitāyāṃ",
+   "name": "Śrīdharasvāmin",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīdharasvāmīviracitāyāṃ bhagavadgītāṭīkāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 880 vaiśākhaśukla tṛtīyā śukravāra kunhu(?)",
+  "era": "NS",
+  "year": "880",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "3 (tṛtīyā)",
+  "weekday": "Friday (śukravāra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1760"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The colophon names no scribe, patron, or king. The only person is the commentator Śrīdharasvāmin. Kṛṣṇa and Arjuna are characters in the text and are excluded. The phrase 'gītāsaṃpūrṇṇayāṇāvacopāditaḥ' is corrupt. It looks like a mixed Newari–Sanskrit completion formula ('having completed the Gītā ... it was produced'). It does not seem to contain a personal name. The text between the end of the ṭīkā colophon and the date is elided ('. . .'), so persons named there may have been left out. 'Saṃvat 880' plus Newari 'kunhu' in Newari script points to NS 880 (about 1760 CE). The weekday has not been checked.",
+ "_meta": {
+  "reel": "A 1379/5",
+  "model": "opus",
+  "cost_usd": 0.0594418,
+  "secs": 9.4
+ }
+}

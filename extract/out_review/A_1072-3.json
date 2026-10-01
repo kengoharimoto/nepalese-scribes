@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Scribe reading kept (Tvimanya, bhaṭṭa, low confidence); evidence trimmed to the substring that actually names him",
+   "Notes expanded: the first half of the verse describes Gaṇeśa, the elephant-faced son of Śambhu who destroys obstacles, and is invocatory, not a person; 'nagayom' may conceal a place or temple of Śambhu; 'gatabhūmidaivaḥ' probably means bhūmideva, i.e. brahmin"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "tvimanyākhya bhaṭṭo",
+   "name": "Tvimanya",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "alikhad dvije śrī tvimanyākhya bhaṭṭo",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The scribal verse is badly corrupt. 'yasyāsti putro dvipavaktravaktro vighnasya nāśe...' describes Gaṇeśa, the elephant-faced son of Śambhu who destroys obstacles; it is an invocation, not a person. 'śambhor nagayom alikhad' perhaps means '(he) wrote at Śambhu's ...'. 'nagayo' may hide a place or temple name, but it cannot be identified. The scribe's name, 'śrī tvimanyākhya bhaṭṭo', is uncertain: it may stand for Abhimanyu, Trimalla or a name in -manyu. 'gatabhūmidaivaḥ' probably contains bhūmideva ('brahmin'). Hanumat, the legendary author ('śrī hanumadviracitā'), is left out as a mythical figure. No date, place or purpose is given.",
+ "_meta": {
+  "reel": "A 1072/3",
+  "model": "opus",
+  "cost_usd": 0.074198,
+  "secs": 16.5
+ }
+}

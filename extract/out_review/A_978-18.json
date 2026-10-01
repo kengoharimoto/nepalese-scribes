@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Lowered confidence for Gaṇeśa as scribe from medium to low. The line 'vārāṇasyāṃ gaṇeśena likhitaṃ puṣpasaṃnidhau' is a numbered verse (|| 16 ||) that ends with praise of the stotra. It may be part of the text or a stock closing verse rather than a scribal colophon. It could also refer to the deity Gaṇeśa as the writer.",
+   "Made the place identification provisional in the notes: Vārāṇasī comes from the same doubtful verse.",
+   "Rewrote the notes. The catalogue's 'Rāmanagara' does not strictly contradict this: Rāmnagar lies just across the Ganges from Vārāṇasī. The catalogue's scribe Śrīkṛṣṇa Jośī probably comes from part of the manuscript that is not quoted here, so he was not added."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaṇeśena",
+   "name": "Gaṇeśa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vārāṇasyāṃ gaṇeśena likhitaṃ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "vārāṇasyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The only personal and place information is in the verse 'vārāṇasyāṃ gaṇeśena likhitaṃ puṣpasaṃnidhau || sahasranāmam idaṃ stotraṃ pāvanaṃ paramaṃ śubhaṃ || 16 ||'. Because it is numbered as verse 16 and praises the stotra, it may belong to the text or be a traditional closing verse, perhaps even naming the god Gaṇeśa as the writer. It is not clearly a scribe's statement about this copy, so the scribe and place are tentative. 'puṣpasaṃnidhau' ('near flowers/Puṣpa') is unclear; it may refer to a shrine or locality. The catalogue gives scribe Śrīkṛṣṇa Jośī and place Rāmanagara. These are not in the quoted colophon and probably come from elsewhere in the manuscript. Rāmnagar is opposite Vārāṇasī on the Ganges, so the two places fit together. The colophon gives no date.",
+ "_meta": {
+  "reel": "A 978/18",
+  "model": "opus",
+  "cost_usd": 0.078706,
+  "secs": 15.9
+ }
+}

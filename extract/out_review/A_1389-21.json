@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday normalised: 'vāsare 3' = 3rd day = Tuesday (Maṅgalavāra)",
+   "Arjyāla clarified as family name (Aryāl) in titles; as_written trimmed to the name form",
+   "notes added: catalogue spelling 'Vālakṛṇaśarmā Aryāla' is a typo for Bālakṛṣṇa; possible VS year-reckoning ambiguity (1858 vs 1859)"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bālakṛṣṇaśarmaṇā arjyālapadavācyena",
+   "name": "Bālakṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman",
+    "Arjyāla (Aryāl, family name)"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ bālakṛṣṇaśarmaṇā arjyālapadavācyena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1915 caitraśukla 2 vāsare 3",
+  "era": "VS",
+  "year": "1915",
+  "month": "Caitra",
+  "paksa": "śukla",
+  "tithi": "2",
+  "weekday": "3 (Tuesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1858"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue field 'Vālakṛṇaśarmā Aryāla' is a misspelling of Bālakṛṣṇa Śarmā Aryāl. 'arjyālapadavācya' means 'called by the designation Arjyāla', i.e. the Nepali Brahmin family name Aryāl. Caitra śukla 2 of VS 1915 falls in March 1858 if the year is counted from Caitra (rough check: c. 16 March 1858, a Tuesday). If the year is counted Nepali-style from Vaiśākha, it falls in April 1859, where a Tuesday also fits roughly. ce_approx uses VS−57 = 1858.",
+ "_meta": {
+  "reel": "A 1389/21",
+  "model": "opus",
+  "cost_usd": 0.076686,
+  "secs": 17.1
+ }
+}

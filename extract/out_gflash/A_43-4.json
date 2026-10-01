@@ -1,0 +1,89 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vīraśrījayarājadevanṛpatau",
+   "name": "Jayarājadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "vīra",
+    "nṛpati"
+   ],
+   "affiliation": "",
+   "residence": "nepālabhūmaṃḍala",
+   "evidence": "vīraśrījayarājadevanṛpatau nepālabhūmaṃḍalaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "manmathapate(!)",
+   "name": "Manmathapati",
+   "roles": [
+    "beneficiary",
+    "commissioner"
+   ],
+   "titles": [
+    "śaivācāryavara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śaivācāryavarasya manmathapate(!) vikhyātakīrtteḥ kṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "nārāyaṇākhyaḥ kaviḥ",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "samalikhan nārāyaṇākhyaḥ kaviḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "manmathapate(!) vikhyātakīrtteḥ kṛte ... samalikhan nārāyaṇākhyaḥ kaviḥ"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "nirbādhaṃ parirakṣati ... jayarājadevanṛpatau nepālabhūmaṃḍalaṃ ... samalikhan nārāyaṇākhyaḥ kaviḥ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat || 474 ||",
+  "era": "NS",
+  "year": "474",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1354"
+ },
+ "place": {
+  "as_written": "nepālabhūmaṃḍalaṃ",
+  "normalized": ""
+ },
+ "purpose": "śaivācāryavarasya manmathapateḥ kṛte",
+ "notes": "The catalogue lists the king as Rājadeva, but the colophon clearly specifies Jayarājadeva (vīraśrījayarājadevanṛpatau).",
+ "_meta": {
+  "reel": "A 43/4",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 847,
+  "out_tok": 1559
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "umādhareṇa",
+   "name": "Umādhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kavirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ supūrṇam umādhareṇa kavirāja tena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepālavarṣe vasunandanande nabhe ca kṛṣṇaś ca pakṣe || śanau ca vāre paṃcamī tithau",
+  "era": "NS",
+  "year": "998",
+  "month": "Śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1878"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Year 998 expressed in chronogram: vasu (8), nanda (9), nanda (9) = 998; month nabhas = Śrāvaṇa.",
+ "_meta": {
+  "reel": "A 117/8",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 766,
+  "out_tok": 857
+ }
+}

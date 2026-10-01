@@ -1,0 +1,36 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "date.month normalized to Mārgaśīrṣa (mārgasila)",
+   "date.paksa normalized to śukla (śudi)",
+   "date.weekday interpreted: roja 3 = Tuesday",
+   "notes added: the era is not named in the colophon and NS is inferred; title is corrupt; no persons are named"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1017 sālamiti mārgasila śudi 14 roja 3",
+  "era": "NS",
+  "year": "1017",
+  "month": "Mārgaśīrṣa (mārgasila)",
+  "paksa": "śukla (śudi)",
+  "tithi": "14",
+  "weekday": "Tuesday (roja 3)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1896"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The colophon says only 'samvat' and does not name the era. I inferred NS for two reasons: it uses the late Persian-derived formulae 'sālamiti' and 'roja', and the copy is on Devanagari paper. Read as VS, 1017 would be about 960 CE, and read as ŚS about 1095 CE. Both are implausible for this formulary. In NS 1017, Mārgaśīrṣa śukla 14 falls in about Nov/Dec 1896 CE. I have not checked the weekday (roja 3 = Tuesday) against an ephemeris. The title 'taṃtrākṣa(!)kathā' is a corruption of Tantrākhyānakathā. The colophon names no scribe, owner or other person.",
+ "_meta": {
+  "reel": "B 281/3",
+  "model": "opus",
+  "cost_usd": 0.06556200000000001,
+  "secs": 12.6
+ }
+}

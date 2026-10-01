@@ -1,0 +1,132 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Chronogram checked: yuge(4) vasau(8) bāṇe(5) read right to left = 584; NS 584 + 880 = 1464 CE; madhu = Caitra, śite = śukla. Date confirmed.",
+   "p5 Jotirāja: removed 'commissioner'. The colophon only says 'tasmai lilekha' (he wrote it for him) and has no likhāpita/lekhayāmāsa wording, so he is kept as beneficiary only.",
+   "Epithet 'vadyottamo' moved from Jotirāja to Śubharāja. It is a separate nominative word, in agreement with śubharājadhīro and the finite verb lilekha, while Jotirāja appears only inside the compound and as 'tasmai'. Confidence is lowered because the catalogue reads it as 'Jotirāma Vaidya'.",
+   "p4 Gayapati: removed 'guru' from titles. It is the relationship (teacher), not a title.",
+   "Notes expanded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīyakṣamallo",
+   "name": "Yakṣamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīyakṣamallo nṛpaḥ ... tadvijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīrāyamallena",
+   "name": "Rāyamalla",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "putreṇaiva sahānujena sahitaḥ śrīrāyamallena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śubharājadhīro",
+   "name": "Śubharāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "Bhaktapur",
+   "evidence": "bhaktāpure nivasitaḥ śubharājadhīro ... vadyottamo ... lilekha",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "ggayapateś",
+   "name": "Gayapati",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "natvā guror ggayapateś caraṇāravindaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "jotirāja-",
+   "name": "Jotirāja",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jotirājaguṇābhilāṣī tasmai lilekha",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "putreṇaiva sahānujena sahitaḥ śrīrāyamallena"
+  },
+  {
+   "from": "p3",
+   "type": "pupil_of",
+   "to": "p4",
+   "evidence": "natvā guror ggayapateś caraṇāravindaṃ"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p5",
+   "evidence": "jotirājaguṇābhilāṣī tasmai lilekha"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "tadvijayarājye"
+  }
+ ],
+ "date": {
+  "as_written": "samvad yuge vasau bāṇe pañcamyāṃ ca madhau śite",
+  "era": "NS",
+  "year": "584",
+  "month": "madhu (Caitra)",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1464"
+ },
+ "place": {
+  "as_written": "bhaktāpure",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "written for Jotirāja (tasmai lilekha)",
+ "notes": "The era is not stated in the colophon. NS is assumed because Yakṣamalla is named as the reigning king, and the catalogue also gives NS 584. The 'nivasitaḥ' clause gives Bhaktapur as the scribe's residence; it is assumed to be the place of copying. 'vadyottamo' (= vaidyottamaḥ) is a separate nominative word, in agreement with 'śubharājadhīro', and 'jotirājaguṇābhilāṣī' is also in the nominative, describing the scribe. So the 'excellent physician' is grammatically Śubharāja. The catalogue instead reads the donor as 'Jotirāma Vaidya'. That would require the word to be compounded with the name (vaidyottama-jotirāja-), which the transmitted text does not show. The name is 'jotirāja' in the colophon, not 'Jotirāma'. Nothing in the colophon says there was a donation or a commission; Jotirāja is only the person the copy was written for. Rāyamalla is named as Yakṣamalla's son, together with an unnamed younger brother (sahānujena).",
+ "_meta": {
+  "reel": "A 46/1",
+  "model": "opus",
+  "cost_usd": 0.10756600000000001,
+  "secs": 25.1
+ }
+}

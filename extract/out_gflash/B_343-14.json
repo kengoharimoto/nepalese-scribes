@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī jitānaṃdena",
+   "name": "Jitānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "mahābuddhopāsaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhaka śrī mahāvuddhopāśala(!) śrī jitānaṃdena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī samvat 1923 sālamiti caitra śudi 4 roja 2",
+  "era": "VS",
+  "year": "1923",
+  "month": "caitra",
+  "paksa": "śudi",
+  "tithi": "4",
+  "weekday": "roja 2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1866"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue reads the scribe as Śrījinānanda, but the colophon reads 'śrī jitānaṃdena'. The epithet 'mahāvuddhopāśala(!)' is an error for 'mahābuddhopāsaka'. The catalogue identifies the era as Śaka, but the formula 'śrī samvat 1923 sālamiti' in 19th-century Nepal denotes Vikrama Samvat.",
+ "_meta": {
+  "reel": "B 343/14",
+  "model": "gemini-flash-latest",
+  "secs": 7.2,
+  "in_tok": 742,
+  "out_tok": 1361
+ }
+}

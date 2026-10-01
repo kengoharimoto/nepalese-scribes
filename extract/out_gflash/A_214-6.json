@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ātmārāmasy",
+   "name": "Ātmārāma",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ātmārāmasy edaṃ pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 1730 caitrakṛṣṇa 6 bhaume",
+  "era": "unspecified",
+  "year": "1730",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "6",
+  "weekday": "bhaume",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is given simply as 'saṃ 1730', which the cataloguer tentatively identified as Śaka (ŚS 1730 = ca. 1808 CE), though Vikrama Saṃvat (VS 1730 = ca. 1673 CE) is also possible.",
+ "_meta": {
+  "reel": "A 214/6",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 739,
+  "out_tok": 810
+ }
+}

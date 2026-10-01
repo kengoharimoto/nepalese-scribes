@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śaṃṅkarācārya(!)",
+   "name": "Śaṅkara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśaṃṅkarācārya(!)viracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1923 sāla miti caitra śudi 8 roja 5",
+  "era": "VS",
+  "year": "1923",
+  "month": "caitra",
+  "paksa": "śudi",
+  "tithi": "8",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1867"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 315/6",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 741,
+  "out_tok": 685
+ }
+}

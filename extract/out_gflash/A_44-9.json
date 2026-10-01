@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vaidya⁅ .. .. .. varmaṇaḥ",
+   "name": "…varman",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "śrīnīlīśāla",
+   "evidence": "vaidya⁅ .. .. .. varmaṇaḥ pustakam",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat pta pka (44) mārggaśirakṛṣṇāṣṭamyām",
+  "era": "NS",
+  "year": "44",
+  "month": "mārggaśira",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "923"
+ },
+ "place": {
+  "as_written": "śrīnīlīśālaṃ",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The personal name ending in -varman is largely lost in a lacuna (.. .. .. varmaṇaḥ). The cataloguer lists the person as donor, but 'pustakam iti' marks ownership. The year is given in letter-numerals 'pta pka' (= 44).",
+ "_meta": {
+  "reel": "A 44/9",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 748,
+  "out_tok": 843
+ }
+}

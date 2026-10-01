@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñānaṃta",
+   "name": "Ananta",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñānaṃta suta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "daivajña",
+   "name": "Daivajña",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajña viracitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "daivajñānaṃta suta"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1895 jyeṣṭakṛṣṇacaturdaśyāṃ(!) guru vāsare",
+  "era": "VS",
+  "year": "1895",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturdaśī",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1838"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author of the Muhūrtacintāmaṇi is traditionally Rāma Daivajña, son of Ananta Daivajña; here the text simply reads daivajñānaṃtasutadaivajñaviracitaṃ without specifying the personal name Rāma.",
+ "_meta": {
+  "reel": "B 342/4",
+  "model": "gemini-flash-latest",
+  "secs": 8.0,
+  "in_tok": 718,
+  "out_tok": 1631
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1883 sake (!) 1748 hemalaṃbināmābdau saṃvatsare uttarāyaṇe caitramāse śuklapakṣe pauṇimāyāṃ (!) maṃdavāsare",
+  "era": "VS",
+  "year": "1883",
+  "month": "caitramāse",
+  "paksa": "śuklapakṣe",
+  "tithi": "pauṇimāyāṃ",
+  "weekday": "maṃdavāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1826"
+ },
+ "place": {
+  "as_written": "kāśikṣetre nāradaghāṭe (!)",
+  "normalized": "Varanasi"
+ },
+ "purpose": "",
+ "notes": "Both Vikrama Saṃvat (1883) and Śaka Saṃvat (1748) are specified. No human individuals are named in the colophon.",
+ "_meta": {
+  "reel": "A 430/18",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 762,
+  "out_tok": 866
+ }
+}

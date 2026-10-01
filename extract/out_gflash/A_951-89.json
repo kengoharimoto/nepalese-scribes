@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "siddhinārāyaṇa",
+   "name": "Siddhinārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhita siddhinārāyaṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1925 sāla miti jyeṣṭha śudi 2 roja 1",
+  "era": "VS",
+  "year": "1925",
+  "month": "jyeṣṭha",
+  "paksa": "śudi",
+  "tithi": "2",
+  "weekday": "roja 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1868"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 951/89",
+  "model": "gemini-flash-latest",
+  "secs": 2.4,
+  "in_tok": 671,
+  "out_tok": 580
+ }
+}

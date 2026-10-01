@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dattarāmayā",
+   "name": "Dattarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paṭhin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lipataṃ paṭhin dattarāmayā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "bhūpañca saptadaśabda śāke māse śuci kṛtithautu pañca asmin nahni ʼrkkadivase",
+  "era": "ŚS",
+  "year": "1751",
+  "month": "Śuci",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1829"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'bhū-pañca-saptadaśa' yields Śaka 1751 (1829 CE). 'śuci' designates the month of Āṣāḍha. 'kṛ' indicates kṛṣṇapakṣa. 'paṭhin' before Dattarāma may represent a title or a corrupt form of the participle 'paṭhan' (reading/studying).",
+ "_meta": {
+  "reel": "A 414/11",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 689,
+  "out_tok": 1109
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdivākarāya",
+   "name": "Divākara",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdivākarāya rastu",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīnepālasamvatsaragate 900 śrāvaṇaśulkatṛtīyāyāṃ tīthau (!) uttarabhadraṇakṣatre (!) dhṛtiyoge śukravāsare",
+  "era": "NS",
+  "year": "900",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "tṛtīyā",
+  "weekday": "śukravāsara",
+  "nakshatra_yoga": "uttarabhadra, dhṛti",
+  "ce_approx": "1780"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "śrīdivākarāya rastu (!) likely represents an auspicious wish for a human beneficiary/owner named Divākara (i.e. śrīdivākarāyāstu), though it could alternatively be a corrupt invocation to the deity Divākara (the Sun). A verse on weapons cited from Svarodaya is appended after the completion statement.",
+ "_meta": {
+  "reel": "C 28/8",
+  "model": "gemini-flash-latest",
+  "secs": 20.5,
+  "in_tok": 772,
+  "out_tok": 4149
+ }
+}

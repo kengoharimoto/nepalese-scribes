@@ -1,0 +1,98 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe: the first reading's 'Deva' is wrong. 'manohararasādevena' = manohara + rasādevena, and rasā-deva ('god of the earth') is a synonym of bhūdeva, i.e. a brahmin. So the scribe is Manohara, with 'rasādeva' (brahmin) as a title. The catalogue's 'Scribe: Manohara' is right. Confidence raised to high.",
+   "Author: 'bhaṭṭa' stripped from the name (name 'Rāghava', with bhaṭṭa kept in titles), following the rule on brahmin suffixes.",
+   "Cakrarāja: 'vijavaraḥ' marked as a corruption of 'dvijavaraḥ' (not marked by the cataloguer). 'sudhī' added as an epithet.",
+   "Date: chronogram confirmed (ṣaṣṭha 6, dyo 0, gaja 8, read right to left = 806). The era is not written and NS is inferred. ce_approx changed from 1686 to 1685, because NS 806 began in Kārttika 1685, so Kārttika kṛṣṇa of NS 806 falls in Oct/Nov 1685.",
+   "Yoga: 'śubhayoga' may be the named yoga Śubha or just 'an auspicious yoga'. This is now flagged as uncertain.",
+   "Notes rewritten: the rasādeva reading is explained, and the nakṣatra is flagged as a possible inconsistency."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāghavabhaṭṭa",
+   "name": "Rāghava",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāghavabhaṭṭaviracite kālītattve",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīcakrarājaḥ",
+   "name": "Cakrarāja",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "dvijavara",
+    "sudhī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kālītatvam alekhayad vijavaraḥ śrīcakrarājaḥ sudhīḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "manohararasādevena",
+   "name": "Manohara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "rasādeva (= bhūdeva, brahmin)"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "manohararasādevena saṃyatnataḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "alekhayad vijavaraḥ śrīcakrarājaḥ ... manohararasādevena saṃyatnataḥ"
+  },
+  {
+   "from": "p2",
+   "type": "commissioned_from",
+   "to": "p3",
+   "evidence": "alekhayad ... manohararasādevena"
+  }
+ ],
+ "date": {
+  "as_written": "ṣaṣṭhadyogajasammite suraguror ghasre[ʼ]site pakṣake ... māse kārttikike ... pañcamyāṃ śubhayogamiśritabharaṇyāṃ tārakāyāṃ",
+  "era": "NS",
+  "year": "806",
+  "month": "Kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "Bharaṇī; yoga Śubha (or merely 'auspicious yoga')",
+  "ce_approx": "1685"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The date is a verse chronogram in Śārdūlavikrīḍita: ṣaṣṭha (6), dyo/sky (0), gaja (8), read right to left = 806. No era is written. NS is inferred: it is a Nepalese manuscript, the catalogue gives 'SAM 806', and Rāghavabhaṭṭa is c. late 15th century, which rules out VS 806. NS 806 began in Kārttika 1685 CE, so Kārttika kṛṣṇa 5 of NS 806 falls in Oct/Nov 1685, not 1686. 'ghasre[ʼ]site' = ghasre + asite, i.e. the dark fortnight; 'suraguror ghasre' = Thursday. The date has not been verified. Bharaṇī is hard to reconcile with Kārttika kṛṣṇa pañcamī in either the amānta or pūrṇimānta reckoning; the nakṣatra or the pakṣa may be wrong. 'śubhayoga' may be the named yoga Śubha or a generic phrase. Names: 'vijavaraḥ' is a corruption of 'dvijavaraḥ'. Cakrarāja is the commissioner ('alekhayat'). The scribe is Manohara: 'manohararasādevena' = Manohara + rasādeva, and rasā-deva ('earth-god') is a synonym of bhūdeva, i.e. a brahmin. This agrees with the catalogue's 'Scribe: Manohara' and fits the metre.",
+ "_meta": {
+  "reel": "B 119/7",
+  "model": "opus",
+  "cost_usd": 0.1508772,
+  "secs": 51.5
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pūrṇānandaparamahaṃsa",
+   "name": "Pūrṇānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramahaṃsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pūrṇānandaparamahaṃsaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1982 jyeṣṭha śukla 15",
+  "era": "VS",
+  "year": "1982",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "15",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1925"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 207/14",
+  "model": "gemini-flash-latest",
+  "secs": 2.9,
+  "in_tok": 688,
+  "out_tok": 627
+ }
+}

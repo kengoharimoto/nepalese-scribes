@@ -1,0 +1,68 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gopi(!)kṛdvija",
+   "name": "Gopikṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "vasiṣṭhagotra",
+   "residence": "",
+   "evidence": "liṣitaṃ vasīṣṭhagotrīya gopi(!)kṛdvijahastākṣaram",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "lakṣīmana(!)dija",
+   "name": "Lakṣmaṇa",
+   "roles": [
+    "reader",
+    "owner",
+    "beneficiary"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "vasiṣṭhagotra",
+   "residence": "",
+   "evidence": "paṭhanaṃ vasiṣṭhagotrī lakṣīmana(!)dijaputrapautrādi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "liṣitaṃ vasīṣṭhagotrīya gopi(!)kṛdvijahastākṣaram || paṭhanaṃ vasiṣṭhagotrī lakṣīmana(!)dija"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsamvat 1966 sālamāse 11 tithau 9 vāre 1",
+  "era": "VS",
+  "year": "1966",
+  "month": "11",
+  "paksa": "",
+  "tithi": "9",
+  "weekday": "1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1910"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "paṭhanaṃ ... putrapautrādi",
+ "notes": "The scribe's name is written as 'gopi(!)kṛdvija', interpreted as Gopikṛṣṇadvija by the cataloguer.",
+ "_meta": {
+  "reel": "A 1103/3",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 810,
+  "out_tok": 1450
+ }
+}

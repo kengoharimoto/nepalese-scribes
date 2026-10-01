@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "upādhyā vaśiṣtha",
+   "name": "Vasiṣṭha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kaṣṭhena liṣitā gitā upādhyā vaśiṣtha",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "phurvā",
+   "name": "Phurvā",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "phurvā liṣitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "kārtike māse (!) śite pakṣe pratipadā śanivāsare ... śāke 1685",
+  "era": "ŚS",
+  "year": "1685",
+  "month": "kārtika",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1763"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both 'upādhyā vaśiṣtha' and 'phurvā' are associated with writing ('kaṣṭhena liṣitā gitā upādhyā vaśiṣtha', 'phurvā liṣitaṃ'); the catalogue notes them as 'Vaśiṣṭha upādhyā / phurvā ?'. Vasiṣṭha might alternatively be an owner or commissioner.",
+ "_meta": {
+  "reel": "A 84/6",
+  "model": "gemini-flash-latest",
+  "secs": 7.9,
+  "in_tok": 734,
+  "out_tok": 1927
+ }
+}

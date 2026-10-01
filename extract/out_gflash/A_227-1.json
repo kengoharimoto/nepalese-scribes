@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñakīrttisiṃhena",
+   "name": "Kīrtisiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñakīrttisiṃhena saṃpūrṇa (!) liṣkhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1694 kārttikakṛṣṇcaturdaśyāṃ hastānakṣatre ravidine",
+  "era": "ŚS",
+  "year": "1694",
+  "month": "kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturdaśī",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "hasta",
+  "ce_approx": "1772"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 227/1",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 768,
+  "out_tok": 942
+ }
+}

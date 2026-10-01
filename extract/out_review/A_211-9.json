@@ -1,0 +1,112 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name normalized from 'Śrīkṛṣṇa' to 'Kṛṣṇa' (śrī is honorific)",
+   "p2 Nārāyaṇa: added role 'commentator', since the vivaraṇa is his own commentary on his Jvaranirṇaya ('svakṛtaṃ')",
+   "p3 Nāgeśa: role changed from 'teacher' to 'other'. He is the author's guru and is not connected with this copy. The pupil_of relation is kept",
+   "date.paksa changed from 'kṛṣṇa' to 'śukla' following the explicit 'śrāvaṇasya sitepakṣe'. The conflict with 'kuje ʼsite' and with the catalogue's 'kṛṣṇa' is recorded in notes",
+   "date.as_written: noted that 'caṇake' is a corruption of 'śāke' (as the catalogue field reads)",
+   "notes expanded: the trailing number 1744 is unexplained, and the 'nāyāyaṇo' and 'nāgeśayā namya' corruptions are noted"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkṛṣṇapaṃḍitātmaja",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "vaidyakula",
+   "residence": "",
+   "evidence": "vaidyakulatilakāyamāna śrīkṛṣṇapaṃḍitātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhiṣaṅnārāyaṇa paṃḍita",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "author",
+    "commentator"
+   ],
+   "titles": [
+    "bhiṣaj",
+    "paṇḍita"
+   ],
+   "affiliation": "vaidyakula",
+   "residence": "",
+   "evidence": "bhiṣaṅnārāyaṇa paṃḍita praṇītaṃ jvaranirṇaya vivaraṇaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "nāgeśasya",
+   "name": "Nāgeśa",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nārāyaṇena racito nāgeśasya prasādataḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "mādhavena",
+   "name": "Mādhava",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhiṣaj"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vyalīlikhan mādhava saṃjñako bhiṣak",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīkṛṣṇapaṃḍitātmaja bhiṣaṅnārāyaṇa paṃḍita"
+  },
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p3",
+   "evidence": "guruṃ ca nāgeśayā namya ... nāgeśasya prasādataḥ"
+  }
+ ],
+ "date": {
+  "as_written": "śrāvaṇasya sitepakṣe daśamyāṃ kujavāsare ... vasvagniṣaṭ caṃdramite ca caṇake(=śāke) kuje ʼsite śrāvaṇike daśamyāṃ",
+  "era": "ŚS",
+  "year": "1638",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1716"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram vasu (8), agni (3), ṣaṭ (6), candra (1), read right to left, gives Śaka 1638 (≈1716 CE). 'caṇake' is a corruption of 'śāke'. The pakṣa conflicts: the first verse has 'śrāvaṇasya sitepakṣe' (bright fortnight). The second verse as printed has 'kuje ʼsite', which would mean the dark fortnight, but it could equally be read 'kuje site' (bright). The catalogue gives kṛṣṇa. I have chosen śukla because the first verse states it explicitly. The trailing '1744' at the end of the extract is unexplained. It does not match the Śaka date: read as VS it would give 1687 CE, and it may be a later note or a count. 'nāyāyaṇo' should be read 'nārāyaṇo'. 'guruṃ ca nāgeśayā namya' should probably be read 'guruṃ ca nāgeśam ānamya'. Nāgeśa was the author's guru and is not connected with this copy. In 'svapūrvaṭīkāṃ', 'sv-apūrva-ṭīkāṃ' ('excellent, unprecedented commentary') is probably meant, so I have not inferred ownership by Mādhava. The 770 in 'graṃthasaṃkhyā' is the length of the text.",
+ "_meta": {
+  "reel": "A 211/9",
+  "model": "opus",
+  "cost_usd": 0.11430199999999999,
+  "secs": 27.4
+ }
+}

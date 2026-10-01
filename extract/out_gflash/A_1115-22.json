@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "govinda raghunātha thatene",
+   "name": "Govinda Raghunātha Thaṭe",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "vanārasa",
+   "evidence": "govinda raghunātha thatene apane vanārasa akhavāra ke chāpekhāne me chapavāyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "raghuvīra pāṃḍe",
+   "name": "Raghuvīra Pāṇḍe",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "pāṃḍe"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "li○ raghuvīra pāṃḍe",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "govinda raghunātha thatene apane vanārasa akhavāra ke chāpekhāne me chapavāyā || mī○ pauṣaśukla(7)10 saṃvat 1934 li○ raghuvīra pāṃḍe"
+  }
+ ],
+ "date": {
+  "as_written": "mī○ pauṣaśukla(7)10 saṃvat 1934",
+  "era": "VS",
+  "year": "1934",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1878"
+ },
+ "place": {
+  "as_written": "vanārasa akhavāra ke chāpekhāne me",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "for printing at the Banāras Akhbār press",
+ "notes": "The catalogue records King Śrī 3 Mahārāja Raṇoddīpa Sīṃha Rāṇā and Donor Śrī 6 Rājagurudharmādhikāra Nagendrarāja Paṇḍita, but they do not appear in the quoted colophon. The manuscript copy was prepared for printing at Govinda Raghunātha Thaṭe's Banāras Akhbār printing press.",
+ "_meta": {
+  "reel": "A 1115/22",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 813,
+  "out_tok": 1915
+ }
+}

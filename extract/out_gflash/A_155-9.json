@@ -1,0 +1,163 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnandnācāryyāntevāsi",
+   "name": "Nandnācārya",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnandnācāryyāntevāsi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīsanātanaguṇārṇṇavācāryyātmaja",
+   "name": "Sanātanaguṇārṇava",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsanātanaguṇārṇṇavācāryyātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrītatkālaṃkārabhaṭṭācāryya",
+   "name": "Tatkālaṅkāra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrītatkālaṃkārabhaṭṭācāryyaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "jayagaṃdādevī",
+   "name": "Jayagaṃdādevī",
+   "roles": [
+    "queen",
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jayagaṃdādevītanaya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrīśrījayatrailokyamalladeva",
+   "name": "Jayatrailokyamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājāśrīśrījayagaṃdādevītanaya śrīśrījayatrailokyamalladeva",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "śrī śrījayatribhuvanamalladevasya",
+   "name": "Jayatribhuvanamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śrījayatribhuvanamalladevasya vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "uddhavarājena",
+   "name": "Uddhavarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "rājopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrājopādhyā (!) uddhavarājena likhiti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śrīmahāmahopādhyāyaśrīnandnācāryyāntevāsi"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīsanātanaguṇārṇṇavācāryyātmaja"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "jayagaṃdādevītanaya śrīśrījayatrailokyamalladeva"
+  },
+  {
+   "from": "p6",
+   "type": "brother_of",
+   "to": "p5",
+   "evidence": "śrīśrījayatrailokyamalladeva anuja śrī śrījayatribhuvanamalladevasya"
+  },
+  {
+   "from": "p7",
+   "type": "under_reign_of",
+   "to": "p6",
+   "evidence": "śrī śrījayatribhuvanamalladevasya vijayarājye śrīrājopādhyā (!) uddhavarājena likhiti"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 710 kārtikaśukla (‥ )tīyā tithau anurādhanakṣatre, atigandhayoge bṛhaspativāsare",
+  "era": "NS",
+  "year": "710",
+  "month": "kārtika",
+  "paksa": "śukla",
+  "tithi": "(‥ )tīyā",
+  "weekday": "bṛhaspativāsare",
+  "nakshatra_yoga": "anurādhanakṣatre, atigandhayoge",
+  "ce_approx": "1590"
+ },
+ "place": {
+  "as_written": "śrībhaktapattane",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "Jayagaṃdādevī is likely a scribal error or variant for Jayagaṅgādevī, mother of Trailokyamalla and Tribhuvanamalla.",
+ "_meta": {
+  "reel": "A 155/9",
+  "model": "gemini-flash-latest",
+  "secs": 15.5,
+  "in_tok": 1027,
+  "out_tok": 3944
+ }
+}

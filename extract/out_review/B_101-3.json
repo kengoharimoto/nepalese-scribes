@@ -1,0 +1,54 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed role 'donor' from Tejaratna: he paid dakṣiṇā to the paṇḍitas for producing the copy, which makes him the commissioner. The colophon does not say he donated the book.",
+   "Residence given as written ('ṣunusvālavāhala'), with the reading flagged as uncertain.",
+   "Place of copying cleared: the vihāra is Tejaratna's residence, not a stated place of copying.",
+   "Purpose rephrased: spreading of virtues (guṇaprakāśa) and merit toward the unsurpassed state (anuttarapada).",
+   "Added notes on the unnamed paṇḍitas, who may have done the actual copying, and on the clause saying the book must not be hidden but kept in circulation.",
+   "Lowered confidence from high to medium because it is unclear whether Tejaratna was scribe or commissioner."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācāryya tejaratna",
+   "name": "Tejaratna",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "ṣunusvālavāhala (Svālavāhala?)",
+   "evidence": "tejaratna naṃtrelayā paṃditapini ... dakṣaṇā viyāo",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śubha samvat 1012 miti jyaṣṭhakṛṣṇasaptami śukravāra",
+  "era": "NS",
+  "year": "1012",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "saptamī",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1892"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for spreading virtues (guṇaprakāśa) and, through this merit, attaining the unsurpassed state (anuttarapada)",
+ "notes": "The colophon says only 'samvat', with no era named. The catalogue suggests VS with a query, but VS 1012 (about 955 CE) does not fit a Newari-language colophon of this kind. Nepal Samvat 1012 (1892 CE) is much more likely, though the weekday has not been checked. The catalogue calls Tejaratna the scribe. The Newari reads more like this: Tejaratna paid dakṣiṇā to (or through) paṇḍitas, who are not named, to have the Ratnāvadāna book made. The paṇḍitas may therefore be the actual copyists. Two readings are unclear: 'naṃtrelayā' and the prefix 'ṣunu-' in the vihāra name. The closing clause says the book must not be hidden, must be kept in circulation and copied for future generations, and curses anyone who covets it.",
+ "_meta": {
+  "reel": "B 101/3",
+  "model": "opus",
+  "cost_usd": 0.501566,
+  "secs": 33.6
+ }
+}

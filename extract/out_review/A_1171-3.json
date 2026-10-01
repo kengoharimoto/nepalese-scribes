@@ -1,0 +1,47 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes; notes slightly expanded on the corrupt word after 'lipir iyaṃ'."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnaraharer",
+   "name": "Narahari",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnaraharer llipir iyaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon closes only the first pāda of adhyāya 3 (fol. 35v), so this may be a sectional colophon rather than the manuscript's final one. 'śrīnaraharer lipir iyaṃ' ('this is the writing of Narahari') identifies Narahari as the scribe, which matches the catalogue. The cataloguer marks the word after 'lipir iyaṃ' as corrupt (†mariyaḥ†). It might hide a further qualification, such as an ownership phrase, but it cannot be interpreted. No date or place is given.",
+ "_meta": {
+  "reel": "A 1171/3",
+  "model": "opus",
+  "cost_usd": 0.058482,
+  "secs": 9.1
+ }
+}

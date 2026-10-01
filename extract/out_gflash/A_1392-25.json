@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgarga",
+   "name": "Garga",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgargaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīhariśarmaśarmaṇasya",
+   "name": "Hariśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ (!) midaṃ pustakaṃ śrīhariśarmaśarmaṇasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1755 māse 5 tithau 15",
+  "era": "ŚS",
+  "year": "1755",
+  "month": "5",
+  "paksa": "",
+  "tithi": "15",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1833"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The genitive form śrīhariśarmaśarmaṇasya exhibits dittography for śrīhariśarmaṇaḥ/śarmaṇasya, functioning as the agent of likhitam.",
+ "_meta": {
+  "reel": "A 1392/25",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 721,
+  "out_tok": 1184
+ }
+}

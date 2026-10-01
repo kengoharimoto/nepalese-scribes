@@ -1,0 +1,33 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. Notes now say that the era is inferred rather than stated, and that 'dhaṭakarpara' is a scribal slip for 'ghaṭakarpara'."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1920 || mi. kā. kṛ. 13 caṃ",
+  "era": "VS",
+  "year": "1920",
+  "month": "kārtika",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "candravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1863"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon belongs to the Ghaṭakarparakāvya and its ṭīkā ('dhaṭakarpara' is a slip for 'ghaṭakarpara') and names no persons. The era is not stated. I read it as Vikrama because of the Nepali-style abbreviation 'mi. kā. kṛ.' (miti kārtika kṛṣṇa) and because reading it as NS 1920 (about 2800 CE) is impossible. That gives VS 1920 kārtika kṛṣṇa 13, a Monday ('caṃ' = candravāra), around October–November 1863 CE. This does not match the catalogue fields (title Caurapañcāśikā, Samvat 1678 kārtika vadi 12 maṅgalavāra, donor Netrānanda miśra). Those fields probably describe a different manuscript or another part of the reel. Netrānanda is not in this colophon, so I have not recorded him.",
+ "_meta": {
+  "reel": "A 380/1",
+  "model": "opus",
+  "cost_usd": 0.06364600000000001,
+  "secs": 10.8
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadvallālasenadeva-",
+   "name": "Vallālasenadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "niḥśaṅkaśaṅkara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahārājādhirājaniḥśaṅkaśaṅka(4)raśrīmadvallālasenadevaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīratnākareṇa",
+   "name": "Ratnākara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīratnākareṇa likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīśrīsumatijayajitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumatijayajitāmitramalladevasana, bhāgirāmapradhānāṅgayā velaśa adbhutasāgara cocakā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "bhāgirāmapradhānāṅgayā",
+   "name": "Bhāgirāma",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "pradhānāṅga"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgirāmapradhānāṅgayā velaśa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "śrīratnākareṇa likhitaṃ ... śrīśrīsumatijayajitāmitramalladevasana ... cocakā"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 803 māghavadi, ṣaṣṭhī",
+  "era": "NS",
+  "year": "803",
+  "month": "Māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "6",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1683"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Bhāgirāma Pradhānāṅga as a scribe, but the Nevārī text states 'bhāgirāmapradhānāṅgayā velaśa' (during the time/administration of Bhāgirāma Pradhānāṅga), while Ratnākara is explicitly named as the scribe ('śrīratnākareṇa likhitaṃ').",
+ "_meta": {
+  "reel": "B 324/6",
+  "model": "gemini-flash-latest",
+  "secs": 7.7,
+  "in_tok": 963,
+  "out_tok": 2125
+ }
+}

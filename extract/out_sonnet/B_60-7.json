@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vīrabhadrasādhaka",
+   "name": "Vīrabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sādhaka"
+   ],
+   "affiliation": "",
+   "residence": "Rāmadila puṇyāśrama, Galkoṭa",
+   "evidence": "galkoṭadaśruśaile rāmadilamuṇyāśrame vīrabhadrasādhaka mumukṣuṇe(!) idaṃ pustakaṃ litaṃ(!)",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1887 || miti āśvina vadi 30 || roja 5",
+  "era": "VS",
+  "year": "1887",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa (vadi)",
+  "tithi": "30",
+  "weekday": "roja 5 (Thursday?)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1830"
+ },
+ "place": {
+  "as_written": "galkoṭadaśruśaile rāmadilamuṇyāśrame",
+  "normalized": "Galkot (Myagdi)"
+ },
+ "purpose": "Copied for a seeker of liberation (mumukṣu); \"mumukṣuṇe\" is probably a generic term, not a personal name.",
+ "notes": "Syntax is ambiguous: \"vīrabhadrasādhaka mumukṣuṇe idaṃ pustakaṃ litaṃ\" could mean either that Vīrabhadra the sādhaka wrote the book for a mumukṣu, or that it was written for the mumukṣu Vīrabhadra, with the nominative or dative form corrupted. I took Vīrabhadra as the scribe, following the catalogue. \"mumukṣuṇe\" is marked (!) and is not a name. \"daśruśaile\" is probably corrupt (perhaps \"daśaruśaile\"). \"puṇyāśrame\" is written \"muṇyāśrame\" in the colophon. Galkot is identified as the Galkot in Myagdi, which is plausible but not certain. \"roja 5\" is the weekday number. No king is named. The colophon names no other persons.",
+ "_meta": {
+  "reel": "B 60/7",
+  "model": "sonnet",
+  "cost_usd": 0.0319392,
+  "secs": 8.4
+ }
+}

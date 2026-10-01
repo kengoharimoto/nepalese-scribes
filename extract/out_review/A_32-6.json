@@ -1,0 +1,73 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Added reigning king Jayārjunadeva (low confidence): his name is in the lacuna before '-nāṃ vijayarājye' and is taken from the catalogue field. It fits NS 491 = 1371 CE, which falls within his reign (c. 1361–1382).",
+   "Added scribe Gomendracandra (low confidence): the colophon has 'svahastena likhitam', but the name is in the lacuna after 'śrīyokhācchevihārādhivāsi'. The name is taken from the catalogue field. Residence recorded as Yokhācche vihāra.",
+   "Purpose: the bare fragment '-rthahetunā' replaced with a description saying the purpose is in a lacuna.",
+   "Notes expanded about the viruda string and the place name."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "[lacuna] …-nāṃ (catalogue: Jayārjunadeva)",
+   "name": "Jayārjunadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājādhirājaparameśva⁅ra⁆/// -nāṃ vijayarājye śrīnepālamaṇḍale",
+   "confidence": "low"
+  },
+  {
+   "pid": "p2",
+   "as_written": "[lacuna] (catalogue: Gomendracandra)",
+   "name": "Gomendracandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Yokhācche vihāra",
+   "residence": "Yokhācche vihāra (śrīyokhācchevihārādhivāsi), Māṇīgalottara Mahāvihāra",
+   "evidence": "śrīyokhācchevi〇hārādhivāsi/// -rthahetunā svahastena likhitam",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "-nāṃ vijayarājye śrīnepālamaṇḍale"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 491 bhādrapadaśuklatṛtī〇yāyāṃ tithau hastanakṣatre śubhayoge bṛhaspativāsare",
+  "era": "NS",
+  "year": "491",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "3 (tṛtīyā)",
+  "weekday": "Thursday (bṛhaspativāra)",
+  "nakshatra_yoga": "Hasta; Śubha yoga",
+  "ce_approx": "1371"
+ },
+ "place": {
+  "as_written": "śrīmāṇīgalottaramahāvihāre",
+  "normalized": "Patan"
+ },
+ "purpose": "Lost in a lacuna; only '…-rthahetunā' survives (perhaps svārtha- or dharmārtha-)",
+ "notes": "The names of both the king and the scribe fall inside lacunae in the quoted colophon. Both are taken from the catalogue fields (probably from a fuller reading, e.g. Petech's), so their confidence is low. The royal praśasti (paśupaticaraṇakamala…, raghukuladīpaka, ṭoḍalamalla virudāvalī, vīranārāyaṇa) gives epithets, not separate persons. In 1371 the de facto ruler was Jayasthitimalla, and some of these virudas are associated with him. So it is possible that the lost name is not Jayārjunadeva, or that it is a joint reference ('-nāṃ' is an honorific or plural genitive). 'Māṇīgalottara mahāvihāra' points to Patan (Māṇīgala = the palace area of Patan). The catalogue's 'Galottara' is a truncation of this. The scribe's Yokhācche vihāra appears to be a branch vihāra under it. NS 491 + 880 = 1371 CE.",
+ "_meta": {
+  "reel": "A 32/6",
+  "model": "opus",
+  "cost_usd": 0.09876599999999999,
+  "secs": 24.2
+ }
+}

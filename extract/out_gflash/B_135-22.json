@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pravabhūlālaneṃ",
+   "name": "Prabhūlāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pravabhūlālaneṃ (!) likhi",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat || 1881 || mārgaśiragaśud〈〈i〉〉[[ī]]dvitīyāṃ (!) 3 śanau",
+  "era": "VS",
+  "year": "1881",
+  "month": "mārgaśira",
+  "paksa": "śukla",
+  "tithi": "dvitīyā 3",
+  "weekday": "śanau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1824"
+ },
+ "place": {
+  "as_written": "candrāvatīnagaryyaṃ",
+  "normalized": "Candrāvatī"
+ },
+ "purpose": "",
+ "notes": "The colophon is partly in vernacular Hindi (ergative construction 'pravabhūlālaneṃ likhi'). The tithi is written as 'dvitīyāṃ' followed by numeral 3. The divine author Ādināthonmattabhairava / Krodhīśabhairava is excluded as a mythical/deity figure.",
+ "_meta": {
+  "reel": "B 135/22",
+  "model": "gemini-flash-latest",
+  "secs": 8.4,
+  "in_tok": 805,
+  "out_tok": 1808
+ }
+}

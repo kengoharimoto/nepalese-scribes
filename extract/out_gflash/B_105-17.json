@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jñānamunidevana",
+   "name": "Jñānamunideva",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jñānamunidevana svārthena (5) svahastena likhitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 8〇17 pauṣakṛṣṇa saptami thvakuhnu",
+  "era": "NS",
+  "year": "817",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "saptamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1697"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthena",
+ "notes": "",
+ "_meta": {
+  "reel": "B 105/17",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 1045,
+  "out_tok": 811
+ }
+}

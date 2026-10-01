@@ -1,0 +1,124 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daṃḍinaḥ",
+   "name": "Daṇḍin",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daṃḍinaḥ kṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "tārānidhinā",
+   "name": "Tārānidhi",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "kāśyāṃ",
+   "evidence": "tārānidhinā likhitaṃ svārthaṃ kāśyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "tripāṭhitrilokacaṃdra",
+   "name": "Trilokacandra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "tripāṭhī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmattripāṭhitrilokacaṃdrātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "kṛṣṇarāma",
+   "name": "Kṛṣṇarāma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "trilokacaṃdrātmajakṛṣṇarāma",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śivarāma",
+   "name": "Śivarāma",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śivarāmakṛtau daśakumārabhūṣaṇe",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "maṇirāmaḥ",
+   "name": "Maṇirāma",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "maheśanagaryāṃ",
+   "evidence": "prālikhac chivatithau maṇirāmaḥ | | svārtham",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "trilokacaṃdrātmajakṛṣṇarāma"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "kṛṣṇarāmasūnuśivarāma"
+  }
+ ],
+ "date": {
+  "as_written": "tatvajīvanadasaṃmitaśāke māsi cāśvayuji mecakapakṣe | ravyanehasi ... chivatithau",
+  "era": "ŚS",
+  "year": "1725",
+  "month": "Āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "14",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1803"
+ },
+ "place": {
+  "as_written": "maheśanagaryāṃ (also kāśyāṃ)",
+  "normalized": ""
+ },
+ "purpose": "svārtham",
+ "notes": "The manuscript contains two colophons: the mūla colophon copied by Tārānidhi at Kāśī, and the ṭīkā colophon copied by Maṇirāma at Maheśanagarī in ŚS 1725 (mecakapakṣe = kṛṣṇapakṣe, ravyanehasi = Sunday, śivatithi = caturdaśī).",
+ "_meta": {
+  "reel": "A 381/14",
+  "model": "gemini-flash-latest",
+  "secs": 12.0,
+  "in_tok": 932,
+  "out_tok": 2933
+ }
+}

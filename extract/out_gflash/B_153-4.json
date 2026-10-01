@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvaṃśīdharaśarmaṇā",
+   "name": "Vaṃśīdhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam iti śaktisaṃgamatantraṃ śrīvaṃśīdharaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 825 caitraśudi ekādaśyāṃ",
+  "era": "NS",
+  "year": "825",
+  "month": "caitra",
+  "paksa": "śudi",
+  "tithi": "ekādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1705"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 153/4",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 824,
+  "out_tok": 785
+ }
+}

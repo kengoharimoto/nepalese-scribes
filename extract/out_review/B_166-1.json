@@ -1,0 +1,108 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p4: name read as Chaganajīvana (a common Gujarati personal name, Chhaganjīvan) rather than 'Chaganajī'; role changed from commissioner to owner, since 'paṇḍitasya ... pustakaṃ' marks possession and nothing says he had it copied (no likhāpita). Confidence lowered to low.",
+   "p2: noted that the commentator is called 'śrīnātha gosvāmibhiḥ' in the verse but Harinātha in the prose colophon.",
+   "date: tithi given as 'dvitīyā (2)'; year field cleaned; the ŚS figure and the discordance between the eras are kept in notes; the chronogram reading is reconsidered in notes.",
+   "notes expanded: the composition-date chronogram, 'vṛṣe', the garbled passage, and 'mutharaśa'."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "manohara",
+   "name": "Manohara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīman manohara sūnunā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "harinātha",
+   "name": "Harinātha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "gosvāmin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gosvāminā harinātha kṛtāyāṃ vaidyajīvanaṭīkāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "puruṣottama",
+   "name": "Puruṣottama",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiṃ[[ta]] puruṣottama bhrāmhana (!)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "chaganajīvrane",
+   "name": "Chaganajīvana",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṃḍītasya (!) chaganajīvrane pustakalītaṃ (!) pustakaṃ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīman manohara sūnunā gosvāminā harinātha"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "likhiṃ[[ta]] puruṣottama bhrāmhana (!) paṃḍītasya (!) chaganajīvrane ... pustakaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "miti āsvī dvitīyāṃ 2 maṃgalavāsare || || saṃvat || || 1890 || || vṛṣe śākha || || 17 || 14 ||",
+  "era": "VS",
+  "year": "1890",
+  "month": "Āśvina",
+  "paksa": "",
+  "tithi": "dvitīyā (2)",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1833"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The copy is dated VS 1890 (c. 1833 CE). The following 'vṛṣe śākha 17 14' would be ŚS 1714 (c. 1792 CE). That conflicts with the VS year, which corresponds to ŚS 1755. 'vṛṣe' may be the name of the Jovian year (Vṛṣa) rather than part of the era. The Vikrama year is preferred here.\n\nThe verse 'śrīmad bhūpati vikramād gaṇanā khaṃ vahni sindhubhi sindubhir ... jyeṣṭha asi saptamī ... bhṛgau iyaṃ ṭīkā ... racī(tā) śrīnātha gosvāmibhiḥ' gives the date when the ṭīkā was COMPOSED (Jyeṣṭha, dark half, day 7, a Friday), not the copy date. The chronogram is uncertain. Read right to left, kha=0 and vahni=3 give a year ending in -30. The doubled 'sindhu' (4 or 7) looks like dittography, so a reading such as VS 1730 cannot be secured.\n\nThe commentator is 'harinātha' in the prose colophon but 'śrīnātha gosvāmibhiḥ' in the verse; this is probably 'śrī[hari]nātha'.\n\n'cautastvaṃṭamārithe śarayure dhāryā bhiṣagbhiḥ' is garbled, roughly 'to be kept by physicians'. A place name (Sarayū?) is possible but uncertain.\n\n'chaganajīvrane' is probably a corruption of Chaganajīvana (+ -ena/-sya). The book is said to be his ('paṇḍitasya ... pustakaṃ'). 'paṇḍita' could instead belong to Puruṣottama.\n\nThe final 'śrī mutharaśa (!)' is unclear: it may be Mathurā (the place) or a personal name. It is not recorded as either.",
+ "_meta": {
+  "reel": "B 166/1",
+  "model": "opus",
+  "cost_usd": 0.2046424,
+  "secs": 46.7
+ }
+}

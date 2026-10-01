@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhajanāthaśarmaṇā",
+   "name": "Bhajanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhajanāthaśarmaṇā (9) likhitam etat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "1836 saṃvat",
+  "era": "VS",
+  "year": "1836",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1779"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 58/13",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 681,
+  "out_tok": 581
+ }
+}

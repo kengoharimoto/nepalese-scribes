@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Purpose added: the copy was read by or made for the scribe's unnamed son ('tasya putre (!) paṭhitaṃ').",
+   "Scribe's confidence lowered to medium: 'Dhaṃju' is probably a short form of Dhanañjaya, and the scribe/title split is uncertain.",
+   "Date notes extended: 'dinagatā 9' is the solar day (gate) 9 of Jyeṣṭha, as distinct from the lunar tithi 6.",
+   "Notes extended: the catalogue's king field (Dravya Śāha, the Gorkha king of c. 1559–1570) does not fit ŚS 1727 = 1805 CE and is not in the colophon."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dhaṃjujaisi",
+   "name": "Dhaṃju",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jaisī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ dhaṃjujaisi",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1727 jyeṣṭhamāsye (!) kṛṣṇapakṣe 6 dinagatā 9 tadinye (!)",
+  "era": "ŚS",
+  "year": "1727",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "6",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1805"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "read by / for the scribe's son (tasya putre paṭhitaṃ)",
+ "notes": "'tasya putre (!) paṭhitaṃ' is read as 'read by his (the scribe's) son' or 'for his son's reading'. The son is not named, so he is not listed as a person. 'Dhaṃju' is probably a short form of Dhanañjaya. 'jaisi' is the Jaisī brahmin caste name, so it goes in titles. 'dinagatā 9' is the solar day (gate) 9 of the month Jyeṣṭha. ŚS 1727 + 78 = 1805 CE (Jyeṣṭha falls in May/June 1805). The catalogue gives Śrīdravyasāha as king, but he is not in the quoted colophon. Dravya Śāha ruled Gorkha c. 1559–1570, which does not fit an 1805 copy. The catalogue entry is probably wrong, or the name comes from elsewhere in the manuscript. The colophon ends a section on calculating the true positions of the planets (grahaspaṣṭīkaraṇādhikāra), so this Mugdhabodha is an astronomical (jyotiṣa) text, not the grammar of that name.",
+ "_meta": {
+  "reel": "A 419/18",
+  "model": "opus",
+  "cost_usd": 0.065143,
+  "secs": 19.1
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: name normalized to stem 'Śaṅkara' with 'ācārya' moved to titles (alongside paramahaṃsa, parivrājakācārya).",
+   "p2: name normalized to 'Govinda'; 'bhagavat' and 'pūjyapāda' moved to titles. The role changed from 'teacher' to 'other', because Govinda is the author's teacher, not a teacher connected with this copy.",
+   "Notes expanded: the commentator is not named, and the catalogue's scribe and date are not in the quoted text."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmatcchaṃkarācārya",
+   "name": "Śaṅkara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya",
+    "paramahaṃsa",
+    "parivrājakācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatcchaṃkarācārya viracitātmavodha prakaraṇaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "goviṃdabhagavatpūjyapāda",
+   "name": "Govinda",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "bhagavat",
+    "pūjyapāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "goviṃdabhagavatpūjyapādaśiṣya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "goviṃdabhagavatpūjyapādaśiṣya śrīmatcchaṃkarācārya"
+  }
+ ],
+ "date": {
+  "as_written": "śrāvaṇadvādaśī",
+  "era": "none",
+  "year": "",
+  "month": "Śrāvaṇa",
+  "paksa": "",
+  "tithi": "dvādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The quoted colophon gives no year. The catalogue's date (ŚS 1726 ≈ 1804 CE) and scribe (Suṃdarānaṃda) are not in the quoted text. They may come from another part of the manuscript that the cataloguer did not quote, so Suṃdarānaṃda is not added as a person here. The colophon names Śaṅkara as the author of the root text (Ātmabodhaprakaraṇa) but does not name the commentator. 'likhitaṃ(?)' is the cataloguer's uncertain reading.",
+ "_meta": {
+  "reel": "A 990/26",
+  "model": "opus",
+  "cost_usd": 0.075474,
+  "secs": 14.9
+ }
+}

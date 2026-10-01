@@ -1,0 +1,71 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Śāraṅgadhara: added role 'owner', because 'svārthāya pāṭhāya' means he copied it for his own study",
+   "p2: the corrupt 'vainasbhūpanāmni' is read as 'narabhūpanāmni' and the king is given as Narabhūpāla Śāha, matching the catalogue and the date; removed 'bhūpa' as a title because it is part of the name; confidence stays medium",
+   "date.month: '4' is now glossed as Āṣāḍha when counted from Caitra (pūrṇimānta ≈ Śrāvaṇa kṛṣṇa), not simply 'Śrāvaṇa'",
+   "notes: added the corrupt metrical chronogram and how the two date statements conflict"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śāraṅgadharaḥ",
+   "name": "Śāraṅgadhara",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Gorkhā",
+   "evidence": "lilekha śāraṅgadharaḥ sudhīmān svārthāya pāṭhāya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vainasbhūpanāmni",
+   "name": "Narabhūpāla Śāha",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Gorkhā",
+   "evidence": "virājite vainasbhūpanāmni",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "gorṣā nagaryāṃ kilarājadhānyaṃ virājite vainasbhūpanāmni || lilekha śāraṅgadharaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1661 māse 4 kṛṣṇapakṣe tithau 14 vāre 2",
+  "era": "ŚS",
+  "year": "1661",
+  "month": "4 (Āṣāḍha if counted from Caitra; = Śrāvaṇa kṛṣṇa in pūrṇimānta reckoning)",
+  "paksa": "kṛṣṇa",
+  "tithi": "14",
+  "weekday": "Monday (vāre 2)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1739"
+ },
+ "place": {
+  "as_written": "gorṣā nagaryāṃ kilarājadhānyaṃ",
+  "normalized": "Gorkha"
+ },
+ "purpose": "svārthāya pāṭhāya (for the scribe's own study)",
+ "notes": "'vainasbhūpanāmni' is corrupt. It is probably 'narabhūpanāmni' ('when the king named Nara[bhūpāla] shines'). This would be Narabhūpāla Śāha of Gorkha (r. c. 1716–1743), which fits ŚS 1661 = 1739 CE and agrees with the catalogue. The second, metrical date (verse 2) has a corrupt bhūtasaṃkhyā chronogram, 'śākegāṃ'kādīnduke', marked (!) by the cataloguer. Only 'indu' = 1 (the thousands digit, read right to left) is clear. 'aṅka' (9) and 'adri' (7) would not give 1661 unless they are corruptions, for example of 'aṅga' (6). The second verse also gives Śrāvaṇa śukla, tithi 'śaṃbhu' (probably 14, Śiva's caturdaśī; possibly 11 if Śambhu = Rudra), and 'abja' (Moon) = Monday. This conflicts with the prose date, month 4 kṛṣṇa 14, Monday. If month 4 is Āṣāḍha (amānta), the prose date is the same as Śrāvaṇa kṛṣṇa 14 (pūrṇimānta). Even so, kṛṣṇa and śukla 14 are about 15 days apart, so the two dates cannot both fall on a Monday. Perhaps the verse gives the date the copying was completed, or it is a scribal slip. Both dates fall around July–August 1739 CE.",
+ "_meta": {
+  "reel": "A 413/39",
+  "model": "opus",
+  "cost_usd": 0.540582,
+  "secs": 45.5
+ }
+}

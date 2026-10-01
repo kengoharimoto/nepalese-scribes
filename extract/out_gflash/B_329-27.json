@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivarāja",
+   "name": "Śivarāja",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "śūramahāṭha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śūramahāṭhaśrī śivarāja vinirmite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śarapaṃcaśaila kumite 1755 madhukṛṣṇa śailajātadine",
+  "era": "ŚS",
+  "year": "1755",
+  "month": "madhu",
+  "paksa": "kṛṣṇa",
+  "tithi": "śailajātadina",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1833"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "guruprītyai",
+ "notes": "The scribe is anonymous. The chronogram śara-pañca-śaila-ku gives 1755, confirmed by the catalogue as Śaka 1755.",
+ "_meta": {
+  "reel": "B 329/27",
+  "model": "gemini-flash-latest",
+  "secs": 7.9,
+  "in_tok": 766,
+  "out_tok": 1406
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mādhava",
+   "name": "Mādhava",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "sārasvatakula",
+   "residence": "Kāśī",
+   "evidence": "mādhavaviracita",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chapter colophon of the Āyurvedaprakāśa naming its author, Mādhava Upādhyāya, resident of Kāśī.",
+ "_meta": {
+  "reel": "A 963/21",
+  "model": "gemini-flash-latest",
+  "secs": 2.9,
+  "in_tok": 683,
+  "out_tok": 498
+ }
+}

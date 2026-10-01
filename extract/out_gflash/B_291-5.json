@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kālīdāsena śarmaṇā",
+   "name": "Kālidāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ mṛgagerkepi kālīdāsena śarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vāṇāṣṭātyaṣṭi(!) śakābde ... mṛgagerkepi",
+  "era": "ŚS",
+  "year": "1785",
+  "month": "mṛgage 'rke",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1863"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram: vāṇa (5) + aṣṭa (8) + atyaṣṭi (17) = Śaka 1785. The month is indicated by the sun in Makara ('mṛgage 'rke').",
+ "_meta": {
+  "reel": "B 291/5",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 772,
+  "out_tok": 973
+ }
+}

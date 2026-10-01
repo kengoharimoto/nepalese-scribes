@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon contains only a chapter/work conclusion, a standard scribal apology formula (yadi śuddham aśuddhaṃ vā... lekhako nāsti doṣakaḥ), and a benediction. No individual names or dates are given.",
+ "_meta": {
+  "reel": "A 1292/12",
+  "model": "gemini-flash-latest",
+  "secs": 2.6,
+  "in_tok": 737,
+  "out_tok": 470
+ }
+}

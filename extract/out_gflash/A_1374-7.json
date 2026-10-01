@@ -1,0 +1,61 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mādhavabhaṭṭa",
+   "name": "Mādhavabhaṭṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahāmahopādhyāya śrī mādhavabhaṭṭa viracito",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvidyānanda upādhyāyayā",
+   "name": "Vidyānanda",
+   "roles": [
+    "owner",
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvidyānanda upādhyāyayā saṃphūlithva",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 833 vaiśāṣa kṛṣṇatrayodaśī pracatuddeśī somavāra",
+  "era": "NS",
+  "year": "833",
+  "month": "vaiśāṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī pracatuddeśī",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1713"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records Vidyānanda Upādhyāya as the scribe; the colophon specifically marks ownership with Newari genitive phrasing (śrīvidyānanda upādhyāyayā saṃphūli thva, 'this is the book of Vidyānanda Upādhyāya').",
+ "_meta": {
+  "reel": "A 1374/7",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 776,
+  "out_tok": 1524
+ }
+}

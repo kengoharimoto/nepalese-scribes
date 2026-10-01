@@ -1,0 +1,77 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "madvācaspati miśra",
+   "name": "Vācaspati",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī madvācaspati miśra sūnu",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "lakṣmīdāsa",
+   "name": "Lakṣmīdāsa",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "madvācaspati miśra sūnu lakṣmīdāsa viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bhāskaroya",
+   "name": "Bhāskara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāskaroya siddhāṃta śiromaṇI",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "madvācaspati miśra sūnu lakṣmīdāsa"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1848 kā miti vaisāṣa kṛṣṇa yekādaśī 11 vāra guruvāraḥ",
+  "era": "VS",
+  "year": "1848",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "guruvāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1791"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 330/6",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 754,
+  "out_tok": 1282
+ }
+}

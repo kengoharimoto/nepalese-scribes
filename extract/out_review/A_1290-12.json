@@ -1,0 +1,71 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name normalized to Kāśīnātha (as written kāśinātha, short i; the catalogue also has Kāśīnātha)",
+   "purpose given in shortened form: 'for Yogeśvara (yogeśvarārtham); parameśvarārpaṇam'",
+   "notes: added the chronogram check and a weekday check"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāśinātha śarmaṇā",
+   "name": "Kāśīnātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāśinātha śarmaṇālikhat",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "yogeśvarārthañ",
+   "name": "Yogeśvara",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yogeśvarārthañceti",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "kāśinātha śarmaṇālikhat yogeśvarārthañceti"
+  }
+ ],
+ "date": {
+  "as_written": "bhūśarāṅkendu 1951 saṃyukte śāke vikramakemite . ravenhyūrjasitepakṣe trayodaśyām",
+  "era": "VS",
+  "year": "1951",
+  "month": "Kārttika (Ūrja)",
+  "paksa": "śukla",
+  "tithi": "trayodaśī",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1894"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for Yogeśvara (yogeśvarārtham); parameśvarārpaṇam",
+ "notes": "The chronogram bhū(1) śara(5) aṅka(9) indu(1), read right to left, gives 1951, which matches the figures. 'śāke vikramake mite' uses śāka in its general sense of 'era', and the era named is Vikrama. So the date is VS 1951 = c. Nov 1894 CE (Kārttika śukla 13, Sunday). The catalogue's 'ŚS 1951' cannot be right, because it would correspond to 2029 CE. I did not verify the weekday precisely. 'Yogeśvarārtham' most likely names a person (perhaps a yogin) for whom the copy was made, but it could also be a devotional dedication to Śiva as Yogeśvara, since parameśvarārpaṇam follows. The scribe's name is written kāśinātha (short i) and normalized to Kāśīnātha. The text is a section of a Haṭhapradīpikā framed as an Umāmaheśvarasaṃvāda.",
+ "_meta": {
+  "reel": "A 1290/12",
+  "model": "opus",
+  "cost_usd": 0.083914,
+  "secs": 18.0
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday normalized: 'roja 6' = 6th day of the week = Friday",
+   "place.normalized refined to Chabahil (Cāvahil), Kathmandu Valley; as_written trimmed to the place phrases",
+   "notes expanded: Hilavāla treated as a surname/clan name; 'gaṇeśā sase' read as 'near Gaṇeśa' (Cāvahil Gaṇeśa); weekday not checked"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "amvaradhoja hilavāla",
+   "name": "Ambaradhvaja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "hilavāla"
+   ],
+   "affiliation": "",
+   "residence": "cāvela grāme",
+   "evidence": "cāvela grāme śrī amvaradhoja hilavāla liṣete",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1938 sāla mīti jeṣṭha sudi 6 roja 6",
+  "era": "VS",
+  "year": "1938",
+  "month": "jyeṣṭha",
+  "paksa": "śukla (sudi)",
+  "tithi": "6",
+  "weekday": "Friday (roja 6)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1881"
+ },
+ "place": {
+  "as_written": "pasupati guhyeśvari nikaṭe || cavivela gaṇeśā sase || cāvela grāme",
+  "normalized": "Chabahil (Kathmandu Valley)"
+ },
+ "purpose": "",
+ "notes": "The book was copied in Cāvela village (Chabahil, also spelled Cāvahil), near Paśupati and Guhyeśvarī. 'cavivela gaṇeśā sase' probably means 'beside the Cāvahil Gaṇeśa' (Chabahil Gaṇeśa temple). 'Hilavāla' is probably a family or clan name and is kept as a title. 'Amvaradhoja' is the Nepali form of Ambaradhvaja. The era is unspecified ('samvat … sāla'), but the Nepali phrasing ('sāla mīti', 'roja') points to Vikrama Saṃvat, which gives 1881 CE for VS 1938. The weekday was not checked against the tithi. The catalogue fields agree with this reading.",
+ "_meta": {
+  "reel": "A 1379/9",
+  "model": "opus",
+  "cost_usd": 0.073202,
+  "secs": 14.4
+ }
+}

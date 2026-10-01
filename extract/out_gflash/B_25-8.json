@@ -1,0 +1,88 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayajyoti mala(!)devānām",
+   "name": "Jayajyotimalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "śrīrājādhirāja",
+    "parameśvara",
+    "bhaṭṭāraka",
+    "nārāyaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrājādhirāja parameśvara bhaṭṭārakasya nārāyana(!) śrī śrī jayajyoti mala(!)devānām rājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vijayarāje(!)",
+   "name": "Vijayarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vijayarāje(!) likhitam idam",
+   "confidence": "low"
+  },
+  {
+   "pid": "p3",
+   "as_written": "manokusośarmanasothe",
+   "name": "Manokusośarman",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "dvijavarottama"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvija baruttama śrī manokusośarmanasothe likhitedam śāstraṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "jayajyoti mala(!)devānām rājye vijayarāje(!) likhitam"
+  },
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "vijayarāje(!) likhitam idam uḍīsara śāstuṃ ... śrī manokusośarmanasothe likhitedam śāstraṃ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat (139) kārttika śukla ----- (viśākha) nakṣatraḥ | āyodhānayogeḥ | ravivāre",
+  "era": "NS",
+  "year": "(139)",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "ravivāre",
+  "nakshatra_yoga": "(viśākha) nakṣatraḥ | āyodhānayogeḥ",
+  "ce_approx": "1419"
+ },
+ "place": {
+  "as_written": "mānīsake śrī dakṣiṇe vihāre śrī yotho vihāra",
+  "normalized": ""
+ },
+ "purpose": "for Manokusośarman",
+ "notes": "The year is transcribed as (139), but Jayajyotimalla ruled around NS 528–548, meaning the first digit was likely a damaged 5 (NS 539 = 1419 CE). The catalogue identifies Vijayarāja as the scribe based on 'vijayarāje(!) likhitam', although this may be a corruption of 'vijayarājye'. 'manokusośarmanasothe' likely reflects 'manokusośarmaṇas tasyārthe' (or 'manokusumaśarmaṇas tasyārthe'), indicating Manokusośarman as the commissioner.",
+ "_meta": {
+  "reel": "B 25/8",
+  "model": "gemini-flash-latest",
+  "secs": 20.4,
+  "in_tok": 950,
+  "out_tok": 4919
+ }
+}

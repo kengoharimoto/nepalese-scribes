@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jagannāthaśarmaṇā",
+   "name": "Jagannātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ jagannāthaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "mārgaśuklaekādaśyāṃ guruvāsare || ... śāke 1776 māse 8 tiºº 11",
+  "era": "ŚS",
+  "year": "1776",
+  "month": "mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1854"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 337/3",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 785,
+  "out_tok": 851
+ }
+}

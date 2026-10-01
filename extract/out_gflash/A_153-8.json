@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jitānandena",
+   "name": "Jitānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ likhitaṃ jitānandena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1914 sāla miti āṣāḍhaśudi 2 maṃgalavāsare",
+  "era": "VS",
+  "year": "1914",
+  "month": "āṣāḍha",
+  "paksa": "śudi",
+  "tithi": "2",
+  "weekday": "maṃgalavāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1857"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 153/8",
+  "model": "gemini-flash-latest",
+  "secs": 2.8,
+  "in_tok": 783,
+  "out_tok": 695
+ }
+}

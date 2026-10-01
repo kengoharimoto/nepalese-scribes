@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsadānanda-",
+   "name": "Sadānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsadānandaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The number 380 at the end likely indicates the grantha (śloka) count of the text rather than a date.",
+ "_meta": {
+  "reel": "A 901/7",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 706,
+  "out_tok": 637
+ }
+}

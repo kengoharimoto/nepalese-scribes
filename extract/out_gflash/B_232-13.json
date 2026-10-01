@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśyāmagirī gosāī",
+   "name": "Śyāmagiri",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "gosāī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "postakaṃ liṣitaṃ śrīśyāmagirī gosāī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsā(!)ke 1696 saṃvatsara 1831 māse jyaṣṭadinagatā 28 tithau 13 nakṣatra 3 vāre 3 śukama(!)yoga",
+  "era": "ŚS",
+  "year": "1696",
+  "month": "Jyeṣṭha",
+  "paksa": "",
+  "tithi": "13",
+  "weekday": "vāre 3",
+  "nakshatra_yoga": "nakṣatra 3, śukamayoga",
+  "ce_approx": "1774"
+ },
+ "place": {
+  "as_written": "śrīśivamatiśrīśū(!)ryyamatimadhyamāyāṃ śrīnīlakaṃṭhasami(!)pe śrībhairavīkṣatre śrīkailāsyaśvarasthāne kavilāsagrāme",
+  "normalized": "Kabilas"
+ },
+ "purpose": "",
+ "notes": "Both Śaka era 1696 and Vikrama Saṃvat 1831 are specified with a solar day count (Jyeṣṭha dinagatā 28).",
+ "_meta": {
+  "reel": "B 232/13",
+  "model": "gemini-flash-latest",
+  "secs": 7.8,
+  "in_tok": 814,
+  "out_tok": 1708
+ }
+}

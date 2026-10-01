@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnārā〇yaṇaśarmmā",
+   "name": "Nārāyaṇaśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnārā〇yaṇaśarmmālikhad idaṃ pustakam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "lasaṃ 507 āśvinaśu〈〈kla〉〉klaikādaśyāṃ śukre",
+  "era": "LS",
+  "year": "507",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1626"
+ },
+ "place": {
+  "as_written": "visapīgrāme",
+  "normalized": "Bisfi"
+ },
+ "purpose": "",
+ "notes": "Visapīgrāma corresponds to modern Bisfi in Mithila (Bihar). The invocations 'gopālagati', 'śrīvaidyanāthagati', 'rāmacandragati', and 'hariharābhyāṃ namaḥ' are devotional formulae referring to deities.",
+ "_meta": {
+  "reel": "A 19/9",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 778,
+  "out_tok": 1537
+ }
+}

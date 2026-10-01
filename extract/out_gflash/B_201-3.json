@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī-aśvinīkumāravipreṇa",
+   "name": "Aśvinīkumāra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī-aśvinīkumāravipreṇa liṣi(!)taṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīha(‥‥māra)dvija",
+   "name": "Ha...māra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīha(‥‥māra)dvijātmaja",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīha(‥‥māra)dvijātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1011 miti caitraśudī(!) 9 roja 3",
+  "era": "unspecified",
+  "year": "1011",
+  "month": "caitra",
+  "paksa": "śuklapakṣa",
+  "tithi": "9",
+  "weekday": "roja 3",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The father's name is partly illegible: śrīha(‥‥māra). The era is given only as 'samvat 1011'; if Nepāla Saṃvat, it corresponds to c. 1891 CE.",
+ "_meta": {
+  "reel": "B 201/3",
+  "model": "gemini-flash-latest",
+  "secs": 10.0,
+  "in_tok": 780,
+  "out_tok": 2224
+ }
+}

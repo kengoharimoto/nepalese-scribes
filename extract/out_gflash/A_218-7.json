@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jitendrānaṃdena",
+   "name": "Jitendrānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "mahābuddhopāsaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jitendrānaṃdena saṃpūrṃ likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1959 miti jyeṣṭha sudi 2 roja 1",
+  "era": "VS",
+  "year": "1959",
+  "month": "jyeṣṭha",
+  "paksa": "sudi",
+  "tithi": "2",
+  "weekday": "roja 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1902"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 218/7",
+  "model": "gemini-flash-latest",
+  "secs": 2.8,
+  "in_tok": 701,
+  "out_tok": 616
+ }
+}

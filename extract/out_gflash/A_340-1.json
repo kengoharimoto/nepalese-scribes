@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śake(!) 1693 kharanāmasaṃvatsre bhādrapadādya dvitiyā(!) saumyavāsare",
+  "era": "ŚS",
+  "year": "1693",
+  "month": "bhādrapada",
+  "paksa": "",
+  "tithi": "dvitīyā",
+  "weekday": "saumyavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1771"
+ },
+ "place": {
+  "as_written": "ñamaṇeśvaraṣasan(!)",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Catalogue lists the date as ŚS 1993, but the colophon clearly reads 'śake 1693 kharanāmasaṃvatsre', which corresponds to 1771 CE (Khara cycle). 'ñamaṇeśvaraṣasan' is obscure, likely referring to a location or religious institution/seat rather than an individual. No human agents (scribe, commissioner, etc.) are named.",
+ "_meta": {
+  "reel": "A 340/1",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 720,
+  "out_tok": 923
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sumati jaya jitāmitramalladevasana",
+   "name": "Jitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati",
+    "jaya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sumati jaya jitāmitramalladevasana cocakāva dayakā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 801 naṣṭa āśvani vadi 2 thvakuhnu",
+  "era": "NS",
+  "year": "801",
+  "month": "naṣṭa āśvani",
+  "paksa": "vadi",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1681"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records Bhaktapur as place of copying, but no place name is given in the quoted colophon text.",
+ "_meta": {
+  "reel": "A 1239/26",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 733,
+  "out_tok": 759
+ }
+}

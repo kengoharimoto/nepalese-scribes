@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dinakara",
+   "name": "Dinakara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "Bhāradvāja",
+   "residence": "",
+   "evidence": "dinakarakṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kṛṣṇabhaṭṭa",
+   "name": "Kṛṣṇabhaṭṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "Bhāradvāja",
+   "residence": "",
+   "evidence": "kṛṣṇabhaṭṭātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīkṛṣṇajośī",
+   "name": "Śrīkṛṣṇa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "Rāmanagara",
+   "evidence": "pustakam idaṃ śrīkṛṣṇajośī || rāmanagara bālo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "kṛṣṇabhaṭṭātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1864 māse caitra sule(!) pakṣa 11",
+  "era": "VS",
+  "year": "1864",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1807"
+ },
+ "place": {
+  "as_written": "rāmanagara",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records 'Scribe: Padmanābhadvija; Date of Copying: ŚS 1701', which does not match this colophon portion (saṃvat 1864, pustakam idaṃ śrīkṛṣṇajośī rāmanagara bālo).",
+ "_meta": {
+  "reel": "A 356/2",
+  "model": "gemini-flash-latest",
+  "secs": 9.4,
+  "in_tok": 753,
+  "out_tok": 2172
+ }
+}

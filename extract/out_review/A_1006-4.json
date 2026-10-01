@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Residence of Padmanātha cleared: kāṃtipuryāṃ is the place of copying, not stated as his residence",
+   "Tithi interpreted: 'śaṃbhoḥ tithau' = Śiva's tithi, normally caturdaśī (14); kept as-written form with interpretation",
+   "Weekday: 'vāre 4' = Wednesday, matching 'budhe'; noted the consistency",
+   "Notes revised: the verse chronogram is incomplete/corrupt (only guṇa=3 and 'jalada' are given; 'jaladair' is not a standard number word for 2/7/1), so 1723 rests on the numeral; adhika Jyeṣṭha left unverified"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "padmānāthadvijāṃ",
+   "name": "Padmanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāṃtipuryāṃ ya(!) padmānāthadvijāṃ likhat(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1723 || jeṣṭā(!)dhikavāre 4 ... śāke guṇe jaladair mite jyeṣṭā(!)dhike budhe tithau śaṃbhoḥ",
+  "era": "ŚS",
+  "year": "1723",
+  "month": "Jyeṣṭha (adhika)",
+  "paksa": "",
+  "tithi": "śambhoḥ tithi (probably caturdaśī, 14)",
+  "weekday": "Wednesday (budha; vāre 4)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1801"
+ },
+ "place": {
+  "as_written": "kāṃtipūrvaṃ / kāṃtipuryāṃ",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "\"\"",
+ "notes": "The year is given only as the numeral ŚS 1723 (= c. 1801 CE). The verse chronogram 'śāke guṇe jaladair mite' is incomplete or corrupt. Guṇa = 3 fits the last digit, but the other digits are not recoverable: 'jaladaiḥ' is not a standard bhūtasaṃkhyā word, and the verse cannot confirm 1723. 'vāre 4' agrees with 'budhe' (Wednesday). 'śaṃbhoḥ tithau' most likely means caturdaśī, Śiva's tithi. The pakṣa is not stated. Whether Jyeṣṭha was intercalary (adhika) in ŚS 1723 has not been checked. 'kāṃtipūrvaṃ' is evidently an error for kāṃtipuryāṃ (Kathmandu). The scribe's name is written 'padmānātha' in the accusative with a corrupt verb ('ya ... likhat'). The stem is read as Padmanātha, which matches the catalogue's 'Padma Nātha'.",
+ "_meta": {
+  "reel": "A 1006/4",
+  "model": "opus",
+  "cost_usd": 0.08332200000000001,
+  "secs": 19.4
+ }
+}

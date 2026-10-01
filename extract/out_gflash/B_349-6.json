@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkāśinātha",
+   "name": "Kāśīnātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkāśināthakṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nagarśā(!)śvarabhūśāke bhādre śukle ca paṃcamī",
+  "era": "ŚS",
+  "year": "1777",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1855"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date is expressed by a chronogram in Śaka era: naga (7), ṛṣi/aśva? (7), aśva (7), bhū (1) = ŚS 1777.",
+ "_meta": {
+  "reel": "B 349/6",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 725,
+  "out_tok": 717
+ }
+}

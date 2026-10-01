@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1828 āśāḍa vīdī (!) 10 guru",
+  "era": "VS",
+  "year": "1828",
+  "month": "āśāḍa",
+  "paksa": "vīdī",
+  "tithi": "10",
+  "weekday": "guru",
+  "nakshatra_yoga": "",
+  "ce_approx": "1771"
+ },
+ "place": {
+  "as_written": "avaṃtīmadhya",
+  "normalized": "Ujjain"
+ },
+ "purpose": "",
+ "notes": "The colophon breaks off after 'vrā (!)', likely the beginning of 'brāhmaṇa...' or a personal name; no complete person name is preserved.",
+ "_meta": {
+  "reel": "B 331/25",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 679,
+  "out_tok": 739
+ }
+}

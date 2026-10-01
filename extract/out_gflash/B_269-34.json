@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devadatto",
+   "name": "Devadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvijendra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devadatto dvijendraḥ || samalikhad",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vidhunagaghanaśāke jñe śive ... nabhasi ca śitipakṣe",
+  "era": "ŚS",
+  "year": "1771",
+  "month": "nabhas",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1849"
+ },
+ "place": {
+  "as_written": "kāntipuryāṃ",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "Chronogram: vidhu (1), naga (7), ghana (7?), [1?] resolved by the cataloguer as ŚS 1771; śiva = 11th tithi; jña = Wednesday; nabhas = Śrāvaṇa.",
+ "_meta": {
+  "reel": "B 269/34",
+  "model": "gemini-flash-latest",
+  "secs": 8.8,
+  "in_tok": 833,
+  "out_tok": 1565
+ }
+}

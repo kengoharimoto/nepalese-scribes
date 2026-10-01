@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kalyāṇa malla",
+   "name": "Kalyāṇamalla",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahākavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkalyāṇa malla mahākavi viracite anaṃgaraṃge",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1005 miti bhādra śudi 9",
+  "era": "unspecified",
+  "year": "1005",
+  "month": "Bhādra",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "Only the author of the Sanskrit original, Kalyāṇamalla (mahākavi), is named. \"mallāḍa ṣāna vinodāya\" is probably a patron-phrase, i.e. Lāḍakhān (Lād Khān) as the one for whose amusement the work was written, in the title phrase \"śrīmallāḍa ṣāna vinodāya\". Not listed as a person: the reading is uncertain, and the same phrase is a standard part of the Anaṅgaraṅga's own text, not the copy's production. Scribe, donor and king are not named; the ++++ lacunae may have hidden a scribe name. Era is not stated. 1005 is probably VS (≈ 948 CE) or ŚS, but both are implausible for Kalyāṇamalla, who wrote in the 16th century. It may instead be a corrupt or later NS/VS date, so ce_approx is left empty. The Nepali-language gloss (bhāṣā vyākhyāna) is anonymous.",
+ "_meta": {
+  "reel": "A 1024/8",
+  "model": "sonnet",
+  "cost_usd": 0.0304552,
+  "secs": 7.5
+ }
+}

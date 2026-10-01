@@ -1,0 +1,82 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkeśavadaivajña-",
+   "name": "Keśava",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña",
+    "sakalāgamācāryavarya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsakalāgamācāryavaryaśrīkeśavadaivajñasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīgaṇeśadaivajña-",
+   "name": "Gaṇeśa",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgaṇeśadaivajñaviracitā līl(7)āvatīṭīkābuddhivilāsinī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vedagarbhadaivavit",
+   "name": "Vedagarbha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivavid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhad bhṛgor dine || sa vedagarbhadaivavic",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīkeśavadaivajñasutaśrīgaṇeśadaivajña"
+  }
+ ],
+ "date": {
+  "as_written": "graheṣu śailabhūmite śake ... bhṛgor dine ... śucau",
+  "era": "ŚS",
+  "year": "1759",
+  "month": "śuci",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "bhṛgor dine",
+  "nakshatra_yoga": "",
+  "ce_approx": "1837"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'graheṣuśailabhūmite' gives Śaka 1759 (graha=9, iṣu=5, śaila=7, bhū=1). Month is 'śuci' (Āṣāḍha).",
+ "_meta": {
+  "reel": "A 425/23",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 807,
+  "out_tok": 1280
+ }
+}

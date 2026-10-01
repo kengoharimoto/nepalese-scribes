@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "miśraśrībhīmamahā++++++++",
+   "name": "Bhīma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "miśraśrībhīmamahā++++++++",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "la saṃ 424 pauṣaśuklapurṇṇimāyāṃ ravau",
+  "era": "LS",
+  "year": "424",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "purṇṇimā",
+  "weekday": "ravau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1543"
+ },
+ "place": {
+  "as_written": "kaṅkapure",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon text breaks off abruptly after 'miśraśrībhīmamahā++++++++'. The role of scribe is tentatively inferred following the catalogue.",
+ "_meta": {
+  "reel": "A 20/6",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 686,
+  "out_tok": 956
+ }
+}

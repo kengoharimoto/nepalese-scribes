@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrībhūpatīndramarlladevasana",
+   "name": "Bhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrībhūpatīndramarlladevasana bhotayā kvāṭha prati(7)sthā yātā thva ṅāthānayā dakṣiṇadoyatā putha dayakase bijyāka juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 828 caitra śuddhi 10",
+  "era": "NS",
+  "year": "828",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1708"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "bhotayā kvāṭha prati(7)sthā yātā (for the consecration of the fort of Bhota)",
+ "notes": "King Bhūpatīndra Malla of Bhaktapur had this manual (putha) made for the consecration/establishment of the Bhota fort (bhotayā kvāṭha pratiṣṭhā yātā... putha dayakase bijyāka juro).",
+ "_meta": {
+  "reel": "A 1216/9",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 853,
+  "out_tok": 1395
+ }
+}

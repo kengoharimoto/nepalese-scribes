@@ -1,0 +1,35 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No changes to persons, relations, place or purpose: none are named, and the colophon gives no copying place or purpose.",
+   "Date kept as VS 1900 Caitra = c. 1843 CE. The era is only 'saṃvat', and VS is inferred. NS 1900 is impossible. ŚS 1900 (= 1978 CE) is unlikely for this manuscript.",
+   "Notes expanded on the corrupt tithi string: other readings are possible, and no pakṣa can be recovered."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat || 1900 || caitra śrutivatadaṃśāṃ (!)",
+  "era": "VS",
+  "year": "1900",
+  "month": "caitra",
+  "paksa": "",
+  "tithi": "daśamī (?)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1843"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The colophon names no scribe, commissioner, owner or king. The era is not stated ('saṃvat'). VS is assumed from the Devanagari script, the late date, and the catalogue's 'SAM 1900'. Caitra VS 1900 falls around March–April 1843. The day string 'śrutivatadaṃśāṃ (!)' is corrupt. The most likely reading is '…daśamyāṃ' (tenth tithi), with a pakṣa word (śudi/vadi) garbled in 'śrutiva(ta)'. Another possibility is that 'śruti' is a number word (= 4), which would make the tithi caturthī. The tithi is therefore uncertain and the pakṣa is left blank.",
+ "_meta": {
+  "reel": "A 1093/5",
+  "model": "opus",
+  "cost_usd": 0.069626,
+  "secs": 17.8
+ }
+}

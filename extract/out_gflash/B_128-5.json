@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "yadunāthena gauḍena",
+   "name": "Yadunātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "Gauḍa"
+   ],
+   "affiliation": "",
+   "residence": "Nepālamaṇḍala",
+   "evidence": "yadunāthena gauḍena likhitaṃ pustakaṃ tv idaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "(sūr〈〈 ‥〉〉[[ya]])dāsasya",
+   "name": "Sūryadāsa",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "(sūr〈〈 ‥〉〉[[ya]])dāsasya 〈〈cā〉〉 [[ā]]jñayā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "likhitaṃ pustakaṃ tv idaṃ | nepālamaṇḍale sthitvā (sūr〈〈 ‥〉〉[[ya]])dāsasya 〈〈cā〉〉 [[ā]]jñayā"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "nepālamaṇḍale",
+  "normalized": "Kathmandu Valley"
+ },
+ "purpose": "sūryadāsasya cājñayā",
+ "notes": "The commissioner's name is partially reconstructed by the cataloguer as Sūryadāsa.",
+ "_meta": {
+  "reel": "B 128/5",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 732,
+  "out_tok": 1166
+ }
+}

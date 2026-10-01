@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśvarāmeṇa",
+   "name": "Viśvarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ bhaktapaṭṭane, viśvarāmeṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 717 || daśamī ravivāsare vaiśākha śuklasya",
+  "era": "NS",
+  "year": "717",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "ravivāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1597"
+ },
+ "place": {
+  "as_written": "bhaktapaṭṭane",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "gaṃgeśa girijā prītirastu",
+ "notes": "The catalogue lists Gaṃgādevī-Trailokya Malla-Tribhuvana Malla under King, but they are not named in this final colophon statement, which mentions only Gaṃgeśa and Girijā (deities Śiva and Pārvatī).",
+ "_meta": {
+  "reel": "A 345/10",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 756,
+  "out_tok": 1034
+ }
+}

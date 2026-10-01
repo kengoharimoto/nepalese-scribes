@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmadeva",
+   "name": "Rāmadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "ṭākānvaya",
+   "residence": "",
+   "evidence": "rāmadevaviracito",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ratnadeva",
+   "name": "Ratnadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "ṭākānvaya",
+   "residence": "",
+   "evidence": "ratnadevasuta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "ratnadevasuta rāmadeva"
+  }
+ ],
+ "date": {
+  "as_written": "bhūpanavanidhisāla audhika (!) bhādraśuklapūrṇyamā (!)",
+  "era": "ŚS",
+  "year": "1699",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1777"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'bhūpa-nava-nidhi' corresponds to 16-9-9 (1699), interpreted by the cataloguer as Śaka 1699. 'audhika' may stand for adhika (an intercalary month) or a scribal error.",
+ "_meta": {
+  "reel": "A 221/4",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 706,
+  "out_tok": 1677
+ }
+}

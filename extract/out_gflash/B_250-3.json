@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrībhūpatīndramallo",
+   "name": "Bhūpatīndramalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrībhūpatīndramallo jayati",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bhūpatīndramalla was the King of Bhaktapur (r. 1696–1722 CE). No explicit date or scribe is mentioned in the colophon.",
+ "_meta": {
+  "reel": "B 250/3",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 687,
+  "out_tok": 716
+ }
+}

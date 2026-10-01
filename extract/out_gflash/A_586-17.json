@@ -1,0 +1,55 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "premaśaṃkara",
+   "name": "Premaśaṃkara",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "premaśaṃkaradīkpāla sajñāti",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dīkpāla",
+   "name": "Dikpāla",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "premaśaṃkaradīkpāla sajñāti",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 18 |19 | (nāvarṣe) māgha sudī 1 śanai",
+  "era": "VS",
+  "year": "1819",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "śanivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1762"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The closing line reads 'śrīr astu līdā- premaśaṃkaradīkpāla sajñāti', likely invoking blessings on Premaśaṃkara, Dīkpāla, and their kinsmen (sajñāti), possibly the owners or patrons. 'līdā-' is broken/unclear.",
+ "_meta": {
+  "reel": "A 586/17",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 808,
+  "out_tok": 1561
+ }
+}

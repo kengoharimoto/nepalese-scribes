@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "caṃdremoreśvaradaivajñena",
+   "name": "Candramoreśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "caṃdremoreśvaradaivajñena (!) lekhīyam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1893 śake 1758 kārtikakṛṣṇa 13",
+  "era": "VS",
+  "year": "1893",
+  "month": "kārtika",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1836"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Vikrama Saṃvat 1893 and Śaka Saṃvat 1758 are specified in the colophon.",
+ "_meta": {
+  "reel": "A 418/1",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 800,
+  "out_tok": 900
+ }
+}

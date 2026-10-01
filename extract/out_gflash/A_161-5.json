@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vipraśrīacitānandana",
+   "name": "Acitānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ vipraśrīacitānandana",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The phrase 'likhitaṃ vipraśrīacitānandanasidhukā' appears to combine the Sanskrit title vipra and name Acitānanda with the Newari agentive marker -na and the Newari verb form sidhukā ('finished', 'completed').",
+ "_meta": {
+  "reel": "A 161/5",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 720,
+  "out_tok": 1101
+ }
+}

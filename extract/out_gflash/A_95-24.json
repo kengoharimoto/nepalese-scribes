@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1900 sāla miti jyeṣṭha vadi roja",
+  "era": "VS",
+  "year": "1900",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1843"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons are mentioned in the colophon. The tithi and weekday are omitted after 'vadi roja'.",
+ "_meta": {
+  "reel": "A 95/24",
+  "model": "gemini-flash-latest",
+  "secs": 3.0,
+  "in_tok": 734,
+  "out_tok": 573
+ }
+}

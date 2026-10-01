@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīhemā〇krana",
+   "name": "Hemā〇kra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "(tarumura)mahāvihārāvasthita raraṃkṛtavihāra",
+   "residence": "sayava tolake dakṣanadisagṛhāntavya",
+   "evidence": "likhiteyaṃ sayava tolake (tarumura)mahāvihārāvasthita raraṃkṛtavihārasya dakṣanadisagṛhāntavya vajrācāryya śrīhemā〇krana likhyate",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 892 āśviṇakṛṣṇa tṛtīyā buddhavāra",
+  "era": "NS",
+  "year": "892",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "tṛtīyā",
+  "weekday": "buddhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1772"
+ },
+ "place": {
+  "as_written": "sayava tolake (tarumura)mahāvihārāvasthita raraṃkṛtavihārasya dakṣanadisagṛhāntavya",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The scribe's name is partially illegible: 'hemā〇krana', likely Hemākara. Tarumura Mahāvihāra (Sikhamu Baha) is located in Kathmandu.",
+ "_meta": {
+  "reel": "B 105/14q",
+  "model": "gemini-pro-latest",
+  "secs": 11.2,
+  "in_tok": 839,
+  "out_tok": 1337
+ }
+}

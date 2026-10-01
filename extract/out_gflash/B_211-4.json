@@ -1,0 +1,70 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vyāsa",
+   "name": "Vyāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vyāsanirmmitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "harinārāyaṇo",
+   "name": "Harinārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "harinārāyaṇo nāma daivajñakulabarddhanaḥ | likhitaṃ vaiṣṇavaṃ śāstraṃ ... mayā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "maheśavarānanda",
+   "name": "Maheśvarānanda",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "ukuvahā",
+   "residence": "yaladeśa",
+   "evidence": "yaladeśa uku[[m]]vahāyā maheśavarānanda///-",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "bālavahnivasucābde madhumāse kuhur 〈d〉 dine",
+  "era": "NS",
+  "year": "835",
+  "month": "madhumāsa",
+  "paksa": "kṛṣṇa",
+  "tithi": "amāvāsyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1715"
+ },
+ "place": {
+  "as_written": "yaladeśa",
+  "normalized": "Patan"
+ },
+ "purpose": "kṛṣṇaprīti",
+ "notes": "The manuscript contains a chronogram date for copying: bāla (5) vahni (3) vasu (8) = NS 835 (madhumāse kuhūrdine = Caitra amāvāsyā). A later note dated NS 1013 Kārttika vadi 11 maṅgalavāra records Maheśvarānanda from Ukubahā in Patan (yaladeśa).",
+ "_meta": {
+  "reel": "B 211/4",
+  "model": "gemini-flash-latest",
+  "secs": 9.6,
+  "in_tok": 862,
+  "out_tok": 2059
+ }
+}

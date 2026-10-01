@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vīṣnuvīnodo",
+   "name": "Viṣṇuvinoda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vīṣnuvīnodo liṣete",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat || 1904 || sāla mītī vaisāṣa śudī || 15 || roja || 6",
+  "era": "VS",
+  "year": "1904",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "15",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1847"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 273/21",
+  "model": "gemini-flash-latest",
+  "secs": 3.0,
+  "in_tok": 962,
+  "out_tok": 650
+ }
+}

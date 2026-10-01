@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Name reduced to stem 'Śambhūrāma'; 'Gavaḍa' (catalogue: Gabaḍa) moved to titles as surname/caste name rather than part of the personal name",
+   "ce_approx changed from 1774 to 1775: ŚS 1697 (+78) points to 1775, and Āśvina of VS 1831 falls in 1775 only if the year is Kārttikādi (Gujarati reckoning). This fits the western Indian names Rāvala and Gavaḍa",
+   "Notes expanded: explains how the two eras fit together and flags the lacunae in the name"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāvala〈〈‥〉〉 śaṃbhūrāma(gavaḍa)",
+   "name": "Śambhūrāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "rāvala",
+    "gavaḍa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "la(!)khitaṃ rāvala〈〈‥〉〉 śaṃbhūrāma(gavaḍa)",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "savat(!) 1831 varṣe śāke 1697 ā〈〈‥〉〉śvinamāse kṛṣṇapakṣe 13 bhaumavāsare",
+  "era": "VS",
+  "year": "1831",
+  "month": "Āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "Tuesday (bhaumavāsara)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1775"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The colophon gives two eras: VS 1831 and ŚS 1697. In Caitrādi reckoning VS 1831 matches ŚS 1696, not 1697. In Kārttikādi reckoning (used in Gujarat), Āśvina of VS 1831 falls in Sept/Oct 1775 and matches ŚS 1697. So the two eras agree, and the date is about Oct 1775 CE. The weekday (Tuesday) was not checked. The text has a lacuna between 'rāvala' and 'śaṃbhūrāma', which may hide part of the name. 'Rāvala' is taken as a title or community name. 'gavaḍa' (in parentheses in the transcript; the catalogue reads 'Gabaḍa') is probably a surname or caste name; it might be Gauḍa, but that is uncertain. The names suggest a scribe from western India (Gujarat or Rajasthan) and not a Nepalese one.",
+ "_meta": {
+  "reel": "A 1116/14",
+  "model": "opus",
+  "cost_usd": 0.07721,
+  "secs": 15.4
+ }
+}

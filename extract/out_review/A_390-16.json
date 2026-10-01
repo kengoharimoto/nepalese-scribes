@@ -1,0 +1,87 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Added the scribe as p3: the unnamed son of Jogadeva ('likhitaṃ ... jo(ga)devasya sūnunā'). The name Rāmeśvara comes only from the catalogue's tentative 'Rāmeśvarabhaṭṭa?', so confidence is low.",
+   "Added the relation p3 son_of p2.",
+   "Reading 'karāhvaye' as the nakṣatra Hasta, added it to nakshatra_yoga next to the vaidhṛti yoga.",
+   "Changed tithi to '1 (pratipad)' to match 'ādimāyāṃ tithau'.",
+   "Cleared place.normalized: the emendation 'prayoga' → 'prayāge' is uncertain.",
+   "Notes: the chronogram 1460 is confirmed, but under the southern 60-year cycle the saṃvatsara Parābhava does not match ŚS 1460. The mismatch is now noted."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīcaritravardhana-",
+   "name": "Caritravardhana",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīcaritravardhanaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jo(ga)devasya",
+   "name": "Jogadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jo(ga)devasya sūnunā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "sūnunā (personal name not in quoted text; catalogue: Rāmeśvarabhaṭṭa?)",
+   "name": "Rāmeśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ hyetat jo(ga)devasya sūnunā",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "jo(ga)devasya sūnunā"
+  }
+ ],
+ "date": {
+  "as_written": "nabhorasābdhyaikamite śakebde saṃvatsare caiva parābhaākye ṛtau śarannāmni karāhvayetho sadosvije māsi ca somavāre || ādimāyāṃ tithau caiva site pakṣe ca vaidhṛtau",
+  "era": "ŚS",
+  "year": "1460",
+  "month": "Āśvina",
+  "paksa": "śukla",
+  "tithi": "1 (pratipad)",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "Hasta (karāhvaya); vaidhṛti yoga",
+  "ce_approx": "1538"
+ },
+ "place": {
+  "as_written": "prayoga",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram: nabhas 0, rasa 6, abdhi 4, eka 1. Read right to left this gives ŚS 1460 (c. 1538 CE), which matches the catalogue. The saṃvatsara is named Parābhava. In the southern 60-year cycle Parābhava falls in ŚS 1468 (1546/47), and ŚS 1460 would be Vilambin. Under northern Bārhaspatya reckoning the name may differ by a few years, so the year and the saṃvatsara do not fully agree. 'sadosvije' is probably a corruption of 'sad-āśvije' (Āśvina). 'karāhvaye 'tho' is taken as the nakṣatra Hasta. 'prayoga' may be a corruption of 'prayāge' (written at Prayāga), but this is uncertain. Both readings fit the anuṣṭubh metre. The scribe is identified in the quoted text only as the son of Jogadeva (reading of 'jo(ga)' uncertain). The name Rāmeśvarabhaṭṭa is the catalogue's tentative suggestion, perhaps from the omitted line 10, so it is not verified. Caritravardhana is the author of the commentary, not connected with this copy.",
+ "_meta": {
+  "reel": "A 390/16",
+  "model": "opus",
+  "cost_usd": 0.105942,
+  "secs": 31.0
+ }
+}

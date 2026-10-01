@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vidyāraṇya",
+   "name": "Vidyāraṇya",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paramahaṃsaparivrājakā[[cā]]rya śrīmad vidyāraṇyaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kṛṣṇarāmaśarmaṇā",
+   "name": "Kṛṣṇarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ kṛṣṇarāmaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1776 mārga kṛṣṇa 9 tithau roja 3",
+  "era": "ŚS",
+  "year": "1776",
+  "month": "mārga",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "roja 3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1854"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 87/16",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 773,
+  "out_tok": 1158
+ }
+}

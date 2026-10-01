@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmahāmahopādhyā(7)yaśrīkṛṣṇānandavidyāvāgīśabhaṭṭācāryya",
+   "name": "Kṛṣṇānanda Vidyāvāgīśa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛṣṇānandavidyāvāgīśabhaṭṭācāryyaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 878 māghavadi 9 mūlanakṣatre",
+  "era": "NS",
+  "year": "878",
+  "month": "māgha",
+  "paksa": "vadi",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "mūla",
+  "ce_approx": "1758"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 160/2",
+  "model": "gemini-flash-latest",
+  "secs": 3.1,
+  "in_tok": 721,
+  "out_tok": 727
+ }
+}

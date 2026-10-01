@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījñānānaṃda",
+   "name": "Jñānānanda",
+   "roles": [
+    "author",
+    "teacher"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījñānānaṃdaviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śiṣyaśivānandena",
+   "name": "Śivānanda",
+   "roles": [
+    "author",
+    "pupil"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śiṣyaśivānandena saṃgrahakṛtaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śiṣyaśivānandena"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1689 || saṃvate vedanetreṇa gaṃdharve ca niśākare || phālguṇe śuklapakṣe ca vāśare (!) gurum (!) eva",
+  "era": "ŚS",
+  "year": "1689",
+  "month": "phālguṇa",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1768"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "rāmārpaṇam",
+ "notes": "Both Śaka era 1689 and Vikrama Saṃvat 1824 (veda-netra-gandharva-niśākara = 4, 2, 8, 1) are recorded. Scribe is anonymous ('mayā').",
+ "_meta": {
+  "reel": "A 167/24",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 868,
+  "out_tok": 1706
+ }
+}

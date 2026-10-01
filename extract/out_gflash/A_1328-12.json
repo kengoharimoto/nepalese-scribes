@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "padmanābhācāryeṇa",
+   "name": "Padmanābha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "jaṃbūgrāma",
+   "evidence": "jaṃbūgrāmāsthitaśrīmadtryaṃbakā(10)cāryasutapadmanābhācāryeṇa liṣitam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmadtryaṃbakā(10)cārya",
+   "name": "Tryambaka",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "jaṃbūgrāma",
+   "evidence": "śrīmadtryaṃbakā(10)cāryasuta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīmadtryaṃbakā(10)cāryasutapadmanābhācāryeṇa"
+  }
+ ],
+ "date": {
+  "as_written": "śāke 1491 śuklābde mādhave māsi sitapakṣe agnidaivatyāṃ tithau śrīmaddinakaratanayavāsare",
+  "era": "ŚS",
+  "year": "1491",
+  "month": "mādhava",
+  "paksa": "sita",
+  "tithi": "agnidaivatyā (3)",
+  "weekday": "śrīmaddinakaratanayavāsara (Saturday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1569"
+ },
+ "place": {
+  "as_written": "śrīmadgautamyuttare tīre jaṃbūgrāma",
+  "normalized": ""
+ },
+ "purpose": "śrīmatsūryanārāyaṇārpaṇam astu",
+ "notes": "The copy was completed on the northern bank of the Gautamī (Godāvarī) river at Jaṃbūgrāma. The tithi is described as agnidaivatyā (sacred to Agni = tṛtīyā), and the weekday dinakaratanayavāsara (son of the sun = Śani/Saturday).",
+ "_meta": {
+  "reel": "A 1328/12",
+  "model": "gemini-flash-latest",
+  "secs": 7.6,
+  "in_tok": 772,
+  "out_tok": 1688
+ }
+}

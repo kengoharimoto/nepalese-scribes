@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīlālaśarmā",
+   "name": "Lāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "Kāśī",
+   "evidence": "kāśyām idaṃ yantravarasya pustakaṃ śrīlālaśarmālikhad ātmatuṣṭaye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmannṛpajayasiṃhadeva",
+   "name": "Jayasiṃhadeva",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "nṛpa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmannṛpajayasiṃhadevakārite yantrarājāgame",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "pṛṣatkavāṇāśvarasāmite śake nabhaḥ sitārddhāntyatithau budhāhani",
+  "era": "ŚS",
+  "year": "1755",
+  "month": "Nabhas (Śrāvaṇa)",
+  "paksa": "śukla",
+  "tithi": "15 (pūrṇimā; 'sitārdhāntya' = last tithi of the bright half)",
+  "weekday": "Wednesday (budha)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1833"
+ },
+ "place": {
+  "as_written": "kāśyām",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "ātmatuṣṭaye (for the scribe's own satisfaction; svārtha)",
+ "notes": "The chronogram reads pṛṣatka (5), vāṇa (5), aśva (7), rasā (earth = 1). Read in reverse (aṅkānāṃ vāmato gatiḥ), this gives Śaka 1755, which matches the catalogue. If the compound is divided as 'rasa' (6) instead, the year would be 6755, which is impossible. Jayasiṃhadeva is the king under whose patronage the text Yantrarājāgama was composed ('kārite'). He is almost certainly Sawai Jai Singh II of Jaipur. He is not a reigning king or a patron of this copy, so his role is given as 'other'; filter him out like an author. The catalogue's form 'Śrīlāla Śarmā' keeps the honorific. The scribe's name is Lāla (Lālaśarman), with śarman as the Brahmin designation.",
+ "_meta": {
+  "reel": "B 344/9",
+  "model": "opus",
+  "cost_usd": 0.41938,
+  "secs": 16.1
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "valabhadraṃ",
+   "name": "Balabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pūstakaṃ liṣitaṃ valabhadraṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1600 māse 12 tithau 10 vāre 5",
+  "era": "ŚS",
+  "year": "1600",
+  "month": "12",
+  "paksa": "",
+  "tithi": "10",
+  "weekday": "5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1679"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives the month (12 = Caitra), tithi (10), and weekday (5 = Thursday / Bṛhaspativāra) in numerals. The phrase 'yo ṣimidaṃ' is probably corrupt for 'yo 'likhad idaṃ'.",
+ "_meta": {
+  "reel": "A 470/28",
+  "model": "gemini-flash-latest",
+  "secs": 3.3,
+  "in_tok": 715,
+  "out_tok": 732
+ }
+}

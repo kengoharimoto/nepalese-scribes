@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayasiṃha",
+   "name": "Jayasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ, karmmā(12)cārya, jayasiṃha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 802 phālguṇa kṛ(11)ṣṇa 〈〈9〉〉 9",
+  "era": "NS",
+  "year": "802",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1682"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 624/12c",
+  "model": "gemini-flash-latest",
+  "secs": 2.9,
+  "in_tok": 727,
+  "out_tok": 728
+ }
+}

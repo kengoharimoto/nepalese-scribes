@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "saumyānandā(!)",
+   "name": "Saumyānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "saumyānandā(!) likhet khalu",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "maṇiyugāṅke siddhye, abhāmāse site dine pañcamyāṃ",
+  "era": "NS",
+  "year": "941",
+  "month": "abhāmāsa",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1821"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram maṇi-yuga-aṅka corresponds to 1-4-9, reading right to left as NS 941. The month name 'abhāmāsa' appears corrupt or uncertain.",
+ "_meta": {
+  "reel": "A 141/6",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 762,
+  "out_tok": 832
+ }
+}

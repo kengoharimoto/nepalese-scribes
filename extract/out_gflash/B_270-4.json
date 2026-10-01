@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaurīśaṃkara śarmmaṇā",
+   "name": "Gaurīśaṃkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gaurīśaṃkara śarmmaṇā || māhātmyaṃ mārggamāsasyā, lekhaccutasubhaktinā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī bhavānī śaṃkaraṇa",
+   "name": "Bhavānīśaṃkara",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "puṭhisoka, vatāyā śrī bhavānī śaṃkaraṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "gaurīśaṃkara śarmmaṇā || māhātmyaṃ mārggamāsasyā, lekhaccutasubhaktinā || || thvana saṃti vaiśākhī pūrṇṇimā, thvakunhu, puṭhisoka, vatāyā śrī bhavānī śaṃkaraṇa"
+  }
+ ],
+ "date": {
+  "as_written": "same asminsoma vedebhe, rādhemāse, vidhauyute | śambhostithau dine paṃgo",
+  "era": "NS",
+  "year": "841",
+  "month": "rādha",
+  "paksa": "śukla",
+  "tithi": "śambhostithi",
+  "weekday": "paṃgu",
+  "nakshatra_yoga": "",
+  "ce_approx": "1721"
+ },
+ "place": {
+  "as_written": "chesa",
+  "normalized": ""
+ },
+ "purpose": "śrī 3 ratneśvara sadāśiva, prītina",
+ "notes": "The chronogram 'soma-vedebhe' indicates NS 841 (soma = 1, veda = 4, ibha = 8). Paṅgu refers to Śanivāra (Saturday). The text mentions subsequent festivities and feeding on Vaiśākhī Pūrṇimā organized by Bhavānīśaṃkara.",
+ "_meta": {
+  "reel": "B 270/4",
+  "model": "gemini-flash-latest",
+  "secs": 12.9,
+  "in_tok": 906,
+  "out_tok": 2535
+ }
+}

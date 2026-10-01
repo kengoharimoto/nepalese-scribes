@@ -1,0 +1,70 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vāḍā vaida jīvanasiṃha",
+   "name": "Jīvanasiṃha",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "vāḍā",
+    "vaida"
+   ],
+   "affiliation": "",
+   "residence": "pāṭana cyāsala tola cikaṃvahīla",
+   "evidence": "liṣitam pāṭana cyāsala tola cikaṃvahīla vaṣnyā vāḍā vaida jīvanasiṃha",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī mahārāja raṇauddīpa siṃha rāṇā bahādura",
+   "name": "Raṇauddīpasiṃha Rāṇā",
+   "roles": [
+    "minister",
+    "donor"
+   ],
+   "titles": [
+    "mahārāja",
+    "bahādura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī mahārāja raṇauddīpa siṃha rāṇā bahādurakā kalakaṭṭā savārī huṃdā pāuṣārī jādā bhāvaprakāśako kitāp 10 rupaiñā kaṃpanīle kīni malāi vakasa bhayo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "śrī mahārāja raṇauddīpa siṃha rāṇā bahādurakā"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1935 sāla miti māgha vadī 2",
+  "era": "VS",
+  "year": "1935",
+  "month": "māgha",
+  "paksa": "vadī",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1879"
+ },
+ "place": {
+  "as_written": "pāṭana cyāsala tola cikaṃvahīla",
+  "normalized": "Patan"
+ },
+ "purpose": "svārtha",
+ "notes": "The scribe Jīvana Siṃha notes in Nepali that during Prime Minister Raṇauddīpa Siṃha's journey to Calcutta in 1932 VS, a copy of the Bhāvaprakāśa was bought for 10 Company rupees and gifted to him, which he then transcribed onto Nepali paper in 1935 VS.",
+ "_meta": {
+  "reel": "A 953/2",
+  "model": "gemini-flash-latest",
+  "secs": 8.4,
+  "in_tok": 903,
+  "out_tok": 2129
+ }
+}

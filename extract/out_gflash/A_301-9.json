@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viṣṇudāsajosina",
+   "name": "Viṣṇudāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "Saphutuche",
+   "evidence": "viṣṇudāsajosina coyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 1024 adhikaḥ jyeṣṭha śudi 14 roja7",
+  "era": "NS",
+  "year": "1024",
+  "month": "adhika jyeṣṭha",
+  "paksa": "śudi",
+  "tithi": "14",
+  "weekday": "roja 7 (Saturday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1904"
+ },
+ "place": {
+  "as_written": "saphutuche",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Saphutuche (Saphutucheyā) indicates the locality or house/family name of the scribe Viṣṇudāsa Jośī.",
+ "_meta": {
+  "reel": "A 301/9",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 743,
+  "out_tok": 859
+ }
+}

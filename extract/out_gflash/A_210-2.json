@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsarvavidyānidhāna kavīndrācārya sa……….",
+   "name": "Kavīndrācārya",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "sarvavidyānidhāna",
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsarvavidyānidhāna kavīndrācārya sa………. ci[[ki]]tsāmṛtapustakam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The quoted text contains the ex-libris of the famous 17th-century Benares scholar Kavīndrācārya Sarasvatī ('sarvavidyānidhāna kavīndrācārya sa[rasvatīnām]...'). The scribe Milhaṇa and copying place Ḍhillikānagara recorded in the catalogue metadata do not appear in the quoted colophon fragment.",
+ "_meta": {
+  "reel": "A 210/2",
+  "model": "gemini-flash-latest",
+  "secs": 8.2,
+  "in_tok": 737,
+  "out_tok": 1890
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat ā ḷ te [259] āśvinīkṛṣṇacaturddaśyāṃ svātinakṣatre somadine",
+  "era": "NS",
+  "year": "259",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturddaśī",
+  "weekday": "somadina",
+  "nakshatra_yoga": "svātinakṣatra",
+  "ce_approx": "1139"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons are mentioned in the colophon. The year is expressed in letter-numerals (akṣarapalli: ā ḷ te = 259).",
+ "_meta": {
+  "reel": "C 26/6",
+  "model": "gemini-flash-latest",
+  "secs": 3.3,
+  "in_tok": 695,
+  "out_tok": 641
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Notes: spelled out that the two eras conflict. VS 1878 corresponds to ŚS 1743, and ŚS 1741 corresponds to VS 1876, so they are two years apart. They are not just two ways of writing the same year.",
+   "Date: weekday given as 'Tuesday (bhaumavā[sara])' because the colophon writes the abbreviated 'bhaumavā'.",
+   "Date: kept VS 1878 as the main era because it comes first ('saṃvat'). ce_approx is still 1822, since Phālguṇa kṛṣṇa 6 of VS 1878 falls in Feb/Mar 1822."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśaṃkarācārya",
+   "name": "Śaṅkara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśaṃkarācāryavira〈ṃ〉citaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat || 18〈|〉78 (3) śāke || 1741 mitī phālguṇavadī6 bhaumavā",
+  "era": "VS",
+  "year": "1878",
+  "month": "phālguṇa",
+  "paksa": "vadī (kṛṣṇa)",
+  "tithi": "6",
+  "weekday": "Tuesday (bhaumavā[sara])",
+  "nakshatra_yoga": "",
+  "ce_approx": "1822"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The two eras in the colophon conflict. VS 1878 is about 1821/22 CE (Phālguṇa vadi 6 falls around Feb/Mar 1822). ŚS 1741 is about 1819/20 CE (Phālguṇa would be early 1820). If they agreed, VS 1878 would be ŚS 1743, and ŚS 1741 would be VS 1876, so one figure is probably a scribal slip. I treat VS as the main era because it is given first. Checking whether Phālguṇa kṛṣṇa 6 fell on a Tuesday in 1820 or 1822 could decide which year is right. The colophon names no scribe, owner or place. The only person is Śaṅkarācārya, named as author of the stotra. The 'śrīgaṇeśāya namaḥ' at the end is an invocation, not a person.",
+ "_meta": {
+  "reel": "A 1115/25",
+  "model": "opus",
+  "cost_usd": 0.073354,
+  "secs": 14.5
+ }
+}

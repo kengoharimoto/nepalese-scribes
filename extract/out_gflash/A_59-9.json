@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paṃḍitaśrīudayana",
+   "name": "Udayana",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṃḍitaśrīudayanakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dūtanibandhikaśrīrahasadatta",
+   "name": "Rahasadatta",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "dūtanibandhika"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtanibandhikaśrīrahasadattasaṃgṛhītāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Rahasadatta is described as the compiler/redactor (saṃgrahakāra) of this recension/epitome of the text, holding the title or office 'dūtanibandhika'.",
+ "_meta": {
+  "reel": "A 59/9",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 735,
+  "out_tok": 1149
+ }
+}

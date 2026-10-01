@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "cakrapāṇena / cakrapānīna",
+   "name": "Cakrapāṇi",
+   "roles": [
+    "scribe",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rikhitaṃ cakrapāṇena ... cakrapānīna dayakā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 825 vaiśāṣa kṛṣṇa catuthī",
+  "era": "NS",
+  "year": "825",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturthī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1705"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "paromokṣārtha hetunā (for supreme liberation)",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1218/17a",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 845,
+  "out_tok": 1027
+ }
+}

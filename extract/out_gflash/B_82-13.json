@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahīpanārāyaṇapāṃḍe",
+   "name": "Mahīpanārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "pāṇḍe"
+   ],
+   "affiliation": "",
+   "residence": "Haradīpura on the Gomati river",
+   "evidence": "liṣītāṃ (!) mahīpanārāyaṇapāṃḍe",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1905 varṣe jyeṣṭhaśukladaśamī ravivāre",
+  "era": "VS",
+  "year": "1905",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1848"
+ },
+ "place": {
+  "as_written": "gomatitaṭe vāsaharadīpure",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 82/13",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 784,
+  "out_tok": 736
+ }
+}

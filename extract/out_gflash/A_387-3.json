@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ṣrīgaurīśaṅkareṇa",
+   "name": "Gaurīśaṅkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "Vantāgṛha",
+   "evidence": "gaurīśaṃkaraśarmmasau māghakāvyaṃ mudālikhat",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vantāgṛhadvijavaraṣrībhavānīśaṅkarasya",
+   "name": "Bhavānīśaṅkara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "Vantāgṛha",
+   "evidence": "vantāgṛhadvijavaraṣrībhavānīśaṅkarasya putra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "māghaḥ",
+   "name": "Māgha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "māghakāvyaṃ mudālikhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "vantāgṛhadvijavaraṣrībhavānīśaṅkarasya putra, ṣrīgaurīśaṅkareṇa"
+  }
+ ],
+ "date": {
+  "as_written": "abde khagnivasau māse mārgge hastimukhe tithau ... saṃvat 831 mārggaśiraśuklacaturthī, pūrvāṣāḍhāpara-uttarāṣāḍhānakṣatra, gaṃdhayoga, somavāra",
+  "era": "NS",
+  "year": "831",
+  "month": "mārggaśira",
+  "paksa": "śukla",
+  "tithi": "caturthī",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "pūrvāṣāḍhāpara-uttarāṣāḍhānakṣatra, gaṃdhayoga",
+  "ce_approx": "1710"
+ },
+ "place": {
+  "as_written": "vantāgṛha",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'khāgnivasu' (kha=0, agni=3, vasu=8) confirms the date NS 831; hastimukha corresponds to the 4th tithi (Gaṇeśa). Kālidāsa is also mentioned at the end within a famous gnomic verse (subhāṣita).",
+ "_meta": {
+  "reel": "A 387/3",
+  "model": "gemini-flash-latest",
+  "secs": 8.2,
+  "in_tok": 862,
+  "out_tok": 2115
+ }
+}

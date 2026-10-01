@@ -1,0 +1,77 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmahopādhyāyaśrīja///⁅gaddha⁆ra",
+   "name": "Jagaddhara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāyaśrīja///⁅gaddha⁆raviracitā rasadīpinīmeghaṭīkā samāptā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "lakṣmīdhareṇa / śrīlakṣmīdhararājana",
+   "name": "Lakṣmīdhararāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lakṣmīdhareṇa likhitā ... śrīlakṣmīdhararājana coyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrī upendrarājayā",
+   "name": "Upendrarāja",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī upendrarājayā kāya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "śrī upendrarājayā kāya śrīlakṣmīdhararājana coyā"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 775 caitra śuklayā du kuhnu",
+  "era": "NS",
+  "year": "775",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1655"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "In Newari 'du kuhnu' corresponds to the second tithi (dvitīyā).",
+ "_meta": {
+  "reel": "B 318/15",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 776,
+  "out_tok": 1351
+ }
+}

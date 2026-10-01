@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: residence normalized to 'Lalitāpura, Mahābuddha (Mahābauddha quarter)'; Mahābuddha is a locality/temple in Patan, so affiliation stays empty",
+   "p1: recorded that he is described as 'paṃḍitātmaja' (son of a paṇḍita, father unnamed); no title given to the scribe himself",
+   "place.as_written trimmed to 'lalitāpura śrīmahābuddhayā' with Mahābuddha noted as the quarter; normalized Patan kept",
+   "date: ce_approx kept as 1883 (Pauṣa kṛṣṇa of VS 1939 / NS 1003 falls around Dec 1882–Jan 1883); added check that the two eras agree",
+   "notes: catalogue King Bhūpatīndramalla flagged as anachronistic (he was a Bhaktapur king, d. 1722) and absent from the colophon"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgaṇeśvarānandanaṃ",
+   "name": "Gaṇeśvarānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Lalitāpura, Mahābuddha",
+   "evidence": "lalitāpura śrīmahābuddhayā paṃḍitātmaja śrīgaṇeśvarānandanaṃ ... siddhanaṃ coyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1939 nepālasaṃvat 1003 miti pauṣakṛṣna 3 śukravāra",
+  "era": "VS",
+  "year": "1939",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "3",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1883"
+ },
+ "place": {
+  "as_written": "lalitāpura śrīmahābuddhayā",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The colophon gives two dates: VS 1939 (−57 = 1882) and NS 1003 (+880 = 1883). They agree, because Pauṣa kṛṣṇa 3 of that year falls around Dec 1882–Jan 1883, most likely Jan 1883. The scribe is called 'paṃḍitātmaja', 'son of a paṇḍita'. The father is not named, so no relation is recorded. Mahābuddha is the Mahābauddha quarter of Patan. 'siddhanaṃ coyā' (Newari) means 'finished writing'. The catalogue lists King Bhūpatīndramalla, but no king is named in the colophon. He was a Bhaktapur king who died in 1722, so he cannot be the reigning king for a copy made in 1882/83; the catalogue entry is probably an error.",
+ "_meta": {
+  "reel": "B 273/22",
+  "model": "opus",
+  "cost_usd": 0.082154,
+  "secs": 18.3
+ }
+}

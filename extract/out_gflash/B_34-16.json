@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sūbhūticandra",
+   "name": "Subhūticandra",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sūbhūticandraviracitaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 560 dināṣāḍhavaddhi 3",
+  "era": "NS",
+  "year": "560",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1440"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 34/16",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 767,
+  "out_tok": 660
+ }
+}

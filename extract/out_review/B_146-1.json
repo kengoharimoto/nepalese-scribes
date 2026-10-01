@@ -1,0 +1,67 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Kept both persons; only minor refinements.",
+   "p2 residence normalized to 'Nizāmābād' (nījāmāvāda ke), with the identification marked as probable; evidence shortened.",
+   "Date notes: the two dates are probably consecutive fortnights in pūrṇimānta reckoning (Āśvina śukla, then Kārttika kṛṣṇa), so CE 1697 (c. Sept.–Oct.). Added that 'samaai/samai nāma' is unclear.",
+   "Notes: the catalogue's composition date (SAM 1550) is the commentary's own date, not the copying date; 'gaṃgā saṃvat' is probably an invocation run together with the date."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭarāghava",
+   "name": "Rāghavabhaṭṭa",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭarāghavaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nāthurāmakāesthavā",
+   "name": "Nāthurāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "Nizāmābād (nījāmāvāda)",
+   "evidence": "lī(!)lkhitaṃ kāśyāmadhe(!) maṇikarṇikāsamīpe nāthurāmakāesthavā nījāmāvāda ke",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1754 samaai nāma kuāramāse śuklapakṣe / saṃvat 1754 samai nāma kārttikamāṃ(!)se kṣṇapche(!)",
+  "era": "VS",
+  "year": "1754",
+  "month": "Kuāra (Āśvina) / Kārttika",
+  "paksa": "śukla / kṛṣṇa",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1697"
+ },
+ "place": {
+  "as_written": "kāśyāṃ madhye marṇīkarṇikāsamipe (!) / kāśyāmadhe(!) maṇikarṇikāsamīpe",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The colophon gives two dates in saṃvat 1754: Kuāra (Āśvina) śuklapakṣa and Kārttika kṛṣṇapakṣa. In pūrṇimānta reckoning, which is normal at Kāśī, these are consecutive fortnights, so they probably mark the progress or completion of the copy. The catalogue reads the year as ŚS 1754. However, a plain 'saṃvat' in a North Indian (Kāśī) colophon is normally Vikrama, which gives VS 1754 ≈ 1697 CE; ŚS would give 1832 CE. 'samaai/samai nāma' is unclear; it may stand for samaya or a garbled saṃvatsara name. 'gaṃgā (!)' before the first saṃvat is probably part of the invocations rather than an era name. The scribe Nāthurāma Kāyastha is said to be 'of Nizāmābād' (nījāmāvāda ke). This is probably the Nizamabad near Azamgarh, UP, but the identification is not certain. The catalogue's 'Date of composition: SAM 1550' is the date of Rāghavabhaṭṭa's commentary (Padārthādarśa, c. VS 1550 ≈ 1493/94 CE) and is not stated in this colophon. The deity invocations (Gopāla, Viśveśvara, Rāma, Gaṇapati, Govinda, Gaṅgā, Nārāyaṇa, Śaṅkara, Mahādeva, 'manumāna' = Hanumān?) are not persons.",
+ "_meta": {
+  "reel": "B 146/1",
+  "model": "opus",
+  "cost_usd": 0.09320600000000001,
+  "secs": 20.8
+ }
+}

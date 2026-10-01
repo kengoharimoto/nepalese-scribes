@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Name corrected from 'Śyāmasena' to 'Śyāma': in 'syāmasena coya dhunakā' the '-sena' is the ergative/instrumental ending (Newari colophon usage modelled on Skt. -ena) attached to the agent of 'coya' (wrote). This agrees with the catalogue's 'Śyāma'. Confidence lowered to medium.",
+   "Weekday normalized to 'somavāra' (Monday); nakshatra/yoga normalized to Uttarabhādrapadā and 'suddi' read as probably siddhi.",
+   "Notes rewritten: the colophon is in a second hand, and the yoga reading is uncertain."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "syāmasena",
+   "name": "Śyāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "syāmasena coya dhunakā dina",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 820 māghamāse kṛṣṇapakṣe dvādaśyāyāṃ tithau uttarabhadranakṣetre suddiyoge somavāsare",
+  "era": "NS",
+  "year": "820",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādaśī",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "Uttarabhādrapadā nakṣatra; yoga 'suddi' (probably siddhi)",
+  "ce_approx": "1700"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon is in a second hand ('written with second hand'). Śyāma may therefore have been the person who finished the copy or added the colophon, not necessarily the scribe of the whole manuscript. The Newari 'thvakuhnu syāmasena coya dhunakā dina' means 'on this day Śyāma finished writing'. Here '-sena' is taken as the agentive ending, so the name is Śyāma, as the catalogue gives it. 'Śyāmasena' is a less likely alternative reading. The era is not stated, but 'samvat 820' in a Newari colophon is Nepāla Saṃvat. NS 820 Māgha kṛṣṇa 12 falls in early 1700 CE (January–February). The yoga 'suddi' (catalogue: 'sudhi') is corrupt. The best guess is siddhi; no yoga named śuddhi exists.",
+ "_meta": {
+  "reel": "A 1023/4",
+  "model": "opus",
+  "cost_usd": 0.074826,
+  "secs": 15.9
+ }
+}

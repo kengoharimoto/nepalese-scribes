@@ -1,0 +1,63 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkṛṣṇānandasya",
+   "name": "Kṛṣṇānanda",
+   "roles": [
+    "beneficiary",
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkṛṣṇānandasya pāṭhārthaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīharīśvareṇa",
+   "name": "Harīśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīharīśvareṇa 〇 li⁅khi⁆",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "śrīkṛṣṇānandasya pāṭhārthaṃ śrīharīśvareṇa 〇 li⁅khi⁆"
+  }
+ ],
+ "date": {
+  "as_written": "la. saṃ. 437 phālgunaśuklasaptamyāṃ candravāsare",
+  "era": "LS",
+  "year": "437",
+  "month": "phālguna",
+  "paksa": "śukla",
+  "tithi": "saptamī",
+  "weekday": "candravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1556"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīkṛṣṇānandasya pāṭhārthaṃ",
+ "notes": "",
+ "_meta": {
+  "reel": "A 53/14",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 695,
+  "out_tok": 908
+ }
+}

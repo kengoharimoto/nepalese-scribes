@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajña mukundarāja",
+   "name": "Mukundarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhatimidaṃ daivajña mukundarāja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrījayamuni brarjrācāryyasya",
+   "name": "Jayamuni",
+   "roles": [
+    "commissioner",
+    "beneficiary"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījayamuni brarjrācāryyasya janalakṣmisaṃtatisaṃtānavṛddhir astu || thva pustaka mahākastana covakajuroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "likhatimidaṃ daivajña mukundarāja śrījayamuni brarjrācāryyasya ... thva pustaka mahākastana covakajuroṃ"
+  }
+ ],
+ "date": {
+  "as_written": "nepālābde †gagaṇatarahite†,samvat 818 vaiśākhamāse śuklapakṣe || trayodaśyāṃ hastanakṣatra(!) harṣaṇayoge budhavāsare",
+  "era": "NS",
+  "year": "818",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "trayodaśī",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "hasta, harṣaṇa",
+  "ce_approx": "1698"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "janalakṣmisaṃtatisaṃtānavṛddhir astu, śrī śrī śrī nairātmā prītir astu",
+ "notes": "",
+ "_meta": {
+  "reel": "B 102/8",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 1052,
+  "out_tok": 1211
+ }
+}

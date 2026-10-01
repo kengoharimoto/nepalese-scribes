@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "trimallabhaṭta",
+   "name": "Trimalla",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "trimallabhaṭta grathitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chapter / concluding author colophon of the Yogataraṅgiṇī.",
+ "_meta": {
+  "reel": "A 953/3",
+  "model": "gemini-flash-latest",
+  "secs": 2.4,
+  "in_tok": 666,
+  "out_tok": 491
+ }
+}

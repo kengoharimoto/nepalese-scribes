@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Devadatta: confidence lowered from high to medium. 'lekhayo(!)' is corrupt. It may stand for likhitam (scribe), for a causative lekhāpitam/lekhayitam (commissioner), or for Nepali 'lekhyo' (wrote). Scribe is kept as the most likely role, and the ambiguity is now in notes.",
+   "Weekday changed from 'gurau' to 'Thursday (guru)'.",
+   "Notes expanded to cover the ambiguity and the date check."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devadattena",
+   "name": "Devadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devadattena lekhayo(!)",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1759 caitrakṛṣṇa 11 gurau",
+  "era": "ŚS",
+  "year": "1759",
+  "month": "Caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "Thursday (guru)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1837"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'lekhayo(!)' is corrupt (marked by the cataloguer). It could stand for likhitam/lekhitam, which would make Devadatta the scribe. It could also be a causative form (lekhāpitam/lekhayitam, from the stem lekhaya-), which would make him the commissioner. Or it could be Nepali 'lekhyo' ('wrote'). The instrumental 'devadattena' fits either reading. Scribe is the preferred role, but commissioner is possible. Date: ŚS 1759 + 78 = 1837 CE. Caitra kṛṣṇa 11 falls around March/April 1837, depending on whether months are counted amānta or pūrṇimānta. This agrees with the catalogue's ŚS 1759. This colophon closes adhyāya 46 of the Gaṇeśakhaṇḍa, so it may be an internal section colophon rather than the final one.",
+ "_meta": {
+  "reel": "A 1041/4",
+  "model": "opus",
+  "cost_usd": 0.07213800000000001,
+  "secs": 14.8
+ }
+}

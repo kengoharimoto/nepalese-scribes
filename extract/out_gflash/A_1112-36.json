@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīviṣṇudattaśarmaṇa (!) dvijahastam (!)",
+   "name": "Viṣṇudatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman",
+    "dvija"
+   ],
+   "affiliation": "ātreyagotra (ātrayagotraḥ)",
+   "residence": "vāgmatinīkaṭe naipāladeśe",
+   "evidence": "liṣitamḥ (!) ātrayagotraḥ (!) śrīviṣṇudattaśarmaṇa (!) dvijahastam (!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1772 śrīsamvat 1907 sāla vaīsāṣa(!)māse dvītīya (!) śuklapakṣe caturdasyāyāṃ (!) tithau svātinakṣatre garakaraṇe variyānyoga(!) śukravāsareḥ (!)",
+  "era": "VS",
+  "year": "1907",
+  "month": "vaīsāṣa",
+  "paksa": "śuklapakṣa",
+  "tithi": "caturdaśī",
+  "weekday": "śukravāsara",
+  "nakshatra_yoga": "svātinakṣatre garakaraṇe variyānyoga",
+  "ce_approx": "1850"
+ },
+ "place": {
+  "as_written": "vāgmatinīkaṭe (!) naipāladeśe",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śaka 1772 and Vikrama Saṃvat 1907 are specified.",
+ "_meta": {
+  "reel": "A 1112/36",
+  "model": "gemini-flash-latest",
+  "secs": 7.8,
+  "in_tok": 1013,
+  "out_tok": 1606
+ }
+}

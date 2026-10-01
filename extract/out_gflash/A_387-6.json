@@ -1,0 +1,51 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nepāleśvaramahārāja-vidagdhacūḍāmaṇisakalarājacakrādhī-śvara-śrīśrīrājarājendrakavīndrajayapratāpamallaparamabhaṭṭārakadevasya",
+   "name": "Jayapratāpamalladeva",
+   "roles": [
+    "owner",
+    "king"
+   ],
+   "titles": [
+    "nepāleśvara",
+    "mahārāja",
+    "vidagdhacūḍāmaṇi",
+    "sakalarājacakrādhīśvara",
+    "rājarājendra",
+    "kavīndra",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nepāleśvaramahārāja-vidagdhacūḍāmaṇisakalarājacakrādhī-śvara-śrīśrīrājarājendrakavīndrajayapratāpamallaparamabhaṭṭārakadevasyapuṣṭakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 788 mārggaśiraśuklaḥ caturddaśyān tithau kṛttikanakṣatre śivayoge aṃgāravāsare",
+  "era": "NS",
+  "year": "788",
+  "month": "mārggaśira",
+  "paksa": "śukla",
+  "tithi": "caturddaśī",
+  "weekday": "aṃgāravāsara",
+  "nakshatra_yoga": "kṛttikā nakṣatra, śiva yoga",
+  "ce_approx": "1667"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The manuscript belonged to King Jayapratāpamalla of Kathmandu (nepāleśvara... jayapratāpamalla... devasyapuṣṭakaṃ).",
+ "_meta": {
+  "reel": "A 387/6",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 801,
+  "out_tok": 1235
+ }
+}

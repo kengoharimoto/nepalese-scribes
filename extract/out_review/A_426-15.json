@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name normalized to IAST stem 'Rāmacandra' (anusvāra before dental normalized to n)",
+   "ce_approx kept 1731 but noted that Pauṣa ŚS 1653 may fall in Dec 1731 or Jan 1732",
+   "notes expanded: no scribe or owner is named; 'paṭhanārthaṃ' does not say whose study"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmacaṃdrasomayāji",
+   "name": "Rāmacandra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "somayājin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmacaṃdrasomayājiviracita",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1653 pauṣaśukladutiyā",
+  "era": "ŚS",
+  "year": "1653",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "dvitīyā (written dutiyā)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1731"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "paṭhanārtham (for study; the reader is not named)",
+ "notes": "The colophon names no scribe, owner or commissioner. Only the author Rāmacandra Somayājin appears. 'praśīt (!)' is unclear. It may be a garbled verb or a corrupt name, but it cannot be read as a person with any confidence. The final 'rāmaḥ' is an invocation, not a scribe's name. Śaka 1653 + 78 = 1731 CE. Pauṣa śukla 2 should fall around late Dec 1731 or early Jan 1732. The date agrees with the catalogue field (ŚS 1653).",
+ "_meta": {
+  "reel": "A 426/15",
+  "model": "opus",
+  "cost_usd": 0.063942,
+  "secs": 10.7
+ }
+}

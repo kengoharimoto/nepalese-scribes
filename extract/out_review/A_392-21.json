@@ -1,0 +1,64 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: kept as commentator (not scribe, despite catalogue); 'navāva' identified as Nawab (title); confidence lowered to medium; noted that 'īsavīṣā' renders Īsavī Khān/Īsvī Khān (Devanagari ṣ for kh)",
+   "p2: noted Vihārī = Bihārī (Bihārī Satsaī)",
+   "date: weekday normalised to 'Monday (caṃdravāsara)'; noted that no tithi is given"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnavāva īsavīṣā",
+   "name": "Īsavīṣā",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "navāva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnavāva īsavīṣāvirācitā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vihārī",
+   "name": "Vihārī",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vihārīkṛta śatasaīyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1874 miti caitraśukla vāra caṃdravāsare",
+  "era": "VS",
+  "year": "1874",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "Monday (caṃdravāsara)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1817"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue names 'Navāva īsavīṣā' as the scribe, but the colophon says 'śrīnavāva īsavīṣāvirācitā … ṭīkā rasacaṃdrikā'. That makes him the commentator, not the copyist. 'Navāva' = Nawab, and 'īsavīṣā' probably renders Īsavī Khān (Īsvī Khān), the known author of the Rasacandrikā commentary on Bihārī's Satsaī. In Devanagari ṣ is often written for kh, so the stem form is uncertain. Vihārī = Bihārī. The colophon names no scribe. The era is not stated ('saṃvat'), but 1874 fits VS (≈1817 CE). The tithi is missing: only Caitra śukla and Monday are given.",
+ "_meta": {
+  "reel": "A 392/21",
+  "model": "opus",
+  "cost_usd": 0.071174,
+  "secs": 14.1
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vibhumohanaḥ",
+   "name": "Mohana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ramyaṃ gāruṇakaṃ purāṇam alikhat dhyāyan vibhumohanaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 802 bhādrapadaśuklatrayodaśī somavāsare",
+  "era": "NS",
+  "year": "802",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "trayodaśī",
+  "weekday": "somavāsare",
+  "nakshatra_yoga": "pūrvvabhadra",
+  "ce_approx": "1682"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name appears in verse in sandhi: 'dhyāyan vibhuṃ mohanaḥ' ('meditating on the Lord, Mohana [wrote]'), which could also be read as Vibhumohana. The chronogram in the verse gives netra-ākāśa-gaja = 802. Note that the verse mentions 'budhe' (Wednesday) or a related context, while the prose gloss states 'somavāsare' (Monday).",
+ "_meta": {
+  "reel": "B 207/3",
+  "model": "gemini-flash-latest",
+  "secs": 9.8,
+  "in_tok": 824,
+  "out_tok": 2135
+ }
+}

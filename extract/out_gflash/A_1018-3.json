@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaurīnārāyaṇapradhāna pātra",
+   "name": "Gaurīnārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "pradhāna",
+    "pātra"
+   ],
+   "affiliation": "",
+   "residence": "vāhravisyā ajāra grāme",
+   "evidence": "liṣitam vāhravisyā ajāra grāme vāstavyaṃ gaurīnārāyaṇapradhāna pātrahastavyaṃ upaṣyānakathā leṣitaṃm",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke || 1801 || śrī samvat || 1936 || sāla phālgūna śudi 11 roja 7",
+  "era": "VS",
+  "year": "1936",
+  "month": "phālgūna",
+  "paksa": "śudi",
+  "tithi": "11",
+  "weekday": "roja 7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1880"
+ },
+ "place": {
+  "as_written": "vāhravisyā ajāra grāme",
+  "normalized": "Barhabise"
+ },
+ "purpose": "",
+ "notes": "Both Śāka era 1801 and Vikrama Samvat 1936 are provided.",
+ "_meta": {
+  "reel": "A 1018/3",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 772,
+  "out_tok": 914
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsūryyarāmeṇa",
+   "name": "Sūryarāma",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śrīsūryyarāmeṇa svārthe",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 755 āṣāḍhakṛṣṇatrayodaśi",
+  "era": "NS",
+  "year": "755",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśi",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1635"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthe",
+ "notes": "",
+ "_meta": {
+  "reel": "C 20/8",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 708,
+  "out_tok": 683
+ }
+}

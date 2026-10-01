@@ -1,0 +1,88 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "anaṃteṃdrapūjyapāda",
+   "name": "Anantendra",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya",
+    "pūjyapāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "anaṃteṃdrapūjyapādaśiṣya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jayarāmabhaṭtabhaḍa",
+   "name": "Jayarāma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭabhaḍa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī anaṃteṃdrapūjyapādaśiṣyaśrījayarāmabhaṭtabhaḍa [[ta]]tsuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "suṃdarīkiṃkarakāśīnātha[[bhaṭṭabhaḍena",
+   "name": "Kāśīnātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭabhaḍa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāśīnātha[[bhaṭṭabhaḍenaviracitā]]",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "anaṃteṃdrapūjyapādaśiṣyaśrījayarāmabhaṭtabhaḍa"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "jayarāmabhaṭtabhaḍa [[ta]]tsuta suṃdarīkiṃkarakāśīnātha"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīmat tripurasuṃdaryāḥ prītyarthaṃ",
+ "notes": "The scribe states 'likhitaṃ mayā' anonymously. 'suṃdarīkiṃkara' is an epithet/sobriquet of the author Kāśīnātha.",
+ "_meta": {
+  "reel": "A 159/16",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 825,
+  "out_tok": 1739
+ }
+}

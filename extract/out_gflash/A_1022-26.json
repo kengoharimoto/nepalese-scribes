@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajña paṃḍita sūrya kavi〈vi〉",
+   "name": "Sūrya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña",
+    "paṇḍita",
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajña paṃḍita sūrya kavi〈vi〉 viracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1022/26",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 770,
+  "out_tok": 1049
+ }
+}

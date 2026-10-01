@@ -1,0 +1,99 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p4 Mitrarāma: residence 'Kāśī' removed; the colophon only says he copied the book in Kāśī (kāśyāṃ … cālikhan), which goes in place, not residence",
+   "Date: chronogram checked (rasa 6, veda 4, adri 7, candra 1, read right to left = 1746, matching the figures). Ūrja = Kārttika, asita = kṛṣṇa, caṃdradivasa = Monday, brahmadaivaka = Rohiṇī are all confirmed. The era is not stated and VS is only inferred; this is now said in notes",
+   "Notes: the second chronogram is worked out and its uncertainty spelled out"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahā(10)kavideveśvara",
+   "name": "Deveśvara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahākavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vāgbhaṭasūnumahā(10)kavideveśvaraviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vāgbhaṭa",
+   "name": "Vāgbhaṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vāgbhaṭasūnu",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "sukhārāmeṇa",
+   "name": "Sukhārāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sukhārāmeṇa cālekhi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "mitrarāmadvi(12)jo",
+   "name": "Mitrarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mitrarāmadvi(12)jo (!) kāśyāṃ pustakaṃ cālikhan mudā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "vāgbhaṭasūnu"
+  }
+ ],
+ "date": {
+  "as_written": "rasavedādricaṃdre ʼbde 1746 ūrjjasyāsitapakṣa(11)ke || paṃcamyāṃ caṃdradivase nakṣatre brahmadaivake",
+  "era": "VS",
+  "year": "1746",
+  "month": "Kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Monday",
+  "nakshatra_yoga": "Rohiṇī",
+  "ce_approx": "1689"
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The era is not named ('ʼbde' only). VS is inferred because the copy was made in Kāśī and the catalogue gives SAM 1746. If the era were ŚS, the date would be about 1824 CE. The weekday and nakṣatra have not been checked against an ephemeris. Two people are said to have written the manuscript: Sukhārāma ('sukhārāmeṇa cālekhi') and Mitrarāma dvija ('kāśyāṃ pustakaṃ cālikhan'). They may have been co-scribes, or one of the verbs may mean something else. The catalogue names only Mitrarāma. The (!) after 'dvijo' marks the irregular form in the original. The final half-verse gives a second date: 'śubhakṛti … navaśāstrādrikṣmā-saṃkhya-varṣe sahasi'. Read right to left, nava 9, śāstra 6, adri 7, kṣmā 1 = 1769, in the Jovian year Śubhakṛt, month Sahas (Mārgaśīrṣa). If this is VS, it is about 1712 CE, 23 years after the main date. It may record a later event in the book's history (e.g. a re-copying or acquisition). This verse is fragmentary and its relation to the main colophon is unclear. The blessing for the lekhaka and pāṭhaka is a formula and names no one.",
+ "_meta": {
+  "reel": "A 366/8",
+  "model": "opus",
+  "cost_usd": 0.111222,
+  "secs": 31.1
+ }
+}

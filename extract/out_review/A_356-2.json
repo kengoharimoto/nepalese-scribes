@@ -1,0 +1,90 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p3 name corrected from 'Śrīkṛṣṇa' to 'Kṛṣṇa': śrī is an honorific and is dropped.",
+   "p2 name changed to stem 'Kṛṣṇa', with bhaṭṭa kept as a title.",
+   "Relation p1→p2 changed from son_of to grandson_of. 'kṛṣṇabhaṭṭātmaja do bhasūnu' reads as 'son of [X]bhaṭṭa, who is the son of Kṛṣṇabhaṭṭa'. The garbled 'do bha' probably hides the father's name, perhaps (Mahā)devabhaṭṭa.",
+   "p1 confidence lowered to medium. The name may be a corruption of Divākara, and the genealogy is garbled.",
+   "Place of copying cleared. Rāmanagara is stated only as the owner's residence ('rāmanagara bālo' = 'of Rāmanagara'). It is kept in p3's residence field.",
+   "Era basis explained in notes. The colophon has a bare 'saṃvat'; it is taken as VS, so 1864 = 1807 CE (Caitra śukla 11, spring 1807).",
+   "Notes expanded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dinakara",
+   "name": "Dinakara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "Bhāradvāja",
+   "residence": "",
+   "evidence": "do bhasūnu dinakarakṛte vṛttaratnākaraṃdarśaḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kṛṣṇabhaṭṭa",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "Bhāradvāja",
+   "residence": "",
+   "evidence": "kṛṣṇabhaṭṭātmaja",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīkṛṣṇajośī",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "Rāmanagara",
+   "evidence": "pustakam idaṃ śrīkṛṣṇajośī || rāmanagara bālo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "grandson_of",
+   "to": "p2",
+   "evidence": "kṛṣṇabhaṭṭātmaja do bhasūnu dinakara"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1864 māse caitra sule(!) pakṣa 11",
+  "era": "VS",
+  "year": "1864",
+  "month": "Caitra",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1807"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The commentary is the Vṛttaratnākarādarśa ('vṛttaratnākaraṃdarśaḥ'). The author's genealogy is corrupt: 'śrīmadbhārabdāvā(!)ṣṭha' = Bhāradvāja gotra? 'kṛṣṇabhaṭṭātmaja do bhasūnu' most likely means 'son of [?de]vabhaṭṭa, the son of Kṛṣṇabhaṭṭa'. The father's name is lost; it may be (Mahā)devabhaṭṭa, i.e. the Pāyaguṇḍe family (Bālakṛṣṇa → Mahādeva → Divākara/Dinakara), but this is unverified. 'samāptim aphāṇīt' is a corruption of 'agamat', and 'śrīmārṇastu' of 'śrīr astu'. The era is a bare 'saṃvat', taken as VS. 'rāmanagara bālo' (Hindi -vālā) marks Kṛṣṇa Jośī as being from Rāmanagara (possibly the one near Vārāṇasī). It is not explicitly the place of copying. The catalogue fields (scribe Padmanābhadvija; ŚS 1701 ≈ 1779 CE) do not match this colophon, which names no scribe and gives saṃvat 1864. These fields may belong to another colophon in the same MS or be a cataloguing error.",
+ "_meta": {
+  "reel": "A 356/2",
+  "model": "opus",
+  "cost_usd": 0.11176999999999998,
+  "secs": 30.8
+ }
+}

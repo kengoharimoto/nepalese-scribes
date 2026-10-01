@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmandarathasya",
+   "name": "Mandaratha",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmandarathasya rāja",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kulaputravajābhāvokasya",
+   "name": "Vajābhāvoka",
+   "roles": [
+    "commissioner",
+    "beneficiary"
+   ],
+   "titles": [
+    "kulaputra"
+   ],
+   "affiliation": "",
+   "residence": "śrīhallapiṅgaviṣaye kāthadhuṭōlla",
+   "evidence": "kulaputravajābhāvokasya pūjārthas puṇyārthinā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīmandarathasya rāja ... kulaputravajābhāvokasya"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 212 phālguṇaśuklaaśvanī(!) nakṣatre śukradine",
+  "era": "NS",
+  "year": "212",
+  "month": "phālguṇa",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "śukradine",
+  "nakshatra_yoga": "aśvanī",
+  "ce_approx": "1092"
+ },
+ "place": {
+  "as_written": "śrīhallapiṅgaviṣaye kāthadhuṭōllakāpicāsinā",
+  "normalized": ""
+ },
+ "purpose": "pūjārtha puṇyārtha",
+ "notes": "The phrase 'śrīmandarathasya rāja' likely stands for 'śrīmandarathasya rājye' or 'rājādhirāja-'. The residence phrase 'kāthadhuṭōllakāpicāsinā' appears to be corrupt for 'kāthadhuṭōllakānivāsinā'. The scribe may be the unnamed person described by 'vāsinā ... puṇyārthinā' or Kulaputra Vajābhāvoka himself if -kasya is an error for -keṇa.",
+ "_meta": {
+  "reel": "B 25/24",
+  "model": "gemini-flash-latest",
+  "secs": 11.6,
+  "in_tok": 776,
+  "out_tok": 2524
+ }
+}

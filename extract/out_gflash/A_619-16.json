@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jaya bhūpatīndramarlladevasana",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījaya bhūpatīndramarlladevasana cuka cosa deva pratiṣṭhā, sirddhrāgni a(92v1)'itāhuti yajña yāṅāyā thva sāphuri",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 825 bhādrapada śukla daśamī(2)mūla śaniścaravārakuhnuḥ",
+  "era": "NS",
+  "year": "825",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "śaniścaravāra",
+  "nakshatra_yoga": "mūla",
+  "ce_approx": "1705"
+ },
+ "place": {
+  "as_written": "cuka cosa",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "deva pratiṣṭhā, sirddhrāgni a'itāhuti yajña",
+ "notes": "The manuscript is noted as the manual (sāphuri) for the consecration and yajña performed in the courtyard (cuka cosa) by King Jayabhūpatīndramalla.",
+ "_meta": {
+  "reel": "A 619/16",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 774,
+  "out_tok": 1268
+ }
+}

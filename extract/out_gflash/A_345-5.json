@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jaya jitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrī sumati jaya jitāmitramalladevasana ... cocakāva tayā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhāgirāma pradhānāṅgayā",
+   "name": "Bhāgirāma",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "pradhānāṅga"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgirāma pradhānāṅgayā velasa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "jaya jitāmitramalladevasana bhāgirāma pradhānāṅgayā velasa"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 804 māghasudi 15",
+  "era": "NS",
+  "year": "804",
+  "month": "māgha",
+  "paksa": "sudi",
+  "tithi": "15",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1684"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "King Jayajitāmitramalla of Bhaktapur is recorded as having this play (pyākhana) prepared and written/copied during the administrative tenure (velasa) of his minister Bhāgirāma Pradhānāṅga. The colophon text itself does not explicitly state the place name, though historically this occurred in Bhaktapur.",
+ "_meta": {
+  "reel": "A 345/5",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 763,
+  "out_tok": 1319
+ }
+}

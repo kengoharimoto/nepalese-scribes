@@ -1,0 +1,55 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmanmahīdhara-",
+   "name": "Mahīdhara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanmahīdharaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "tārānidhir",
+   "name": "Tārānidhi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhat tārānidhir",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "aṣṭādaśāṃbhoda mite śake site pakṣe (10) daśamyāṃ śaśivāsare",
+  "era": "ŚS",
+  "year": "aṣṭādaśāṃbhoda",
+  "month": "",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue reads the chronogram as ŚS 1645 (1718/1723 CE). Also mentions Jupiter in Aquarius ('gurau kuṃbhasthite').",
+ "_meta": {
+  "reel": "A 177/19",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 754,
+  "out_tok": 1513
+ }
+}

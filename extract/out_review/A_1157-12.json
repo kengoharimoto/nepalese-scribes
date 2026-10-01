@@ -1,0 +1,99 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 (†ulphāsabhārakasya†): dropped 'commissioner' — the colophon has no likhāpitam/lekhayāmāsa; he is named only as recipient of the merit (anena kuśalamūlena … yad atra puṇyaṃ), so 'beneficiary' only; he is probably the patron, but this is recorded in notes, not as a role",
+   "p2: confidence lowered to low (the cataloguer marked the name corrupt); 'bhāraka' kept as a probable title (= bhāro)",
+   "p2 residence normalised to 'Tripurakoccha, Bhaktapur'",
+   "purpose rewritten as a short merit-transfer statement",
+   "place: noted that Bhaktapur is stated as the patron's residence, not explicitly as the place of copying",
+   "notes expanded"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī śrīdharmmamalla || || devasya",
+   "name": "Dharmamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhuvarājādhirāja",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śrīdharmmamalla || || devasya vijaya rājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śivācārya †ulphāsabhārakasya†",
+   "name": "Ulphāsa",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [
+    "śivācārya",
+    "bhāraka (bhāro?)"
+   ],
+   "affiliation": "",
+   "residence": "Tripurakoccha, Bhaktapur",
+   "evidence": "anena kuśalamūlena bhaktāpura mahānagare tripurakocche śivācārya †ulphāsabhārakasya† yadatra punyaṃ",
+   "confidence": "low"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bajrācārya śrīsugatacandrasya",
+   "name": "Sugatacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bajrācārya śrīsugatacandrasya likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "anena kuśalamūlena … śivācārya †ulphāsabhārakasya† yadatra punyaṃ … bajrācārya śrīsugatacandrasya likhitaṃ"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrī śrīdharmmamalla || || devasya vijaya rājye"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 518 māgha kṛṣṇa daśamyā tithau | uttarāṣāḍhanakṣatre || śubhayoge budhavāsare",
+  "era": "NS",
+  "year": "518",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī",
+  "weekday": "budhavāsara (Wednesday)",
+  "nakshatra_yoga": "uttarāṣāḍhā; śubha",
+  "ce_approx": "1398"
+ },
+ "place": {
+  "as_written": "bhaktāpura mahānagare tripurakocche",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "merit transfer to the śivācārya patron, with his parents first and all beings, so that they reach Śivaloka",
+ "notes": "The cataloguer marked the patron's name as corrupt (†ulphāsabhārakasya†). The reading 'Ulphāsa' + bhāraka (probably the Newar title bhāro) is tentative. He receives the merit of the copy and is probably the patron/donor, but the colophon has no explicit commissioning verb. 'bhaktāpura mahānagare tripurakocche' gives his residence (the Tripura quarter or palace of Bhaktapur). The colophon does not explicitly say the copy was made there; the catalogue's 'Place of Copying: Bhaktapur' is inferred from this. NS 518 Māgha (early 1398 CE) fits the joint rule of Jayasthitimalla's sons, which included Dharmamalla. A Vajrācārya scribe wrote for a Śaiva (śivācārya) patron, and the colophon ends with a Buddhist triratna invocation.",
+ "_meta": {
+  "reel": "A 1157/12",
+  "model": "opus",
+  "cost_usd": 0.104426,
+  "secs": 25.2
+ }
+}

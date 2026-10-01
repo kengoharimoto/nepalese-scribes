@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vyaidyajasarojanāmnena",
+   "name": "Jasaroja",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhita vyaidyajasarojanāmnena svapustako yaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 403 māghaśuklacaturdaśyāṃ bhānudine punarvvasunakṣatre",
+  "era": "NS",
+  "year": "403",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "caturdaśī",
+  "weekday": "bhānudina",
+  "nakshatra_yoga": "punarvvasu",
+  "ce_approx": "1283"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtha (svapustako 'yaṃ)",
+ "notes": "The name is given as vyaidyajasarojanāmnena (by the vaidya named Jasaroja), using the thematicized instrumental form nāmnena for nāmnā.",
+ "_meta": {
+  "reel": "B 13/33",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 756,
+  "out_tok": 1175
+ }
+}

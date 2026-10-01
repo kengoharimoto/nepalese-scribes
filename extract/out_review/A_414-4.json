@@ -1,0 +1,103 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed p5 'Badalādatta' (donor): 'badalādataṃ' is most likely 'badalā dattaṃ' ('given in exchange/for payment'), not a personal name, and no donation is stated; kept only as a note",
+   "Author p1: dropped 'guru' from titles ('guruvarṣa' is probably a corrupt 'guruvarya' honorific); evidence shortened",
+   "Scribe p3: residence normalised to 'Maṇuragrāma, near Janakeśvara' with evidence from 'vasatīty arthaḥ'",
+   "Mahepata (p4): name kept, confidence lowered to medium because of the uncertain spelling (= Mahīpati Rāva?)",
+   "ce_approx changed 1791 → 1792: Phālguna śukla 1 of ŚS 1713 falls in Feb/Mar 1792 CE"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaṇeśadaivajña",
+   "name": "Gaṇeśa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gaṇeśadaivajñakṛtatithiciṃtāmaṇiḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śaṃkarabhaṭṭa",
+   "name": "Śaṅkara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śaṃkarabhaṭṭātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "kaceśvareṇa",
+   "name": "Kaceśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Maṇuragrāma, near (the shrine of) Janakeśvara",
+   "evidence": "kaceśvareṇedaṃ likhitaṃ … maṇuragrāme janakeśvarasannidhau vasati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "mahepatarāvasya",
+   "name": "Mahepata",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "rāva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pustakamu (!) badalādataṃ mahepatarāvasyedaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śaṃkarabhaṭṭātmajakaceśvareṇa"
+  }
+ ],
+ "date": {
+  "as_written": "śake (!) 1713 phālguṇaśuddha 1",
+  "era": "ŚS",
+  "year": "1713",
+  "month": "Phālguna",
+  "paksa": "śukla (śuddha)",
+  "tithi": "1",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1792"
+ },
+ "place": {
+  "as_written": "maṇuragrāme janakeśvarasannidhau",
+  "normalized": ""
+ },
+ "purpose": "svārthe vā parārthe (for himself or for another)",
+ "notes": "The colophon gives Maṇuragrāma near Janakeśvara as the place where the scribe lives ('vasatīty arthaḥ'), not explicitly as the place of copying. It is taken as the place of copying here, as the catalogue does. The catalogue's donor 'Badalādattamahepat Rāva' runs together 'badalādataṃ' and 'mahepatarāvasya'. 'badalādataṃ' most likely means 'badalā dattaṃ' (given in exchange or for payment), so the book belongs to Mahepata Rāva (= Mahīpati Rāva?), who probably got it from the scribe. Neither a donor nor a person named Badalādatta is clearly attested. 'guruvarṣa' before the author's name is probably a corrupt honorific (guruvarya). The author is Gaṇeśa Daivajña, the well-known author of the Tithicintāmaṇi. Non-Nepalese (Western Indian/Maratha) setting is likely.",
+ "_meta": {
+  "reel": "A 414/4",
+  "model": "opus",
+  "cost_usd": 0.096974,
+  "secs": 21.4
+ }
+}

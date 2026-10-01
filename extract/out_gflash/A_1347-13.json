@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhāravikṛtau",
+   "name": "Bhāravi",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāravikṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rāmeśvaraśarmaṇā",
+   "name": "Rāmeśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmeśvaraśarmaṇā likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 799 vaiśākhakṛṣṇatrayodaśyāṃ somavāradi(vase)",
+  "era": "NS",
+  "year": "799",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1679"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1347/13",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 752,
+  "out_tok": 987
+ }
+}

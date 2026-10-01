@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñapurandarasi(!)ha",
+   "name": "Purandarasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "re(!)khaka daivajñapurandarasi(!)ha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 882 ākhā(!)ḍakṛṣṇa(!) aṣṭami(!) kuhna",
+  "era": "NS",
+  "year": "882",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1762"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The name is followed by †rāmana†, which is marked as corrupt or unclear.",
+ "_meta": {
+  "reel": "A 470/36",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 732,
+  "out_tok": 778
+ }
+}

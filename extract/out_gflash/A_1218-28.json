@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "premanidhiśarma",
+   "name": "Premanidhi",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paṃtha",
+    "śarman"
+   ],
+   "affiliation": "bhāradvājakula",
+   "residence": "",
+   "evidence": "śrībhāradvājakulapaṃthopanāmaka premanidhiśarma (!) nirmitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1218/28",
+  "model": "gemini-flash-latest",
+  "secs": 2.7,
+  "in_tok": 663,
+  "out_tok": 540
+ }
+}

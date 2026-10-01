@@ -1,0 +1,83 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmanmallajagajjayāvanipatir",
+   "name": "Jagajjayamalla",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "avanipati",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "Nepal",
+   "evidence": "śrīmanmallajagajjayāvanipatir vyācaṣṭa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīviśvambharabhūsurendra",
+   "name": "Viśvambhara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhūsurendra"
+   ],
+   "affiliation": "Bhāradvājagotra",
+   "residence": "",
+   "evidence": "śrīviśvambharabhūsurendratanūyo",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "prakāśanṛpateḥ",
+   "name": "Jayaprakāśamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpati"
+   ],
+   "affiliation": "",
+   "residence": "Nepal",
+   "evidence": "mūrddhāstidhṛtaḥ prakāśanṛpateḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "other",
+   "to": "p1",
+   "evidence": "prakāśanṛpateḥ rudrāvatārasya vai"
+  }
+ ],
+ "date": {
+  "as_written": "śākedṛk śaratarkkacandragalite",
+  "era": "ŚS",
+  "year": "1652",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1730"
+ },
+ "place": {
+  "as_written": "nepāla",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The chronogram 'dṛk-śara-tarkka-candra' gives Śaka 1652 (1730 CE), recording the composition of the text by King Jagajjayamalla of Kathmandu. The closing verses praise a Brahmin scholar from the Bhāradvāja lineage, son of Viśvambhara, associated with King Jayaprakāśamalla ('prakāśanṛpati'), but the final name/words are broken off ('devādinandā///').",
+ "_meta": {
+  "reel": "A 978/37",
+  "model": "gemini-flash-latest",
+  "secs": 11.8,
+  "in_tok": 1434,
+  "out_tok": 3285
+ }
+}

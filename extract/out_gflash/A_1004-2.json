@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "melamha bhaṃḍārī",
+   "name": "Melamha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṇḍārī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ melamha bhaṃḍārī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 876 āṣāḍhaśukladu(!)tīyā kunhu",
+  "era": "NS",
+  "year": "876",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "dutīyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1756"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1004/2",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 791,
+  "out_tok": 912
+ }
+}

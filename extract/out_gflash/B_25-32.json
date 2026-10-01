@@ -1,0 +1,87 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāsāmantaśrīratnadīpa",
+   "name": "Ratnadīpa",
+   "roles": [
+    "king",
+    "governor"
+   ],
+   "titles": [
+    "mahāsāmanta"
+   ],
+   "affiliation": "",
+   "residence": "Dhavalasotapura",
+   "evidence": "mahāsāmantaśrīratnadīparājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śaivācārya śrīśrīdhararājaguruṇāṃ",
+   "name": "Śrīdhara",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "śaivācārya",
+    "rājaguru"
+   ],
+   "affiliation": "hṛkaśaḍanvaya",
+   "residence": "",
+   "evidence": "śaivācārya śrīśrīdhararājaguruṇāṃ likhāyitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "dharmādityena",
+   "name": "Dharmāditya",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ dharmādityena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "śaivācārya śrīśrīdhararājaguruṇāṃ likhāyitaṃ likhitaṃ dharmādityena"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "dhavalasotapure | mahāsāmantaśrīratnadīparājye"
+  }
+ ],
+ "date": {
+  "as_written": "nepāladeśīya saṃvat 304 jyeṣṭhasudi 13 gurau",
+  "era": "NS",
+  "year": "304",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1184"
+ },
+ "place": {
+  "as_written": "dhavalasotapure",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Vyāsa and Vināyaka (Ganeśa) occur in the scribe's apologia verse and have been omitted as mythical/deities.",
+ "_meta": {
+  "reel": "B 25/32",
+  "model": "gemini-flash-latest",
+  "secs": 7.9,
+  "in_tok": 907,
+  "out_tok": 1784
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "date.as_written extended to the full date phrase including 'sudina thokunhu sidhayakā'",
+   "date.month normalized to Āṣāḍha",
+   "date.tithi: 'kami' is not a tithi; replaced with tentative 'saptamī?' (reading āḍhaśakami as a corruption of āṣāḍha śaptami/saptamī)",
+   "date.paksa: 'śukla' is not stated in the text; now left blank, with the uncertainty explained in notes",
+   "date.nakshatra_yoga normalized to Hasta",
+   "notes revised"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 754 āḍhaśakami hastanakṣatre sudina thokunhu sidhayakā",
+  "era": "NS",
+  "year": "754",
+  "month": "Āṣāḍha",
+  "paksa": "",
+  "tithi": "saptamī?",
+  "weekday": "",
+  "nakshatra_yoga": "Hasta",
+  "ce_approx": "1634"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names no scribe, commissioner, owner or king. 'āḍhaśakami' looks corrupt. The most likely reading is āṣāḍha śaptami (= saptamī), with 'pta' misread as 'ka'. That would make the paksa unstated. Another possible reading is āṣāḍha śu(kla) + a lost tithi ending -mi; this is less likely. 'sudina thokunhu sidhayakā' is Newari for 'completed on this auspicious day'. The era is unspecified, but 'samvat 754' in a Newari-script manuscript fits NS: 754 + 880 = 1634 CE, which agrees with the catalogue's 'NS 754?'.",
+ "_meta": {
+  "reel": "A 390/1",
+  "model": "opus",
+  "cost_usd": 0.45775,
+  "secs": 21.3
+ }
+}

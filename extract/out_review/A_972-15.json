@@ -1,0 +1,66 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Author name normalized to stem 'Maheśa' (bhaṭṭa treated as brahmin surname/title, kept in titles)",
+   "date.as_written restored to the exact colophon string (no added space)",
+   "weekday normalized to 'Monday (candravāsara)'",
+   "Notes expanded: era abbreviated, VS assumed from 'sāla' usage and catalogue; weekday roughly consistent with Nov 1903"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmahāmahopā(6)dhyāyaśrīmaheśabhaṭṭa",
+   "name": "Maheśa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahāmahopā(6)dhyāyaśrīmaheśabhaṭṭaviracitāyām",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śeṣaramaṇena",
+   "name": "Śeṣaramaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śeṣaramaṇena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "60sālamārgaśuklacaturthyāṃ candravāsare",
+  "era": "VS",
+  "year": "(19)60",
+  "month": "mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "caturthī",
+  "weekday": "Monday (candravāsara)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1903"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is written only as '60 sāla', with no century and no era name. VS (19)60 = 1903 CE is the catalogue's reading. It is plausible because 'sāla' is the usual Nepali way of writing VS years, and Mārgaśīrṣa śukla 4 of VS 1960 falls around 22–23 Nov 1903, which roughly fits the Monday given. Other centuries (e.g. VS 1860 or 2060) cannot be ruled out strictly. 'śaktaḥ maṃtrakathanaṃ' in the chapter title is corrupt (probably śākta-); this does not affect the persons.",
+ "_meta": {
+  "reel": "A 972/15",
+  "model": "opus",
+  "cost_usd": 0.07973,
+  "secs": 19.2
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Expanded the notes: 'bhattarināṭaka sidhaya kā' probably means Newari siddhayakā, 'completed', referring to a Bhartṛhari-nāṭaka. It is a completion statement, not a personal name.",
+   "Noted that the copy names no scribe, commissioner or owner."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bharttariṇāṃ",
+   "name": "Bhartṛhari",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bharttariṇāṃ dīpaśāstra samāptaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 854 caitra śudi 13",
+  "era": "NS",
+  "year": "854",
+  "month": "caitra",
+  "paksa": "śudi",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1734"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue puts 'NS 854' in the Scribe field by mistake. The colophon names no scribe. The era is not stated, but the Newari script and the formula point to NS: 854 + 880 = 1734 CE, and Caitra śukla 13 falls in March/April 1734. 'bhattarināṭaka sidhaya kā +++' is probably 'Bhartṛhari-nāṭaka siddhayakā' (Newari, 'completed'), with the rest lost. It is not a personal name. Attributing the work to Bhartṛhari rests only on the genitive 'bharttariṇāṃ' and may be a traditional ascription.",
+ "_meta": {
+  "reel": "B 286/15",
+  "model": "opus",
+  "cost_usd": 0.06564600000000001,
+  "secs": 12.0
+ }
+}

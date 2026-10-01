@@ -1,0 +1,107 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhānudatta",
+   "name": "Bhānudatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhānudattaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kavika(4)lāsanāthagaṇapatinātha",
+   "name": "Gaṇapatinātha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "kavikalāsanātha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gaṇapatināthatanaya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "gaṃgāviṣṇū",
+   "name": "Gaṅgāviṣṇu",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nṛpājñayāliṣad (!) gaṃgāviṣṇū",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "trivikramasya",
+   "name": "Trivikrama",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "rājarāja",
+    "mahārāja",
+    "bhūpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nṛpājñayāliṣad ... rājarājasya ma(6)hārājasya bhūpateḥ || trivikramasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "gaṇapatināthatanaya"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "nṛpājñayāliṣad (!) gaṃgāviṣṇū ... trivikramasya bhavatu"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p4",
+   "evidence": "svasti śrīrājarājasya ma(6)hārājasya bhūpateḥ || trivikramasya"
+  }
+ ],
+ "date": {
+  "as_written": "naṃdarturasabhū(5)śāke ūrjje gnīśatithau",
+  "era": "ŚS",
+  "year": "1669",
+  "month": "ūrjja",
+  "paksa": "",
+  "tithi": "gnīśa",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1747"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for the diversion/amusement of King Trivikrama (vinodabahulā)",
+ "notes": "Chronogram naṃda (9) - ṛtu (6) - rasa (6) - bhū (1) = Śāke 1669. Month ūrjja corresponds to Kārttika. King Trivikrama is probably Trivikrama Sena of Tanahun.",
+ "_meta": {
+  "reel": "A 372/9",
+  "model": "gemini-flash-latest",
+  "secs": 9.4,
+  "in_tok": 811,
+  "out_tok": 2638
+ }
+}

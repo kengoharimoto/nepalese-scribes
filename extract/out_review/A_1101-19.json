@@ -1,0 +1,47 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. Mādhava is kept as owner only: 'mādhavasyedaṃ pustakam' states ownership, and the colophon names no scribe. The catalogue's 'Scribe: Mādhava' is an inference and is recorded in the notes."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gargagotrotpannamādhavasya",
+   "name": "Mādhava",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "Garga gotra",
+   "residence": "",
+   "evidence": "gargagotrotpannamādhavasyedaṃ pustakam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1863 caitraśuddhadvādaśyām",
+  "era": "VS",
+  "year": "1863",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1806"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is not named ('saṃvat'). The year 1863 is far too high for Nepāla Saṃvat, so it is read as Vikrama Saṃvat, giving c. March/April 1806 CE. The colophon names no scribe: the passive 'likhitam' has no agent. Mādhava of the Garga gotra is named only as the owner ('idaṃ pustakam'). The catalogue's 'Scribe: Mādhava' is plausible, since the owner may have copied the book himself, but the colophon does not say so.",
+ "_meta": {
+  "reel": "A 1101/19",
+  "model": "opus",
+  "cost_usd": 0.062894,
+  "secs": 10.3
+ }
+}

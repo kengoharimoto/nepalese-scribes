@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vipravaro",
+   "name": "Vipravara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vipravaro lilekha",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "bhūpaṃ ca parjanyayuteṣu śāke śukrākhyamāsāsitapakṣake ravau śaṃbhos tithau",
+  "era": "ŚS",
+  "year": "bhūpañcaparjanya",
+  "month": "Jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue identifies the scribe as Vipravara, though 'vipravaraḥ' could be an epithet ('an excellent brāhmaṇa') rather than a proper name. In the chronogram, 'śukrākhyamāsa' corresponds to Jyeṣṭha, 'śaṃbhos tithi' refers to ekādaśī (Śambhu = 11), but 'parjanya' is non-standard, so the exact Śaka year is uncertain.",
+ "_meta": {
+  "reel": "B 208/6",
+  "model": "gemini-flash-latest",
+  "secs": 11.3,
+  "in_tok": 789,
+  "out_tok": 2084
+ }
+}

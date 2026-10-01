@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrajariṣī",
+   "name": "Rajarṣi",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrajariṣīviracitaṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rāmeśvara bhāṇajī",
+   "name": "Rāmeśvara Bhāna",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhāṇajī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhītvā (!) rāmeśvara bhāṇajī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1841 (!)/// sa kārttika kṛººpakṣe 7 bhoma (!)",
+  "era": "VS",
+  "year": "1841",
+  "month": "kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "7",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1784"
+ },
+ "place": {
+  "as_written": "paṭhanā (!)",
+  "normalized": "Patna"
+ },
+ "purpose": "",
+ "notes": "The catalogue interprets 'paṭhanā' as the place of copying Patna; alternatively, it could represent an uninflected or incomplete form of paṭhanāya/paṭhanārtham ('for reading/study').",
+ "_meta": {
+  "reel": "B 326/35",
+  "model": "gemini-flash-latest",
+  "secs": 9.1,
+  "in_tok": 742,
+  "out_tok": 1669
+ }
+}

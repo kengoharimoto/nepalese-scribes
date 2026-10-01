@@ -1,0 +1,74 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Added 'bhaṭṭa' to Kāśīnātha's titles: the compound 'jayarāmabhaṭṭabhaṭṭātmaja' calls him a Bhaṭṭa, the son of Jayarāma Bhaṭṭa.",
+   "Normalized the nakṣatra/yoga field to Āśleṣā (written 'maśleṣā', after the tithi 'parato') and yoga Vajra.",
+   "Glossed the weekday saumyavāra as Wednesday.",
+   "Expanded the notes: the chronogram check, the catalogue's 'NS 884?', 'nepāle' as the era marker rather than the copying place, and the scribe left unnamed."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāśīnāthena",
+   "name": "Kāśīnātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "devotee of Dakṣiṇāmūrti (dakṣiṇāmūrtticaraṇāraviṃdamiliṃdena)",
+   "residence": "",
+   "evidence": "śrījayarāmabhaṭṭabhaṭṭātmajakāśīnāthena viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrījayarāmabhaṭṭa",
+   "name": "Jayarāma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījayarāmabhaṭṭabhaṭṭātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrījayarāmabhaṭṭabhaṭṭātmajakāśīnāthena"
+  }
+ ],
+ "date": {
+  "as_written": "candrāṅke nandavarṣe nepāle pakṣa śukle tṛtīyāṃ parato maśleṣā yoga vajre āṣāḍhe saumyavāreṣu",
+  "era": "NS",
+  "year": "991",
+  "month": "Āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "3 (tṛtīyā)",
+  "weekday": "Wednesday (saumyavāra)",
+  "nakshatra_yoga": "nakṣatra Āśleṣā (written 'maśleṣā'); yoga Vajra",
+  "ce_approx": "1871"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram is candra (1), aṅka (9), nanda (9). Read right to left (aṅkānāṃ vāmato gatiḥ), it gives NS 991, i.e. 1871 CE. That matches the second value in the catalogue field. Nothing in the colophon supports the catalogue's alternative 'NS 884?'. 'nepāle' marks the era (Nepāla saṃvat), not the place of copying. The closing scribal verses are badly corrupt ('liṣidiṣva' = likhita?; 'likhitaḥ śubham'), and they name no scribe, commissioner or owner. Kāśīnātha, son of Jayarāma Bhaṭṭa, is the author of the Mantrarājasamuccaya, not a participant in this copy. 'śrīsadāśiva kṣamasva' and the apology to Śiva/Devī are invocations, not persons.",
+ "_meta": {
+  "reel": "A 177/18",
+  "model": "opus",
+  "cost_usd": 0.088326,
+  "secs": 19.4
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadrājaguruhemarājavidvadvareṇa",
+   "name": "Hemarāja",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "rājaguru",
+    "vidvadvara"
+   ],
+   "affiliation": "Bhāratībhavana",
+   "residence": "",
+   "evidence": "svakīyabhāratībhavanārthaṃ śrīmadrājaguruhemarājavidvadvareṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "pūrṇaprasādaśarmadvārā",
+   "name": "Pūrṇaprasādaśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pūrṇaprasādaśarmadvārā pratirūpakīkṛtya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "śrīmadrājaguruhemarājavidvadvareṇa pūrṇaprasādaśarmadvārā pratirūpakīkṛtya"
+  }
+ ],
+ "date": {
+  "as_written": "1982 vaikramābde",
+  "era": "VS",
+  "year": "1982",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1925"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svakīyabhāratībhavanārthaṃ",
+ "notes": "The manuscript is a modern copy made from an ancient palm-leaf exemplar (prācīnatāḍapatrapustakāt) for Rājaguru Hemarāja Śarmā's Bhāratī Bhavan library by Pūrṇaprasāda Śarmā in VS 1982 (ca. 1925 CE).",
+ "_meta": {
+  "reel": "A 153/2",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 779,
+  "out_tok": 1090
+ }
+}

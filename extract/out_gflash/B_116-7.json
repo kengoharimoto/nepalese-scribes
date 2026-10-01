@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivarāmeṇa",
+   "name": "Śivarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brahmaputra"
+   ],
+   "affiliation": "rājanihmakula",
+   "residence": "",
+   "evidence": "rājanihmakulodbhava brahmaputra śivarāmeṇa likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "mama rogavināśāya; śrī3bhavānīśaṃkarayor prītir astu",
+ "notes": "",
+ "_meta": {
+  "reel": "B 116/7",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 837,
+  "out_tok": 745
+ }
+}

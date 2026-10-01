@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumatijayajitāmitramalladevasana",
+   "name": "Jayajitāmitramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumatijayajitāmitramalladevasana bhāgirāmapradhānāṅgayā velasathva viṣṇupurāṇamahāyatnanadayakā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhāgirāmapradhānāṅgayā",
+   "name": "Bhāgirāma",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "pradhānāṅga"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgirāmapradhānāṅgayā velasa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīśrīsumatijayajitāmitramalladevasana bhāgirāmapradhānāṅgayā velasa"
+  }
+ ],
+ "date": {
+  "as_written": "saṃ 814 kārttikaśukla 9 thvakunhu",
+  "era": "NS",
+  "year": "814",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1693"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīśrīśrīviṣṇuprītir astu",
+ "notes": "The catalogue lists the date as SAM 818 and Bhāgīmāna Pradhāna as scribe, but the colophon clearly gives the year as 814 and mentions Bhāgirāma Pradhānāṅga as the minister in office ('bhāgirāmapradhānāṅgayā velasa') when the text was caused to be prepared ('dayakā') by King Jayajitāmitramalla.",
+ "_meta": {
+  "reel": "B 249/2",
+  "model": "gemini-flash-latest",
+  "secs": 10.6,
+  "in_tok": 792,
+  "out_tok": 2209
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīraṇahastinā",
+   "name": "Raṇahastin",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīraṇahastinā viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mahādevena",
+   "name": "Mahādeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ mahādevena samarpayāmi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1695 māse5 titahi (!) śukla1 tṛtīyā3 vāre7 nakṣatre13 yoge22 karaṇe4 muhūrtte5",
+  "era": "ŚS",
+  "year": "1695",
+  "month": "5",
+  "paksa": "śukla",
+  "tithi": "tṛtīyā 3",
+  "weekday": "7",
+  "nakshatra_yoga": "nakṣatre 13 yoge 22 karaṇe 4 muhūrtte 5",
+  "ce_approx": "1773"
+ },
+ "place": {
+  "as_written": "pālapārājadhāni",
+  "normalized": "Palpa"
+ },
+ "purpose": "samarpayāmi",
+ "notes": "",
+ "_meta": {
+  "reel": "A 424/6",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 799,
+  "out_tok": 1395
+ }
+}

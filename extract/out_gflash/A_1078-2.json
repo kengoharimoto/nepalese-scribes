@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñajayakīrttirājena",
+   "name": "Jayakīrttirāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñajayakīrttirājena likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 665 āśvinaśuklapratipadyāṃ tithau, hastanakṣatre, brahmayoge somavāsare",
+  "era": "NS",
+  "year": "665",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "pratipad",
+  "weekday": "somavāsara",
+  "nakshatra_yoga": "hastanakṣatre, brahmayoge",
+  "ce_approx": "1545"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1078/2",
+  "model": "gemini-flash-latest",
+  "secs": 3.0,
+  "in_tok": 759,
+  "out_tok": 720
+ }
+}

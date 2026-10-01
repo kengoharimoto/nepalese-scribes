@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "harilālena",
+   "name": "Harilāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ harilālena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1751 bhādra kṛṣṇa 1",
+  "era": "ŚS",
+  "year": "1751",
+  "month": "bhādra",
+  "paksa": "kṛṣṇa",
+  "tithi": "1",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1829"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Garga mentioned in 'gargoktā' is a legendary sage/traditional author and is excluded.",
+ "_meta": {
+  "reel": "A 416/26",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 692,
+  "out_tok": 1069
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p3 Ānandarāma: roles changed from scribe+reader to scribe+owner (svapaṭhanārtham = own study); residence removed (only the father is called vāripuranivāsī)",
+   "p2 father: name reread as Haribhāī ('haribhā itasya' = haribhāī tasya), confidence lowered to low; 'rāvala' kept as caste/family title",
+   "Date: era/year/ce made consistent. The ŚS 1691 figure is clean and gives c. 1769 CE; VS '18017' is corrupt (1817 → 1760 CE; 1826 would match ŚS 1691). Era set to ŚS and the conflict recorded in notes",
+   "Place: as_written now gives the full form 'vāripuranivāśi'; the colophon names it only as a residence, not explicitly as the place of copying",
+   "Purpose rephrased"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bharavikṛtau",
+   "name": "Bhāravi",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bharavikṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rāvalaharibhā (!) itasya",
+   "name": "Haribhāī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "rāvala"
+   ],
+   "affiliation": "",
+   "residence": "Vāripura",
+   "evidence": "vāripuranivāśirāvalaharibhā (!) itasyātmaja",
+   "confidence": "low"
+  },
+  {
+   "pid": "p3",
+   "as_written": "anaṃdarāmeṇa",
+   "name": "Ānandarāma",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "anaṃdarāmeṇa lakhitaṃ (!) idi (!) pustakaṃ svapaṭhanārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "rāvalaharibhā (!) itasyātmaja (!) anaṃdarāmeṇa"
+  }
+ ],
+ "date": {
+  "as_written": "śaṃvat (!)18017 (!) varṣe śāke 1691 (!) pravarttamāne dakṣiṇāyanagate śrīsūrye hemaṃtaṛtu... mārgaśirṣamāse (!) kṛṣṇapakṣe adya tithau 12 bhṛguvāsare",
+  "era": "ŚS",
+  "year": "1691 (VS written 18017)",
+  "month": "Mārgaśīrṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "12",
+  "weekday": "Friday (bhṛguvāsara)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1769"
+ },
+ "place": {
+  "as_written": "vāripuranivāśi",
+  "normalized": ""
+ },
+ "purpose": "svapaṭhanārtham (copied by the scribe for his own study)",
+ "notes": "The two eras conflict. 'śaṃvat 18017' is corrupt. Read as VS 1817 (the catalogue's reading) it gives c. 1760 CE, but ŚS 1691 gives Nov/Dec 1769 CE. VS 1826 would match ŚS 1691, so the 0 in '18017' may be a stray digit or a miswriting of 2. The catalogue has 'ŚS 1681', which looks like the cataloguer amending the śāka toward VS 1817 (1681+135 = 1816, still off by one). The month, ayana and season agree with each other (Mārgaśīrṣa, dakṣiṇāyana, Hemanta). The father's name 'rāvalaharibhā itasya' is most likely 'Rāvala Haribhāī, tasya ātmaja'. Rāvala is a western Indian (Gujarati/Rajasthani) brahmin surname. Vāripura is unidentified; it is the father's residence and is taken as the place of copying only by inference (catalogue). 'lakṣmyaṃke' is the poem's signature word (lakṣmī-aṅka), not a person.",
+ "_meta": {
+  "reel": "A 345/3",
+  "model": "opus",
+  "cost_usd": 0.116744,
+  "secs": 24.2
+ }
+}

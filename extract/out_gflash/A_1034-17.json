@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kammācāryya nānībhāṇa (!)",
+   "name": "Nānībhāṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kammācāryya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣita kammācāryya nānībhāṇa (!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 778 phālguṇa kṛṣṇa",
+  "era": "NS",
+  "year": "778",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1658"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The title kammācāryya is the vernacular/Prakritic spelling of Karmācārya.",
+ "_meta": {
+  "reel": "A 1034/17",
+  "model": "gemini-flash-latest",
+  "secs": 3.0,
+  "in_tok": 734,
+  "out_tok": 655
+ }
+}

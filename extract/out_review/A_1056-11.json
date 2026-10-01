@@ -1,0 +1,63 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Persons, roles, date and place confirmed",
+   "Notes expanded: the two eras agree (Śaka 1690+78 = VS 1825−57 = 1768 CE); 'dine 3' is the 3rd day of the solar month (gate), not a tithi; 'paphāṇeti' is still unclear"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kālidāsakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrībrajanāthopādhyāyasya",
+   "name": "Brajanātha",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ śrībrajanāthopādhyāyasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1690 samvat 1825 miti kārttike dine 3",
+  "era": "VS",
+  "year": "1825",
+  "month": "kārttika",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1768"
+ },
+ "place": {
+  "as_written": "kāśīnāma nagaryām",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The colophon gives two eras, Śaka 1690 and Vikrama Saṃvat 1825. They agree: both convert to 1768 CE, which matches the catalogue's 'Samvat 1825'. 'dine 3' most likely means the 3rd solar day (gate) of Kārttika rather than a tithi, so Oct./Nov. 1768. The word 'paphāṇeti' after the place name is unclear. It could be a locality or mohalla in Kāśī, a garbled scribe's name, or a scribal remark. No scribe is named for certain. Brajanātha Upādhyāya is the owner ('idaṃ pustakaṃ ... -sya'). He may also have been the scribe, but the colophon does not say so.",
+ "_meta": {
+  "reel": "A 1056/11",
+  "model": "opus",
+  "cost_usd": 0.07203000000000001,
+  "secs": 15.4
+ }
+}

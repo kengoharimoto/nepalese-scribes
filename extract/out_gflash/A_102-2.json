@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "anaṃtakṛṣṇa",
+   "name": "Anantakṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ anaṃtakṛṣṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīparamaśivārpaṇam astu / śrīrāmārpaṇam astu",
+ "notes": "Viśvanātha is mentioned as kuladaivata (family deity) and excluded. No date or place is recorded.",
+ "_meta": {
+  "reel": "A 102/2",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 804,
+  "out_tok": 830
+ }
+}

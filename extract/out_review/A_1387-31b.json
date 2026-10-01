@@ -1,0 +1,34 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday normalized: 'jñe' (locative of jña = Mercury) = Wednesday (budhavāra)",
+   "notes expanded: ce_approx reasoning (ŚS 1777 + 78 = 1855; Phālguna falls early 1856 CE) and reading of trailing 'aeghau śumbha'"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1777 phālgunakṛṣṇāmāvāśyāṃjñe",
+  "era": "ŚS",
+  "year": "1777",
+  "month": "phālguna",
+  "paksa": "kṛṣṇa",
+  "tithi": "amāvāsyā",
+  "weekday": "Wednesday (jñe = budhe)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1856"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The colophon names no persons. ŚS 1777 + 78 = 1855, but Phālguna of Śaka 1777 falls in Feb/Mar 1856 CE, so ce_approx is 1856. 'jñe' is the locative of jña (Mercury), so the day is a Wednesday. The trailing 'aeghau śumbha' looks corrupt. It is probably a garbled closing formula (perhaps a second 'śubham'), not a personal name. The date agrees with the catalogue field (ŚS 1777).",
+ "_meta": {
+  "reel": "A 1387/31b",
+  "model": "opus",
+  "cost_usd": 0.060081999999999997,
+  "secs": 9.8
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "annaṃbhaṭṭena",
+   "name": "Annambhaṭṭa",
+   "roles": [
+    "author",
+    "commentator"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "annaṃbhaṭṭena viraci(13)tā tarkasaṃgrahaṭīkā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śake 1743 vṛṣā nāma saṃvatsare śrāvaṇa(śukla)pratipadyāṃ ravivāsare",
+  "era": "ŚS",
+  "year": "1743",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "pratipad",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1821"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīrāmacaṃdrārpaṇam astu",
+ "notes": "",
+ "_meta": {
+  "reel": "A 73/23",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 758,
+  "out_tok": 853
+ }
+}

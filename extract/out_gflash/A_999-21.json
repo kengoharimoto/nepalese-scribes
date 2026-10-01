@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "srīlālhidatta",
+   "name": "Lālhidatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "srīlālhidattakṛtā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1871 pauṣavadi 2 roja 4",
+  "era": "VS",
+  "year": "1871",
+  "month": "pauṣa",
+  "paksa": "vadi",
+  "tithi": "2",
+  "weekday": "roja 4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1814"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author is named as Lālhidatta. The scribe is not named ('likhitaṃ 4').",
+ "_meta": {
+  "reel": "A 999/21",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 704,
+  "out_tok": 889
+ }
+}

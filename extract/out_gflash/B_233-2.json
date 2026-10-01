@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "karmmācārya jayasiṃhena",
+   "name": "Jayasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmmācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "karmmācārya jayasiṃhena || || ādarśa ... lekhakasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 814 caitraśuklanavami sa-///",
+  "era": "NS",
+  "year": "814",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "navamī",
+  "weekday": "sa-",
+  "nakshatra_yoga": "",
+  "ce_approx": "1694"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Text has lacunae after weekday 'sa-' (presumably śanivāsare) before 'karmmācārya'.",
+ "_meta": {
+  "reel": "B 233/2",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 745,
+  "out_tok": 729
+ }
+}

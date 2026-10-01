@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīśrīrājakumāraupendravikramasāhadevasya",
+   "name": "Upendravikramaśāhadeva",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "rājakumāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ śrīśrīśrīrājakumāraupendravikramasāhadevasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vatāsadhairyyanārāyaṇena",
+   "name": "Vatāsadhairyanārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vatāsadhairyyanārāyaṇena likhitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "idaṃ pustakaṃ śrīśrīśrīrājakumāraupendravikramasāhadevasya || vatāsadhairyyanārāyaṇena likhitā"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsamvat 1906 sāla miti. āṣāḍha śudi 8 roja 5",
+  "era": "VS",
+  "year": "1906",
+  "month": "āṣāḍha",
+  "paksa": "śudi",
+  "tithi": "8",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1849"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Upendra Bikram Shah was a prince of Nepal (son of King Rajendra Bikram Shah). The scribe's name may be Dhairyanārāyaṇa prefixed by a family or caste designation Vatāsa (Batas).",
+ "_meta": {
+  "reel": "B 140/3",
+  "model": "gemini-flash-latest",
+  "secs": 8.4,
+  "in_tok": 818,
+  "out_tok": 1879
+ }
+}

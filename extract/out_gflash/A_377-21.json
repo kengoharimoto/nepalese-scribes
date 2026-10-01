@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kaviśyāmalālo",
+   "name": "Śyāmalāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kaviśyāmalālorpayati- diviṣadīśaṃ pustakaṃ sallikhitvā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "ṭhakanakhahayacandraiḥ sammite vatsare ca malayapavanamitre",
+  "era": "unspecified",
+  "year": "ṭhakanakhahayacandra (1720 or 1722)",
+  "month": "malayapavanamitra",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1800"
+ },
+ "place": {
+  "as_written": "paṃcagaṃge ca kāśyām",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The chronogram ṭhakanakhahayacandra is interpreted by the cataloguer tentatively as ŚS 1722 (c. 1800 CE, although 1740 CE is queried in the catalogue). If ŚS 1720/1722, it corresponds to c. 1798–1800 CE; if VS, c. 1663–1665 CE. 'diviṣadīśa' is likely the deity (Śiva) to whom the copy is offered.",
+ "_meta": {
+  "reel": "A 377/21",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 766,
+  "out_tok": 1407
+ }
+}

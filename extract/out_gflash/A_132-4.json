@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgaṇapatisarmana(!)",
+   "name": "Gaṇapatiśarman",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgaṇapatisarmana(!) viracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jīvaratnena",
+   "name": "Jīvaratna",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "brahmacakramahāvihāra",
+   "residence": "cikatamugala",
+   "evidence": "cikatamugalapratīlyā brahmacakramahāvihāre sthita vipravaṃśavajrācāryya jīvaratnena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepālavarṣe ṛtunetrakhendu, māse śuciś ca dhavale ca pakṣe, vahnitithibhe ca śukravāre",
+  "era": "NS",
+  "year": "1026",
+  "month": "śuci",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "kṛttikā",
+  "ce_approx": "1906"
+ },
+ "place": {
+  "as_written": "cikatamugalapratīlyā brahmacakramahāvihāre",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "ṛtunetrakhendu = 6, 2, 0, 1 -> NS 1026. The cataloguer identifies śuci as Jyeṣṭha, but in standard Sanskrit lexicography śuci refers to Āṣāḍha. Vahnitithi is the 3rd tithi and vahnibha is the nakṣatra Kṛttikā.",
+ "_meta": {
+  "reel": "A 132/4",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 867,
+  "out_tok": 1271
+ }
+}

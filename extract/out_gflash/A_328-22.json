@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "[[Jīvanāthena]]",
+   "name": "Jīvanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "[[Jīvanāthena]] mayā lekhi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1760 saṃvat || 1895 || sālamiti kārttika(3) śudi 7 roja 5",
+  "era": "VS",
+  "year": "1895",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "roja 5 (Thursday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1838"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "rāmasītārpaṇam astu",
+ "notes": "Both Śaka 1760 and Vikrama Saṃvat 1895 are recorded, corresponding to 1838 CE.",
+ "_meta": {
+  "reel": "A 328/22",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 874,
+  "out_tok": 949
+ }
+}

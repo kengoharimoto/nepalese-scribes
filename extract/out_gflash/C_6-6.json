@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 181 mārgaśirakṛṣṇatrayodaśyāṃ ///2 ṣpatidine",
+  "era": "NS",
+  "year": "181",
+  "month": "mārgaśira",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "bṛhaspatidine",
+  "nakshatra_yoga": "",
+  "ce_approx": "1061"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons are named in the colophon. The weekday '///2 ṣpatidine' reconstructs to bṛhaspatidine.",
+ "_meta": {
+  "reel": "C 6/6",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 719,
+  "out_tok": 600
+ }
+}

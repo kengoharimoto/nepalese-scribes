@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "karmmācāryagaṃgārāmaḥ",
+   "name": "Gaṃgārāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ karmmācāryagaṃgārāmaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 784 naṣṭaślāvana śuddhi 13",
+  "era": "NS",
+  "year": "784",
+  "month": "naṣṭaślāvana",
+  "paksa": "śuklapakṣa",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1664"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "naṣṭaślāvana represents naṣṭa-śrāvaṇa (intercalary Śrāvaṇa month).",
+ "_meta": {
+  "reel": "A 1355/9",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 751,
+  "out_tok": 826
+ }
+}

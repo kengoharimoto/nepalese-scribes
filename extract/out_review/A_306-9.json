@@ -1,0 +1,63 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Weekday normalised to Tuesday (bhaumavāsara); date.as_written also keeps the samvatsara name 'jayo \\'bde'",
+   "'jayo bde' recorded as the Jaya saṃvatsara in nakshatra_yoga. It does not match VS 1788 / ŚS 1653 in the southern cycle, so this is flagged in notes",
+   "Notes: added comments on 'mahāpuro', '(sa me yamāc ca)' and '†pāyāṃ† … †samādā†'",
+   "Persons, roles, era, year and ce_approx are confirmed as right"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhīmena",
+   "name": "Bhīma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śalyaparva〈ṃ〉 ca bhīmenaiva",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vaiyāsikyāṃ",
+   "name": "Vyāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "saṃhitāyāṃ vaiyāsikyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "mārgaśīrṣe tathā kṛṣṇe jayo 'bde bhaumavāsare ... saṃvat || 1788 || || (sa me yamāc ca) vadi || 7 ||",
+  "era": "VS",
+  "year": "1788",
+  "month": "Mārgaśīrṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "7",
+  "weekday": "Tuesday (bhaumavāsara)",
+  "nakshatra_yoga": "saṃvatsara Jaya (jayo 'bde)",
+  "ce_approx": "1731"
+ },
+ "place": {
+  "as_written": "mahāpuro(!)",
+  "normalized": ""
+ },
+ "purpose": "śrīkṛṣṇārpaṇam astu (dedicated to Kṛṣṇa)",
+ "notes": "The era is not stated. VS is assumed from 'saṃvat 1788' in a Devanagari MS, giving c. 1731 CE (NS 1788 is impossible). The verse names the year 'jaya' (Jaya saṃvatsara). In the southern 60-year cycle ŚS 1653 / VS 1788 is Virodhakṛt, not Jaya, so the year name may follow another reckoning, or year or name may be wrong; this has not been checked against tables. 'mahāpuro(!)' may be a corrupt locative 'mahāpure' (place of copying, unidentified) or simply 'mahāpuraḥ'. '(sa me yamāc ca)' before 'vadi' is unclear; it may be a garbled restatement of the month or year. '†pāyāṃ† śalyaparva †samādā†' probably means 'śalyaparva samāptam'.",
+ "_meta": {
+  "reel": "A 306/9",
+  "model": "opus",
+  "cost_usd": 0.08349400000000001,
+  "secs": 21.2
+ }
+}

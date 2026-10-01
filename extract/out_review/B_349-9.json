@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe's name confidence lowered from high to medium: the form kaṃvalanañina is corrupt, and Kamalanayana (supported by the catalogue) is a reconstruction.",
+   "Notes expanded: the ŚS and VS years differ by one year; the nakṣatra name is missing after the numeral 5; and the misspelling kṛṣna for kṛṣṇa is recorded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kaṃvalanañinabrāhmaṇena",
+   "name": "Kamalanayana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ kaṃvalanañinabrāhmaṇena",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1711 samvat 1847 caitrakṛṣnapaṃca(5)myāṃ tithau 5 nakṣatre ravivāsare",
+  "era": "ŚS",
+  "year": "1711",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "ravivāsara (Sunday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1790"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives two eras. ŚS 1711 (+78 = 1789) and VS 1847 (−57 = 1790) are one year apart. The two can be reconciled if ŚS 1711 counts expired years and the date falls in Caitra at the end of that Śaka year (about March–April 1790). Depending on how the month and year are reckoned, it could also be 1789, so ce_approx 1790 is approximate. In '5 nakṣatre' the nakṣatra name seems to have been left out (or replaced by the numeral), so it is left blank. The scribe's name kaṃvalanañina is corrupt; read as Kamalanayana, matching the catalogue. 'brāhmaṇa' is treated as a caste title.",
+ "_meta": {
+  "reel": "B 349/9",
+  "model": "opus",
+  "cost_usd": 0.07581099999999999,
+  "secs": 25.1
+ }
+}

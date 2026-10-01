@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīpūrṇānaṃdaparamahaṃsena",
+   "name": "Pūrṇānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramahaṃsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpūrṇānaṃdaparamahaṃsena viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "pāṃḍemanorathena",
+   "name": "Manoratha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "pāṇḍe"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pāṃḍemanorathena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1564 pauṣaśudhi(!)tṛrīyā budhavāsare",
+  "era": "ŚS",
+  "year": "1564",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1643"
+ },
+ "place": {
+  "as_written": "go(!)ryā nagare himālayasamīpe",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The place name is written as 'goryā nagare himālayasamīpe' (Gorkha?). The cataloguer normalizes it to Gaurīnagara.",
+ "_meta": {
+  "reel": "B 147/8",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 756,
+  "out_tok": 1062
+ }
+}

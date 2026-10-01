@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke || 1766 śrīśamvat 1901 adhikaśrāvaṇakṛṣṇapakṣe tithayaḥ 5 vāre 3 nakṣatre 15 yogye (!)",
+  "era": "VS",
+  "year": "1901",
+  "month": "adhikaśrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "3 (Tuesday)",
+  "nakshatra_yoga": "nakṣatra 15",
+  "ce_approx": "1844"
+ },
+ "place": {
+  "as_written": "kāntīpūranagare",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The colophon provides dates in both Śaka Era (1766) and Vikrama Saṃvat (1901), which correspond to 1844 CE. No scribe or patron is named.",
+ "_meta": {
+  "reel": "B 281/22",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 781,
+  "out_tok": 999
+ }
+}

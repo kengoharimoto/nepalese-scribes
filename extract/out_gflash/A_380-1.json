@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1920 || mi. kā. kṛ. 13 caṃ",
+  "era": "VS",
+  "year": "1920",
+  "month": "kārtika",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "candravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1863"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon text quoted belongs to the Ghaṭakarparaṭīkā / Ghaṭakarparakāvya and names no persons. The date in the colophon is saṃvat 1920 kārtika kṛṣṇa 13 candravāra, which contradicts the catalogue metadata (title Caurapañcāśikā, date Samvat 1678, donor Netrānanda miśra).",
+ "_meta": {
+  "reel": "A 380/1",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 794,
+  "out_tok": 1134
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkālidāsana",
+   "name": "Kālidāsa",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkālidāsana (!) saṃcaya yāṅā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat722thvadaṃ",
+  "era": "NS",
+  "year": "722",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1602"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrī3bhavānīśaṅkaraprītina / umeśaprītaye",
+ "notes": "Bhavānīśaṅkara and Umeśa are deities for whose pleasure (prīti) the manuscript was copied/collected (saṃcaya yāṅā / saṃcitaṃ).",
+ "_meta": {
+  "reel": "B 122/5",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 754,
+  "out_tok": 1046
+ }
+}

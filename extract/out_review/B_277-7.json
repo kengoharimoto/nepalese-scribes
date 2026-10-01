@@ -1,0 +1,62 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Added purpose 'bhāratīmudā' (for the delight of Bhāratī/Sarasvatī), which the first reading left empty",
+   "Expanded the notes: the chronogram read right to left gives 767 (śaila 7, ṣaṣṭha 6, muni 7); the dual -ābhyām shows two scribes; the figure 867 would give 1747 CE",
+   "Persons, roles, date, era and ce_approx (767 + 880 = 1647) confirmed"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vinodānantasiṃhābhyāṃ",
+   "name": "Vinoda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vinodānantasiṃhābhyāṃ, likhitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vinodānantasiṃhābhyāṃ",
+   "name": "Anantasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vinodānantasiṃhābhyāṃ, likhitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "867 (7)śailaṣaṣṭhamunau yuktaṃ gate nepālavatsare",
+  "era": "NS",
+  "year": "767",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1647"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "bhāratīmudā (for the delight of Bhāratī/Sarasvatī)",
+ "notes": "The figures and the chronogram disagree. Read right to left, the chronogram śaila (7) – ṣaṣṭha (6, an unusual use of an ordinal) – muni (7) gives NS 767 = c. 1647 CE. The figure 867 would give 1747 CE. It may be a misreading by the cataloguer or a scribal slip; the cataloguer's '[767]' follows the chronogram. The dual 'vinodānantasiṃhābhyāṃ' shows two scribes, Vinoda and Anantasiṃha. No relationship between them is stated.",
+ "_meta": {
+  "reel": "B 277/7",
+  "model": "opus",
+  "cost_usd": 0.071174,
+  "secs": 12.6
+ }
+}

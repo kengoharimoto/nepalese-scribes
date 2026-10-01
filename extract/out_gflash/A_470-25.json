@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ṭhakkuranarasiṃha",
+   "name": "Narasiṃha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "ṭhakkura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahāmahoººṭhakkuranarasiṃhaviracitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The abbreviation mahāmahoºº stands for Mahāmahopādhyāya.",
+ "_meta": {
+  "reel": "A 470/25",
+  "model": "gemini-flash-latest",
+  "secs": 2.7,
+  "in_tok": 662,
+  "out_tok": 486
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "cūḍāmaṇidvijavareṇa",
+   "name": "Cūḍāmaṇi",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "dvijavara",
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "cūḍāmaṇidvijavareṇa samāptimeva (!) svārthaṃ ca eva likhitārtha mayā dvijena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śākegninandamunicandramite śubhābde mārge ʼsite śikhitithau bhagaṇeṣu cāndre",
+  "era": "ŚS",
+  "year": "1793",
+  "month": "Mārgaśīrṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "bhagaṇeṣu cāndre",
+  "ce_approx": "1871"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtha",
+ "notes": "The chronogram 'agninandamunicandra' yields 3-9-7-1 = Śāke 1793. 'śikhitithi' indicates the 3rd tithi.",
+ "_meta": {
+  "reel": "A 1033/7",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 761,
+  "out_tok": 948
+ }
+}

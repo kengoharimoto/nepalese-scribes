@@ -1,0 +1,41 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījagadānandaviracitaṃ",
+   "name": "Jagadānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījagadānandaviracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The colophon is just the closing line of the text. It names only the author, Jagadānanda. There is no scribe, date, place or patron. The title is spelled 'tripurasaundaryyāstava' (with the typical doubled -yy-), which differs slightly from the catalogue title Tripurāsaundaryastava.",
+ "_meta": {
+  "reel": "E 1685/30b",
+  "model": "opus",
+  "cost_usd": 0.0360428,
+  "secs": 7.5
+ }
+}

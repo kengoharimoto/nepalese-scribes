@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīhemantamallana",
+   "name": "Hemantamalla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīhemantamallanathamacosyaṃ sidhayakā dina",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 823 āśvinamāse śuklapakṣe, paṃcamyāṃ tithau jyeṣṭhanakṣatre (!) śo(9)bhanayoge somavāra",
+  "era": "NS",
+  "year": "823",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "jyeṣṭha, śobhana",
+  "ce_approx": "1703"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The Newari phrase 'śrīśrīhemantamallanathamacosyaṃ sidhayakā dina juroṃ' resolves to 'śrīśrī-Hemantamalla-na thama cosyaṃ sidhayakā dina juroṃ' (the day on which Śrī Śrī Hemantamalla himself completed writing [it]).",
+ "_meta": {
+  "reel": "A 104/12",
+  "model": "gemini-flash-latest",
+  "secs": 6.8,
+  "in_tok": 889,
+  "out_tok": 1467
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1862 sāla miti āṣāśu (!)",
+  "era": "VS",
+  "year": "1862",
+  "month": "Āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1805"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date contains 'sāla', customary for Vikrama Saṃvat in Nepal. 'āṣāśu' appears to abbreviate Āṣāḍha-śuklapakṣa without specifying the tithi.",
+ "_meta": {
+  "reel": "A 1024/28",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 729,
+  "out_tok": 764
+ }
+}

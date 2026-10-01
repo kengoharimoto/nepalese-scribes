@@ -1,0 +1,95 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmanmahārājādhirāja śrīsadāsamaravijayiśrīṭoḍaramalla",
+   "name": "Ṭoḍaramalla",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "sadāsamaravijayin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīṭoḍaramallakārite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "daivajñānaṃta",
+   "name": "Ananta",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñānaṃtasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīnīlakaṃṭhajyotirvid",
+   "name": "Nīlakaṇṭha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnīlakaṃṭhajyotirvidviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "kṛṣṇalālasya",
+   "name": "Kṛṣṇalāla",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛṣṇalālasyedaṃ pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīmaddaivajñānaṃtasuta śrīnīlakaṃṭha"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1768 śrīsaṃvat 1903 śrāvaṇaśukla dvādaśyāṃ bhaume",
+  "era": "ŚS",
+  "year": "1768",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "bhauma",
+  "nakshatra_yoga": "",
+  "ce_approx": "1846"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthaṃ ca",
+ "notes": "Both Śāka (1768) and Vikrama Saṃvat (1903) years are recorded, corresponding to 1846 CE. Ṭoḍaramalla is the patron/commissioner of the composition itself.",
+ "_meta": {
+  "reel": "A 412/16",
+  "model": "gemini-flash-latest",
+  "secs": 6.8,
+  "in_tok": 830,
+  "out_tok": 1814
+ }
+}

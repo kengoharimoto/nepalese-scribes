@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "garuḍadhvaja jaisi jotirvida",
+   "name": "Garuḍadhvaja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jaisī",
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ likhitaṃ garuḍadhvaja jaisi jotirvida",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1744 māse 5 pakṣe 1 tithau 11 vāre 4 nakṣatre ...",
+  "era": "ŚS",
+  "year": "1744",
+  "month": "5",
+  "paksa": "1",
+  "tithi": "11",
+  "weekday": "4",
+  "nakshatra_yoga": "...",
+  "ce_approx": "1822"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 276/4",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 745,
+  "out_tok": 719
+ }
+}

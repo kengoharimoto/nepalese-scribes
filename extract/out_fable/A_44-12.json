@@ -1,0 +1,92 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmadattena",
+   "name": "Rāmadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmadattena likṣate ... likhitam idaṃ rāmadattena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śākyabhikṣuśrīmadanabhadrena",
+   "name": "Madanabhadra",
+   "roles": [
+    "commissioner",
+    "owner",
+    "beneficiary"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "Cāvihāra",
+   "residence": "Cāvihāra",
+   "evidence": "pustaka madanabhadrasya ... śākyabhikṣuśrīmadanabhadrena svayaṃ pāṭhārthahetunā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rājādhirājaśrīśrījayajyotimalladevasya",
+   "name": "Jayajyotimalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "Nepālamaṇḍala",
+   "evidence": "jayajyotimalladevasya vijayarājye",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "pustaka madanabhadrasya rāmadattena likṣate"
+  },
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "jayajyotimalladevasya vijayarājye"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "jayajyotimalladevasya vijayarājye"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 538 māghakṛṣṇaaṣṭaṃmyāyāṃ viśāṣapraarādhanakṣatre || dhruvayoge || śanaiścaravāsare || saṃpūrṇṇadine",
+  "era": "NS",
+  "year": "538",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "Saturday (śanaiścaravāsara)",
+  "nakshatra_yoga": "viśākhā nakṣatra (written viśāṣapraarādha), dhruva yoga",
+  "ce_approx": "1418"
+ },
+ "place": {
+  "as_written": "śrīmancāvihāre",
+  "normalized": ""
+ },
+ "purpose": "svayaṃ pāṭhārthahetunā: for Madanabhadra's own reading/study (the book belongs to Madanabhadra, pustaka madanabhadrasya)",
+ "notes": "The cataloguer's \"Donor: Madanabhadra\" is better read as owner/commissioner: the manuscript is his (madanabhadrasya) and was written for his own study (svayaṃ pāṭhārthahetunā); no gift to another party is mentioned. Cāvihāra (Cā-bāhā) could be in Kathmandu or Patan, so normalization left empty. Nakṣatra name is corrupt (viśāṣapraarādha), presumably viśākhā. The jyotirmalla reign (c. 1408–1428) fits NS 538 = c. Jan/Feb 1418 CE. Text title \"nirghaṇṭhaśāstra/nāmasaṃgraha\" (Nighaṇṭu) is not a person; no author named.",
+ "_meta": {
+  "reel": "A 44/12",
+  "model": "fable",
+  "cost_usd": 0.18693700000000002,
+  "secs": 20.3
+ }
+}

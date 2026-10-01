@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dāmodara",
+   "name": "Dāmodara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajñavarya",
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñavarya paṃḍitadāmodarātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "valabhadra",
+   "name": "Valabhadra",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "valabhadra viracite hāyanaratne",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "dāmodarātmaja valabhadra"
+  }
+ ],
+ "date": {
+  "as_written": "vikramāditya saṃvat 1889 phāguṇa (!) 8 budhavāsare",
+  "era": "VS",
+  "year": "1889",
+  "month": "phāguṇa",
+  "paksa": "",
+  "tithi": "8",
+  "weekday": "budhavāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1832"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 344/28",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 729,
+  "out_tok": 1141
+ }
+}

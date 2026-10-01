@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mādhavakṛto",
+   "name": "Mādhava",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mādhavakṛto rogaviniścayaḥ samāptaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvaidyamahāmahopādyāyavijayarakṣitakṛte",
+   "name": "Vijayarakṣita",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "vaidya",
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvaidyamahāmahopādyāyavijayarakṣitakṛte (!) vyākhyāmadhukoś〈〈e〉〉aḥ samā(12)ptaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1845 (14) śāke 1710 jyeṣṭhamāse śuklapakṣe tithau 10 bhṛguvāsare",
+  "era": "VS",
+  "year": "1845",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "bhṛguvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1788"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Vikrama Saṃvat (1845) and Śaka Saṃvat (1710) are recorded. The scribe is left unnamed (simply ending with 'lipikṛtaṃ'). Mādhava is the author of the root text (Rogaviniścaya), and Vijayarakṣita is the author of the commentary (Madhukośa).",
+ "_meta": {
+  "reel": "A 224/1",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 941,
+  "out_tok": 1568
+ }
+}

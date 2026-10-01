@@ -1,0 +1,73 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: name normalised to stem 'Śrīnivāsa' (bhaṭṭa moved to titles only, per rule on brahmin suffixes)",
+   "p2: role changed from 'teacher' to 'other' — Sundarācārya is the author's guru, not connected with the production of this copy",
+   "notes expanded: era reasoning (sālam, only VS fits), month reading, ce range"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīnivāsabhaṭṭena",
+   "name": "Śrīnivāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīnivāsabhaṭṭena viracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīsundarācāryya°",
+   "name": "Sundarācārya",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsundarācāryyacaraṇāraviṃdadvaātovaṃsi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "śrīsundarācāryyacaraṇāraviṃdadvaātovaṃsi śrīśrīnivāsabhaṭṭena"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1951 sālam iti mārgarivra (!) kṛṣṇatrayodaśi ādityavārataddine",
+  "era": "VS",
+  "year": "1951",
+  "month": "Mārgaśīrṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "ādityavāra (Sunday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1894"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe is not named ('likhitam'). Sundarācārya is named only as the author's guru, not as anyone involved in this copy. 'dvaātovaṃsi' is corrupt; it is probably 'dvandvāntevāsinā' (pupil devoted to the lotus feet). 'mārgarivra (!)' is presumably 'mārgaśira' (Mārgaśīrṣa). The era is not named, but 'sālam' and the size of the number point to Vikrama Saṃvat. NS 1951 and ŚS 1951 are both impossible, so VS 1951 = 1894 CE (Mārgaśīrṣa falls in Nov/Dec 1894). This agrees with the catalogue's SAM 1951. The weekday has not been checked against a calendar. The colophon closes the 46th prakāśa ('ṣaṭcatvāriṃśa (!)').",
+ "_meta": {
+  "reel": "B 152/3",
+  "model": "opus",
+  "cost_usd": 0.08695,
+  "secs": 19.5
+ }
+}

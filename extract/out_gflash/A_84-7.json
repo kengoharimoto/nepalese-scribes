@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gururāja hemarājaśarmaṇā",
+   "name": "Hemarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "gururāja",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ gururāja hemarājaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "1950 vaiśākhakṛṣṇa 12 bṛhaspativāsare",
+  "era": "VS",
+  "year": "1950",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "12",
+  "weekday": "bṛhaspativāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1893"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe is Gururāja Hemarāja Śarmā, the prominent Nepalese scholar and later Rajaguru.",
+ "_meta": {
+  "reel": "A 84/7",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 718,
+  "out_tok": 1091
+ }
+}

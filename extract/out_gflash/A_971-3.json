@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ṭhakkura(1)śrīnarasiṃha",
+   "name": "Narasiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "ṭhakkura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahāmahopādhyāya san (!) ṭhakkura(1)śrīnarasiṃhaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1953 sālamiti caitravadi 10 roja 1",
+  "era": "VS",
+  "year": "1953",
+  "month": "caitra",
+  "paksa": "vadi",
+  "tithi": "10",
+  "weekday": "roja 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1897"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "jīrṇoddhāra",
+ "notes": "The manuscript copy/restoration was completed on this date (jirṇoddhāra samāptam).",
+ "_meta": {
+  "reel": "A 971/3",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 752,
+  "out_tok": 833
+ }
+}

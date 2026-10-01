@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon text contains only the title and conclusion formula (maitrakanyakāvadāna samāptam) without any names, dates, or places.",
+ "_meta": {
+  "reel": "A 122/7",
+  "model": "gemini-flash-latest",
+  "secs": 2.0,
+  "in_tok": 636,
+  "out_tok": 255
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sadanantasiṃhaḥ",
+   "name": "Anantasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrītantrarām alikhat sadanantasiṃhaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīśaṇkarasya vihitaṃ khalu māktibhāvāt",
+ "notes": "Gaurī and Śaṅkara mentioned in the verse are deities and thus excluded. No date or place is stated in the colophon verse.",
+ "_meta": {
+  "reel": "A 198/10",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 770,
+  "out_tok": 1125
+ }
+}

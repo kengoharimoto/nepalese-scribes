@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīramāparti",
+   "name": "Ramāpati",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "Maithila",
+   "residence": "",
+   "evidence": "śrīramāparti viracito",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author's name śrīramāparti is an error/scribal variant for Ramāpati. The text colophon identifies the work as Vṛttasāra, while the catalogue title is Vṛttaratnākara.",
+ "_meta": {
+  "reel": "B 278/39",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 656,
+  "out_tok": 653
+ }
+}

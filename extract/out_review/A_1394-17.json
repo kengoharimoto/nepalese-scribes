@@ -1,0 +1,67 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe p2: as_written now gives both forms (daivajña kṛṣṇavira / josikṛṣṇavīra). Evidence extended to the Newari phrase 'josikṛṣṇavīrana coyājolo' ('written by Jośī Kṛṣṇavīra'). Here coyā means the scribe wrote it, not that someone commissioned it.",
+   "Residence of p2 split into a usable form: Yala (Patan), locality 'dulitaṃ nhetanī' as written; the locality is uncertain.",
+   "Weekday normalised: vāsare 2 = Monday.",
+   "Place: kept 'yaladeśa' = Patan, with the locality phrase flagged as uncertain in notes.",
+   "Notes expanded: the catalogue scribe name is truncated; the sarga number in the colophon conflicts with the title; the reading of 'dulitaṃ nhetanī' is uncertain."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vālmīkīye",
+   "name": "Vālmīki",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmāyaṇe vālmīkīye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "daivajña. kṛṣṇavira(liṣitaṃ); josikṛṣṇavīrana",
+   "name": "Kṛṣṇavīra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña",
+    "josi"
+   ],
+   "affiliation": "",
+   "residence": "Yala (Patan), dulitaṃ nhetanī (locality uncertain)",
+   "evidence": "daivajña. kṛṣṇaviraliṣitaṃ ... nhetanīyājosikṛṣṇavīrana coyājolo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 973 jyeṣṭhamāse śuklapakṣe 14 tithau vāsare 2 thvakunhu",
+  "era": "NS",
+  "year": "973",
+  "month": "Jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "14",
+  "weekday": "Monday (vāsare 2)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1853"
+ },
+ "place": {
+  "as_written": "yaladeśa dulitaṃ nhetanī",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The catalogue gives the scribe as 'Daivajña Kṛṣṇa'. The colophon names him in full as Kṛṣṇavīra: 'kṛṣṇaviraliṣitaṃ' = kṛṣṇavīra-likhitaṃ, and the Newari 'josi kṛṣṇavīrana coyā jolo' means 'written by Jośī Kṛṣṇavīra'. The era is not stated, but 'saṃvat 973' together with the Newari phrasing makes it Nepāla Saṃvat (NS 973 ≈ 1853 CE). 'yaladeśa' = Yala, i.e. Patan. 'dulitaṃ nhetanī(yā)' seems to be a locality or quarter in Patan, but the reading is uncertain. The colophon ends the 27th sarga (saptaviṃśatimaḥ) of the Adbhutottarakāṇḍa, while the catalogue title says 'Paṃcaviṃśatisarga' (25 sargas). Vālmīki is the traditional author, listed only as author.",
+ "_meta": {
+  "reel": "A 1394/17",
+  "model": "opus",
+  "cost_usd": 0.08704200000000001,
+  "secs": 19.7
+ }
+}

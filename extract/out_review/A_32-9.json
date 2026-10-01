@@ -1,0 +1,91 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p3: removed the brahmin suffix śarman from the name (now 'Mādhī[..]') and moved it to titles. Normalized the title 'mahosadupādhyāya' to 'mahāsadupādhyāya' (written mahosadupādhyāya) instead of listing both sadupādhyāya and upādhyāya. Lowered confidence to low because the name is mostly lost.",
+   "p3 role: kept as commissioner, but noted that the colophon only implies it: the scribe 'took one mudrā' and handed over the copy, and the case ending of p3's name is lost.",
+   "Purpose rephrased as a paid copy made for p3.",
+   "Notes: added the era conversion caveat and described the two verses more accurately."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmahopādhyāyasanmiśraśrījayadevakṛtāv",
+   "name": "Jayadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "sanmiśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāyasanmiśraśrījayadevakṛtāv anumānālokaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "karaṇaśrīdevanāthena",
+   "name": "Devanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karaṇa"
+   ],
+   "affiliation": "",
+   "residence": "vaiñāmagrāma (place of copying)",
+   "evidence": "karaṇaśrīdevanāthena likhitvā dattam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "mahosadupādhyāyaśrī(mādhī)..(śarmma)….",
+   "name": "Mādhī[..]",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "mahāsadupādhyāya",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahosadupādhyāyaśrī(mādhī)..(śarmma)…. mudrām ekam (!) ādāya",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "mahosadupādhyāyaśrī(mādhī)..(śarmma)…. mudrām ekam (!) ādāya karaṇaśrīdevanāthena likhitvā dattam"
+  }
+ ],
+ "date": {
+  "as_written": "la saṁ 487 mārgaśuklapañcamyāṃ śukre",
+  "era": "LS",
+  "year": "487",
+  "month": "mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1606"
+ },
+ "place": {
+  "as_written": "vaiñāmagrāme",
+  "normalized": ""
+ },
+ "purpose": "paid copy: the scribe took one mudrā and handed the copy over to the upādhyāya (p3)",
+ "notes": "The commissioner's name is damaged: the cataloguer reads (mādhī)..(śarmma) with further lacunae, and the case ending is lost. The reading 'mahosadupādhyāya' is probably 'mahāsadupādhyāya'. The commissioner role is inferred from the payment of one mudrā plus 'likhitvā dattam'. ce_approx uses the LS+1119 convention; other conversions (+1107/1108) would give about 1594/95, and the weekday was not checked. The first verse (śavāsane… latā… tarusaṅgatābhūt) is a stock spring verse. The second verse ('ahaha likhāpanavṛtyā…') is the scribe complaining that he supports his dependants by copying, has no other living, and is very hungry. Karaṇa marks the scribe as a Maithil kāyastha. The author is Jayadeva (Pakṣadhara) Miśra, who wrote the Āloka.",
+ "_meta": {
+  "reel": "A 32/9",
+  "model": "opus",
+  "cost_usd": 0.09237000000000001,
+  "secs": 20.2
+ }
+}

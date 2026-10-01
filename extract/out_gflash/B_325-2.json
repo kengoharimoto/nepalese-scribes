@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1754 samaye nāma vaiśāṣamāse kṛṣṇapakṣye",
+  "era": "unspecified",
+  "year": "1754",
+  "month": "vaiśāṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "nepāladeśe paśupati [[sa]]mīpe",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "No persons (scribe, commissioner, king) are named in the colophon. The era is not explicitly stated; Samvat 1754 could represent VS 1754 (c. 1697 CE) or ŚS 1754 (c. 1832 CE).",
+ "_meta": {
+  "reel": "B 325/2",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 740,
+  "out_tok": 830
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "tārupādhyā",
+   "name": "Tāru",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "upādhyā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tārupādhyāpustakaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "tārupādhyāpustakaṃ indicates the book belongs to Tāru Upādhyā (Upādhyāya).",
+ "_meta": {
+  "reel": "A 999/12",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 640,
+  "out_tok": 696
+ }
+}

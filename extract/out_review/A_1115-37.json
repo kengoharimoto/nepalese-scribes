@@ -1,0 +1,35 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive corrections; persons, date and ce_approx are correct.",
+   "Weekday glossed as Saturday.",
+   "Notes expanded: the saṃvatsara name Vikārin fits VS 1836 / 1779 CE, which supports the colophon's 1836 against the catalogue's 1826. Also noted that Cintāmaṇi and Vīreśvara are deities, not persons."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1836 vikārīnāmasaṃvatsare dakṣiṇāyane āśvinamāse kṛṣṇapakṣe navamyā[ṃ] puṇyatithau maṃdavāsare",
+  "era": "VS",
+  "year": "1836",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "navamī",
+  "weekday": "maṃdavāsara (Saturday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1779"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "devotional dedication: śrīcintāmaṇiḥ prīyatāṃ; śrīvīreśvarārpaṇam astu",
+ "notes": "The catalogue gives VS 1826, but the colophon reads saṃvat 1836. The year name Vikārin (vikārīnāmasaṃvatsara) fits 1779–80 CE, which equals VS 1836, so 1836 is right; VS 1826 would fall in Virodhin. Āśvina kṛṣṇa 9 falls around October 1779. 'Ci(!)tāmaṇiḥ' is read as Cintāmaṇi, a deity. Vīreśvara is a deity (the Śiva of Vārāṇasī), but no place of copying is stated. No human participants are named: no scribe, patron or owner.",
+ "_meta": {
+  "reel": "A 1115/37",
+  "model": "opus",
+  "cost_usd": 0.07078200000000001,
+  "secs": 14.1
+ }
+}

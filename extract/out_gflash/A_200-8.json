@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śāvaladāsakāetha (!)",
+   "name": "Śāvaladāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "Rāmanagara",
+   "evidence": "lekhaka śāvaladāsakāetha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 175 śāke",
+  "era": "ŚS",
+  "year": "175",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "rāmanagara",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon reads 'saṃvat 175 śāke', while the catalogue interprets it as NS 175. The year 175 Śaka is implausibly early for this text; a digit might be omitted (e.g. 1705 or 175x ŚS), or the era might be confused.",
+ "_meta": {
+  "reel": "A 200/8",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 761,
+  "out_tok": 1095
+ }
+}

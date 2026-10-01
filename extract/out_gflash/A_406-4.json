@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdaivajñaḍhuṇḍhirāja",
+   "name": "Ḍhuṇḍhirāja",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñaḍhuṇḍhirājaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "devīnātho",
+   "name": "Devīnātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devīnātho vyalīlikhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vedāgābdamite śāke bhāskare dvanvdam āśrite",
+  "era": "ŚS",
+  "year": "1774",
+  "month": "Mithuna (solar)",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1852"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrījagadīśaḥ prīto stu",
+ "notes": "The cataloguer interprets the chronogram 'vedāgābdamite śāke' as ŚS 1774. 'bhāskare dvanvdam āśrite' refers to the sun entering Gemini (dvandva/Mithuna).",
+ "_meta": {
+  "reel": "A 406/4",
+  "model": "gemini-flash-latest",
+  "secs": 7.6,
+  "in_tok": 771,
+  "out_tok": 1829
+ }
+}

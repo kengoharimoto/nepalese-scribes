@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadviṣṇudaivajña",
+   "name": "Viṣṇu",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "sakalagaṇakasārvabhauma",
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadviṣṇudaivajña viracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records the copying date as ŚS 1530, but no date is given in the quoted colophon snippet.",
+ "_meta": {
+  "reel": "B 356/6",
+  "model": "gemini-flash-latest",
+  "secs": 3.3,
+  "in_tok": 694,
+  "out_tok": 697
+ }
+}

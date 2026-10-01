@@ -1,0 +1,66 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe name normalized to Ratnākaralāla (catalogue form); 'lālaratnākareṇa' is read as a reversal for metre. Confidence lowered to medium.",
+   "Removed residence 'Kāśī' from the scribe. The colophon names Kāśī only as the place of copying, not as where the scribe lived.",
+   "Removed 'vipaścit' from Nīlakaṇṭha's titles. It is a descriptive epithet, not a title or office.",
+   "ce_approx changed from 1820 to 1821. Māgha of ŚS 1742 falls in Jan–Feb 1821; śukla 11 ≈ 13 Feb 1821, which was a Tuesday, matching bhūjavāra.",
+   "nakshatra_yoga: 'kuṃbharkṣasthe' means the sun is in the sign Kumbha (Aquarius). It is not a nakṣatra or yoga, so the field now says this explicitly.",
+   "Notes corrected. The chronogram needs four number-words for 1742, but the first reading's analysis gave only three (2, 4, 7).",
+   "Tithi 11 kept, with a note that the classical lord of the 12th tithi is Viṣṇu."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "chrinīlakaṃṭhaḥ",
+   "name": "Nīlakaṇṭha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "chrinīlakaṃṭhaḥ śrutiśāstraniṣṭhaḥ ... vyadhāt tat saṃjñāvivekaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "lālaratnākareṇa",
+   "name": "Ratnākaralāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāśyāṃ lālaratnākareṇa saṃjñātaṃtraṃ ... hyalekhi",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śākenetrābdhyaṃvubhṛtsammiter 1742 ʼke kuṃbhar kṣasthe bhūjavāre sitārddhe || māghe ... viṣṇutithyāṃ",
+  "era": "ŚS",
+  "year": "1742",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "sun in Kumbha (kuṃbharkṣasthe), a rāśi, not a nakṣatra",
+  "ce_approx": "1821"
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The scribe's name appears in the verse as 'lālaratnākareṇa', while the catalogue gives 'Ratnākaralāla'. The order was probably reversed for metre; Ratnākaralāla is taken as the normal form. The chronogram 'netrābdhyaṃvubhṛt' is corrupt: 1742 read right to left needs four words (2, 4, 7, 1). Netra (2) and abdhi (4) are clear, but 'aṃvubhṛt' does not clearly give 7 and 1. It may be a corruption of something like 'adri-bhū' (7, 1). The numeral 1742 written beside it settles the year. 'Viṣṇutithi' is taken as ekādaśī (11). In the classical lists of tithi deities, however, Viṣṇu is lord of dvādaśī (12). A rough calendar check puts Māgha śukla 11 of ŚS 1742 at about 13 Feb 1821, a Tuesday, which agrees with 'bhūjavāra' (bhūja = Mars). The sun had entered sidereal Kumbha by then. The authorial verse at the start ('padyāṃ vayāsā vitalo') is corrupt; it refers to Nīlakaṇṭha's Saṃjñāviveka, the first part of the Tājikanīlakaṇṭhī.",
+ "_meta": {
+  "reel": "A 414/22",
+  "model": "opus",
+  "cost_usd": 0.12072999999999999,
+  "secs": 35.2
+ }
+}

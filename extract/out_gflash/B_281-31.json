@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahārājādhirāja śrīśrījagajjyotirmmalladeva",
+   "name": "Jagajjyotirmalladeva",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājādhirāja śrīśrījagajjyotirmmalladevaviracito",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dvija śrīdhanarāja devaṇa / vipraśrīdhanarājena",
+   "name": "Dhanarājadeva",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "dvija",
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvija śrīdhanarāja devaṇa, likhitam saṃpūrṇṇaṃ ... idaṃ pustakaṃ svapāṭhārthaṃ likhitaṃ ... vipraśrīdhanarājena likhyate",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 750 kārttikaśukla paṃcamyāṃ tithau, muraṇakṣatra (!) śubhajoga, āditya vārasa ... nepālavatsare jāte vyomakhādahayāmite kārtikasya site pakṣe paṃcamyām ca tithau dine mūle vā śubhamyoje ca ravivāreṇa saṃyute",
+  "era": "NS",
+  "year": "750",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "mūla (mura!), śubha",
+  "ce_approx": "1630"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svapāṭhārtham",
+ "notes": "The prose date gives samvat 750, while the chronogram 'vyomakhādahayāmite' was interpreted by the cataloguer possibly as 760 or another reading.",
+ "_meta": {
+  "reel": "B 281/31",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 877,
+  "out_tok": 1835
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadbhagavacchaṃkarācārya",
+   "name": "Śaṃkarācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhagavat"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadbhagavacchaṃkarācāryaviracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 1955 sāla vaiśāṣa(!)sudi 14 roja 5",
+  "era": "VS",
+  "year": "1955",
+  "month": "vaiśāṣa",
+  "paksa": "sudi",
+  "tithi": "14",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1898"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1112/27",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 699,
+  "out_tok": 668
+ }
+}

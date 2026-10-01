@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vālmīkīye",
+   "name": "Vālmīki",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vālmīkīye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nārāyaṇadattadvijena",
+   "name": "Nārāyaṇadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ nārāyaṇadattadvijena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "puṇdarīkākṣaśarmaṇā",
+   "name": "Puṇḍarīkākṣa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "puṇdarīkākṣaśarmaṇā ca likhitaṃ kvacitkvacit",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "mamajyeṣṭa putreṇa puṇdarīkākṣaśarmaṇā"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsamvat 1907 āśvinakṛṣṇa 7 śanivāsare",
+  "era": "VS",
+  "year": "1907",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "7",
+  "weekday": "śanivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1850"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1386/21",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 850,
+  "out_tok": 1506
+ }
+}

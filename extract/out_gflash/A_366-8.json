@@ -1,0 +1,92 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahā(10)kavideveśvara",
+   "name": "Deveśvara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahākavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vāgbhaṭasūnumahā(10)kavideveśvaraviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vāgbhaṭa",
+   "name": "Vāgbhaṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vāgbhaṭasūnu",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "sukhārāmeṇa",
+   "name": "Sukhārāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sukhārāmeṇa cālekhi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "mitrarāmadvi(12)jo",
+   "name": "Mitrarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "Kāśī",
+   "evidence": "mitrarāmadvi(12)jo (!) kāśyāṃ pustakaṃ cālikhan mudā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "vāgbhaṭasūnu"
+  }
+ ],
+ "date": {
+  "as_written": "rasavedādricaṃdre ʼbde 1746 ūrjjasyāsitapakṣa(11)ke || paṃcamyāṃ caṃdradivase nakṣatre brahmadaivake",
+  "era": "VS",
+  "year": "1746",
+  "month": "Kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Monday",
+  "nakshatra_yoga": "Rohiṇī",
+  "ce_approx": "1689"
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "Both Sukhārāma and Mitrarāma are described as having written the manuscript ('sukhārāmeṇa cālekhi' and 'mitrarāmadvijo kāśyāṃ pustakaṃ cālikhat'). An additional fragmentary verse at the end mentions another date: 'śubhakṛtinavaśāstrādrikṣamāsaṃkhyavarṣe sahasi' (possibly VS 1769, Mārgaśīrṣa).",
+ "_meta": {
+  "reel": "A 366/8",
+  "model": "gemini-flash-latest",
+  "secs": 8.4,
+  "in_tok": 860,
+  "out_tok": 2219
+ }
+}

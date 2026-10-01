@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kavi śeṣarācārya",
+   "name": "Śeṣarācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi",
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī kavi śeṣarācārya viracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvata 1830 savana vadi 15",
+  "era": "VS",
+  "year": "1830",
+  "month": "savana",
+  "paksa": "vadi",
+  "tithi": "15",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1773"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author is given as Kavi Śeṣarācārya (often Śekharācārya / Jyotirīśvara Kaviśekhara for the Pañcasāyaka). The month 'savana' corresponds to Śrāvaṇa.",
+ "_meta": {
+  "reel": "A 254/28",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 684,
+  "out_tok": 871
+ }
+}

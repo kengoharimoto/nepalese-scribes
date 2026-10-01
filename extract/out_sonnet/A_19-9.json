@@ -1,0 +1,43 @@
+{
+ "date": {
+  "as_written": "lasaṃ 507 āśvinaśukla ekādaśyāṃ śukre",
+  "era": "LS",
+  "year": "507",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "śukra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1626"
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnārāyaṇaśarmmā",
+   "name": "Nārāyaṇaśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "Visapīgrāma",
+   "evidence": "visapīgrāme śrīnārāyaṇaśarmmālikhad idaṃ pustakam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "place": {
+  "as_written": "visapīgrāme",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Only the scribe is named. Gopāla, Vaidyanātha and Rāmacandra in the \"gati\" invocations are deities or invoked figures, not listed (the spellings \"gati (!)\" are as quoted). Date matches the catalogue; LS 507 + 1119 = 1626 CE. The village name Visapī is also the known Mithilā village Visapī (Bisphi); not normalized to a modern place.",
+ "_meta": {
+  "reel": "A 19/9",
+  "model": "sonnet",
+  "cost_usd": 0.197484,
+  "secs": 7.2
+ }
+}

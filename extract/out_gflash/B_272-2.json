@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdinkararājavipreṇa",
+   "name": "Dinkararāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdinkararājavipreṇa likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 19(4)55 sāla miti kārtikaśukla 6 roja 7",
+  "era": "VS",
+  "year": "1955",
+  "month": "kārtika",
+  "paksa": "śukla",
+  "tithi": "6",
+  "weekday": "roja 7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1898"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives the scribe's name as 'Dinkrarāja'; the colophon reads 'dinkararāja'.",
+ "_meta": {
+  "reel": "B 272/2",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 791,
+  "out_tok": 754
+ }
+}

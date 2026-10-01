@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sumati jaya jitāmitramalla devasana",
+   "name": "Jitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrī sumati jaya jitāmitramalla devasana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 811 kārttikaśudi 2 thvakuhnu",
+  "era": "NS",
+  "year": "811",
+  "month": "kārttika",
+  "paksa": "śudi",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1690"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Catalogue assigns Bhaktapur based on King Jitāmitra Malla of Bhaktapur, though no place name is explicitly stated in the colophon. The phrase 'dayakā juroṃ' indicates the king had the manuscript prepared/commissioned.",
+ "_meta": {
+  "reel": "A 624/11f",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 718,
+  "out_tok": 990
+ }
+}

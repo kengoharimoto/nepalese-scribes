@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Name normalized to 'Puran' (Nepali form as written; 'Ghartī' kept as caste/clan title); confidence lowered to medium because the cataloguer's 'Purana' is only a Sanskritization",
+   "place.normalized emptied: 'Vāgeśvarī' is a shrine/āśrama name inside 'voghaṭi(!)' (Bhogaṭi?), not a securely identified modern place",
+   "Notes expanded: ŚS 1975 is impossible (it would be 2053 CE). VS 1960 = ŚS 1825 = 1903 CE, but the catalogue's ŚS 1795 = 1873 CE (= VS 1930). Date kept as VS 1960 with an explicit statement of the conflict"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "puran ghartile",
+   "name": "Puran",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "Ghartī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "puran ghartile ... kathā liṣitam",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1975 śrīsamvat 1960 sāla",
+  "era": "VS",
+  "year": "1960",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1903"
+ },
+ "place": {
+  "as_written": "śrīvoghaṭi(!) āśramasthāna śrīvāgesva(!)rimā",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The two eras conflict. 'śāke 1975' cannot be right: it would be 2053 CE. VS 1960 matches ŚS 1825 (1903 CE). The catalogue's 'ŚS 1795' (1873 CE) looks like a reading of 1975 with the digits transposed, and it would match VS 1930, not 1960. So either the cataloguer misread the Śaka digits (1825 → 1975?) or the VS year is corrupt. I have tentatively used VS 1960 (≈1903 CE); the reel should be checked. The place 'voghaṭi(!)' is unclear (perhaps Bhogaṭi/Boghaṭi). 'āśramasthāna śrīvāgeśvarī' seems to be an āśrama or shrine of Vāgeśvarī, and I have not identified it. In the name, Ghartī is a clan or caste name; 'Puran' is given as written.",
+ "_meta": {
+  "reel": "A 1021/16",
+  "model": "opus",
+  "cost_usd": 0.077002,
+  "secs": 17.0
+ }
+}

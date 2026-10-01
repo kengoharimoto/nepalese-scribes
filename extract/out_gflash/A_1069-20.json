@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkṛṣṇa śarmaṇa",
+   "name": "Śrīkṛṣṇa",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "śarman",
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "Rāmanagara",
+   "evidence": "pustakamidaṃ jyotirviʼpākhya rāmanagarevāle ityupādhika śrīkṛṣṇa śarmaṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śake 1759 mārgakṛṣṇa 9",
+  "era": "ŚS",
+  "year": "1759",
+  "month": "mārga",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1837"
+ },
+ "place": {
+  "as_written": "rāmanagarevāle",
+  "normalized": "Rāmanagara"
+ },
+ "purpose": "",
+ "notes": "The genitive/instrumental form 'śrīkṛṣṇa śarmaṇa' indicates ownership or copying ('rāmanagarevāle ityupādhika' indicates a family name/surname derived from Rāmanagara).",
+ "_meta": {
+  "reel": "A 1069/20",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 720,
+  "out_tok": 1173
+ }
+}

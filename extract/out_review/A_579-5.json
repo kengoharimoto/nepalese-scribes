@@ -1,0 +1,66 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name normalized to 'Anubhūtisvarūpa' (ācārya is a title, kept in titles); titles split into paramahaṃsa, parivrājaka, ācārya",
+   "p2 confidence lowered to medium: verb akṛṣat is irregular and (samudā) is unexplained, so the scribal role is inferred",
+   "Notes expanded: (samudā) unexplained; kuhlu probably Newari kunhu 'day'; pakṣa not stated; ce_approx 1755 checked (Mārgaśīrṣa NS 876 = Nov/Dec 1755)"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "anubhūtisvarūpācāryya",
+   "name": "Anubhūtisvarūpa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramahaṃsa",
+    "parivrājaka",
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīparamahaṃsaparivrājakānubhūtisvarūpācāryyaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kṛṣṇa siṃhaḥ",
+   "name": "Kṛṣṇasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛṣṇa siṃhaḥ (samudā) idaṃ pustakaṃ akṛṣat",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃmvat 876 mi mārggaśirśa 14 budhavāra (kuhlu)",
+  "era": "NS",
+  "year": "876",
+  "month": "mārgaśīrṣa",
+  "paksa": "",
+  "tithi": "14",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1755"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The verb 'akṛṣat' is irregular. It is probably a corruption or misreading of 'alikhat', so Kṛṣṇasiṃha is taken as the scribe, though that role is not certain. '(samudā)' is unexplained: it could be a corrupt epithet, a place name or a family name. '(kuhlu)' is probably Newari 'kunhu', meaning 'day'. 'mi' is probably short for 'miti'. The pakṣa is not given, so the weekday cannot be checked. NS 876 Mārgaśīrṣa falls in Nov/Dec 1755 CE.",
+ "_meta": {
+  "reel": "A 579/5",
+  "model": "opus",
+  "cost_usd": 0.07406599999999999,
+  "secs": 14.3
+ }
+}

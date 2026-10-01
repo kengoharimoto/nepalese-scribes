@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdāmodareṇa",
+   "name": "Dāmodara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdāmodareṇa likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 850 phālguṇakṛṣṇa pañcamyāntithau guruvāsare",
+  "era": "NS",
+  "year": "850",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "pañcamī",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1730"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records the era as VS 850, but a three-digit year in a Newari manuscript typically denotes Nepal Saṃvat (NS 850 ≈ 1730 CE).",
+ "_meta": {
+  "reel": "E 1706/7",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 741,
+  "out_tok": 1029
+ }
+}

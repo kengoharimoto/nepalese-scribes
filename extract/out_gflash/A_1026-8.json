@@ -1,0 +1,47 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayajitāmitramallamahīpati",
+   "name": "Jayajitāmitramalla",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "sūryyavaṃśamukuṭamaṇi",
+    "mahīpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājādhirājasūryyavaṃśamukuṭamaṇi śrīśrījayajitāmitramallamahīpativiracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 798 jyeṣṭha śudi 12",
+  "era": "NS",
+  "year": "798",
+  "month": "jyeṣṭha",
+  "paksa": "śudi",
+  "tithi": "12",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1678"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The remainder of the colophon following the date is noted as illegible (covered with different ink).",
+ "_meta": {
+  "reel": "A 1026/8",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 741,
+  "out_tok": 850
+ }
+}

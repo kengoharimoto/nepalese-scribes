@@ -1,0 +1,100 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhānudatta-",
+   "name": "Bhānudatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "Maithila",
+   "residence": "",
+   "evidence": "śrībhānudattaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīgaṇanātha-",
+   "name": "Gaṇanātha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "kavikalāsanātha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgaṇanāthatanaya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "tripāṭhy uttamarāmasya",
+   "name": "Uttamarāma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "tripāṭhī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tripāṭhy uttamarāmasya suta jyeṣṭhena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "vallabharāmeṇa",
+   "name": "Vallabharāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "tripāṭhī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vallabharāmeṇa likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīgaṇanāthatanaya"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "tripāṭhy uttamarāmasya suta jyeṣṭhena"
+  }
+ ],
+ "date": {
+  "as_written": "nagābdhi vasucaṃdrāṃke durmatyākhya (!) ca vatsere | syā(11)t tape cāsite pakṣe rudratīthyaṃduvāsare ... saṃvat 1847 śake 1712 phālguṇakṛṣṇa10 caṃdre",
+  "era": "VS",
+  "year": "1847",
+  "month": "Phālguna",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1790"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svātmapathanārthaṃ paropakārārthaṃ",
+ "notes": "The date is given both in verse (chronogram nagābdhivasucandrāṅke = 1847, rudratithi = 11, induvāsara = Monday) and in prose figures (saṃvat 1847 śake 1712 phālguṇakṛṣṇa 10 candre). The prefix traº before Vallabharāma abbreviates Tripāṭhī.",
+ "_meta": {
+  "reel": "B 307/16",
+  "model": "gemini-flash-latest",
+  "secs": 9.4,
+  "in_tok": 911,
+  "out_tok": 2563
+ }
+}

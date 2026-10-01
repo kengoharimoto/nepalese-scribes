@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkulanaṃdo",
+   "name": "Kulananda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkulanaṃdo vilikhati",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīmacchāke grahavasujalade śrāvaṇaśukle gaṇapatitithye",
+  "era": "ŚS",
+  "year": "grahavasujalade",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "gaṇapatitithye",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1767"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'grahavasujalade' is interpreted by the cataloguer as Śaka 1689 (gaṇapatitithi corresponds to caturthī).",
+ "_meta": {
+  "reel": "B 262/3",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 746,
+  "out_tok": 1007
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvatsare || 1854 || samayanāma śrāvaṇamāse śuklapakṣe aṣṭamyām bhaumavāsare",
+  "era": "VS",
+  "year": "1854",
+  "month": "śrāvaṇa",
+  "paksa": "śuklapakṣa",
+  "tithi": "aṣṭamī",
+  "weekday": "bhaumavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1797"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons are mentioned in the colophon. The scribe wrote 'aśubham astu', likely an unintentional slip for 'śubham astu'.",
+ "_meta": {
+  "reel": "A 200/2",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 785,
+  "out_tok": 919
+ }
+}

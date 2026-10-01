@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "arjjavegī thākumani",
+   "name": "Thākumani",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "arjjavegī"
+   ],
+   "affiliation": "",
+   "residence": "maṣanavāhāla",
+   "evidence": "arjjavegī thākumani svahastākṣaraṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1908 sāla miti vaiśāṣa vadi 3 roja 6 viśā(2)ṣā nakṣatre",
+  "era": "VS",
+  "year": "1908",
+  "month": "vaiśāṣa",
+  "paksa": "vadi",
+  "tithi": "3",
+  "weekday": "roja 6",
+  "nakshatra_yoga": "viśāṣā",
+  "ce_approx": "1851"
+ },
+ "place": {
+  "as_written": "maṣanavāhāla",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The title arjjavegī corresponds to the administrative post 'Arzbegi' (Master of Requests). Maṣanavāhāla refers to Makhan Bāhāl in Kathmandu.",
+ "_meta": {
+  "reel": "A 216/7",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 717,
+  "out_tok": 1204
+ }
+}

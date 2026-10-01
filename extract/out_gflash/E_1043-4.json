@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayarūndrasiṃ(4)ha bhāro,na",
+   "name": "Jayarūndrasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña",
+    "bhāro"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rekha daivajña jayarūndrasiṃ(4)ha bhāro,na Dhānyavatipyākhanayā saphurī siṃdhayakā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "Saṃmbat 839 kāttika (Verso 32:3) kṛṣṇa , paṃcami puṣva nakṣetre subha joge, ādityavāra",
+  "era": "NS",
+  "year": "839",
+  "month": "kāttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "paṃcami",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "puṣva nakṣetre subha joge",
+  "ce_approx": "1718"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "King Mahīndrasiṃha and Kathmandu are noted in the catalogue card, but do not appear in the transcribed colophon text.",
+ "_meta": {
+  "reel": "E 1043/4",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 830,
+  "out_tok": 1204
+ }
+}

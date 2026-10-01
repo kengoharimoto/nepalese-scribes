@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivāśrameṇa",
+   "name": "Śivāśrama",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "līkhītaṃ (!) paranupakārārthaṃ (!) śivāśrameṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1790 samaya phālguna śuddha 2 dvitīyā",
+  "era": "VS",
+  "year": "1790",
+  "month": "phālguna",
+  "paksa": "śuddha",
+  "tithi": "2 dvitīyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1734"
+ },
+ "place": {
+  "as_written": "nāradaghaṭe",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "parānupakārārtham (for the benefit of others)",
+ "notes": "Nāradaghaṭa is a prominent bathing ghāṭ in Vārāṇasī. The reading paranupakārārthaṃ is an error for paropakārārthaṃ.",
+ "_meta": {
+  "reel": "A 978/23",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 786,
+  "out_tok": 1181
+ }
+}

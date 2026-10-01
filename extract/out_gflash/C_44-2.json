@@ -1,0 +1,60 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmahopādhyāyamiśra〈〈ī〉〉śrīkṛṣṇa",
+   "name": "Kṛṣṇamiśra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāyamiśra〈〈ī〉〉śrīkṛṣṇaviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "daivajñakṛttivāsas",
+   "name": "Kṛttivāsas",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ daivajñakṛttivāsaseti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 738 jyeṣṭha kṛṣṇapakṣe daśamyāṃ tithau, ādityavāsare",
+  "era": "NS",
+  "year": "738",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "ādityavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1618"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "saṃkaraprītyarthaṃ ceśvaryāḥ prasādena",
+ "notes": "",
+ "_meta": {
+  "reel": "C 44/2",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 781,
+  "out_tok": 1263
+ }
+}

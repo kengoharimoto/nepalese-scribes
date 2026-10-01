@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśvanāthapādhye (!) ghiṃmiryāḥ (!)",
+   "name": "Viśvanātha",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "pādhye"
+   ],
+   "affiliation": "Ghimire",
+   "residence": "",
+   "evidence": "viśvanāthapādhye (!) ghiṃmiryāḥ (!) caṇḍiko postakaḥ (!) śuddho vā aśuddho vā mama doṣo na diyate (!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1956 sālamiti āśvinavadi 13 roja 2 nakṣatre pūraphlālguṇiḥ (!)",
+  "era": "VS",
+  "year": "1956",
+  "month": "āśvina",
+  "paksa": "vadi",
+  "tithi": "13",
+  "weekday": "roja 2",
+  "nakshatra_yoga": "pūraphlālguṇiḥ",
+  "ce_approx": "1899"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The Nepali phrase 'caṇḍiko postakaḥ' ('the Caṇḍī book of [Viśvanātha]') combined with the traditional scribal disclaimer 'mama doṣo na dīyate' indicates that Viśvanātha Ghimire was the scribe and likely the owner.",
+ "_meta": {
+  "reel": "A 1113/21",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 968,
+  "out_tok": 1233
+ }
+}

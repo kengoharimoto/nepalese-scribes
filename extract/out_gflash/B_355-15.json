@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśvanātha daivajña",
+   "name": "Viśvanātha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viśvanātha daivajña viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "divākara daivajñātmajya(!)",
+   "name": "Divākara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "divākara daivajñātmajya(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "divākara daivajñātmajya(!) viśvanātha"
+  }
+ ],
+ "date": {
+  "as_written": "śrīvikramādityasat 1861",
+  "era": "VS",
+  "year": "1861",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1804"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records 'Kāntipura' as place, 'Śrīmanmahārāja Kīrtivamamalla' as king, and 'Yuvarājanṛsiṃhavikramamalla' as donor, none of which appear in the provided colophon excerpt from fol. 99v7–8. Vikramāditya in 'śrīvikramādityasat 1861' refers to the Vikrama era.",
+ "_meta": {
+  "reel": "B 355/15",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 791,
+  "out_tok": 1645
+ }
+}

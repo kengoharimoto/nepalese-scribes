@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dharmarājatṛpāṭhidvija",
+   "name": "Dharmarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "tṛpāṭhī",
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dharmarājatṛpāṭhidvijahastena likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1956 sālam iti kārttikaśudi 10 roja 1",
+  "era": "VS",
+  "year": "1956",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "roja 1 (Sunday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1899"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthaṃ ca",
+ "notes": "",
+ "_meta": {
+  "reel": "A 471/44",
+  "model": "gemini-flash-latest",
+  "secs": 3.1,
+  "in_tok": 760,
+  "out_tok": 690
+ }
+}

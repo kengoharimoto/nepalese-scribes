@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrītrimallabhaṭṭa",
+   "name": "Trimallabhaṭṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrītrimallabhaṭṭagrathitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ṭhākurmanena",
+   "name": "Ṭhākurmana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "arjavegī"
+   ],
+   "affiliation": "",
+   "residence": "kāṇtipūram aṣanavihāra",
+   "evidence": "ṭhākurmanena hastaṃ || likhitvām idaṃ ca",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīvaikrame grahaśaśinavacaṃ māsavaiśāṣaśīte || punyatithau hastānakṣatre vyāghātayoge ravidine ca",
+  "era": "VS",
+  "year": "1919",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "puṇyatithi",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "hastānakṣatre vyāghātayoge",
+  "ce_approx": "1862"
+ },
+ "place": {
+  "as_written": "kāṇtipūram aṣanavihāra",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "paropakārārthe",
+ "notes": "The chronogram 'graha-śaśi-nava-caṃ' indicates VS 1919 (graha=9, śaśi=1, nava=9, caṃ/candra=1). In the vernacular Nepali section, the scribe mentions copying the text at the age of sixty ('sāthi varṣakā umerakā velāmā') while serving at the royal palace ('śrīrājakulamā') as an 'arjavegī' (arz-begī).",
+ "_meta": {
+  "reel": "B 169/3",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 1032,
+  "out_tok": 1582
+ }
+}

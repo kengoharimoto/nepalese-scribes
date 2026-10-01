@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "lokeśvaraśarmmaṇā",
+   "name": "Lokeśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ lokeśva(5)raśarmmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1705 saṃvat 1840 māse jyeṣṭhakṛṣṇa 10 roja 1",
+  "era": "ŚS",
+  "year": "1705",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "roja 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1783"
+ },
+ "place": {
+  "as_written": "kāntipurasthāne",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "Both Śaka 1705 and Vikrama Saṃvat 1840 are cited.",
+ "_meta": {
+  "reel": "A 167/12",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 873,
+  "out_tok": 1170
+ }
+}

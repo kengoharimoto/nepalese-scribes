@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmatsaṃkarācāryyona",
+   "name": "Śaṅkarācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatsaṃkarācāryyona (!) vīracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vakhatamānasiṃha",
+   "name": "Vakhatamānasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "leṣanyā vakhatamānasiṃha ho",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat1894sāla caitrasudi11 roja5mā ... samvat1895sāla miti vaisāṣabadi12roja8",
+  "era": "VS",
+  "year": "1894–1895",
+  "month": "Caitra / Vaiśākha",
+  "paksa": "śukla / kṛṣṇa",
+  "tithi": "11 / 12",
+  "weekday": "Thursday (5) / 8 (!)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1838"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon is in Nepali. Two dates are given: VS 1894 Caitra śudi 11, Thursday (roja 5) and VS 1895 Vaiśākha vadi 12, roja 8 (!).",
+ "_meta": {
+  "reel": "A 1114/36a",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 817,
+  "out_tok": 1083
+ }
+}

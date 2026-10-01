@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name changed from 'Kṛṣṇamiśra' to 'Kṛṣṇa': per the conventions, 'miśra' is a brahmin suffix, so it was moved to titles.",
+   "Noted that 'śrīśutra' might be a corrupt form of 'śukra' (Friday). The weekday field is left empty because this is uncertain."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmahipādhyāyamiśraśrīkṛṣṇa",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahopādhyāya",
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahipādhyāyamiśraśrīkṛṣṇaviracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 677",
+  "era": "NS",
+  "year": "677",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1557"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'mahipādhyāya' is probably a corruption of 'mahopādhyāya'. Kṛṣṇamiśra is the author of the drama, not someone involved in making this copy. 'śrīśutra' is unclear. It might be a corrupt form of 'śrī śukra' (Friday), but this is uncertain, so the weekday field is left empty. It does not appear to name a person. No scribe, commissioner or owner is named. 'saṃ 677' gives no era, but Newari script and the catalogue field both point to Nepāla Saṃvat: NS 677 ≈ 1556/57 CE.",
+ "_meta": {
+  "reel": "B 15/10",
+  "model": "opus",
+  "cost_usd": 0.064874,
+  "secs": 11.1
+ }
+}

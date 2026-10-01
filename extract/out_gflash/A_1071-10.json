@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmaśaṃkaraḥ",
+   "name": "Rāmaśaṃkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lilekha rāmaśaṃkaraḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "ilābdhirandhrahāyane siterahasyake tithau",
+  "era": "NS",
+  "year": "941",
+  "month": "",
+  "paksa": "sita",
+  "tithi": "rahasyake",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1821"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram ilā-abdhi-randhra indicates 941 (ilā = 1, abdhi = 4, randhra = 9), which corresponds to NS 941.",
+ "_meta": {
+  "reel": "A 1071/10",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 777,
+  "out_tok": 1010
+ }
+}

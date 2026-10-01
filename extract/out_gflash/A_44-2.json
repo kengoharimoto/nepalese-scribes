@@ -1,0 +1,85 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahācchrīharṣadevarājaṣu",
+   "name": "Harṣadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rāja"
+   ],
+   "affiliation": "",
+   "residence": "śrīnepāla",
+   "evidence": "śrīnepālasya vijayarājye mahācchrīharṣadevarājaṣu",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "govarddhanāṅkitaḥ",
+   "name": "Govarddhana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "śrīpaśupatisthāna",
+   "evidence": "lekhakaḥ śrīpaśupatisthānā saṃjñā govarddhanāṅkitaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrījayākaranāmalabdam",
+   "name": "Jayākara",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "phaṇāṅka",
+   "evidence": "ācāryamūrttiguṇa alaṅkṛtaṃ śrījayākaranāmalabdam | sarve svagotrasakalasatva uttāraṇā〈〈rtha〉〉rthakaaraṇam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīnepālasya vijayarājye mahācchrīharṣadevarājaṣu | lekhakaḥ śrīpaśupatisthānā saṃjñā govarddhanāṅkitaḥ"
+  },
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "lekhakaḥ śrīpaśupatisthānā saṃjñā govarddhanāṅkitaḥ ... ācāryamūrttiguṇa alaṅkṛtaṃ śrījayākaranāmalabdam"
+  }
+ ],
+ "date": {
+  "as_written": "dviśate samvacchare tīte saptadaśasapūritaḥ | phālguṇasya tu \"sukla sya uttameṣu trayodaśī | tārakā pūrvaphalgunyā śukragrahasuśobhane",
+  "era": "NS",
+  "year": "217",
+  "month": "Phālguna",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "Friday",
+  "nakshatra_yoga": "Pūrvaphalgunī",
+  "ce_approx": "1097"
+ },
+ "place": {
+  "as_written": "śrīpaśupatisthāna",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "sarve svagotrasakalasatva uttāraṇārtham",
+ "notes": "The scribe Govarddhana is from Paśupatisthāna. Jayākara is associated with Phaṇāṅka in Cūḍāmaṇiviṣaya.",
+ "_meta": {
+  "reel": "A 44/2",
+  "model": "gemini-flash-latest",
+  "secs": 8.3,
+  "in_tok": 1159,
+  "out_tok": 2367
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśivaharivipreṇa",
+   "name": "Śivahari",
+   "roles": [
+    "scribe",
+    "reader"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "yaśalache",
+   "evidence": "likhata śivahariḥ ... śrīśivaharivipreṇa svapāṭhārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "varṣe bhujebhaturage (dharaṇīja) vāre ... saṃvat 782 āśvinamāse kṛṣṇapakṣe caturddaśyāṃ tithau aṃgāra vāsare uttaraphālguṇinakṣatre brahmayoge",
+  "era": "NS",
+  "year": "782",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "14",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "uttaraphālguṇi, brahma",
+  "ce_approx": "1662"
+ },
+ "place": {
+  "as_written": "yaśalache",
+  "normalized": ""
+ },
+ "purpose": "svapāṭhārtha",
+ "notes": "The chronogram 'bhujebhaturage' (bhuja = 2, ibha = 8, turaga = 7) confirms NS 782, and dharaṇījavāra matches aṅgāravāsara (Tuesday). The phrase '†yaśalache†' is likely a tole (locality) name where Śivahari resided or copied the text. A heavily damaged name preceded by 'śrī... sya' in line 3 may have referred to a reigning monarch or patron, but it is too broken to identify.",
+ "_meta": {
+  "reel": "B 304/2",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 887,
+  "out_tok": 1651
+ }
+}

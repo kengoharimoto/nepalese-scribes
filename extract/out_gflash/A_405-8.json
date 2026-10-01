@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭanārāyaṇa",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭanārāyaṇaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śakeṃkāṃka bhūpair mite bhādraśukle catur vaktratithye guraubhe pataṃge",
+  "era": "ŚS",
+  "year": "1699",
+  "month": "bhādra",
+  "paksa": "śukla",
+  "tithi": "catur vaktratithye",
+  "weekday": "pataṃge",
+  "nakshatra_yoga": "guraubhe",
+  "ce_approx": "1777"
+ },
+ "place": {
+  "as_written": "caṅālīpūreṣu",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue names Lakṣmīpati as the scribe, but the quoted colophon does not name him; it only states that the commentary (Anvayadīpikā, which is traditionally authored by Lakṣmīpati) was copied by a Brahmin ('dvijena') in Caṅālīpura. Chronogram: aṅka (9) - aṅka (9) - bhūpa (16) = ŚS 1699.",
+ "_meta": {
+  "reel": "A 405/8",
+  "model": "gemini-flash-latest",
+  "secs": 9.4,
+  "in_tok": 818,
+  "out_tok": 2063
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmad dayānidhi°",
+   "name": "Dayānidhi",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmad dayānidhiprītyai likhitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "khecarendughane 1719 śāke enabhasthe (!) divasya tau || navamyāṃ candraje vāre",
+  "era": "ŚS",
+  "year": "1719",
+  "month": "enabhasthe (!)",
+  "paksa": "",
+  "tithi": "navamī",
+  "weekday": "candraja (Wednesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1797"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīmad dayānidhiprītyai",
+ "notes": "Dayānidhi may either be a human beneficiary/patron or an epithet of a deity (Śiva). No scribe name is mentioned.",
+ "_meta": {
+  "reel": "A 980/46",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 746,
+  "out_tok": 1103
+ }
+}

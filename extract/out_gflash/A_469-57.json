@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśyāmeśvarīdevī",
+   "name": "Śyāmeśvarīdevī",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "davuche",
+   "evidence": "davucheyā śrīśyāmeśvarīdevī nadayakādāṃviyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 872 māghaśuklayā(!) pūrṇimāsi kunhu",
+  "era": "NS",
+  "year": "872",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1752"
+ },
+ "place": {
+  "as_written": "davuche",
+  "normalized": ""
+ },
+ "purpose": "sūryaprīti",
+ "notes": "The Newar phrase 'davucheyā śrīśyāmeśvarīdevī nadayakādāṃviyā' translates to 'Śyāmeśvarīdevī of Davuche had [this] made [and] gave money'.",
+ "_meta": {
+  "reel": "A 469/57",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 733,
+  "out_tok": 996
+ }
+}

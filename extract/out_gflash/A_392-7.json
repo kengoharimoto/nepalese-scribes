@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "suvandhu-",
+   "name": "Subandhu",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahākavirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahākavirāja suvandhuviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "purandarodvijo",
+   "name": "Purandara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "purandarodvijo ʼlikhad idaṃ hi kāvya pustakam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śake śarāṅgameghake mitetviṣe kunhū śanau",
+  "era": "ŚS",
+  "year": "śarāṅgameghake",
+  "month": "iṣa",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "śanau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1873"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records the scribe as 'Purandaradatta', but the text reads 'purandarodvijo' (Purandara, a dvija). The chronogram for the year is interpreted by the cataloguer as ŚS 1795 (ce_approx 1873).",
+ "_meta": {
+  "reel": "A 392/7",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 742,
+  "out_tok": 1575
+ }
+}

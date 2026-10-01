@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vaidyagadādhara-",
+   "name": "Gadādhara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvaidyagadādharasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vaidyavidyācārya-",
+   "name": "Vaidyavidyācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vaidyavidyācāryaviracitāyāṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīvaidyagadādharasutavaidyavidyācārya"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1716 vaṣe (!) mārgaśirṣamāse śuklapakṣe dvitīyāyāṃ tit(5)hau ravivāsare",
+  "era": "VS",
+  "year": "1716",
+  "month": "mārgaśīrṣa",
+  "paksa": "śuklapakṣa",
+  "tithi": "dvitīyā",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1659"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Vaṅgasena is typically known as the author of this medical work and son of Gadādhara; here the colophon gives 'vaidyavidyācārya' as the composer and 'vaṃgasenagrantha' as the title of the work. The four-digit year 1716 refers to the Vikrama era.",
+ "_meta": {
+  "reel": "A 224/4",
+  "model": "gemini-flash-latest",
+  "secs": 11.6,
+  "in_tok": 743,
+  "out_tok": 2903
+ }
+}

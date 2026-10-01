@@ -1,0 +1,100 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date: 'kalāvihīne' removed as tithi; it most likely belongs with 'durgāsomasutaḥ' as the scribe's modesty formula ('lacking in skill', cf. 'kaṣṭena likhitaṃ'), not amāvāsyā",
+   "Date: '-vikrame arke' read as 'in the Vikrama era, on Sunday', so weekday is tentatively Sunday; arka could instead be a numeral (12) inside the chronogram, and the notes say so",
+   "Date: year left unresolved. The chronogram is corrupt: pārāvāra = 4, then '-ādyana-' is unclear (perhaps adri = 7 and/or nanda = 9), so no ce_approx",
+   "Scribe titles: kept 'dvija' and dropped 'dvijottama', which is an epithet",
+   "Durgāsoma confidence lowered to medium, and the father–son link is flagged as inferred from the verse",
+   "Notes expanded"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "varāhamihira",
+   "name": "Varāhamihira",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "varāhamihirakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaṭṭotpala",
+   "name": "Bhaṭṭotpala",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī bhaṭṭotpala viracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "lakṣmīnāthadvijottamena",
+   "name": "Lakṣmīnātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "horāśāstramidaṃ ... lakṣmīnāthadvijottamena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "durgāsoma",
+   "name": "Durgāsoma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "durgāsoma sutaḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "durgāsoma sutaḥ kalāvihīne || kaṣṭeno likhitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "pārāvārādyanābdavikramerke",
+  "era": "VS",
+  "year": "pārāvārādyanābda (corrupt chronogram; pārāvāra = 4 …)",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "Sunday (arke), tentative",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The verse colophon is metrically and grammatically corrupt. The year is given as a bhūtasaṃkhyā chronogram in the Vikrama era: 'pārāvāra' = 4, but '-ādyana-' is corrupt (perhaps adri = 7 or nanda = 9, with syllables lost), so the year cannot be fixed. 'arke' most likely means Sunday, though it could be arka = 12 as part of the number. 'kalāvihīne' is most likely the scribe's modesty formula ('lacking in skill'), matching 'kaṣṭena likhitam', and is not a tithi. I take 'durgāsomasutaḥ' to describe the scribe Lakṣmīnātha (dvija), but the verse does not say so outright. 'likhitaṃkṣarodvijoyaṃ' is corrupt (perhaps 'likhitam akṣaraṃ dvijo 'yam'). The colophon is that of Bhaṭṭotpala's commentary on the Bṛhajjātaka, adhyāya 25 (dreṣkāṇasvarūpa). The final verse 'aṃśakād jñāyate dravyaṃ ...' is a stray textual verse, not part of the colophon.",
+ "_meta": {
+  "reel": "A 1394/5",
+  "model": "opus",
+  "cost_usd": 0.103298,
+  "secs": 27.0
+ }
+}

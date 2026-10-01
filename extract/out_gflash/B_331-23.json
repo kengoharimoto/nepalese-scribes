@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gauḍabhaṭṭācārya",
+   "name": "Gauḍabhaṭṭācārya",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gauḍabhaṭṭācāryakṛtā paṃ[ca]svarāṭīkā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śivānaṃdadīkṣita",
+   "name": "Śivānanda",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śivānaṃdadīkṣitapautra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bākṛṣṇena",
+   "name": "Bālakṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śivānaṃdadīkṣitapautra bākṛṣṇena [[likhitaṃ]]",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "grandson_of",
+   "to": "p2",
+   "evidence": "śivānaṃdadīkṣitapautra"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1810",
+  "era": "VS",
+  "year": "1810",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1753"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "paropakārasiddhyarthaṃ paṭhanāya ca",
+ "notes": "The scribe's name is written 'bākṛṣṇena' in the text, emended to Bālakṛṣṇa in the catalogue.",
+ "_meta": {
+  "reel": "B 331/23",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 789,
+  "out_tok": 1164
+ }
+}

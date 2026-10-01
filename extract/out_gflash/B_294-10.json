@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vālmīkīye",
+   "name": "Vālmīki",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vālmīkīye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "madhusūdanaḥ",
+   "name": "Madhusūdana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhūdeva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhūdevo madhusūdanodbhutam idaṃ ... lilekha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśākegniviyadbalāhakamite pakṣe śuceḥ sulkake (!) vāre citraśikhaṇḍijebjajatithā vṛkṣe tathā tasya ca",
+  "era": "ŚS",
+  "year": "1703",
+  "month": "śuci",
+  "paksa": "śukla",
+  "tithi": "abjaja (1)",
+  "weekday": "citraśikhaṇḍija (Budhavāra?)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1781"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'agniviyadbalāhaka' is recorded by the cataloguer as Śaka 1703.",
+ "_meta": {
+  "reel": "B 294/10",
+  "model": "gemini-flash-latest",
+  "secs": 6.2,
+  "in_tok": 842,
+  "out_tok": 1603
+ }
+}

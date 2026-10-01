@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmeśvara(20r1)bhaṭṭasuta",
+   "name": "Rāmeśvarabhaṭṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadrāmeśvara(20r1)bhaṭṭasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nārāyaṇabhaṭṭaviracitāyāṃ",
+   "name": "Nārāyaṇabhaṭṭa",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nārāyaṇabhaṭṭaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "†yapurvehinaṇepīnāpya†",
+   "name": "Yapurvehinaṇepīnāpya",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "†yapurvehinaṇepīnāpya† brāhmaṇena liṣitam",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīmadrāmeśvara(20r1)bhaṭṭasutanārāyaṇabhaṭṭa"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1885 miti (vaiiśapya) vadī (!) 10 saṃmaye (!) bhādrapada || śuklā tṛtīyā ravau",
+  "era": "VS",
+  "year": "1885",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "tṛtīyā",
+  "weekday": "ravau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1828"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives date of copying as 'ŚS 1848', but the text reads 'saṃvat 1885'. The scribe's name is marked corrupt by the cataloguer (†yapurvehinaṇepīnāpya†).",
+ "_meta": {
+  "reel": "B 274/24",
+  "model": "gemini-flash-latest",
+  "secs": 7.9,
+  "in_tok": 776,
+  "out_tok": 1719
+ }
+}

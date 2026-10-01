@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgovindacaraṇaupādhyāyena",
+   "name": "Govindacaraṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgovindacaraṇaupādhyāyena liṣita idaṃ puṣṭakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke saṃvat 1769 sāla śrāvaṇa śu di 15 roja 5 ... vikramābda 1904 || naipālasaṃvat 967",
+  "era": "ŚS",
+  "year": "1769",
+  "month": "śrāvaṇa",
+  "paksa": "śuklapakṣa",
+  "tithi": "15",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1847"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date is provided in three concordant calendar systems: Śaka 1769, Vikrama Saṃvat 1904, and Nepāla Saṃvat 967, all corresponding to 1847 CE.",
+ "_meta": {
+  "reel": "A 977/5f",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 819,
+  "out_tok": 1085
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaṃgāviṣṇubudhena",
+   "name": "Gaṅgāviṣṇu",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "budha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ gaṃgāviṣṇubudhena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 979/48a",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 675,
+  "out_tok": 442
+ }
+}

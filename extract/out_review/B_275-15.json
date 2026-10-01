@@ -1,0 +1,123 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: name stripped to 'Jinaharṣa' (sūri is a title); affiliation given as conjectural Bṛhatkharataragaccha for the corrupt 'vṛ varatadagaccha'; confidence for the gaccha lowered",
+   "p1: role changed from 'teacher' to 'other'. 'santāne' (written saṃāne) means 'in the lineage of', so he is the head of the lineage, not the direct teacher",
+   "p2→p1 relation changed from pupil_of to other (lineage, santāne)",
+   "p3: titles reduced to paṇḍita and muni (paṃ. = paṇḍita; paṇḍitapravara is an epithet)",
+   "p4: confidence lowered to medium and p4→p3 relation flagged, because the lacuna (///) before 'śiṣya' may hide one or more intermediate names",
+   "Date: ce_approx refined to 1559 (Nov./Dec.); era VS kept",
+   "Notes expanded"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījinaharṣasūriguruṇāṃ",
+   "name": "Jinaharṣa",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "sūri",
+    "guru"
+   ],
+   "affiliation": "Bṛhatkharataragaccha (?; written †vṛ varatadagacchebha 0†)",
+   "residence": "",
+   "evidence": "śrījinaharṣasūriguruṇāṃ saṃāne",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmānakīrtimahopādhyānaṃ",
+   "name": "Mānakīrti",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "mahopādhyāya"
+   ],
+   "affiliation": "Kharataragaccha (?)",
+   "residence": "",
+   "evidence": "śrīmānakīrtimahopādhyānaṃ śiṣya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīdevakalaśamunipaṇḍitapravara",
+   "name": "Devakalaśa",
+   "roles": [
+    "pupil",
+    "teacher"
+   ],
+   "titles": [
+    "paṇḍita",
+    "muni"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śiṣya paṃ. śrīdevakalaśamunipaṇḍitapravara",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "vinayasāgaramunilibhir",
+   "name": "Vinayasāgara",
+   "roles": [
+    "scribe",
+    "pupil"
+   ],
+   "titles": [
+    "muni"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śiṣya vinayasāgaramunilibhir likhitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "other",
+   "to": "p1",
+   "evidence": "śrījinaharṣasūriguruṇāṃ saṃāne śrīmānakīrtimahopādhyānaṃ"
+  },
+  {
+   "from": "p3",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "śrīmānakīrtimahopādhyānaṃ śiṣya paṃ. śrīdevakalaśa"
+  },
+  {
+   "from": "p4",
+   "type": "pupil_of",
+   "to": "p3",
+   "evidence": "śrīdevakalaśamunipaṇḍitapravara (15) /// śiṣya vinayasāgaramuni"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1616 mārgaśira vadi 1 dine budhavāsare",
+  "era": "VS",
+  "year": "1616",
+  "month": "mārgaśira",
+  "paksa": "vadi (kṛṣṇa)",
+  "tithi": "1",
+  "weekday": "budhavāsara (Wednesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1559"
+ },
+ "place": {
+  "as_written": "śrīdillīnagaramadhye",
+  "normalized": "Delhi"
+ },
+ "purpose": "",
+ "notes": "This is a Jain (Śvetāmbara, apparently Kharatara) colophon written in Delhi, not a Nepalese one. Era: 'saṃvat' in a western Jain colophon is normally Vikrama, so VS 1616 = 1559 CE. The catalogue's 'ŚS 1616 ?' is probably wrong, and the weekday has not been verified. The gaccha name is corrupt (†vṛ(14) varatadagacchebha 0†), and 'bṛhatkharataragaccha' is a conjecture. Caution: the best-known Kharatara pontiff called Jinaharṣasūri flourished c. VS 1856–1892 (I am recalling this, not checking a source). If that is the man meant, it would fit a date of VS 1916 better than 1616, so the numeral may have been misread. The point needs checking against the photographs. 'saṃāne' should read 'santāne' (lineage), and 'mahopādhyānaṃ' should read 'mahopādhyāyānāṃ'. The '///' before 'śiṣya' marks damage, so there may be intermediate pupils between Devakalaśa and Vinayasāgara. 'munilibhir' is probably a mistake for 'munibhir' or 'muninā'. The catalogue gives the scribe as 'Sāgaramuni', but the colophon reads Vinayasāgara(muni).",
+ "_meta": {
+  "reel": "B 275/15",
+  "model": "opus",
+  "cost_usd": 0.10869,
+  "secs": 26.0
+ }
+}

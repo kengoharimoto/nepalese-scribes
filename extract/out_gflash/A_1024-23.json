@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1724 samaye",
+  "era": "VS",
+  "year": "1724",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1667"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons are named in the colophon. The catalogue metadata field erroneously listed 'VS 1724' as the scribe.",
+ "_meta": {
+  "reel": "A 1024/23",
+  "model": "gemini-flash-latest",
+  "secs": 2.6,
+  "in_tok": 663,
+  "out_tok": 450
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāladāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahākavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahākavikāladāsakṛtīviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīcaṃdrakīrtti(4)sūri",
+   "name": "Candrakīrti",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "Nāgapurīya Tapāgaccha",
+   "residence": "",
+   "evidence": "śrīnāga(purīyatapāgache bha,) śrīcaṃdrakīrtti(4)sūri",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīharṣakīrttisūrir",
+   "name": "Harṣakīrti",
+   "roles": [
+    "commissioner",
+    "scribe"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "Nāgapurīya Tapāgaccha",
+   "residence": "",
+   "evidence": "śrīharṣakīrttisūrir (mallekhitaḥ)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "samarasiṃha",
+   "name": "Samarasiṃha",
+   "roles": [
+    "reader",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "samarasiṃhapaṭhanārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "śrīcaṃdrakīrtti(4)sūri(paddebha)śrīmān kīrttisūripahacchaiḥ śrīharṣakīrttisūrir"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "śrīharṣakīrttisūrir (mallekhitaḥ) || samarasiṃhapaṭhanārthaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1658 bhādrapadabahula14dine",
+  "era": "VS",
+  "year": "1658",
+  "month": "Bhādrapada",
+  "paksa": "bahula",
+  "tithi": "14",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1601"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "samarasiṃhapaṭhanārthaṃ (for the study/reading of Samarasiṃha)",
+ "notes": "The manuscript belongs to the Jain tradition (Nāgapurīya Tapāgaccha). Harṣakīrtisūri is the well-known scholar of this lineage. The text between Candrakīrtisūri and Harṣakīrtisūri has damaged or misread characters: '(paddebha)śrīmān kīrttisūripahacchaiḥ', possibly repeating 'kīrtti' from Candrakīrti or representing corrupted lineage transmission.",
+ "_meta": {
+  "reel": "B 321/8",
+  "model": "gemini-flash-latest",
+  "secs": 15.4,
+  "in_tok": 1100,
+  "out_tok": 3422
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmacaṃdradeva",
+   "name": "Rāmacaṃdradeva",
+   "roles": [
+    "king",
+    "relative_only"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahārājādhirāja śrīrāmacaṃdradevātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "pradyotanabhaṭṭācāryya",
+   "name": "Pradyotana",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sakalaśāstrāraviṃdapradyotanabhaṭṭācāryyaviracitacaṃdrālokaprakāśe",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "mathurānātho",
+   "name": "Mathurānātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "alikhan mathurānātho graṃthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīrāmacaṃdradevātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "vāhne dvīpa surataru brahmasamete śateke kvāpi ... vaiśākha rākāyāmḥ",
+  "era": "unspecified",
+  "year": "vāhne dvīpa surataru brahmasamete śateke",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "rākā (pūrṇimā)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Pradhyotana Bhaṭṭācārya as the scribe and Vīrabhadra Bhūpati as the king, but the colophon clearly identifies Mathurānātha as the copyist (alikhan mathurānātho) and Pradyotana Bhaṭṭācārya as the author/commentator, son of Mahārājādhirāja Rāmacaṃdradeva.",
+ "_meta": {
+  "reel": "A 371/2",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 847,
+  "out_tok": 1897
+ }
+}

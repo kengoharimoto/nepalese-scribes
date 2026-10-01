@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "hari(1)vaṃśapāṭhaka",
+   "name": "Harivaṃśa",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "pāṭhaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīhari(1)vaṃśapāṭhakaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhavānisaṃkrabhaṭṭācāryasya",
+   "name": "Bhavānīśaṅkara",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pustakaṃ bhavānisaṃkrabhaṭṭācāryasyedam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1793 samaya kārttikamāse śuklapakṣe dvitīyāyāṃ",
+  "era": "VS",
+  "year": "1793",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1736"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records Bhavānīśaṅkara as donor, but the colophon text marks ownership ('pustakaṃ bhavānisaṃkrabhaṭṭācāryasyedam').",
+ "_meta": {
+  "reel": "B 331/7",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 777,
+  "out_tok": 1036
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name normalized to standard IAST spelling Jagajjyotirmalladeva (colophon spells 'jagajjotir'); as_written kept",
+   "Chronogram verified: vāṇa 5, nava 9, vasu 8, bhūmi 1 → read right to left = ŚS 1895 = c. 1973 CE; noted in notes",
+   "purpose normalized to 'hariprītyartham (for the pleasure of Hari)'",
+   "Other fields confirmed"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahārājādhirājaśrījagajjotir malladeva",
+   "name": "Jagajjyotirmalladeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājādhirājaśrījagajjotir malladevaviracito",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dvijaśrīvinodena",
+   "name": "Vinoda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ dvijaśrīvinodena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vāṇanavavasubhūmite śake caitrāsitatrayodaśyāṃ budhavāsare",
+  "era": "ŚS",
+  "year": "1895",
+  "month": "Caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1973"
+ },
+ "place": {
+  "as_written": "kāṣṭhamaṇḍape",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "hariprītyartham (for the pleasure of Hari)",
+ "notes": "The chronogram vāṇa(5) nava(9) vasu(8) bhūmi(1), read right to left, gives Śaka 1895, which is about 1973 CE. That makes this a modern copy of a text ascribed to the Bhaktapur king Jagajjyotirmalla (r. c. 1613–1637). He appears only as the author ('viracito'), not as the reigning king. The weekday (budhavāsara) has not been checked against the tithi. The catalogue gives Dhanarāja as a scribe and Bhaktapura as the place of copying, but the quoted colophon names only Vinoda, writing at Kāṣṭhamaṇḍapa (Kathmandu). Dhanarāja and Bhaktapura may come from another colophon or another part of the manuscript that was not quoted.",
+ "_meta": {
+  "reel": "A 1387/20",
+  "model": "opus",
+  "cost_usd": 0.08273,
+  "secs": 17.1
+ }
+}

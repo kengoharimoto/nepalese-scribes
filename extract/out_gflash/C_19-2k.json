@@ -1,0 +1,47 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mallaśrīmatpratāpakṣitipatitilakair / śrīkavīndrajayapratāpamallabhūpati",
+   "name": "Jayapratāpamalla",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "kavīndra",
+    "kṣitipatitilaka",
+    "bhūpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mallaśrīmatpratāpakṣitipatitilakair nirmitaṃ stotrarājaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepālasaṃvatesmin khamunigiriyute śrāvaṇe śuklapakṣe śukle vāre tithau ca pratipadavyatipāt yogayukte supuṇye aśleṣāyāṃ",
+  "era": "NS",
+  "year": "770",
+  "month": "śrāvaṇa",
+  "paksa": "śuklapakṣa",
+  "tithi": "pratipad",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "aśleṣā, vyatipāta",
+  "ce_approx": "1650"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date given (NS 770 = kha-muni-giri) is the composition date of the stotra by King Jayapratāpa Malla of Kathmandu; no separate scribe or copying date is recorded.",
+ "_meta": {
+  "reel": "C 19/2k",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 817,
+  "out_tok": 1135
+ }
+}

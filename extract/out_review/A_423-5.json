@@ -1,0 +1,66 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2: removed residence 'Prayāgarāja' — the colophon gives Prayāga only as the place of copying, not as the scribe's home",
+   "p2: 'paṃºº' read as an abbreviation of paṇḍita; Tivārī kept as a surname/caste title",
+   "date: weekday normalised to Friday (bhṛguvāsara); added a note that the pakṣa is not given",
+   "notes: added the name variants and the date caveats"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgaṇapati-",
+   "name": "Gaṇapati",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgaṇapatikṛte ratnadīpe",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "paṃºº śrītivārīgiradhārīlāla",
+   "name": "Giradhārīlāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paṇḍita",
+    "tivārī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ (!) paṃºº śrītivārīgiradhārīlāla",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "mārgaśīrṣa 9 bhṛguvāsa(4)re saṃvat 1913",
+  "era": "VS",
+  "year": "1913",
+  "month": "Mārgaśīrṣa",
+  "paksa": "",
+  "tithi": "9",
+  "weekday": "Friday (bhṛguvāsara)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1856"
+ },
+ "place": {
+  "as_written": "śubhasthānaprayāgarāja",
+  "normalized": "Prayāga (Allahabad/Prayagraj)"
+ },
+ "purpose": "",
+ "notes": "The scribe's name is written 'giradhārīlāla', a vernacular spelling of Giridhārīlāla. The catalogue's 'Grirīdhārīlāla' is a misprint. 'paṃºº' abbreviates paṇḍita. The era is not named, but 'saṃvat 1913' copied at Prayāga is Vikrama Saṃvat, so VS 1913 Mārgaśīrṣa ≈ November–December 1856 CE. The pakṣa is not stated, so '9' may be the tithi of either fortnight. The weekday has not been verified. Gaṇapati is the author of the Ratnadīpa, not someone involved in making this copy.",
+ "_meta": {
+  "reel": "A 423/5",
+  "model": "opus",
+  "cost_usd": 0.07539,
+  "secs": 15.9
+ }
+}

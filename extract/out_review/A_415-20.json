@@ -1,0 +1,84 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p3: 'dvijavara' is an honorific epithet ('best of the twice-born'), not part of the name. The personal name is lost in the lacuna, so name is now '[lacuna]' and 'dvijavara' is kept only in titles.",
+   "Place: the colophon only says the scribe lived in Lalitāpura (lalitāpuranivāsinā). It does not say where the copy was made. Kept Lalitāpura/Patan as in the catalogue, but flagged it as an inference in notes.",
+   "Notes expanded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śyāmadevasya",
+   "name": "Śyāmadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śyāmadevasya putreṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vīradevena",
+   "name": "Vīradeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Lalitāpura",
+   "evidence": "lalitāpuranivāsinā (!) | likhitaṃ vīradevena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīdvijavara(‥‥‥)sya",
+   "name": "[lacuna]",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdvijavara(‥‥‥)sya pustakam idamṃ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śyāmadevasya putreṇa ... vīradevena"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "lalitāpura",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The quoted colophon gives no date. Lalitāpura is stated only as the scribe Vīradeva's place of residence (lalitāpuranivāsinā). Taking it as the place of copying, as the catalogue does, is an inference. The owner is introduced as 'śrīdvijavara(‥‥‥)sya': 'dvijavara' is an epithet meaning 'best of brahmins', so the owner was a brahmin, but the personal name is lost in the lacuna. The final ownership note may have been added later by another hand.",
+ "_meta": {
+  "reel": "A 415/20",
+  "model": "opus",
+  "cost_usd": 0.072626,
+  "secs": 12.5
+ }
+}

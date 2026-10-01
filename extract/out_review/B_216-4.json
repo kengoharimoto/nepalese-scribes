@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Title normalized from 'josī' to 'jośī' (josina = josi + ergative -na); the catalogue's form is kept.",
+   "Weekday normalized to 'Sunday (ādityavāla)'.",
+   "Added to the notes: 'vijalakocheyā' is ambiguous. It could be a place or house name (Newari che 'house' + genitive -yā). Kept as residence/place with that caveat.",
+   "Added to the notes: 'saṃpūrṇṇayāṅā va coya dhūnakā juro' means 'completed and finished writing', so the scribe role stands."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ratnasiṃha josina",
+   "name": "Ratnasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "vijalakoche",
+   "evidence": "ratnasiṃha josina saṃpūrṇṇayāṅā va coya dhūnakā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 816 āṣāḍhaśuklatrayodaśī, pūrvvaphālguṇanakṣatra, ādityavāla",
+  "era": "NS",
+  "year": "816",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "trayodaśī",
+  "weekday": "Sunday (ādityavāla)",
+  "nakshatra_yoga": "pūrvaphālgunī",
+  "ce_approx": "1696"
+ },
+ "place": {
+  "as_written": "vijalakocheyā",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives the date as SAM 812, but the colophon reads samvat 816. The era is not named; NS is inferred from the Newari colophon, giving c. 1696 CE. 'vijalakocheyā' is unclear: it could be a locality or a house name (che 'house' + genitive -yā) where the copy was finished, so it is recorded as place/residence with low certainty.",
+ "_meta": {
+  "reel": "B 216/4",
+  "model": "opus",
+  "cost_usd": 0.068522,
+  "secs": 13.5
+ }
+}

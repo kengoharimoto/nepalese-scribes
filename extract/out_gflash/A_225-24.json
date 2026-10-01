@@ -1,0 +1,68 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī śrī sumati jayajitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śrī sumati jayajitāmitramalladevasana thva pustaka dayakā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhāgirāma",
+   "name": "Bhāgīrāma",
+   "roles": [
+    "minister",
+    "other"
+   ],
+   "titles": [
+    "paramāna"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgirāma paramānayāvelasa",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrī śrī sumati jayajitāmitramalladevasana thva pustaka dayakā, bhāgirāma paramānayāvelasa"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 810 kārtika śudi 9",
+  "era": "NS",
+  "year": "810",
+  "month": "kārtika",
+  "paksa": "śuklapakṣa",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1690"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "An earlier completion date of the exemplar or an earlier layer is given in the text: Śāke 1553 / Saṃvat 1688 Śrāvaṇa kṛṣṇa 11, Thursday (ca. 1631 CE). The catalogue identifies Bhāgīrāma as the scribe, but the Newari phrase 'bhāgirāma paramānayāvelasa' refers to the tenure of Bhāgīrāma as pramāṇa (administrative officer/magistrate).",
+ "_meta": {
+  "reel": "A 225/24",
+  "model": "gemini-flash-latest",
+  "secs": 11.2,
+  "in_tok": 872,
+  "out_tok": 2844
+ }
+}

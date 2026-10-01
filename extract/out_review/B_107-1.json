@@ -1,0 +1,64 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 role 'commissioner' removed: nothing like coyakā/likhāpita survives; 'viyā juhā' (Nwr. 'gave') suggests giving or donating, but the lacuna makes this too uncertain, so the role is 'other'",
+   "p2 name given as fragment '…siṃha' and confidence lowered to low; only the ending -siṃ survives before the genitive -yā",
+   "p1 'Ādharadhana' kept but noted that p1 and p2 may be one name split by the lacuna (e.g. Ādharadhana[…]siṃha)",
+   "place.normalized cleared: Ṅata (Nyata/Nardevi, Kathmandu) is plausible but not certain, and the phrase gives a residence rather than clearly the place of copying",
+   "tithi normalised to tṛtīyā; as_written kept"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ādharadhana",
+   "name": "Ādharadhana",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "ṅatabhucchayātor",
+   "evidence": "ṅatabhucchayātor ādharadhana ‥‥",
+   "confidence": "low"
+  },
+  {
+   "pid": "p2",
+   "as_written": "‥‥ siṃyā",
+   "name": "…siṃha",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "ṅatabhucchayātor",
+   "evidence": "‥‥ siṃyātacosyaṃ viyājuhā",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 910 phārguṇaśuklatṛtiyā buddhavāra kunhu",
+  "era": "NS",
+  "year": "910",
+  "month": "Phālguna",
+  "paksa": "śukla",
+  "tithi": "tṛtīyā",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1790"
+ },
+ "place": {
+  "as_written": "ṅatabhucchayātor",
+  "normalized": ""
+ },
+ "purpose": "\"",
+ "notes": "The Newari clause after the date is damaged: 'ṅatabhucchayā tor ādharadhana ‥‥ siṃyā tacosyaṃ viyā juhā'. It probably names someone living in the Ṅatabhuccha tol, 'ādharadhana' and a name ending in -siṃ(ha), followed by 'viyā juhā' ('gave'). 'tacosyaṃ' may be a corruption of '(ta)coyā syaṃ' ('having written'), but this is uncertain. Because of the lacuna it is unclear whether these are two persons or one name (e.g. Ādharadhana[…]siṃha), and whether the person was the scribe, the donor or the recipient, so both are recorded with role 'other' and low confidence. Ṅata is probably Nyata (Nardevi area) in Kathmandu, but this is not certain. Date: Phālguna in NS 910 falls in Feb/Mar 1790 CE; the weekday was not checked. Catalogue date NS 910 agrees.",
+ "_meta": {
+  "reel": "B 107/1",
+  "model": "opus",
+  "cost_usd": 0.100018,
+  "secs": 28.4
+ }
+}

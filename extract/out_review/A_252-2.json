@@ -1,0 +1,35 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed person p1 'Sacocakā': 'sacocakājuro' is almost certainly a garbled Newari verb phrase (cf. coyakā juro, 'had it written'; cokā / coyā = written), not a personal name. No human person is named in the colophon, so the persons list is empty.",
+   "Date: month normalised to Mārgaśīrṣa. Weekday 'aiji 3' read as the 3rd weekday, i.e. Tuesday. ce_approx 1645 is correct: NS 766 + 880, and Mārgaśīrṣa falls in Nov/Dec 1645.",
+   "Notes expanded."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 766 mārggakṛṣṇa 11 aiji 3",
+  "era": "NS",
+  "year": "766",
+  "month": "Mārgaśīrṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "3 (Tuesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1645"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue's scribe 'Sacocakā?' comes from 'sacocakājuro'. This is most likely a corrupt or misread Newari phrase, perhaps for '(sa) coyakā juro' ('was caused to be written' / 'had it copied'), and not a personal name, so no scribe can be identified. The era is not stated: 'saṃvat 766' with a Newari phrase and Newari script means Nepāla Saṃvat. 'aiji 3' is probably a weekday notation (3 = Tuesday), but the meaning of 'aiji' is unclear. The colophon also contains 'śrīkṛṣṇārppaṇam astu', which is a dedication formula and does not name a person.",
+ "_meta": {
+  "reel": "A 252/2",
+  "model": "opus",
+  "cost_usd": 0.068242,
+  "secs": 14.3
+ }
+}

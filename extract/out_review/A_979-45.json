@@ -1,0 +1,62 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 Pūrṇānandanātha: removed 'nātha' from titles (it is part of the Kaula initiatory name, kept in the name); confidence lowered to low because the teacher role is inferred only from a homage formula",
+   "date.month: Māgha kept only as a tentative reading of corrupt 'mākhaṃṇḍe'; the uncertainty is now explained in notes",
+   "notes: added the metrical analysis and the possibility that a year chronogram is hidden in the corrupt pāda"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jagaṃnāthena",
+   "name": "Jagannātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jagaṃnāthena likhitaṃ pustakaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīpurṇānaṃdanāthāya",
+   "name": "Pūrṇānandanātha",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpurṇānaṃdanāthāya namaḥ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "mākhaṃṇḍe (!) māsi site pakṣe bhṛguravāsarasaṃmite (!)",
+  "era": "none",
+  "year": "",
+  "month": "Māgha (?)",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "sādhakāptaye (for the benefit of sādhakas)",
+ "notes": "The date and scribe passage is an anuṣṭubh verse: '[mākhaṃṇḍe] māsi site pakṣe bhṛgu[ra]vāsarasaṃmite / jagaṃnāthena likhitaṃ pustakaṃ sādhakāptaye'. 'mākhaṃṇḍe' is corrupt. It may stand for Māgha, or it may be what is left of a year chronogram (bhūtasaṃkhyā). No year can be recovered, so the month is only tentative. 'bhṛguravāsara' should be read as bhṛguvāsara (Friday). Pūrṇānandanātha is named only in a homage ('namaḥ'). The -ānandanātha initiatory name in a Śrīvidyā text suggests he was the scribe's guru, but the colophon does not say so. He could also be a lineage figure, and possibly the well-known Tantric author Pūrṇānanda.",
+ "_meta": {
+  "reel": "A 979/45",
+  "model": "opus",
+  "cost_usd": 0.063887,
+  "secs": 18.0
+ }
+}

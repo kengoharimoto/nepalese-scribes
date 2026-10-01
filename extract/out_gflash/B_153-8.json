@@ -1,0 +1,112 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgopālāśrama",
+   "name": "Gopālāśrama",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatparamahaṃsaparivrājakācāryyaśrīgopālāśramaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rājadaivajñabṛṣabhadhvajana",
+   "name": "Bṛṣabhadhvaja",
+   "roles": [
+    "scribe",
+    "donor"
+   ],
+   "titles": [
+    "rājadaivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svahastākṣaraṇa(!) rājadaivajñabṛṣabhadhvajana duntā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīmanohara uādhyā bhājuyāta",
+   "name": "Manohara",
+   "roles": [
+    "teacher",
+    "beneficiary"
+   ],
+   "titles": [
+    "upādhyāya",
+    "bhāju",
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanohara uādhyā bhājuyāta śrīgurudevatāprītina thva sāradātilakayā ṭīkā, svahastākṣaraṇa(!) rājadaivajñabṛṣabhadhvajana duntā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "bhūpālendramahīpa-",
+   "name": "Bhūpālendra",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahīpa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhūpālendramahīpakoṭimukuṭais(!) pūjyāṃghripaṅkeruha-",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p3",
+   "evidence": "gurave prādād imaṃ pustakīṃ"
+  },
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "śrīmanohara uādhyā bhājuyāta śrīgurudevatāprītina thva sāradātilakayā ṭīkā, svahastākṣaraṇa(!) rājadaivajñabṛṣabhadhvajana duntā juro"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p4",
+   "evidence": "bhūpālendramahīpa"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 812 śrāvaṇaśuklasaptamī citrā nakṣatra siddhiyoga āditavāra",
+  "era": "NS",
+  "year": "812",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "saptamī",
+  "weekday": "āditavāra",
+  "nakshatra_yoga": "citrā, siddhi",
+  "ce_approx": "1692"
+ },
+ "place": {
+  "as_written": "naimipāle",
+  "normalized": ""
+ },
+ "purpose": "śrīgurudevatāprīti, given to guru Manohara Upādhyāya",
+ "notes": "The chronogram in the verse gives the date as kara (2) - śaśi (1) - vasu (8) = NS 812, repeated explicitly in numerals in the Newari portion. King Bhūpālendra Malla of Kathmandu reigned 1687–1700 CE.",
+ "_meta": {
+  "reel": "B 153/8",
+  "model": "gemini-flash-latest",
+  "secs": 11.4,
+  "in_tok": 1075,
+  "out_tok": 3720
+ }
+}

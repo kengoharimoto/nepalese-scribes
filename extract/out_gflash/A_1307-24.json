@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kālidāsena",
+   "name": "Kālidāsa",
+   "roles": [
+    "scribe",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tantraṃ kālidāsena saṃcitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 743 thvadaṃ",
+  "era": "NS",
+  "year": "743",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1623"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrī 3 bhavānīśaṃkaraprīti na (!) umeśa prītaye",
+ "notes": "Bhavānīśaṃkara and Umeśa refer to deities (Bhavānī-Śaṅkara and Śiva/Umeśa) for whose pleasure the text was collected/copied.",
+ "_meta": {
+  "reel": "A 1307/24",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 721,
+  "out_tok": 1182
+ }
+}

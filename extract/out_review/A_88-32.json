@@ -1,0 +1,66 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Rāmakṛṣṇa (rāmakṛṣṇajī) made the probable scribe, at medium confidence. In this kind of colophon (likhitaṃ + caste descriptors + name), the personal name normally comes last, after the descriptors brāhmaṇa gujarāti modacāturvedī.",
+   "riṣijī lowered from scribe/high to 'other'/low. It may be an honorific (ṛṣijī) for the same scribe, or a separate person such as the father. The colophon does not say which.",
+   "Titles and affiliation moved to Rāmakṛṣṇa. 'Gujarati' is treated as a community designation, not a stated residence, so the residence field is cleared.",
+   "Notes rewritten to explain the ambiguity and the conflict with the catalogue's Scribe field."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmakṛṣṇajī",
+   "name": "Rāmakṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa",
+    "Moḍha Cāturvedī"
+   ],
+   "affiliation": "Gujarātī Moḍha Cāturvedī brāhmaṇa",
+   "residence": "",
+   "evidence": "likhitaṃ riṣijī brāhmaṇa gujarāti modacāturvedī rāmakṛṣṇajī",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "riṣijī",
+   "name": "Ṛṣi",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ riṣijī",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The scribal statement 'likhitaṃ riṣijī brāhmaṇa gujarāti modacāturvedī rāmakṛṣṇajī' has no case endings or kinship words. Rāmakṛṣṇa is taken as the scribe because the personal name usually closes the run of caste descriptors (Gujarati Moḍha (Modh) Cāturvedī brahmin; 'moda' is read as moḍha). 'riṣijī' (= ṛṣijī) could be an honorific for that same scribe or a separate person, for example the father. If it is the same person, merge p2 into p1. The catalogue's Scribe field leaves out rāmakṛṣṇajī, so it may have truncated the name. The manuscript is undated. The colophon calls the text chaṃdogyabrāhmaṇa, ending with the 10th prapāṭhaka. A Gujarati scribe suggests the copy was made outside Nepal.",
+ "_meta": {
+  "reel": "A 88/32",
+  "model": "opus",
+  "cost_usd": 0.085026,
+  "secs": 20.1
+ }
+}

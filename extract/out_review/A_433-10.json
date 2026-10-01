@@ -1,0 +1,78 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: name reduced to 'Kavara' (stem); 'sipāḍe' moved to titles as an uncertain caste/office element (possibly Pāṇḍe or sipāhī); confidence lowered to low",
+   "p1: residence normalised to 'Mahibola' and evidence extended to include 'mahibolasthāne vāstavya'",
+   "p2: confidence kept high; roles king + beneficiary confirmed (pāṭhārtha means 'for his reading')",
+   "date: year field set to '1482' with era ŚS; VS 1617 recorded in notes; both eras agree (1560 CE)",
+   "date: tithi/nakṣatra normalised (dvādaśī, Uttarabhādrapadā)",
+   "place: kept 'mahibolasthāne' as the only locality, but noted that it is given as the scribe's residence",
+   "purpose rephrased"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sipāḍe kavara",
+   "name": "Kavara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sipāḍe (Pāṇḍe? / sipāhī?)"
+   ],
+   "affiliation": "",
+   "residence": "Mahibola",
+   "evidence": "mahibolasthāne vāstavya ||| sipāḍe kavara liṣitaṃ pustakaṃ",
+   "confidence": "low"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sirājā indrase(10)ṇa",
+   "name": "Indrasena",
+   "roles": [
+    "king",
+    "beneficiary"
+   ],
+   "titles": [
+    "rājā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sirājā indrase(10)ṇapāṭhārtho (!) liṣitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "sirājā indrase(10)ṇapāṭhārtho (!) liṣitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "sisāke 1482 saṃvat 1617 (8) samaya kārtikasūdi dvādasāṃ tithau || utrabhādravā nakṣatre",
+  "era": "ŚS",
+  "year": "1482",
+  "month": "Kārttika",
+  "paksa": "śukla",
+  "tithi": "dvādaśī (12)",
+  "weekday": "",
+  "nakshatra_yoga": "Uttarabhādrapadā (utrabhādravā)",
+  "ce_approx": "1560"
+ },
+ "place": {
+  "as_written": "mahibolasthāne",
+  "normalized": ""
+ },
+ "purpose": "for the reading (pāṭhārtha) of Rājā Indrasena",
+ "notes": "The colophon gives two dates, Śaka 1482 ('sisāke' = śrīśāke) and VS 1617 ('saṃvat'). They agree: both fall in 1560 CE (Kārttika śukla 12 ≈ Oct/Nov 1560). Kārttika śukla 12 with the moon in Uttarabhādrapadā is astronomically plausible. The scribe's name is unclear. 'sipāḍe kavara' could be a corruption of 'Pāṇḍe Kaṃvara/Kuṃvara', as the cataloguer suggests, or 'sipāḍe' could be an occupational title such as sipāhī ('soldier'). Mahibola is given as the scribe's place of residence (vāstavya). It is not explicitly the place of copying, and it has not been identified. Indrasena is presumably a Sena ruler (Makwanpur/Palpa line), but he is not identified beyond the colophon. The phrase 'vivāha rocaya sarvagraṃtha ‥ bhāvasamucayapātha samāpata' seems to refer to other texts in the same codex and contains no further persons.",
+ "_meta": {
+  "reel": "A 433/10",
+  "model": "opus",
+  "cost_usd": 0.088954,
+  "secs": 19.8
+ }
+}

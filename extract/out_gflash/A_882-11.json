@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gajiṃdrale",
+   "name": "Gajindra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gajiṃdrale ... sāriliyāko ho",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "budhasiṃbhaiyākā",
+   "name": "Budhasiṃha",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "bhaiyā"
+   ],
+   "affiliation": "",
+   "residence": "Paṭanā",
+   "evidence": "paṭanākā budhasiṃbhaiyākā pustakabāṭa sāriliyāko ho",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "other",
+   "to": "p2",
+   "evidence": "gajiṃdrale paṭanākā budhasiṃbhaiyākā pustakabāṭa sāriliyāko ho"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1720 samvat 1855 nepālasamvat 918 sāla śrāvanādhikaśukla 11 somavāsare, anurādhānakṣatre brahmayoge",
+  "era": "ŚS",
+  "year": "1720 (ŚS) / 1855 (VS) / 918 (NS)",
+  "month": "śrāvaṇa (adhika)",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "somavāsara",
+  "nakshatra_yoga": "anurādhā, brahma",
+  "ce_approx": "1798"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon is in Nepali: 'gajiṃdrale paṭanākā budhasiṃbhaiyākā pustakabāṭa sāriliyāko ho' ('Gajīndra copied [this] from the book of Budhasiṃhabhaiyā of Paṭanā'). Budhasiṃha was the owner of the exemplar rather than the donor of the current manuscript.",
+ "_meta": {
+  "reel": "A 882/11",
+  "model": "gemini-flash-latest",
+  "secs": 9.4,
+  "in_tok": 969,
+  "out_tok": 2469
+ }
+}

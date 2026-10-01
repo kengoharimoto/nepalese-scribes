@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devadatto",
+   "name": "Devadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devadattovyalīlikhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "netrāṃkasaptabhūśāke mārgakṛṣṇaguhe ravau",
+  "era": "ŚS",
+  "year": "1792",
+  "month": "Mārgaśīrṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "6",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1870"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīkṛṣṇārpaṇam astu",
+ "notes": "Chronogram netra-aṅka-sapta-bhū = 1792 Śaka. Guha signifies the 6th tithi (ṣaṣṭhī).",
+ "_meta": {
+  "reel": "A 329/12",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 732,
+  "out_tok": 811
+ }
+}

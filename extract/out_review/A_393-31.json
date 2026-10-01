@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name normalized from 'Śrīkṛṣṇa' to 'Kṛṣṇa' (honorific śrī removed; bhaṭṭa kept in titles)",
+   "notes expanded: the Newari phrase gives the completion date of this copy; the scribe is not named; corrupt forms noted"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmahopādhyāyaśrīkṛṣṇabhaṭṭe(!)",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāyaśrīkṛṣṇabhaṭṭe(!) viracitāyāṃ raghudīpikāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 809 vaiśākhaśukla,navamī, bṛhaspativāra, || thva kunhu saṃpūrṇṇayā ṅā dina",
+  "era": "NS",
+  "year": "809",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "navamī",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1689"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The catalogue gives Śrīkṛṣṇabhaṭṭa as scribe, but the colophon names him only as the composer of the commentary: 'viracitāyāṃ raghudīpikāyāṃ'. 'bhaṭṭe(!)' is probably an error for 'bhaṭṭena'. The scribe of this copy is not named. The era is not stated. NS is assumed because the script is Newari and the date phrase is in Newari ('thva kunhu saṃpūrṇṇayā ṅā dina', 'completed on this day'). This dates the completion of this copy: NS 809 = c. 1689 CE. The weekday was not checked against the tithi. 'sandehaviauṣadhyāṃ' is corrupt, probably for 'sandehaviṣauṣadhyāṃ'. The sarga number 'ekonaviṃśatiḥ' should be 'ekonaviṃśaḥ'.",
+ "_meta": {
+  "reel": "A 393/31",
+  "model": "opus",
+  "cost_usd": 0.074686,
+  "secs": 14.5
+ }
+}

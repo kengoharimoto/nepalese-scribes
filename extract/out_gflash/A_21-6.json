@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "kulaputraśikṣārthanimitena",
+ "notes": "The scribe refers to themselves in the first person (likhāmy aham) without giving a name. The text was copied for the instruction of noble youths (kulaputraśikṣārthanimitena).",
+ "_meta": {
+  "reel": "A 21/6",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 698,
+  "out_tok": 443
+ }
+}

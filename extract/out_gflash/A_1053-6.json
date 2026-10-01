@@ -1,0 +1,96 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmatpiṃgalanāga",
+   "name": "Piṅgalanāga",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatpiṃgalanāgakṛtaṃ piṃgalaṃ saṃpūrṇam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nīlagrīvamahīsura",
+   "name": "Nīlagrīva",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [
+    "mahīsura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nīlagrīvamahīsurārtha[[m a]]likhan",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "nanda",
+   "name": "Nanda",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nandāgrarāṃto",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "ruciḥ",
+   "name": "Ruci",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "alikhan nandāgrarāṃto ruciḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p4",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "nīlagrīvamahīsurārtha[[m a]]likhan"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "nandāgrarāṃto ruciḥ"
+  }
+ ],
+ "date": {
+  "as_written": "munihastināgadharaṇīsamvatsare vaikrame caitre māsi ca pūrṇimātithiyute vāre śaśāṅke",
+  "era": "VS",
+  "year": "1887",
+  "month": "Caitra",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1830"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "For the brāhmaṇa Nīlagrīva (nīlagrīvamahīsurārtham)",
+ "notes": "The chronogram 'munihastināgadharaṇī' gives muni (7), hasti (8), nāga (8), dharaṇī (1) = VS 1887. The metrical text in Śārdūlavikrīḍita reads 'nandāgrarāṃto ruciḥ', which is almost certainly an error/misreading for 'nandāgrajāto ruciḥ' ('Ruci, the eldest son of Nanda').",
+ "_meta": {
+  "reel": "A 1053/6",
+  "model": "gemini-flash-latest",
+  "secs": 16.0,
+  "in_tok": 772,
+  "out_tok": 3595
+ }
+}

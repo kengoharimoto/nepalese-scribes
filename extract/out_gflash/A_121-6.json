@@ -1,0 +1,88 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "minindrabhadra",
+   "name": "Minindrabhadra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Brahmacakramahāvihāra",
+   "residence": "",
+   "evidence": "śrīvajrācārya minindrabhadrakatmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "pūrṇabhadramini",
+   "name": "Pūrṇabhadramuni",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya",
+    "muni"
+   ],
+   "affiliation": "Brahmacakramahāvihāra",
+   "residence": "",
+   "evidence": "pūrṇabhadramini coyā coṃgu siddha majuyakaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "cakraratnamunina",
+   "name": "Cakraratnamuni",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "muni"
+   ],
+   "affiliation": "Brahmacakramahāvihāra",
+   "residence": "",
+   "evidence": "tasyātmaja cakraratnamunina siddhayānā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "minindrabhadrakatmaja"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "tasyātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1012 caitramāse śuklapakṣe dasami(!) tiṣyanakṣatra(!), dhṛtiyoga, buddhavāra",
+  "era": "NS",
+  "year": "1012",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "dasamī (10)",
+  "weekday": "buddhavāra",
+  "nakshatra_yoga": "tiṣya, dhṛti",
+  "ce_approx": "1892"
+ },
+ "place": {
+  "as_written": "brahmacakramahāvihāra",
+  "normalized": ""
+ },
+ "purpose": "putrapautrayāta coyā jula (for sons and grandsons)",
+ "notes": "Pūrṇabhadramuni began the copying but died on NS 1011 Āṣāḍha amāvāsyā before finishing; his son Cakraratnamuni completed it in NS 1012.",
+ "_meta": {
+  "reel": "A 121/6",
+  "model": "gemini-flash-latest",
+  "secs": 7.9,
+  "in_tok": 976,
+  "out_tok": 2111
+ }
+}

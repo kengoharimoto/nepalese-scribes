@@ -1,0 +1,85 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājādhirāja śrīmadanantamalladevasya",
+   "name": "Anantamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājādhirāja śrīmadanantamalladevasya vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmatparamasevācāryasya",
+   "name": "Paramaseva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatparamasevācāryasya putra",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "paśupatidāsena",
+   "name": "Paśupatidāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paśupatidāsena likhitamida pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīmatparamasevācāryasya putra paśupatidāsena"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "rājādhirāja śrīmadanantamalladevasya vijayarājye || śrīmatparamasevācāryasya putra paśupatidāsena likhitamida pustakaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "śrīman nepālika samvatsara 406 mārgaśīṛṣaktaghna . ekādaśyāṃ tithau | śaniścaravāsare | svāti nakṣatre | śobhana yoge",
+  "era": "NS",
+  "year": "406",
+  "month": "Mārgaśīrṣa",
+  "paksa": "",
+  "tithi": "ekādaśī",
+  "weekday": "śaniścaravāsara",
+  "nakshatra_yoga": "svāti nakṣatre | śobhana yoge",
+  "ce_approx": "1285"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records 'VS 1980' as the date of copying, but the colophon explicitly states 'śrīman nepālika samvatsara 406' during the reign of King Anantamalladeva (c. 1285 CE). The pakṣa reading 'ktaghna' is corrupt.",
+ "_meta": {
+  "reel": "B 520/4a",
+  "model": "gemini-flash-latest",
+  "secs": 10.3,
+  "in_tok": 928,
+  "out_tok": 2503
+ }
+}

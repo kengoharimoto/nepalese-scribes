@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Tithi normalized to dvādaśī (12) instead of the uncorrected spelling 'dvāṣi'.",
+   "ce_approx changed from 1866 to 1867. VS 1923 minus 57 gives 1866, but Pauṣa śukla falls in December/January, and by an approximate reckoning Pauṣa śukla 12 of VS 1923 falls around mid-January 1867.",
+   "Notes expanded to cover the era and the date reckoning."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "harikṛṣṇadāsa",
+   "name": "Harikṛṣṇadāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "harikṛṣṇadāsa (!) likhete (!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃmata (!) u 1923 miti puṣyasudi (!) dvāṣi (!)",
+  "era": "VS",
+  "year": "1923",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "dvādaśī (12)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1867"
+ },
+ "place": {
+  "as_written": "prāyāgamadhye",
+  "normalized": "Prayāga (Allahabad/Prayagraj)"
+ },
+ "purpose": "",
+ "notes": "'saṃmata u' is a corrupt spelling of saṃvat. The era is not named. It is taken as Vikrama because the copy was made at Prayāga in a Hindi-style colophon ('miti', 'sudi'). Read as NS, 1923 would be impossible. 'dvāṣi' is a vernacular or corrupt form of dvādaśī. The plain conversion VS 1923 − 57 = 1866. However, Pauṣa śukla 12 of VS 1923 falls about mid-January 1867 (rough estimate, not checked with a pañcāṅga), so 1866/67 is possible. 'likhete' stands for likhitaṃ.",
+ "_meta": {
+  "reel": "B 82/11",
+  "model": "opus",
+  "cost_usd": 0.075926,
+  "secs": 17.9
+ }
+}

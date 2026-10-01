@@ -1,0 +1,72 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Added p2 Ghṛṇin (teacher, low confidence) from the verse 'hitājñayā śrīghṛṇino gurur vai', read as 'guror'; added the relation p1 pupil_of p2",
+   "Normalized the month to Vaiśākha (written vaiśāṣe) and the weekday to Bhaumavāra (Tuesday)",
+   "Noted that the verse name 'lulokanyugāthaḥ' is a corruption of lokanāthaḥ, and that the year is presumably expired (gata) Śaka",
+   "Kept the scribe Lokanātha, the date ŚS 1767 = c. 1845 CE and the place"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "lokanātha(9)sarmaṇā",
+   "name": "Lokanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "campākoṭākhya grāme vāgmatyāḥ samīpe, north of Garuḍanārāyaṇa",
+   "evidence": "lokanātha(9)sarmaṇā kovidālpena liṣitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīghṛṇino",
+   "name": "Ghṛṇin",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "hitājñayā śrīghṛṇino gurur vai",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "hitājñayā śrīghṛṇino gurur vai lulokanyugāthaḥ samālikhadvai"
+  }
+ ],
+ "date": {
+  "as_written": "śake 1767 vaiśāṣe māsi aṣṭamyāṃ tithau śravaṇanakṣatre śubhe yoge bhaumāvāre (!)",
+  "era": "ŚS",
+  "year": "1767",
+  "month": "Vaiśākha",
+  "paksa": "",
+  "tithi": "aṣṭamī",
+  "weekday": "Bhaumavāra (Tuesday)",
+  "nakshatra_yoga": "Śravaṇa nakṣatra; Śubha yoga",
+  "ce_approx": "1845"
+ },
+ "place": {
+  "as_written": "garuḍanārāyaṇād uttarasyāṃ diśi campākoṭākhya grāme vāgmatyāḥ samīpe",
+  "normalized": ""
+ },
+ "purpose": "Copied at the order of his guru (hitājñayā … guror); a request that learned grammarians correct it",
+ "notes": "The verse is corrupt. 'hitājñayā śrīghṛṇino gurur vai lulokanyugāthaḥ samālikhadvai' probably stands for 'hitājñayā śrīghṛṇino guror vai lokanāthaḥ samālikhad vai': Lokanātha wrote it at the order of his guru, (Śrī) Ghṛṇin. The teacher's name is uncertain, since ghṛṇi- could also be a corrupt epithet. 'tyaktaś ca hyunānayugaiḥ' is unclear and may hide a further chronogram or the scribe's age. The scribe calls himself young and 16 years old (yunā … ṣoḍaśavarṣeṇa), 'kovidālpa', and born of a good lineage (ābrahmaparyanta sadvaṃśotpanna). The paksa is not stated. ŚS 1767 + 78 = c. 1845 CE (Vaiśākha falls in April–May 1845 if the year is expired). Caṃpākoṭa village lies north of Garuḍanārāyaṇa (Changu Narayan?) near the Bāgmatī. It is not securely identified, so it is left unnormalized.",
+ "_meta": {
+  "reel": "A 393/9",
+  "model": "opus",
+  "cost_usd": 0.089954,
+  "secs": 21.6
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jaya bhūpatīndramalladevasana",
+   "name": "Bhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrī jaya bhūpatīndramalladevasana cukacākasa deva pratiṣṭhā siddhāgni a(6)yutāhuti yajña yāṅāyā thva sāphuli",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 825 bhādrapada śukla da(7)śami mūlanakṣatra śanaiścaravārakvahnu",
+  "era": "NS",
+  "year": "825",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "śanaiścaravāra",
+  "nakshatra_yoga": "mūlanakṣatra",
+  "ce_approx": "1705"
+ },
+ "place": {
+  "as_written": "cukacākasa",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "deva pratiṣṭhā siddhāgni ayutāhuti yajña yāṅāyā",
+ "notes": "cukacākasa refers to a small courtyard/quadrangle (Newari: cukacā) in the royal palace complex of Bhaktapur where King Bhūpatīndra Malla performed the ayutāhuti yajña and deity consecration.",
+ "_meta": {
+  "reel": "A 1230/23",
+  "model": "gemini-flash-latest",
+  "secs": 10.2,
+  "in_tok": 789,
+  "out_tok": 1420
+ }
+}

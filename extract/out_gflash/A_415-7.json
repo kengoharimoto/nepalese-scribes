@@ -1,0 +1,100 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīpāda",
+   "name": "Śrīpāda",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpādatanūja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīrāmacandra",
+   "name": "Rāmacandra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "jyotirvittilaka"
+   ],
+   "affiliation": "dākṣiṇātya mahārāṣṭrajātīya",
+   "residence": "",
+   "evidence": "śrīrāmacandraracito",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "duṃḍhirāja",
+   "name": "Duṃḍhirāja",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "duṃḍhirājasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīkṛṣṇaśarmaṇā",
+   "name": "Śrīkṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "tāre sadman",
+   "evidence": "śrīkṛṣṇaśarmaṇā likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīpādatanūja"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "duṃḍhirājasuta"
+  }
+ ],
+ "date": {
+  "as_written": "śrīvikramārka saṃvat || 1952 || || śālivāhana śake || 1817 || plavaṃgābve || bhādrapadakṛṣṇe || 9 || budhe",
+  "era": "VS",
+  "year": "1952",
+  "month": "Bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1895"
+ },
+ "place": {
+  "as_written": "brahmaghaṭṭe",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "svārthaṃ paropakārārthañ ca",
+ "notes": "The colophon also mentions Śaka 1817. A later scribal or reader's note at the end adds: 'saṃ 1957 āṣāḍha śuºº 1 guºº kāśī'.",
+ "_meta": {
+  "reel": "A 415/7",
+  "model": "gemini-flash-latest",
+  "secs": 7.2,
+  "in_tok": 892,
+  "out_tok": 1982
+ }
+}

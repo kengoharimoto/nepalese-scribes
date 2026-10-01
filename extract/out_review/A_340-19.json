@@ -1,0 +1,80 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p3: name stem reduced to 'Rāghava' (śarman kept only in titles); role 'other' kept and clarified as the person cited for the Siddhāntarahasya figure, probably Rāghavānanda Śarman, the Gauḍa author of that work, not the scribe of this copy; confidence lowered to medium",
+   "p2: title normalized to 'jyotirvid' (written 'jotirvidā')",
+   "date: weekday given as Thursday (gurau); ce_approx given as 1721 (Pauṣa ŚS 1643 falls in Dec 1721 to Jan 1722)",
+   "notes: added the ambiguity of 'śrīgaṃgāsāgarārppaṇam astu', the uncertain place reading and the svārtha/parārtha ownership question"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śatānaṃda",
+   "name": "Śatānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śatānaṃdaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīgoviṃdajotirvidā",
+   "name": "Govinda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgoviṃdajotirvidā likhitaṃ svārthaṃ parārthaṃ ca",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīrāghavaśarmaṇā",
+   "name": "Rāghava",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gauḍagraṃthe siddhāṃtarahasye ... śrīrāghavaśarmaṇā likhitam asti",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śake 1643 pauṣe māse śukle 7 gurau",
+  "era": "ŚS",
+  "year": "1643",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "Thursday (gurau)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1721"
+ },
+ "place": {
+  "as_written": "drugulyāṃ",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthaṃ ca (for the scribe's own use and for others)",
+ "notes": "The catalogue lists Rāghava Śarmā as the scribe, which is wrong. The colophon names Govinda Jyotirvid as the scribe of this copy. Rāghava Śarman is cited for a deśāntara value of 205 yojanas in the Gauḍa work Siddhāntarahasya ('śrīrāghavaśarmaṇā likhitam asti tenātrāsmābhir likhitaṃ'). He is probably Rāghavānanda Śarman, the Bengali author of the Siddhāntarahasya, so he is the source of a cited figure, not someone involved in making this copy. 'svārthaṃ parārthaṃ ca' could imply Govinda also owned the copy, but because it is for others as well, owner was not added. 'śrīgaṃgāsāgarārppaṇam astu' ('may it be offered to Gaṅgāsāgara') is ambiguous: it could refer to the pilgrimage site or deity, or to a person named Gaṅgāsāgara. No person was recorded for it. The place 'drugulyāṃ' was put in parentheses by the cataloguer, so the reading is uncertain, and it cannot be identified. CE: Pauṣa śukla 7 of ŚS 1643 falls around late Dec 1721 or early Jan 1722, and the weekday has not been checked. The numbers after the colophon (deśāntara 2135, prabhā 5/10 or 5/8) are the scribe's astronomical notes.",
+ "_meta": {
+  "reel": "A 340/19",
+  "model": "opus",
+  "cost_usd": 0.098114,
+  "secs": 22.8
+ }
+}

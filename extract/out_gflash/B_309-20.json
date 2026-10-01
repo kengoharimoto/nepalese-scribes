@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkālidāsakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kolācalamallināthasūrī",
+   "name": "Mallinātha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "mahopādhyāya",
+    "sūri"
+   ],
+   "affiliation": "Kolācala",
+   "residence": "",
+   "evidence": "śrīmanmahopādhyāya kolācalamallināthasūrīviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1943 śake 1808",
+  "era": "VS",
+  "year": "1943 (ŚS 1808)",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1886"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue record has 'SAM 1931 ŚṢ 1808', but the colophon clearly reads 'saṃvat 1943 śake 1808'. The difference between VS 1943 and Śake 1808 is exactly 135 years, corresponding to 1886 CE.",
+ "_meta": {
+  "reel": "B 309/20",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 776,
+  "out_tok": 1318
+ }
+}

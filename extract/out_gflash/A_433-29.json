@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bṛhaspati",
+   "name": "Bṛhaspati",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bṛhaspativiracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1781 śrīsaṃvat 1916 sāla miti vaiśāṣa (!) śudi11 roja || 5 ||",
+  "era": "VS",
+  "year": "1916",
+  "month": "vaiśāṣa",
+  "paksa": "śuklapakṣa",
+  "tithi": "11",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1859"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue accidentally enters the date ('ŚS 1781 VS 1916') into the 'Place of Copying' field. Both Śāke 1781 and Vikrama Saṃvat 1916 are given in the colophon; roja 5 (Thursday) 11 Vaiśākha śuklapakṣa corresponds to 12 May 1859 CE.",
+ "_meta": {
+  "reel": "A 433/29",
+  "model": "gemini-flash-latest",
+  "secs": 8.7,
+  "in_tok": 728,
+  "out_tok": 1860
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed p1 'Bṛhaspati' as scribe: 'guruvāre vṛhasyapati' is most naturally the weekday given twice (guruvāra = bṛhaspativāra, Thursday). It is not a personal name, and the colophon names no scribe. The catalogue's 'Scribe: Bṛhaspati' looks like a misreading, recorded in notes.",
+   "Weekday given as 'guruvāra (= bṛhaspati[vāra])'.",
+   "Corrected the note on 'kaṣṭasuṃ likhitaṃ': 'suṃ' is the Hindi/Rajasthani postposition 'sũ' ('with'), so the phrase means 'written with difficulty'. It is not a corruption of 'kaṣṭena'."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat || 1689 || liṣyataṃ kārttika vadi paṃcami (!) || guruvāre vṛhasyapati (!)",
+  "era": "VS",
+  "year": "1689",
+  "month": "kārttika",
+  "paksa": "vadi (kṛṣṇa)",
+  "tithi": "pañcamī",
+  "weekday": "guruvāra (= bṛhaspati[vāra], Thursday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1632"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists 'Bṛhaspati' as scribe, but in the colophon 'vṛhasyapati (!)' comes right after 'guruvāre'. It is almost certainly the same Thursday given again as bṛhaspati(vāra), not a scribe's name. If it were a scribe's name, the attribution would be low confidence. 'Saṃvat' in a Devanagari MS with the Hindi-type phrasing 'liṣyataṃ' and 'kaṣṭasuṃ likhitaṃ' ('written with difficulty') suggests VS, so 1689 VS ≈ 1632 CE. The weekday has not been verified.",
+ "_meta": {
+  "reel": "A 1029/16",
+  "model": "opus",
+  "cost_usd": 0.070238,
+  "secs": 14.4
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvināyaka[śa]rma",
+   "name": "Vināyaka",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvināyaka[śa]rmaviracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Followed by a standard scribal apology verse without naming the scribe or date.",
+ "_meta": {
+  "reel": "B 114/14",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 711,
+  "out_tok": 787
+ }
+}

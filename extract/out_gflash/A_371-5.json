@@ -1,0 +1,120 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīraṃgarājādhvarīṃdravarada",
+   "name": "Raṅgarājādhvarīndra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "adhvarīndra"
+   ],
+   "affiliation": "Bharadvāja gotra",
+   "residence": "",
+   "evidence": "śrībharadvājakulajaladhikaustubha śrīraṃgarājādhvarīṃdravaradasūnor",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "apyadīkṣitasya",
+   "name": "Appayadīkṣita",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "advaitavidyācārya",
+   "residence": "",
+   "evidence": "apyadīkṣitasya kṛtiḥ kuvalayānaṃdaḥ samāptaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīvālakṛṣṇadaivajña",
+   "name": "Bālakṛṣṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvālakṛṣṇadaivajñātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "suṃdareṇa",
+   "name": "Sundara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ kuvalayānaṃdapustakaṃ śrīvālakṛṣṇadaivajñātmaja suṃdareṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "tāropa(7)nāmaka gaṃgārāmāya",
+   "name": "Gaṅgārāma",
+   "roles": [
+    "beneficiary",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tāropa(7)nāmaka gaṃgārāmāya likhitvā dattaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīraṃgarājādhvarīṃdravaradasūnor apyadīkṣitasya"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "śrīvālakṛṣṇadaivajñātmaja suṃdareṇa"
+  },
+  {
+   "from": "p4",
+   "type": "wrote_for",
+   "to": "p5",
+   "evidence": "tāropa(7)nāmaka gaṃgārāmāya likhitvā dattaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1755 śake 1610 jyeṣṭha śuddha 1 some",
+  "era": "VS",
+  "year": "1755",
+  "month": "jyeṣṭha",
+  "paksa": "śuddha",
+  "tithi": "1",
+  "weekday": "some",
+  "nakshatra_yoga": "",
+  "ce_approx": "1698"
+ },
+ "place": {
+  "as_written": "avimukttavārāṇasīkṣetre",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "tāropanāmaka gaṃgārāmāya likhitvā dattaṃ tena śrīkṛṣṇārpaṇam astu",
+ "notes": "The colophon text reads 'śake 1610' whereas the catalogue entry lists 'ŚS 1620'. VS 1755 corresponds to Śaka 1620 (1698 CE). Gaṅgārāma is identified by the Marathi/Deccani surname (upanāman) Tāre ('tāropanāmaka').",
+ "_meta": {
+  "reel": "A 371/5",
+  "model": "gemini-flash-latest",
+  "secs": 10.8,
+  "in_tok": 885,
+  "out_tok": 2942
+ }
+}

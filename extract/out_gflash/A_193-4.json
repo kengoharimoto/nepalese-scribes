@@ -1,0 +1,89 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "lakṣmaṇācārya",
+   "name": "Lakṣmaṇācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīlakṣmaṇācāryaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dvījo- gaṃgāviṣṇur",
+   "name": "Gaṅgāviṣṇu",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvījo- gaṃgāviṣṇur alīlikhan",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "trivikrama",
+   "name": "Trivikrama",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "rājā",
+    "nṛpavara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "trivikramasyottamavaṃśajasya rājño manorañjanakaṃ supustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "dvījo- gaṃgāviṣṇur alīlikhan nṛpavarājñāgauravas tatparaḥ | trivikramasyottamavaṃśajasya rājño manorañjanakaṃ"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "harannārttiṃ nṛpavaro jayatāṃ vai trivikramaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke dvijarājasaptarasabhūyukte nabhomāsya ha kṛṣṇe karkagate ravau prathamabhadrāyāṃ tithau gīḥ(!)patau",
+  "era": "ŚS",
+  "year": "1671",
+  "month": "Śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "prathamabhadrā (dvitīyā)",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1749"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "rājño manorañjanakaṃ",
+ "notes": "Year 1671 is expressed via the chronogram dvijarāja (1) - sapta (7) - rasa (6) - bhū (1). King Trivikrama is identified in catalogue metadata as Trivikrama Sena (of the Sena dynasty of Tanahun/Makwanpur/Palpa).",
+ "_meta": {
+  "reel": "A 193/4",
+  "model": "gemini-flash-latest",
+  "secs": 9.7,
+  "in_tok": 1036,
+  "out_tok": 2661
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Rāmacandra: removed 'commissioner' (no likhāpitam/lekhayāmāsa; only '-arthaṃ'); roles now beneficiary + owner; confidence lowered to medium for the owner inference",
+   "purpose rephrased as 'for Rāmacandra' instead of the raw Sanskrit form",
+   "date.paksa normalised note: śuddha = śukla; added note on the one-year VS/ŚS discrepancy"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmacaṃdrārthaṃ",
+   "name": "Rāmacandra",
+   "roles": [
+    "beneficiary",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ rāmacaṃdrārthaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1725 śake 1589 āṣāḍha śuddha 11 śanau",
+  "era": "VS",
+  "year": "1725",
+  "month": "āṣāḍha",
+  "paksa": "śuddha (śukla)",
+  "tithi": "11",
+  "weekday": "śanau (Saturday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1668"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for Rāmacandra (rāmacaṃdrārthaṃ)",
+ "notes": "The catalogue names Rāmacandra as the scribe. But 'likhitaṃ rāmacaṃdrārthaṃ' means 'written for Rāmacandra', so he is the person the copy was made for, not the scribe. The scribe is not named. The colophon does not say that Rāmacandra had the copy made (no likhāpitam), so he is not recorded as commissioner. Calling him owner is an inference from the copy being made for him. The colophon gives two eras: VS 1725 → 1668 CE, but ŚS 1589 → 1667 CE. The usual offset is VS − 135 = ŚS, which gives ŚS 1590 for VS 1725. The one-year gap probably comes from mixing current and expired years. Read that way, both dates point to about June/July 1667, though 1668 is also possible. The weekday has not been checked. 'śuddha' for the bright half of the month and the śake reckoning point to a western or Deccani (Marathi-area) scribe. That is consistent with the text (Muhūrtakalpadruma) and the Devanagari script.",
+ "_meta": {
+  "reel": "A 419/35a",
+  "model": "opus",
+  "cost_usd": 0.08433399999999999,
+  "secs": 21.5
+ }
+}

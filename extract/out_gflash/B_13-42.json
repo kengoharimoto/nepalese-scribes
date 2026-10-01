@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījayantadevasya",
+   "name": "Jayantadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījayantadevasya likṣitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 693 phālgunaśukla 5 bṛhaspativāra",
+  "era": "NS",
+  "year": "693",
+  "month": "phālguna",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1573"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 13/42",
+  "model": "gemini-flash-latest",
+  "secs": 2.7,
+  "in_tok": 721,
+  "out_tok": 608
+ }
+}

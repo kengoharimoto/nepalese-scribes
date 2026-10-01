@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vaṃśamaṇeḥ",
+   "name": "Vaṃśamaṇi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lipir iyaṃ vaṃśamaṇeḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "lasaṃ 517 āṣāḍhakṛṣṇāpañcamīkuje",
+  "era": "LS",
+  "year": "517",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1636"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 22/1",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 815,
+  "out_tok": 735
+ }
+}

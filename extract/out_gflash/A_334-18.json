@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vireśvarajottirvidena",
+   "name": "Vīreśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ vireśvarajottirvidena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1869 māghamāse śuddhapakṣe 10 ghṛguvāsare",
+  "era": "VS",
+  "year": "1869",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1813"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthaṃ ca",
+ "notes": "ghṛguvāsare is a scribal corruption for bhṛguvāsare (Friday); jottirvidena is a corruption of jyotirvidena.",
+ "_meta": {
+  "reel": "A 334/18",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 780,
+  "out_tok": 819
+ }
+}

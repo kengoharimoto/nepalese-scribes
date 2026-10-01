@@ -1,0 +1,187 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "amarasimha",
+   "name": "Amarasiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "amarasimhakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmukuṃdabhaṭṭa",
+   "name": "Mukundabhaṭṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmukuṃdabhaṭṭātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīviśvanāthabhaṭṭa",
+   "name": "Viśvanāthabhaṭṭa",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "dākṣiṇātyaśiromaṇi",
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīviśvanāthabhaṭṭāghrilabdhavidhyena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrītrivikramasena",
+   "name": "Trivikramasena",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "pārvataviṣayādhipa"
+   ],
+   "affiliation": "",
+   "residence": "pārvataviṣaya",
+   "evidence": "śrīmanmahārājādhirāja pārvataviṣayādhipa śrītrivikramasenaprabhvāśritena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrījayadeākhya",
+   "name": "Jayadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "Pāṃḍe",
+   "residence": "",
+   "evidence": "śrījayadeākhya dvijasūnunā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "śrīkulanidhiśarmaṇā",
+   "name": "Kulanidhiśarman",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "śarman",
+    "dvija"
+   ],
+   "affiliation": "Pāṃḍe",
+   "residence": "",
+   "evidence": "śrīkulanidhiśarmaṇā viracitāyām āmaradīpikāyām",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "śrīmuktināthadvijavareṇa",
+   "name": "Muktinātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ śrīmuktināthadvijavareṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p8",
+   "as_written": "premanidhiśarmaṇe",
+   "name": "Premanidhiśarman",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svaputrāya premanidhiśarmaṇe paṭhanārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīmukuṃdabhaṭṭātmaja śrīviśvanāthabhaṭṭa"
+  },
+  {
+   "from": "p6",
+   "type": "pupil_of",
+   "to": "p3",
+   "evidence": "śrīviśvanāthabhaṭṭāghrilabdhavidhyena"
+  },
+  {
+   "from": "p6",
+   "type": "servant_of",
+   "to": "p4",
+   "evidence": "śrītrivikramasenaprabhvāśritena"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p5",
+   "evidence": "śrījayadeākhya dvijasūnunā"
+  },
+  {
+   "from": "p8",
+   "type": "son_of",
+   "to": "p7",
+   "evidence": "śrīmuktināthadvijavareṇa svaputrāya premanidhiśarmaṇe"
+  },
+  {
+   "from": "p7",
+   "type": "wrote_for",
+   "to": "p8",
+   "evidence": "likhitam idaṃ pustakaṃ śrīmuktināthadvijavareṇa svaputrāya premanidhiśarmaṇe paṭhanārthaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1784 āṣāḍha śukla dvitīyāyāṃ ravu",
+  "era": "ŚS",
+  "year": "1784",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "ravu",
+  "nakshatra_yoga": "",
+  "ce_approx": "1862"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svaputrāya premanidhiśarmaṇe paṭhanārtham",
+ "notes": "Jayadeva is written as śrījayadeākhya (omitting va). Trivikramasena was ruler of Parbat (pārvataviṣaya), mentioned as patron of the commentator Kulanidhi Pāṇḍe.",
+ "_meta": {
+  "reel": "A 324/1",
+  "model": "gemini-flash-latest",
+  "secs": 10.1,
+  "in_tok": 940,
+  "out_tok": 3118
+ }
+}

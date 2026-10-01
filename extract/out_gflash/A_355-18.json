@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "piṃgalācārya",
+   "name": "Piṅgala",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpiṃgalācāryakṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1497",
+  "era": "ŚS",
+  "year": "1497",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1575"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Ravikara as the scribe, but no scribe is mentioned in the quoted colophon fragment.",
+ "_meta": {
+  "reel": "A 355/18",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 701,
+  "out_tok": 1070
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed 'Mahābauddha' as affiliation: 'mahābauddhopāsaka' (lay Buddhist devotee) is a title, not an institution; affiliation left empty",
+   "Weekday normalized to 'Sunday (ravi)'",
+   "Notes rewritten: VS 1918 and NS 981 both give 1861 CE. The labels for VS and ŚS seem to be swapped, and 1728 does not equal ŚS 1783. The catalogue's 'ŚS 1918' is therefore wrong"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījitānandena",
+   "name": "Jitānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "mahābauddhopāsaka"
+   ],
+   "affiliation": "",
+   "residence": "Lalitāpura (Patan)",
+   "evidence": "idaṃ pusaka (!) likhitaṃ śrīlalitāpuranagarasya śrīmahāvauddopāśaka (!) śrījitānandena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīvikramasamvat 1728 śrīśākesamvat 1918 śrīnepālasamvat 981 sālamiti śrāvaṇavadi 13 ravidine",
+  "era": "NS",
+  "year": "981",
+  "month": "Śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "Sunday (ravi)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1861"
+ },
+ "place": {
+  "as_written": "śrīlalitāpuranagara",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The three era figures do not agree as labelled. NS 981 Śrāvaṇa = 1861 CE. 'Śāke 1918' would be 1996 CE, which is impossible, but as VS 1918 it gives 1861 CE. 'Vikrama 1728' would be 1671 CE, and as Śaka it would be 1806 CE; the expected Śaka year is 1783. So the VS and ŚS labels seem to be swapped, and the Śaka figure is also corrupt (1728 for 1783?). NS 981 is taken as the reliable date. The catalogue field 'ŚS 1918' repeats the mislabelling. The name of the text's revealer is lost in a lacuna ('iti śrī……rite'), so no author is recorded.",
+ "_meta": {
+  "reel": "B 150/5",
+  "model": "opus",
+  "cost_usd": 0.075494,
+  "secs": 16.4
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmacchaṃkarācārya",
+   "name": "Śaṅkara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmacchaṃkarācāryaviracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 582 jyeṣṭhaśuklaṣaṣṭhyāṃ tithau śanivāsare",
+  "era": "ŚS",
+  "year": "582",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "ṣaṣṭhī",
+  "weekday": "śanivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "660"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon explicitly states Śāke 582 (ca. 660 CE), which is implausibly early for a Devanagari paper manuscript; this is likely an error/omission for 1582 ŚS (1660 CE) or 1782 ŚS (1860 CE).",
+ "_meta": {
+  "reel": "A 1171/19",
+  "model": "gemini-flash-latest",
+  "secs": 7.3,
+  "in_tok": 761,
+  "out_tok": 1359
+ }
+}

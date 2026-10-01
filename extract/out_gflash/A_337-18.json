@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī śrījayajitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śrījayajitāmitramalladevasana thva pustaka dayakā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhāgirāma paramārayā",
+   "name": "Bhāgirāma",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "paramāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgirāma paramārayā velasa",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrī śrījayajitāmitramalladevasana thva pustaka dayakā bhāgirāma paramārayā velasa"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 810 kārttika śudi 9",
+  "era": "NS",
+  "year": "810",
+  "month": "kārttika",
+  "paksa": "śudi",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1690"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "King Jayajitāmitramalla of Bhaktapur had the manuscript made ('thva pustaka dayakā') during the tenure/time of Bhāgirāma Paramāra ('bhāgirāma paramārayā velasa'). Paramāra might represent a surname/title or an official (cf. pramāṇa).",
+ "_meta": {
+  "reel": "A 337/18",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 715,
+  "out_tok": 1706
+ }
+}

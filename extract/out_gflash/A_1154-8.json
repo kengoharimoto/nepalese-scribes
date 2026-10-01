@@ -1,0 +1,92 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīlakṣmīpādayaḥ",
+   "name": "Lakṣmīpāda",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīlakṣmīpādayaḥ popi jīvina | rājapatyārodhyena saṅgeihīkṛta",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dvijavaraśrījaṅgapatināmanasya",
+   "name": "Jaṅgapati",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "ārjyaśribhaktāpuraṇagare śrīkhvapvamvrumāyāt śrīvadimasthāne vitiphuśatolke śrīvānderājakulādhipativāśī",
+   "evidence": "dvijavaraśrījaṅgapatināmanasya pustakam idaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "daivajñajogarāmena",
+   "name": "Jogarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñajogarāmena likhitam iti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīrāmapatidatasya",
+   "name": "Rāmapatidatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmapatidatasya likṣitam iti",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "dvijavaraśrījaṅgapatināmanasya pustakam idaṃ || daivajñajogarāmena likhitam iti"
+  }
+ ],
+ "date": {
+  "as_written": "Abdabandhihayaś ca sāgaraśatai aśvinyaśite pakṣeḥ ekādaśya utraphālguṇyāḥ vidhujavāsareḥ",
+  "era": "NS",
+  "year": "473",
+  "month": "Āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "Uttaraphālgunī",
+  "ce_approx": "1353"
+ },
+ "place": {
+  "as_written": "ārjyaśribhaktāpuraṇagare śrīkhvapvamvrumāyāt śrīvadimasthāne vitiphuśatolke",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "Asmata pitara udeśa viṣebhyo debhebhyo vaiśvānaradebhebhyo atra gandhapuṣpadhūpadīpayagopavitaarcanavedhe sarvvaṃ pariporṇam asttu",
+ "notes": "The manuscript contains two colophons with two dates: NS 473 Āśvina kṛṣṇa 11 (chronogram: vahni/bandhi [3], haya [7], sāgara [4]) for text 1, copied by Daivajña Jogarāma for dvijavara Jaṅgapati; and NS 474 Phālguna śukla 11 Maghā Śukravāsara for text 3 (Pitṛsūkta), where Rāmapatidatta is recorded with 'likṣitam' (either as scribe or commissioner).",
+ "_meta": {
+  "reel": "A 1154/8",
+  "model": "gemini-flash-latest",
+  "secs": 10.4,
+  "in_tok": 1004,
+  "out_tok": 2403
+ }
+}

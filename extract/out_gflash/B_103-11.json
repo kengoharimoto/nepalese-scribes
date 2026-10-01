@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmaṇḍalācāryyapaṇḍitāvavṛtaśrīmaṅkagadarppaṇasya",
+   "name": "Jagaddarpaṇa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmaṇḍalācārya",
+    "paṇḍita",
+    "avadhūta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kritir iyaṃ vyākhyāṇā (!) mahāmaṇḍalācāryyapaṇḍitāvavṛtaśrīmaṅkagadarppaṇasyeti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvajrācāryyamukuṭānamdana",
+   "name": "Mukuṭānandana",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svavaṃśe putrapautrādipaṭhanārthe likhitaṃ mayāḥ (!) || || śubha || samvat 988 āṣāḍhaśuklayā paṃcamī bṛhaspativāra ṣūnūsakaumūlabdeyā śrīvajrācāryyamukuṭānamdana thva kriyāsamuccaya sabhūlacoya siddhaya kāgudinajula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 988 āṣāḍhaśuklayā paṃcamī bṛhaspativāra",
+  "era": "NS",
+  "year": "988",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1868"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svavaṃśe putrapautrādipaṭhanārthe",
+ "notes": "The author's name is corrupted to 'maṅkagadarppaṇa' for Jagaddarpaṇa, the well-known author of the Kriyāsamuccaya. The catalogue card lists the scribe as 'Vajrācārya Dhanasāgara', but the colophon text reads 'śrīvajrācāryyamukuṭānamdana'.",
+ "_meta": {
+  "reel": "B 103/11",
+  "model": "gemini-flash-latest",
+  "secs": 9.6,
+  "in_tok": 1063,
+  "out_tok": 2302
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājadaivajñāvṛṣabhadhvajana",
+   "name": "Vṛṣabhadhvaja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "rājadaivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājadaivajñāvṛṣabhadhvajana thva saphuli saṃpūrṇa yāṅā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 813 mārgaśiravaddhi (!) 8 aṅgāravāra",
+  "era": "NS",
+  "year": "813",
+  "month": "mārgaśira",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "aṅgāravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1692"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 185/13",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 803,
+  "out_tok": 758
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmacchamkarabhagavatpāda",
+   "name": "Śaṃkara",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya",
+    "bhagavatpāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmacchamkarabhagavatpādapūjyaśiṣya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sudeśvarācārya",
+   "name": "Sudeśvarācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmat sudeśvarācārya racitaṃ paṃcīkaraṇavārtikaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "tāropākhya maṇirāmaṣya",
+   "name": "Maṇirāma",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "tāropākhya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tāropākhya maṇirāmaṣya",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "mamdevyalī",
+   "name": "Mamdevyalī",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mamdevyalī | likhat",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śrīmacchamkarabhagavatpādapūjyaśiṣya śrīmat sudeśvarācārya"
+  },
+  {
+   "from": "p4",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "tāropākhya maṇirāmaṣyaṣyāṃ(!) mamdevyalī | likhat"
+  }
+ ],
+ "date": {
+  "as_written": "vasu vāṇavasu kṣoṇī mita varṣe nabhasyamuṃ",
+  "era": "unspecified",
+  "year": "1858",
+  "month": "nabhasya",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1801"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram: vasu (8), bāṇa (5), vasu (8), kṣoṇī (1) = 1858 (likely Vikrama Saṃvat = 1801 CE). Nabhasya corresponds to Bhādrapada. Sudeśvarācārya stands for Sureśvarācārya. The phrase 'tāropākhya maṇirāmaṣyaṣyāṃ(!) mamdevyalī | likhat' is corrupt; Maṇirāma (bearing the upākhya Tārā/Tāro) is likely the person for whom it was written, and Mamdevyalī is tentatively extracted as the scribe.",
+ "_meta": {
+  "reel": "B 69/1",
+  "model": "gemini-flash-latest",
+  "secs": 16.3,
+  "in_tok": 743,
+  "out_tok": 3565
+ }
+}

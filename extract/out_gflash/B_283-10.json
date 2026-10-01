@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "cakradharāya",
+   "name": "Cakradhara",
+   "roles": [
+    "beneficiary",
+    "owner"
+   ],
+   "titles": [
+    "sarvajñeśa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sarvva[[jñe]]śa cakradharāya śubhaṃ bhavatu",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 821 || śrāvanaśukladvitiyā(!) śniścaravāsara",
+  "era": "NS",
+  "year": "821",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "śniścaravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1701"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon finishes with the Newari completion formula 'thu kuhnu coya dhuṅa dina juro' followed by a blessing for Cakradhara ('sarvva[[jñe]]śa cakradharāya śubhaṃ bhavatu').",
+ "_meta": {
+  "reel": "B 283/10",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 794,
+  "out_tok": 1370
+ }
+}

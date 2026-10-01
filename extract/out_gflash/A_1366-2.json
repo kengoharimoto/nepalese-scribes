@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīviṣṇupatinā",
+   "name": "Viṣṇupati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "sucaulīgrāma",
+   "evidence": "sucaulīgrāmāvasthitena śrīviṣṇupatinātiśrameṇālekhi pustakam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "lasaṃ 375 āśvinakṛṣṇāṣṭamyaṃ ravau",
+  "era": "LS",
+  "year": "375",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "ravau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1494"
+ },
+ "place": {
+  "as_written": "sucaulīgrāma",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1366/2",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 829,
+  "out_tok": 801
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paṇḍitaśrīdivākaracandrasya",
+   "name": "Divākaracandra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtir iyaṃ paṇḍitaśrīdivākaracandrasyeti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīrāghavajīvena",
+   "name": "Rāghavajīva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ śrīrāghavajīvena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śvaparārthahetunā (svaparārtha)",
+ "notes": "",
+ "_meta": {
+  "reel": "A 44/15",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 693,
+  "out_tok": 719
+ }
+}

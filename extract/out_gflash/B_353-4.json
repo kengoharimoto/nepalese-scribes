@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nandarā[[me]]ṇa",
+   "name": "Nandarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nandarā[[me]]ṇa liṣitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 17[[0]]3 māse phālguna(3)śukla (!) 13",
+  "era": "ŚS",
+  "year": "1703",
+  "month": "phālguna",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1781"
+ },
+ "place": {
+  "as_written": "kāntipura",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 353/4",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 740,
+  "out_tok": 740
+ }
+}

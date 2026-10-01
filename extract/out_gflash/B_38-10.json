@@ -1,0 +1,106 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśveśvarabhagavatpāda",
+   "name": "Viśveśvara",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "bhagavatpāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viśveśvarabhagavatpādaśiṣyādvayabhagavatpāda",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "advayabhagavatpāda",
+   "name": "Advaya",
+   "roles": [
+    "teacher",
+    "pupil"
+   ],
+   "titles": [
+    "bhagavatpāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viśveśvarabhagavatpādaśiṣyādvayabhagavatpādaśiṣyeṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīrāghavānaṃdasarasvatyā",
+   "name": "Rāghavānanda",
+   "roles": [
+    "author",
+    "commentator",
+    "pupil"
+   ],
+   "titles": [
+    "sarasvatī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāghavānaṃdasarasvatyā tattvakaumudyās tattvārṇave prakāśikā samāptā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "laghāṭopātyabhāskarasūriṇā",
+   "name": "Bhāskara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upātya",
+    "sūri"
+   ],
+   "affiliation": "Laghāṭa",
+   "residence": "",
+   "evidence": "laghāṭopātyabhāskarasūriṇedaṃ likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "viśveśvarabhagavatpādaśiṣyādvayabhagavatpāda"
+  },
+  {
+   "from": "p3",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "advayabhagavatpādaśiṣyeṇa śrīrāghavānaṃdasarasvatyā"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsaṃvat 1833 kātikakṛṣṇa3bhūmīvāre",
+  "era": "VS",
+  "year": "1833",
+  "month": "kātika",
+  "paksa": "kṛṣṇa",
+  "tithi": "3",
+  "weekday": "bhūmīvāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1776"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthaṃ ca",
+ "notes": "The text colophon identifies Rāghavānanda Sarasvatī (author/commentator) in his paramparā lineage: pupil of Advayabhagavatpāda, who was a pupil of Viśveśvarabhagavatpāda. The scribe Bhāskara Sūri bears the designation laghāṭopātya (likely Laghāṭa-upādhyāya).",
+ "_meta": {
+  "reel": "B 38/10",
+  "model": "gemini-flash-latest",
+  "secs": 9.5,
+  "in_tok": 861,
+  "out_tok": 2489
+ }
+}

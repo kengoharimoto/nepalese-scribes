@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīpūrṇnānandaparamahaṃsa",
+   "name": "Pūrṇānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramahaṃsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpūrṇnānandaparamahaṃsaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīśrījayasiddhinṛsiṃhamalladevena",
+   "name": "Jayasiddhinṛsiṃhamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "lalitapaṭṭana",
+   "evidence": "śrīśrījayasiddhinṛsiṃhamalladevenopabhujyamāne",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīviśvanāthaśarmmaṇā",
+   "name": "Viśvanātha",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "lalitapaṭṭane thaṃvuvakhanihmaṃ gṛha",
+   "evidence": "śrīviśvanāthaśarmmaṇā svārthaṃ likhitaiṣā pustīti(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "śrīśrījayasiddhinṛsiṃhamalladevenopabhujyamāne lalitapaṭṭa(!)ne thaṃvuvakhanihmaṃ gṛhanivāsinā śrīviśvanāthaśarmmaṇā"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvan naipālika 745 phālguṇamāse śuklapakṣe ṣaṣṭhyāṃ tithau budhavāsare",
+  "era": "NS",
+  "year": "745",
+  "month": "phālguṇa",
+  "paksa": "śuklapakṣa",
+  "tithi": "ṣaṣṭhī",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1625"
+ },
+ "place": {
+  "as_written": "lalitapaṭṭa(!)ne thaṃvuvakhanihmaṃ gṛha",
+  "normalized": "Patan"
+ },
+ "purpose": "svārthaṃ",
+ "notes": "",
+ "_meta": {
+  "reel": "B 151/4",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 827,
+  "out_tok": 1517
+ }
+}

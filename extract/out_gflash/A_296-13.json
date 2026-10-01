@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "lokeśvaraśarmaṇā",
+   "name": "Lokeśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ lokeśvaraśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1697 || || vaiśākhamāse kṛṣṇapakṣe pratipatyurāya(!) tithau 1 ravivāsare",
+  "era": "ŚS",
+  "year": "1697",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "1",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1775"
+ },
+ "place": {
+  "as_written": "śrīmatpaśupati nikaṭe kāṃtipurasthale",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 296/13",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 835,
+  "out_tok": 875
+ }
+}

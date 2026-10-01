@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: name normalized to 'Bhairava' with 'ācārya' kept in titles (name had kept the title); confidence lowered to medium because 'Bhairavācārya' may stand for the divine revealer (Bhairava/Śiva), not a human author. The next verse says the tantra came from Śambhu's mouth (śambhor vaktrāgataṃ tantraṃ).",
+   "Notes expanded: 'kābdaśāhāni' may hide a date chronogram, but it can't be resolved from the colophon as quoted. The scribes are an unnamed father and son, so no persons were added for them."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhairavācārya",
+   "name": "Bhairava",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhairavācāryaviracitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The closing verse 'lilekha kābdaśāhānipūrṇṇaṃ putrapitā sahaḥ (!)' says the copy was written by a father together with his son (putra-pitā saha), but neither is named. 'kābdaśāhāni' is corrupt. It may contain a word-numeral chronogram ('abda' = year) or a disguised name, but no reliable year or name can be recovered, so no date or era is given. 'Bhairavācārya' as 'author' may be a conventional attribution to the divine revealer rather than a historical person. The phrase śambhor vaktrāgataṃ tantraṃ ('the tantra that came from Śambhu's mouth') supports this. The NGMCP catalogue fields are empty, so there was nothing to check against.",
+ "_meta": {
+  "reel": "B 135/18",
+  "model": "opus",
+  "cost_usd": 0.072702,
+  "secs": 17.1
+ }
+}

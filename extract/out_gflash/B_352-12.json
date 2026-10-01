@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vāpubhaṭena (!)",
+   "name": "Vāpu",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vāpubhaṭena (!) likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "sake (!) 1563 vṛṣasaṃvatsare saṃvat 1698 vikṛtisaṃvatsare udagayane vasaṃtaru(!)tau caitravadya 4 śanau",
+  "era": "ŚS",
+  "year": "1563 (VS 1698)",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "4",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1641"
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "A secondary date is added at the end: sake 1677 pārthivanāma saṃvatsare bhādrapadakṛṣṇa 30 śukravāra (1755 CE).",
+ "_meta": {
+  "reel": "B 352/12",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 854,
+  "out_tok": 1319
+ }
+}

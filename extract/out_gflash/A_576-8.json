@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīcaviṭikaṃṭi varadarājabhaṭṭa",
+   "name": "Varadarāja",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "Caviṭikaṇṭi",
+   "residence": "",
+   "evidence": "śrīcaviṭikaṃṭi varadarājabhaṭṭaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīdugātanaya",
+   "name": "Durgātanaya",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "varadabhaṭṭaśrīdugātanayasūnunā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "(dīkṣit saravara)gopīnātha",
+   "name": "Gopīnātha",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "Vārāṇasī",
+   "evidence": "likhitaṃ (dīkṣit saravara)gopīnātha || : avimuktavārāṇasīmadhye (likhyuche ... sakharagopīnātha(nīpothī)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "varadabhaṭṭaśrīdugātanayasūnunā"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1782 jyeṣṭhaśudi(!) 1ravī(!)vāsare",
+  "era": "VS",
+  "year": "1782",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1725"
+ },
+ "place": {
+  "as_written": "avimuktavārāṇasīmadhye",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "svārtha",
+ "notes": "The scribe/owner note shows Gujarati language features ('likhyuche', 'sakharagopīnāthanī pothī'). 'saravara' / 'sakhara' before Gopīnātha might be a family or caste designation.",
+ "_meta": {
+  "reel": "A 576/8",
+  "model": "gemini-flash-latest",
+  "secs": 11.0,
+  "in_tok": 885,
+  "out_tok": 2768
+ }
+}

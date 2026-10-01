@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhavānīśaṃkaro",
+   "name": "Bhavānīśaṃkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhavānīśaṃkaro ʼlikhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1717 mose (!) tithau 13 aśvendūnagabhūśāke māse śrāvaṇake śubhe mīnadhvajasya ca tithau",
+  "era": "ŚS",
+  "year": "1717",
+  "month": "Śrāvaṇa",
+  "paksa": "",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1795"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram aśva-indu-naga-bhū represents Śaka year 1717. The tithi is expressed by the numeral 13 as well as the synonymous term mīnadhvaja (referring to the god of love, Kāmadeva, associated with the 13th tithi, trayodaśī).",
+ "_meta": {
+  "reel": "A 1013/4",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 850,
+  "out_tok": 1115
+ }
+}

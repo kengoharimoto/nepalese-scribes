@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "drāviḍā śaṃkarācāryya",
+   "name": "Śaṅkarācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "drāviḍā śaṃkarācāryyaviracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1629 samaye mārgaśīrṣavadi 1 śanivāsare",
+  "era": "ŚS",
+  "year": "1629",
+  "month": "mārgaśīrṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "1",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1707"
+ },
+ "place": {
+  "as_written": "mukāma naipālaikadeśaparvate",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribe is explicitly named in the colophon (passive likhitā).",
+ "_meta": {
+  "reel": "A 470/23",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 750,
+  "out_tok": 1024
+ }
+}

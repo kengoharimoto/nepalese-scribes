@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devasiṃhaḥ",
+   "name": "Devasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Bhaktagrāma",
+   "evidence": "devasiṃhaḥ ... vyalikhad",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "jāte nevāravarṣe, śaśinidhimunibhiḥ māghamāse tu kṛṣṇe, paṃcamyāṃ śukavāre ... samvat 791 phālguṇa śukla 6",
+  "era": "NS",
+  "year": "791",
+  "month": "Māgha / Phālguna",
+  "paksa": "kṛṣṇa / śukla",
+  "tithi": "5 / 6",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "hasta",
+  "ce_approx": "1671"
+ },
+ "place": {
+  "as_written": "bharkta(!)grāma",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "śrīśrīśrībhavānī pritir astuḥ; dvijagaṇasuhitaṃ",
+ "notes": "The chronogram śaśinidhimunibhiḥ (1-9-7 = NS 791) corresponds to the numerical date samvat 791 added at the very end. The verse records completion or progress in Māgha kṛṣṇa 5 (Friday, Hasta nakṣatra), while the postscript specifies Phālguṇa śukla 6.",
+ "_meta": {
+  "reel": "B 215/4",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 822,
+  "out_tok": 1108
+ }
+}

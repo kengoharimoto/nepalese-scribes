@@ -1,0 +1,35 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Notes expanded: the era is only 'saṃvat', so VS is assumed from the Devanagari script and the date range (ŚS 1814 = 1892 CE cannot be ruled out). The catalogue's 1840 probably transposes 1814.",
+   "Notes now say that 'kṛṣna' standing alone after the year may be either the dark fortnight or another invocation like the śrīrāma around it. It is kept as paksa with doubt flagged; there is no month or tithi.",
+   "Persons, relations, place and purpose stay empty: the colophon names no human person."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat || 1814 || || || kṛṣna",
+  "era": "VS",
+  "year": "1814",
+  "month": "",
+  "paksa": "kṛṣṇa",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1757"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives Samvat 1840, but the colophon reads saṃvat 1814, so 1840 is probably a transposition. The era is not named. VS is assumed from the Devanagari script and the usual practice (VS 1814 ≈ 1757 CE). ŚS 1814 (1892 CE) is possible but less likely. 'kṛṣna' stands alone after the year with no month or tithi, so it may be the dark fortnight or just an invocation (kṛṣṇa) like the śrīrāma / rāma around it. 'kṛṣṇa' is entered as paksa with doubt. The '5' after samāptaḥ is a punctuation or ornament mark. No human persons (scribe, owner, etc.) are named. Vidyāraṇya, the author of the text, is not mentioned in the colophon.",
+ "_meta": {
+  "reel": "A 1379/2",
+  "model": "opus",
+  "cost_usd": 0.06622600000000001,
+  "secs": 12.7
+ }
+}

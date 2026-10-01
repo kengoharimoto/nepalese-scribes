@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kavikālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kavikālidāsodite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ. 1975 sālako",
+  "era": "VS",
+  "year": "1975",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1918"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records Bhāvaratna as scribe, but this name does not appear in the quoted colophon. 'nṛpa vikramavira' is mentioned only as part of the chapter title/subject.",
+ "_meta": {
+  "reel": "A 410/8",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 724,
+  "out_tok": 964
+ }
+}

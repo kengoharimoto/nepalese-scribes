@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgaṃgādharaśarmmaṇā",
+   "name": "Gaṅgādhara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgaṃgādharaśarmmaṇā viracitā gaṅgādharī ṭīkā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīdevaśaṅkaraśarmmā",
+   "name": "Devaśaṅkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman",
+    "vipra"
+   ],
+   "affiliation": "viprakulodbhavaḥ",
+   "residence": "svanimhavantāgṛha (house/locality, reading uncertain)",
+   "evidence": "śrīdevaśaṅkaraśarmmāmūṃ gaṅgādharīṭīkām alīlikhat",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīgaṇapatiśarmmaṇaḥ",
+   "name": "Gaṇapati",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgaṇapatiśarmmaṇaḥ putraḥ śrīdevaśaṅkaraśarmmā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "śrīgaṇapatiśarmmaṇaḥ putraḥ śrīdevaśaṅkaraśarmmā"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 823 āśvinamāse kṛṣṇapakṣe daśamyāṃ tithāv ādityavāre",
+  "era": "NS",
+  "year": "823",
+  "month": "Āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "10 (daśamī)",
+  "weekday": "Sunday (ādityavāra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1703"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is not named. I took it as NS because the manuscript is in Newari script and the year is a three-digit \"samvat\" year (823 + 880 = 1703 CE). \"svanimhavantāgṛhanivāsito\" is corrupt. It seems to describe where the scribe lived: \"dwelling in the house (of) [s]vanimhavantā\", perhaps a Newar house or locality name with sva- meaning \"his own\". This is a residence, not the place of copying. The isolated \"2\" before \"samvat\" is unclear; it may be a numbering mark or a verse marker. \"śarmmāmūṃ\" stands for śarmā amūṃ (= imām). Gaṅgādhara is listed only as author of the commentary. The catalogue's scribe (Devaśaṅkara Śarmā) and date (823) agree with the colophon.",
+ "_meta": {
+  "reel": "A 999/23",
+  "model": "opus",
+  "cost_usd": 0.0674498,
+  "secs": 12.8
+ }
+}

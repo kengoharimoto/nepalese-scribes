@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat || 1814 || || || kṛṣna",
+  "era": "VS",
+  "year": "1814",
+  "month": "",
+  "paksa": "kṛṣṇa",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1757"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records Samvat 1840, but the text reads saṃvat 1814. Mentions of śrīrāma and kṛṣna are invocations; no human persons are named.",
+ "_meta": {
+  "reel": "A 1379/2",
+  "model": "gemini-flash-latest",
+  "secs": 8.8,
+  "in_tok": 702,
+  "out_tok": 752
+ }
+}

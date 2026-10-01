@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ānandamallā",
+   "name": "Ānandamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhūpāla"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nelālabhūpāṇānandamallābhipārvati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kāyachādayaharṣeṇa",
+   "name": "Dayāharṣa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāyachādayaharṣeṇa likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "nelālabhūpāṇānandamallābhipārvati ... kāyachādayaharṣeṇa likhitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "rasaabhrasamāyuktau śrutiḥ saṃvat tadāpayo || kartimāṣI kṛṣṇapakṣe dvitīyāyāṃ pujadine",
+  "era": "NS",
+  "year": "406",
+  "month": "Kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvitīyā",
+  "weekday": "pujadine",
+  "nakshatra_yoga": "",
+  "ce_approx": "1286"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'rasa' (6), 'abhra' (0), 'śruti' (4) gives NS 406 during the reign of King Anantamalla/Ānandamalla. The phrase 'nelālabhūpāṇānandamallābhipārvati' stands for 'nepālabhūpāle ānandamalle 'bhipālayati'. The title 'kāyachā' is a scribal corruption of kāyastha; 'pujadine' may be an error for 'kujadine' (Tuesday) or 'budhadine' (Wednesday).",
+ "_meta": {
+  "reel": "A 1154/6",
+  "model": "gemini-flash-latest",
+  "secs": 8.3,
+  "in_tok": 914,
+  "out_tok": 2074
+ }
+}

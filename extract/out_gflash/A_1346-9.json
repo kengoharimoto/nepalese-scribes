@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījayadeva",
+   "name": "Jayadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kavirājaśrījayadevakṛtaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 791 mārggapaurṇṇabudha",
+  "era": "NS",
+  "year": "791",
+  "month": "mārgga",
+  "paksa": "śukla",
+  "tithi": "paurṇṇa",
+  "weekday": "budha",
+  "nakshatra_yoga": "",
+  "ce_approx": "1671"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1346/9",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 715,
+  "out_tok": 960
+ }
+}

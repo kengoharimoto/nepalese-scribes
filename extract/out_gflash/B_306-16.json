@@ -1,0 +1,100 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "apy dīkṣitasya",
+   "name": "Appayadīkṣita",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "advaitavidyācārya"
+   ],
+   "affiliation": "bharadvājakula",
+   "residence": "",
+   "evidence": "apy dīkṣitasya kṛtiḥ kuvalayānaṃdaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīraṃgarājādhvarīṃdra",
+   "name": "Raṅgarājādhvarīndra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "adhvarīndra"
+   ],
+   "affiliation": "bharadvājakula",
+   "residence": "",
+   "evidence": "śrīraṃgarājādhvarīṃdra varadasūnor",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "pāḍuraṃgeṇa manohareṇa",
+   "name": "Pāṇḍuraṅga Manohara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mukuṃdabhaṭṭātmaja pāḍuraṃgeṇa manohareṇa vyalikhat",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "mukuṃdabhaṭṭātmaja",
+   "name": "Mukundabhaṭṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mukuṃdabhaṭṭātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīraṃgarājādhvarīṃdra varadasūnor apy dīkṣitasya"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "mukuṃdabhaṭṭātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "āśvinakṛṣṇa 1 saṃvat 1860",
+  "era": "VS",
+  "year": "1860",
+  "month": "Āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "1",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1803"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "gurave ʼrpaṇam astu",
+ "notes": "",
+ "_meta": {
+  "reel": "B 306/16",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 796,
+  "out_tok": 1292
+ }
+}

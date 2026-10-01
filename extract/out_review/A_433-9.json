@@ -1,0 +1,107 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe: name normalized to 'Ratnākara' with 'lāla' moved to titles (catalogue gives 'Ratnākaralāla'). 'budha' kept as an epithet, but its reading is uncertain.",
+   "Scribe: residence cleared. Gaurīśapura is stated only as the place of copying, not as where the scribe lived.",
+   "Date: tithi 'vedhas' glossed as probably pratipad (Brahmā's tithi), uncertain. Month glossed as Caitra and weekday as Friday.",
+   "Chronograms verified: ŚS 1759 for the copy (glau 1, adri 7, śambhuvadana 5, graha 9) and ŚS 1551 for the composition (candra 1, vāṇa 5, śara 5, (c)andra 1). ce_approx 1837 confirmed.",
+   "Notes expanded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśvanātha-",
+   "name": "Viśvanātha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "daivajña",
+    "vidvas"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "akāri viśvanāthena saṃjñātantraprakāśikā ṭikā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "divākara-",
+   "name": "Divākara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdaivajñadivākarātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "nīlakaṇṭha-",
+   "name": "Nīlakaṇṭha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nīlakaṇṭhajyotiḥkṛta saṃjñātantre",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīlālaratnākaraḥ",
+   "name": "Ratnākara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "lāla",
+    "budha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "budho 'likhad imāṃ śrīlālaratnākaraḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīdaivajñadivākarātmajaviśvanāthadaivajña"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke grahavaktraśambhuvadanādriglaumite śākake tvādyarthau madhumāsaśubhradalake vedhas tithau bhārgake",
+  "era": "ŚS",
+  "year": "1759",
+  "month": "madhumāsa (Caitra)",
+  "paksa": "śukla",
+  "tithi": "vedhas (= Brahmā's tithi, probably pratipad; uncertain)",
+  "weekday": "bhārgava (Friday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1837"
+ },
+ "place": {
+  "as_written": "śrīgaurīśapure",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "mude sukṛtināṃ (for the delight of the virtuous)",
+ "notes": "The colophon contains two dates.\n1. Composition of Viśvanātha's commentary: 'candravāṇaśaravandra' (read 'candra') = 1551 in Śālivāhana's era, i.e. ŚS 1551 (c. 1629 CE), Mārgaśīrṣa śukla 5.\n2. Copying: the chronogram glau(1)–adri(7)–śambhuvadana(5)–graha(9), read right to left, gives ŚS 1759, Caitra (madhumāsa) śukla, Friday. That is c. March/April 1837 CE. 'vaktra' seems to double 'vadana' in the compound.\n\nOther doubtful points:\n- 'tvādyarthau' is unclear and may be corrupt.\n- 'vedhas tithau' probably means the tithi ruled by Brahmā (pratipad), but this is uncertain.\n- Gaurīśapura ('city of Śiva') is taken as Kāśī, following the catalogue.\n- The scribe is written 'Lāla Ratnākara'; the catalogue gives 'Ratnākaralāla'. 'Lāla' is treated as an honorific or caste prefix.\n- 'budho' may be an epithet of the scribe ('the learned one'); the phrase 'śrīsodāhṛtikāṃ budho' is garbled.\n- Nīlakaṇṭha is the author of the root text (Saṃjñātantra, part of the Tājikanīlakaṇṭhī). Viśvanātha, son of Divākara, wrote the commentary (Prakāśikā / udāhṛti).",
+ "_meta": {
+  "reel": "A 433/9",
+  "model": "opus",
+  "cost_usd": 0.111766,
+  "secs": 27.5
+ }
+}

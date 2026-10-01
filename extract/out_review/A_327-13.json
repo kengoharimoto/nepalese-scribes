@@ -1,0 +1,83 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe: 'Svāmin' is not the scribe's name. The text says the copy was written 'svāmināmtaḥ (= °svāmināmnaḥ?) sutena', i.e. by the son of a man called …svāmin. The scribe is now recorded without a name (p2), and the father is added as p3 (relative_only), with his name read tentatively as Munivaryasvāmin.",
+   "Added relation p2 son_of p3.",
+   "Date: the Saturday (sūryasūnau vāsare) belongs to the metrical date in Nabhas/Śrāvaṇa, not to the prose date of Vaiśākha kṛṣṇa 13. The weekday field now says so, and the conflict between the two months is stated in notes.",
+   "Recorded the corrupt tithi word 'sarajvana' in notes."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīpuruṣottamadeva-",
+   "name": "Puruṣottamadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpuruṣottamadevaviracitas trikāṃḍaśeṣābhidhānakośagraṃthaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sutena",
+   "name": "",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "śrīviśvanāthopakaṇṭhe (Vārāṇasī)",
+   "evidence": "likhitam idam … svāmināmtaḥ sutena",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "muninamivaryyāḥ svāmināmtaḥ",
+   "name": "Munivaryasvāmin",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "muninamivaryyāḥ svāmināmtaḥ sutena",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "muninamivaryyāḥ svāmināmtaḥ sutena"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1863 vaiśākhamāse kṛṣṇapakṣe 13 (also metrical: nabhasi bahulapakṣe vāsare sūryasūno sarajvanatithau)",
+  "era": "VS",
+  "year": "1863",
+  "month": "Vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "Saturday (stated only with the metrical Nabhas date)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1806"
+ },
+ "place": {
+  "as_written": "śrīviśvanāthopakaṃṭho (!)",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "\"\"",
+ "notes": "The scribe is not named. He calls himself the son of someone whose name ends in -svāmin: 'muninamivaryyāḥ svāmināmtaḥ' probably stands for something like 'munivarya-svāmi-nāmnaḥ'. The father's name, read here as Munivaryasvāmin, is corrupt and uncertain. The verse gives a date of Nabhas (Śrāvaṇa), dark fortnight, Saturday, with a corrupt tithi word 'sarajvana'. This is probably a corrupt tithi name, or possibly a chronogram, and cannot be resolved. The prose date is saṃvat 1863 Vaiśākha kṛṣṇa 13, so the two dates give different months. They may mark different stages of the work, or one of them may be copied over from the exemplar. The era is taken as Vikrama, since this is a Devanagari manuscript and the place is Vārāṇasī (VS 1863 ≈ 1806 CE); the era itself is not stated. 'śrīviśvanāthopakaṇṭhe' means near the Viśvanātha temple, i.e. Vārāṇasī. 'śrīraviḥ prīyatām' is an invocation of the god, not a person.",
+ "_meta": {
+  "reel": "A 327/13",
+  "model": "opus",
+  "cost_usd": 0.095878,
+  "secs": 24.0
+ }
+}

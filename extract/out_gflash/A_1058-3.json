@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śaṃbhudāsapaṃḍita",
+   "name": "Śambhudāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśaṃbhudāsapaṃḍitaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1840 māghavadi 6 roja 3",
+  "era": "VS",
+  "year": "1840",
+  "month": "māgha",
+  "paksa": "vadi",
+  "tithi": "6",
+  "weekday": "roja 3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1784"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1058/3",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 709,
+  "out_tok": 727
+ }
+}

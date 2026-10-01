@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīlakṣamaṇamiśreṇa",
+   "name": "Lakṣmaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "ḍoṭyāṃ khatrivāḍikāyāṃ",
+   "evidence": "likhitam ḍoṭyāṃ khatrivāḍikāyāṃ śrīlakṣamaṇamiśreṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1754 śrīsaṃvat 1889 māsottame kauryyārkagatāṃśāḥ 23 śuklacaturddaśyāṃ gurudine",
+  "era": "ŚS",
+  "year": "1754 (ŚS) / 1889 (VS)",
+  "month": "kauryyārka (kaurpyārka/Vṛścika)",
+  "paksa": "śukla",
+  "tithi": "caturdaśī",
+  "weekday": "gurudina",
+  "nakshatra_yoga": "",
+  "ce_approx": "1832"
+ },
+ "place": {
+  "as_written": "ḍoṭyāṃ khatrivāḍikāyāṃ",
+  "normalized": "Doti"
+ },
+ "purpose": "",
+ "notes": "Both Śāka 1754 and Vikrama 1889 are specified, corresponding to 1832 CE. 'kauryyārka' is likely a corruption of 'kaurpyārka' (solar Vṛścika / Scorpio).",
+ "_meta": {
+  "reel": "B 80/10",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 821,
+  "out_tok": 1239
+ }
+}

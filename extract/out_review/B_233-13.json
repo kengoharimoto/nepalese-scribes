@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Mahīdhara: added role 'commentator' (the colophon is from the Naukā, his own commentary: 'maṃtramahodadhinaukāyāṃ')",
+   "ce_approx changed from 1768 to 1769: Māgha of VS 1825 falls in Jan/Feb 1769",
+   "Expanded the notes on 'ebhaenāma', the era, and the closing invocations"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmanmahīdhara",
+   "name": "Mahīdhara",
+   "roles": [
+    "author",
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanmahīdharaviracito maṃtramahodadhinaukāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1825 ebhaenāma māghamāse sukulapache (!) aṣṭamyāṃ maṃgalavārake",
+  "era": "VS",
+  "year": "1825",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "aṣṭamī",
+  "weekday": "maṅgalavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1769"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names no scribe, commissioner or owner. The era is not stated. It is read as VS because the copy is in Devanagari, the closing formula shows Hindi/Rajasthani features ('sukulapache', 'jagaranāthajī sahāi'), and NS 1825 is impossible. Mahīdhara composed the text in 1588 CE, which agrees with a VS date. The VS−57 rule gives 1768, but Māgha śukla 8 of VS 1825 falls in about January–February 1769. The weekday (Tuesday) has not been checked. 'ebhaenāma' is obscure; it may be a corrupt saṃvatsara name ('... nāma [saṃvatsare]'). 'śrīrāma', 'śrīkṛṣṇa' and 'śrījagaranāthajī' (Jagannātha) are invocations of deities, not persons.",
+ "_meta": {
+  "reel": "B 233/13",
+  "model": "opus",
+  "cost_usd": 0.072778,
+  "secs": 15.5
+ }
+}

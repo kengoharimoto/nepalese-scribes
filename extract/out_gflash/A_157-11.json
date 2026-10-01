@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "saṃcidānandanāthatīrthacaraṇānāṃ",
+   "name": "Saṃcidānandanāthatīrtha",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya"
+   ],
+   "affiliation": "",
+   "residence": "Parvvata",
+   "evidence": "paramahaṃsaparivrājakācārya śrīmata saṃcidānandanāthatīrthacaraṇānāṃ (4) siḍyasyācārya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīdurgadattasya",
+   "name": "Durgadatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdurgadattasya (!) kṛtāyāṃ (!) tantradīpikāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "saṃcidānandanāthatīrthacaraṇānāṃ (4) siḍyasyācārya (!) śrīdurgadattasya"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "This is a textual/author colophon of the Tantradīpikā. No copyist or copying date/place is recorded. 'siḍyasya' is a scribal corruption of 'śiṣyasya'.",
+ "_meta": {
+  "reel": "A 157/11",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 862,
+  "out_tok": 1127
+ }
+}

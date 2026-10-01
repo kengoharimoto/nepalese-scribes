@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devadattadvijendreṇa",
+   "name": "Devadatta",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "dvijendra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "maulyaṃ datvā brāhmaṇāya gṛhītaṃ dīrghadarśinā | devadattadvijendreṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "Samvat 1827 kārtika badi 14 roja 4",
+  "era": "VS",
+  "year": "1827",
+  "month": "kārtika",
+  "paksa": "badi",
+  "tithi": "14",
+  "weekday": "roja 4 (Wednesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1770"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "putrahetave (purchased for the sake of his son for six coins / ṣaṇmudrā)",
+ "notes": "Devadatta purchased the manuscript (foliated with 354 leaves: 'vedabāṇāgnipatrakaṃ') from an unnamed brāhmaṇa for six mudrās for the sake of his son.",
+ "_meta": {
+  "reel": "A 4/3",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 719,
+  "out_tok": 1165
+ }
+}

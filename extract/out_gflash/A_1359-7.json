@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "lakṣmaṇa śrīdharanāmdeukara",
+   "name": "Lakṣmaṇa Śrīdhara Nāmdeukara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "hastākṣara lakṣmaṇa śrīdharanāmdeukara",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1924 mārgaśīrṣa śukla 14 bhauma vāsara",
+  "era": "VS",
+  "year": "1924",
+  "month": "mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "14",
+  "weekday": "bhauma vāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1867"
+ },
+ "place": {
+  "as_written": "naṃdagāvamadhye",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue reads the scribe as 'Dhananārāṃdeukara', but the manuscript text clearly reads 'hastākṣara lakṣmaṇa śrīdharanāmdeukara', reflecting the Western Indian/Marathi naming pattern: given name (Lakṣmaṇa), father's name (Śrīdhara), and family surname (Nāmdeukara).",
+ "_meta": {
+  "reel": "A 1359/7",
+  "model": "gemini-flash-latest",
+  "secs": 10.7,
+  "in_tok": 779,
+  "out_tok": 2289
+ }
+}

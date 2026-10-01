@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dīkṣitabhīmasena",
+   "name": "Bhīmasena",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "dīkṣita",
+    "padavākyapramāṇapārāvārīṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dīkṣitabhīmasenakṛte",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1911 āśvinaśukladvitīyā ravidine",
+  "era": "VS",
+  "year": "1911",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "ravidine",
+  "nakshatra_yoga": "",
+  "ce_approx": "1854"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 368/8",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 758,
+  "out_tok": 754
+ }
+}

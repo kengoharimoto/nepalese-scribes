@@ -1,0 +1,77 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmādhava",
+   "name": "Mādhava",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmādhavavīracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "maganīrāma",
+   "name": "Maganīrāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "aujhā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhakacīraṃjīva(!) maganīrāma",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "gīnātasāra",
+   "name": "Gīnātasāra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gīnātasārasuta",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "gīnātasārasuta"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1854 budhavāra aghanaśuklapakṣe tīthau(!) caturthīyāṃ(!)",
+  "era": "VS",
+  "year": "1854",
+  "month": "aghana",
+  "paksa": "śuklapakṣa",
+  "tithi": "caturthī",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1797"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Aghana corresponds to Agrahāyaṇa / Mārgaśīrṣa. The father's name Gīnātasāra (or Ginātasāra) is unusual and somewhat corruptly spelled.",
+ "_meta": {
+  "reel": "B 161/11",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 795,
+  "out_tok": 1496
+ }
+}

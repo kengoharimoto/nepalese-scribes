@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 194(!) bhādravakṛṣṇa(!) 7",
+  "era": "VS",
+  "year": "194(!)",
+  "month": "bhādrava",
+  "paksa": "kṛṣṇa",
+  "tithi": "7",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No human persons are mentioned in the colophon. The catalogue record mistakenly enters 'SAM 1904' under the 'Scribe' field; the date in the colophon reads '194(!)', which likely omits a digit (possibly intended for VS 1904 or 194x).",
+ "_meta": {
+  "reel": "A 273/6",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 719,
+  "out_tok": 907
+ }
+}

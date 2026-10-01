@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jaya raṇajinmalladeva",
+   "name": "Jayaraṇajinmalladeva",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "mahārājadhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahārājadhirāja śrīśrījaya ra(2)ṇajinmalladeva viracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 884 jyeṣṭha vadi 2",
+  "era": "NS",
+  "year": "884",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1764"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Two dates are mentioned: NS 878 mārga vadi 7 (likely the date of composition by King Raṇajit Malla of Bhaktapur) and NS 884 jyeṣṭha vadi 2 ('coya dhunakā', the completion of copying). The scribe is anonymous.",
+ "_meta": {
+  "reel": "B 275/16",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 783,
+  "out_tok": 1036
+ }
+}

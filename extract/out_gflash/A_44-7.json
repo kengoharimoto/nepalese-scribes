@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīguṇakāmadevasya",
+   "name": "Guṇakāmadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīguṇakāmadevasya vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaṭṭaśrīcandramitrasya",
+   "name": "Candramitra",
+   "roles": [
+    "owner",
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mayākaṣṭena likhyitaṃ ... svapustakaṃ bhaṭṭaśrīcandramitrasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīguṇakāmadevasya vijayarājye likhitam idamm āgamaṃ svapustakaṃ bhaṭṭaśrīcandramitrasya"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 307 phālgunakṛṣṇaṣaṣṭhaṃmyāṃ",
+  "era": "NS",
+  "year": "307",
+  "month": "phālguna",
+  "paksa": "kṛṣṇa",
+  "tithi": "6",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1187"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtha (svapustakaṃ)",
+ "notes": "",
+ "_meta": {
+  "reel": "A 44/7",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 780,
+  "out_tok": 1254
+ }
+}

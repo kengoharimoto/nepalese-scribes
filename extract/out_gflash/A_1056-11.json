@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kālidāsakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrībrajanāthopādhyāyasya",
+   "name": "Brajanātha",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ śrībrajanāthopādhyāyasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1690 samvat 1825 miti kārttike dine 3",
+  "era": "VS",
+  "year": "1825",
+  "month": "kārttika",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1768"
+ },
+ "place": {
+  "as_written": "kāśīnāma nagaryām",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The date gives both Śaka 1690 and Vikrama Samvat 1825. The word following the place, 'paphāṇeti', is unclear (possibly a locality/mohalla or scribal remark).",
+ "_meta": {
+  "reel": "A 1056/11",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 765,
+  "out_tok": 1110
+ }
+}

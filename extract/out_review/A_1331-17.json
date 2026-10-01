@@ -1,0 +1,35 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "date.month: normalized 'śrīsāvaṃ' to 'Śrāvaṇa (?)' and flagged it as uncertain (as_written keeps the original)",
+   "notes: worked out the era conflict exactly (VS 1828 = ŚS 1693, i.e. c. 1771 CE; ŚS 1676 = c. 1754 CE = VS 1811) and explained why VS was chosen for ce_approx",
+   "persons/relations: confirmed empty"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1828 || śāke || 1676 || śrīsāvaṃ",
+  "era": "VS",
+  "year": "1828",
+  "month": "Śrāvaṇa (?)",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1771"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The two eras do not agree. VS 1828 is c. 1771/72 CE and corresponds to ŚS 1693. ŚS 1676 is c. 1754/55 CE and corresponds to VS 1811. The difference is 17 years, so one of the numbers must be miswritten or misread. VS 1828 is given first and matches the catalogue field, so it is used for ce_approx, but the ŚS figure would point to c. 1754. 'śrīsāvaṃ' is probably the month Śrāvaṇa (vernacular sāvan), but this is uncertain because the text breaks off at that point. 'śubhakāyakara' (perhaps a corruption of a phrase like śubhaṃ kuryāt / kāryakara) is followed by a lacuna, and the surviving text names no person.",
+ "_meta": {
+  "reel": "A 1331/17",
+  "model": "opus",
+  "cost_usd": 0.062918,
+  "secs": 11.1
+ }
+}

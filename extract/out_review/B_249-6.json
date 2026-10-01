@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe's name kept as written but confidence lowered to low; possible readings Nārāyaṇadāsa / Narapatidāsa noted",
+   "Dropped 'bhārgava' from titles: it is his community/gotra, so it stays in affiliation only; titles now just 'brāhmaṇa'",
+   "Residence: 'sāḍhoṃre vāre' is Hindi for 'of Sāḍhaurā'. Most likely Sadhaura in Haryana, not Madhya Pradesh as the first reading said; flagged as doubtful",
+   "Place normalized field cleared: 'Kasbā Ranod' is plausible but not certain; moved to notes",
+   "Weekday normalized to budha; date checked: ŚS 1688 and VS 1823 both give 1766 CE"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "narāpapādasa",
+   "name": "Narāpapādasa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "Bhārgava",
+   "residence": "sāḍhoṃre vāre (Sāḍhaurā?)",
+   "evidence": "lekhaka narāpapādasa bhārgava vrāhmaṇa sāḍhoṃre (!) vāre",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1688 saṃvat 1823 durmukhanāma samvatsare māsottame māse śrāvaṇamāse kṛṣṇapakṣe 2 vudhavāratādina",
+  "era": "VS",
+  "year": "1823",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "2",
+  "weekday": "budha",
+  "nakshatra_yoga": "",
+  "ce_approx": "1766"
+ },
+ "place": {
+  "as_written": "kasavāranodamadhye",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives two eras, ŚS 1688 and VS 1823. They agree: both give 1766 CE. The year name Durmukha would fit a northern (bārhaspatya) reckoning of the 60-year cycle and has not been checked exactly; the southern cycle would give Vyaya. The scribe's name 'narāpapādasa' is probably corrupt; it may stand for Nārāyaṇadāsa or Narapatidāsa. 'bhārgava vrāhmaṇa' marks him as a Bhārgava brahmin. 'sāḍhoṃre vāre' is Hindi for 'from Sāḍhaurā' (probably Sadhaura, Yamunanagar district, Haryana). 'kasavāranodamadhye' probably means 'in the kasbā (town) of Ranod' (perhaps Ranod, Shivpuri district, Madhya Pradesh), but this is uncertain. This is a north Indian (not Nepalese) manuscript.",
+ "_meta": {
+  "reel": "B 249/6",
+  "model": "opus",
+  "cost_usd": 0.096694,
+  "secs": 25.2
+ }
+}

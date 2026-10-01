@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrathahema",
+   "name": "Rathahema",
+   "roles": [
+    "pupil",
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrathahemavyākranaseṅājuroḥ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 517 kārtikṛṣṇadasamyāyā titho vṛrsapavāre",
+  "era": "NS",
+  "year": "517",
+  "month": "kārtika",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1397"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The Newari phrase 'vyākrana seṅā juro' indicates the completion of studying/instruction of grammar. 'śrīrathahema' appears to be the personal name (perhaps corrupt for Ratnahema or similar) of the student/reader.",
+ "_meta": {
+  "reel": "A 53/8",
+  "model": "gemini-flash-latest",
+  "secs": 14.7,
+  "in_tok": 668,
+  "out_tok": 3209
+ }
+}

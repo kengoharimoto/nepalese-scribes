@@ -1,0 +1,56 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "madanapā[la]",
+   "name": "Madanapāla",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadanapā[la]viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nārānidhi",
+   "name": "Nārānidhi",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nārānidhisvasya vilokanārthaṃ saṃprālikhatturṇam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "dṛṅnetracārvāha śake madhauśitau pakṣe maheśasyatithau kaver dine",
+  "era": "ŚS",
+  "year": "dṛṅnetracārvāha",
+  "month": "madhu",
+  "paksa": "śita",
+  "tithi": "14",
+  "weekday": "kaverdina",
+  "nakshatra_yoga": "",
+  "ce_approx": "1699"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svasya vilokanārtham",
+ "notes": "The chronogram in the year 'dṛṅnetracārvāha' is interpreted with uncertainty by the cataloguer as Śāke 1621. Madhu corresponds to Caitra, śita to śuklapakṣa, maheśatithi to caturdaśī (14), and kaverdina to Śukravāra (Friday).",
+ "_meta": {
+  "reel": "A 214/15",
+  "model": "gemini-flash-latest",
+  "secs": 7.7,
+  "in_tok": 854,
+  "out_tok": 1941
+ }
+}

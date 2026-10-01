@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhūpatīndramalla",
+   "name": "Bhūpatīndramalla",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhūpatīndramallaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 824 pauṣavadi 2",
+  "era": "NS",
+  "year": "824",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1704"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bhūpatīndra Malla is the royal author of the drama.",
+ "_meta": {
+  "reel": "A 349/15",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 702,
+  "out_tok": 867
+ }
+}

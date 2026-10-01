@@ -1,0 +1,54 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: removed 'sumati' from titles; it is a praise epithet ('wise'), not a title or office. Kept 'mahīpati'.",
+   "p1: kept the 'author' role. The colophon only says the king 'performs' (karoti) the dance-drama of Yudhiṣṭhira's sacrifice, so authorship of the nāṭaka is implied rather than stated. Noted this in notes.",
+   "Date: kept NS 810 Pauṣa śukla 3 as the main date. Added a note that all three dates are in a later hand and record the play's rehearsal and performance, not when the manuscript was copied. ce_approx 1690 is right by NS+880; in fact the date falls in Dec 1689 or Jan 1690.",
+   "Notes: dropped the 'work on a bell' reading of ghaṃtijyā, which is uncertain, and added the chronological order of the three dates.",
+   "Place: noted that 'bhaktāpure' comes from the praise verse (where the king rules), not from an explicit statement of where the copy was made."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sumatiśrījitāmitra,malladevo",
+   "name": "Jitāmitramalla",
+   "roles": [
+    "king",
+    "author"
+   ],
+   "titles": [
+    "mahīpati"
+   ],
+   "affiliation": "sūryavaṃśa",
+   "residence": "Bhaktapur",
+   "evidence": "sumatiśrījitāmitra,malladevo mahīpatiḥ || yudhiṣṭhirasya yajñasya nṛtyārambhaṃ karoti hi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 810 pauṣasudi 3 pyākhana ṛ tayā dina || samvat 809 caitrasudi 13 ghaṃtijyā ārambha yāṅā dina || || samvat 809 śrāvaṇa śudi 1 ghaṃtijyā, dhuna dina",
+  "era": "NS",
+  "year": "810",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1690"
+ },
+ "place": {
+  "as_written": "bhaktāpure",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "The dates were added in a later hand and appear to record the production of the play rather than the copying of the manuscript. In chronological order: NS 809 Caitra śukla 13 (c. Mar/Apr 1689), the ghaṃtijyā was begun (ārambha); NS 809 Śrāvaṇa śukla 1 (c. Jul/Aug 1689), the ghaṃtijyā was finished (dhuna); NS 810 Pauṣa śukla 3 (c. Dec 1689/Jan 1690), the day of the pyākhana (dance-drama performance). 'ghaṃtijyā' is unclear; it may mean rehearsal or preparatory work for the play. The phrase 'pyākhana ṛ tayā' looks corrupt. No explicit copying date is given. Jitāmitra Malla (r. c. 1673–1696, Bhaktapur) is praised as the king. His authorship of the play is inferred from 'nṛtyārambhaṃ karoti' and from the usual attribution of the Jaiminibhārata nāṭaka to him; the colophon does not state it outright. 'gopāla' in the closing benediction is the deity (Kṛṣṇa). The catalogue lists Ugra Malla and Bhūpatīndra Malla, but they are not named here; they are only implied by 'saputraṃ' (with his son(s)). 'bhaktāpure' occurs in the praise verse, so Bhaktapur as the place of copying is plausible but not explicitly stated.",
+ "_meta": {
+  "reel": "A 346/8",
+  "model": "opus",
+  "cost_usd": 0.09864600000000001,
+  "secs": 23.8
+ }
+}

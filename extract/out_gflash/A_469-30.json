@@ -1,0 +1,60 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "harikarṇagiri",
+   "name": "Harikarṇa",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "giri"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "harikarṇagiriprasādāt",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dāmodaragiri",
+   "name": "Dāmodara",
+   "roles": [
+    "scribe",
+    "reader"
+   ],
+   "titles": [
+    "giri"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṭhanārthe dāmodaragiri",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "aśvinamāse kṛṣṇapakṣye(!) ekādasī(!) vāra(!) bho(!)mavāsare || saṃvat (1684)",
+  "era": "VS",
+  "year": "1684",
+  "month": "Āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī",
+  "weekday": "bhaumavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1627"
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "paṭhanārthe",
+ "notes": "The manuscript was copied in Varanasi (Kāśyām). Harikarṇa Giri and Dāmodara Giri bear the Daśanāmī title Giri.",
+ "_meta": {
+  "reel": "A 469/30",
+  "model": "gemini-flash-latest",
+  "secs": 9.5,
+  "in_tok": 774,
+  "out_tok": 1465
+ }
+}

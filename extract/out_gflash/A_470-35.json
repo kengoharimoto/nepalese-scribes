@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnārāyaṇaśarmaṇaḥ",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "nepāladeśe naṃ sālagrāme",
+   "evidence": "śrīnārāyaṇaśarmaṇaḥ samvat || 1982 || je(!)ṣṭa(!) (‥) gate roja likhitaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat || 1982 || je(!)ṣṭa(!) (‥) gate roja",
+  "era": "VS",
+  "year": "1982",
+  "month": "Jyeṣṭha",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "roja",
+  "nakshatra_yoga": "",
+  "ce_approx": "1925"
+ },
+ "place": {
+  "as_written": "nepāladeśe naṃ(!) sā(!)lagrāme",
+  "normalized": "Śālagrāma"
+ },
+ "purpose": "bhairavārpaṇam astu",
+ "notes": "The date uses the solar calendar format common in Nepal (gate roja).",
+ "_meta": {
+  "reel": "A 470/35",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 786,
+  "out_tok": 831
+ }
+}

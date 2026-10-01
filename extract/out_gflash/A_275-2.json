@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīratnagarbhabhaṭṭācārya",
+   "name": "Ratnagarbha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīratnagarbhabhaṭṭācāryaviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 824 mārggasirakṛṣṇapaṃcami(!) vṛhaspatidine",
+  "era": "NS",
+  "year": "824",
+  "month": "Mārgaśira",
+  "paksa": "kṛṣṇa",
+  "tithi": "pañcamī",
+  "weekday": "vṛhaspatidina",
+  "nakshatra_yoga": "",
+  "ce_approx": "1703"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe is anonymous, represented only by the standard scribal formula: yathā hasta tathā liṣitaṃ mama doṣo na vidyate.",
+ "_meta": {
+  "reel": "A 275/2",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 850,
+  "out_tok": 1095
+ }
+}

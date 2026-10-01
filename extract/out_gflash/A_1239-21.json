@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījaya bhūpatīndramarlladevasana",
+   "name": "Bhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījaya bhūpatīndramarlladevasana cuka cosa deva pratiṣṭhā sirddhāgni a(92v1)itāhuti yajña yāṅāyā thva sāphuli",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 825 bhādrapada śukla daśamī (2) mūla śaniścavārakuhnuḥ",
+  "era": "NS",
+  "year": "825",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "śaniścavāra",
+  "nakshatra_yoga": "mūla",
+  "ce_approx": "1705"
+ },
+ "place": {
+  "as_written": "cuka cosa",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "deva pratiṣṭhā sirddhāgni aitāhuti yajña yāṅāyā thva sāphuli",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1239/21",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 769,
+  "out_tok": 1132
+ }
+}

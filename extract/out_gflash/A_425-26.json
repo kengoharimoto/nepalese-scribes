@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sarvvaśāstraviśāradaśrīkāśīnātha",
+   "name": "Kāśīnātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "sarvaśāstraviśārada"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sarvvaśāstraviśāradaśrīkāśīnāthakṛ(9)tau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "goviṃda",
+   "name": "Govinda",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "goviṃdatanayo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "amarasiṃhatripāṭhinā",
+   "name": "Amarasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "tripāṭhin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "goviṃdatanayo ʼlikhat amarasiṃhatripāṭhinā ʼlikhann idaṃ (11) pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "goviṃdatanayo"
+  }
+ ],
+ "date": {
+  "as_written": "iṃdunetrādrividhu1721yug vatsare caṃdravāsare prati(10)patkārttike kṛṣṇe",
+  "era": "VS",
+  "year": "1721",
+  "month": "Kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "pratipad",
+  "weekday": "candravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1664"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthaṃ ca",
+ "notes": "",
+ "_meta": {
+  "reel": "A 425/26",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 793,
+  "out_tok": 1481
+ }
+}

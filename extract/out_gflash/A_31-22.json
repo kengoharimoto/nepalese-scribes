@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayaśīhamallavarmmaṇaiḥ",
+   "name": "Jayaśīhamallavarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "mahāpātra",
+    "kuṭumbaja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kuṭumbajamahāpātraśrījayaśīhamallavarmmaṇaiḥ svahastena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 470 bhādrapadakṛṣṇadvitīyāparatṛtīyān tithau || uttarabhadrapararevatinakṣatre || gaṇḍayoge || śukravāsare",
+  "era": "NS",
+  "year": "470",
+  "month": "bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvitīyāparatṛtīyā",
+  "weekday": "śukravāsara",
+  "nakshatra_yoga": "uttarabhadrapararevatī, gaṇḍa",
+  "ce_approx": "1350"
+ },
+ "place": {
+  "as_written": "hnolavihere",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Jayaśīhamalla is an orthographic variant of Jayasiṃhamalla.",
+ "_meta": {
+  "reel": "A 31/22",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 911,
+  "out_tok": 1372
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paṃḍita vallāla",
+   "name": "Vallāla",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpaṃḍita vallāla viracito",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃmata 1859 phālguḥ",
+  "era": "VS",
+  "year": "1859",
+  "month": "phālguḥ",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1802"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Vallāla is the author of Bhojaprabandha (often Ballālasena or Ballāla). The month phālguḥ is likely an abbreviation for Phālguna.",
+ "_meta": {
+  "reel": "B 282/4",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 768,
+  "out_tok": 902
+ }
+}

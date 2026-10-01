@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "deviprasādasarmaṇena(!)",
+   "name": "Devīprasādaśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman",
+    "thara: kvairālā"
+   ],
+   "affiliation": "Koirālā (thara)",
+   "residence": "naipāladīśi(!) purvasya(!) caurigrāmanivāśinaḥ(!)",
+   "evidence": "deviprasādasarmaṇena(!) | 1 likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 2007 sāl phālguna 9 gate roja 3",
+  "era": "VS",
+  "year": "2007",
+  "month": "phālguna",
+  "paksa": "",
+  "tithi": "9 gate",
+  "weekday": "roja 3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1951"
+ },
+ "place": {
+  "as_written": "naipāladīśi(!) purvasya(!) caurigrāma",
+  "normalized": "Caurigrāma"
+ },
+ "purpose": "",
+ "notes": "The date is given in the solar calendar of Nepal (VS 2007 Phālguna 9 gate, roja 3 = Tuesday), corresponding to February 1951 CE.",
+ "_meta": {
+  "reel": "A 1102/27",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 831,
+  "out_tok": 994
+ }
+}

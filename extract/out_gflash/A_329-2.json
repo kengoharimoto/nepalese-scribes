@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dhvakahma ṭhākurasannam",
+   "name": "Dhvakahma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "ṭhākura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śri dhvakahma ṭhākurasannam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 795 phālguṇa vadi pañcami para ṣaṣṭhī maṃgalavāra",
+  "era": "NS",
+  "year": "795",
+  "month": "phālguṇa",
+  "paksa": "vadi",
+  "tithi": "pañcamī para ṣaṣṭhī",
+  "weekday": "maṃgalavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1675"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 329/2",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 786,
+  "out_tok": 1030
+ }
+}

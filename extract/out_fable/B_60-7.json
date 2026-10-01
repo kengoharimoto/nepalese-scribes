@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vīrabhadrasādhaka mumukṣuṇe(!)",
+   "name": "Vīrabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sādhaka",
+    "mumukṣu"
+   ],
+   "affiliation": "",
+   "residence": "Rāmadila-puṇyāśrama on the hill (śaila) at Galkoṭa",
+   "evidence": "vīrabhadrasādhaka mumukṣuṇe(!) idaṃ pustakaṃ litaṃ(!)",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīaṣṭāvakramuni",
+   "name": "Aṣṭāvakra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "muni"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīaṣṭāvakramuniviracite adhyātmaśāstre",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1887 || miti āśvina vadi 30 || roja 5",
+  "era": "VS",
+  "year": "1887",
+  "month": "āśvina",
+  "paksa": "vadi (kṛṣṇa)",
+  "tithi": "30 (amāvāsyā)",
+  "weekday": "roja 5 (Thursday, Nepali reckoning roja 1 = Sunday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1830"
+ },
+ "place": {
+  "as_written": "galkoṭadaśruśaile rāmadilamuṇyāśrame",
+  "normalized": "Galkot (Baglung district, Nepal)"
+ },
+ "purpose": "",
+ "notes": "The phrase 'vīrabhadrasādhaka mumukṣuṇe(!) idaṃ pustakaṃ litaṃ(!)' (likely for mumukṣuṇā ... likhitam) is read as 'this book was written by Vīrabhadra, a sādhaka and mumukṣu', agreeing with the catalogue's scribe field; the corrupt ending could in principle be dative ('for a mumukṣu'), hence medium confidence for the scribe role. 'sādhaka' may be part of the name (Vīrabhadrasādhaka) or an ascetic designation; placed in titles. Place: 'muṇyāśrame' is a slip for puṇyāśrame (catalogue: Rāmadilapuṇyāśrama); 'daśruśaile' is obscure, perhaps the name of the hill at Galkoṭa. The year 1887 with 'miti', 'roja' and Devanagari script is Nepali Vikrama usage (VS 1887 = 1830 CE). Aṣṭāvakra muni is the legendary author of the text, listed only for filtering.",
+ "_meta": {
+  "reel": "B 60/7",
+  "model": "fable",
+  "cost_usd": 0.182877,
+  "secs": 24.1
+ }
+}

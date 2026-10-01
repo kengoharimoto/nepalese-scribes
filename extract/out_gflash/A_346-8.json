@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sumatiśrījitāmitra,malladevo",
+   "name": "Jitāmitramalla",
+   "roles": [
+    "king",
+    "author"
+   ],
+   "titles": [
+    "sumati",
+    "mahīpati"
+   ],
+   "affiliation": "sūryavaṃśa",
+   "residence": "Bhaktapur",
+   "evidence": "sumatiśrījitāmitra,malladevo mahīpatiḥ || yudhiṣṭhirasya yajñasya nṛtyārambhaṃ karoti hi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 810 pauṣasudi 3 pyākhana ṛ tayā dina || samvat 809 caitrasudi 13 ghaṃtijyā ārambha yāṅā dina || || samvat 809 śrāvaṇa śudi 1 ghaṃtijyā, dhuna dina",
+  "era": "NS",
+  "year": "810",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1690"
+ },
+ "place": {
+  "as_written": "bhaktāpure",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Ugra Malla and Bhūpatīndra Malla under kings, but in this colophon they are only implied by 'jitāmitramallaḥ saputraṃ punātu' and not named individually. 'gopāla' refers to the deity Kṛṣṇa. The colophon records multiple dates concerning the staging of the play (pyākhana) and the work on a bell (ghaṃtijyā).",
+ "_meta": {
+  "reel": "A 346/8",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 935,
+  "out_tok": 1683
+ }
+}

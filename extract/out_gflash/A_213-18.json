@@ -1,0 +1,78 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvopadeva-",
+   "name": "Vopadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvopadevaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhiṣagvaryelhopaṃḍita-",
+   "name": "Elha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhiṣagvarya",
+    "paṇḍita"
+   ],
+   "affiliation": "Citrava-vaṃśa",
+   "residence": "",
+   "evidence": "citravavaṃśotpanna bhiṣagvaryelhopaṃḍitasuta",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "nārāytaṇena",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Citrava-vaṃśa",
+   "residence": "",
+   "evidence": "nārāytaṇena kāśyām idaṃ ślokīpustakaṃ likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "bhiṣagvaryelhopaṃḍitasuta nārāytaṇena"
+  }
+ ],
+ "date": {
+  "as_written": "śake 1515 svasti śrīmannṛpavikramārkarājyātīta saṃvat 1650 vaiśākhyām amāvāsyām",
+  "era": "VS",
+  "year": "1650",
+  "month": "Vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "amāvāsyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1593"
+ },
+ "place": {
+  "as_written": "kāśyām",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "svārthaṃ parārthaṃ ca",
+ "notes": "The scribe's name has an intrusive 'ta' (nārāytaṇena for nārāyaṇena). The father's name appears to be Elha or Elho (bhiṣagvaryelhopaṃḍitasuta). Both Śaka 1515 and Vikrama Saṃvat 1650 are stated, corresponding to 1593 CE.",
+ "_meta": {
+  "reel": "A 213/18",
+  "model": "gemini-flash-latest",
+  "secs": 10.2,
+  "in_tok": 747,
+  "out_tok": 2335
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśivaśarmaṇā",
+   "name": "Śivaśarman",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "samāpitam idaṃ śrīśivaśarmaṇā svārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1755 śrīsamvat 1890 sāla miti pauṣa śudi trayodasyāṃ puṇyatithau jivavāsare",
+  "era": "VS",
+  "year": "1890",
+  "month": "pauṣa",
+  "paksa": "śudi",
+  "tithi": "trayodasī",
+  "weekday": "jivavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1834"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ",
+ "notes": "Both Śaka 1755 and Vikrama Saṃvat 1890 are cited. Jīvavāsara corresponds to Thursday.",
+ "_meta": {
+  "reel": "A 1073/16",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 796,
+  "out_tok": 1287
+ }
+}

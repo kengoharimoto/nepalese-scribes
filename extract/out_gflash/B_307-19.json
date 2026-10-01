@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhānudatta",
+   "name": "Bhānudatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhānudattaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gaṇapati",
+   "name": "Gaṇapati",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gaṇapatitanaya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "gaṇapatitanayabhānudatta"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1861 śāke",
+  "era": "VS",
+  "year": "1861",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1804"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records 'VS 1861 ŚS 1726', but the colophon quotation shows 'samvat 1861 śāke' followed by floral/filler marks with no Śaka year numeral provided.",
+ "_meta": {
+  "reel": "B 307/19",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 738,
+  "out_tok": 1023
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīḍambarasena",
+   "name": "Ḍambarasena",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīḍambarasenaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1708 śrāvana kṛṣṇe 4 śanau",
+  "era": "ŚS",
+  "year": "1708",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "4",
+  "weekday": "śanau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1786"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 172/11",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 696,
+  "out_tok": 580
+ }
+}

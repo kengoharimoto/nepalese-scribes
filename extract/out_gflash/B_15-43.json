@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "aṃgatakumāra",
+   "name": "Aṅgatakumāra",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "aṃgatakumārakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vajrācāryaśrībandhavasenena",
+   "name": "Bandhavasena",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "mahāvīhāratarumūla",
+   "residence": "śrīkāṣṭhamaṇḍapapurī pūrvadig",
+   "evidence": "vajrācāryaśrībandhavasenena rekhītaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 644 phālguṇapratipadadine bhṛguvāsare",
+  "era": "NS",
+  "year": "644",
+  "month": "phālguṇa",
+  "paksa": "",
+  "tithi": "pratipadā",
+  "weekday": "bhṛguvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1524"
+ },
+ "place": {
+  "as_written": "śrīkāṣṭhamaṇḍapapurī pūrvadigsthita,mahāvīhāratarumūla",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "sarvalokasya duṣṭacettaṣṭambhanāāya hraṣamanavarttanārthanimitaṃ",
+ "notes": "The scribe Bandhavasena is resident at Tarumūla Mahāvīhāra (Sikhamū Bāhā) in the eastern part of Kathmandu.",
+ "_meta": {
+  "reel": "B 15/43",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 813,
+  "out_tok": 1503
+ }
+}

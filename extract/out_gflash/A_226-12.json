@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jagajjayamalla",
+   "name": "Jagajjayamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jagajjayamalla",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon ends abruptly with the name 'jagajjayamalla', whom the catalogue identifies as King Jagajjayamalla.",
+ "_meta": {
+  "reel": "A 226/12",
+  "model": "gemini-flash-latest",
+  "secs": 2.8,
+  "in_tok": 655,
+  "out_tok": 543
+ }
+}

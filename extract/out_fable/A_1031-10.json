@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśivanārāyaṇamiśraraḥ",
+   "name": "Śivanārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ṛṣitaṃ śrīśivanārāyaṇamiśraraḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīkāṃta upādhyābhājuyā",
+   "name": "Śrīkānta",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "upādhyāya",
+    "bhāju"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkāṃta upādhyābhājuyā pustaka jura",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "śrīkāṃta upādhyābhājuyā pustaka jura || ṛṣitaṃ śrīśivanārāyaṇamiśraraḥ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 875 naṣṭajyeṣṭaśuklayā, daśami, utraphāguṇīnakṣatra, variyānajoge, budhavāraśare",
+  "era": "NS",
+  "year": "875",
+  "month": "naṣṭa-Jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "budhavāra (Wednesday)",
+  "nakshatra_yoga": "Uttaraphalgunī nakṣatra, Variyān yoga",
+  "ce_approx": "1755"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "Copy made for (belongs to) Śrīkānta Upādhyāya Bhāju; preceded by the stock scribal apology verse (yādṛśaṃ pustakaṃ dṛṣṭvā ... mama doṣo na dīyate).",
+ "notes": "\"ṛṣitaṃ\" is a corruption of \"likhitaṃ\". \"śivanārāyaṇamiśraraḥ\" = Śivanārāyaṇa Miśra (Newari -ra- ending); catalogue gives the full form Śivanārāyaṇamiśra, so miśra is treated as a caste/surname title. In \"śrīkāṃta\" the śrī is part of the personal name Śrīkānta (a Viṣṇu name), not an honorific, so retained. \"upādhyābhājuyā\" = upādhyāya + bhāju + Newari genitive -yā; \"pustaka jura\" = 'it is the book of'. \"naṣṭa\" qualifying Jyeṣṭha is unclear (possibly an intercalary/irregular month marker); kept as written. Date agrees with the catalogue. \"thva kuhnu śaṃpuna yāṅā juraḥ\" = 'on this day (the copy) was completed' (Newari). The following \"(Bṛhaspatiṭīkā:)\" is the cataloguer's heading for a second text, not part of this colophon.",
+ "_meta": {
+  "reel": "A 1031/10",
+  "model": "fable",
+  "cost_usd": 0.203447,
+  "secs": 26.3
+ }
+}

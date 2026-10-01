@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date as_written now includes the full 'roja 2(6)mā'. The '(6)' is the cataloguer's line-number marker, not part of the weekday, so the weekday is roja 2 = Monday.",
+   "Weekday normalized to 'Monday'.",
+   "Notes now explain that the place of copying is inferred from the scribe's residence ('visaṃṣu vasnyā'). The colophon gives no explicit place of copying.",
+   "Notes now give the spelling normalizations: sivadatta → Śivadatta, pādhyā → upādhyāya, visaṃṣu with ṣ for kh → Bisaṅkhu.",
+   "Everything else in the first reading is kept: Śivadatta as scribe, the upādhyāya title, the Nepāla thar, VS 1917 = c. 1860 CE."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsivadattapādhyā nepāla",
+   "name": "Śivadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "Nepāla (thar)",
+   "residence": "Visaṃṣu (Bisaṅkhu)",
+   "evidence": "śrīvisaṃṣu vasnyā śrīsivadattapādhyā nepāla haste",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat || 1917 sāla miti āṣāḍa vadi || 14 || roja 2(6)mā",
+  "era": "VS",
+  "year": "1917",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "14",
+  "weekday": "Monday (roja 2)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1860"
+ },
+ "place": {
+  "as_written": "śrīvisaṃṣu",
+  "normalized": "Bishankhu"
+ },
+ "purpose": "",
+ "notes": "'(5)' and '(6)' are the cataloguer's line numbers, so 'roja 2(6)mā' reads 'roja 2mā' = Monday. The era is not named ('śrīsamvat'), but 1917 with 'sāla miti' and Nepali phrasing points to VS, so 1860 CE. 'vasnyā' (Nepali 'resident of') makes Visaṃṣu the scribe's residence. The catalogue takes it as the place of copying, but the colophon does not say so explicitly. Visaṃṣu, written with ṣ for kh, is probably Bisaṅkhu (Bishankhu Narayan, Lalitpur district). 'pādhyā' = upādhyāya. 'nepāla' is the Khas-Brahmin thar Nepāla/Nepal, not the country. 'sivadatta' is read as Śivadatta.",
+ "_meta": {
+  "reel": "A 898/14",
+  "model": "opus",
+  "cost_usd": 0.076698,
+  "secs": 15.7
+ }
+}

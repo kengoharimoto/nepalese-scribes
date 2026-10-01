@@ -1,0 +1,36 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday normalized: 'roja 2' = Monday (somavāra)",
+   "month normalized to Vaiśākha (written vaisāṣa), pakṣa to kṛṣṇa (vadī)",
+   "purpose reworded: the colophon is a pious wish of the scribe, not a statement of purpose",
+   "notes expanded on era and the lacuna"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1947 sāla mītī(!) vaisāṣa(!) vadī(!)10 roja2",
+  "era": "VS",
+  "year": "1947",
+  "month": "Vaiśākha (vaisāṣa)",
+  "paksa": "kṛṣṇa (vadī)",
+  "tithi": "10",
+  "weekday": "Monday (roja 2)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1890"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "pious wish: mama śaṃkaraprītir astu (may Śaṅkara be pleased with me)",
+ "notes": "No human names survive. The colophon says 'mama (‥)': the lacuna after 'mama' could have held the scribe's or owner's name, but nothing can be read there. The era is not named. 'samvat … sāla mītī … roja' is Nepali-style dating from the Gorkhā period, so the year is VS: 1947 − 57 = 1890 CE. Vaiśākha falls in April–May 1890. The catalogue field (SAM 1947) agrees.",
+ "_meta": {
+  "reel": "A 299/3",
+  "model": "opus",
+  "cost_usd": 0.060018,
+  "secs": 10.1
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vaiyyāsakyāṃ",
+   "name": "Vyāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vaiyyāsakyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīrāmabhadrātma bhuvā",
+   "name": "Rāmabhadrātmabhū",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmabhadrātma bhuvā ... vyalekhi",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīrāmabhadrasya",
+   "name": "Rāmabhadra",
+   "roles": [
+    "relative_only",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmabhadrātma bhuvā ... śrīrāmabhadrasya nikāmatuṣṭayai",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "śrīrāmabhadrātma bhuvā"
+  }
+ ],
+ "date": {
+  "as_written": "navādribhūpairmiteśāka vare nabhasyo",
+  "era": "ŚS",
+  "year": "1679",
+  "month": "nabhasya",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1757"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīrāmabhadrasya nikāmatuṣṭayai",
+ "notes": "The catalogue gives the scribe as Rāmabhadra. However, the colophon verse in Śālinī meter states: 'śrīrāmabhadrātmabhuvā navādribhūpair mite śākavare nabhasye / āraṇyakaṃ sarvam ado vyalekhi śrīrāmabhadrasya nikāmatuṣṭyai', indicating that the copyist was the unnamed son of Rāmabhadra (rāmabhadrātmabhū), who copied it for the gratification of Rāmabhadra (either his father or the deity Rāma). Chronogram: nava (9), adri (7), bhūpa (16) = Śaka 1679.",
+ "_meta": {
+  "reel": "A 1071/2",
+  "model": "gemini-flash-latest",
+  "secs": 30.0,
+  "in_tok": 756,
+  "out_tok": 7192
+ }
+}

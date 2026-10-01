@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśveśvarasarasvatī",
+   "name": "Viśveśvarasarasvatī",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "paramahaṃsa",
+    "parivrājakācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viśveśvarasarasvatī śrīpādaśiṣya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "madhusūdanasarasvatī",
+   "name": "Madhusūdanasarasvatī",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadhusūdanasarasvatīviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "viśveśvarasarasvatī śrīpādaśiṣya śrīmadhusūdanasarasvatī"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1765 samvat 1900 sāla miti mārgaśudi 2",
+  "era": "ŚS",
+  "year": "1765",
+  "month": "mārga",
+  "paksa": "śudi",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1843"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śāka era 1765 and Vikrama Saṃvat 1900 are specified in the colophon, corresponding to 1843 CE.",
+ "_meta": {
+  "reel": "B 83/12",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 773,
+  "out_tok": 1142
+ }
+}

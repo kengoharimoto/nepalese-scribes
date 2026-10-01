@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhavanāthena",
+   "name": "Bhavanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ bhavanāthena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat || 1936 || || śākaḥ || 1801 || ... śaśiṣkhāṣṭādaśe varṣe śālivāhana janmataḥ",
+  "era": "VS",
+  "year": "1936",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1879"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Vikrama Saṃvat 1936 and Śaka 1801 (expressed both in digits and chronogram: śaśi-kha-aṣṭādaśa = 1801) are provided.",
+ "_meta": {
+  "reel": "A 103/15",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 833,
+  "out_tok": 1168
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "akavarasāhe[[na]]",
+   "name": "Akavara Śāha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ akavarasāhe[[na]]",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī śrīmannarabhupālaśāha",
+   "name": "Narabhūpāla Śāha",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "gorṣāgrāma",
+   "evidence": "śrī śrīmannarabhupālaśāhabhujyamāne",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "śrī śrīmannarabhupālaśāhabhujyamāne gorṣāgrāme rajasthāne"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke || 1645 samavat || 1780 || ... kārtikavadi somavāsare ... śāke vāṇād dhi ṣaṭ caṃdre",
+  "era": "ŚS",
+  "year": "1645",
+  "month": "kārtika",
+  "paksa": "kṛṣṇa",
+  "tithi": "",
+  "weekday": "somavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1723"
+ },
+ "place": {
+  "as_written": "gorṣāgrāme rajasthāne",
+  "normalized": "Gorkha"
+ },
+ "purpose": "",
+ "notes": "Both Śāka (1645, expressed in numerals and chronogram vāṇābdhiṣaṭcandre) and Vikrama Saṃvat (1780) are stated. Scribe is named twice: 'akavarasāhe[[na]]' and 'akavarasāha[[de]]vena'.",
+ "_meta": {
+  "reel": "A 1058/2",
+  "model": "gemini-flash-latest",
+  "secs": 8.9,
+  "in_tok": 844,
+  "out_tok": 2261
+ }
+}

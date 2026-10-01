@@ -1,0 +1,68 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Added the unnamed brahmin scribe ('dvijena … vyalekhi') as p2, role scribe, low confidence. The catalogue gives his name as Lakṣmīpati, but the quoted colophon does not.",
+   "Tithi: 'caturvaktra' is a word-numeral for 4, so the tithi is caturthī (4). It was left unparsed.",
+   "Weekday and nakṣatra re-parsed. 'gurau' means Thursday. 'bhe pataṅge' is the nakṣatra ruled by the Sun (Savitṛ), i.e. Hasta. The first reading had swapped them, taking pataṅge as the weekday and guraubhe as the nakṣatra.",
+   "Place normalised to the stem Caṅālīpura (not identified).",
+   "Chronogram and the ŚS 1699 / 1777 CE date confirmed."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭanārāyaṇa",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭanārāyaṇaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dvijenaś",
+   "name": "(unnamed dvija)",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "Caṅālīpura",
+   "evidence": "vyalekhi dvijenaś caṅālīpūreṣu",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śakeṃkāṃka bhūpair mite bhādraśukle catur vaktratithye guraubhe pataṃge",
+  "era": "ŚS",
+  "year": "1699",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "4 (caturvaktra = 4)",
+  "weekday": "Thursday (gurau)",
+  "nakshatra_yoga": "Hasta (bhe pataṅge: the nakṣatra ruled by the Sun)",
+  "ce_approx": "1777"
+ },
+ "place": {
+  "as_written": "caṅālīpūreṣu",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram is read right to left: aṅka (9), aṅka (9), bhūpa (16) gives ŚS 1699, which is 1777 CE. 'guraubhe pataṃge' is best split as gurau (Thursday) + bhe pataṅge (the nakṣatra of the Sun/Savitṛ, i.e. Hasta). This fits Bhādra śukla 4, when the moon is near Hasta. Reading 'gurubha' as Puṣya is astronomically impossible on this tithi. The weekday has not been checked against an ephemeris. The scribe is called only a 'dvija'. 'dvijenaś' looks corrupt: a name or a word like 'atra' may have dropped out of the bhujaṅgaprayāta verse. The catalogue gives the scribe as Lakṣmīpati, but the quoted text does not confirm this. It may come from elsewhere in the manuscript, or it may confuse him with the author of the Anvayadīpikā. 'vyalekhi … ṭīkām' could also be the commentator's own date verse copied over from the exemplar rather than a statement by this copy's scribe. The commentary (Anvayadīpikā) is mentioned, but its author is not named here.",
+ "_meta": {
+  "reel": "A 405/8",
+  "model": "opus",
+  "cost_usd": 0.100922,
+  "secs": 27.6
+ }
+}

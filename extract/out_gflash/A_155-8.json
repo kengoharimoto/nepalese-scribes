@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "upādhyāyapārthasārathimiśra",
+   "name": "Pārthasārathimiśra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "upādhyāyapārthasārathimiśraviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chapter colophon (chapter 5). \"rāma\" at the end is an auspicious invocation.",
+ "_meta": {
+  "reel": "A 155/8",
+  "model": "gemini-flash-latest",
+  "secs": 3.0,
+  "in_tok": 664,
+  "out_tok": 536
+ }
+}

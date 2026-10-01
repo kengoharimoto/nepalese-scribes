@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "place: emptied — Ttalumūlamahāvihāra is where the vajrācārya lives ('avasthita'), not a stated place of copying; kept as affiliation/residence",
+   "p1 roles kept as scribe+commissioner but flagged as ambiguous in notes: 'lekhaya' is a causative stem (suggests lekhāpitam = commissioner), yet the instrumental form with -iti is also common in scribe statements",
+   "notes expanded: the statement comes after an appended dhāraṇī (Sarvarogapraśamanī), so it may cover only the dhāraṇī or the whole codex; the vihāra name has not been identified"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācāryaśrījagadānandena",
+   "name": "Jagadānanda",
+   "roles": [
+    "scribe",
+    "commissioner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Ttalumūlamahāvihāra",
+   "residence": "Ttalumūlamahāvihāra",
+   "evidence": "lekhaya(!) ttalumūlamahāvihārāvasthitavajrācāryaśrījagadānandeneti",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'lekhaya(!)' is corrupt. It may stand for lekhāpitam/lekhayitam (caused to be written, so Jagadānanda would be the commissioner) or for likhitam (written by, so he would be the scribe). Both roles are kept, but this is uncertain. The statement comes after the Sarvarogapraśamanī dhāraṇī, which was appended after the main colophon of the Hevajraḍākinījālasaṃvara (fol. 51r–v). It may refer only to that addition, not to the whole manuscript. 'Ttalumūlamahāvihāra' is spelled as written and has not been identified (it may be a corruption of a known Kathmandu or Patan vihāra name). The manuscript has no date.",
+ "_meta": {
+  "reel": "B 112/7",
+  "model": "opus",
+  "cost_usd": 0.075594,
+  "secs": 16.3
+ }
+}

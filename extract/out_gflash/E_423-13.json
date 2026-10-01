@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībrahmarājena",
+   "name": "Brahmarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiteyaṃ puṣṭikā (!), śrībrahmarājena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 871 māghakṛṣṇāmāvāśyā, bṛhaspativāre",
+  "era": "NS",
+  "year": "871",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "amāvāsyā",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1751"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue mentions 'Queen Śrīmahārājarājeśvarī' as ruler, but no monarch is mentioned in the quoted colophon portion.",
+ "_meta": {
+  "reel": "E 423/13",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 782,
+  "out_tok": 832
+ }
+}

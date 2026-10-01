@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Lowered confidence for Gaṅgāviṣṇu to low: the name is reconstructed from a corrupt string ('malikhaḍgaṃ gāviśṇu') and is followed by a lacuna, so the name may be incomplete",
+   "Expanded notes on the chronogram with candidate readings; ce_approx left empty because the reading is too uncertain",
+   "date.year left as the chronogram string because no secure numeral can be derived"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaṃ gāviśṇu",
+   "name": "Gaṅgāviṣṇu",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "malikhaḍgaṃ gāviśṇu…………",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "rasārasābhū isa bhū śake mārge site śanau || dvādaśyāṃ",
+  "era": "ŚS",
+  "year": "rasārasābhū isa bhū",
+  "month": "Mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "śanivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The text 'malikhaḍgaṃ gāviśṇu…………' is probably a corruption of '…m alikhad Gaṅgāviṣṇu…' ('Gaṅgāviṣṇu wrote'). The name may be truncated because a lacuna follows it. The bhūtasaṃkhyā chronogram 'rasārasābhū isa bhū' is corrupt. It seems to contain rasa (6), rasā (earth, 1), ibha? (elephant, 8) and bhū (1). Possible readings, taken right to left, are: rasa-aṣṭa/ibha-ibha-bhū = 1886, or rasa-rasa-ibha-bhū = 1866. That would give ŚS 1866/1886 (c. 1944/1964 CE), but these are speculative. The date is Mārgaśīrṣa śukla 12, a Saturday, and a correct year reading could be checked against it. The era word is 'śake'. It is taken here as Śaka, but in Nepalese usage 'śake' is sometimes used loosely.",
+ "_meta": {
+  "reel": "A 976/19",
+  "model": "opus",
+  "cost_usd": 0.094728,
+  "secs": 18.2
+ }
+}

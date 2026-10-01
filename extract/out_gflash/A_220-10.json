@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "(12\\u2 2 1 dha 4ī) rmmaṇāḥ",
+   "name": "[...]śarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "litaṃ (12\\u2 2 1 dha 4ī) rmmaṇāḥ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī śāke 1629 māse 7 tithau 30 vāsare 3 dinagatā 13",
+  "era": "ŚS",
+  "year": "1629",
+  "month": "7",
+  "paksa": "kṛṣṇa",
+  "tithi": "30",
+  "weekday": "3 (Tuesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1707"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The name of the scribe is damaged or represented by cryptic/illegible characters followed by '-rmmaṇāḥ' (likely for Sanskrit 'likhitaṃ ...-śarmaṇā').",
+ "_meta": {
+  "reel": "A 220/10",
+  "model": "gemini-flash-latest",
+  "secs": 8.4,
+  "in_tok": 827,
+  "out_tok": 1910
+ }
+}

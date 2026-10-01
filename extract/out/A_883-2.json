@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhairaviśaraṇena (!)",
+   "name": "Bhairavīśaraṇa",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Kāśī",
+   "evidence": "idaṃ pustakaṃ bhairaviśaraṇena (!) lipikṛtaṃ svapaṭhanārthaṃ kāśyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "kāśyāṃ madhye ... śrīvidyeśvarasaṃnidho (!)",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "svapaṭhanārtha (for the scribe's own reading)",
+ "notes": "The colophon gives the name as bhairaviśaraṇena; the cataloguer marked it (!) and normalised it to Bhairavīśaraṇa. I followed the catalogue's form. The copy was made in Kāśī, near Vidyeśvara (written saṃnidho for saṃnidhau), by the grace of the goddess Saṅkaṭādevī. Saṅkaṭādevī and Vidyeśvara are a deity and a shrine, not people, so they are not listed. The colophon gives no date. The scribe made the copy for their own reading, so they are listed as the owner as well.",
+ "_meta": {
+  "reel": "A 883/2",
+  "model": "opus",
+  "cost_usd": 0.072184,
+  "secs": 9.1
+ }
+}

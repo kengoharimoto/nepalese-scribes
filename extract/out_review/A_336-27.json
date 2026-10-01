@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Persons, date and chronogram confirmed: rasa(6)-muni(7)-muni(7)-candra(1), read right to left = Śaka 1776, about 1854 CE; asita = kṛṣṇa pakṣa; vinikhati(!) = vilikhati, so Bhuvanānanda is the scribe.",
+   "Notes: the first reading stated that an intercalary Āṣāḍha 'indeed occurred in 1854'. This has not been checked, so it is now marked as unverified.",
+   "Notes: 'jinajo' is explained as possibly 'son of Jina', which would be a patronymic, or a corruption. No separate person is created for it."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhuvanā- nando",
+   "name": "Bhuvanānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vinikhati(!) jinajo bhuvanā- nando",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "rasamunimunicandrayute śāke vārddhyāṣāḍhāsiteṣṭamyāṃ",
+  "era": "ŚS",
+  "year": "1776",
+  "month": "Āṣāḍha (vārddhi-, i.e. probably adhika/intercalary)",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1854"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The chronogram rasa(6)-muni(7)-muni(7)-candra(1), read right to left, gives Śaka 1776. Āṣāḍha of that year falls in 1854 CE. 'vārddhy-āṣāḍha' most likely stands for vṛddhi-Āṣāḍha, the intercalary (adhika) month. Whether Śaka 1776 actually had an adhika Āṣāḍha has not been checked against an ephemeris. 'asita' means the dark fortnight (kṛṣṇa pakṣa). 'vinikhati(!)' is a corruption of 'vilikhati'. 'jinajo' qualifies Bhuvanānanda and is unclear: it may mean 'son of Jina' (a patronymic, though the father's name would then be uncertain) or be a corruption, for example of 'dvijajo'. No separate person has been created for it. 'śrībadaryyākhya(!)' refers to the Badarī-māhātmya. This agrees with the catalogue fields (scribe Bhuvanānanda, Śāke 1776).",
+ "_meta": {
+  "reel": "A 336/27",
+  "model": "opus",
+  "cost_usd": 0.078122,
+  "secs": 17.5
+ }
+}

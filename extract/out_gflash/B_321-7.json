@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkālidāsa-",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkālidāsakṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "āśvinaśudi 11 bhaume dhaneṣṭhā na (6) śrīsaṃvat || || 1674",
+  "era": "VS",
+  "year": "1674",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "bhauma",
+  "nakshatra_yoga": "dhaneṣṭhā",
+  "ce_approx": "1617"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe refers to themself only anonymously via standard scribal verses (mayā, lekhakānāṃ).",
+ "_meta": {
+  "reel": "B 321/7",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 797,
+  "out_tok": 1079
+ }
+}

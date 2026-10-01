@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumati jaya jitāmitramalladevasana",
+   "name": "Jitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati",
+    "jaya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumati jaya jitāmitramalladevasana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 800 phālguṇa vadi 14 thvakuhnu",
+  "era": "NS",
+  "year": "800",
+  "month": "phālguṇa",
+  "paksa": "vadi",
+  "tithi": "14",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1680"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "King Jitāmitramalla of Bhaktapur caused the manuscript to be made (dayakā juroṃ).",
+ "_meta": {
+  "reel": "A 1245/22c",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 718,
+  "out_tok": 816
+ }
+}

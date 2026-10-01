@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājārāmasamākhyakaḥ",
+   "name": "Rājārāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sallekhaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "samalikhan mātsyaṃ purāṇaṃ vāṃ, rājārāmasamākhyakaḥ suviditaḥ sallekhako",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke khakṣaṇakuṃjaraiḥ parimite nepālike vatsare māse śrāvana(!)śuklake gurudine durgātithau vāyubhe(!) || yoge sādhyasamākhyake",
+  "era": "NS",
+  "year": "810",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "durgātithi (navamī)",
+  "weekday": "gurudina",
+  "nakshatra_yoga": "svātī (vāyubha), sādhya",
+  "ce_approx": "1690"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'kha-kṣaṇa-kuñjara' represents 0-1-8 (NS 810). Although preceded by 'śāke', it explicitly specifies 'nepālike vatsare' (Nepal Samvat).",
+ "_meta": {
+  "reel": "B 214/2",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 803,
+  "out_tok": 1241
+ }
+}

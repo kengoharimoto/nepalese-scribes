@@ -1,0 +1,71 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījagajjyotirīśaṃ",
+   "name": "Jagajjyotirīśa",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "īśa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "āśrityaikaṃ dharaṇivalaye śrījagajjyotirīśaṃ tasyādeśaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sumatiharidevaḥ",
+   "name": "Harideva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sumatiharidevaḥ samādhāya mūrdhnā ... lilekhāśu pustaṃ samastaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "tasyādeśaṃ sumatiharidevaḥ samādhāya mūrdhnā ... lilekhāśu"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "āśrityaikaṃ dharaṇivalaye śrījagajjyotirīśaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "nepālīye gatavati mate kheṣuśailais tu māse rādhe śuklapratipadi",
+  "era": "NS",
+  "year": "750",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1630"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "King Jagajjyotirīśa refers to King Jagajjyotirmalla of Bhaktapur. The chronogram 'kheṣuśailais' gives kha (0), iṣu (5), śaila (7) = NS 750; 'rādha' is a synonym for Vaiśākha.",
+ "_meta": {
+  "reel": "A 43/13",
+  "model": "gemini-flash-latest",
+  "secs": 6.8,
+  "in_tok": 754,
+  "out_tok": 1560
+ }
+}

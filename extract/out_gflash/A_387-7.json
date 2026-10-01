@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "māgha",
+   "name": "Māgha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kaviṣu māgha iti pratītaḥ kāvyaṃ vyadhatta śiśupālavadhābhidhānaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon quotes the concluding autobiographical verse of the Śiśupālavadha naming the poet Māgha, followed by a scribal note noting the verse's presence in another copy ('sarggasamāptipadyānantaram ity adhikaṃ pustakāntare'). No scribal date or names of copyists/commissioners are given.",
+ "_meta": {
+  "reel": "A 387/7",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 740,
+  "out_tok": 830
+ }
+}

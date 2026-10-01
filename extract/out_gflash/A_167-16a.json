@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīyū(!)kṛṣṇānandasya",
+   "name": "Kṛṣṇānanda",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīyū(!)kṛṣṇānandasyātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīravi(!)ndrānandena",
+   "name": "Ravindrānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīravi(!)ndrānandena liṣi(!)tam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīyū(!)kṛṣṇānandasyātmajaśrīravi(!)ndrānandena"
+  }
+ ],
+ "date": {
+  "as_written": "saṃ 958 miti bhādraśudi 7 ro 2",
+  "era": "NS",
+  "year": "958",
+  "month": "bhādra",
+  "paksa": "śudi",
+  "tithi": "7",
+  "weekday": "ro 2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1838"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Kālānala in 'kālānalasya mantrakoṣaḥ' refers to a deity/traditional attribution and is excluded.",
+ "_meta": {
+  "reel": "A 167/16a",
+  "model": "gemini-flash-latest",
+  "secs": 8.5,
+  "in_tok": 780,
+  "out_tok": 1160
+ }
+}

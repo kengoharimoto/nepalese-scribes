@@ -1,0 +1,145 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sadupādhyāyaśrīhīrumahāśayavacasā",
+   "name": "Hīru",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "sadupādhyāya",
+    "mahāśaya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sadupādhyāyaśrīhīrumahāśayavacasā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrībhīma",
+   "name": "Bhīma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhīma ... llikhitam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīśrīrāma",
+   "name": "Śrīrāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīrāma ... llikhitam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrījayadeva",
+   "name": "Jayadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījayadeva ... llikhitam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrī hariśarmma",
+   "name": "Hariśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī hariśarmma ... llikhitam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "śrīrāmacandraśarmmabhir",
+   "name": "Rāmacandraśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmacandraśarmmabhir mmilitair amībhir llikhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "sadupādhyāyaśrīhīrumahāśayavacasā, śrībhīma ... llikhitam"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "sadupādhyāyaśrīhīrumahāśayavacasā, ... śrīśrīrāma ... llikhitam"
+  },
+  {
+   "from": "p4",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "sadupādhyāyaśrīhīrumahāśayavacasā, ... śrījayadeva ... llikhitam"
+  },
+  {
+   "from": "p5",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "sadupādhyāyaśrīhīrumahāśayavacasā, ... śrī hariśarmma ... llikhitam"
+  },
+  {
+   "from": "p6",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "sadupādhyāyaśrīhīrumahāśayavacasā, ... śrīrāmacandraśarmmabhir mmilitair amībhir llikhitam"
+  }
+ ],
+ "date": {
+  "as_written": "lasaṃ 423 vaiśākhakṛṣṇadaśamyāṃ śukre",
+  "era": "LS",
+  "year": "423",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1542"
+ },
+ "place": {
+  "as_written": "kaṅkapuragrāme",
+  "normalized": ""
+ },
+ "purpose": "sadupādhyāyaśrīhīrumahāśayavacasā",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1078/4",
+  "model": "gemini-flash-latest",
+  "secs": 10.9,
+  "in_tok": 870,
+  "out_tok": 2139
+ }
+}

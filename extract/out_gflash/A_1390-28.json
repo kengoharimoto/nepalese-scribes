@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "valabhadra upādhyā",
+   "name": "Balabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "Luñityāla",
+   "evidence": "liṣitaṃ idaṃ pustakaṃ valabhadra upādhyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1769 māse māghaśukla 4 roja 3",
+  "era": "ŚS",
+  "year": "1769",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "roja 3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1848"
+ },
+ "place": {
+  "as_written": "luñityāla",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The word 'luñityāla' following 'valabhadra upādhyā' likely indicates a tole/neighborhood (Newari tyāla/twāḥ) representing the residence or place of writing.",
+ "_meta": {
+  "reel": "A 1390/28",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 719,
+  "out_tok": 1030
+ }
+}

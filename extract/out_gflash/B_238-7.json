@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dvivedī kānhajī",
+   "name": "Kānhajī",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvivedī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvivedī kānhajītatputra (!) someśvara umābhyāṃ pitā putrābhyāṃ militvā liṣitoyaṃ (!) graṃthaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "someśvara",
+   "name": "Someśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvivedī kānhajītatputra (!) someśvara umābhyāṃ pitā putrābhyāṃ militvā liṣitoyaṃ (!) graṃthaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "kānhajītatputra"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1775 varṣe māse bhādrapade kṛṣṇapakṣe caturthī caṃdravāsare",
+  "era": "VS",
+  "year": "1775",
+  "month": "bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "4",
+  "weekday": "caṃdravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1718"
+ },
+ "place": {
+  "as_written": "avaṃtīnagaramadhye",
+  "normalized": "Ujjain"
+ },
+ "purpose": "svavācanārthaṃ paropakārārthaṃ vā",
+ "notes": "Both father (dvivedī Kānhajī) and son (Someśvara) jointly copied the manuscript ('pitā putrābhyāṃ militvā liṣitoyaṃ', where 'umābhyāṃ' is a corruption of 'ubhābhyāṃ'). Avaṃtīnagara is classical Avantī (modern Ujjain).",
+ "_meta": {
+  "reel": "B 238/7",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 818,
+  "out_tok": 1220
+ }
+}

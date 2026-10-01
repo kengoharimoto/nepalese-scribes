@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Purpose rephrased: 'śrīrājapustakaṃ' marks the copy as the king's book (unnamed royal owner); it is not a purpose formula. No person added because no king is named.",
+   "Date: nakṣatra 1 interpreted as Aśvinī; as_written now includes the unclear 'jitā (!)'.",
+   "Notes expanded: scribe-name reading, 'jitā (!)', and that no era or year is given."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmahadvuja",
+   "name": "Rāmabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ rāmahadvuja",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "māse 10 nachetre 1 ti 11 jitā (!)",
+  "era": "none",
+  "year": "",
+  "month": "10 (numbered month, name not given)",
+  "paksa": "",
+  "tithi": "11",
+  "weekday": "",
+  "nakshatra_yoga": "nakṣatra 1 (Aśvinī?)",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "royal copy (śrīrājapustakaṃ: the king's book; king not named)",
+ "notes": "The scribe's name 'rāmahadvuja' is probably a corruption of 'Rāmabhadradvija' (Rāmabhadra, a dvija). The cataloguer's 'Rāmabhadradvuja' supports this. 'jitā (!)' is unclear: it may be a corrupted date element or the end of a dating formula. 'śrīrājapustakaṃ' marks the manuscript as belonging to an unnamed king, so no royal person can be recorded. The date gives only month 10, nakṣatra 1 and tithi 11, with no year or era, so no CE date can be worked out. The colophon ends the Uñchavṛtti-upākhyāna of the Mokṣadharma section (Śāntiparvan).",
+ "_meta": {
+  "reel": "B 254/1",
+  "model": "opus",
+  "cost_usd": 0.06814600000000001,
+  "secs": 13.2
+ }
+}

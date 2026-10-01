@@ -1,0 +1,74 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvīrasiṃhadeva",
+   "name": "Vīrasiṃhadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "tomaravaṃśa",
+   "residence": "",
+   "evidence": "śrīvīrasiṃhadevaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rūpanārāyaṇa",
+   "name": "Rūpanārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "yati",
+    "vana"
+   ],
+   "affiliation": "Daśanāmī (Vana)",
+   "residence": "",
+   "evidence": "śrī rūpanārāyaṇa gopāla vanābhyāṃ yatibhyām idam ālikhe",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "gopāla vana",
+   "name": "Gopālavana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "yati",
+    "vana"
+   ],
+   "affiliation": "Daśanāmī (Vana)",
+   "residence": "",
+   "evidence": "śrī rūpanārāyaṇa gopāla vanābhyāṃ yatibhyām idam ālikhe",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1801 mītī (!) aṣāḍha vāra somārake (!)",
+  "era": "VS",
+  "year": "1801",
+  "month": "Āṣāḍha",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1744"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribes Rūpanārāyaṇa and Gopāla are both designated as yatis of the Vana order of Daśanāmī renunciates ('vanābhyāṃ yatibhyām'). The tithi number is omitted after 'mītī'.",
+ "_meta": {
+  "reel": "A 225/2",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 847,
+  "out_tok": 1691
+ }
+}

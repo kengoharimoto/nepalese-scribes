@@ -1,0 +1,107 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahārājādhirājaśrī[[jaya]]mahīndra-siṃhadeva",
+   "name": "Jayamahīndrasiṃhadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājādhirājaśrī[[jaya]]mahīndra-siṃhadevavijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīkṛṣṇarājasya",
+   "name": "Kṛṣṇarāja",
+   "roles": [
+    "owner",
+    "scribe"
+   ],
+   "titles": [
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "Hanumanta nani",
+   "evidence": "śrīkṛṣṇarājasya pustakaṃ ... śrīkṛṣṇarāja,putra,śrīlakṣmīrāja,nehma sanathva śrīmatasārapustaka coyā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīlakṣmīrāja",
+   "name": "Lakṣmīrāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Hanumanta nani",
+   "evidence": "śrīkṛṣṇarāja,putra,śrīlakṣmīrāja,nehma sanathva śrīmatasārapustaka coyā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīmadamṛtānandopādhyāyasya",
+   "name": "Amṛtānanda",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadamṛtānandopādhyāyasyedaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīkṛṣṇarāja,putra,śrīlakṣmīrāja"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "mahārājādhirājaśrī[[jaya]]mahīndra-siṃhadevavijayarājye ... śrīkṛṣṇarājasya pustakaṃ"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "mahārājādhirājaśrī[[jaya]]mahīndra-siṃhadevavijayarājye ... śrīlakṣmīrāja,nehma sanathva śrīmatasārapustaka coyā juro"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 840 pauṣa kṛṣṇa,tṛtīyā, pūrvvaphālguṇī(!)nakṣatra,-atigan〈〈dha〉〉[[ṇḍa]]yo(!) ādiyavāra",
+  "era": "NS",
+  "year": "840",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "tṛtīyā",
+  "weekday": "ādiyavāra",
+  "nakshatra_yoga": "pūrvvaphālguṇī nakṣatra, atigaṇḍa yoga",
+  "ce_approx": "1720"
+ },
+ "place": {
+  "as_written": "śrīhanumantana niyantā gṛha / hanumanta naninaṃ",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "svaparārthahetoḥ parāparaphalaprāptaye",
+ "notes": "The phrase 'nehma sanathva ... coyā juro' indicates that both father (Kṛṣṇarāja) and son (Lakṣmīrāja) copied the text together, though the catalogue only identifies Lakṣmīrāja. An ownership note of Amṛtānanda Upādhyāya mentioning a donation to Gāḍhavāhāra was added later.",
+ "_meta": {
+  "reel": "A 194/4",
+  "model": "gemini-flash-latest",
+  "secs": 10.7,
+  "in_tok": 1051,
+  "out_tok": 3006
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rakṣmīsiṃhabhāyāt",
+   "name": "Lakṣmīsiṃha",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "kvāṭhanāyaka",
+    "bhā"
+   ],
+   "affiliation": "",
+   "residence": "Kīrtipura",
+   "evidence": "śrī kittīpulayā kvāṭhanāya(!) ka rakṣmīsiṃhabhāyāt karaṇakā eṣṭha lalīta siṃhana, saṃpūrṇṇa yāṅaṃ sidvaya kāva viyājuro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "lalīta siṃhana",
+   "name": "Lalitasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karaṇakāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "karaṇakā eṣṭha lalīta siṃhana, saṃpūrṇṇa yāṅaṃ sidvaya kāva viyājuro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "rakṣmīsiṃhabhāyāt karaṇakā eṣṭha lalīta siṃhana, saṃpūrṇṇa yāṅaṃ sidvaya kāva viyājuro"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 827 mārggaśirakṛṣṇa, catudaśyāntithau, jyeṣṭhā nakṣatre, vṛrddhatiyoge, ādityavāsare",
+  "era": "NS",
+  "year": "827",
+  "month": "mārggaśira",
+  "paksa": "kṛṣṇa",
+  "tithi": "catudaśyān (14)",
+  "weekday": "ādityavāsara",
+  "nakshatra_yoga": "jyeṣṭhā, vṛddhi",
+  "ce_approx": "1706"
+ },
+ "place": {
+  "as_written": "śrī kittīpula",
+  "normalized": "Kirtipur"
+ },
+ "purpose": "śrī viṣṇu prītirastu",
+ "notes": "karaṇakā eṣṭha is likely an orthographic representation of karaṇakāyastha. kittīpula is Kīrtipura.",
+ "_meta": {
+  "reel": "A 1361/10",
+  "model": "gemini-flash-latest",
+  "secs": 6.2,
+  "in_tok": 874,
+  "out_tok": 1585
+ }
+}

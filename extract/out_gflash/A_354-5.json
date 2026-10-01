@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śubhaṃkavi",
+   "name": "Śubhaṃkavi",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śubhaṃkaviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 902 bhādraśudi 1",
+  "era": "NS",
+  "year": "902",
+  "month": "Bhādra",
+  "paksa": "śuklapakṣa",
+  "tithi": "1",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1782"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon includes a Nepali note of purchase without a named buyer: 'yeka rūpaiyāle kinyāko pustaka ho' (a book bought for one rupee).",
+ "_meta": {
+  "reel": "A 354/5",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 711,
+  "out_tok": 990
+ }
+}

@@ -1,0 +1,133 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p4: name normalised to 'Jayasiṃhamalla' (stem without the -varman suffix, which is moved to titles); residence now given as Maṇigaṇa (Maṇigal) in Lalitapura; affiliation now covers both Ubhara-vihāra and the Thaula-vihāra kuṭumba",
+   "p3: confidence lowered to medium because the name 'Jayārjunadeva' is restored from the lacuna 'jaya..na'",
+   "p1: the 'guru' epithet is kept as written; added a note that Rāmadāsa is named as the author's father",
+   "date: ce_approx stays 1375 (Mārgaśira of NS 496 falls in Nov/Dec 1375; NS+880 would give 1376); explained in the notes",
+   "notes expanded"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmadāsaḥ",
+   "name": "Rāmadāsa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "nepālāvanipālamaṇḍalaguru"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nepālāvanipālamaṇḍalaguruḥ śrīrāmadāsaḥ sudhīḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīdharmmaguptaḥ",
+   "name": "Dharmagupta",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sūnūḥ ... śrīdharmmaguptaḥ kṛtī ... kṛtavān rāmāṅkitān nāṭikāḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīśrījaya..na devasya",
+   "name": "Jayārjunadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājādhirājaparameśvaraparamabhaṭṭārakaḥ śrīśrījaya..na devasyavijayarājye",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "mahāpātraśrījayasīṃhamallavarmaṇasya",
+   "name": "Jayasiṃhamalla",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "mahāpātra",
+    "varman"
+   ],
+   "affiliation": "Ubhara-vihāra; Thaula-vihāra kuṭumba",
+   "residence": "Maṇigaṇa (Maṇigal), Lalitapura",
+   "evidence": "mahāpātraśrījayasīṃhamallavarmaṇasya pustakam idaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "vajrācāryya śrīdukujakena",
+   "name": "Dukujaka",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "śrīyā..cchaṃ vihāra",
+   "residence": "",
+   "evidence": "vajrācāryya śrīdukujakena likhitam idaṃ svahastena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "tasyāsti vidyānidheḥ sūnūḥ ... śrīdharmmaguptaḥ"
+  },
+  {
+   "from": "p5",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "jayasīṃhamallavarmaṇasya pustakam idaṃ ... śrīdukujakena likhitam idaṃ"
+  },
+  {
+   "from": "p5",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "śrīśrījaya..na devasyavijayarājye"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 496 mārggaśire kṛṣṇaaṣṭamyān tithau || hastanakṣatre || śobhanayoge || ādityavāsare",
+  "era": "NS",
+  "year": "496",
+  "month": "mārgaśira",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "ādityavāra (Sunday)",
+  "nakshatra_yoga": "hasta; śobhana",
+  "ce_approx": "1375"
+ },
+ "place": {
+  "as_written": "śrīlaliturīnāmanagare",
+  "normalized": "Patan"
+ },
+ "purpose": "svaparārtha (for himself and for others)",
+ "notes": "The catalogue gives 'Jayasiṃha Malla (mahāpātra)' as king. That is wrong: Jayasiṃhamalla(varman) is the mahāpātra who owns the book. The reigning king is 'śrīśrījaya..na deva', most likely Jayārjunadeva (r. c. 1361–1382), but the name is restored from a lacuna. Rāmadāsa, the author's father, is called guru of the Nepal king's circle. He is not involved in this copy. Owner's locality: Maṇigaṇa (Maṇigal) in Lalitapura, and a kuṭumba of Ubhara-/Thaula-vihāra. The scribe's vihāra name is corrupt ('śrīyā..cchaṃ vihāralāṣṭhavastho'). Mārgaśira of NS 496 falls in late 1375 CE (NS+880 would give 1376).",
+ "_meta": {
+  "reel": "C 6/9",
+  "model": "opus",
+  "cost_usd": 0.472668,
+  "secs": 27.7
+ }
+}

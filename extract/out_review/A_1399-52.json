@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "ce_approx changed from 1858 to 1859: Māgha śukla of VS 1915 (Caitrādi) falls in Jan/Feb 1859 CE",
+   "notes: explained the ce_approx calculation and the doubt about how to divide the name"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dadhī ca vāpū jośī",
+   "name": "Dadhīca Bāpū",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ dadhī ca vāpū jośī yāce aśe",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1915 māghaśukla 6 taddine",
+  "era": "VS",
+  "year": "1915",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "6",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1859"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives VS 1925, but the quoted colophon reads saṃvat 1915. VS 1915 − 57 = 1858, but Māgha śukla 6 of that year (Caitrādi) falls in Jan/Feb 1859 CE. The ownership statement is in Marathi ('yāce aśe', i.e. 'yāce āhe', meaning 'belongs to'), so the date is only a terminus for the ownership note if that note was added later. The cataloguer writes the name as 'dadhī ca', which probably stands for one word, Dadhīca/Dādhīca. This could be a family name or the Dādhīca brahmin community name qualifying Bāpū Jośī, in which case the personal name would be just Bāpū. 'vāpū' is read as Bāpū (v/b).",
+ "_meta": {
+  "reel": "A 1399/52",
+  "model": "opus",
+  "cost_usd": 0.071638,
+  "secs": 14.9
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devīdharavatās",
+   "name": "Devīdhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "tacapālaṭola",
+   "evidence": "idaṃ puṣṭakaṃ likhitaṃ tacapālaṭola basnyā devīdharavatās",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1942 sāla miti śrāvaṇa śu di 10 roja 5",
+  "era": "VS",
+  "year": "1942",
+  "month": "śrāvaṇa",
+  "paksa": "śu",
+  "tithi": "10",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1885"
+ },
+ "place": {
+  "as_written": "tacapālaṭola",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "Tacapāla-ṭola (Tachapal) is a well-known quarter in Bhaktapur. The phrasing 'tacapālaṭola basnyā devīdharavatās' uses Nepali ('basnyā' = resident; 'devīdharavatās' likely representing devīdharabāṭa or an honorific form).",
+ "_meta": {
+  "reel": "C 32/9b",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 739,
+  "out_tok": 921
+ }
+}

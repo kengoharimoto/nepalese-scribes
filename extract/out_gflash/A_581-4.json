@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭojidīkṣita",
+   "name": "Bhaṭṭojidīkṣita",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhaṭṭojidīkṣitaviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat || 1876 samaye (nāma kuvāra) sudī 5",
+  "era": "VS",
+  "year": "1876",
+  "month": "kuvāra",
+  "paksa": "sudī",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1819"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Kuvāra (Kuār) is the vernacular designation for the lunar month of Āśvina.",
+ "_meta": {
+  "reel": "A 581/4",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 704,
+  "out_tok": 846
+ }
+}

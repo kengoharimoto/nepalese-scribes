@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī 2 jaya bhūpatīndra malladevasana",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī 2 jaya bhūpatīndra malladevasana dayakā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 832 pauṣa śudi 15",
+  "era": "NS",
+  "year": "832",
+  "month": "pauṣa",
+  "paksa": "śudi",
+  "tithi": "15",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1712"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "King Jayabhūpatīndramalla of Bhaktapur had this text prepared ('dayakā'). Bhaktapur is recorded as the place in the catalogue metadata, but is not mentioned in the colophon text itself.",
+ "_meta": {
+  "reel": "A 237/4a",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 728,
+  "out_tok": 862
+ }
+}

@@ -1,0 +1,166 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījayarāyamallanṛpatir",
+   "name": "Jayarāyamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jyeṣṭhaḥ śrījayarāyamallanṛpatir nnepālacūḍāmaṇi,s ... teṣāṃ nṛpāṇāṃ vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīratnamallaprabhuḥ",
+   "name": "Ratnamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "prabhu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tanmadhyānujakaṃsakeśavabalī śrīratnamallaprabhuḥ ... teṣāṃ nṛpāṇāṃ vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "raṇamalladevasukṛtī",
+   "name": "Raṇamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāniṣṭo raṇamalladevasukṛtī ... teṣāṃ nṛpāṇāṃ vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrībhīmamallo nṛpaḥ",
+   "name": "Bhīmamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tat teṣāṃ varabhāgineyaviditaḥ śrībhīmamallo nṛpaḥ || teṣāṃ nṛpāṇāṃ vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrīpadmadevottamaḥ",
+   "name": "Padmadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "gārggasya satsantatau, mādhyandinīśākhā",
+   "residence": "śrīlalitāpura",
+   "evidence": "udbhūto dvijavaṃśanirmmalatare gārggasya satsantatau deśe śrīlalitāpure ... śrīpadmadevottamaḥ ... tasyātmajaś ca",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "śrīratnadeva",
+   "name": "Ratnadeva",
+   "roles": [
+    "commissioner",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "gārggagotra, mādhyandinīśākhā",
+   "residence": "śrīlalitāpura",
+   "evidence": "śrīratnadeva iti yaḥ sukṛtī babhūva || prītyarthaṃ ratnadeveṣu, śubharājena likhyate",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "śubharājena",
+   "name": "Śubharāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śubharājena likhyate",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "brother_of",
+   "to": "p1",
+   "evidence": "tanmadhyānuja"
+  },
+  {
+   "from": "p3",
+   "type": "brother_of",
+   "to": "p1",
+   "evidence": "kāniṣṭo"
+  },
+  {
+   "from": "p4",
+   "type": "other",
+   "to": "p1",
+   "evidence": "tat teṣāṃ varabhāgineyaviditaḥ"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p5",
+   "evidence": "tasyātmajaś ca ... śrīratnadeva"
+  },
+  {
+   "from": "p7",
+   "type": "wrote_for",
+   "to": "p6",
+   "evidence": "prītyarthaṃ ratnadeveṣu, śubharājena likhyate"
+  },
+  {
+   "from": "p7",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "teṣāṃ nṛpāṇāṃ vijayarājye"
+  }
+ ],
+ "date": {
+  "as_written": "binduyugmarase yāte, śrīnaipālikavatsare | vaiśākhasya śite pakṣe dvitīyāyāṃ",
+  "era": "NS",
+  "year": "620",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1500"
+ },
+ "place": {
+  "as_written": "śrīlalitāpure",
+  "normalized": "Patan"
+ },
+ "purpose": "prītyarthaṃ ratnadeveṣu",
+ "notes": "Chronogram: bindu (0), yugma (2), rasa (6) = NS 620. The four kings mentioned reigning together are the sons of Yakṣamalla (Jayarāyamalla, Ratnamalla, Raṇamalla) and their nephew Bhīmamalla (bhāgineya).",
+ "_meta": {
+  "reel": "C 26/7",
+  "model": "gemini-flash-latest",
+  "secs": 11.4,
+  "in_tok": 1150,
+  "out_tok": 3144
+ }
+}

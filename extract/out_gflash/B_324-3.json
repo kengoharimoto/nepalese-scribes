@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmādhava",
+   "name": "Mādhava",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmādhava(3)viracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 822 āśvinaśuklasaṃpūrṇa yāṅādina",
+  "era": "NS",
+  "year": "822",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "saṃpūrṇa",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1702"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Mādhava is the author of the work. 'yāṅādina' in Newari indicates the day of completion/doing (yāṅā dina).",
+ "_meta": {
+  "reel": "B 324/3",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 696,
+  "out_tok": 720
+ }
+}

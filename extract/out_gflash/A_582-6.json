@@ -1,0 +1,87 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭojidīkṣita",
+   "name": "Bhaṭṭojidīkṣita",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhaṭṭojidīkṣitaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "maṃgalamūrtiveṃkaṭanarasiṃhyena",
+   "name": "Maṅgalamūrtiveṅkaṭanarasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "maṃgalamūrtiveṃkaṭanarasiṃhyena(!) ... likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vyaṃkaṭa(!)mādhavācārya",
+   "name": "Veṅkaṭamādhavācārya",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vyaṃkaṭa(!)mādhavācāryagrahe(!)",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīkṛṣṇajośī",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "Nāmanagara",
+   "evidence": "śrīkṛṣṇajośī nāmanagaravāle",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "cturdaśyāṃ ravivāsare virodhikṛtanāmasaṃhvasare(!)",
+  "era": "unspecified",
+  "year": "virodhikṛt",
+  "month": "",
+  "paksa": "",
+  "tithi": "caturdaśī",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "gaṃgāvasāṃ vyaṃkaṭa(!)mādhavācāryagrahe(!)",
+  "normalized": ""
+ },
+ "purpose": "śrīmadhveśārpaṇam astu",
+ "notes": "Year is given only by the 60-year Jovian cycle (Virodhikṛt saṃvatsara). 'grahe' in 'vyaṃkaṭamādhavācāryagrahe' is an error for 'gṛhe' ('at the house of Veṅkaṭamādhavācārya'). The closing dedication 'śrīmadhveśārpaṇam astu' suggests a Mādhva Vaiṣṇava affiliation.",
+ "_meta": {
+  "reel": "A 582/6",
+  "model": "gemini-flash-latest",
+  "secs": 9.6,
+  "in_tok": 811,
+  "out_tok": 2667
+ }
+}

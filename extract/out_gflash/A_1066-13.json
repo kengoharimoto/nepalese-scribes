@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvarāhamihirācāryya",
+   "name": "Varāhamihira",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvarāhamihirācāryyaviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ṣaḍānandena",
+   "name": "Ṣaḍānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ṣaḍānandena lekha[[ya]]t",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nande yugagrahe candre jyeṣṭhakṛṣṇe navātithau || śukravāre",
+  "era": "VS",
+  "year": "1949",
+  "month": "Jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1892"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date is expressed by the chronogram nanda (9) - yuga (4) - graha (9) - candra (1) = VS 1949.",
+ "_meta": {
+  "reel": "A 1066/13",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 734,
+  "out_tok": 1098
+ }
+}

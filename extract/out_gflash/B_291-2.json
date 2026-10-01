@@ -1,0 +1,78 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "himmativarmaṇaḥ",
+   "name": "Himmativarman",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "himmativarmaṇaḥ putrasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī rāma varmaṇa",
+   "name": "Rāmavarman",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "himmativarmaṇaḥ putrasya śrī rāma varmaṇa kṛtāvadhyātma rāmāyaṇe setau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "haladharo",
+   "name": "Haladhara",
+   "roles": [
+    "commissioner",
+    "scribe"
+   ],
+   "titles": [
+    "viprottama"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī viprottamarājako haladharohyatyātma rāmāyaṇaḥ ṭīkā pustaka lekhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "himmativarmaṇaḥ putrasya śrī rāma varmaṇa"
+  }
+ ],
+ "date": {
+  "as_written": "nepālena vanaṃ danaṃ damilite pauṣesite pūrṇimā nakṣatre ca punarvasu vudha dine yoge tathā eiṃdrake",
+  "era": "NS",
+  "year": "vanaṃ danaṃ damilite",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "Punarvasu, Aindra",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīrāmasu prītaye",
+ "notes": "The catalogue records Śrīrāma Varmā as scribe, but the colophon clearly identifies him as the commentator (author of the commentary Setu), son of Himmativarman. Haladhara is the one who caused the copy to be written (lekhitam). The chronogram for the year is corrupt (possibly nepāle navanandamilite for NS 99x).",
+ "_meta": {
+  "reel": "B 291/2",
+  "model": "gemini-flash-latest",
+  "secs": 10.9,
+  "in_tok": 936,
+  "out_tok": 2661
+ }
+}

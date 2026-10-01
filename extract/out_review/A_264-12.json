@@ -1,0 +1,36 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date year: chronogram nāga(8) kṛśānu(3) vāṇa/bāṇa(5), read right to left (aṅkānāṃ vāmato gatiḥ), gives NS 538, not 815. The catalogue's 815 does not follow from the words in either direction (left to right would be 835).",
+   "ce_approx corrected from 1695 to 1418 (538+880). The year is now 538 and no longer the catalogue's 815.",
+   "Month: teṣe(!) read as taiṣe (Taiṣa = Pauṣa, from Tiṣya = Puṣya). The month Pauṣa is kept, but the explanation is changed.",
+   "Notes updated to record the conflict with the catalogue date."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "khyāte nāgakṛśānuvāvaṇamte nepālaśāke śubhe teṣe(!) māsi ca śuklapakṣakalite nunaṃ hirohiṇyuau(!)",
+  "era": "NS",
+  "year": "538",
+  "month": "Pauṣa (taiṣe)",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "Rohiṇī (hirohiṇyuau(!))",
+  "ce_approx": "1418"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names no human persons. Chronogram 'nāgakṛśānuvāvaṇamte' = nāga 8, kṛśānu 3, vāṇa (= bāṇa) 5. Read right to left, this gives NS 538 (c. 1418 CE). This conflicts with the catalogue's 'SAM 815'. 815 cannot be derived from these words (left to right would give 835), so it is probably a catalogue slip. Check the year against the palaeography: early-15th-century Newari script would support 538. 'teṣe(!)' is probably taiṣe = Taiṣa (Pauṣa). 'nunaṃ hirohiṇyuau(!)' is corrupt and probably names the nakṣatra Rohiṇī. No tithi or weekday is legible.",
+ "_meta": {
+  "reel": "A 264/12",
+  "model": "opus",
+  "cost_usd": 0.073462,
+  "secs": 15.7
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmaśaṃkaraḥ",
+   "name": "Rāmaśaṃkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lilekha rāmaśaṃkaraḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvad vedāṃghrinande 'smin naipāle śāṃkhike yute mārge siti ... daśamyāṃ",
+  "era": "NS",
+  "year": "924",
+  "month": "Mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1803/1804"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Year given in chronogram: veda (4), aṅghri (2), nanda (9) = NS 924.",
+ "_meta": {
+  "reel": "A 332/11",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 750,
+  "out_tok": 785
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe confidence lowered to medium: the colophon has 'lālaratnākaro' (order probably forced by the sragviṇī metre), while the catalogue gives 'Ratnākaralāla'; noted both forms",
+   "Recorded the sun's position (kuṃbhabhe 'haskare = sun in Kumbha) in nakshatra_yoga",
+   "Notes expanded: the chronogram is checked; 'bhūtatithi' is ambiguous; the CE year is approximate; and the Śivarātri context is explained"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "lālaratnākaro",
+   "name": "Lālaratnākara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lālaratnākaro 'līlikhat tājikam",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "netravedādribhūśākake phālgune kuṃbhabhe 'haskare kālapakṣe bhṛgau || bhūtatithyāṃ",
+  "era": "ŚS",
+  "year": "1742",
+  "month": "Phālguna",
+  "paksa": "kṛṣṇa",
+  "tithi": "14 (bhūtatithi)",
+  "weekday": "Friday",
+  "nakshatra_yoga": "sun in Kumbha (kuṃbhabhe 'haskare)",
+  "ce_approx": "1821"
+ },
+ "place": {
+  "as_written": "girīśasyapuryām",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The chronogram reads netra 2, veda 4, adri 7, bhū 1. Read right to left, this gives Śaka 1742, which matches the catalogue. Śaka 1742 + 78 = 1820, but Phālguna of that year falls in Feb–Mar 1821 CE. 'bhūtatithi' is taken as caturdaśī (as in bhūtacaturdaśī), but in number-word usage bhūta can also mean 5. Kṛṣṇa 14 with the sun in Kumbha fits Mahāśivarātri (pūrṇimānta Phālguna kṛṣṇa 14), which suits a copy made in Śiva's city (girīśasya purī = Kāśī). The weekday has not been checked. The name appears as 'lālaratnākara' in the verse but as 'Ratnākaralāla' in the catalogue. 'Lāla' may be an appellative such as Lāl, and the order in the verse may be forced by the metre. 'araṃ' means 'quickly'. The final verse is the standard book-curse ('tailād rakṣet…'). The author (Nīlakaṇṭha) is not named in the colophon.",
+ "_meta": {
+  "reel": "A 411/17",
+  "model": "opus",
+  "cost_usd": 0.086634,
+  "secs": 22.3
+ }
+}

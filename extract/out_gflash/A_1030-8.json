@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīviṣṇubhaktena",
+   "name": "Viṣṇubhakta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīviṣṇubhaktena likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1756 || śrīsamvat 1904 sāla miti vaiśāṣa sudi || denagate || 26 || guruvāsare || 5 ||",
+  "era": "VS",
+  "year": "1904",
+  "month": "vaiśāṣa",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1847"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śāke 1756 (ca. 1834 CE) and Samvat 1904 (ca. 1847 CE) are mentioned, which are chronologically inconsistent (a difference of 148 years instead of the expected 135 years between ŚS and VS). 'denagate 26' refers to solar day (gate) 26 of the month.",
+ "_meta": {
+  "reel": "A 1030/8",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 878,
+  "out_tok": 1271
+ }
+}

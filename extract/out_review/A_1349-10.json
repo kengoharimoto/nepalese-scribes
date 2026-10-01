@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: roles reduced to 'commentator' only, since the text is a vyākhyā on the Candrāloka.",
+   "p1: dropped 'upākhya' from titles. It is not a title: it marks 'Pāyaṃguḍa' as a family name. The commentator's personal name is not given, so confidence is lowered to medium.",
+   "Date: weekday 'roja 1' rendered as Sunday; pakṣa normalized to śukla."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pāyaṃguḍopākhya",
+   "name": "Pāyaṃguḍa",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pāyaṃguḍopākhya viracite caṃdrāloka vyākhyāne",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1847 miti āṣāḍha śudi 3 roja 1",
+  "era": "VS",
+  "year": "1847",
+  "month": "Āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "Sunday (roja 1)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1790"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives 'Pāyaṃguḍopākhya' as the scribe, but this is wrong. The colophon says 'pāyaṃguḍopākhya-viracite ... vyākhyāne', which names the commentator. 'Pāyaṃguḍa' is a family name, presumably Vaidyanātha Pāyaguṇḍe, known as a commentator on the Candrāloka. The colophon gives only the family name, not his personal name. 'ramādhipa' is probably a corrupt form of the commentary's title, likely Ramā. The colophon names no scribe. 'graṃthasaṃkhyā 2000' is the extent of the text, not a date. The era is unstated; VS is assumed from 'samvat' with 'miti/roja', which gives 1790 CE.",
+ "_meta": {
+  "reel": "A 1349/10",
+  "model": "opus",
+  "cost_usd": 0.06923399999999999,
+  "secs": 13.9
+ }
+}

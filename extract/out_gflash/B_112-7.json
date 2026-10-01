@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācāryaśrījagadānandena",
+   "name": "Jagadānanda",
+   "roles": [
+    "scribe",
+    "commissioner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Ttalumūlamahāvihāra",
+   "residence": "Ttalumūlamahāvihāra",
+   "evidence": "lekhaya(!) ttalumūlamahāvihārāvasthitavajrācāryaśrījagadānandeneti",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "ttalumūlamahāvihāra",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The verbal form 'lekhaya(!)' is corrupt or incomplete, possibly intended for lekhaka (scribe) or lekhita/lekhāpita (caused to be written / commissioner).",
+ "_meta": {
+  "reel": "B 112/7",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 899,
+  "out_tok": 1160
+ }
+}

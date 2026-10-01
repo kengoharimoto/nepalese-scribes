@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "balabhadra",
+   "name": "Balabhadra",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dāmodarātmajabalabhadraviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "daivajñavaryapaṃḍitadāmodara",
+   "name": "Dāmodara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajñavarya",
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñavaryapaṃḍitadāmodarātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "dāmodarātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1908 sālamiti phālguṇa vadi 13 bhaumena(!)",
+  "era": "VS",
+  "year": "1908",
+  "month": "phālguṇa",
+  "paksa": "vadi",
+  "tithi": "13",
+  "weekday": "bhaumena(!)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1852"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The instrumental form 'bhaumena(!)' right after the tithi indicates the weekday Tuesday (Bhaumavāra) rather than a personal name of a scribe.",
+ "_meta": {
+  "reel": "B 345/9",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 749,
+  "out_tok": 1634
+ }
+}

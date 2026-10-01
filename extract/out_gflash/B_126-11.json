@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭanāga",
+   "name": "Nāga",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhaṭṭanāgaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "harikeśaśarmmaṇā",
+   "name": "Harikeśa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ harikeśaśarmmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1693 samaye vaiśāṣa (!) śudi 7 ravivāsare",
+  "era": "VS",
+  "year": "1693",
+  "month": "vaiśākha",
+  "paksa": "śudi",
+  "tithi": "7",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1636"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 126/11",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 888,
+  "out_tok": 1073
+ }
+}

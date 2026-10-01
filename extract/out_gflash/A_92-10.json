@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "īśvardatta paṃḍā",
+   "name": "Īśvaradatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paṃḍā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "hastakṣara īśvardatta paṃḍā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1887 sāla caitra vadi 8 roja 2 ... sāke 1752 naipāla samvat 950",
+  "era": "VS",
+  "year": "1887",
+  "month": "caitra",
+  "paksa": "vadi",
+  "tithi": "8",
+  "weekday": "roja 2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1830"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīkṛṣnā arpaṇam astu",
+ "notes": "Three eras are provided: Vikrama Saṃvat 1887, Śāke 1752, and Naipāla Saṃvat 950.",
+ "_meta": {
+  "reel": "A 92/10",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 847,
+  "out_tok": 1036
+ }
+}

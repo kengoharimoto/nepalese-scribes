@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhagavānapurīpurṇadarśanena",
+   "name": "Bhagavānapurī Pūrṇadarśana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paramahaṃsa",
+    "parivrājaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ paramahaṃsaparivrājakaśusamāhitena bhagavānapurīpurṇadarśanena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1690 || māse || 6 || vāre || 2 || tithau || 15 || dinagate || 24 ||",
+  "era": "ŚS",
+  "year": "1690",
+  "month": "6",
+  "paksa": "",
+  "tithi": "15",
+  "weekday": "2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1768"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's monastic title indicates a Daśanāmī saṃnyāsin (paramahaṃsa-parivrājaka); the personal name is either Bhagavānapurī with an epithet pūrṇadarśana ('having full vision/insight') or Bhagavānapurī Pūrṇadarśana.",
+ "_meta": {
+  "reel": "A 471/1",
+  "model": "gemini-flash-latest",
+  "secs": 13.2,
+  "in_tok": 901,
+  "out_tok": 3034
+ }
+}

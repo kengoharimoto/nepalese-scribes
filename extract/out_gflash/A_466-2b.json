@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmacandradevena",
+   "name": "Rāmacandradeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmacandradevena liṣyataṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 773 caitra śuklapratipradyā ādityavāra",
+  "era": "NS",
+  "year": "773",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "pratipradā",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1653"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe refers to the text copied as 'cadikāstotraṃ' (Caṇḍikāstotra), though the colophon title indicates Pīṭhāvatārastotra.",
+ "_meta": {
+  "reel": "A 466/2b",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 795,
+  "out_tok": 887
+ }
+}

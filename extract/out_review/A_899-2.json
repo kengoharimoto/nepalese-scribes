@@ -1,0 +1,68 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe's stem name normalized to IAST 'Govindadāsa'. The colophon has the anusvāra spelling 'goviṃdadāsa', which stays in as_written.",
+   "Viṣṇupurī given the role 'commentator' as well as 'author' (medium confidence). The colophon says the work is 'sakāṃtimālā' (with the Kāntimālā), and the Kāntimālā is usually ascribed to Viṣṇupurī himself.",
+   "Place as_written extended to include 'kalyāṇaśayake'. The likely identification is added to notes, but normalized is left empty.",
+   "Notes expanded on the tairabhukta epithet and on the place."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viṣṇupurī",
+   "name": "Viṣṇupurī",
+   "roles": [
+    "author",
+    "commentator"
+   ],
+   "titles": [
+    "paramahaṃsa"
+   ],
+   "affiliation": "",
+   "residence": "Tirabhukti (Tirhut), per epithet tairabhukta",
+   "evidence": "paramahaṃsa viṣṇupurīgrathītāyāṃ(!)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "goviṃdadāsa vaiśnava",
+   "name": "Govindadāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vaiṣṇava"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣyataṃ(!) goviṃdadāsa vaiśnava",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1673 varaṣe āsauja sudhi 12",
+  "era": "VS",
+  "year": "1673",
+  "month": "Āśvina (āsauja)",
+  "paksa": "śukla",
+  "tithi": "12",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1616"
+ },
+ "place": {
+  "as_written": "āmāvatīmadhye devasthalaṃ kalyāṇaśayake",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'vivekatairabhaktasya' is probably a corruption of '...viveka-tairabhukta-', i.e. a native of Tirabhukti (Tirhut, Mithilā). That fits the tradition that Viṣṇupurī came from Mithilā. Puruṣottama in the opening epithet is the deity (Jagannātha) and is not a person. The text is the Bhaktiratnāvalī with its commentary Kāntimālā, which is usually ascribed to Viṣṇupurī himself. Āmāvatī is probably Āmbāvatī/Amber (Āmer, near Jaipur), but this is not certain. 'kalyāṇaśayake' may be a corruption of 'kalyāṇarāyake' (a Kalyāṇarāya temple?), which would fit the closing 'śrīkalyāṇayannamaḥ'. VS 1673 Āśvina śukla 12 falls in about September/October 1616 CE. Nothing marks this as a Nepalese copy.",
+ "_meta": {
+  "reel": "A 899/2",
+  "model": "opus",
+  "cost_usd": 0.08621000000000001,
+  "secs": 23.3
+ }
+}

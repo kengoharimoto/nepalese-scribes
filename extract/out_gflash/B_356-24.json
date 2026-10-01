@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhāskarīye",
+   "name": "Bhāskara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhāskarīye siddhāṃtaśiromaṇau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat1840 varṣe miti śrāvaṇa sūdi14 caṃdravāsare",
+  "era": "VS",
+  "year": "1840",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "14",
+  "weekday": "caṃdravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1783"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 356/24",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 701,
+  "out_tok": 714
+ }
+}

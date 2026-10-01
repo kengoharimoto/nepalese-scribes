@@ -1,0 +1,88 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Era changed from ŚS to VS: Śaka 1939 would be 2017 CE, which is too late for an NGMCP microfilm. VS 1939 Kārttika śukla 15 falls on Thursday, 26 Oct 1882, which matches guruvāsare. ce_approx stays 1882. The first reading had era ŚS together with a VS-based CE year, which was inconsistent.",
+   "p3 role changed from commissioner to owner, confidence lowered to low: the colophon has only a genitive (…narādhipateḥ … siṃhanāmnaḥ) with no verb meaning 'had it copied'. The wrote_for relation is kept.",
+   "p3 titles: 'kavardāra' removed. It is more likely the name of the town or state (possibly Kawardha) than an office title, and the gloss 'kapardāra = storekeeper' was unfounded. 'narādhipati' added as the title actually stated.",
+   "Town '(saṃjñānābhidha)pattana' moved from place of copying to p3's residence. The colophon does not say the copy was made there, so place is now empty.",
+   "Notes rewritten."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnarendrapurīśrīcaraṇa",
+   "name": "Narendrapurī",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnarendrapurīśrīcaraṇaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "viśvānaṃdena",
+   "name": "Viśvānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Jaina",
+   "residence": "",
+   "evidence": "likhitaṃ viśvānaṃdena jainena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "(kavardāraḥ śrīphaṭ) siṃhanāmnaḥ",
+   "name": "Phaṭsiṃha",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "narādhipati"
+   ],
+   "affiliation": "",
+   "residence": "(saṃjñānābhidha)pattana; possibly Kavardā (Kawardha)",
+   "evidence": "pattananarādhipateḥ (kavardāraḥ śrīphaṭ) siṃhanāmnaḥ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "likhitaṃ viśvānaṃdena jainena …narādhipateḥ … siṃhanāmnaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1939 bāhulamāse śuklapakṣe paṃcadaśyāṃ tithau guruvāsare",
+  "era": "VS",
+  "year": "1939",
+  "month": "Kārttika (bāhula)",
+  "paksa": "śukla",
+  "tithi": "15 (pūrṇimā)",
+  "weekday": "Thursday (guruvāsara)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1882"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "written for (genitive) the ruler Phaṭsiṃha",
+ "notes": "Era: the colophon says 'śāke 1939', but taken literally as Śaka this would be 2017 CE, which is impossible for a microfilmed manuscript. 'Śāke' is probably used loosely for 'year'. Read as VS 1939, Kārttika (= bāhula) śukla 15 falls on Thursday, 26 Oct 1882, which matches guruvāsare, so VS is adopted. The catalogue's '[ŚŚ]' was not followed.\n\nThe patron passage is corrupt and partly bracketed by the cataloguer: '(saṃjñānābhidha)pattananarādhipateḥ (kavardāraḥ śrīphaṭ) siṃhanāmnaḥ' means 'of the ruler of the town called …, named Phaṭ Siṃha'. 'Kavardāra' is probably a garbled place name, perhaps Kavardhā/Kawardha (a princely state in Chhattisgarh), and probably not a title. 'Phaṭsiṃha' may stand for Phatehsiṃha (Fateh Singh). Because only the genitive is used, his role (owner, patron or commissioner) is uncertain.\n\nThe scribe Viśvānanda calls himself 'jaina'. The town in brackets is the patron's seat, not a stated place of copying.",
+ "_meta": {
+  "reel": "A 579/6",
+  "model": "opus",
+  "cost_usd": 0.107694,
+  "secs": 29.8
+ }
+}

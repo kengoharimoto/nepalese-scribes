@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "patirggaṇānāṃ / śrīgaṇapatina",
+   "name": "Gaṇapati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "Balāni",
+   "evidence": "patirggaṇānāṃtarasā dvijo sau vaiśākhamāhātmyamidaṃ lilekha || ... balānihmayā śrīgaṇapatina thva vaiśākhamāhātmya coya dhunakādina juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīnivāsamalla",
+   "name": "Śrīnivāsamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "prabhu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "thva velasa rājdhirāja śrī śrī śrīnivāsamallaprabhusana",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "thva velasa rājdhirāja śrī śrī śrīnivāsamallaprabhusana"
+  }
+ ],
+ "date": {
+  "as_written": "yāte bhujaṃgāṣṭaturaṃgamebde jyeṣṭhe site nāgatithau budhehni / samvat 788 jyeṣṭhaśukla paṃcamī budhavāra",
+  "era": "NS",
+  "year": "788",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1668"
+ },
+ "place": {
+  "as_written": "balānihmayā",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram bhujaṅga (8) - aṣṭa (8) - turaṅgama (7) gives year 788, confirmed in the Newari text as samvat 788. The catalogue lists the scribe as Gaṇeśa, which is a synonym/variant of the name Gaṇapati given in both the verse (patirggaṇānāṃ) and the prose (śrīgaṇapatina).",
+ "_meta": {
+  "reel": "A 1354/7",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 904,
+  "out_tok": 1561
+ }
+}

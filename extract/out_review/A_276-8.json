@@ -1,0 +1,48 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Lowered author confidence from medium to low: the name is badly corrupt, and the reading of the segment is uncertain.",
+   "Expanded the notes on the name segmentation (-pāva may stand for the honorific -pāda) and on the era."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkṛbhārīpāva",
+   "name": "Kṛbhārīpāva",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkṛbhārīpāvavīracītaṃ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat || 1795 ||",
+  "era": "VS",
+  "year": "1795",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1738"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author name in 'śrīkṛbhārīpāvavīracītaṃ' is corrupt. It most likely splits as śrī-Kṛbhārīpāva + viracitaṃ. The ending -pāva may be a corruption of the honorific -pāda, as in Nātha/Siddha names, so a form like *Kṛpārīpāda is possible. This is uncertain. The colophon names no scribe, commissioner or owner. The era is unstated ('saṃvat'). VS is assumed because the manuscript is in Devanagari and an NS year of 1795 is impossible. That gives about 1738 CE. If the era were ŚS, the date would be about 1873 CE.",
+ "_meta": {
+  "reel": "A 276/8",
+  "model": "opus",
+  "cost_usd": 0.066222,
+  "secs": 11.7
+ }
+}

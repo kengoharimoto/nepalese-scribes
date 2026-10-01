@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmaheśvarakavi",
+   "name": "Maheśvara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmaheśvarakaviviracitaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ. 1859 śā. 1724",
+  "era": "VS",
+  "year": "1859",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1802"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date gives both Vikrama Saṃvat 1859 and Śāke 1724 (corresponding to 1802 CE). The catalogue records a donor 'Śrīkṛṣṇa jośī [Rāmnagravāle]', but this does not appear in the quoted colophon text.",
+ "_meta": {
+  "reel": "A 328/18",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 707,
+  "out_tok": 966
+ }
+}

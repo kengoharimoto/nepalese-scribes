@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvrajanāthopādhyāyasya",
+   "name": "Vrajanātha",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ śrīvrajanāthopādhyāyasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1690 samvat 1825 miti kārtike diºº 3",
+  "era": "ŚS",
+  "year": "1690 (ŚS) / 1825 (VS)",
+  "month": "kārtika",
+  "paksa": "",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1768"
+ },
+ "place": {
+  "as_written": "kāśīnāma nargaryāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The word 'paphāṇeti' directly following 'kāśīnāma nargaryāṃ' is obscure (possibly a corrupted reading for a locality/ghāṭ in Kāśī, or an intended 'pāṭhārtham' / 'paṭhanārtham'). The catalogue lists Vrajanātha as donor, but the phrasing 'idaṃ pustakaṃ śrīvrajanāthopādhyāyasya' designates him as the owner.",
+ "_meta": {
+  "reel": "A 390/18",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 733,
+  "out_tok": 1201
+ }
+}

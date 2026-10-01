@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dhaṃjujaisi",
+   "name": "Dhaṃju",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jaisi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ dhaṃjujaisi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1727 jyeṣṭhamāsye (!) kṛṣṇapakṣe 6 dinagatā 9 tadinye (!)",
+  "era": "ŚS",
+  "year": "1727",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "6",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1805"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "An unnamed son is mentioned as the reader ('tasya putre (!) paṭhitaṃ'). The king Śrīdravyasāha mentioned in the catalogue field does not appear in the quoted colophon.",
+ "_meta": {
+  "reel": "A 419/18",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 723,
+  "out_tok": 1137
+ }
+}

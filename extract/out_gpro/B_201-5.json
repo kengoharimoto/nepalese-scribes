@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "cakrarājaḥ",
+   "name": "Cakrarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vibudhaś cakrarājaḥ sudhīraḥ śukle pakṣe vividharacanaṃ lekhayāmāsa kena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "kāle dyocāraṇavikalite, śuddhanepālaśāke, māghe māse śaśadharadine, śrīpañcamyāṃ śukle pakṣe",
+  "era": "NS",
+  "year": "906",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1786"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'dyocāraṇavikalite' is interpreted as 906 (dyo=0, cāraṇa=6?, vikalite=9?) or similar, matching the catalogue's SAM (NS) 906. 'śaśadharadine' means Monday (day of the moon). The scribe's name is Cakrarāja.",
+ "_meta": {
+  "reel": "B 201/5",
+  "model": "gemini-pro-latest",
+  "secs": 387.9,
+  "in_tok": 743,
+  "out_tok": 63303
+ }
+}

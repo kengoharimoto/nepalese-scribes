@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paṇḍitapadmaśrījñāna",
+   "name": "Padmaśrījñāna",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṇḍitapadmaśrījñānaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 768 āṣāḍhakṛṣṇa ekādaśi",
+  "era": "NS",
+  "year": "768",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1648"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 278/3",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 715,
+  "out_tok": 679
+ }
+}

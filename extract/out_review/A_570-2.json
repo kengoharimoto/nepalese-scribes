@@ -1,0 +1,113 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1/p2: 'bhaṭṭa' removed from the name stems (Raṅgoji, Koṇḍa) and kept as a title; corrupt 'koḍa(!)' read as Koṇḍa",
+   "p3: titles guru/purohita/paṇḍita kept, with a note that they come from an epithet ('crest-jewel of the circle of gurus, purohitas and paṇḍitas'), probably meaning a royal preceptor; the name is ambiguous between Kāmararāja and Amararāja (mukuṭaka-amara-rāja); the metre (drutavilambita) does not decide it",
+   "date: 'malaḥ' read as mala(māsa), an intercalary month, so the month is possibly adhika Āṣāḍha; the year 'aśītighana' is flagged as an unresolved chronogram (80 + ghana); the ŚS reading of ghana as 17, giving ŚS 1780 ≈ 1858 CE, is offered only as a guess",
+   "purpose filled in: copied by order of Kāmararāja",
+   "no deity added: śrīpaśupateś carārpaṇam is an offering formula"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "raṃgojibhaṭṭātmaja-",
+   "name": "Raṅgoji",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "raṃgojibhaṭṭātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "koḍa(!)-bhaṭṭakṛte",
+   "name": "Koṇḍa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "raṃgojibhaṭṭātmajakoḍa(!)-bhaṭṭakṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "kāmararāja-",
+   "name": "Kāmararāja",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "guru",
+    "purohita",
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gurupurohitapaṃḍitamaṃḍalīmukuṭakāmararājanideśataḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "lokajitaśarmaṇā",
+   "name": "Lokajit",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idam pustakaṃ lokajitaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "raṃgojibhaṭṭātmajakoḍa(!)-bhaṭṭakṛte"
+  },
+  {
+   "from": "p4",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "kāmararājanideśataḥ || likhitam etad"
+  }
+ ],
+ "date": {
+  "as_written": "aśītighanaprame śakavare śucikṛṣṇadale malaḥ",
+  "era": "ŚS",
+  "year": "aśītighana (80 + ghana; value uncertain)",
+  "month": "Śuci (Āṣāḍha), possibly intercalary (mala)",
+  "paksa": "kṛṣṇa",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "copied by order of Kāmararāja (nideśataḥ)",
+ "notes": "The commissioner's name sits inside a drutavilambita verse: 'gurupurohitapaṇḍitamaṇḍalīmukuṭa-kāmararāja-nideśataḥ'. It can be divided as Kāmararāja, or as mukuṭaka + Amararāja. 'rāja' may be part of the name, or he may be a king described as the crest-jewel of the gurus, purohitas and paṇḍitas. More likely he is the chief royal preceptor (rājaguru). The year 'aśītighana-prame śakavare' is an unclear chronogram. 'aśīti' means 80, but 'ghana' has no standard bhūtasaṃkhyā value; it could mean a cube or a hundreds component. One possible reading is ŚS 1780 ≈ 1858 CE, but this is not verified, so ce_approx is left empty. Koṇḍabhaṭṭa, the author, lived in the 17th century, which only gives the earliest possible date. 'malaḥ' is probably mala(māsa), an intercalary Āṣāḍha; checking for an adhika Āṣāḍha could confirm the year. The 'likhitam etad' of the verse and the closing prose statement both name Lokajit Śarman as scribe, which agrees with the catalogue field. The name stems leave out the brahmin suffix 'bhaṭṭa' as the instructions require. In the conventional form the author is Koṇḍabhaṭṭa, son of Raṅgojibhaṭṭa.",
+ "_meta": {
+  "reel": "A 570/2",
+  "model": "opus",
+  "cost_usd": 0.127358,
+  "secs": 39.1
+ }
+}

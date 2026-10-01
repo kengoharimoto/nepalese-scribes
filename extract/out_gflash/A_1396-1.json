@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nainasiṃ bānīā kṣetrīle",
+   "name": "Nainasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bānīā",
+    "kṣetrī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "leṣitam nainasiṃ bānīā kṣetrīle",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1941 sāla miti vaisāṣa vadī 7 roja 5 kā dina",
+  "era": "VS",
+  "year": "1941",
+  "month": "vaiśākha",
+  "paksa": "vadī",
+  "tithi": "7",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1884"
+ },
+ "place": {
+  "as_written": "jaṃtraṣānī hahī bhaṃnsāramā",
+  "normalized": "Jantrakhani"
+ },
+ "purpose": "",
+ "notes": "Written in Nepali while staying at Jantrakhānī customs office (jaṃtraṣānī ... bhaṃnsāramā vasi).",
+ "_meta": {
+  "reel": "A 1396/1",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 747,
+  "out_tok": 949
+ }
+}

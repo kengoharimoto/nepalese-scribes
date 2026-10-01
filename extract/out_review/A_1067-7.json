@@ -1,0 +1,64 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 as_written trimmed to 'kāśināthakṛtau' (śrī removed from the quoted form isn't needed, but the honorific is not part of the name)",
+   "p2 name normalized to 'Kṛṣṇa' (śrī is the honorific; the catalogue's 'Śrīkṛṣṇa' kept as a possible alternative in notes); confidence lowered to medium given the garbled syntax",
+   "date: month normalized to Māgha, tithi to ṣaṣṭhī, weekday to Budhavāra (vidyauvāra, probably for budhavāra), nakṣatra to Mūla (Nirṛti is its deity)",
+   "date notes: a one-year conflict between NS 909 and ŚS 1711/VS 1846 is now recorded; the catalogue's ŚS 1811 is wrong",
+   "notes: the place in the catalogue does not appear in the quoted text; 'paścine' may stand for 'paścime'"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāśināthakṛtau",
+   "name": "Kāśinātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "iti śrī kāśināthakṛtau lagnacaṃdrīkāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīkṛṣṇaṃ nāmaṃ",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śrīkṛṣṇaṃ nāmaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1711 saṃvat 1846 nepāla saṃvat 909 maghumāse vidyauvāre ṣaṣṭI ṛkṣe ca niriti",
+  "era": "ŚS",
+  "year": "1711",
+  "month": "Māgha",
+  "paksa": "",
+  "tithi": "ṣaṣṭhī (6)",
+  "weekday": "Budhavāra (Wednesday; written vidyauvāre)",
+  "nakshatra_yoga": "Mūla (niriti = Nirṛti, the deity of Mūla)",
+  "ce_approx": "1790"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives three eras: ŚS 1711, VS 1846 and NS 909. ŚS 1711 and VS 1846 agree: the Māgha in those years falls in Jan/Feb 1790 CE. NS 909 started in Kārttika 1788, so a Māgha in NS 909 would fall in early 1789. This leaves a one-year conflict, and I followed ŚS and VS. The catalogue's 'ŚS 1811(!)' is an error for 1711. No pakṣa is stated, and the weekday was not checked by calculation. Scribe: the text reads 'likhitaṃ śrīkṛṣṇaṃ nāmaṃ'. Śrī is taken as an honorific here, giving the name Kṛṣṇa, but the catalogue's Śrīkṛṣṇa could be the full name. Place: the catalogue's 'Viṣṇumatyāpūrvabhailagrāma' (a village east of the Viṣṇumatī) is not in the quoted text. The text only has 'paścine(!) ... tadgrāme', which may be 'paścime' (to the west), and there are lacunae marked with dashes. The cataloguer may have read the place in the omitted part, so the place field is left empty. The verses after the scribe's name are the usual stock scribal formulas.",
+ "_meta": {
+  "reel": "A 1067/7",
+  "model": "opus",
+  "cost_usd": 0.090702,
+  "secs": 20.5
+ }
+}

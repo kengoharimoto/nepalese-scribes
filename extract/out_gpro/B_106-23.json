@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśvaratnaṃ",
+   "name": "Viśvaratna",
+   "roles": [
+    "scribe",
+    "owner",
+    "commissioner"
+   ],
+   "titles": [
+    "varjācāryya"
+   ],
+   "affiliation": "jhvābāhāra",
+   "residence": "taṃrāchitola",
+   "evidence": "liṣitaṃ taṃrāchitola jhvābāhārayā varjācāryya viśvaratnaṃ coyā thaota dayakā tayā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1021 mti phārguna śukla pūrṇṇemā ṣunaṃ",
+  "era": "NS",
+  "year": "1021",
+  "month": "phārguna",
+  "paksa": "śukla",
+  "tithi": "pūrṇṇemā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1901"
+ },
+ "place": {
+  "as_written": "taṃrāchitola jhvābāhāra",
+  "normalized": ""
+ },
+ "purpose": "svārtha (for himself)",
+ "notes": "The scribe Viśvaratna copied the manuscript for his own use ('thaota dayakā tayā juro'). 'varjācāryya' is a spelling variant of vajrācārya. 'ṣunaṃ' is a Newari term meaning 'on the day'.",
+ "_meta": {
+  "reel": "B 106/23",
+  "model": "gemini-pro-latest",
+  "secs": 18.5,
+  "in_tok": 803,
+  "out_tok": 2181
+ }
+}

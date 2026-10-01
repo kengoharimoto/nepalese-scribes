@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdharasvāmī",
+   "name": "Śrīdhara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "svāmī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīdharasvāmīviracitāyāṃ bhagavadgītāṭīkāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 880 vaiśākhaśukla tṛtīyā śukravāra",
+  "era": "NS",
+  "year": "880",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "tṛtīyā",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1760"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "No scribe, donor or king is named in the colophon. Śrīdhara is listed only as commentator (Śrīdharasvāmin's Bhagavadgītāṭīkā). The Newari phrase \"kunhu(?) gītāsaṃpūrṇṇayāṇāvacopāditaḥ\" is unclear and names nobody. Catalogue fields are empty. Era is NS on the three-digit year convention.",
+ "_meta": {
+  "reel": "A 1379/5",
+  "model": "sonnet",
+  "cost_usd": 0.0292252,
+  "secs": 5.7
+ }
+}

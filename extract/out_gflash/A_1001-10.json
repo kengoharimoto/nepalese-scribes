@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "cauramahākavinā",
+   "name": "Caura",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahākavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "cauramahākavinā viracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ramākāntaśarmaṇā",
+   "name": "Ramākānta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idam pustakaṃ ramākāntaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1711 māse āśvinaśuklamahāṣṭamyāṃ śanivāsare",
+  "era": "ŚS",
+  "year": "1711",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "mahāṣṭamī",
+  "weekday": "śanivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1789"
+ },
+ "place": {
+  "as_written": "śrīkāntipūryāṃ",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The colophon concludes with the well-known Rāmarakṣāstotra verse ('rāmo rājamaṇiḥ sadā vijayate...').",
+ "_meta": {
+  "reel": "A 1001/10",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 882,
+  "out_tok": 1148
+ }
+}

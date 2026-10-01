@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devadatto",
+   "name": "Devadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devadatto vyalīlikhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "bhūmigobdamite śāke kuṃbherke śuklapakṣake navamyāṃ",
+  "era": "ŚS",
+  "year": "bhūmigobdamite",
+  "month": "kuṃbha",
+  "paksa": "śukla",
+  "tithi": "navamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1870"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'bhūmigobdamite' is catalogued as Śaka 1791 (1869/1870 CE).",
+ "_meta": {
+  "reel": "A 423/11",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 716,
+  "out_tok": 952
+ }
+}

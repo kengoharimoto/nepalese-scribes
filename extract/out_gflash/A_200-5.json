@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1812 mītī (!) jeṭhaadī 14 vāra atavārake",
+  "era": "VS",
+  "year": "1812",
+  "month": "jeṭha",
+  "paksa": "adī",
+  "tithi": "14",
+  "weekday": "atavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1755"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons are mentioned in the colophon text. 'atavāra' represents Sunday (ādityavāra).",
+ "_meta": {
+  "reel": "A 200/5",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 706,
+  "out_tok": 594
+ }
+}

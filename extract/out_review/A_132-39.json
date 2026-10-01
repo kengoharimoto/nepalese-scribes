@@ -1,0 +1,68 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Tithi: 'sūryajābhrātṛtithi' = tithi of Yama (brother of Yamunā, daughter of the Sun). Under the standard tithi-lord scheme Yama governs the 10th tithi, so it is daśamī, not dvitīyā. Yamadvitīyā is a Kārttika festival and does not fit Mārga. Confidence medium.",
+   "Scribe name normalized to 'Amṛta' (ʼmṛtādyaḥ(!) probably corrupt for ʼmṛtāhvaḥ 'named Amṛta'); possible identification with the Buddhist paṇḍita Amṛtānanda (fl. c. 1800) noted.",
+   "'bauddha' moved from titles to affiliation.",
+   "Era: chronogram 920 most plausibly NS; era left as unspecified because the colophon does not state it. ce_approx 1799 kept on the NS assumption.",
+   "Purpose clarified: written for the king's guru (or for the king and guru).",
+   "Notes expanded: catalogue's 'VS 420?' and 'pratipadā' do not agree with the colophon."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvajradattajinabhikṣukavi°",
+   "name": "Vajradatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "jinabhikṣu",
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvajradattajinabhikṣukaviviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ʼmṛtādyaḥ(!)",
+   "name": "Amṛta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "bauddha",
+   "residence": "",
+   "evidence": "aleṣīt(!) kopi bauddho ʼmṛtādyaḥ(!)",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "khanayananidhiyuṃkte[[varṣe]] mārgamāse valakṣe ditisutaguruvāre sūryajābhrātṛtithyāṃ",
+  "era": "unspecified",
+  "year": "920",
+  "month": "mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1799"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "nṛpatigurunimittaṃ — for (the sake of) the king's guru, or for the king and the guru",
+ "notes": "Chronogram read right to left: kha = 0, nayana = 2, nidhi = 9, giving 920. The era is not named, but in a Nepalese Buddhist context it is most likely NS: NS 920 Mārgaśīrṣa ≈ Nov/Dec 1799 CE. The catalogue's '[VS] 420?' looks like a misreading of nidhi (9) and is implausible. 'valakṣe' = bright fortnight (śukla). 'ditisutaguru' = Śukra, so the weekday is Friday. 'sūryajābhrātṛtithi': Sūryajā = Yamunā; her brother is Yama. Yama is lord of the 10th tithi (daśamī). Yamadvitīyā belongs to Kārttika and does not fit Mārga. The catalogue's 'pratipadā' has no support in the text. The weekday has not been checked against an ephemeris. 'aleṣīt(!)' = alekhīt. Scribe: 'kopi bauddho ʼmṛtādyaḥ(!)' means 'some Buddhist, Amṛta...'. Possibly read ʼmṛtāhvaḥ 'named Amṛta', which fits the mālinī cadence. Given the date (c. 1799) and the phrase 'nṛpatigurunimittaṃ', an identification with the Buddhist paṇḍita Amṛtānanda of Kathmandu is tempting but unproven. The verse is mālinī.",
+ "_meta": {
+  "reel": "A 132/39",
+  "model": "opus",
+  "cost_usd": 0.106018,
+  "secs": 29.8
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "puruṣottamadeva",
+   "name": "Puruṣottamadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "puruṣottamadevakṛtaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīsatyadharaśarmaṇā",
+   "name": "Satyadhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman",
+    "sudhī"
+   ],
+   "affiliation": "",
+   "residence": "gorṣā nagaryāṃ dharmanaghāstaṭe",
+   "evidence": "likhitaṃ śrīsatyadharaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1661 māse caitra dina 24 gate tithau 6 vāre 7 nakṣatre 5",
+  "era": "ŚS",
+  "year": "1661",
+  "month": "caitra",
+  "paksa": "",
+  "tithi": "6",
+  "weekday": "7",
+  "nakshatra_yoga": "5",
+  "ce_approx": "1739"
+ },
+ "place": {
+  "as_written": "gorṣā nagaryāṃ dharmanaghāstaṭe",
+  "normalized": "Gorkha"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1032/6",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 761,
+  "out_tok": 927
+ }
+}

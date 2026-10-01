@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñaḍhuṇḍhirāja-",
+   "name": "Ḍhuṇḍhirāja",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñaḍhuṇḍhirājaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "durgādatta",
+   "name": "Durgādatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "durgādatta arīracat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "miti caita sudī sāyaṃ caturddaśyāṃ ravau dine netraikanavabhūyāte (1912)",
+  "era": "VS",
+  "year": "1912",
+  "month": "caita",
+  "paksa": "śukla",
+  "tithi": "caturddaśī",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1855"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Year given via chronogram netra (2) eka (1) nava (9) bhū (1) = 1912, confirmed by the gloss in digits.",
+ "_meta": {
+  "reel": "A 413/12",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 725,
+  "out_tok": 962
+ }
+}

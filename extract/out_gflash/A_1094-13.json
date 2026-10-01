@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1900 sāla phārguṇavadi 11 atha nepālasaṃvat 964 taddine",
+  "era": "VS",
+  "year": "1900",
+  "month": "phārguṇa",
+  "paksa": "vadi",
+  "tithi": "11",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1844"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date is provided in both Vikrama Saṃvat (1900) and Nepāla Saṃvat (964). The phrase 'kastena likhitā graṃtha' represents the common scribal formula kaṣṭena likhito granthaḥ ('written with difficulty...'), not a personal name.",
+ "_meta": {
+  "reel": "A 1094/13",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 940,
+  "out_tok": 1056
+ }
+}

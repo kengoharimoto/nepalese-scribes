@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśnori upādhyā",
+   "name": "Viṣṇori",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ viśno(6)ri upādhyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī śā 1711 māse āṣāḍa",
+  "era": "ŚS",
+  "year": "1711",
+  "month": "Āṣāḍha",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1789"
+ },
+ "place": {
+  "as_written": "sthāne rāmanagara",
+  "normalized": "Rāmanagara"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 353/2a",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 743,
+  "out_tok": 674
+ }
+}

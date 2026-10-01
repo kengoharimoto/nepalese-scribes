@@ -1,0 +1,82 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñanṛsiṃha",
+   "name": "Nṛsiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñanṛsiṃhasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "divākaradaivajña",
+   "name": "Divākara",
+   "roles": [
+    "commentator",
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "divākaradaivajñaviracita",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "paśupatijyotirvidā",
+   "name": "Paśupati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "Iṭācapali",
+   "evidence": "likhitaṃ paśupatijyotirvidā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīdaivajñanṛsiṃhasutadivākara"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1718 śrāvaṇaśuklacatudarśyāṃ (!)",
+  "era": "ŚS",
+  "year": "1718",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "caturdaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1796"
+ },
+ "place": {
+  "as_written": "iṭācapali",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 340/36",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 741,
+  "out_tok": 1243
+ }
+}

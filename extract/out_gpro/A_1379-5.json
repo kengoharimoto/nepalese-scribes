@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīdharasvāmī",
+   "name": "Śrīdharasvāmin",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "svāmin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīdharasvāmīviracitāyāṃ bhagavadgītāṭīkāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 880 vaiśākhaśukla tṛtīyā śukravāra",
+  "era": "NS",
+  "year": "880",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "tṛtīyā",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1760"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name is not mentioned. The phrase 'gītāsaṃpūrṇṇayāṇāvacopāditaḥ' indicates completion but does not contain a clear personal name.",
+ "_meta": {
+  "reel": "A 1379/5",
+  "model": "gemini-pro-latest",
+  "secs": 9.7,
+  "in_tok": 850,
+  "out_tok": 1135
+ }
+}

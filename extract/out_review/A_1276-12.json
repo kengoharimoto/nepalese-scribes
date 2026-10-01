@@ -1,0 +1,88 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "place.normalized: removed 'Bhaktapur' and left it empty. 'Bhagatpatna' with 'harikṣetre' is not a certain match for Bhaktapur. The Persianate formula (sāla, miti, roja) and the place name could also point to Patna or the Hariharakṣetra (Sonepur) area in Bihar.",
+   "p3 Dhairyanārāyaṇa: set residence to the place of copying. Role stays 'other' (host or householder where the copy was made).",
+   "p2: kept 'viprācārya' as a title, but the notes now say it may be an epithet.",
+   "ce_approx: kept 1844 (Pauṣa VS 1900 falls in Dec 1843 to Jan 1844). The weekday check is consistent."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvaidyagadādhara",
+   "name": "Gadādhara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvaidyagadādharasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vaṃgasena",
+   "name": "Vaṅgasena",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "vaidya",
+    "viprācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvaidyagadādharasutavaidyaviprācāryaviracitāyāṃ vaṃgasenagraṃtha",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "dhairyanārāyaṇa",
+   "name": "Dhairyanārāyaṇa",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "bhagatpatnanagare harikṣetre",
+   "evidence": "dhairyanārāyaṇavatāse",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīvaidyagadādharasuta"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1900 sāla miti pauṣa śudi 13 roja 4",
+  "era": "VS",
+  "year": "1900",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1844"
+ },
+ "place": {
+  "as_written": "bhagatpatnanagare harikṣetre",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe is not named. Vaṅgasena, son of the vaidya Gadādhara, is the author of the Cikitsāsārasaṃgraha. 'viprācārya' may be an epithet rather than a title. Date: VS 1900 Pauṣa śukla 13, roja 4 (Wednesday), about 3 January 1844, which was a Wednesday. Place: 'Bhagatpatnanagara, Harikṣetra' could be Bhaktapaṭṭana (Bhaktapur), but that is not certain. 'Harikṣetra' and the Persianate dating formula also fit North India, for example Patna or the Hariharakṣetra/Sonepur area. 'dhairyanārāyaṇavatāse' probably means 'at the residence (āvāsa/bāsā) of Dhairyanārāyaṇa'. That makes him the householder or host where the copy was made, not necessarily its commissioner. The colophon also gives akṣarasaṃkhyā 410264 and ślokasaṃkhyā 12820.",
+ "_meta": {
+  "reel": "A 1276/12",
+  "model": "opus",
+  "cost_usd": 0.1502348,
+  "secs": 31.3
+ }
+}

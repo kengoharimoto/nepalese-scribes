@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dāmodala vaidya",
+   "name": "Dāmodara",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "śrīdevaparttanasthāne devalaṃtola rācha yaṃtāche",
+   "evidence": "jvajamāna śrīdevaparttanasthāne devalaṃtola rācha yaṃtāche dāmodala vaidyahāstaṃ coyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "daivajña hāku jośi",
+   "name": "Hāku",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña",
+    "jośi"
+   ],
+   "affiliation": "",
+   "residence": "śrīyaṃbu vaṃkadvaṃ thaṃthu ṅaṃthanihmache",
+   "evidence": "liṣita śrīyaṃbu vaṃkadvaṃ thaṃthu ṅaṃthanihmache daivajña hāku jośi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "jvajamāna śrīdevaparttanasthāne devalaṃtola rācha yaṃtāche dāmodala vaidyahāstaṃ coyā liṣita śrīyaṃbu vaṃkadvaṃ thaṃthu ṅaṃthanihmache daivajña hāku jośi"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 715 mārgaśiramāsya śukrapakṣe dvādaśyāṃ tithau",
+  "era": "NS",
+  "year": "715",
+  "month": "mārgaśira",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1594"
+ },
+ "place": {
+  "as_written": "śrīdevaparttanasthāne",
+  "normalized": "Devapaṭṭana"
+ },
+ "purpose": "",
+ "notes": "The commissioner Dāmodara Vaidya resides in Devapaṭṭana, while the scribe Daivajña Hāku Jośī is from Yaṃbū (Kathmandu).",
+ "_meta": {
+  "reel": "B 280/28",
+  "model": "gemini-flash-latest",
+  "secs": 12.0,
+  "in_tok": 905,
+  "out_tok": 2238
+ }
+}

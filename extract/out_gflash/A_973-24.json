@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhadarāghava",
+   "name": "Rāghava",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhadarāghavavirāvitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "gaṃgāsamvat 1754 samae nāma kuāramāse śuklapakṣe ... saṃvat 1754",
+  "era": "VS",
+  "year": "1754",
+  "month": "kuāra",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1697"
+ },
+ "place": {
+  "as_written": "kāśyāmadhye maṇikarṇikāsamipe",
+  "normalized": "Varanasi"
+ },
+ "purpose": "",
+ "notes": "No scribe is mentioned. Rāghava (Rāghavabhaṭṭa) is the author of the commentary Padārthādarśa on the Śāradātilaka.",
+ "_meta": {
+  "reel": "A 973/24",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 868,
+  "out_tok": 1349
+ }
+}

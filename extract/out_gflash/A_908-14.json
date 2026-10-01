@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "anaṃtabhaṭṭa-",
+   "name": "Anantabhaṭṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "anaṃtabhaṭṭasūnu",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mukuṃdabhaṭṭa-",
+   "name": "Mukundabhaṭṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mukuṃdabhaṭṭaviracitā tarkāmṛtataraṃgiṇī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "gaurīśvaro",
+   "name": "Gaurīśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhūsura"
+   ],
+   "affiliation": "",
+   "residence": "Harapura",
+   "evidence": "harapure gaurīśvaro bhūsuraḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "anaṃtabhaṭṭasūnumukuṃdabhaṭṭa"
+  }
+ ],
+ "date": {
+  "as_written": "śāke vāṇahayartubhūparimite māsorjjake sattithau kārttikyāṃ śanivāsare",
+  "era": "ŚS",
+  "year": "1675",
+  "month": "Ūrja (Kārttika)",
+  "paksa": "śukla",
+  "tithi": "kārttikī (pūrṇimā)",
+  "weekday": "śanivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1753"
+ },
+ "place": {
+  "as_written": "harapure",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue field lists 'Donor: Gaṅgādatta', who does not appear in the quoted colophon fragment. The chronogram 'vāṇahayartubhū' resolves to 1675 (vāṇa=5, haya=7, ṛtu=6, bhū=1).",
+ "_meta": {
+  "reel": "A 908/14",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 787,
+  "out_tok": 1569
+ }
+}

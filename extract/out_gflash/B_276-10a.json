@@ -1,0 +1,89 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "joganarendra malla thākura",
+   "name": "Yoganarendramalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "thākura"
+   ],
+   "affiliation": "",
+   "residence": "Eraya",
+   "evidence": "erayā śrī joganarendra malla thākura",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhūpārendra malla thākulana",
+   "name": "Bhūpārendramalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "thākula"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī bhūpārendra malla thākulana thva kāryya yāka juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śivanārāyaṇācāryyana",
+   "name": "Śivanārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "Ivāhāra",
+   "evidence": "ivāhārayā śivanārāyaṇācāryyana thva ghaṃtha coya madhuṃko",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "vipra śrījaśodharana",
+   "name": "Yaśodhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "Vaṃlānihma gṛha",
+   "evidence": "vaṃlānihma gṛha nivāsita vipra śrījaśodharana saṃpūrṇa yāṅana coyā dina juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 820 vaiśākha vaddhi 13 ādityavāra",
+  "era": "NS",
+  "year": "820",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1700"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon contains two dates: NS 820 vaiśākha kṛṣṇa 13 (Sunday) recording the staging/bringing out of the drama (pyākhana pidaṅa dina) involving king Yoganarendra Malla of Patan (Eraya = Yala), the king of Bhaktapur (Khopo), and king Bhūpārendra Malla of Kathmandu; and an earlier date NS 740 vaiśākha śukla 13 (Monday) (ca. 1620 CE) recording the completion of copying by Yaśodhara after Śivanārāyaṇa left it unfinished.",
+ "_meta": {
+  "reel": "B 276/10a",
+  "model": "gemini-flash-latest",
+  "secs": 10.8,
+  "in_tok": 1040,
+  "out_tok": 2572
+ }
+}

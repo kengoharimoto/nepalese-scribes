@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsivanārāyanena",
+   "name": "Śivanārāyaṇa",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsivanārāyanena likhitam idaṃ śvapāṭhārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1700 saṃvat 1835",
+  "era": "ŚS",
+  "year": "1700",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1778"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svapāṭhārtham (for own reading)",
+ "notes": "Both Śaka 1700 and Vikrama Saṃvat 1835 are recorded, corresponding to 1778 CE.",
+ "_meta": {
+  "reel": "A 329/19",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 815,
+  "out_tok": 1131
+ }
+}

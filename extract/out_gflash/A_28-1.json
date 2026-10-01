@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīhīrūmahāśayānām",
+   "name": "Hīrū",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "mahāśaya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīhīrūmahāśayānām ādeśen",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvāmacandreṇa",
+   "name": "Vāmacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvāmacandreṇa likhitānīti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "śrīhīrūmahāśayānām ādeśenodyogaparvvapustake śayabhāge śataṃ patrāṇi śrīvāmacandreṇa likhitānīti"
+  }
+ ],
+ "date": {
+  "as_written": "la saṃ 422 phalgunaśukladvādaśyāṃ śanau",
+  "era": "LS",
+  "year": "422",
+  "month": "phalguna",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "śanivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1541"
+ },
+ "place": {
+  "as_written": "kakabauragrāme",
+  "normalized": ""
+ },
+ "purpose": "śrīhīrūmahāśayānām ādeśena",
+ "notes": "",
+ "_meta": {
+  "reel": "A 28/1",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 822,
+  "out_tok": 1304
+ }
+}

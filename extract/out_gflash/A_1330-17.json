@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "udayanācārya",
+   "name": "Udayana",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "udayanācāryaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "viṭṭhala dīkṣita",
+   "name": "Viṭṭhala",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viṭṭhala dīkṣitasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rāmacaṃdro",
+   "name": "Rāmacaṃdra",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmacaṃdro vyalīlikhat || 1 || saṃvat 1652 || śrīmad viṭṭhala dīkṣitasuta rāmacaṃdrasya pustakam idaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "viṭṭhala dīkṣitasuta rāmacaṃdrasya"
+  }
+ ],
+ "date": {
+  "as_written": "dṛṣṭivāṇraseṃdrābhimite saṃvatsare site || ‥ ‥ ‥ māsi ‥ ‥ ‥ ‥ || saṃvat 1652",
+  "era": "VS",
+  "year": "1652",
+  "month": "",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1595"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "sva-paropakārārtham (sva paropakṛtyai)",
+ "notes": "The chronogram 'dṛṣṭivāṇraseṃdra' stands for 2 (dṛṣṭi) - 5 (bāṇa/vāṇa) - 6 (rasa) - 1 (indra?), reading 1652, which corresponds directly to the numerical date saṃvat 1652.",
+ "_meta": {
+  "reel": "A 1330/17",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 790,
+  "out_tok": 1438
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sumati (9) jayajitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrī sumati (9) jayajitāmitramalladevasana dayakā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 813 āṣāḍhavadi 5",
+  "era": "NS",
+  "year": "813",
+  "month": "āṣāḍha",
+  "paksa": "vadi",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1693"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīśrīśrī mahāmṛtyuñjaya prīṇātu",
+ "notes": "The place of copying is identified as Bhaktapur in the catalogue records because Jitāmitra Malla ruled there, but no place name is mentioned in the colophon text itself.",
+ "_meta": {
+  "reel": "A 1264/12",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 742,
+  "out_tok": 1326
+ }
+}

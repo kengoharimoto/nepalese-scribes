@@ -1,0 +1,69 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name corrected from 'Jayajitāmitramalla' to 'Sumatijayajitāmitramalla' (the full Bhaktapur regnal style of Jitāmitra Malla, as in the catalogue field); 'sumati' removed from titles because it belongs to the regnal name, not a title",
+   "p1 evidence shortened",
+   "p2 confidence lowered to medium: 'pramaāna' is read as the Newar office title pramāṇa/pramāna (headman or official). He is named only to mark the time ('velasa'), so the minister role is tentative",
+   "ce_approx changed from 1690 to 1689: Kārttika śukla 9 of NS 810 falls in Oct/Nov 1689, because the NS year begins in Kārttika",
+   "notes rewritten: Newari parsing and dating"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumatijayatitāmitramalladea",
+   "name": "Sumatijayajitāmitramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "deva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sumatijayatitāmitramalladeasana ... pustaka dayakā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhagirāmapramaānayā",
+   "name": "Bhagirāma",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "pramāṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhagirāmapramaānayāvelasa",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 810 kārttika śudi 9",
+  "era": "NS",
+  "year": "810",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1689"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon is in Newari. It reads roughly '[Sumatijaya]jitāmitramalladeva-sana (agentive) dhā(?) pustaka dayakā (had made) Bhagirāma pramāṇa-yā velasa (at the time of)'. 'jayatitāmitra' is a corrupt spelling of jayajitāmitra, and 'malladea' of malladeva. The king is Jitāmitra Malla of Bhaktapur (r. c. 1673–1696), whose full style is Sumatijayajitāmitramalla. 'dhā' is unclear: it may be a corruption of thva ('this') or part of a word for the type of text. 'pramaāna' is taken as the office title pramāṇa/pramāna; Bhagirāma's exact office is uncertain. NS 810 is consistent with Jitāmitra's reign. The place is not stated, but Bhaktapur is likely given the king.",
+ "_meta": {
+  "reel": "A 191/4",
+  "model": "opus",
+  "cost_usd": 0.1389558,
+  "secs": 29.2
+ }
+}

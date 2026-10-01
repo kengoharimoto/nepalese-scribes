@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "apayyadī(2)kṣitasya",
+   "name": "Appayyadīkṣita",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "Bharadvājagotra",
+   "residence": "",
+   "evidence": "apayyadī(2)kṣitasya kṛtiḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīraṃgarājādhvavidra(!) varadasūnor",
+   "name": "Raṅgarājādhvarīndra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "advaitavidyācārya",
+    "adhvarīndra"
+   ],
+   "affiliation": "Bharadvājagotra",
+   "residence": "",
+   "evidence": "śrīraṃgarājādhvavidra(!) varadasūnor apayyadī(2)kṣitasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīraṃgarājādhvavidra(!) varadasūnor apayyadī(2)kṣitasya"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1828 āṣāḍha śukla saptamī bṛhaspativāra",
+  "era": "VS",
+  "year": "1828",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "saptamī",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1771"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribe, patron, or owner is mentioned; only the author Appayya Dīkṣita and his father Raṅgarājādhvarīndra appear in the standard text colophon, followed by the copying date.",
+ "_meta": {
+  "reel": "A 1371/2",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 774,
+  "out_tok": 1575
+ }
+}

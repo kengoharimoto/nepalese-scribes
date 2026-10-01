@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 〈19〉 (9) 1904 śake 1769 āśvina vadya (!) 4 bhaume",
+  "era": "VS",
+  "year": "1904",
+  "month": "āśvina",
+  "paksa": "vadya",
+  "tithi": "4",
+  "weekday": "bhaume",
+  "nakshatra_yoga": "",
+  "ce_approx": "1847"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records VS 1990, but the colophon text reads saṃvat 1904 along with Śaka 1769, both corresponding to 1847 CE.",
+ "_meta": {
+  "reel": "A 417/1",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 716,
+  "out_tok": 980
+ }
+}

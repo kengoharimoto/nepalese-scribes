@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭojīdīkṣita-",
+   "name": "Bhaṭṭojīdīkṣita",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhaṭṭojīdīkṣitaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "cūḍāmaṇiḥ",
+   "name": "Cūḍāmaṇi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Taraunī",
+   "evidence": "vyalekhīd idaṃ pustakaṃ puttrapāṭhe prayatnena cūḍāmaṇiḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "dviragnīśavakttrāṅkite lakṣmaṇābde śucau kāmatithyāṃ śucau jīvavāre",
+  "era": "LS",
+  "year": "532",
+  "month": "śuci",
+  "paksa": "śukla",
+  "tithi": "13 (kāmatithi)",
+  "weekday": "jīvavāra (Thursday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1651"
+ },
+ "place": {
+  "as_written": "taraunyām",
+  "normalized": "Taraunī"
+ },
+ "purpose": "puttrapāṭhe (for the study of his son)",
+ "notes": "The chronogram 'dvir-agni-īśavaktra' yields 2-3-5 = LS 532. The scribe Cūḍāmaṇi copied the manuscript for his son's study ('puttrapāṭhe').",
+ "_meta": {
+  "reel": "B 35/6b",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 763,
+  "out_tok": 1506
+ }
+}

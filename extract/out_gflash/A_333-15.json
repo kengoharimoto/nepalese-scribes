@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "cakrasiṃhena",
+   "name": "Cakrasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajña cakrasiṃhena nepāla mahimā likhet",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "munirandhai samudraiśca, yute nepālavatsare | bhādra ca sitapakṣetu, dvitīyāyāṃ ravaudine",
+  "era": "NS",
+  "year": "497",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1377"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'muni-randhra-samudra' yields 497 (muni = 7, randhra = 9, samudra = 4) by the standard rule of aṅkānāṃ vāmato gatiḥ (ce_approx 1377 CE), though the catalogue interprets it in direct order as 794(!) (ce_approx 1674 CE).",
+ "_meta": {
+  "reel": "A 333/15",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 737,
+  "out_tok": 859
+ }
+}

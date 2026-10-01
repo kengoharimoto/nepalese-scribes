@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jaya ratnamaladeva",
+   "name": "Jayaratnamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "prabhūṭhākula"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jaya ratnamaladeva prabhūṭhākulasya vijayarāje",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rathanasiṃhena",
+   "name": "Rathanasiṃha",
+   "roles": [
+    "scribe",
+    "commissioner"
+   ],
+   "titles": [
+    "devejña"
+   ],
+   "affiliation": "",
+   "residence": "śrīyaṃgla kāstamaṇḍapanagale madhyamarathyāyā pvaṃdyaṃ vaṃthaṃche",
+   "evidence": "devejñe leṣitaṃ rathanasiṃhena mamahṛtārtha putra patipālayet ajñāni juraṅāna thva sāstra dayakā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "jaya ratnamaladeva prabhūṭhākulasya vijayarāje ... leṣitaṃ rathanasiṃhena"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 631 māghaśukra || pañcamyāyāṃ titho",
+  "era": "NS",
+  "year": "631",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1511"
+ },
+ "place": {
+  "as_written": "śrīyaṃgla kāstamaṇḍapanagale madhyamarathyāyā pvaṃdyaṃ vaṃthaṃche",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "mamahṛtārtha putra patipālayet (for own spiritual/material benefit and protection/education of sons)",
+ "notes": "Rathanasiṃha is both the scribe (leṣitaṃ) and had the book prepared (thva sāstra dayakā juro).",
+ "_meta": {
+  "reel": "C 40/2b",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 844,
+  "out_tok": 1369
+ }
+}

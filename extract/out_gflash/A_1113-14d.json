@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The excerpt contains only the final chapter colophon of the Devīmāhātmya (13th adhyāya) and a standard scribal apology verse, with no historical persons or date mentioned.",
+ "_meta": {
+  "reel": "A 1113/14d",
+  "model": "gemini-flash-latest",
+  "secs": 2.5,
+  "in_tok": 735,
+  "out_tok": 479
+ }
+}

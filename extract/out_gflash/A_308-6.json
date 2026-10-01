@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "amṛtānaṃdābhidho",
+   "name": "Amṛtānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "amṛtānaṃdābhidho lelikhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke vahniśaśāṃkaśailaśaśabhṛd yukte maghau śyāmale pakṣe śaivatithau śanau ca divase matsye sthite bhāskare",
+  "era": "ŚS",
+  "year": "1713",
+  "month": "maghau",
+  "paksa": "kṛṣṇa",
+  "tithi": "śaivatithi",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "matsye sthite bhāskare",
+  "ce_approx": "1791"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram for the year: vahni (3), śaśāṃka (1), śaila (7), śaśabhṛt (1) = Śaka 1713.",
+ "_meta": {
+  "reel": "A 308/6",
+  "model": "gemini-flash-latest",
+  "secs": 8.7,
+  "in_tok": 808,
+  "out_tok": 1961
+ }
+}

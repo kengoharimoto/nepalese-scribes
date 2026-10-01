@@ -1,0 +1,86 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "divākareṇa",
+   "name": "Divākara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "divākareṇa viracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nṛsiṃhadaivajñasya",
+   "name": "Nṛsiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nṛsiṃhadaivajñasyasutena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "kṛṣṇadaivajña",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "sakalagaṇakasārvabhauma",
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛṣṇadaivajñātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "nṛsiṃhadaivajñasyasutena"
+  },
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "kṛṣṇadaivajñātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1705 samaye āśvi[na] sudi saptamyāṃ tithau",
+  "era": "VS",
+  "year": "1705",
+  "month": "āśvina",
+  "paksa": "sudi",
+  "tithi": "saptamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1648"
+ },
+ "place": {
+  "as_written": "kāsyāṃ",
+  "normalized": "Kāśī"
+ },
+ "purpose": "",
+ "notes": "The scribe is unnamed (likhitam idaṃ kāsyāṃ).",
+ "_meta": {
+  "reel": "A 424/40",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 775,
+  "out_tok": 1603
+ }
+}

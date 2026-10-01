@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "durgādattābhidhasya",
+   "name": "Durgādatta",
+   "roles": [
+    "owner",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pustakam etad utprabhātīyo pre(5)tyupa nāmaka durgādattābhidhasya tat tasya śreyaskararam bhūyāt",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "tasya śreyaskara[ṃ] bhūyāt",
+ "notes": "The phrase 'utprabhātīyo pretyupanāmaka' likely indicates a surname/family name (upanāman) such as Upretī.",
+ "_meta": {
+  "reel": "B 331/17",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 680,
+  "out_tok": 915
+ }
+}

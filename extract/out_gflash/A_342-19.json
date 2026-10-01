@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "purīkeragopīnāthena",
+   "name": "Gopīnātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "purīkera"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "purīkeragopīnāthena likhitāḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śake 15068(!) mārgaśīrṣaśuddha(!)daśamyāṃ",
+  "era": "ŚS",
+  "year": "15068",
+  "month": "mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1646"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is written as 15068, which the cataloguer reasonably emends to ŚS 1568 (c. 1646 CE). Purīkera before the personal name Gopīnātha likely indicates a family, clan, or toponymic appellation.",
+ "_meta": {
+  "reel": "A 342/19",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 729,
+  "out_tok": 1088
+ }
+}

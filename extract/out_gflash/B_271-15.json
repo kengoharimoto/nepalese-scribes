@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viprottama śrī aśvinīkumāraḥ",
+   "name": "Aśvinīkumāra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "viprottama"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viprottama śrī aśvinīkumāraḥ || (!) nabhasya māhātmya likhaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepālavarṣe śaśikhabhracandre māse śuce kṛṣṇa śubhe dinesmin tithau ca kāma śaśidevaṛkṣe vyāghāṭa (!) yoge ravisūnuvāre",
+  "era": "NS",
+  "year": "1001",
+  "month": "Śuci",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "ravisūnuvāra",
+  "nakshatra_yoga": "śaśideva, vyāghāta",
+  "ce_approx": "1881"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "suprītikāmā",
+ "notes": "Year given in bhūtasaṃkhyā: śaśi (1) khabhra (0, 0) candre (1) = NS 1001. Kāmatithi corresponds to Trayodaśī (13).",
+ "_meta": {
+  "reel": "B 271/15",
+  "model": "gemini-flash-latest",
+  "secs": 7.3,
+  "in_tok": 880,
+  "out_tok": 1573
+ }
+}

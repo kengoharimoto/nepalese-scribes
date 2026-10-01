@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vikramasiṃhe",
+   "name": "Vikramasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ vikramasiṃhe",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 792 mārggaśirakṛṣṇatrayodaśī",
+  "era": "NS",
+  "year": "792",
+  "month": "mārggaśira",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1671"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 358/4",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 718,
+  "out_tok": 640
+ }
+}

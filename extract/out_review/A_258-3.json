@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date: added a note that the chronogram cannot be resolved. Read right to left, raṃdhra (9), bāṇa (5), mukha (4, or 1/5 by other conventions) and abhra (0) would put 0 in the thousands place, so the text is corrupt; year left as written and ce_approx left empty",
+   "Date: year field now gives the digits recoverable from the chronogram; weekday 'bhṛgusu[ta]' confirmed as Friday",
+   "Notes: expanded on the Khaḍgadhara/Rāghava conflict and on the chronogram"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāghavo",
+   "name": "Rāghava",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāśīkhaṃḍaṃ sakalam alikhad rāghavo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "raṃdhrairvāṇai(!)mukhābhratai(!) vatsare vikramārkamāghe māse bhṛgusu ca dine paṃcamī śuklapakṣe",
+  "era": "VS",
+  "year": "raṃdhra-bāṇa-mukha-abhra (9-5-4?-0; corrupt chronogram, year unresolved, probably VS 1x59)",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue field names Khaḍgadhara as the scribe, but the colophon says 'kāśīkhaṃḍaṃ sakalam alikhad rāghavo 'tiśrameṇa', so the scribe is Rāghava. Khaḍgadhara may come from another part of the manuscript, or the catalogue may be wrong. The era is Vikrama (vikramārka-vatsare). The chronogram 'raṃdhrair vāṇair(!) mukhābhrair(!)' gives randhra = 9, bāṇa = 5, mukha = 4 (sometimes 1 or 5) and abhra = 0. Read right to left, this puts 0 in the thousands place (e.g. 0459), which is impossible, so one word is probably corrupt. The intended year may be VS 1x59, but CE cannot be fixed safely. 'bhṛgusu' should be read bhṛgusuta-dine, i.e. Friday. The colophon covers only the Kāśīkhaṇḍa of the Skandapurāṇa.",
+ "_meta": {
+  "reel": "A 258/3",
+  "model": "opus",
+  "cost_usd": 0.1294006,
+  "secs": 26.8
+ }
+}

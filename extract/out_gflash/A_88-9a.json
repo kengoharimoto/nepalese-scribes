@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaṃgādharajī",
+   "name": "Gaṅgādhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "pā."
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustaka li || pā || gaṃgādharajī",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "āśvine śuklapakṣe tu dvitīyāyāṃ || 2 || bhaumavāsare || śrīsamvat 1910",
+  "era": "VS",
+  "year": "1910",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "bhaumavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1853"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The abbreviations 'li || pā ||' likely stand for 'likhitaṃ' (written by) and either 'pāṭhaka / pāṇḍe' (a title/caste) or 'pāṭhārtham' (for reading).",
+ "_meta": {
+  "reel": "A 88/9a",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 715,
+  "out_tok": 1086
+ }
+}

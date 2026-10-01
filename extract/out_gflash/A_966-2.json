@@ -1,0 +1,56 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvīrasiṃhadeva",
+   "name": "Vīrasiṃhadeva",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvīrasiṃhadevaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "viśvarūpo",
+   "name": "Viśvarūpa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viśvarūpo ʼlikhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "abdenaṃdahutāśavāridhinisānāthā 1439 hvayākhyānvite śrīmadvikramabhūpateś ca vibhave māse navasye site pakṣe viṣṇudine gurau",
+  "era": "VS",
+  "year": "1439",
+  "month": "navasya",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1382"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "lokahitāya",
+ "notes": "The chronogram and numerical date (VS 1439 Nabhasya śukla 11 Thursday) appears in verse 1 as the date of composition by King Vīrasiṃha ('śrīvīrasiṃho ʼbhyadhād granthaṃ'), though the cataloguer listed it as the date of copying. Scribe Viśvarūpa is mentioned in verse 2.",
+ "_meta": {
+  "reel": "A 966/2",
+  "model": "gemini-flash-latest",
+  "secs": 8.7,
+  "in_tok": 867,
+  "out_tok": 2321
+ }
+}

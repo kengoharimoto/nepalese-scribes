@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkṛṇa jośī",
+   "name": "Śrīkṛṣṇa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "Rāmanagara",
+   "evidence": "pustakamidaṃ śrīkṛṇa jośī rāmanagaravāle",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śake 1761 kārtika śuddha dvādaśī [[taddine samā || 12 ||",
+  "era": "ŚS",
+  "year": "1761",
+  "month": "kārtika",
+  "paksa": "śuddha",
+  "tithi": "dvādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1839"
+ },
+ "place": {
+  "as_written": "rāmanagaravāle",
+  "normalized": "Rāmanagar"
+ },
+ "purpose": "",
+ "notes": "śrīkṛṇa is a scribal corruption or vernacular spelling of Śrīkṛṣṇa. The phrasing 'pustakam idaṃ [name] rāmanagaravāle' typically indicates ownership.",
+ "_meta": {
+  "reel": "B 166/4",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 720,
+  "out_tok": 965
+ }
+}

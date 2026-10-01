@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsumatijayajitāmitramalladevasana",
+   "name": "Sumatijayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsumatijayajitāmitramalladevasana thva pustaka dayakā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhāgirāmaparamānayā",
+   "name": "Bhāgīrāma",
+   "roles": [
+    "minister",
+    "governor"
+   ],
+   "titles": [
+    "paramāna"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgirāmaparamānayā velasa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīsumatijayajitāmitramalladevasana thva pustaka dayakā || bhāgirāmaparamānayā velasa"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 810 kārtika śudi 9",
+  "era": "NS",
+  "year": "810",
+  "month": "kārtika",
+  "paksa": "śuklapakṣa",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1690"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Bhāgīrāma as the scribe, but the phrase 'bhāgirāmaparamānayā velasa' indicates that the manuscript was prepared during the tenure/administration of Bhāgīrāma, who held the administrative post of paramāna (pramāṇa).",
+ "_meta": {
+  "reel": "A 390/14",
+  "model": "gemini-flash-latest",
+  "secs": 6.7,
+  "in_tok": 708,
+  "out_tok": 1406
+ }
+}

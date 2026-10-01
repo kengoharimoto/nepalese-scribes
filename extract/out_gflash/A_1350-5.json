@@ -1,0 +1,90 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkṛṣṇamiśra",
+   "name": "Kṛṣṇamiśra",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkṛṣṇamiśraviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrītaṭṭanāyakamahāsa",
+   "name": "Taṭṭanāyakamahāsa",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrītaṭṭanāyakamahāsavi(!)racite",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bheṃkhvālana",
+   "name": "Bheṃkhvāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bheṃkhvālana coya siddhakā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīśrīkaṃṇṭhānaṃdabhājuyā",
+   "name": "Kaṇṭhānanda",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "bhāju"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīkaṃṇṭhānaṃdabhājuyā saphuli jula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "bheṃkhvālana coya siddhakā || śrīśrīkaṃṇṭhānaṃdabhājuyā saphuli jula"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 882 bhā〈〈ddra〉〉drapadakṛṣṇa 11 maṃgalabāra",
+  "era": "NS",
+  "year": "882",
+  "month": "bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "maṃgalavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1762"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The commentator's name śrītaṭṭanāyakamahāsa(!) seems corrupt or unusual for the commentary Prakāśa on Prabodhacandrodaya.",
+ "_meta": {
+  "reel": "A 1350/5",
+  "model": "gemini-flash-latest",
+  "secs": 8.7,
+  "in_tok": 870,
+  "out_tok": 2081
+ }
+}

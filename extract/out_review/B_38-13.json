@@ -1,0 +1,67 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name: 'Vācaspatimiśra' → 'Vācaspati' (miśra stays in titles)",
+   "p2 name: 'Mādhavaśarman' → 'Mādhava' (śarman stays in titles)",
+   "date: paksa normalized to kṛṣṇa (va = vadi); month marked as either Āṣāḍha or Āśvina",
+   "ce_approx 1565 confirmed (NS 685 + 880)"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vācaspatimiśra",
+   "name": "Vācaspati",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vācaspatimiśraviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmādhavaśarmaṇa",
+   "name": "Mādhava",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmādhavaśarmaṇayaṃ likhiteti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 685 ā va 8",
+  "era": "NS",
+  "year": "685",
+  "month": "ā (Āṣāḍha or Āśvina)",
+  "paksa": "kṛṣṇa (va = vadi)",
+  "tithi": "8",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1565"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'śrīmādhavaśarmaṇayaṃ' stands for śrīmādhavaśarmaṇā 'yaṃ (instrumental + ayam), so Mādhava Śarman wrote it. The era isn't named, but a Newari-script manuscript dated saṃ 685 fits Nepāla Saṃvat, which agrees with the catalogue: NS 685 ≈ 1565 CE. The month abbreviation 'ā' is ambiguous: it means Āṣāḍha or Āśvina, and both give 1565 CE. 'va' = vadi, the dark fortnight.",
+ "_meta": {
+  "reel": "B 38/13",
+  "model": "opus",
+  "cost_usd": 0.073338,
+  "secs": 14.9
+ }
+}

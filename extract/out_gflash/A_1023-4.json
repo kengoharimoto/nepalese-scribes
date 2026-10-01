@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "syāmasena",
+   "name": "Śyāmasena",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "syāmasena coya dhunakā dina",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 820 māghamāse kṛṣṇapakṣe dvādaśyāyāṃ tithau uttarabhadranakṣetre suddiyoge somavāsare",
+  "era": "NS",
+  "year": "820",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādaśī",
+  "weekday": "somavāsare",
+  "nakshatra_yoga": "uttarabhadranakṣetre suddiyoge",
+  "ce_approx": "1700"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The cataloguer gives the scribe name as 'Śyāma', possibly interpreting -sena as an instrumental/connective marker or 'Śyāmasena' as the personal name.",
+ "_meta": {
+  "reel": "A 1023/4",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 727,
+  "out_tok": 1045
+ }
+}

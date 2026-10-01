@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nārāyaṇadattasarmaṇāṃ",
+   "name": "Nārāyaṇadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣi(!)taṃ nārāyaṇadattasarmaṇāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "haridattabhāṅa",
+   "name": "Haridatta",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "haridattabhāṅa",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1872 māghakṛṣṇa 30 roja 2",
+  "era": "VS",
+  "year": "1872",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "30",
+  "weekday": "roja 2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1816"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "haridattabhāṅa is obscure: it may represent a personal name Haridatta with an unclear epithet/scribal note, or an additional owner/reader.",
+ "_meta": {
+  "reel": "A 1002/24",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 737,
+  "out_tok": 1486
+ }
+}

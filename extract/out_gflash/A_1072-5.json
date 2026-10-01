@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaṇeśapantena",
+   "name": "Gaṇeśa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "panta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gaṇeśapantena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "mārgaśīrṣakṛṣṇa 11 bhṛguvāsare ... saṃvat 1931",
+  "era": "VS",
+  "year": "1931",
+  "month": "mārgaśīrṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "bhṛguvāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1874"
+ },
+ "place": {
+  "as_written": "vārāṇasī",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1072/5",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 731,
+  "out_tok": 1079
+ }
+}

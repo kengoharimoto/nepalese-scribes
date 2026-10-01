@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ṭhakkuraśrīmukundasya",
+   "name": "Mukunda",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "ṭhakkura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ṭhakkuraśrīmukundasya idaṃ pustīyaṃ likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "pihāvataḥ",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "pihāvataḥ appears to be an ablative/locative indicating the place from which or where the manuscript was written.",
+ "_meta": {
+  "reel": "A 11/1",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 653,
+  "out_tok": 756
+ }
+}

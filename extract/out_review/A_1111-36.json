@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 roles: added 'owner' beside 'scribe'; confidence lowered to medium. 'likhitaṃ pustakaṃ … kṛṣṇalālaśarmaṇaḥ' can mean 'written by' or 'the book of' Kṛṣṇalāla, and the dative 'gotrāya' points to 'for' him.",
+   "p1 affiliation normalised to 'Vatsagotra (written vakṣagotra)'.",
+   "date.weekday normalised to 'Wednesday (budhavāsara)'; tithi given as kṛṣṇa trayodaśī.",
+   "Notes expanded: role ambiguity, gotra emendation, and the uncertain match between the weekday and the month reckoning."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṛṣṇalālaśarmaṇaḥ",
+   "name": "Kṛṣṇalāla",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "Vatsagotra (written vakṣagotra)",
+   "residence": "",
+   "evidence": "likhitaṃ pustakaṃ vakṣagotrāya (!) kṛṣṇalālaśarmaṇaḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśālivāhanaśāke 1806 vasantaṛtau vaisākhamāśe (!) kṛṣṇatrayodaśyāṃ tithau budhavāsare",
+  "era": "ŚS",
+  "year": "1806",
+  "month": "Vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "Wednesday (budhavāsara)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1884"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The year is in the Śālivāhana Śaka era: ŚS 1806 + 78 = 1884 CE. In the amānta reckoning, Vaiśākha kṛṣṇa 13 falls around late May 1884. In the pūrṇimānta reckoning it falls around late April 1884. Only a rough check was made: the stated Wednesday seems to fit late April better, but neither date has been verified. 'vakṣagotrāya' is probably corrupt for 'vatsagotrāya'. Also, 'gotrāya' is dative while 'kṛṣṇalālaśarmaṇaḥ' is genitive. The phrase can be read as 'book written by Kṛṣṇalāla Śarman' (scribe, which is how the catalogue reads it) or as 'book (written for and) belonging to Kṛṣṇalāla Śarman of the Vatsa gotra' (owner). Both roles are recorded and confidence is medium.",
+ "_meta": {
+  "reel": "A 1111/36",
+  "model": "opus",
+  "cost_usd": 0.091286,
+  "secs": 22.8
+ }
+}

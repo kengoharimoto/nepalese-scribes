@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 666 ślāvānaśukra navamyātithau sukravāsare",
+  "era": "NS",
+  "year": "666",
+  "month": "Śrāvaṇa",
+  "paksa": "śuklapakṣa",
+  "tithi": "navamī",
+  "weekday": "śukravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1546"
+ },
+ "place": {
+  "as_written": "kvāthasa ... yeṃraṃsa",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "No historical human persons are mentioned in the colophon. 'aṅgadakumāraḥ' in the section title refers to the epic/mythical figure Aṅgada.",
+ "_meta": {
+  "reel": "B 280/20a",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 810,
+  "out_tok": 1203
+ }
+}

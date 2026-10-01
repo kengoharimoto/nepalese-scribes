@@ -1,0 +1,49 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīyoganarendra-///",
+   "name": "Yoganarendramalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "ravivaṃśatilaka",
+    "hanumaddhvaja",
+    "sakalasaṃgītaśāstrapārāvārapāraga",
+    "kandarpasundara",
+    "caturacūḍāmaṇi",
+    "nepālamaṇḍalākhaṇḍala"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīyoganarendra-/// ravivaṃśatilakahanumadvujasakalasaṃgītaśāstrapārāvārapāragakaṃdaryyasundaracaturacūḍāmaṇi nepālamaṇḍalākhaṇḍala-///",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "abde vahnimahīvasau kavidine pakṣe ʼvalakṣe tathā hastarkṣe satisaptamī tithiyute, cāṣāḍhamāsānvite",
+  "era": "NS",
+  "year": "813",
+  "month": "Āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "Friday",
+  "nakshatra_yoga": "Hasta",
+  "ce_approx": "1693"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'vahnimahīvasau' corresponds to vahni (3), mahī (1), vasu (8) = NS 813. The king's name breaks off as 'śrīśrīyoganarendra-///', identifying King Yoganarendra Malla of Patan (r. 1684–1705 CE). The colophon breaks off at the end of fol. 134v.",
+ "_meta": {
+  "reel": "A 1341/7",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 777,
+  "out_tok": 1319
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājadaivajñavṛṣabhadhvajākhyena",
+   "name": "Vṛṣabhadhvaja",
+   "roles": [
+    "scribe",
+    "donor"
+   ],
+   "titles": [
+    "rājadaivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājadaivajñavṛṣabhadhvajākhyena likhitvā dattaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīgaurīśaṃkarākhya brāhmaṇāya",
+   "name": "Gaurīśaṅkara",
+   "roles": [
+    "beneficiary",
+    "owner"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgaurīśaṃkarākhya brāhmaṇāya rājadaivajñavṛṣabhadhvajākhyena likhitvā dattaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "śrīgaurīśaṃkarākhya brāhmaṇāya rājadaivajñavṛṣabhadhvajākhyena likhitvā dattaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsamvat 821 āśvina(7)māsi śuklapakṣe śrīmahānavamyāntithau, utrāṣāḍha (!) praśravaṇanakṣetre, dhṛtiyoge, caṃdravāsare",
+  "era": "NS",
+  "year": "821",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "mahānavamī",
+  "weekday": "caṃdravāsara",
+  "nakshatra_yoga": "utrāṣāḍha (!) praśravaṇanakṣetre, dhṛtiyoge",
+  "ce_approx": "1701"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "parārtha (likhitvā dattaṃ to Gaurīśaṅkara)",
+ "notes": "",
+ "_meta": {
+  "reel": "A 331/6",
+  "model": "gemini-flash-latest",
+  "secs": 7.7,
+  "in_tok": 830,
+  "out_tok": 1334
+ }
+}

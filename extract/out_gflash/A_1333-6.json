@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnaṃdaya śarmaṇe",
+   "name": "Nandaya",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "kāśyapagotra",
+   "residence": "varāhakṣatre grāme tanahuḥ",
+   "evidence": "likhitaṃ kāśyapagotre nāmaṃ śrīnaṃdaya śarmaṇe",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1683 dakṣiṇāyaṇe ṛtau varṣāmāse 4 pakṣe śukratithau 5 nakṣetre 13 vāre 4",
+  "era": "ŚS",
+  "year": "1683",
+  "month": "4",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "4",
+  "nakshatra_yoga": "nakṣetre 13",
+  "ce_approx": "1761"
+ },
+ "place": {
+  "as_written": "varāhakṣatre grāme tanahuḥ",
+  "normalized": "Tanahun"
+ },
+ "purpose": "",
+ "notes": "The catalogue records the date as ŚS 1863, but the text reads Śāke 1683. 'śrīnaṃdaya śarmaṇe' appears to be a corrupt dative or instrumental form for Śrīnandaśarman / Nandayaśarman.",
+ "_meta": {
+  "reel": "A 1333/6",
+  "model": "gemini-flash-latest",
+  "secs": 13.8,
+  "in_tok": 816,
+  "out_tok": 2912
+ }
+}

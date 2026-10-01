@@ -1,0 +1,34 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. The first reading is right: there are no persons, the era is NS, 864 + 880 = 1744, and pauṣāsite means Pauṣa, dark fortnight.",
+   "Notes expanded: (1) the meaning of the verb 'akṛṣat'; (2) the catalogue's date of 846, which is probably a digit transposition of 864."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 864 pauṣāsite asṭamyāṃ tithau bhaumavāre",
+  "era": "NS",
+  "year": "864",
+  "month": "Pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1744"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon reads saṃvat 864, but the catalogue's Date of Copying field gives NS 846. This is probably a digit transposition in the catalogue. The era is not stated in the colophon; NS is assumed, as is usual for Nepalese manuscripts. Pauṣa kṛṣṇa aṣṭamī of NS 864 falls around January 1744 CE. The weekday (Tuesday) has not been checked. 'akṛṣat' is an unusual verb. It probably means 'drew / traced' (that is, copied), or it is a corruption of 'alikhat'. Either way, no scribe or anyone else is named.",
+ "_meta": {
+  "reel": "A 971/6",
+  "model": "opus",
+  "cost_usd": 0.06373000000000001,
+  "secs": 12.1
+ }
+}

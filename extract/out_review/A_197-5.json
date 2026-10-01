@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date: resolved chronogram avani(1)-pañca(5)-aṅka(9)-indu(1), read right to left = 1951; year field given as the number instead of the raw words",
+   "Dropped the alternative 1591 from the notes: reading the digits right to left gives only 1951",
+   "Normalised the month to Āśvina (Iṣa), the pakṣa to śukla, the tithi to aṣṭamī (ahi = 8) and the weekday to Thursday",
+   "ce_approx: 1894 is tentative and depends on reading the era as VS (Śaka 1951 would fall in the future). The era is left as 'unspecified'",
+   "Scribe confidence lowered to medium because the verse is corrupt; evidence shortened"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ṭōḍarānandasaṃjñaḥ",
+   "name": "Ṭoḍarānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vilikhatya ... anativipulavudhir ṭōḍarānandasaṃjñaḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śaradi apani paṃcāṅkendge īṣa śūbhre ahi tithi gurū pāre",
+  "era": "unspecified",
+  "year": "1951",
+  "month": "Āśvina (Iṣa)",
+  "paksa": "śukla",
+  "tithi": "8 (aṣṭamī)",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1894? (if VS)"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon is a corrupt verse. 'apani paṃcāṅkendge' = avani(1) pañca(5) aṅka(9) indu(1); read right to left this gives 1951. The colophon names no era. VS 1951 (= 1894 CE) is the likely reading for a Devanagari manuscript; Śaka 1951 would be impossible. 'ahi' = 8 (serpent), so the date is Āśvina (Iṣa) śukla aṣṭamī, a Thursday, which fits śarad. The name Ṭoḍarānanda (or Ṭoḍara-, depending on how '-ānandasaṃjñaḥ' is parsed) is taken as the scribe, who describes himself modestly as 'anativipulabuddhi'. The name is unusual and the passage around it ('vedvāś dhanāyaṃ suviñair') is garbled. Be careful not to confuse it with the well-known compendium Ṭoḍarānanda. The phrase 'lekhakapāṭhakayoḥ' is a standard blessing formula and does not name anyone.",
+ "_meta": {
+  "reel": "A 197/5",
+  "model": "opus",
+  "cost_usd": 0.08419399999999999,
+  "secs": 20.1
+ }
+}

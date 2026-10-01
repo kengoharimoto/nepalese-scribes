@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījaya (2) bhūpatīndramallavarmmaṇaḥ",
+   "name": "Jayabhūpatīndramalla",
+   "roles": [
+    "king",
+    "commissioner",
+    "beneficiary"
+   ],
+   "titles": [
+    "varman"
+   ],
+   "affiliation": "mānavagotra",
+   "residence": "",
+   "evidence": "mānavagotra yajamānasya śrīśrījaya (2) bhūpatīndramallavarmmaṇaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "sveṣṭadevatā prītyarthaṃ navagṛha praveśa aśvasālā pratiṣṭhā navapīṭha aṣṭamātṛkārādhana vighnaharaṇa valyarcana nimityarthaṃ",
+ "notes": "Bhaktapur is recorded in the catalogue metadata as the place of copying, but it is not explicitly mentioned in the quoted text.",
+ "_meta": {
+  "reel": "A 620/4",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 789,
+  "out_tok": 928
+ }
+}

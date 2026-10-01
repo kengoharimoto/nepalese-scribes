@@ -1,0 +1,34 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. The colophon names no persons, so persons and relations stay empty.",
+   "Notes expanded: 'coyadhuna' is Newari, which supports NS. A rough weekday check favours the colophon's 984 (1864) over the catalogue's 894."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 984 āśvina kṛṣṇa daśamī || maṃgaravāra",
+  "era": "NS",
+  "year": "984",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī",
+  "weekday": "maṃgaravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1864"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The colophon reads 'samvat 984', but the catalogue field gives NS 894 (1774 CE). The catalogue may have swapped the digits. The era is not stated, but the Newari 'saṃpūrṇa coyadhuna' ('writing completed') makes NS likely. A rough calculation puts Āśvina kṛṣṇa 10 of NS 984 at about 25–27 Sep 1864, which could fall on a Tuesday. For NS 894 it falls at about 29 Sep 1774, around a Thursday. The colophon's 984 therefore fits the stated weekday better, though this was not checked precisely. The colophon names no persons.",
+ "_meta": {
+  "reel": "B 66/26",
+  "model": "opus",
+  "cost_usd": 0.08691,
+  "secs": 23.9
+ }
+}

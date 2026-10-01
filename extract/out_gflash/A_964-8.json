@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṛṣṇalāla",
+   "name": "Kṛṣṇalāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛṣṇalāla le leṣyā ho",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvatta 1935 sāla miti phārguṇa vadi 4 roja 3",
+  "era": "VS",
+  "year": "1935",
+  "month": "phārguṇa",
+  "paksa": "vadi",
+  "tithi": "4",
+  "weekday": "roja 3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1879"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Colophon is in Nepali: kṛṣṇalāla le leṣyā ho ('written by Kṛṣṇalāla'). Year 1935 sāla is in Vikrama Saṃvat.",
+ "_meta": {
+  "reel": "A 964/8",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 719,
+  "out_tok": 812
+ }
+}

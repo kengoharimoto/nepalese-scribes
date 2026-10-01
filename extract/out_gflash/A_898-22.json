@@ -1,0 +1,75 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmannṛsiṃhāśrama",
+   "name": "Nṛsiṃhāśrama",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmannṛsiṃhāśramaśrīcaraṇaparicaraṇanirata",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nārāyaṇāśrama",
+   "name": "Nārāyaṇāśrama",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nārāyaṇāśramaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "durgādattena",
+   "name": "Durgādatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "durgādattena likhiteyaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śrīmannṛsiṃhāśramaśrīcaraṇaparicaraṇanirata"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1913 śake 1778 śrāvaṇa śukla 11 bhaume",
+  "era": "VS",
+  "year": "1913",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "bhaume",
+  "nakshatra_yoga": "",
+  "ce_approx": "1856"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date provides both Vikrama Samvat 1913 and Śaka 1778.",
+ "_meta": {
+  "reel": "A 898/22",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 749,
+  "out_tok": 1767
+ }
+}

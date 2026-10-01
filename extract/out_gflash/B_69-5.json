@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvallabhapādhuā khadāla",
+   "name": "Vallabha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya",
+    "khadāla"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvallabhapādhuā khadāla le lekhidiyāko ho",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 17 || 58 || śrōsaṃvat 1893",
+  "era": "VS",
+  "year": "1893 (VS) / 1758 (ŚS)",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1836"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śaka 1758 and Vikrama Saṃvat 1893 are given, which correspond to 1836 CE. The colophon is written in Nepali (bhākā).",
+ "_meta": {
+  "reel": "B 69/5",
+  "model": "gemini-flash-latest",
+  "secs": 7.3,
+  "in_tok": 712,
+  "out_tok": 1137
+ }
+}

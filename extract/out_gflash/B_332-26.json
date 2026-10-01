@@ -1,0 +1,82 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdivākaradaivajñā",
+   "name": "Divākara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña",
+    "mahājyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "Golagrāma",
+   "evidence": "śrīdivākaradaivajñātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "viśvanāthadaivajña",
+   "name": "Viśvanātha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viśvanāthadaivajñavirācate (!) ... tatputrottamaviśvanātharacitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīkeśavadaivajña",
+   "name": "Keśava",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkeśavadaivajñaviracitapaddhatyudāharaṇe",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīdivākaradaivajñātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "gaganavedaśareṃdu1540 mite śake nabhasi śuklabudhe (bhagabhe) tithau gaṇapaye",
+  "era": "ŚS",
+  "year": "1540",
+  "month": "nabhas",
+  "paksa": "śukla",
+  "tithi": "gaṇapaya",
+  "weekday": "budha",
+  "nakshatra_yoga": "bhagabha",
+  "ce_approx": "1618"
+ },
+ "place": {
+  "as_written": "dharasatpure",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date Śaka 1540 and place Dharasatpura record the composition of the commentary by Viśvanātha, rather than the copying of this specific manuscript.",
+ "_meta": {
+  "reel": "B 332/26",
+  "model": "gemini-flash-latest",
+  "secs": 8.4,
+  "in_tok": 848,
+  "out_tok": 2241
+ }
+}

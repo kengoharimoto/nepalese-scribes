@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "karuṇākaropādhyāya",
+   "name": "Karuṇākara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "dvijakula",
+   "residence": "",
+   "evidence": "karuṇākaropādhyāyasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kavirāmabha[[dra]]",
+   "name": "Rāmabhadra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kavirāmabha[[dra]]kṛtaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "karuṇākaropādhyāyasuta"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1745 śrīsamvat 1880 nepālī samvat 943 bhādraśuklapakṣaṣaṣṭhībudhavāsare || visāṣā(!)nakṣatre || vaidhṛtiyoge",
+  "era": "ŚS",
+  "year": "1745 (ŚS) / 1880 (VS) / 943 (NS)",
+  "month": "bhādra",
+  "paksa": "śuklapakṣa",
+  "tithi": "ṣaṣṭhī",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "viśākhā, vaidhṛti",
+  "ce_approx": "1823"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon explicitly equates Śāka 1745, Vikrama Saṃvat 1880, and Nepāla Saṃvat 943. No scribe is explicitly named (the manuscript merely notes 'likhitaṃ idaṃ pustakaṃ').",
+ "_meta": {
+  "reel": "A 1014/5",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 824,
+  "out_tok": 1734
+ }
+}

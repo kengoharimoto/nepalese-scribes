@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṛṣṇadevo",
+   "name": "Kṛṣṇadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sudhī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛṣṇadevolikhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1674 āśvinamāse asite pakṣe guruvāreṇa saṃyutā trayodaśyāṃ",
+  "era": "ŚS",
+  "year": "1674",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "guruvāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1752"
+ },
+ "place": {
+  "as_written": "gorakṣapurīṃ",
+  "normalized": "Gorakhpur"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 69/9",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 729,
+  "out_tok": 698
+ }
+}

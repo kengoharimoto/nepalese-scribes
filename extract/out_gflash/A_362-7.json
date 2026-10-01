@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śrī saṃvat 1842 śake 16—7 māghakṛṣṇa daśamyā bhaumavāsare",
+  "era": "VS",
+  "year": "1842",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī",
+  "weekday": "bhaumavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1786"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribe, patron, or owner is mentioned in the colophon. The date is given in both Vikrama Saṃvat (1842) and Śaka Era (written as 16—7 / 1607(!), likely an error for 1707, corresponding to 1786 CE).",
+ "_meta": {
+  "reel": "A 362/7",
+  "model": "gemini-flash-latest",
+  "secs": 8.5,
+  "in_tok": 849,
+  "out_tok": 1846
+ }
+}

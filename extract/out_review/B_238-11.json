@@ -1,0 +1,128 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p3 Śivahari: role changed from 'commissioner' to 'donor'. The verb is vitarate ('gives, bestows'), and no likhāpita or lekhayāmāsa appears. Confidence stays medium.",
+   "p4 Śivasiṃha: confidence lowered to medium. The verse has no explicit 'likhitam'. The scribe role rests on the catalogue and on his being named last as the daivajña.",
+   "Date confirmed: graha 9, nidhi 9, turaga 7, read right to left, gives NS 799 = 1679 CE. Caitra kṛṣṇa amāvāsyā, Revatī, Vaidhṛti and Monday all agree with each other. The catalogue's NS 997 is a misreading (read left to right).",
+   "Purpose clarified as 'for the pleasure of the Goddess (devīprītyā)'.",
+   "Notes expanded on the syntactic ambiguity of the second verse."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījitāmitra malle",
+   "name": "Jitāmitramalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpa"
+   ],
+   "affiliation": "",
+   "residence": "Bhaktapur",
+   "evidence": "nṛpe śāsati śrījitāmitra malle",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kaniṣṭhogramalle",
+   "name": "Ugramalla",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Bhaktapur",
+   "evidence": "kaniṣṭhogramalle virājatpratāpe",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śivahari",
+   "name": "Śivahari",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "dharaṇīdaivata (brāhmaṇa)"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devīprītyā sudhīmān śivahari dharaṇī daivato ... vitarāte",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śivasiṃhaḥ",
+   "name": "Śivasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śivasiṃhaḥsma daivajñe dhīraḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p5",
+   "as_written": "vyāsoktaṃ",
+   "name": "Vyāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vyāsoktaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "brother_of",
+   "to": "p1",
+   "evidence": "kaniṣṭhogramalle"
+  },
+  {
+   "from": "p4",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "śivahari ... vitarāte śivasiṃhaḥsma daivajñe"
+  },
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "nṛpe śāsati śrījitāmitra malle"
+  }
+ ],
+ "date": {
+  "as_written": "nepāle hāyanesmin grahanidhi turage caitramāse tamiśre, vaidhṛtyāṃ revatī divasakara śaśina saṃgame somavāre",
+  "era": "NS",
+  "year": "799",
+  "month": "Caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "amāvāsyā (sun–moon conjunction)",
+  "weekday": "somavāra (Monday)",
+  "nakshatra_yoga": "Revatī; Vaidhṛti",
+  "ce_approx": "1679"
+ },
+ "place": {
+  "as_written": "mahīmaṇḍāsmin pure bhaktasaṃjñe",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "for the pleasure of the Goddess (devīprītyā)",
+ "notes": "Chronogram graha (9), nidhi (9), turaga (7), read right to left, gives NS 799 = 1679 CE. This falls within Jitāmitramalla's reign at Bhaktapur (1673–1696), with his younger brother Ugramalla named beside him. The catalogue's 'NS 997' reads the chronogram left to right and is wrong. 'divasakara-śaśina-saṃgame' means the sun–moon conjunction, i.e. Caitra amāvāsyā. Revatī as the nakṣatra fits this, since the sun sits at the end of Mīna. The second verse is corrupt ('daivatoyetihāsaṃ', 'pustakātryāṃ' perhaps for pustakākhyaṃ/pustakārthaṃ, 'vitarāte' for vitarate, 'śivasiṃhaḥsma'). It has two nominative agents: Śivahari, a learned brahmin (dharaṇīdaivata), who 'gives' (vitarate) the Itihāsa spoken by Vyāsa, and Śivasiṃha, the daivajña. The verse does not say who wrote and who gave. Treating Śivahari as donor and Śivasiṃha as scribe follows the catalogue and the order of the verse, but it is not certain. Śivasiṃha could also be the donor/giver, with Śivahari as a person or exemplar source in another case.",
+ "_meta": {
+  "reel": "B 238/11",
+  "model": "opus",
+  "cost_usd": 0.12062999999999999,
+  "secs": 30.8
+ }
+}

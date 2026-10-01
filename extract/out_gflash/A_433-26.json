@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśvāmitradaivajñena",
+   "name": "Viśvāmitra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ viśvāmitradaivajñena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śākaḥ1625 māghakṛṣṇa3 śukravāsare",
+  "era": "ŚS",
+  "year": "1625",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "3",
+  "weekday": "śukravāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1704"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 433/26",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 735,
+  "out_tok": 900
+ }
+}

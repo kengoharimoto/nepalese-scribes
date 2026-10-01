@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vyāsagopāsaśarmā",
+   "name": "Gopāsaśarman",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "vyāsa"
+   ],
+   "affiliation": "audīcya gurjara tolakīya",
+   "residence": "",
+   "evidence": "tatputreṇātiramyaṃ likhitamalamagān nāṭakaṃ śrīśukena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīśukena",
+   "name": "Śuka",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitamalamagān nāṭakaṃ śrīśukena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "vyāsagopāsaśarmā || tatputreṇātiramyaṃ likhitamalamagān nāṭakaṃ śrīśukena"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "budhānāṃ pramudakaram",
+ "notes": "The father Vyāsa Gopāsaśarman belongs to the Tolakīya (Tolakiya) group of Audīcya Gurjara Brahmins. 'Gopāsa' is likely an orthographic error or vernacular form of 'Gopāla'.",
+ "_meta": {
+  "reel": "B 274/27",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 780,
+  "out_tok": 1531
+ }
+}

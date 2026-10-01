@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śatānandācāryya",
+   "name": "Śatānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśatānandācāryyaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1920 sāla miti māghavadi 4 roja 4",
+  "era": "VS",
+  "year": "1920",
+  "month": "māgha",
+  "paksa": "vadi",
+  "tithi": "4",
+  "weekday": "roja 4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1864"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1000/15",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 763,
+  "out_tok": 760
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīharinārāyaṇasenanṛpatiḥ(!)",
+   "name": "Harinārāyaṇasena",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpati"
+   ],
+   "affiliation": "",
+   "residence": "moraṃgarājya",
+   "evidence": "śrīharinārāyaṇasenanṛpatiḥ(!)samaye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvratarājaśarmmaṇā",
+   "name": "Vratarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvratarājaśarmmaṇā likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "moraṃgarājye prānavārāgrāme śrīharinārāyaṇasenanṛpatiḥ(!)samaye śrīvratarājaśarmmaṇā likhitam"
+  }
+ ],
+ "date": {
+  "as_written": "śāke 1650 saṃvat 1785 bhādrapadamāse śukle pakṣe tṛtīyāyāṃ tithau tṛti(!)yaprahare iṃduvāsare 2 hastanakṣatre 13 śuklayoge 24",
+  "era": "ŚS",
+  "year": "1650",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "induvāsara",
+  "nakshatra_yoga": "hastan路线 13, śukla 24",
+  "ce_approx": "1728"
+ },
+ "place": {
+  "as_written": "moraṃgarājye prānavārāgrāme",
+  "normalized": "Morang"
+ },
+ "purpose": "",
+ "notes": "Both Śāke 1650 and Saṃvat 1785 are given in the colophon, consistently matching 1728 CE.",
+ "_meta": {
+  "reel": "A 189/16",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 956,
+  "out_tok": 1397
+ }
+}

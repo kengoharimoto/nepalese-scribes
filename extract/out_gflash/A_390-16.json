@@ -1,0 +1,55 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīcaritravardhana-",
+   "name": "Caritravardhana",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīcaritravardhanaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jo(ga)devasya",
+   "name": "Jogadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jo(ga)devasya sūnunā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nabhorasābdhyaikamite śakebde saṃvatsare caiva parābhaākye ṛtau śarannāmni karāhvayetho sadosvije māsi ca somavāre ādimāyāṃ tithau caiva site pakṣe ca vaidhṛtau",
+  "era": "ŚS",
+  "year": "1460",
+  "month": "Āśvina",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "vaidhṛti",
+  "ce_approx": "1538"
+ },
+ "place": {
+  "as_written": "prayoga",
+  "normalized": "Prayāga"
+ },
+ "purpose": "",
+ "notes": "The scribe is described as the son of Jogadeva (jo(ga)devasya sūnunā); his own personal name is not preserved in the quoted portion, though the catalogue tentatively suggests Rāmeśvarabhaṭṭa (perhaps from line 10, which is omitted here). 'prayoga' may be a corruption for 'prayāge' (at Prayāga).",
+ "_meta": {
+  "reel": "A 390/16",
+  "model": "gemini-flash-latest",
+  "secs": 14.7,
+  "in_tok": 798,
+  "out_tok": 3327
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jaggatrayeti malla deva",
+   "name": "Jagajjyotimalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī 2 jaggatrayeti malla deva vijayarāje",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gopāla siṃha",
+   "name": "Gopālasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gopāla siṃharīkhita(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrī 2 jaggatrayeti malla deva vijayarāje"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 730 paukhakṛṣṇa ekādaśyāyā tithau ādita(!)vāsare",
+  "era": "NS",
+  "year": "730",
+  "month": "Pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī",
+  "weekday": "ādityavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1610"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The king's name is corruptly spelled as jaggatrayeti malla deva (likely King Jagajjyotirmalla of Bhaktapur).",
+ "_meta": {
+  "reel": "A 1030/24",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 787,
+  "out_tok": 1259
+ }
+}

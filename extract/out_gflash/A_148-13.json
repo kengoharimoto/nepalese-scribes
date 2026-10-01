@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdhaneśvarājena",
+   "name": "Dhaneśvararāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiti śrīdhaneśvarājena (!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 976",
+  "era": "NS",
+  "year": "976",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1856"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue regularizes the scribe's name as Śrīdhaneśvararājena.",
+ "_meta": {
+  "reel": "A 148/13",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 733,
+  "out_tok": 862
+ }
+}

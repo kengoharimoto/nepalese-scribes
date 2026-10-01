@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnivāsaśarmaṇā",
+   "name": "Śrīnivāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ śrīnivāsaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī śāke 1727 śrīsamvat 1862 bhādramāsi roja 3",
+  "era": "ŚS",
+  "year": "1727",
+  "month": "bhādra",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "roja 3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1805"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śāka 1727 and Samvat 1862 are stated in the colophon text (the catalogue metadata reads Samvat 1863 in error). Both correspond to 1805 CE.",
+ "_meta": {
+  "reel": "A 1030/29",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 754,
+  "out_tok": 1122
+ }
+}

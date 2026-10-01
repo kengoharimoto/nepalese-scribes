@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnīlakaṇtḥakavi",
+   "name": "Nīlakaṇṭha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnīlakaṇtḥakavikalpitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃva(7)t 1785 (nāvarṣe) māghamāse śuklapakṣe paurṇamāsi tithau ravivāsa(8)re",
+  "era": "unspecified",
+  "year": "1785",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "paurṇamāsī",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "sūryapure",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue identifies the date as ŚS 1785 (1863 CE), but the text only gives 'saṃvat 1785', which could also refer to VS 1785 (1728 CE). Sūryapura is frequently used as a Sanskritization of Surat.",
+ "_meta": {
+  "reel": "A 400/10",
+  "model": "gemini-flash-latest",
+  "secs": 8.9,
+  "in_tok": 747,
+  "out_tok": 2153
+ }
+}

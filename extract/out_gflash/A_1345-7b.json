@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paramānaṃdakāyastha",
+   "name": "Paramānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paramānaṃdakāyastha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śaṃvat 1696 samaye māghavadi trayodaśi vāra",
+  "era": "VS",
+  "year": "1696",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1639"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The weekday is not named after the word 'vāra'.",
+ "_meta": {
+  "reel": "A 1345/7b",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 734,
+  "out_tok": 765
+ }
+}

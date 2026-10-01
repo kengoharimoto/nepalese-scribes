@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācāryya śrīhemā〇krana",
+   "name": "Hemāṅkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "(Tarumūla?) Mahāvihāra; raraṃkṛtavihāra (sic)",
+   "residence": "Sayava tola, in the house on the south side (dakṣanadisagṛhāntavya) of the raraṃkṛtavihāra within the (Tarumūla) Mahāvihāra",
+   "evidence": "vajrācāryya śrīhemā〇krana likhyate",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 892 āśviṇakṛṣṇa tṛtīyā buddhavāra",
+  "era": "NS",
+  "year": "892",
+  "month": "Āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "tṛtīyā",
+  "weekday": "buddhavāra (Wednesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1772"
+ },
+ "place": {
+  "as_written": "sayava tolake (tarumura)mahāvihārāvasthita raraṃkṛtavihārasya dakṣanadisagṛhāntavya",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Scribe's name is damaged by a hole (〇): \"hemā〇krana\" is probably instrumental hemāṅkareṇa/hemākareṇa, i.e. Hemāṅkara or Hemākara; stem form is uncertain. \"likhyate\" is used with the instrumental (expect likhitā/likhitam). The vihāra names are garbled: \"(tarumura)mahāvihāra\" is the cataloguer's conjecture and probably stands for Tarumūla-mahāvihāra (Sikhamu Bāhā, Kathmandu), which would put the copy in Kathmandu, but this is not certain enough to normalize; \"raraṃkṛtavihāra\" is unidentified (Ratnakīrti-vihāra?). \"sayava tolake\" is a Newari locative of a tola (quarter) name. \"dakṣanadisagṛhāntavya\" presumably = dakṣiṇadiśā-gṛha-antarvarti, \"living in the house on the south side\". Newari closing phrase \"thvakuhnu sidhu juroḥ\" = \"on this day it was finished\". The catalogue fields are empty, so there is no conflict to note. Date NS 892 Āśvina kṛṣṇa 3 ≈ Sept/Oct 1772 CE.",
+ "_meta": {
+  "reel": "B 105/14q",
+  "model": "fable",
+  "cost_usd": 0.194057,
+  "secs": 24.7
+ }
+}

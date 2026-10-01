@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācāryyajīvaratnane(!)",
+   "name": "Jīvaratna",
+   "roles": [
+    "scribe",
+    "commissioner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "vipravaṃśa",
+   "residence": "",
+   "evidence": "likhāyiteyaṃ gītasaṃgrahavipravaṃśavajrācāryyajīvaratnaneti(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepālavarṣe rasanetrakhendu āṣāḍhamāse dhavale ca pakṣa(!) śivatithibhe ca tathā jīvavāre",
+  "era": "NS",
+  "year": "1026",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "caturdaśī",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1906"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram rasanetrakhendu represents NS 1026 (rasa=6, netra=2, kha=0, indu=1), which the catalogue mistakenly recorded in forward order as 6201. 'likhāyita' literally means caused to be written (commissioned), though in Nepalese colophons it is frequently used interchangeably with 'likhita' (written).",
+ "_meta": {
+  "reel": "A 132/5",
+  "model": "gemini-flash-latest",
+  "secs": 8.4,
+  "in_tok": 778,
+  "out_tok": 1839
+ }
+}

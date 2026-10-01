@@ -1,0 +1,74 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "King's name normalized to the standard form Raṇajitamalla (as_written raṇajīta-)",
+   "Added a note on the date/reign conflict: NS 834 (1713/14 CE) falls before Raṇajit Malla came to the throne (c. NS 842 / 1722 CE)",
+   "Jayasiṃha kept as commissioner + owner, with confidence lowered to medium because he may also be the scribe",
+   "Purpose: śivaprīti dropped because it is a closing formula, not a purpose statement",
+   "Relation evidence shortened"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīraṇajītamallabhūpāla",
+   "name": "Raṇajitamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhūpāla"
+   ],
+   "affiliation": "",
+   "residence": "Bhaktapur",
+   "evidence": "śrīśrīraṇajītamallabhūpālabhaktapūryyāvirājayāṅa vijyākavelasa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jayasiṃhana",
+   "name": "Jayasiṃha",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jayasiṃhana thavatādayakā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "raṇajītamallabhūpāla...virājayāṅa vijyākavelasa jayasiṃhana"
+  }
+ ],
+ "date": {
+  "as_written": "nepālasamvat 834 pauṣaśukla 15",
+  "era": "NS",
+  "year": "834",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "15",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1714"
+ },
+ "place": {
+  "as_written": "bhaktapūryyā",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "for oneself (thavatā dayakā)",
+ "notes": "The date and the reign do not match. NS 834 Pauṣa śukla 15 is about January 1714 CE, which falls in the reign of Bhūpatīndra Malla of Bhaktapur. Raṇajit Malla only reigned from about 1722 to 1769 CE (NS 842–889). So either the year has been misread (for example 854 or 884) or the king's name is wrong. ce_approx follows the year as written. The colophon names Bhaktapur only as the seat of the reigning king, so treating it as the place of copying is an inference. The catalogue lists Jaya Siṃha as scribe, but 'thavatā dayakā' means 'made for himself'. That makes him commissioner and owner for certain, and possibly also the scribe. The colophon breaks off after 'kāsikhaṃḍa-'.",
+ "_meta": {
+  "reel": "A 254/2",
+  "model": "opus",
+  "cost_usd": 0.490562,
+  "secs": 27.3
+ }
+}

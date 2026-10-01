@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvaidyavācaspati",
+   "name": "Vācaspati",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvaidyavācaspativiracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat || 18(52) || miti agahana sudi 13 roºº 5",
+  "era": "VS",
+  "year": "18(52)",
+  "month": "agahana",
+  "paksa": "sudi",
+  "tithi": "13",
+  "weekday": "roºº 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1795"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Digits 52 of the year are given in parentheses by the cataloguer, indicating uncertainty or damage in the manuscript.",
+ "_meta": {
+  "reel": "A 954/4",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 739,
+  "out_tok": 1040
+ }
+}

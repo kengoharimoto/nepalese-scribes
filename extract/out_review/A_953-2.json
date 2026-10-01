@@ -1,0 +1,81 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 name corrected to Raṇoddīpasiṃha (the text's 'raṇauddīpa' is a corruption); Rāṇā and mahārāja/bahādura moved to titles",
+   "p2 roles: 'donor' changed to 'other'. He gave the scribe the exemplar (the bought book), not this copy. 'minister' kept because he was Prime Minister in VS 1935 (1879).",
+   "Removed the under_reign_of relation: Raṇoddīpa was Prime Minister, not the reigning king, and no king is named. Replaced it with an 'other' relation: gave the exemplar to p1.",
+   "p1: added Cikaṃ Bahī as affiliation. Owner role kept but confidence lowered to medium because ownership of this copy is only implied.",
+   "Place: noted that Patan is stated as the scribe's residence (vaṣnyā), and is only assumed to be the place of copying",
+   "Purpose rephrased; notes expanded"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vāḍā vaida jīvanasiṃha",
+   "name": "Jīvanasiṃha",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "vāḍā",
+    "vaida"
+   ],
+   "affiliation": "Cikaṃ Bahī (cikaṃvahīla)",
+   "residence": "pāṭana cyāsala tola cikaṃvahīla",
+   "evidence": "liṣitam pāṭana cyāsala tola cikaṃvahīla vaṣnyā vāḍā vaida jīvanasiṃha",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī mahārāja raṇauddīpa siṃha rāṇā bahādurakā",
+   "name": "Raṇoddīpasiṃha",
+   "roles": [
+    "minister",
+    "other"
+   ],
+   "titles": [
+    "mahārāja",
+    "rāṇā",
+    "bahādura"
+   ],
+   "affiliation": "Rāṇā family",
+   "residence": "",
+   "evidence": "śrī mahārāja raṇauddīpa siṃha rāṇā bahādurakā kalakaṭṭā savārī huṃdā ... malāi vakasa bhayo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "other",
+   "to": "p1",
+   "evidence": "bhāvaprakāśako kitāp 10 rupaiñā kaṃpanīle kīni malāi vakasa bhayo"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1935 sāla miti māgha vadī 2 roja",
+  "era": "VS",
+  "year": "1935",
+  "month": "māgha",
+  "paksa": "vadī (kṛṣṇa)",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1879"
+ },
+ "place": {
+  "as_written": "pāṭana cyāsala tola cikaṃvahīla",
+  "normalized": "Patan"
+ },
+ "purpose": "Copy made for the scribe himself from an exemplar given to him (implied; not stated as svārtha)",
+ "notes": "The Nepali note says that in VS 1932, when Mahārāja Raṇoddīpa Siṃha Rāṇā Bahādur travelled to Calcutta (savārī), a book of the Bhāvaprakāśa was bought for 10 Company rupees and given to me. 'kaṃpanīle' is uncertain: it may mean 'with Company rupees' or 'by the Company'. The scribe says he copied that book onto Nepali paper. So Raṇoddīpa supplied the exemplar, not this manuscript. He became Prime Minister in late 1877 (VS 1934). He was therefore not yet PM in VS 1932, but he was PM when the copy was made (Māgha VS 1935 = Jan/Feb 1879). The catalogue's 'King' field is wrong: Raṇoddīpa was Prime Minister, and the actual king (Pṛthvī Vīr Vikram Śāha) is not named. 'roja' means 'day', not a weekday name. 'vāḍā' is probably the Newar Bāḍā (Bare); 'vaida' means vaidya (physician), which fits a copy of a medical text. The colophon gives Patan as the scribe's residence ('vaṣnyā'), which is only assumed to be where he copied the text. 'jīvanasiṃha(!)' is marked by the cataloguer, but the reading seems sound.",
+ "_meta": {
+  "reel": "A 953/2",
+  "model": "opus",
+  "cost_usd": 0.104606,
+  "secs": 26.9
+ }
+}

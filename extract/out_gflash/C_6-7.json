@@ -1,0 +1,85 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jasa brahmaṇā ... śrījayabrahmasya ... lekhakapipraśrījayabrahmaśarmmeṇa",
+   "name": "Jayabrahmaśarman",
+   "roles": [
+    "owner",
+    "scribe",
+    "commissioner"
+   ],
+   "titles": [
+    "lekhaka",
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījayabrahmasya(!) pustakaṃ | lekhakapipraśrījayabrahmaśarmmeṇa(!) likhāyitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmallakṣīkāmadevasya",
+   "name": "Lakṣmīkāmadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmallakṣīkāmadevasya vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vaccharūdrācārya",
+   "name": "Vaccharudrācārya",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "paṇḍitācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṇḍitācāryaśrīśrī vaccharūdrācāryakṛtvā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "śrīmallakṣīkāmadevasya vijayarājye"
+  }
+ ],
+ "date": {
+  "as_written": "yāte sapty uḍupānale bhṛgudine nepālasamvatsare māse mādhavaśuklake raṣatithau ṛkṣe ca tiṣye ... samvat 317 vaiśākaśuklaṣaṣṭhyāṃ | śukravāre | puṣyanakṣatre",
+  "era": "NS",
+  "year": "317",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "6",
+  "weekday": "Friday",
+  "nakshatra_yoga": "Puṣya",
+  "ce_approx": "1197"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtha (śivapadaprāptaye, svaprārthahetoḥ parāparaphalaprāptaye)",
+ "notes": "The date is given both in verse (sapty-uḍupa-anale = 7-1-3 = NS 317, mādhava-śukla-ṣaṣṭhī, bhṛgudina, tiṣya) and in prose (samvat 317 vaiśākaśuklaṣaṣṭhyāṃ śukravāre puṣyanakṣatre). The phrase 'paṇḍitācāryaśrīśrī vaccharūdrācāryakṛtvā' is syntactically unclear.",
+ "_meta": {
+  "reel": "C 6/7",
+  "model": "gemini-flash-latest",
+  "secs": 11.3,
+  "in_tok": 1014,
+  "out_tok": 2747
+ }
+}

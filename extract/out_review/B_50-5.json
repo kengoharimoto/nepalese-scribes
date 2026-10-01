@@ -1,0 +1,34 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. I kept VS for 'saṃvat 1908' because NS 1908 is impossible and ŚS 1908 would be 1986 CE. ce_approx is 1851 (the year may run into 1852).",
+   "Added a note that the catalogue title (Tarkasaṃgrahagūḍhārtha) differs from the colophon title (Siddhāntacandra, a tarkasaṃgrahavivaraṇa)."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1908",
+  "era": "VS",
+  "year": "1908",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1851"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives only 'saṃvat 1908' with no era name. I take it as Vikrama because it is the only plausible reading: NS 1908 is impossible and ŚS 1908 would be 1986 CE. The catalogue records 'King: Rāja Siṃha', but no king appears in the quoted colophon, so this person is not included. 'Siddhāntacandra' is the title of the commentary (tarkasaṃgrahavivaraṇa), not a person. The catalogue title 'Tarkasaṃgrahagūḍhārtha' differs from the title in the colophon.",
+ "_meta": {
+  "reel": "B 50/5",
+  "model": "opus",
+  "cost_usd": 0.060358,
+  "secs": 10.4
+ }
+}

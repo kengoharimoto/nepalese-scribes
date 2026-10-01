@@ -1,0 +1,82 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jñāno(7)ttama",
+   "name": "Jñānottama",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "pūjyapāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jñāno(7)ttamapūjyapādaśiṣya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vijñānātmabhagavataḥ",
+   "name": "Vijñānātman",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya",
+    "bhagavat"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadvijñānātmabhagavataḥ kṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vaijanāthabhaṭṭena",
+   "name": "Vaijanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "Upāsanī",
+   "residence": "",
+   "evidence": "upāsanyupanāmaka vaijanāthabhaṭṭena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "jñāno(7)ttamapūjyapādaśiṣya śrīmadvijñānātma-"
+  }
+ ],
+ "date": {
+  "as_written": "saṃ 18 | 79 | || jye. va. 9 budhe",
+  "era": "VS",
+  "year": "1879",
+  "month": "Jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1822"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaparārthaṃ",
+ "notes": "The scribe has the surname (upanāman) Upāsanī (upāsanyupanāmaka).",
+ "_meta": {
+  "reel": "A 103/4",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 801,
+  "out_tok": 1693
+ }
+}

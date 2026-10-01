@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhojadevabhūpati",
+   "name": "Bhojadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhūpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhojadevabhūpativiracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ. 616 kārttikaśudi 9",
+  "era": "NS",
+  "year": "616",
+  "month": "kārttika",
+  "paksa": "śudi",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1495"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 423/7",
+  "model": "gemini-flash-latest",
+  "secs": 2.8,
+  "in_tok": 683,
+  "out_tok": 550
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "miśralaṭaka",
+   "name": "Laṭaka",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanmiśralaṭakatanaya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmanmiśrabhāvaprakāśa",
+   "name": "Bhāvaprakāśa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanmiśralaṭakatanayaśrīmanmiśrabhāvaprakāśaviracite",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "jayaśaṃkaravaidyasya",
+   "name": "Jayaśaṃkara",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jayaśaṃkaravaidyasyedaṃ pustakam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīmanmiśralaṭakatanaya"
+  }
+ ],
+ "date": {
+  "as_written": "nepāla samvatsare 954 miti phālguṇakṛṣṇa 5 śaniścaravāra",
+  "era": "NS",
+  "year": "954",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "śaniścaravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1834"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author Bhāvamiśra is erroneously written as 'śrīmanmiśrabhāvaprakāśa' conflating author and work title. Line 2 mentions copy costs/wage: 'jyālātakā 13'.",
+ "_meta": {
+  "reel": "A 952/7",
+  "model": "gemini-flash-latest",
+  "secs": 6.2,
+  "in_tok": 822,
+  "out_tok": 1568
+ }
+}

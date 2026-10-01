@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājādhirāja śrī 2 śrīnivāsa marllaṃ devasya",
+   "name": "Śrīnivāsamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājādhirāja śrī 2 śrīnivāsa marllaṃ devasya vijayarājyaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 792 mārgaśīra kṛṣṇa saptamī aṃgāra dine",
+  "era": "NS",
+  "year": "792",
+  "month": "mārgaśīra",
+  "paksa": "kṛṣṇa",
+  "tithi": "saptamī",
+  "weekday": "aṃgāra dine",
+  "nakshatra_yoga": "",
+  "ce_approx": "1671"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1379/3",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 809,
+  "out_tok": 971
+ }
+}

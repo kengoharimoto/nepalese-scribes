@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "punasiṃ karmācāryya",
+   "name": "Punasiṃha",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "karmācārya"
+   ],
+   "affiliation": "",
+   "residence": "sakodesa",
+   "evidence": "sakodesayā punasiṃ karmācāryya sorgavāsa jue",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śubhasamvat 947 miti maṃsiraśukrayā 9 roja 5",
+  "era": "NS",
+  "year": "947",
+  "month": "maṃsira",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1826"
+ },
+ "place": {
+  "as_written": "sakodesa",
+  "normalized": "Sankhu"
+ },
+ "purpose": "death record / obituary note",
+ "notes": "The colophon contains an obituary note recording the death (svargavāsa) of Punasiṃha Karmācārya in NS 947, followed by another fragmentary date entry: saṃvat 978 jhi śrāona gunipuhni...",
+ "_meta": {
+  "reel": "E 169/2",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 701,
+  "out_tok": 1251
+ }
+}

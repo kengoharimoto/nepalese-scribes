@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Normalized the surname title: 'tṛpāṭhī' is kept as written and 'tripāṭhī' is added as the standard form.",
+   "Added a note that 'paramārtham' may be a corruption of 'parārtham'; it is kept as written in purpose.",
+   "Checked the date: ŚS 1732 + 78 = 1810 CE. Āṣāḍha śukla 12 falls around June–July 1810, which matches the catalogue's ŚS 1732.",
+   "Kept the weekday as written ('bhṛśau'), with the note that it is probably 'bhṛgau', meaning Friday."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mitradevatṛpāṭhīdvijavareṇa",
+   "name": "Mitradeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "tṛpāṭhī (= tripāṭhī)",
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ mitradevatṛpāṭhīdvijavareṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1732 āṣāḍhaśukladvādaśyāṃ bhṛśau",
+  "era": "ŚS",
+  "year": "1732",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "bhṛśau (prob. bhṛgau = Friday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1810"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "paramārtham (possibly for parārtham: copied for someone else)",
+ "notes": "'bhṛśau' is probably a scribal error for 'bhṛgau' (Friday). 'tṛpāṭhī' is the surname Tripāṭhī, so it goes in titles. 'dvijavara' is an epithet meaning 'best of brahmins'. 'paramārtham' may be a mistake for 'parārtham' ('for another'); if so, the copy was made for someone else, who is not named. The text belongs to the Pañcastavī; no author is named in the colophon.",
+ "_meta": {
+  "reel": "A 1117/35a",
+  "model": "opus",
+  "cost_usd": 0.06859799999999999,
+  "secs": 11.9
+ }
+}

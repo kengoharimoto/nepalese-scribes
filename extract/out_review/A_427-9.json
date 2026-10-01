@@ -1,0 +1,107 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p4 Tārānātha: role 'commissioner' replaced by 'beneficiary' (dative 'śarmaṇe' = written for him; no likhāpita/lekhayāmāsa); kept 'owner'; confidence medium",
+   "Removed unverified exact CE day (9 July 1837) from notes; year ŚS 1759 = 1837 CE confirmed",
+   "Notes: added the 'api' reading and the catalogue scribe error"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kamalākara",
+   "name": "Kamalākara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kamalākara viracitaḥ siddhāṃtatattvavivekaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nṛsiṃha",
+   "name": "Nṛsiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "sakalagaṇakasārvabhauma",
+    "vidvat"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sakalagaṇakasārvabhaumavidvannṛsiṃhātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "harinṛsiṃho",
+   "name": "Harinṛsiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "harinṛsiṃhopyalikhac",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "tārānātha śarmaṇe",
+   "name": "Tārānātha",
+   "roles": [
+    "beneficiary",
+    "owner"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "alikhacchrī tārānātha śarmaṇe",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "nṛsiṃhātmaja kamalākara"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "harinṛsiṃhopyalikhacchrī tārānātha śarmaṇe"
+  }
+ ],
+ "date": {
+  "as_written": "vileṣu munibhū śāke śuklāṣāḍhe guheravau",
+  "era": "ŚS",
+  "year": "1759",
+  "month": "Āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "6",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1837"
+ },
+ "place": {
+  "as_written": "nepāladeśāṃtare",
+  "normalized": "Nepal"
+ },
+ "purpose": "for Tārānātha Śarman",
+ "notes": "The chronogram is vila/bila (9), iṣu (5), muni (7), bhū (1). Read right to left it gives Śaka 1759, which is 1837 CE. The tithi is guha (= 6, for the six-faced Skanda) and the weekday is ravau (Sunday). The exact CE day was not checked. The catalogue names Tārānāthaśarmā as the scribe, but the colophon has 'harinṛsiṃho 'py alikhat śrī-tārānātha-śarmaṇe' (Harinṛsiṃha wrote it for Tārānātha Śarman), so Tārānātha appears in the dative. The 'api' is odd: it could be filler for the metre, or it could mean 'Harinṛsiṃha also wrote', which would imply another copyist. Tārānātha's role as owner or beneficiary is inferred from the dative; nothing in the colophon says he commissioned the copy. 'nepāladeśāntare' may mean 'in the foreign land of Nepal', which would suggest the scribe was not from Nepal; this is uncertain.",
+ "_meta": {
+  "reel": "A 427/9",
+  "model": "opus",
+  "cost_usd": 0.152457,
+  "secs": 31.4
+ }
+}

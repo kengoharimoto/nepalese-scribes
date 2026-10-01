@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śyāmānaṃda",
+   "name": "Śyāmānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhata śyāmānaṃda",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "sasvat (!) 869 śrāvaṇakṣṇa, pratipadā, śravaṇanakṣetra (!) āyuṣyamānayoga, budhavāra",
+  "era": "NS",
+  "year": "869",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "pratipadā",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "śravaṇanakṣetra (!) āyuṣyamānayoga",
+  "ce_approx": "1749"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 281/8",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 745,
+  "out_tok": 699
+ }
+}

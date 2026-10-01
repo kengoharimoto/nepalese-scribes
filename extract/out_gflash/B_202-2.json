@@ -1,0 +1,70 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumatijayajitāmitramallaprabhuṭhākurasya",
+   "name": "Jayajitāmitramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati",
+    "prabhu",
+    "ṭhākura",
+    "deva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumatijayajitāmitramalladevaśana, bhāgirāpradhānāṅgayā(!) velaśa, thvakārikā, purāna cocakā dina juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhāgirāpradhānāṅgayā(!)",
+   "name": "Bhāgirā",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "pradhānāṅga"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgirāpradhānāṅgayā(!) velaśa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīśrīsumatijayajitāmitramalladevaśana, bhāgirāpradhānāṅgayā(!) velaśa"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 804 śrāvaṇakṛṣṇa, tṛtīyā revatī nakṣetre, gaṃḍayoge somāvāle(!)",
+  "era": "NS",
+  "year": "804",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "tṛtīyā",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "revatī nakṣetre, gaṃḍayoge",
+  "ce_approx": "1684"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrī 3 kālikāprītir astu",
+ "notes": "The scribe's name is broken/lost after 'ādarśa-/// lekhakasya ||'. Bhāgirā (Bhāgīrāma / Bhāgīratha) Pradhānāṅga was the prominent minister (chautārā/pradhāna) during the reign of King Jitāmitra Malla of Bhaktapur.",
+ "_meta": {
+  "reel": "B 202/2",
+  "model": "gemini-flash-latest",
+  "secs": 9.8,
+  "in_tok": 895,
+  "out_tok": 2251
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "umānātha śarmaḥ",
+   "name": "Umānātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ(4) śubhm (!) umānātha śarmaḥ (!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 193(3)6 sāla miti āśvina vadi 9 roja 7",
+  "era": "VS",
+  "year": "1936",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "roja 7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1879"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 92/19",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 782,
+  "out_tok": 856
+ }
+}

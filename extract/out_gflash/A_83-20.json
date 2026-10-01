@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājakumāraḥ",
+   "name": "Rājakumāra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "leṣakaḥ rājakumāraḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī śāke 1617 māse 7",
+  "era": "ŚS",
+  "year": "1617",
+  "month": "7",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1695"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue queries the scribe name as 'Rājakuvāra?', but the transliteration reads 'rājakumāraḥ'.",
+ "_meta": {
+  "reel": "A 83/20",
+  "model": "gemini-flash-latest",
+  "secs": 2.9,
+  "in_tok": 749,
+  "out_tok": 673
+ }
+}

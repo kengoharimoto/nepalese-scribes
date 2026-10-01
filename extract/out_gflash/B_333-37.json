@@ -1,0 +1,119 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mihiraśrīvarāha",
+   "name": "Varāhamihira",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mihiraśrīvarāhaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "darikhānadaṃ",
+   "name": "Darikhānada",
+   "roles": [
+    "governor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "darikhānadaṃ (!) bhujyamāne",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrībahrorana",
+   "name": "Bahrorana",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "satpaṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "satpaṃḍita śrībahrorana ātmapāṭhanārthe pustaka liṣāpitaṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "paṃḍi/// nīdhara",
+   "name": "[...]nīdhara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṃḍi/// nīdharasutaḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p5",
+   "as_written": "bhāgīrathī",
+   "name": "Bhāgīrathī",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "Śrīvāstavya",
+   "residence": "",
+   "evidence": "kāyasṭha śrīvāstavya paṃḍi/// nīdharasutaḥ bhāgīrathī lekhi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "nīdharasutaḥ"
+  },
+  {
+   "from": "p5",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "śrībahrorana ātmapāṭhanārthe pustaka liṣāpitaṃ (!) || kāyasṭha śrīvāstavya paṃḍi/// nīdharasutaḥ bhāgīrathī lekhi"
+  },
+  {
+   "from": "p5",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "darikhānadaṃ (!) bhujyamāne"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1561 sārṣe āṣāḍha vadi 10 śukravāsare",
+  "era": "VS",
+  "year": "1561",
+  "month": "āṣāḍha",
+  "paksa": "vadi",
+  "tithi": "10",
+  "weekday": "śukravāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1504"
+ },
+ "place": {
+  "as_written": "śrīkaroenagare ṇṭhanagare",
+  "normalized": ""
+ },
+ "purpose": "ātmapāṭhanārthe",
+ "notes": "Darikhānada bhujyamāne likely refers to the local rule or governorship of a Daryā Khān (common during the Lodi sultanate period). The place name appears corrected/corrupt between śrīkaroenagare and ṇṭhanagare (read by cataloguer as Śrīkaṇṭhanagare). The father of the scribe ends in -nīdhara with a lacuna (possibly Dharanīdhara).",
+ "_meta": {
+  "reel": "B 333/37",
+  "model": "gemini-flash-latest",
+  "secs": 11.4,
+  "in_tok": 873,
+  "out_tok": 2900
+ }
+}

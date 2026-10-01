@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dānavajrāyāta",
+   "name": "Dānavajra",
+   "roles": [
+    "beneficiary",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "thava kāya dānavajrāyāta coyā biyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1056 sāla miti caitragā 2 rojasa",
+  "era": "NS",
+  "year": "1056",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1936"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for one's own son Dānavajra (thava kāya dānavajrāyāta coyā biyā)",
+ "notes": "The scribe/giver is an unnamed parent who wrote and gave the manuscript to their own son Dānavajra (thava kāya dānavajrāyāta coyā biyā).",
+ "_meta": {
+  "reel": "B 106/12",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 737,
+  "out_tok": 1304
+ }
+}

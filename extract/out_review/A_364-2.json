@@ -1,0 +1,93 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2: name kept as regnal name Jitāmitramalla; removed 'sumati' and 'deva' from titles. 'Sumati' is an epithet that forms part of this king's name, and '-deva' belongs to the regnal form. Both are recorded in notes.",
+   "p3: role changed from 'scribe' to 'minister' + 'other'. 'pradhānāṅga' is a ministerial office, and 'saṃpūrṇa yāṅā' (Newari: 'made complete') does not show that he wrote the copy himself. Name reduced to the surviving fragment '…gira'.",
+   "notes: added the fragment 'surata . . .' after 'ājñāna' (possibly a lost name) and the mismatch with the catalogue's 'Jayajitāmitra'."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vālmīkiye",
+   "name": "Vālmīki",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ṛṣi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ityārṣe vālmīkiye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī śrīsumati jitāmitra malladevasa",
+   "name": "Jitāmitramalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "Malla dynasty of Bhaktapur",
+   "residence": "Bhaktapur",
+   "evidence": "śrī śrīsumati jitāmitra malladevasa ājñāna",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "gira pradhānāṅgayā",
+   "name": "…gira",
+   "roles": [
+    "minister",
+    "other"
+   ],
+   "titles": [
+    "pradhānāṅga"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gira pradhānāṅgayā . . . . saṃpūrṇa yāṅādina",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "servant_of",
+   "to": "p2",
+   "evidence": "malladevasa ājñāna ... gira pradhānāṅgayā"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "śrī śrīsumati jitāmitra malladevasa ājñāna"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 805 kārtikaśuklatrayodaśī",
+  "era": "NS",
+  "year": "805",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "trayodaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1684"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "completed by order (ājñā) of King Jitāmitramalla",
+ "notes": "The colophon is damaged in several places. The king is written 'sumati jitāmitra malladeva'. 'Sumati' is the usual epithet in Jitāmitra Malla's name (Bhaktapur, r. c. 1673–1696 CE). The catalogue's 'Jayajitāmitra' does not match the colophon. NS 805 Kārttika falls in Oct/Nov 1684 CE, which is within his reign. 'ājñāna surata . . .' may contain the start of another person's name (lost). Only the end of the pradhānāṅga's name survives ('…gira'). Newari 'saṃpūrṇa yāṅā dina' means 'the day it was completed'. It names him as the person who completed the copy, probably by royal order, but does not say clearly whether he wrote it or had it written, so he is not tagged as scribe or commissioner.",
+ "_meta": {
+  "reel": "A 364/2",
+  "model": "opus",
+  "cost_usd": 0.095298,
+  "secs": 23.4
+ }
+}

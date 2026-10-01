@@ -1,0 +1,103 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "candragomipādānāṃ",
+   "name": "Candragomin",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bodhisattva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtir iyan tribhūmīśvarabodhisatvaśrīcandragomipādānāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "harṣasutena",
+   "name": "Harṣa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "harṣasutena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "abhayarājena",
+   "name": "Abhayarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "harṣasutena ... nāmnā abhayarājena ... likhyate",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "akṣayarājāya",
+   "name": "Akṣayarāja",
+   "roles": [
+    "beneficiary",
+    "pupil"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "putrāyākṣayarājāya śiṣyārthena [[ca]] li〇khyate",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "harṣasutena ... nāmnā abhayarājena"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "putrāyākṣayarājāya"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "putrāyākṣayarājāya śiṣyārthena [[ca]] li〇khyate"
+  }
+ ],
+ "date": {
+  "as_written": "naipālābdagate mṛgāṅkarasayucchrīpañcabāṇa[[ā]]yudhe māse kṛṣṇaśucau divākaratithau ... śubhrāṃśuvāre",
+  "era": "NS",
+  "year": "561",
+  "month": "Āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "12",
+  "weekday": "Monday",
+  "nakshatra_yoga": "ṛṣyevapuṣṇābhidhe",
+  "ce_approx": "1441"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "putrārthahetos / putrāyākṣayarājāya śiṣyārthena",
+ "notes": "The chronogram reads mṛgāṅka (1), rasa (6), pañcabāṇāyudha (5) = NS 561. The month is śuci (Āṣāḍha), tithi is divākara (12), weekday is śubhrāṃśuvāra (Monday).",
+ "_meta": {
+  "reel": "A 52/3",
+  "model": "gemini-flash-latest",
+  "secs": 7.3,
+  "in_tok": 871,
+  "out_tok": 1698
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "annaṃbhaṭṭopādhyāya",
+   "name": "Annaṃbhaṭṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "annaṃbhaṭṭopādhyāyakṛta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1803",
+  "era": "VS",
+  "year": "1803",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1746"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 74/16",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 687,
+  "out_tok": 634
+ }
+}

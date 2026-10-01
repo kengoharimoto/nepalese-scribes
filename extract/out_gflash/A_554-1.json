@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīharadattamiśra",
+   "name": "Haradatta",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīharadattamiśraviracitāyāṃ padamaṃjaryyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1725 samvat 1860 pauṣamāsi śite pakṣe 3 vāsare 6",
+  "era": "ŚS",
+  "year": "1725",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1803"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The cataloguer equated 'samvat 1860' with 1860 A.D., but Śāke 1725 corresponds directly to Vikrama Saṃvat 1860 (circa December 1803 or January 1804 CE).",
+ "_meta": {
+  "reel": "A 554/1",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 730,
+  "out_tok": 1196
+ }
+}

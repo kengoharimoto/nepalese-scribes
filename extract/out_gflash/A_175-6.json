@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kīttisiṃha",
+   "name": "Kīrttisiṃha",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kīttisiṃhakāritāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhāskaramiśra",
+   "name": "Bhāskara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāskaramiśrakṛtāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "commissioned_from",
+   "to": "p2",
+   "evidence": "kīttisiṃhakāritāyāṃ bhāskaramiśrakṛtāyāṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 768 āśvinaśuklana",
+  "era": "NS",
+  "year": "768",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "na",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1648"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīśrīśrībhavānīśaṃkara prīṇātu / śrīpārvvatīprītir astu",
+ "notes": "Kīrttisiṃha is the patron who commissioned the text from the author Bhāskara Miśra (cataloguer lists him as donor). The scribe remains unnamed ('coyā', 'mayā'). 'na' in 'āśvinaśuklana' is an abbreviation for navamyām / 9th tithi.",
+ "_meta": {
+  "reel": "A 175/6",
+  "model": "gemini-flash-latest",
+  "secs": 7.8,
+  "in_tok": 840,
+  "out_tok": 1674
+ }
+}

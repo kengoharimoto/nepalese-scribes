@@ -1,0 +1,100 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "miśraśrīnarahari",
+   "name": "Narahari",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "Tīrabhukti, Māṇḍaragrāma",
+   "residence": "",
+   "evidence": "miśraśrīnaraharikṛta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mahāmahopādhyāyanarasiṃha",
+   "name": "Narasiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "Tīrabhukti, Māṇḍaragrāma",
+   "residence": "",
+   "evidence": "mahāmahopādhyāyanarasiṃhātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "ratnadevī",
+   "name": "Ratnadevī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "agnipraveśāntapativrataśīlaratnadevī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "kāśyapīyajayanārāyaṇaśarmmaṇā",
+   "name": "Jayanārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "kāśyapīya",
+   "residence": "karbudānikaṭe tārakagrāma",
+   "evidence": "likhitam idaṃ pustakaṃ kāśyapīyajayanārāyaṇaśarmmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "narasiṃhātmaja"
+  },
+  {
+   "from": "p3",
+   "type": "wife_of",
+   "to": "p2",
+   "evidence": "agnipraveśāntapativrataśīlaratnadevī〈ta〉mahitamahāmahopādhyāyanarasiṃha"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1694 jyeṣṭha śudi24(!)",
+  "era": "ŚS",
+  "year": "1694",
+  "month": "jyeṣṭha",
+  "paksa": "śuklapakṣa",
+  "tithi": "24(!)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1772"
+ },
+ "place": {
+  "as_written": "karbudānikaṭe tārakagrāma",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The tithi 'śudi 24' is anomalous/corrupt (flagged with (!) by the cataloguer), likely meant to be 2, 4, or 14.",
+ "_meta": {
+  "reel": "A 1001/29",
+  "model": "gemini-flash-latest",
+  "secs": 9.0,
+  "in_tok": 868,
+  "out_tok": 2431
+ }
+}

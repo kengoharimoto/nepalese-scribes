@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "date.year normalized to '1852'; the cataloguer's parentheses around 52 are explained in notes",
+   "date.weekday read as 'Thursday (roºº 5 = 5th weekday counting from Sunday)'",
+   "notes expanded: the CE check for Mārgaśīrṣa śukla 13 of VS 1852 gives Nov/Dec 1795, and Vācaspati's role as commentator is explained"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvaidyavācaspati",
+   "name": "Vācaspati",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvaidyavācaspativiracite mādhavanidānaṭīkāyāṃ ātaṃkadarpaṇe",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat || 18(52) || miti agahana sudi 13 roºº 5",
+  "era": "VS",
+  "year": "1852",
+  "month": "agahana (Mārgaśīrṣa)",
+  "paksa": "sudi (śukla)",
+  "tithi": "13",
+  "weekday": "Thursday (roºº 5)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1795"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The cataloguer put the digits 52 of the year in parentheses, so they are uncertain or damaged in the manuscript. The colophon says only 'samvat', with no era named. VS follows the catalogue and the Devanāgarī/Nepali dating style (miti, agahana, sudi, ro). VS 1852 Mārgaśīrṣa śukla 13 falls in Nov/Dec 1795 CE. Vācaspati is the author of the Ātaṅkadarpaṇa, his commentary on the Mādhavanidāna, so his role here is commentator. The colophon names no scribe, owner or patron.",
+ "_meta": {
+  "reel": "A 954/4",
+  "model": "opus",
+  "cost_usd": 0.06528600000000001,
+  "secs": 14.0
+ }
+}

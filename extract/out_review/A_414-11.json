@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed 'paṭhin' from Dattarāma's titles: it is not a caste or office title. It is probably a garbled participle (paṭhitaṃ?) or an epithet next to the corrupt 'lipataṃ' (= likhitaṃ).",
+   "Confidence for Dattarāma lowered to medium because the passage is corrupt and 'dattarāmayā' is an irregular instrumental. The name itself is clear.",
+   "Marked the reading of kṛṣṇapakṣa from 'kṛ' as tentative in notes.",
+   "Chronogram checked: bhū (1), pañca (5), saptadaśa (17), read right to left, gives 1751. This agrees with the catalogue's ŚS 1751, and ŚS 1751 + 78 = 1829 CE."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dattarāmayā",
+   "name": "Dattarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lipataṃ paṭhin dattarāmayā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "bhūpañca saptadaśabda śāke māse śuci kṛtithautu pañca asmin nahni ʼrkkadivase",
+  "era": "ŚS",
+  "year": "1751",
+  "month": "Śuci (Āṣāḍha)",
+  "paksa": "kṛṣṇa (?)",
+  "tithi": "5",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1829"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram bhū (1), pañca (5), saptadaśa (17), read right to left, gives Śaka 1751, which agrees with the catalogue. That is Āṣāḍha 1829 CE. 'Śuci' is normally Āṣāḍha. 'kṛtithautu' is probably 'kṛ(ṣṇe) tithau tu', so kṛṣṇapakṣa is likely but not certain. 'arka-divase' means Sunday. 'lipataṃ' stands for likhitaṃ. 'paṭhin' is unclear: it may be a corrupt 'paṭhitaṃ' or an epithet, so it is not recorded as a title. 'dattarāmayā' is a non-standard instrumental of Dattarāma. Nothing in the colophon indicates a commissioner, owner or purpose.",
+ "_meta": {
+  "reel": "A 414/11",
+  "model": "opus",
+  "cost_usd": 0.1188936,
+  "secs": 21.1
+ }
+}

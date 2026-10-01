@@ -1,0 +1,115 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaṃgeśvara",
+   "name": "Gaṅgeśvara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanmahāmahopādhyāyagaṃgeśvarātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "varddhamāna",
+   "name": "Vardhamāna",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "varddhamānaracito",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "keśavapāṃḍe",
+   "name": "Keśava",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "pāṇḍe"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ likhitaṃ keśavapāṃḍe〈ḥ〉",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śenāpāṃḍe",
+   "name": "Senā",
+   "roles": [
+    "owner",
+    "other"
+   ],
+   "titles": [
+    "pāṇḍe",
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "brāhmaṇapustakaṃ likhitaṃ || || kasya putraśenāpāṃḍebrāhmaṇaḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p5",
+   "as_written": "kasya",
+   "name": "Kasya",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kasya putraśenāpāṃḍe",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "gaṃgeśvarātmajavarddhamāna"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p5",
+   "evidence": "kasya putraśenāpāṃḍe"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1687 samaye kārtikasudī saptamī caṃdravāsare〈ḥ〉",
+  "era": "VS",
+  "year": "1687",
+  "month": "kārtika",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1630"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The phrase 'kasya putraśenāpāṃḍebrāhmaṇaḥ' might either indicate that Śenā Pāṇḍe was the son of 'Kasya' (or 'Kāśya'), or it may be a corrupt scribal reading for 'kāśyapagotra-śenāpāṃḍe-brāhmaṇaḥ' (a Brāhmaṇa named Senā Pāṇḍe of Kāśyapa gotra).",
+ "_meta": {
+  "reel": "B 49/12",
+  "model": "gemini-flash-latest",
+  "secs": 13.2,
+  "in_tok": 824,
+  "out_tok": 2894
+ }
+}

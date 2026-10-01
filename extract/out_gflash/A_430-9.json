@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "kalīgata 4875 śāke 1696 saṃvat 1831 māse6 dina14 gate. ṣaṣṭhyāṃ tithau somavāsare",
+  "era": "VS",
+  "year": "1831",
+  "month": "6",
+  "paksa": "",
+  "tithi": "ṣaṣṭhī",
+  "weekday": "somavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1774"
+ },
+ "place": {
+  "as_written": "mṛgasthalyāṃ",
+  "normalized": "Mṛgasthalī"
+ },
+ "purpose": "",
+ "notes": "No persons are named in the colophon. The date is recorded in three eras: Kali Era 4875, Śaka Era 1696, and Vikrama Saṃvat 1831, along with the solar day (dina 14 gate).",
+ "_meta": {
+  "reel": "A 430/9",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 774,
+  "out_tok": 1073
+ }
+}

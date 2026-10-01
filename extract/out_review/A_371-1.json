@@ -1,0 +1,68 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Author name given in stem form without the brahmin/family title: 'Appa' (= Appayya), 'dīkṣita' kept in titles; confidence lowered to medium for the name form",
+   "Date notes rewritten: the chronogram as quoted cannot be checked against 1845. Only mṛgāṅka (1) and veda (4) are clear, and their order does not fit 1845 read right to left (that needs 5-4-8-1)",
+   "Era left as unspecified; ce_approx 1788 assumes VS (the usual era for 'SAM' in Nepal), and the note says so",
+   "Paksa 'kṛṣṇa' explained: 'meva ka' is read as 'mecaka' (dark); weekday explained: 'śauriyasra' is read as 'śaurivāsara' (Saturday)",
+   "Place note: 'vyapāla' may be a corruption of 'nepāla'; not normalized"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "appadīkṣita",
+   "name": "Appa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmad appadīkṣita viracito",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vipaśvitsukhalālākhyena",
+   "name": "Sukhalāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipaścit"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaḥ vipaśvitsukhalālākhyena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "harinmṛgāṃkayāṃjhava (!) veda pramite vatsare bhādrapadameva ka caturddaśyāṃ śauriyasrānvitāyāṃ",
+  "era": "unspecified",
+  "year": "1845",
+  "month": "Bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturdaśī",
+  "weekday": "śanivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1788"
+ },
+ "place": {
+  "as_written": "śrīddhariddharesiru (!) rāṣṭrasya vyapāla vāhinīpariveṣṭite",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author is Appayya Dīkṣita (written 'appadīkṣita'). His name is given as the stem 'Appa' with 'dīkṣita' as a title. The year chronogram 'harinmṛgāṃkayāṃjhava (!) veda pramite' is corrupt. Only mṛgāṅka (= 1) and veda (= 4) can be read with confidence. Their order does not match 1845 read right to left, which would need a 5-4-8-1 word sequence, so the catalogue's 'SAM 1845' cannot be confirmed from the quoted text. The year 1845 and its era are taken from the catalogue. VS is assumed (= 1788 CE), but ŚS 1845 (= 1923 CE) cannot be strictly ruled out. 'bhādrapadameva ka' is read as 'bhādrapade mecaka' (dark fortnight), which gives kṛṣṇa pakṣa. 'śauriyasrānvitāyāṃ' is read as 'śaurivāsarānvitāyāṃ' (Saturday, Sauri = Saturn). 'vipaśvit' = vipaścit, 'learned', is an epithet. The catalogue's scribe name 'Pipaśvī' comes from misreading this epithet as part of the name. The place phrase is corrupt: 'vyapāla' may stand for 'nepāla' (…rāṣṭrasya nepāla…), and 'vāhinīpariveṣṭite' means 'surrounded by rivers'. The place has not been identified.",
+ "_meta": {
+  "reel": "A 371/1",
+  "model": "opus",
+  "cost_usd": 0.11371400000000001,
+  "secs": 35.3
+ }
+}

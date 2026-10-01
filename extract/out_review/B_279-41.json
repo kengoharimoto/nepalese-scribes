@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Added to notes: jagaḍānandaneti = jagaḍānandena iti (instrumental + iti), which fits 'written by'; lekharyad is a corrupt verb form, possibly for lekhita- or lekhayat."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācārya śrījagaḍānandaneti",
+   "name": "Jagadānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekharyad vajrācārya śrījagaḍānandaneti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "lekharyad is a corrupt verb form, possibly for lekhita/likhita or lekhayat. If it means 'caused to be written', Jagadānanda would be the commissioner, not the scribe. Here it is taken as 'written by', which fits the instrumental jagaḍānandena + iti and agrees with the catalogue. The name is written with retroflex ḍ (Jagaḍānanda), normalized to Jagadānanda. The colophon gives no date or place.",
+ "_meta": {
+  "reel": "B 279/41",
+  "model": "opus",
+  "cost_usd": 0.06023800000000001,
+  "secs": 10.6
+ }
+}

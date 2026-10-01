@@ -1,0 +1,47 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. Notes now explain the chronogram (nava 9, dala/nayana 2, naga 7, candra 1; read right to left as 1729) and that 'dinakara kriyasaṃsthe' gives a solar month (sun in Aries), not a lunar month name."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivanṛsiṃhaś",
+   "name": "Śivanṛsiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhati śivanṛsiṃhaś",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "navadalananagacaṃdrais 1729 saṃmite śrīśakābde dinakara kriyasaṃsthe kṛṣṇapakṣe navamyāṃ || suragurudivasesmin",
+  "era": "ŚS",
+  "year": "1729",
+  "month": "Meṣa (solar; dinakara kriyasaṃsthe)",
+  "paksa": "kṛṣṇa",
+  "tithi": "navamī",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1807"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is given explicitly as Śaka (śrīśakābde 1729), so the date is ŚS 1729 = 1807 CE (April–May, with the sun in Aries). The catalogue's 'SAM 1729' is misleading: read as Vikrama it would give 1672 CE. Chronogram: 'navadalananagacaṃdrais' = nava (9), dala(na) (2; probably a corruption of nayana = 2), naga (7), candra (1); read right to left this gives 1729, which matches the numeral. 'kriya' is the zodiac name for Aries (Meṣa). The text calls itself 'vājahotra', but the catalogue title is Vājalakṣaṇa. The name could also be read as two words, Śiva Nṛsiṃha.",
+ "_meta": {
+  "reel": "A 227/13",
+  "model": "opus",
+  "cost_usd": 0.073626,
+  "secs": 16.0
+ }
+}

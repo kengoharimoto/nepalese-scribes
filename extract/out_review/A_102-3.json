@@ -1,0 +1,67 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2: re-segmented 'jyānilajyā śaṃkarasyedaṃ' as 'jyānī lajyāśaṃkarasya': owner's name is Lajyāśaṃkara (= Lajjāśaṅkara, a common Gujarati name), and Jyānī (= Jānī, a Gujarati brahmin surname) goes into titles. Confidence lowered to medium.",
+   "Removed the wrote_for relation p1→p2. The colophon does not say the scribe wrote the copy for the owner; the ownership statement could have been added later.",
+   "Notes updated. Date (VS 1840 → 1783 CE) confirmed."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "brāhmaṇa someśvaradadhīca",
+   "name": "Someśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa",
+    "dadhīca"
+   ],
+   "affiliation": "Dadhīca (Dādhīca) brahmin community",
+   "residence": "",
+   "evidence": "likhitaṃ brāhmaṇa someśvaradadhīca",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jyānilajyā śaṃkarasya",
+   "name": "Lajyāśaṃkara",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jyānī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jyānilajyā śaṃkarasyedaṃ pustakaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1840 ... miti kārtikavadi paṃcamī 5 budhavāsare",
+  "era": "VS",
+  "year": "1840",
+  "month": "kārtika",
+  "paksa": "vadi (kṛṣṇa)",
+  "tithi": "5 (paṃcamī)",
+  "weekday": "Wednesday (budhavāsara)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1783"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'jyānilajyā śaṃkarasyedaṃ' is best read as 'jyānī lajyāśaṃkarasyedaṃ': Jānī (a Gujarati brahmin surname) + Lajjāśaṅkara (a typical Gujarati personal name). The alternative split 'Śaṃkara' cannot be ruled out. The names Dadhīca, Jānī and Lajjāśaṅkara suggest the copy was made in western India (Gujarat/Rajasthan), not Nepal. The colophon does not say whether the owner commissioned the copy. 'rāma rāma' is an invocation, not a person. Ends with the usual scribal verse 'bhagnapṛṣṭhakaṭigrīvā...'. VS 1840 Kārtika kṛṣṇa 5 falls in Oct/Nov 1783 CE; the weekday was not checked.",
+ "_meta": {
+  "reel": "A 102/3",
+  "model": "opus",
+  "cost_usd": 0.08115,
+  "secs": 17.0
+ }
+}

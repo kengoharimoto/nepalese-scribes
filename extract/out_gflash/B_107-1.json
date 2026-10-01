@@ -1,0 +1,55 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ādharadhana",
+   "name": "Ādharadhana",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "ṅatabhucchayātor",
+   "evidence": "ṅatabhucchayātor ādharadhana ‥‥ siṃyātacosyaṃ viyājuhā",
+   "confidence": "low"
+  },
+  {
+   "pid": "p2",
+   "as_written": "‥‥ siṃ",
+   "name": "Siṃha",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "ṅatabhucchayātor",
+   "evidence": "‥‥ siṃyātacosyaṃ viyājuhā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 910 phārguṇaśuklatṛtiyā buddhavāra kunhu",
+  "era": "NS",
+  "year": "910",
+  "month": "phārguṇa",
+  "paksa": "śukla",
+  "tithi": "tṛtīyā",
+  "weekday": "buddhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1790"
+ },
+ "place": {
+  "as_written": "ṅatabhucchayātor",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The clause 'ṅatabhucchayātor ādharadhana ‥‥ siṃyātacosyaṃ viyājuhā' indicates the copy was written and given to someone ending in -siṃha (‥‥ siṃyāta). The role of 'ādharadhana' is unclear due to the lacuna: it may be a personal name (perhaps a father whose son received the manuscript, or an agent/scribe), hence assigned role 'other' with low confidence. 'ṅatabhucchayātor' refers to a neighborhood (tol) in the Ṅata (Nardevi) quarter of Kathmandu.",
+ "_meta": {
+  "reel": "B 107/1",
+  "model": "gemini-flash-latest",
+  "secs": 16.0,
+  "in_tok": 751,
+  "out_tok": 3062
+ }
+}

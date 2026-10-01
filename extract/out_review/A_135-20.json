@@ -1,0 +1,37 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday: 'mitraje' interpreted as Saturday (mitraja = son of Mitra/the Sun = Śani); original kept in as_written",
+   "year: kept as the unresolved chronogram string; added a note that its word-numbers can't be resolved securely, so ce_approx stays empty",
+   "nakshatra_yoga: added the planetary positions (Sun in Kumbha, Moon in Siṃha, 'arjune' unclear)",
+   "notes: added the possibility that the scribe's name is encoded in the corrupt epithet verse (Narasiṃha?); no person entered because it is too uncertain",
+   "purpose stays empty"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śambho rāri śārādharādharārākātithau mitraje | māse māghamaghe ca śobhanayute kuṃbhe ca siṃhe ʼrjune",
+  "era": "unspecified",
+  "year": "śambho rāri śārādharādharā (chronogram, unresolved)",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā (rākā)",
+  "weekday": "Saturday (mitraja = Śani)",
+  "nakshatra_yoga": "Maghā nakṣatra; Śobhana yoga; Sun in Kumbha, Moon in Siṃha; 'arjune' unclear",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date is in verse. Rākā-tithi means the full moon of Māgha, and that fits Maghā nakṣatra and the Moon in Leo. 'Mitraje' most likely means Saturday (son of Mitra = Śani). The year chronogram 'śambho rāri śārādharādharā' is corrupt. Possible number-words include śambhu = 11, ari = 6, śara = 5, dharā = 1 and dharādhara = 7, but the word division is unclear, so no year or era can be fixed. The Newari script suggests NS. 'arjune' may stand for a planet or a corrupt word. In the second half, 'hantā dānava... prādā, siṃhā...' (slayer of the demon, [Pra]hlāda?, siṃha) may be a riddle that encodes the scribe's name, possibly Narasiṃha. This is speculative and not entered as a person. The scribe is otherwise only called 'asau ... mahadbuddhimān', who wrote ('lekhe' (!)) the Bhūtaḍāmara. The rest is stock scribal verses (pustakalikhanapariśrama..., urasi phaṇipatiḥ...).",
+ "_meta": {
+  "reel": "A 135/20",
+  "model": "opus",
+  "cost_usd": 0.08819,
+  "secs": 23.7
+ }
+}

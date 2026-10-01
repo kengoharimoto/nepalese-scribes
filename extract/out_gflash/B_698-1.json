@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṛṣnadvaipāyana",
+   "name": "Kṛṣṇadvaipāyana",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛṣnadvaipāyanakṛteṣu",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sarupacaṃda",
+   "name": "Sarupacanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vaiśya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ sarupacaṃda vaiśya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1839 pauṣakṛṣṇa 12 mamgalavāra",
+  "era": "VS",
+  "year": "1839",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "12",
+  "weekday": "maṅgalavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1782"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Catalogue lists scribe as 'Sarupracaṃda vaiśya ?', but the text reads 'sarupacaṃda vaiśya'.",
+ "_meta": {
+  "reel": "B 698/1",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 781,
+  "out_tok": 994
+ }
+}

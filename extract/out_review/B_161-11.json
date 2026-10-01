@@ -1,0 +1,85 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2: title given as 'aujhā (Ojhā)' and evidence extended to include the surname; 'cirañjīva' is a well-wishing epithet, not a title, so it is mentioned in notes only",
+   "p3: confidence lowered to low because the father's name is probably corrupt",
+   "date: month normalized to Mārgaśīrṣa (aghana); a rough check of tithi and weekday is added in notes",
+   "notes: expanded"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmādhava",
+   "name": "Mādhava",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmādhavavīracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "maganīrāma",
+   "name": "Maganīrāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "aujhā (Ojhā)"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhakacīraṃjīva(!) maganīrāma gīnātasārasuta aujhā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "gīnātasāra",
+   "name": "Gīnātasāra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gīnātasārasuta",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "maganīrāma gīnātasārasuta"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1854 budhavāra aghanaśuklapakṣe tīthau(!) caturthīyāṃ(!)",
+  "era": "VS",
+  "year": "1854",
+  "month": "Mārgaśīrṣa (aghana)",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "budhavāra (Wednesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1797"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The colophon gives 'saṃvat' with no era. VS is assumed from the Devanagari script and the Ojhā surname. VS 1854 Mārgaśīrṣa = Nov/Dec 1797 CE, whether the year is reckoned from Caitra or Kārttika. A rough mean-moon check puts śukla 4 around Wed 22 / Thu 23 Nov 1797, so the weekday fits approximately; this was not computed exactly. 'Aghana' is the vernacular form of Agrahāyaṇa/Mārgaśīrṣa. 'cīraṃjīva' (= cirañjīva, 'long-lived') is an epithet for the scribe, not a title. 'aujhā' (Ojhā), the brahmin surname, comes after 'gīnātasārasuta', so it could belong to the father as well as the scribe. The father's name 'Gīnātasāra' is odd and probably corrupt. The catalogue reads the scribe's name as Maganīrāma Ojhā, which agrees with this reading. The author's name: 'mādhavavīracitaṃ' = mādhava-viracitaṃ.",
+ "_meta": {
+  "reel": "B 161/11",
+  "model": "opus",
+  "cost_usd": 0.10650199999999999,
+  "secs": 29.6
+ }
+}

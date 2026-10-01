@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaṃgārāmana",
+   "name": "Gaṅgārāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmmācāryya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "karmmācāryya (5) gaṃgārāmana coyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rāmakṛṣṇayātā",
+   "name": "Rāmakṛṣṇa",
+   "roles": [
+    "commissioner",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmakṛṣṇayātā karmmācāryya (5) gaṃgārāmana coyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "rāmakṛṣṇayātā karmmācāryya (5) gaṃgārāmana coyā"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 743 mārgaśira kṛṣṇa 2",
+  "era": "NS",
+  "year": "743",
+  "month": "mārgaśira",
+  "paksa": "kṛṣṇa",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1622"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "rāmakṛṣṇayātā",
+ "notes": "A second date/event is noted: saṃvat 743 āśvinikṛṣṇa amāvāsyā sūryyagrāsakuhnu upadeśa kāyā dina (day of receiving upadeśa on the solar eclipse).",
+ "_meta": {
+  "reel": "A 450/33b",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 768,
+  "out_tok": 1145
+ }
+}

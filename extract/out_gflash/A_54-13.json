@@ -1,0 +1,87 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahārādhirāja(!)śrīmadrāmabha(!)deva",
+   "name": "Rāmabhadradeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārādhirāja(!)śrīmadrāmabha(!)devapāde",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mahāmahopādhyāyaśrīrucipatiśarmm〈〈asyā〉〉[[ā]]",
+   "name": "Rucipati",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāyaśrīrucipatiśarmm〈〈asyā〉〉[[ā]]tmajena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "sadupādhyāyaśrīharapatiśarmmā",
+   "name": "Harapati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sadupādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sadupādhyāyaśrīharapatiśarmmālikhitaiṣā pustīyaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "mahāmahopādhyāyaśrīrucipatiśarmm〈〈asyā〉〉[[ā]]tmajena sadupādhyāyaśrīharapatiśarmmā"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "mahārādhirāja(!)śrīmadrāmabha(!)devapāde ... sadupādhyāyaśrīharapatiśarmmālikhitaiṣā"
+  }
+ ],
+ "date": {
+  "as_written": "lasaṃ 387 e jyeṣṭhabadi 10 kuje",
+  "era": "LS",
+  "year": "387",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1506"
+ },
+ "place": {
+  "as_written": "(bhī)gotāpānthakṛtavaijaulīgrāme",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The king Rāmabhadradeva of the Oinwār dynasty is written as rāmabha(!)deva.",
+ "_meta": {
+  "reel": "A 54/13",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 822,
+  "out_tok": 1670
+ }
+}

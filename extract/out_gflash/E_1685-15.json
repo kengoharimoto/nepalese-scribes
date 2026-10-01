@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭasya / bhaṭṭena",
+   "name": "Bhaṭṭa",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭasyedaṃ pustakam iti || ... alekhi vai parahitaṃ svārthaṃ ca bhaṭṭena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "mārgaśīrṣidaśamyām",
+  "era": "none",
+  "year": "",
+  "month": "Mārgaśīrṣa",
+  "paksa": "",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "parahitaṃ svārthaṃ ca (for the benefit of others and oneself), sadbhaktārtham",
+ "notes": "The scribe and owner is identified as Bhaṭṭa. The final corrupt phrase 'sadvidyāyurgguṇino gadaṃtu viduṣā cintākhyakanādarān(?)' might contain an epithet or name (Cintākhya?), but due to extreme uncertainty it is not extracted as a separate individual.",
+ "_meta": {
+  "reel": "E 1685/15",
+  "model": "gemini-flash-latest",
+  "secs": 10.7,
+  "in_tok": 794,
+  "out_tok": 1944
+ }
+}

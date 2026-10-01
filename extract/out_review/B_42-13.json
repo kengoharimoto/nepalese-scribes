@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Normalized the surname title from 'paṃtha' to 'Panta' (written as paṃthopanāmaka, i.e. 'having the surname Paṃtha'), kept as a surname-title.",
+   "Notes: added that the statement is a marginal addition in [[ ]] on fol. 10v, so it may be by a later hand and may not date from the copying itself.",
+   "Kept the commissioner role. The causative likhāpitam means he had the copy made, not that he wrote it."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paṃthopanāmaka harinidhinā",
+   "name": "Harinidhi",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "Panta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhā〈〈‥‥〉〉pitam idaṃ pustakaṃ paṃthopanāmaka harinidhinā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Harinidhi Panta as the scribe, with a question mark. The colophon has the causative likhā〈〈‥‥〉〉pitam, which means he had the manuscript copied, so his role here is commissioner. The scribe is not named. The commissioning statement is a marginal addition ([[ ]], right-hand margin of fol. 10v), so it may be in a different or later hand than the main text. 'paṃthopanāmaka' means 'having the surname Paṃtha', i.e. the Brahmin surname Panta/Pant. There is no date and no place.",
+ "_meta": {
+  "reel": "B 42/13",
+  "model": "opus",
+  "cost_usd": 0.065306,
+  "secs": 13.2
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrītrimallabhaṭṭa",
+   "name": "Trimalla",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrītrimallabhaṭṭaviracitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Dhanvantari (dhanvaṃtari-praṇīta) is excluded as a mythical/divine figure.",
+ "_meta": {
+  "reel": "A 214/4",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 682,
+  "out_tok": 714
+ }
+}

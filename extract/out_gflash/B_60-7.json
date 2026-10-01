@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vīrabhadrasādhaka mumukṣuṇe",
+   "name": "Vīrabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sādhaka",
+    "mumukṣu"
+   ],
+   "affiliation": "",
+   "residence": "rāmadilamuṇyāśrama, galkoṭa",
+   "evidence": "vīrabhadrasādhaka mumukṣuṇe(!) idaṃ pustakaṃ litaṃ(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1887 || miti āśvina vadi 30 || roja 5",
+  "era": "VS",
+  "year": "1887",
+  "month": "āśvina",
+  "paksa": "vadi",
+  "tithi": "30",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1830"
+ },
+ "place": {
+  "as_written": "galkoṭadaśruśaile rāmadilamuṇyāśrame",
+  "normalized": "Galkot"
+ },
+ "purpose": "for liberation (mumukṣu)",
+ "notes": "The author Aṣṭāvakra (śrīaṣṭāvakramuniviracite) is a mythical/sage figure and thus excluded. The scribe's name has the instrumental/dative corruption 'vīrabhadrasādhaka mumukṣuṇe' for 'vīrabhadrasādhakena mumukṣuṇā', writing at an āśrama in Galkot (Western Nepal).",
+ "_meta": {
+  "reel": "B 60/7",
+  "model": "gemini-flash-latest",
+  "secs": 10.4,
+  "in_tok": 791,
+  "out_tok": 2336
+ }
+}

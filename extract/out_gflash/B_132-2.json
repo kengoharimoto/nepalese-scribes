@@ -1,0 +1,47 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmamnmahārājādhirājaśrīpratāpasiṃhasāhadeva",
+   "name": "Pratāpasiṃha Sāhadeva",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "girirājacakracūḍāmaṇi",
+    "naranārāyaṇa",
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmamnmahārājādhirājaśrīpratāpasiṃhasāhadevaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 1831",
+  "era": "VS",
+  "year": "1831",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1774"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 132/2",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 808,
+  "out_tok": 868
+ }
+}

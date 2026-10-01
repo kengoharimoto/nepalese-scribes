@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "harṣanarsiṃna",
+   "name": "Harṣanarsiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "taṃgala",
+   "evidence": "likhita taṃgalayā harṣanarsiṃna cogu julo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 979 mti āṣāḍha vadi 8 roja 7",
+  "era": "NS",
+  "year": "979",
+  "month": "āṣāḍha",
+  "paksa": "vadi",
+  "tithi": "8",
+  "weekday": "roja 7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1859"
+ },
+ "place": {
+  "as_written": "taṃgala",
+  "normalized": "Patan"
+ },
+ "purpose": "thva pustaka sakalasena hlāya daokhe",
+ "notes": "Following the scribal colophon and a warning against stealing the book, there are chronicle/event notes recording incidents of the Karuṇāmaya (Rato Matsyendranātha) chariot in NS 979 and NS 1009.",
+ "_meta": {
+  "reel": "B 102/3",
+  "model": "gemini-flash-latest",
+  "secs": 6.8,
+  "in_tok": 1166,
+  "out_tok": 1604
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śatānanda(!)",
+   "name": "Śatānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Puruṣottamakṣetra",
+   "evidence": "śatānanda(!) viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "pradhyumna śarmapa",
+   "name": "Pradhyumna",
+   "roles": [
+    "reader",
+    "beneficiary",
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pradhyumna śarmapa paṭhanārthamidaṃ likhitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī saṃvat 1905 śāke 1770 bhādrakṛṣṇa trayodaśyāṃ śanivāsare",
+  "era": "VS",
+  "year": "1905",
+  "month": "Bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "śanivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1848"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "paṭhanārtham",
+ "notes": "The phrase 'pradhyumna śarmapa paṭhanārthamidaṃ likhitaṃ' is corrupt; likely an error for 'pradhyumnaśarmaṇaḥ paṭhanārtham' (written for Pradhyumnaśarman's reading/study) or 'pradhyumnaśarmaṇā paṭhanārtham' (written by Pradhyumnaśarman for study). The catalogue lists him as the scribe.",
+ "_meta": {
+  "reel": "A 1364/12",
+  "model": "gemini-flash-latest",
+  "secs": 8.9,
+  "in_tok": 787,
+  "out_tok": 2011
+ }
+}

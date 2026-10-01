@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāvala〈〈‥〉〉 śaṃbhūrāma(gavaḍa)",
+   "name": "Śambhūrāma Gavaḍa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "rāvala"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "la(!)khitaṃ rāvala〈〈‥〉〉 śaṃbhūrāma(gavaḍa)",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "savat(!) 1831 varṣe śāke 1697 ā〈〈‥〉〉śvinamāse kṛṣṇapakṣe 13 bhaumavāsare",
+  "era": "VS",
+  "year": "1831",
+  "month": "Āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "bhaumavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1774"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Vikrama Saṃvat (1831) and Śāka era (1697) are specified. The scribe's name has lacunae/doubtful readings in the transcript: 'rāvala〈〈‥〉〉 śaṃbhūrāma(gavaḍa)'.",
+ "_meta": {
+  "reel": "A 1116/14",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 807,
+  "out_tok": 1378
+ }
+}

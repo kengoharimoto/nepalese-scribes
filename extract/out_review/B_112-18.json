@@ -1,0 +1,134 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p5: role changed from commissioner to scribe. The colophon says 'likhiteyaṃ … likhāpitaṃ', and the donor is named separately, so 'likhāpitaṃ' is most likely used loosely for the copyist here. Name given as '…rahamaṇi' without the -deva suffix, to match how Jayapati is treated.",
+   "p4 (Jayapati): 'beneficiary' removed. The blessing is for the yajamāna in general, and no one is named as beneficiary. Noted that he appears in the cataloguer's [[ ]] insertion.",
+   "p2 (Jayarāja): residence and affiliation emptied and confidence lowered to medium. The '...' lacuna separates the vihāra from his name, so they cannot safely be given to him.",
+   "p3: confidence lowered to medium because of the 'dhala' = dhara(?) reading. Residence and affiliation kept.",
+   "Place of copying changed to Suvarṇapraṇālī (Patan) only. Kāntipura/Makhatvala is the donor's residence, not where the copy was made, so the catalogue field 'Makhana Tola' is probably mistaken.",
+   "Date: weekday normalized to Friday (śuklavāsare = śukravāsare). Yoga given as harṣaṇa followed by vajra. ce_approx 1704 (November) confirmed.",
+   "Purpose restated briefly in English."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayabhāṣkala(!)malla",
+   "name": "Jayabhāskaramalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nepāleśvara",
+    "mahārājādhirāja",
+    "rājarājendra",
+    "sakalarājacakrādhīśvara",
+    "paramabhaṭṭārakadeva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayabhāṣkala(!)malla palamabhaṭṭārakadevānāṃ … vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jayarājasya",
+   "name": "Jayarāja",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jayarājasya putrī",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "dhalamaṇilakṣmī",
+   "name": "Dharamaṇilakṣmī",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "dānapati"
+   ],
+   "affiliation": "Ratnakīrti Mahāvihāra",
+   "residence": "Kāntipura (Kathmandu), Makhatvala (Makhan Tol)",
+   "evidence": "dānapati kāntipulamāhānagare, makhatvalabhe śrīśrīśrīratnakitīmahāvihāra... jayarājasya putrī, dhalamaṇilakṣmī",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "vajrācāryaśrī jayapatidevena",
+   "name": "Jayapati",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "[[tasyaputra vajrācāryaśrī jayapatidevena]]",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p5",
+   "as_written": "‥ ‥ ‥ rahamanidevena",
+   "name": "…rahamaṇi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Hemavarṇa Mahāvihāra",
+   "residence": "Suvarṇapraṇālī (Patan)",
+   "evidence": "likhiteyaṃ śrīśuvarṇnapanātrimahānagare śrīhemavarṇṇamāhāvihālāvasthīta, ‥ ‥ ‥ rahamanidevena likhāpitaṃḥ(!)",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "daughter_of",
+   "to": "p2",
+   "evidence": "jayarājasya putrī, dhalamaṇilakṣmī"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "tasyaputra vajrācāryaśrī jayapatidevena"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "jayabhāṣkala(!)malla … vijayarājye || ❁ || dānapati"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 825 kārttikamāse śukramakṣa, trayodasyāṃ, tithau,, revatīnakṣatre, harṣana pravajayoge … śuklavāsare, tulyarāsigate savītri, mīnarāsigate candramasi",
+  "era": "NS",
+  "year": "825",
+  "month": "Kārttika",
+  "paksa": "śukla",
+  "tithi": "13 (trayodaśī)",
+  "weekday": "Friday (śukravāsara, written śuklavāsare)",
+  "nakshatra_yoga": "Revatī; harṣaṇa, then vajra yoga",
+  "ce_approx": "1704"
+ },
+ "place": {
+  "as_written": "śrīśuvarṇnapanātrimahānagare śrīhemavarṇṇamāhāvihāla",
+  "normalized": "Patan"
+ },
+ "purpose": "For the long life, health, wealth and offspring of the yajamāna (the donor family)",
+ "notes": "p5: 'likhāpitaṃ' would literally make this person the commissioner. But the sentence opens with 'likhiteyaṃ … avasthita', and the donor (dānapati) is named separately, so p5 is read here as the copyist, a resident of Hemavarṇa Mahāvihāra (Ha Bahā), Patan. The beginning of p5's name is lost: '…rahamaṇi' may be the end of a longer name such as Brahmamaṇi(?). p4 (Jayapati): the cataloguer marks his clause with [[ ]], probably a later or marginal insertion. The donor family lived in Kathmandu (Makhan Tol, Ratnakīrti Mahāvihāra), but the copy was written in Patan, so the catalogue's 'Place of Copying: Makhana Tola' seems to confuse the donor's residence with the place of copying. 'dhala-' is read as Newar l/r for 'dhara-' (perhaps Dharmamaṇilakṣmī?). Date check: NS 825 Kārttika = November 1704, which falls within Bhāskara Malla's reign (c. 1700–1714). This is consistent with the Sun in Tulā and the Moon in Mīna (Revatī).",
+ "_meta": {
+  "reel": "B 112/18",
+  "model": "opus",
+  "cost_usd": 0.15373,
+  "secs": 43.8
+ }
+}

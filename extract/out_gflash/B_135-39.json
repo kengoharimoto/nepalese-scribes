@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nāmnānaṃtena",
+   "name": "Ananta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "Nāṭeśkara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dāmodarasutena ca || nāmnānaṃtena likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dāmodarasutena",
+   "name": "Dāmodara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dāmodarasutena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "nāmnā harer",
+   "name": "Hari",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "Deuskara",
+    "śāstrin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "datvā yaṃ pustakaṃ caiva deuskaropanāma ca || nāmnā harer (!) prakhyātaḥ lokamadhye ca śāstriṇā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "dāmodarasutena ca || nāmnānaṃtena"
+  }
+ ],
+ "date": {
+  "as_written": "kārttike śuklapakṣe ca pauṇi(!)māsyenduvāsare ... śāko vāṇarasādribhuḥ",
+  "era": "ŚS",
+  "year": "1765",
+  "month": "kārttike",
+  "paksa": "śukla",
+  "tithi": "pauṇimāsī",
+  "weekday": "induvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1843"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "paropakārārtha",
+ "notes": "The chronogram 'vāṇa-rasādri-bhuḥ' yields Śaka 1765 (vāṇa=5, rasa=6, adri=7, bhū=1). Both Nāṭeśkara (Nāṭekara) and Deuskara are Maharashtrian Brahmin surnames (upanāma).",
+ "_meta": {
+  "reel": "B 135/39",
+  "model": "gemini-flash-latest",
+  "secs": 9.9,
+  "in_tok": 876,
+  "out_tok": 2293
+ }
+}

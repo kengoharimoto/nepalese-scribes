@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśaṅkareṇa",
+   "name": "Śaṅkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśaṅkareṇālekhi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "lasaṃ 433 vaiśākhaśuklacaturthyāṃ bhaume",
+  "era": "LS",
+  "year": "433",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "caturthī",
+  "weekday": "bhauma",
+  "nakshatra_yoga": "",
+  "ce_approx": "1552"
+ },
+ "place": {
+  "as_written": "śataṃlakhāgrāme",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records the scribe as Vaṃśamaṇi, but the colophon explicitly reads śrīśaṅkareṇālekhi.",
+ "_meta": {
+  "reel": "B 22/7",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 785,
+  "out_tok": 909
+ }
+}

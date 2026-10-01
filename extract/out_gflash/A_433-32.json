@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dīnānāthena",
+   "name": "Dīnānātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ vyāsakṛṣṇavilāsātmajadīnānāthena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vyāsakṛṣṇavilāsa",
+   "name": "Kṛṣṇavilāsa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "vyāsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vyāsakṛṣṇavilāsātmajadīnānāthena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "vyāsakṛṣṇavilāsātmajadīnānāthena"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1911 kārttikakṛṣṇa 9 (12) ravau puṣye",
+  "era": "VS",
+  "year": "1911",
+  "month": "kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "ravau",
+  "nakshatra_yoga": "puṣye",
+  "ce_approx": "1854"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ paropakārārthaṃ ca",
+ "notes": "The cataloguer noted '(12)' after the tithi number 9, likely indicating an alternate reading or correction to tithi 12.",
+ "_meta": {
+  "reel": "A 433/32",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 715,
+  "out_tok": 1151
+ }
+}

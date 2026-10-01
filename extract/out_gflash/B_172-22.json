@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "(varaṇachoḍena)",
+   "name": "Varaṇachoḍa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "(varaṇachoḍena) likhitāṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1723 varaṣe phālgunamāse śuklapakṣe 14 caturdaśī bhṛguvāsare",
+  "era": "VS",
+  "year": "1723",
+  "month": "phālguna",
+  "paksa": "śuklapakṣa",
+  "tithi": "14 caturdaśī",
+  "weekday": "bhṛguvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1667"
+ },
+ "place": {
+  "as_written": "labhatarasupuṃgavāsthite gaṃḍakayām uttare tīe lakṣmīnārāyaṇasaṃnidhau",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name is set in parentheses by the cataloguer as (varaṇachoḍena), possibly representing Raṇachoḍa or an uncertain reading. tīe is an error/scribal variant for tīre (on the bank of the Gaṇḍakī river).",
+ "_meta": {
+  "reel": "B 172/22",
+  "model": "gemini-flash-latest",
+  "secs": 8.2,
+  "in_tok": 769,
+  "out_tok": 1735
+ }
+}

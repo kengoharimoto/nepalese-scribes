@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivadaivajña",
+   "name": "Śiva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śivadaivajña viracite muhūrttacūḍāmaṇIḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī kṛṣṇa daivajñātmaja",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī kṛṣṇa daivajñātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrī kṛṣṇa daivajñātmaja śivadaivajña"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1895 śāsāke(!) 1760 māse phālguṇa śudi(!) 3 roja 1",
+  "era": "VS",
+  "year": "1895",
+  "month": "phālguṇa",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "roja 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1839"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Vikrama Saṃvat 1895 and Śāka 1760 are stated.",
+ "_meta": {
+  "reel": "B 341/8",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 740,
+  "out_tok": 1106
+ }
+}

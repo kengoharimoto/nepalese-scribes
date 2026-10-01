@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭanārāyaṇa",
+   "name": "Bhaṭṭanārāyaṇa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭanārāyaṇaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīhemanārāyaṇena",
+   "name": "Hemanārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śrīhemanārāyaṇena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1709 || śrī samvat 18044 (!) || || || || iti jyeṣṭhaśudi roj1",
+  "era": "ŚS",
+  "year": "1709",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1787"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is given both in Śāke 1709 and Saṃvat 18044 (scribal error for 1844), both corresponding to 1787 CE. 'roj 1' indicates Sunday (or day 1).",
+ "_meta": {
+  "reel": "A 405/17",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 812,
+  "out_tok": 1392
+ }
+}

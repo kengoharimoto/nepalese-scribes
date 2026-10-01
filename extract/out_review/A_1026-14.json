@@ -1,0 +1,68 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name normalized to 'Bhūpatīndramalla' (the 'jaya' prefix is honorific); kept as author only, because the colophon does not name him as reigning king of this copy",
+   "p2 confidence lowered from high to medium: the name might be Śiva + Rājopādhyāya, or Śivarāja + Upādhyāya, and the catalogue gives 'Śivamarājopādhyāya' (perhaps a corrupt Śivarāma)",
+   "'banāyāko' ('made') could cover scribe or commissioner; kept as scribe, with the ambiguity noted",
+   "weekday given as Monday (roja 2); tithi given as dvitīyā",
+   "notes now flag the uncertain year: 808 sits in square brackets and is followed by lacunae, and NS 808 (1688 CE) comes before Bhūpatīndra's reign (c. NS 816–842)"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījayabhūpatīndramalladeva",
+   "name": "Bhūpatīndramalla",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījayabhūpatīndramalladeva, mahārājādhirāja, viracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīśivarājopādhyāyale",
+   "name": "Śiva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "rājopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśivarājopādhyāyale banāyāko pustakam",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat [ 808 . . .] śudi 2 roja 2",
+  "era": "NS",
+  "year": "808",
+  "month": "",
+  "paksa": "śukla",
+  "tithi": "2 (dvitīyā)",
+  "weekday": "Monday (roja 2)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1688"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is uncertain. The cataloguer put '808' in square brackets and it is followed by lacunae. The catalogue itself gives 'NS 808?', and the month is lost. NS 808 (1688 CE) is earlier than Bhūpatīndra Malla's reign in Bhaktapur (c. NS 816–842 / 1696–1722 CE), yet the colophon calls him mahārājādhirāja. So either the reading is wrong (e.g. 818 or 828) or the title was given to him retrospectively. Bhūpatīndra appears here only as the author of the play. The catalogue lists him as 'King', but the colophon does not say this copy was made in his reign. The scribe's name 'śivarājopādhyāya' can be split as Śiva + Rājopādhyāya (the usual Newar Brahmin title) or as Śivarāja + Upādhyāya. The catalogue's 'Śivamarājopādhyāya' might point to Śivarāma. 'banāyāko' (Nepali, 'made') most likely means he copied the book, but it could also mean he had it made. 'pustakam idaṃ bhūyāt' is a garbled Sanskrit ending.",
+ "_meta": {
+  "reel": "A 1026/14",
+  "model": "opus",
+  "cost_usd": 0.088626,
+  "secs": 21.0
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṛṣṇānaṃda",
+   "name": "Kṛṣṇānanda",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya",
+    "bhagavatpūjyapāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatparamahaṃsaparivrājakācāryaśrīmatkṛṣṇānaṃdabhagavatpūjyapādaśiṣya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nṛsiḥmasarasvatī",
+   "name": "Nṛsiṃhasarasvatī",
+   "roles": [
+    "commentator",
+    "pupil"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛṣṇānaṃdabhagavatpūjyapādaśiṣyanṛsiḥmasarasvatīkṛtā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "narahariṣ",
+   "name": "Narahari",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "narahariṣ ṭīkāṃ cakārojvalām",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "jānakīvallabhena",
+   "name": "Jānakīvallabha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ jānakīvallabhena ātmapaṭhanātham",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "kṛṣṇānaṃdabhagavatpūjyapādaśiṣyanṛsiḥmasarasvatī"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1898 māsi jeṣṭhe (!) kṛṣṇapakṣe aṣṭamyāṃ 8",
+  "era": "VS",
+  "year": "1898",
+  "month": "Jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1841"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "ātmapaṭhanārtham",
+ "notes": "The colophon records both the composition date of the Subodhinī commentary (Śaka 1510, by Narahari / Nṛsiṃhasarasvatī) and the date of copying of this manuscript (VS 1898 by Jānakīvallabha for his own study). Narahari and Nṛsiṃhasarasvatī are the same commentator.",
+ "_meta": {
+  "reel": "B 76/5",
+  "model": "gemini-flash-latest",
+  "secs": 12.0,
+  "in_tok": 874,
+  "out_tok": 3017
+ }
+}

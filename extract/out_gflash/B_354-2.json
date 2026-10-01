@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "durgādattena",
+   "name": "Durgādatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Mulyabhāta",
+   "evidence": "likhitamida mulyabhātīya(!) durgādattena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1906 mitī bhādrakṛṣṇa 30 śanau",
+  "era": "VS",
+  "year": "1906",
+  "month": "bhādra",
+  "paksa": "kṛṣṇa",
+  "tithi": "30",
+  "weekday": "śanau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1849"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The modifier 'mulyabhātīya' likely indicates the scribe's local origin or family/caste lineage.",
+ "_meta": {
+  "reel": "B 354/2",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 689,
+  "out_tok": 1273
+ }
+}

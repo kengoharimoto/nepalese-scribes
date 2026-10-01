@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījaya bhūpatīndramarlladevasana",
+   "name": "Jayabhūpatīndramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "deva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījaya bhūpatīndramarlladevasana, panātiyā khoho kvāṭhagṛhe patisthāyatā dayakasya bijyāka thva puṣṭakaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 828 āṣāḍha kṛṣṇa daśaśī (!) bhṛguvāra",
+  "era": "NS",
+  "year": "828",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī",
+  "weekday": "bhṛguvāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1708"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "panātiyā khoho kvāṭhagṛhe patisthāyatā",
+ "notes": "King Jayabhūpatīndramalla of Bhaktapur commissioned the manuscript for the consecration (pratiṣṭhā) of the Khoho fort/palace (kvāṭhagṛha) at Panauti (Panāti).",
+ "_meta": {
+  "reel": "B 365/5",
+  "model": "gemini-flash-latest",
+  "secs": 6.2,
+  "in_tok": 865,
+  "out_tok": 1451
+ }
+}

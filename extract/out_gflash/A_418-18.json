@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśvarūpadaivajña",
+   "name": "Viśvarūpa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīviśvarūpadaivajñaśuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kulānadaivajña",
+   "name": "Kulāna",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kulānadaivajñavīracite",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīviśvarūpadaivajñaśuta"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chapter colophon (maṃdoccādhikāra, chapter 8). The author's name 'kulānadaivajña' is likely corrupt for Kalyāṇa or Kulānanda.",
+ "_meta": {
+  "reel": "A 418/18",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 676,
+  "out_tok": 1012
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkālidāsakṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 794 caitra śukla",
+  "era": "NS",
+  "year": "794",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1674"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe refers to himself only anonymously with 'me likhitaṃ'.",
+ "_meta": {
+  "reel": "A 390/8",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 718,
+  "out_tok": 672
+ }
+}

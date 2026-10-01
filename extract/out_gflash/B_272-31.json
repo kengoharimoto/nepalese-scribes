@@ -1,0 +1,70 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhaṭṭabudhasvāminā",
+   "name": "Budhasvāmin",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhaṭṭabudhasvāminākṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvijayānaṃdeneti",
+   "name": "Vijayānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śrīvijayānaṃdeneti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "kṣemendraviracite",
+   "name": "Kṣemendra",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṣemendraviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1882 sāla pauṣaśuºº daśamyāṃ budhavāsare",
+  "era": "VS",
+  "year": "1882",
+  "month": "pauṣa",
+  "paksa": "śuklapakṣa",
+  "tithi": "daśamī",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1825"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīgurvarpaṇam astu",
+ "notes": "The cataloguer placed the date (VS 1882) into the 'Place of Copying' metadata field. Both Budhasvāmin (fol. 171r) and Kṣemendra (fol. 5v) are named as authors in chapter colophons.",
+ "_meta": {
+  "reel": "B 272/31",
+  "model": "gemini-flash-latest",
+  "secs": 9.6,
+  "in_tok": 786,
+  "out_tok": 1525
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śākyabhikṣuśrīamarasiṃhakṛtaṃ",
+   "name": "Amarasiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śākyabhikṣuśrīamarasiṃhakṛtaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvajrācāryyavīla(4)siṃhaḥ",
+   "name": "Vīlasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhita (!) śrīvajrācāryyavīla(4)siṃhaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 735 āśvinaśuklapañcamyām †anurāḍhe prītau† ravivāre",
+  "era": "NS",
+  "year": "735",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "anurādhā, prīti",
+  "ce_approx": "1615"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name is written Vīlasiṃha with characteristic Newari r/l interchange; catalogued as Vīrasiṃha Vajrācārya.",
+ "_meta": {
+  "reel": "A 321/11",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 738,
+  "out_tok": 1136
+ }
+}

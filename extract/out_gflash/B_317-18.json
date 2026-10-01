@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhāravi-",
+   "name": "Bhāravi",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāravikṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vyāsa śrīmadhusūdana-",
+   "name": "Madhusūdana",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "vyāsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vyāsa śrīmadhusūdanasūnūnā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vyāsodaya kṛṣṇenā-",
+   "name": "Udayakṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vyāsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vyāsodaya kṛṣṇenālekhi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "vyāsa śrīmadhusūdanasūnūnā vyāsodaya kṛṣṇenā"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvatsaptadaśottaracatustriṃśattame varṣe prabhavanāmni saṃvatsare kārtike māsi sitepakṣe navamyāṃ budhavāsare",
+  "era": "VS",
+  "year": "1734",
+  "month": "kārtika",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1677"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon reads saṃvatsaptadaśottaracatustriṃśattame varṣe (year 1734), which matches Kārtika śukla 9 on Wednesday, 24 October 1677 CE (VS 1734). The catalogue entry's 'SAM (ŚS) 1754' appears to be an error.",
+ "_meta": {
+  "reel": "B 317/18",
+  "model": "gemini-flash-latest",
+  "secs": 14.2,
+  "in_tok": 859,
+  "out_tok": 3102
+ }
+}

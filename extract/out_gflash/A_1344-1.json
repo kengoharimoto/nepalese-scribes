@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nārāyaṇa",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "riṣitaṃ nārāyaṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 884 pauṣavadi 14 maṃgalavāla",
+  "era": "NS",
+  "year": "884",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "14",
+  "weekday": "maṃgalavāla",
+  "nakshatra_yoga": "",
+  "ce_approx": "1764"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The Newari phrase 'kunhusidhayāṅā' indicates completion on that date. 'riṣitaṃ' is a corruption of likhitam. The meaning of 'śvala' following the scribe's name is unclear.",
+ "_meta": {
+  "reel": "A 1344/1",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 753,
+  "out_tok": 1113
+ }
+}

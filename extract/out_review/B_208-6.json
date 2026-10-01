@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe 'vipravaro' kept, but confidence lowered to low: in the verse it most likely means 'an excellent brahmin' (vipra-vara), not a personal name; added 'vipra' (brahmin) as a title.",
+   "Tithi changed from ekādaśī to caturdaśī (probable). 'Śambhos tithi' names the tithi whose deity is Śiva, which is the 14th; kṛṣṇa caturdaśī is Śivarātri. Ekādaśī (Rudra = 11) and aṣṭamī are noted as alternatives.",
+   "Year: added a tentative reading of parjanya as Indra = 14, read right to left with bhū 1 and pañca 5 to give ŚS 1451 (≈1529 CE). It is marked as uncertain.",
+   "Kept month Jyeṣṭha (śukra), paksa kṛṣṇa (asita) and weekday Sunday (ravau)."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vipravaro",
+   "name": "Vipravara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vipravaro lilekha",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "bhūpaṃ ca parjanyayuteṣu śāke śukrākhyamāsāsitapakṣake ravau śaṃbhos tithau",
+  "era": "ŚS",
+  "year": "1451? (bhū 1, pañca 5, parjanya = Indra 14?)",
+  "month": "Jyeṣṭha (śukra)",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturdaśī? (śambhos tithi)",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1529?"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'Vipravaro lilekha' most likely means 'an excellent brahmin wrote [this]', which hides the scribe's name. The catalogue's 'Scribe: Vipravara' takes the epithet as a name, so it is doubtful. The chronogram 'bhūpaṃ ca parjanya-' appears corrupt; the catalogue reads it as bhū-pañca-parjanya. Parjanya is not a standard number word. If it stands for Indra (= 14), reading right to left gives ŚS 1451 = c. 1529 CE. That is only a guess, and other values for parjanya would change the year. Śukra is the old name for Jyeṣṭha. 'Śambhos tithi' is most probably caturdaśī (Śiva's tithi; kṛṣṇa 14 = Śivarātri), but ekādaśī (Rudra = 11) or aṣṭamī cannot be ruled out. The colophon ends Skandha 12, adhyāya 13, and includes a stock blessing for the writer and reader (lekhakapāṭhakayoḥ śubham astu).",
+ "_meta": {
+  "reel": "B 208/6",
+  "model": "opus",
+  "cost_usd": 0.09304599999999999,
+  "secs": 25.0
+ }
+}

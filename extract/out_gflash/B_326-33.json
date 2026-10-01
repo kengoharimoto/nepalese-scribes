@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkāśināthagaṇakena",
+   "name": "Kāśīnātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "gaṇaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkāśināthagaṇakena viniditoyam alaṃkṛtoyam agamat samāptiḥ || 11 || sūryopadeśāllikhitaṃ mayātra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rājendravikramanṛpasya",
+   "name": "Rājendravikrama",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājendravikramanṛpasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "rājendravikramanṛpasya"
+  }
+ ],
+ "date": {
+  "as_written": "śakābdāt || 1735 ||",
+  "era": "ŚS",
+  "year": "1735",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1813"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "rājendravikramanṛpasya januḥ",
+ "notes": "The date Śaka 1735 marks the birth (januḥ) of King Rājendravikrama Śāha of Nepal (born 1813 CE).",
+ "_meta": {
+  "reel": "B 326/33",
+  "model": "gemini-flash-latest",
+  "secs": 7.8,
+  "in_tok": 760,
+  "out_tok": 1824
+ }
+}

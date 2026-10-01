@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "padmanābhaḥ (!) daivajñena / padmanābhena",
+   "name": "Padmanābha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ padmanābhaḥ (!) daivajñena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1681 saṃvat 1816 māse 1 tithau 28 vāsare 4 nakṣatre 27 rāśau 12 yoge 1 lagne 3 / bhūnāgabhūpaiḥ pariomāṇa śāke vaiśākhamāse ʼthtithāvanaṃ ge || hīnasthite caṃdrmasi ca pauṣṇe viṣkumbhayoge karṇe vaṇīje || || lilekha manmathe lagne",
+  "era": "ŚS",
+  "year": "1681",
+  "month": "māse 1 (Vaiśākha)",
+  "paksa": "kṛṣṇa",
+  "tithi": "28 (kṛṣṇa trayodaśī)",
+  "weekday": "4 (Budhavāsara)",
+  "nakshatra_yoga": "nakṣatra 27 (Revatī/Pauṣṇa), yoga 1 (Viṣkambha), karṇa Vaṇij",
+  "ce_approx": "1759"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Double dated with Śaka 1681 and Vikrama Saṃvat 1816, also recorded in verse with chronogram bhū-nāga-bhūpa (1-8-16 = 1681).",
+ "_meta": {
+  "reel": "A 329/15",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 993,
+  "out_tok": 1345
+ }
+}

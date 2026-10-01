@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "candrapatidhananaṃ",
+   "name": "Candrapatidhana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "maṇisaṃgha mahāvihāra",
+   "residence": "maṇisaṃgha mahāra laṃtalecheyā hlugra vāhāra",
+   "evidence": "śrīvajrācāryya candrapatidhananaṃ coyā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 972 māgha śukla 10",
+  "era": "NS",
+  "year": "972",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1852"
+ },
+ "place": {
+  "as_written": "maṇisaṃgha mahāra laṃtalecheyā hlugra vāhārasa",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The catalogue metadata mistakenly records the date in the 'Place of Copying' field. Maṇisaṃgha Mahāvihāra is located in Patan.",
+ "_meta": {
+  "reel": "B 105/15b",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 752,
+  "out_tok": 1060
+ }
+}

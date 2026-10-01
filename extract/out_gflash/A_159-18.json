@@ -1,0 +1,95 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "tribhuvanavīra(6)vikramavarmaṇi",
+   "name": "Tribhuvanavīravikramavarman",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nepālabhūmaṇḍalādhīśvara",
+    "śrīpañcaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "virājati nepālabhūmanḍalādhīśvare śrīpaṃcakasaṃpanne tribhuvanavīra(6)vikramavarmaṇi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mahārājacandrasaṃśaerajaṅgavahādūrarāṇavarmaṇi",
+   "name": "Candrasaṃśerajaṅgavahādūrarāṇavarman",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "dhīsaciva",
+    "śrītritaya",
+    "mahārāja",
+    "mahāmahodaya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "taddhīsacive śrītritayasampanne mahārājacandrasaṃśaerajaṅgavahādūrarāṇavarmaṇi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "hemarājapaṇḍitamahodaya",
+   "name": "Hemarāja",
+   "roles": [
+    "teacher",
+    "owner"
+   ],
+   "titles": [
+    "guruvara",
+    "gururāja",
+    "paṇḍita",
+    "mahodaya"
+   ],
+   "affiliation": "",
+   "residence": "Sarasvatīsadan",
+   "evidence": "tadīyaguruvaragururājaśrīmaddhemarājapaṇḍitamahodayānujñayā ta(7)dīyasarasvatīsadane niveśitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "taddhīsacive"
+  },
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p3",
+   "evidence": "tadīyaguruvara"
+  }
+ ],
+ "date": {
+  "as_written": "vikramābde (!) 1980 pramite śrāvaṇaśulaikādaśyāṃ",
+  "era": "VS",
+  "year": "1980",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "ekādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1923"
+ },
+ "place": {
+  "as_written": "tadīyasarasvatīsadane",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "sāmbaśivāya samarpitaṃ ca; lekhakapāṭhayor mude",
+ "notes": "Catalogue notes copying date as VS 1982, but colophon text explicitly reads vikramābde 1980. The manuscript was transcribed from an ancient palm-leaf manuscript (purātanajarattāḍapatralipitaḥ) and deposited in the Sarasvatī Sadana library of Rājaguru Hemarāja Śarmā.",
+ "_meta": {
+  "reel": "A 159/18",
+  "model": "gemini-flash-latest",
+  "secs": 9.9,
+  "in_tok": 1044,
+  "out_tok": 2549
+ }
+}

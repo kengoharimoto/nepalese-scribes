@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ācāryaraviśrībhikṣor",
+   "name": "Raviśrī",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya",
+    "bhikṣu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtir ācāryaraviśrībhikṣor iti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "naipālīyasamvat 600 mite",
+  "era": "NS",
+  "year": "600",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1480"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date NS 600 (ca. 1480 CE) refers to the older palm-leaf exemplar from which this manuscript was copied (likhitāt prācinatāḍapatrapustakāl likhitam).",
+ "_meta": {
+  "reel": "B 103/14",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 669,
+  "out_tok": 881
+ }
+}

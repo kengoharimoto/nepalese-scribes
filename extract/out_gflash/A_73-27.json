@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhusakuṭopanāmavāsudevena",
+   "name": "Vāsudeva",
+   "roles": [
+    "scribe",
+    "beneficiary"
+   ],
+   "titles": [
+    "Bhusakuṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhusakuṭopanāmavāsudevena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śake 1770",
+  "era": "ŚS",
+  "year": "1770",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1848"
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "svārthoparopakārārtham",
+ "notes": "Bhusakuṭa is explicitly stated as an upanāma (surname/byname) of Vāsudeva.",
+ "_meta": {
+  "reel": "A 73/27",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 748,
+  "out_tok": 910
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1765 bhādrapadamāse kṛṣṇapakṣe dvādaśyāṃ tithau bhaumavāsare",
+  "era": "ŚS",
+  "year": "1765",
+  "month": "bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādaśī",
+  "weekday": "bhaumavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1843"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "pāpasaṃcayaharaṇa",
+ "notes": "The catalogue lists 'śrīkṛṣṇadevaprasāda' as the scribe, but the text reads 'likhitamidaṃ gītāsārabhāṣā śrīkṛṣṇadeva prasādeva pāpasaṃcayaṃ harati' (i.e. śrīkṛṣṇadeva-prasāda eva pāpasaṃcayaṃ harati, 'the grace of Lord Śrī Kṛṣṇa alone destroys the heap of sins'). This is a devotional phrase rather than a personal name, so no human scribe or other person is named in the colophon.",
+ "_meta": {
+  "reel": "A 896/6",
+  "model": "gemini-flash-latest",
+  "secs": 20.4,
+  "in_tok": 881,
+  "out_tok": 4660
+ }
+}

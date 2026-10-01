@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī gaṃgārāma devana",
+   "name": "Gaṅgārāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "deva"
+   ],
+   "affiliation": "",
+   "residence": "paśrache",
+   "evidence": "śrī gaṃgārāma devana coyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 769 || āṣāḍhaśukla ||",
+  "era": "NS",
+  "year": "769",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1649"
+ },
+ "place": {
+  "as_written": "paśrache",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The remaining text following 'adyetyādi' contains liturgical formulas with variable placeholders ('amu') for the sahasracandradarśana ritual and does not name any individual commissioner or patron.",
+ "_meta": {
+  "reel": "A 622/4",
+  "model": "gemini-flash-latest",
+  "secs": 8.0,
+  "in_tok": 761,
+  "out_tok": 1413
+ }
+}

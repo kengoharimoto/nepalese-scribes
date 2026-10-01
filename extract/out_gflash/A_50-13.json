@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmahāmahopādhyā○yaśrīrudradharakṛtaḥ",
+   "name": "Rudradhara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahāmahopādhyā○yaśrīrudradharakṛtaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ādinakaveneti (!)",
+   "name": "Ādinakavi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrā○ddhavivekaḥ ādinakaveneti (!) || ārthaṃ likhitaṃ pustakaṃ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "la saṃ 357 āḍhasya (!) kṛṣṇapakṣe navamasyāṃ candravāsare",
+  "era": "LS",
+  "year": "357",
+  "month": "āḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "navamī",
+  "weekday": "candravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1476"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "ārthaṃ likhitaṃ pustakaṃ",
+ "notes": "The scribe's name appears corrupt: 'śrī….kavileṣi (!) śrā○ddhavivekaḥ ādinakaveneti (!)', possibly intended for 'kavir alekhi ... ādinakavena iti'. 'āḍhasya' is corrupt for 'āṣāḍhasya'.",
+ "_meta": {
+  "reel": "A 50/13",
+  "model": "gemini-flash-latest",
+  "secs": 10.4,
+  "in_tok": 837,
+  "out_tok": 2307
+ }
+}

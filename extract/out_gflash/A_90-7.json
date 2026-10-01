@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīherānandarāja jujuyā",
+   "name": "Herānandarāja",
+   "roles": [
+    "other",
+    "commissioner"
+   ],
+   "titles": [
+    "juju"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīherānandarāja jujuyā śrīanantavrata goyā dina",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 944 bhādra sudi 14 roja 3",
+  "era": "NS",
+  "year": "944",
+  "month": "bhādra",
+  "paksa": "sudi",
+  "tithi": "14",
+  "weekday": "roja 3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1824"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīanantavrata goyā dina",
+ "notes": "The catalogue records the scribe as Herānanda juju and the date as SAM 1282. However, the colophon text dates the completion to NS 944 Bhādra śukla 14, Tuesday (roja 3), noting it as the day of performing the Anantavrata (śrīanantavrata goyā dina) by Herānandarāja Juju, rather than explicitly naming him as the scribe.",
+ "_meta": {
+  "reel": "A 90/7",
+  "model": "gemini-flash-latest",
+  "secs": 9.0,
+  "in_tok": 723,
+  "out_tok": 1882
+ }
+}

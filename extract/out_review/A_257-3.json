@@ -1,0 +1,95 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Chronogram resolved: śiśu(=śaśi?)=1, svāda(rasa)=6, sindhu=7, read right to left = NS 761; ce_approx changed from 1645 to 1641 (Pauṣa with sun in Makara = c. January 1641 CE)",
+   "Noted that NS 761 falls before Jagatprakāśamalla's accession (c. NS 764/1644): a conflict",
+   "Removed 'deśapradhāna' from Dhanasiṃha's titles: it is a locative that agrees grammatically with the king's epithets, while Dhanasiṃha is in the genitive; the alternative reading is given in notes",
+   "Replaced Jagatprakāśa's title 'avanipālasiṃha' (a poetic epithet) with 'avanipāla'",
+   "under_reign_of relation now runs from the scribe (the act of copying) rather than from Dhanasiṃha",
+   "year field now gives the numeral reading"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jagatprakāśe",
+   "name": "Jagatprakāśa",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "avanipāla"
+   ],
+   "affiliation": "",
+   "residence": "Bhaktapur",
+   "evidence": "jagatprakāśe ʼvanipālasiṃhe bhaktā pure smin pravirājamāne",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmaddhanasiṃhasya",
+   "name": "Dhanasiṃha",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmaddhanasiṃhasya, ājñāṃ dhṛtvā vilikhyate",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "daivajña kutu(!)nā",
+   "name": "Kutu",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajña kutu(!)nā pūrṇṇaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "śrīmaddhanasiṃhasya, ājñāṃ dhṛtvā vilikhyate, daivajña kutu(!)nā"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "jagatprakāśe ʼvanipālasiṃhe bhaktā pure smin pravirājamāne"
+  }
+ ],
+ "date": {
+  "as_written": "nepālavatsaragate śiśusvādasiṃdhau, pauṣe ʼsite śiśiramāsi tithau navamyāṃ || svātīṣu śūlavanayogabudhe ca vāre, taulisthacandramakarastha divākare ca",
+  "era": "NS",
+  "year": "761 (śiśu-svāda-siṃdhu, read right to left)",
+  "month": "Pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "9 (navamī)",
+  "weekday": "Wednesday (budha)",
+  "nakshatra_yoga": "Svāti; Śūla yoga; moon in Tulā, sun in Makara",
+  "ce_approx": "1641"
+ },
+ "place": {
+  "as_written": "bhaktā pure",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "copied at the command (ājñā) of Dhanasiṃha",
+ "notes": "The chronogram is śiśu-svāda-sindhu. Taking śiśu as an error for śaśi (=1), svāda=rasa (=6) and sindhu (=7), and reading right to left, the year is NS 761. With the sun in Makara this is about January 1641 CE. This conflicts with the stated reign of Jagatprakāśamalla of Bhaktapur, who acceded c. NS 764 / 1644 CE. Either śiśu stands for a different number, the year is misread, or the king is named anachronistically. The weekday was not checked. The locatives dīnādhināthe kamanīyavarṇe deśapradhāne sukṛtaikarāśau grammatically continue the king's epithets. Still, 'deśapradhāna' might be meant for Dhanasiṃha, who could be a pradhāna (minister); if so, his role may be 'minister' as well. The scribe's name is marked (!) by the cataloguer: 'Kutu' is doubtful, possibly Kuṭu or Khuṭu. The text copied is the Kāśīkhaṇḍa of the Skandapurāṇa.",
+ "_meta": {
+  "reel": "A 257/3",
+  "model": "opus",
+  "cost_usd": 0.11465800000000001,
+  "secs": 32.6
+ }
+}

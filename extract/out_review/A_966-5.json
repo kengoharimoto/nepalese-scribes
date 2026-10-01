@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "date.month normalized to 'Āṣāḍha (śuddha, i.e. the regular month as opposed to adhika Āṣāḍha)'",
+   "date.paksa normalized to 'śukla (sudi)'",
+   "date.weekday interpreted: 'roja 2' = Monday",
+   "notes expanded: 'śuddha' implies an intercalary Āṣāḍha that year; Nepali dating formula"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dharmarājadhīrasya",
+   "name": "Dharmarājadhīra",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ dharmarājadhīrasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1958 sāla miti śuddhaāṣāḍha sudi 7 roja 2",
+  "era": "VS",
+  "year": "1958",
+  "month": "Āṣāḍha (śuddha)",
+  "paksa": "śukla (sudi)",
+  "tithi": "7",
+  "weekday": "Monday (roja 2)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1901"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The catalogue lists Dharmarājadhīra as the scribe. The colophon itself only says 'idaṃ pustakaṃ dharmarājadhīrasya', which makes him the owner. He may also have copied it, but the colophon does not say so. The name could also be read as Dharmarāja Dhīra (personal name plus surname). The era is not named. Under the Nepali formula 'samvat … sāla miti … roja', 1958 must be VS, which gives CE 1901 (around June–July). 'śuddha āṣāḍha' marks the regular Āṣāḍha as distinct from an adhika (intercalary) Āṣāḍha, so that year had an intercalary month. 'roja 2' = Monday.",
+ "_meta": {
+  "reel": "A 966/5",
+  "model": "opus",
+  "cost_usd": 0.066418,
+  "secs": 12.0
+ }
+}

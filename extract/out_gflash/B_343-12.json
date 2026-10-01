@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñānanta",
+   "name": "Ananta",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñānanta suta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "daivajñarāma",
+   "name": "Rāma",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñarāma viracita",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrī śaktyādima vallabhena",
+   "name": "Śaktivallabha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "vaivajra koṭāhuye viṣaye",
+   "evidence": "śrī śaktyādima vallabhena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "daivajñānanta suta daivajñarāma"
+  }
+ ],
+ "date": {
+  "as_written": "ākāśābdhi girīndubhiḥ 1740 parimite śāke valakṣe śucau māsi kalānidheḥ priyasutasyātho śubhe vāsare",
+  "era": "ŚS",
+  "year": "1740",
+  "month": "śuci",
+  "paksa": "valakṣa",
+  "tithi": "",
+  "weekday": "Budhavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1818"
+ },
+ "place": {
+  "as_written": "gorakṣadhipa bhūmiśakta viṣaye vaivajra koṭāhuye",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The weekday is given metrically as kalānidheḥ priyasuta (son of the moon = Mercury/Budha). Scribe's name is rendered metrically as śaktyādima-vallabha.",
+ "_meta": {
+  "reel": "B 343/12",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 806,
+  "out_tok": 1564
+ }
+}

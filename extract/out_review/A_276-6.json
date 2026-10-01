@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Place: 'mādurllabhadeśe pāvakapure dhūlike cottare bhāge bhairavī caiva dakṣiṇe ...' is a numbered verse (|| 1 ||) describing the sacred site's boundaries, i.e. text matter, not a place of copying. Place cleared. The catalogue's 'Vāṇagaṃgā' does not appear in the quoted colophon.",
+   "Persons: merged the two fragmentary names into one low-confidence entry, 'Nārāyaṇa Kṛṣṇa' (reading 'rānāyaṇa' as a metathesis of 'nārāyaṇa'). Noted that it may be a devotional invocation of deity names rather than a person's name; no role is stated.",
+   "Weekday: 'roja 3' interpreted as Tuesday (Sunday = 1).",
+   "Date confirmed: VS 1878 ≈ 1821 CE, śukla 11, month not stated."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "... rānāyaṇa(!) kṛṣṇa",
+   "name": "Nārāyaṇa Kṛṣṇa",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "... rānāyaṇa(!) kṛṣṇa",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvatsare 1878 sāla śudi 11 roja 3",
+  "era": "VS",
+  "year": "1878",
+  "month": "",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "Tuesday (roja 3)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1821"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon closes the Siddhasthalīmāhātmya section. The verse after the date ('mādurllabhadeśe pāvakapure ... śiranābhi ca vāyave || 1 ||') gives the directional boundaries of the holy site (north, south: Bhairavī, east: pādukās, northwest: śiranābhi), so it belongs to the text and does not say where the copy was made. The catalogue gives the place of copying as Vāṇagaṃgā, but that name is not in the quoted colophon. The final words '... rānāyaṇa(!) kṛṣṇa' are fragmentary. They may be a scribe's signature ('Nārāyaṇa Kṛṣṇa', or the two names Nārāyaṇa and Kṛṣṇa) or simply a devotional invocation of deity names, so the person entry is uncertain and has no stated role. The year has no era name, but 'sāla' and 'roja' point to Nepali usage, so the era is taken as Vikrama: VS 1878 ≈ 1821 CE. The month is not given.",
+ "_meta": {
+  "reel": "A 276/6",
+  "model": "opus",
+  "cost_usd": 0.082718,
+  "secs": 18.1
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "nakshatra_yoga: tiṣya identified as Puṣya; with Sunday this is the auspicious Ravipuṣya yoga",
+   "weekday: 'ravi' glossed as Sunday",
+   "purpose: rewritten as a dedication of merit to Rāma-Kṛṣṇa and Śiva, with the spelling as written (-ārppaṇam)",
+   "notes: added that the year '16' is probably an abbreviated or truncated Śaka year (16xx), and gave the section location; ce_approx left empty"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 16 māse kārttike ravitiṣyakṛṣṇasaptamyāṃ",
+  "era": "ŚS",
+  "year": "16",
+  "month": "kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "saptamī",
+  "weekday": "ravivāra (Sunday)",
+  "nakshatra_yoga": "tiṣya (= puṣya); Ravipuṣya yoga",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "dedication: śrīrāmakṛṣṇārppaṇam astu, śivārppaṇam astu",
+ "notes": "The colophon names no scribe, owner or commissioner. It closes the Bhīṣmakarṇasaṃvāda in the Bhīṣmaparvan (fol. 111r). Taken literally, 'śāke 16' would be about 94 CE, which is impossible. The year is probably an abbreviated or truncated Śaka year in the 1600s (about 17th–18th century CE), but the last two digits are missing, so ce_approx is left empty. If the missing digits are ever restored, the details Kārttika kṛṣṇa 7, Sunday, Puṣya nakṣatra (Ravipuṣya) could be used to verify the year.",
+ "_meta": {
+  "reel": "B 250/4",
+  "model": "opus",
+  "cost_usd": 0.066326,
+  "secs": 12.3
+ }
+}

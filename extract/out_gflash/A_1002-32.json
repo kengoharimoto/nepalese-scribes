@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "caṃdravīrasurya",
+   "name": "Candravīrasūrya",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "thva suphu caṃdravīrasurya jula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1932 sāla mārgasudi 7 roja",
+  "era": "VS",
+  "year": "1932",
+  "month": "mārga",
+  "paksa": "sudi",
+  "tithi": "7",
+  "weekday": "roja",
+  "nakshatra_yoga": "",
+  "ce_approx": "1875"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The cataloguer records 'Suddhiratna' as scribe, but this name does not appear in the quoted colophon; instead, Candravīrasūrya is named as the owner of the manuscript ('thva suphu caṃdravīrasurya jula').",
+ "_meta": {
+  "reel": "A 1002/32",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 734,
+  "out_tok": 1116
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dvijavaraśrīśaṃkarapatiśarmmaṇāḥ",
+   "name": "Śaṅkarapati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvijavara",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "coyadhunhudinavaṃnnā nimhaṃ dvijavaraśrīśaṃkarapatiśarmmaṇāḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 772 bhādrapadamāśe(!) śuklapakṣe daśamyāyāṃ tithau śukravāsare",
+  "era": "NS",
+  "year": "772",
+  "month": "bhādrapada",
+  "paksa": "śuklapakṣa",
+  "tithi": "daśamī",
+  "weekday": "śukravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1652"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Newari 'coyadhunhu dina' marks the completion of writing on this day.",
+ "_meta": {
+  "reel": "A 337/2",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 782,
+  "out_tok": 1137
+ }
+}

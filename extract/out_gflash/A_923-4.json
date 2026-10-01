@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "/// ⁅de⁆vācāryeṇa",
+   "name": "Devācārya",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "/// ⁅de⁆vācāryeṇa svārthaputrapautrādiśikṣāya (!) hetunārthaṃ likhitaṃ kṛtaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 813 dita rāthoke pūrṇṇamāśi kunhu",
+  "era": "NS",
+  "year": "813",
+  "month": "dita rāthoke",
+  "paksa": "śuklapakṣa",
+  "tithi": "pūrṇṇamāśi",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1693"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaputrapautrādiśikṣārtham (for the instruction of oneself, sons, and grandsons)",
+ "notes": "The name of the scribe/owner is preceded by a lacuna (/// ⁅de⁆vācāryeṇa), possibly representing a longer name ending in -devācārya. The month expression 'dita rāthoke' likely refers to dvir-āṣāḍha (intercalary Āṣāḍha) or similar corrupt reading.",
+ "_meta": {
+  "reel": "A 923/4",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 888,
+  "out_tok": 1721
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe's name re-read: 'kṛṣṇanamaṣnorā' is most likely a corruption of 'kṛṣṇanāmno' ('of the one named Kṛṣṇa'), so the name is Kṛṣṇa, not 'Kṛṣṇanamaṣnora'. Confidence raised to medium.",
+   "Date fields normalized: month Āṣāḍha, pakṣa kṛṣṇa (vadi), weekday Tuesday (maṃ. = maṅgalavāra).",
+   "Note on the author refined (śrīmadasanamad < śrīmad-dhanumad, i.e. Hanumat)."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṛṣṇanamaṣnorā",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ (kṛṣṇanamaṣnorā) (!) brāhmaṇasya",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "miti asādḥa vadi 8 maṃ. saṃvat 1856",
+  "era": "VS",
+  "year": "1856",
+  "month": "Āṣāḍha",
+  "paksa": "kṛṣṇa (vadi)",
+  "tithi": "8",
+  "weekday": "Tuesday (maṃ.)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1799"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'śrīmadasanamad viracitāyāṃ' is a corruption of 'śrīmad-dhanumad-viracitāyāṃ': the text is traditionally attributed to Hanumat, a mythical author, so he is left out. The scribe's name is corrupt. The most plausible reading is 'kṛṣṇanāmno brāhmaṇasya' ('of the brāhmaṇa named Kṛṣṇa'), which fits the catalogue's 'Kṛṣṇa‥‥brāhmaṇa'; the leftover 'rā' may be a dittography of the following 'brā'. The era is given only as 'saṃvat'. VS is assumed (as in the catalogue), giving 1799 CE. 'śrī rāma padma' at the end is an invocation or a stray note, not a person.",
+ "_meta": {
+  "reel": "A 376/3",
+  "model": "opus",
+  "cost_usd": 0.074074,
+  "secs": 16.7
+ }
+}

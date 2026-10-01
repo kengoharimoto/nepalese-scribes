@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nṛsiṃhaḥ",
+   "name": "Nṛsiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ nṛsiṃhaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīvikramābde ʼbjamunībhacandrai 1871 dvinādhirāje kriyagebja vṛddhau || tithau viriñcyai bhṛgujasya vāsare narādhiparkṣe",
+  "era": "VS",
+  "year": "1871",
+  "month": "kriyā (Meṣa)",
+  "paksa": "",
+  "tithi": "viriñci",
+  "weekday": "bhṛguvāsara (Friday)",
+  "nakshatra_yoga": "narādhiparkṣa",
+  "ce_approx": "1814"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram abjamunībhacandra corresponds to 1871 (abja = 1, muni = 7, ibha = 8, candra = 1).",
+ "_meta": {
+  "reel": "A 1022/12",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 747,
+  "out_tok": 931
+ }
+}

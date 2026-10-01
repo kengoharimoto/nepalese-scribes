@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sumatijayajitāmitra malladeva",
+   "name": "Jayajitāmitramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śrī sumatijayajitāmitra malladeva sanaśca(!) pustaka dayakā(!)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhāgīrāma",
+   "name": "Bhāgīrāma",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "paramāna"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgīrāma paramānayāvelasa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrī śrī sumatijayajitāmitra malladeva sanaśca(!) pustaka dayakā(!) || bhāgīrāma paramānayāvelasa"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 810 kārtika sudi 9",
+  "era": "NS",
+  "year": "810",
+  "month": "kārtika",
+  "paksa": "sudi",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1690"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Newari 'sanaśca' reflects the honorific ergative agentive suffix -sana/-sena (i.e. 'by King Sumati Jayajitāmitramalladeva the book was caused to be made'). 'paramāna' represents the Newar title pramāṇa (administrative officer/minister).",
+ "_meta": {
+  "reel": "A 1302/4",
+  "model": "gemini-flash-latest",
+  "secs": 8.8,
+  "in_tok": 740,
+  "out_tok": 1702
+ }
+}

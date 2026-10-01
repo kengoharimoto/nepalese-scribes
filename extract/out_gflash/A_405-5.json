@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mauni bālakṛṣṇena",
+   "name": "Bālakṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "maunī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ mauni bālakṛṣṇena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1750 śake 1615 phāglune(!)māsi kṛṣṇa(5)pakṣe tṛtīyā some",
+  "era": "VS",
+  "year": "1750",
+  "month": "phālguna",
+  "paksa": "kṛṣṇa",
+  "tithi": "tṛtīyā",
+  "weekday": "some",
+  "nakshatra_yoga": "",
+  "ce_approx": "1694"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthaṃ ca",
+ "notes": "",
+ "_meta": {
+  "reel": "A 405/5",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 751,
+  "out_tok": 935
+ }
+}

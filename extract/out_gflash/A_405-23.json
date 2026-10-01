@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīpatibhaṭṭa",
+   "name": "Śrīpati",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpatibhaṭṭaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ramāpati",
+   "name": "Ramāpati",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "ātreyagotra",
+   "residence": "",
+   "evidence": "ramāpatisuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "maheśvarabrāhmaṇa",
+   "name": "Maheśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "ātreyagotra",
+   "residence": "",
+   "evidence": "maheśvarabrāhmaṇa[[ṇa]] (!) likhitam idaṃ pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "ramāpatisutamaheśvara"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1734 śrīśaṃvat 1869 vaiśāṣamāse (!) dinagatā5 vāre4 tithau5 yoge5 nakṣatre5 karṇe1",
+  "era": "ŚS",
+  "year": "1734",
+  "month": "vaiśāṣa",
+  "paksa": "",
+  "tithi": "5",
+  "weekday": "4",
+  "nakshatra_yoga": "yoge 5 nakṣatre 5",
+  "ce_approx": "1812"
+ },
+ "place": {
+  "as_written": "paśupatidakṣiṇadigbhāge viṣṇupurībrahmasthāne",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The colophon gives both Śaka 1734 and Vikrama Saṃvat 1869, which agree on 1812 CE.",
+ "_meta": {
+  "reel": "A 405/23",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 890,
+  "out_tok": 1662
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "keśava",
+   "name": "Keśava",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "vākanṭakarotrigotra",
+   "residence": "",
+   "evidence": "keśava suta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śaṃkarāabhidhānoyaṃ",
+   "name": "Śaṃkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "vākanṭakarotrigotra",
+   "residence": "",
+   "evidence": "śaṃkarāabhidhānoyaṃ || nighaṃṭapustakalikhitam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "upedra bhūpaḥ",
+   "name": "Upendra",
+   "roles": [
+    "king",
+    "beneficiary"
+   ],
+   "titles": [
+    "bhūpa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "upedra bhūpaḥ samarpitāya syāt",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "keśava suta śaṃkarāabhidhānoyaṃ"
+  },
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "nighaṃṭapustakalikhitam upedra bhūpaḥ samarpitāya syāt"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1942 hemalaṃvābde vaiśākhakṛṣṇa 11 bhānuvāsare",
+  "era": "VS",
+  "year": "1942",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "bhānuvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1885"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "upedra bhūpaḥ samarpitāya syāt || śrīvedapusuṣaḥ prītir astu",
+ "notes": "Upendrabhūpa likely refers to Prince Upendra Bikram Shah (Mahila Sahebju) of Nepal.",
+ "_meta": {
+  "reel": "A 326/17",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 810,
+  "out_tok": 1827
+ }
+}

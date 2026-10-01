@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 494 jeṣṭa śukla pañcemī || budavāra",
+  "era": "NS",
+  "year": "494",
+  "month": "jeṣṭa",
+  "paksa": "śukla",
+  "tithi": "pañcemī",
+  "weekday": "budavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1374"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No specific individuals or scribe are named in the colophon; 'paṇḍita vaidyalokasana' is a generic reference to scholars and physicians.",
+ "_meta": {
+  "reel": "C 106/5",
+  "model": "gemini-flash-latest",
+  "secs": 3.0,
+  "in_tok": 789,
+  "out_tok": 620
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumati jaya jitāmitra malladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumati jaya jitāmitra malladevasana dayakā juroṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "pūrṇṇasiṃhana",
+   "name": "Pūrṇasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pūrṇṇasiṃhana coyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "śrīśrīsumati jaya jitāmitra malladevasana dayakā juroṃ || pūrṇṇasiṃhana coyā"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 815 pauṣa śuddhi 5 thvakuhnu",
+  "era": "NS",
+  "year": "815",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1695"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "tṛtīyaprāsādārthaṃ",
+ "notes": "The catalogue mentions Bhaktapur as place of copying because King Jitāmitra Malla was the ruler of Bhaktapur, but no place name is explicitly stated in the colophon text itself.",
+ "_meta": {
+  "reel": "A 1240/24",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 782,
+  "out_tok": 1261
+ }
+}

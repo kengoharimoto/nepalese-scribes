@@ -1,0 +1,55 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vālmīkīye",
+   "name": "Vālmīki",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ityārṣe rāmāyaṇe vālmīkīye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rāmābhirāme śrīrāmīye",
+   "name": "Rāmavarmā",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "iti rāmābhirāme śrīrāmīye rāmāyaṇaḥ tilake",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī samvat 1855 mārgaśīrṣe śuklepakṣe navabhyām || 6 ||",
+  "era": "VS",
+  "year": "1855",
+  "month": "mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "6",
+  "nakshatra_yoga": "",
+  "ce_approx": "1798"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The cataloguer recorded Śrīrāma Varmā as the scribe; however, 'rāmābhirāme śrīrāmīye [...] tilake' refers to the well-known Rāmāyaṇatilaka commentary by Rāma Varmā, not to a copyist.",
+ "_meta": {
+  "reel": "A 1052/2",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 849,
+  "out_tok": 1917
+ }
+}

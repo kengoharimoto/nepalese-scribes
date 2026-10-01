@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkṛṣṇajośī",
+   "name": "Śrīkṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "Rāmanagara",
+   "evidence": "likhitaṃ śrīkṛṣṇajośī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1942 śrāvaṇa śu. 4 Śukravāsare dvī(!)tīyaprahare",
+  "era": "VS",
+  "year": "1942",
+  "month": "śrāvaṇa",
+  "paksa": "śu",
+  "tithi": "4",
+  "weekday": "Śukravāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1885"
+ },
+ "place": {
+  "as_written": "rāmanagara",
+  "normalized": "Rāmanagara"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 65/6",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 721,
+  "out_tok": 1084
+ }
+}

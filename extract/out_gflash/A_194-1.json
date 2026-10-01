@@ -1,0 +1,105 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmad anūpasiṃhena",
+   "name": "Anūpasiṃha",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "mahārājasūnu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmad anūpasiṃhena prerita",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmahārājakarṇamahāśaya",
+   "name": "Karṇa",
+   "roles": [
+    "relative_only",
+    "king"
+   ],
+   "titles": [
+    "mahārāja",
+    "mahāśaya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahārājakarṇamahāśayasūnunā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "govindasūri",
+   "name": "Govinda",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "catirddharavaṃśa",
+   "residence": "",
+   "evidence": "catirddharavaṃśāvataṃśagovindasūrisūno",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "nīlākaṇṭhasya",
+   "name": "Nīlakaṇṭha",
+   "roles": [
+    "author",
+    "commentator"
+   ],
+   "titles": [
+    "padavākyapramāṇamaryādādhuraṃdhara"
+   ],
+   "affiliation": "catirddharavaṃśa",
+   "residence": "",
+   "evidence": "nīlākaṇṭhasya kṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīmahārājakarṇamahāśayasūnunā śrīmad anūpasiṃhena"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "govindasūrisūno(!) nīlākaṇṭhasya"
+  }
+ ],
+ "date": {
+  "as_written": "śāke 1711 māghaśukla 10 some",
+  "era": "ŚS",
+  "year": "1711",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "some",
+  "nakshatra_yoga": "",
+  "ce_approx": "1789"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīśivapārvatīprītaye",
+ "notes": "The catalogue mistakenly enters 'ŚS 1711' under 'Place of Copying'. The colophon preserves the composition statement of Nīlakaṇṭha Caturdhara under King Anūpasiṃha of Bikaner (son of Karṇa Siṃha), followed by the manuscript completion date Śaka 1711.",
+ "_meta": {
+  "reel": "A 194/1",
+  "model": "gemini-flash-latest",
+  "secs": 9.1,
+  "in_tok": 877,
+  "out_tok": 2564
+ }
+}

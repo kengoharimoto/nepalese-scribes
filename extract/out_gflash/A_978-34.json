@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīharṣadvija",
+   "name": "Śrīharṣa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīharṣadvijaviracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 884 || āṣāḍhe likhitaṃ || 4",
+  "era": "NS",
+  "year": "884",
+  "month": "āṣāḍha",
+  "paksa": "",
+  "tithi": "4",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1764"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is written as 'śrīśāke', but the year 884 corresponds to Nepāla Saṃvat (NS 884 = c. 1764 CE), as noted by the cataloguer.",
+ "_meta": {
+  "reel": "A 978/34",
+  "model": "gemini-flash-latest",
+  "secs": 9.6,
+  "in_tok": 700,
+  "out_tok": 2049
+ }
+}

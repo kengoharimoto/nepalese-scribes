@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāma〇candrācāryya",
+   "name": "Rāmacandra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāma〇candrācāryyaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīdāmodara-śarmmaṇā",
+   "name": "Dāmodara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdāmodara-śarmmaṇā likhitaiṣā pustī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "la saṃ 568 kārttikaśuklapañcadaśyāṃ ravau budhau",
+  "era": "LS",
+  "year": "568",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "15",
+  "weekday": "ravau budhau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1687"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both 'ravau' (Sunday) and 'budhau' (Wednesday) appear in the date phrase followed by 'rāmaṃ'.",
+ "_meta": {
+  "reel": "A 53/13",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 737,
+  "out_tok": 1184
+ }
+}

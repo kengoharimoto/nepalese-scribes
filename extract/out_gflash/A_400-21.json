@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmādhavabhaṭṭa",
+   "name": "Mādhava",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāya śrīmādhavabhaṭṭaviracito",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 920 vaiśāṣakṛṣṇaekādaśiprada, dvādasi, maṅgalavāra",
+  "era": "NS",
+  "year": "920",
+  "month": "vaiśāṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī / dvādaśī",
+  "weekday": "maṅgalavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1800"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 400/21",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 715,
+  "out_tok": 944
+ }
+}

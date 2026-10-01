@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājñā śrīguṇakāmadevavibhunā",
+   "name": "Guṇakāmadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājā",
+    "vibhu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājñā śrīguṇakāmadevavibhunā svasyaikarājye kṛte",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "varṣe smin diśam uttare śatatame ... dine tārādhaniṣṭhānvite",
+  "era": "NS",
+  "year": "diśam uttare śatatame [110]",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "dhaniṣṭhā",
+  "ce_approx": "990"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date formula 'diśam uttare śatatame' designates 10 exceeding 100, i.e., NS 110 (c. 990 CE), falling during the reign of King Guṇakāmadeva. The name of the scribe, if mentioned, appears to be lost in the meter lacunae.",
+ "_meta": {
+  "reel": "B 35/31",
+  "model": "gemini-flash-latest",
+  "secs": 9.1,
+  "in_tok": 840,
+  "out_tok": 2110
+ }
+}

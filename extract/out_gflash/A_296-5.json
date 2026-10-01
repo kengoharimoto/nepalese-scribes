@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmaheśvarānaṃdena",
+   "name": "Maheśvarānanda",
+   "roles": [
+    "scribe",
+    "donor"
+   ],
+   "titles": [
+    "mahābauddhopāsaka"
+   ],
+   "affiliation": "",
+   "residence": "Lalitāpuranagara",
+   "evidence": "śrīmaheśvarānaṃdena idaṃ purāṇa(!) likhitaṃ samarpitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1945 sālam iti āṣāḍha kṛṣṇa 3",
+  "era": "VS",
+  "year": "1945",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1888"
+ },
+ "place": {
+  "as_written": "śrīlalitāpuranagara",
+  "normalized": "Patan"
+ },
+ "purpose": "samarpitam",
+ "notes": "",
+ "_meta": {
+  "reel": "A 296/5",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 810,
+  "out_tok": 893
+ }
+}

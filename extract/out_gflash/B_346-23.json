@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhāskara-",
+   "name": "Bhāskara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāskaranirmitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmat〈〈paṃtopanāmāka〉〉vedagarbhaśarmaṇā",
+   "name": "Vedagarbha",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "śarman",
+    "paṃta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitā mameyaṃ līlāvatī ... likhitaṃ śrīmat〈〈paṃtopanāmāka〉〉vedagarbhaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "bhūbhṛdyugāśvendumite śakendrakāle",
+  "era": "ŚS",
+  "year": "1747",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1825"
+ },
+ "place": {
+  "as_written": "nepāle",
+  "normalized": "Nepal"
+ },
+ "purpose": "svārtha",
+ "notes": "The chronogram 'bhūbhṛd-yuga-aśva-indu' yields Śaka 1747 (7-4-7-1 reversed). 'mameyaṃ' indicates the copy was made for the scribe's own use.",
+ "_meta": {
+  "reel": "B 346/23",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 779,
+  "out_tok": 1384
+ }
+}

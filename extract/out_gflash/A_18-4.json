@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmaheśvarasya",
+   "name": "Maheśvara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "vaidyarāja",
+    "gadyavidyānidhi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmaheśvarasya kṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 319 vaiśākha śuklacaturdasyāṃ",
+  "era": "unspecified",
+  "year": "319",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "caturdaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The composition date of the text is recorded in verse as Śaka 1033 (rāmānalavyomarūpaiḥ śakakāle). The manuscript date is given simply as saṃ 319 (possibly NS 319 = 1199 CE or La Saṃ 319). No scribe name is mentioned (only 'likhitaṃ').",
+ "_meta": {
+  "reel": "A 18/4",
+  "model": "gemini-flash-latest",
+  "secs": 7.2,
+  "in_tok": 755,
+  "out_tok": 1415
+ }
+}

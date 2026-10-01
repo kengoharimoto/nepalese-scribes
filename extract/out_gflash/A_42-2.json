@@ -1,0 +1,95 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadrudradevasya",
+   "name": "Rudradeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "śrīrameśvara",
+    "paramabhaṭṭāraka",
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadrudradevasya vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīśivācāryyavijādharavarmeṇa",
+   "name": "Vijādharavarman",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "śivācārya"
+   ],
+   "affiliation": "",
+   "residence": "śrīmat-mahāvijakarathyāyāṃ śrīcandanamaṇḍapīrathyā",
+   "evidence": "śrīśivācāryyavijādharavarmeṇa likhāpitaṃ pustakaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "lekhakapaśupatinā",
+   "name": "Paśupati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "lekhaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhakapaśupatinā likhitam iti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "śrīśivācāryyavijādharavarmeṇa likhāpitaṃ pustakaṃ | lekhakapaśupatinā likhitam"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīmadrudradevasya vijayarājye"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīmadrudradevasya vijayarājye"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 294 caitraśuklapūrṇṇamāsyāṃ somadine uttaraphālguṇanakṣatre",
+  "era": "NS",
+  "year": "294",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "somadina",
+  "nakshatra_yoga": "uttaraphālguṇī",
+  "ce_approx": "1174"
+ },
+ "place": {
+  "as_written": "śrīmat-mahāvijakarathyāyāṃ śrīcandanamaṇḍapīrathyā",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Vijādharavarman is a variant/spelling of Vidyādharavarman.",
+ "_meta": {
+  "reel": "A 42/2",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 813,
+  "out_tok": 1673
+ }
+}

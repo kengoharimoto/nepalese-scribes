@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrītri(30r6)vikrameśādaṭa",
+   "name": "Trivikrameśādaṭa",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Lānihma",
+   "evidence": "coya dhunakāvaṃ lānihma vāsinā śrītri(30r6)vikrameśādaṭa puṣṭakam iti",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 804 phālguṇa śikla pakṣe navamyāntithau śukravāra",
+  "era": "NS",
+  "year": "804",
+  "month": "phālguṇa",
+  "paksa": "śukla",
+  "tithi": "navamī",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1684"
+ },
+ "place": {
+  "as_written": "lānihma",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The name 'śrītrivikrameśādaṭa' is likely corrupt (possibly Trivikramadatta or Trivikrameṇa ... pustakam). The rest of the passage is a dhyāna of Gaṅgā from the Rudrayāmala followed by Newari notes on iconographic details.",
+ "_meta": {
+  "reel": "C 82/12",
+  "model": "gemini-flash-latest",
+  "secs": 10.7,
+  "in_tok": 871,
+  "out_tok": 2198
+ }
+}

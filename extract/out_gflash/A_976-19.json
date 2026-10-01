@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaṃ gāviśṇu",
+   "name": "Gaṅgāviṣṇu",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "malikhaḍgaṃ gāviśṇu",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "rasārasābhū isa bhū śake mārge site śanau || dvādaśyāṃ",
+  "era": "ŚS",
+  "year": "rasārasābhū isa bhū",
+  "month": "mārga",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "śanivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The cataloguer's reading 'malikhaḍgaṃ gāviśṇu…………' appears to be a corrupt reading or transcription of 'alikhad gaṅgāviṣṇu[ḥ]' (Gaṅgāviṣṇu wrote [this]). The Śāka chronogram 'rasārasābhū isa bhū' is unclear.",
+ "_meta": {
+  "reel": "A 976/19",
+  "model": "gemini-flash-latest",
+  "secs": 13.4,
+  "in_tok": 687,
+  "out_tok": 2729
+ }
+}

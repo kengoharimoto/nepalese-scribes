@@ -1,0 +1,90 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "janaralabhīmasena-",
+   "name": "Bhīmasena",
+   "roles": [
+    "commissioner",
+    "minister"
+   ],
+   "titles": [
+    "janarala",
+    "maṃtrin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svastiśrīmajjanaralabhīmasenājñayā tvarā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vidvanpadmanidhis",
+   "name": "Padmanidhi",
+   "roles": [
+    "corrector",
+    "commissioner"
+   ],
+   "titles": [
+    "vidvan"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vidvanpadmanidhis tāvat ta〈〈tta〉〉tpustakaśodhakaḥ || bhīmasenaprītipātraṃ ... likhāpayati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "suṃdarābhidhaḥ",
+   "name": "Sundara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bauddha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhad vauddhaḥ sasutaḥ suṃdarābhidhaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "other",
+   "to": "p1",
+   "evidence": "bhīmasenaprītipātraṃ"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "likhāpayati tat tadā || 1 || pāṭhaḥ || ... likhad vauddhaḥ sasutaḥ suṃdarābhidhaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "nepālasaṃvad adriyugāṃkagā || caitrī rākā budhaddinaṃ meṣasaṃkramaṇaṃ yadā",
+  "era": "NS",
+  "year": "947",
+  "month": "Caitra",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "meṣasaṃkramaṇa",
+  "ce_approx": "1827"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "bhūyāt samṛddhidaṃ rājye maṃtrikule vivṛddhikṛt āyurārogyajananaṃ kṣemakāri ca sarvathā",
+ "notes": "The colophon notes that this manuscript was copied from an ancient palm-leaf exemplar in Bhujimol script dated NS 480 (catuḥśatādhikāśītyā śrīmannepālahāpane likhitā tāḍapatrīyā bhojismolābhidhā lipiḥ dṛṣṭvā). The present copy was commissioned under Prime Minister Bhimsen Thapa ('janarala-bhīmasena') and supervised by the scholar Padmanidhi in NS 947 (1827 CE).",
+ "_meta": {
+  "reel": "A 353/23",
+  "model": "gemini-flash-latest",
+  "secs": 12.6,
+  "in_tok": 985,
+  "out_tok": 3382
+ }
+}

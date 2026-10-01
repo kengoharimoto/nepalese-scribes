@@ -1,0 +1,66 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "date.year normalized from '761(6)' to '761' (matches catalogue field SAM 761); the bracketed '(6)' is explained in notes",
+   "notes expanded: era assumption, nakṣatra plausibility, cakravartin treated as title"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīratināthacakravartti",
+   "name": "Ratinātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "cakravartin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīratināthacakravarttikṛtā kavipriyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīśivaharivipreṇa",
+   "name": "Śivahari",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śrīśivaharivipreṇa svapāṭhārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 761(6)bhādrapadaśuklaāṣṭamyaṃ (!) tithau jeṣṭhānakṣatre (!) bṛhaspativāsare",
+  "era": "NS",
+  "year": "761",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "8 (aṣṭamī)",
+  "weekday": "Thursday (bṛhaspativāra)",
+  "nakshatra_yoga": "Jyeṣṭhā",
+  "ce_approx": "1641"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svapāṭhārtham (for the scribe's own study)",
+ "notes": "The cataloguer writes 'samvat 761(6)'. The '(6)' is unclear. It may mark an uncertain or extra digit, but it is not a line number, because the colophon is cited as fol. 83r5-6. The catalogue field gives SAM 761, so 761 is taken as the year. The era is not named. NS is assumed from the Newari script and the bare 'samvat' (NS 761 ≈ 1641 CE). Jyeṣṭhā nakṣatra on Bhādrapada śukla 8 is astronomically plausible, but the weekday has not been verified. 'cakravartti' after Ratinātha is treated as a title (cakravartin). 'vipra' marks Śivahari as a brahmin.",
+ "_meta": {
+  "reel": "A 366/2",
+  "model": "opus",
+  "cost_usd": 0.072782,
+  "secs": 14.5
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The quoted text contains only a chapter colophon (itihāsasamuccaye annadānaṃ), without mention of persons, dates, or places.",
+ "_meta": {
+  "reel": "B 237/26",
+  "model": "gemini-flash-latest",
+  "secs": 2.2,
+  "in_tok": 630,
+  "out_tok": 280
+ }
+}

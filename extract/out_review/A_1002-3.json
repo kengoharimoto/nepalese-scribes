@@ -1,0 +1,35 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday: 'oja 1' read as 'roja 1' (Nepali roja = day of the week, 1 = Sunday); normalized to Sunday",
+   "notes: the two years confirmed as Śaka 1818 and VS 1953, both 1896 CE, so they agree; catalogue's 'SAM. 1818' wrongly treats the Śaka year as saṃvat",
+   "notes: Udyotacandra of Kūrmāñcala is not in the colophon. He probably belongs to the work's context, not this 1896 copy, so no person is entered"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "1818 samvat 1953 ā (!) śvinavadi 2 oja 1",
+  "era": "VS",
+  "year": "1953",
+  "month": "Āśvina",
+  "paksa": "kṛṣṇa (vadi)",
+  "tithi": "2",
+  "weekday": "Sunday (roja 1)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1896"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names no persons. The first number, 1818, is unlabelled and read as Śaka 1818. 'samvat 1953' is VS 1953. Both give 1896 CE, so the eras agree. The catalogue's 'Date of Copying: SAM. 1818' takes the Śaka year as saṃvat, and if read as VS it would give a wrong date (1761 CE). 'oja 1' is probably 'roja 1' (Sunday), with the initial r- lost or misread. The weekday was not checked against an ephemeris; a rough check found no Sunday for Āśvina vadi 2 in September 1896 (pūrṇimānta), while an amānta reading (late October 1896) might fit, so this is uncertain. The catalogue's 'King: Udyotacandra of Kūrmāñcala' (Kumaon, late 17th c.) is not in the quoted colophon and cannot be the reigning king for an 1896 copy. He probably comes from the text's own context (e.g. patron of the author), so he is left out. The colophon closes the section 'kṣayamāsa sādhanam'.",
+ "_meta": {
+  "reel": "A 1002/3",
+  "model": "opus",
+  "cost_usd": 0.073534,
+  "secs": 16.1
+ }
+}

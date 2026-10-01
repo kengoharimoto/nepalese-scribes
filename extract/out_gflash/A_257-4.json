@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mohaṇasiṃha",
+   "name": "Mohanasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ mohaṇasiṃha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 800 || māghakṛṣṇa, aṣṭamī, anurādha(!)nakṣe(!)tra, vyāghādayoga, vṛhaspativāra",
+  "era": "NS",
+  "year": "800",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "vṛhaspativāra",
+  "nakshatra_yoga": "anurādha, vyāghāda",
+  "ce_approx": "1680"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 257/4",
+  "model": "gemini-flash-latest",
+  "secs": 3.1,
+  "in_tok": 741,
+  "out_tok": 704
+ }
+}

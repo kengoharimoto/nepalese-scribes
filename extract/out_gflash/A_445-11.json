@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jaya bhūpatīndramalladevasana",
+   "name": "Bhūpatīndramalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī 2 jaya bhūpatīndramalladevasana togaṇayā cūlakā chāyā dina",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 823 naṣṭa śrāvaṇa sudi 13",
+  "era": "NS",
+  "year": "823",
+  "month": "naṣṭa śrāvaṇa",
+  "paksa": "sudi",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1703"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon marks the date on which King Bhūpatīndra Malla dedicated the pinnacle/finial (cūlakā chāyā dina) of a shrine/structure (togaṇayā).",
+ "_meta": {
+  "reel": "A 445/11",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 737,
+  "out_tok": 882
+ }
+}

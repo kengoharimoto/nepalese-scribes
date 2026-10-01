@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "purpose cleared: 'bhavānī prīṇātu' is a closing benediction, not a statement of purpose; moved to notes",
+   "notes expanded: chronogram checked, 'sita read as asita (kṛṣṇa), and the catalogue's scribe name discussed"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajña viśvasiṃhena",
+   "name": "Viśvasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajña viśvasiṃhena, likhyate hayaśāstrakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepāla vatsaragate vasuvedośvasaṃyute | śrāvaṇa ʼsita pakṣe ca daśamyāṃ guruvāsare",
+  "era": "NS",
+  "year": "748",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1628"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram vasu (8), veda (4), aśva (7), read right to left, gives NS 748, about 1628 CE. This matches the catalogue. ''sita' is read as asita, i.e. the dark fortnight (kṛṣṇa pakṣa). 'bhavānīprīṇātu(!)' stands for 'bhavānī prīyatām/prīṇātu', a closing benediction to the goddess Bhavānī. The catalogue gives the scribe as 'Bhāgīrāma pradhānāṃga', but this colophon names daivajña Viśvasiṃha as the scribe. Bhāgīrāma may come from another colophon or a later note in the manuscript, or the catalogue entry may be wrong. Bhāgīrāma is not recorded here because this colophon does not support him.",
+ "_meta": {
+  "reel": "A 1277/11",
+  "model": "opus",
+  "cost_usd": 0.052531,
+  "secs": 13.4
+ }
+}

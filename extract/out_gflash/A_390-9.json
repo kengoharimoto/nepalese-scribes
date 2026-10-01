@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkālidāsakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaṭṭagiridhareṇa",
+   "name": "Giridhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ kāvyaṃ bhaṭṭagiridhareṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1737 varṣa āśvinamāse kṛṣṇapakṣe pratipaddine",
+  "era": "VS",
+  "year": "1737",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "pratipad",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1680"
+ },
+ "place": {
+  "as_written": "sarojapuṭabhedane",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthaṃ ca",
+ "notes": "The catalogue gives the scribe as Girirājabhaṭṭa and date as VS 1732, but the colophon clearly reads bhaṭṭagiridhareṇa and saṃvat 1737. The phrase sarojapuṭabhedane likely designates the location (puṭabhedana = city/market town).",
+ "_meta": {
+  "reel": "A 390/9",
+  "model": "gemini-flash-latest",
+  "secs": 6.8,
+  "in_tok": 841,
+  "out_tok": 1722
+ }
+}

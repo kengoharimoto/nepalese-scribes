@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pṛṭhu jasasā",
+   "name": "Pṛthuyaśas",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "varāhamiharātmajena sadyaśasā | praśnakṛtārthaṃ (!) gahanā- parārtham uddiśya pṛṭhu jasasā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "varāhamihara",
+   "name": "Varāhamihira",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "varāhamiharātmajena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "varāhamiharātmajena"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 850 jyeṣṭhakṛ14",
+  "era": "NS",
+  "year": "850",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "14",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1730"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon of the Samarasāra ends with the date and 'coyā śubha' (written, auspiciousness). The text immediately following on fol. 8v is the incipit verse of Ṣaṭpañcāśikā, naming author Pṛthuyaśas as the son of Varāhamihira.",
+ "_meta": {
+  "reel": "A 426/8",
+  "model": "gemini-flash-latest",
+  "secs": 8.3,
+  "in_tok": 743,
+  "out_tok": 2119
+ }
+}

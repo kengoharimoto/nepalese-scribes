@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "buddhimohana",
+   "name": "Buddhimohana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ buddhimohana",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1842 samvat 1977 māghamāse site pakṣe pratipat bhaumavāsare",
+  "era": "VS",
+  "year": "1977",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1921"
+ },
+ "place": {
+  "as_written": "dāvalenubhū grāme",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śaka 1842 and Vikrama Saṃvat 1977 are mentioned, corresponding to early 1921 CE. 'sitārāma' at the end is an invocation alongside 'oṃ namo nārāyaṇāya'.",
+ "_meta": {
+  "reel": "A 978/21",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 851,
+  "out_tok": 953
+ }
+}

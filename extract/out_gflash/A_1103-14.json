@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāprasāda brahmacārī",
+   "name": "Mahāprasāda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brahmacārī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhā(!) mahāprasāda brahmacārī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1103/14",
+  "model": "gemini-flash-latest",
+  "secs": 2.6,
+  "in_tok": 672,
+  "out_tok": 514
+ }
+}

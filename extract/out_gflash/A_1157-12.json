@@ -1,0 +1,90 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī śrīdharmmamalla || || devasya",
+   "name": "Dharmamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhuvarājādhirāja",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śrīdharmmamalla || || devasya vijaya rājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śivācārya †ulphāsabhārakasya†",
+   "name": "Ulphāsa",
+   "roles": [
+    "commissioner",
+    "beneficiary"
+   ],
+   "titles": [
+    "śivācārya",
+    "bhāraka"
+   ],
+   "affiliation": "",
+   "residence": "Bhaktāpura mahānagara tripurakoccha",
+   "evidence": "bhaktāpura mahānagare tripurakocche śivācārya †ulphāsabhārakasya† yadatra punyaṃ tad abhavat",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bajrācārya śrīsugatacandrasya",
+   "name": "Sugatacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bajrācārya śrīsugatacandrasya likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "śivācārya †ulphāsabhārakasya† yadatra punyaṃ tad abhavat ... bajrācārya śrīsugatacandrasya likhitaṃ"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrī śrīdharmmamalla || || devasya vijaya rājye ... bajrācārya śrīsugatacandrasya likhitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 518 māgha kṛṣṇa daśamyā tithau | uttarāṣāḍhanakṣatre || śubhayoge budhavāsare",
+  "era": "NS",
+  "year": "518",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "uttarāṣāḍha, śubha",
+  "ce_approx": "1398"
+ },
+ "place": {
+  "as_written": "bhaktāpura mahānagare tripurakocche",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "mātāpitṛpūrvvāṅgamaṃ kṛtvā sakalasatvarāśena śivalokaṃ prāptam iti",
+ "notes": "The name of the patron is marked corrupt by the cataloguer: †ulphāsabhārakasya†.",
+ "_meta": {
+  "reel": "A 1157/12",
+  "model": "gemini-flash-latest",
+  "secs": 9.2,
+  "in_tok": 951,
+  "out_tok": 2248
+ }
+}

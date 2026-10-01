@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīhanumatkiṃkara",
+   "name": "Hanumatkiṃkara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīhanumatkiṃkaraviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "trivānaghanasaṃyukte (!) śāke vikramasaṃjñake || samvat 77\\ || (!) aurjaṣya (!) māse hayākhyage ravau",
+  "era": "unspecified",
+  "year": "trivānaghana / 77\\",
+  "month": "aurja (Kārttika)",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "ravau",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram conflates eras ('śāke vikramasaṃjñake') and is accompanied by digits read by the cataloguer as 'samvat 77\\', interpreted as either NS 77? or ŚS 1753. 'yuddhajayo nāma likhitaṃ' refers to the title of the treatise (Yuddhajayotsava), not a personal name.",
+ "_meta": {
+  "reel": "B 344/3b",
+  "model": "gemini-flash-latest",
+  "secs": 7.6,
+  "in_tok": 749,
+  "out_tok": 1640
+ }
+}

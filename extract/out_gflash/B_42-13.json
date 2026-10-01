@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paṃthopanāmaka harinidhinā",
+   "name": "Harinidhi",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "paṃtha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhā〈〈‥‥〉〉pitam idaṃ pustakaṃ paṃthopanāmaka harinidhinā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue queries Harinidhi Panta as the scribe, but the colophon has the causative likhā[..]pitam, indicating he had the manuscript copied (commissioner).",
+ "_meta": {
+  "reel": "B 42/13",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 667,
+  "out_tok": 881
+ }
+}

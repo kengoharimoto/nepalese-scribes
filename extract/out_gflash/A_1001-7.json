@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayadeva",
+   "name": "Jayadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jayadevādrivāṇa57 vayasi vyalilīkhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśakeṃbarabhūmīnāgabhūparimite1810 bhṛgudine diśā10 tithau || siṃhage savitari",
+  "era": "ŚS",
+  "year": "1810",
+  "month": "siṃha",
+  "paksa": "",
+  "tithi": "10",
+  "weekday": "bhṛgudina",
+  "nakshatra_yoga": "",
+  "ce_approx": "1888"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Jayadeva copied the manuscript at the age of 57 (adrivāṇa57 vayasi vyalilīkhat).",
+ "_meta": {
+  "reel": "A 1001/7",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 719,
+  "out_tok": 1068
+ }
+}

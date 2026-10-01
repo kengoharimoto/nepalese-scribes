@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāśinātha śarmaṇā",
+   "name": "Kāśinātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāśinātha śarmaṇālikhat",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "yogeśvara",
+   "name": "Yogeśvara",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yogeśvarārthañceti",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "kāśinātha śarmaṇālikhat yogeśvarārthañceti"
+  }
+ ],
+ "date": {
+  "as_written": "bhūśarāṅkendu 1951 saṃyukte śāke vikramakemite . ravenhyūrjasitepakṣe trayodaśyām",
+  "era": "VS",
+  "year": "1951",
+  "month": "Kārttika",
+  "paksa": "śukla",
+  "tithi": "trayodaśī",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1894"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "yogeśvarārtham, parameśvarārpaṇam",
+ "notes": "Although the catalogue specifies 'ŚS 1951', the colophon states 'śāke vikramake mite' (i.e., measured in the Vikrama era), thus VS 1951. Yogeśvara might either be a personal name (beneficiary) or an epithet of Śiva/a yogic deity.",
+ "_meta": {
+  "reel": "A 1290/12",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 788,
+  "out_tok": 1599
+ }
+}

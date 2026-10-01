@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name: 'Śrīharṣa' changed to 'Harṣa' (honorific śrī- removed per convention) and confidence lowered to medium, since Śrīharṣa as a full personal name cannot be ruled out",
+   "Notes expanded: both eras checked (ŚS 1728+78 = VS 1863−57 = 1806 CE, consistent); scribe's name ambiguity documented"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīharṣopādhyāyasya",
+   "name": "Harṣa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīharṣopādhyāyasya hastakauśalam",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1728 saṃvat 1863 miti jyeṣṭhaśudi 12",
+  "era": "ŚS",
+  "year": "1728",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "12",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1806"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives two eras: Śaka 1728 and saṃvat 1863 (Vikrama). They agree: 1728+78 = 1863−57 = 1806 CE. Jyeṣṭha śukla 12 falls around May–June 1806. Scribe's name: 'śrīharṣopādhyāya' can be read either as śrī + Harṣa + upādhyāya or as the full personal name Śrīharṣa (cf. the catalogue entry 'Śrīharṣopādhyāya'). Harṣa has been given here with the honorific stripped, but Śrīharṣa is equally possible. 'hastakauśalam' (handiwork) marks him only as the scribe; no commissioner or owner is named.",
+ "_meta": {
+  "reel": "B 80/6",
+  "model": "opus",
+  "cost_usd": 0.07183800000000001,
+  "secs": 13.4
+ }
+}

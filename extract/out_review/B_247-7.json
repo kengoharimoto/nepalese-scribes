@@ -1,0 +1,33 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Added to notes: the era is only 'saṃvat', and VS was inferred from the Devanagari script and the late Nepalese context."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat || 18 || 43 || kārttikakṛṣṇa || 5 || bhṛguvāsare ||",
+  "era": "VS",
+  "year": "1843",
+  "month": "kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "bhṛguvāsara (Friday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1786"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives the date as SAM 1846, but the colophon reads saṃvat 18|43, so 1843. The colophon names no era. It is taken as VS because of the Devanagari script and the period, which gives 1786 CE (Oct/Nov). The colophon names no scribe, owner or place.",
+ "_meta": {
+  "reel": "B 247/7",
+  "model": "opus",
+  "cost_usd": 0.058826,
+  "secs": 9.3
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "parmmadhra",
+   "name": "Padmadhara",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "makhanabāhāla",
+   "evidence": "dānapati makhanabāhālayā, vajrācārya parmmadhra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dharmadhralena",
+   "name": "Dharmadhara",
+   "roles": [
+    "scribe",
+    "donor",
+    "owner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "ratnakṛtivihāla",
+   "residence": "makhanabāhāla",
+   "evidence": "vajrācāṛya dharmadhralena, tha(va)ta, vyākhyānayā yayā taco yā julo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "brother_of",
+   "to": "p1",
+   "evidence": "parmmadhrabhābhṛ,vajrācāṛya dharmmadhra"
+  }
+ ],
+ "date": {
+  "as_written": "sa〈ṃ〉mvat 819 ākhāḍhakṛṣṇa 13",
+  "era": "NS",
+  "year": "819",
+  "month": "ākhāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1699"
+ },
+ "place": {
+  "as_written": "makhanabāhālayā",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "svārtha (thavata vyākhyānayā yayā taco yā julo)",
+ "notes": "NS 819 corresponds to c. 1699 CE. 'parmmadhra' is a characteristic Newari scribal spelling of Padmadhara (or Paramadhara). The corrupt word 'bhābhṛ' directly following 'parmmadhra' and preceding 'vajrācāṛya dharmmadhra' is almost certainly a misreading or scribal corruption of 'bhrātṛ' (brother). Makhan Bāhāl in Kathmandu is the popular name of Ratnakīrti Mahāvihāra. Scribe Vajrācārya Dharmadhara produced/kept the manuscript for his own use ('thavata vyākhyānayā').",
+ "_meta": {
+  "reel": "A 112/10",
+  "model": "gemini-flash-latest",
+  "secs": 36.0,
+  "in_tok": 852,
+  "out_tok": 8017
+ }
+}

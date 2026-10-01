@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "durgādattena",
+   "name": "Durgādatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ durgādattena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "yavanā(3)cārya",
+   "name": "Yavanācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yavanā(3)cāryamate",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1912 adhikāṣāḍhakṛºº 3 gurau",
+  "era": "VS",
+  "year": "1912",
+  "month": "adhikāṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "3",
+  "weekday": "gurau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1855"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 419/23",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 694,
+  "out_tok": 1059
+ }
+}

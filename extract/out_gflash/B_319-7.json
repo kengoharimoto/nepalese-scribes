@@ -1,0 +1,104 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "narabhūpāla",
+   "name": "Narabhūpāla",
+   "roles": [
+    "king",
+    "relative_only"
+   ],
+   "titles": [
+    "gorṣādhīśvara",
+    "bhūpāla"
+   ],
+   "affiliation": "",
+   "residence": "Gorkha",
+   "evidence": "gorṣādhīśvarabhūpālanarabhūpālapautra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīkṛṣṇasāha",
+   "name": "Śrīkṛṣṇasāha",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "kumāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanmahoddāmakīrttikumāraśrīmacchrīkṛṣṇasāhakāritā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rāmahṛdaya",
+   "name": "Rāmahṛdaya",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paṇḍitaśiromaṇi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadrāmahṛdayapaṇḍitaśiromaṇisūnu",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "vāṇīvilāsa",
+   "name": "Vāṇīvilāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vāṇīvilāsakaviviracirā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "grandson_of",
+   "to": "p1",
+   "evidence": "narabhūpālapautraśrīmanmahoddāmakīrttikumāraśrīmacchrīkṛṣṇasāha"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "rāmahṛdayapaṇḍitaśiromaṇisūnuvāṇīvilāsa"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Colophon of composition: Kumāra Śrīkṛṣṇa Sāha (grandson of King Narabhūpāla Shah of Gorkha) patronised the composition, which was authored by Vāṇīvilāsa, son of Rāmahṛdaya.",
+ "_meta": {
+  "reel": "B 319/7",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 745,
+  "out_tok": 1763
+ }
+}

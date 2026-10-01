@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīvaccharudreṇa",
+   "name": "Vaccharudra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paṇḍitācārya"
+   ],
+   "affiliation": "",
+   "residence": "śrīśītāṭyāṃ śrībālambūśaṇḍhakārṣṭāśvapoṃbrumāyām",
+   "evidence": "śrīśrīvaccharudreṇa ... likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "paṃṇḍitācāryaśrīkāmadevarudra",
+   "name": "Kāmadevarudra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paṇḍitācārya"
+   ],
+   "affiliation": "",
+   "residence": "śrīśītāṭyāṃ śrībālambūśaṇḍhakārṣṭāśvapoṃbrumāyām",
+   "evidence": "paṃṇḍitācāryaśrīkāmadevarudrātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "kāmadevarudrātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "saṃ 308 dvirāśāḍhakṛṣṇanavaṃmyāṃ budhavāre rohiṇīnakṣatre",
+  "era": "NS",
+  "year": "308",
+  "month": "dvirāśāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "rohiṇī",
+  "ce_approx": "1188"
+ },
+ "place": {
+  "as_written": "śrīśītāṭyāṃ śrībālambūśaṇḍhakārṣṭāśvapoṃbrumāyām",
+  "normalized": "Balambu"
+ },
+ "purpose": "svaparārthaheto",
+ "notes": "",
+ "_meta": {
+  "reel": "A 59/13",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 946,
+  "out_tok": 1599
+ }
+}

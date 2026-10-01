@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "govindavatāsana",
+   "name": "Govinda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vatāsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "govindavatāsana co julo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 969 caitravadi roja 4",
+  "era": "NS",
+  "year": "969",
+  "month": "caitra",
+  "paksa": "vadi",
+  "tithi": "",
+  "weekday": "roja 4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1849"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Vatāsa is the Newar caste name Udās/Urāy; 'co julo' in Newari signifies 'written'.",
+ "_meta": {
+  "reel": "A 147/5",
+  "model": "gemini-flash-latest",
+  "secs": 6.8,
+  "in_tok": 824,
+  "out_tok": 1262
+ }
+}

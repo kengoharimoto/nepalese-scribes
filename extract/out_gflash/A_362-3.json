@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivalāla pāṭhaka",
+   "name": "Śivalāla",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "pāṭhaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śivalāla pāṭhaka pādānuyāyi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaṭṭadevarāma",
+   "name": "Devarāma",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭadevarāma saṃgṛhīte śrīmadrāmāyaṇīya viṣamapadavyākhyāne",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śivalāla pāṭhaka pādānuyāyi bhaṭṭadevarāma"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1900 kārttika vadi 2",
+  "era": "VS",
+  "year": "1900",
+  "month": "kārttika",
+  "paksa": "vadi",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1843"
+ },
+ "place": {
+  "as_written": "kāśikāṃ madhye śrī rāmacaṃdra āleye",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "svapāṭārthaṃ",
+ "notes": "The catalogue records the scribe as Rādhākṛṣṇa, who does not appear in this colophon excerpt (likely named on another folio or flyleaf). Devarāma is the compiler/author of the commentary (Viṣamapadavyākhyāna).",
+ "_meta": {
+  "reel": "A 362/3",
+  "model": "gemini-flash-latest",
+  "secs": 9.0,
+  "in_tok": 836,
+  "out_tok": 2318
+ }
+}

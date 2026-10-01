@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1788 samvat 1923 miti jyeṣṭā(!)dhikaśudi 1 roja 3",
+  "era": "VS",
+  "year": "1923",
+  "month": "jyeṣṭha (adhika)",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "Tuesday (roja 3)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1866"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives both Śaka 1788 and Vikrama Saṃvat 1923 (1866 CE), but mentions no scribe, commissioner, or other human individuals.",
+ "_meta": {
+  "reel": "A 1073/12",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 751,
+  "out_tok": 1173
+ }
+}

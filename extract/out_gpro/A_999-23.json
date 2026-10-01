@@ -1,0 +1,83 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgaṃgādharaśarmmaṇā",
+   "name": "Gaṅgādhara",
+   "roles": [
+    "author",
+    "commentator"
+   ],
+   "titles": [
+    "śarmā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgaṃgādharaśarmmaṇā viracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīgaṇapatiśarmmaṇaḥ",
+   "name": "Gaṇapati",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "śarmā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgaṇapatiśarmmaṇaḥ putraḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīdevaśaṅkaraśarmmāmūṃ",
+   "name": "Devaśaṅkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarmā",
+    "viprakulodbhava"
+   ],
+   "affiliation": "",
+   "residence": "svanimhavantāgṛha",
+   "evidence": "svanimhavantāgṛhanivāsito viprakulodbhavaḥ śrīgaṇapatiśarmmaṇaḥ putraḥ śrīdevaśaṅkaraśarmmāmūṃ gaṅgādharīṭīkām alīlikhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīgaṇapatiśarmmaṇaḥ putraḥ śrīdevaśaṅkaraśarmmā"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 823 āśvinamāse kṛṣṇapakṣe daśamyāṃ tithāv ādityavāre",
+  "era": "NS",
+  "year": "823",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1703"
+ },
+ "place": {
+  "as_written": "svanimhavantāgṛha",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The string 'śrīdevaśaṅkaraśarmmāmūṃ' is a sandhi of 'śrīdevaśaṅkaraśarmmā amūṃ' (amūṃ meaning 'this').",
+ "_meta": {
+  "reel": "A 999/23",
+  "model": "gemini-pro-latest",
+  "secs": 11.6,
+  "in_tok": 797,
+  "out_tok": 1585
+ }
+}

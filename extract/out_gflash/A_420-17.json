@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīviśvanāthamiśra",
+   "name": "Viśvanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīviśvanāthamiśrasaṃgṛhī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1849 vaiśākhaśuklapakṣa duijī",
+  "era": "VS",
+  "year": "1849",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "duijī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1792"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe refers to himself anonymously ('mayā'). Viśvanātha Miśra is the compiler/author of the Muhūrttanirṇaya.",
+ "_meta": {
+  "reel": "A 420/17",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 805,
+  "out_tok": 933
+ }
+}

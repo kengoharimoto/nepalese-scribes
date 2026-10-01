@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "guṇanidhiśarmaṇā arjyālakena",
+   "name": "Guṇanidhi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman",
+    "arjyālaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ idaṃ pustakaṃ guṇanidhiśarmaṇā arjyālakena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1754 māse 6",
+  "era": "ŚS",
+  "year": "1754",
+  "month": "6",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1832"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's clan or family name (thar) is given as arjyālaka (Arjyal/Aryal).",
+ "_meta": {
+  "reel": "A 422/14",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 718,
+  "out_tok": 709
+ }
+}

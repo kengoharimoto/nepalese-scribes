@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmajjayaraṇajitmalladeva",
+   "name": "Jayaraṇajitmalladeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śrīmajjayaraṇajitmalladevakṛtā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmajjayabhūpatīndramalladeva",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śrīmajjayabhūpatīndramalladevātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīmajjayabhūpatīndramalladevātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The quoted colophon excerpt is the authorial closing rubric naming King Jayaraṇajitmalla as the composer and King Jayabhūpatīndramalla as his father; the date NS 886 mentioned in the catalogue record does not appear in the quoted text.",
+ "_meta": {
+  "reel": "B 325/23",
+  "model": "gemini-flash-latest",
+  "secs": 8.7,
+  "in_tok": 729,
+  "out_tok": 1751
+ }
+}

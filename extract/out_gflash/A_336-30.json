@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhavanāthaśarmaṇā",
+   "name": "Bhavanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "kāṣṭamaṃḍapa",
+   "evidence": "likhitam idaṃ bhavanāthaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1957 sāla miti mārgaśudi 8 ro. 6",
+  "era": "VS",
+  "year": "1957",
+  "month": "mārga",
+  "paksa": "śudi",
+  "tithi": "8",
+  "weekday": "ro. 6",
+  "nakshatra_yoga": "",
+  "ce_approx": "1900"
+ },
+ "place": {
+  "as_written": "kāṣṭamaṃḍapa",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "śrīman nārāyaṇārpaṇam astu",
+ "notes": "",
+ "_meta": {
+  "reel": "A 336/30",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 797,
+  "out_tok": 828
+ }
+}

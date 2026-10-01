@@ -1,0 +1,89 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahārājādhirājaparameśvaraparamabhaṭṭārakaśrīmadabhayamalladevasya",
+   "name": "Abhayamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājādhirājaparameśvaraparamabhaṭṭārakaśrīmadabhayamalladevasya rājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jayatarāmasya",
+   "name": "Jayatarāma",
+   "roles": [
+    "commissioner",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "śrībhaktāpuri",
+   "evidence": "śrībhaktāpurinivāśine jayatarāmasya pāṭhanimittena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bhallokaüdayaharṣavarmeṇa",
+   "name": "Udayaharṣa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhalloka",
+    "varman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhallokaüdayaharṣavarmeṇa likhitam idaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "jayatarāmasya pāṭhanimittena bhallokaüdayaharṣavarmeṇa likhitam idaṃ"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "mahārājādhirājaparameśvaraparamabhaṭṭārakaśrīmadabhayamalladevasya rājye | || ... bhallokaüdayaharṣavarmeṇa likhitam"
+  }
+ ],
+ "date": {
+  "as_written": "nepālasamvatsare bāṇaśailaharāṃnukaṃ | māse caitraśuklatrayodaśyāṃ | somavāsare",
+  "era": "NS",
+  "year": "375",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "somavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1255"
+ },
+ "place": {
+  "as_written": "śrībhaktāpuri",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "pāṭhanimittena (for the reading of Jayatarāma)",
+ "notes": "Chronogram: bāṇa (5), śaila (7), hara (3) = NS 375. 'bhalloka' prefixed to Udayaharṣavarman is treated as a title/clan name or locality designation.",
+ "_meta": {
+  "reel": "A 1311/18",
+  "model": "gemini-flash-latest",
+  "secs": 8.7,
+  "in_tok": 828,
+  "out_tok": 2253
+ }
+}

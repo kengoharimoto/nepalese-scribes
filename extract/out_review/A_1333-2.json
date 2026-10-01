@@ -1,0 +1,47 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. Added a note that the era is only 'saṃvat', so VS is an assumption, and that 'śrīyaṃ bhūyāt' is a formula for 'śrīr bhūyāt'."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śaṃkarād enaṃ",
+   "name": "Śaṅkarānanda",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śaṃkarād enaṃ viracitā kaivalyopaniṣaddīpikā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1868",
+  "era": "VS",
+  "year": "1868",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1811"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'śaṃkarād enaṃ' is a corruption or misreading of 'śaṃkarānandena': Śaṅkarānanda is the known author of the Kaivalyopaniṣaddīpikā. No scribe or other person of this copy is named. The era is written only as 'saṃvat'. VS is assumed because the manuscript is in Devanagari and the number 1868 is in the expected range (CE 1811). ŚS 1868 (CE 1946) cannot be ruled out. 'śrīyaṃ bhūyāt' stands for 'śrīr bhūyāt', and 'rāma rāma' is a closing invocation, not a person.",
+ "_meta": {
+  "reel": "A 1333/2",
+  "model": "opus",
+  "cost_usd": 0.063398,
+  "secs": 10.3
+ }
+}

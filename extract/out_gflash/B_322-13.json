@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgaṇapatiśarmaṇo",
+   "name": "Gaṇapatiśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgaṇapatiśarmaṇo lekhakasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śubhaṃ bhūri bhavatu śrīgaṇapatiśarmaṇo lekhakasya",
+ "notes": "",
+ "_meta": {
+  "reel": "B 322/13",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 674,
+  "out_tok": 699
+ }
+}

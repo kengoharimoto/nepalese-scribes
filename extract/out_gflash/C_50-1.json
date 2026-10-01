@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 526 caitra (vadi) 5",
+  "era": "NS",
+  "year": "526",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1406"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons (scribe, patron, or king) are named in the colophon.",
+ "_meta": {
+  "reel": "C 50/1",
+  "model": "gemini-flash-latest",
+  "secs": 2.9,
+  "in_tok": 684,
+  "out_tok": 391
+ }
+}

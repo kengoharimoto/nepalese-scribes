@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīravirājopādhyāna",
+   "name": "Ravirāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīravirājopādhyāna coyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "955 cai. Va. 7 ro",
+  "era": "NS",
+  "year": "955",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "7",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1835"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Written in Newari: 'coyā' ('written by'), with the agentive suffix '-na' in 'śrīravirājopādhyāna'.",
+ "_meta": {
+  "reel": "A 973/17",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 662,
+  "out_tok": 651
+ }
+}

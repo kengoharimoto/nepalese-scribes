@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "lohaniśivanidhinā",
+   "name": "Śivanidhi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "lohani"
+   ],
+   "affiliation": "",
+   "residence": "gaṃdaki nikaṭe hekalāgagrāme",
+   "evidence": "lohaniśivanidhinā liṣitaṃ pustakam idaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1691 māse phālgunaśudi 13",
+  "era": "ŚS",
+  "year": "1691",
+  "month": "phālguna",
+  "paksa": "śudi",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1770"
+ },
+ "place": {
+  "as_written": "gaṃdaki nikaṭe hekalāgagrāme",
+  "normalized": "Heklang"
+ },
+ "purpose": "sāmvaśivārpaṇam astu",
+ "notes": "Lohanī is a Nepali Brahmin family/caste surname. Hekalāga likely refers to Heklang (near the Kali Gandaki river in Palpa/Syangja, western Nepal).",
+ "_meta": {
+  "reel": "B 206/9",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 811,
+  "out_tok": 981
+ }
+}

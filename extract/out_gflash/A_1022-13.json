@@ -1,0 +1,98 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnārāyaṇakṛṣṇena",
+   "name": "Nārāyaṇakṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnārāyaṇakṛṣṇena liṣiti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "trīnārāyaṇakṛṣṇasya",
+   "name": "Trinārāyaṇakṛṣṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "trīnārāyaṇakṛṣṇasya kaniṣṭa bhrāta",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "ā 3 dhārā",
+   "name": "Āśādhāra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ā 3 dhārāputra",
+   "confidence": "low"
+  },
+  {
+   "pid": "p4",
+   "as_written": "bhāju narasiṃhavaidyasya",
+   "name": "Narasiṃha",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "bhāju",
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāju narasiṃhavaidyasya liṣtamidaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "brother_of",
+   "to": "p2",
+   "evidence": "trīnārāyaṇakṛṣṇasya kaniṣṭa bhrāta"
+  },
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "ā 3 dhārāputra trīnārāyaṇakṛṣṇasya kaniṣṭa bhrāta (!) śrīnārāyaṇakṛṣṇena"
+  }
+ ],
+ "date": {
+  "as_written": "jyeṣṭa (!) māse śukle pakṣe pūrṇamāsyāyāṃ tīthau (!) maṃgalavārasare (!) ... saṃvat 975 jyeṣṭa śudi",
+  "era": "NS",
+  "year": "975",
+  "month": "Jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "maṅgalavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1855"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtha (thava yata cvayākula)",
+ "notes": "The colophon contains two scribal statements: the first credits Śrīnārāyaṇakṛṣṇa (younger brother of Trinārāyaṇakṛṣṇa and son of Ā[śā]dhāra), while an addition at the end states 'bhāju narasiṃhavaidyasya liṣtamidaṃ' (whom the catalogue lists as scribe).",
+ "_meta": {
+  "reel": "A 1022/13",
+  "model": "gemini-flash-latest",
+  "secs": 24.7,
+  "in_tok": 985,
+  "out_tok": 5883
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Author's name normalized from 'Cuṃḍa' to 'Cuṇḍa' (the anusvāra before ḍ stands for ṇ).",
+   "Bhinakhvāra's evidence now also cites the Sanskrit verse 'raṃmyāsyākhyena (!) dhīmatāḥ (!) || vyalekhīdaṃ'.",
+   "Purpose rewritten in normalized form, with a note that the reading is uncertain.",
+   "Notes expanded: chronogram checked, Newari passage explained, catalogue place and king fields flagged as not supported by the colophon.",
+   "Date and the rest of the first reading confirmed."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāyasthacuṃḍa",
+   "name": "Cuṇḍa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāyasthacuṃḍakṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vaidya bhinakhvāra(2)na; raṃmyāsyākhyena",
+   "name": "Bhinakhvāra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vaidya bhinakhvāra(2)na, thva jvarastimirabhāskara (!) nāma grantha coya sidhakādina",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "rasāṣṭavasbhir llakṣye, yāte nepālahāyane || māghe māsy aśite pakṣe, dvādaśyāṅ guruvāsare || ... samvat 886 māghakṛṣṇayā dvādasi,(!) bṛhaspatīvāra",
+  "era": "NS",
+  "year": "886",
+  "month": "Māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādaśī",
+  "weekday": "bṛhaspativāra (guruvāra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1766"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "hitārthāya, sutārthaṃ jagatāṃ mudā: for the benefit (of the world) and for his son's sake (reading uncertain)",
+ "notes": "The chronogram rasa (6), aṣṭa (8), vasu (8), read right to left, gives NS 886. This matches 'samvat 886' in the Newari part. Māgha kṛṣṇa of NS 886 falls in early 1766 CE. The weekday was not checked by calculation.\n\nThe Sanskrit verse names the scribe 'ramyāsya' (corrupt 'raṃmyāsyākhyena dhīmatāḥ'). This is a Sanskrit rendering of the Newari name Bhinakhvāra: bhina = good/beautiful, khvāra = face. The '-na' in 'bhinakhvārana' is the Newari ergative ending.\n\nThe Newari note says the copy was finished at a time of hardship: the Gorkhalis set up posts at Kindol (kiṃdosa) and Segu (segusa, probably the Svayambhū area) and surrounded the country. This fits the Gorkha siege of the Kathmandu Valley in 1766.\n\nThe catalogue gives Yoginīpattana as the place and Rājamalla as the king. Neither appears in the quoted colophon, so both are left empty here. Also, in NS 886 Kathmandu was ruled by Jayaprakāśa Malla, so the catalogue's king field is doubtful.\n\n'sutārthaṃ' could mean 'for his son'. No son is named, and no owner is stated.",
+ "_meta": {
+  "reel": "A 224/7",
+  "model": "opus",
+  "cost_usd": 0.094322,
+  "secs": 20.8
+ }
+}

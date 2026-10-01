@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "veṇidharaśarmaṇaḥ",
+   "name": "Veṇīdhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitam idaṃ pustakaṃ veṇidharaśarmaṇaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1950 sāla mārgasirṣavadi 14 roja4",
+  "era": "VS",
+  "year": "1950",
+  "month": "mārgasirṣa",
+  "paksa": "vadi",
+  "tithi": "14",
+  "weekday": "roja4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1893"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Genitive 'veṇidharaśarmaṇaḥ' with 'liṣitam idaṃ pustakaṃ' indicates the scribe (or possibly scribe-owner).",
+ "_meta": {
+  "reel": "A 1011/1",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 752,
+  "out_tok": 902
+ }
+}

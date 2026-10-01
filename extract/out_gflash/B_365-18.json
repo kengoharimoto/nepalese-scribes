@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jaya bhūpatīndramalladevasana",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījaya bhūpatīndramalladevasana cukacāsa deva pratiṣṭhā siddhāgni ayutāhuti yajña yāṅāyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 825 bhādrapada śukla daśamī mūla śanīścaravārakuhnu",
+  "era": "NS",
+  "year": "825",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "śanīścaravāra",
+  "nakshatra_yoga": "mūla",
+  "ce_approx": "1705"
+ },
+ "place": {
+  "as_written": "cukacāsa",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "cukacāsa deva pratiṣṭhā siddhāgni ayutāhuti yajña",
+ "notes": "The manuscript was copied/used for the installation of deities and the ayutāhuti yajña performed by King Jayabhūpatīndramalla at Cukacā (a courtyard in the Bhaktapur palace).",
+ "_meta": {
+  "reel": "B 365/18",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 788,
+  "out_tok": 1172
+ }
+}

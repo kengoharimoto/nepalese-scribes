@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Normalized paksa to 'śukla', tithi to 'dvitīyā (followed by tṛtīyā)', weekday to 'Monday (somavāra)'.",
+   "Separated nakshatra and yoga, and identified 'valiyāna' as the yoga Varīyān.",
+   "Expanded the notes on the Newari scribal formula and the fragmentary 'iti sa(‥)yā'.",
+   "Scribe identification, NS era and ce_approx 1800 confirmed."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñakīrttinārāyanana",
+   "name": "Kīrtinārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñakīrttinārāyanana, coya dhunakā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 920 māghamāse śuklapakṣe || dvitīyāparatṛtīyāyāṃn tithau || śatabhiṣānakṣatre || valiyānayoge (!) || somavāsare",
+  "era": "NS",
+  "year": "920",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "dvitīyā (followed by tṛtīyā)",
+  "weekday": "Monday (somavāra)",
+  "nakshatra_yoga": "nakṣatra Śatabhiṣā; yoga Varīyān (written valiyāna)",
+  "ce_approx": "1800"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The Newari formula 'thva kuhnu … daivajñakīrttinārāyanana coya dhunakā juro' means 'on this day … the writing was completed by the astrologer (daivajña) Kīrtinārāyaṇa'. In 'nārāyanana', the final '-na' is the Newari ergative ending. 'iti sa(‥)yā' before the name is fragmentary and may be the end of a phrase or an epithet; it is not read as a separate person. The 'yādṛśaṃ…' and 'bhagnapṛṣṭha…' verses are standard scribal verses. NS 920 Māgha corresponds to about January–February 1800 CE. The catalogue fields agree with this reading.",
+ "_meta": {
+  "reel": "A 423/14",
+  "model": "opus",
+  "cost_usd": 0.071398,
+  "secs": 14.6
+ }
+}

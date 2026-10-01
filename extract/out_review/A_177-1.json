@@ -1,0 +1,79 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2: 'dasakhata' read as Hindi dastkhat 'handwriting/signature' (not part of the name); name kept as Guravakaśa, probably the Hindi name Gurbakhś (Gurubakhśa); confidence lowered to medium because the reading is not certain",
+   "p2: residence given as written (Kāśī) and normalized to Vārāṇasī in place",
+   "date: month normalized to Mārgaśīrṣa (agahana); paksa normalized to kṛṣṇa (badī); weekday to Saturday (śanaiścara)",
+   "place: normalized spelled Vārāṇasī",
+   "notes: expanded on dastkhat, the pūrṇimānta month reckoning, and the unclear 'arīparaḥ cīraṃjīvīnāmaḥ'"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahīdharaviracite",
+   "name": "Mahīdhara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanmahīdharaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "guravakaśa",
+   "name": "Guravakaśa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "Kāśī",
+   "evidence": "līkhāḥ (!) dasakhataguravakaśakāethaḥ kāsī madheyī",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "cīraṃjīvīnāmaḥ",
+   "name": "Cirañjīvī",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "arīparaḥ cīraṃjīvīnāmaḥ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1824 mīti (!) agahanabadī 1 vārasanīścarake",
+  "era": "VS",
+  "year": "1824",
+  "month": "Mārgaśīrṣa (agahana)",
+  "paksa": "kṛṣṇa (badī)",
+  "tithi": "1",
+  "weekday": "Saturday (sanīścara)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1767"
+ },
+ "place": {
+  "as_written": "kāsī madheyī",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The colophon is in Hindi. 'mīti' is miti and 'līkhāḥ' is likhā. 'dasakhata' is dastkhat, 'handwriting/signature', so the phrase reads 'written in the hand of Guravakaśa (probably Gurbakhś) Kāyastha (kāetha), in Kāśī (kāsī madhye)'. The era is not named: 'saṃvat' with a Hindi date formula (agahana badī) points to Vikrama. Under the North Indian pūrṇimānta reckoning, Agahana badī 1 falls about late October or November 1767 CE. I did not verify the weekday. 'arīparaḥ cīraṃjīvīnāmaḥ' is unclear. It may name a locality in Kāśī (Haripura?) and a person Cirañjīvī, perhaps the owner or beneficiary. It may also be a corrupt blessing formula (cirañjīvī). Cirañjīvī is therefore recorded with role 'other' and low confidence.",
+ "_meta": {
+  "reel": "A 177/1",
+  "model": "opus",
+  "cost_usd": 0.089062,
+  "secs": 20.6
+ }
+}

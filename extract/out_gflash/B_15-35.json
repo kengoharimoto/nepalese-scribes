@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayeśvaro jayadevo jayamaṅgala",
+   "name": "Jayamaṅgala",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yasya khyāti(!) tridhā loke kṛte(!) yatnena pañjikā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat tra hṛ e caitrakṛṇa 3 aṃgāravāsare",
+  "era": "NS",
+  "year": "651",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "3",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1531"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is expressed in letter-numerals (akṣarapallī): tra hṛ e = 651. The verse identifies the commentator as known by three names: Jayeśvara, Jayadeva, and Jayamaṅgala.",
+ "_meta": {
+  "reel": "B 15/35",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 1000,
+  "out_tok": 1658
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pralhādasarmaṇe vrāhmaṇāyaḥ",
+   "name": "Pralhādaśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vrāhmaṇa",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ pralhādasarmaṇe vrāhmaṇāyaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1762 śrīvikramāditya saṃvat 1897 sāla miti aśvana śudi 8 roja 1",
+  "era": "VS",
+  "year": "1897",
+  "month": "aśvana",
+  "paksa": "śudi",
+  "tithi": "8",
+  "weekday": "roja 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1840"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śāka 1762 and Vikrama Saṃvat 1897 are specified, which correspond consistently to 1840 CE.",
+ "_meta": {
+  "reel": "A 1305/4",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 755,
+  "out_tok": 855
+ }
+}

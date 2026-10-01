@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ʼntakrśariḥ",
+   "name": "Anantakeśarin",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitāʼntakrśariḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "aṣṭāṃkasvarasaṃyāte mārggakṛṣṇe śubhetvadaḥ | caturddaśyāṃ gurorvvāre",
+  "era": "NS",
+  "year": "798",
+  "month": "Mārgaśīrṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturdaśī",
+  "weekday": "guruvāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1677"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram aṣṭāṃkasvara gives 798 (aṣṭa = 8, aṅka = 9, svara = 7). The scribe's name is written irregularly/corruptly as ʼntakrśariḥ, reconstructed in the catalogue as Anantakeśarī.",
+ "_meta": {
+  "reel": "B 238/13",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 729,
+  "out_tok": 1399
+ }
+}

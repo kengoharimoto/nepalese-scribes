@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadāvanti(4)kācāryaśrīvarāhamihira",
+   "name": "Varāhamihira",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "āvantikācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadāvanti(4)kācāryaśrīvarāhamihirakṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The number 2281 appears to indicate the grantha/śloka count (saṃkhyā).",
+ "_meta": {
+  "reel": "A 425/14",
+  "model": "gemini-flash-latest",
+  "secs": 3.1,
+  "in_tok": 701,
+  "out_tok": 587
+ }
+}

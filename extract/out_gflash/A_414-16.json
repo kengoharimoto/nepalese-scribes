@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vyāsa dīnānāthena",
+   "name": "Dīnānātha",
+   "roles": [
+    "scribe",
+    "reader"
+   ],
+   "titles": [
+    "vyāsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ vyāsa dīnānāthena | ātmapaṭhanārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1894 varṣeśake 1759 caitraśukla | 1",
+  "era": "VS",
+  "year": "1894",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1837"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "ātmapaṭhanārtham",
+ "notes": "Both Vikrama Saṃvat (1894) and Śaka Saṃvat (1759) are stated.",
+ "_meta": {
+  "reel": "A 414/16",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 763,
+  "out_tok": 945
+ }
+}

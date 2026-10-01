@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrī ///⁅lla⁆devasya",
+   "name": "…malladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīrājāddhirājaḥ śrīśrī ///⁅lla⁆devasya vijayarāje",
+   "confidence": "low"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrījaya ///",
+   "name": "Jaya…",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "Vūvahāra (Bu Bahāḥ?)",
+   "residence": "Lalitabrumā (Lalitapattana/Patan), western part",
+   "evidence": "śrīvūvahāravaidyaḥ śrījaya ///⁅pusta⁆ko yaṃ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "vijayarāje"
+  }
+ ],
+ "date": {
+  "as_written": "samvat minarituśra /// ekadaśīpradvādasya tithau | jeṣṭapramūlanakṣatre || guruvāsare",
+  "era": "unspecified",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "ekādaśī/dvādaśī",
+  "weekday": "Thursday (guruvāra)",
+  "nakshatra_yoga": "Jyeṣṭhā / Mūla",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "śrīlalitabrumāyā ... paścimasthaḥ śrīvūvahāra",
+  "normalized": "Patan"
+ },
+ "purpose": "ownership statement (pustako 'yam)",
+ "notes": "The year is given as a word-numeral chronogram, \"minarituśra…\" (perhaps mīna? + ṛtu = 6 + …), and is cut off, so the year and era cannot be worked out. Era assumed NS but not stated. The king's name is lost except for the ending \"…lladeva\", so he was a Malla king. \"Lalitabrumā\" is a corrupt form of Lalitapattana / Lalitapura (Patan). \"śrāniglakaḥ\" is unclear. \"vūvahāra\" is probably Bu Bahāḥ in Patan. The owner is a vaidya whose name begins \"Jaya…\" and breaks off at a lacuna; the colophon presents him as owner of the book (pustako 'yam), not explicitly as scribe. \"mayā kaṣṭena likhitaḥ\" is a stock verse and names no scribe. The text is called siddhisāra with a nighaṇṭu.",
+ "_meta": {
+  "reel": "A 45/8",
+  "model": "opus",
+  "cost_usd": 0.0688898,
+  "secs": 15.0
+ }
+}

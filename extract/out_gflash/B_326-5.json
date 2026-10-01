@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dāmodarīye",
+   "name": "Dāmodara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dāmodarīye golādeśe",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "lālaratnākaro",
+   "name": "Lālaratnākara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "lāla"
+   ],
+   "affiliation": "",
+   "residence": "Rameṭpura",
+   "evidence": "lālaratnākaro ʼlikha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nakhapurusūraghana 1748 śāke nabhasyeśajanya ho",
+  "era": "ŚS",
+  "year": "1748",
+  "month": "Bhadrapada",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1826"
+ },
+ "place": {
+  "as_written": "rameṭpure",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe wrote 'ʼlikhad rameṭpure' (or drameṭpure); the catalogue suggests possibly Umeśapura (Kāśī). Nabhasya corresponds to the month of Bhādrapada.",
+ "_meta": {
+  "reel": "B 326/5",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 752,
+  "out_tok": 1211
+ }
+}

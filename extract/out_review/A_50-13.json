@@ -1,0 +1,65 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe p2: the name 'Ādinakavi' is not supported. The only name-like element is 'śrī….kavileṣi (!)', probably '…kavir alekhi' ('…kavi wrote'), with the first part of the name lost. 'ādinakaveneti' is too corrupt to read. as_written, name and evidence changed to match; confidence stays low.",
+   "Month normalised to Āṣāḍha (written 'āḍhasya (!)'); weekday normalised to Monday (candravāsara).",
+   "Purpose cleared: '…ārthaṃ likhitaṃ' is cut off before the purpose word (svārtha/parārtha?), so the purpose cannot be stated.",
+   "Notes extended: the closing verse is corrupt, and the LS conversion is uncertain."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmahāmahopādhyā○yaśrīrudradharakṛtaḥ",
+   "name": "Rudradhara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahāmahopādhyā○yaśrīrudradharakṛtaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī….kavileṣi (!)",
+   "name": "…kavi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī….kavileṣi (!) śrā○ddhavivekaḥ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "la saṃ 357 āḍhasya (!) kṛṣṇapakṣe navamasyāṃ candravāsare",
+  "era": "LS",
+  "year": "357",
+  "month": "Āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "navamī",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1476"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name is mostly lost in a lacuna: 'śrī….kavileṣi (!)' is probably '…kavir alekhi' ('…kavi wrote'). 'ādinakaveneti (!)' is unclear; it might hide an instrumental name such as '(…)dinakareṇa' or 'Dinakara' (wild guesses only). Because it is unreadable, no second person is posited from it. '|| ārthaṃ likhitaṃ pustakaṃ' is missing the start of a purpose compound (svārthaṃ/parārthaṃ?). 'āḍhasya' stands for 'āṣāḍhasya'. The closing verse 'asurama.ūni…vahniḥ' is badly corrupt; it may be a stock benediction or a chronogram verse, and no persons can be taken from it. ce_approx uses LS+1119 = 1476; with the other LS epochs that have been proposed (e.g. +1107/1108) the year would be about 1464–1465.",
+ "_meta": {
+  "reel": "A 50/13",
+  "model": "opus",
+  "cost_usd": 0.1326018,
+  "secs": 26.4
+ }
+}

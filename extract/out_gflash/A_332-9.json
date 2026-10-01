@@ -1,0 +1,52 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayapratāpamallaparamabhaṭṭārakadevena",
+   "name": "Jayapratāpamalladeva",
+   "roles": [
+    "king",
+    "author",
+    "commissioner"
+   ],
+   "titles": [
+    "nepāleśvara",
+    "mahārājādhirāja",
+    "vidagdhacūḍāmaṇi",
+    "sakalarājacakrādhīśvara",
+    "rājarājeśvara",
+    "kavīndra",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīrāja(rājeśvaraka)(2)vīndrajayapratāpamallaparamabhaṭṭārakadevena kārttikādinānāvrata nānāmāsamāhātmyasaṃgrahakṛta pustakam iti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 790 śrāvaṇamāse kṛṣṇapakṣaḥ (!) trayodaśi uºº caturddaśyān tithau punarvvas uºº puṣyanakṣatre suddi uºº vyatipāta(yoge) budha(4)vāra",
+  "era": "NS",
+  "year": "790",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī / caturdaśī",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "punarvasu / puṣya nakṣatra, vyatīpāta yoga",
+  "ce_approx": "1670"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "King Pratāpa Malla of Kathmandu is credited with compiling the work (saṃgrahakṛta).",
+ "_meta": {
+  "reel": "A 332/9",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 859,
+  "out_tok": 1422
+ }
+}

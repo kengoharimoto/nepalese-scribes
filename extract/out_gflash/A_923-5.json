@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajradhareṇa",
+   "name": "Vajradhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ʼlikhad vajradhareṇedaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "sūryavyomacandra(vāsa)nemapāle 〈bhṛgu〉[[kāvya]]vāre || śucau site tithau śive",
+  "era": "NS",
+  "year": "1012",
+  "month": "śuci",
+  "paksa": "sita",
+  "tithi": "śiva",
+  "weekday": "bhṛguvāra / kāvyavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1892"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date is expressed as a chronogram: sūrya (12), vyoma (0), candra (1) = NS 1012. Month śuci is Āṣāḍha. Kāvyavāra / Bhṛguvāra indicates Friday.",
+ "_meta": {
+  "reel": "A 923/5",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 768,
+  "out_tok": 1137
+ }
+}

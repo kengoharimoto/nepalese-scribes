@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "appadīkṣitasya",
+   "name": "Appadīkṣita",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "Bharadvājagotra",
+   "residence": "",
+   "evidence": "appadīkṣitasya kṛtir",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīraṅgarājādhvarīṃdra",
+   "name": "Raṅgarājādhvarīndra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "advaitavidyācārya",
+    "adhvarīndra"
+   ],
+   "affiliation": "Bharadvājagotra",
+   "residence": "",
+   "evidence": "śrīraṅgarājādhvarīṃdravaradasūnor",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīraṅgarājādhvarīṃdravaradasūnor appadīkṣitasya"
+  }
+ ],
+ "date": {
+  "as_written": "āśvina śulka (!) vijayadāśamī tad dine ... saṃmat 1895",
+  "era": "VS",
+  "year": "1895",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "vijayādaśamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1838"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ paropakārārthaṃ darśanārthaṃ ca",
+ "notes": "The scribe refers to himself anonymously as a disciple/follower of his guru: 'śrīgurucaraṇasyānucareṇa likhitaḥ'.",
+ "_meta": {
+  "reel": "B 318/1",
+  "model": "gemini-flash-latest",
+  "secs": 7.3,
+  "in_tok": 812,
+  "out_tok": 1660
+ }
+}

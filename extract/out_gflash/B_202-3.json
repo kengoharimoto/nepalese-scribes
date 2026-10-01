@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkālidasana",
+   "name": "Kālidāsa",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkālidasana saṃcaya yāṅā || umeśaprītaye pustaṃ, kālidāsena saṃcitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 758",
+  "era": "NS",
+  "year": "758",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1638"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrī3bhavānīśaṃkaraprītina / umeśaprītaye (for the pleasure of Bhavānī-Śaṅkara / Umeśa)",
+ "notes": "The catalogue lists Kālidāsa as the scribe, but the text states 'kālidasana saṃcaya yāṅā' / 'kālidāsena saṃcitaṃ' (collected/acquired/commissioned the book).",
+ "_meta": {
+  "reel": "B 202/3",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 760,
+  "out_tok": 1052
+ }
+}

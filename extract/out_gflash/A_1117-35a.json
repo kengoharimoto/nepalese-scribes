@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mitradevatṛpāṭhīdvijavareṇa",
+   "name": "Mitradeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "tṛpāṭhī",
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ mitradevatṛpāṭhīdvijavareṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1732 āṣāḍhaśukladvādaśyāṃ bhṛśau",
+  "era": "ŚS",
+  "year": "1732",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "bhṛśau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1810"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "paramārtham",
+ "notes": "The weekday reading 'bhṛśau' is likely a scribal corruption for 'bhṛgau' (Friday).",
+ "_meta": {
+  "reel": "A 1117/35a",
+  "model": "gemini-flash-latest",
+  "secs": 3.3,
+  "in_tok": 737,
+  "out_tok": 771
+ }
+}

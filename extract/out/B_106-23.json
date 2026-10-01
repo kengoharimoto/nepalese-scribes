@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "varjācāryya viśvaratnaṃ",
+   "name": "Viśvaratna",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Jhvābāhāra",
+   "residence": "Taṃrāchitola, Jhvābāhāra",
+   "evidence": "liṣitaṃ taṃrāchitola jhvābāhārayā varjācāryya viśvaratnaṃ coyā thaota dayakā tayā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1021 mti phārguna śukla pūrṇṇemā ṣunaṃ",
+  "era": "NS",
+  "year": "1021",
+  "month": "Phālguna",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1901"
+ },
+ "place": {
+  "as_written": "taṃrāchitola jhvābāhāra",
+  "normalized": ""
+ },
+ "purpose": "svārtha: the scribe wrote it for himself (thaota dayakā tayā); a curse warns others against taking it away",
+ "notes": "\"varjācāryya\" is a scribal metathesis of vajrācārya. Taṃrāchi Ṭola and Jhvābāhāra (Jhvā Bahā) are probably in Kathmandu, but I left the normalized place empty because that isn't certain. \"ṣunaṃ\" after pūrṇṇemā probably stands for \"khunhu\" (day). I don't read it as a weekday. \"thaota\" = \"thao-ta\" (for oneself), so the scribe was also the intended owner. The colophon's date agrees with the catalogue date (NS 1021). The catalogue gives no scribe; the colophon names Viśvaratna.",
+ "_meta": {
+  "reel": "B 106/23",
+  "model": "opus",
+  "cost_usd": 0.0636338,
+  "secs": 11.3
+ }
+}

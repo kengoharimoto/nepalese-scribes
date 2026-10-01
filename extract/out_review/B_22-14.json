@@ -1,0 +1,36 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "date.as_written extended to the full date phrase 'samvata sāla 60 pradovisā || pusā māsa saṃpurṇa bhayā'",
+   "date.month normalized to Pauṣa (as written 'pusā')",
+   "date.tithi: 'pradovisā' is probably not a tithi. It more likely contains 'pra.' (praviṣṭa, solar day of the month) plus a corrupt day numeral. Moved to notes and kept only as an uncertain reading",
+   "notes expanded: the language is Nepali, the year 60 is probably an abbreviated century year (likely VS 19/20[60]), and there are no persons"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvata sāla 60 pradovisā || pusā māsa saṃpurṇa bhayā",
+  "era": "unspecified",
+  "year": "60",
+  "month": "Pauṣa",
+  "paksa": "",
+  "tithi": "pradovisā (uncertain; probably praviṣṭa/solar day, not a lunar tithi)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The colophon names no human persons: no scribe, owner, commissioner or king. The date formula is in Nepali ('samvata sāla 60 ... pusā māsa saṃpurṇa bhayā' = 'completed in the month of Pauṣa, year [..]60'). The year '60' is probably an abbreviated year with the century left out. Nepali 'sāla' dating suggests Vikrama Saṃvat (e.g. VS 1960 = c. 1903 CE), but this cannot be confirmed, so the era is left unspecified and ce_approx is left empty. 'pradovisā' is obscure. It may be 'pra[viṣṭa]' (the solar day count used in Nepali dates) followed by a corrupt day numeral, possibly a misreading of 'bāisa' (22); this is uncertain. The final invocation is corrupt ('brahmaṇe(!)devāya ... sāyāhya' for sāyujya) and has no prosopographical content.",
+ "_meta": {
+  "reel": "B 22/14",
+  "model": "opus",
+  "cost_usd": 0.07352600000000001,
+  "secs": 16.7
+ }
+}

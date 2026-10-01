@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayajitāmitro nṛpo",
+   "name": "Jayajitāmitra",
+   "roles": [
+    "commissioner",
+    "king"
+   ],
+   "titles": [
+    "nṛpa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "samalekhayaj jayajitāmitro nṛpo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "lakṣmīdhareṇa",
+   "name": "Lakṣmīdhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "samalekhayaj jayajitāmitro ... lakṣmīdhareṇākhilaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "samalekhayaj jayajitāmitro nṛpo [ʼ]rātihṛt | ... lakṣmīdhareṇākhilaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "abde śvīndugaje gate sahatamisre pakṣake ke tithāv (arkke) bhe",
+  "era": "NS",
+  "year": "812",
+  "month": "Saha",
+  "paksa": "kṛṣṇa",
+  "tithi": "ke",
+  "weekday": "",
+  "nakshatra_yoga": "(arkke) bhe",
+  "ce_approx": "1691"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram: [a]śvī (2) + indu (1) + gaja (8) = NS 812. King Jayajitāmitra is Jitāmitramalla of Bhaktapur (r. 1673–1696 CE).",
+ "_meta": {
+  "reel": "B 217/10",
+  "model": "gemini-flash-latest",
+  "secs": 8.8,
+  "in_tok": 1019,
+  "out_tok": 1836
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnāgabhaṭṭa",
+   "name": "Nāgabhaṭṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnāgabhaṭṭaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 876 phāguṇavadi 14 aṃgāravāra",
+  "era": "NS",
+  "year": "876",
+  "month": "phāguṇa",
+  "paksa": "vadi",
+  "tithi": "14",
+  "weekday": "aṃgāravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1756"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 156/9",
+  "model": "gemini-flash-latest",
+  "secs": 2.9,
+  "in_tok": 727,
+  "out_tok": 665
+ }
+}

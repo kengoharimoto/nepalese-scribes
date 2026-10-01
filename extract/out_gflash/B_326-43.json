@@ -1,0 +1,78 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśvanātha",
+   "name": "Viśvanātha",
+   "roles": [
+    "commentator",
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viśvanātha viracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "divākarātmaja",
+   "name": "Divākara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajñavarya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñavarya divākarātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "gumāṇīrāmeṇa",
+   "name": "Gumāṇīrāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ gumāṇīrāmeṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "divākarātmaja viśvanātha"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1856 śake 1721 āṣāḍhakṛṣṇaśanau",
+  "era": "VS",
+  "year": "1856",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "",
+  "weekday": "śani",
+  "nakshatra_yoga": "",
+  "ce_approx": "1799"
+ },
+ "place": {
+  "as_written": "kāśyām",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The catalogue records the scribe as Bhumānīrāma, but the colophon reads gumāṇīrāmeṇa. Both Vikrama Samvat 1856 and Śaka 1721 correspond to 1799 CE.",
+ "_meta": {
+  "reel": "B 326/43",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 751,
+  "out_tok": 1341
+ }
+}

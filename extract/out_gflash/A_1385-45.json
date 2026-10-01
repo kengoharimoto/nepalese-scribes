@@ -1,0 +1,77 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "himmati varmaṇa",
+   "name": "Himmativarman",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "sakalarājavipaduddharaṇasamartha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "himmati varmaṇa putrasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīsanma(!) varmaṇaḥ",
+   "name": "Sanmavarman",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "himmati varmaṇa putrasya śrīsanma(!) varmaṇaḥ kṛtāvadhyātma rāmāyaṇa setau",
+   "confidence": "low"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rāmavarmaṇa",
+   "name": "Rāmavarman",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmāyaṇa ṭīkeyaṃ rāmavarmaṇakṛtā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "himmati varmaṇa putrasya śrīsanma(!) varmaṇaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1801 mītīkātīka vaṃda 5 vāraśomā",
+  "era": "VS",
+  "year": "1801",
+  "month": "kātīka",
+  "paksa": "vaṃda",
+  "tithi": "5",
+  "weekday": "śomā",
+  "nakshatra_yoga": "",
+  "ce_approx": "1744"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "rāmārpaṇa",
+ "notes": "The catalogue lists Śrīrāma Varmā as the scribe, but the colophon text ('rāmāyaṇa ṭīkeyaṃ rāmavarmaṇakṛtā' and '...kṛtāvadhyātma rāmāyaṇa setau') clearly indicates that Rāmavarman is the commentator (author of the Setu commentary on the Adhyātmarāmāyaṇa). 'śrīsanma(!) varmaṇaḥ' is likely a scribal or reading error for 'śrīmat-rāmavarmaṇaḥ'. No copyist is explicitly mentioned.",
+ "_meta": {
+  "reel": "A 1385/45",
+  "model": "gemini-flash-latest",
+  "secs": 19.1,
+  "in_tok": 853,
+  "out_tok": 4525
+ }
+}

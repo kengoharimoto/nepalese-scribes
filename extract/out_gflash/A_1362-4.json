@@ -1,0 +1,61 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "puruśottamadeva",
+   "name": "Puruṣottamadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "śābdika",
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śābdika mahāmahopādhyāya puruśottamadeva praṇītā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vālakṛṣṇa śarmaṇā arjyāla padavācyena",
+   "name": "Vālakṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman",
+    "arjyāla"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitamidaṃ pustakaṃ vālakṛṣṇa śarmaṇā arjyāla padavācyena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1921 śrīśāke 1786 māse 6 tithau 2 vāsare 1",
+  "era": "VS",
+  "year": "1921",
+  "month": "6",
+  "paksa": "",
+  "tithi": "2",
+  "weekday": "1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1864"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date specifies both Vikrama Saṃvat 1921 and Śaka Saṃvat 1786 (1864 CE), month 6, tithi 2, weekday 1 (Sunday).",
+ "_meta": {
+  "reel": "A 1362/4",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 805,
+  "out_tok": 1594
+ }
+}

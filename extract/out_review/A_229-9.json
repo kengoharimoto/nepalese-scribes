@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 as_written corrected from the misspelt and truncated 'vimalaprabhodha' to the colophon form 'vimalaprabodhapāda' (with the preceding titles)",
+   "date.year now shows the reading (430?) next to the chronogram words; the right-to-left decoding is set out in notes",
+   "notes expanded: the surauṣadha digit is uncertain, the Durgā-tithi reading is explained, and the scribe is anonymous"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paramahaṃsaparivrājakācāryaśrīśrīvimalaprabodhapāda",
+   "name": "Vimalaprabodha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramahaṃsa",
+    "parivrājakācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paramahaṃsaparivrājakācāryaśrīśrīvimalaprabodhapādaviracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepālahāyane jāte vyomavahni(surauṣadhe) || vaiśākheʼsita durgāyāṃ",
+  "era": "NS",
+  "year": "vyomavahni(surauṣadhe) = 430(?)",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "navamī (durgā; possibly aṣṭamī)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1310"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The chronogram is read right to left: vyoma = 0, vahni = 3, and surauṣadha is the hundreds digit. The catalogue takes that digit as 4, giving NS 430 (about 1310 CE), and marks it '?'. The value of surauṣadha ('the gods' herb', i.e. soma/amṛta) is uncertain. If soma is taken as the moon (= 1), the year would be NS 130, which seems too early. The cataloguer's parentheses suggest the reading itself is unsure. 'asita' means the kṛṣṇapakṣa. As a tithi, Durgā usually stands for navamī, sometimes aṣṭamī. The scribe is anonymous ('likhitaṃ mayā'), so no scribe entry is made. Vimalaprabodha is the author only. The colophon calls the work 'kālīkramārcana', while the catalogue title is 'Kālīkulakramārcana'.",
+ "_meta": {
+  "reel": "A 229/9",
+  "model": "opus",
+  "cost_usd": 0.074338,
+  "secs": 14.9
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "chrīviṣṇudatto",
+   "name": "Viṣṇudatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sudhī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vyalīlikhac chrīviṣṇudatto",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vahnyaṃkagotrābjamiteśake gurau vaiśākhaśukle dyumaṇes tithau",
+  "era": "ŚS",
+  "year": "1793",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "dyumaṇes tithi (7)",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1871"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'vahnyaṃkagotrābja' encodes vahni (3), aṅka (9), gotra (7), abja (1) reversed = Śāke 1793. 'dyumaṇes tithau' refers to the 7th tithi (saptamī, sacred to the sun/dyumaṇi). The catalogue supplies the fuller name 'Paṇḍita Viṣṇudattapantaśarmā', presumably from elsewhere in the manuscript.",
+ "_meta": {
+  "reel": "A 336/33",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 820,
+  "out_tok": 1303
+ }
+}

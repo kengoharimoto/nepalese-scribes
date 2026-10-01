@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayaraṇajinmalladeva",
+   "name": "Jayaraṇajinmalladeva",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayaraṇajinmalladevaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 888 mārgavadī 11 bṛhaspativāra",
+  "era": "NS",
+  "year": "888",
+  "month": "mārga",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1767"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author Jayaraṇajinmalladeva is King Raṇajit Malla of Bhaktapur. The scribe recites the standard scribal excuse (yathādṛṣṭaṃ tathālikhitaṃ...) but does not state their name.",
+ "_meta": {
+  "reel": "B 274/17",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 755,
+  "out_tok": 1000
+ }
+}

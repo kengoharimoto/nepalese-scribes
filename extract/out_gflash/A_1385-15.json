@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvikramānanda",
+   "name": "Vikramānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvikramānandaviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepāli samvat 1035 miti śrāvaṇakṛṣṇatrayodaśi maṃgavārasa",
+  "era": "NS",
+  "year": "1035",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "maṅgalavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1915"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon notes that copying/printing was completed following the teacher's exemplar (gurusaphu vamojim thva saphu chāppe yānā sidhayakayakā dina jula), but names no specific scribe or owner.",
+ "_meta": {
+  "reel": "A 1385/15",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 818,
+  "out_tok": 850
+ }
+}

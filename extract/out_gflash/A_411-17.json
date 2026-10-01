@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "lālaratnākaro",
+   "name": "Lālaratnākara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lālaratnākaro 'līlikhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "netravedādribhūśākake phālgune kuṃbhabhe 'haskare kālapakṣe bhṛgau || bhūtatithyāṃ",
+  "era": "ŚS",
+  "year": "1742",
+  "month": "Phālguna",
+  "paksa": "kṛṣṇa",
+  "tithi": "14",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1821"
+ },
+ "place": {
+  "as_written": "girīśasyapuryām",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The chronogram 'netra-veda-adri-bhū' corresponds to 1742 ŚS. 'girīśasya purī' is an epithet for Kāśī (Vārāṇasī).",
+ "_meta": {
+  "reel": "A 411/17",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 806,
+  "out_tok": 1106
+ }
+}

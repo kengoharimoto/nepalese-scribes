@@ -1,0 +1,87 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadbhāskaradevasya",
+   "name": "Bhāskaradeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "paramabhaṭṭāraka",
+    "mahārājādhirāja",
+    "parameśvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paramabhaṭṭārakamahārājādhirājaparameśvaraśrīmadbhāskaradevasya rājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīlakṣmīparadarśanasya",
+   "name": "Lakṣmīparadarśana",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Dakṣiṇayaddhimaka",
+   "evidence": "śrīlakṣmīparadarśanasya devadharmo yan",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "tilakalacchinā",
+   "name": "Tilakalacchi",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasya bhāryātilakalacchinā〇 sārddhaṃ likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wife_of",
+   "to": "p2",
+   "evidence": "tasya bhāryātilakalacchinā"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīmadbhāskaradevasya rājye || śrīdakṣiṇayaddhimake vāstavya śrīlakṣmīparadarśanasya"
+  }
+ ],
+ "date": {
+  "as_written": "samvat a cu 7 aśvanikṛṣṇaṣaṣṭḥayām buddhadine",
+  "era": "NS",
+  "year": "167",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "6",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1047"
+ },
+ "place": {
+  "as_written": "śrīdakṣiṇayaddhimake",
+  "normalized": ""
+ },
+ "purpose": "devadharma",
+ "notes": "The catalogue reads the donor's name as 'Lakṣmīdharadarśana' and the place as 'Dakṣiṇapaddhimaka', but the colophon text as transcribed reads 'śrīlakṣmīparadarśanasya' and 'śrīdakṣiṇayaddhimake'. The year is given in akṣara numerals: a = 100, cu = 60, 7 = 7 (NS 167).",
+ "_meta": {
+  "reel": "A 1080/3",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 791,
+  "out_tok": 1714
+ }
+}

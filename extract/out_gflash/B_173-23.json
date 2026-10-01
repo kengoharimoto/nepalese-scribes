@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 851 māghavadi 12 śomavāra",
+  "era": "NS",
+  "year": "851",
+  "month": "māgha",
+  "paksa": "vadi",
+  "tithi": "12",
+  "weekday": "śomavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1731"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons are named in the colophon. The scribe is only referenced anonymously in the standard scribal apology formula ('mama doṣo na dīyate'). The fragmentary text 'śrībhīmasya torraṇe bhaṅgamunināñ ca mati...' likely records an external event or verse rather than a participant.",
+ "_meta": {
+  "reel": "B 173/23",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 757,
+  "out_tok": 1310
+ }
+}

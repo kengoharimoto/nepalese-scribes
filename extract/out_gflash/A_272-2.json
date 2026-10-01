@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājadaivajñanarendradhvajeṇa(!)",
+   "name": "Narendradhvaja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "rājadaivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājadaivajñanarendradhvajeṇa(!) likhitaṃ saṃpūrṇakṛtaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1758 samvat 1893 sālam iti vaiśākhaśukla 3 roja 3",
+  "era": "ŚS",
+  "year": "1758 (ŚS) / 1893 (VS)",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "roja 3 (Tuesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1836"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śaka era 1758 and Vikrama Samvat 1893 are provided in the colophon, corresponding to 1836 CE.",
+ "_meta": {
+  "reel": "A 272/2",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 748,
+  "out_tok": 843
+ }
+}

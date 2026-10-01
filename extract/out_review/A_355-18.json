@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. Notes now point out that Ravikara is known as a commentator on the Prākṛtapiṅgala, so the catalogue's 'Scribe: Ravikara' may be a mistake."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "piṃgalācārya",
+   "name": "Piṅgala",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpiṃgalācāryakṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1497",
+  "era": "ŚS",
+  "year": "1497",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1575"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue names Ravikara as the scribe, but the quoted colophon names no scribe. Ravikara is known as the author of a commentary on the Prākṛtapiṅgala, so the catalogue field may have confused the commentator with the scribe. Ravikara has not been added as a person because the quoted text does not mention him. The colophon only marks the end of the second pariccheda ('parichedaḥ (!)'), and the attribution of the work to Piṅgala is the traditional one. ŚS 1497 = c. 1575 CE.",
+ "_meta": {
+  "reel": "A 355/18",
+  "model": "opus",
+  "cost_usd": 0.049627000000000004,
+  "secs": 12.2
+ }
+}

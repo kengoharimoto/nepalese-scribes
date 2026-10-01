@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "ce_approx changed from 1682 to 1681: the Nepāla saṃvat year begins in Kārttika, so Kārttika śukla 14 of NS 802 falls in about October–November 1681 CE",
+   "Added a note on the era reckoning and on the corrupt spelling saṃpūrṇṇa (!) riṣita (!)"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "karmmācāryya nārāyaṇasiṃhana",
+   "name": "Nārāyaṇasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "riṣita (!) (2) karmmācāryya nārāyaṇasiṃhana",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 802 kārttikaśuklacaturddaśi kunhu",
+  "era": "NS",
+  "year": "802",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "caturdaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1681"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is not named ('saṃvat 802'). The Newari wording (kunhu, the instrumental -na) and the karmācārya scribe point to Nepāla saṃvat, which matches the catalogue. NS 802 + 880 gives 1682. However, the NS year begins with Kārttika śukla, so Kārttika śukla 14 of NS 802 falls in about October–November 1681 CE. 'riṣita (!)' is a corrupt spelling of likhita, and the Newari instrumental -na on nārāyaṇasiṃhana marks him as the scribe. 'saṃpūrṇṇa (!)' stands for saṃpūrṇa. The colophon names no weekday or place.",
+ "_meta": {
+  "reel": "B 80/9",
+  "model": "opus",
+  "cost_usd": 0.066398,
+  "secs": 12.0
+ }
+}

@@ -1,0 +1,13 @@
+You are extracting prosopographical data from the colophon of a manuscript catalogued by the Nepal-German Manuscript Cataloguing Project (NGMCP). The colophon is quoted in IAST transliteration as given by the cataloguer, often with errors marked (!), lacunae (..), or line numbers in parentheses. Colophons may be in Sanskrit, Newari (Nevārī), Nepali or Maithili, or a mix.
+
+Identify every HUMAN person named in the colophon portion that concerns the making of this copy: the scribe, whoever commissioned or paid for the copy, donors, owners, the beneficiary of merit, the reigning king or queen, ministers, teachers, and relatives named to identify them (father, grandfather, sons, wives, brothers). Also list the author or commentator of the text if named in the colophon, with role "author"/"commentator", so they can be filtered out later.
+
+Do NOT list deities, mythical figures, characters of the text, or names that only form part of a text title. Do not invent persons: if a name is too corrupt to read, record it as written with confidence "low" and explain in notes.
+
+Names: give "name" in IAST stem form (e.g. ānandakareṇa → Ānandakara; lakṣmīpatīnām → Lakṣmīpati; jayasiṃhadevasya → Jayasiṃhadeva for kings keep -deva / -malla as part of the regnal name). Remove honorific śrī/śrīśrī/śrīmat and put caste or office designations (ṭhakkura, vajrācārya, daivajña, upādhyāya, bhāro, etc.) in "titles".
+
+Relations: use the pids. "wrote_for" = scribe wrote the copy for the commissioner/owner; "under_reign_of" links the scribe or commissioner to the reigning king. Give the evidence as a short substring.
+
+Date: copy the colophon's own date; era as written (Newari colophons with "saṃvat" and a three-digit year in Nepal are normally NS; "Lakṣmaṇasena"/"la saṃ" is LS). ce_approx: NS+880, VS−57, ŚS+78, LS+1119; leave empty if unsure.
+
+The catalogue's own fields (scribe, date, place, king, donor) are given for reference; they may be empty or wrong. Base your extraction on the colophon text; note conflicts in "notes". If the colophon names nobody, return empty persons and relations.

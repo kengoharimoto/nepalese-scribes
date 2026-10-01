@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vaṃśidharo",
+   "name": "Vaṃśidhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhūsura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "purāṇottamaṃ śrīlaiṃgasamalīlikhan sulalitaṃ, vaṃśidharo bhūsuraḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "khyāte ʼnantaguṇād vipaiḥ parimite nepālasamvatsare, śukle phālguṇamāsi vighnaya(!) tithau bhedāsradeve kuje | yoge brahmasamākhyake",
+  "era": "NS",
+  "year": "837",
+  "month": "phālguṇa",
+  "paksa": "śukla",
+  "tithi": "vighna (4?)",
+  "weekday": "kuje",
+  "nakshatra_yoga": "brahma",
+  "ce_approx": "1717"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "paśupatiprītyai",
+ "notes": "The chronogram 'ananta-guṇa-advipaiḥ/vipaiḥ' yields 837 (ananta = 7?, guṇa = 3, dvipa = 8, reversed: 837 NS). 'vighna' stands for caturthī (4).",
+ "_meta": {
+  "reel": "A 1392/6",
+  "model": "gemini-flash-latest",
+  "secs": 9.9,
+  "in_tok": 857,
+  "out_tok": 990
+ }
+}

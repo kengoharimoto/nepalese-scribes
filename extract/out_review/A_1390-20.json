@@ -1,0 +1,66 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Nārāyaṇa: added role 'commentator' (medium) for the author's own commentary named in 'svakṛtamuhūrtamārtaṇḍa vallabhāyāṃ' (Vallabhā)",
+   "p2 Balabhadra: name normalized from 'valabhadra' (v/b); 'pādhyā' read as upādhyāya; Luñiṃṭyāla = the Nepali family name Luiṭel/Luitel, recorded as affiliation; confidence for the name kept high",
+   "date.weekday changed to 'Sunday (vāre 1)'",
+   "notes: added that the catalogue's 'ŚS 1756' conflicts with the colophon's 'śāke 1765' and is probably a transposition; checked the 1493 chronogram"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmannārāyaṇa",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "author",
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmannārāyaṇaviracito; śrīsvakṛtamuhūrtamārtaṇḍa vallabhāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "valabhadrapādhyā luñiṃṭyāla",
+   "name": "Balabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "Luñiṃṭyāla (Luiṭel/Luitel family)",
+   "residence": "",
+   "evidence": "liṣitaṃ (!) valabhadrapādhyā luñiṃṭyāla leṣaka",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1765 śrīsamvat 1600 kārtikaśukla 7 tithau vāre 1",
+  "era": "ŚS",
+  "year": "1765",
+  "month": "Kārtika",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "Sunday (vāre 1)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1843"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The colophon gives two dates: śāke 1765 (= 1843 CE) and śrīsaṃvat 1600. As transcribed, 1600 cannot be VS: VS 1600 would be 1543 CE. The catalogue field gives VS 1900, which equals 1843 CE and matches the Śaka year. So '1600' is probably a misreading or scribal error for 1900 (Devanagari 6 and 9 look alike). The catalogue field 'ŚS 1756' does not match the colophon's 'śāke 1765' and is probably a transposition of the digits; this record follows the colophon. The weekday has not been checked against the tithi. Separately, the chronogram 'sukhanipuruṣārthakṣmā 1493 rimitaśaka' (meaning 'measured', i.e. parimita) gives the date the work was composed, Śaka 1493 (1571 CE), not the date of copying. That matches the known date of Nārāyaṇa's Muhūrtamārtaṇḍa. The colophon also refers to the author's own commentary (Mārtaṇḍavallabhā), so Nārāyaṇa is listed as both author and commentator. The concluding verses ('yādṛśaṃ …', 'lagnamāna…') are stock verses, not prosopographical.",
+ "_meta": {
+  "reel": "A 1390/20",
+  "model": "opus",
+  "cost_usd": 0.08890200000000001,
+  "secs": 19.4
+ }
+}

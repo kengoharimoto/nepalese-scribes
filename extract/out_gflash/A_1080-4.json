@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīharṣadeve",
+   "name": "Harṣadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīharṣadeve nṛpe",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvinnṛlakṣmyākhyayā",
+   "name": "Vinnṛlakṣmī",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "kulajā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvinnṛlakṣmyākhyayā kulajayā samyak pratiṣṭhāpitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīharṣadeve nṛpe | etatpustakam ... śrīvinnṛlakṣmyākhyayā ... pratiṣṭhāpitam"
+  }
+ ],
+ "date": {
+  "as_written": "varṣāṇān daśa saṃyute śatayuge jyeṣṭhasya māsaḥ(!) site pakṣe śukradine tithau ca navame",
+  "era": "NS",
+  "year": "210",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1090"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "ātmanaḥ sajagataḥ saukhyāya mokṣāya ca (for the happiness and liberation of herself and the entire world)",
+ "notes": "The date and consecration verse is added by a later hand (as noted: 'with a later hand:'). Date chronogram: 'daśa saṃyute śatayuge' = 10 + 200 = NS 210.",
+ "_meta": {
+  "reel": "A 1080/4",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 874,
+  "out_tok": 1037
+ }
+}

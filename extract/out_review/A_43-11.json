@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "purpose cleared: 'śubham astu sarvasattvānām' is a closing benediction, not a statement of purpose",
+   "notes expanded: the corrupt 'riṣarṇṇati', the possible 'rājye ka...' reading, and an unverified weekday",
+   "weekday normalized to 'somavāra (Monday)'"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pālitena",
+   "name": "-pālita",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": ".. pālitena riṣarṇṇati (!) | likhitam iti",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "653 bhādrapada(śu)kla(daśa)myāyān titho, somavāsare",
+  "era": "NS",
+  "year": "653",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "somavāra (Monday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1533"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue field gives the year as NS 635, but the quoted colophon reads 653. 653 is taken here; NS 653 = 1533 CE, and NS 635 would be 1515 CE. The weekday (Monday for Bhādrapada śukla 10) has not been checked with a calendar calculation. The colophon names a reigning king ('śrīśrīrājādhirāja/// rāje ka ..'), probably 'rājye' followed by a name beginning ka-, but the name is lost in the lacuna, so no king entry is given. The start of the scribe's name is also lost: only '-pālita' survives. 'riṣarṇṇati (!)' is corrupt and unexplained; it may be a garbled scribal epithet or a verb before 'likhitam'.",
+ "_meta": {
+  "reel": "A 43/11",
+  "model": "opus",
+  "cost_usd": 0.06671,
+  "secs": 15.2
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Moved 'narañconagrāmīṇaḥ' from Śrīdatta to the scribe Vāsudatta as an affiliation (village of origin, likely his Maithil mūla). It is nominative, so it does not agree with the genitive śrīdattasya; it is a loose nominative describing the scribe.",
+   "Normalized the scribe's residence to 'Raghapurāgrāma (in/near Nonau…grāma)' and added the locative 'nonau+grāmāvasthite' to place.as_written.",
+   "Normalized the weekday to 'Friday (śukra)'.",
+   "Added to notes that the dharmaghaṭa verse is a stock formula and names no donor."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvāsudattena",
+   "name": "Vāsudatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Narañcona (narañconagrāmīṇaḥ; probably mūla/village of origin)",
+   "residence": "Raghapurāgrāma (situated in/near Nonau…grāma)",
+   "evidence": "raghapurāgrāmam adhivasatā narañconagrāmīṇaḥ ... śrīvāsudattena liṣitaiṣā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīdevadatta°",
+   "name": "Devadatta",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdevadattasūnunā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrī○śrīdattasya",
+   "name": "Śrīdatta",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī○śrīdattasya pautreṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīdevadattasūnunā śrīvāsudattena"
+  },
+  {
+   "from": "p1",
+   "type": "grandson_of",
+   "to": "p3",
+   "evidence": "śrīdattasya pautreṇa ... śrīvāsudattena"
+  }
+ ],
+ "date": {
+  "as_written": "la saṃ 395 vaiśākhakṛṣṇasaptamyāṃ śukre edine",
+  "era": "LS",
+  "year": "395",
+  "month": "Vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "7 (saptamī)",
+  "weekday": "Friday (śukra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1514"
+ },
+ "place": {
+  "as_written": "nonau+grāmāvasthite raghapurāgrāmam adhivasatā",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe lived in Raghapurāgrāma, which is described as situated in/near a place whose name is partly illegible (nonau+grāma). 'narañconagrāmīṇaḥ' is nominative, so it does not go with the genitive śrīdattasya. It most likely gives the scribe's family village of origin (a Maithil mūla), though it could also be read as describing the grandfather. 'śrī○śrīdattasya' = śrī + Śrīdatta (the ○ is a string-hole space). 'edine' is unclear; it is probably a corruption of 'dine'. The dharmaghaṭa verse is a stock formula and names no donor. The catalogue fields agree with this reading (LS 395 + 1119 ≈ 1514 CE).",
+ "_meta": {
+  "reel": "A 50/11",
+  "model": "opus",
+  "cost_usd": 0.08543,
+  "secs": 16.6
+ }
+}

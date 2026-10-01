@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "siddhāṃtapaṃcānanabhaṭṭācārya",
+   "name": "Siddhāntapañcānana",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāya siddhāṃtapaṃcānanabhaṭṭācāryakṛtā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1878 miti śrāvaṇa śuddha 15 somavāsare",
+  "era": "VS",
+  "year": "1878",
+  "month": "śrāvaṇa",
+  "paksa": "śuddha",
+  "tithi": "15",
+  "weekday": "somavāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1821"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records Prāṇanātha as the scribe, but he is not mentioned in the colophon text provided.",
+ "_meta": {
+  "reel": "A 912/15",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 754,
+  "out_tok": 1423
+ }
+}

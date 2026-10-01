@@ -1,0 +1,87 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmajjayajayaprakāśamalladevasya",
+   "name": "Jayaprakāśamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "kāṃtipurimahānagara",
+   "evidence": "śrīmajjayajayaprakāśamalladevasya rājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmotīgiramahaṃtagusāhikasya",
+   "name": "Motīgira",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "mahanta",
+    "gusāhī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śrīmotīgiramahaṃtagusāhikasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "daivajñaviṣnunaṃdanena",
+   "name": "Viṣṇunandana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñaviṣnunaṃdanena dhīreṇa, sapūrṇaṃ likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "likhitaṃ śrīmotīgiramahaṃtagusāhikasya || maṃtramuktāvalī pustakam idaṃ || daivajñaviṣnunaṃdanena"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīmajjayajayaprakāśamalladevasya rājye ... daivajñaviṣnunaṃdanena ... likhitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke saṃvat || 1690 || jyeṣṭhaśuddhi || 13 ||",
+  "era": "ŚS",
+  "year": "1690",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1768"
+ },
+ "place": {
+  "as_written": "śrīmannepāladeśe || śrī 3 paśupatisamīpe || śrī 3 vāgmatīnadītaṭe ... śrīmatkāṃtipurimahānagare",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 135/40",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 842,
+  "out_tok": 1687
+ }
+}

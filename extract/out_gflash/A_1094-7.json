@@ -1,0 +1,74 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gadādharabhaṭṭācāryyakṛto",
+   "name": "Gadādhara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gadādharabhaṭṭācāryyakṛto",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vārāṇasīprasādasya",
+   "name": "Vārāṇasīprasāda",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "bābu"
+   ],
+   "affiliation": "kāśīsaṃskṛtamudrā",
+   "residence": "Kāśī, Hauḍakaṭorā",
+   "evidence": "vārāṇasīprasādasya niyogena prayatnataḥ || kāśīsaṃskṛtamudrāyām aṃkito yaṃ śilākṣarai",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bhāī pratāpasiṃhajīke",
+   "name": "Pratāpasiṃha",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "bhāī"
+   ],
+   "affiliation": "",
+   "residence": "Kāśī, Kacauḍī galī",
+   "evidence": "kacauḍī galīme bhāī pratāpasiṃhajīke dukānapara milegī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1943",
+  "era": "VS",
+  "year": "1943",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1886"
+ },
+ "place": {
+  "as_written": "śrīkāśījīme mahallehaudakaṭorā",
+  "normalized": "Varanasi"
+ },
+ "purpose": "",
+ "notes": "Lithographed (śilākṣara) edition published/printed at Kāśī Saṃskṛta Mudrā press at the house of Bābu Vārāṇasīprasāda in Hauḍakaṭorā, available for purchase at his residence or at Bhāī Pratāpasiṃha's shop in Kacauḍī Galī.",
+ "_meta": {
+  "reel": "A 1094/7",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 830,
+  "out_tok": 1456
+ }
+}

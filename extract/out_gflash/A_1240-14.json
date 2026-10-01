@@ -1,0 +1,72 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīvīra yoganarendramarlla mahārājāyā",
+   "name": "Yoganarendramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "vīra",
+    "mahārājā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīvīra yoganarendramarlla mahārājāyā ājñāna",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mohanana",
+   "name": "Mohana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mohanana coyava(!) sidhayakā dina juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "yoganarendramarlla mahārājāyā ājñāna (3) thva saphuli mohanana coyava(!) sidhayakā"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīśrīvīra yoganarendramarlla mahārājāyā ājñāna"
+  }
+ ],
+ "date": {
+  "as_written": "saṃmvat 825 śrāvaṇa śukla daśamyāṃtithau (2) śukravāre",
+  "era": "NS",
+  "year": "825",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1705"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records Lalitpur as the place of copying on the basis of King Yoganarendra Malla's realm, but the colophon text itself does not name the place.",
+ "_meta": {
+  "reel": "A 1240/14",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 869,
+  "out_tok": 1532
+ }
+}

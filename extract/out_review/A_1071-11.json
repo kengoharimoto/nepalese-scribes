@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Chronogram śaśi(1)-sāgara(4)-aṅka(9) read right to left gives 941, not 939; the verse dates the copying (vyalikhat) to year 941, Mārgaśīrṣa kṛṣṇa, Hari's tithi (ekādaśī = 11). Primary date changed to 941 Mārga kṛṣṇa 11, era not stated but most likely NS (ca. 1820 CE).",
+   "The prose date 'samvat 939 vaiśāṣa vadi 5' is attached to a Newari note (thvakunhu ... dina julo) and is now recorded in notes as a separate or conflicting date, not as the copying date.",
+   "Notes expanded: 939 comes before 941, and the catalogue's VS 923 does not match either date."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmaśaṃkaraśarmakaḥ",
+   "name": "Rāmaśaṃkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "eṣīkaparvavyalikhadrāmaśaṃkaraśarmakaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śaśisāgarakāṃkeʼsminmārge kṛṣṇe tithau hareḥ",
+  "era": "NS",
+  "year": "941",
+  "month": "mārgaśīrṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1820"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The chronogram is śaśi = 1, sāgara = 4, aṅka = 9. Read right to left this gives 941. 'Hareḥ tithi' = ekādaśī. The verse gives no era. NS is assumed because the colophon also has a Newari line, so this is ca. Nov/Dec 1820 CE. If sāgara is taken as 7, the year would be 971. A second date, 'samvat 939 vaiśāṣa vadi 5', follows with a Newari phrase 'thvakunhukao didayakādinajulo', which is unclear: perhaps 'on this day ... was given/completed'. That would be NS 939 ≈ April/May 1819 CE, which is before the chronogram year 941, so the two dates conflict. Either the chronogram or the numeral is a misreading, or the note records a different event. The catalogue's 'VS 923' matches neither date and is probably wrong.",
+ "_meta": {
+  "reel": "A 1071/11",
+  "model": "opus",
+  "cost_usd": 0.083162,
+  "secs": 19.8
+ }
+}

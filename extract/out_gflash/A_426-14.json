@@ -1,0 +1,146 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmacaṃdrasomayāji",
+   "name": "Rāmacandra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "somayājin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmacaṃdrasomayājiviracitasamarasāra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bharata",
+   "name": "Bharata",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "samarasāraṭīkābharatakṛta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīdharadaivajña",
+   "name": "Śrīdhara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña",
+    "jyotiṣī"
+   ],
+   "affiliation": "",
+   "residence": "kahnāṭaka",
+   "evidence": "kahnāṭakastha jyotiṣī (!)ityupakanāmaka śrīdharadaivajñātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīnivāsena",
+   "name": "Śrīnivāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jyotiṣī"
+   ],
+   "affiliation": "",
+   "residence": "kahnāṭaka",
+   "evidence": "śrīdharadaivajñātmajaśrīnivāsena li(4)khitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "pu.dī.raṃganātha",
+   "name": "Raṅganātha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "pu.",
+    "dī."
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pu.dī.raṃganāthasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "vināyakasya",
+   "name": "Vināyaka",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pu.dī.raṃganāthasutavināyakasyedaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "śrīkṛṣṇajośī",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "owner",
+    "other"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "rāmanagara",
+   "evidence": "śrīkṛṣṇajośī rāmanagara",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "śrīdharadaivajñātmajaśrīnivāsena"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p5",
+   "evidence": "pu.dī.raṃganāthasutavināyakasya"
+  }
+ ],
+ "date": {
+  "as_written": "śake 1696 jayanāma saṃvatsare māghaśuklapaṃcamyāṃ 5 tithau bhānuvāsare",
+  "era": "ŚS",
+  "year": "1696",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "bhānuvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1775"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīsītā rāmacaṃdrārpaṇam astu",
+ "notes": "Scribe describes his family as hailing from Karṇāṭaka ('kahnāṭakastha') with the surname/alias 'Jyotiṣī' ('jyotiṣītyupakanāmaka'). 'pu.dī.' before Raṅganātha likely abbreviates Purohita Dīkṣita or similar titles. Śrīkṛṣṇa Jośī from Rāmanagara is recorded at the end, likely a later owner or reader.",
+ "_meta": {
+  "reel": "A 426/14",
+  "model": "gemini-flash-latest",
+  "secs": 9.1,
+  "in_tok": 866,
+  "out_tok": 2484
+ }
+}

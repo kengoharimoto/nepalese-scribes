@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "lalitāprarīyaśrīsūryānaṃdena",
+   "name": "Sūryānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "lalitāprarīya",
+   "evidence": "lalitāprarīyaśrīsūryānaṃdenālikhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī 1915 || pauṣe site śukladale viśāṣe (!) tithicaṃdrage",
+  "era": "VS",
+  "year": "1915",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "caṃdra",
+  "weekday": "",
+  "nakshatra_yoga": "viśāṣa",
+  "ce_approx": "1858"
+ },
+ "place": {
+  "as_written": "lalitāprarīya",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The scribe's residence is corruptly written as lalitāprarīya for lalitāpurīya (Patan). Date year 1915 corresponds to Vikrama Saṃvat.",
+ "_meta": {
+  "reel": "A 180/9",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 768,
+  "out_tok": 1158
+ }
+}

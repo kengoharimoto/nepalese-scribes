@@ -1,0 +1,115 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p4: name 'Śivaśarman' → 'Śiva' with 'śarman' in titles, per the stem rule; residence 'Kāśī' removed, because Kāśī is only stated as the place of copying; epithet saṅkhyāvat ('learned') added to titles; evidence changed to the dated verse.",
+   "p2: as_written cut down to Bhāratītīrtha alone. The compound bhāratītīrtha-vidyāraṇya-munivarya-śiṣyeṇa is a dvandva naming two teachers of the commentator. 'munivarya' and the ascetic titles belong to both. The role 'teacher' becomes 'other', since this is the commentator's teacher, not anyone involved in this copy.",
+   "p1: Vidyāraṇya kept as author. Noted that he is also named as the commentator Rāmakṛṣṇa's teacher, which is why the pupil_of relation p3→p1 is kept.",
+   "p3: the title 'vidvas' kept as an epithet (viduṣā).",
+   "Date: month filled in as solar Dhanus (ite patyau dyutīnāṃ dhane = when the sun has entered Sagittarius, ≈ Pauṣa). Tithi read as ekādaśī (lakṣmījāni-dina = Viṣṇu's day). Weekday 'Sunday' rejected: the metre needs two syllables, short–long, before vāsare. The likely reading is (lekh)īndujavāsare, Mercury's day = Wednesday, but this is uncertain.",
+   "Year left unresolved. Read right to left, aṅka = 9 (units) and indu = 1 (tens); the remaining figure words are corrupt, so ce_approx is empty."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viudyāraṇyamuni",
+   "name": "Vidyāraṇya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "muni"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīviudyāraṇyamunikṛtāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhāratītīrtha(vidyāraṇyamunivarya)",
+   "name": "Bhāratītīrtha",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "paramahaṃsa",
+    "parivrājakācārya",
+    "munivarya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhāratītīrthavidyāraṇyamunivaryaśiṣyeṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīrāmakṛṣṇākhya",
+   "name": "Rāmakṛṣṇa",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "vidvas"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmakṛṣṇākhya viduṣā viracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śivaśarmaṇā",
+   "name": "Śiva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman",
+    "saṅkhyāvat"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkāśyāṃ śivaśarmaṇā prakaraṇaṃ saṅkhyāvatā śrīmatā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "śrībhāratītīrthavidyāraṇyamunivaryaśiṣyeṇa"
+  },
+  {
+   "from": "p3",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śrībhāratītīrthavidyāraṇyamunivaryaśiṣyeṇa"
+  }
+ ],
+ "date": {
+  "as_written": "aṅkenduddakadairmite śaka itepatyaudyutīnāṃdhane lakṣmījānidine dale tu dhavale lekhīrajevāsare",
+  "era": "ŚS",
+  "year": "aṅkenduddakadairmite (corrupt; units 9 = aṅka, tens 1 = indu; hundreds/thousands unclear)",
+  "month": "Dhanus (solar; sun in Sagittarius ≈ Pauṣa)",
+  "paksa": "śukla",
+  "tithi": "ekādaśī (lakṣmījānidina = Hari's day)",
+  "weekday": "uncertain; rajevāsare probably corrupt for indujavāsare = Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "śrīkāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The date is a śārdūlavikrīḍita verse. Pāda a: aṅkendu-[uu]-dair-mite śake ite patyau dyutīnāṃ dhane. 'duddaka-dair' (two short syllables plus one long) is corrupt, so the Śaka year can only be read as ?19 (units 9, tens 1, read right to left). ce_approx is left empty. Pāda b ends lekhi + [short–long] + vāsare. 'rajevāsare' is unmetrical as a weekday name; indujavāsare (Wednesday) fits the metre, but this is conjecture. 'raver vāsare' (Sunday) does not fit. Pāda c (vedāntāpi tṛtīyakādikam idaṃ sat-pañcadaśyāḥ śubhaṃ) suggests the scribe's verse belongs with prakaraṇa 3 onward, even though it follows the end of prakaraṇa 2 (with Rāmakṛṣṇa's Tātparyadīpikā). Other scribal errors: 'viudyāraṇya' = Vidyāraṇya; 'samāptatāmaglobīt' is corrupt (≈ samāptim agamat). The final '1' is probably a verse number. The catalogue's scribe (Śivaśarmā) and place (Kāśī) agree with the colophon.",
+ "_meta": {
+  "reel": "B 69/7",
+  "model": "opus",
+  "cost_usd": 0.151562,
+  "secs": 53.0
+ }
+}

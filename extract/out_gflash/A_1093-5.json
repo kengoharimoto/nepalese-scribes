@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat || 1900 || caitra śrutivatadaṃśāṃ (!)",
+  "era": "VS",
+  "year": "1900",
+  "month": "caitra",
+  "paksa": "",
+  "tithi": "daśamī (?)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1843"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons (scribe, commissioner, owner, or king) are named in the colophon. The date line 'caitra śrutivatadaṃśāṃ' appears corrupt, perhaps intending a pakṣa and tithi (such as caitra vadi daśamyām or śudi daśamyām).",
+ "_meta": {
+  "reel": "A 1093/5",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 772,
+  "out_tok": 773
+ }
+}

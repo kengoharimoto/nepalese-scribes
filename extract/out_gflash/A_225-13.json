@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāyastha cāmuṇḍakṛte",
+   "name": "Cāmuṇḍa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāyastha cāmuṇḍakṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmaṃga[[la]]sena",
+   "name": "Maṅgalasena",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmaṃga[[la]]sena pāṭhā arthe",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1748 kā āsune māse śukle pakṣe śukli (!) dvitīyā tīthau (!) maṃgalavāsare",
+  "era": "VS",
+  "year": "1748",
+  "month": "āsuna",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "maṃgalavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1691"
+ },
+ "place": {
+  "as_written": "syupurī",
+  "normalized": "Śivapurī"
+ },
+ "purpose": "pāṭhārtha",
+ "notes": "The catalogue mentions King 'Rājamalla / yoginīpattana', but no king is mentioned in the transcribed colophon text.",
+ "_meta": {
+  "reel": "A 225/13",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 800,
+  "out_tok": 1053
+ }
+}

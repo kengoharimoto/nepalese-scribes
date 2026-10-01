@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvaijanāthena",
+   "name": "Vaijanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvaijanāthena lipiṃtukāśyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "bhūpādri bhūmi pramite śakeṣu yāmye khauprauṣṭa pade sitesyāt || gajetithau vāsara bhūmiputre",
+  "era": "ŚS",
+  "year": "1716",
+  "month": "prauṣṭhapada",
+  "paksa": "śukla",
+  "tithi": "8",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1794"
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The Śaka year is expressed in chronogram: bhūpa (16) + adri (7) + bhūmi (1) = Śaka 1716. Prauṣṭhapada = Bhādrapada, sita = śukla, gaja = 8 (aṣṭamī), bhūmiputra = Tuesday.",
+ "_meta": {
+  "reel": "A 360/5",
+  "model": "gemini-flash-latest",
+  "secs": 8.6,
+  "in_tok": 980,
+  "out_tok": 1980
+ }
+}

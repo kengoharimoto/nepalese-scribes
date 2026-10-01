@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bālakṛṣṇa",
+   "name": "Bālakṛṣṇa",
+   "roles": [
+    "commentator",
+    "author"
+   ],
+   "titles": [
+    "pāyaguḍa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pāyaguḍopākhya bālakṛṣṇaviracitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1847 miti puśavadī 6",
+  "era": "VS",
+  "year": "1847",
+  "month": "puśa",
+  "paksa": "vadī",
+  "tithi": "6",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1790"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bālakṛṣṇa Pāyaguṇḍa (pāyaguḍopākhya) is the author/commentator of the Citramīmāṃsāgūḍhārthaprakāśikā. No scribe or patron is explicitly named.",
+ "_meta": {
+  "reel": "B 307/7",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 729,
+  "out_tok": 989
+ }
+}

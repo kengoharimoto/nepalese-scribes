@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "harināmena",
+   "name": "Harināma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "harināmena (!) likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepārābdagate samvat veda ṛtu vasus tathā || māse mārgaśira kṛṣṇe aṣṭamyāṃ bhānūvāsare",
+  "era": "NS",
+  "year": "864",
+  "month": "Mārgaśīrṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1743"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is given via chronogram (veda = 4, ṛtu = 6, vasu = 8 -> 864 NS). The catalogue gives the scribe's name as Harirāma, likely interpreting 'harināmena (!)' in conjunction with 'rā' at the end, though the text literally has 'harināmena'.",
+ "_meta": {
+  "reel": "B 167/4",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 704,
+  "out_tok": 1088
+ }
+}

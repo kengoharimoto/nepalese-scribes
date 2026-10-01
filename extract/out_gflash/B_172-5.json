@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmannepālādhipaśrīśrībhūpatīndramallo",
+   "name": "Bhūpatīndramalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nepālādhipa",
+    "nṛpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmannepālādhipaśrīśrībhūpatīndramallo jayati",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "tasya nṛpateḥ sāṣṭāṃgarrājyavṛddhir astu",
+ "notes": "",
+ "_meta": {
+  "reel": "B 172/5",
+  "model": "gemini-flash-latest",
+  "secs": 3.1,
+  "in_tok": 693,
+  "out_tok": 600
+ }
+}

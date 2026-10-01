@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Contains only the standard scribal disclaimer formula (lekhaka doṣa na dīyate); no individual persons, dates, or places are named.",
+ "_meta": {
+  "reel": "A 1156/16",
+  "model": "gemini-flash-latest",
+  "secs": 2.2,
+  "in_tok": 621,
+  "out_tok": 321
+ }
+}

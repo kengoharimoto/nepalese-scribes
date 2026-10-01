@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "la. pra. a. śarmaṇā",
+   "name": "La. Pra. A.",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarmā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "la. pra. a. śarmaṇā (4) lekhī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīunmattabhairavadāsa 〈〈śarmā〉〉",
+   "name": "Unmattabhairavadāsa",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "śarmā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīunmattabhairavadāsa 〈〈śarmā〉〉",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 1971 śā 1836 vaiśākha 1 gate 2 vāsare",
+  "era": "VS",
+  "year": "1971",
+  "month": "vaiśākha",
+  "paksa": "",
+  "tithi": "1 gate",
+  "weekday": "2 vāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1914"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives the date of writing as VS 1971 / ŚS 1836 Vaiśākha 1 gate Monday (1914 CE), followed by an additional line: '023 sāla vaiśākha 23 gate pratilipi', suggesting this transcript (pratilipi) was completed on VS [20]23 Vaiśākha 23 (1966 CE). Unmattabhairavadāsa Śarmā may be a devotional/dīkṣā name of the scribe La. Pra. A. Śarmā or the commissioner/owner.",
+ "_meta": {
+  "reel": "A 145/8",
+  "model": "gemini-flash-latest",
+  "secs": 27.3,
+  "in_tok": 823,
+  "out_tok": 6029
+ }
+}

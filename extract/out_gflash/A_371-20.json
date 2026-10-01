@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "apyadīkṣitasya",
+   "name": "Appayadīkṣita",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "Bharadvāja gotra",
+   "residence": "",
+   "evidence": "apyadīkṣitasya kṛtiḥ kuvalayānaṃdaḥ samāptaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīraṃgarājādhvarīnda",
+   "name": "Raṅgarājādhvarin",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "adhvarin"
+   ],
+   "affiliation": "Bharadvāja gotra",
+   "residence": "",
+   "evidence": "śrīraṃgarājādhvarīndavaradasūnor",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "paramānaṃdo",
+   "name": "Paramānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "vimalānvaya",
+   "residence": "",
+   "evidence": "paramānaṃ(4)doti śarmapradā- laṃkārāṃkalitaṃ lilekha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīraṃgarājādhvarīndavaradasūnor apyadīkṣitasya"
+  }
+ ],
+ "date": {
+  "as_written": "śākebā(3)huturaṃgabhūpatimite pakṣe ʼsite bhūmije vāre māsi iṣe tithau hariyute",
+  "era": "ŚS",
+  "year": "1672",
+  "month": "iṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "hari (ekādaśī)",
+  "weekday": "bhūmijavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1750"
+ },
+ "place": {
+  "as_written": "puryāṃ hi māradviṣaḥ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "Year given in chronogram: bāhu (2) turaṅga (7) bhūpati (16) = Śāke 1672. Place of copying 'māradviṣaḥ purī' (city of Śiva) refers to Vārāṇasī. The cataloguer identifies the scribe as Paramānanda Śarmā, though the metrical text reads 'paramānaṃdo 'tiśarmaprada...' or 'paramānaṃdo 'ti śarmaprada-'.",
+ "_meta": {
+  "reel": "A 371/20",
+  "model": "gemini-flash-latest",
+  "secs": 14.9,
+  "in_tok": 823,
+  "out_tok": 3592
+ }
+}

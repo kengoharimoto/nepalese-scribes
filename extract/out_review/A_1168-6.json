@@ -1,0 +1,34 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed 'karṇa' as a person: it is an isolated fragment before a lacuna and may be the end of a compound name (e.g. …karṇa) or an ordinary word. Nothing shows that a person is meant or what role they had. It is recorded in the notes instead.",
+   "Date kept as era 'unspecified'. The notes now say that 'saṃ' more usually means Vikrama Saṃvat, which conflicts with the catalogue's ŚS reading."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 1762 āśviṇaśukla aṣṭmyāmtithai",
+  "era": "unspecified",
+  "year": "1762",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "8 (aṣṭamī)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon is fragmentary. 'karṇa ..' comes just before a lacuna and could be the end of a personal name (e.g. a scribe or owner such as …karṇa). It could also be part of the preceding text, so no person is recorded. The era is written only as 'saṃ'. In Devanagari manuscripts this more often means Vikrama Saṃvat: VS 1762 = c. 1705 CE. The catalogue gives ŚS 1762 = c. 1840 CE. Neither can be confirmed without a weekday, so ce_approx is left empty. The tithi is aṣṭamī, given as aṣṭmyāṃ (sic).",
+ "_meta": {
+  "reel": "A 1168/6",
+  "model": "opus",
+  "cost_usd": 0.06533,
+  "secs": 12.6
+ }
+}

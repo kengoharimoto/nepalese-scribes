@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnī(4)lakaṃṭha",
+   "name": "Nīlakaṇṭha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnī(4)lakaṃṭhaviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "brāahmaṇabhairavalāla",
+   "name": "Bhairavalāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ brāahmaṇabhairavalāla",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vyāsadīnānāthasya",
+   "name": "Dīnānātha",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "vyāsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vyāsadīnānāthasyedaṃ pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "liṣitaṃ brāahmaṇabhairavalāla || sarvasiddhikarī || vyāsadīnānāthasyedaṃ pustakaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃmat (!) 1908 śāke 1772 śrāvaṇamāse kṛṣṇapakṣe ti(6)thau 12 śukravāsare",
+  "era": "VS",
+  "year": "1908",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "12",
+  "weekday": "śukravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1851"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Vikrama Saṃvat (1908) and Śāke (1772) are provided in the date.",
+ "_meta": {
+  "reel": "B 329/24",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 754,
+  "out_tok": 1409
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devānanda",
+   "name": "Devānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devānanda (!) likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1950",
+  "era": "VS",
+  "year": "1950",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1893"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Mahābhairava is named as the author of the text within Viśvasāratantra, but excluded as a deity.",
+ "_meta": {
+  "reel": "A 205/17",
+  "model": "gemini-flash-latest",
+  "secs": 2.6,
+  "in_tok": 700,
+  "out_tok": 557
+ }
+}

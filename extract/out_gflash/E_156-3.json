@@ -1,0 +1,73 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viṣṇuś",
+   "name": "Viṣṇu",
+   "roles": [
+    "scribe",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "abhiṣeṣakāmāgaruḍadhvajasyāliṣya pustakapuruṣaś ca sūktaṃ || viṣṇuś ca ... samarpitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kailāśa",
+   "name": "Kailāśa",
+   "roles": [
+    "scribe",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "abhiṣeṣakāmāgaruḍadhvajasyāliṣya pustakapuruṣaś ca sūktaṃ || ... kailāśa ... samarpitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "ānandasarmmā",
+   "name": "Ānanda",
+   "roles": [
+    "scribe",
+    "donor"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "abhiṣeṣakāmāgaruḍadhvajasyāliṣya pustakapuruṣaś ca sūktaṃ || ... ānandasarmmā samarpitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "guṇāganande śaśivikramābde jyaṣṭhaś ca kṛṣ(kvakṣye)tṛtīyā ca mandai",
+  "era": "VS",
+  "year": "1973",
+  "month": "Jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "tṛtīyā",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1916"
+ },
+ "place": {
+  "as_written": "dolāgirīcampakavṛkṣamūle",
+  "normalized": "Changu Narayan"
+ },
+ "purpose": "for the abhiṣeka of Garuḍadhvaja (Viṣṇu), offered to Trivikrama (samarpitaṃ Trivikramāya)",
+ "notes": "The catalogue conflates the names and surroundings into 'Viṣṇukailāśānandarāja upādhyāya'. The meter and sandhi reveal three individuals: Viṣṇu (viṣṇuś ca), Kailāśa (kailāśa[ḥ]), and Ānandaśarman (ānandaśarmmā), described as 'abhiṣekakāmā[ḥ]' (plural). 'Dolāgiri campakavṛkṣamūle' refers to the famous champak tree shrine of Viṣṇu at Dolādri/Dolāgiri (Changu Narayan); Garuḍadhvaja, Lakṣmīpati, and Trivikrama are epithets of the deity Viṣṇu worshipped there.",
+ "_meta": {
+  "reel": "E 156/3",
+  "model": "gemini-flash-latest",
+  "secs": 34.4,
+  "in_tok": 824,
+  "out_tok": 7788
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śukadevābhidhenopādhyāyopanāmnā",
+   "name": "Śukadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ kāśyāṃ śukadevābhidhenopādhyāyopanāmnā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃbat 1787",
+  "era": "unspecified",
+  "year": "1787",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The catalogue interprets the year as Śaka 1787 (1865 CE), whereas the text writes 'saṃbat 1787' (which could be VS 1787 = 1730/31 CE or ŚS 1787).",
+ "_meta": {
+  "reel": "B 274/25",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 773,
+  "out_tok": 1271
+ }
+}

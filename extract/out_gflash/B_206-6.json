@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhūpatīndranṛpatau",
+   "name": "Bhūpatīndra",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājyaṃ śāsati bhūpatīndranṛpatau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "chatrasiṃhaḥ",
+   "name": "Chatrasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "alikhat sat chatrasiṃhaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "rājyaṃ śāsati bhūpatīndranṛpatau ... alikhat sat chatrasiṃhaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "śrīmadvāridhibrahmadiggajamitau nepālasamvatsare, māghe māsi śi(!)teʼrkkapañcamitithau sidhyuttare revatī ... samvat 817 māghaśuklapaṃcamyān tithau utra(!)bhadranakṣe(!)tre, siddhiyoge āditya vāla kunhu",
+  "era": "NS",
+  "year": "817",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "uttarabhādrapada / revatī, siddhi yoga",
+  "ce_approx": "1697"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "viśveśvaraprītaye",
+ "notes": "King Bhūpatīndra is the Malla king Bhūpatīndramalla of Bhaktapur (r. 1696–1722 CE). The chronogram vāridhi (7), brahma (1), diggaja (8) gives NS 817.",
+ "_meta": {
+  "reel": "B 206/6",
+  "model": "gemini-flash-latest",
+  "secs": 7.9,
+  "in_tok": 903,
+  "out_tok": 1647
+ }
+}

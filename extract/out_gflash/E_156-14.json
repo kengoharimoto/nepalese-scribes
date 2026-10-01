@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "cakālopanāmakabhaṭṭadivākara",
+   "name": "Divākara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa",
+    "cakālopanāmaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "cakālopanāmakabhaṭṭadivākarakṛta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Textual colophon naming the author Bhaṭṭa Divākara (surnamed Cakāla) of the Dānasaṃkṣepacandrikā; no scribal colophon or date.",
+ "_meta": {
+  "reel": "E 156/14",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 713,
+  "out_tok": 615
+ }
+}

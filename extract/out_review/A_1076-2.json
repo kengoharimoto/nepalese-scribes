@@ -1,0 +1,109 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Chronogram re-read: viśi(kh)a=5, yuga=4, śara=5, read right to left = NS 545 (cataloguer correct); removed the first reading's unfounded emendation to NS 745; ce_approx 1625 -> 1425",
+   "Date conflict now noted: NS 545 (1425 CE) cannot fall under Jagajjyotirmalla (r. c. NS 733-757 / 1613-1637); the two colophon parts likely belong to different copying events",
+   "Removed relation Rāmagupta under_reign_of Jagajjyotirmalla, which is chronologically impossible as written; added the two mahāmātras under_reign_of the king",
+   "Lowered Rāmagupta's confidence to medium: he may be the scribe of the NS 545 exemplar, with the colophon carried over into this copy",
+   "Weekday normalised to Thursday (guru); date.year given as the number with the chronogram kept in as_written"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmagupto",
+   "name": "Rāmagupta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "so yaṃ śrīrāmagupto likhitadṛḍhamatiḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīśrīmajjagajjyotimalladeva",
+   "name": "Jagajjyotirmalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājādhirāja-śrīśrīmajjagajjyotimalladevavijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "mahāmātraśrīrājasiṃhadevaḥ",
+   "name": "Rājasiṃhadeva",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "mahāmātra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmātraśrīrājasiṃhadevaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "mahāmātraśrīnāthasiṃhadeva",
+   "name": "Nāthasiṃhadeva",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "mahāmātra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmātraśrīnāthasiṃhadeva",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "jagajjyotimalladevavijayarājye || mahāmātraśrīrājasiṃhadevaḥ"
+  },
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "jagajjyotimalladevavijayarājye || ... mahāmātraśrīnāthasiṃhadeva"
+  }
+ ],
+ "date": {
+  "as_written": "śrīmannepālavarṣe viśiṣayugaśare phālguṇe māsakṛṣṇe pañcamyāḥ anvabādhe'śvaragurusvadine vajrayoge",
+  "era": "NS",
+  "year": "545",
+  "month": "phālguna",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Thursday (guru)",
+  "nakshatra_yoga": "vajra (yoga)",
+  "ce_approx": "1425"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram 'viśiṣayugaśare' = viśikha (arrow, 5) + yuga (4) + śara (5), read right to left = NS 545 (1424/25 CE), as the catalogue says. 'viśiṣa' is a slip for viśikha. The colophon falls into two parts. The first (verse colophon with the NS 545 date and the scribe Rāmagupta) cannot belong to the reign of Jagajjyotirmalla (Bhaktapur, c. NS 733-757 / 1613-1637 CE), who is named in the second part (fol. 41r-41v) together with the mahāmātras Rājasiṃhadeva and Nāthasiṃhadeva ('etayoḥ śirobhūtaprastāvakṣaṇe'). The likeliest explanation is that the NS 545 colophon of the exemplar was copied over, and that the present Maithili copy was made under Jagajjyotirmalla (c. 1613-1637). In that case Rāmagupta is the scribe of the exemplar, not of this copy, and the scribe of this copy is unnamed. A miscomputed chronogram is less likely. 'anvabādhe'śvaragurusvadine' is corrupt: 'guru' gives Thursday. 'gobhāmadāyāḥ' in the praise of the scribe is unclear and possibly corrupt (a mother's name or a place?). It is left unidentified. The -deva of the two mahāmātras may be honorific rather than part of their names.",
+ "_meta": {
+  "reel": "A 1076/2",
+  "model": "opus",
+  "cost_usd": 0.1821992,
+  "secs": 41.6
+ }
+}

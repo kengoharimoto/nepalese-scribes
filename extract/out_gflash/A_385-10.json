@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdvijavaraśyāmakṛṣṇānandasya",
+   "name": "Śyāmakṛṣṇānanda",
+   "roles": [
+    "owner",
+    "beneficiary"
+   ],
+   "titles": [
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdvijavaraśyāmakṛṣṇānandasya śubham astu",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 779 vaiśāṣakṛṣṇapaṃcamyām ravidine",
+  "era": "NS",
+  "year": "779",
+  "month": "vaiśāṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "ravidine",
+  "nakshatra_yoga": "",
+  "ce_approx": "1659"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śubham astu sarvvajagatāṃ",
+ "notes": "Māgha in 'śrīmāghakāvyaḥ' and Śiśupāla in the title are not extracted as independent persons per instructions regarding names that only form part of a text title.",
+ "_meta": {
+  "reel": "A 385/10",
+  "model": "gemini-flash-latest",
+  "secs": 9.7,
+  "in_tok": 740,
+  "out_tok": 2316
+ }
+}

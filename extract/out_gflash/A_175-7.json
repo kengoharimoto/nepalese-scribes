@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmahopādhyāyavidyābhūṣana",
+   "name": "Vidyābhūṣaṇa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "Gauḍadeśa",
+   "evidence": "gauḍadeśīya mahāmahopādhyāyavidyābhūṣana... viracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 804 āṣāḍhakṛṣṇadvādśī rohiṇīnakṣatravṛddhiyoga ādityavāra",
+  "era": "NS",
+  "year": "804",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādśī",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "rohiṇīnakṣatravṛddhiyoga",
+  "ce_approx": "1684"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 175/7",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 752,
+  "out_tok": 961
+ }
+}

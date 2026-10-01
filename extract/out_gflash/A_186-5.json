@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ma///veratharīyā",
+   "name": "Ma...veratharīyā",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pratiliṣi(!)taṃ ma///veratharīyā",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat || 1869 || aśvini(!)māse śuklapakṣe tithau || 15 || bhaumavāsare ||",
+  "era": "VS",
+  "year": "1869",
+  "month": "aśvini",
+  "paksa": "śuklapakṣa",
+  "tithi": "15",
+  "weekday": "bhaumavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1812"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name or designation is damaged and fragmentary (ma///veratharīyā). 'śrīmate rāmacaṃdrāya' at the end is a deity dedication to Rāma. The catalogue lists 'King: Upendravikama', but this name does not appear in the quoted colophon.",
+ "_meta": {
+  "reel": "A 186/5",
+  "model": "gemini-flash-latest",
+  "secs": 9.8,
+  "in_tok": 789,
+  "out_tok": 2057
+ }
+}

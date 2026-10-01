@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñasaundaryyaharina",
+   "name": "Saundaryahari",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhika,daivajñasaundaryyaharina (!) saṃpūrṇṇa (!) samāptaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 810 phālguṇamāsya (!) kṛṣṇapakṣe, aṣṭamyāṃ tithau, ravivāre",
+  "era": "NS",
+  "year": "810",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1690"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 206/5",
+  "model": "gemini-flash-latest",
+  "secs": 3.0,
+  "in_tok": 790,
+  "out_tok": 785
+ }
+}

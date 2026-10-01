@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "+ + + + +",
+   "name": "Jīvarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "+ + + + + (8) nāmāsau likhitaṃ tena tatkathāṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīrāghava",
+   "name": "Rāghava",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāghava tanūjasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "other",
+   "to": "p2",
+   "evidence": "śrīrāghava tanūjasya, madhyamasyānujātmajaḥ | +++++(8) nāmāsau"
+  }
+ ],
+ "date": {
+  "as_written": "vaiśvānarābdhiśikhare, gate nepāla hāyane phālguṇasya site pakṣe daśamyām ādrayā (!) saha || saubhāgye suraje vāre",
+  "era": "NS",
+  "year": "743",
+  "month": "Phālguna",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "suraje vāre",
+  "nakshatra_yoga": "ārdrā, saubhāgya",
+  "ce_approx": "1623"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name is lacunose in the transcript (+ + + + + nāmāsau) but identified as Jīvarāma in the catalogue metadata. The scribe is described genealogically as the son of the younger brother of the middle son of Śrī Rāghava (śrīrāghavatanūjasya madhyamasyānujātmajaḥ). The chronogram vaiśvānara (3) - abdhi (4) - śikhara (7) yields NS 743.",
+ "_meta": {
+  "reel": "A 1371/3",
+  "model": "gemini-flash-latest",
+  "secs": 12.5,
+  "in_tok": 783,
+  "out_tok": 2240
+ }
+}

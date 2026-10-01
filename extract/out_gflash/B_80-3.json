@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devendra daivajñena",
+   "name": "Devendra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ devendra daivajñena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1639 māse 5 tithau 25 vāre 3 nakṣatre 6 yoge 16",
+  "era": "ŚS",
+  "year": "1639",
+  "month": "5",
+  "paksa": "",
+  "tithi": "25",
+  "weekday": "3",
+  "nakshatra_yoga": "nakṣatre 6 yoge 16",
+  "ce_approx": "1717"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date components are recorded numerically: month 5, tithi 25 (equivalent to kṛṣṇa daśamī), weekday 3 (Tuesday), nakṣatra 6 (Ārdrā), yoga 16 (Vajra).",
+ "_meta": {
+  "reel": "B 80/3",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 822,
+  "out_tok": 952
+ }
+}

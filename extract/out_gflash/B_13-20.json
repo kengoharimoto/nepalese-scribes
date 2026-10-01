@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No historical persons, date, or place are mentioned in the colophon; only generic benediction for scribes and readers (lekhakapāṭhakānāḥ) followed by narrative verses.",
+ "_meta": {
+  "reel": "B 13/20",
+  "model": "gemini-flash-latest",
+  "secs": 3.0,
+  "in_tok": 769,
+  "out_tok": 431
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "amarasiṃhakṛtau",
+   "name": "Amarasiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ity amarasiṃhakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jabbarasiṃha nāmnā",
+   "name": "Jabbarasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhad akhilahitārthaṃ jabbarasiṃha nāmnā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "dahanamunipurāṇaiḥ sammite vikramābde dinakṛti mithunasthe kṛṣṇapakṣadvitithyoḥ ditija ripupurodhasyahni [...] gajāgnyadricandrair mmite śrīśakebde śucau kṛṣṇapakṣe tithāv abjajeśe amarācāryyavāre",
+  "era": "VS",
+  "year": "1873 (VS) / 1738 (ŚS)",
+  "month": "Āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvitīyā",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1816"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "akhilahitārthaṃ, svecchayā",
+ "notes": "The scribe's name is spelled both Jabbarasiṃha (verse 1) and Javarasiṃha (verse 2). The date is given twice in chronograms: VS 1873 (dahana-muni-purāṇa) and Śaka 1738 (gaja-agni-adri-candra), both corresponding to 1816 CE.",
+ "_meta": {
+  "reel": "A 324/7",
+  "model": "gemini-flash-latest",
+  "secs": 6.7,
+  "in_tok": 891,
+  "out_tok": 1584
+ }
+}

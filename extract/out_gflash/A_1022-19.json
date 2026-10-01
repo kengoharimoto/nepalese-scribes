@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dhīmānaṃda",
+   "name": "Himānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija",
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhad dhīmānaṃda dvijaś ca dīkṣitaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke gate rāmanagāri somevāre ca some hi tithau caturthyāṃ || māse tathā śravaṇike",
+  "era": "ŚS",
+  "year": "1673",
+  "month": "Śrāvaṇa",
+  "paksa": "",
+  "tithi": "caturthī",
+  "weekday": "somevāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1751"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'rāmanagāri' encodes rāma (3), naga (7), ari (6), interpreted as Śāke 1673. The name Himānanda results from regular sandhi: likhat + hīmānanda → likhaddhīmānanda.",
+ "_meta": {
+  "reel": "A 1022/19",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 731,
+  "out_tok": 1597
+ }
+}

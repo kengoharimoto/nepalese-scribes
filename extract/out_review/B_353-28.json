@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Notes expanded: the two eras agree (ŚS 1774 + 78 = VS 1909 − 57 = 1852). Phālguna vadi falls in Feb–Mar, so ce_approx 1853 stands.",
+   "Notes: added that the name is normalized from gaurikānta- to Gaurīkānta and that roja 3 is read as Tuesday (counting from Sunday)."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaurikāntaśarmaṇaḥ",
+   "name": "Gaurīkānta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pūstakaṃ (!) gaurikāntaśarmaṇaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsāke 1774 śrīsamvat 1909 sāla mitī (!) phālguna vadi 14 roja 3",
+  "era": "ŚS",
+  "year": "1774 (ŚS) / 1909 (VS)",
+  "month": "phālguna",
+  "paksa": "vadi",
+  "tithi": "14",
+  "weekday": "roja 3 (Tuesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1853"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives ŚS 1747, but the colophon reads śrīsāke 1774, so the catalogue's digits are probably transposed. The two eras agree: ŚS 1774 + 78 = VS 1909 − 57 = 1852. Phālguna vadi falls in Feb–Mar, so the copy dates to about Feb–Mar 1853 CE. Roja 3 is read as Tuesday, counting Sunday as day 1. The name is written gaurikānta-, with a short i, and is normalized to Gaurīkānta. The genitive likhitam ... gaurikāntaśarmaṇaḥ is taken to name the scribe.",
+ "_meta": {
+  "reel": "B 353/28",
+  "model": "opus",
+  "cost_usd": 0.068578,
+  "secs": 12.3
+ }
+}

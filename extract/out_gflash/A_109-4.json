@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī śrījayajitāmitramalāsya(!)",
+   "name": "Jayajitāmitramalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "sūryavaṃśī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājādhirāja sūryavaṃ(!) śrī śrījayajitāmitramalāsya(!) vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvajrācāryajivadevena",
+   "name": "Jīvadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhita śrīvajrācāryajivadevena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrījayajitāmitramalāsya(!) vijayarājye lekhita śrīvajrācāryajivadevena"
+  }
+ ],
+ "date": {
+  "as_written": "nepālābde vaśa(!)grahamunirāje kāttike śukrapakṣe dvītiyānurāḍhe(!) śobhaṇayoge gurudine ... samvat 798",
+  "era": "NS",
+  "year": "798",
+  "month": "kāttike",
+  "paksa": "śukrapakṣe",
+  "tithi": "dvītiyā",
+  "weekday": "gurudine",
+  "nakshatra_yoga": "anurāḍhe śobhaṇayoge",
+  "ce_approx": "1677"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'vaśa(!)grahamunirāje' corresponds to 798 (vasu [8], graha [9], muni [7]). King Jayajitāmitramalla ruled Bhaktapur.",
+ "_meta": {
+  "reel": "A 109/4",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 854,
+  "out_tok": 1506
+ }
+}

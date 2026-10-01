@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījitānaṃdena",
+   "name": "Jitānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "mahābuddhopāsaka"
+   ],
+   "affiliation": "",
+   "residence": "lalitāpura",
+   "evidence": "likhitam idaṃ pustaka śrī lalitāpuranagarasya śrīmahābuddhopāśaka (!) śrījitānaṃdena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1933 vaiśākha vadi 3 roja etad dine",
+  "era": "VS",
+  "year": "1933",
+  "month": "vaiśākha",
+  "paksa": "vadi",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1876"
+ },
+ "place": {
+  "as_written": "śrī lalitāpuranagarasya",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The term 'roja' (from Persian roz) denotes 'day' rather than naming a specific weekday.",
+ "_meta": {
+  "reel": "A 964/16",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 728,
+  "out_tok": 953
+ }
+}

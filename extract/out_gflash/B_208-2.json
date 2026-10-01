@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ananto",
+   "name": "Ananta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmān ananto mudā, yatnā pūrṇṇatamaṃ lilekha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śunyarandhragirau tadā pragaṇite nepālasamvatsare, jyeṣṭhakāmatihau sitetaratare pakṣe nabhauṣetrabhe(!)",
+  "era": "NS",
+  "year": "790",
+  "month": "Jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "nabhauṣetrabhe(!)",
+  "ce_approx": "1670"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "devībhaktisamanvito",
+ "notes": "Year 790 expressed in chronogram (śūnya = 0, randhra = 9, giri = 7). Kāmatithi corresponds to the 13th tithi (trayodaśī). Sitetaratara indicates the dark fortnight (kṛṣṇapakṣa).",
+ "_meta": {
+  "reel": "B 208/2",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 754,
+  "out_tok": 854
+ }
+}

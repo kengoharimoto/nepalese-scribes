@@ -1,0 +1,55 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīpuruṣottamadeva-",
+   "name": "Puruṣottamadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpuruṣottamadevaviraci(9)tas",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ʼmṛto",
+   "name": "Amṛta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ʼmṛto likhad idam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "khagagamanakamalāsanānanamaṇimita 940 vatsare māghe [[ʼ]]site ʼnale",
+  "era": "NS",
+  "year": "940",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1820"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram: maṇi (9), kamalāsanānana (4), khagagamana (0) = 940. Anala refers to the 3rd tithi (tṛtīyā).",
+ "_meta": {
+  "reel": "A 1023/11",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 723,
+  "out_tok": 917
+ }
+}

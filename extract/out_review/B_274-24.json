@@ -1,0 +1,89 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Names stripped of the brahmin suffix bhaṭṭa: p1 'Rāmeśvarabhaṭṭa' → 'Rāmeśvara', p2 'Nārāyaṇabhaṭṭa' → 'Nārāyaṇa'; bhaṭṭa stays in titles.",
+   "p3: the scribe's name is in the cataloguer's crux (†…†) and may not be a name at all. It could be a garbled place or descriptive word before 'brāhmaṇena'. The string is kept as written, with low confidence and a note.",
+   "Date: the colophon gives two day-dates that don't agree: 'miti (vaiiśapya) vadī 10' (possibly Vaiśākha kṛṣṇa 10?) and 'bhādrapada śuklā tṛtīyā ravau'. The second is kept as the main date and the conflict is now in notes.",
+   "Notes extended: the catalogue's 'ŚS 1848' doesn't match 'saṃvat 1885'. 1848 could be a misreading or a digit swap. In this context saṃvat with miti/vadī most likely means VS, so 1828 CE."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadrāmeśvara(20r1)bhaṭṭa",
+   "name": "Rāmeśvara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadrāmeśvara(20r1)bhaṭṭasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nārāyaṇabhaṭṭa",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmeśvarabhaṭṭasutanārāyaṇabhaṭṭaviracitāyāṃ śakuṃtalaprākṛtavivṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "†yapurvehinaṇepīnāpya† brāhmaṇena",
+   "name": "Yapurvehinaṇepīnāpya",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "†yapurvehinaṇepīnāpya† brāhmaṇena liṣitam",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīmadrāmeśvara(20r1)bhaṭṭasutanārāyaṇabhaṭṭa"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1885 miti (vaiiśapya) vadī (!) 10 saṃmaye (!) bhādrapada || śuklā tṛtīyā ravau",
+  "era": "VS",
+  "year": "1885",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "tṛtīyā",
+  "weekday": "ravau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1828"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "1) Date: the catalogue gives 'ŚS 1848', but the colophon reads 'saṃvat 1885'. 1848 may be a misreading or a digit swap. The era is not named. In this context saṃvat with miti/vadī most likely means VS 1885, about 1828 CE. If it were ŚS 1885, the date would be 1963 CE, which is unlikely. 2) The colophon has two day-dates that don't agree: 'miti (vaiiśapya) vadī 10' (perhaps Vaiśākha kṛṣṇa 10) and 'bhādrapada śuklā tṛtīyā ravau'. The Bhādrapada date is recorded here. 3) Scribe: the cataloguer marks the text before 'brāhmaṇena' as corrupt (†yapurvehinaṇepīnāpya†). It may not be a personal name. It could, for example, contain a garbled place or ethnic word (…nepālīya?). The only certain point is that the scribe was a brāhmaṇa. 4) Nārāyaṇa, son of Rāmeśvara, wrote the Prākṛta commentary on the Śākuntala; he is not connected with this copy.",
+ "_meta": {
+  "reel": "B 274/24",
+  "model": "opus",
+  "cost_usd": 0.094082,
+  "secs": 22.6
+ }
+}

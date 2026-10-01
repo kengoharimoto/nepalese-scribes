@@ -1,0 +1,88 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dvijavala śrīvi[[śva]]nāthena",
+   "name": "Viśvanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvijavala śrīvi[[śva]]nā(52v4]thena ṛṣitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīśrī sumati jaya jitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrī sumati jaya jitāmitramalladevasana thva pustaka dayakā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bhāgīrāma",
+   "name": "Bhāgīrāma",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "paramāna"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgīrāma paramānayā verasa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "śrīśrī sumati jaya jitāmitramalladevasana thva pustaka dayakā"
+  },
+  {
+   "from": "p3",
+   "type": "servant_of",
+   "to": "p2",
+   "evidence": "bhāgīrāma paramānayā verasa"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 810 bhādrapada śukla trayodaśyāṃtithau vudhavāsare",
+  "era": "NS",
+  "year": "810",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "trayodaśī",
+  "weekday": "vudhavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1690"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon contains an added note in a different hand stating that King Jayajitāmitra Malla caused the book to be made during the term of Paramāna Bhāgīrāma. The catalogue lists King Śrīnivāsa Malla as well, who does not appear in this colophon portion.",
+ "_meta": {
+  "reel": "A 345/13",
+  "model": "gemini-flash-latest",
+  "secs": 6.7,
+  "in_tok": 858,
+  "out_tok": 1706
+ }
+}

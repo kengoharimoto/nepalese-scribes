@@ -1,0 +1,54 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed 'mumukṣu' from titles; it is an epithet ('seeker of liberation') of the scribe, and no longer used as the purpose",
+   "Purpose cleared: the colophon states no purpose",
+   "Residence cleared: the āśrama is given as the place of copying, not explicitly as the scribe's residence",
+   "Weekday normalized: roja 5 = Thursday",
+   "Place as_written kept; noted that 'rāmadilamuṇyāśrame' is probably a misreading of 'rāmadilapuṇyāśrame' (catalogue field reads Rāmadilapuṇyāśrama)",
+   "Notes expanded with the probable readings 'litaṃ' = likhitaṃ and 'mumukṣuṇe' = mumukṣuṇā"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vīrabhadrasādhaka mumukṣuṇe",
+   "name": "Vīrabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sādhaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vīrabhadrasādhaka mumukṣuṇe(!) idaṃ pustakaṃ litaṃ(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1887 || miti āśvina vadi 30 || roja 5",
+  "era": "VS",
+  "year": "1887",
+  "month": "āśvina",
+  "paksa": "vadi",
+  "tithi": "30",
+  "weekday": "Thursday (roja 5)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1830"
+ },
+ "place": {
+  "as_written": "galkoṭadaśruśaile rāmadilamuṇyāśrame",
+  "normalized": "Galkot"
+ },
+ "purpose": "",
+ "notes": "The author Aṣṭāvakra is a legendary sage, so he is left out of the persons list. The era is unmarked, but 'saṃvat 1887' with 'miti' and 'roja' is VS in Gorkhālī-period style, i.e. 1830 CE (Āśvina amāvāsyā, around October 1830). Roja 5 = Thursday. 'vīrabhadrasādhaka mumukṣuṇe' probably stands for 'vīrabhadrasādhakena mumukṣuṇā'; 'litaṃ' = likhitaṃ. 'rāmadilamuṇyāśrame' is probably 'rāmadilapuṇyāśrame' (the catalogue field reads Rāmadilapuṇyāśrama). 'galkoṭadaśruśaile' is obscure (perhaps galkoṭadeśe ... śaile?). Galkot is in western Nepal (Baglung district).",
+ "_meta": {
+  "reel": "B 60/7",
+  "model": "opus",
+  "cost_usd": 0.075338,
+  "secs": 24.6
+ }
+}

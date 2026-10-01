@@ -1,0 +1,77 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Added 'owner' to both scribes: 'svavācanārthaṃ' means the copy was made for their own reading ('paropakārārthaṃ vā' = or for others' benefit).",
+   "Added the title 'dvivedī' to Someśvara as well. The family surname covers father and son, which matches the catalogue's 'Someśvara Dvivedī'.",
+   "Normalised the weekday 'caṃdravāsara' to 'Monday' and the tithi to 'kṛṣṇa 4'.",
+   "Changed the purpose field to a short normalised form.",
+   "Expanded the notes: the -jī ending, the ubhābhyāṃ correction and the word division."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dvivedī kānhajī",
+   "name": "Kānhajī",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "dvivedī"
+   ],
+   "affiliation": "",
+   "residence": "Avaṃtīnagara",
+   "evidence": "dvivedī kānhajītatputra (!) someśvara umābhyāṃ pitā putrābhyāṃ militvā liṣitoyaṃ (!) graṃthaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "someśvara",
+   "name": "Someśvara",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "dvivedī"
+   ],
+   "affiliation": "",
+   "residence": "Avaṃtīnagara",
+   "evidence": "kānhajītatputra (!) someśvara umābhyāṃ pitā putrābhyāṃ militvā liṣitoyaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "kānhajītatputra (!) someśvara"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1775 varṣe māse bhādrapade kṛṣṇapakṣe caturthī caṃdravāsare",
+  "era": "VS",
+  "year": "1775",
+  "month": "Bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "4",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1718"
+ },
+ "place": {
+  "as_written": "avaṃtīnagaramadhye",
+  "normalized": "Ujjain"
+ },
+ "purpose": "svavācanārtha (own reading) or paropakārārtha (for others' benefit)",
+ "notes": "The phrase reads 'dvivedī Kānhajī tatputra Someśvara ubhābhyāṃ (written umābhyāṃ) pitāputrābhyāṃ militvā likhito (written liṣito) 'yaṃ granthaḥ': father and son copied the book together. The ending -jī in Kānhajī may be an honorific (stem Kānha), but it is kept because it works as the name in this western/central Indian usage. The colophon's 'dvivedī' stands before the father's name; giving it to the son as well is inferred from shared family status and the catalogue's 'Someśvara Dvivedī'. The catalogue names only Someśvara as scribe, but the colophon names both men. VS 1775 = c. 1718 CE (Bhādrapada, probably August–September 1718). Avaṃtīnagara = Ujjain. This is a non-Nepalese (Mālwā) manuscript.",
+ "_meta": {
+  "reel": "B 238/7",
+  "model": "opus",
+  "cost_usd": 0.08460200000000001,
+  "secs": 17.5
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "annaṃ bhaṭṭa",
+   "name": "Annaṃbhaṭṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "annaṃ bhaṭṭaviracitas",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvatsarakhakhaḍāṣṭacaṃde poṣe tha kṛṣṇake †ditije dretije dre† gurau",
+  "era": "VS",
+  "year": "1860",
+  "month": "Pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvitīyā",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1804"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe refers to himself only as 'mayā' (likhitaṃ mayā). The chronogram for the year is slightly corrupt (khakhaḍāṣṭacaṃde), read as VS 1860 by the cataloguer.",
+ "_meta": {
+  "reel": "A 909/2",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 894,
+  "out_tok": 1182
+ }
+}

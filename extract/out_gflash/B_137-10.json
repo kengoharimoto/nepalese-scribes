@@ -1,0 +1,68 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paḍmanārāyaṇakhaḥ",
+   "name": "Padmanārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "gaṇaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhati hi gaṇakaḥ paḍmanārāyaṇakhaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jayakalyāṇaviprasya",
+   "name": "Jayakalyāṇa",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "dvijavara",
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdvijavarajayakalyāṇaviprasya nṛṇā rājāṃ saṃmānitasya pracuraguṇagariṣṭasya tanmerutantraṃ ... likhati",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "śrīdvijavarajayakalyāṇaviprasya ... tanmerutantraṃ ... likhati hi gaṇakaḥ paḍmanārāyaṇakhaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "śāke vjo bhūpagate vatsare taiṣaśuklake caturthyām indudivase vittarkṣa nav saṃyute",
+  "era": "ŚS",
+  "year": "vjo bhūpa",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "Monday",
+  "nakshatra_yoga": "vittarkṣa",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "śrīman nepāladeśe paśupatinikaṭe vāṅmatīnimnagāyās tīre kāntipure",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "mokṣadaṃ",
+ "notes": "The chronogram or reading for the Śaka year ('vjo bhūpa') is corrupt/unclear. Taiṣa stands for Pauṣa, indudivasa is Monday.",
+ "_meta": {
+  "reel": "B 137/10",
+  "model": "gemini-flash-latest",
+  "secs": 8.6,
+  "in_tok": 895,
+  "out_tok": 1967
+ }
+}

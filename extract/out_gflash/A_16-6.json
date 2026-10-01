@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vipraśrījayabrahmaśarmaṇa(!)",
+   "name": "Jayabrahmaśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vipraśrījayabrahmaśarmaṇa(!) likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 313 pauṣyaśuklapañcamyāṃ | śukravāsare || śatabhṛśanakṣatre",
+  "era": "NS",
+  "year": "313",
+  "month": "pauṣya",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "śukravāsara",
+  "nakshatra_yoga": "śatabhṛśa",
+  "ce_approx": "1193"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue fields list tithi 8, but the colophon clearly reads 'pauṣyaśuklapañcamyāṃ' (5th tithi).",
+ "_meta": {
+  "reel": "A 16/6",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 758,
+  "out_tok": 859
+ }
+}

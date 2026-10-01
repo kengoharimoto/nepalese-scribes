@@ -1,0 +1,115 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p4 name normalized from 'Bhānuśarman' to 'Bhānu'; 'śarman' moved to titles",
+   "p4 scribe confidence lowered to medium: the verb (likhitam etc.) is in the lacuna after the date",
+   "Added relation p4 grandson_of p2 (Raṅganātha)",
+   "Weekday normalized to 'Sunday (ravivāsara)'",
+   "Notes expanded: chronogram check, era conflict with the catalogue, ce_approx reasoning"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "varāha mihirācārya",
+   "name": "Varāhamihira",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī varāha mihirācārya racitelaghujātake",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "raṃganātha",
+   "name": "Raṅganātha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vidvajjana sabhādhīraraṃganātha tanūjaneḥ(!)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vālakṛṣṇasya",
+   "name": "Bālakṛṣṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajña vālakṛṣṇasya sūnunā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "bhānu śarmaṇā",
+   "name": "Bhānu",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vālakṛṣṇasya sūnunā bhānu śarmaṇā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "vālakṛṣṇasya sūnunā bhānu śarmaṇā"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "raṃganātha tanūjaneḥ(!) || daivajña vālakṛṣṇasya"
+  },
+  {
+   "from": "p4",
+   "type": "grandson_of",
+   "to": "p2",
+   "evidence": "raṃganātha tanūjaneḥ(!) || daivajña vālakṛṣṇasya sūnunā bhānu śarmaṇā"
+  }
+ ],
+ "date": {
+  "as_written": "nabho gajadhṛti miteśake vikrama bhūpateḥ || māghe māsi site pakṣe pakṣatyāṃ ravi vāsare",
+  "era": "VS",
+  "year": "1880",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "pratipad (pakṣatī)",
+  "weekday": "Sunday (ravivāsara)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1824"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram nabhas (0), gaja (8), dhṛti (18), read right to left, gives 1880. 'śake vikrama bhūpateḥ' names the era of King Vikrama, so this is VS 1880, not ŚS 1880 as the catalogue says. 'śaka' here just means 'era'. VS 1880 corresponds to 1823/24 CE. Māgha śukla pratipad of that year falls in Jan/Feb 1824 CE. The colophon breaks off after the date ('------- ///'), so the verb that would make Bhānuśarman the scribe is lost. Even so, the verse with the instrumental 'bhānu śarmaṇā' almost certainly names the copyist. 'vidvajjanasabhādhīra' is an epithet of Raṅganātha, not a title. 'khakhākaiḥ ślokai' (= 900 ślokas, read right to left) is the extent of the text, not a date. 'tanūjaneḥ(!)' is a mistake for 'tanūjanuṣaḥ'/'tanūjasya' ('son of'), and agrees with 'vālakṛṣṇasya'.",
+ "_meta": {
+  "reel": "A 1067/12",
+  "model": "opus",
+  "cost_usd": 0.09607000000000002,
+  "secs": 20.5
+ }
+}

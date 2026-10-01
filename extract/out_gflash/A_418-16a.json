@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmaprasādaśarmaṇaḥ",
+   "name": "Rāmaprasāda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lipir iyaṃ śrīrāmaprasādaśarmaṇaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śakaṃ 1705",
+  "era": "ŚS",
+  "year": "1705",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1783"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 418/16a",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 694,
+  "out_tok": 520
+ }
+}

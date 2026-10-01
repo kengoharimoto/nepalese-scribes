@@ -1,0 +1,152 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sthitirājamallanṛpatir",
+   "name": "Jayasthitirājamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpati",
+    "deva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījaya sthitirājamalladevasya vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rājalla〇devīpateḥ",
+   "name": "Rājalladevī",
+   "roles": [
+    "queen"
+   ],
+   "titles": [
+    "devī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājye śrīsthitirājamallanṛpate rājalla〇devīpateḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "maṇikābhidhena",
+   "name": "Maṇika",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "maṇikābhidhena kṛtinā nepālavācā kṛṭā ṭīkā nyāyavikāsinī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "candanavarmasūnur",
+   "name": "Candanavarman",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "candanavarmasūnur",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "amātya jayatavarmaṇaḥ",
+   "name": "Jayatavarman",
+   "roles": [
+    "minister",
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "amātya",
+    "mantrī",
+    "mantrīndra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mantrīṃdra jayata〇syārthe spaṣṭe yaṃ nyāyaṭippiṇī || ... amātya jayatavarmaṇaḥ puṣtakam idam alekhi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "śrīluntabhadreneti",
+   "name": "Luntabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya",
+    "śākyabhikṣu"
+   ],
+   "affiliation": "Śrīkīrttipuṇyamahāvihāra",
+   "residence": "",
+   "evidence": "likhitā luṃtabhadreṇa vajrācāryeṇa dhīmatā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wife_of",
+   "to": "p1",
+   "evidence": "rājalla〇devīpateḥ"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "candanavarmasūnur"
+  },
+  {
+   "from": "p6",
+   "type": "wrote_for",
+   "to": "p5",
+   "evidence": "mantrīṃdra jayata〇syārthe spaṣṭe yaṃ nyāyaṭippiṇī || ... amātya jayatavarmaṇaḥ puṣtakam idam alekhi śrīkīrttipuṇyamahāvihārādhivāsinā sākyabhikṣu vajracārya śrīluntabhadreneti"
+  },
+  {
+   "from": "p6",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīśrījaya sthitirājamalladevasya vijayarājye"
+  },
+  {
+   "from": "p5",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "nepāle sthitirājamallanṛpatir ... tasyāmātyavaro"
+  }
+ ],
+ "date": {
+  "as_written": "śrīnepālikavatsare khakhaśare pakṣe śite phālguṇe māse cāgnitithau girāpratidina ... śrīnepālikasamvatsare 500 phālguna śukla tṛtīyāyāṃ guruvāsare",
+  "era": "NS",
+  "year": "500",
+  "month": "phālguna",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1380"
+ },
+ "place": {
+  "as_written": "bhaktāpurīpaṭṭane / bhaktapure",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "mantrīndra jayatasyārthe (written for minister Jayata / Jayatavarman)",
+ "notes": "The colophon first gives the text of the composition/copying in verse with the chronogram khakhaśare (500), agnitithi (3), girāpratidina (Thursday), and then repeats the details in prose.",
+ "_meta": {
+  "reel": "A 1160/6",
+  "model": "gemini-flash-latest",
+  "secs": 11.3,
+  "in_tok": 1357,
+  "out_tok": 3272
+ }
+}

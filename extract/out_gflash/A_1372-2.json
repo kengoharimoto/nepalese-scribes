@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkṛṣṇadāsasārvabhuma",
+   "name": "Kṛṣṇadāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "sārvabhauma"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkṛṣṇadāsasārvabhumaviracito",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhūdevaḥ",
+   "name": "Bhūdeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhūdevaḥ samalī likhan",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nidhyagnāśvidhau 1739 śake vrajaṃ dine śukrākhya māse tithau dvādaśyāṃ",
+  "era": "ŚS",
+  "year": "1739",
+  "month": "śukrākhya",
+  "paksa": "",
+  "tithi": "dvādaśī",
+  "weekday": "vrajaṃ dine",
+  "nakshatra_yoga": "",
+  "ce_approx": "1817"
+ },
+ "place": {
+  "as_written": "nagare da . . . la vana(?) śrīvarddhamānābhidhe || ... vākā nāma nadītaṭe tu viṣaye śrīmaṅgalāsannidhau",
+  "normalized": "Bardhaman"
+ },
+ "purpose": "",
+ "notes": "The scribe is either named Bhūdeva or referred to generally as a brāhmaṇa (bhūdeva); the verb appears to be samalīlikhat ('wrote/copied'). The month 'śukrākhya' refers to Jyeṣṭha.",
+ "_meta": {
+  "reel": "A 1372/2",
+  "model": "gemini-flash-latest",
+  "secs": 11.0,
+  "in_tok": 775,
+  "out_tok": 2248
+ }
+}

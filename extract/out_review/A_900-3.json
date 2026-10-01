@@ -1,0 +1,76 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Chronogram re-read: guṇa=3, anala=3, khaga=9 (planets), eka=1, read right to left = 1933, not 1936. The catalogue's 1936 needs guṇa=6, which is a rare value. Year set to VS 1933 (ce_approx 1876); the catalogue figure is recorded in notes.",
+   "Jaṅgabahādura: role changed from 'king' to 'minister'. He was Prime Minister and Mahārāja of Kaski-Lamjung, not the reigning king of Nepal. The colophon calls him nṛpa, so that title is kept. Confidence lowered to medium.",
+   "Relation p1→p2 changed from under_reign_of to other: the copy was made on his birthday and is not dated by his reign.",
+   "Scribe's title normalised to 'vidvān'.",
+   "Tithi field: 'janmatithi' kept but explained in notes. No calendrical tithi is given."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sādhurāmaviduṣā",
+   "name": "Sādhurāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vidvān"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sādhurāmaviduṣā likhito yam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jaṅgavahāduravamarṇo (!) nṛpasya",
+   "name": "Jaṅgabahādura",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "nṛpa",
+    "varman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jaṅgavahāduravamarṇo (!) nṛpasya janmatithau",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "other",
+   "to": "p2",
+   "evidence": "jaṅgavahāduravamarṇo (!) nṛpasya janmatithau sādhurāmaviduṣā likhito yam"
+  }
+ ],
+ "date": {
+  "as_written": "guṇānalakhagaikasaṃmite bde ... nṛpasya janmatithau",
+  "era": "VS",
+  "year": "1933",
+  "month": "",
+  "paksa": "",
+  "tithi": "janmatithi (birthday of Jaṅgabahādura)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1876"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "copied on the birthday of Jaṅgabahādura",
+ "notes": "No era is named. VS is assumed because of the period of Jang Bahadur Rana and the catalogue field. The chronogram reads guṇa(3) anala(3) khaga(9) eka(1). Read right to left this gives 1933 (1876/77 CE). The catalogue's VS 1936 works only if guṇa=6. VS 1933 is also historically more likely: Jang Bahadur died in February 1877 (VS 1933), so a copy made on his birthday in VS 1936 would fall after his death. 'vamarṇo (!)' is probably a corruption of 'varmaṇo' (Jaṅgabahādura Varmā). He was Prime Minister and Mahārāja of Kaski-Lamjung, not king of Nepal, though the colophon calls him nṛpa. 'janmatithi' is his birthday, not a calendrical tithi.",
+ "_meta": {
+  "reel": "A 900/3",
+  "model": "opus",
+  "cost_usd": 0.093746,
+  "secs": 24.0
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśvanātha",
+   "name": "Viśvanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viśvanāthakṛta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vedāṃvarāṣṭendvabde",
+  "era": "unspecified",
+  "year": "1804",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'vedāṃvarāṣṭendvabde' yields year 1804 (veda = 4, ambara = 0, aṣṭa = 8, indu = 1). If taken as Vikrama Saṃvat (as catalogued: Samvat 1804), it corresponds to ca. 1747 CE. No scribe name is mentioned ('likhat').",
+ "_meta": {
+  "reel": "A 217/2",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 729,
+  "out_tok": 1112
+ }
+}

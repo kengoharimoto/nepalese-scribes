@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayasiṃhena",
+   "name": "Jayasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmmācārya"
+   ],
+   "affiliation": "Vidyāpīṭha",
+   "residence": "Vidyāpīṭha",
+   "evidence": "likhitaṃ, vidyāpīṭhayā, karmmācārya, jayasiṃhena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 813 māghavadi 13",
+  "era": "NS",
+  "year": "813",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1693"
+ },
+ "place": {
+  "as_written": "vidyāpīṭhayā",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "E 1562/18",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 763,
+  "out_tok": 846
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnāgabhaṭṭa",
+   "name": "Nāgabhaṭṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnāgabhaṭṭaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 834 āṣāḍhaśukladvitīyāyāṃ śukravāsare",
+  "era": "NS",
+  "year": "834",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "śukravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1714"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 231/7",
+  "model": "gemini-flash-latest",
+  "secs": 2.8,
+  "in_tok": 758,
+  "out_tok": 682
+ }
+}

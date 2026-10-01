@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayabhūpatīndramalladeva",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayabhūpatīndramalladevasanathava rājakumā(4)ra... dayakase vijyaṅā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīśrījayaraṇajītarmalladeva",
+   "name": "Jayaraṇajītamalladeva",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [
+    "rājakumāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājakumā(4)raśrīśrījayaraṇajītarmalladevasayāta ihiyāta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "thava rājakumā(4)ra"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 833 kārttiva dvi 1",
+  "era": "NS",
+  "year": "833",
+  "month": "kārttiva",
+  "paksa": "dvi",
+  "tithi": "1",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1712"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for the ihi ceremony of Prince Jayaraṇajītamalla (rājakumāraśrīśrījayaraṇajītarmalladevasayāta ihiyāta)",
+ "notes": "The Newari text reads 'śrīśrījayabhūpatīndramalladevasana thava rājakumāra... ihiyāta... dayakase vijyaṅā', indicating King Jayabhūpatīndramalla had the drama composed/produced for the ihi ceremony of his son Prince Jayaraṇajītamalla.",
+ "_meta": {
+  "reel": "B 274/28",
+  "model": "gemini-flash-latest",
+  "secs": 14.8,
+  "in_tok": 734,
+  "out_tok": 2996
+ }
+}

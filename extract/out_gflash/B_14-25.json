@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "amarasiṃha",
+   "name": "Amarasiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "amarasiṃhakṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "sa 550 phālguṇa kṛṣṇa caturddaśī dine",
+  "era": "NS",
+  "year": "550",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturddaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1430"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 14/25",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 726,
+  "out_tok": 639
+ }
+}

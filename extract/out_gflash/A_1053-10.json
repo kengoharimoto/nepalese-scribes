@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdāmodara",
+   "name": "Dāmodara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "Dīrghaghoṣakula",
+   "residence": "",
+   "evidence": "śrīdāmodaravarṇite vāṇībhūṣaṇe",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "lakṣmīnārāyaṇajyotirvidā",
+   "name": "Lakṣmīnārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ lakṣmīnārāyaṇajyotirvidā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1803 vaiśākhakṛṣṇāṣṭamyām tithau budhadine",
+  "era": "VS",
+  "year": "1803",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "budhadina",
+  "nakshatra_yoga": "",
+  "ce_approx": "1746"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1053/10",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 909,
+  "out_tok": 1250
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vyāsagokulanātha",
+   "name": "Gokulanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vyāsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ vyāsagokulanātha (!) | ... mehamaṃdapuramadhye alīlekhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "mitī (!) śrāvaṇavadi 3 bhaumavāre | || saṃmat (!) 1827",
+  "era": "VS",
+  "year": "1827",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "3",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1770"
+ },
+ "place": {
+  "as_written": "mehamaṃdapuramadhye",
+  "normalized": "Mehamaṃdapura"
+ },
+ "purpose": "",
+ "notes": "The colophon has both passive participle 'likhitaṃ' and the causative aorist form 'alīlekhat' ('caused to be written' or used loosely for 'wrote').",
+ "_meta": {
+  "reel": "A 104/2",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 867,
+  "out_tok": 1083
+ }
+}

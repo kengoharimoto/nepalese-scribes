@@ -1,0 +1,60 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kolavalamallināthasūri",
+   "name": "Mallināthasūri",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "mahopādhyāya",
+    "sūri"
+   ],
+   "affiliation": "Kolavala",
+   "residence": "",
+   "evidence": "kolavalamallināthasūriviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jadunāthasvāmī",
+   "name": "Yadunātha",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "svāmī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jadunāthasvāmī",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1667 samaye sāvana sudī chaṭI vāraguravāsare",
+  "era": "VS",
+  "year": "1667",
+  "month": "sāvana",
+  "paksa": "sudī",
+  "tithi": "chaṭI",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1610"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "jadunāthasvāmī (preceded by śrīgopālajī) may be an invocation to Kṛṣṇa (Yadunātha Svāmin) or could refer to a contemporary religious figure such as the Vallabha Gosvāmī Yadunātha (fl. early 17th c.).",
+ "_meta": {
+  "reel": "A 395/9",
+  "model": "gemini-flash-latest",
+  "secs": 12.9,
+  "in_tok": 752,
+  "out_tok": 2973
+ }
+}

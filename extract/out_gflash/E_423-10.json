@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībrhmarājo",
+   "name": "Brahmarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībrhmarājolikhati sma hi dvijo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "muniskandamukhebhavatsare, pakṣe site vahnitithau vidhau dine",
+  "era": "NS",
+  "year": "768",
+  "month": "",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1648"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'muniskandamukhebhavatsare' gives muni (7), skandamukha (6), ibha (8), interpreted left-to-right as 768 (as recorded in the catalogue) or right-to-left as 867.",
+ "_meta": {
+  "reel": "E 423/10",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 699,
+  "out_tok": 1215
+ }
+}

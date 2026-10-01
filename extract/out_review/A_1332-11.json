@@ -1,0 +1,70 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date: chronogram resolved as abhra (0) – abdhi (4) – śikharin (7) – indu (1), read right to left, giving Śaka 1740. 'vara' is taken as a corrupt or filler element, not a digit. ce_approx set to 1818 (ŚS+78); year field changed to 1740.",
+   "Scribe p2: removed residence 'Vārāṇasī'. The colophon gives Vārāṇasī only as the place of copying ('vārāṇasyām iti śeṣaḥ'), not as where the scribe lived.",
+   "Scribe p2: confidence lowered to medium. The name division (Lālaratna + dharaṇītridaśa = bhūdeva, i.e. brāhmaṇa) is a reading, not explicit.",
+   "Author p1: titles normalized; 'tarkālaṃkāra' kept as a title. 'mahāmopādhyāya' is the colophon's form of mahāmahopādhyāya.",
+   "Notes rewritten: the chronogram is not unreadable, and the metre is irregular."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmopādhyāya śrīyuta jagadīśatarkālaṃkāra bhaṭṭācārya",
+   "name": "Jagadīśa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "tarkālaṃkāra",
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jagadīśatarkālaṃkāra bhaṭṭācārya viracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīlālaratnadharaṇī tridaśo",
+   "name": "Lālaratna",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dharaṇītridaśa (bhūdeva, i.e. brāhmaṇa)"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīlālaratnadharaṇī tridaśo alikhaddhi",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "abhrevarāvdhi śikharīndumite śake vyorjja śaubhra pakṣa guruvārayutā jajāhe",
+  "era": "ŚS",
+  "year": "1740",
+  "month": "Kārttika (ūrja)",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "Thursday (guruvāra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1818"
+ },
+ "place": {
+  "as_written": "śrī vārāṇasyām",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "Chronogram: 'abhrevarāvdhi śikharīndu-' is read as abhra (0) – abdhi (4) – śikharin (7) – indu (1). Read right to left this gives Śaka 1740 (about 1818 CE), which fits a copy of a work by Jagadīśa (about 1600). 'vara' (or 'abhre') is corrupt and does not give a clean digit. It could be emended (e.g. svara = 7), but that would give one digit too many, so the reading is uncertain. The first pāda of the Vasantatilakā verse seems to be a syllable short, which supports corruption here. 'vyorjja' = vā ūrja (Kārttika). 'śaubhra' = śubhra/śukla. 'jajāhe' is probably for jagāhe/jajñe. The catalogue gives the scribe as 'Śrīlālaratnadharaṇī'. The better reading is śrī-Lālaratna, a dharaṇītridaśa ('god on earth', i.e. a brāhmaṇa). The work is Jagadīśa's ṭippaṇī on the Dīdhiti on the Siddhāntalakṣaṇa portion of the Tattvacintāmaṇi ('siddhāntalakṣaṇakadīdhiti ṭippaṇīṃ'). Raghunātha and Gaṅgeśa are not named, so they are not listed.",
+ "_meta": {
+  "reel": "A 1332/11",
+  "model": "opus",
+  "cost_usd": 0.10830600000000001,
+  "secs": 31.5
+ }
+}

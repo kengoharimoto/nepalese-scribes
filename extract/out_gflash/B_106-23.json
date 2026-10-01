@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "varjācāryya viśvaratnaṃ",
+   "name": "Viśvaratna",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "varjācārya"
+   ],
+   "affiliation": "Jhvābāhāra",
+   "residence": "Taṃrāchitola",
+   "evidence": "varjācāryya viśvaratnaṃ coyā thaota dayakā tayā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1021 mti phārguna śukla pūrṇṇemā",
+  "era": "NS",
+  "year": "1021",
+  "month": "phārguna",
+  "paksa": "śukla",
+  "tithi": "pūrṇṇemā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1901"
+ },
+ "place": {
+  "as_written": "taṃrāchitola jhvābāhāra",
+  "normalized": ""
+ },
+ "purpose": "thaota dayakā tayā (for oneself)",
+ "notes": "",
+ "_meta": {
+  "reel": "B 106/23",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 803,
+  "out_tok": 999
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkṛṣṇaśarmaṇaḥ",
+   "name": "Kṛṣṇaśarman",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "Rāmanagara",
+   "evidence": "jyotirvidupākhyaśrīkṛṣṇaśarmaṇaḥ pustakam idam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Ownership statement at fol. 18r11: 'rāmanagaravā○jyotirvidupākhyaśrīkṛṣṇaśarmaṇaḥ pustakam idam', where 'vā○' abbreviates vāsin/vāstavya (resident of Rāmanagara).",
+ "_meta": {
+  "reel": "A 188/8",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 688,
+  "out_tok": 633
+ }
+}

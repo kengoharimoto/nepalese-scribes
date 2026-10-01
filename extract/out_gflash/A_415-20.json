@@ -1,0 +1,77 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śyāmadevasya",
+   "name": "Śyāmadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śyāmadevasya putreṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vīradevena",
+   "name": "Vīradeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Lalitāpura",
+   "evidence": "lalitāpuranivāsinā (!) | likhitaṃ vīradevena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīdvijavara(‥‥‥)sya",
+   "name": "Dvijavara(‥‥‥)",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdvijavara(‥‥‥)sya pustakam idamṃ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śyāmadevasya putreṇa ... vīradevena"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "lalitāpura",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "No date is given in the quoted colophon. The name of the owner at the end is damaged/lacunose: 'śrīdvijavara(‥‥‥)sya pustakam idamṃ'.",
+ "_meta": {
+  "reel": "A 415/20",
+  "model": "gemini-flash-latest",
+  "secs": 7.2,
+  "in_tok": 818,
+  "out_tok": 1715
+ }
+}

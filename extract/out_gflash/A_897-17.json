@@ -1,0 +1,55 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvaikuṇṭhapurī",
+   "name": "Vaikuṇṭhapurī",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvaikuṇṭhapurīviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jāgeśvarena",
+   "name": "Jāgeśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jāgeśvarena likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī 1932 sāla vaiśākha sudi 14 roja 2 mā",
+  "era": "VS",
+  "year": "1932",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "14",
+  "weekday": "roja 2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1875"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 897/17",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 767,
+  "out_tok": 900
+ }
+}

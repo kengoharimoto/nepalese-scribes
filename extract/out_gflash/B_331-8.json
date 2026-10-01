@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "balabhadraśarmmān",
+   "name": "Balabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ balabhadraśarmmān",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke śarāgnitithyai (!) māse kārttika vadi ekada(4)śyāṃ (!) śukravāsarena (!)",
+  "era": "ŚS",
+  "year": "1535",
+  "month": "kārttika",
+  "paksa": "vadi",
+  "tithi": "ekādaśī",
+  "weekday": "śukravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1613"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram: śara (5) + agni (3) + tithi (15) = Śaka 1535.",
+ "_meta": {
+  "reel": "B 331/8",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 775,
+  "out_tok": 772
+ }
+}

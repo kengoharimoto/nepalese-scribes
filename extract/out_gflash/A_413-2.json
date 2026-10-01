@@ -1,0 +1,97 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahārājādhirājaśrīṭoḍaramalladeva",
+   "name": "Ṭoḍaramalladeva",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ṭoḍaramalladevakārite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "anaṃta",
+   "name": "Ananta",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "vidvat",
+    "daivajñavarya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vidvaddaivajñavaryyānaṃtasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīnīlakaṃṭhavipaścit",
+   "name": "Nīlakaṇṭha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "vipaścit"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nīlakaṃṭhavipaścidviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "kṛṇalāla śarmmaṇā",
+   "name": "Kṛṣṇalāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitamidaṃ pustakaṃ kṛṇalāla śarmmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "anaṃtasuta"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1768 saṃvat 1903 jyeṣṭhaśukla trayodaśyāṃ ravau",
+  "era": "ŚS",
+  "year": "1768",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "trayodaśī",
+  "weekday": "ravau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1846"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śaka 1768 and Vikrama Saṃvat 1903 are specified (corresponding to 1846 CE). The scribe's name is written kṛṇalāla (for Kṛṣṇalāla). Ṭoḍaramalla is the patron who commissioned the compilation of the encyclopedic Ṭoḍarānanda.",
+ "_meta": {
+  "reel": "A 413/2",
+  "model": "gemini-flash-latest",
+  "secs": 9.4,
+  "in_tok": 803,
+  "out_tok": 2407
+ }
+}

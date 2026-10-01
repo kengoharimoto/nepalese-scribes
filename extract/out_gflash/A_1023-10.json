@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "medinika(5)ra",
+   "name": "Medinīkara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "medinika(5)rakṛtānekārthakoṣaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vāṇīrājaśarmmaṇā",
+   "name": "Vāṇīrāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ vāṇīrājaśarmmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 964 jyeṣṭhavadi 5 roja 4",
+  "era": "NS",
+  "year": "964",
+  "month": "jyeṣṭha",
+  "paksa": "vadi",
+  "tithi": "5",
+  "weekday": "roja 4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1844"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1023/10",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 707,
+  "out_tok": 863
+ }
+}

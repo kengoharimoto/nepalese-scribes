@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭajīvārāmaḥ",
+   "name": "Jīvārāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "līṣataṃ (!) bhaṭajīvārāmaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1760 mītī(!) vaiśāṣa(!) kṛsna aṣṭamī somavāra",
+  "era": "unspecified",
+  "year": "1760",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "kāśī madhe(!)",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The catalogue suggests Śaka era ([ŚS] 1760 = 1838 CE, where Vaiśākha kṛṣṇa 8 falls on a Monday), though saṃvat with mītī often denotes Vikrama Saṃvat (1703 CE).",
+ "_meta": {
+  "reel": "A 214/11",
+  "model": "gemini-flash-latest",
+  "secs": 7.3,
+  "in_tok": 819,
+  "out_tok": 1690
+ }
+}

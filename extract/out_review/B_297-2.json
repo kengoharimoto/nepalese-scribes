@@ -1,0 +1,61 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes; nakshatra/yoga field normalised (Mṛgaśiras; Sādhya)",
+   "Notes expanded: role of Kāśīnātha unknown, (!) marks are cataloguer's spelling flags, date CE 1670 (Mārgaśira NS 791 falls in Nov/Dec 1670)"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vikramasiṃhena",
+   "name": "Vikramasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ vikramasiṃhena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kāśīnātha- ?",
+   "name": "Kāśīnātha",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāśīnātha- ?",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 791 mārggaśirakṛṣṇadvitīyā, (!) mṛgaśiranakṣatra, (!) sādhyayoga, (!) śukravāra, (!)",
+  "era": "NS",
+  "year": "791",
+  "month": "Mārgaśira",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvitīyā",
+  "weekday": "śukravāra (Friday)",
+  "nakshatra_yoga": "Mṛgaśiras; Sādhya",
+  "ce_approx": "1670"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The colophon closes with the Ayodhyākāṇḍa only. Era is not stated, but 'samvat 791' in a Newari-script MS is NS (the catalogue agrees), so CE 1670. The (!) marks after each element flag the cataloguer's spelling issues; they do not mean the date is wrong. The weekday has not been verified. The colophon breaks off after 'kāśīnātha- ?', and the cataloguer could not read the rest. This may be a relative of the scribe, an owner or a commissioner, so the role is left as 'other' with low confidence.",
+ "_meta": {
+  "reel": "B 297/2",
+  "model": "opus",
+  "cost_usd": 0.068914,
+  "secs": 12.9
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ācāryagopadattasya",
+   "name": "Gopadatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtir ācāryagopadattasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 608 jeṣṭabadi daśathyāṃ 〇| revatinakṣatre śobhanayoge budavāsare",
+  "era": "NS",
+  "year": "608",
+  "month": "jeṣṭa",
+  "paksa": "badi",
+  "tithi": "daśathī",
+  "weekday": "budavāsara",
+  "nakshatra_yoga": "revatinakṣatre śobhanayoge",
+  "ce_approx": "1488"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe is unnamed (only mentioned generically in the scribal apology formula yathādṛṣṭan tathā likhitaṃ lekhako nāsti doṣabhāg iti).",
+ "_meta": {
+  "reel": "A 39/6",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 808,
+  "out_tok": 946
+ }
+}

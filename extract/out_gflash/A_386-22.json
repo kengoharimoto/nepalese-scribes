@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmabhadraḥ",
+   "name": "Rāmabhadra",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "praśasti parikalpanāṃ sukṛti rāmabhadraḥ kṛtī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śake dharaṇikhāgabhūparimite śucaumāsibhe samīraṇasuresite haritithijyavārānvite",
+  "era": "ŚS",
+  "year": "1701",
+  "month": "śuci",
+  "paksa": "sita",
+  "tithi": "hari (11)",
+  "weekday": "jyavāra (Thursday)",
+  "nakshatra_yoga": "samīraṇa (Svātī)",
+  "ce_approx": "1779"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'dharaṇikhāgabhū' represents 1-0-7-1 = Śaka 1701 (dharaṇi = 1, kha = 0, aga = 7, bhū = 1). Rāmabhadra composed the praśasti.",
+ "_meta": {
+  "reel": "A 386/22",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 715,
+  "out_tok": 1067
+ }
+}

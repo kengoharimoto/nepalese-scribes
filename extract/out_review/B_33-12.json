@@ -1,0 +1,114 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name: removed the brahmin suffix -śarman. The name is now 'Jayapati Soma', with śarman moved to titles.",
+   "p1 titles: 'sthānādhipati' was moved into affiliation. The compound 'thaṃbusthānādhipativipravaṃśodbhava' describes his lineage, not an office he held. Added 'vipra'.",
+   "p1 residence/affiliation: separated the residence (Thaṃbu-sthāna in the south-west of Māṇīgala, Lalitāpurī) from the lineage (vipravaṃśa of the lords of Thaṃbu-sthāna).",
+   "Purpose normalised and glossed (sarvasattvopakāra, āyuṣkāma, sarvaduritopaśānti).",
+   "Added an under_reign_of relation for p1.",
+   "Date weekday glossed as Saturday. ce_approx 1361 confirmed (NS 481 + 880; Māgha falls in early 1361).",
+   "Notes added on the king's name and on where the copy was made."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījayapatisomaśarmmanena",
+   "name": "Jayapati Soma",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "śarman",
+    "dvijavarottama",
+    "vipra"
+   ],
+   "affiliation": "vipravaṃśa of the lords of Thaṃbu-sthāna (thaṃbusthānādhipativipravaṃśa)",
+   "residence": "Thaṃbu-sthāna, south-west part of Māṇīgala, Lalitāpurī (Patan)",
+   "evidence": "śrījayapatisomaśarmmanena ... ratnakaraṇḍikā nāma mahāsmṛtisamuccaya likhāpitam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "daivajña anantarāmanāmnena",
+   "name": "Anantarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "Tāliṅgeśvara-sthāna, south part of Māṇīgala, Lalitāpurī (Patan)",
+   "evidence": "dakṣiṇasthaśrītāliṅgeśvarasthānādhivāsina daivajña anantarāmanāmnena ... likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīśrījayarājamala⁅devasya",
+   "name": "Jayarājamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājāddhirājaparame[[śva]]raparamabhaṭārikaśrīśrījayarājamala⁅devasya vijayarājyaṃ⁆",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "jayapatisomaśarmmanena ... likhāpitam || ○ || ... daivajña anantarāmanāmnena ... likhitaṃ"
+  },
+  {
+   "from": "p1",
+   "type": "commissioned_from",
+   "to": "p2",
+   "evidence": "jayapatisomaśarmmanena ... likhāpitam ... anantarāmanāmnena ... likhitaṃ"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "jayarājamala⁅devasya vijayarājyaṃ⁆"
+  },
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "jayarājamala⁅devasya vijayarājyaṃ⁆"
+  }
+ ],
+ "date": {
+  "as_written": "śrīmat(!)nepālikasamvat 481 māghakṛṣṇāṣṭamyāṃ tithau || anurādhānakṣatre || śanīścaravāsare",
+  "era": "NS",
+  "year": "481",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "8 (aṣṭamī)",
+  "weekday": "Saturday (śanīścaravāsara)",
+  "nakshatra_yoga": "Anurādhā (nakṣatra)",
+  "ce_approx": "1361"
+ },
+ "place": {
+  "as_written": "śrī lalitāpurīnagaryāṃ śrīmāṇīglake ... tasmin aiva nagaryāṃ śrīmāṇīglake dakṣiṇasthaśrītāliṅgeśvarasthāna",
+  "normalized": "Patan"
+ },
+ "purpose": "for the benefit of all beings, for long life, and to pacify all evils (sarvasattvopakārārthaṃ āyuṣkāmārthaṃ sarvaduritopaśāntyarthaṃ), commissioned by Jayapati Soma",
+ "notes": "The colophon names the king as 'jayarājamala⁅deva⁆'. The bracketed part was restored by the cataloguer. NS 481 (1361 CE) falls in the reign of Jayarājadeva (c. 1347–1361), who is usually not styled Malla, so the '-malla' may be a scribal or cataloguer form. The colophon does not say where the copy was made. Patan (Māṇīgala, Lalitāpurī) is inferred from the scribe's residence ('tasmin eva nagaryāṃ'). The catalogue entry 'Donor' really means commissioner (likhāpitam). 'sarvvasatya' stands for sarvasattva. 'śarmmanena' and 'anantarāmanāmnena' are irregular instrumental forms.",
+ "_meta": {
+  "reel": "B 33/12",
+  "model": "opus",
+  "cost_usd": 0.11427799999999999,
+  "secs": 27.3
+ }
+}

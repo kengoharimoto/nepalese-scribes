@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībālagopālas",
+   "name": "Bālagopāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībālagopālas tallikhati sma",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 933 vaiśākhaśukla aṣṭamyāntithau śanivāresmin dine",
+  "era": "NS",
+  "year": "933",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "aṣṭamī",
+  "weekday": "śanivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1813"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "E 423/2a",
+  "model": "gemini-flash-latest",
+  "secs": 3.0,
+  "in_tok": 725,
+  "out_tok": 664
+ }
+}

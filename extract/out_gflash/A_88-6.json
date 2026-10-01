@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "suturāma?",
+   "name": "Suturāma",
+   "roles": [
+    "scribe",
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "suturāma? lekhanena paṭhanāya",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1749",
+  "era": "ŚS",
+  "year": "1749",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1827"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "paṭhanāya",
+ "notes": "The cataloguer queries the reading of the scribe's name (suturāma?).",
+ "_meta": {
+  "reel": "A 88/6",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 676,
+  "out_tok": 623
+ }
+}

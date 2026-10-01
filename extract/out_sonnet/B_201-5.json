@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "cakrarājaḥ",
+   "name": "Cakrarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vibudha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vibudhaś cakrarājaḥ sudhīraḥ śukle pakṣe vividharacanaṃ lekhayāmāsa",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "kāle dyocāraṇavikalite, śuddhanepālaśāke, māghe māse śaśadharadine ... śrīpañcamyāṃ ... śukle pakṣe",
+  "era": "NS",
+  "year": "906",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "Monday (śaśadharadina)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1786"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"",
+ "notes": "Year is given in a chronogram-like phrase (dyocāraṇavikalite) that I did not decode. The year 906 comes from the catalogue, and \"śuddhanepālaśāke\" fits NS. The verse is ambiguous: \"vibudhaś cakrarājaḥ ... lekhayāmāsa kena\" could mean Cakrarāja had the copy made (commissioner) or wrote it himself. I follow the catalogue and list him as scribe. No king, donor or other person is named.",
+ "_meta": {
+  "reel": "B 201/5",
+  "model": "sonnet",
+  "cost_usd": 0.034754,
+  "secs": 9.0
+ }
+}

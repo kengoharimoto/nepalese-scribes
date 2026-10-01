@@ -1,0 +1,86 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Rāmagovindatīrtha: role changed from 'teacher' to 'other'. He is the author's teacher, not a teacher connected with this copy.",
+   "Nārāyaṇatīrtha: roles reduced to 'author'. The Sāṅkhyacandrikā is his own work (itself a commentary on the Sāṅkhyakārikā), so 'commentator' was redundant.",
+   "Date: chronogram resolved. manu = 14, aṅka = 9, indu = 1, read right to left = 1914. Era left as unspecified (probably VS); ce_approx set to 1857.",
+   "Tithi and weekday normalized; Śrāvaṇa śukla 5 is Nāgapañcamī.",
+   "Notes expanded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmagovindatīrtha",
+   "name": "Rāmagovindatīrtha",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmagovindatīrthaśiṣya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nārāyaṇatīrtha",
+   "name": "Nārāyaṇatīrtha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nārāyaṇatīrthakṛtā sāṃkhyacaṃdrikā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "padmanidhisudhīvaraḥ",
+   "name": "Padmanidhi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sudhīvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhivān (!) (10) padmanidhisudhīvaraḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "rāmagovindatīrthaśiṣya nārāyaṇatīrthakṛtā"
+  }
+ ],
+ "date": {
+  "as_written": "manvakendumita varṣaśrāvaṇe śuklavāṇa ravisaṃjñavāsare",
+  "era": "unspecified",
+  "year": "1914 (manv[aṅ]kendu = 14-9-1, read right to left)",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "5 (vāṇa/bāṇa)",
+  "weekday": "Sunday (ravi)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1857"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'manvakendu' is taken as manv-aṅka-indu: manu = 14, aṅka = 9, indu = 1. Read right to left, this gives 1914. If 'aka' were instead read as arka (12), the number would not make sense. The era is not named. VS 1914 = c. 1857 CE fits; ŚS 1914 is impossible. I have not checked by calculation that Śrāvaṇa śukla 5 fell on a Sunday. Rāmagovindatīrtha appears only as the author's teacher. 'dvijarājacandrikā' is a pun on the title (dvijarāja = moon = candra). 'sudhīvara' ('best of the wise') is an honorific epithet of the scribe, not a caste name. 'lekhivān' is the cataloguer's (!), standing for alekhīt/likhitavān.",
+ "_meta": {
+  "reel": "A 1332/6",
+  "model": "opus",
+  "cost_usd": 0.090626,
+  "secs": 20.6
+ }
+}

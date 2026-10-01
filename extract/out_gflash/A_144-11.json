@@ -1,0 +1,91 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dakṣIṇāmūrtti",
+   "name": "Dakṣiṇāmūrti",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dakṣIṇāmūrtti viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gaṃgā viṣṇus",
+   "name": "Gaṅgāviṣṇu",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lilekha gaṃgā viṣṇus",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "pṛthvīpālasya",
+   "name": "Pṛthvīpāla",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pṛthvīpālasyālayādo(!)",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "trivikrama varmaṇo",
+   "name": "Trivikramavarman",
+   "roles": [
+    "owner",
+    "commissioner"
+   ],
+   "titles": [
+    "rājan"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "trivikrama varmaṇo rājñādeḥ pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "lilekha gaṃgā viṣṇustaṃtram uddhārakośam ❁ ❁ || trivikrama varmaṇo rājñādeḥ pustakaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "svāṃgarbhūrvī sammite śākalāe jyeṣṭhaye ṣaṣṭhyāṃ śuklapakṣe’kavāre",
+  "era": "ŚS",
+  "year": "svāṃgarbhūrvī",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "6",
+  "weekday": "arkavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "pṛthvīpālasyālayādo(!)",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'svāṃgarbhūrvī' in the Śāka era ('śākalāe' for śākakāle) is obscure or corrupt. 'pṛthvīpālasyālayādo(!)' indicates the manuscript was written at the residence of Pṛthvīpāla. 'rājñādeḥ' likely represents 'rājñaḥ' or 'rājñādeśāt'.",
+ "_meta": {
+  "reel": "A 144/11",
+  "model": "gemini-flash-latest",
+  "secs": 11.8,
+  "in_tok": 791,
+  "out_tok": 2772
+ }
+}

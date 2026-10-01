@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmatcchaṃkarācārya",
+   "name": "Śaṅkarācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatcchaṃkarācāryaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śaṃbhunāthena",
+   "name": "Śambhunātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śaṃbhunāthena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1880 miti vaiśākha śudī 15 ravi º",
+  "era": "VS",
+  "year": "1880",
+  "month": "vaiśākha",
+  "paksa": "śudi",
+  "tithi": "15",
+  "weekday": "ravi",
+  "nakshatra_yoga": "",
+  "ce_approx": "1823"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 83/8",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 802,
+  "out_tok": 900
+ }
+}

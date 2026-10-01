@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajradhareṇa",
+   "name": "Vajradhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhad vajradhareṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vatsare ʼśvīndndukhacandre iṣaśuklatithau śivā",
+  "era": "NS",
+  "year": "1012",
+  "month": "iṣa",
+  "paksa": "śukla",
+  "tithi": "śivā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1892"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'aśv-indu-kha-candra' gives 1012 (NS). 'Iṣa' stands for the month of Āśvina. 'Śivā' corresponds to the 11th tithi (Ekādaśī).",
+ "_meta": {
+  "reel": "B 101/6",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 746,
+  "out_tok": 722
+ }
+}

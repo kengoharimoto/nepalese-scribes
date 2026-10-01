@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paṃḍitapadmaraṃga",
+   "name": "Padmaraṅga",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpaṃḍitapadmaraṃgasiṣya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rāmacaṃdreṇa",
+   "name": "Rāmacandra",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpaṃḍitapadmaraṃgasiṣyarāmacaṃdreṇa viracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "padmaraṃgasiṣyarāmacaṃdreṇa"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1875 sāla miti māgha vadi 2 budhavāsare",
+  "era": "VS",
+  "year": "1875",
+  "month": "māgha",
+  "paksa": "vadi",
+  "tithi": "2",
+  "weekday": "budhavāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1818"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribe is explicitly named (only 'liṣitaṃ śubham'). Rāmacandra is the author of the work (Rāmavinoda).",
+ "_meta": {
+  "reel": "A 215/2",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 706,
+  "out_tok": 997
+ }
+}

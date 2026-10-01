@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "cakrarājaḥ",
+   "name": "Cakrarāja",
+   "roles": [
+    "commissioner",
+    "scribe"
+   ],
+   "titles": [
+    "dharaṇivibudha (brāhmaṇa)"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dharaṇi,vibudhaś cakrarājaḥ sudhīraḥ ... lekhayāmāsa",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "kāle dyocāraṇavikalite, śuddhanepālaśāke, māghe māse śaśadharadine ... śrīpañcamyāṃ ... śukle pakṣe",
+  "era": "NS",
+  "year": "906 (per catalogue; chronogram 'dyocāraṇavikalite' unclear)",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "pañcamī (Śrīpañcamī)",
+  "weekday": "Monday (śaśadharadina)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1786"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The year is given as a word-numeral chronogram, 'dyocāraṇavikalite', which looks corrupt. 'dyo' (sky) normally stands for 0, but the other elements can't be read with confidence. The year 906 comes from the catalogue and can't be checked against this text. The verb is 'lekhayāmāsa' ('had it written'), so Cakrarāja is literally the commissioner. The catalogue lists him as scribe; he may have been both. 'dharaṇivibudha' ('god on earth') means a brāhmaṇa. 'sudhīra' ('steadfast') is an epithet. The final 'kena' is probably a corruption, maybe of 'kenāpi' or a metrical filler. Śrīpañcamī falls on Māgha śukla 5.",
+ "_meta": {
+  "reel": "B 201/5",
+  "model": "opus",
+  "cost_usd": 0.0661618,
+  "secs": 13.2
+ }
+}

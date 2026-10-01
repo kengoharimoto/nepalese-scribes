@@ -1,0 +1,75 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmahopādhyāyadharmādhikaraṇikaśrījagaddhara°",
+   "name": "Jagaddhara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "dharmādhikaraṇika"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāyadharmādhikaraṇikaśrījagaddharakṛtau veṇīsaṃhāraṭippaṇikāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīrāmeṇa dvijātmanā",
+   "name": "Rāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaiṣā prayatnena śrīrāmeṇa dvijātmanā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vipro jayadevaḥ",
+   "name": "Jayadeva",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "Kaṅkapura",
+   "evidence": "grāme kaṅkapure ramye śobhitopavane kila | tatra ⁅pratya⁆karo vipro jayadevaḥ kila sundaraḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "abde lakṣmaṇasenasa〇mmate(!) śatacatuṣṭaye caturvviṃśatau ca likhyamāne | pauṣe py asite pakṣe ’māvāsyānvite ravau",
+  "era": "LS",
+  "year": "424",
+  "month": "Pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "amāvāsyā",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1543"
+ },
+ "place": {
+  "as_written": "grāme kaṅkapure",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Jayadeva is mentioned as residing in Kaṅkapura (tatra ⁅pratya⁆karo vipro jayadevaḥ kila sundaraḥ); his exact role (commissioner, owner, or patron) is uncertain due to the reading.",
+ "_meta": {
+  "reel": "A 20/3",
+  "model": "gemini-flash-latest",
+  "secs": 6.2,
+  "in_tok": 855,
+  "out_tok": 1712
+ }
+}

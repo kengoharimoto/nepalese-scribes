@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "miśra śrīkṛṣṇa",
+   "name": "Kṛṣṇamiśra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahāmahopādhyāya miśra śrīkṛṣṇaviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "yoganārāyaṇena",
+   "name": "Yoganārāyaṇa",
+   "roles": [
+    "scribe",
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yoganārāyaṇena svapaṭha (!) nimittaṃ saṃpūrṇaṃ likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 902 phālguṇa vadi aṣṭamī śukravāra",
+  "era": "NS",
+  "year": "902",
+  "month": "phālguṇa",
+  "paksa": "vadi",
+  "tithi": "aṣṭamī",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1782"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svapaṭhanimittaṃ",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1025/16",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 807,
+  "out_tok": 1196
+ }
+}

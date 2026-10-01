@@ -1,0 +1,78 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "ce_approx changed from 1690 to 1689: Mārgaśira falls early in NS 810, which began in Kārttika 1689, so the date is Nov/Dec 1689 CE.",
+   "Author's title changed from 'satpaṇḍita' to 'paṇḍita', because 'sat' is only a praising epithet.",
+   "Added Maṇḍū as a possible person (p3, low confidence, role 'other') from 'maṇḍūyā liṣiti'.",
+   "Notes expanded: the genitive reading, the nakṣatra plausibility, and the residence wording."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīnivāsa",
+   "name": "Śrīnivāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "Mahīntāpana (mahīntāpanīya)",
+   "evidence": "mahīntāpanīyasatpaṇḍitaśrīśrīnivāsaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhavānisaṃkarena",
+   "name": "Bhavānīśaṃkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhavānisaṃkarena samāptayāṅā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "maṇḍūyā",
+   "name": "Maṇḍū",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "maṇḍūyā liṣiti (!)",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 810 mārgaśiramāse śuklapakṣaḥ || dvādasyān tithau || aśvinanakṣatre (!) || variyānayoge || guruvāle (!)",
+  "era": "NS",
+  "year": "810",
+  "month": "mārgaśira",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "guruvāra (Thursday)",
+  "nakshatra_yoga": "aśvinī; varīyas",
+  "ce_approx": "1689"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The Newari 'thva kuhnu maṇḍūyā liṣiti (likhita) bhavānisaṃkarena samāptayāṅā juro' reads as 'on this day Bhavānīśaṃkara completed Maṇḍū's writing'. 'Maṇḍūyā' looks like a genitive personal name. It could mean the copy was written for Maṇḍū, which would make Maṇḍū the owner or commissioner. It could instead mean Maṇḍū started the copy and Bhavānīśaṃkara finished it. It could also be a corruption. For these reasons Maṇḍū is entered with low confidence and the role 'other'. On the date: Mārgaśira śukla 12 of NS 810 falls in Nov/Dec 1689 CE. 'Aśvina' for the nakṣatra Aśvinī is marked (!). The moon in Aśvinī on Mārgaśira śukla 12 is a little early but possible (Bharaṇī/Kṛttikā is more usual). The date has not been verified. 'Mahīntāpanīya' describes the author as 'of Mahīntāpana'; the place has not been identified, and Śrīnivāsa is presumably a Maithil author.",
+ "_meta": {
+  "reel": "A 425/4",
+  "model": "opus",
+  "cost_usd": 0.08915000000000001,
+  "secs": 19.7
+ }
+}

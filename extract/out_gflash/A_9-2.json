@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīviśvamallaḥ",
+   "name": "Viśvamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "prabhu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vijayate śrīviśvamallaḥ prabhuḥ || tasya vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "amaraharir vvaidyaḥ",
+   "name": "Amarahari",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "prālikhad draṣṭuṃ gantumanā mudāmaraharir vvaidyaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "tasya vijayarājye ... prālikhad ... amaraharir vvaidyaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "doḥśailartubhir aṅkite hy ayanage mārgge tamisre tithau, vīṇāpāṇibha aryamāhani",
+  "era": "NS",
+  "year": "672",
+  "month": "Mārgaśīrṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "vīṇāpāṇi",
+  "ce_approx": "1551"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "draṣṭuṃ gantumanāḥ mudā (desiring to go and see Puruṣottama-kṣetra)",
+ "notes": "The chronogram 'doḥ-śaila-ṛtubhiḥ' gives 2-7-6 = NS 672, falling squarely in the reign of Viśvamalla of Bhaktapur. Aryamāhan = Sunday.",
+ "_meta": {
+  "reel": "A 9/2",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 837,
+  "out_tok": 1548
+ }
+}

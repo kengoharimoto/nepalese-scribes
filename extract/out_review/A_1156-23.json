@@ -1,0 +1,74 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Added the scribe Kulapati and his father Cakrapati from the catalogue field. They are absent from the quoted colophon, so confidence is low and the evidence is marked as catalogue-derived.",
+   "Added the son_of relation Kulapati → Cakrapati.",
+   "Normalized month to Jyeṣṭha and weekday to Tuesday (kuja = Maṅgala); as_written kept.",
+   "Notes: the truncated 'tad dene mahārā…' probably introduced a reigning mahārāja whose name is lost; the Maithili script and LS era point to Mithilā."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kulapatiśarmā",
+   "name": "Kulapati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "catalogue field only: 'Scribe: kulapatiśarmā, son of cakrapatiśarmā' (not in quoted colophon)",
+   "confidence": "low"
+  },
+  {
+   "pid": "p2",
+   "as_written": "cakrapatiśarmā",
+   "name": "Cakrapati",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "catalogue field only: 'son of cakrapatiśarmā'",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "catalogue field: 'kulapatiśarmā, son of cakrapatiśarmā'"
+  }
+ ],
+ "date": {
+  "as_written": "la saṃ 387 jeṣṭabadi 10 kuje",
+  "era": "LS",
+  "year": "387",
+  "month": "Jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "Tuesday (kuja)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1506"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The quoted colophon breaks off at 'tad dene mahārā…'. This is probably the start of a reigning-king formula (mahārāja…), but the king's name is lost, so no king is recorded. The catalogue gives the scribe as Kulapatiśarmā, son of Cakrapatiśarmā. These names are not in the quoted text and probably come from the unquoted continuation, so both are entered with low confidence. The Maithili script and LS era point to Mithilā rather than the Kathmandu Valley. The date is LS 387 + 1119 ≈ 1506 CE.",
+ "_meta": {
+  "reel": "A 1156/23",
+  "model": "opus",
+  "cost_usd": 0.05895500000000001,
+  "secs": 15.9
+ }
+}

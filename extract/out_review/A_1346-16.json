@@ -1,0 +1,131 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Candrakīrti and Mānakīrti: role changed from 'other' to 'teacher'; they are named as the spiritual ancestors of Harṣakīrti in his gaccha lineage",
+   "Added the lineage relations Mānakīrti pupil_of Candrakīrti and Harṣakīrti pupil_of Mānakīrti, both medium confidence because the connecting words are lost in lacunae",
+   "Confidence for Candrakīrti and Mānakīrti lowered to medium because of the lacunae after their names",
+   "Purpose rewritten in plain words: 'for the study of Samarasiṃha'",
+   "Notes extended: 'sūribhr' is a corruption of 'sūribhir'; the causative 'lekhitaḥ' makes Harṣakīrti the commissioner, and the scribe is unnamed; Bhādrapada bahula 14, VS 1658 ≈ August/September 1601 CE"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahākavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahākavikālidāsa〈〈kṛto〉〉viracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīcaṃdrakīrttisūri",
+   "name": "Candrakīrti",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "Nāgapurīya Tapāgaccha",
+   "residence": "",
+   "evidence": "śrī(nāgapurīyatapāgachebhaºº śrīcaṃdrakīrttisūri",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīmānakīrttisūri",
+   "name": "Mānakīrti",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "Nāgapurīya Tapāgaccha",
+   "residence": "",
+   "evidence": "śrīmānakīrttisūri",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīharṣakīrttisūribhr",
+   "name": "Harṣakīrti",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "Nāgapurīya Tapāgaccha",
+   "residence": "",
+   "evidence": "śrīharṣakīrttisūribhr lekhitaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "samarasiṃha",
+   "name": "Samarasiṃha",
+   "roles": [
+    "beneficiary",
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "samarasiṃhapaṭhanārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "śrīcaṃdrakīrttisūri‥‥‥‥|| śrīmānakīrttisūri"
+  },
+  {
+   "from": "p4",
+   "type": "pupil_of",
+   "to": "p3",
+   "evidence": "śrīmānakīrttisūri ‥‥| śrīharṣakīrttisūribhr"
+  },
+  {
+   "from": "p4",
+   "type": "other",
+   "to": "p5",
+   "evidence": "śrīharṣakīrttisūribhr lekhitaḥ (!) || samarasiṃhapaṭhanārthaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1658 bhādrapadabahula 14 dine",
+  "era": "VS",
+  "year": "1658",
+  "month": "Bhādrapada",
+  "paksa": "bahula (kṛṣṇa)",
+  "tithi": "14",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1601"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for the study of Samarasiṃha (samarasiṃhapaṭhanārthaṃ)",
+ "notes": "This is a Jain (Śvetāmbara) colophon from the Nāgapurīya Tapāgaccha; 'tapāgachebhaºº' is the cataloguer's abbreviation. The text names a lineage: Candrakīrtisūri, then Mānakīrtisūri, then Harṣakīrtisūri. The connecting words, probably 'tatpaṭṭe' or 'tacchiṣya', are lost in the lacunae (‥‥), so the pupil relations are inferred. Harṣakīrti of the Nāgapurīya Tapāgaccha is a known author active around 1600 CE. Some sources make him a pupil of Candrakīrti directly, which would make Mānakīrti a fellow pupil rather than his teacher, so the exact link is uncertain. 'sūribhr' should be read 'sūribhir'. Grammatically, 'lekhitaḥ' (causative, 'caused to be written') makes Harṣakīrti the commissioner for Samarasiṃha's study; the catalogue's 'Scribe: Harṣakīrtti' is probably loose. The actual copyist is not named. Samarasiṃha's 'reader' role rests on 'paṭhanārthaṃ' ('for the reading of'). The final verse number '28' is an error for 128. VS 1658 corresponds to about 1601 CE (Bhādrapada, August/September).",
+ "_meta": {
+  "reel": "A 1346/16",
+  "model": "opus",
+  "cost_usd": 0.098307,
+  "secs": 27.5
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "padamāpatinam",
+   "name": "Padamāpati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ (!) padamāpatinamidaṃ (!) pusta°°",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1830 śāke 1696 phālgunakṛṣṇapratipadā",
+  "era": "VS",
+  "year": "1830",
+  "month": "phālguna",
+  "paksa": "kṛṣṇa",
+  "tithi": "pratipadā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1774"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "anena prīyatāṃ devo bhagavān pārvatīpatiḥ",
+ "notes": "The date provides both Vikrama Saṃvat 1830 and Śaka 1696. The scribe's name appears corruptly as 'padamāpatinamidaṃ' for 'padamāpatinā idaṃ pustakam'.",
+ "_meta": {
+  "reel": "C 21/2",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 734,
+  "out_tok": 879
+ }
+}

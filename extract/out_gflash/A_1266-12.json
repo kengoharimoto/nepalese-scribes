@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīparmmānaṃda prakāśācāryeṇa",
+   "name": "Paramānanda Prakāśācārya",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ -------- śrīparmmānaṃda prakāśācāryeṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1851 ke krāṃ ra śuddhi śrīdurgāttīja 3 śanivāra",
+  "era": "unspecified",
+  "year": "1851",
+  "month": "ke krāṃ ra",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "śanivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1794"
+ },
+ "place": {
+  "as_written": "śrī kāśī svakṣetre śrīmaṇI karṇikā varttate śrīgopālamaṃdirasthāne",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The catalogue records the era as Śaka 1851, but the colophon merely states 'śrīsaṃvat 1851'. In Varanasi (Kāśī), this usually denotes Vikrama Saṃvat (= 1794 CE); if Śaka, it would correspond to 1929 CE. The month designation 'ke krāṃ ra' is somewhat corrupt or abbreviated.",
+ "_meta": {
+  "reel": "A 1266/12",
+  "model": "gemini-flash-latest",
+  "secs": 9.0,
+  "in_tok": 840,
+  "out_tok": 1885
+ }
+}

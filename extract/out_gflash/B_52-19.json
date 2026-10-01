@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paṃcānanabhaṭṭācārya",
+   "name": "Pañcānana",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṃcānanabhaṭṭācāryaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "harivallabhena",
+   "name": "Harivallabha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ harivallabhena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 16(2)3(!) pauṣa sudi 6 gurau",
+  "era": "ŚS",
+  "year": "16(2)3",
+  "month": "pauṣa",
+  "paksa": "sudi",
+  "tithi": "6",
+  "weekday": "gurau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1701"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author Pañcānana Bhaṭṭācārya refers to Viśvanātha Nyāyapañcānana Bhaṭṭācārya, author of the Bhāṣāpariccheda / Siddhāntamuktāvalī.",
+ "_meta": {
+  "reel": "B 52/19",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 774,
+  "out_tok": 969
+ }
+}

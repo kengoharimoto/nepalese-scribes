@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devācājyana",
+   "name": "Devācārya",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "saṃpurṇṇa yāṅā, devācājyana juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 806 bhādraprada vvadi 4 aśvinīnakṣatra, dhruvayoga, śukravāra",
+  "era": "NS",
+  "year": "806",
+  "month": "bhādraprada",
+  "paksa": "vvadi",
+  "tithi": "4",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "aśvinīnakṣatra, dhruvayoga",
+  "ce_approx": "1686"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 342/12",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 730,
+  "out_tok": 971
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viṭṭhala-",
+   "name": "Viṭṭhala",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viṭṭhalaropitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "daivajñavīravareṇa",
+   "name": "Vīravara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "yitavāhala vahilalipacche",
+   "evidence": "daivajñavīravareṇa likhitaṃ svākṣareṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 837 vaiśāṣamāse || śuklapakṣe || caturthyāṃ tithau || rohinīnakṣatre || śobhanayoge || vṛhaspativāsare || thva kunhu",
+  "era": "NS",
+  "year": "837",
+  "month": "vaiśāṣa",
+  "paksa": "śukla",
+  "tithi": "caturthī",
+  "weekday": "vṛhaspativāsara",
+  "nakshatra_yoga": "rohinī nakṣatra, śobhana yoga",
+  "ce_approx": "1717"
+ },
+ "place": {
+  "as_written": "yitavāhala || vahilalipacche",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1391/10",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 846,
+  "out_tok": 1324
+ }
+}

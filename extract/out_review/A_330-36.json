@@ -1,0 +1,36 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "month normalized to 'Vaiśākha' (as written 'nastavaisākha (!)'); prefix 'nasta' left unexplained rather than asserted as adhika/kṣaya",
+   "tithi normalized to 'pūrṇimā'; weekday to 'Saturday (śanaiścara)'; pakṣa marked as inferred from pūrṇimā",
+   "purpose normalized: for the pleasure of Lakṣmīnārāyaṇa (rakṣmīnārāyana = Lakṣmīnārāyaṇa)",
+   "notes expanded: year 8018 vs catalogue 8019 discrepancy; era probably NS but not stated, so ce_approx left empty"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 8018 (!) || nastavaisākha (!) || purṇṇamāsyāntithau (!) || śaniścaravāsare",
+  "era": "unspecified",
+  "year": "8018 (corrupt)",
+  "month": "Vaiśākha",
+  "paksa": "śukla (implied by pūrṇimā)",
+  "tithi": "pūrṇimā",
+  "weekday": "Saturday (śanaiścaravāsara)",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for the pleasure of Lakṣmīnārāyaṇa (śrī 3 rakṣmīnārāyanaprītir astu)",
+ "notes": "The colophon names no human persons. The year is impossible as written: the colophon has 8018 (!), but the catalogue field gives NS (!) 8019 (!), so they don't even agree. The 'samvat' is probably Nepāla Saṃvat, given the Newari script, but the era isn't stated. If an extra digit has crept in, the year could be NS 801, 808, 818 or 819 (c. 1681–1699 CE), but that is unverified, so ce_approx is left empty. The month is written 'nastavaisākha'. Vaiśākha is clear, but the prefix 'nasta' is unexplained. It might be 'naṣṭa' (a lost/kṣaya month?) or a scribal corruption. 'Rakṣmīnārāyana' should be read as Lakṣmīnārāyaṇa (deity; not a person).",
+ "_meta": {
+  "reel": "A 330/36",
+  "model": "opus",
+  "cost_usd": 0.074522,
+  "secs": 18.1
+ }
+}

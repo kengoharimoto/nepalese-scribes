@@ -1,0 +1,101 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnṛpatimahānanda",
+   "name": "Mahānanda",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnṛpatimahānandanāmarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "miśraśrīcintāmaṇi",
+   "name": "Cintāmaṇi",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "miśra",
+    "paramaśrotriya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "miśraśrīcintāmaṇi tasyātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "mi[[śra]]śrīveṇīśarmaṇā",
+   "name": "Veṇīśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "pāṭalīputranāmanagare",
+   "evidence": "veṇīśarmaṇā lekhi pustakaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "mahīdhareṇa",
+   "name": "Mahīdhara",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "kāśī",
+   "evidence": "mahīdhareṇa kāśyāṃ kṛtaṃ pustakaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "cintāmaṇi tasyātmaja mi[[śra]]śrīveṇīśarmaṇā"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīnṛpatimahānandanāmarājye ... pāṭalīputranāmanagare ... veṇīśarmaṇā lekhi pustakaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1612 (!) samaye māghavadi 12 gurau",
+  "era": "unspecified",
+  "year": "1612",
+  "month": "māgha",
+  "paksa": "vadi",
+  "tithi": "12",
+  "weekday": "gurau",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "vihāradeśābhyantare pāṭalīputranāmanagare",
+  "normalized": "Patna"
+ },
+ "purpose": "",
+ "notes": "The primary copying took place in Pāṭalīputra (Patna, Bihar) in Saṃvat 1612 (cataloguer assumes Śaka = 1690 CE, but it could also be Vikrama = 1556 CE). A secondary dated entry mentions that Mahīdhara acquired or dealt with the manuscript in Kāśī: 'samvat 1635 varṣe māghavadi 11 bhṛgau mahīdhareṇa kāśyāṃ kṛtaṃ pustakaṃ'.",
+ "_meta": {
+  "reel": "A 410/2",
+  "model": "gemini-flash-latest",
+  "secs": 9.7,
+  "in_tok": 929,
+  "out_tok": 2817
+ }
+}

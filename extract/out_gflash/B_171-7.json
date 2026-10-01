@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nārāyaṇasiṃha josina",
+   "name": "Nārāyaṇasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "josi"
+   ],
+   "affiliation": "",
+   "residence": "vijarakvcche",
+   "evidence": "nārāyaṇasiṃha josina thva graṃtha coya nataṃ ṇana saṃpūrṇṇayāṅā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 738 āṣāḍhakṛṣṇāṣṭamī aśvinī, ādityavāra",
+  "era": "NS",
+  "year": "738",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "aśvinī",
+  "ce_approx": "1618"
+ },
+ "place": {
+  "as_written": "vijarakvcche",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "vijarakvcche refers to the tole or locality of the scribe.",
+ "_meta": {
+  "reel": "B 171/7",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 723,
+  "out_tok": 903
+ }
+}

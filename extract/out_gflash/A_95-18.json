@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vālmīki",
+   "name": "Vālmīki",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vālmīkivi(4)racitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1964 sāla āṣāḍha(7) vadi 7 roja 3",
+  "era": "VS",
+  "year": "1964",
+  "month": "āṣāḍha",
+  "paksa": "vadi",
+  "tithi": "7",
+  "weekday": "roja 3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1907"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribe or commissioner is named in the colophon.",
+ "_meta": {
+  "reel": "A 95/18",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 804,
+  "out_tok": 1036
+ }
+}

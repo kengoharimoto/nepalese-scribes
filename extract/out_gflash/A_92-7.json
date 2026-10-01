@@ -1,0 +1,92 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīṃṣarācārje",
+   "name": "Śaṅkarācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīṃṣarācārje (!) viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "padma",
+   "name": "Padma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dāsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "leṣanārthya haridāsako dāsa padma ho",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "haridāsako",
+   "name": "Haridāsa",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "haridāsako dāsa padma ho",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "ambaragira",
+   "name": "Ambaragiri",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "guru"
+   ],
+   "affiliation": "",
+   "residence": "naipāla desya paśupati thāṇe saṃṣaraguphā",
+   "evidence": "śrī śrī ambaragira gurave nama",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "servant_of",
+   "to": "p3",
+   "evidence": "haridāsako dāsa padma ho"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsamvat 1888 sāla miti bhādra vadi 4 roja 5",
+  "era": "VS",
+  "year": "1888",
+  "month": "bhādra",
+  "paksa": "kṛṣṇa",
+  "tithi": "4",
+  "weekday": "roja 5 (Thursday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1831"
+ },
+ "place": {
+  "as_written": "naipāla desya paśupati thāṇe saṃṣaraguphā",
+  "normalized": "Kathmandu, Pashupatinath"
+ },
+ "purpose": "",
+ "notes": "The scribe states 'leṣanārthya haridāsako dāsa padma ho', which the cataloguer recorded as 'Padmadāsa'. The guru Ambaragiri residing in the Śaṅkaraguphā cave at Paśupati is saluted at the end.",
+ "_meta": {
+  "reel": "A 92/7",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 897,
+  "out_tok": 1661
+ }
+}

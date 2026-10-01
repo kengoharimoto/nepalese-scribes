@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "muktināthaśarmmaṇaṃ",
+   "name": "Muktinātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "śrī 3 paśupativāgmatīpūrvvadigbhāge gaḍūranārāyaṇanīkaṭe sāṣadahagrāmasthāne brahmapūrīsthāne",
+   "evidence": "liṣitaṃ (!) muktināthaśarmmaṇaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1764 māse mārgaśukla 3 tithau 2 somavāsare",
+  "era": "ŚS",
+  "year": "1764",
+  "month": "mārga",
+  "paksa": "śukla",
+  "tithi": "3 tithau 2",
+  "weekday": "somavāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1842"
+ },
+ "place": {
+  "as_written": "śrī 3 paśupativāgmatīpūrvvadigbhāge gaḍūranārāyaṇanīkaṭe sāṣadahagrāmasthāne brahmapūrīsthāne",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 422/11",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 950,
+  "out_tok": 1253
+ }
+}

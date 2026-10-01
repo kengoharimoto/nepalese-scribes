@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Weekday normalized: 'roja 7' = 7th day of week = Saturday (Persian-style roja/śāla dating)",
+   "Month given as Pauṣa (?) with the uncertainty of reading 'paṣṭa' kept in notes",
+   "Notes: VS 1857 and ŚS 1722 agree (both 1800 CE); Pauṣa śukla 8 of VS 1857 probably falls in late Dec 1800 or Jan 1801",
+   "Notes: the Kālidāsa attribution is traditional; the śloka after the colophon is a stray verse with no persons in it"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kālidāsakṛtaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śamvat 1857 śāla paṣṭa śudi 8 roja 7 śāke 1722",
+  "era": "VS",
+  "year": "1857",
+  "month": "Pauṣa (? 'paṣṭa')",
+  "paksa": "śukla (śudi)",
+  "tithi": "8",
+  "weekday": "Saturday (roja 7)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1800"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe is not named ('liṣītam edam postakam'). VS 1857 (−57) and Śaka 1722 (+78) both give 1800 CE, so the two eras agree. 'paṣṭa' is probably a corrupt spelling of Pauṣa, though this is not certain. If it is Pauṣa śukla 8 of VS 1857, the date falls around late December 1800 or January 1801. 'śāla' (year) and 'roja' (day) are Persian-derived words; 'roja 7' means the seventh weekday, Saturday. Ascribing the Ghaṭakarpara poem to Kālidāsa is a traditional attribution; it is often credited to a poet named Ghaṭakarpara instead. The śloka after the colophon (dvijarājamukhī…) is a stray verse and names no persons.",
+ "_meta": {
+  "reel": "A 1103/2",
+  "model": "opus",
+  "cost_usd": 0.073742,
+  "secs": 15.2
+ }
+}

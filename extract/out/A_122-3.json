@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pūrṇānandeti nāmā ... śrīpūrṇānandana",
+   "name": "Pūrṇānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "guru"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgurur bhaktiyuktaḥ || pūrṇānandeti nāmā samalikhad amalaṃ bhadrakalpāvadānaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepāle saṃvadākhye kunavanavayute śrāvaṇē śuklapakṣe || paṃcamyāṃ vaiśvadeve parighakasahite bhānuputrasya vāre ... saṃvat 991 śrāvaṇamāsayā paṃcami utrabhādranakṣakra parighanayoga śanivāra",
+  "era": "NS",
+  "year": "991",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "5 (pañcamī)",
+  "weekday": "Saturday (bhānuputrasya vāre / śanivāra)",
+  "nakshatra_yoga": "nakṣatra Uttarabhādrapadā (prose); verse has 'vaiśvadeve' (normally = Uttarāṣāḍhā); yoga Parigha",
+  "ce_approx": "1871"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'ku-nava-nava' (1-9-9, read in reverse) gives 991, which matches the prose 'saṃvat 991' and the catalogue's NS 991. The nakṣatra does not agree between the two parts. The verse says 'vaiśvadeve', which normally means Uttarāṣāḍhā, but the Newari prose says 'utrabhādra' (Uttarabhādrapadā). The phrase 'bṛṅṣādye mūlakāntye' is corrupt and unclear; it may refer to the sun's position. 'suviharaṇe' may refer to a vihāra, but no place is named. 'guru' (śrīgurur) is recorded as a title; it may mean a Vajrācārya/gubhāju. The Newari prose says the copy was 'written by Pūrṇānanda' (śrīpūrṇānandana ... coyā jula). Part of the prose is lost in a lacuna ('〈〈...〉〉'), so other persons may have been named there. The folio references are out of order (470v3, 470r3, 438v4–7) as the catalogue gives them. The text is also called 'avadānamālā' in a section colophon (the Aśoka–Upagupta dialogue).",
+ "_meta": {
+  "reel": "A 122/3",
+  "model": "opus",
+  "cost_usd": 0.07106580000000001,
+  "secs": 14.2
+ }
+}

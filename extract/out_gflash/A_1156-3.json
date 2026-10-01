@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvata 400 dvīrāśāḍhakṛśṇa navamyā tithau",
+  "era": "NS",
+  "year": "400",
+  "month": "dvīrāśāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "navamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1280"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons (scribe, owner, or king) are named in the colophon fragment. dvīrāśāḍha indicates an intercalary (adhika) Āṣāḍha.",
+ "_meta": {
+  "reel": "A 1156/3",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 661,
+  "out_tok": 561
+ }
+}

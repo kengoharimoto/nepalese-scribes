@@ -1,0 +1,47 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. Added notes on the 'dāsa' name-ending, the reading of 'mukāmakā', and the unverified weekday."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "narāēna dāsa",
+   "name": "Nārāyaṇadāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Kāśī (Vārāṇasī)",
+   "evidence": "likhite narāēna dāsa || kāsī vāsī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1704 sa(?) caitra sudī || 12 || vāra ravīvāsare",
+  "era": "VS",
+  "year": "1704",
+  "month": "caitra",
+  "paksa": "śuklapakṣa",
+  "tithi": "12",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1647"
+ },
+ "place": {
+  "as_written": "śrībhīmasenī nīkaṭe || mukāmakā (?)",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe calls himself an inhabitant of Kāśī (kāsī vāsī) and wrote the copy 'near Śrībhīmasenī' (probably a Bhīmasena shrine or locality; not identified). 'mukāmakā (?)' is probably Hindi/Nepali mukām 'halting place, stay', meaning a temporary place of writing, not a separate place name. In 'Nārāyaṇadāsa', -dāsa is treated as part of the personal name (a Vaiṣṇava name-ending), not as a title. The era is taken as VS from the bare 'saṃvat' and the North-Indian (Kāśī) scribe. VS 1704 Caitra śukla 12 ≈ March/April 1647 CE. The Sunday weekday has not been verified. 'sa(?)' after the year is unclear (possibly 'samaye').",
+ "_meta": {
+  "reel": "A 1379/6",
+  "model": "opus",
+  "cost_usd": 0.07077,
+  "secs": 14.6
+ }
+}

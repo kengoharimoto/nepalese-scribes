@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vikramasiṃhena",
+   "name": "Vikramasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ vikramasiṃhena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 799 pauṣa śudi pañcami",
+  "era": "NS",
+  "year": "799",
+  "month": "pauṣa",
+  "paksa": "śudi",
+  "tithi": "pañcami",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1679"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīkṛṣṇa prītirastu",
+ "notes": "",
+ "_meta": {
+  "reel": "B 252/3",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 724,
+  "out_tok": 822
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "namisiṃhena",
+   "name": "Namisiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhārddhaṃ namisiṃhena ... mokṣārthaṃ likhitaṃ mayā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "jeṣṭakṛṣṇacaturthe tu saṃpūrṇṇaṃ ravivāsare",
+  "era": "none",
+  "year": "",
+  "month": "Jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "4",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "mokṣārthaṃ",
+ "notes": "No year is specified in the date. 'dadvaṃ bhavāniśaṃkarau' likely refers to dedication to the deities Bhavānī and Śaṅkara rather than human persons.",
+ "_meta": {
+  "reel": "B 116/19",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 741,
+  "out_tok": 993
+ }
+}

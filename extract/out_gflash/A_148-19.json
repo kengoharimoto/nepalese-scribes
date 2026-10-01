@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkṛṣṇānandācala",
+   "name": "Kṛṣṇānandācala",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkṛṣṇānandācalanirmitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmatkaulāsācalayativarya",
+   "name": "Kaulāsācala",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya",
+    "yativarya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatparamahaṃsaparivrājakācārya śrīmatkaulāsācalayativaryaśiṣya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "śrīmatkaulāsācalayativaryaśiṣya (!) śrīkṛṣṇānandācala"
+  }
+ ],
+ "date": {
+  "as_written": "samvat || 1920 (!) sāla miti āṣakṛṣṇadaśami (!)",
+  "era": "VS",
+  "year": "1920",
+  "month": "Āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1863"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīkṛṣṇārpaṇam astu",
+ "notes": "The catalogue lists Kṛṣṇānanda as scribe and Kāśī as place of copying, but the text specifies Kṛṣṇānandācala as author (nirmitaṃ), and no place is mentioned in the quoted colophon passage. Kaulāsācala may be a variant/scribal error for Kailāsācala.",
+ "_meta": {
+  "reel": "A 148/19",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 786,
+  "out_tok": 1614
+ }
+}

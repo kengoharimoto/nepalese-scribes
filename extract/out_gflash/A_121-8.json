@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ācāryaśrīśrīśāntidevapādānām",
+   "name": "Śāntideva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtir iyaṃ ācāryaśrīśrīśāntidevapādānām",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "(na〈〈‥〉〉ryā) nandena",
+   "name": "...ryānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Ratnakṛtivihāra",
+   "residence": "",
+   "evidence": "likhitaṃ ratnakṛtivihārā(!)vajrācārya (na〈〈‥〉〉ryā) nandeneti",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 950 mti naṣṭavaiśāṣa śudi trayodaśyāṃ ravivāra (!)",
+  "era": "NS",
+  "year": "950",
+  "month": "naṣṭavaiśākha",
+  "paksa": "śukla",
+  "tithi": "trayodaśī",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1830"
+ },
+ "place": {
+  "as_written": "ratnakṛtivihārā(!)",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name is partly damaged/broken: (na〈〈‥〉〉ryā) nandena.",
+ "_meta": {
+  "reel": "A 121/8",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 801,
+  "out_tok": 1380
+ }
+}

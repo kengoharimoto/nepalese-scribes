@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdharmadāsa-",
+   "name": "Dharmadāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdharmadāsaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke || samvat 1866 sāla nepāla samvat 929 miti catra(!) sudi roja 5",
+  "era": "VS",
+  "year": "1866",
+  "month": "catra",
+  "paksa": "sudi",
+  "tithi": "",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1809"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Vikrama Saṃvat 1866 and Nepāla Saṃvat 929 are stated, yielding ca. 1809 CE. The initial word śrīśāke is likely an erroneous formulaic introduction.",
+ "_meta": {
+  "reel": "A 373/10",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 708,
+  "out_tok": 1204
+ }
+}

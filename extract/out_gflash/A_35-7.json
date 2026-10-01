@@ -1,0 +1,84 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "somalacchibhārīnāmna",
+   "name": "Somalacchi",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [
+    "bhārī"
+   ],
+   "affiliation": "pravaramahāyāyinaḥ",
+   "residence": "śrīlalitkrame śrīnoglake",
+   "evidence": "deyadharmo yaṃ pravaramahā⁅yā⁆〇nayāyinaḥ || śrīlalitkrame śrīnoglake dhivāsina (!) | somalacchibhārīnāmna",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī- āna〇ndadeva",
+   "name": "Ānandadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "parameśvara",
+    "paramabhaṭṭāraka",
+    "mahārājādhirāja",
+    "paramaśaiva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīparameśvaraparamabhaṭṭārakamahārājādhirājaparamaśaivaśrī- āna〇ndadevapravarddhamānavijayarājy(e)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bhadreṇa ... hariṇā mayā",
+   "name": "Haribhadra",
+   "roles": [
+    "commentator",
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhadreṇa yā śodhitā lokā〇rthaṃ hariṇā mayā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "śrīparameśvaraparamabhaṭṭārakamahārājādhirājaparamaśaivaśrī- āna〇ndadevapravarddhamānavijayarājy(e) likṣitam iti"
+  }
+ ],
+ "date": {
+  "as_written": "samvat ā cū 2 vaiśākyasuklapaurṇṇamasyāṃ ādityadine",
+  "era": "NS",
+  "year": "272",
+  "month": "vaiśākya",
+  "paksa": "śukla",
+  "tithi": "paurṇamāsī",
+  "weekday": "ādityadina",
+  "nakshatra_yoga": "",
+  "ce_approx": "1152"
+ },
+ "place": {
+  "as_written": "śrīlalitkrame śrīnoglake",
+  "normalized": "Patan"
+ },
+ "purpose": "sakalasatvarāśer anuttarajñānaphalāvāptaye",
+ "notes": "The cataloguer identifies Somalacchibhārī as the scribe, but the colophon introduces him with the standard donor formula 'deyadharmo yaṃ ... somalacchibhārīnāmna'. Haribhadra's verse ('anekapustakagataṃ dṛṣṭvādhunā śraddhayā / ... bhadreṇa yā śodhitā lokārthaṃ hariṇā mayā ...') refers to his recension of the text. The year is given in letter-numerals: ā = 200, cū = 70, 2 = 2 (NS 272).",
+ "_meta": {
+  "reel": "A 35/7",
+  "model": "gemini-flash-latest",
+  "secs": 13.4,
+  "in_tok": 1282,
+  "out_tok": 2945
+ }
+}

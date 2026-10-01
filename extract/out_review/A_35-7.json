@@ -1,0 +1,94 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Somalacchi: removed role 'commissioner'. The colophon gives only the deyadharma (donor) formula and no likhāpitam or similar verb.",
+   "p1: 'pravaramahāyānayāyin' is a Mahāyāna epithet, not an institutional affiliation. Affiliation is now 'Mahāyāna'. The title 'bhārī' is normalised to 'bhāro (bhārī)'.",
+   "p1 residence normalised to Lalitakrama (Patan), Noglaka quarter.",
+   "p3 Haribhadra: dropped role 'author'. He did not write the Aṣṭasāhasrikā. The appended verse is his statement as the reviser and commentator of the text, so the role is 'commentator' only, at medium confidence.",
+   "place: the colophon gives Lalitakrama/Noglaka as the donor's residence ('adhivāsin'), not explicitly as the place of copying. The field is now empty and the point is explained in the notes.",
+   "date: month, tithi and weekday normalised (Vaiśākha, pūrṇimā, Sunday). Reading NS 272 = 1152 CE confirmed.",
+   "purpose rewritten as a merit-transfer formula."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "somalacchibhārīnāmna",
+   "name": "Somalacchi",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "bhāro (bhārī)",
+    "pravaramahāyānayāyin"
+   ],
+   "affiliation": "Mahāyāna",
+   "residence": "Lalitakrama (Patan), Noglaka",
+   "evidence": "deyadharmo yaṃ pravaramahāyānayāyinaḥ || śrīlalitkrame śrīnoglake dhivāsina | somalacchibhārīnāmna",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī- āna〇ndadeva",
+   "name": "Ānandadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "parameśvara",
+    "paramabhaṭṭāraka",
+    "mahārājādhirāja",
+    "paramaśaiva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājādhirājaparamaśaivaśrī- āna〇ndadevapravarddhamānavijayarājy(e)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bhadreṇa ... hariṇā",
+   "name": "Haribhadra",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhadreṇa yā śodhitā lokārthaṃ hariṇā mayā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "āna〇ndadevapravarddhamānavijayarājy(e) likṣitam"
+  }
+ ],
+ "date": {
+  "as_written": "samvat ā cū 2 vaiśākyasuklapaurṇṇamasyāṃ ādityadine",
+  "era": "NS",
+  "year": "272",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā (15)",
+  "weekday": "Sunday (ādityadina)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1152"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "Merit transfer: the merit goes to the donor's ācārya, upādhyāya and parents first, then to all beings, so that they may attain supreme knowledge (sakalasatvarāśer anuttarajñānaphalāvāptaye).",
+ "notes": "Year in Newari letter numerals: ā = 200, cū = 70, 2 = 2, giving NS 272 (Vaiśākha 1152 CE). This falls within the reign of Ānandadeva (c. NS 263–287). The catalogue lists Somalacchibhārī as the scribe, but the colophon presents them only as the donor (deyadharma). The verb 'likṣitam' has no named agent, so the scribe is unknown. The catalogue's place of copying, Lalitakramā (Nogala), is taken from the donor's residence ('śrīlalitkrame śrīnoglake adhivāsin'). That means Patan, Noglaka quarter, which is likely but not explicitly the place of copying. 'Somalacchi' may stand for Somalakṣmī. The verse naming Haribhadra is his recension verse, transmitted with the text, and does not concern this copy.",
+ "_meta": {
+  "reel": "A 35/7",
+  "model": "opus",
+  "cost_usd": 0.11762199999999999,
+  "secs": 31.0
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name: removed the caste/brahmin suffix śarman from the name field, which now records the name as illegible; śarman is kept only in titles.",
+   "Date: 'month 7' is only a number. It is Āśvina if months are counted from Caitra, or the solar month Tulā if counted from Meṣa. Both are recorded in the month field and notes.",
+   "Date: weekday 3 is now marked as uncertain (Tuesday only if counting starts with Sunday = 1).",
+   "Notes: explained the garbled name, 'dinagatā 13' and the stock verses that follow."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "(12\\u2 2 1 dha 4ī) rmmaṇāḥ",
+   "name": "[illegible] (…dha…ī…)",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "litaṃ (12\\u2 2 1 dha 4ī) rmmaṇāḥ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī śāke 1629 māse 7 tithau 30 vāsare 3 dinagatā 13",
+  "era": "ŚS",
+  "year": "1629",
+  "month": "7 (Āśvina if counted from Caitra; solar Tulā if counted from Meṣa)",
+  "paksa": "kṛṣṇa (implied by tithi 30 = amāvāsyā)",
+  "tithi": "30 (amāvāsyā)",
+  "weekday": "3 (probably Tuesday, if Sunday = 1)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1707"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name is garbled in the catalogue: 'litaṃ (12\\u2 2 1 dha 4ī) rmmaṇāḥ'. 'litaṃ' is probably 'li[khi]taṃ' and 'rmmaṇāḥ' is the end of '-śarmaṇā', an instrumental with a stray visarga. So the scribe was a brahmin whose name contains something like 'dha' and 'ī'. The name itself cannot be recovered. 'dinagatā 13' may mean day 13 of a solar month, which would make month 7 = Tulā. It may instead mean 13 ghaṭikās elapsed. Month numbering is therefore ambiguous. ŚS 1629 = 1707 CE. This matches the catalogue field, but the date has not been checked against an ephemeris. The verses after the date ('tailād rakṣe…', 'bhagnapṛṣṭhakaṭīgrīvā…', 'rāma rāmeti…') are stock scribal verses. They name no persons.",
+ "_meta": {
+  "reel": "A 220/10",
+  "model": "opus",
+  "cost_usd": 0.082758,
+  "secs": 20.0
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmaheśvarasya",
+   "name": "Maheśvara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "sakalavaidyarājacakramuktāśekhara",
+    "gadyavidyānidhi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmaheśvarasya kṛtau viśvaprakāśa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "rāmānalavyoma○rūpaiḥ śakra(!)kāle",
+  "era": "ŚS",
+  "year": "1033",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1111"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram rāma (3), anala (3), vyoma (0), rūpa (1) in Śaka era yields ŚS 1033 (1111 CE), which marks the composition date of the Viśvaprakāśakoṣa by Maheśvara, rather than the copying date of this manuscript. The mention of 'bhīmasyā...' is part of the common scribal apology formula (bhīmasyāpi raṇe bhaṅgaḥ...).",
+ "_meta": {
+  "reel": "B 14/16",
+  "model": "gemini-flash-latest",
+  "secs": 7.8,
+  "in_tok": 874,
+  "out_tok": 1596
+ }
+}

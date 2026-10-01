@@ -1,0 +1,56 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśārṅgadhara",
+   "name": "Śārṅgadhara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśārṅgadharacikitsā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mohanajibhahālajamiṭhālahena",
+   "name": "Mohanajibhahālajamiṭhālaha",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mohanajibhahālajamiṭhālahena svārthaṃ paropakārārthaṃ śārṅadharākhyaṃ pustakaṃ yal likhitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "kṣayasavatsare pauṣamāsi śuklapakṣe trītiyāyāṃ(!)",
+  "era": "unspecified",
+  "year": "kṣaya",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "śrīmatkāśyāṃ",
+  "normalized": "Varanasi"
+ },
+ "purpose": "svārthaṃ paropakārārthaṃ",
+ "notes": "The name 'mohanajibhahālajamiṭhālahena' is in the instrumental singular (-ena), but contains vernacular components (Mohanajī / Bhahālajī? / Miṭhālaha?), making exact division into personal and lineage/patronymic names uncertain. The year is given as the Jovian/Bṛhaspati year kṣayasaṃvatsara without a numbered era.",
+ "_meta": {
+  "reel": "A 215/11",
+  "model": "gemini-flash-latest",
+  "secs": 9.8,
+  "in_tok": 775,
+  "out_tok": 2192
+ }
+}

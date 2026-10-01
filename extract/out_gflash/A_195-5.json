@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "himānaṃda ojhā",
+   "name": "Himānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "ojhā"
+   ],
+   "affiliation": "",
+   "residence": "tāṃdrāgagrāme ramaghāsthāne",
+   "evidence": "likhitam idaṃ taṃtrapustakaṃ himānaṃda ojhā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1647 śrīsaṃvatsaraḥ 1782 māsa 11 dinagatā 6 vāra 4 tithai(!) 12 śuklapakṣe uttarāyane(!)",
+  "era": "ŚS",
+  "year": "1647",
+  "month": "11",
+  "paksa": "śuklapakṣa",
+  "tithi": "12",
+  "weekday": "4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1726"
+ },
+ "place": {
+  "as_written": "tāṃdrāgagrāme ramaghāsthāne",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śāka era 1647 and Vikrama Saṃvat 1782 are recorded in the colophon.",
+ "_meta": {
+  "reel": "A 195/5",
+  "model": "gemini-flash-latest",
+  "secs": 7.6,
+  "in_tok": 1011,
+  "out_tok": 2006
+ }
+}

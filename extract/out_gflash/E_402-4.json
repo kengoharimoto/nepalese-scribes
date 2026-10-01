@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgovindarājopādhyā śarmaṇaḥ",
+   "name": "Govinda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "rājopādhyāya",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgovindarājopādhyā śarmaṇaḥ (!) likhitaṃ idaṃ pustakam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jitamāna",
+   "name": "Jitamāna",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kvāṭhalaṃ khuyā jitamāna tiṃ hayā tarāyā viyā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1898 sāla adhika āśvi śuta va di 1 ro 6",
+  "era": "VS",
+  "year": "1898",
+  "month": "adhika āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "1",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1841"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name Govinda is accompanied by the titles Rājopādhyāya and Śarman. Jitamāna is recorded in a concluding Newari note ('kvāṭhalaṃ khuyā jitamāna tiṃ hayā tarāyā viyā') recording the transfer or delivery of the manuscript.",
+ "_meta": {
+  "reel": "E 402/4",
+  "model": "gemini-flash-latest",
+  "secs": 10.3,
+  "in_tok": 754,
+  "out_tok": 2132
+ }
+}

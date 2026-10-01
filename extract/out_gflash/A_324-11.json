@@ -1,0 +1,55 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "amarasiṃhakṛto",
+   "name": "Amarasiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "amarasiṃhakṛto",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śukṛddevena",
+   "name": "Śukṛddeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śukṛddevena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1536 varṣe māse āṣāḍhavadi 11 budhavāsare",
+  "era": "ŚS",
+  "year": "1536",
+  "month": "āṣāḍha",
+  "paksa": "vadi",
+  "tithi": "11",
+  "weekday": "budhavāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1614"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 324/11",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 797,
+  "out_tok": 898
+ }
+}

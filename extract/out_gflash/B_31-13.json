@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāpaṇḍitābhayākaragupta",
+   "name": "Abhayākaragupta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāpaṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāpaṇḍitābhayākaraguptaracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vajrācāryaśrīmaṇikarājacandrasya",
+   "name": "Maṇikarājacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vajrācāryaśrīmaṇikarājacandrasya svahastena likhita",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 518 bhā(dra)vapakṛṣṇanavī (!)",
+  "era": "NS",
+  "year": "518",
+  "month": "Bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "navamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1398"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 31/13",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 1020,
+  "out_tok": 1087
+ }
+}

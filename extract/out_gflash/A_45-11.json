@@ -1,0 +1,68 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "⁅vajrācā⁆[rya]+++++candreṇa",
+   "name": "...candra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "saṃghabhikṣu",
+    "vajrācārya"
+   ],
+   "affiliation": "śrībhāskaradevasaṃskārita-śrīkeśavacandrakṛta-mahāvihāra",
+   "residence": "śrīyaṃbūbrumā, śrīgāṃkulaka",
+   "evidence": "likhita śrīyaṃbūbrumāyāṃ ... ⁅vajrācā⁆[rya]+++++candreṇeti",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jyotirāmasiṃhasya",
+   "name": "Jyotirāmasiṃha",
+   "roles": [
+    "commissioner",
+    "beneficiary"
+   ],
+   "titles": [
+    "vaṭurājika"
+   ],
+   "affiliation": "asanavihāra",
+   "residence": "brumā, śrīāśvamandapasthāna",
+   "evidence": "likhāpitam idaṃ tatraiva brumāyāṃ śrīāśvamandapasthāne, asanavihārakuṭumbaja, vaṭurājikajyotirāmasiṃhasya pārārthena, svārthaparārthahetunām",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "likhita ... candreṇeti ... likhāpitam idaṃ ... jyotirāmasiṃhasya"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 575 vaiśāṣaśuklapratipadāyāṃ tithau aśvinīnakṣatre viṣkambhayoge śukravāsare",
+  "era": "NS",
+  "year": "575",
+  "month": "vaiśāṣa",
+  "paksa": "śukla",
+  "tithi": "pratipadā",
+  "weekday": "śukravāsara",
+  "nakshatra_yoga": "aśvinīnakṣatre viṣkambhayoge",
+  "ce_approx": "1455"
+ },
+ "place": {
+  "as_written": "śrīyaṃbūbrumāyāṃ śrīgāṃkulake",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "svārtha-parārtha-hetu (svārthaparārthahetunām)",
+ "notes": "Bhāskaradeva and Keśavacandra are mentioned only as part of the formal name of the vihāra (Itum Bāhā: Bhāskaradeva-saṃskārita Keśavacandra-kṛta Mahāvihāra) and are therefore omitted.",
+ "_meta": {
+  "reel": "A 45/11",
+  "model": "gemini-flash-latest",
+  "secs": 7.9,
+  "in_tok": 970,
+  "out_tok": 2069
+ }
+}

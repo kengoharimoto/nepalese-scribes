@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśuka",
+   "name": "Śuka",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśukaviracitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Text concludes with a traditional authorship attribution to Śuka (śrīśukaviracitaṃ). No scribe, commissioner, or date is recorded.",
+ "_meta": {
+  "reel": "A 1093/2i",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 652,
+  "out_tok": 710
+ }
+}

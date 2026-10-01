@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśvanāthapaṃcānanabhaṭṭācārya",
+   "name": "Viśvanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "pañcānana",
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanmahāmahopādhyāya viśvanāthapaṃcānanabhaṭṭācāryaviraci(4)tā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1843 paukhyamāse (!) kṛṣṇapakṣe dvādaśyāṃ ravivāsare",
+  "era": "VS",
+  "year": "1843",
+  "month": "paukhya",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādaśī",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1786"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "paukhyamāse stands for pauṣamāse.",
+ "_meta": {
+  "reel": "A 913/6",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 724,
+  "out_tok": 940
+ }
+}

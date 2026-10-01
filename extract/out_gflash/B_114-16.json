@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1897 sāla miti bhādraśudi 6 roja 4",
+  "era": "unspecified",
+  "year": "1897",
+  "month": "bhādra",
+  "paksa": "śudi",
+  "tithi": "6",
+  "weekday": "roja 4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1840"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue suggests ŚS 1897, but 'sāla' in 19th-century Nepal typically indicates Vikrama Saṃvat (VS 1897 = 1840 CE). Roja 4 designates Wednesday (budhavāra).",
+ "_meta": {
+  "reel": "B 114/16",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 746,
+  "out_tok": 1091
+ }
+}

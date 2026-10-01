@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "maṃbulāla",
+   "name": "Maṃbulāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ maṃbulāla",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "tīvāḍīśaṃkaradayālajī",
+   "name": "Śaṃkaradayāla",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "tīvāḍī"
+   ],
+   "affiliation": "",
+   "residence": "Kāsī",
+   "evidence": "pothītīvāḍīśaṃkaradayālajīkī kāsī(!)ke vāsī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "likhitaṃ maṃbulālamahūrājīmadhye ... pothītīvāḍīśaṃkaradayālajīkī"
+  }
+ ],
+ "date": {
+  "as_written": "mīºº kāºº vaºº 8 sa(!)vat 1859",
+  "era": "VS",
+  "year": "1859",
+  "month": "kāºº",
+  "paksa": "vaºº",
+  "tithi": "8",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1802"
+ },
+ "place": {
+  "as_written": "mahūrājīmadhye",
+  "normalized": "Mathura"
+ },
+ "purpose": "",
+ "notes": "mahūrājīmadhye likely represents Mathurājī madhye (Mathurā). The date abbreviation mīº kāº vaº 8 represents mitī Kārtika vadi 8.",
+ "_meta": {
+  "reel": "A 1116/27",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 726,
+  "out_tok": 1323
+ }
+}

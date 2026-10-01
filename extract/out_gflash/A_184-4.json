@@ -1,0 +1,68 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "puṇyānaṃdanātha",
+   "name": "Puṇyānandanātha",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "paramayogīndra",
+    "paramahaṃsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paramayogīṃdraparamahaṃsapuṇyānaṃdanāthaśiṣya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "paramahaṃsānaṃdanātha",
+   "name": "Ānandanātha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "paramahaṃsa",
+    "yogīpravara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paramahaṃsānaṃdanāthayogīpravararacitāyāṃ yoginīhṛdayadīpikāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "puṇyānaṃdanāthaśiṣya"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author of the Yoginīhṛdayadīpikā is historically known as Amṛtānandanātha, but the colophon text here writes paramahaṃsānaṃdanātha (omitting -mṛt-). The scribe/owner refers to themselves only as 'mayā' (unnamed).",
+ "_meta": {
+  "reel": "A 184/4",
+  "model": "gemini-flash-latest",
+  "secs": 7.6,
+  "in_tok": 752,
+  "out_tok": 1803
+ }
+}

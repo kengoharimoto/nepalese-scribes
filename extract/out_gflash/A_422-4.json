@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pātravaṃśarāuta bābuharidhara",
+   "name": "Haridhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "rāuta",
+    "bābu"
+   ],
+   "affiliation": "pātravaṃśa",
+   "residence": "",
+   "evidence": "likhitaṃ pātravaṃśarāuta bābuharidhara",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1910 sāla miti caitramāse śuklapakṣe navami ghaṭi 9 | vighaṭi 54 tiṣya ghaṭI 25 vighaṭi 24 dhṛtiyoge śukravāsare",
+  "era": "VS",
+  "year": "1910",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "navamī",
+  "weekday": "śukravāsara",
+  "nakshatra_yoga": "tiṣya, dhṛti",
+  "ce_approx": "1853"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 422/4",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 788,
+  "out_tok": 1120
+ }
+}

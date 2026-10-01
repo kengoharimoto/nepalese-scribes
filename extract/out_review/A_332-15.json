@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. Notes now say that 'randhai' is a corrupt form of 'randhrair' and that 'samudraiś ca' stands for 'samudrais'."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajña cakrasiṃhena",
+   "name": "Cakrasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajña cakrasiṃhena nepāla mahimā likhet",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "munirandhai samudraiśca, yute nepālavatsare | bhādra ca sitapakṣetu, dvitīyāyāṃ ravaudine",
+  "era": "NS",
+  "year": "497",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1377"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram is muni (7), randhra (9; written 'randhai', a corrupt form of 'randhrair') and samudra (4). Read right to left (aṅkānāṃ vāmato gatiḥ), it gives NS 497, about 1377 CE. The catalogue's 'Nepāla Samvat 794(!)' reads the digits left to right; NS 794 would be about 1674 CE. The weekday (Sunday) has not been checked against an ephemeris. 'nepāla mahimā' refers to the Nepālamāhātmya.",
+ "_meta": {
+  "reel": "A 332/15",
+  "model": "opus",
+  "cost_usd": 0.06537,
+  "secs": 10.5
+ }
+}

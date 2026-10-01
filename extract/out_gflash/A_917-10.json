@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācāryya.. .. .. .. ..",
+   "name": "…",
+   "roles": [
+    "scribe",
+    "donor"
+   ],
+   "titles": [
+    "vajrācārya",
+    "paramopāsaka"
+   ],
+   "affiliation": "Śrī-Jaśodharavihāra",
+   "residence": "śrījaśodharavihāravāsitaḥ",
+   "evidence": "deyadharmmo yaṃ pravaramahāyāyinaḥ paramopāsakaśrījaśodharavihāravāsitaḥ (!), vajrācāryya.. .. .. .. .. likhito ʼgamat",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 789",
+  "era": "NS",
+  "year": "789",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1669"
+ },
+ "place": {
+  "as_written": "śrījaśodharavihāravāsitaḥ",
+  "normalized": "Patan"
+ },
+ "purpose": "deyadharma",
+ "notes": "The personal name after the title vajrācārya is lost in lacunae (.. .. .. .. ..). It is unclear whether the paramopāsaka resident of Jaśodharavihāra and the vajrācārya scribe are the same person or if a donor's name is also lost.",
+ "_meta": {
+  "reel": "A 917/10",
+  "model": "gemini-flash-latest",
+  "secs": 10.9,
+  "in_tok": 789,
+  "out_tok": 2687
+ }
+}

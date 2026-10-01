@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīpatibhaṭṭa",
+   "name": "Śrīpati",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpatibhaṭṭa viracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "daivajña || sadānanda",
+   "name": "Sadānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "Kāntipura Kāṣṭhamaṇḍapa",
+   "evidence": "likhitaṃ || kāntipura || kāṣṭhamaṇḍapakā || daivajña || sadānanda",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "harinandapādhyāko",
+   "name": "Harinanda",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pustaka, śrī harinandapādhyāko",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "likhitaṃ || kāntipura || kāṣṭhamaṇḍapakā || daivajña || sadānanda || pustaka, śrī harinandapādhyāko"
+  }
+ ],
+ "date": {
+  "as_written": "nepāla saṃvat 890 kārttika vadi 3 vṛhaspati vāla || ... śrīśāke 1691 śrī samvat 1826 mitikārttika vadi 3 roja vṛhaspativāraḥ",
+  "era": "NS",
+  "year": "890",
+  "month": "kārttika",
+  "paksa": "vadi",
+  "tithi": "3",
+  "weekday": "vṛhaspativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1769"
+ },
+ "place": {
+  "as_written": "kāntipura || kāṣṭhamaṇḍapakā",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "Triple date given in the colophon: NS 890, ŚS 1691, and VS 1826, which all correlate consistently to CE 1769.",
+ "_meta": {
+  "reel": "A 1360/4",
+  "model": "gemini-flash-latest",
+  "secs": 7.2,
+  "in_tok": 867,
+  "out_tok": 1999
+ }
+}

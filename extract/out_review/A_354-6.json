@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Checked the first reading and found no factual errors.",
+   "Expanded the notes on the honorific plural and the catalogue's misspelling of the scribe's name."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīlakṣmaṇapaṃḍitair",
+   "name": "Lakṣmaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīlakṣmaṇapaṃḍitair likhitā etāḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives the scribe as 'Lakṣaṇa Paṃḍita', but the colophon reads 'śrīlakṣmaṇapaṃḍitair'. The catalogue spelling is probably a typo for Lakṣmaṇa. The instrumental plural (-paṃḍitair) is an honorific plural for one scribe. 'etāḥ' refers to the kārikās. The colophon has no date or place. 'śrīrāmaḥ śaraṇaṃ mameti' is a closing invocation, not a person.",
+ "_meta": {
+  "reel": "A 354/6",
+  "model": "opus",
+  "cost_usd": 0.059806000000000005,
+  "secs": 8.6
+ }
+}

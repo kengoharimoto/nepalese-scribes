@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jaya raṇajitmalladeva",
+   "name": "Jayaraṇajitmalladeva",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jaya raṇajitmalladeva mahāṛājā(54r4)dhirāja paramabhaṭṭāraka viracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "End of act 13 (trayodaśo 'ṅkaḥ); the text is attributed to King Raṇajit Malla of Bhaktapur. No scribal colophon or date is recorded in the quoted excerpt.",
+ "_meta": {
+  "reel": "A 345/18",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 727,
+  "out_tok": 869
+ }
+}

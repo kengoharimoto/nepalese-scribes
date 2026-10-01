@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "tejaratnaṃ",
+   "name": "Tejaratna",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "gubhāju"
+   ],
+   "affiliation": "svāvāhālaya",
+   "residence": "",
+   "evidence": "tejaratnaṃ gubhājuko pustaka ho",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃmvat 1006 mārga śudi 8 roja 2",
+  "era": "NS",
+  "year": "1006",
+  "month": "mārga",
+  "paksa": "śudi",
+  "tithi": "8",
+  "weekday": "roja 2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1885"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The ownership statement is recorded first in Nepali (tejaratnaṃ gubhājuko pustaka ho) and then elaborated in Newari (svāvāhālayā tejaratnayā gujula) accompanied by protective warnings against selling, coveting, or damaging the book.",
+ "_meta": {
+  "reel": "A 586/14",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 925,
+  "out_tok": 1267
+ }
+}

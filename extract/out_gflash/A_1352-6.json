@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivalāla pāṭhaka",
+   "name": "Śivalāla",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "pāṭhaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śivalāla pāṭhaka pādānumāyi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaṭṭadevarāma",
+   "name": "Devarāma",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭadevarāma saṃgṛhīte śrīmadrāmāyaṇīya viṣamapadavyākhyāne",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śivalāla pāṭhaka pādānumāyi bhaṭṭadevarāma"
+  }
+ ],
+ "date": {
+  "as_written": "bhādraśudi 9 saṃvat 1901",
+  "era": "VS",
+  "year": "1901",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1844"
+ },
+ "place": {
+  "as_written": "vārāṇasyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Rādhākṛṣṇa Dāsa as scribe, but the name does not appear in the quoted colophon text.",
+ "_meta": {
+  "reel": "A 1352/6",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 848,
+  "out_tok": 1537
+ }
+}

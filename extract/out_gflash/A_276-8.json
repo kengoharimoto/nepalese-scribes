@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkṛbhārīpāva",
+   "name": "Kṛbhārīpāva",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkṛbhārīpāvavīracītaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat || 1795 ||",
+  "era": "VS",
+  "year": "1795",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1738"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author name is corrupt (śrīkṛbhārīpāvavīracītaṃ, likely a Nātha/Siddha name ending in -pāda/-pāva, such as Carpaṭīpāda or Kṛpārīpāda).",
+ "_meta": {
+  "reel": "A 276/8",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 751,
+  "out_tok": 1117
+ }
+}

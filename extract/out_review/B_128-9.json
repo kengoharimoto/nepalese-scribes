@@ -1,0 +1,86 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 Śaśidhararāja: role changed from 'beneficiary' to 'owner'. He receives the book as a gift ('-yātaṃ dāna viyā'), so he becomes its later owner. This comes from the second-hand note of NS 1016.",
+   "Added p3: the donor from Lāviccha. The name is corrupt (†rarasaāṃ ya†), so confidence is low.",
+   "Added relation: donor p3 gave the book to p2.",
+   "Place emptied. Nhulaccha is given only as the scribe's residence ('nhulacchayā'), not as the place of copying; it stays in p1.residence.",
+   "Date for the main colophon confirmed (NS 771 = c. 1651 CE). Normalised nakshatra_yoga. Recorded the second-hand date NS 1016 (= 1896 CE) in notes."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "balabhadrasiṃhana",
+   "name": "Balabhadrasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Nhulaccha",
+   "evidence": "nhulacchayā balabhadrasiṃhana thva pustaka saṃpūrṇa yāṅā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīśaśidhararājajujuyātaṃ",
+   "name": "Śaśidhararāja",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "juju"
+   ],
+   "affiliation": "",
+   "residence": "Iyāche",
+   "evidence": "iyācheyā śrīśaśidhararājajujuyātaṃ dāna viyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "†rarasaāṃ ya†",
+   "name": "Rarasa(?)",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Lāviccha",
+   "evidence": "lāvicchayā †rarasaāṃ ya† ... dāna viyā",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "other",
+   "to": "p2",
+   "evidence": "lāvicchayā †rarasaāṃ ya† ... śrīśaśidhararājajujuyātaṃ dāna viyā"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 771 jyeṣṭhaśukratrayodaśī svātinakṣatre parighayogaga (!) bṛhaspativāra (!)",
+  "era": "NS",
+  "year": "771",
+  "month": "Jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "Svāti; Parigha",
+  "ce_approx": "1651"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "later donation (dāna) to Śaśidhararāja at saṅkrānti, NS 1016",
+ "notes": "The main colophon (NS 771 = c. 1651 CE) says Balabhadrasiṃha of Nhulaccha completed the copy. A later hand adds a donation note dated NS 1016 Māgha vadi 14 (= c. 1896 CE), on the occasion of a saṅkrānti. In it someone from Lāviccha, whose name is corrupt (†rarasaāṃ ya†), gave the book to Śaśidhararāja juju of Iyāche. The donor's name reading is very uncertain. 'ya ju va' may be part of a verb phrase and not part of the name.",
+ "_meta": {
+  "reel": "B 128/9",
+  "model": "opus",
+  "cost_usd": 0.1441644,
+  "secs": 30.1
+ }
+}

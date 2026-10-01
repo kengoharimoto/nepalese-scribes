@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vinākayena",
+   "name": "Vināyaka",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sāṭhe"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sāṭhe ity upanāmaka vinākayena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthaṃ ca",
+ "notes": "Scribe's name is written vinākayena (for vināyakena) with surname (upanāman) Sāṭhe.",
+ "_meta": {
+  "reel": "A 1029/7",
+  "model": "gemini-flash-latest",
+  "secs": 3.1,
+  "in_tok": 722,
+  "out_tok": 586
+ }
+}

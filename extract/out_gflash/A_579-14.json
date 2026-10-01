@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ʼnubhūtisvarūpācāryya",
+   "name": "Anubhūtisvarūpācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ʼnubhūtisvarūpācāryyaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "manidharatapodhanāt",
+   "name": "Manidhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "tapodhana"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "puṣṭakaṃ likhitaṃ caiva manidharatapodhanāt",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "phālguṇe ca site pakṣe saptamyāṃ jīvavāsare | bhalanī brahmayoge ca ... aṣṭau śataśathīsaptai ete saṃkhyāsamvatsare",
+  "era": "NS",
+  "year": "867",
+  "month": "Phālguna",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "Bharaṇī, Brahma",
+  "ce_approx": "1747"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is expressed as 'aṣṭau śataśathīsaptai' (NS 867). 'bhalanī' stands for Bharaṇī nakṣatra.",
+ "_meta": {
+  "reel": "A 579/14",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 979,
+  "out_tok": 1256
+ }
+}

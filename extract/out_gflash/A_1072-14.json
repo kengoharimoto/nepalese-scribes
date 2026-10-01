@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīharṣaratnena vajrā cāryena",
+   "name": "Harṣaratna",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śrīharṣaratnena vajrā cāryena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gurupadmanābha",
+   "name": "Padmanābha",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "guru"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gurupadmanābhaprasādā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "gurupadmanābhaprasādā"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1809 māghaśukla 10 roja 2 taddine",
+  "era": "ŚS",
+  "year": "1809",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "roja 2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1887"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue field lists King Dravya Śāha, but he is not mentioned in the colophon text.",
+ "_meta": {
+  "reel": "A 1072/14",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 751,
+  "out_tok": 1419
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīśrīśrīśrīmanmahārājādhirājapaṭṭarājñī",
+   "name": "Mahārājādhirājapaṭṭarājñī",
+   "roles": [
+    "queen",
+    "beneficiary"
+   ],
+   "titles": [
+    "mahārājādhirājapaṭṭarājñī",
+    "paṭṭarājñī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "anena likhanapa(11)riśrameṇa svasti śrīśrīśrīśrīśrīmanmahārājādhirājapaṭṭarājñīpriyatām",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "anena likhanapariśrameṇa svasti śrīśrīśrīśrīśrīmanmahārājādhirājapaṭṭarājñīpriyatām",
+ "notes": "The chief queen (paṭṭarājñī) of the reigning king (mahārājādhirāja) is named as the beneficiary of the merit of copying, but her personal name is omitted in favor of her royal title.",
+ "_meta": {
+  "reel": "B 241/6",
+  "model": "gemini-flash-latest",
+  "secs": 12.3,
+  "in_tok": 695,
+  "out_tok": 2965
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "āṃkolakara gopāle na",
+   "name": "Gopāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "āṃkolakara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "āṃkolakara gopāle na likhitoyaṃ graṃthaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1700 śake 1565 śrāvaṇa śuddha 8 bhṛgau",
+  "era": "ŚS",
+  "year": "1565",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "8",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1643"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Vikrama Saṃvat 1700 and Śaka Saṃvat 1565 are provided, which correspond to CE 1643. 'śrīmorayā' and 'bhahālakṣmī(!)' are invocations.",
+ "_meta": {
+  "reel": "B 356/5",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 761,
+  "out_tok": 1339
+ }
+}

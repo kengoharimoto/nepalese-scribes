@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhṛtkalyāṇavarṇa",
+   "name": "Kalyāṇavarṇa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhṛtkalyāṇavarṇaviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1721 śrīvikramasaṃvat 1856 sālamiti mārgaśila(!) śu || śubhaṃ 11",
+  "era": "ŚS",
+  "year": "1721 / VS 1856",
+  "month": "mārgaśiras",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1799"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śaka era 1721 and Vikrama Saṃvat 1856 are mentioned, corresponding to 1799 CE. Kalyāṇavarṇa is a variant reading for Kalyāṇavarman, the author of the Sārāvalī.",
+ "_meta": {
+  "reel": "B 351/2",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 719,
+  "out_tok": 1135
+ }
+}

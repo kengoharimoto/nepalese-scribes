@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "āpadevena",
+   "name": "Āpadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "āpadevena kṛtaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīanantadeva",
+   "name": "Anantadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīanantadevasūnunā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīanantadevasūnunā āpadevena"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1786",
+  "era": "VS",
+  "year": "1786",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1729"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon provides the author colophon of Āpadeva, son of Anantadeva, followed by the copying date Saṃvat 1786 (likely Vikrama Saṃvat).",
+ "_meta": {
+  "reel": "B 43/16",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 755,
+  "out_tok": 871
+ }
+}

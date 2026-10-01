@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhūbhṛddilīpa",
+   "name": "Dilīpa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhūbhṛt"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhūbhṛddilīpaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jayate///",
+   "name": "Jayate",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "yambu? Bramāyā(!) śrīcanigalasthāne",
+   "evidence": "kāyhastha jayate///",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvata 4///śuklatṛtīyāyā(!) bhṛguvāsare punarvaśunakṣatre(!)",
+  "era": "NS",
+  "year": "4///",
+  "month": "",
+  "paksa": "śukla",
+  "tithi": "tṛtīyā",
+  "weekday": "bhṛguvāsara",
+  "nakshatra_yoga": "punarvasu",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "yambu? Bramāyā(!) śrīcanigalasthāne",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The scribe's name is broken off after 'jayate'. The year digits after 4 are broken/illegible; the era is Nepal Samvat (century 400 NS = c. 1280–1379 CE).",
+ "_meta": {
+  "reel": "A 1156/28",
+  "model": "gemini-flash-latest",
+  "secs": 7.6,
+  "in_tok": 816,
+  "out_tok": 1770
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 887 kārttika śudi 5 budhavāra",
+  "era": "NS",
+  "year": "887",
+  "month": "kārttika",
+  "paksa": "śudi",
+  "tithi": "5",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1767"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons involved in the production of the manuscript are named in the colophon; Yudhiṣṭhira and Vyāsa belong to the textual narrative framework.",
+ "_meta": {
+  "reel": "B 273/7",
+  "model": "gemini-flash-latest",
+  "secs": 2.6,
+  "in_tok": 704,
+  "out_tok": 563
+ }
+}

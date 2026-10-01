@@ -1,0 +1,60 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadānaṃdatīrthabhagavatpādācārya",
+   "name": "Ānandatīrtha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhagavatpāda",
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadānaṃdatīrthabhagavatpādācāryaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kāśmīrī(!)bhaṭṭalaṃbodareṇa",
+   "name": "Lambodara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "kāśmīrī",
+   "evidence": "kāśmīrī(!)bhaṭṭalaṃbodareṇa likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe is described with the regional adjective/demonym 'kāśmīrī'.",
+ "_meta": {
+  "reel": "B 147/1",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 715,
+  "out_tok": 910
+ }
+}

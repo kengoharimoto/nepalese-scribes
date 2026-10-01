@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "varāhamihira",
+   "name": "Varāhamihira",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "āvanikācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "varāhamihirakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "veṇīrāmavudho",
+   "name": "Veṇīrāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "budha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "veṇīrāmavudho likhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vāṇeṃdunagabhū 1715 śāke āṣāḍhe asitapakṣake || daśamyāṃ vudhavāre",
+  "era": "ŚS",
+  "year": "1715",
+  "month": "Āṣāḍha",
+  "paksa": "asita",
+  "tithi": "daśamī",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1793"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "vāṇeṃdunagabhū represents the chronogram: vāṇa (5), indu (1), naga (7), bhū (1) = Śāka 1715.",
+ "_meta": {
+  "reel": "B 336/10",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 734,
+  "out_tok": 1147
+ }
+}

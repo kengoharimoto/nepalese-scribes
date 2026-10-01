@@ -1,0 +1,90 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījayapatisomaśarmmanena",
+   "name": "Jayapatisomaśarman",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "sthānādhipati",
+    "dvijavarottama"
+   ],
+   "affiliation": "vipravaṃśa",
+   "residence": "śrī lalitāpurīnagaryāṃ śrīmāṇīglake nairityadigasthaśrīthaṃbusthāna",
+   "evidence": "śrījayapatisomaśarmmanena sarvvasatyaupakārārthaṃ āyuskāmārthaṃ sarvvaduritopasāntyarthaṃ ratnakaraṇḍikā nāma mahāsmṛtisamuccaya likhāpitam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "daivajña anantarāmanāmnena",
+   "name": "Anantarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "śrīmāṇīglake dakṣiṇasthaśrītāliṅgeśvarasthāna",
+   "evidence": "daivajña anantarāmanāmnena manasā vācā karmmaṇā triśuddhena ratnakaraṇḍikā nāma mahāsmṛtisamuccaya likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīśrījayarājamala⁅devasya",
+   "name": "Jayarājamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājāddhirājaparame[[śva]]raparamabhaṭārikaśrīśrījayarājamala⁅devasya vijayarājyaṃ⁆",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "śrījayapatisomaśarmmanena ... likhāpitam || ○ || tasmin aiva (!) nagaryāṃ ... daivajña anantarāmanāmnena ... likhitaṃ"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "daivajña anantarāmanāmnena ... likhitaṃ ... jayarājamala⁅devasya vijayarājyaṃ⁆"
+  }
+ ],
+ "date": {
+  "as_written": "śrīmat(!)nepālikasamvat 481 māghakṛṣṇāṣṭamyāṃ tithau || anurādhānakṣatre || śanīścaravāsare",
+  "era": "NS",
+  "year": "481",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "śanīścaravāsara",
+  "nakshatra_yoga": "anurādhānakṣatra",
+  "ce_approx": "1361"
+ },
+ "place": {
+  "as_written": "śrī lalitāpurīnagaryāṃ śrīmāṇīglake dakṣiṇasthaśrītāliṅgeśvarasthāna",
+  "normalized": "Patan"
+ },
+ "purpose": "sarvvasatyaupakārārthaṃ āyuskāmārthaṃ sarvvaduritopasāntyarthaṃ",
+ "notes": "",
+ "_meta": {
+  "reel": "B 33/12",
+  "model": "gemini-flash-latest",
+  "secs": 7.8,
+  "in_tok": 995,
+  "out_tok": 2161
+ }
+}

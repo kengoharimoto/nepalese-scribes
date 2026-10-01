@@ -1,0 +1,70 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṛṣṇadevena",
+   "name": "Kṛṣṇadeva",
+   "roles": [
+    "scribe",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛṣṇadevena dhīmatā | dattaṃ liṣitvā putrāya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gaṃgādharāya",
+   "name": "Gaṅgādhara",
+   "roles": [
+    "beneficiary",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dattaṃ liṣitvā putrāya, gaṃgādharāya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "kṛṣṇadevena dhīmatā | dattaṃ liṣitvā putrāya, gaṃgādharāya"
+  },
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "dattaṃ liṣitvā putrāya, gaṃgādharāya"
+  }
+ ],
+ "date": {
+  "as_written": "samvata śakudattake, saptaśate ṣaṭṣaṣṭyadhike, māsi jyeṣṭhe kṛṣṇapakṣe trayodaśyā tithau",
+  "era": "ŚS",
+  "year": "766",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "844"
+ },
+ "place": {
+  "as_written": "paśupatideśe",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "prāptakāmārthaṃ (written by the father and given to his son Gaṅgādhara)",
+ "notes": "The era appears as 'śakudattake' (interpreted by the cataloguer as Śaka 766 = 844 CE); however, for a paper manuscript in Nepal, year 766 often refers to Nepal Saṃvat (1646 CE).",
+ "_meta": {
+  "reel": "A 274/6",
+  "model": "gemini-flash-latest",
+  "secs": 7.8,
+  "in_tok": 948,
+  "out_tok": 1908
+ }
+}

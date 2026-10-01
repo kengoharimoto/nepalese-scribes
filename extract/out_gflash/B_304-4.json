@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgaṃgānandakavirāka",
+   "name": "Gaṅgānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavirāka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgaṃgānandakavirākakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "madhusūdanena",
+   "name": "Madhusūdana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ madhusūdanena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 818 mārggaśira śuºº praººº bṛºº",
+  "era": "NS",
+  "year": "818",
+  "month": "mārggaśira",
+  "paksa": "śukla",
+  "tithi": "pratipad",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1697"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author title 'kavirāka' is an apparent scribal error for kavirāja or kavīndra (Gaṅgānanda Kavīndra).",
+ "_meta": {
+  "reel": "B 304/4",
+  "model": "gemini-flash-latest",
+  "secs": 6.2,
+  "in_tok": 725,
+  "out_tok": 1063
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p3: name normalized to 'Ananta' (śarman moved to titles only), as_written kept",
+   "p1: added note that the catalogue's 'Āśāditya' may be a misreading of 'śrīmad āditya'; Āditya is compiler (saṃgṛhīte), not scribe",
+   "date: ce_approx kept at 1644 but noted the Pauṣa kṛṣṇa 13 of ŚS 1565 falls in Dec 1643/Jan 1644 depending on month system; weekday wording clarified"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "āditya tripāṭhī",
+   "name": "Āditya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "tripāṭhī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmad āditya tripāṭhīsaṃgṛhīte maṃtrakoṣe",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "manohara",
+   "name": "Manohara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "manoharasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "anaṃtaśarmaṇo",
+   "name": "Ananta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ manoharasutaśrīmad anaṃtaśarmaṇo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "manoharasutaśrīmad anaṃtaśarmaṇo"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1565 pauṣavadi 13 vidhānurādhāyāṃ",
+  "era": "ŚS",
+  "year": "1565",
+  "month": "Pauṣa",
+  "paksa": "vadi (kṛṣṇa)",
+  "tithi": "13",
+  "weekday": "Monday (vidhau)",
+  "nakshatra_yoga": "Anurādhā",
+  "ce_approx": "1644"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The catalogue gives 'Āśāditya Tripāṭhī' as the scribe. In the colophon he is the compiler of the Mantrakoṣa (saṃgṛhīte), so the role is author. The quoted text reads 'śrīmad āditya'. The catalogue's 'Āśāditya' may come from a misreading of 'śrīmadāditya', or the manuscript may actually read 'śrīmadāśāditya'. The copy was written by Ananta(śarman), son of Manohara. 'vidhānurādhāyāṃ' is taken as vidhau (Monday) + anurādhāyāṃ (nakṣatra). Adding 78 to ŚS 1565 gives 1643/44. Pauṣa kṛṣṇa 13 falls around late December 1643 (pūrṇimānta) or January 1644 (amānta). The weekday has not been checked.",
+ "_meta": {
+  "reel": "A 169/8",
+  "model": "opus",
+  "cost_usd": 0.081782,
+  "secs": 17.1
+ }
+}

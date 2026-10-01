@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "durgādattena",
+   "name": "Durgādatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ durgādattena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1912 ā.śu.śu.8 ravau",
+  "era": "VS",
+  "year": "1912",
+  "month": "ā.",
+  "paksa": "śuklapakṣa",
+  "tithi": "8",
+  "weekday": "ravau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1855"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The month abbreviation 'ā.' likely stands for Āṣāḍha or Āśvina.",
+ "_meta": {
+  "reel": "A 416/4",
+  "model": "gemini-flash-latest",
+  "secs": 3.0,
+  "in_tok": 700,
+  "out_tok": 600
+ }
+}

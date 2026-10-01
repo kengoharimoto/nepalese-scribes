@@ -1,0 +1,34 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Notes refined: the first date (month unclear '(kadva)', śudi 2) appears to record the start of copying ('…abhyaromāka dina', probably a garbled form of ārambha yāka dina, 'day the work was begun'). The second date (Māgha śudi 4, 'vijayamapi mokadina') records completion. Previously both were described as completion dates.",
+   "Main date kept as the completion date, Māgha śukla 4, NS 691 = c. 1571 CE (691 + 880). This is consistent with the catalogue field."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 691 maghaśudi caturthyātithau vijayamapi mokadina",
+  "era": "NS",
+  "year": "691",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "caturthī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1571"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The colophon gives two dates, both in NS 691. (1) 'samvat 691 (kadva) śudi dvitīyā(kulya)mabhyaromāka dina': the month name is corrupt or unclear. '(kadva)' might be a misreading of a month name. The phrase seems to mark the day copying began (cf. Newari ārambha yāka dina). (2) 'samvat 691 maghaśudi caturthyātithau vijayamapi mokadina': Māgha śukla 4, apparently the completion date. If the first month comes before Māgha, copying took place over winter NS 691, roughly January–February 1571 CE. No human persons (scribe, patron, owner) are named.",
+ "_meta": {
+  "reel": "A 1157/23",
+  "model": "opus",
+  "cost_usd": 0.065198,
+  "secs": 14.2
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": []
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīviśvambhararājopādhyāyasya",
+   "name": "Viśvambhara",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "rājopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīviśvambhararājopādhyāyasyedaṃ kāśīkhaṇḍapustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 809 śrāvaṇakṛṣṇadvādaśī, vṛhaspativāra",
+  "era": "NS",
+  "year": "809",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādaśī",
+  "weekday": "vṛhaspativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1689"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is not named (\"saṃvat 809\"). It is taken as Nepāla Saṃvat because the manuscript is in Newari script and the colophon uses Newari (\"kunhu saṃpūrṇṇa yāṅā\"), so the date is about 1689 CE. The catalogue lists Viśvambhara Rājopādhyāya as the scribe, but the colophon only says he owned the book (\"śrīviśvambhararājopādhyāyasyedaṃ kāśīkhaṇḍapustakaṃ\"). No scribe is named. The verse \"yādṛśaṃ ... na vidyate\" is the usual stock scribal formula and has been abridged by the cataloguer.",
+ "_meta": {
+  "reel": "A 254/3",
+  "model": "opus",
+  "cost_usd": 0.049427,
+  "secs": 11.3
+ }
+}

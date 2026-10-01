@@ -1,0 +1,112 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 Jñānottama: role 'teacher' → 'other'. He was the commentator's guru, not a teacher connected with this copy.",
+   "p3: name 'Kṛṣṇa Jośī' → 'Kṛṣṇa'. 'Jośī' is a surname/caste title and stays only in titles.",
+   "p3: role 'author' → 'other'. He composed only the appended verse, not the text; he stays 'owner'.",
+   "p4 Bhaū: the titles 'vipra' and 'dvijavara' are kept as descriptions.",
+   "Date: ce_approx 1884 → 1885. Phālguna of VS 1941 falls in Feb–Mar 1885. The year '941' is an emendation to 1941, and the conflict with the catalogue's VS 1949 is noted.",
+   "The dates in the colophon are for the owner's verse and for Bhaū's act, not for the copying. This is noted.",
+   "Added the chronogram in the verse (vikramabhūpater … atidhṛti devair mite = VS 1933, Pauṣa kṛṣṇa, Tuesday) to the notes.",
+   "Place: Rāmanagara is the owner's residence, not a stated place of copying, so the place field is now empty. The town is not identified, because many places are called Ramnagar."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vijñānātmamuni",
+   "name": "Vijñānātman",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya",
+    "muni",
+    "bhagavat"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadvijñānātmamunibhagavataḥ kṛtau śvetāśvataropaniṣadvivaraṇe",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jñānottama",
+   "name": "Jñānottama",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "pūjyapāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmat jñānottamapūjyapādaśiṣya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīkṛṣnajośī",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "owner",
+    "other"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "Rāmanagara",
+   "evidence": "putakamadaḥ śrīkṛṣnajośī rāmanagaravāle",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrībhaūnāmā",
+   "name": "Bhaū",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "vipra",
+    "dvijavara"
+   ],
+   "affiliation": "Agastyakula",
+   "residence": "",
+   "evidence": "viprogastyakulodbhavo dvijavaraḥ śrībhaūnāmā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "jñānottamapūjyapādaśiṣya"
+  }
+ ],
+ "date": {
+  "as_written": "saṃ 941 phālguna śukla 5 bhaume divā tṛtīyaprahare",
+  "era": "VS",
+  "year": "1941",
+  "month": "Phālguna",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1885"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The commentary is Vijñānātman's Śvetāśvataropaniṣadvivaraṇa, also called Śvetāśvataradīpikā. No scribe and no date of copying are stated. 'putakamadaḥ' (= pustakam adaḥ) śrīkṛṣṇajośī rāmanagaravāle marks Kṛṣṇa Jośī of Rāmanagara as the owner. He may also have been the scribe, but the colophon does not say so.\n\nThe verse that follows records that the brahmin Bhaū, of the Agastya kula, devoted himself to the feet of Śiva (hemādrisutāpati). This may commemorate his death or renunciation. Its date is 'śāke vikramabhūpater atidhṛti devair mite', i.e. the era of King Vikrama, 'atidhṛti' = 19 and 'devāḥ' = 33. Read in the natural order this gives VS 1933, which is about Dec 1876–Jan 1877 CE. A strict right-to-left reading would give the impossible 3319. The rest of that date is Pauṣa, waning fortnight (kṣayadala), Tuesday ('namgārike' = aṅgārike). The tithi is unclear ('vai tithau').\n\nKṛṣṇa Jośī says he composed the verse on 'saṃ 941' Phālguna śukla 5, a Tuesday. I take this as VS 1941 with the thousand dropped, which is about Feb–Mar 1885 CE. The catalogue gives VS 1949 (c. 1893), so either the colophon reads 941 for 1949 or the catalogue's date is an error; this needs checking against the manuscript. Both dates describe events written after the copying and give only a terminus ante quem for it.",
+ "_meta": {
+  "reel": "A 102/26",
+  "model": "opus",
+  "cost_usd": 0.127274,
+  "secs": 36.0
+ }
+}

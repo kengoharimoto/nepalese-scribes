@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīhariharapaṃḍito",
+   "name": "Harihara",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "paṇḍita",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ vādarāyaṇīyātrā śrīhariharapaṃḍito mamaḥ (!) ... pustakīyaṃ (!) hariharasarmaṇoḥ (!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1711 kārttikaśukle saptamyāṃ ravivāsare",
+  "era": "ŚS",
+  "year": "1711",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1789"
+ },
+ "place": {
+  "as_written": "mukāma rāmanagara",
+  "normalized": "Rāmanagara"
+ },
+ "purpose": "svārtha",
+ "notes": "The phrase 'śrīhariharapaṃḍito mamaḥ' is likely corrupt for 'śrīhariharapaṇḍitena mama' or 'namaḥ'; followed later by 'pustakīyaṃ (!) hariharasarmaṇoḥ (!)' (pustakam idaṃ hariharaśarmaṇaḥ), indicating Harihara was both scribe and owner.",
+ "_meta": {
+  "reel": "A 430/15",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 784,
+  "out_tok": 997
+ }
+}

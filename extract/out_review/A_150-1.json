@@ -1,0 +1,65 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Added Vimalaprabodha (p2) as author: 'vimalaprabodhamata' is the doctrine of Vimalaprabodha, to whom the Kālīkulakramārcana is attributed. The first reading treated it only as a school name.",
+   "ce_approx changed from 1699 to 1698. The Nepal Saṃvat (NS) year begins at Kārtika śukla 1, so Kārtika śukla 6 of NS 819 falls in Oct/Nov 1698.",
+   "Normalized the nakṣatra and recorded it as inconsistent with the tithi; marked the corrupt tithi 'ṣaṣṭhami' as doubtful in notes.",
+   "Normalized the scribe's title to 'karmācārya'."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "karmmācāryya cakrasiṃhana",
+   "name": "Cakrasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhita karmmācāryya cakrasiṃhana",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vimalaprabodhamata",
+   "name": "Vimalaprabodha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīśrī vimalaprabodhamata śrīśrīśrīguhyakālyāna krama",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 819 kārtikaśuklaṣaṣṭhami utrabhadranakṣetra bṛhaspativāra",
+  "era": "NS",
+  "year": "819",
+  "month": "Kārtika",
+  "paksa": "śukla",
+  "tithi": "ṣaṣṭhī (written ṣaṣṭhami)",
+  "weekday": "bṛhaspativāra (Thursday)",
+  "nakshatra_yoga": "Uttarabhādrapadā (utrabhadranakṣetra)",
+  "ce_approx": "1698"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is not named, but 'samvat' with Newari text is Nepal Saṃvat (NS), which matches the catalogue. The NS year starts at Kārtika śukla 1, so Kārtika śukla 6 of NS 819 is Oct/Nov 1698 CE. The usual NS+880 rule gives 1699, which is too late for a Kārtika date. The tithi 'ṣaṣṭhami' is corrupt: it could be ṣaṣṭhī or aṣṭamī. On either day the moon is unlikely to be in Uttarabhādrapadā; on Kārtika śukla 6–8 it is usually around Uttarāṣāḍhā to Dhaniṣṭhā. So the date details are internally inconsistent, and the weekday has not been checked. The copy contains the krama of Guhyakālī 'according to Vimalaprabodha's doctrine' (vimalaprabodhamata). I take Vimalaprabodha as the traditional author of the Kālīkulakramārcana, not as someone involved in making this copy. The colophon names the text as 'kālīkramasaṃkṣepahomavidhiḥ' from the Vāśiṣṭhīya, Uttarāmnāya.",
+ "_meta": {
+  "reel": "A 150/1",
+  "model": "opus",
+  "cost_usd": 0.1636916,
+  "secs": 37.9
+ }
+}

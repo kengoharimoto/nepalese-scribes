@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajña cakrasiṃhena",
+   "name": "Cakrasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajña cakrasiṃhena nepāla mahimā likhet",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "munirandhai samudraiśca, yute nepālavatsare | bhādra ca sitapakṣetu, dvitīyāyāṃ ravaudine",
+  "era": "NS",
+  "year": "497",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1377"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'muni-randhra-samudra' (muni = 7, randhra = 9, samudra = 4) by the principle of aṅkānāṃ vāmato gatiḥ yields NS 497 (~1377 CE). The catalogue gives 'Nepāla Samvat 794(!)', reading the chronogram without reversal (or correcting to NS 794 = 1674 CE).",
+ "_meta": {
+  "reel": "A 332/15",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 737,
+  "out_tok": 1380
+ }
+}

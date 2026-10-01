@@ -1,0 +1,116 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ācāryaśrīmaduyanasya",
+   "name": "Udayana",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ity ācāryaśrīmaduyanasya kṛtau nyāyavārttikatātparyaṭīkāpariśuddhau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vāsudevena",
+   "name": "Vāsudeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kṛtī"
+   ],
+   "affiliation": "gauḍīya",
+   "residence": "",
+   "evidence": "alekhi vāsudevena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "gaṅgādharasya",
+   "name": "Gaṅgādhara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gaṅgādharasya caraṇau pitur arccayitvā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "mahāmahopādhyāyasanmiśraśrīmacchaṅkarāṇāṃ",
+   "name": "Śaṅkara",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "sanmiśra"
+   ],
+   "affiliation": "",
+   "residence": "Sarṣapagrāma",
+   "evidence": "sarṣapagrāme mahāmahopādhyāyasanmiśraśrīmacchaṅkarāṇāṃ caupāṭyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "sattarkkālaṅkṛtaśrīmaccaturbbhu(ja na .. nmiśra)",
+   "name": "Caturbhuja",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sattarkkālaṅkṛtaśrīmaccaturbbhu(ja na .. nmiśra)",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "gaṅgādharasya caraṇau pitur arccayitvā śrīrohiṇisutavaro likhati sma pustīm"
+  },
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p4",
+   "evidence": "sarṣapagrāme mahāmahopādhyāyasanmiśraśrīmacchaṅkarāṇāṃ caupāṭyāṃ gauḍīyaśreṣṭhaśrīmadvāsudevena"
+  }
+ ],
+ "date": {
+  "as_written": "śakābdāḥ 1410 || āṣāḍhasya site pakṣe saptamyāṃ ravivāsare",
+  "era": "ŚS",
+  "year": "1410",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1488"
+ },
+ "place": {
+  "as_written": "sarṣapagrāme ... caupāṭyāṃ",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe Vāsudeva copied the manuscript at the caupāṭī (school/academy) of Mahāmahopādhyāya Śaṅkara Miśra in Sarṣapagrāma. He refers to himself as the son of Gaṅgādhara and as 'śrīrohiṇīsutavara' or of Gauḍa origin ('gauḍīyaśreṣṭha'). Caturbhuja Miśra is mentioned towards the broken end of fol. 62r.",
+ "_meta": {
+  "reel": "A 33/7",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 1008,
+  "out_tok": 1091
+ }
+}

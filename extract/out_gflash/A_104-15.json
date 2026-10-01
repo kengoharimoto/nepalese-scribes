@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnārāyanaṃ (!) brāhmaṇaḥ",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "rāṃpuragrāmasthāna",
+   "evidence": "śrīnārāyanaṃ (!) brāhmaṇaḥ ... likhitam mayā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1684 phālguṇamāse śukladvitiyāṃ (!) tithau",
+  "era": "ŚS",
+  "year": "1684",
+  "month": "Phālguna",
+  "paksa": "śukla",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1762"
+ },
+ "place": {
+  "as_written": "śrīkauśikipaścimabhāge rāṃpuragrāmasthāne",
+  "normalized": "Rāmpur"
+ },
+ "purpose": "",
+ "notes": "The place is specified as located on the western bank of the Kauśikī (Koshi) river.",
+ "_meta": {
+  "reel": "A 104/15",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 801,
+  "out_tok": 807
+ }
+}

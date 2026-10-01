@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jaikṛṣṇa brāhmaṇa",
+   "name": "Jaikṛṣṇa",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "Chitupuragrāma",
+   "evidence": "idaṃ stotraṃ jaikṛṣṇa brāhmaṇa chitupuragrāmavāsinaṃ (!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1762 samaināma āśvinavadi aṣṭamī",
+  "era": "VS",
+  "year": "1762",
+  "month": "āśvina",
+  "paksa": "vadi",
+  "tithi": "aṣṭamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1705"
+ },
+ "place": {
+  "as_written": "chitupuragrāma",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The expression 'idaṃ stotraṃ jaikṛṣṇa brāhmaṇa chitupuragrāmavāsinaṃ' could indicate either copying or ownership; the catalogue identifies Jaikṛṣṇa as the scribe.",
+ "_meta": {
+  "reel": "A 338/10",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 750,
+  "out_tok": 998
+ }
+}

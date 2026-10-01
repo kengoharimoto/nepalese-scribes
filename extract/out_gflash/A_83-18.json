@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "upāsnī vaijanāthabhaṭṭena",
+   "name": "Vaijanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "Upāsnī",
+   "residence": "",
+   "evidence": "likhitaṃ-m idaṃ upāsnī vaijanāthabhaṭṭena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name includes the family surname Upāsnī (Upasani).",
+ "_meta": {
+  "reel": "A 83/18",
+  "model": "gemini-flash-latest",
+  "secs": 2.9,
+  "in_tok": 673,
+  "out_tok": 552
+ }
+}

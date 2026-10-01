@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajraśrīvajrācāryyayogapāla",
+   "name": "Yogapāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Kvātha Vāhala",
+   "residence": "Hiṭīṭola Kvātha Vāhala",
+   "evidence": "likhitaṃ || hiṭīṭola kvātha vāhalayā śrīvākvajravajradevīprasādāt vajraśrīvajrācāryyayogapālajulo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 990 mti phālguṇaśukla 4 roja 1",
+  "era": "NS",
+  "year": "990",
+  "month": "phālguṇa",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "roja 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1870"
+ },
+ "place": {
+  "as_written": "hiṭīṭola kvātha vāhala",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe states that the copying was completed by the grace of the deity Vākvajravajradevī (śrīvākvajravajradevīprasādāt).",
+ "_meta": {
+  "reel": "C 18/1",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 933,
+  "out_tok": 1172
+ }
+}

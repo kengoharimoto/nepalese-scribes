@@ -1,0 +1,50 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bṛhaspati",
+   "name": "Bṛhaspati",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "mahītāpanīya",
+    "kavicakravartin",
+    "rājapaṇḍita",
+    "paṇḍitasarvvabhauma",
+    "kavipaṇḍitacūḍāmaṇi",
+    "mahācārya",
+    "rāyamukuṭamaṇi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmad bṛhaspati kṛtāyām amarakoṣapaṃjikāyāṃ padacandrikākhyāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 854 pauṣakṛṣṇa ekādaśī śaniścaravāra",
+  "era": "NS",
+  "year": "854",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī",
+  "weekday": "śaniścaravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1734"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 323/19",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 772,
+  "out_tok": 1121
+ }
+}

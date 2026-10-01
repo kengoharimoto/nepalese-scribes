@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmacaṃdrātmaja",
+   "name": "Rāmacaṃdra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmacaṃdrātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaṭṭa vaidhyanātha",
+   "name": "Vaidyanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭa vaidhyanātha kṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "pāṭhaka vīreśvareṇa",
+   "name": "Vīreśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "pāṭhaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ pāṭhaka vīreśvareṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "rāmacaṃdrātmaja bhaṭṭa vaidhyanātha"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1771 śrāvaṇa śuddha 1 ravau",
+  "era": "VS",
+  "year": "1771",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "ravau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1714"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Vaidyanātha Tatsat, son of Rāmacaṃdra Tatsat, is the author of the work (Nyāyabindu/Nyāyavindu).",
+ "_meta": {
+  "reel": "A 1331/6",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 725,
+  "out_tok": 1014
+ }
+}

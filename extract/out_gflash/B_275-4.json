@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhavanāthadāsena",
+   "name": "Bhavanāthadāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhavanāthadāsena liṣitam idam pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1848 sāla māghavakṛṣṇadvādaśyāṃ tithau",
+  "era": "VS",
+  "year": "1848",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1792"
+ },
+ "place": {
+  "as_written": "kāntyāṃ pravāseḥ",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The place of copying is recorded as 'kāntyāṃ pravāse[ḥ]' (while residing in Kāntī/Kāntipura, modern Kathmandu).",
+ "_meta": {
+  "reel": "B 275/4",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 813,
+  "out_tok": 809
+ }
+}

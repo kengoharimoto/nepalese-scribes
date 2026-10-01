@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 894 āśvinakṛṣṇa 6 aṃgāravāre ādrā (!) kṣetre (!)",
+  "era": "NS",
+  "year": "894",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "6",
+  "weekday": "aṃgāravāra",
+  "nakshatra_yoga": "ādrā",
+  "ce_approx": "1774"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "ādrā (!) kṣetre (!) is a scribal error for ārdrānakṣatre. No human persons are named in the colophon.",
+ "_meta": {
+  "reel": "G 68/17",
+  "model": "gemini-flash-latest",
+  "secs": 3.1,
+  "in_tok": 737,
+  "out_tok": 601
+ }
+}

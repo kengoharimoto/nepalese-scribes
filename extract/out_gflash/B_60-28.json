@@ -1,0 +1,92 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgauḍapādācārya",
+   "name": "Gauḍapāda",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgauḍapādācāryaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "murarīna",
+   "name": "Murāri",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "murarīna likhita",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "sadānanda",
+   "name": "Sadānanda",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sadānanda pustakamadaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīkṛṣṇa jośī",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkṛṣṇa jośī",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "murarīna likhita sadānanda pustakamadaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1628 vyayasamvatsare māghavadya paṃcamī somavāra",
+  "era": "VS",
+  "year": "1628",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1572"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "pustakamadaḥ represents pustakam adaḥ (this book belongs to Sadānanda). Śrīkṛṣṇa Jośī is added at the end, possibly as another owner, witness, or associate.",
+ "_meta": {
+  "reel": "B 60/28",
+  "model": "gemini-flash-latest",
+  "secs": 8.0,
+  "in_tok": 790,
+  "out_tok": 1813
+ }
+}

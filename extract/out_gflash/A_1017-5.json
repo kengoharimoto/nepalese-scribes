@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1976 sāla bhādra gate roja sumbha-",
+  "era": "VS",
+  "year": "1976",
+  "month": "bhādra",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1919"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon breaks off after 'roja sumbha-'. The gate number is missing or not provided. No persons are mentioned.",
+ "_meta": {
+  "reel": "A 1017/5",
+  "model": "gemini-flash-latest",
+  "secs": 2.4,
+  "in_tok": 654,
+  "out_tok": 413
+ }
+}

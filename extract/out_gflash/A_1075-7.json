@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "cānakya",
+   "name": "Cāṇakya",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "cānakyaśārasaṃgra〇he",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jakhaṃrājasya",
+   "name": "Jakhaṃrāja",
+   "roles": [
+    "commissioner",
+    "beneficiary"
+   ],
+   "titles": [
+    "bhāro"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sagaṇaparivārasya jakhaṃrājasya dhīmatāṃ | śu(bhadhaṃmam) alaṃbhūyāt yāvac caṃdradivākaraḥ || 〇 bhāro staṃ (!) nimihlina (!) śrīrājanītisa⁅mu⁆ccaya cānakyasārasaṃgrahaśāstra coyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 605 mārgaśirakṛṣṇapaṃcamyāṃ tithau thva kohnu",
+  "era": "NS",
+  "year": "605",
+  "month": "mārgaśira",
+  "paksa": "kṛṣṇa",
+  "tithi": "paṃcamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1484"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for Jakhaṃrāja Bhāro and his family (ārogyajanadhanalakṣmīsaṃtatisaṃtānavṛddhir astu)",
+ "notes": "The catalogue mistakenly enters 'NS 605' under 'Place of Copying'. The opening verses mention a minister (maṃtrirāja), his brother, and a son ('tasyātmajaś ca'), but the names in those lines are obscured by meter/lacunae and are too fragmentary to identify securely apart from Jakhaṃrāja.",
+ "_meta": {
+  "reel": "A 1075/7",
+  "model": "gemini-flash-latest",
+  "secs": 19.0,
+  "in_tok": 1014,
+  "out_tok": 4349
+ }
+}

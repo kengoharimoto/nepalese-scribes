@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmahopādhyāyaśrīkṛṣṇabhaṭṭe(!)",
+   "name": "Śrīkṛṣṇa",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāyaśrīkṛṣṇabhaṭṭe(!) viracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 809 vaiśākhaśukla,navamī, bṛhaspativāra",
+  "era": "NS",
+  "year": "809",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "navamī",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1689"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Śrīkṛṣṇabhaṭṭa as scribe, but the text identifies him as the commentator/author ('viracitāyāṃ raghudīpikāyāṃ'). No scribe is mentioned.",
+ "_meta": {
+  "reel": "A 393/31",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 775,
+  "out_tok": 1462
+ }
+}

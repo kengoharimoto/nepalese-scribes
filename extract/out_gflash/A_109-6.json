@@ -1,0 +1,70 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "manaharṣana",
+   "name": "Manaharṣa",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "manaharṣana duntā juro",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīsākyābhikṣu muktā",
+   "name": "Mukta",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "Vacchavāhāra",
+   "residence": "",
+   "evidence": "śrōvacchavāhārayā śrīsākyābhikṣu muktā juna, paralokārthana duntā juro",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīman (++++)rayā",
+   "name": "[....]ra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaśrīman (++++)rayā na juro",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 788 śrāvaṇa śuklapratipadā (!) budhavāra (!)",
+  "era": "NS",
+  "year": "788",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "pratipadā",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1668"
+ },
+ "place": {
+  "as_written": "śrīkacchapāgirī parvatāgre , śrīcovāhārasa",
+  "normalized": "Chobhar"
+ },
+ "purpose": "paralokārthana (for the afterlife / merit transfer)",
+ "notes": "The phrasing 'manaharṣana duntā juro' could either refer to a donor named Manaharṣa (with ergative -na) or mean 'offered with a joyful heart' (mana-harṣa-na). 'śrīsākyābhikṣu muktā juna' may denote that the Śākyabhikṣu Mukta passed away (mukta juna), for whose afterlife the manuscript was dedicated, or Muktā-ju-na (by the honorable Muktā). The scribe's name is damaged and mostly illegible ('śrīman (++++)rayā').",
+ "_meta": {
+  "reel": "A 109/6",
+  "model": "gemini-flash-latest",
+  "secs": 51.0,
+  "in_tok": 863,
+  "out_tok": 11710
+ }
+}

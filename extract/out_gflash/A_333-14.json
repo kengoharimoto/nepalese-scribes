@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhūpālendramallasya",
+   "name": "Bhūpālendramalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī 2 bhūpālendramallasya sāmrājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī sūryyacandrabhiunā",
+   "name": "Sūryacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhikṣu"
+   ],
+   "affiliation": "Śrī Keśavacandrakṛta Pārāvata Mahāvihāra",
+   "residence": "Ṅataḍholaka",
+   "evidence": "śrī sūryyacandrabhiunā likhitaiyāpustīti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrī 2 bhūpālendramallasya sāmrājye, śrī keśavacandra kṛtayārāvatamahāvihārāvasthita, ṅataḍholake, mārga pūrvabhāge, gṛhavāsinā, śrī sūryyacandrabhiunā likhitaiyāpustīti"
+  }
+ ],
+ "date": {
+  "as_written": "nepālasmin rudravasubhiḥ vaiśāṣakṛṣṇapakṣeaṣṭamyāṃtithau śatavṛṣa nakṣetre vaidhatiyoge ādityavāsare",
+  "era": "NS",
+  "year": "811",
+  "month": "vaiśāṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "ādityavāsara",
+  "nakshatra_yoga": "śatavṛṣa, vaidhṛti",
+  "ce_approx": "1691"
+ },
+ "place": {
+  "as_written": "śrī keśavacandra kṛtayārāvatamahāvihārāvasthita, ṅataḍholake, mārga pūrvabhāge",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The date is expressed by chronogram: rudra (11) and vasu (8) = NS 811. The scribe's title appears corrupted as 'bhiunā' for 'bhikṣuṇā'. Keśavacandra is the legendary founder of the vihāra (Ituṃ Bāhā) and is part of the monastery's name.",
+ "_meta": {
+  "reel": "A 333/14",
+  "model": "gemini-flash-latest",
+  "secs": 8.7,
+  "in_tok": 913,
+  "out_tok": 2359
+ }
+}

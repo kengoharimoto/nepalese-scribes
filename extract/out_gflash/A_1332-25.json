@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmukundakundagoviṃdaśrīcaraṇa",
+   "name": "Mukundakundagovinda",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatparamahaṃsaparivrājakācārya śrīmukundakundagoviṃdaśrīcaraṇaśikṣita",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīrāmānaṃdasarasvatī",
+   "name": "Rāmānandasarasvatī",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmānaṃdasarasvatīkṛtau brahmasūtravṛttau brahmāmṛtavarṣīṇyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "Śrīkṛṣṇajośī",
+   "name": "Śrīkṛṣṇa",
+   "roles": [
+    "owner",
+    "donor"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "rāmanagara",
+   "evidence": "pustakamidaṃ pra. Śrīkṛṣṇajośī rāmanagara",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śrīmukundakundagoviṃdaśrīcaraṇaśikṣita śrīrāmānaṃdasarasvatīkṛtau"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "rāmanagara",
+  "normalized": "Ramanagar"
+ },
+ "purpose": "",
+ "notes": "Rāmānanda Sarasvatī is the author of the Brahmāmṛtavarṣiṇī commentary on the Brahmasūtra. 'pra.' before Śrīkṛṣṇajośī is an abbreviation, possibly for prāpta, pramāṇa, or similar ownership/acquisition indicator; the cataloguer records him as donor.",
+ "_meta": {
+  "reel": "A 1332/25",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 785,
+  "out_tok": 1548
+ }
+}

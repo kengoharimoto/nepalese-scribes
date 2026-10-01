@@ -1,0 +1,77 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "somadaivajña",
+   "name": "Soma",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "Jaladagrāma",
+   "evidence": "jaladagrāmavāsī rudrabhahātmajasomadaivajña viracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rudrabhaha",
+   "name": "Rudrabhaha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rudrabhahātmaja",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vārāṇasī prasādasya",
+   "name": "Vārāṇasīprasāda",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vārāṇasī prasādasya",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "rudrabhahātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "saṃ. 1942",
+  "era": "VS",
+  "year": "1942",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1885"
+ },
+ "place": {
+  "as_written": "vārāṇasī",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The cataloguer parsed 'vārāṇasī prasādasya' as place Vārāṇasī and person Prasāda, or it may simply be the single personal name Vārāṇasīprasāda. The cataloguer noted the date era as ŚS, but 1942 is clearly Vikrama Saṃvat (1885 CE).",
+ "_meta": {
+  "reel": "A 1073/2",
+  "model": "gemini-flash-latest",
+  "secs": 9.4,
+  "in_tok": 705,
+  "out_tok": 2361
+ }
+}

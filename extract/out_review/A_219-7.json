@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes; notes expanded on the ŚS 1886 vs catalogue ŚS 1686 conflict and on the weekday reading."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "yajñeśvara śarmaṇā",
+   "name": "Yajñeśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ yajñeśvara śarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1886 phālguṇa (!) śudi 13 vāre 3",
+  "era": "ŚS",
+  "year": "1886",
+  "month": "phālguṇa",
+  "paksa": "śudi",
+  "tithi": "13",
+  "weekday": "3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1964"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The quoted colophon reads śrīśāke 1886, which is 1964/65 CE (Phālguna falls in early 1965). The catalogue field gives ŚS 1686, which is c. 1764/65 CE. Either the transcription or the catalogue field has a typo for 8/6. We can't tell which from the text: a copy from the 1960s is plausible for an NGMCP-filmed manuscript, and so is one from the 18th century. Checking the weekday would settle it. 'vāre 3' probably means Tuesday (counting from Sunday as 1), and Phālguna śukla 13 can be checked for both years.",
+ "_meta": {
+  "reel": "A 219/7",
+  "model": "opus",
+  "cost_usd": 0.06433,
+  "secs": 11.1
+ }
+}

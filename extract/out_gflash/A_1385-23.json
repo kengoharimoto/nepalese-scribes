@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "satānda",
+   "name": "Śatānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmān satānda (!) iti prasiddhaḥ || tāṃ bhāsvati(!)śiṣyahitāṛtham āha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke vihine(!) śaśipakṣakhaikhaiḥ 1021",
+  "era": "ŚS",
+  "year": "1021",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1099"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śiṣyahitārtham",
+ "notes": "Opening verse of the Bhāsvatī of Śatānanda with the composition epoch Śaka 1021 (1099 CE), not the date of copying of the manuscript.",
+ "_meta": {
+  "reel": "A 1385/23",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 754,
+  "out_tok": 1117
+ }
+}

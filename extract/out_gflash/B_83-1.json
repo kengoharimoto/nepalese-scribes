@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "padmadāsabhaktaḥ",
+   "name": "Padmadāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhakta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "leṣanārthe padmadāsabhaktaḥ || śuddho vā aśuddhovā mamadoṣa nadiyate",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1914 sāla miti jeṣṭa śudi || 4 || roja || || 4 ||",
+  "era": "VS",
+  "year": "1914",
+  "month": "jeṣṭa",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "roja 4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1857"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 83/1",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 773,
+  "out_tok": 958
+ }
+}

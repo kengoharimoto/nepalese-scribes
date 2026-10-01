@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nārāyaṇadatta dvijena",
+   "name": "Nārāyaṇadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ nārāyaṇadatta dvijena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1891 mārgaśukla 1 somavāsare",
+  "era": "VS",
+  "year": "1891",
+  "month": "mārga",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "somavāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1834"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1024/27",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 702,
+  "out_tok": 575
+ }
+}

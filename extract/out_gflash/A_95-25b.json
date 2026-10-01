@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śaṃṣarācārya",
+   "name": "Śaṅkarācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśaṃṣarācāryakṛta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ambaragira",
+   "name": "Ambaragiri",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "guru"
+   ],
+   "affiliation": "saṃṣaraguphā",
+   "residence": "naipāladesya pasupatisthāṇe vāgmati ṭaṭa",
+   "evidence": "śrīambaragiragurubhe (!) ṇamo nama (!)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "padma",
+   "name": "Padma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "leṣanyāko nāma hariko dāsakodāsa padma ho",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "śrīambaragiragurubhe (!) ṇamo nama (!)"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsāke || 1753 | saṃvat 1888 sāla miti kārtikasudi 1 | 6 | roja 4",
+  "era": "VS",
+  "year": "1888",
+  "month": "kārtika",
+  "paksa": "śukla",
+  "tithi": "6",
+  "weekday": "roja 4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1831"
+ },
+ "place": {
+  "as_written": "naipāladesya pasupatisthāṇe vāgmati ṭaṭa saṃṣaraguphā",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The scribe identifies himself in Nepali as 'hariko dāsako dāsa padma ho', which the cataloguer recorded as 'Padmadāsa'. Both Śāke 1753 and VS 1888 are recorded.",
+ "_meta": {
+  "reel": "A 95/25b",
+  "model": "gemini-flash-latest",
+  "secs": 8.0,
+  "in_tok": 835,
+  "out_tok": 1991
+ }
+}

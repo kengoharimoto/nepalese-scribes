@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vipraśīgaṅgādharajustaṃ",
+   "name": "Gaṅgādhara",
+   "roles": [
+    "scribe",
+    "donor"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vipraśīgaṅgādharajustaṃ dutā juro",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 789 pauṣa śudi 7 makarasaṃkrānti kuhnu",
+  "era": "NS",
+  "year": "789",
+  "month": "pauṣa",
+  "paksa": "śudi",
+  "tithi": "7",
+  "weekday": "",
+  "nakshatra_yoga": "makarasaṃkrānti",
+  "ce_approx": "1669"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The cataloguer lists Gaṅgādhara as the scribe, although the Newari phrase 'dutā juro' usually indicates an offering, donation, or accession.",
+ "_meta": {
+  "reel": "B 318/14",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 702,
+  "out_tok": 1281
+ }
+}

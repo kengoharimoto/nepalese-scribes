@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devadattaśarmaṇā",
+   "name": "Devadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devadattaśarmaṇā likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1906 phālgunaśuklacaturthyāṃ maṃdadine",
+  "era": "VS",
+  "year": "1906",
+  "month": "phālguna",
+  "paksa": "śukla",
+  "tithi": "caturthī",
+  "weekday": "maṃdadina",
+  "nakshatra_yoga": "",
+  "ce_approx": "1850"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthaṃ ca",
+ "notes": "The catalogue field lists the scribe as Devanaṃdaśarmā, but the colophon text clearly reads devadattaśarmaṇā.",
+ "_meta": {
+  "reel": "A 419/19",
+  "model": "gemini-flash-latest",
+  "secs": 3.0,
+  "in_tok": 701,
+  "out_tok": 680
+ }
+}

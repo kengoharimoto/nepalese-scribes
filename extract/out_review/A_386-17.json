@@ -1,0 +1,92 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2: name normalized to 'Divākara' with 'deva' moved to titles (family name/honorific, parallel to the father's 'bhaṭṭa deva'); as_written trimmed to 'deva divākarena' (the extra 'na' in 'divākarenanalekhitaṃ' is a dittography); confidence lowered to medium",
+   "p2: added role 'owner' because the copy was made 'svārthaṃ parārthaṃ ca'",
+   "p2: residence cleared, since the colophon gives Kāśī only as the place of copying",
+   "place.as_written set to 'kāśyāṃ' with the note that 'viśvarasaṃnidhau' is probably 'viśveśvarasaṃnidhau'",
+   "notes expanded: the season contradicts the month, 'bhaśi' is unresolved, the saṃvatsara checks out, and VS 1521 = c. 1464 CE"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahākavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahākavi kālidāsa kṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "deva divākarena",
+   "name": "Divākara",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "deva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ deva divākarena likhi svārthaṃ parārthaṃ ca",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vāsudeva bhaṭṭa devat",
+   "name": "Vāsudeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa",
+    "deva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vāsudeva bhaṭṭa devatsuta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "vāsudeva bhaṭṭa devatsuta deva divākarenanalekhitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat || 1751 || || śrīmukhāsaṃvatsare dakṣIṇāyane vasaṃtattau bhādrapade bhaśi (!) śukla pakṣe trayośiṃ (!)",
+  "era": "VS",
+  "year": "1751",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1694"
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "svārthaṃ parārthaṃ ca (for himself and for others)",
+ "notes": "The colophon gives two dates. The first, 'saṃvat 1521 bhādrapada śuddhatrayodaśi kāśyāṃ likhyate' (VS 1521 = c. 1464 CE), was probably copied over from the exemplar. The second is the actual date of copying: VS 1751, Śrīmukha year, Bhādrapada śukla 13 = August/September 1694 CE. A Śrīmukha year around 1693/94 is consistent with that date. 'dakṣiṇāyane' fits Bhādrapada, but 'vasantartau' (spring) does not: the scribe made a mistake there. 'bhaśi (!)' is unclear; it may be a garbled weekday or a corruption of a word for the month, so no weekday is recorded. The scribe's name reads 'deva divākarena' (= Divākaradeva in the catalogue). 'Deva' is taken here as a family name or honorific, shared with the father 'vāsudeva bhaṭṭa deva(t)'. The 'na' in 'divākarenanalekhitaṃ' is a dittography. 'viśvarasaṃnidhau' is probably 'viśveśvarasaṃnidhau', i.e. near the Viśveśvara temple in Kāśī. 'rāma' and 'sadā śiva' are invocations, not persons.",
+ "_meta": {
+  "reel": "A 386/17",
+  "model": "opus",
+  "cost_usd": 0.10375000000000001,
+  "secs": 28.1
+ }
+}

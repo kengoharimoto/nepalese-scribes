@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1828 || śāke || 1676 || śrīsāvaṃ",
+  "era": "VS",
+  "year": "1828",
+  "month": "śrīsāvaṃ",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1771"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives two dates: Saṃvat 1828 and Śāke 1676 (there is a discrepancy between the two eras: VS 1828 corresponds to c. 1771 CE, whereas ŚS 1676 corresponds to c. 1754 CE). 'śrīsāvaṃ' likely represents the month of Śrāvaṇa (Sāvan). The remaining text 'śubhakāyakara...' is fragmentary and contains no identifiable human names.",
+ "_meta": {
+  "reel": "A 1331/17",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 679,
+  "out_tok": 1142
+ }
+}

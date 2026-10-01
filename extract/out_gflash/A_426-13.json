@@ -1,0 +1,92 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmacaṃdrasomayāji",
+   "name": "Rāmacandra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "somayājin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmacaṃdrasomayājiviracita",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bharata",
+   "name": "Bharata",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ṭīkābharatakṛtā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "viśvaṃbhara",
+   "name": "Viśvaṃbhara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viśvaṃbharātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "gurjaropanāmnāviśvaṃbharātmajarāmacaṃdropādhyāyena",
+   "name": "Rāmacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "Gurjara (upanāman)",
+   "residence": "",
+   "evidence": "rāmacaṃdropādhyāyenedaṃ (10) pustakaṃ likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "viśvaṃbharātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "śake 1762 śārvarīnāmasaṃvatsare māghakṛṣṇapratipadi",
+  "era": "ŚS",
+  "year": "1762",
+  "month": "Māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "1",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1841"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīgurucaraṇārpaṇam astu",
+ "notes": "The owner 'śrīkṛṣṇajośī rāmanagaravāle' noted in the catalogue header does not appear in the quoted colophon passage.",
+ "_meta": {
+  "reel": "A 426/13",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 813,
+  "out_tok": 1698
+ }
+}

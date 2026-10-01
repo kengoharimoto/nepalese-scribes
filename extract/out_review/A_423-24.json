@@ -1,0 +1,67 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date: resolved the chronogram 'śaranavācarake' as śara (5), nava (9), acara/acala (7). Read right to left this gives 795. Year field set to 795 with a query.",
+   "Date: era left as unspecified, but ce_approx set to 1675 (if NS 795). A three-digit year in a Newari-script manuscript points to Nepāla Saṃvat.",
+   "Date: tithi narrowed to tṛtīyā. Gaurī/Girijā's tithi is the 3rd (cf. Gaurītṛtīyā), so Vaiśākha śukla 3 is Akṣayatṛtīyā. The 8th is less likely.",
+   "Weekday normalized to Sunday (ravivāra).",
+   "Purpose rephrased: copied for the good of people (pravaralokahitam); it is not a merit-transfer formula.",
+   "Notes: added that the title in the colophon differs from the one in the verse."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījīvanāthena",
+   "name": "Jīvanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījīvanāthena viracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dvijo gaṇapatiḥ",
+   "name": "Gaṇapati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lilekha, śīghraṃ dvijo gaṇapatiḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "abde gate śaranavācarake (!) vicitraṃ, vaiśākhamāsi dhavale girijātithau tat | vāre ravau",
+  "era": "unspecified",
+  "year": "795 (śara-nava-acara, read right to left; reading uncertain)",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "tṛtīyā (girijātithi)",
+  "weekday": "Sunday (ravivāra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1675 (if NS)"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for the good of people (pravaralokahitam)",
+ "notes": "The chronogram 'śaranavācarake (!)' is corrupt. Best reading: śara = 5, nava = 9, acara (= acala, 'immovable', i.e. the mountains) = 7. Read right to left this gives 795. The era is not named. In a Newari-script manuscript NS is most likely, which gives c. 1675 CE; if the year were VS 795 or ŚS 795 the date would be implausible. Girijātithi is taken as tṛtīyā (Gaurī's tithi), so Vaiśākha śukla 3 is Akṣayatṛtīyā. The verse is metrically loose. The colophon names the work Svaratattvodaya, while the scribe's verse calls it svaratattvabodhaka; the catalogue title follows the verse. The scribe Gaṇapati matches the catalogue field.",
+ "_meta": {
+  "reel": "A 423/24",
+  "model": "opus",
+  "cost_usd": 0.082366,
+  "secs": 28.3
+ }
+}

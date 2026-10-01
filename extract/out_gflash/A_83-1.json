@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "padmanābhācāryeṇa",
+   "name": "Padmanābha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "jambūgrāma",
+   "evidence": "padmanābhācāryeṇa liṣitam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "tryambakācārya",
+   "name": "Tryambaka",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tryambakācāryasuta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "tryambakācāryasuta padmanābhācāryeṇa"
+  }
+ ],
+ "date": {
+  "as_written": "śake 1491 śuklābde mādhave māsi sitapakṣe agnidaivatyāṃ tithau śrīmaddinakaratanayavāsare",
+  "era": "ŚS",
+  "year": "1491",
+  "month": "mādhava",
+  "paksa": "sita",
+  "tithi": "agnidaivatī (1)",
+  "weekday": "śrīmaddinakaratanayavāsara (Saturday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1569"
+ },
+ "place": {
+  "as_written": "śrīmadgaumatyuttretīre jambūgrāmasthita",
+  "normalized": ""
+ },
+ "purpose": "śrīmat sūryanārāyaṇārpaṇam astu",
+ "notes": "Agnidaivatyā tithi refers to Pratipad (tithi 1), dedicated to Agni. Dinakaratanayavāsara refers to Saturday (Śanivāsara).",
+ "_meta": {
+  "reel": "A 83/1",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 786,
+  "out_tok": 1293
+ }
+}

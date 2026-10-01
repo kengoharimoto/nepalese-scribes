@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "deva bhārona",
+   "name": "Deva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhāro"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "deva bhārona liṣiti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 732 bhādrapadra vadi 10",
+  "era": "NS",
+  "year": "732",
+  "month": "bhādrapadra",
+  "paksa": "vadi",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1612"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 281/26b",
+  "model": "gemini-flash-latest",
+  "secs": 2.7,
+  "in_tok": 849,
+  "out_tok": 559
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paramānaṃdkāstha",
+   "name": "Paramānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhyate paramānaṃdkāstha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śaṃvat 1696 samaye mā(‥)vadi trayodaśi vāra maṃdavāsareḥ",
+  "era": "VS",
+  "year": "1696",
+  "month": "mā(‥)",
+  "paksa": "vadi",
+  "tithi": "trayodaśi",
+  "weekday": "maṃdavāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1639"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue mentions 'King: Kamari Datta Sen ?', but no king appears in the provided colophon excerpt. The scribe's name and caste title are written run together as paramānaṃdkāstha (Paramānanda Kāyastha). Month mā(‥) is likely Māgha or Mārgaśīrṣa.",
+ "_meta": {
+  "reel": "B 264/6",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 862,
+  "out_tok": 1709
+ }
+}

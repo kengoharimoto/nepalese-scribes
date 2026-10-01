@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīhariharidevabhaṭṭa",
+   "name": "Hariharideva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīhariharidevabhaṭṭaviracito",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vyāsadīnānāthena",
+   "name": "Dīnānātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vyāsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ vyāsadīnānāthena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1908 māghaśuddha 2 bhṛgau",
+  "era": "VS",
+  "year": "1908",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "2",
+  "weekday": "bhṛguvāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1852"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 419/4",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 709,
+  "out_tok": 835
+ }
+}

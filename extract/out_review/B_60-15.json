@@ -1,0 +1,87 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Viśveśvara: confidence lowered to medium; the title in parentheses is garbled, so his exact role (commentator or author of a gloss) is uncertain",
+   "p2: as_written widened to include the '-jī' honorific. The name stays Raṇachoḍa and the residence stays as given",
+   "p3 Śāma: residence removed. The colophon gives residence only for the scribe, so it should not be carried over to the father. The caste affiliation is kept because it is inherited",
+   "date: ce_approx changed from 1823 to 1824. In Gujarat (Junagadh) VS years start in Kārttika, so Āṣāḍha śukla 15 of VS 1880 falls in mid-1824. The full moon of about 11 July 1824 was a Sunday, which matches 'ravau dine'. The Caitrādi alternative, about 23 July 1823, was a Wednesday",
+   "date: tithi normalised to pūrṇimā and weekday to Sunday (ravau dine)",
+   "place: emptied. 'jīrṇadurga nivāsi' gives the scribe's residence, not the place of copying. Copying at Junagadh is likely but not stated (see notes)"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśveśvara",
+   "name": "Viśveśvara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viśveśvaraviracitā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaṭa raṇachoḍajī",
+   "name": "Raṇachoḍa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭa (bhaṭṭa)"
+   ],
+   "affiliation": "Śrīgauḍa jñāti (śrīgoḍajñātīya)",
+   "residence": "Jīrṇadurga (Junagadh)",
+   "evidence": "lī o. bhaṭa raṇachoḍajī śāmajī śrīgoḍajñātīya || śrījīrṇadurga nivāsi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śāmajī",
+   "name": "Śāma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "Śrīgauḍa jñāti (presumed)",
+   "residence": "",
+   "evidence": "raṇachoḍajī śāmajī",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "raṇachoḍajī śāmajī"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1880 āṣāḍhaśukla purṇamāravaudine",
+  "era": "VS",
+  "year": "1880",
+  "month": "Āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā (15)",
+  "weekday": "Sunday (ravau dine)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1824"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'lī o.' probably abbreviates likhitam. Raṇachoḍajī Śāmajī follows the Gujarati pattern of personal name + father's name, both with the honorific -jī; Śāma may stand for Śyāma. The scribe was a Bhaṭṭa of the Śrīgauḍa jñāti living in Jīrṇadurga (Junagadh, Gujarat). The catalogue gives 'Jīrṇadurganivāsī' as the place of copying, but the colophon describes it as the scribe's residence; copying there is likely but not stated. The title passage '(aṣṭavakraviśveśvaraviracitāyāṣṭāvakrakālasaṃkramaṇāddivyākhyā)' is corrupt (the cataloguer flags it with note 1). Viśveśvara seems to be named as the author of a commentary or gloss (vyākhyā), but the reading is uncertain. Date check: in western India VS years start in Kārttika, so Āṣāḍha śukla 15 of VS 1880 falls on about 11 July 1824, a Sunday, matching the colophon. The Caitrādi reading (about 23 July 1823) would fall on a Wednesday.",
+ "_meta": {
+  "reel": "B 60/15",
+  "model": "opus",
+  "cost_usd": 0.103182,
+  "secs": 28.3
+ }
+}

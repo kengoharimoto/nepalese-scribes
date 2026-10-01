@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāśināthajī mahārāja",
+   "name": "Kāśinātha",
+   "roles": [
+    "king",
+    "other"
+   ],
+   "titles": [
+    "mahārāja",
+    "jī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīśrīśrīśrīkāśināthajī mahārāja",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1864",
+  "era": "VS",
+  "year": "1864",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1807"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "It is possible that 'śrīśrīśrīśrīśrīkāśināthajī mahārāja' refers to a deity (Śiva as Lord of Kāśī) or a spiritual leader rather than a temporal ruler.",
+ "_meta": {
+  "reel": "A 1116/4",
+  "model": "gemini-flash-latest",
+  "secs": 9.0,
+  "in_tok": 711,
+  "out_tok": 1208
+ }
+}

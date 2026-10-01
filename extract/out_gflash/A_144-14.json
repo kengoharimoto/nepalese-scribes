@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī durgādāsa",
+   "name": "Durgādāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī durgādāsa likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī śāke 1698 māse 5 pakṣe 2 vāre 1 tithau 4",
+  "era": "ŚS",
+  "year": "1698",
+  "month": "5",
+  "paksa": "2",
+  "tithi": "4",
+  "weekday": "1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1776"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 144/14",
+  "model": "gemini-flash-latest",
+  "secs": 3.0,
+  "in_tok": 802,
+  "out_tok": 723
+ }
+}

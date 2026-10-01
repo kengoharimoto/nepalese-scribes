@@ -1,0 +1,48 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: confidence lowered from high to medium. 'koṭena' may stand for the Marathi family name Koṭe rather than a personal name Koṭa, and 'Aṇṇā/Aṇṇa' is given as an upanāman (by-name or call-name).",
+   "Notes: added the ambiguity of the name, the Tuljāpur invocation (a regional pointer, not a place of copying), and a check of the Jovian year."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "aṇṇetyupanāmnā koṭena",
+   "name": "Koṭa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "aṇṇetyupanāmnā koṭena likhitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śake 1787 krodhanāvde(!)",
+  "era": "ŚS",
+  "year": "1787",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1865"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe is 'koṭena' with the upanāman Aṇṇā/Aṇṇa ('aṇṇetyupanāmnā'; aṇṇa+iti and aṇṇā+iti both give aṇṇeti). The catalogue gives the scribe as Aṇṇa, which is the by-name. 'Koṭa' could also be a Sanskritized form of the Maharashtrian surname Koṭe, in which case the personal name is not given. The invocation 'śrīturajāpuryai namaḥ' addresses the goddess of Tuljāpur (Tulajā Bhavānī), which points to a Maharashtrian scribe. It does not name the place of copying. Date: Śaka 1787 = Krodhana in the southern 60-year cycle (Prabhava = Śaka 1789), so the year is consistent: 1865–66 CE. 'krodhanāvde' is a corrupt spelling of krodhanābde.",
+ "_meta": {
+  "reel": "B 54/18",
+  "model": "opus",
+  "cost_usd": 0.076706,
+  "secs": 17.4
+ }
+}

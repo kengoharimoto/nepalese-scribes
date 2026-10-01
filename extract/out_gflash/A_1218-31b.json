@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajracārya dharmasyaṇajuyātaṃ",
+   "name": "Dharmasena",
+   "roles": [
+    "owner",
+    "beneficiary"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "madhyapurī",
+   "evidence": "vajracārya dharmasyaṇajuyātaṃ cosyaṃ biyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vajracārya udayacandrajusyaṃ",
+   "name": "Udayacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhita vajracārya udayacandrajusyaṃ biyā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "dharmasyaṇajuyātaṃ cosyaṃ biyā, likhita vajracārya udayacandrajusyaṃ biyā"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 707 phāgiṇamāsya, kṛṣāṇapakṣa, titiyāyāṃtiyhau, buddhavāsare",
+  "era": "NS",
+  "year": "707",
+  "month": "phāgiṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "tṛtīyā",
+  "weekday": "buddhavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1587"
+ },
+ "place": {
+  "as_written": "madhyapurī",
+  "normalized": "Thimi"
+ },
+ "purpose": "parārtha (cosyaṃ biyā)",
+ "notes": "The catalogue erroneously lists Dharmasena Vajrācārya as the scribe; the Newari text clearly states that it was written and given by Vajrācārya Udayacandra to Vajrācārya Dharmasena (dharmasyaṇajuyātaṃ cosyaṃ biyā, likhita vajracārya udayacandrajusyaṃ biyā juro).",
+ "_meta": {
+  "reel": "A 1218/31b",
+  "model": "gemini-flash-latest",
+  "secs": 7.9,
+  "in_tok": 1055,
+  "out_tok": 1917
+ }
+}

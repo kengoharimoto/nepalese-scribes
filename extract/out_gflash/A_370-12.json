@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dīkṣivabhīmasenena",
+   "name": "Bhīmasena",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "padavākyapramāṇapārāvārīṇa",
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dīkṣivabhīmasenena kṛte kāvyaprakāśavivaraṇe",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat || 1812 ||",
+  "era": "unspecified",
+  "year": "1812",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1755"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "dīkṣivabhīmasenena is an error or misreading for dīkṣitabhīmasenena, referring to the commentator Bhīmasena Dīkṣita. The four-digit saṃvat 1812 is presumably Vikrama Saṃvat (ca. 1755 CE).",
+ "_meta": {
+  "reel": "A 370/12",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 723,
+  "out_tok": 1250
+ }
+}

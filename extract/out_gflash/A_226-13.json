@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdevaśaṃkarala",
+   "name": "Devaśaṃkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "śrī lalitapattana naka vahiri svahara nihma, rājalavantā gṛha",
+   "evidence": "dvijavara śrīdevaśaṃkarala thva saṃḍayā, oṣadhī coyā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 802 śrāvaṇa kṛṣṇa saptamī aṃgāra (!) vāra",
+  "era": "NS",
+  "year": "802",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "saptamī",
+  "weekday": "aṃgāravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1682"
+ },
+ "place": {
+  "as_written": "śrī lalitapattana naka vahiri svahara nihma, rājalavantā gṛha",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 226/13",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 786,
+  "out_tok": 954
+ }
+}

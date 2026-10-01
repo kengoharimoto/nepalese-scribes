@@ -1,0 +1,73 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date: '78' is probably not a year. The verse reads 'vayo[='vayasi'?] aṣṭādhika-munau || 78 ||', i.e. at an age of 78, so it most likely gives the scribe's age. Era changed to 'none', year cleared, ce_approx left empty, and the reading is explained in notes.",
+   "date.as_written extended to the whole closing phrase.",
+   "Notes expanded: the 'vinā mudrāṃ' verse puns on the title, and no scribe name can be recovered."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pṛtho",
+   "name": "Pṛthu",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "manmahārājapadabhājaḥ pṛtho sununā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī viśākhadatta",
+   "name": "Viśākhadatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahākavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī viśākhadatta mahā kavinā viracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "pṛtho sununā śrī viśākhadatta"
+  }
+ ],
+ "date": {
+  "as_written": "sasuṃdaryyānadā gana vati vayoṣṭādhika munau || 78 ||",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's closing verse is corrupt and has a lacuna: 'vināmudrāṃ mudrāṃ samalikhad akhinnena ++++ ...'. It means roughly '[he] tirelessly wrote out the Mudrā[rākṣasa] without mudrā (payment)', a pun on the title. The rest, 'sasuṃdaryyānadā gana vati vayoṣṭādhika munau || 78 ||', seems to say the copy was made at an age of 78 ('vayasi aṣṭādhika-munau' = seventy plus eight, with the numeral 78 confirming it). So 78 is most likely the scribe's age and not a date. Reading it as an abbreviated year (e.g. VS [19]78) is less likely. 'sasuṃdaryyā' might mean 'together with his wife (sundarī)', but this is uncertain. No scribe name can be recovered. Viśākhadatta's father Pṛthu is listed only because the author's standard colophon names him. Since the manuscript has a Nepali commentary, it is probably late (19th–20th c.).",
+ "_meta": {
+  "reel": "A 1349/16",
+  "model": "opus",
+  "cost_usd": 0.1399844,
+  "secs": 31.2
+ }
+}

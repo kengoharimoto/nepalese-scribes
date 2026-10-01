@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Name normalized from 'Śrīkṛṣṇa' to 'Kṛṣṇa': 'śrī' is read as the honorific, and 'kṛṇa' as a slip for kṛṣṇa. Confidence lowered to medium because the reading is a correction.",
+   "Residence normalized as Rāmanagar (rāmanagara + -vāle 'of/from').",
+   "Place of copying emptied: 'rāmanagaravāle' describes the owner, not where the copy was made. The catalogue's 'Rāmanagar' is an inference from this.",
+   "Date as_written trimmed to the dating phrase. ŚS 1761 + 78 = 1839 CE is confirmed; Kārtika śukla 12 falls in about Oct/Nov 1839.",
+   "Notes expanded: the bracketed passage may be a second hand, and 'catuṣṭaṃ' may be corrupt."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkṛṇa jośī",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "Rāmanagar",
+   "evidence": "pustakamidaṃ śrīkṛṇa jośī rāmanagaravāle",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śake 1761 kārtika śuddha dvādaśī",
+  "era": "ŚS",
+  "year": "1761",
+  "month": "Kārtika",
+  "paksa": "śukla (śuddha)",
+  "tithi": "dvādaśī (12)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1839"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'śrīkṛṇa' is probably śrī + Kṛṣṇa, with ṣ dropped. 'jośī' is a family/caste surname (Joshi), not part of the personal name. The ownership statement is inside the cataloguer's [[ ]], so it may be a later or secondary-hand addition. If so, Kṛṣṇa Jośī may be a later owner, not connected with the copying. 'rāmanagaravāle' (Hindi/Nepali -vāle, 'of Rāmanagar') gives the owner's residence. The catalogue's Place of Copying 'Rāmanagar' is derived from it, but the colophon does not say where the copy was made. 'taddine samā || 12 ||' probably means 'taddine samāptam', repeating the tithi 12. 'catuṣṭaṃsaṃpūrṇaṃ' is unclear: perhaps 'catuṣṭayaṃ saṃpūrṇaṃ' (a set of four complete?). This conflicts with the 'pañcamo 'dhyāyaḥ' just before it. No scribe is named.",
+ "_meta": {
+  "reel": "B 166/4",
+  "model": "opus",
+  "cost_usd": 0.077222,
+  "secs": 16.2
+ }
+}

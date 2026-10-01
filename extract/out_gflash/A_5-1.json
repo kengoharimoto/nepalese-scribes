@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1750 svasti śrīsamvat 1885 sāla bhādraśukla 7 bhṛguvāsare",
+  "era": "VS",
+  "year": "1885",
+  "month": "bhādra",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "bhṛguvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1828"
+ },
+ "place": {
+  "as_written": "śrīpaśupatikśetre || vāgvatyā sannidhāne || kāṣṭamaṃḍapagrāme",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "No scribe, patron, or other human agent is named in the colophon. The date is recorded in both Śaka (1750) and Vikrama Samvat (1885).",
+ "_meta": {
+  "reel": "A 5/1",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 812,
+  "out_tok": 947
+ }
+}

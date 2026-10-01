@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vacājya vidyānadana",
+   "name": "Vidyānanda",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Sikomuguri Talamula Mahāvihāra",
+   "residence": "Kāṣṭhamaṇḍapa, Sayeva tola, Jhorache",
+   "evidence": "vacājya vidyānadana thavata dayakā juro ... thva saphuri coyāo dayakaṃ tayā juloḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 959 miti masiramāse śukra 9 hnusa",
+  "era": "NS",
+  "year": "959",
+  "month": "masiramāse",
+  "paksa": "śukra",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1838"
+ },
+ "place": {
+  "as_written": "yaṃ kāṣṭhamaṇḍapamahānagale sa yeva torake, sikomuguri talamulamahāvihāre, jhorache",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "for reciting the story annually to patrons (vaṣapatiṃ bākhana kana oneyā nimittana)",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1030/7",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 1021,
+  "out_tok": 1662
+ }
+}

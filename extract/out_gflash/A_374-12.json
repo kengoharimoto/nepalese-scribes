@@ -1,0 +1,102 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jinarājasūri",
+   "name": "Jinarājasūri",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "Kharataragaccha",
+   "residence": "",
+   "evidence": "śrīkharataragache śrī(4)jinarājasūripaṭṭe",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jinavarddhanasūri",
+   "name": "Jinavarddhanasūri",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "Kharataragaccha",
+   "residence": "",
+   "evidence": "śrījinavarddhanasūriviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bhaṭṭamaṃgalaji",
+   "name": "Maṅgalaji",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭamaṃgalajisuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "bhaṭṭanārāyāyaṇas",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭanārāyāyaṇas tena pu(6)stakaṃ alekhi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śrījinarājasūripaṭṭe śrījinavarddhanasūri"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "bhaṭṭamaṃgalajisutabhaṭṭanārāyāyaṇas"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1756 varṣe māsamāghavi (!) tṛtīyāyāṃ bhṛgudine",
+  "era": "unspecified",
+  "year": "1756",
+  "month": "Māgha",
+  "paksa": "vi (!)",
+  "tithi": "3",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "paṭhanārthaṃ",
+ "notes": "Catalogue interprets the era as Śāke (ŚS 1756 = 1834 CE), but Saṃvat 1756 in North Indian Jain manuscripts typically refers to Vikrama Saṃvat (= 1699 CE). The pakṣa abbreviation 'vi' is likely an error for sita or vadi/badi.",
+ "_meta": {
+  "reel": "A 374/12",
+  "model": "gemini-flash-latest",
+  "secs": 9.9,
+  "in_tok": 813,
+  "out_tok": 2066
+ }
+}

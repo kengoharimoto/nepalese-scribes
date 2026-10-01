@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījanarala bhīmasena thāpāko",
+   "name": "Bhīmasena Thāpā",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "janarala"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yo bhāṣāko āḍī (!) parvako pustaka śrījanarala bhīmasena thāpāko ho",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1889 miti jyeṣṭha śudi 5 roja 1",
+  "era": "VS",
+  "year": "1889",
+  "month": "jyeṣṭha",
+  "paksa": "śudi",
+  "tithi": "5",
+  "weekday": "roja 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1832"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Nepali colophon statement. The cataloguer classifies Bhīmasena Thāpā as 'donor', but the text explicitly states ownership: 'yo bhāṣāko āḍī (!) parvako pustaka śrījanarala bhīmasena thāpāko ho' ('This vernacular Ādiparvan book belongs to General Bhīmasena Thāpā').",
+ "_meta": {
+  "reel": "B 259/6",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 839,
+  "out_tok": 1363
+ }
+}

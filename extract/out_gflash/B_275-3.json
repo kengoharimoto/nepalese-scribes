@@ -1,0 +1,84 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmurāriśarmmaṇā",
+   "name": "Murāriśarman",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "tarkapañcānana",
+    "bhaṭṭācārya",
+    "śarman"
+   ],
+   "affiliation": "Maudgalyagotra",
+   "residence": "",
+   "evidence": "śrīmurāriśarmmaṇā viracitaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nṛpendramalla",
+   "name": "Nṛpendramalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nṛpendramallamahārājādhiṣṭhite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīviśvambharopādhyāyena",
+   "name": "Viśvambhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya",
+    "dvijanman"
+   ],
+   "affiliation": "",
+   "residence": "Nepāla",
+   "evidence": "śrīviśvambharopādhyāyena dijanmanā ... vyalikhi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "nṛpendramallamahārājādhiṣṭhite nepālādhirvāsinā śrīviśvambharopādhyāyena ... vyalikhi"
+  }
+ ],
+ "date": {
+  "as_written": "navavivaravāhaṅkite saṃvatsare ʼsmin phālguṇaśukladaśamyāṃ some",
+  "era": "NS",
+  "year": "799",
+  "month": "phālguṇa",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "soma",
+  "nakshatra_yoga": "",
+  "ce_approx": "1679"
+ },
+ "place": {
+  "as_written": "nepāla",
+  "normalized": "Kathmandu Valley"
+ },
+ "purpose": "",
+ "notes": "The chronogram navavivaravāha resolves to 799 (nava=9, vivara=9, vāha=7), matching the reign of Nṛpendramalla of Kathmandu (NS 794–800 / 1674–1680 CE). The catalogue's reading of NS 709 likely took vivara as 0, which would place it before Nṛpendramalla's reign.",
+ "_meta": {
+  "reel": "B 275/3",
+  "model": "gemini-flash-latest",
+  "secs": 11.3,
+  "in_tok": 873,
+  "out_tok": 2476
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śaṃbhūbhaṭṭātmaja",
+   "name": "Śambhubhaṭṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śaṃbhūbhaṭṭātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jajagaṃnātha(!)dvitīyasarasvatyupanāmakena",
+   "name": "Jagannātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sarasvatī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam i(t)i śaṃbhūbhaṭṭātmaja-jajagaṃnātha(!)dvitīyasarasvatyupanāmakena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śaṃbhūbhaṭṭātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1851 mitī śrāvaṇakṛṣṇa 3 amā somavāra tṛtīyagrahare (!)",
+  "era": "VS",
+  "year": "1851",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "3",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1794"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtham eva parārthaṃ ca",
+ "notes": "The scribe refers to his upanāman / surname as Sarasvatī (dvitīyasarasvatyupanāmakena).",
+ "_meta": {
+  "reel": "A 554/19",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 765,
+  "out_tok": 1272
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": []
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vaṃśamaṇeḥ",
+   "name": "Vaṃśamaṇi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lipir iyaṃ vaṃśamaṇeḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "lasaṃ 517 āṣāḍhakṛṣṇāpañcamīkuje",
+  "era": "LS",
+  "year": "517",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1636"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The weekday is given as 'kuje' (= kuja, Mars), which is Tuesday. This matches the catalogue's 'maṅgalavāra'. The Lakṣmaṇasena-era conversion (+1119) gives about 1636 CE, but because LS epoch reckoning is uncertain, 1635/36 is possible. The verses after the date ('kīrṇṇāṅ kvāpi jaṭāṅ…', 'avatu vo girisutā…') are a closing benedictory stanza and name no human persons.",
+ "_meta": {
+  "reel": "B 22/1",
+  "model": "opus",
+  "cost_usd": 0.059986,
+  "secs": 8.1
+ }
+}

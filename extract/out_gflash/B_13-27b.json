@@ -1,0 +1,85 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñamotirājena",
+   "name": "Motirāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña",
+    "bhāro"
+   ],
+   "affiliation": "vakatavahāra guṃthi",
+   "residence": "vantāgṛha",
+   "evidence": "vakatavahāra guṃthi vantāgṛhadaivajñamotirājena likhitam idaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rāmeśvarī",
+   "name": "Rāmeśvarī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "thavacche sa [[thavastrī rāmeśvarī]]",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrījayantadevasya",
+   "name": "Jayantadeva",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śubham astu śrījayantadevasya likṣitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wife_of",
+   "to": "p1",
+   "evidence": "thavacche sa [[thavastrī rāmeśvarī]]"
+  },
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "śrījayantadevasya likṣitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 774 māghaśukla || dvitīyā || śatabhiṣanakṣatra || śivayoga || somavāsare",
+  "era": "NS",
+  "year": "774",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "2",
+  "weekday": "somavāsara",
+  "nakshatra_yoga": "śatabhiṣa, śiva",
+  "ce_approx": "1654"
+ },
+ "place": {
+  "as_written": "vakatavahāra",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "A secondary date (NS 789 māghaśukla pūrṇṇamāsī śukravāra) records a religious deed by Daivajña Motirāja and his wife Rāmeśvarī. 'khapvaṃna' refers to Bhaktapur.",
+ "_meta": {
+  "reel": "B 13/27b",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 888,
+  "out_tok": 1747
+ }
+}

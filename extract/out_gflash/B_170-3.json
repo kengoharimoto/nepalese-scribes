@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "loliṃvarāja",
+   "name": "Lolimbarāja",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīloliṃvarājaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīsivākāṃta (!) jyotirvidaṃ",
+   "name": "Śivakānta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "līkhitaṃ (!) pustakamīdaṃ (!) śrīsivākāṃta (!) jyotirvidaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1872 sāla miti caitra vadi 10 śanau",
+  "era": "VS",
+  "year": "1872",
+  "month": "caitra",
+  "paksa": "vadi",
+  "tithi": "10",
+  "weekday": "śanau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1815"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name appears in corrupt form (śrīsivākāṃta jyotirvidaṃ), but the subsequent scribal formula 'mama do(ṣo nadi)yate' confirms his role as the copyist.",
+ "_meta": {
+  "reel": "B 170/3",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 754,
+  "out_tok": 1179
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "māhārājādhirāja śrī śrī jagajjyotirmmalladeva",
+   "name": "Jagajjyotirmalladeva",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "māhārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "māhārājādhirāja śrī śrī jagajjyotirmmalladeva viracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 831 śrāvaṇa śukla, tṛtīyā kunhu",
+  "era": "NS",
+  "year": "831",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "tṛtīyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1711"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "King Jagajjyotirmalla of Bhaktapur is named as the author of the text. No personal name of the scribe is given, only the standard scribal apology formula (ādarśadoṣāt ... lekhakasya).",
+ "_meta": {
+  "reel": "A 1058/25",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 724,
+  "out_tok": 851
+ }
+}

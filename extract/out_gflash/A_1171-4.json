@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sadupādhyāyaśrīvāsudeva°",
+   "name": "Vāsudeva",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "sadupādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "jamugāma brahmapura",
+   "evidence": "sadupādhyāyaśrīvāsudevacaraṇāravindebhyaḥ paṭhatā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīguṇapatinā",
+   "name": "Guṇapati",
+   "roles": [
+    "scribe",
+    "pupil"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīguṇapatinā svapāṭhārthaṃ likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "sadupādhyāyaśrīvāsudevacaraṇāravindebhyaḥ paṭhatā śrīguṇapatinā"
+  }
+ ],
+ "date": {
+  "as_written": "la saṃ 358 āśvinabadidvādaśyāṃ bhaume",
+  "era": "LS",
+  "year": "358",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "12",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1477"
+ },
+ "place": {
+  "as_written": "jamugāma brahmapure",
+  "normalized": ""
+ },
+ "purpose": "svapāṭhārtham",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1171/4",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 785,
+  "out_tok": 1049
+ }
+}

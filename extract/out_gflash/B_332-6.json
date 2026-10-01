@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "chaṃdogakṛṣṇadīkṣitena",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "chandoga",
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "Revāgrāma",
+   "evidence": "likhitaṃ chaṃdogakṛṣṇadīkṣitena svārthaṃ paramārthaṃ ca",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvaṃt 1750 samaye phālguṇa śake (1) vadi 8 aṣṭamī budhavāsare",
+  "era": "unspecified",
+  "year": "1750",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "revāgrāme",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ paramārthaṃ ca",
+ "notes": "The date text contains both 'saṃvaṃt' and 'śake' alongside 'vadi 8', making the intended era ambiguous (catalogue interprets it as Śaka 1750 = c. 1828 CE, but it could also be Vikrama Saṃvat 1750 = c. 1694 CE).",
+ "_meta": {
+  "reel": "B 332/6",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 848,
+  "out_tok": 1331
+ }
+}

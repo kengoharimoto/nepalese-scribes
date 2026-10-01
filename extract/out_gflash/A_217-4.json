@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "suṃdaradāsena",
+   "name": "Sundaradāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "suṃdaradāsena likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nārāyaṇa syāsasya",
+   "name": "Nārāyaṇa Syāsa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nārāyaṇa syāsasya idaṃ pustakam",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "suṃdaradāsena likhitaṃ nārāyaṇa syāsasya idaṃ pustakam"
+  }
+ ],
+ "date": {
+  "as_written": "mārgaśīrṣe sitepakṣe paurnimāyaṃ || saṃvat || 1915",
+  "era": "VS",
+  "year": "1915",
+  "month": "Mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1858"
+ },
+ "place": {
+  "as_written": "avaṃtikāyāṃ",
+  "normalized": "Ujjain"
+ },
+ "purpose": "",
+ "notes": "The place Avaṃtikā (Ujjain) confirms the use of Vikrama Saṃvat 1915 (1858 CE). 'syāsasya' is very likely a misreading or misspelling of vyāsasya ('of Nārāyaṇa Vyāsa').",
+ "_meta": {
+  "reel": "A 217/4",
+  "model": "gemini-flash-latest",
+  "secs": 7.2,
+  "in_tok": 706,
+  "out_tok": 1660
+ }
+}

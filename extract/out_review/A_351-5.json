@@ -1,0 +1,47 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes; notes slightly expanded (reading of 'saptamoṃ kaḥ', Rucipati not added because he is not named in the quoted colophon)."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmasya",
+   "name": "Rāma",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmasyedaṃ pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'iti saptamoṃ kaḥ' should be read as 'iti saptamo 'ṅkaḥ' (end of Act 7 of Murāri's Anargharāghava). The quoted colophon names only the owner Rāma ('rāmasyedaṃ pustakaṃ'). The catalogue lists Rucipati as scribe and Bhairavasiṃha as king. However, Rucipati (Upādhyāya) wrote the commentary on Murāri's play under the Oinwāra king Bhairavasiṃha of Mithilā. Neither name appears in the quoted colophon, so neither is recorded here as scribe or reigning king. Rucipati was also not added as commentator, because he is not named in this colophon. The copy is undated.",
+ "_meta": {
+  "reel": "A 351/5",
+  "model": "opus",
+  "cost_usd": 0.062306,
+  "secs": 10.2
+ }
+}

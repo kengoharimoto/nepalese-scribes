@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dadhī ca vāpū jośī",
+   "name": "Dadhīca Bāpū",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ dadhī ca vāpū jośī yāce aśe",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1915 māghaśukla 6 taddine",
+  "era": "VS",
+  "year": "1915",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "6",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1858"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records VS 1925, but the colophon reads saṃvat 1915. The ownership statement is in Marathi ('yāce aśe' / 'āhe'). 'Dadhīca' could also represent the Brahmin subcaste Dādhīca qualifying Bāpū Jośī.",
+ "_meta": {
+  "reel": "A 1399/52",
+  "model": "gemini-flash-latest",
+  "secs": 16.3,
+  "in_tok": 682,
+  "out_tok": 3300
+ }
+}

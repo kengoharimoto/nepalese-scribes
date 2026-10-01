@@ -1,0 +1,82 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p3 name: dropped the honorific śrī ('Śrīkṛṣṇa' → 'Kṛṣṇa'); the abbreviated title is recorded as 'jyotiṣī (jyoºº)'.",
+   "p3 evidence and notes: 'puºº' is most likely pustakam, which makes Kṛṣṇa the owner. A reading as putra or purohita cannot be ruled out, so confidence stays medium.",
+   "p2: 'maṃḍalīkaraṇē' is kept as a provisional title. The notes add that it could instead be a locative place name, meaning 'at Maṇḍalīkaraṇa'.",
+   "p1: evidence shortened; Bhāskararāya is the commentator (author of the bhāṣya), not connected with this copy.",
+   "date: the weekday and month were checked; the notes explain which month scheme fits.",
+   "purpose: rendered as a dedication at the guru's feet."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhāṣkararāyeṇa",
+   "name": "Bhāskararāya",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "iti bhāṣkararā(7)yeṇa ... tripurāmahopaniṣadorthāḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gopīnātha maṃḍalīkaraṇē",
+   "name": "Gopīnātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "maṃḍalīkaraṇa (?)"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liººgopīnā(7)tha maṃḍalīkaraṇē",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "Śrīkṛṣṇa jyoºº",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jyotiṣī (jyoºº)"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "puºº Śrīkṛṣṇa jyoºº",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ ○ 1970 bhādra kṛṣṇa 2 tithau guruvā(6)sare",
+  "era": "VS",
+  "year": "1970",
+  "month": "bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "2",
+  "weekday": "guruvāsara (Thursday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1913"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "dedicated to the guru's lotus-feet (gurucaraṇāraviṃdārpaṇaṃ)",
+ "notes": "The text is Bhāskararāya's bhāṣya on the Tripuramahopaniṣad. 'maṃḍalīkaraṇē' after the scribe's name is unclear: it could be a caste or office designation (Karaṇa), an epithet, or the locative of a place name. 'puºº' most likely abbreviates pustakam, which would make Śrīkṛṣṇa jyo(tiṣī) the owner; putra or purohita are possible but less likely readings. 'jyoºº' could stand for jyotiṣī or jyotirvid. Date: VS 1970 = 1913 CE. A rough calculation suggests the Thursday weekday fits Bhādrapada kṛṣṇa 2 in the amānta scheme, about 18 September 1913. In the pūrṇimānta scheme the day would fall about 18–19 August 1913, a Monday or Tuesday. This is approximate and has not been checked against a pañcāṅga. The catalogue's scribe field 'Gopīnātha maṃḍalīkaraṇe' matches the colophon. The verse 'bhagnapṛṣṭhakaṭigrīvā...' is the standard scribal formula.",
+ "_meta": {
+  "reel": "A 897/16",
+  "model": "opus",
+  "cost_usd": 0.096738,
+  "secs": 22.4
+ }
+}

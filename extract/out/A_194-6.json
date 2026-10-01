@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmahāvuddhopāśakaśrīmaheśvarānaṃdena",
+   "name": "Maheśvarānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "mahābuddhopāsaka"
+   ],
+   "affiliation": "",
+   "residence": "Lalitāpura",
+   "evidence": "śrīlalitāpurasya śrīmahāvuddhopāśakaśrīmaheśvarānaṃdena likhitaṃ samarpitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 959 sāla miti pauṣavadi 5 śukravāa",
+  "era": "NS",
+  "year": "959",
+  "month": "Pauṣa",
+  "paksa": "kṛṣṇa (vadi)",
+  "tithi": "5",
+  "weekday": "Friday (śukravāra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1838–1839"
+ },
+ "place": {
+  "as_written": "śrīlalitāpurasya",
+  "normalized": "Patan"
+ },
+ "purpose": "offered (samarpitaṃ), but the colophon doesn't say to whom",
+ "notes": "The era isn't named; NS is assumed because the catalogue says so and the year 959 has three digits. \"Lalitāpurasya\" is in the genitive, so it says where the scribe lives. It may not be where the copy was made, though that is likely. \"mahāvuddhopāśaka\" = mahābuddhopāsaka, a Buddhist lay devotee. This title is unusual for a Śaiva/Śākta tantra scribe. \"śukravāa\" is a mistake for śukravāra. Pauṣa 959 NS falls around Dec 1838 to Jan 1839. The extraction agrees with the catalogue fields.",
+ "_meta": {
+  "reel": "A 194/6",
+  "model": "opus",
+  "cost_usd": 0.4710388,
+  "secs": 16.4
+ }
+}

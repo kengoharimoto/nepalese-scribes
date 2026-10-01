@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The quoted colophon text contains only the text's chapter colophon (adhyāyapuṣpikā). The scribe ('Gaurīdatta Trivikramarāja ?') and date ('SAM (ŚS) 1841') noted in the catalogue fields do not appear in the provided excerpt.",
+ "_meta": {
+  "reel": "A 1113/18f",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 705,
+  "out_tok": 833
+ }
+}

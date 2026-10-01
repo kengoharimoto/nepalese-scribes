@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmādhavakara",
+   "name": "Mādhavakara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmādhavakaraviracita",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1848 mīṭī (!) māgha vadī 2 vāra budhavāra",
+  "era": "VS",
+  "year": "1848",
+  "month": "māgha",
+  "paksa": "vadī",
+  "tithi": "2",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1791"
+ },
+ "place": {
+  "as_written": "kāśyāṃ madhye",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The catalogue records the scribe as Kṛṣṇadāsa, but this name does not appear in the quoted colophon text (possibly omitted in the ellipsis '…').",
+ "_meta": {
+  "reel": "A 214/20",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 807,
+  "out_tok": 1215
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gadyapadyānidhiśrīmaheśvarasya",
+   "name": "Maheśvara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "sakalavaidyarājacakramuktāśekhara",
+    "gadyapadyānidhi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gadyapadyānidhiśrīmaheśvarasya kṛtir iyaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "aṣitavaidyakṛṣṇadevasya",
+   "name": "Kṛṣṇadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "aṣitavaidyakṛṣṇadevasya",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 748 pauṣamāsi śuklapakṣe || ○ || sā 4",
+  "era": "NS",
+  "year": "748",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "sā",
+  "nakshatra_yoga": "",
+  "ce_approx": "1628"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "aṣita is likely a scribal error for likhita, hence Kṛṣṇadeva is identified as the scribe following the catalogue.",
+ "_meta": {
+  "reel": "C 25/3",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 743,
+  "out_tok": 1028
+ }
+}

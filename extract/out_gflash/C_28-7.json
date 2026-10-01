@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pūrṇasiṃhena",
+   "name": "Pūrṇasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitvā pūrṇasiṃhena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "maṇiratnasya",
+   "name": "Maṇiratna",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "maṇiratnasya pustakam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "likhitvā pūrṇasiṃhena maṇiratnasya pustakam"
+  }
+ ],
+ "date": {
+  "as_written": "nepālavatsare yāte pātālāgnyaṅkasaṃyute || kārttikāsitapalasya caturddasyanduvāsare || ... samvat 937 śrīśāke 1738 śrīvikramābde 1873 kārttika va di 14 ro 2",
+  "era": "NS",
+  "year": "937",
+  "month": "Kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "14",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1816"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date is provided in chronogram (pātālāgnyaṅka = 937) and numerals across three eras: NS 937, Śaka 1738, and Vikrama 1873.",
+ "_meta": {
+  "reel": "C 28/7",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 822,
+  "out_tok": 1445
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Jagaddhara: role 'beneficiary' replaced by 'other' (recipient of the gift); 'owner' kept because the book was handed over to him. He is not the scribe, so the catalogue's Scribe field is wrong.",
+   "Evidence shortened to the dative phrase plus samarpitā.",
+   "Place of copying emptied: the colophon gives Kurmācala only as Jagaddhara's residence ('kurmāṃcalasthebhyo'), not as the place where the copy was made.",
+   "Purpose changed from 'parārtha' to a specific gift statement.",
+   "ce_approx explained: Pauṣa śukla 13 of VS 1904 falls around Dec 1847 or Jan 1848.",
+   "Notes extended to cover the unnamed copyist/donor and the corrupt word 'hutahut[te]bhyo'."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmajajagddhara (!) paṃtebhyo",
+   "name": "Jagaddhara",
+   "roles": [
+    "owner",
+    "other"
+   ],
+   "titles": [
+    "paṃta"
+   ],
+   "affiliation": "",
+   "residence": "Kurmācala (Kumaon)",
+   "evidence": "jagddhara (!) paṃtebhyo kurmāṃcalasthe[[bhyo]] ... samrpiteti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "smvt vedābhrāṅkabhūmimite pau[[ṣe]] māsi śukla[[pa]]kṣe trayodaśyāṃ somo",
+  "era": "VS",
+  "year": "1904",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "trayodaśī",
+  "weekday": "somavāra (Monday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1847"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "gift: copy completed in the giver's own hand and presented (samarpitā) to Jagaddhara Paṃta of Kurmācala",
+ "notes": "The chronogram vedābhrāṅkabhūmi reads 4-0-9-1; read right to left this gives 1904. The colophon has only 'saṃvat', so the era is not stated. In Kumaon this almost certainly means VS, which gives Dec 1847 or Jan 1848 CE (Pauṣa śukla 13). The weekday (Monday) has not been verified.\n\nJagaddhara Paṃta (Pant, a Kumaoni brahmin family name), of Kurmācala, is named in the honorific plural dative as the person who received the book. He is not the scribe, so the catalogue's Scribe field is a misreading. The person who completed the copy 'with his own hand' (svahastena saṃpūrṇīkṛtya) and gave it away is not named. 'kurmācalīya hutahut[te]bhyo' is corrupt. It is probably a further honorific description of Jagaddhara, for example something built on hutabhuj ('fire-priest' / agnihotrin). It could also be a second recipient, but this is uncertain. Kurmācala is Jagaddhara's residence; the colophon does not explicitly give it as the place of copying, although the copy was probably made there.",
+ "_meta": {
+  "reel": "B 273/16",
+  "model": "opus",
+  "cost_usd": 0.089938,
+  "secs": 23.8
+ }
+}

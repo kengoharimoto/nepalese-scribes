@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāśīnātha (!)",
+   "name": "Kāśīnātha",
+   "roles": [
+    "scribe",
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ kāśīnātha (!) paṭhanārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃmata (!) 1811 māsa aśvin (!) vadi 8 bhṛguvāsare",
+  "era": "VS",
+  "year": "1811",
+  "month": "aśvin",
+  "paksa": "vadi",
+  "tithi": "8",
+  "weekday": "bhṛguvāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1754"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "paṭhanārthaṃ",
+ "notes": "The phrase 'likhitaṃ kāśīnātha paṭhanārthaṃ' may mean either 'written by Kāśīnātha for study' (svārtha) or 'written for the reading of Kāśīnātha'.",
+ "_meta": {
+  "reel": "A 1029/29",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 757,
+  "out_tok": 1355
+ }
+}

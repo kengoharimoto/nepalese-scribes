@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "durgādattabhaṭṭena",
+   "name": "Durgādatta",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ durgādattabhaṭṭena svārtha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1917 jyeṣṭhavadī saptamī ravau ... samvat 1917 sālam iti kārtikavadī 30 roja 3",
+  "era": "VS",
+  "year": "1917",
+  "month": "jyeṣṭha",
+  "paksa": "vadī",
+  "tithi": "saptamī",
+  "weekday": "ravau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1860"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtha",
+ "notes": "Two dates are mentioned in the colophon: Saṃvat 1917 Jyeṣṭha vadī 7 Sunday, and later Saṃvat 1917 Kārtika vadī 30 Tuesday (roja 3).",
+ "_meta": {
+  "reel": "A 1011/3",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 791,
+  "out_tok": 885
+ }
+}

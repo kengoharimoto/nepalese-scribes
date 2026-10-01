@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mānasiṃgheṇa",
+   "name": "Mānasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mānasiṃgheṇa pustakam idam alekhi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1749 āśvinakṛṣṇāpakṣe daśamyāṃ tithau ravivāsare",
+  "era": "unspecified",
+  "year": "1749",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue interprets samvat 1749 as Śaka Saṃvat 1749 (c. 1827 CE), though it could also refer to Vikrama Saṃvat 1749 (c. 1692 CE).",
+ "_meta": {
+  "reel": "A 342/26",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 729,
+  "out_tok": 972
+ }
+}

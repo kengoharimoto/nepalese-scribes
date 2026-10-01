@@ -1,0 +1,84 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date: parsed the chronogram. 'rudraghane' = 11³ = 1331, to which the square (varga) of an uncertain number is added; 'ravākṣi(!)' is corrupt, so the year is left unresolved and ce_approx stays empty. Possible readings are given in notes.",
+   "Date: removed 'śāke 'rkaraśmibhiḥ śuṣke kusarite kāle' from the year. It describes the season (rivers dried by the sun's rays, i.e. the hot season) and is not part of the number. The verse is restructured accordingly.",
+   "Scribe p3: kept as low confidence. 'budha' moved out of titles: it is an epithet ('the learned one'), not a caste or office title. Evidence string corrected to match the colophon."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "manorathācārya",
+   "name": "Manoratha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī manorathācārya suta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "maheśvara",
+   "name": "Maheśvara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "manorathācārya suta maheśvara viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "amāryo",
+   "name": "Amārya",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "hyamāryomalikhadvudhaḥ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrī manorathācārya suta maheśvara"
+  }
+ ],
+ "date": {
+  "as_written": "ravākṣi(!)vargayute rudraghane śāke",
+  "era": "ŚS",
+  "year": "rudraghana (11³ = 1331) + square of 'ravākṣi' (corrupt); unresolved",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "hot season implied: śāke 'rkaraśmibhiḥ śuṣke kusarite kāle",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The dating verse is an anuṣṭubh: 'ravākṣi(!)vargayute rudraghane śāke 'rkaraśmibhiḥ | śuṣke kusarite kāle hy amāryo 'likhad budhaḥ'. Its first pāda is one syllable short. 'rudraghana' = 11³ = 1331, to which the square of the number in 'ravākṣi(!)' is added. The candidate readings give very different years. If akṣi = 2 alone, 1331 + 4 = ŚS 1335 (c. 1413 CE). If rāma-akṣi = 23, 1331 + 529 = ŚS 1860 (c. 1938 CE). If rasa-akṣi = 26, 1331 + 676 = ŚS 2007 (too late). The year is therefore left undetermined. 'śāke' marks the era as Śaka. 'arkaraśmibhiḥ śuṣke kusarite kāle' describes the hot season (rivers dried by the sun's rays) and is not part of the number. The scribe's name 'hy amāryo' is doubtful. It could be a corruption, e.g. of 'amātyo' (a minister), in which case no personal name is given. 'budhaḥ' ('the learned one') is an epithet. 'maṅgalamūrti' in the closing invocation is a deity (Gaṇeśa) and is not recorded as a person.",
+ "_meta": {
+  "reel": "A 1068/7",
+  "model": "opus",
+  "cost_usd": 0.100622,
+  "secs": 27.2
+ }
+}

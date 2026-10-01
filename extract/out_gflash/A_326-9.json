@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsake (!) 1730 (!) saṃvat 1885 (!) sālamiti bhādrakṛṣṇa kṛṣṇā 8 roja 2 nakṣatre rohiṇī yoge harṣaṇa",
+  "era": "VS",
+  "year": "1885",
+  "month": "bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "roja 2",
+  "nakshatra_yoga": "rohiṇī, harṣaṇa",
+  "ce_approx": "1828"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The phrase 'likhitaṃ svastena' is almost certainly a scribal error for 'likhitaṃ svahastena' ('written by one's own hand'), leaving the scribe anonymous. The Śaka year 1730 is likely a miswriting for 1750 (Devanagari 3 and 5 are easily confused), which matches VS 1885 (1828 CE).",
+ "_meta": {
+  "reel": "A 326/9",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 734,
+  "out_tok": 1580
+ }
+}

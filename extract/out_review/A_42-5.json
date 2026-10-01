@@ -1,0 +1,107 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Chronogram resolved: viyat=0, agni=3, vāha (horses of the sun)=7, read right to left = NS 730; ce_approx 1610 added; year field given as 730",
+   "Tithi interpreted: vahnidaiva (tithi presided over by Agni) = pratipad; weekday gīrvāṇapūjita(-dina) = Thursday (Bṛhaspati, revered by the gods); nakṣatra vasubha = Dhaniṣṭhā; month nabhas = Śrāvaṇa; pakṣa asita = kṛṣṇa",
+   "Vibudhendrāśrama: role changed from 'teacher' to 'other'. He is the author's guru and is not connected with this copy",
+   "Notes updated"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vibudhendrāśrama",
+   "name": "Vibudhendrāśrama",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvibudhendrāśramapūjya〈〈ṃ〉〉pādaśiṣya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "devendrāśrama",
+   "name": "Devendrāśrama",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdevendrāśramakṛtā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "sāgaraḥ",
+   "name": "[...]sāgara",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "(sāgaraḥ | ) sajjīkṛtaḥ svapāṭhārthaṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "daivajñanārāyaṇasiṃhena",
+   "name": "Nārāyaṇasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñanārāyaṇasiṃhena likhitam idaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "vibudhendrāśramapūjya〈〈ṃ〉〉pādaśiṣyaśrīdevendrāśrama"
+  },
+  {
+   "from": "p4",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "sajjīkṛtaḥ svapāṭhārthaṃ ... daivajñanārāyaṇasiṃhena likhitam idaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "nepālahāyanagate viyadagnivāhe, māse ’site nabhasi sattithivahnidaive | gīrvāṇapūjitadine vasubhe",
+  "era": "NS",
+  "year": "730 (viyad-agni-vāha = 0-3-7, read right to left)",
+  "month": "Nabhas (Śrāvaṇa)",
+  "paksa": "kṛṣṇa (asita)",
+  "tithi": "vahnidaiva = pratipad (1)",
+  "weekday": "gīrvāṇapūjitadina = Thursday (Bṛhaspati)",
+  "nakshatra_yoga": "vasubha = Dhaniṣṭhā",
+  "ce_approx": "1610"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svapāṭhārtham: prepared for the study of [...]sāgara",
+ "notes": "I read the chronogram viyat (0), agni (3), vāha (7, the horses of the sun) right to left, giving NS 730, about 1610 CE. If vāha is taken as 4, the year would be NS 430 (1310 CE), which is unlikely for this text. Vahnidaiva tithi is read as pratipad, whose presiding deity is Agni. Gīrvāṇapūjita is read as Bṛhaspati, giving Thursday. Vasubha is read as Dhaniṣṭhā, the nakṣatra of the Vasus. These identifications have not been checked against an ephemeris. The name of the person who had the copy prepared for his own study is lost in a lacuna; only '...sāgaraḥ' survives, probably preceded by 'śrīmacchrī'. The reading 'saṃgaṃ' may be corrupt (perhaps 'saṃjñe'). Vibudhendrāśrama is the guru of the author Devendrāśrama and is not connected with this copy.",
+ "_meta": {
+  "reel": "A 42/5",
+  "model": "opus",
+  "cost_usd": 0.10249,
+  "secs": 24.7
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "siṃhanāminā",
+   "name": "Siṃhanāmin",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhat siṃhanāminā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1860 sālamāghaśudi 5 roja 3 / śarāśvinagabhūśāke māghaśubhreṣu paṃcamī || gotrāpatye ca vāre",
+  "era": "VS",
+  "year": "1860",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1804"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date is given both in VS 1860 (saṃvat 1860 sāla) and in Śāke chronogram (śara [5], aśvi [2], naga [7], bhū [1] = Śaka 1725), which corresponds to 1804 CE. 'gotrāpatye ca vāre' refers to Bhaumavāra / Tuesday (the son of the Earth). 'siṃhanāminā' could mean either a person named Siṃhanāmin or someone having 'Siṃha' in their name.",
+ "_meta": {
+  "reel": "A 418/7",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 801,
+  "out_tok": 1071
+ }
+}

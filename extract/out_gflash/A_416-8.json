@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "durgādattena",
+   "name": "Durgādatta",
+   "roles": [
+    "scribe",
+    "beneficiary"
+   ],
+   "titles": [
+    "utprabhātījātīya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhim utprabhātījātīya durgādattena svārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat || 190 | 2 | āśvine māsi śuklapakṣe | 10 | gurāviti",
+  "era": "VS",
+  "year": "1902",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "guru",
+  "nakshatra_yoga": "",
+  "ce_approx": "1845"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ",
+ "notes": "",
+ "_meta": {
+  "reel": "A 416/8",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 735,
+  "out_tok": 837
+ }
+}

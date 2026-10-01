@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "puruṣottamadeva",
+   "name": "Puruṣottamadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "puruṣottamadeva saṃgrahītā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nārāyaṇa miśreṇa",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nārāyaṇa miśreṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1697 varṣe vaiśāṣasudi 3 bhaume",
+  "era": "VS",
+  "year": "1697",
+  "month": "vaiśāṣa",
+  "paksa": "sudi",
+  "tithi": "3",
+  "weekday": "bhaume",
+  "nakshatra_yoga": "",
+  "ce_approx": "1640"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The phrase 'li. rāma śrī rāmanāma' appears to be an abbreviated 'likhitam' followed by an auspicious invocation of the name of Rāma ('śrī rāmanāma'), with Nārāyaṇa Miśra as the instrumental agent/scribe.",
+ "_meta": {
+  "reel": "A 337/19",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 760,
+  "out_tok": 1374
+ }
+}

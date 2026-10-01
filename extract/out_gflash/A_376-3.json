@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṛṣṇanamaṣnorā",
+   "name": "Kṛṣṇanamaṣnora",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ (kṛṣṇanamaṣnorā) (!) brāhmaṇasya",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "miti asādḥa vadi 8 maṃ. saṃvat 1856",
+  "era": "VS",
+  "year": "1856",
+  "month": "asādḥa",
+  "paksa": "vadi",
+  "tithi": "8",
+  "weekday": "maṃ.",
+  "nakshatra_yoga": "",
+  "ce_approx": "1799"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author mentioned as 'śrīmadasanamad viracitāyāṃ' is a corruption of Śrīmad-Dhanumat (Hanumān, mythical author of the Khaṇḍapraśasti) and has been excluded. The scribe's name is heavily corrupt and catalogued as 'Kṛṣṇa‥‥brāhmaṇa'.",
+ "_meta": {
+  "reel": "A 376/3",
+  "model": "gemini-flash-latest",
+  "secs": 7.7,
+  "in_tok": 741,
+  "out_tok": 1808
+ }
+}

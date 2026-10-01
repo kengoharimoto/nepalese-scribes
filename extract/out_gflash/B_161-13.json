@@ -1,0 +1,70 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvīrasiṃhadeva",
+   "name": "Vīrasiṃhadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "deva"
+   ],
+   "affiliation": "Tomaravaṃśa",
+   "residence": "",
+   "evidence": "śrīvīrasiṃhadevaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "viśvarūpo",
+   "name": "Viśvarūpa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viśvarūpo ʼlikhat",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "kalaśasiṃha",
+   "name": "Kalaśasiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "Tomaravaṃśa",
+   "residence": "",
+   "evidence": "tatrābhat(!) kalaśasiṃha iti prasiddhaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "abde naṃdahutāśavāridhiniśānāthā 1439///nvite śrīmadvikramabhūpateś ca vibhave māse nabhasye site || pakṣe viṣṇudine gurau sa haribhe",
+  "era": "VS",
+  "year": "1439",
+  "month": "nabhasya",
+  "paksa": "śukla",
+  "tithi": "viṣṇudina (12)",
+  "weekday": "guruvāra",
+  "nakshatra_yoga": "haribha",
+  "ce_approx": "1382"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "lokahitāya",
+ "notes": "The date VS 1439 (Bhādrapada śukla 12, Thursday, Śravaṇa nakṣatra) and the verses regarding the Tomara dynasty of Gwalior record the composition of the Vīrasiṃhāvaloka by King Vīrasiṃhadeva ('śrīsiṃho ʼbhyadhād graṃtho lokahitāya'), which the catalogue lists as the date of copying. The genealogy breaks off at 'tasmā///'.",
+ "_meta": {
+  "reel": "B 161/13",
+  "model": "gemini-flash-latest",
+  "secs": 20.8,
+  "in_tok": 1002,
+  "out_tok": 4779
+ }
+}

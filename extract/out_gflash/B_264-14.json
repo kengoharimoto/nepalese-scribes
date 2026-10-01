@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nārāyaṇadāsa",
+   "name": "Nārāyaṇadāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sidhayāṅā (!) , jhaṣiti (!) , nārāyaṇadāsa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 883 bhādrapadaśudi 11 śaniścavālakunhu",
+  "era": "NS",
+  "year": "883",
+  "month": "bhādrapada",
+  "paksa": "śudi",
+  "tithi": "11",
+  "weekday": "śaniścavāla (Saturday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1763"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 264/14",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 767,
+  "out_tok": 883
+ }
+}

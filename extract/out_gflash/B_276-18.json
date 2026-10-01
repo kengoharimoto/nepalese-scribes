@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmiśramohanadāsa",
+   "name": "Mohanadāsa",
+   "roles": [
+    "author",
+    "commentator"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmiśramohanadāsaviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 923 mārgaśiraśudi 5 maṃgalavāra",
+  "era": "NS",
+  "year": "923",
+  "month": "mārgaśira",
+  "paksa": "śudi",
+  "tithi": "5",
+  "weekday": "maṃgalavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1802"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 276/18",
+  "model": "gemini-flash-latest",
+  "secs": 3.3,
+  "in_tok": 758,
+  "out_tok": 831
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ārya varāhamihirasya",
+   "name": "Varāhamihira",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ārya varāhamihirasya kṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī śrī jayaraṇajitamalladeva",
+   "name": "Jayaraṇajitamalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śrī jayaraṇajitamalladevasanadayakā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 853 kārttika vadi 5",
+  "era": "NS",
+  "year": "853",
+  "month": "kārttika",
+  "paksa": "vadi",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1733"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The phrase 'jayaraṇajitamalladevasanadayakā' represents Newari 'jayaraṇajitamalladeva-sana dayakā' ('caused to be made by Jayaraṇajitamalladeva').",
+ "_meta": {
+  "reel": "B 336/3",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 710,
+  "out_tok": 1185
+ }
+}

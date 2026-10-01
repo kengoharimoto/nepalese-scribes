@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mūrārirajapūta",
+   "name": "Murāri",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "rājapūta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ mūrārirajapūta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1669 samaye āṣāḍha vadi aṣṭamī vāra bṛhaspati",
+  "era": "VS",
+  "year": "1669",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1612"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 241/15",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 762,
+  "out_tok": 933
+ }
+}

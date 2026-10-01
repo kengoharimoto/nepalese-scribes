@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīśrībalabhadra upādhyā lumiṭyāla",
+   "name": "Balabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "Lumiṭyāla",
+   "residence": "Bhīrpāni",
+   "evidence": "śrīśrīśrībalabhadra upādhyā lumiṭyāla liṣakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1930 śāla śrīśāke 1795 vaiśāṣa māse dena 16 gate śānivāsare tithau 14 paraamāvaśyā",
+  "era": "VS",
+  "year": "1930",
+  "month": "vaiśāṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "14 paraamāvaśyā",
+  "weekday": "śānivāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1873"
+ },
+ "place": {
+  "as_written": "bhīrpāni",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Vikrama Saṃvat 1930 and Śāka 1795 are provided with solar gate date (16 gate).",
+ "_meta": {
+  "reel": "A 1390/1",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 913,
+  "out_tok": 1078
+ }
+}

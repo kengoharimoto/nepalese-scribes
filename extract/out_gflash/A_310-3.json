@@ -1,0 +1,55 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vaiyāsa(!)kyāṃ",
+   "name": "Vyāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vaiyāsa(!)kyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rāmabhadra(mbuja)",
+   "name": "Rāmabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhītaṃ(!) rāmabhadra(mbuja)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1693 vāre 7 nakṣatre 20 tithau 11",
+  "era": "ŚS",
+  "year": "1693",
+  "month": "",
+  "paksa": "",
+  "tithi": "11",
+  "weekday": "7",
+  "nakshatra_yoga": "nakṣatre 20",
+  "ce_approx": "1771"
+ },
+ "place": {
+  "as_written": "jitāgrāme",
+  "normalized": ""
+ },
+ "purpose": "śrīśrīśrīrājapustaka",
+ "notes": "The manuscript is noted as a royal book (śrīśrīśrīrājapustaka), but no specific king is named.",
+ "_meta": {
+  "reel": "A 310/3",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 776,
+  "out_tok": 1479
+ }
+}

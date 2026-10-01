@@ -1,0 +1,76 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: name normalized to 'Raṅgarāja' (adhvarīndra moved to titles only; previous name/title duplicated the suffix)",
+   "p2: name normalized to 'Appayya' (corrupt 'apyadīkṣita' = Appayya Dīkṣita); 'dīkṣita' kept in titles; confidence set to medium for the spelling",
+   "date: era set to VS instead of unspecified (samvat with mītī/vadī in a Devanagari MS = Vikrama); ce_approx changed from 1742 to 1743, because Māgha of VS 1799 falls in Jan/Feb 1743",
+   "paksa normalized to kṛṣṇa (vadī)",
+   "notes expanded"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīraṃgarājādhvarindra",
+   "name": "Raṅgarāja",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "adhvarīndra"
+   ],
+   "affiliation": "Bharadvāja kula",
+   "residence": "",
+   "evidence": "śrīraṃgarājādhvarindravarasūnor",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "apyadīkṣitasya",
+   "name": "Appayya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "dīkṣita",
+    "advaitavidyācārya"
+   ],
+   "affiliation": "Bharadvāja kula",
+   "residence": "",
+   "evidence": "advaitavidyācārya ... apyadīkṣitasya kṛti",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīraṃgarājādhvarindravarasūnor apyadīkṣitasya"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1799 mītī (!) māgha vadī daśamī",
+  "era": "VS",
+  "year": "1799",
+  "month": "Māgha",
+  "paksa": "kṛṣṇa (vadī)",
+  "tithi": "daśamī (10)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1743"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names only the author, Appayya Dīkṣita ('apyadīkṣita' is a corrupt spelling), and his father Raṅgarājādhvarin. It names no scribe, commissioner or owner. The epithets 'advaitavidyācārya' and 'bharadvājakulajalanidhikaustubha' most likely describe Appayya. The Bharadvāja family affiliation applies to both men. The era is not stated, but the date formula (samvat ... mītī ... vadī) in a Devanagari MS points to Vikrama Saṃvat. That matches the catalogue's 'S 1799'. Māgha kṛṣṇa daśamī of VS 1799 falls around Jan/Feb 1743 CE. The cataloguer marked the final words '†phe pothgasā†' as corrupt and they are unclear, possibly a Newari phrase about the book (pothī/pustaka?). They do not give a usable name.",
+ "_meta": {
+  "reel": "A 371/10",
+  "model": "opus",
+  "cost_usd": 0.084966,
+  "secs": 19.0
+ }
+}

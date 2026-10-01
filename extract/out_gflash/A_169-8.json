@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "āditya tripāṭhī",
+   "name": "Āditya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "tripāṭhī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "āditya tripāṭhīsaṃgṛhīte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "manohara",
+   "name": "Manohara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "manoharasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "anaṃtaśarmaṇo",
+   "name": "Anantaśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ manoharasutaśrīmad anaṃtaśarmaṇo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "manoharasuta"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1565 pauṣavadi 13 vidhānurādhāyāṃ",
+  "era": "ŚS",
+  "year": "1565",
+  "month": "pauṣa",
+  "paksa": "vadi",
+  "tithi": "13",
+  "weekday": "vidhau (Monday)",
+  "nakshatra_yoga": "anurādhā",
+  "ce_approx": "1644"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Āśāditya Tripāṭhī as the scribe, but the text indicates Āditya Tripāṭhī was the compiler (saṃgṛhīte) of the work, and the copy was written by Anantaśarman, son of Manohara (likhitaṃ manoharasutaśrīmad anaṃtaśarmaṇo).",
+ "_meta": {
+  "reel": "A 169/8",
+  "model": "gemini-flash-latest",
+  "secs": 8.2,
+  "in_tok": 760,
+  "out_tok": 1614
+ }
+}

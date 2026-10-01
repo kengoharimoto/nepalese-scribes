@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "medinikareṇa",
+   "name": "Medinīkara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "medinikareṇa koṣaḥ pālanakarasūnunā racitaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "pālanakara",
+   "name": "Pālanakara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pālanakarasūnunā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "pālanakarasūnunā"
+  }
+ ],
+ "date": {
+  "as_written": "lasaṃ 377 pauṣabadi 12 śanau",
+  "era": "LS",
+  "year": "377",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "12",
+  "weekday": "śanivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1496"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives the concluding author strophes of the Medinīkoṣa mentioning earlier lexicographers cited as sources (Bhāguri, Vararuci, Śāśvata, Amara, etc.), the author Medinīkara and his father Pālanakara, followed by the copy date in Lakṣmaṇasena era.",
+ "_meta": {
+  "reel": "A 18/8",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 910,
+  "out_tok": 1446
+ }
+}

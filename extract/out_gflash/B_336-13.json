@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "karavopanāmaka goviṃdena",
+   "name": "Govinda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "karavopanāmaka goviṃdena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1766 śake 1631 vikṣārī saṃvatsare śrāvaṇa śukla ekādaśyāṃ guruvāre",
+  "era": "VS",
+  "year": "1766",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "guruvāra",
+  "nakshatra_yoga": "vikṣārī saṃvatsara",
+  "ce_approx": "1709"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Scribe Govinda is identified with the surname/byname (upanāman) Karava (karavopanāmaka; likely Karve/Karve-gotra or family name). The year is given in both VS 1766 and Śaka 1631 (Vikārin saṃvatsara).",
+ "_meta": {
+  "reel": "B 336/13",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 737,
+  "out_tok": 838
+ }
+}

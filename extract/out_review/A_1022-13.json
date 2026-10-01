@@ -1,0 +1,108 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p4 Narasiṃha: removed role 'owner' — 'liṣtamidaṃ' (= likhitam idam) only says he wrote it; confidence lowered to medium because there are two conflicting scribal statements",
+   "p1 Nārāyaṇakṛṣṇa: added role 'owner', since the Newari 'thava yata cvayākula' (written for myself) and the curse on theft follow his dated statement",
+   "p2: noted that 'trī-' is probably a misreading of 'śrī-', which would give the elder brother the same name; confidence lowered to low",
+   "p3: the reading Āśādhāra is speculative; kept with low confidence and explained in notes",
+   "weekday normalized to Maṅgalavāra; era marked as inferred (bare 'saṃvat')",
+   "purpose and notes expanded"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnārāyaṇakṛṣṇena",
+   "name": "Nārāyaṇakṛṣṇa",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnārāyaṇakṛṣṇena liṣiti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "trīnārāyaṇakṛṣṇasya",
+   "name": "Trinārāyaṇakṛṣṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "trīnārāyaṇakṛṣṇasya kaniṣṭa bhrāta",
+   "confidence": "low"
+  },
+  {
+   "pid": "p3",
+   "as_written": "ā 3 dhārā",
+   "name": "Āśādhāra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ā 3 dhārāputra",
+   "confidence": "low"
+  },
+  {
+   "pid": "p4",
+   "as_written": "bhāju narasiṃhavaidyasya",
+   "name": "Narasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhāju",
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāju narasiṃhavaidyasya liṣtamidaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "brother_of",
+   "to": "p2",
+   "evidence": "trīnārāyaṇakṛṣṇasya kaniṣṭa bhrāta"
+  },
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "ā 3 dhārāputra"
+  }
+ ],
+ "date": {
+  "as_written": "jyeṣṭa (!) māse śukle pakṣe pūrṇamāsyāyāṃ tīthau (!) maṃgalavārasare (!) ... saṃvat 975 jyeṣṭa śudi",
+  "era": "NS",
+  "year": "975",
+  "month": "Jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "Maṅgalavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1855"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtha: 'thava yata cvayākula' (Newari, 'written for myself'), with a curse on theft",
+ "notes": "The colophon gives two scribal statements. (1) Nārāyaṇakṛṣṇa, younger brother of [T/Śr]īnārāyaṇakṛṣṇa and son of 'ā 3 dhārā', wrote it on Jyeṣṭha śukla pūrṇimā, a Tuesday, in saṃvat 975. The Newari note that follows says it was written for himself and calls down sin on anyone who steals it. (2) A final line says 'bhāju narasiṃhavaidyasya liṣtamidaṃ b', and the catalogue lists Narasiṃha Vaidya as the scribe. These two statements may conflict: Narasiṃha could be the actual scribe, a later copyist, or another name for the same person. 'trī-' is probably a misreading of 'śrī-', and if so both brothers are called Nārāyaṇakṛṣṇa, which is suspicious. 'liṣI ā 3 dhārāputra' is corrupt. The father's name is unclear, and 'Āśādhāra' is only a guess. The era is not stated ('saṃvat'), so NS is inferred from the Newari text and the catalogue: NS 975 is about 1855 CE. The weekday has not been checked.",
+ "_meta": {
+  "reel": "A 1022/13",
+  "model": "opus",
+  "cost_usd": 0.114826,
+  "secs": 28.4
+ }
+}

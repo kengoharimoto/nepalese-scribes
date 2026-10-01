@@ -1,0 +1,79 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p3 Maheśvarānanda: affiliation normalised to Ukubahāḥ (Rudravarṇa Mahāvihāra), residence Patan; confidence lowered to low because the note breaks off before his role is stated. The catalogue lists him as scribe, so he may be the actual copyist of NS 1013 (see notes).",
+   "p1 Vyāsa: confidence lowered to medium because this is the traditional authorship attribution.",
+   "date: era NS is inferred and not written with the chronogram; 'bāla' is read as bāṇa (5); the NS 1013 date is recorded in notes.",
+   "place: flagged as belonging to the NS 1013 note, which may or may not be where the copy was made.",
+   "purpose: expanded to give both the scribe's 'kṛṣṇaprīti' and the closing benediction 'nārāyaṇaprītir astu'."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vyāsa",
+   "name": "Vyāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vyāsanirmmitaṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "harinārāyaṇo",
+   "name": "Harinārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "daivajña family (daivajñakula)",
+   "residence": "",
+   "evidence": "harinārāyaṇo nāma daivajñakulabarddhanaḥ | likhitaṃ ... mayā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "maheśavarānanda",
+   "name": "Maheśvarānanda",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "Ukubahāḥ (Rudravarṇa Mahāvihāra)",
+   "residence": "Patan (yaladeśa)",
+   "evidence": "yaladeśa uku[[m]]vahāyā maheśavarānanda///-",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "bālavahnivasucābde madhumāse kuhur 〈d〉 dine",
+  "era": "NS",
+  "year": "835",
+  "month": "madhumāsa (Caitra)",
+  "paksa": "kṛṣṇa",
+  "tithi": "amāvāsyā (kuhū)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1715"
+ },
+ "place": {
+  "as_written": "yaladeśa",
+  "normalized": "Patan"
+ },
+ "purpose": "kṛṣṇaprīti (for Kṛṣṇa's pleasure); closing benediction: śrī 3 nārāyaṇaprītir astu",
+ "notes": "The chronogram bāla(=bāṇa, 5)-vahni(3)-vasu(8), read right to left, gives 835. The era is not written; Nepal Saṃvat (NS) is assumed, giving NS 835 = c. 1715 CE (Caitra amāvāsyā). After the colophon comes a separate Newari note, 'samvat 1013 kārttikavadi 11 maṅgalavāla' (NS 1013 = c. 1892/93 CE, a Tuesday). It names Maheśvarānanda (written maheśavarānanda) of Ukubahāḥ, Patan, and breaks off ('///-') before saying what he did. The catalogue gives both scribes and both dates. Two readings are possible: (a) the NS 1013 note is a later owner's or reader's entry, or (b) Maheśvarānanda copied the manuscript in NS 1013 and carried over Harinārāyaṇa's NS 835 verse colophon from his exemplar. In case (b), Harinārāyaṇa would be the scribe of the exemplar, not of this copy. A look at the folio, its script and its hands is needed to decide. 'yaladeśa' belongs to the NS 1013 note, so it is not certain that this is where the NS 835 copy was made.",
+ "_meta": {
+  "reel": "B 211/4",
+  "model": "opus",
+  "cost_usd": 0.09567,
+  "secs": 23.0
+ }
+}

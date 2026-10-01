@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sadāśivabudho",
+   "name": "Sadāśiva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "budha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sadāśivabudho ’likhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "payodhikhapayodharair mitaśake śriyāsaṃyute tithau sagurupaṃcamena hanubhe ca puṣāhvaye (!)",
+  "era": "ŚS",
+  "year": "1704",
+  "month": "",
+  "paksa": "",
+  "tithi": "pañcamī",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "Puṣya",
+  "ce_approx": "1782"
+ },
+ "place": {
+  "as_written": "mahācīnadeśe",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records the place of copying as Mahācīna based on 'mahācīnadeśe', which may belong to the text/chapter colophon ('iti śrīyogasāgare mahācīnadeśe bhṛgusiddhānte bhṛguśukrasaṃvāde...'). Bhṛgu and Śukra are interlocutors in the text and excluded.",
+ "_meta": {
+  "reel": "A 419/12",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 784,
+  "out_tok": 1822
+ }
+}

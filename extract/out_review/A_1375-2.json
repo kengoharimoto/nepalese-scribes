@@ -1,0 +1,54 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Name reading: 'upādhyāṣadāl' is better read as upādhyāya + Dāhāl (Dahal, a Bahun clan surname), not a corruption of upādhyāya alone. Added Dāhāla to titles and affiliation.",
+   "Residence: changed 'īruṃṭāragrāma' to the stem 'Iruṃṭāra' and marked it as the place of writing, not certainly the scribe's home.",
+   "Place: normalized left empty because the site cannot be identified with certainty. Added a note that 'māī nikateḥ' probably means 'near the Māī' (the Mai river, Ilam, east Nepal).",
+   "Date: year field now gives the Śaka year only. Checked that Śaka 1800 and VS 1935 agree: Phālguna falls in Feb–Mar 1879 CE.",
+   "Notes extended: '2 karakātiṣṭāḥ' is unclear, and confidence for the scribe is lowered to medium."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "caṃdra seṣara upādhyāṣadāl",
+   "name": "Candraśekhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya",
+    "Dāhāla"
+   ],
+   "affiliation": "Dāhāla (Dahal) clan",
+   "residence": "Iruṃṭāra",
+   "evidence": "caṃdra seṣara upādhyāṣadāl hastākṣara liṣitam",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsāke (!) 1800 śrīsamvat 1935 sāla phālguṇamāse kṛṣṇapakṣa ekādasi (!) tithau somavāsare",
+  "era": "ŚS",
+  "year": "1800",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī",
+  "weekday": "somavāra (Monday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1879"
+ },
+ "place": {
+  "as_written": "māī nikateḥ (!) īruṃṭāragrāme",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives two dates, Śaka 1800 and VS 1935. They agree: Phālguna of that year falls in Feb–Mar 1879 CE. 'upādhyāṣadāl' is probably upādhyāya + Dāhāl, the Bahun surname Dahal; the catalogue's 'Candraśeṣara Upādhyāya' leaves the surname out. 'māī nikateḥ' is probably 'māī-nikaṭe', meaning near the Māī (Mai) river in Ilam, east Nepal. If so, Iruṃṭāra village would lie in that area, but this is not verified. '2 karakātiṣṭāḥ' after somavāsare is unclear: it may be a time note (ghaṭī?) or a corrupt word, and it is not used here. The scribal verse after 'yādṛśaṃ' is abbreviated by the cataloguer.",
+ "_meta": {
+  "reel": "A 1375/2",
+  "model": "opus",
+  "cost_usd": 0.087006,
+  "secs": 21.1
+ }
+}

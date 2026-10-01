@@ -1,0 +1,94 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gosvāminā harinātha",
+   "name": "Harinātha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "gosvāmin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "manohara sūnunā gosvāminā harinātha kṛtāyāṃ vaidyajīvanaṭīkāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīman manohara",
+   "name": "Manohara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīman manohara sūnunā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "puruṣottama bhrāmhana (!) paṃḍītasya (!)",
+   "name": "Puruṣottama",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa",
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiṃ[[ta]] puruṣottama bhrāmhana (!) paṃḍītasya (!)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "chaganajīvrane",
+   "name": "Chagana",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "chaganajīvrane pustakalītaṃ (!) pustakaṃ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīman manohara sūnunā gosvāminā harinātha"
+  }
+ ],
+ "date": {
+  "as_written": "miti āsvī dvitīyāṃ 2 maṃgalavāsare || || saṃvat || || 1890 || || vṛṣe śākha || || 17 || 14",
+  "era": "VS",
+  "year": "1890 (VS); śāke 1714",
+  "month": "Āśvina",
+  "paksa": "",
+  "tithi": "dvitīyā (2)",
+  "weekday": "maṅgalavāra (Tuesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1833 (VS 1890) or 1792 (ŚS 1714); the two eras conflict"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The copy date is internally inconsistent: VS 1890 corresponds to Śaka 1755, while Śaka 1714 corresponds to VS 1849; the cataloguer marks the '8' of 1890 as doubtful (18〈〈8〉〉90), so one figure is corrupt and the CE year cannot be fixed. The chronogram 'khaṃ vahni sindhubhir' (0-3-7, apparently one digit lost, i.e. VS 17[?]30-type date) with jyeṣṭha kṛṣṇa 7 bhṛguvāra is the composition date of Harinātha's ṭīkā, not the copy date. 'śrīnātha gosvāmibhīr' in the corrupt verse 'ṭīkā vaidyajīvanasya racī[tā] śrīnātha gosvāmibhiḥ' most likely refers again to the commentator Harinātha Gosvāmin (possibly 'śrī[hari]nātha'); not listed as a separate person. 'chaganajīvrane pustakalītaṃ pustakaṃ' is read as vernacular (Rajasthani/Gujarati 'līto' = taken): 'the book was taken/acquired by Chaganajī brāhmaṇa', hence tentatively an owner; the segmentation ('paṃḍītasya' may belong either to Puruṣottama or to Chaganajī) and the name are uncertain, -jī treated as honorific. 'śrī mutharaśa' is probably 'Mathureśa' (Kṛṣṇa), an invocation, not a person. Catalogue scribe field (Puruṣottama) agrees with the colophon. Language of the colophon mixes Sanskrit with vernacular (Hindi/Rajasthani) forms; no place or king named.",
+ "_meta": {
+  "reel": "B 166/1",
+  "model": "fable",
+  "cost_usd": 0.302217,
+  "secs": 57.0
+ }
+}

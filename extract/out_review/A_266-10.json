@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Hemantamalla: roles commissioner+owner kept; confidence lowered to medium because 'dayakā' (made) does not rule out him being the scribe the catalogue names",
+   "as_written changed to show the full ergative phrase segmented as hemantamallana thavatā",
+   "weekday normalised to Thursday (gurudine); tithi normalised to pañcamī (Śrīpañcamī)",
+   "purpose rephrased; notes expanded (reading of the Newari, check of the date, he is not identifiable as a reigning king)"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīhemantamallana",
+   "name": "Hemantamalla",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīhemantamallana thavatā nimirttina (!) dayakā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 799 māghamāsa śukla pakṣa śrīpañcamyāṃ tithau revatī nakṣetre gurudine",
+  "era": "NS",
+  "year": "799",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "pañcamī (Śrīpañcamī)",
+  "weekday": "Thursday (gurudine)",
+  "nakshatra_yoga": "Revatī",
+  "ce_approx": "1679"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for his own sake (thavatā nimittina); sons are told not to give it away",
+ "notes": "The Newari reads: 'śrī śrī Hemantamalla-na thava-tā nimittina dayakā' = 'made by Hemantamalla for his own sake'. 'nimirttina (!)' stands for nimittina. The cataloguer's [[va]] is an inserted akṣara, giving thavatā. 'dayakā' (made, had made) usually marks the person who had a copy produced, so commissioner + owner is the more likely reading. The catalogue calls him the scribe, though, and dayakā alone does not rule that out. 'kayaṃgalana pitāṃ viya mate va || mahādullaṃbha vastu' = '[my] sons must not give it out(side); [it is] a very rare object'. The double śrī suggests a royal or noble person, but he is not called king, and no Malla ruler of that name reigned in NS 799 (Pārthivendra in Kathmandu, Śrīnivāsa in Patan, Jitāmitra in Bhaktapur). He may have been a prince or a member of the nobility. Date: NS 799 + 880 = 1678/79; Māgha śukla 5 (Vasanta/Śrīpañcamī) falls in Jan/Feb 1679 CE. Revatī as the nakṣatra is astronomically plausible for that tithi; the weekday has not been checked.",
+ "_meta": {
+  "reel": "A 266/10",
+  "model": "opus",
+  "cost_usd": 0.084054,
+  "secs": 19.6
+ }
+}

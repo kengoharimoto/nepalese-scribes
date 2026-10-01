@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "muktinātha vrāhmaṇena",
+   "name": "Muktinātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vrāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ayaṃ graṃtha likhitaṃ muktinātha vrāhmaṇena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1713 samvat 1848 vaiśākhakṛṣṇa aṣṭamyāṃ tithau 8 nakṣatre 20 somavāsare",
+  "era": "ŚS",
+  "year": "1713 (ŚS) / 1848 (VS)",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "somavāsara",
+  "nakshatra_yoga": "nakṣatra 20",
+  "ce_approx": "1791"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1390/25",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 759,
+  "out_tok": 871
+ }
+}

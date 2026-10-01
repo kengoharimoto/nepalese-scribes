@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vipraśrī chatrapati",
+   "name": "Chatrapati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ vipraśrī chatrapati",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "sāla saṃvatsala (!) 1831 śrāvaṇavadi 9",
+  "era": "VS",
+  "year": "1831",
+  "month": "Śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1774"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 898/11",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 708,
+  "out_tok": 852
+ }
+}

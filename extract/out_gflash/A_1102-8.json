@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "medinīrājaśarmaṇā",
+   "name": "Medinīrāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhitaṃ(!) medinīrājaśarmaṇā || || yā(!) dṛṣṭa(!) graṃthā(!) pada(!) akṣaraṃ ca || tāvat svahastaṃ likhitaṃ ca evaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "navakumāragraham ekavikrame || pauṣakṛṣṇabhavanānami(!) tithyau(!) || daityagurudina ... iti samvat 1974 sāla māgha badi 8",
+  "era": "VS",
+  "year": "1974",
+  "month": "Māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "daityagurudina",
+  "nakshatra_yoga": "śūlayoga",
+  "ce_approx": "1918"
+ },
+ "place": {
+  "as_written": "bhaktapattanabhairavasannidhau",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "Two colophon dates are given: the first in a verse on fol. 49v with a chronogram in the Vikrama era (Pauṣa kṛṣṇa), and the second in digits at the end of the manuscript on fol. 53v-54r (VS 1974 Māgha kṛṣṇa 8).",
+ "_meta": {
+  "reel": "A 1102/8",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 915,
+  "out_tok": 1696
+ }
+}

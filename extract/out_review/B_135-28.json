@@ -1,0 +1,85 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Clarified in notes that 'mādhave naiva' is the scribe's instrumental 'mādhavenaiva' (Mādhavena eva)",
+   "Expanded the date note: 'śāle' is probably a corruption of 'śāke', which is used loosely here with the Vikrama era; VS 1658 is kept, and the catalogue's ŚS 1658 is flagged as doubtful"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kaṃsārimiśrātmaja",
+   "name": "Kaṃsāri",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kaṃsārimiśrātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "miśrayaśōdhara",
+   "name": "Yaśodhara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "miśrayaśōdharaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "mādhave naiva",
+   "name": "Mādhava",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitā mādhave naiva",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "kaṃsārimiśrātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "śāle vikramabhūpasya vasviṣu ṣaṭśaśiśu ca",
+  "era": "VS",
+  "year": "1658",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1601"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram reads vasu (8), iṣu (5), ṣaṭ (6), śaśin (1). Read right to left, that gives 1658. The verse names the era of King Vikrama ('vikramabhūpasya'), so the year is VS 1658, about 1601 CE. 'śāle' is probably a corruption of 'śāke', which is used loosely for the era. The catalogue gives ŚS 1658 (about 1736 CE), which looks like a misreading of 'śāke/śāle'. Neither date can be ruled out completely without palaeographic evidence. 'mādhave naiva' = 'mādhavenaiva', meaning 'by Mādhava alone', so Mādhava is the scribe. The colophon covers only the first prakāśa; the copy may be incomplete. The catalogue title 'Mntrārādhanadīpikā' and the colophon's 'maṃdtrā-' are both garbled forms of 'Mantrārādhanadīpikā'. The author is Yaśodhara Miśra, son of Kaṃsāri Miśra.",
+ "_meta": {
+  "reel": "B 135/28",
+  "model": "opus",
+  "cost_usd": 0.07783799999999999,
+  "secs": 14.8
+ }
+}

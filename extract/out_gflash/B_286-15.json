@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bharttariṇāṃ",
+   "name": "Bhartṛhari",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bharttariṇāṃ dīpaśāstra samāptaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 854 caitra śudi 13",
+  "era": "NS",
+  "year": "854",
+  "month": "caitra",
+  "paksa": "śudi",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1734"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue accidentally lists 'NS 854' under Scribe. The text following the date ('bhattarināṭaka sidhaya kā +++') is partly broken and unclear.",
+ "_meta": {
+  "reel": "B 286/15",
+  "model": "gemini-flash-latest",
+  "secs": 7.3,
+  "in_tok": 680,
+  "out_tok": 838
+ }
+}

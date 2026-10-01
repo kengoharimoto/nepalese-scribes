@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī śrī jayaraṇajitmalla deva",
+   "name": "Jayaraṇajitmalladeva",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jayaraṇajitmalla deva viracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 874 jyeṣṭha śudi 10",
+  "era": "NS",
+  "year": "874",
+  "month": "jyeṣṭha",
+  "paksa": "śudi",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1754"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 135/7",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 697,
+  "out_tok": 902
+ }
+}

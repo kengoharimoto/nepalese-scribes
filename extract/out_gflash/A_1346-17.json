@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dīkṣitabhīmasena°",
+   "name": "Bhīmasena",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "dīkṣita",
+    "padavākyapramāṇapārāvāriṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dīkṣitabhīmasenakṛte kāvyaprakāśavivaraṇe sudhāsāgare",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat || 1812",
+  "era": "VS",
+  "year": "1812",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1755"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records Bhīmasena Dīkṣita in the scribe field as 'Ṭīkākāra : Bhīmasena Dīkṣita'; he is the commentator (author of the commentary Sudhāsāgara).",
+ "_meta": {
+  "reel": "A 1346/17",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 736,
+  "out_tok": 980
+ }
+}

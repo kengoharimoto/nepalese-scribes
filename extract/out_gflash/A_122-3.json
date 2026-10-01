@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pūrṇānandana",
+   "name": "Pūrṇānanda",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "guru"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pūrṇānandeti nāmā samalikhad ... śrīpūrṇānandana thavata coyā jula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepāle saṃvadākhye kunavanavayute śrāvaṇē śuklapakṣe || paṃcamyāṃ vaiśvadeve parighakasahite bhānuputrasya vāre ... saṃvat 991 śrāvaṇamāsayā paṃcami(!) utra(!)bhādranakṣakra(!) parighanayoga(!) śanivāra",
+  "era": "NS",
+  "year": "991",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "uttarabhādrapadā / vaiśvadeva, parigha",
+  "ce_approx": "1871"
+ },
+ "place": {
+  "as_written": "bṛṅṣādye mūlakāntye khalu suviharaṇe",
+  "normalized": ""
+ },
+ "purpose": "svārtha (thavata coyā jula)",
+ "notes": "The chronogram kunavanava gives 991 (ku = 1, nava = 9, nava = 9). The Nevārī phrase 'thavata coyā jula' indicates that the scribe Pūrṇānanda copied the manuscript for his own use.",
+ "_meta": {
+  "reel": "A 122/3",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 898,
+  "out_tok": 1217
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 name normalized to Pradyumna (scribal 'pradhyumna' is a common misspelling); as_written kept",
+   "p2 roles changed from reader+beneficiary+scribe to scribe+owner: the colophon only says the copy was made for his study (paṭhanārtham), which by the guidelines gives scribe + owner, not reader",
+   "p1 residence normalized note: Puruṣottamakṣetra = Puri (Orissa)",
+   "purpose clarified; VS/ŚS concordance confirmed in notes"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śatānanda(!)",
+   "name": "Śatānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Puruṣottamakṣetra (Puri)",
+   "evidence": "puruṣottama kṣetra nivāsi śatānanda(!) viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "pradhyumna śarmapa",
+   "name": "Pradyumna",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pradhyumna śarmapa paṭhanārthamidaṃ likhitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī saṃvat 1905 śāke 1770 bhādrakṛṣṇa trayodaśyāṃ śanivāsare",
+  "era": "VS",
+  "year": "1905",
+  "month": "Bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "śanivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1848"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "paṭhanārtham: copied for Pradyumna's study",
+ "notes": "'pradhyumna śarmapa' is corrupt. It probably stands for 'pradyumnaśarmaṇaḥ' (for Pradyumnaśarman's study) or 'pradyumnaśarmaṇā' (written by Pradyumnaśarman). On either reading he is the person for whose study the copy was made. The colophon does not name the scribe separately. The catalogue lists him as the scribe, so he is taken here as scribe + owner (a copy made for his own study), at medium confidence. The two eras agree: VS 1905 − 57 = 1848 and ŚS 1770 + 78 = 1848, so the copy dates to about August/September 1848 CE. The weekday has not been checked against the tithi. The (!) after Śatānanda is the cataloguer's mark. Śatānanda is the known author of the Bhāsvatī, and Puruṣottamakṣetra is Puri. The title in the catalogue, 'Bhāśvatīkaraṇa', should read Bhāsvatīkaraṇa.",
+ "_meta": {
+  "reel": "A 1364/12",
+  "model": "opus",
+  "cost_usd": 0.082866,
+  "secs": 17.5
+ }
+}

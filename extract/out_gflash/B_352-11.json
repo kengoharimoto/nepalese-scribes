@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "keśavasāṃvatsarātmaja",
+   "name": "Keśava",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "sāṃvatsara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "keśavasāṃvatsarātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gaṇeśadaivajña",
+   "name": "Gaṇeśa",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "keśavasāṃvatsarātmajagaṇeśadaivajñaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vedasarma",
+   "name": "Vedaśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vidvas"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vedasarmaviduṣā likhite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "keśavasāṃvatsarātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "tarkavāṇakubhṛdiṃdusaṃmite śālivāhanaśake kuje śive ... śukramāsi",
+  "era": "ŚS",
+  "year": "1756",
+  "month": "śukra",
+  "paksa": "",
+  "tithi": "śiva",
+  "weekday": "kuja",
+  "nakshatra_yoga": "",
+  "ce_approx": "1834"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "satphalalabdhyai",
+ "notes": "The chronogram tarkavāṇakubhṛdindu gives ŚS 1756 (tarka=6, vāṇa=5, kubhṛt=7, indu=1). The catalogue erroneously entered ŚS 1756 in the place field.",
+ "_meta": {
+  "reel": "B 352/11",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 796,
+  "out_tok": 1534
+ }
+}

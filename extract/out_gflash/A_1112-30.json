@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhairavarājaśarmanaḥ",
+   "name": "Bhairavarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhairavarājaśarmanaḥ (!) likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The genitive śrībhairavarājaśarmanaḥ is used as the agent with likhitam.",
+ "_meta": {
+  "reel": "A 1112/30",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 706,
+  "out_tok": 871
+ }
+}

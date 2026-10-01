@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. Notes expanded to cover the unclear 'rṣa la yā m', the possible second date notation 'māse 1 tithau 7', and why 'suvedī' is treated as a surname or caste name."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "umākānta suvedī",
+   "name": "Umākānta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "suvedī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ umākānta suvedī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1775 māse 1 tithau 7 vaiśākha śu 3 vāre 4",
+  "era": "ŚS",
+  "year": "1775",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "budhavāra (vāre 4)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1853"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date has two parts. 'māse 1 tithau 7' may be a separate solar-month and day notation, or a garbled reading. It sits beside the lunar date Vaiśākha śukla 3, Wednesday (vāre 4). ŚS 1775 + 78 gives about April–May 1853 CE, which matches the catalogue. The string 'rṣa la yā m' before the date is unclear; it may be corrupt, and no person can be read from it. 'Suvedī' (Subedī) is a Nepali Brahmin surname, so it goes under titles. 'śumbh' should be read as śubham. Vyāsa(muni), named as the speaker of the text, is a legendary sage and is left out.",
+ "_meta": {
+  "reel": "A 1390/3",
+  "model": "opus",
+  "cost_usd": 0.071078,
+  "secs": 14.6
+ }
+}

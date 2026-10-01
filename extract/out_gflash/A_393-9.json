@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "lokanātha(9)sarmaṇā",
+   "name": "Lokanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "campākoṭākhyagrāme vāgmatyāḥ samīpe",
+   "evidence": "lokanātha(9)sarmaṇā kovidālpena liṣitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śake 1767 vaiśāṣe māsi aṣṭamyāṃ tithau śravaṇanakṣatre śubhe yoge bhaumāvāre",
+  "era": "ŚS",
+  "year": "1767",
+  "month": "vaiśāṣa",
+  "paksa": "",
+  "tithi": "aṣṭamī",
+  "weekday": "bhaumavāra",
+  "nakshatra_yoga": "śravaṇanakṣatra, śubha yoga",
+  "ce_approx": "1845"
+ },
+ "place": {
+  "as_written": "garuḍanārāyaṇād uttarasyāṃ diśi campākoṭākhya grāme vāgmatyāḥ samīpe",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe states he copied it at 16 years of age (ṣoḍaśavarṣeṇa) by the order of his guru (hitājñayā śrīghṛṇino gurur vai). The metrical verse also seems to corruptly spell his name: 'lulokanyugāthaḥ samāli(4)khadvai'.",
+ "_meta": {
+  "reel": "A 393/9",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 953,
+  "out_tok": 1666
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśvanāthena",
+   "name": "Viśvanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ vyadhimuktake (!) | viśvanāthena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "jyeṣṭasya (!) ṣaṣtyāṃvāreṃśumālinaḥ",
+  "era": "none",
+  "year": "",
+  "month": "Jyeṣṭha",
+  "paksa": "",
+  "tithi": "6",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "vyadhimuktake (!) (likely corrupt for vyādhimuktaye, for relief from disease)",
+ "notes": "The catalogue records 'Harikṛṣṇa jośī' as donor and 'somavāra' as weekday, neither of which appears in the quoted colophon text (the colophon gives 'vāreṃśumālinaḥ', i.e., Ravivāra / Sunday, and no donor is mentioned).",
+ "_meta": {
+  "reel": "A 338/27",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 760,
+  "out_tok": 1144
+ }
+}

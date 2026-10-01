@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "anantena",
+   "name": "Ananta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "anantena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 480 śrāvana(!) śukladvitīyāyātithau(!)",
+  "era": "NS",
+  "year": "480",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1360"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1156/12a",
+  "model": "gemini-flash-latest",
+  "secs": 2.8,
+  "in_tok": 717,
+  "out_tok": 604
+ }
+}

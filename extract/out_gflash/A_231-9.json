@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvidvadupādhyāyaśukadevapaṇḍita",
+   "name": "Śukadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "vidvat",
+    "upādhyāya",
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvidvadupādhyāyaśukadevapaṇḍitaracitas",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 231/9",
+  "model": "gemini-flash-latest",
+  "secs": 2.5,
+  "in_tok": 661,
+  "out_tok": 429
+ }
+}

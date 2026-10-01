@@ -1,0 +1,60 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "raghunāthabhaṭṭa",
+   "name": "Raghunātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "raghunāthabhaṭṭaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "daivajñaraṅganāthāgastyagotrajadīkṣitasya",
+   "name": "Raṅganātha",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "daivajña",
+    "dīkṣita"
+   ],
+   "affiliation": "Agastya gotra",
+   "residence": "",
+   "evidence": "pustakaṃ daivajñaraṅganāthāgastyagotrajadīkṣitasyeti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1682 samaye māghavadī 13",
+  "era": "VS",
+  "year": "1682",
+  "month": "māgha",
+  "paksa": "vadī",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1626"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The ownership statement appears in brackets indicating an additional or marginal scribal note.",
+ "_meta": {
+  "reel": "A 419/3",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 729,
+  "out_tok": 1032
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons or colophon date are recorded; the text contains only chapter/section colophons and subsequent ritual instructions in Newari.",
+ "_meta": {
+  "reel": "A 1240/23",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 830,
+  "out_tok": 705
+ }
+}

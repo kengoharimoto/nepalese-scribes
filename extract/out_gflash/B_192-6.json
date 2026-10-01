@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīpūrṇānaṃdaparamahaṃsena",
+   "name": "Pūrṇānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramahaṃsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpūrṇānaṃdaparamahaṃsena viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "viśvānaṃdo",
+   "name": "Viśvānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viśvānaṃdoʼ likhaj",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śailāgnighanage śāke taiṣe māse site dale || saptamyāṃ ravivare",
+  "era": "ŚS",
+  "year": "śailāgnighanage",
+  "month": "taiṣa",
+  "paksa": "śukla",
+  "tithi": "saptamī",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram in the year ('śailāgnighanage śāke') is chronologically ambiguous without further context (catalogue reads 'Śailāgnidhanage').",
+ "_meta": {
+  "reel": "B 192/6",
+  "model": "gemini-flash-latest",
+  "secs": 8.4,
+  "in_tok": 748,
+  "out_tok": 1606
+ }
+}

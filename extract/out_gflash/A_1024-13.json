@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "siddhapaṃḍita kukkoka",
+   "name": "Kukkoka",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "siddhapaṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "siddhapaṃḍita kukkokaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jagannātha śarmma",
+   "name": "Jagannātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitamidam, śalhyā nārājadhānyāṃ ḍāḍāgrāme svastiśrī --------------------------------- sadāsamara vijayināmājñayā śrī jagannātha śarmma",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1729 śrī vikramārka saṃvati 1864 kārttike kṛṣṇe pratipadatithau śanivāsare",
+  "era": "ŚS",
+  "year": "1729 / 1864",
+  "month": "kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "pratipad",
+  "weekday": "śanivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1807"
+ },
+ "place": {
+  "as_written": "śalhyā nārājadhānyāṃ ḍāḍāgrāme",
+  "normalized": "Salyan"
+ },
+ "purpose": "",
+ "notes": "The manuscript was copied by order of a ruler/patron whose name is lost in the lacuna (svastiśrī --------------------------------- sadāsamara vijayināmājñayā). Both Śaka era 1729 and Vikrama Saṃvat 1864 are given.",
+ "_meta": {
+  "reel": "A 1024/13",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 829,
+  "out_tok": 1528
+ }
+}

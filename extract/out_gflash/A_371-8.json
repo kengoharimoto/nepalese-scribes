@@ -1,0 +1,78 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīpīyūkhavarṣa (!) paṃḍita śrījayadeva",
+   "name": "Jayadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "pīyūkhavarṣa",
+    "paṃḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpīyūkhavarṣa (!) paṃḍita śrījayadevaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "haṃsarājasya",
+   "name": "Haṃsarāja",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "haṃsarājasya śiṣyeṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "keśavena",
+   "name": "Keśava",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "keśavena ... likhi pustaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "haṃsarājasya śiṣyeṇa keśavena"
+  }
+ ],
+ "date": {
+  "as_written": "abde naṃdadvimunyeke",
+  "era": "unspecified",
+  "year": "1729",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1807"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram naṃda (9) dvi (2) muni (7) eke (1) yields 1729, which the catalogue identifies as Śaka 1729 (1807 CE). The catalogue's donor 'śrīkṛṣṇajośī rāmanagaravāle' is not mentioned in the transcribed colophon.",
+ "_meta": {
+  "reel": "A 371/8",
+  "model": "gemini-flash-latest",
+  "secs": 7.7,
+  "in_tok": 775,
+  "out_tok": 2054
+ }
+}

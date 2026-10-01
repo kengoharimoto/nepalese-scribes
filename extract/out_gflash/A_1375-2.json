@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "caṃdra seṣara upādhyāṣadāl",
+   "name": "Candraśekhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "īruṃṭāragrāma",
+   "evidence": "caṃdra seṣara upādhyāṣadāl hastākṣara liṣitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsāke (!) 1800 śrīsamvat 1935 sāla phālguṇamāse kṛṣṇapakṣa ekādasi (!) tithau somavāsare 2",
+  "era": "ŚS",
+  "year": "1800 / VS 1935",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī",
+  "weekday": "somavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1879"
+ },
+ "place": {
+  "as_written": "māī nikateḥ (!) īruṃṭāragrāme",
+  "normalized": "Iruṃṭāra"
+ },
+ "purpose": "",
+ "notes": "Both Śaka 1800 and Vikrama Saṃvat 1935 are recorded. 'upādhyāṣadāl' is a corrupt writing for upādhyāya.",
+ "_meta": {
+  "reel": "A 1375/2",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 799,
+  "out_tok": 1220
+ }
+}

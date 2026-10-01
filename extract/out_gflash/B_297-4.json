@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkṛṣṇarāyeaṇa",
+   "name": "Kṛṣṇarāya",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkṛṣṇarāyeaṇa ādikāṇḍaṃ saṃpūrṇṇaṃ likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 804 naṣṭaśrāvaṇamāse śuklapakṣe caturthyāṃ tithau ādityavāre",
+  "era": "NS",
+  "year": "804",
+  "month": "naṣṭaśrāvaṇa",
+  "paksa": "śuklapakṣa",
+  "tithi": "caturthī",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1684"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name is written with a scribal error as śrīkṛṣṇarāyeaṇa (for śrīkṛṣṇarāyeṇa). Naṣṭaśrāvaṇa indicates an intercalary month of Śrāvaṇa.",
+ "_meta": {
+  "reel": "B 297/4",
+  "model": "gemini-flash-latest",
+  "secs": 10.7,
+  "in_tok": 824,
+  "out_tok": 2601
+ }
+}

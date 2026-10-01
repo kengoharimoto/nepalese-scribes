@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "durgādattena",
+   "name": "Durgādatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ durgādattena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1913 pauṣakṛ 10 ravau",
+  "era": "VS",
+  "year": "1913",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "ravau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1856"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records the date as VS 1813, but the colophon text reads saṃvat 1913.",
+ "_meta": {
+  "reel": "A 432/6",
+  "model": "gemini-flash-latest",
+  "secs": 3.0,
+  "in_tok": 706,
+  "out_tok": 737
+ }
+}

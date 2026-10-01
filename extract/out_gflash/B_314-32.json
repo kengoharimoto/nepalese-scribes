@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "[[paṃ]] tulasīdāsena",
+   "name": "Tulasīdāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paṃḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ (!) [[paṃ]] tulasīdāsena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1707 (2) varṣe phālgunasudi 1 som〈〈e〉〉avāsare",
+  "era": "VS",
+  "year": "1707",
+  "month": "phālguna",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "somavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1651"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Hanūmat, mentioned as the traditional composer of the text (śrīhanūmadviracitā), has been omitted as a mythical figure/deity.",
+ "_meta": {
+  "reel": "B 314/32",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 790,
+  "out_tok": 1038
+ }
+}

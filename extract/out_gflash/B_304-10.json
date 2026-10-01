@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīviṣṇubhaṭṭācārya",
+   "name": "Viṣṇu",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīviṣṇubhaṭṭācāryaputra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvatsalāṃchanabhaṭṭācārya",
+   "name": "Vatsalāñchana",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvatsalāṃchanabhaṭṭācāryakṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīviṣṇubhaṭṭācāryaputra śrīvatsalāṃchanabhaṭṭācārya"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1695 samaye śrāvana (!) sudi 14 somavāsare",
+  "era": "VS",
+  "year": "1695",
+  "month": "śrāvaṇa",
+  "paksa": "sudi",
+  "tithi": "14",
+  "weekday": "somavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1638"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Colophon of chapter 5 (pañcama ullāsa) of Tattvabodhinī by Vatsalāñchana Bhaṭṭācārya, son of Viṣṇu Bhaṭṭācārya.",
+ "_meta": {
+  "reel": "B 304/10",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 788,
+  "out_tok": 1366
+ }
+}

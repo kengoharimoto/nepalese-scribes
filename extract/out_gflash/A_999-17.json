@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ritu upādhyā",
+   "name": "Ritu",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya",
+    "brāhmaṇa"
+   ],
+   "affiliation": "ātreyagotra",
+   "residence": "temvebhūmaugrāme",
+   "evidence": "ritu upādhyābrāhmaṇahastaliṣitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1804 śrī samvat 1939 sāla māse 9 tithau 8 vāre 2 nakṣetre 13",
+  "era": "VS",
+  "year": "1939",
+  "month": "9",
+  "paksa": "",
+  "tithi": "8",
+  "weekday": "2",
+  "nakshatra_yoga": "nakṣetre 13",
+  "ce_approx": "1882"
+ },
+ "place": {
+  "as_written": "temvebhūmaugrāme",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śāke 1804 and Vikrama Saṃvat 1939 are given, corresponding to 1882 CE.",
+ "_meta": {
+  "reel": "A 999/17",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 775,
+  "out_tok": 855
+ }
+}

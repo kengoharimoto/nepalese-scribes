@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśvanātha",
+   "name": "Viśvanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viśvanāthaviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "daivajñavaryyadivākara",
+   "name": "Divākara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajñavarya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "divākarātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "divākarātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 829 vaiśākhaśuklanavamī śukravāra",
+  "era": "NS",
+  "year": "829",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "navamī",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1709"
+ },
+ "place": {
+  "as_written": "bhaktapaṭṭana saṃthachesa",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "śrī3sveṣṭadevatā prītir astu",
+ "notes": "The scribe is anonymous; the copying took place at Saṃthache in Bhaktapur.",
+ "_meta": {
+  "reel": "A 1063/15",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 759,
+  "out_tok": 1634
+ }
+}

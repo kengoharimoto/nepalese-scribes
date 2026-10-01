@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "saduśrīmaṇḍanaśarmmaṇena",
+   "name": "Maṇḍanaśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sadu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "saduśrīmaṇḍanaśarmmaṇena (!) likhitam idaṃ pustakam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "la saṃ 416 āṣāḍha vadi 13 budhe",
+  "era": "LS",
+  "year": "416",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1535"
+ },
+ "place": {
+  "as_written": "parihālagrāme",
+  "normalized": "Parihālagrāma"
+ },
+ "purpose": "",
+ "notes": "Prefix 'sadu' before the scribe's name may represent 'sādhu'.",
+ "_meta": {
+  "reel": "A 26/2",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 802,
+  "out_tok": 1072
+ }
+}

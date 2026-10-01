@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhavanātha",
+   "name": "Bhavanātha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāya śrībhavanāthātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śaṃkaramiśra",
+   "name": "Śaṅkaramiśra",
+   "roles": [
+    "author",
+    "commentator"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāya śaṃkaramiśra kṛtātmatatva viveka kalpalatā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "ḍoḍarānandena",
+   "name": "Ḍoḍarānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ḍoḍarānandena likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrībhavanāthātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsamvat 1955 miti bhādra va kṛṣṇa 30 roja 5",
+  "era": "VS",
+  "year": "1955",
+  "month": "bhādra",
+  "paksa": "kṛṣṇa",
+  "tithi": "30",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1898"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records the scribe as Ṭoḍarānanda, but the colophon text reads ḍoḍarānandena.",
+ "_meta": {
+  "reel": "B 45/7",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 740,
+  "out_tok": 1416
+ }
+}

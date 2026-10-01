@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "merit (idaṃ sarvvaṃ likhitvā yat puṇyam āptaṃ mayā)",
+ "notes": "The scribe refers to himself only in the first person (mayā) without giving his name, date, or place.",
+ "_meta": {
+  "reel": "A 1171/12",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 820,
+  "out_tok": 685
+ }
+}

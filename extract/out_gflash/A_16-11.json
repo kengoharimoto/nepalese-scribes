@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāyasthahehayasiṃhasya",
+   "name": "Hehayasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhita kāyasthahehayasiṃhasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 692 ākhāḍhaśuddhi 9 bṛhaspativāsare",
+  "era": "NS",
+  "year": "692",
+  "month": "ākhāḍha",
+  "paksa": "śuddhi",
+  "tithi": "9",
+  "weekday": "bṛhaspativāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1572"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 16/11",
+  "model": "gemini-flash-latest",
+  "secs": 2.9,
+  "in_tok": 734,
+  "out_tok": 624
+ }
+}

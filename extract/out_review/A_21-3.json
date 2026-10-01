@@ -1,0 +1,34 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Month normalized to 'Āṣāḍha (dvir-, i.e. second/intercalary Āṣāḍha)' rather than the raw form",
+   "Notes expanded: intercalary Āṣāḍha in NS 663, corrupt 'āgenyapurāṇe' for Āgneyapurāṇa, uncertain nakṣatra reading"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 663 dvirāṣāḍhaśuklasaptamyāṃ hastājve(?)",
+  "era": "NS",
+  "year": "663",
+  "month": "Āṣāḍha (dvir-, second/intercalary)",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "",
+  "nakshatra_yoga": "hastājve(?) (probably Hasta nakṣatra)",
+  "ce_approx": "1543"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The colophon names no persons. The era is not stated, but the Newari script and the catalogue's NS 663 make Nepāla Saṃvat near-certain: 663 + 880 = c. 1543 CE. 'dvirāṣāḍha' means the second, intercalary (adhika) Āṣāḍha. 'hastājve(?)' is uncertain. It probably stands for the Hasta nakṣatra (e.g. hastarkṣe); a split hastā + jye(ṣṭhā?) is less likely. 'āgenyapurāṇe' is a corruption of āgneyapurāṇe (Agnipurāṇa). The text is the Rāmokta nīti/rājadharma section. 'lekhi' records only that the copy was written, without naming the scribe.",
+ "_meta": {
+  "reel": "A 21/3",
+  "model": "opus",
+  "cost_usd": 0.063266,
+  "secs": 12.6
+ }
+}

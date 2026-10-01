@@ -1,0 +1,87 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p3: removed 'commissioner' and 'reader'. The colophon has no likhāpita-type verb; 'paṭhanārthaṃ' means only that the copy was made for his reading, so the role is now 'beneficiary'.",
+   "p3: confidence lowered to medium. 'lālārāma kṛṣṇadāsa' could be one person (Lālā Rāmakṛṣṇadāsa) or two (Lālārāma and Kṛṣṇadāsa).",
+   "p1: confidence lowered to medium. 'suṃjāditya' may be a corruption of Muñjāditya.",
+   "p2: confidence set to medium for the scribe role. The role is inferred from the name standing after paṭhanārthaṃ; there is no verb such as likhitam.",
+   "Purpose made specific, and notes expanded on the place and the 'dvāra' phrasing."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "suṃjādityena",
+   "name": "Suñjāditya",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "suṃjādityena viracitaṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jaikaraṇadāsa",
+   "name": "Jaikaraṇadāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṭhanārthaṃ jaikaraṇadāsa",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "lālārāma kṛṣṇadāsa kṣatriyā",
+   "name": "Rāmakṛṣṇadāsa",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [
+    "lālā",
+    "kṣatriya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lālārāma kṛṣṇadāsa kṣatriyādvāra paṭhanārthaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "lālārāma kṛṣṇadāsa kṣatriyādvāra paṭhanārthaṃ jaikaraṇadāsa"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 18||52|| māśotamāse(!) aśvana(!) māse kṛṣṇapakṣe caturdaśyāṃvāra ādityām",
+  "era": "VS",
+  "year": "1852",
+  "month": "Āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturdaśī",
+  "weekday": "ādityavāra (Sunday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1795"
+ },
+ "place": {
+  "as_written": "jaikaradāśaśadṛśraṇapuramadhye",
+  "normalized": "Saharanpur"
+ },
+ "purpose": "paṭhanārtham: for the reading of Lālā Rāmakṛṣṇadāsa, kṣatriya",
+ "notes": "The place string 'jaikaradāśaśadṛśraṇapuramadhye' is corrupt. It probably reads as the scribe's name (jaikaradāsa) followed by 'śāharaṇapuramadhye', i.e. Saharanpur, as the catalogue says. 'lālārāma kṛṣṇadāsa' can be read as Lālā Rāmakṛṣṇadāsa (lālā being an honorific), taken here, or as two persons, Lālārāma and Kṛṣṇadāsa. 'kṣatriyādvāra' may be a Hindi-influenced 'kṣatriya dvārā', meaning 'by', but in context it is read with paṭhanārthaṃ ('for the reading of'). The author's name 'suṃjāditya' may be a corruption of Muñjāditya. 'māśotamāse' = māsottame; 'aśvana' = Āśvina. The colophon has only one era, VS 1852, which gives c. 1795 CE (Āśvina kṛṣṇa 14, Sunday).",
+ "_meta": {
+  "reel": "A 1362/12",
+  "model": "opus",
+  "cost_usd": 0.10055800000000001,
+  "secs": 24.0
+ }
+}

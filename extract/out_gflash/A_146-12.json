@@ -1,0 +1,68 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadrāja[[guru]]hemarājavidvadvareṇa",
+   "name": "Hemarāja",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "rājaguru",
+    "vidvadvarya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svakīyabhāratībhavanārthaṃ śrīmadrāja[[guru]]hemarājavidvadvareṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "pūrṇānandaśarmadvārā",
+   "name": "Pūrṇānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pūrṇānandaśarmadvārā likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "svakīyabhāratībhavanārthaṃ śrīmadrāja[[guru]]hemarājavidvadvareṇa pūrṇānandaśarmadvārā likhitam"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 315 vaiśākhakṛṣṇa ekādaśyām",
+  "era": "NS",
+  "year": "315",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1195"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svakīyabhāratībhavanārthaṃ",
+ "notes": "The date Saṃvat 315 Vaiśākha kṛṣṇa 11 belongs to the older palm-leaf manuscript (prācīnatāḍapatrapustaka) from which this modern copy was made for the Bhāratī Bhavana collection of Rājaguru Hemarāja Śarmā.",
+ "_meta": {
+  "reel": "A 146/12",
+  "model": "gemini-flash-latest",
+  "secs": 9.1,
+  "in_tok": 800,
+  "out_tok": 1858
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī 5 jayārjunadevasya",
+   "name": "Jayārjunadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "lalitāpurīnāmadhyeye nagare śrīmāṇigalake",
+   "evidence": "paramabhaṭṭāraka śrī 5 jayārjunadevasya vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rāmadattena",
+   "name": "Rāmadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "śrīcitramahārā",
+   "evidence": "rāmadattena svahastena likhitam iti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīsarvajñarājopādhyāyo",
+   "name": "Sarvajña",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "rājopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "vakanihma",
+   "evidence": "śrīsarvajñarājopādhyāyo likhad",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrī 5 jayārjunadevasya vijayarājye ... rāmadattena svahastena likhitam"
+  }
+ ],
+ "date": {
+  "as_written": "saṃ 968 mārgakṛ 8 pūphānaº viº yoº maṃgalavāsare",
+  "era": "NS",
+  "year": "968",
+  "month": "mārga",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "maṅgalavāra",
+  "nakshatra_yoga": "pūrvaphālgunī nakṣatra, vi[ṣkambha] yoga",
+  "ce_approx": "1847"
+ },
+ "place": {
+  "as_written": "vakanihma",
+  "normalized": ""
+ },
+ "purpose": "satvārthahetunā",
+ "notes": "The manuscript contains the colophon of its archetype dated NS 496 mārgaśira kṛṣṇa 8 ādityavāra during the reign of Jayārjunadeva, written by Rāmadatta (a resident of Citramahāra/Citravihāra in Lalitapaṭṭana/Māṇigala), followed by the present copyist's colophon dated NS 968 mārga kṛṣṇa 8 maṅgalavāra by Sarvajña Rājopādhyāya at Vakanihma.",
+ "_meta": {
+  "reel": "A 114/2",
+  "model": "gemini-flash-latest",
+  "secs": 7.7,
+  "in_tok": 985,
+  "out_tok": 2054
+ }
+}

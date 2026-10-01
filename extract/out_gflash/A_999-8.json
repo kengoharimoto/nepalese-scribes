@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "prabhunāthaśarmaṇaḥ",
+   "name": "Prabhunātha",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ prabhunāthaśarmaṇaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "divākara",
+   "name": "Divākara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajñavarya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vajñavaryadivākarātma",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1861 śāke 1726 asāḍha māse śubhe śuklapakṣe tithau 13 trayodasyāṃ bhṛguvāsare",
+  "era": "VS",
+  "year": "1861",
+  "month": "Āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "13 trayodaśī",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1804"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives both VS 1861 and ŚS 1726 (corresponding to 1804 CE). Divākara is named in the compound [daiva]jñavaryadivākarātma[ja]...viracite as the father of the author. The note of ownership by Prabhunātha Śarman was added later at the end of the colophon.",
+ "_meta": {
+  "reel": "A 999/8",
+  "model": "gemini-flash-latest",
+  "secs": 12.4,
+  "in_tok": 830,
+  "out_tok": 2925
+ }
+}

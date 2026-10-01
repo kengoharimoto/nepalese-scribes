@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmavarmaṇaḥ",
+   "name": "Rāmavarman",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "himativarmaṇaḥ putrasya śrīrāmavarmaṇaḥ kṛtāvadhyātmarāmāyaṇasetau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "himativarmaṇaḥ",
+   "name": "Himativarman",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "himativarmaṇaḥ putrasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "himativarmaṇaḥ putrasya śrīrāmavarmaṇaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat || 18 9 ||(!) śāke || 17 || 75 || rattākṣanāma || ā. | tṛ. |",
+  "era": "ŚS",
+  "year": "1775",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "tṛtīyā",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1853"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives both a corrupt Saṃvat year (18 9) and Śāke 1775, along with the saṃvatsara (Raktākṣa) and 'ā. tṛ.' (Ādityavāra, tṛtīyā). Rāmavarman is the commentator of the Adhyātmarāmāyaṇasetu, son of Himativarman. No scribe is explicitly named.",
+ "_meta": {
+  "reel": "B 291/6",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 875,
+  "out_tok": 1267
+ }
+}

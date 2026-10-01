@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkulānanda jaineneti",
+   "name": "Kulānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jaina"
+   ],
+   "affiliation": "",
+   "residence": "lalitāpurīya svarṇadhāṃtika",
+   "evidence": "likhitamidaṃ pustakaṃ lalitāpurīya svarṇadhāṃtika śrīmahāvuddhopāsaka śrīsundarānasyātmaja śrīkulānanda jaineneti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīsundarānasya",
+   "name": "Sundarāna",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mahābuddhōpāsaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahāvuddhopāsaka śrīsundarānasyātmaja",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīsundarānasyātmaja śrīkulānanda"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1892 ghaṭasthāpanadine",
+  "era": "VS",
+  "year": "1892",
+  "month": "Āśvina",
+  "paksa": "śukla",
+  "tithi": "pratipad",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1835"
+ },
+ "place": {
+  "as_written": "lalitāpurīya svarṇadhāṃtika",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "ghaṭasthāpanadina corresponds to Āśvina śukla pratipad. Sundarāna might be an error for Sundarānanda.",
+ "_meta": {
+  "reel": "B 356/9",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 785,
+  "out_tok": 1422
+ }
+}

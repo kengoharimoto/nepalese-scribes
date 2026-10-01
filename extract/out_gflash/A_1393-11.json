@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kavi naṃdadāsa",
+   "name": "Nandadāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kavi naṃdadāsa kṛta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1853 sāla śrāvaṇakrṣṇa tṛtīyāyāṃ śukravāsare",
+  "era": "VS",
+  "year": "1853",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "tṛtīyā",
+  "weekday": "śukravāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1796"
+ },
+ "place": {
+  "as_written": "mokāma kāṃtipura rājadhānī",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1393/11",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 725,
+  "out_tok": 679
+ }
+}

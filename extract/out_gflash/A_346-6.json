@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayaraṇajinmalladevamahārājādhirāja",
+   "name": "Jayaraṇajinmalladeva",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmannepālamahīṇḍalā(!)khaṇḍalaśrśrījayaraṇajinmalladevamahārājādhirājaviracita",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 865 māghakṛṣṇatṛtīyā hastanakṣatra, śukravāra",
+  "era": "NS",
+  "year": "865",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "tṛtīyā",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "hastanakṣatra",
+  "ce_approx": "1745"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Jayaraṇajinmalla refers to King Raṇajit Malla of Bhaktapur (r. 1722–1769 CE).",
+ "_meta": {
+  "reel": "A 346/6",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 766,
+  "out_tok": 965
+ }
+}

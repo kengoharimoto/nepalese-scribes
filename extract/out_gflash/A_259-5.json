@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "induvarmmaṇā",
+   "name": "Induvarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "Bhaktapaṭṭana",
+   "evidence": "daivajña induvarmmaṇā likhitam idaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1580 māghamāse kṛṣṇapakṣe caturthyāṃ hastanakṣatre śūlayoge bhaumavāsare",
+  "era": "ŚS",
+  "year": "1580",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturthī",
+  "weekday": "bhaumavāsara",
+  "nakshatra_yoga": "hastanakṣatre śūlayoge",
+  "ce_approx": "1659"
+ },
+ "place": {
+  "as_written": "bhaktapaṭṭana",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 259/5",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 833,
+  "out_tok": 1003
+ }
+}

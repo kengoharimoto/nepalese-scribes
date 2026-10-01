@@ -1,0 +1,127 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahārāuttaśrījaitasiṃhadevānāṃ",
+   "name": "Jaitasiṃhadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārāutta",
+    "paramabhaṭṭāraka",
+    "prauḍhapratāpacakravartin"
+   ],
+   "affiliation": "śulaṃkīvaṃśa",
+   "residence": "phaṇapīgumahānagara",
+   "evidence": "mahārāuttaśrījaitasiṃhadevānāṃ vījayarājyaṃ karotiḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kumarasiromaṇi rāuttaśrījīvasīṃhadevānāṃ",
+   "name": "Jīvasiṃhadeva",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "kumāraśiromaṇi",
+    "rāutta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kumarasiromaṇi rāuttaśrījīvasīṃhadevānāṃ tadā ādesaṃ dīyate",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vaṇikasīhanāyaka",
+   "name": "Sīhanāyaka",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "vaṇik",
+    "nāyaka"
+   ],
+   "affiliation": "",
+   "residence": "Tetava",
+   "evidence": "tetavavāstavyavaṇikasīhanāyakasūta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "jayasīhabhārokasya",
+   "name": "Jayasīha",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "bhāro"
+   ],
+   "affiliation": "",
+   "residence": "Tetava",
+   "evidence": "tetavavāstavyavaṇikasīhanāyakasūtajayasīhabhārokasya pustakaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "paṃḍītaśrīdāmodara",
+   "name": "Dāmodara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "Mahārāṣṭra",
+   "evidence": "mahārāṣṭrasaṃ paṃḍītaśrīdāmodara pustaka liṣītam īdaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "sīhanāyakasūtajayasīhabhārokasya"
+  },
+  {
+   "from": "p5",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "mahārāuttaśrījaitasiṃhadevānāṃ vījayarājyaṃ karotiḥ ... paṃḍītaśrīdāmodara pustaka liṣītam īdaṃ"
+  },
+  {
+   "from": "p5",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "jayasīhabhārokasya pustakaṃ ... paṃḍītaśrīdāmodara pustaka liṣītam īdaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "nepālikasaṃvat 455 phālgunaśuklatrayodaśyāṃ budhavāre",
+  "era": "NS",
+  "year": "455",
+  "month": "phālguna",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1335"
+ },
+ "place": {
+  "as_written": "phaṇapīgumahānagare",
+  "normalized": "Pharping"
+ },
+ "purpose": "syārthe praśādaṃ krīyate",
+ "notes": "Jaitasiṃhadeva and Kumāra Jīvasiṃhadeva belong to the Śoḍaṅgī/Śolaṅkī/Śulaṃkī lineage of Pharping. The scribe Dāmodara describes himself as from Mahārāṣṭra (mahārāṣṭrasaṃ[bhava]?).",
+ "_meta": {
+  "reel": "B 23/35",
+  "model": "gemini-flash-latest",
+  "secs": 13.0,
+  "in_tok": 1540,
+  "out_tok": 3199
+ }
+}

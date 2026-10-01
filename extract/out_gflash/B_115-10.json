@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "cakrarāja",
+   "name": "Cakrarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiti (!) daivajña || śubha || cakrarāja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 801 caitra śuklaḥ || saptamī budhavāla (!)",
+  "era": "NS",
+  "year": "801",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "saptamī",
+  "weekday": "budhavāla",
+  "nakshatra_yoga": "",
+  "ce_approx": "1681"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 115/10",
+  "model": "gemini-flash-latest",
+  "secs": 2.9,
+  "in_tok": 709,
+  "out_tok": 573
+ }
+}

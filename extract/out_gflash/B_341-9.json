@@ -1,0 +1,162 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñānaṃta",
+   "name": "Ananta",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñānaṃta suta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "daivajñarāma",
+   "name": "Rāma",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñarāma viracite muhūrttaciṃtāmaṇau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "surajī",
+   "name": "Surajī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paṃḍyā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṃḍyā(!) śrī 5 surajī suta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "kṛṣṇadāsa",
+   "name": "Kṛṣṇadāsa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paṃḍyā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛṣṇadāsa suta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "kuverajī",
+   "name": "Kuvera",
+   "roles": [
+    "beneficiary",
+    "reader"
+   ],
+   "titles": [
+    "paṃḍyā"
+   ],
+   "affiliation": "",
+   "residence": "vālima",
+   "evidence": "paṃḍyā(!) śrī kuverajī vācanārthaṃ vālimamadhye vāstavyaṃ(!)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "vivekaratna",
+   "name": "Vivekaratna",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī vivekaratna celā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "tejaratna",
+   "name": "Tejaratna",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tejaratna likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "daivajñānaṃta suta daivajñarāma"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "surajī suta paṃḍyā śrī 5 kṛṣṇadāsa"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "kṛṣṇadāsa suta paṃḍyā(!) śrī kuverajī"
+  },
+  {
+   "from": "p7",
+   "type": "pupil_of",
+   "to": "p6",
+   "evidence": "śrī vivekaratna celā tejaratna"
+  },
+  {
+   "from": "p7",
+   "type": "wrote_for",
+   "to": "p5",
+   "evidence": "kuverajī vācanārthaṃ ... tejaratna likhitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1716 varṣe asvana(!)māse śuklapakṣe dvitīyā tithau guru vāsare",
+  "era": "VS",
+  "year": "1716",
+  "month": "Āśvina",
+  "paksa": "śuklapakṣa",
+  "tithi": "dvitīyā",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1659"
+ },
+ "place": {
+  "as_written": "mayāpuramadhya",
+  "normalized": ""
+ },
+ "purpose": "vācanārtham",
+ "notes": "Kuvera resides in Vālima (vālimamadhye vāstavyaṃ). The manuscript was copied in Mayāpura (mayāpuramadhya).",
+ "_meta": {
+  "reel": "B 341/9",
+  "model": "gemini-flash-latest",
+  "secs": 8.3,
+  "in_tok": 830,
+  "out_tok": 2403
+ }
+}

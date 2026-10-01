@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmaheśākhya viduṣā",
+   "name": "Maheśa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vidvas"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmaheśākhya viduṣā likhitaṃ pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "rudrāṃbudair mite śāke tapomāsi vasos tithau",
+  "era": "ŚS",
+  "year": "1711",
+  "month": "Māgha",
+  "paksa": "",
+  "tithi": "8",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1789"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'rudrāṃbudaiḥ' yields 1711 (rudra = 11, ambuda = 17). 'tapomāsi' corresponds to the month of Māgha, and 'vasos tithau' to the 8th tithi (aṣṭamī).",
+ "_meta": {
+  "reel": "A 1034/20",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 728,
+  "out_tok": 1042
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmabhaktale",
+   "name": "Rāmabhakta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmabhaktale lekheko",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "52 sāºº vaiºº suºº 9 / 6",
+  "era": "VS",
+  "year": "52",
+  "month": "vaiºº",
+  "paksa": "suºº",
+  "tithi": "9",
+  "weekday": "6",
+  "nakshatra_yoga": "",
+  "ce_approx": "1895"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Nepali colophon note following Sanskrit verses. The abbreviated date 52 sāºº vaiºº suºº 9 / 6 refers to Vikrama Saṃvat [19]52, Vaiśākha śukla 9, weekday 6 (Friday = May 3, 1895 CE).",
+ "_meta": {
+  "reel": "A 1020/6",
+  "model": "gemini-flash-latest",
+  "secs": 6.8,
+  "in_tok": 902,
+  "out_tok": 1462
+ }
+}

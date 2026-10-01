@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "cakrapāṇI",
+   "name": "Cakrapāṇi",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "cakrapāṇI viracito",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 930 kārttikamāse kṛṣṇapakṣe dvitīyā sādhyayoga vṛhaspativāra",
+  "era": "NS",
+  "year": "930",
+  "month": "kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvitīyā",
+  "weekday": "vṛhaspativāra",
+  "nakshatra_yoga": "sādhyayoga",
+  "ce_approx": "1810"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 144/10",
+  "model": "gemini-flash-latest",
+  "secs": 3.0,
+  "in_tok": 726,
+  "out_tok": 629
+ }
+}

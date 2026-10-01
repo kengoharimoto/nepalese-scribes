@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1923 pauṣakṛṣṇasya paṃcamyāṃ budhe",
+  "era": "VS",
+  "year": "1923",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1866"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The names 'rāmakṛṣna harihara gaurīśaṃkara' occurring after 'likhitam śubham' represent divine invocations (pairs of deities: Rāma-Kṛṣṇa, Hari-Hara, Gaurī-Śaṅkara) rather than human scribes or patrons, hence no persons are extracted.",
+ "_meta": {
+  "reel": "B 71/16",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 715,
+  "out_tok": 1295
+ }
+}

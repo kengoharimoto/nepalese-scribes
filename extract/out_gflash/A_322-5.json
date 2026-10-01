@@ -1,0 +1,154 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pāṃḍe ityupanāmaka",
+   "name": "Pāṇḍe",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "cittapāvana",
+   "residence": "",
+   "evidence": "pāṃḍe ityupanāmaka viracitāyāmamaradīpikāyāṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī mukuṃda bhaṭṭātmajaḥ",
+   "name": "Mukunda",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "cittapāvana",
+   "residence": "",
+   "evidence": "śrī mukuṃda bhaṭṭātmajaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrī viśvanāthabhaṭṭāṃ ghrilaghavidhyena",
+   "name": "Viśvanātha",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī viśvanāthabhaṭṭāṃ ghrilaghavidhyena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrī manmahārādhirājapārvata viṣayādhipa śrī trivikramasena",
+   "name": "Trivikramasena",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "pārvataviṣayādhipa"
+   ],
+   "affiliation": "",
+   "residence": "Parvata",
+   "evidence": "śrī manmahārādhirājapārvata viṣayādhipa śrī trivikramasena pramvāśritena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "mamarasiṃhakṛta",
+   "name": "Amarasiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mamarasiṃhakṛta nāmaliṃgānuśāsana",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "revatīramaṇa śarmaṇā",
+   "name": "Revatīramaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "Gokhuragrāma",
+   "evidence": "likhitamidaṃ pustakaṃ rupanārāyaṇātmaja revatīramaṇa śarmaṇā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "rupanārāyaṇātmaja",
+   "name": "Rūpanārāyaṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rupanārāyaṇātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrī mukuṃda bhaṭṭātmajaḥ"
+  },
+  {
+   "from": "p1",
+   "type": "pupil_of",
+   "to": "p3",
+   "evidence": "śrī viśvanāthabhaṭṭāṃ ghrilaghavidhyena"
+  },
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p4",
+   "evidence": "śrī manmahārādhirājapārvata viṣayādhipa śrī trivikramasena pramvāśritena"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p7",
+   "evidence": "rupanārāyaṇātmaja revatīramaṇa śarmaṇā"
+  }
+ ],
+ "date": {
+  "as_written": "śrī śāke 1727 māse 6",
+  "era": "ŚS",
+  "year": "1727",
+  "month": "6",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1805"
+ },
+ "place": {
+  "as_written": "gokhuragrāme",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The commentator's personal name is omitted in the colophon beyond his surname Pāṇḍe, his community (Cittapāvana/Chitpavan), his father Mukunda Bhaṭṭa, and his teacher Viśvanātha Bhaṭṭa (labdhavidyena corruptly written laghavidhyena). King Trivikramasens of Parvata was the patron under whom the commentary was composed.",
+ "_meta": {
+  "reel": "A 322/5",
+  "model": "gemini-flash-latest",
+  "secs": 23.3,
+  "in_tok": 872,
+  "out_tok": 6146
+ }
+}

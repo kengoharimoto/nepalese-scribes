@@ -1,0 +1,143 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Govinda(bhagavatpāda): role 'teacher' changed to 'other'. He is the teacher of the author Śaṅkara, not a teacher connected with this copy. Name normalised to 'Govinda', with 'bhagavatpāda' kept as an honorific title.",
+   "p3 king: the name is read as Amaramalladeva, taking 'amaramanda' as a corruption of 'amaramalla'. Confidence lowered to medium. The residence was removed because Kāṣṭhamaṇḍapa is the place of copying, not a stated residence of the king. The added evidence quotes the king's epithets.",
+   "p4 pradhāna: added relation servant_of p3, since he is the king's pradhāna.",
+   "p5 Mukunda: no 'reader' role added. Mahābhārata recitation at the king's side is his office, not a reading of this copy. This is recorded in notes.",
+   "The purpose field was reworded in English.",
+   "Notes expanded: the king's identification, the corrupt minister's name, and the date check."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgovindabhagavatpādapūjyaśiṣyasya",
+   "name": "Govinda",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "bhagavatpāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgovindabhagavatpādapūjyaśiṣyasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "paramahaṃsaparivrājakācāryaśrīśaṅkarabhagavataḥ",
+   "name": "Śaṅkara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "paramahaṃsa",
+    "parivrājakācārya",
+    "bhagavat"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśaṅkarabhagavataḥ kṛtau bhaga(vadgītā)bhāṣye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "mahārājādhirājaśra(!)śrī-amaramandadevasya",
+   "name": "Amaramalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jyotiṣavaidyakasmṛti-purāṇakāvya-alaṅkārabahuvidhavidyānidhānamahārājādhirājaśra(!)śrī-amaramandadevasya",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "pradhānaśrī..mijana(mobha)sya",
+   "name": "..mijana(mobha)",
+   "roles": [
+    "commissioner",
+    "minister"
+   ],
+   "titles": [
+    "pradhāna"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pradhānaśrī..mijana(mobha)syājñayā",
+   "confidence": "low"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrīmukundapāṭhakaśarmmabhir",
+   "name": "Mukunda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "pāṭhaka",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājñā pārśve mahābhāratapaṭhatā likhitaṃ śrīmukundapāṭhakaśarmmabhir",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śrīgovindabhagavatpādapūjyaśiṣyasya"
+  },
+  {
+   "from": "p4",
+   "type": "servant_of",
+   "to": "p3",
+   "evidence": "śrī-amaramandadevasya pradhānaśrī..mijana(mobha)sya"
+  },
+  {
+   "from": "p5",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "pradhānaśrī..mijana(mobha)syājñayā ... likhitaṃ"
+  },
+  {
+   "from": "p5",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "mahārājādhirājaśra(!)śrī-amaramandadevasya ... likhitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "la saṃ 422 bhādraśudi 7 śanau",
+  "era": "LS",
+  "year": "422",
+  "month": "bhādra",
+  "paksa": "śudi",
+  "tithi": "7",
+  "weekday": "śanau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1541"
+ },
+ "place": {
+  "as_written": "nepāladeśānta(re) kāṣṭhamaṇḍape nagare",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "copied by order (ājñayā) of the pradhāna ..mijana(mobha)",
+ "notes": "The king's name 'amaramandadeva' is most likely a corruption of Amaramalladeva, the Malla king of Kathmandu (c. 1529–1560 CE). This fits LS 422 = c. 1541 CE and copying at Kāṣṭhamaṇḍapa. The long compound 'a….(maṇḍaṇa)grāma…vidyānidhāna' is a string of epithets for the king. The pradhāna's name is badly damaged ('..mijana(mobha)'). The reading is uncertain and is not normalised. Mukunda Pāṭhaka is described as 'reciting the Mahābhārata at the king's side' (rājñā pārśve mahābhāratapaṭhatā), i.e. a court reciter. That is his office, not a reader role for this copy. The colophon gives only the Lakṣmaṇasena era, LS 422 (+1119 = 1541 CE), so there is no second era to conflict with it. Govinda is listed only to identify the commentator Śaṅkara. Script: Maithili / Newari.",
+ "_meta": {
+  "reel": "A 34/9",
+  "model": "opus",
+  "cost_usd": 0.12003,
+  "secs": 28.6
+ }
+}

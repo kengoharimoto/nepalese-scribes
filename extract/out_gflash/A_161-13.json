@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdhanamanabhaṭṭena",
+   "name": "Dhanamana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdhanamanabhaṭṭena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 874 miti māgha (6) śu 13 etasmin divase",
+  "era": "NS",
+  "year": "874",
+  "month": "māgha",
+  "paksa": "śu",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1754"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 161/13",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 744,
+  "out_tok": 596
+ }
+}

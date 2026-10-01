@@ -1,0 +1,100 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Sodāsa: confidence lowered to medium; the name may be a corrupt or shortened form (e.g. of Keśodāsa).",
+   "p2 Nainasukha: added a note that 'paṃḍitavaidyaka' could describe the father rather than the son; titles kept on Nainasukha with medium confidence.",
+   "Notes: added the date check (NS 902 Āśvina falls in 1782 CE) and recorded the conflicting scribe-name readings."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sodāsa",
+   "name": "Sodāsa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sodāsaputra",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nainasuṣa",
+   "name": "Nainasukha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paṇḍita",
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṃḍitavaidyaka sodāsaputra nainasuṣaviracite vaidyamanotsave",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "ānaṃda",
+   "name": "Ānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ānaṃdaviracite kokamaṃjarī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "dhaṃju",
+   "name": "Dhaṃju",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dhaṃju vaidyana coyā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "sodāsaputra"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 902 āśviṇa vadi 13 sukravāraṣu",
+  "era": "NS",
+  "year": "902",
+  "month": "āśvina",
+  "paksa": "vadi (kṛṣṇa)",
+  "tithi": "13",
+  "weekday": "śukravāra (Friday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1782"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon on fol. 51v ends the 7th samuddeśa of the Vaidyamanotsava ascribed to Nainasukha, son of Sodāsa. The colophon on fol. 93r ends the Kokamañjarī, ascribed to Ānanda. Two points are uncertain. First, the father's name 'sodāsa' may be corrupt; it could be a short form of something like Keśodāsa. Second, 'paṃḍitavaidyaka' could describe either the father or the son. 'thāsā phocoya sidhuko juro' is Newari for 'the copying is finished' (roughly 'thva saphū coyā siddhayakā julo'). It is not a place name. The catalogue gives the scribe as 'Dhuṃju', but the quoted colophon reads 'dhaṃju'; the colophon reading is kept here. The date checks out: NS 902 + 880 = 1781/82, and Āśvina at the end of the Nepal Era year falls in about September–October 1782. The weekday was not verified.",
+ "_meta": {
+  "reel": "A 212/10",
+  "model": "opus",
+  "cost_usd": 0.090922,
+  "secs": 20.4
+ }
+}

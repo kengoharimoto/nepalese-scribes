@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "manitthāḥ",
+   "name": "Maṇittha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "manitthāḥ varṣaphalagraṃthaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1857 || || śake",
+  "era": "VS",
+  "year": "1857",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1800"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The Śaka year mentioned in the catalogue (ŚS 1722) is not written out in the quoted colophon fragment, which ends at 'śake'.",
+ "_meta": {
+  "reel": "A 419/5",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 683,
+  "out_tok": 844
+ }
+}

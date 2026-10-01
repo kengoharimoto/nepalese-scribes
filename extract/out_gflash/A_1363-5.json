@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīyādavendrabudharājendraśāvadhānabhaṭṭācārya",
+   "name": "Yādavendra",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "budharājendra",
+    "sāvadhāna",
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīyādavendrabudharājendraśāvadhānabhaṭṭācāryaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sudhānandī",
+   "name": "Sudhānandin",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sudhānandī likhad",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vidyākāra",
+   "name": "Vidyākāra",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vidyākāra śāsanāt",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "sudhānandī likhad [...] vidyākāra śāsanāt"
+  }
+ ],
+ "date": {
+  "as_written": "digaṃkamita naipāle caitre rākā tithau kuje",
+  "era": "NS",
+  "year": "910",
+  "month": "Caitra",
+  "paksa": "śukla",
+  "tithi": "rākā",
+  "weekday": "kuje",
+  "nakshatra_yoga": "",
+  "ce_approx": "1790"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram digaṅka-mita equates to 910 (dik = 10, aṅka = 9) in Nepal Samvat. 'rākā' refers to the full-moon day (śuklapakṣa 15).",
+ "_meta": {
+  "reel": "A 1363/5",
+  "model": "gemini-flash-latest",
+  "secs": 8.9,
+  "in_tok": 792,
+  "out_tok": 1917
+ }
+}

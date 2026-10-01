@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ojhopanāma gaṃgāviṣṇu kartrikaḥ",
+   "name": "Gaṅgāviṣṇu",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "ojhā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "hastākṣara ojhopanāma gaṃgāviṣṇu kartrikaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vasuyuge gaja indra ca vatsare ... śavata (!) 1851",
+  "era": "VS",
+  "year": "1851",
+  "month": "iṣa",
+  "paksa": "śukla",
+  "tithi": "8",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1794"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'vasuyuge gaja indra' evaluates to 1848, but the numerical year 'śavata 1851' is added at the end; 'iṣa' refers to Āśvina; 'siteṣṭatithau' likely resolves to sita-aṣṭatithau (śukla 8).",
+ "_meta": {
+  "reel": "B 329/4",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 772,
+  "out_tok": 1240
+ }
+}

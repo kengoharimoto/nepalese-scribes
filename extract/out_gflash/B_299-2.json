@@ -1,0 +1,78 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vālmīkīye",
+   "name": "Vālmīki",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vālmīkīye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīdevaśaṃkaraṇa",
+   "name": "Devaśaṃkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdevaśaṃkaraṇa, laṃkākāṇḍamadhukva, dhunakaḥ cokhyaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "dvijavara śrīyadunandana",
+   "name": "Yadunandana",
+   "roles": [
+    "owner",
+    "beneficiary"
+   ],
+   "titles": [
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvijavara śrīyadunandana juyātaviyādinajuro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "śrīdevaśaṃkaraṇa, laṃkākāṇḍamadhukva, dhunakaḥ cokhyaṃ valānimhadvijavara śrīyadunandana juyātaviyādinajuro"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 812 naṣṭabhādrapadaśuklacaturddeśī somavāra",
+  "era": "NS",
+  "year": "812",
+  "month": "naṣṭabhādrapada",
+  "paksa": "śukla",
+  "tithi": "caturdaśī",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1692"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Naṣṭabhādrapada refers to an intercalary (adhika/mala) Bhādrapada.",
+ "_meta": {
+  "reel": "B 299/2",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 797,
+  "out_tok": 1518
+ }
+}

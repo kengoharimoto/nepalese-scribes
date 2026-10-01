@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kirīṭamālīśarmaṇā",
+   "name": "Kirīṭamālin",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "kāṃtipurī",
+   "evidence": "likhitam idaṃ kirīṭamālīśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1841 māghakṛṣṇadaśamyāṃ tithau budhavāsare",
+  "era": "VS",
+  "year": "1841",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1785"
+ },
+ "place": {
+  "as_written": "mukāma(!)kāṃtipuryāṃ nagare",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "śrīiṣṭadevatā prītir bhavatu",
+ "notes": "",
+ "_meta": {
+  "reel": "A 271/9",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 820,
+  "out_tok": 886
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. The first reading is correct: no persons are named, the era is explicitly Śaka, and 1779 + 78 = 1857 CE.",
+   "Notes expanded to cover the (!) correction to jyeṣṭha, the adhika month and the catalogue's 'SAM' label."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1779 jyeṣṭā(!)dhikaśukle 11 ravivāsare",
+  "era": "ŚS",
+  "year": "1779",
+  "month": "adhikajyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "ravivāsara (Sunday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1857"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue field says 'SAM 1779', but the colophon explicitly says 'śāke 1779'. That is Śaka era, ca. 1857 CE. Read as VS it would be ca. 1722 CE, but nothing in the text supports that. 'jyeṣṭā(!)dhika' stands for jyeṣṭhādhika, i.e. the intercalary (adhika) Jyeṣṭha. I have not checked whether ŚS 1779 actually had an adhika Jyeṣṭha. Checking this, and whether śukla 11 fell on a Sunday, would confirm the era. The colophon names no scribe, patron or place. The text is attributed to the Brahmāṇḍapurāṇa (Śeṣa–Dharaṇī dialogue), which is a textual attribution, not a person.",
+ "_meta": {
+  "reel": "A 1116/24",
+  "model": "opus",
+  "cost_usd": 0.06651,
+  "secs": 12.6
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "muṃjādītye",
+   "name": "Muñjāditya",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī muṃjādītye vīracyate",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sārāna(!) pāḍe(!)",
+   "name": "Sārāna",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "pāḍe"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "līṣītama(!) sārāna(!) pāḍe(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvata(!) aṣāḍha(!) suda(!) paṃcamyāṃ",
+  "era": "unspecified",
+  "year": "",
+  "month": "aṣāḍha",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year numeral is omitted after samvata.",
+ "_meta": {
+  "reel": "B 337/3",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 723,
+  "out_tok": 1098
+ }
+}

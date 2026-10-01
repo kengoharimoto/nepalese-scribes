@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "harivaṃśabhatta",
+   "name": "Harivaṃśabhaṭṭa",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "Drāviḍa",
+   "evidence": "harivaṃśabhattaikacaraṇaśaraṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gopālabhatta",
+   "name": "Gopālabhaṭṭa",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gopālabhattaviracitā śrīkṛṣṇakarṇāmṛtaṭīkā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "dhaṃju",
+   "name": "Dhaṃju",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhakasya nāma dhaṃju",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "harivaṃśabhattaikacaraṇaśaraṇa"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1841 vaiśākha śudi 12 roja 1 dinagatā 24",
+  "era": "VS",
+  "year": "1841",
+  "month": "vaiśākha",
+  "paksa": "śudi",
+  "tithi": "12",
+  "weekday": "roja 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1784"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The commentator Gopālabhaṭṭa describes himself as taking sole refuge at the feet of Drāviḍa Harivaṃśabhaṭṭa.",
+ "_meta": {
+  "reel": "B 309/26",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 772,
+  "out_tok": 1464
+ }
+}

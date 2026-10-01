@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vīreśvarajotirvidena",
+   "name": "Vīreśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jotirvida"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ vīreśvarajotirvidena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ. 1872 śrāvaṇaśuddha saumye",
+  "era": "VS",
+  "year": "1872",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "saumye",
+  "nakshatra_yoga": "",
+  "ce_approx": "1815"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 423/4",
+  "model": "gemini-flash-latest",
+  "secs": 3.1,
+  "in_tok": 692,
+  "out_tok": 627
+ }
+}

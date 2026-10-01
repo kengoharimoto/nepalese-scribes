@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Added note that 'Siddhāntapañcānana' is the author's title-name (Viśvanātha Nyāyasiddhāntapañcānana); the colophon does not give the personal name Viśvanātha"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "siddhāṃtapaṃcānanabhaṭṭācārya",
+   "name": "Siddhāntapañcānana",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāya siddhāṃtapaṃcānanabhaṭṭācāryakṛtā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1878 miti śrāvaṇa śuddha 15 somavāsare",
+  "era": "VS",
+  "year": "1878",
+  "month": "śrāvaṇa",
+  "paksa": "śuddha",
+  "tithi": "15",
+  "weekday": "somavāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1821"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives Prāṇanātha as scribe, but he does not appear in the quoted colophon. He may be named elsewhere in the MS, so he is not recorded here. 'Siddhāntapañcānana' is a scholastic title (the author is Viśvanātha Nyāyasiddhāntapañcānana). The colophon gives only the title, so it is kept as the name. 'saṃvat' with 'miti' and year 1878 is taken as VS (= 1821 CE).",
+ "_meta": {
+  "reel": "A 912/15",
+  "model": "opus",
+  "cost_usd": 0.065138,
+  "secs": 12.3
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmacaṃdra",
+   "name": "Rāmachandra",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "gurukula",
+   "residence": "",
+   "evidence": "rāmacaṃdra kṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīarjavegī thākumanikasya",
+   "name": "Thākumani",
+   "roles": [
+    "scribe",
+    "reader"
+   ],
+   "titles": [
+    "arjavegī"
+   ],
+   "affiliation": "",
+   "residence": "maṣanavāhāla",
+   "evidence": "śrīarjavegī thākumanikasya pathanārthe (!) svahastākṣere (!) liṣitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1907sāla miti caitra vadi 13 roja 1 satabhīṣā (!) nakṣatre surayoge (!)",
+  "era": "VS",
+  "year": "1907",
+  "month": "caitra",
+  "paksa": "vadi",
+  "tithi": "13",
+  "weekday": "roja 1",
+  "nakshatra_yoga": "satabhīṣā nakṣatre surayoge",
+  "ce_approx": "1851"
+ },
+ "place": {
+  "as_written": "maṣanavāhāla",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "pathanārthe (svārtha)",
+ "notes": "Arjavegī represents the administrative court title arz-begī (arzbegi).",
+ "_meta": {
+  "reel": "A 163/17",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 841,
+  "out_tok": 1495
+ }
+}

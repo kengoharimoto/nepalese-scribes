@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dharmarājaśarmaṇā",
+   "name": "Dharmarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dharmarājaśarmaṇā likhito yam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ. 1976|3|8|1",
+  "era": "VS",
+  "year": "1976",
+  "month": "3",
+  "paksa": "",
+  "tithi": "8",
+  "weekday": "1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1919"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śivārpaṇa (śrīśivārpaṇam astu)",
+ "notes": "The numeric date string 1976|3|8|1 indicates year 1976 (Vikrama Saṃvat), month 3 (Āṣāḍha or Jyeṣṭha), tithi 8, weekday 1 (Sunday/Ravivāra).",
+ "_meta": {
+  "reel": "A 1117/34",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 681,
+  "out_tok": 822
+ }
+}

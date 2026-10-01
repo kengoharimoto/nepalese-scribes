@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivādipaścād-dhari nāmadheya",
+   "name": "Śivahari",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vililekhakāvyaṃ śivādipaścād-dhari nāmadheya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "naipālikāvde vidhurandhrasiṃdhāvāṣāḍhaśukle pratipattithau ca [...] saṃ.791 āṣādḥa śudipādo aṃgāravārasa",
+  "era": "NS",
+  "year": "791",
+  "month": "Āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "pratipad",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1671"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram vidhu-randhra-sindhu gives 1-9-7 (NS 791), which matches the numerical restatement saṃ 791. The scribe's name Śivahari is expressed poetically as śivādi-paścād-dhari ('having Śiva first and then Hari').",
+ "_meta": {
+  "reel": "A 395/23",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 740,
+  "out_tok": 1027
+ }
+}

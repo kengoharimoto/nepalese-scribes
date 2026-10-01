@@ -1,0 +1,63 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīlakṣmīsvarena",
+   "name": "Lakṣmīśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "upallākoṭagrāme",
+   "evidence": "śrīlakṣmīsvarena liṣitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "anaṃtarāmena",
+   "name": "Anantarāma",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "anaṃtarāmena dadyāt",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "śrīlakṣmīsvarena liṣitaṃ idaṃ pustakaṃ ... anaṃtarāmena dadyāt"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1676 samaye māgha dina tehra",
+  "era": "ŚS",
+  "year": "1676",
+  "month": "māgha",
+  "paksa": "",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1755"
+ },
+ "place": {
+  "as_written": "parvata gorṣānagare upallākoṭagrāme",
+  "normalized": "Gorkha"
+ },
+ "purpose": "dīrghamāyur bhū",
+ "notes": "The phrase 'dīrghamāyur bhū anaṃtarāmena dadyāt' indicates either a blessing of long life and/or that Anantarāma gave/sponsored the manuscript copy.",
+ "_meta": {
+  "reel": "B 60/8",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 791,
+  "out_tok": 1018
+ }
+}

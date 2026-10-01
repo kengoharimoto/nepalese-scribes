@@ -1,0 +1,48 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "date.month: corrected the typo 'kāttika' to 'kārttika'",
+   "notes: added that the year could be 1557 or 1558 CE depending on the reckoning, and noted the catalogue's variant scribe name 'Śrīgiviṃda'"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "uduṃvaragoviṃdenālekhi",
+   "name": "Govinda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Uduṃvara",
+   "residence": "",
+   "evidence": "uduṃvaragoviṃdenālekhi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ. 1615 | kā. Va. 8 bhaumayuktāyā tithau",
+  "era": "VS",
+  "year": "1615",
+  "month": "kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1558"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'saṃ. 1615' in a Devanagari manuscript is taken as Vikrama Saṃvat. If the year is Caitrādi, Kārttika kṛṣṇa 8 of VS 1615 falls in Oct/Nov 1558 CE; if it is Kārttikādi, it falls in Oct/Nov 1557 CE. 'kā. Va.' is read as kārttika vadi (dark fortnight), and 'bhaumayuktāyā' gives Tuesday. Uduṃvara (= Audumbara) is probably the scribe's community, lineage or family name (possibly the Audumbara brahmin group) rather than a personal name. The catalogue gives the scribe as 'Uduṃvara Śrīgiviṃda', but the colophon reads 'goviṃdena', so Govinda is the right reading. A lacuna (dots) after 'ālekhi' may have held more names or details.",
+ "_meta": {
+  "reel": "A 189/7",
+  "model": "opus",
+  "cost_usd": 0.073322,
+  "secs": 15.5
+ }
+}

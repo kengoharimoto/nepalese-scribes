@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 975 miti bhādrapadaśuklapaṃcami ādityavāra",
+  "era": "NS",
+  "year": "975",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "paṃcamī",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1855"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons are named in the colophon. The phrase 'thvaṣunu sampūrṇṇaṃ coyā śiddhayānādina jula' is Newari (thva khunu sampūrṇa coyā siddha yānā dina jula), meaning 'on this day, the writing was completed'.",
+ "_meta": {
+  "reel": "A 138/4",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 744,
+  "out_tok": 1051
+ }
+}

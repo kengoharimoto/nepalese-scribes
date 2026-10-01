@@ -1,0 +1,89 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsaṅkaradevasya",
+   "name": "Śaṅkaradeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsaṅkaradevasya vijaye nepālamaṇḍale",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhikṣuravendradeveti",
+   "name": "Ravendradeva",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [
+    "bhikṣu",
+    "ācārya",
+    "sthavira"
+   ],
+   "affiliation": "śrīmanmānadevasya vihāre",
+   "residence": "devamahāvihāre dhivāsinaḥ",
+   "evidence": "bhikṣuravendradeveti ācāryasya ... ācārya sthavira ravendradevasya yatpuṇyaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrī(pajuna)kāmadevasya",
+   "name": "Pradyumnakāmadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "+dhirājaparamabhaṭṭāraka śrī(pajuna)1kāmadevasya vijayarāje",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīsaṅkaradevasya vijaye nepālamaṇḍale ... bhikṣuravendradeveti ācāryasya"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "śrī(pajuna)1kāmadevasya vijayarāje... devamahāvihāre dhivāsinaḥ ācārya sthavira ravendradevasya"
+  }
+ ],
+ "date": {
+  "as_written": "trayo dhikesītisate gate abde māse 〈〈‥〉〉 jyeṣṭe kṛtakṛṣṇapakṣake | aikādaśī somaprasasyasaṃjñake",
+  "era": "NS",
+  "year": "183",
+  "month": "Jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1063"
+ },
+ "place": {
+  "as_written": "nepālamaṇḍale śrīmanmānadevasya vihāre",
+  "normalized": ""
+ },
+ "purpose": "mātāpitṛṇāṃ sarvasatvānāṃ anantapahalaṃ prāpnuvanti",
+ "notes": "The colophon contains multiple dates (NS 182 and 183) and mentions two kings, Śaṅkaradeva and Pradyumnakāmadeva, possibly indicating different parts of the manuscript were completed at different times or under different reigns. The name of Pradyumnakāmadeva is written as 'pajunakāmadeva'.",
+ "_meta": {
+  "reel": "B 30/45",
+  "model": "gemini-pro-latest",
+  "secs": 25.1,
+  "in_tok": 1168,
+  "out_tok": 3413
+ }
+}

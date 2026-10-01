@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrā(7)cāryyā jogavajranaṃ",
+   "name": "Jogavajra",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "kvāthabāhāla",
+   "residence": "thahititole",
+   "evidence": "thahititole kvāthabāhālayā vajrā(7)cāryyā jogavajranaṃ liṣāpitā dina jula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1040 sālamti bhādrava (6) thvaka 10 sa",
+  "era": "NS",
+  "year": "1040",
+  "month": "bhādrava",
+  "paksa": "thvaka",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1920"
+ },
+ "place": {
+  "as_written": "thahititole kvāthabāhālayā",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "saganaparivārānāṃ janadhanalakṣmi vṛddhir astu kāmanārtha",
+ "notes": "Thahiti Kwatha Bāhāl is located in north Kathmandu.",
+ "_meta": {
+  "reel": "B 105/13c",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 1139,
+  "out_tok": 1328
+ }
+}

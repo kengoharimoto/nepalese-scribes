@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "davajñgaṃgādharavarmmane",
+   "name": "Gaṅgādharavarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña",
+    "varman"
+   ],
+   "affiliation": "",
+   "residence": "thaṃ che",
+   "evidence": "likhitadavajñgaṃgādharavarmmane",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 796 pauṣa śudi 11",
+  "era": "NS",
+  "year": "796",
+  "month": "pauṣa",
+  "paksa": "śudi",
+  "tithi": "11",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1676"
+ },
+ "place": {
+  "as_written": "thaṃ cheyā",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "The catalogue records Kings Jitamitramalla and Ugramalla, but neither is mentioned in the quoted colophon text (likely named in the play itself or its prologue). Thaṃche (Thaṃcheyā) is a well-known tole in Bhaktapur.",
+ "_meta": {
+  "reel": "B 275/18",
+  "model": "gemini-flash-latest",
+  "secs": 8.5,
+  "in_tok": 700,
+  "out_tok": 1535
+ }
+}

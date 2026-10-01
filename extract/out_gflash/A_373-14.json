@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdharmmadāsa",
+   "name": "Dharmadāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdharmmadāsaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1692 bhā. (jayā) 3",
+  "era": "VS",
+  "year": "1692",
+  "month": "bhā.",
+  "paksa": "",
+  "tithi": "(jayā) 3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1635"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "jayā designates the 3rd, 8th, or 13th tithi.",
+ "_meta": {
+  "reel": "A 373/14",
+  "model": "gemini-flash-latest",
+  "secs": 3.0,
+  "in_tok": 693,
+  "out_tok": 670
+ }
+}

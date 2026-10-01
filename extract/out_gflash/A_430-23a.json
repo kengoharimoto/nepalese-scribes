@@ -1,0 +1,100 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "maheśvaropādhyāya",
+   "name": "Maheśvara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmaheśvaropādhyāyasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhāskarācārya",
+   "name": "Bhāskara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāskarācāryaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vyāsakṛṣṇavilāsa",
+   "name": "Kṛṣṇavilāsa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "vyāsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vyāsakṛ(11)ṣṇavilāsātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "dīnānāthena",
+   "name": "Dīnānātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ vyāsakṛ(11)ṣṇavilāsātmajadīnānāthena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīmaheśvaropādhyāyasuta"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "vyāsakṛ(11)ṣṇavilāsātmajadīnānāthena"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsaṃvat 1904 pauṣa śuddha1 bhṛgau",
+  "era": "VS",
+  "year": "1904",
+  "month": "pauṣa",
+  "paksa": "śuddha",
+  "tithi": "1",
+  "weekday": "bhṛgau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1847"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ paropakārārthaṃ",
+ "notes": "",
+ "_meta": {
+  "reel": "A 430/23a",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 789,
+  "out_tok": 1507
+ }
+}

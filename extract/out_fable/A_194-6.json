@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmahāvuddhopāśakaśrīmaheśvarānaṃdena",
+   "name": "Maheśvarānanda",
+   "roles": [
+    "scribe",
+    "donor"
+   ],
+   "titles": [
+    "mahābuddhopāsaka"
+   ],
+   "affiliation": "",
+   "residence": "Lalitapura (Patan)",
+   "evidence": "śrīlalitāpurasya śrīmahāvuddhopāśakaśrīmaheśvarānaṃdena likhitaṃ samarpitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 959 sāla miti pauṣavadi 5 śukravāa",
+  "era": "NS",
+  "year": "959",
+  "month": "pauṣa",
+  "paksa": "vadi (kṛṣṇa)",
+  "tithi": "5",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1838"
+ },
+ "place": {
+  "as_written": "śrīlalitāpurasya",
+  "normalized": "Patan"
+ },
+ "purpose": "samarpitaṃ: the copy was written and offered/dedicated by the scribe himself; recipient not named",
+ "notes": "Only one person named. Maheśvarānanda is styled mahābuddhopāsaka (written mahāvuddhopāśaka), i.e. a Buddhist lay devotee, and 'of Lalitapura' (Patan); the genitive is attached to the scribe, so Lalitapura is strictly his residence and only by inference the place of copying. 'likhitaṃ samarpitaṃ' implies he both wrote and donated/dedicated the copy, hence the added donor role. Date: three-digit saṃvat 959 with Nepali 'sāla miti' = NS 959, Pauṣa kṛṣṇa 5, Friday, c. Dec 1838/Jan 1839 CE. Matches the catalogue fields (scribe Maheśvarānaṃda, NS 959). Śrīkaṇṭhanātha in the title formula is a deity, not listed. No author, king or beneficiary named. Textual corruptions: nirṇao, śukravāa, paṭala (!) for paṭalaḥ, mahāvuddhopāśaka for mahābuddhopāsaka.",
+ "_meta": {
+  "reel": "A 194/6",
+  "model": "fable",
+  "cost_usd": 0.192537,
+  "secs": 25.3
+ }
+}

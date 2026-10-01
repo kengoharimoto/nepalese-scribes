@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīja(9)yabhūpatīndramalladeva mahārājadhirājasena",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "mahārājadhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīja(9)yabhūpatīndramalladeva mahārājadhirājasena thva gātha, dutā, saṃphuli dayakā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "mulacukasa",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "śrī 3 taleju prītina",
+ "notes": "The catalogue records the date NS 825, but the date is absent from the provided colophon excerpt.",
+ "_meta": {
+  "reel": "A 1264/9",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 730,
+  "out_tok": 1184
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons, date, or place are mentioned in the colophon excerpt; it contains only the concluding title and ritual instructions/mantras.",
+ "_meta": {
+  "reel": "B 103/13c",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 729,
+  "out_tok": 489
+ }
+}

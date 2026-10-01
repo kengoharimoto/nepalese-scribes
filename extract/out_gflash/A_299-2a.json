@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "hemantamallo ... hemantamallavarmmaṇā",
+   "name": "Hemantamalla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "varmā"
+   ],
+   "affiliation": "mārttaṇḍānvaya",
+   "residence": "",
+   "evidence": "hemantamallo [ʼ]likhat ... svakareṇa likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "naipālike [ʼ]bde rasayugalagajaiḥ saṃmite bhādrakṛṣṇe vairiñcaḥ sutithau hayoḍuniyutau vyāghatake bhārggave",
+  "era": "NS",
+  "year": "826",
+  "month": "bhādra",
+  "paksa": "kṛṣṇa",
+  "tithi": "vairiñca",
+  "weekday": "bhārgava",
+  "nakshatra_yoga": "hayoḍu, vyāghāta",
+  "ce_approx": "1706"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "sveṣṭadevatāprītyarthaṃ",
+ "notes": "Year given in chronogram rasayugalagaja = 826 NS. Pārāśarya (Vyāsa) is mentioned as purāṇa speaker/author ('pārāsa(!)ryyamukhodgataṃ') but excluded as a mythical/canonical figure.",
+ "_meta": {
+  "reel": "A 299/2a",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 884,
+  "out_tok": 1416
+ }
+}

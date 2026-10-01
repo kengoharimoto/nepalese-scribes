@@ -1,0 +1,94 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhāskarācārya",
+   "name": "Bhāskarācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhāskarācāryaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vyāsagaṃgārāma",
+   "name": "Gaṅgārāma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "vyāsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vyāsagaṃgārāmasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "devarāmeṇa",
+   "name": "Devarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vyāsagaṃgārāmasutadevarāmeṇa likhitam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīkṛṣṇajośī",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pustakaṃ idaṃ śrīkṛṣṇajośī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "vyāsagaṃgārāmasutadevarāmeṇa"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsaṃvat1833 śake1698 māghavadī10 caṃdre",
+  "era": "VS",
+  "year": "1833",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "caṃdre",
+  "nakshatra_yoga": "",
+  "ce_approx": "1777"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Vikrama Saṃvat 1833 and Śaka Saṃvat 1698 are cited, corresponding to 1777 CE.",
+ "_meta": {
+  "reel": "B 334/17",
+  "model": "gemini-flash-latest",
+  "secs": 7.9,
+  "in_tok": 772,
+  "out_tok": 1885
+ }
+}

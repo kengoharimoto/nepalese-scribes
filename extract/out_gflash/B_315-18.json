@@ -1,0 +1,85 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmanmahārājajaṅgabahāduradevasya",
+   "name": "Jaṅgabahāduradeva",
+   "roles": [
+    "minister",
+    "king"
+   ],
+   "titles": [
+    "mahārāja",
+    "jī sī bi",
+    "prāyamminiṣṭarayāṇḍakamyāṇḍaraincīpha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanmahārājajaṅgabahāduradevasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rāmacandraśarmaṇā",
+   "name": "Rāmacandra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "Ḍoṭī",
+   "evidence": "ḍoṭīpadapariṭīkitadeśaviśeṣavāsinā rāmacandraśarmaṇā viracita",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīmadrājaguruhemarājaśarmaṇā",
+   "name": "Hemarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "rājaguru",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadrājaguruhemarājaśarmaṇā ... likhitam idaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "other",
+   "to": "p1",
+   "evidence": "tadīyavacasā sadgadyapadyānvitaḥ | graṃthoyaṃ racito"
+  }
+ ],
+ "date": {
+  "as_written": "tripañcanavabhūmite hāyane pauṣakṛṣṇadvādaśyāṃ",
+  "era": "VS",
+  "year": "1953",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1896"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date of composition or the ritual described is mentioned in verse as Śaka 1788 (vasvaṣṭādrimṛgāṃkasammitaśake). The copy date is given as year 1953 (tripañcanavabhūmite hāyane) by scribe Hemarājaśarman.",
+ "_meta": {
+  "reel": "B 315/18",
+  "model": "gemini-flash-latest",
+  "secs": 11.2,
+  "in_tok": 957,
+  "out_tok": 2666
+ }
+}

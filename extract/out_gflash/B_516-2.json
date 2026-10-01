@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 704 caitrakṛṣṇa pañcamyāyāṃ tithau teṣṭanakṣatre, vyatipātajoge yathaṃ karṇṇa(!)madgatre, śanivāsare, mīnarāsigata savitari meṣarāsigate masi",
+  "era": "NS",
+  "year": "704",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "pañcamī",
+  "weekday": "śanivāsara",
+  "nakshatra_yoga": "teṣṭanakṣatra (jyeṣṭhā?), vyatipātayoga",
+  "ce_approx": "1584"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No individual names are mentioned in the colophon. The scribe refers to himself only in the first person ('mama') in the scribal apology verse (jodṛśī pustakaṃ dṛṭvāṃ likhita mama...).",
+ "_meta": {
+  "reel": "B 516/2",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 860,
+  "out_tok": 895
+ }
+}

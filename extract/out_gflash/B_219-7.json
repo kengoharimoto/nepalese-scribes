@@ -1,0 +1,85 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadvijayakāmadevasya",
+   "name": "Vijayakāmadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadvijayakāmadevasya vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nepālarājaguruhemarājapaṇḍitanām",
+   "name": "Hemarāja",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "nepālarājaguru",
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "chrīnepālarājaguruhemarājapaṇḍitanāmājñayā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "paṇḍitapūrṇaprasādaśarmaṇā",
+   "name": "Pūrṇaprasāda Śarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paṇḍita",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṇḍitapūrṇaprasādaśarmaṇā ... likhitam idaṃ pustakam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "chrīnepālarājaguruhemarājapaṇḍitanāmājñayā paṇḍitapūrṇaprasādaśarmaṇā"
+  }
+ ],
+ "date": {
+  "as_written": "vaikramīsamvat 1983 vaiśākhakṛṣṇatrayodaśyāṃ",
+  "era": "VS",
+  "year": "1983",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1926"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon copies the date and king of an older palm-leaf manuscript (samvat 315 caitraśuklapūrṇimā somavāsara citrānakṣatra harṣaṇayoga under Vijayakāmadeva = ca. 1195 CE) before giving the date of the present paper copy copied by Pūrṇaprasāda Śarman by order of Rājaguru Hemarāja Paṇḍita in VS 1983.",
+ "_meta": {
+  "reel": "B 219/7",
+  "model": "gemini-flash-latest",
+  "secs": 6.7,
+  "in_tok": 850,
+  "out_tok": 1680
+ }
+}

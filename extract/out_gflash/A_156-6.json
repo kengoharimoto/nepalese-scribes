@@ -1,0 +1,88 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmahāmahopādhyāyaśrīnandanācāryyānte,vāsi",
+   "name": "Nandanācārya",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahāmahopādhyāyaśrīnandanācāryyānte,vāsi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīsanātanaguṇārṇṇavācāryyātmaja",
+   "name": "Sanātanaguṇārṇavācārya",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsanātanaguṇārṇṇavācāryyātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrītatkālaṃkārabhaṭṭācāryya",
+   "name": "Tatkālaṃkāra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrītatkālaṃkārabhaṭṭācāryyaviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śrīmahāmahopādhyāyaśrīnandanācāryyānte,vāsi"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīsanātanaguṇārṇṇavācāryyātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No copy date or scribe's personal name is preserved; only the standard scribal apology verse (bhīmaseno raṇyabhaṅga...) appears. The author Tatkālaṃkārabhaṭṭācārya is likely a corrupt reading for Tattvālaṃkārabhaṭṭācārya.",
+ "_meta": {
+  "reel": "A 156/6",
+  "model": "gemini-flash-latest",
+  "secs": 10.9,
+  "in_tok": 852,
+  "out_tok": 2792
+ }
+}

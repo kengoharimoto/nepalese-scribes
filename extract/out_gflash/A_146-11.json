@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkālīdāsana",
+   "name": "Kālidāsa",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkālīdāsana saṃcita yāṅā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 748 thvadaṃ",
+  "era": "NS",
+  "year": "748",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1628"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrī3bhavānīśakaraprītina, unmattaprītaye",
+ "notes": "Bhavānīśaṅkara and Unmatta (Bhairava/Śiva) are deities to whom the merit/book is dedicated.",
+ "_meta": {
+  "reel": "A 146/11",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 731,
+  "out_tok": 1042
+ }
+}

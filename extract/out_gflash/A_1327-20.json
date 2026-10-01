@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīdharasvāmi-",
+   "name": "Śrīdhara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "svāmin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīdharasvāmiviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 818 vaiśāṣakṛṣṇayā dvādaśī budhavāra",
+  "era": "NS",
+  "year": "818",
+  "month": "vaiśāṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādaśī",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1698"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1327/20",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 730,
+  "out_tok": 826
+ }
+}

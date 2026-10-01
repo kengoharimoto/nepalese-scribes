@@ -1,0 +1,76 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "narasiṃhaṭhakku(8)ra",
+   "name": "Narasiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "jagadekaguru",
+    "ṭhakkura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "narasiṃhaṭhakku(8)raviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śivahari",
+   "name": "Śivahari",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "Ghaṭakhāṭora",
+   "evidence": "likhiti (!) daivajñaghaṭakhāṭoraśivahari",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "dharaṇidevaścakrarājaḥ",
+   "name": "Cakrarāja",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "dharaṇīdeva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dharaṇidevaścakrarājaḥ sudhīḥr(!) granthaṃ vai racayāñcakāra",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 805 caitrakṛṣṇacaturthyāṃ ti(8)thau || ādityavāsare",
+  "era": "NS",
+  "year": "805",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturthī",
+  "weekday": "ādityavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1685"
+ },
+ "place": {
+  "as_written": "ghaṭakhāṭora",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "mokṣārthakāmapradaṃ",
+ "notes": "The prose colophon on fol. 184r attributes the work to Narasiṃha Ṭhakkura and records the copying by the astrologer Śivahari of Ghaṭakhāṭora (Yaṭkhā ṭola, Kathmandu) in NS 805. A subsequent verse (exp. 192) states that 'dharaṇidevaḥ cakrarājaḥ' composed the grantha Tārābhaktisudhārṇava on the same date.",
+ "_meta": {
+  "reel": "B 123/14",
+  "model": "gemini-flash-latest",
+  "secs": 7.6,
+  "in_tok": 891,
+  "out_tok": 1864
+ }
+}

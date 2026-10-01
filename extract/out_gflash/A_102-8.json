@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vaijanāthena",
+   "name": "Vaijanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ vaijanāthena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "netragraharasaś candrair mite śāke ca vai dhruvaṃ || 1692 ||",
+  "era": "ŚS",
+  "year": "1692",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1770"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 102/8",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 869,
+  "out_tok": 690
+ }
+}

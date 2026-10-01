@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viṣṇusiṃha",
+   "name": "Viṣṇusiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "vijalakochaṃ",
+   "evidence": "likhiti, (!) vijalakochaṃ daivajña, viṣṇusiṃha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 713 śrāvaṇa śudi 5",
+  "era": "NS",
+  "year": "713",
+  "month": "śrāvaṇa",
+  "paksa": "śudi",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1593"
+ },
+ "place": {
+  "as_written": "vijalakochaṃ",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 376/14",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 714,
+  "out_tok": 783
+ }
+}

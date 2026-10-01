@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jaya raṇajinmalladevasana",
+   "name": "Jayaraṇajinmalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrī jaya raṇajinmalladevasana me(4)tsi lakha chāse bijyāka dina",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 888 na(3)ṣṭhaśrāvaṇa śuddhi",
+  "era": "NS",
+  "year": "888",
+  "month": "naṣṭa-śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1768"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Records an event/ritual visit by King Jayaraṇajinmalladeva (Ranajit Malla of Bhaktapur) on the specified date.",
+ "_meta": {
+  "reel": "A 465/20",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 678,
+  "out_tok": 909
+ }
+}

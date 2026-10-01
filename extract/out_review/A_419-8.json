@@ -1,0 +1,48 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Lowered confidence for Nārāyaṇasiṃha's role as scribe from high to medium. 'vyadhāt' (he made) could mean he composed the work rather than copied it; the catalogue's 'scribe' is kept and the ambiguity is explained in notes.",
+   "Expanded notes: checked the chronogram, explained the date and month reading (sitarucau, some), and flagged that the colophon does not name Jagajjyotirmalla."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "drāṅnārāyaṇasiṃha",
+   "name": "Nārāyaṇasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "drāṅnārāyaṇasiṃha eṣa ... mukundavijayaṃ ... samastaṃ vyadhāt",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīnepālamate gate śrutiśikṣikṣooṇīdharair aṃkite, some paṃcadaśītithau sitarucāvāṣāḍhamāse punaḥ",
+  "era": "NS",
+  "year": "724",
+  "month": "Āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "15",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1604"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for the pleasure of all wise people (nikhilaprajñāvatāṃ prītaye)",
+ "notes": "Chronogram: 'śrutiśikṣikṣooṇīdharair' is a corrupt form of śruti (4) + akṣi (2) + kṣoṇīdhara (7). Read right to left, these give NS 724. NS 724 + 880 = 1604, so Āṣāḍha of NS 724 falls around June/July 1604 CE. 'some' means Monday. 'paṃcadaśītithau' means the 15th tithi. 'sitarucau' (moon) together with tithi 15 suggests the full moon, so the fortnight is read as śukla. 'drāṅ' stands for the adverb drāk ('quickly'), not part of the name. Role is uncertain: 'Nārāyaṇasiṃha ... vyadhāt' can mean either 'completed (this copy)' or 'composed'. The verse reads like an author's statement, so Nārāyaṇasiṃha may be the author of the Mukundavijaya rather than (or as well as) its copyist. The catalogue's 'scribe' is kept, but this needs checking. 'puṣṭaṃ (!)' is the cataloguer's marked oddity. The catalogue's king, Jagajjyotirmalla, is not named in the quoted colophon; the date does fall in his reign (c. NS 733–757?), so it should be checked against the cataloguer's source rather than taken from this colophon.",
+ "_meta": {
+  "reel": "A 419/8",
+  "model": "opus",
+  "cost_usd": 0.08008599999999999,
+  "secs": 17.5
+ }
+}

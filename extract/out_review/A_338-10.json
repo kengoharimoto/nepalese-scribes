@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Jaikṛṣṇa: confidence lowered from high to medium. The colophon has no verb of writing. 'idaṃ stotraṃ [X]' most naturally marks ownership. The scribe role is kept only because the catalogue gives it.",
+   "Place of copying cleared. The colophon gives Chitupuragrāma only as Jaikṛṣṇa's place of residence ('-vāsin'), not as the place where the copy was made. It stays under the person's residence.",
+   "Pakṣa written as 'vadi (kṛṣṇa)'. Notes added on 'samaināma', the possible Jayakṛṣṇa name form, and the misspelled catalogue fields."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jaikṛṣṇa brāhmaṇa",
+   "name": "Jaikṛṣṇa",
+   "roles": [
+    "owner",
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "Chitupuragrāma",
+   "evidence": "idaṃ stotraṃ jaikṛṣṇa brāhmaṇa chitupuragrāmavāsinaṃ (!)",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1762 samaināma āśvinavadi aṣṭamī",
+  "era": "VS",
+  "year": "1762",
+  "month": "āśvina",
+  "paksa": "vadi (kṛṣṇa)",
+  "tithi": "aṣṭamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1705"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The phrase 'idaṃ stotraṃ jaikṛṣṇa brāhmaṇa chitupuragrāmavāsinaṃ (!)' has no verb such as likhitam. It reads most naturally as a statement of ownership ('this stotra [belongs to] Jaikṛṣṇa, a brahmin living in Chitupuragrāma'). The scribe role rests only on the catalogue. 'Jaikṛṣṇa' is probably a vernacular form of Jayakṛṣṇa. 'samaināma' is most likely a vernacular form of 'samaye/samaya nāma'. 'samvat 1762' is taken as Vikrama (NS 1762 is impossible). Āśvina vadi 8 in VS 1762 falls in roughly September–October 1705 CE. Chitupuragrāma is given as his place of residence and is not explicitly the place of copying, although the catalogue lists it as the place of copying. The catalogue spells the names 'Jaikṛṇa Brāhāmaṇa' and 'Chitupurgrāma'; these are typos for the colophon's jaikṛṣṇa brāhmaṇa and chitupuragrāma.",
+ "_meta": {
+  "reel": "A 338/10",
+  "model": "opus",
+  "cost_usd": 0.081338,
+  "secs": 18.6
+ }
+}

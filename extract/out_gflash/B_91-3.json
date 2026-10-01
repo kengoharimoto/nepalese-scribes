@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahīndra",
+   "name": "Mahīndra",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "kṣitipa"
+   ],
+   "affiliation": "",
+   "residence": "nepāladeśa",
+   "evidence": "nepāladeśe pravirājate sau nāmnā mahīndra kṣitipaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "nepāladeśe",
+  "normalized": "Nepal"
+ },
+ "purpose": "",
+ "notes": "The colophon contains lacunae. A donor/commissioner is mentioned ('dāpakoyaṃ') but the name is omitted or lost in the lacuna. The catalogue identifies the king as Mahīndrasiṃhadeva.",
+ "_meta": {
+  "reel": "B 91/3",
+  "model": "gemini-flash-latest",
+  "secs": 8.2,
+  "in_tok": 1075,
+  "out_tok": 1061
+ }
+}

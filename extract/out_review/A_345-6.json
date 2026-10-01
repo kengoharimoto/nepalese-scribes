@@ -1,0 +1,33 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Persons, date and place left as in the first reading. Added to the notes that the catalogue's king and place fit the date, and glossed the Newari completion formula."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 858 phālguṇa śudi 1 budhavāla",
+  "era": "NS",
+  "year": "858",
+  "month": "phālguṇa",
+  "paksa": "śudi",
+  "tithi": "1",
+  "weekday": "budhavāla",
+  "nakshatra_yoga": "",
+  "ce_approx": "1738"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The quoted colophon gives only the date. 'saṃpūrṇṇa yāṅā dina' is Newari for 'the day it was completed'. The colophon names no scribe, owner or commissioner. The catalogue fields give King Raṇajit Malla and Bhaktapur, but neither appears in the quoted text. They may come from other parts of the manuscript. They fit the date: Raṇajit Malla ruled Bhaktapur c. 1722–1769, and NS 858 Phālguna falls in February/March 1738 CE. The weekday (Wednesday) has not been checked.",
+ "_meta": {
+  "reel": "A 345/6",
+  "model": "opus",
+  "cost_usd": 0.058886,
+  "secs": 9.5
+ }
+}

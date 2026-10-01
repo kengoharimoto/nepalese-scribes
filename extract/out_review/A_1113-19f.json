@@ -1,0 +1,145 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed Rāmakṛṣṇa (p6) as scribe: 'śrīrāmakṛṣṇaḥ subham astu' is most naturally a closing invocation, not a scribe's name; the wrote_for relation went with it",
+   "Devadatta: roles changed from owner to scribe + owner. The construction (descent chain, then the name, then 'pustakaṃ liṣitaṃ') presents him as the writer, which matches the catalogue. Confidence lowered to medium",
+   "Pyākurala (Pyākurel, a Nepali Brahmin surname) moved into Devadatta's titles/affiliation and removed from as_written",
+   "The descent chain is now read as 'X's descendant's son' at each step (prapautra-suta, pautra-suta, putra-suta, suta). This keeps the same five-generation line (Sadāśiva → Śrīkānta → Bālakṛṣṇa → Harikṛṣṇa → Devadatta) but explains the kin terms consistently. Evidence strings updated",
+   "Sadāśiva: the 'śarman' title is uncertain because 'savarṇa' is corrupt; confidence set to medium",
+   "Notes updated about the date discrepancy and the reading of the name"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sadāśivasavarṇa",
+   "name": "Sadāśiva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "Kauṇḍinya gotra",
+   "residence": "",
+   "evidence": "sadāśivasavarṇaprapautrāyaḥ (!) suta",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīkāṃtasarmaṇa",
+   "name": "Śrīkānta",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "Kauṇḍinya gotra",
+   "residence": "",
+   "evidence": "śrīkāṃtasarmaṇa (!) prauyaḥ (!) suta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bālakṛṣṇaḥ",
+   "name": "Bālakṛṣṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "Kauṇḍinya gotra",
+   "residence": "",
+   "evidence": "bālakṛṣṇaḥ (!) putrāyaḥ (!) sutaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "hariṣṇa (!) sarmaṇa",
+   "name": "Harikṛṣṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "Kauṇḍinya gotra",
+   "residence": "",
+   "evidence": "hariṣṇa (!) sarmaṇa (!) putrāyaḥ (!) suteḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p5",
+   "as_written": "devadattapādhyā (!)",
+   "name": "Devadatta",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "upādhyāya",
+    "Pyākurala"
+   ],
+   "affiliation": "Kauṇḍinya gotra; Pyākurel family",
+   "residence": "",
+   "evidence": "devadattapādhyā (!) pyākuralapustakaṃ liṣitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "sadāśivasavarṇaprapautrāyaḥ (!) suta (!) śrīkāṃtasarmaṇa (!) prauyaḥ (!) suta"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīkāṃtasarmaṇa (!) prauyaḥ (!) suta (!) bālakṛṣṇaḥ (!) putrāyaḥ (!) sutaḥ"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "bālakṛṣṇaḥ (!) putrāyaḥ (!) sutaḥ || hariṣṇa (!) sarmaṇa (!) putrāyaḥ"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "hariṣṇa (!) sarmaṇa (!) putrāyaḥ (!) suteḥ (!) || devadattapādhyā"
+  },
+  {
+   "from": "p5",
+   "type": "grandson_of",
+   "to": "p3",
+   "evidence": "bālakṛṣṇaḥ (!) putrāyaḥ (!) sutaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsāke (!) 1854 śrīsamvat 1986 sāla",
+  "era": "VS",
+  "year": "1986",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1929"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The two dates disagree. Śaka 1854 is about 1932 CE and corresponds to VS 1989. VS 1986 is about 1929/30 CE and corresponds to Śaka 1851. I recorded the VS date. The descent chain is garbled ('prapautrāyaḥ suta', 'prauyaḥ suta', 'putrāyaḥ sutaḥ', 'putrāyaḥ suteḥ'). I read it as Devadatta being the great-great-grandson of Sadāśiva, great-grandson of Śrīkānta, grandson of Bālakṛṣṇa and son of Harikṛṣṇa, which gives a single line of descent. 'devadattapādhyā pyākuralapustakaṃ liṣitaṃ' means Devadatta Upādhyāya Pyākurel either wrote the book (as the catalogue says) or owned it ('Pyākurel's book'). I gave him both roles. 'śrīrāmakṛṣṇaḥ' just before 'subham astu' is most likely an invocation. It could possibly be a separate scribe, but that is unlikely. 'sadāśivasavarṇa' is corrupt; it may stand for 'sadāśivaśarmaṇa'. 'gograsya' should read 'gotrasya'.",
+ "_meta": {
+  "reel": "A 1113/19f",
+  "model": "opus",
+  "cost_usd": 0.13641399999999998,
+  "secs": 34.4
+ }
+}

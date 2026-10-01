@@ -1,0 +1,55 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Name normalized to 'Jitāmitramalla': 'jaya' is the stock Malla royal prefix, and the king is usually cited as Jitāmitra Malla. The as_written form is unchanged.",
+   "Kept 'king' alongside 'author': NS 798 falls within Jitāmitra Malla's reign at Bhaktapur (c. NS 793–816). The colophon has no explicit rājye clause, so this role is inferred and is flagged in notes.",
+   "Paksa normalized from 'śudi' to 'śukla'. Date and ce_approx 1678 confirmed.",
+   "Notes expanded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayajitāmitramallamahīpati",
+   "name": "Jitāmitramalla",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "sūryyavaṃśamukuṭamaṇi",
+    "mahīpati"
+   ],
+   "affiliation": "Malla dynasty of Bhaktapur",
+   "residence": "",
+   "evidence": "mahārājādhirājasūryyavaṃśamukuṭamaṇi śrīśrījayajitāmitramallamahīpativiracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 798 jyeṣṭha śudi 12",
+  "era": "NS",
+  "year": "798",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "12",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1678"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The colophon names Jitāmitra Malla only as the author of the play (viracite). His role as reigning king of this copy is inferred because NS 798 (1678 CE) falls within his reign at Bhaktapur. There is no explicit rājye clause, and the copy may be contemporary with the composition or even the author's own. No place of copying is stated. The scribe is not named. The rest of the colophon after the date is illegible because it is covered with different ink, so a scribe or commissioner may have been named there. The cataloguer marks 'saṃpūṇṇaṃ' as an error for 'saṃpūrṇam'.",
+ "_meta": {
+  "reel": "A 1026/8",
+  "model": "opus",
+  "cost_usd": 0.07675,
+  "secs": 17.6
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācāryya machindravirana",
+   "name": "Machindravīra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "Taluche",
+   "evidence": "talucheyā vajrācāryya machindravirana coyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1009 miti bhādravadi 8 roja 3",
+  "era": "NS",
+  "year": "1009",
+  "month": "bhādra",
+  "paksa": "vadi",
+  "tithi": "8",
+  "weekday": "roja 3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1889"
+ },
+ "place": {
+  "as_written": "taluche",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists the scribe as 'Macchīndra Vajrācārya', but the colophon reads 'vajrācāryya machindravirana' (Machindravīra Vajrācārya).",
+ "_meta": {
+  "reel": "A 1015/2",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 1009,
+  "out_tok": 1463
+ }
+}

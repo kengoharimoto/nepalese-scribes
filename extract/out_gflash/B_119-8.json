@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāghavabhaṭṭaviracite",
+   "name": "Rāghavabhaṭṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāghavabhaṭṭaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vijavaraḥ śrīcakrarājaḥ",
+   "name": "Cakrarāja",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kālītatvam alekhayad vijavaraḥ śrīcakrarājaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "manohararasādevena",
+   "name": "Deva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "manohararasādevena saṃyatnataḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "kālītatvam alekhayad vijavaraḥ śrīcakrarājaḥ sudhīḥ || māse kārttikike manohararasādevena saṃyatnataḥ"
+  }
+ ],
+ "date": {
+  "as_written": "ṣaṣṭhadyogajasammite suraguror ghasre[ʼ]site pakṣake ... māse kārttikike ... pañcamyāṃ śubhayogamiśritabharaṇyāṃ tārakāyāṃ",
+  "era": "NS",
+  "year": "806",
+  "month": "Kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "bharaṇī nakṣatra, śubha yoga",
+  "ce_approx": "1685"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram for date: ṣaṣṭha (6), dyo (0), gaja (8) = NS 806. The catalogue gives the scribe as Manohara, but the metrical reading in Śārdūlavikrīḍita is 'manohararasād devena saṃyatnataḥ', which points to Deva as the scribe writing out of aesthetic appreciation (manohararasāt), unless 'Manohara' is a corrupt compound name.",
+ "_meta": {
+  "reel": "B 119/8",
+  "model": "gemini-flash-latest",
+  "secs": 26.1,
+  "in_tok": 776,
+  "out_tok": 5953
+ }
+}

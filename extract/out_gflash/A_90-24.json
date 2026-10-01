@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jagajjayamalla deva",
+   "name": "Jagajjayamalla",
+   "roles": [
+    "king",
+    "beneficiary"
+   ],
+   "titles": [
+    "nepāleśvara",
+    "girīndra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīnepāleśvara giriṃdra jagajjayamalla devayāta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīśivarāma akurama",
+   "name": "Śivarāma",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśivarāma akurama viyā julo",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīśrīnepāleśvara giriṃdra jagajjayamalla devayāta śrīśivarāma akurama viyā julo"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 843 bhādrapada kṛṣna aṣṭamī",
+  "era": "NS",
+  "year": "843",
+  "month": "bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1723"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīśrīnepāleśvara giriṃdra jagajjayamalla devayāta ... viyā julo",
+ "notes": "The Newari phrase 'cotakasyaṃ cosyaṃ' indicates causing the copy to be written / having copied it. The manuscript was given ('viyā julo') to King Jagajjayamalla of Kathmandu. The reading 'akurama' after 'śrīśivarāma' may represent a second personal name (e.g. Akrūra), a patronymic/family name, or an uncorrected scribal error.",
+ "_meta": {
+  "reel": "A 90/24",
+  "model": "gemini-flash-latest",
+  "secs": 14.2,
+  "in_tok": 833,
+  "out_tok": 2901
+ }
+}

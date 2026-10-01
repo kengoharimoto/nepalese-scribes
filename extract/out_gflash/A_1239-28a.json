@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumati jaya jitāmitramalladevasana",
+   "name": "Jitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jaya jitāmitramallade(13)vasana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 800 māghavadi 10",
+  "era": "NS",
+  "year": "800",
+  "month": "māgha",
+  "paksa": "vadi",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1680"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "King Jitāmitra Malla of Bhaktapur bears his well-known epithet 'Sumati'. The catalogue lists Bhaktapur as place of copying, but it is not mentioned in the colophon itself.",
+ "_meta": {
+  "reel": "A 1239/28a",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 710,
+  "out_tok": 710
+ }
+}

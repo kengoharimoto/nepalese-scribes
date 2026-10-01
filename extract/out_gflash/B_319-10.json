@@ -1,0 +1,77 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bbhaṭṭibrāhmaṇasya",
+   "name": "Bhaṭṭi",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "Valabhī",
+   "evidence": "bbhaṭṭibrāhmaṇasya kṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīsūrasvāmisūnor",
+   "name": "Sūrasvāmin",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsūrasvāmisūnor",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīgaṇapatinā",
+   "name": "Gaṇapati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgaṇapatinālekhi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīsūrasvāmisūnor bbhaṭṭibrāhmaṇasya"
+  }
+ ],
+ "date": {
+  "as_written": "caitre śubhre hare tithau ... kṣmāśvāgebde ravau dine",
+  "era": "NS",
+  "year": "771",
+  "month": "Caitra",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1651"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'kṣmā-aśva-aga' gives the digits 1-7-7, yielding year 771 (read left-to-right via aṅgānāṃ vāmato gatiḥ). 'hare tithau' refers to Harivāsara / Hari-tithi (ekādaśī).",
+ "_meta": {
+  "reel": "B 319/10",
+  "model": "gemini-flash-latest",
+  "secs": 6.8,
+  "in_tok": 776,
+  "out_tok": 1566
+ }
+}

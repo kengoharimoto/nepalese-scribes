@@ -1,0 +1,82 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Added p3 Khuṣpālacanda (as_written 'ṣuspālacaṃda'; ṣ standing for kh), the name directly after 'likhitaṃ', as probable scribe with low confidence",
+   "Cut place as_written down to 'haridurgamadhye' and removed the personal-name material from it",
+   "Normalized weekday to Monday (caṃdravāsara) and month to Āṣāḍha; noted the uncertain segment 'mathena'"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhānudatta",
+   "name": "Bhānudatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhānudattaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gaṇapati",
+   "name": "Gaṇapati",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gaṇapatitanaya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "ṣuspālacaṃda",
+   "name": "Khuṣpālacanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Haridurga",
+   "evidence": "likhitaṃ mathenaṣuspālacaṃdaharidurgamadhye",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "gaṇapatitanaya"
+  }
+ ],
+ "date": {
+  "as_written": "mitī (!) asāḍha (!) śuklapakṣe tithau 14 caṃdravāsare",
+  "era": "none",
+  "year": "",
+  "month": "Āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "14",
+  "weekday": "Monday (caṃdravāsara)",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "haridurgamadhye",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The string 'mathenaṣuspālacaṃdaharidurgamadhye (!)' after likhitaṃ is corrupt and has no word breaks. Best segmentation: 'mathena ṣuspālacaṃda haridurgamadhye'. Here 'ṣuspālacaṃda' is probably Khuṣpālacanda (Khuśāl/Khuśpāl Cand), with ṣ standing for kh as is common in Devanagari. Because the name directly follows likhitaṃ, it is most likely the scribe's name. It could instead name a local ruler or patron of Haridurga, so confidence is low. 'mathena' is unclear: it might be a corrupt instrumental, a surname or caste name, or a garbled 'mayā'. It is not recorded as a person. Haridurga ('the fort Hari') cannot be identified with certainty. The year is not given, so the date cannot be fixed.",
+ "_meta": {
+  "reel": "A 372/15",
+  "model": "opus",
+  "cost_usd": 0.06757099999999999,
+  "secs": 18.8
+ }
+}

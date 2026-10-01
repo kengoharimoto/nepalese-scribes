@@ -1,0 +1,73 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "purpose normalized from the raw form 'svaparārthaheto' to 'svaparārtha (for himself and others)'",
+   "p2 as_written trimmed to the name itself; residence for p1 noted as inferred (adhivāsī stands in the compound with the father's name)",
+   "notes added: intercalary month, place-name reading vs catalogue, Balambu identification, NS date check"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīvaccharudreṇa",
+   "name": "Vaccharudra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paṇḍitācārya"
+   ],
+   "affiliation": "",
+   "residence": "śrīśītāṭyāṃ śrībālambūśaṇḍhakārṣṭāśvapoṃbrumāyām",
+   "evidence": "paṃḍitācāryaśrīśrīvaccharudreṇa svaparārthaheto ... likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "paṃṇḍitācāryaśrīkāmadevarudra",
+   "name": "Kāmadevarudra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paṇḍitācārya"
+   ],
+   "affiliation": "",
+   "residence": "śrīśītāṭyāṃ śrībālambūśaṇḍhakārṣṭāśvapoṃbrumāyām",
+   "evidence": "adhivāśīpaṃṇḍitācāryaśrīkāmadevarudrātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "kāmadevarudrātmajapaṃḍitācāryaśrīśrīvaccharudreṇa"
+  }
+ ],
+ "date": {
+  "as_written": "saṃ 308 dvirāśāḍhakṛṣṇanavaṃmyāṃ budhavāre rohiṇīnakṣatre",
+  "era": "NS",
+  "year": "308",
+  "month": "dvirāṣāḍha (second/intercalary Āṣāḍha)",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "rohiṇī",
+  "ce_approx": "1188"
+ },
+ "place": {
+  "as_written": "śrīśītāṭyāṃ śrībālambūśaṇḍhakārṣṭāśvapoṃbrumāyām",
+  "normalized": "Balambu"
+ },
+ "purpose": "svaparārtha (for himself and others)",
+ "notes": "The era is not named ('saṃ 308'), but NS is the only plausible reading for a Nepalese Nagari MS (NS 308 + 880 = c. 1188 CE). 'dvirāśāḍha' means a second (intercalary) Āṣāḍha. The catalogue reads the place as 'Bālambūkhaṇḍha...', but the colophon has 'bālambūśaṇḍha...'. The long toponym is obscure and probably corrupt. Bālambū is very likely modern Balambu in the Kathmandu Valley, but this is not certain, and Śītāṭī may be a locality within it. Grammatically, 'adhivāśī' ('resident') is part of the father's name compound, so the residence is directly stated for Kāmadevarudra and only inferred for the scribe. 'svaparārthaheto' could also mean the scribe kept the copy, but 'owner' was not added because the colophon does not say so explicitly.",
+ "_meta": {
+  "reel": "A 59/13",
+  "model": "opus",
+  "cost_usd": 0.090454,
+  "secs": 20.0
+ }
+}

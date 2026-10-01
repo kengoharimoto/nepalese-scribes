@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkālidāsakṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 795 kārtikaśudi tritiyā budhavāsare anurādhanakṣatre",
+  "era": "NS",
+  "year": "795",
+  "month": "kārtika",
+  "paksa": "śudi",
+  "tithi": "tritiyā",
+  "weekday": "budhavāsare",
+  "nakshatra_yoga": "anurādhanakṣatre",
+  "ce_approx": "1675"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 395/3",
+  "model": "gemini-flash-latest",
+  "secs": 3.0,
+  "in_tok": 717,
+  "out_tok": 682
+ }
+}

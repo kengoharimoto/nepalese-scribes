@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 confidence high→medium for the roles: 'likhitam idaṃ gṛhītam idaṃ vā parahastāt' says he either copied the MS or got it from someone else, so scribe is not certain; owner (gṛhītam) is kept",
+   "evidence shortened and as_written normalised to the colophon string",
+   "notes: ce_approx explained (month 12 of ŚS 1647 probably falls in early 1726 CE); the bhūtasaṃkhyā numbers 253 and 295 are verse counts, not dates, and both are read correctly"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "cakrapāṇI śarmaṇāsudhiyā",
+   "name": "Cakrapāṇi",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitamidaṃ gṛhītamidaṃ vā parahastā cakrapāṇI śarmaṇā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1647 māse 12 tithau 7 vāre 2",
+  "era": "ŚS",
+  "year": "1647",
+  "month": "12",
+  "paksa": "",
+  "tithi": "7",
+  "weekday": "2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1725"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The catalogue field says ŚS 1674, but the colophon reads śāke 1647 (the digits look swapped in the catalogue). ŚS 1647 + 78 = 1725 CE. The month is only given as a number (12), and the pakṣa is not stated. If months are counted from Caitra, month 12 is Phālguna, which would put the date in about Feb–Mar 1726 CE. Weekday 2 is probably Monday. The colophon reads 'likhitamidaṃ gṛhītamidaṃ vā parahastā(t) cakrapāṇiśarmaṇā sudhiyā': Cakrapāṇi either copied the MS himself or obtained it from someone else. So he is clearly the owner, but he may not be the scribe. 'sudhiyā' (sudhī, 'the wise') is a descriptive word, not a title. The two bhūtasaṃkhyā phrases are verse counts, not dates: vahni(3)-bāṇa(5)-nayana(2) = 253 ślokas in the Sārāvalī, and bāṇa(5)-nanda(9)-nayana(2) = 295 in the anuṣṭubh metre. Both are read correctly.",
+ "_meta": {
+  "reel": "A 1068/35",
+  "model": "opus",
+  "cost_usd": 0.077498,
+  "secs": 18.5
+ }
+}

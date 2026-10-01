@@ -1,0 +1,36 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday: 'roja 5' interpreted as Thursday (5th weekday counting from Sunday); as-written form kept in parentheses",
+   "paksa: normalized 'vadi' to 'kṛṣṇa (vadi)'",
+   "ce_approx: kept 1876, but added a note that the year could be 1875 depending on the month reckoning",
+   "notes: expanded to cover the 'sālamiti … roja' formula and the date reasoning"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat || 1932 || sālamiti caitravadi 13 roja 5",
+  "era": "VS",
+  "year": "1932",
+  "month": "Caitra",
+  "paksa": "kṛṣṇa (vadi)",
+  "tithi": "13",
+  "weekday": "Thursday (roja 5)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1876"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue names Śivarāma as the scribe, but the quoted colophon (fol. 14v1–4) has no personal name. He may be named elsewhere in the manuscript, but he is not listed here because the colophon gives no evidence for him. The date uses the Persian-influenced formula 'sālamiti … roja 5', where roja 5 most likely means the 5th weekday, Thursday. Era is taken as Vikrama (VS): 1932 − 57 = 1875. With pūrṇimānta reckoning ('vadi'), Caitra kṛṣṇa 13 falls at the end of VS 1932, which is about March 1876. If the month is counted differently, it could be about March–April 1875. 'sa〈〈pu〉〉mpurṇam' contains a cataloguer's insertion mark; it means saṃpūrṇam.",
+ "_meta": {
+  "reel": "A 1115/50",
+  "model": "opus",
+  "cost_usd": 0.07163800000000001,
+  "secs": 16.5
+ }
+}

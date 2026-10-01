@@ -1,0 +1,92 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayathittimallasya",
+   "name": "Jayathittimalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "juvarāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājādhirājaśrīśrījuva〇rājajayathittimallasya vijayarāje",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rathanabhāro",
+   "name": "Rathana",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [
+    "dānapatti",
+    "suvarṇṇakāra",
+    "bhāro"
+   ],
+   "affiliation": "",
+   "residence": "Haṭiglasthāna",
+   "evidence": "dānapattiśrīhaṭiglasthānasuvarṇṇakārarathanabhāro tasya manovāñchāsiddhir astu",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "tejacandrasya",
+   "name": "Tejacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhikṣu",
+    "vajrācārya"
+   ],
+   "affiliation": "Tavavahāra",
+   "residence": "",
+   "evidence": "śrītavavahārabhikṣuśrīvajrācāryaśrītejacandrasya yathādṛṣṭa tathā (li)kṣi(taṃ)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "dānapattiśrīhaṭiglasthānasuvarṇṇakārarathanabhāro tasya manovāñchāsiddhir astu || hitopadeśapustakam idaṃ || śrītavavahārabhikṣuśrīvajrācāryaśrītejacandrasya yathādṛṣṭa tathā (li)kṣi(taṃ)"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "rājādhirājaśrīśrījuva〇rājajayathittimallasya vijayarāje"
+  }
+ ],
+ "date": {
+  "as_written": "505 aśunikṛṣṇanavamyāṃ tithau || || puṣyanakṣatre || śivayoge || bṛhaspativāsare",
+  "era": "NS",
+  "year": "505",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "bṛhaspativāsara",
+  "nakshatra_yoga": "puṣya, śiva",
+  "ce_approx": "1385"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "manovāñchāsiddhi for donor Rathana Bhāro",
+ "notes": "Jayathittimalla corresponds to King Jayasthitimalla, here unusually bearing both the titles rājādhirāja and juvarāja (yuvarāja). Scribe belongs to Tavavahāra (likely Te-bahal in Kathmandu or Ta-bāhā in Patan), and donor resides in Haṭiglasthāna.",
+ "_meta": {
+  "reel": "A 20/19",
+  "model": "gemini-flash-latest",
+  "secs": 9.4,
+  "in_tok": 846,
+  "out_tok": 2371
+ }
+}

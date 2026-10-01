@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsuma(2)ti jayajitāmītra mallana",
+   "name": "Jayajitāmitramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsuma(2)ti jayajitāmītra mallana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 802 āśvana śudi 8",
+  "era": "NS",
+  "year": "802",
+  "month": "āśvana",
+  "paksa": "śudi",
+  "tithi": "8",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1682"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Newari phrase 'dayakā juroṃ' indicates that King Jayajitāmitramalla of Bhaktapur caused the manuscript to be prepared.",
+ "_meta": {
+  "reel": "A 445/15",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 696,
+  "out_tok": 1005
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nārāyaṇaśvala",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ri(!)ṣi(!)taṃ nārāyaṇaśvala",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 884 pauṣavadi 14 maṃgalavā(!)la kuhnu",
+  "era": "NS",
+  "year": "884",
+  "month": "pauṣa",
+  "paksa": "vadi",
+  "tithi": "14",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1764"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The ending '-śvala' in 'nārāyaṇaśvala' may either be part of the personal name (Nārāyaṇaśvala / Nārāyaṇaśvara) or a Newari verbal form (e.g. svala = 'examined/copied').",
+ "_meta": {
+  "reel": "B 264/15",
+  "model": "gemini-flash-latest",
+  "secs": 6.2,
+  "in_tok": 803,
+  "out_tok": 1388
+ }
+}

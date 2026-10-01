@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viṣṇusiṃha",
+   "name": "Viṣṇusiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiṭaṃ viṣṇusiṃha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 810 jyeṣṭhakṛṣṇapratipadyāṃ (!) tithau",
+  "era": "NS",
+  "year": "810",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "pratipad",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1690"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 972/1",
+  "model": "gemini-flash-latest",
+  "secs": 2.9,
+  "in_tok": 753,
+  "out_tok": 640
+ }
+}

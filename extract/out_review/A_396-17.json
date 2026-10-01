@@ -1,0 +1,67 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed son_of relation: 'anamahaputaka' does not clearly contain putra; 'putaka' is more plausibly vernacular pustaka/potaka 'book', so it gives no basis for a father–son link",
+   "Kāśīnātha: dropped 'relative_only'; role now scribe (low confidence), following the catalogue",
+   "Hīrānanda: roles now owner + scribe (the 'pustaka' reading makes him the owner, the catalogue makes him the scribe); confidence lowered to low",
+   "Date: 'saṃvat' without qualification in a Devanagari colophon is normally Vikrama; era set to VS, ce_approx 1676. The catalogue's ŚS 1733 is probably wrong",
+   "Notes added: śukla pakṣa with amāvāsyā is a contradiction, and 'di' is an inserted reading"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "hirānaṃda dīchīta",
+   "name": "Hīrānanda",
+   "roles": [
+    "owner",
+    "scribe"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "anamahaputaka (!) hirānaṃda dīchīta",
+   "confidence": "low"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kāsīnātha",
+   "name": "Kāśīnātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāsīnātha anamahaputaka (!)",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1733 sāvana su[[di]] amavasa (!)",
+  "era": "VS",
+  "year": "1733",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla (as written; conflicts with amāvāsyā)",
+  "tithi": "amāvāsyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1676"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'kāsīnātha anamahaputaka (!) hirānaṃda dīchīta' is a corrupt vernacular (Hindi-type) phrase. 'putaka' most likely stands for pustaka 'book', i.e. '... book of Hīrānanda Dīkṣita'. On that reading Hīrānanda would be the owner and Kāśīnātha possibly the scribe. A reading as putra/putraka 'son' cannot be ruled out, but it is unsupported. The catalogue lists both men as scribes. The era is not named. In a North Indian Devanagari colophon, plain 'saṃvat' is normally Vikrama: VS 1733 is about 1676 CE. The catalogue's ŚS 1733 (about 1811 CE) is possible but less likely. 'sudi' (with 'di' marked as an inserted or uncertain reading) clashes with amāvāsyā, which falls at the end of the dark fortnight. Either the pakṣa is a slip or the tithi is meant as the new moon closing the month. The 'yathāprati tathā' formula means the copy follows its exemplar.",
+ "_meta": {
+  "reel": "A 396/17",
+  "model": "opus",
+  "cost_usd": 0.083038,
+  "secs": 19.2
+ }
+}

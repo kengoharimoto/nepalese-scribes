@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dāmodara",
+   "name": "Dāmodara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dāmodara kṛtaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmaheśvarānandena",
+   "name": "Maheśvarānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "mahābauddhopāsaka"
+   ],
+   "affiliation": "",
+   "residence": "Lalitāpura",
+   "evidence": "likhitṃ śrīlalitāpuranagasya (!) mahābauddhopāśaka (!) śrīmaheśvarānandena samarpita",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1949 sāla miti māgha śukla 3",
+  "era": "VS",
+  "year": "1949",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1893"
+ },
+ "place": {
+  "as_written": "śrīlalitāpuranagasya (!)",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "Catalogue states date as SAM1959, but the colophon clearly reads saṃvat 1949 sāla.",
+ "_meta": {
+  "reel": "A 222/9",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 813,
+  "out_tok": 1111
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Era kept as VS, but the notes now say it is inferred: the colophon has only 'samvat' plus 'miti', which is the usual pattern for Vikrama dates in Devanagari manuscripts from Nepal.",
+   "ce_approx stays 1768 (1825−57). The notes add that Phālguna kṛṣṇa 6 of VS 1825 most likely falls in February/March 1769 CE.",
+   "Expanded the note on the catalogue's SAM 1872: it may belong to another part or another dated colophon of reel B 260/2, so it does not have to be a misreading."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1825 miti phā. va 6",
+  "era": "VS",
+  "year": "1825",
+  "month": "Phālguna (phā.)",
+  "paksa": "kṛṣṇa (va = vadi)",
+  "tithi": "6",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1768"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is not stated. 'samvat ... miti' in a Devanagari manuscript points to Vikrama Saṃvat, so 1825 VS gives about 1768 CE; Phālguna vadi 6 would most likely be in Feb/Mar 1769 CE. The catalogue field says SAM 1872 (about 1815 CE), which does not match the 1825 quoted from fol. 172v (Anuśāsanaparvan end). The 1872 date may come from another part of the multi-part reel B 260/2, or it may be a catalogue error. The colophon names no scribe, patron or other historical person. 'vaiyāsakyāṃ saṃhitāyāṃ' is part of the title formula, so Vyāsa is not recorded as a person.",
+ "_meta": {
+  "reel": "B 260/2b",
+  "model": "opus",
+  "cost_usd": 0.0601652,
+  "secs": 14.3
+ }
+}

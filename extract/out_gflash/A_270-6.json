@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "miśraśrīharihara",
+   "name": "Harihara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "Śarayūpārīya, Vatsavaṃśa",
+   "residence": "",
+   "evidence": "miśraśrīhariharasaṃgṛhītā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīhariśarmaṇa",
+   "name": "Hariśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīhariśarmaṇa(!) likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1777 cāndrād āṣāḍhakṛṣna(!)saptamyāṃ gurau",
+  "era": "ŚS",
+  "year": "1777",
+  "month": "Āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "saptamī",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1855"
+ },
+ "place": {
+  "as_written": "kāṃtīpure",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 270/6",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 752,
+  "out_tok": 1163
+ }
+}

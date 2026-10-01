@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kālidāsaviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "chavilālavipra",
+   "name": "Chavilāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ chavilālavipra",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1888 sāla miti phālguṇa śu di 9 roja 1",
+  "era": "VS",
+  "year": "1888",
+  "month": "phālguṇa",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "roja 1 (Sunday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1832"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The manuscript breaks off after the scribe's designation chavilālavipra///.",
+ "_meta": {
+  "reel": "A 978/4",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 714,
+  "out_tok": 883
+ }
+}

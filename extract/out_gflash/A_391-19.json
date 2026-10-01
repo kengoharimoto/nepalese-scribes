@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jyotirvviccakrapāṇi",
+   "name": "Cakrapāṇi",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījyotirvviccakrapāṇiviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "paraśurāmeṇa",
+   "name": "Paraśurāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paraśurāmeṇa svayamāler iva",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1661 varṣe | caitreśudi 9 gurau",
+  "era": "VS",
+  "year": "1661",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "guruwāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1604"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtha",
+ "notes": "\"svayamāler iva\" appears to be a corrupt reading of svayam ālekhi (\"copied by himself\").",
+ "_meta": {
+  "reel": "A 391/19",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 724,
+  "out_tok": 975
+ }
+}

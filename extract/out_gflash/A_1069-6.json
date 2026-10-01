@@ -1,0 +1,83 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmadaivajña",
+   "name": "Rāma",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmadaivajña viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīrājadaivajña jīvānanda",
+   "name": "Jīvānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "rājadaivajña"
+   ],
+   "affiliation": "",
+   "residence": "kāṭhalaṃṣu",
+   "evidence": "śrīrājadaivajña jīvānandakkāṭhalaṃṣu ... saṃpūrṇa cāsyaṃ viyājulo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "daivajñabhāju manadājusta",
+   "name": "Manadāju",
+   "roles": [
+    "beneficiary",
+    "owner"
+   ],
+   "titles": [
+    "daivajña",
+    "bhāju"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñabhāju manadājusta saṃpūrṇa cāsyaṃ viyājulo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "jīvānandakkāṭhalaṃṣu daivajñabhāju manadājusta saṃpūrṇa cāsyaṃ viyājulo"
+  }
+ ],
+ "date": {
+  "as_written": "śrīnepāla samvat 953 vikramādi samvat 1890 sāla adhīkabhādrapada śudi 15 roja 6",
+  "era": "NS",
+  "year": "953",
+  "month": "adhīkabhādrapada",
+  "paksa": "śudi",
+  "tithi": "15",
+  "weekday": "6",
+  "nakshatra_yoga": "",
+  "ce_approx": "1833"
+ },
+ "place": {
+  "as_written": "kāṭhalaṃṣu",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The colophon gives both Nepāla Saṃvat 953 and Vikrama Saṃvat 1890. 'kāṭhalaṃṣu' likely stands for Kāṣṭhamaṇḍape / Kathmandu (or a specific tole in Kathmandu/Patan). The scribe Jīvānanda completed and gave (cāsyaṃ viyājulo) the copy to Daivajñabhāju Manadāju.",
+ "_meta": {
+  "reel": "A 1069/6",
+  "model": "gemini-flash-latest",
+  "secs": 7.9,
+  "in_tok": 775,
+  "out_tok": 1720
+ }
+}

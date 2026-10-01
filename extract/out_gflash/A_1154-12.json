@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrudradāsena",
+   "name": "Rudradāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "śrīsohalanihmaṃ",
+   "evidence": "likhita śrīrudradāsena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 541 poṣa śuddhi paurṇamī śukravāsare",
+  "era": "NS",
+  "year": "541",
+  "month": "poṣa",
+  "paksa": "śukla",
+  "tithi": "paurṇamī",
+  "weekday": "śukravāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1421"
+ },
+ "place": {
+  "as_written": "śrīsohalanihmaṃ",
+  "normalized": "Patan"
+ },
+ "purpose": "svaparārtha",
+ "notes": "The manuscript contains multiple short texts; the first portion was completed on NS 541 Pauṣa śukla 15 Friday by Rudradāsa. A subsequent short section (mṛtāntariṣṭi / pretayajña) was finished on śukla 2 Sunday and signed by dvījavara Rudra... residing at Śrīsohalanihma (identified by the cataloguer as Svanihma, Patan).",
+ "_meta": {
+  "reel": "A 1154/12",
+  "model": "gemini-flash-latest",
+  "secs": 9.3,
+  "in_tok": 851,
+  "out_tok": 2007
+ }
+}

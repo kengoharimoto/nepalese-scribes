@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahākavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahākavi śrīkālidāsa viracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rāghaveṇa",
+   "name": "Rāghava",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāghaveṇa ... likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "paṃ nṛsiṃha",
+   "name": "Nṛsiṃha",
+   "roles": [
+    "beneficiary",
+    "reader"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṃ nṛsiṃha paṭhanārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "rāghaveṇa paṃ nṛsiṃha paṭhanārthaṃ ... likhitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1644 varṣe phāguṇa śudi 10 some",
+  "era": "VS",
+  "year": "1644",
+  "month": "phāguṇa",
+  "paksa": "śudi",
+  "tithi": "10",
+  "weekday": "some",
+  "nakshatra_yoga": "",
+  "ce_approx": "1588"
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "paṃ nṛsiṃha paṭhanārthaṃ",
+ "notes": "",
+ "_meta": {
+  "reel": "B 390/10",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 742,
+  "out_tok": 1229
+ }
+}

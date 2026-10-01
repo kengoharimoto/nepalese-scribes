@@ -1,0 +1,56 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name normalized to 'Jayasiṃhamalla': the varman suffix (written -varmmaṇa) is moved to titles, like śarman. He is a mahāpātra, not a king, so -malla stays as part of his personal name",
+   "p1 titles split into 'pradhānāṅga' and 'mahāpātra', and 'varman' added",
+   "p1 affiliation given as the family (kuṭumba) of Hnolavihāra; residence changed to Lalitapura without asserting vihāra residence",
+   "purpose clarified: sattvārtha means for the benefit of beings, not svārtha",
+   "notes expanded: the catalogue's 'King: Jayasiṃha Malla' is a misreading; the colophon names no reigning king"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījayasīhamallavarmmaṇena",
+   "name": "Jayasiṃhamalla",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "pradhānāṅga",
+    "mahāpātra",
+    "varman"
+   ],
+   "affiliation": "Hnolavihāra kuṭumba (family)",
+   "residence": "Lalitapura",
+   "evidence": "śrīhnolavihārakuṭumbodbhavapradhānāṅgamahāpātraśrījayasīhamallavarmmaṇena ... svahastena likṣitaṃ ... pustakam idañ ca śrījayasīhamallavarmmaṇasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 496 māghakṛṣṇapañcamyān tithau || svātinakṣatre || dhruvayoge || somavāsaradine",
+  "era": "NS",
+  "year": "496",
+  "month": "Māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "pañcamī",
+  "weekday": "Monday (somavāsara)",
+  "nakshatra_yoga": "Svāti nakṣatra; Dhruva yoga",
+  "ce_approx": "1376"
+ },
+ "place": {
+  "as_written": "śrīnepāladeśe śrīśrīśrīpaśupatipaṭanād dakṣiṇasyān diśi || śrīvāghamatyāyān dakṣinākūle || śrīlalitapure śrīmānīgalottraravihāre",
+  "normalized": "Patan"
+ },
+ "purpose": "sattvārthahetunā (for the benefit of beings); copied with his own hand and owned by the scribe",
+ "notes": "The catalogue lists 'King: Jayasiṃha Malla', but the colophon names no reigning king. Jayasīhamallavarman is a pradhānāṅga mahāpātra of the Hnolavihāra family and copied the manuscript himself (svahastena likṣitam). The catalogue seems to have mistaken this nobleman of Patan for a king. Jayasīha is read as Jayasiṃha. The vihāra name Mānīgalottaravihāra is written 'mānīgalottra-' and probably refers to a vihāra at Mangal Bazaar, Patan. NS 496 Māgha kṛṣṇa 5 falls in early 1376 CE; the weekday has not been checked. Hariścandra, Karṇa, Śibi, Jīmūtavāhana and others named in the closing verses are legendary figures and are not included as persons.",
+ "_meta": {
+  "reel": "A 17/10",
+  "model": "opus",
+  "cost_usd": 0.100914,
+  "secs": 21.0
+ }
+}

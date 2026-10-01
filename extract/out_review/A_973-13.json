@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Added role 'owner' for Tīrtharāja: 'racasya pāṭhārthahetukam' most plausibly = 'svasya pāṭhārthahetukam' (copied for his own study), so he is scribe and owner",
+   "Normalised paksa to 'kṛṣṇa (vadi)'",
+   "Purpose rephrased as svārtha (own study), marked conjectural",
+   "Notes expanded: 'leleṣat' = lilekha/alekhat (wrote); bhūdeva = brahmin; Varṇakośa also copied by him; month dating for CE"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrītīrtharājo",
+   "name": "Tīrtharāja",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "bhūdeva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhūdeva śrītīrtharājo vījakośaṃ (!) leleṣat (!) || varṇakośaṃ ca tad api racasya pāṭhārthahetukam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1892 miti āṣāḍavadi",
+  "era": "VS",
+  "year": "1892",
+  "month": "Āṣāḍha",
+  "paksa": "kṛṣṇa (vadi)",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1835"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtha: for his own study (pāṭhārtha), if 'racasya' = 'svasya'",
+ "notes": "'leleṣat (!)' is a corrupt form of 'lilekha'/'alekhat' (wrote). 'bhūdeva' means 'brahmin' and is kept as a title. 'racasya' is probably a corruption of 'svasya' (his own), so the scribe copied the Vījakoṣa and also the Varṇakośa for his own study. That reading is the basis for the 'owner' role, but it is a conjecture, and 'racayya' (having composed) is also possible. No tithi is given after 'āṣāḍavadi'. Taking VS 1892 as caitrādi, the dark half of Āṣāḍha falls around June–July 1835 CE. The catalogue's scribe and date fields agree with the colophon.",
+ "_meta": {
+  "reel": "A 973/13",
+  "model": "opus",
+  "cost_usd": 0.07194600000000001,
+  "secs": 14.2
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivaḥ",
+   "name": "Śiva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śivaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śakeṣṭa dvinagābjābde paṃcānanagete ravau | sitedale daśabhyāṃ sūryaje",
+  "era": "ŚS",
+  "year": "1728",
+  "month": "Siṃha",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1806"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'aṣṭa-dvi-naga-abja' corresponds to Śaka 1728 (aṣṭa=8, dvi=2, naga=7, abja=1). The catalogue erroneously lists this simply as SAM 1728.",
+ "_meta": {
+  "reel": "A 1024/14",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 714,
+  "out_tok": 1240
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date verified: vahni(3)-śūnya(0)-śara(5) read right to left = NS 503; 'aśunyāś' read as āśvinyāṃ/āśvina; kāma = 13th tithi; bhṛgudina = Friday; ce_approx 1383 confirmed",
+   "Purpose cleared: 'suśraddhayā' (with devotion) describes how the copy was made, not its purpose; moved to notes",
+   "p2 (Vīrasiṃha) confidence lowered to medium: 'vīraśiṃhāvidhānena' is probably corrupt for vīrasiṃhābhidhānena ('by the one named Vīrasiṃha'), which parallels maṇikākhyena; read literally as 'by Vīrasiṃha's arrangement', it would make him the commissioner",
+   "p1 (Maṇika) confidence lowered to medium, and his evidence widened to include the description of the damaged exemplar",
+   "Notes expanded"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "maṇikākhyena",
+   "name": "Maṇika",
+   "roles": [
+    "corrector"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "asaṃpūrṇṇā samālokya maṇikākhyena pūritā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vīraśiṃhāvidhānena",
+   "name": "Vīrasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vīraśiṃhāvidhānena likhitañ ca suśraddhayā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vahniśūnyaśare yāte nepālābdi vidhīyate | aśunyāś ca site pakṣe tithau kāma bhṛgudine",
+  "era": "NS",
+  "year": "503",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1383"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is a bhūtasaṃkhyā: vahni = 3, śūnya = 0, śara = 5, read right to left = NS 503. 'aśunyāś' is corrupt, probably for āśvinyāṃ (the month Āśvina). 'kāma' stands for the 13th tithi, as the catalogue also gives. The verse says the book was insect-eaten (kīṭalīḍhākṣarām), badly written, and incomplete, so the one named Maṇika completed it (pūritā). Maṇika may therefore have supplied the missing portions as a scribe, not only corrected them. 'vīraśiṃhāvidhānena' is probably corrupt for vīrasiṃhābhidhānena ('by the one named Vīrasiṃha'), so he is taken as the scribe, which agrees with the catalogue. Read literally as vidhāna ('by arrangement of'), it would make Vīrasiṃha the commissioner instead. It is unclear whether Maṇika's completion happened at the same time as Vīrasiṃha's copy or later. The last line, 'saptamīvratarājeśaṃ dvijāya saṃprabodhitaṃ', seems to say the vrata story was expounded to a brahmin. That refers to the text's content, not to this copy's purpose, and no beneficiary is named.",
+ "_meta": {
+  "reel": "B 13/40",
+  "model": "opus",
+  "cost_usd": 0.1428502,
+  "secs": 30.2
+ }
+}

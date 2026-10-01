@@ -1,0 +1,47 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": []
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdharopādhyāyena",
+   "name": "Śrīdhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdharopādhyāyenālekhi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon has no date or place. The 'śrī' in śrīdharopādhyāyena belongs to the name Śrīdhara and is not an honorific. The colophon does not name the author of the root text (Hastāmalaka) or of the Subodhinī commentary, so no author is recorded. This matches the catalogue's scribe field.",
+ "_meta": {
+  "reel": "B 80/18",
+  "model": "opus",
+  "cost_usd": 0.042551,
+  "secs": 8.4
+ }
+}

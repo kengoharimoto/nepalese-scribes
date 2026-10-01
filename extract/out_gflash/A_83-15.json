@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jaya(4)jitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śrī sumati jaya(4)jitāmitramalladevasana dayakā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 815 kārttikā śudī 13",
+  "era": "NS",
+  "year": "815",
+  "month": "kārttikā",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1694"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "King Jayajitāmitramalla of Bhaktapur commissioned the manuscript ('dayakā juro').",
+ "_meta": {
+  "reel": "A 83/15",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 708,
+  "out_tok": 1092
+ }
+}

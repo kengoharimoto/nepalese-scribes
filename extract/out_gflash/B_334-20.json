@@ -1,0 +1,72 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmāhīdharakṛte",
+   "name": "Māhīdhara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmāhīdharakṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīkṛṣṇajyotirvidaḥ",
+   "name": "Śrīkṛṣṇa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "Rāmanagara",
+   "evidence": "pustakaṃ śrīkṛṣṇajyotirvidaḥ rāmanagara vāle",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bhāū daivajñasyedaṃ",
+   "name": "Bhāū",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāū daivajñasyedaṃ pustakaṃ jagajjānātu",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Two separate ownership statements are present: one for Śrīkṛṣṇa Jyotirvid of Rāmanagara and another for Bhāū Daivajña.",
+ "_meta": {
+  "reel": "B 334/20",
+  "model": "gemini-flash-latest",
+  "secs": 8.8,
+  "in_tok": 725,
+  "out_tok": 1913
+ }
+}

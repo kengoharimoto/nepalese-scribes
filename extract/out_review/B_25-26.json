@@ -1,0 +1,35 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday normalized from 'budhadina' to 'budha' (Wednesday)",
+   "notes revised: in NGMCP quotations, parentheses around a number usually mean it is written in numerals, not that it is uncertain or reconstructed. The catalogue's '?' does flag doubt. The era is only 'samvat' in the colophon, and NS is inferred from the Newari script and the catalogue",
+   "persons, relations, date fields and ce_approx 1180 (NS 300 + 880) confirmed"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat (300) bhādrapadaśuklatrayodaśyāṃ budhadine",
+  "era": "NS",
+  "year": "300",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "trayodaśī",
+  "weekday": "budha",
+  "nakshatra_yoga": "",
+  "ce_approx": "1180"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names no persons: there is no scribe, commissioner or owner. The era is given only as 'samvat'. NS is inferred from the Newari script and the catalogue field, which marks the date with '?'. The parentheses around 300 follow NGMCP's practice for numerals, so they do not by themselves mark the reading as uncertain. The weekday (Wednesday on Bhādrapada śukla 13, NS 300, Aug/Sep 1180 CE) has not been checked against an ephemeris. If it fails to match, the year reading may be wrong. 'dvādaśasāha | sre' is a line break inside 'dvādaśasāhasre' (the 12,000-verse recension). This is chapter 32 (tripurāyoga) of the Kubjikāmata. If the date is correct, this is a very early dated copy.",
+ "_meta": {
+  "reel": "B 25/26",
+  "model": "opus",
+  "cost_usd": 0.064058,
+  "secs": 12.1
+ }
+}

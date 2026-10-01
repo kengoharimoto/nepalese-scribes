@@ -1,0 +1,55 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "keśava",
+   "name": "Keśava",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "keśavapaddhatiḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gurunāthena",
+   "name": "Gurunātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gurunāthena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1794 śake 1659 śrāvaṇavadi 4 budhe",
+  "era": "VS",
+  "year": "1794 (ŚS 1659)",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "4",
+  "weekday": "budhe",
+  "nakshatra_yoga": "",
+  "ce_approx": "1737"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthaṃ",
+ "notes": "The catalogue records a donor named Vināyakakṛṣṇaśarmā/śrīkṛṣṇa, but this name does not appear in the quoted colophon.",
+ "_meta": {
+  "reel": "A 413/9",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 730,
+  "out_tok": 1350
+ }
+}

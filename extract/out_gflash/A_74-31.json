@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śiromaṇibhaṭṭācārya",
+   "name": "Śiromaṇi",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śiromaṇibhaṭṭācāryaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "pāḍe ity upanāmakena padmāratnākareṇa",
+   "name": "Padmāratnākara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "pāḍe"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pāḍe ity upanāmakena padmāratnākareṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1960 śāla pauṣaśukraṣaṣṭhyāṃ tithau śukravāre rātrau",
+  "era": "VS",
+  "year": "1960",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "ṣaṣṭhī",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1903"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "pauṣaśukra° in the date is a scribal error for pauṣaśukla°. Padmāratnākara has the surname/upanāma Pāḍe (Pāṇḍe).",
+ "_meta": {
+  "reel": "A 74/31",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 757,
+  "out_tok": 1123
+ }
+}

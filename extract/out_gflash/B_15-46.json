@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "cānakya",
+   "name": "Cāṇakya",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "cānakyabhāṣitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vipraśrīrūpeśvarasya",
+   "name": "Rūpeśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liti(!) vipraśrīrūpeśvarasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "mahattakaśrīajarāmadevasya",
+   "name": "Ajarāmadeva",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "mahattaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahattakaśrīajarāmadevasya pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "liti(!) vipraśrīrūpeśvarasya || mahattakaśrīajarāmadevasya pustakaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 458 caitrabadi 3",
+  "era": "NS",
+  "year": "458",
+  "month": "caitra",
+  "paksa": "badi",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1338"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "liti(!) is likely a scribal corruption of likhitam.",
+ "_meta": {
+  "reel": "B 15/46",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 708,
+  "out_tok": 1227
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajña cukunana",
+   "name": "Cukuna",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "Gālati",
+   "evidence": "gālatiyā daivajña cukunana thavatā coya dhūnakā dina",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 887 māgha vadi 5",
+  "era": "NS",
+  "year": "887",
+  "month": "māgha",
+  "paksa": "vadi",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1767"
+ },
+ "place": {
+  "as_written": "gālatiyā",
+  "normalized": "Galatī"
+ },
+ "purpose": "svārtha (thavatā)",
+ "notes": "Newari 'thavatā coya dhūnakā dina' indicates the copy was finished by Daivajña Cukuna of Gālati for his own use.",
+ "_meta": {
+  "reel": "A 424/13",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 709,
+  "out_tok": 917
+ }
+}

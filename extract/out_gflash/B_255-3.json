@@ -1,0 +1,86 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śriśrījayanarasiṃhadeva",
+   "name": "Jayanarasiṃhadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "bhūpālacakracūḍāmaṇi"
+   ],
+   "affiliation": "",
+   "residence": "lalitapaṭhṭhanamahārāṣṭra",
+   "evidence": "rājādhirājaśrīvikramanārāyaṇāvaraśriśrījayanarasiṃhadevabhūpālacakracūḍāmaṇinā pālite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "viṣṇudāśena",
+   "name": "Viṣṇudāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "lekhaka"
+   ],
+   "affiliation": "karaṇavaṃśa",
+   "residence": "",
+   "evidence": "viṣṇudāśena aṣṭādaśaparvvamahābhāratasvākṣarena svārthaṃ lekhakena likhitam idaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrībhāratasiṃhātmajena",
+   "name": "Bhāratasiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhāratasiṃhātmajena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "śrībhāratasiṃhātmajena ... viṣṇudāśena"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "jayanarasiṃhadevabhūpālacakracūḍāmaṇinā pālite lalitapaṭhṭhanamahārāṣṭre ... viṣṇudāśena ... likhitam idaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "vasuradhrarase (!) yāte neplābdeṣu mādhave | śuke kho caturthyāyāṃ",
+  "era": "NS",
+  "year": "698",
+  "month": "mādhava",
+  "paksa": "śukla",
+  "tithi": "caturthī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1578"
+ },
+ "place": {
+  "as_written": "lalitapaṭhṭhanamahārāṣṭre",
+  "normalized": "Patan"
+ },
+ "purpose": "svārthaṃ",
+ "notes": "The chronogram 'vasu-radhra-rase' gives 8-9-6, reversed to NS 698 (though the catalogue gives NS 689). The epithet 'śrīvikramanārāyaṇāvara' is likely a corruption for 'śrīvikramanārāyaṇāvatāra'.",
+ "_meta": {
+  "reel": "B 255/3",
+  "model": "gemini-flash-latest",
+  "secs": 12.4,
+  "in_tok": 930,
+  "out_tok": 2648
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "maheśvaropādhyāya",
+   "name": "Maheśvara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "maheśvaropādhyāya suta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrībhāskarācārya",
+   "name": "Bhāskara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "maheśvaropādhyāya sutaśrībhāskarācārya viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "raviśarmaṇā",
+   "name": "Raviśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitamidaṃ pustakaṃ raviśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "maheśvaropādhyāya suta"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1712 śrī saṃvatsaraḥ 1847 bhādrapada amāvāsyāṃ vudhe",
+  "era": "ŚS",
+  "year": "1712 (VS 1847)",
+  "month": "bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "amāvāsyā",
+  "weekday": "budha",
+  "nakshatra_yoga": "",
+  "ce_approx": "1790"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "parārtha",
+ "notes": "The colophon provides dates in both Śāka (1712) and Vikrama Saṃvat (1847), corresponding to 1790 CE.",
+ "_meta": {
+  "reel": "B 351/8",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 812,
+  "out_tok": 1343
+ }
+}

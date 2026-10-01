@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "durlabharāma",
+   "name": "Durlabharāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ ga (!) durlabharāma",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1836 bhādrapadavadī 1 vāra śani",
+  "era": "VS",
+  "year": "1836",
+  "month": "bhādrapada",
+  "paksa": "vadī",
+  "tithi": "1",
+  "weekday": "śani",
+  "nakshatra_yoga": "",
+  "ce_approx": "1779"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists a donor 'Bala[[bha]]rāma', but no such name appears in the provided colophon excerpt.",
+ "_meta": {
+  "reel": "A 386/11",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 689,
+  "out_tok": 996
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmajjagannāthāśramaśrīmatpūjyapāda",
+   "name": "Jagannāthāśrama",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya",
+    "pūjyapāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmajjagannāthāśramaśrīmatpūjyapādaśiṣya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīnṛsiṃhāśramamuni",
+   "name": "Nṛsiṃhāśrama",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "muni"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnṛsiṃhāśramamuniviracito",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "durgādattena",
+   "name": "Durgādatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhito durgādattena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śrīmajjagannāthāśramaśrīmatpūjyapādaśiṣya"
+  }
+ ],
+ "date": {
+  "as_written": "miºº caiºº kṛºº 1 caṃdre saṃvat 1916",
+  "era": "VS",
+  "year": "1916",
+  "month": "Caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "1",
+  "weekday": "caṃdre",
+  "nakshatra_yoga": "",
+  "ce_approx": "1859"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 899/5",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 768,
+  "out_tok": 1190
+ }
+}

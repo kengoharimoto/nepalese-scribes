@@ -1,0 +1,163 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p4 Trivikramasena: role changed from 'king' to 'other'. He is the patron of the commentator ('prabhvāśritena', read as prabhu-āśritena), not a ruler shown to be reigning when this copy was made in ŚS 1727. The catalogue field 'King' likely carries over the composition-time patron.",
+   "Relation p1→p4 changed from under_reign_of to servant_of (the commentator was a dependant of the king).",
+   "p6 Revatīramaṇa: removed residence 'Gokhuragrāma'. The colophon gives it only as the place of copying.",
+   "p1 confidence lowered to low: 'Pāṇḍe' is only the surname (upanāmaka), and the personal name is not given.",
+   "Notes rewritten: corrupt readings explained and typo corrected."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pāṃḍe ityupanāmaka",
+   "name": "Pāṇḍe",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "Cittapāvana",
+   "residence": "",
+   "evidence": "pāṃḍe ityupanāmaka viracitāyām amaradīpikāyāṃ",
+   "confidence": "low"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī mukuṃda bhaṭṭātmajaḥ",
+   "name": "Mukunda",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "Cittapāvana",
+   "residence": "",
+   "evidence": "citta pāvana śrī mukuṃda bhaṭṭātmajaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrī viśvanāthabhaṭṭāṃ ghrilaghavidhyena",
+   "name": "Viśvanātha",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī viśvanāthabhaṭṭāṃ ghrilaghavidhyena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrī manmahārādhirājapārvata viṣayādhipa śrī trivikramasena",
+   "name": "Trivikramasena",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "pārvataviṣayādhipa"
+   ],
+   "affiliation": "",
+   "residence": "Parvata",
+   "evidence": "pārvata viṣayādhipa śrī trivikramasena pramvāśritena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "mamarasiṃhakṛta",
+   "name": "Amarasiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mamarasiṃhakṛta nāmaliṃgānuśāsana",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "revatīramaṇa śarmaṇā",
+   "name": "Revatīramaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitamidaṃ pustakaṃ rupanārāyaṇātmaja revatīramaṇa śarmaṇā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "rupanārāyaṇātmaja",
+   "name": "Rūpanārāyaṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rupanārāyaṇātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrī mukuṃda bhaṭṭātmajaḥ"
+  },
+  {
+   "from": "p1",
+   "type": "pupil_of",
+   "to": "p3",
+   "evidence": "śrī viśvanāthabhaṭṭāṃ ghrilaghavidhyena"
+  },
+  {
+   "from": "p1",
+   "type": "servant_of",
+   "to": "p4",
+   "evidence": "śrī trivikramasena pramvāśritena"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p7",
+   "evidence": "rupanārāyaṇātmaja revatīramaṇa śarmaṇā"
+  }
+ ],
+ "date": {
+  "as_written": "śrī śāke 1727 māse 6",
+  "era": "ŚS",
+  "year": "1727",
+  "month": "6 (sixth month, unnamed)",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1805"
+ },
+ "place": {
+  "as_written": "gokhuragrāme",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Corrupt readings: 'dāṇIṇātya' = dākṣiṇātya; 'viśvanāthabhaṭṭāṃ ghrilaghavidhyena' = viśvanāthabhaṭṭāṅghrilabdhavidyena ('who gained learning at the feet of Viśvanātha Bhaṭṭa'); 'manmahārādhirāja' = śrīmanmahārājādhirāja; 'pramvāśritena' probably = prabhvāśritena ('dependent on [his] lord'). The commentator of the Amaradīpikā is named only by his surname Pāṇḍe. He is described as a Cittapāvana (Chitpavan) brahmin of the South, son of Mukunda Bhaṭṭa and pupil of Viśvanātha Bhaṭṭa. Strictly, the Cittapāvana epithet qualifies the father inside the compound, and the commentator is assumed to share it. Trivikramasena, overlord of Parvata, was the commentator's patron. His role is recorded as 'other', not reigning king of this copy, although the catalogue field lists him as King. The colophon does not show whether he was still ruling in ŚS 1727 (c. 1805 CE). The scribe Revatīramaṇa, son of Rūpanārāyaṇa, copied the manuscript at Gokhuragrāma, which is not identified.",
+ "_meta": {
+  "reel": "A 322/5",
+  "model": "opus",
+  "cost_usd": 0.12266999999999999,
+  "secs": 28.8
+ }
+}

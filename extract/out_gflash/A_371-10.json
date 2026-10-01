@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīraṃgarājādhvarindra",
+   "name": "Raṅgarājādhvarin",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "adhvarīndra"
+   ],
+   "affiliation": "Bharadvāja gotra",
+   "residence": "",
+   "evidence": "śrīraṃgarājādhvarindravarasūnor",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "apyadīkṣitasya",
+   "name": "Appayadīkṣita",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "advaitavidyācārya",
+    "dīkṣita"
+   ],
+   "affiliation": "Bharadvāja gotra",
+   "residence": "",
+   "evidence": "apyadīkṣitasya kṛ(7)ti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīraṃgarājādhvarindravarasūnor apyadīkṣitasya"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1799 mītī (!) māgha vadī daśamī",
+  "era": "unspecified",
+  "year": "1799",
+  "month": "māgha",
+  "paksa": "vadī",
+  "tithi": "daśamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1742"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date formula (mītī māgha vadī daśamī) in Devanagari typically refers to Vikrama Saṃvat 1799 (c. 1742 CE). The final corrupt phrase '†phe pothgasā†' is unclear.",
+ "_meta": {
+  "reel": "A 371/10",
+  "model": "gemini-flash-latest",
+  "secs": 8.4,
+  "in_tok": 733,
+  "out_tok": 1675
+ }
+}

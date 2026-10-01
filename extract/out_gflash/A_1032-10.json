@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "naṃdarāsa",
+   "name": "Nandarāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "naṃdarāsa viracitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1762 śrīsamvat 1897 sālamiti caitraśudi 9 roja 6",
+  "era": "ŚS",
+  "year": "1762 (ŚS) / 1897 (VS)",
+  "month": "caitra",
+  "paksa": "śudi",
+  "tithi": "9",
+  "weekday": "roja 6",
+  "nakshatra_yoga": "",
+  "ce_approx": "1840"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śaka era 1762 and Vikrama Saṃvat 1897 are given, corresponding to CE 1840. The author is the famous poet Nandadāsa (written here as Naṃdarāsa).",
+ "_meta": {
+  "reel": "A 1032/10",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 715,
+  "out_tok": 898
+ }
+}

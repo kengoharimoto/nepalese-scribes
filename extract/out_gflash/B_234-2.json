@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsomaśarmmā",
+   "name": "Somaśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsomaśarmmālikhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvatsale(!) vyomagajādriyāte bhūteśabhūddhisthitahīnapakṣe, jyeṣṭhādhimāsetiti(!) pūrṇṇamāśyāṃ",
+  "era": "NS",
+  "year": "780",
+  "month": "jyeṣṭhādhimāsa",
+  "paksa": "śukla",
+  "tithi": "pūrṇamāśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1660"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "parārtha / paropakāra (?)",
+ "notes": "Year given in chronogram vyoma (0) - gaja (8) - adri (7) = NS 780. 'paro ...' at the end of fol. 85v7 likely stands for paropakārāya or parārthe.",
+ "_meta": {
+  "reel": "B 234/2",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 761,
+  "out_tok": 1359
+ }
+}

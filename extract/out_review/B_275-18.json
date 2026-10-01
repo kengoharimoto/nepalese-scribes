@@ -1,0 +1,54 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Name stem reduced to 'Gaṅgādhara'; 'varman' moved to titles only (suffix, analogous to śarman)",
+   "Removed residence 'thaṃ che' from the scribe: the colophon does not tie the Newari phrase 'thaṃ cheyā' to him",
+   "Place normalization 'Bhaktapur' removed: 'thaṃ cheyā' ('of the Thaṃ house') is not clearly a place of copying, and nothing points to Bhaktapur. Kept as written in place with doubt noted",
+   "ce_approx refined to 1675/76 (Pauṣa of NS 796 falls in Dec 1675–Jan 1676)",
+   "Scribe confidence lowered to medium because the name string is corrupt"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "davajñgaṃgādharavarmmane",
+   "name": "Gaṅgādhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña",
+    "varman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitadavajñgaṃgādharavarmmane",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 796 pauṣa śudi 11",
+  "era": "NS",
+  "year": "796",
+  "month": "pauṣa",
+  "paksa": "śudi",
+  "tithi": "11",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1675/76"
+ },
+ "place": {
+  "as_written": "thaṃ cheyā",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'likhitadavajñgaṃgādharavarmmane' is corrupt for 'likhitaṃ daivajñagaṅgādharavarmaṇā'. 'thaṃ cheyā' is Newari for '(belonging) to the Thaṃ house'. It may say who owned the book or which household it belonged to (cf. Thaṃ Bahī, Kathmandu), not where it was copied, so it is left unnormalized. The catalogue lists the kings Jitāmitramalla and Ugramalla, but the quoted colophon names neither, so they are left out. The date (NS 796) does fall in Jitāmitramalla's reign at Bhaktapur, so the copy may come from there, but the colophon does not say so.",
+ "_meta": {
+  "reel": "B 275/18",
+  "model": "opus",
+  "cost_usd": 0.077694,
+  "secs": 18.0
+ }
+}

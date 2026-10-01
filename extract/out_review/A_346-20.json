@@ -1,0 +1,35 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date fields cleared (era 'none'): 'gate manuśate śāke candrasvara-samanvite' is the author's composition verse, not a copying date. Its reading is Śaka 1471 (manu 14 hundreds + candra 1, svara 7 read right to left = 71), about 1549 CE. That reading is correct and is kept in the notes.",
+   "Place cleared: Nandīśvara is where the work was composed ('naṃdīśvare nivasatā bhāṇikeyaṃ vinirmmitā'), not where it was copied. It is moved to the notes.",
+   "Persons left empty. The author (Rūpa Gosvāmin) is not named in the colophon, and the 'priyasuhṛd' at whose command the work was written is anonymous."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives nothing about the copy itself: no scribe, commissioner, owner, copying date or copying place. All of it is the author's own closing text. It says the bhāṇikā was written at the command of an unnamed dear friend ('yasya nideśena ... tasya mama priyasuhṛdaḥ'). It was composed while living at Nandīśvara ('naṃdīśvare nivasatā bhāṇikeyaṃ vinirmmitā'), the hill at Nandgaon in Braj. The composition date is 'gate manuśate śāke caṃdrasvara(sa)manvite' (the cataloguer marks 'ramanvite' as corrupt with (!)). This reads as Śaka 1471, i.e. about 1549 CE. The work is Rūpa Gosvāmin's Dānakelikaumudī, but he is not named here. After this comes a definition of the bhāṇikā genre ('atha bhāṇikālakṣaṇaṃ ...'), quoted only in part (etc.), so a scribal colophon may follow on fol. 33v without being quoted.",
+ "_meta": {
+  "reel": "A 346/20",
+  "model": "opus",
+  "cost_usd": 0.073706,
+  "secs": 16.6
+ }
+}

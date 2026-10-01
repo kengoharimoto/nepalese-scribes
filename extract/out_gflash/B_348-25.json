@@ -1,0 +1,77 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkāśīnātha",
+   "name": "Kāśīnātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "sarvaśāstraviśārada"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsarvvaśāstra viśārada śrīkāśīnāthakṛtau lagnacaṃdrikā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kṛṣṇākhyena",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛṣṇākhyena prabodhakā(!) ... cālikhallagnacandrikā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śaivarāmasya",
+   "name": "Śaivarāma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śaivarāmasya pautrena(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "grandson_of",
+   "to": "p3",
+   "evidence": "śaivarāmasya pautrena(!)"
+  }
+ ],
+ "date": {
+  "as_written": "nepālābde ṣaḍrasebhe ... saṃvat 866 śrāvanamāse śukle paṃcamyāṃ śukravāre",
+  "era": "NS",
+  "year": "866",
+  "month": "śrāvana",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1746"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram in verse is ṣaḍ-rasa-ibha (6-6-8 = NS 866), confirmed by the prose date 'saṃvat 866'.",
+ "_meta": {
+  "reel": "B 348/25",
+  "model": "gemini-flash-latest",
+  "secs": 7.3,
+  "in_tok": 879,
+  "out_tok": 1860
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvāṣṭaka (!) kāyasta (!) hedayasiṃhena",
+   "name": "Hedayasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śrīvāstaka",
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhita śrīvāṣṭaka (!) kāyasta (!) hedayasiṃhena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nobhranaya (!) munivarṣe māsasyaśrāvaṇastathā śitapakṣe tṛrodaśī (!) samāptaṃ kuca dinena",
+  "era": "NS",
+  "year": "nobhranaya muni",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'nobhranaya-muni-varṣe' contains muni (7) as the highest digit, but the first two terms are corrupt (perhaps nava-abhra-muni = 709 NS [c. 1589 CE] or abhra-nayana-muni = 720 NS [c. 1600 CE]). 'śrīvāṣṭaka' is likely a corruption of Śrīvāstavya (a Kāyastha subgroup). 'kuca dina' represents Kujadina (Tuesday).",
+ "_meta": {
+  "reel": "B 337/27",
+  "model": "gemini-flash-latest",
+  "secs": 8.3,
+  "in_tok": 743,
+  "out_tok": 1380
+ }
+}

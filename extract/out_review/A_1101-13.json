@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday normalized to 'Monday (roja 2)' instead of the bare 'roja 2'",
+   "affiliation written as 'Garga gotra'",
+   "notes expanded: the century and era of '64 sāla' cannot be recovered; the closing verses are stock scribal formulae"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīviśvanātha",
+   "name": "Viśvanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Garga gotra",
+   "residence": "",
+   "evidence": "liṣitaṃ(!) gargagotrotpanno ʼhaṃ śrīviśvanātha hastākṣaram",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "64 sāla māghaśukla 1 roja 2",
+  "era": "unspecified",
+  "year": "64",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "Monday (roja 2)",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives the year only as '64 sāla', with no century and no era. Writing the date with 'sāla' and 'roja' points to the late Śāha period, so VS [19]64 (c. 1907/08 CE) is one possibility, but nothing in the colophon decides the era or the century, so ce_approx is left empty. 'roja 2' means Monday. The verses 'bhagnapṛṣṭikaṭigrīvā…' and 'yādṛśaṃ pustakaṃ dṛṣṭvā…' are stock scribal formulae. The colophon names no one who commissioned or owned the copy.",
+ "_meta": {
+  "reel": "A 1101/13",
+  "model": "opus",
+  "cost_usd": 0.064554,
+  "secs": 10.6
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāghaveṃdrācārya",
+   "name": "Rāghavendra",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāghaveṃdrācāryaviracitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃ 1919",
+  "era": "unspecified",
+  "year": "1919",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue interprets 'śrīsaṃ' as Śaka Saṃvat 1919 (1997 CE), but 'śrīsaṃvat' in nineteenth-century Nepal typically refers to Vikrama Saṃvat (VS 1919 ≈ 1862 CE).",
+ "_meta": {
+  "reel": "B 55/2a",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 698,
+  "out_tok": 1057
+ }
+}

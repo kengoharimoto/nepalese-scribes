@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devisihaju",
+   "name": "Devīsiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "ju"
+   ],
+   "affiliation": "",
+   "residence": "yajñagā",
+   "evidence": "devisihaju yāna cosyaṃ viyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 857 pauṣamāse, kṛṣṇapakṣa, pratidāyāṃ tithva, … budhavāra",
+  "era": "NS",
+  "year": "857",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "pratipad",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1737"
+ },
+ "place": {
+  "as_written": "yajñagā",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "yajñagā may refer to Yañgala (Kathmandu).",
+ "_meta": {
+  "reel": "B 282/15",
+  "model": "gemini-flash-latest",
+  "secs": 7.3,
+  "in_tok": 787,
+  "out_tok": 1208
+ }
+}

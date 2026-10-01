@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śaṃkarācāryya",
+   "name": "Śaṅkarācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśaṃ(1)karācāryyaviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīnepālīsamvat 1013 mi(2)ti phālguṇakṛṣṇa2 roja6",
+  "era": "NS",
+  "year": "1013",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "2",
+  "weekday": "roja6",
+  "nakshatra_yoga": "",
+  "ce_approx": "1893"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "jīrṇoddhāra",
+ "notes": "The manuscript was copied/restored from a damaged exemplar (jirṇṇa uddhārayānā). No copyist or commissioner is named.",
+ "_meta": {
+  "reel": "A 157/3",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 755,
+  "out_tok": 946
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed 'Pṛthvīpāla' (p3) as a person: pṛthvīpālasyālaya most likely means 'the residence/palace of the king' (pṛthvīpāla = king, a common noun), probably meaning Trivikramavarman's palace; this is now recorded only under place.",
+   "Trivikramavarman: removed 'commissioner' because the colophon only says the book is his (pustakam), with no likhāpita/lekhayāmāsa. Kept 'owner' and added 'king' with medium confidence, since he is called rājan and the copy was made at a king's palace.",
+   "Weekday changed to its normal form 'arkavāra' (Sunday); the colophon has ’kavāre.",
+   "Place: added a tentative reading of 'king's palace'.",
+   "Purpose filled in: the copy was made for the king's own book.",
+   "Notes: added a tentative decoding of the chronogram."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dakṣIṇāmūrtti",
+   "name": "Dakṣiṇāmūrti",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dakṣIṇāmūrtti viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gaṃgā viṣṇus",
+   "name": "Gaṅgāviṣṇu",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lilekha gaṃgā viṣṇus",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "trivikrama varmaṇo",
+   "name": "Trivikramavarman",
+   "roles": [
+    "owner",
+    "king"
+   ],
+   "titles": [
+    "rājan"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "trivikrama varmaṇo rājñādeḥ pustakaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "pṛthvīpālasyālayādo(!) lilekha gaṃgā viṣṇus ... trivikrama varmaṇo rājñādeḥ pustakaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "svāṃgarbhūrvī sammite śākalāe jyeṣṭhaye ṣaṣṭhyāṃ śuklapakṣe’kavāre",
+  "era": "ŚS",
+  "year": "svāṃgarbhūrvī (corrupt chronogram; possibly 1160)",
+  "month": "Jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "6 (ṣaṣṭhī)",
+  "weekday": "arkavāra (Sunday)",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "pṛthvīpālasyālayādo(!)",
+  "normalized": ""
+ },
+ "purpose": "book of King Trivikramavarman (copied at the king's palace)",
+ "notes": "'śākalāe' is probably a corruption of śākakāle, so the era is Śaka. The chronogram 'svāṃgarbhūrvī' is corrupt. One possible reading is kha (0), aṅga (6), bhū (1), urvī (1). Read right to left, that gives ŚS 1160, about 1238 CE. However, 'sva' is not a standard number-word: it could also be svara (7), giving ŚS 1167. I have left ce_approx blank for that reason. A 13th-century date also seems early for a Devanagari paper manuscript, so this needs checking against the weekday. 'pṛthvīpālasyālayādo(!)' is most likely pṛthvīpālasyālaye, 'in the king's palace'. The 'pṛthvīpāla' there is probably the common noun 'king', meaning Trivikramavarman, not a personal name. 'rājñādeḥ' could be rājñaḥ, or rājñā + ādeḥ/ādeśāt ('by the king's order'). If it is ādeśāt, Trivikramavarman would also be the commissioner. Read 'gaṃgā viṣṇustaṃtram' as Gaṅgāviṣṇus tantram. 'śubhadm' should be śubham.",
+ "_meta": {
+  "reel": "A 144/11",
+  "model": "opus",
+  "cost_usd": 0.10814599999999999,
+  "secs": 29.6
+ }
+}

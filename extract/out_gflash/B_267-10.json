@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "amarasiṃha",
+   "name": "Amarasiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "amarasiṃhakṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat -‥53 naṣṭāṣāḍhaśukla (!) || daśami (!) || ci(2)trānakṣatra (!) || ravivāra (!) ... gate nepālake varṣe vanhivānagaje (!) saṃkhe (!) | śuklā(3)yāṃ malaṣāḍhasya (!)",
+  "era": "NS",
+  "year": "853",
+  "month": "naṣṭāṣāḍha (mala-āṣāḍha)",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "citrā",
+  "ce_approx": "1733"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is expressed both in numerals (-‥53) and via the chronogram vanhi-bāṇa-gaja (3-5-8 = NS 853).",
+ "_meta": {
+  "reel": "B 267/10",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 775,
+  "out_tok": 860
+ }
+}

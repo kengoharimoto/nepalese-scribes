@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "urdhavasiṃ",
+   "name": "Urdhavasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "gāla iti",
+   "evidence": "likhitadaivajña gāla iti yā urdhavasiṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jayasinhu",
+   "name": "Jayasiṃha",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jayasinhuchesamukām",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīnepālasamvat || 923 || mārgaśila śudi 2 roja 7",
+  "era": "NS",
+  "year": "923",
+  "month": "mārgaśila",
+  "paksa": "śudi",
+  "tithi": "2",
+  "weekday": "roja 7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1802"
+ },
+ "place": {
+  "as_written": "jayasinhuchesamukām",
+  "normalized": "Patan"
+ },
+ "purpose": "śrīśrīśrīcaṇḍikā devyai prīty arthaṃ",
+ "notes": "The cataloguer recorded the scribe as 'Jaya Siṃ', but the colophon reads 'likhitadaivajña gāla iti yā urdhavasiṃ jayasinhuchesamukām', which indicates the scribe is Daivajña Urdhavasiṃha from Gālahiti (Patan), working at the residence/neighborhood named Jayasiṃhachẽ (jayasinhu-che samukām).",
+ "_meta": {
+  "reel": "A 1005/2",
+  "model": "gemini-flash-latest",
+  "secs": 18.1,
+  "in_tok": 776,
+  "out_tok": 4090
+ }
+}

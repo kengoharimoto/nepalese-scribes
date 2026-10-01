@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "arjavegī thākumani",
+   "name": "Thākumani",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "arjavegī"
+   ],
+   "affiliation": "",
+   "residence": "makhanavāhāla",
+   "evidence": "makhanavāhāla vāstavayaṃ arjavegī thākumani svahastākṣaraṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1908 sāla miti vaiśāṣa vadi 3 roja 6 viśākhā nakṣatre",
+  "era": "VS",
+  "year": "1908",
+  "month": "vaiśāṣa",
+  "paksa": "vadi",
+  "tithi": "3",
+  "weekday": "roja 6",
+  "nakshatra_yoga": "viśākhā",
+  "ce_approx": "1851"
+ },
+ "place": {
+  "as_written": "makhanavāhāla",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "Arjavegī represents the administrative title 'arz-begi (officer who presents petitions).",
+ "_meta": {
+  "reel": "A 1289/2",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 837,
+  "out_tok": 1065
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 Harṣanārāyaṇa: role changed from 'owner' to 'other' (low confidence). The lacuna follows his name, so the colophon never says the book is his (no -yā pustaka or coyakā survives).",
+   "Removed the wrote_for relation p1→p2 because it depends on the lost text.",
+   "Place of copying left empty: 'tapālāchī tolayā' grammatically gives Harṣanārāyaṇa's residence, not where the copy was made. The catalogue's place field may rest on this phrase.",
+   "Era kept as NS, but it is only inferred ('saṃvat' alone). Noted the inference and that ce_approx could be 1888 or 1889.",
+   "Added a possible yoga reading for 'sidhayāṅādīna' (Siddhi yoga?).",
+   "Extended date.as_written to include the yoga/day phrase."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bajrācāryyemuṇiharṣa",
+   "name": "Muniharṣa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "līṣītaṃ bajrācāryyemuṇiharṣa julo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "harṣanārāyaṇa",
+   "name": "Harṣanārāyaṇa",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Tapālāchī ṭola",
+   "evidence": "tapālāchī tolayā harṣanārāyaṇa ...",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1009 miti || pauṣasudī aṣṭamī 8 roja 4 sidhayāṅādīna",
+  "era": "NS",
+  "year": "1009",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "aṣṭamī (8)",
+  "weekday": "roja 4 (Wednesday)",
+  "nakshatra_yoga": "sidhayāṅā (Siddhi yoga?)",
+  "ce_approx": "1888/1889"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is not named ('saṃvat 1009'). It is taken as Nepāla Saṃvat because the colophon is in Newari ('julo', 'tolayā'), the scribe is a Vajrācārya, and the Persian 'roja' weekday is a late usage. VS 1009 (c. 952 CE) is implausible. NS 1009 Pauṣa śukla 8 falls around Dec 1888 or Jan 1889. Harṣanārāyaṇa of Tapālāchī ṭola is cut off by a lacuna: he was probably the owner or commissioner (perhaps '-yā pustaka' or '-na coyakā' was lost), but this cannot be confirmed. The catalogue gives 'Tapālāchīṃ ṭola' as the place of copying, but the colophon ties it to Harṣanārāyaṇa's residence. Its location (Kathmandu or Bhaktapur?) is not identified. 'sidhayāṅādīna' may stand for 'siddhi-yoga-dina'; this is uncertain. The title is corrupt in the colophon ('cānakasāraśaṃgrahaṇe').",
+ "_meta": {
+  "reel": "A 1351/5",
+  "model": "opus",
+  "cost_usd": 0.09348200000000001,
+  "secs": 22.6
+ }
+}

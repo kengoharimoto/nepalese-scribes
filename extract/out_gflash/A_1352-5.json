@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī vinoda śarmaṇā",
+   "name": "Vinoda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "kāntipuryām",
+   "evidence": "likhitamidaṃ śrī vinoda śarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1903 jyeṣṭha śukra trayodaśyāṃ ravivāsare",
+  "era": "VS",
+  "year": "1903",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1846"
+ },
+ "place": {
+  "as_written": "kāntipuryām",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "śukra in the date is an error for śukla.",
+ "_meta": {
+  "reel": "A 1352/5",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 765,
+  "out_tok": 850
+ }
+}

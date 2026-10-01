@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhaṭṭotpala",
+   "name": "Bhaṭṭotpala",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhaṭṭotpalaviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1888 śake 1753 āṣāḍhaśukla 6 gurau",
+  "era": "VS",
+  "year": "1888",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "6",
+  "weekday": "gurau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1831"
+ },
+ "place": {
+  "as_written": "vaṭodarakṣatre",
+  "normalized": "Vadodara"
+ },
+ "purpose": "",
+ "notes": "The date specifies both Vikrama Saṃvat 1888 and Śaka 1753, both corresponding to 1831 CE.",
+ "_meta": {
+  "reel": "B 349/22",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 774,
+  "out_tok": 1284
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīśrītārācaṃdraśarmaṇa(!)",
+   "name": "Tārācandra",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīśrītārācaṃdraśarmaṇa(!) pustakaṃ liṣyate",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke1770 māse 1 tithau14 vāre 3",
+  "era": "ŚS",
+  "year": "1770",
+  "month": "1",
+  "paksa": "",
+  "tithi": "14",
+  "weekday": "3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1848"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The form tārācaṃdraśarmaṇa may represent an instrumental (śarmaṇā, scribe) or genitive (śarmaṇaḥ, owner).",
+ "_meta": {
+  "reel": "A 1002/18",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 693,
+  "out_tok": 935
+ }
+}

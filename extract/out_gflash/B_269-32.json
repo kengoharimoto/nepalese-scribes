@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jīvanāthaśarmmaṇā",
+   "name": "Jīvanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ jīvanāthaśarmmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1759 saṃvat 1894 sāla miti mārgaśīrṣa〈〈māsi〉〉 badi 6 roja 7",
+  "era": "VS",
+  "year": "1894",
+  "month": "mārgaśīrṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "6",
+  "weekday": "roja 7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1837"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both ŚS 1759 and VS 1894 are specified in the colophon, consistently pointing to 1837 CE. The catalogue note misreads ŚS 1759 as 1749.",
+ "_meta": {
+  "reel": "B 269/32",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 792,
+  "out_tok": 1134
+ }
+}

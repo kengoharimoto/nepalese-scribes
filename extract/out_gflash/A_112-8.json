@@ -1,0 +1,259 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jyeṣṭhanaravīrasiṃha",
+   "name": "Jyeṣṭhanaravīrasiṃha",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "kāyaṣṭha"
+   ],
+   "affiliation": "vakaṃbāhāla",
+   "residence": "śrīlalitāpūramahānagara",
+   "evidence": "dānapati śrīlalitāpūramahānagarayā, ekakṣe, vakaṃbāhālayā, kāyaṣṭha, jyeṣṭhanaravīrasiṃha",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "tejalakṣmī",
+   "name": "Tejalakṣmī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāryyātejalakṣmī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "mānavīrasiṃ",
+   "name": "Mānavīrasiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jyeṣṭhaputra, mānavīrasiṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "kṛṣṇamānasiṃ",
+   "name": "Kṛṣṇamānasiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvitīyaputra; kṛṣṇamānasiṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "kulamānasiṃ",
+   "name": "Kulamānasiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tṛtīyaputra, kulamānasiṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "gajamānasiṃ",
+   "name": "Gajamānasiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "caturthaputra, gajamānasiṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "devithakuṃ",
+   "name": "Devīthakuṃ",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jyeṣṭhaputrī, devithakuṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p8",
+   "as_written": "bhavānidevi",
+   "name": "Bhavānīdevī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvitīyaputrī, bhavānidevi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p9",
+   "as_written": "durgādevī",
+   "name": "Durgādevī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tṛtīyaputrī, durgādevī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p10",
+   "as_written": "dhanavīrasiṃha",
+   "name": "Dhanavīrasiṃha",
+   "roles": [
+    "beneficiary",
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svapitā, dhanavīrasiṃha ... svargārohana juyā o",
+   "confidence": "high"
+  },
+  {
+   "pid": "p11",
+   "as_written": "gaṃgālakṣmī",
+   "name": "Gaṅgālakṣmī",
+   "roles": [
+    "beneficiary",
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svamātṛ, gaṃgālakṣmī, svargārohana juyā o",
+   "confidence": "high"
+  },
+  {
+   "pid": "p12",
+   "as_written": "tejadattana",
+   "name": "Tejadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "elacukravāhāla",
+   "residence": "",
+   "evidence": "lekhaka elacukravāhālayā, śrīvajrācāryya, śrītejadattana coyā jula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wife_of",
+   "to": "p1",
+   "evidence": "bhāryyātejalakṣmī"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "jyeṣṭhaputra, mānavīrasiṃ"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "dvitīyaputra; kṛṣṇamānasiṃ"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "tṛtīyaputra, kulamānasiṃ"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "caturthaputra, gajamānasiṃ"
+  },
+  {
+   "from": "p7",
+   "type": "daughter_of",
+   "to": "p1",
+   "evidence": "jyeṣṭhaputrī, devithakuṃ"
+  },
+  {
+   "from": "p8",
+   "type": "daughter_of",
+   "to": "p1",
+   "evidence": "dvitīyaputrī, bhavānidevi"
+  },
+  {
+   "from": "p9",
+   "type": "daughter_of",
+   "to": "p1",
+   "evidence": "tṛtīyaputrī, durgādevī"
+  },
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p10",
+   "evidence": "svapitā, dhanavīrasiṃha"
+  },
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p11",
+   "evidence": "svamātṛ, gaṃgālakṣmī"
+  },
+  {
+   "from": "p12",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "lekhaka elacukravāhālayā, śrīvajrācāryya, śrītejadattana coyā jula"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 966 miti caitrakṛṣṇayā, trayodasi, bṛhaspativāra",
+  "era": "NS",
+  "year": "966",
+  "month": "Caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1846"
+ },
+ "place": {
+  "as_written": "śrīlalitāpūramahānagarayā, ekakṣe, vakaṃbāhālayā",
+  "normalized": "Patan"
+ },
+ "purpose": "parārtha (merit for deceased parents svapitā Dhanavīrasiṃha and svamātṛ Gaṅgālakṣmī)",
+ "notes": "The catalogue metadata gives the scribe as Maṇidatta, but the colophon text explicitly names Vajrācārya Tejadatta (śrīvajrācāryya, śrītejadattana coyā jula) of Elacukravāhāra.",
+ "_meta": {
+  "reel": "A 112/8",
+  "model": "gemini-flash-latest",
+  "secs": 11.6,
+  "in_tok": 1160,
+  "out_tok": 3410
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nārāyaṇa-",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "cāturmāsyayājin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīcāturmāsya yājinārāyaṇaviracito muhūrttamārttaṇḍaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīnīlakaṇṭho",
+   "name": "Nīlakaṇṭha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Pulā",
+   "evidence": "śrīnīlakaṇṭho vyalikhat pulāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīśrījayaraṇajitmalladevamahārājādhirājayā",
+   "name": "Jayaraṇajitmalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayaraṇajitmalladevamahārājādhirājayā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "sevakabhājudattena",
+   "name": "Bhājudatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sevaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sevakabhājudattena muhūrttamārttaṇḍajyotikacosyaṃdutā || samvat 875 ... coya dhunakā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p4",
+   "type": "servant_of",
+   "to": "p3",
+   "evidence": "śrīśrījayaraṇajitmalladevamahārājādhirājayā 〈〈ka(2)bdatiyā〉〉 sevakabhājudattena"
+  },
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "śrīśrījayaraṇajitmalladevamahārājādhirājayā 〈〈ka(2)bdatiyā〉〉 sevakabhājudattena ... samvat 875"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 875 vaiśākhakṛṣṇa(3)pratipadā nakṣatraviśākhā, vyatipātayoga, tulārāśi, ādityavāra",
+  "era": "NS",
+  "year": "875",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "pratipadā",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "nakṣatraviśākhā, vyatipātayoga, tulārāśi",
+  "ce_approx": "1755"
+ },
+ "place": {
+  "as_written": "pulāyāṃ",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon contains two dates: first, a verse noting that Nīlakaṇṭha copied the text in Śaka 1636 (rasatribhūpa) in Pulā (likely copied from the exemplar). Second, the Newari completion colophon states that Bhājudatta finished copying in NS 875 during the reign of King Jayaraṇajit Malla of Bhaktapur. The catalogue record conflates the dates and attributes the scribal role solely to Nīlakaṇṭha.",
+ "_meta": {
+  "reel": "A 420/8",
+  "model": "gemini-flash-latest",
+  "secs": 14.3,
+  "in_tok": 893,
+  "out_tok": 3776
+ }
+}

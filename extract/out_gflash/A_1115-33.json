@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "harisiṃ",
+   "name": "Harisiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "harisiṃ leḥ leṣyā ko ho",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1898 sālaḥ",
+  "era": "VS",
+  "year": "1898",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1841"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Colophon statement in Nepali: 'harisiṃ leḥ leṣyā ko ho' (Harisiṃhale lekhyāko ho).",
+ "_meta": {
+  "reel": "A 1115/33",
+  "model": "gemini-flash-latest",
+  "secs": 2.9,
+  "in_tok": 707,
+  "out_tok": 613
+ }
+}

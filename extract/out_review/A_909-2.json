@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Author name kept as Annaṃbhaṭṭa but 'bhaṭṭa' removed from titles: it is part of the personal name, not a separate title",
+   "Chronogram explained: 'khakhaḍāṣṭacaṃde' is a corruption of kha-ṣaḍ-aṣṭa-candre (0-6-8-1), which read right to left gives 1860. This matches the catalogue",
+   "ce_approx changed from 1804 to 1803 by the VS−57 rule; Pauṣa kṛṣṇa of VS 1860 falls around Dec 1803 or Jan 1804",
+   "Tithi marked uncertain: the cataloguer daggered the passage '†ditije dretije dre†', which may be dvitīyā or tṛtīyā",
+   "Era noted as only implicit: the colophon says just 'saṃvatsara'"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "annaṃ bhaṭṭa",
+   "name": "Annaṃbhaṭṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīannaṃ bhaṭṭaviracitas tarkkasaṃgraha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvatsarakhakhaḍāṣṭacaṃde poṣe tha kṛṣṇake †ditije dretije dre† gurau",
+  "era": "VS",
+  "year": "1860",
+  "month": "Pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvitīyā (?)",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1803"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The scribe is not named; he refers to himself only as 'likhitaṃ mayā'. Year chronogram: 'khakhaḍāṣṭacaṃde' is probably a corruption of 'khaṣaḍaṣṭacandre' (kha 0, ṣaḍ 6, aṣṭa 8, candra 1). Read right to left this gives 1860, as in the catalogue. The era is not named: the colophon has only 'saṃvatsara'. VS is assumed (Devanagari, Nepal, catalogue 'SAM 1860'). On that basis Pauṣa kṛṣṇa falls around Dec 1803 or Jan 1804 CE. The tithi passage is daggered as corrupt ('ditije dretije dre'); it may be dvitīyā or tṛtīyā. The subhāṣita verses and the Rādhā-Kṛṣṇa invocations name deities, not people, so they are excluded.",
+ "_meta": {
+  "reel": "A 909/2",
+  "model": "opus",
+  "cost_usd": 0.08105799999999999,
+  "secs": 17.6
+ }
+}

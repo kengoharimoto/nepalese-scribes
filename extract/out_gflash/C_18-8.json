@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhājudevanathavatāro",
+   "name": "Devanātha",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "bhāju"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhājudevanathavatāro cakāvatayā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "sambat 844 māghakṛṣṇāpaṃcamī citrānakṣatra",
+  "era": "NS",
+  "year": "844",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "paṃcamī",
+  "weekday": "",
+  "nakshatra_yoga": "citrā",
+  "ce_approx": "1724"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The phrase 'cakāvatayā' appears to represent Newari coyakā tayā / cokā tayā ('had it written'), indicating Bhāju Devanātha commissioned or owned the manuscript. The element 'vatāro' following Devanātha might be corrupt for 'bhāro' or 'avatāra'.",
+ "_meta": {
+  "reel": "C 18/8",
+  "model": "gemini-flash-latest",
+  "secs": 8.7,
+  "in_tok": 693,
+  "out_tok": 1657
+ }
+}

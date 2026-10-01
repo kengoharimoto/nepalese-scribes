@@ -1,0 +1,64 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Month normalized: 'vāhule' = Bāhula, the standard lexical synonym of Kārttika (Amarakośa: kārttiko bāhulorjau). The first reading also suggested Vaiśākha; that option is removed.",
+   "Chronogram checked: akṣi 2, bāṇa 5, sapta 7, eka 1 gives 2571, reversed to Śaka 1752 (about 1830–31 CE). This confirms the first reading.",
+   "Notes tidied. Persons, roles and the empty relations are confirmed."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mammaṭa",
+   "name": "Mammaṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mammaṭa viracita kāvya prakāśa kārikāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nārāyaṇākhya vipreṇa",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nārāyaṇākhya vipreṇa likhiteyaṃ ca kārikā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke akṣivāṇa saptaike vāhule asitapakṣake",
+  "era": "ŚS",
+  "year": "1752",
+  "month": "Kārttika (Bāhula)",
+  "paksa": "kṛṣṇa (asitapakṣa)",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1830"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The chronogram is akṣi (2), vāṇa=bāṇa (5), sapta (7), eka (1), read right to left: Śaka 1752. Kārttika kṛṣṇapakṣa of ŚS 1752 falls in late 1830 CE. 'vāhule' stands for bāhule, i.e. the month Bāhula = Kārttika. No tithi or weekday is given. The colophon dates by the Śaka era, which suggests the copy may not come from Nepal. The final 'śrīrāmacandro jayati' is an invocation, not a person.",
+ "_meta": {
+  "reel": "A 367/12",
+  "model": "opus",
+  "cost_usd": 0.06862599999999999,
+  "secs": 12.1
+ }
+}

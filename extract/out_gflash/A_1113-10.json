@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "prakāśamānako",
+   "name": "Prakāśamāna",
+   "roles": [
+    "owner",
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "prakāśamānako ho",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "sambat1923sāla mīti dvitīya jeṣṭasudī2roja5",
+  "era": "VS",
+  "year": "1923",
+  "month": "dvitīya jeṣṭa",
+  "paksa": "śuklapakṣa",
+  "tithi": "2",
+  "weekday": "roja 5 (Thursday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1866"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Nepali phrasing 'prakāśamānako ho' indicates ownership ('belongs to Prakāśamāna'), though the cataloguer identifies him as the scribe; 'pra ||' preceding the colophon likely also abbreviates his name.",
+ "_meta": {
+  "reel": "A 1113/10",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 719,
+  "out_tok": 769
+ }
+}

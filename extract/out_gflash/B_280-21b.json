@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "deva kamācāryyana",
+   "name": "Deva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "thva saṃ(6)phuli coyā juro deva kamācāryyana saṃpurṇṇa yāṅā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 801 phālguṇa śu(5)di pūrṇṇamāśi purvvaphālguna ṇakṣate dhṛtṛyoga aṃgāra",
+  "era": "NS",
+  "year": "801",
+  "month": "phālguṇa",
+  "paksa": "śudi",
+  "tithi": "pūrṇṇamāśi",
+  "weekday": "aṃgāra",
+  "nakshatra_yoga": "purvvaphālguna ṇakṣate dhṛtṛyoga",
+  "ce_approx": "1681"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 280/21b",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 767,
+  "out_tok": 853
+ }
+}

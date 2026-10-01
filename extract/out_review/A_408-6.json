@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Normalized author's title 'daivagya' (!) to 'daivajña'; as_written of the person stays 'duṃḍhirāja'",
+   "paksa normalized: 'sūºº' = sudi → śukla; month given as abbreviation with possible readings Māgha/Mārgaśīrṣa",
+   "ce_approx kept at 1817 but noted it could be 1818 if the month is Māgha",
+   "Notes expanded: 'muºº' probably = mukāma (place of copying), illegible; 'rāmajīsahāya' and 'śrīvāsnave' are taken as invocations/obscure, not persons"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "duṃḍhirāja",
+   "name": "Ḍhuṇḍhirāja",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdaivagya (!) duṃḍhirājaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1874 māºº sūºº.7",
+  "era": "VS",
+  "year": "1874",
+  "month": "māºº (Māgha or Mārgaśīrṣa)",
+  "paksa": "śukla (sudi)",
+  "tithi": "7",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1817"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The colophon closes the Strījātaka section of the Jātakābharaṇa. In the date, 'māºº' is ambiguous (Māgha or Mārgaśīrṣa) and 'sūºº' = sudi (śukla). The bare 'saṃvat' is taken as VS, which fits the catalogue field and the Devanagari script. CE is 1817, or early 1818 if the month is Māgha. 'muºº' probably abbreviates mukāma, which would introduce the place of copying, but the following text is lost. 'līºº taṃ〈〈…〉〉' probably = likhitaṃ, with the scribe's name broken off. 'rāmajīsahāya' is read as an invocation ('Rāma be the helper'), not a person's name. 'śrīvāsnave' (!) is obscure (perhaps a corrupt invocation, or a surname such as Śrīvāstava?). It is not recorded as a person.",
+ "_meta": {
+  "reel": "A 408/6",
+  "model": "opus",
+  "cost_usd": 0.07155,
+  "secs": 14.1
+ }
+}

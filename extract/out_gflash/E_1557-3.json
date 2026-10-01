@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kālidāsakṛte",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1862 sāla bhādrakṛṣṇa || 4 || roja 5",
+  "era": "VS",
+  "year": "1862",
+  "month": "bhādra",
+  "paksa": "kṛṣṇa",
+  "tithi": "4",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1805"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue erroneously lists the date 'Samvat 1862' under the Scribe field.",
+ "_meta": {
+  "reel": "E 1557/3",
+  "model": "gemini-flash-latest",
+  "secs": 2.9,
+  "in_tok": 686,
+  "out_tok": 627
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ratnasiṃha josina",
+   "name": "Ratnasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "josī"
+   ],
+   "affiliation": "",
+   "residence": "vijalakoche",
+   "evidence": "ratnasiṃha josina saṃpūrṇṇayāṅā va coya dhūnakā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 816 āṣāḍhaśuklatrayodaśī, pūrvvaphālguṇanakṣatra, ādityavāla",
+  "era": "NS",
+  "year": "816",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "trayodaśī",
+  "weekday": "ādityavāla",
+  "nakshatra_yoga": "pūrvvaphālguṇa",
+  "ce_approx": "1696"
+ },
+ "place": {
+  "as_written": "vijalakoche",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records the date as SAM 812, but the colophon text reads samvat 816.",
+ "_meta": {
+  "reel": "B 216/4",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 760,
+  "out_tok": 923
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāśīnātha-",
+   "name": "Kāśīnātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāśīnāthakṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "lālaratnākareṇa",
+   "name": "Lālaratnākara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lālaratnākareṇa likhita",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "khayugaturagapṛthvī śākake śukramāse ‘sitadalaśamanecobhāyute bhārgave",
+  "era": "ŚS",
+  "year": "1740",
+  "month": "śukramāsa",
+  "paksa": "kṛṣṇa",
+  "tithi": "śamana (caturdaśī?)",
+  "weekday": "bhārgava",
+  "nakshatra_yoga": "",
+  "ce_approx": "1818"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtha",
+ "notes": "Chronogram: kha (0) + yuga (4) + turaga (7) + pṛthvī (1) = Śāka 1740. Scribe notes copying for himself ('svayam api').",
+ "_meta": {
+  "reel": "B 333/16",
+  "model": "gemini-flash-latest",
+  "secs": 8.8,
+  "in_tok": 759,
+  "out_tok": 1216
+ }
+}

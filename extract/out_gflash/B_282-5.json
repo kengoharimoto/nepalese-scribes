@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kamalākareṇa",
+   "name": "Kamalākara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kamalākareṇa liṣitaṃ(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śake 1485 rudhirodgārī saṃvatsare vaiśāṣa śuddha 12 śanau",
+  "era": "ŚS",
+  "year": "1485",
+  "month": "vaiśāṣa",
+  "paksa": "śukla",
+  "tithi": "12",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1563"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "King Bhoja is mentioned as the subject of the text (Bhojaprabandha) and is therefore excluded.",
+ "_meta": {
+  "reel": "B 282/5",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 769,
+  "out_tok": 887
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śākyabhikṣuprajñāśrījñānasya",
+   "name": "Prajñāśrījñāna",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "Dharmadhātuvihāra",
+   "residence": "śrīdharmadhātuvihāra",
+   "evidence": "deyadharmo yaṃ ... śrīdharmadhātuvihāravāstavyaḥ śākyabhikṣuprajñāśrījñānasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmadarimalladevasya",
+   "name": "Arimalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājñaḥ śrīmadarimalladevasya vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "hariṇā",
+   "name": "Hari",
+   "roles": [
+    "corrector"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śodhitā lokārthaṃ hariṇā mayā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "śākyabhikṣuprajñāśrījñānasya ... rājñaḥ śrīmadarimalladevasya vijayarājye"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 321 kārttikaśukladaśamyām | śaniścaravāsare | pūrvabhadranakṣatre",
+  "era": "NS",
+  "year": "321",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "śaniścaravāsara",
+  "nakshatra_yoga": "pūrvabhadra",
+  "ce_approx": "1201"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "yad atra puṇyan tad bhavatv ācāryopādhyāyamātāpitṛpūrvaṃgamaṅ kṛtvā sakalasatvarāśer anuttarajñānaphalāvāptaya iti",
+ "notes": "The corrector states he collated multiple manuscripts (anekapustakagataṃ dṛṣṭvā) and corrected the text: 'bhadreṇa yā śodhitā lokārthaṃ hariṇā mayā' (name could be Hari or Haribhadra). A female title/epithet 'mahāyānayāyi(nyāḥ)' precedes a lacuna before Prajñāśrījñāna's name.",
+ "_meta": {
+  "reel": "B 23/12",
+  "model": "gemini-flash-latest",
+  "secs": 17.2,
+  "in_tok": 1326,
+  "out_tok": 3802
+ }
+}

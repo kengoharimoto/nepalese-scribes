@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 as_written trimmed to the name itself (sūryānaṃdena); residence given as lalitāprarīya (= lalitāpurīya, Patan)",
+   "tithi: 'tithicaṃdrage' read as candra = 1, i.e. pratipad (śukla 1), not just 'caṃdra'",
+   "nakshatra: viśāṣe (!) read as Viśākhā, with a note that this is astronomically doubtful",
+   "era: the colophon has no era name; VS is inferred, and this is now stated in notes; ce_approx changed to 1858/1859",
+   "place: noted that it is inferred from the scribe's residence, not stated as the place of copying"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sūryānaṃdena",
+   "name": "Sūryānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Lalitapur (Patan); written lalitāprarīya (!) for lalitāpurīya",
+   "evidence": "lalitāprarīyaśrīsūryānaṃdenālikhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī 1915 || pauṣe site śukladale viśāṣe (!) tithicaṃdrage",
+  "era": "VS",
+  "year": "1915",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "1 (pratipad; 'candra' = 1)",
+  "weekday": "",
+  "nakshatra_yoga": "Viśākhā (viśāṣe!)",
+  "ce_approx": "1858/1859"
+ },
+ "place": {
+  "as_written": "lalitāprarīya",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The colophon gives no era name ('śrī 1915'). It is taken as VS because NS 1915 is impossible and ŚS 1915 lies in the future. Pauṣa of VS 1915 falls in Dec 1858 to Jan 1859. 'tithicaṃdrage' is read as tithi = candra (1), i.e. śukla pratipad. 'viśāṣe (!)' most likely stands for Viśākhā. But the moon is not normally in Viśākhā on Pauṣa śukla 1, so the word may instead be a corruption of 'viśeṣe'. Lalitāprarīya stands for lalitāpurīya, 'of Lalitapur (Patan)'. It describes where the scribe is from, and the place of copying (catalogue: Latitapura, sic) is inferred from it. 'ayaṃ … ālikhat' is ungrammatical, as the cataloguer marked with (!).",
+ "_meta": {
+  "reel": "A 180/9",
+  "model": "opus",
+  "cost_usd": 0.08264200000000001,
+  "secs": 20.2
+ }
+}

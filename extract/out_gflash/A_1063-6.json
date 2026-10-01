@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "priti(!)kareṇa",
+   "name": "Prītikara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sūnunā priti(!)kareṇa jyotiḥ(śāstra)m idaṃ likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmahārājabhojadeva",
+   "name": "Bhojadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahārājabhojadevaveracitāyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1413 māse 10 vāre 5 tithu 7",
+  "era": "ŚS",
+  "year": "1413",
+  "month": "10",
+  "paksa": "",
+  "tithi": "7",
+  "weekday": "5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1491"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records 'ŚS 1513 and ŚS 1514', but the text on exp. 161b reads śrīśāke 1413, followed on exp. 173b by a separate section dated śrīśāke 1514. The phrase preceding the scribe's name ('vipraḥja (!) jyotiṣI') is unclear/corrupt and may refer to his father.",
+ "_meta": {
+  "reel": "A 1063/6",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 907,
+  "out_tok": 1597
+ }
+}

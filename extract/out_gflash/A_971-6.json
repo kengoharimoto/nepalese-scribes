@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 864 pauṣāsite asṭamyāṃ tithau bhaumavāre",
+  "era": "NS",
+  "year": "864",
+  "month": "Pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1744"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue field lists the date as NS 846, but the colophon text clearly reads saṃvat 864. No personal names are mentioned in the colophon.",
+ "_meta": {
+  "reel": "A 971/6",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 723,
+  "out_tok": 673
+ }
+}

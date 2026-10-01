@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmacchaṃkarācārya",
+   "name": "Śaṅkarācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmacchaṃkarācārya rivacatam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī rāmacandra upādhyā",
+   "name": "Rāmacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī rāmacandra upādhyā liṣitaṃ pustakam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī śāke 1711 śrī samvat 1846 maṃsiraśudi 9 roja 4",
+  "era": "VS",
+  "year": "1846",
+  "month": "maṃsira",
+  "paksa": "śudi",
+  "tithi": "9",
+  "weekday": "roja 4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1789"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śaka era 1711 and Vikrama Saṃvat 1846 are stated.",
+ "_meta": {
+  "reel": "A 83/22",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 771,
+  "out_tok": 1173
+ }
+}

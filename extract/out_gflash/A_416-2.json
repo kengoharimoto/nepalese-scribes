@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1951 sāla miti āṣāḍha śudi 15 roja 3 mā",
+  "era": "VS",
+  "year": "1951",
+  "month": "āṣāḍha",
+  "paksa": "śuklapakṣa",
+  "tithi": "15",
+  "weekday": "roja 3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1894"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons (scribe, patron, or author) are mentioned in the colophon. The date formula uses Nepali phrasing ('sāla miti ... roja 3 mā').",
+ "_meta": {
+  "reel": "A 416/2",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 747,
+  "out_tok": 685
+ }
+}

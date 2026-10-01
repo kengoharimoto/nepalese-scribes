@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes; added note that the era is given only as 'saṃ.' (VS inferred from the Nepali 'sālako' and the catalogue) and that ce_approx is 1918/19."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kavikālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kavikālidāsodite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ. 1975 sālako",
+  "era": "VS",
+  "year": "1975",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1918"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives Bhāvaratna as scribe, but that name is not in the quoted colophon. It may appear elsewhere in the MS and could not be verified here. The era is written only as 'saṃ.'. VS is inferred from the Nepali 'sālako' and from the catalogue field, so VS 1975 ≈ 1918/19 CE. 'nṛpa vikramavira' (= Vikrama) is part of the chapter title and subject, not a person connected with this copy. The attribution to Kālidāsa is the text's own and is traditional.",
+ "_meta": {
+  "reel": "A 410/8",
+  "model": "opus",
+  "cost_usd": 0.060346,
+  "secs": 11.3
+ }
+}

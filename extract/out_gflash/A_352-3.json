@@ -1,0 +1,85 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahārājādhirājaśrīharṣadeva",
+   "name": "Harṣadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājādhirājaśrīharṣadevaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrībhūpālendramallakṣitipa",
+   "name": "Bhūpālendramalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "kṣitipa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhūpālendramallakṣitipamuku[[ṭa]]syājñayā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "haṃsadhvajo",
+   "name": "Haṃsadhvaja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "haṃsadhvajo yaṃ vyalikhad",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "śrībhūpālendramallakṣitipamuku[[ṭa]]syājñayā ... haṃsadhvajo yaṃ vyalikhad"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "śrībhūpālendramallakṣitipamuku[[ṭa]]syājñayā ... haṃsadhvajo yaṃ vyalikhad"
+  }
+ ],
+ "date": {
+  "as_written": "vāṇaiś candreṇanāgaiḥ kalitaguṇanathā cāru nepālavarṣaṃ jyeṣṭhe kṛṣṇe ca pakṣe dahanasamatithau vāsare bhūmiputre",
+  "era": "NS",
+  "year": "815",
+  "month": "Jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "3",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1695"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Year 815 given in chronograms: vāṇa (5), candra (1), nāga (8). Tithi given as dahanasama (= 3, tṛtīyā). Weekday is bhūmiputra (Tuesday).",
+ "_meta": {
+  "reel": "A 352/3",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 818,
+  "out_tok": 1735
+ }
+}

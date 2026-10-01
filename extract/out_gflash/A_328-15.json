@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dīkṣitaraghuvīra",
+   "name": "Raghuvīra",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dīkṣitaraghuvīraviracitāyām",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vedaśarmapaṃtasya",
+   "name": "Vedaśarman",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "paṃta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ vedaśarmapaṃtasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "navābdhisaptendu[[mite]] 1749 śāke māse‥‥ guhe || ... bhṛgor vāre",
+  "era": "ŚS",
+  "year": "1749",
+  "month": "māse‥‥",
+  "paksa": "",
+  "tithi": "guhe",
+  "weekday": "bhṛgor vāre",
+  "nakshatra_yoga": "",
+  "ce_approx": "1827"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 328/15",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 810,
+  "out_tok": 1389
+ }
+}

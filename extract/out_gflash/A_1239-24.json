@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumati jayajitāmitra malladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumati jayajitāmitra malladevasana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 813 māgha śudi 7 thvakuhnu",
+  "era": "NS",
+  "year": "813",
+  "month": "māgha",
+  "paksa": "śudi",
+  "tithi": "7",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1693"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Catalogue provides Bhaktapur as place of copying based on the realm of King Jitāmitra Malla, but it is not stated in the colophon text itself.",
+ "_meta": {
+  "reel": "A 1239/24",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 712,
+  "out_tok": 931
+ }
+}

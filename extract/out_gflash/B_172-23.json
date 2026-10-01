@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnaṃdaśarmaṇa",
+   "name": "Śrīnanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śrīnaṃdaśarmaṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1681 māse 2",
+  "era": "ŚS",
+  "year": "1681",
+  "month": "2",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1759"
+ },
+ "place": {
+  "as_written": "grāme rājasthāna tanahuḥ",
+  "normalized": "Tanahun"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 172/23",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 774,
+  "out_tok": 918
+ }
+}

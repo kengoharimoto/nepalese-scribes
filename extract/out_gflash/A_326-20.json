@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "amarasiṃha",
+   "name": "Amarasiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "amarasiṃhakṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 784 vaiśākhaśuklaḥ paurṇṇamāsī vudhahasta",
+  "era": "NS",
+  "year": "784",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "paurṇṇamāsī",
+  "weekday": "vudha",
+  "nakshatra_yoga": "hasta",
+  "ce_approx": "1664"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrī 3 bhavānī śaṃkara prītirastu",
+ "notes": "The catalogue queries 'Vudhahasta ?' as the scribe, but 'vudhahasta' in 'vaiśākhaśuklaḥ paurṇṇamāsī vudhahasta likhiti saṃpūrṇṇadina' represents the date elements Budhavāsara (Wednesday) and Hasta nakṣatra (or 'by the hand of a scholar', budha-hasta); no human scribe is actually named. Bhavānī-Śaṅkara is a deity.",
+ "_meta": {
+  "reel": "A 326/20",
+  "model": "gemini-flash-latest",
+  "secs": 16.3,
+  "in_tok": 769,
+  "out_tok": 3706
+ }
+}

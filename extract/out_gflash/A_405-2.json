@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnārāyaṇabhaṭta",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnārāyaṇabhaṭtaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhūmidevaḥ",
+   "name": "Bhūmideva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "alīlikhad ... bhūmidevaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nagodanvadurvīdhrabhūsaṃmite vai śake karkage harmaṇau kṛṣṇapakṣe || budhe’līlikhad vighnarājasyatithyāṃ",
+  "era": "ŚS",
+  "year": "1747",
+  "month": "karka",
+  "paksa": "kṛṣṇa",
+  "tithi": "4",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1825"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram naga-udanvat-urvīdhra-bhū yields 7-4-7-1 = Śaka 1747. The month is indicated by the sun in Cancer (karkage harmaṇau); tithi of Vighnarāja (Gaṇeśa) corresponds to caturthī.",
+ "_meta": {
+  "reel": "A 405/2",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 764,
+  "out_tok": 1251
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gargagotrotpannamādhavasya",
+   "name": "Mādhava",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "Garga gotra",
+   "residence": "",
+   "evidence": "gargagotrotpannamādhavasyedaṃ pustakam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1863 caitraśuddhadvādaśyām",
+  "era": "VS",
+  "year": "1863",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1806"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Mādhava as the scribe, but the colophon phrasing ('mādhavasyedaṃ pustakam') primarily indicates ownership.",
+ "_meta": {
+  "reel": "A 1101/19",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 728,
+  "out_tok": 948
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmahāmahopādhyāyalaugākṣibhāṣkara",
+   "name": "Laugākṣibhāskara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahāmahopādhyāyalaugākṣibhāṣkaraviracita",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jīvanāthaśarmaṇā",
+   "name": "Jīvanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhanena jīvanāthaśarmaṇā samāptaḥ kṛtaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1772 saṃvat 1907 sāla miti kārtikavadi 12 roja 6",
+  "era": "ŚS",
+  "year": "Śāke 1772 / Saṃvat 1907",
+  "month": "kārtika",
+  "paksa": "vadi",
+  "tithi": "12",
+  "weekday": "roja 6",
+  "nakshatra_yoga": "",
+  "ce_approx": "1850"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śaka 1772 and Vikrama Saṃvat 1907 are explicitly stated, which correspond to 1850 CE.",
+ "_meta": {
+  "reel": "B 41/24",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 781,
+  "out_tok": 990
+ }
+}

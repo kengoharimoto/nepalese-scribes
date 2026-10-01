@@ -1,0 +1,70 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Added p2 Śrīdhara (relative_only, medium confidence): in the Marathi pattern the middle name of 'lakṣmaṇa śrīdharanāmdeukara' is the father's name.",
+   "Added the relation p1 son_of p2.",
+   "Checked the date: VS 1924 Mārgaśīrṣa śukla 14 falls around 9–10 Dec 1867. 10 Dec 1867 was a Tuesday, which matches bhauma vāsara. ce_approx 1867 is kept.",
+   "Expanded the notes on place and surname."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "lakṣmaṇa śrīdharanāmdeukara",
+   "name": "Lakṣmaṇa Śrīdhara Nāmdeukara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "hastākṣara lakṣmaṇa śrīdharanāmdeukara",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīdhara",
+   "name": "Śrīdhara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lakṣmaṇa śrīdharanāmdeukara",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "lakṣmaṇa śrīdharanāmdeukara (Marathi given name + father's name + surname)"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1924 mārgaśīrṣa śukla 14 bhauma vāsara",
+  "era": "VS",
+  "year": "1924",
+  "month": "mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "14",
+  "weekday": "bhauma vāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1867"
+ },
+ "place": {
+  "as_written": "naṃdagāvamadhye",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives the scribe as 'Dhananārāṃdeukara'. The colophon as quoted reads 'hastākṣara lakṣmaṇa śrīdharanāmdeukara'. This is a Marathi-style name: given name Lakṣmaṇa, father Śrīdhara (taken as father by convention, not stated outright), surname Nāmdeukara (perhaps Nāmdeukar/Nāndgāvkar). The place 'naṃdagāva' is a Nandgaon, most likely in Maharashtra, but several places have this name, so it is left unnormalized. This is a manuscript copied in Western India, not Nepal. The weekday matches: 10 Dec 1867 was a Tuesday (bhauma).",
+ "_meta": {
+  "reel": "A 1359/7",
+  "model": "opus",
+  "cost_usd": 0.084502,
+  "secs": 18.5
+ }
+}

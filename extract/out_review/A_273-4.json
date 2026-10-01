@@ -1,0 +1,48 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "date.tithi: normalized 'māyām(!)' to amāvāsyā; probably a corruption of 'amāyām' (the locative of amā), with the as-written form recorded",
+   "notes: say why the catalogue's 'scribe' attribution is not taken over from the colophon"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaurīdattasya",
+   "name": "Gaurīdatta",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ gaurīdattasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1690 jyeṣṭhe kṛṣṇe māyām(!)",
+  "era": "ŚS",
+  "year": "1690",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "amāvāsyā (written 'māyām(!)', probably for amāyām)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1768"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue names Gaurīdatta as the scribe, but the colophon only says 'idaṃ pustakaṃ gaurīdattasya', which is an ownership statement. He may also have copied the manuscript, but the colophon does not say so, so his only role here is owner. 'māyām(!)' is most likely a corruption of 'amāyām', meaning the new-moon day (amāvāsyā) of the dark half of Jyeṣṭha. The date is ŚS 1690, i.e. about 1768 CE (May/June). A Śaka date in a Devanagari manuscript may point to an origin outside the Kathmandu Valley.",
+ "_meta": {
+  "reel": "A 273/4",
+  "model": "opus",
+  "cost_usd": 0.065238,
+  "secs": 11.5
+ }
+}

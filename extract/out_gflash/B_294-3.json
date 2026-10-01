@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "ratnavāṇa[ha]yabhūmisaṃmite rādhake ‘sitadale kujavāsare",
+  "era": "VS",
+  "year": "1759",
+  "month": "Vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1702"
+ },
+ "place": {
+  "as_written": "kāntupūranagare",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "harituṣṭaye",
+ "notes": "The chronogram ratna (9) - vāṇa (5) - [ha]ya (7) - bhūmi (1) yields 1759 (likely VS = 1702 CE). The scribe identifies as a resident of Kantipur ('kāntupūranagare sadā vasan'), but does not state a personal name.",
+ "_meta": {
+  "reel": "B 294/3",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 769,
+  "out_tok": 1142
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "cautārāmachrī (!) madraṇavahādurasena varmaṇā",
+   "name": "Raṇabahādurasenavarman",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "cautārā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "cautārāmachrī (!) madraṇavahādurasena varmaṇā śrītaṃtraciṃtāmaṇI taṃtra samudhṛtā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmahāvuddhopāsakenā mṛtānaṃdena",
+   "name": "Amṛtānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "mahābuddhōpāsaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śrīmahāvuddhopāsakenā mṛtānaṃdena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1727 vaiśāṣa kṛṣṇe ekādaśyāṃ gurau",
+  "era": "ŚS",
+  "year": "1727",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1805"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The text was excerpted (samudhṛtā) from the Tantracintāmaṇitantra by Cautārā Raṇabahādura Senavarman, and copied by the famous Buddhist scholar Mahābuddhōpāsaka Amṛtānanda.",
+ "_meta": {
+  "reel": "B 357/7",
+  "model": "gemini-flash-latest",
+  "secs": 7.6,
+  "in_tok": 756,
+  "out_tok": 1766
+ }
+}

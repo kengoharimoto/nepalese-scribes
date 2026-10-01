@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsāraṃga upādhyāyotsavakīrtti",
+   "name": "Utsavakīrti",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsāraṃga upādhyāyotsavakīrttikṛto",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "This is a chapter colophon (prathamaḥ paricchedaḥ of the Padasūryaprakriyā). The author's name appears compounded as śrīsāraṃg[a/o]pādhyāyotsavakīrti; Sāraṅga may be a personal name, lineage, or part of a compound name (e.g. Sāraṅgopādhyāya Utsavakīrti).",
+ "_meta": {
+  "reel": "A 1171/15",
+  "model": "gemini-flash-latest",
+  "secs": 14.5,
+  "in_tok": 677,
+  "out_tok": 3265
+ }
+}

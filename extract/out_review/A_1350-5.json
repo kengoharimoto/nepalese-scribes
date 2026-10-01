@@ -1,0 +1,102 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2: commentator name read as Taṭṭanāyaka (with 'mahāsa(!)' taken as a corrupt honorific such as mahāśaya), confidence lowered to low; the reading is noted",
+   "p3: Bheṃkhvāla is kept as the scribe but confidence is lowered to medium because it may be a house or clan name rather than a personal name (-na is the ergative ending)",
+   "p4: 'bhāju' is kept as an honorific title; confidence lowered to medium because the name could also be Śrīkaṇṭhānanda (śrīśrī-kaṇṭhānanda vs śrī-śrīkaṇṭhānanda)",
+   "date.weekday: as written 'maṃgalabāra' (Tuesday)",
+   "purpose: filled as 'for the use of Kaṇṭhānanda (book became his)'",
+   "notes expanded"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkṛṣṇamiśra",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkṛṣṇamiśraviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrītaṭṭanāyakamahāsa",
+   "name": "Taṭṭanāyaka",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrītaṭṭanāyakamahāsavi(!)racite prakāśākhye",
+   "confidence": "low"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bheṃkhvālana",
+   "name": "Bheṃkhvāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bheṃkhvālana coya siddhakā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīśrīkaṃṇṭhānaṃdabhājuyā",
+   "name": "Kaṇṭhānanda",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "bhāju"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīkaṃṇṭhānaṃdabhājuyā saphuli jula",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "bheṃkhvālana coya siddhakā || śrīśrīkaṃṇṭhānaṃdabhājuyā saphuli jula"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 882 bhā〈〈ddra〉〉drapadakṛṣṇa 11 maṃgalabāra",
+  "era": "NS",
+  "year": "882",
+  "month": "bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "maṃgalabāra (Tuesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1762"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for the use of Kaṇṭhānanda (the book became his: saphuli jula)",
+ "notes": "The era is not stated, but the colophon is in Newari and the catalogue gives NS 882, which is about 1762 CE (August/September). The commentator's name 'taṭṭanāyakamahāsa' is corrupt: the cataloguer's (!) after 'mahāsavi' suggests something like 'mahāśaya-viracite', so Taṭṭanāyaka is a tentative name; a 'bhaṭṭa-' reading is also possible. 'Bheṃkhvāla(na)' has the ergative -na and may be a house or clan name instead of a personal name. The owner could be Kaṇṭhānanda or Śrīkaṇṭhānanda, since 'śrīśrī' is ambiguous. 'bhāju' is a Newari honorific. The colophon says only that the book became his (saphuli jula); it does not say he commissioned it.",
+ "_meta": {
+  "reel": "A 1350/5",
+  "model": "opus",
+  "cost_usd": 0.099046,
+  "secs": 24.3
+ }
+}

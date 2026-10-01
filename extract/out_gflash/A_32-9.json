@@ -1,0 +1,83 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmahopādhyāyasanmiśraśrījayadeva-",
+   "name": "Jayadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "sanmiśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāyasanmiśraśrījayadevakṛtāv",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "karaṇaśrīdevanāthena",
+   "name": "Devanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "karaṇaśrīdevanāthena likhitvā dattam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "mahosadupādhyāyaśrī(mādhī)..(śarmma)……",
+   "name": "Mādhī[..]śarman",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "sadupādhyāya",
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahosadupādhyāyaśrī(mādhī)..(śarmma)…. mudrām ekam (!) ādāya karaṇaśrīdevanāthena likhitvā dattam",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "mudrām ekam (!) ādāya karaṇaśrīdevanāthena likhitvā dattam"
+  }
+ ],
+ "date": {
+  "as_written": "la saṁ 487 mārgaśuklapañcamyāṃ śukre",
+  "era": "LS",
+  "year": "487",
+  "month": "mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1606"
+ },
+ "place": {
+  "as_written": "vaiñāmagrāme",
+  "normalized": ""
+ },
+ "purpose": "mudrām ekam ādāya (copied for payment of one mudrā)",
+ "notes": "The commissioner's name is partially illegible/damaged (reading starts with mādhī... ends with śarman). The verse mentions that the scribe copies out of poverty and extreme hunger ('samprati likhanāvṛttiṣ kāpi na śaktiḥ kṣudhā mahatī').",
+ "_meta": {
+  "reel": "A 32/9",
+  "model": "gemini-flash-latest",
+  "secs": 8.8,
+  "in_tok": 935,
+  "out_tok": 1902
+ }
+}

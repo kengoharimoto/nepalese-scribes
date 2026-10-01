@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvālakṛṣṇaḥ",
+   "name": "Bālakṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvālakṛṣṇaḥ sudhīḥ || śrīmadbhārataparvasundarataraṃ droṇādikaṃ prālikhac",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke munisaptaśaptidharaṇīmāne madhau śyāmale pakṣe śaṃhutithau śane rathadine",
+  "era": "ŚS",
+  "year": "1777",
+  "month": "madhu",
+  "paksa": "kṛṣṇa",
+  "tithi": "śaṃhutithau",
+  "weekday": "śani",
+  "nakshatra_yoga": "",
+  "ce_approx": "1855"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "īśasya santuṣṭaye",
+ "notes": "Year given in chronogram muni-sapta-śapti-dharaṇī (7-7-7-1 = ŚS 1777). Madhu corresponds to Caitra, śyāmala pakṣa to kṛṣṇapakṣa.",
+ "_meta": {
+  "reel": "B 258/4",
+  "model": "gemini-flash-latest",
+  "secs": 10.4,
+  "in_tok": 791,
+  "out_tok": 2584
+ }
+}

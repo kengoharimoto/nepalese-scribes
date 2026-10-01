@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvallabhadīkṣita",
+   "name": "Vallabha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvallabhadīkṣitaviracitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1692 varṣe aśvana(!) śudi navamyāṃ bhṛgudine",
+  "era": "VS",
+  "year": "1692",
+  "month": "aśvana",
+  "paksa": "śudi",
+  "tithi": "navamī",
+  "weekday": "bhṛgudina",
+  "nakshatra_yoga": "",
+  "ce_approx": "1635"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1116/42",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 762,
+  "out_tok": 810
+ }
+}

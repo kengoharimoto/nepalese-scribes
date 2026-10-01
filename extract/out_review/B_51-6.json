@@ -1,0 +1,75 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "place.normalized changed from 'Varanasi' to the project form 'Vārāṇasī'",
+   "Added the full form of p1's surname to affiliation ('Kelakara (upanāma)'). Did the same for p2 ('Marāṭhe (upanāma)')",
+   "p1 evidence widened to include the place and surname",
+   "Lowered wrote_for confidence and added a note: the colophon says the book is Raṅganātha's but does not say who had it written",
+   "Notes: the catalogue's 'SAM 1758' is only an imprecise label, not a wrong number. Added a check that the year name Durmukha matches Śaka 1758"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kelakaropanāmnā sadāśivabhaṭṭena",
+   "name": "Sadāśiva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "Kelakara (upanāma)",
+   "residence": "",
+   "evidence": "kāśyāṃ kelakaropanāmnā sadāśivabhaṭṭena likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "marāṭhe ity upanāmakasya śrīraṃganāthadīkṣitasya",
+   "name": "Raṅganātha",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "Marāṭhe (upanāma)",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ marāṭhe ity upanāmakasya śrīraṃganāthadīkṣitasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "sadāśivabhaṭṭena likhitaṃ idaṃ pustakaṃ ... śrīraṃganāthadīkṣitasya"
+  }
+ ],
+ "date": {
+  "as_written": "śake 1758 durmukhābde jyeṣṭhakṛṣṇaikādaśyāṃ",
+  "era": "ŚS",
+  "year": "1758",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "durmukha (saṃvatsara)",
+  "ce_approx": "1836"
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The era is Śaka: the colophon says 'śake 1758', and 1758 + 78 = 1836 CE. The year name Durmukha agrees: in the 60-year cycle it is 1836/37 CE (Śaka 1758). Jyeṣṭha kṛṣṇa ekādaśī would then fall around June 1836. The catalogue's 'SAM 1758' has the right number but a vague era label. Both persons are identified by Maharashtrian surnames (upanāma: Kelakara = Kelkar, Marāṭhe), which points to a Marathi brahmin setting in Kāśī. The colophon only says the book belongs to Raṅganātha Dīkṣita. That it was written for him is an inference, not stated. 'śrīgaṃgāviśveśvara (!) prasanno stu' is an invocation of deities, not a person.",
+ "_meta": {
+  "reel": "B 51/6",
+  "model": "opus",
+  "cost_usd": 0.081734,
+  "secs": 16.6
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vācaspatimiśra",
+   "name": "Vācaspatimiśra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vācaspatimiśraviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmādhavaśarmaṇa",
+   "name": "Mādhavaśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmādhavaśarmaṇayaṃ likhiteti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 685 ā va 8",
+  "era": "NS",
+  "year": "685",
+  "month": "ā",
+  "paksa": "va",
+  "tithi": "8",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1565"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Month abbreviation 'ā' usually stands for Āṣāḍha or Āśvina; 'va' stands for kṛṣṇapakṣa (vadi). The scribe's name appears corruptly as 'śrīmādhavaśarmaṇayaṃ' for 'śrīmādhavaśarmaṇā 'yaṃ'.",
+ "_meta": {
+  "reel": "B 38/13",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 693,
+  "out_tok": 888
+ }
+}

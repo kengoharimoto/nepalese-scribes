@@ -1,0 +1,60 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdīkṣita śrīkaṃṭhaśarma",
+   "name": "Śrīkaṇṭhaśarman",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "nyāyavāgīśa",
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdīkṣita śrīkaṃṭhaśarmaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śīvavakaśa kāetha",
+   "name": "Śivavakaśa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pothi likhyā śīvavakaśa kāetha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1814 mīti śāvana vadī 12 vāra ravī",
+  "era": "VS",
+  "year": "1814",
+  "month": "śāvana",
+  "paksa": "vadī",
+  "tithi": "12",
+  "weekday": "ravī",
+  "nakshatra_yoga": "",
+  "ce_approx": "1757"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The vernacular phrase 'pothi likhyā śīvavakaśa kāetha' records the scribe, where 'kāetha' represents Kāyastha.",
+ "_meta": {
+  "reel": "B 52/8",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 789,
+  "out_tok": 1765
+ }
+}

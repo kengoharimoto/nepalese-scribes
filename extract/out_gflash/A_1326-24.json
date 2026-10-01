@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1893 āśvinakṛṣṇa dvādasyāṃ 12 || bhaumavārasya",
+  "era": "VS",
+  "year": "1893",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādaśī (12)",
+  "weekday": "bhaumavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1836"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The text ends with 'śrī rāmacaṃdrā', which appears to be an incomplete deity invocation (such as śrīrāmacaṃdrārpaṇam astu or śrīrāmacaṃdrāya namaḥ) rather than a person's name; no human agents are mentioned.",
+ "_meta": {
+  "reel": "A 1326/24",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 701,
+  "out_tok": 1134
+ }
+}

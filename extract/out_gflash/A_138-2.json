@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvajrācāryasiddhimuninaṃ",
+   "name": "Siddhimuni",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "kvāthavāhāla",
+   "residence": "thahititola",
+   "evidence": "śrīvajrācāryasiddhimuninaṃ, tha ota, thva pustaka coyā tayā jula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 961 miti caitra śudi na va mithva ṣuhnu",
+  "era": "NS",
+  "year": "961",
+  "month": "caitra",
+  "paksa": "śudi",
+  "tithi": "na va mi",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1841"
+ },
+ "place": {
+  "as_written": "thahititola kvāthavāhāla",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "tha ota (for oneself)",
+ "notes": "",
+ "_meta": {
+  "reel": "A 138/2",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 1004,
+  "out_tok": 1165
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vāsudeva bhārona",
+   "name": "Vāsudeva",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "bhāro"
+   ],
+   "affiliation": "Kāśyapagotra",
+   "residence": "ipalāccha ṭola",
+   "evidence": "kāśyapagotra ipalāccha ṭolayā vāsudeva bhārona śrī 3 indrāyaṇīprītina śrī 3 paśupati skeduṃtājuro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 813 phālguṇakṛṣṇacaturddaśi utrabhadra (!) nakṣatre ēndrayoga śaniścala (!) vāsare thvakunhu",
+  "era": "NS",
+  "year": "813",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturddaśī",
+  "weekday": "śaniścalavāsara",
+  "nakshatra_yoga": "utrabhadra nakṣatre ēndrayoga",
+  "ce_approx": "1693"
+ },
+ "place": {
+  "as_written": "ipalāccha ṭola",
+  "normalized": ""
+ },
+ "purpose": "śrī 3 indrāyaṇīprītina",
+ "notes": "The catalogue lists Vāsudeva Bhāro as scribe, but the causative phrasing in Newari ('skeduṃtājuro', likely corrupt for cokeduṃ tā juro 'caused to write') with the devotion/merit formula 'śrī 3 indrāyaṇīprītina' indicates he was the commissioner/donor.",
+ "_meta": {
+  "reel": "B 83/18",
+  "model": "gemini-flash-latest",
+  "secs": 8.7,
+  "in_tok": 847,
+  "out_tok": 1775
+ }
+}

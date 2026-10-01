@@ -1,0 +1,102 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śaṅkarasiṃha",
+   "name": "Śaṅkarasiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śāntaḥ śaṅkarasiṃha ity avitathaṃ nāmāpi ramyaṃ vahan",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīrāmārjunasiṃha",
+   "name": "Rāmārjunasiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "etasmād udagād ... śrīrāmārjunasiṃha",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīmān lakṣmaṇasiṃha",
+   "name": "Lakṣmaṇasiṃha",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasyāpatyam ... śrīmān lakṣmaṇasiṃha ... śāstraṃ śrīharivaṃse (!) saṃjñakam idaṃ sa śraddhapālālikhat",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "caruṭadeve",
+   "name": "Caruṭadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhūbhṛt"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhūbhṛti caruṭadeve pravarddhamā⁅ne⁆",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "etasmād udagād ... śrīrāmārjunasiṃha"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "tasyāpatyam ... śrīmān lakṣmaṇasiṃha"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p4",
+   "evidence": "bhūbhṛti caruṭadeve pravarddhamā⁅ne⁆"
+  }
+ ],
+ "date": {
+  "as_written": "nayanagrahakaravarṣe | dvādaśyāṃ māghamāsi śuklāyāṃ",
+  "era": "NS",
+  "year": "292",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1172"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date is expressed by the chronogram nayana-graha-kara = 292 (NS 292 = c. 1172 CE). The phrase 'sa śraddhapālālikhat' is metrically (Śārdūlavikrīḍita: – – ◡ – – ◡ –) and contextually a scribal error or misreading for 'sa śraddhayālīlikhat' ('he caused [the book] to be written with devotion/faith'); therefore Lakṣmaṇasiṃha is the commissioner and there is no scribe named Śraddhapāla. The royal name Caruṭadeva is unusual and unattested elsewhere; it may be a misreading or variant for Rudradeva (II), who was reigning in Nepal around NS 287–296.",
+ "_meta": {
+  "reel": "A 27/1",
+  "model": "gemini-flash-latest",
+  "secs": 25.6,
+  "in_tok": 1140,
+  "out_tok": 6468
+ }
+}

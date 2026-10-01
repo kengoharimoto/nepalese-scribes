@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mukunda",
+   "name": "Mukunda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "saṃpūrṇṇa mukunda",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 809 pauṣakṛṣṇa paṃcamyāṃ uttaraphālguṇī nakṣatra somavāsare",
+  "era": "NS",
+  "year": "809",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "paṃcamī",
+  "weekday": "somavāsara",
+  "nakshatra_yoga": "uttaraphālguṇī",
+  "ce_approx": "1689"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Mukunda appears right after 'thvakunhu itihāsa saṃpūrṇṇa', most likely functioning as the scribe or owner.",
+ "_meta": {
+  "reel": "A 1361/9",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 728,
+  "out_tok": 950
+ }
+}

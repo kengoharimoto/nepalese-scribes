@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "miśra mādhava",
+   "name": "Mādhava",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ miśra mādhava",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1686 āśqvana vadi dvādaśī",
+  "era": "VS",
+  "year": "1686",
+  "month": "āśqvana",
+  "paksa": "vadi",
+  "tithi": "dvādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1629"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Month reading āśqvana is an error for āśvina. The 4-digit year 1686 is presumed to be Vikrama Saṃvat (1629 CE).",
+ "_meta": {
+  "reel": "A 92/13",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 751,
+  "out_tok": 841
+ }
+}

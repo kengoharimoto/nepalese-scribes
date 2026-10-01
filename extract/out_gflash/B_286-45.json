@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "giridharākho",
+   "name": "Giridhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "giridharākho likhanoṣu dakṣo hyalī likhad",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vaśviṣu ṣvaṃgeṃducyute ca śāke māse śucau saṃsthita paurṇimāsu",
+  "era": "ŚS",
+  "year": "1758",
+  "month": "śuci (Āṣāḍha)",
+  "paksa": "śukla",
+  "tithi": "paurṇimā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1836"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram in 'vaśviṣu ṣvaṃgeṃducyute ca śāke' is somewhat corruptly written, read as ŚS 1758 by the cataloguer.",
+ "_meta": {
+  "reel": "B 286/45",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 733,
+  "out_tok": 1130
+ }
+}

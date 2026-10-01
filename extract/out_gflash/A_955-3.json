@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadgovindācārya",
+   "name": "Govinda",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadgovindācāryaviracīte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sūryanandanā",
+   "name": "Sūryanandana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ sūryanandanā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke sūryyāṃkabhūyakte pakṣe śrāvaṇaśuklake hari(5)tithyau śukravāre",
+  "era": "ŚS",
+  "year": "1912",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1990"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue mistakenly entered the date 'ŚS 1912' into the 'Place of Copying' field and normalized the scribe's name as Suryānanda instead of Sūryanandana. The date chronogram is sūrya (12) + aṅka (9) + bhū (1) = Śāke 1912, and haritithi corresponds to Ekādaśī (11th tithi).",
+ "_meta": {
+  "reel": "A 955/3",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 781,
+  "out_tok": 1374
+ }
+}

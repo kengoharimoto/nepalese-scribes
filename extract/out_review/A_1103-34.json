@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes; the persons, roles and date fields are kept.",
+   "Notes expanded: the chronogram is read left to right, not by the usual right-to-left convention. A right-to-left reading would give ŚS 1918 (1996 CE), and 1891 checks out astronomically.",
+   "CE date narrowed to 12 March 1969 (Wednesday), which fits all the stated pañcāṅga elements on a pūrṇimānta reckoning.",
+   "Weekday glossed: saumyavāsara = Wednesday (Budha)."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhavanāthadvijaskasya(!)",
+   "name": "Bhavanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhavanāthadvijaskasya(!) likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "aṣṭḥā(!)daśāṃkeṃduśāke māse madhau stathā(!) mūlakṣye(!) bhaṃ || yogavyatiś ca navami(!) asitās(!)tathā ... saumyavāsare",
+  "era": "ŚS",
+  "year": "1891",
+  "month": "madhu (Caitra)",
+  "paksa": "asita (kṛṣṇa)",
+  "tithi": "navamī",
+  "weekday": "saumyavāsara (Wednesday)",
+  "nakshatra_yoga": "mūla; vyatīpāta",
+  "ce_approx": "1969"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The chronogram aṣṭādaśa (18) + aṅka (9) + indu (1) is to be read left to right as ŚS 1891. With the usual right-to-left rule it would give ŚS 1918 (1996 CE), which is very likely too late for an A-series NGMCP reel. ŚS 1891 checks out astronomically: Caitra kṛṣṇa navamī counted pūrṇimānta (the dark half after Phālguna pūrṇimā, 4 March 1969) falls on 12 March 1969, a Wednesday (saumya = Budha). That day the Moon was in mūla and the yoga was vyatīpāta (sidereal Sun about 327° + Moon about 249° ≈ 216°). This agrees with the catalogue's tentative '1891?'. The pūrṇimānta month naming suggests a Maithili scribe. The scribe's name is corrupt: 'bhavanāthadvijaskasya' is probably for bhavanāthadvijasya, or dvijakasya with a -ka suffix. This does not affect the name Bhavanātha. 'yogavyatiś' = vyatīpāta yoga; 'mūlakṣye bhaṃ' = mūlarkṣe bham (nakṣatra mūla).",
+ "_meta": {
+  "reel": "A 1103/34",
+  "model": "opus",
+  "cost_usd": 0.107766,
+  "secs": 33.6
+ }
+}

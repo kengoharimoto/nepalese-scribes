@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "maṇirāmadevaśarmmaṇaḥ",
+   "name": "Maṇirāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "devaśarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ maṇirāmadevaśarmmaṇaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 801 āṣāḍhakṛṣṇapratipadyāṃ (!) tithau pūrvvāṣāḍhanakṣatre aindrayoge yathākaraṇamuhūrttake aṃgāravāsare dhanurāśigate candramasi",
+  "era": "unspecified",
+  "year": "801",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "pratipad",
+  "weekday": "Tuesday (aṅgāravāsara)",
+  "nakshatra_yoga": "pūrvvāṣāḍhā, aindra",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue supplies the era as [LS] (Lakṣmaṇa Saṃvat 801, c. 1920 CE) due to the Maithili script, but the text only specifies 'samvat 801' without naming the era.",
+ "_meta": {
+  "reel": "A 342/37",
+  "model": "gemini-flash-latest",
+  "secs": 8.2,
+  "in_tok": 790,
+  "out_tok": 1873
+ }
+}

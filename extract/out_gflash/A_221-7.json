@@ -1,0 +1,143 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājādhirājaśrīśivasiṃhadevasya",
+   "name": "Śivasiṃhadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "Lalitapaṭṭana",
+   "evidence": "rājādhirājaśrīśivasiṃhadevasya vijyarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rājapati na brāhmaṇa",
+   "name": "Rājapati",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "brāhmaṇa",
+    "agnihotra"
+   ],
+   "affiliation": "dvijakula",
+   "residence": "Lalitapaṭṭana",
+   "evidence": "agnihotra rājapati na brāhmaṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "ulhāsapati",
+   "name": "Ulhāsapati",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Lalitapaṭṭana",
+   "evidence": "tasyātmaja ulhāsapati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "bhīmapati",
+   "name": "Bhīmapati",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Lalitapaṭṭana",
+   "evidence": "tasya putra bhīmapati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "viṣṇupati",
+   "name": "Viṣṇupati",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Lalitapaṭṭana",
+   "evidence": "tasya kāyodbhava viṣṇupati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "śrīśaṃkarapatinā",
+   "name": "Śaṅkarapati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Lalitapaṭṭana",
+   "evidence": "śrīśaṃkarapatinā likhiteyaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "tasyātmaja ulhāsapati"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "tasya putra bhīmapati"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "tasya kāyodbhava viṣṇupati"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p5",
+   "evidence": "tasyāpatyena śrīśaṃkarapatinā"
+  },
+  {
+   "from": "p6",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "rājādhirājaśrīśivasiṃhadevasya vijyarājye lalitapaṭṭane ... śrīśaṃkarapatinā likhiteyaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "parvvatāgniṃ tulaṃgābde pauṣe māsi śite tathā | trayodaśyāṃ gururvāre",
+  "era": "NS",
+  "year": "737",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "guruvāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1617"
+ },
+ "place": {
+  "as_written": "lalitapaṭṭane",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "Chronogram: parvvatāgniṃ tulaṃgābde (parvata = 7, agni = 3, turaṃga/tulaṃga = 7) gives NS 737.",
+ "_meta": {
+  "reel": "A 221/7",
+  "model": "gemini-flash-latest",
+  "secs": 8.7,
+  "in_tok": 922,
+  "out_tok": 2639
+ }
+}

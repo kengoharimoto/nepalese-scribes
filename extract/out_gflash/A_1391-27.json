@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mathurānātharāmeṇa",
+   "name": "Mathurānātharāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mathurānātharāmeṇa śi(!)ghraṃ, nakṣatrāṇāñ ca mālāṃ janahitakam idam pustakañ cālilekha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "naipālikābde nabharasavivare cāśvine māsi kṛṣṇe paṃcamyāṃ rohiṇy ṛkṣe śaradṛtuguravoḥ (!) bhānuge san tulāyāṃ (!) [...] 960 samvat",
+  "era": "NS",
+  "year": "960",
+  "month": "Āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "rohiṇī",
+  "ce_approx": "1840"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "janahitakam",
+ "notes": "The chronogram 'nabharasavivara' denotes 960 (nabha = 0, rasa = 6, vivara = 9). The catalogue lists the scribe's name simply as Mathurānātha, but the text reads 'mathurānātharāmeṇa'.",
+ "_meta": {
+  "reel": "A 1391/27",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 823,
+  "out_tok": 1405
+ }
+}

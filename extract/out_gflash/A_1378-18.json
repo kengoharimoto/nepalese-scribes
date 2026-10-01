@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "svātmārāmayogiṃdra",
+   "name": "Svātmārāma",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "yogīndra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svātmārāmayogiṃdraviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmahābauddhopāśakaśrījitānandena",
+   "name": "Jitānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "mahābauddhopāsaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śrīlalitapūranagare (!) śrīmahābauddhopāśakaśrījitānandena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1919 sāla miti jyeṣṭha vadi 3 roºº 6",
+  "era": "VS",
+  "year": "1919",
+  "month": "jyeṣṭha",
+  "paksa": "vadi",
+  "tithi": "3",
+  "weekday": "roºº 6",
+  "nakshatra_yoga": "",
+  "ce_approx": "1862"
+ },
+ "place": {
+  "as_written": "śrīlalitapūranagare",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The weekday abbreviation 'roºº 6' corresponds to Persian/Urdu roj 6 (Friday).",
+ "_meta": {
+  "reel": "A 1378/18",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 989,
+  "out_tok": 975
+ }
+}

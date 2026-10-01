@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñanarasiṃhena",
+   "name": "Narasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakena daivajñanarasiṃhena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīvikramasamvatsara 1874 sālam iti caitraśudi 15 roja 3 pūrṇe(!)mātithau uttaraphālguṇīnakṣatre dhruvayoge maṃgalavāsare",
+  "era": "VS",
+  "year": "1874",
+  "month": "caitra",
+  "paksa": "śudi",
+  "tithi": "15 (pūrṇimā)",
+  "weekday": "maṅgalavāsara (roja 3)",
+  "nakshatra_yoga": "uttaraphālguṇīnakṣatre dhruvayoge",
+  "ce_approx": "1817"
+ },
+ "place": {
+  "as_written": "bhaktagrāme śrī2vārāhīsthāne śrī2jyoti(!)liṅgeśvarasamīpe",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "The catalogue lists the scribe as Harinarasiṃha Daivajña, but the colophon reads daivajñanarasiṃhena.",
+ "_meta": {
+  "reel": "B 215/6",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 818,
+  "out_tok": 1114
+ }
+}

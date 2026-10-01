@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vāḍavacakrarājaḥ",
+   "name": "Cakrarāja",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "vāḍava"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "saṃlekhayāmāsa śivapraṇītaṃ, jñānārṇnaṃ vāḍavacakrarājaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat905 phālguṇa vadi 11 || thu kunhu saṃpūrṇṇa yāṅā || vānāmbarābde prayute śakābde",
+  "era": "NS",
+  "year": "905",
+  "month": "phālguṇa",
+  "paksa": "vadi",
+  "tithi": "11",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1785"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "saṃsārabandhāṅkuraṇāsahetuṃ",
+ "notes": "The date is given both in Nepal Samvat (905) and metrically in Śaka era ('vānāmbarābde prayute śakābde'). The patron is referred to as 'vāḍavacakrarājaḥ' (the brahmin Cakrarāja).",
+ "_meta": {
+  "reel": "A 152/7",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 785,
+  "out_tok": 1466
+ }
+}

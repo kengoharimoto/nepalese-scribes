@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe's name normalized to Kanhaiyālāla: 'kadhaiyālāla' is most likely a misreading or miswriting of the conjunct nh as dh (the catalogue gives kahnaiyālāla); confidence lowered to medium",
+   "place.normalized changed from 'Varanasi' to 'Vārāṇasī', following the schema convention",
+   "Added a reading for 'puranavāsī' (= pūrṇamāsī) to the tithi field",
+   "Expanded the notes: abbreviation liºº, the scribal formula at the end, and the unverified weekday"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kadhaiyālāla kāestha",
+   "name": "Kanhaiyālāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "Kāśī",
+   "evidence": "liºº kadhaiyālāla kāestha kāśīmadhe vāsa",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1852 mīti phālgumāse sukla pakṣe puranavāsī 15 bhoma vāsare",
+  "era": "VS",
+  "year": "1852",
+  "month": "Phālguna",
+  "paksa": "śukla",
+  "tithi": "15 (pūrṇimā; 'puranavāsī' = pūrṇamāsī)",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1796"
+ },
+ "place": {
+  "as_written": "kāśīmadhe",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The colophon reads 'kadhaiyālāla'; the catalogue gives 'kahnaiyālāla'. Both are probably the common name Kanhaiyālāla, with nh/hn misread or miswritten as dh. 'liºº' abbreviates likhitam, so this person is the scribe. 'kāestha' = kāyastha. 'kāśīmadhe vāsa' = resident in Kāśī, which is taken here as the place of copying as well. The final line 'jo deṣā so lōṣā mama doṣa na dīyate' is the usual Hindi form of the yādṛśaṃ pustakaṃ dṛṣṭvā formula, not a personal statement. The era is unstated but taken as VS from the North Indian context, giving Phālguna 1852 ≈ February/March 1796 CE. The weekday (Tuesday) has not been checked against an ephemeris.",
+ "_meta": {
+  "reel": "A 350/6",
+  "model": "opus",
+  "cost_usd": 0.07347000000000001,
+  "secs": 14.7
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "(‥)bhayānandena",
+   "name": "(..)bhayānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī(‥)bhayā|nandena likhitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śubham astu jagataḥ",
+ "notes": "The initial syllable(s) of the scribe's name are illegible/broken (possibly Abhayānanda).",
+ "_meta": {
+  "reel": "A 136/9",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 725,
+  "out_tok": 615
+ }
+}

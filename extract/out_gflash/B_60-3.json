@@ -1,0 +1,83 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "medakomaṭivemabhūpāla",
+   "name": "Medakomaṭivema",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "vīranāyaka",
+    "bhūpāla"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "medakomaṭivemabhūpālaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gīrvāṇādimayuddhavikramanṛpaḥ",
+   "name": "Gīrvāṇayuddhavikrama",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpa",
+    "rājarṣi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gīrvāṇādimayuddhavikramanṛpaḥ kaivalyamārgaṃ yayau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "siddhalakṣmīḥ",
+   "name": "Siddhalakṣmī",
+   "roles": [
+    "queen"
+   ],
+   "titles": [
+    "mahiṣī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "manhiṣī siddhalakṣmīḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wife_of",
+   "to": "p2",
+   "evidence": "manhiṣī siddhalakṣmīḥ"
+  }
+ ],
+ "date": {
+  "as_written": "śāke vāraṇavanhibājīvidhubhis tulye ʼ 1738 sahasyesite māse vanhi tithau budhe",
+  "era": "ŚS",
+  "year": "1738",
+  "month": "Pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "3",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1816"
+ },
+ "place": {
+  "as_written": "pabhupater āsanna bhūmau",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The verses appended to the commentary colophon record the demise of King Gīrvāṇayuddhavikrama Śāha and the self-immolation (satī) of his queen Siddhalakṣmī along with female attendants at Pashupati (read 'paśupater āsannabhūmau') in Śaka 1738 (1816 CE).",
+ "_meta": {
+  "reel": "B 60/3",
+  "model": "gemini-flash-latest",
+  "secs": 9.2,
+  "in_tok": 902,
+  "out_tok": 2078
+ }
+}

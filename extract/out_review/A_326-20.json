@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed 'hasta' as nakṣatra: at a Vaiśākha full moon the moon stands near Viśākhā/Anurādhā, so Hasta (two asterisms before Citrā) is astronomically impossible here. 'vudha' is taken as Budhavāra, and 'hasta likhiti' is read as hastalikhita ('written by hand').",
+   "Date as_written now includes 'likhiti saṃpūrṇṇadina'.",
+   "Purpose reworded as a devotional dedication.",
+   "Notes expanded with the Vudha-as-scribe alternative."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "amarasiṃha",
+   "name": "Amarasiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "amarasiṃhakṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 784 vaiśākhaśuklaḥ paurṇṇamāsī vudhahasta likhiti saṃpūrṇṇadina",
+  "era": "NS",
+  "year": "784",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "paurṇṇamāsī (15)",
+  "weekday": "vudha (Wednesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1664"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "dedication: śrī 3 bhavānīśaṃkara prītir astu",
+ "notes": "The catalogue gives the scribe as 'Vudhahasta ?'. The most likely reading of 'vudhahasta likhiti saṃpūrṇṇadina' is budha(vāra), hasta-likhita, saṃpūrṇa-dina: 'Wednesday, the day the handwritten copy was completed'. Hasta as nakṣatra is ruled out because a Vaiśākha pūrṇimā cannot fall in Hasta. A less likely reading is 'written by the hand of Vudha/Budha', which would make Budha the scribe; because of that doubt no scribe is recorded. The era is not named but is assumed to be NS (the script is Newari): 784 + 880 = c. 1664 CE (April/May). The weekday has not been checked against the calendar. Bhavānī-Śaṅkara is a deity and is not recorded as a person.",
+ "_meta": {
+  "reel": "A 326/20",
+  "model": "opus",
+  "cost_usd": 0.076742,
+  "secs": 16.3
+ }
+}

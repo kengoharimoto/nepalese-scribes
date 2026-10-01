@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīviśvanātha",
+   "name": "Viśvanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "gargagotra",
+   "residence": "",
+   "evidence": "liṣitaṃ(!) gargagotrotpanno ʼhaṃ śrīviśvanātha hastākṣaram",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "64 sāla māghaśukla 1 roja 2",
+  "era": "unspecified",
+  "year": "64",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "roja 2",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is given as '64 sāla' without century or era specification (possibly VS [18]64 or [19]64, or Fasli/other sāl). roja 2 corresponds to Monday (somavāra).",
+ "_meta": {
+  "reel": "A 1101/13",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 806,
+  "out_tok": 846
+ }
+}

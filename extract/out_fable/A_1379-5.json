@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīdharasvāmīviracitāyāṃ",
+   "name": "Śrīdharasvāmin",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "svāmin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "iti śrīśrīdharasvāmīviracitāyāṃ bhagavadgītāṭīkāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 880 vaiśākhaśukla tṛtīyā śukravāra",
+  "era": "NS",
+  "year": "880",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "tṛtīyā",
+  "weekday": "śukravāra (Friday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1760"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribe, commissioner, owner or king is named. The only person is Śrīdharasvāmin, author of the Bhagavadgītāṭīkā (Subodhinī), listed as commentator for filtering. The Newari phrase 'kunhu(?) gītāsaṃpūrṇṇayāṇāvacopāditaḥ' is garbled (kunhu = 'on the day'; saṃpūrṇa yāṇā = 'having completed'; the rest, perhaps intended as something like '-copāditaḥ/sampāditaḥ', is unreadable) and contains no personal name. Era taken as NS since the three-digit saṃvat year with a Newari context fits Nepal Saṃvat; 880 NS = c. 1760 CE. Catalogue fields are empty, so no conflicts.",
+ "_meta": {
+  "reel": "A 1379/5",
+  "model": "fable",
+  "cost_usd": 0.14215699999999998,
+  "secs": 21.7
+ }
+}

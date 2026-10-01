@@ -1,0 +1,173 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmaho[[pāya]]saniśrīvācaspati",
+   "name": "Vācaspatimiśra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "Mithilā",
+   "evidence": "śrīvācaspati-viracito yaṃ mahādānanirṇṇayaḥ samāptaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mahārājādhirājaśrīmadrūpanārāyaṇa",
+   "name": "Rūpanārāyaṇa",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "Mithilā",
+   "evidence": "mahārājādhirājaśrīmadrūpanārāyaṇānujñāta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bhairavabhūmipālatilakasya",
+   "name": "Bhairavabhūmipāla",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Mithilā",
+   "evidence": "ājñāṃ bhairavabhūmipālatilakasyāvāpya yan nirmitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrījagajjyotirmallanṛpeṇa",
+   "name": "Jagajjyotirmalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "nṛpa"
+   ],
+   "affiliation": "",
+   "residence": "Bhaktapur",
+   "evidence": "śrījagajjyotirmallanṛpeṇa nirmalaguṇenālekhitaṃ śodhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "viśvasiṃhagaṇakena",
+   "name": "Viśvasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "gaṇaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "etad alekhi jagajjyotirnṛpavacasā viśvasiṃhagaṇakena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "śrīśrīsumatijayajitāmitramalladeva",
+   "name": "Jayajitāmitramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati",
+    "deva"
+   ],
+   "affiliation": "",
+   "residence": "Bhaktapur",
+   "evidence": "śrīśrīsumatijayajitāmitramalladeva sana thva pustakadayakā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "śrīgaṃgādhara",
+   "name": "Gaṅgādhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumatijayajitāmitramalladeva sana thva pustakadayakā (banigā) śrīgaṃgādhara",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p8",
+   "as_written": "bhāgirāmaparamānayā",
+   "name": "Bhāgirāma",
+   "roles": [
+    "governor"
+   ],
+   "titles": [
+    "paramāna"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgirāmaparamānayā velasa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p5",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "jagajjyotirnṛpavacasā viśvasiṃhagaṇakena"
+  },
+  {
+   "from": "p7",
+   "type": "wrote_for",
+   "to": "p6",
+   "evidence": "śrīśrīsumatijayajitāmitramalladeva sana thva pustakadayakā (banigā) śrīgaṃgādhara"
+  },
+  {
+   "from": "p7",
+   "type": "under_reign_of",
+   "to": "p6",
+   "evidence": "śrīśrīsumatijayajitāmitramalladeva sana thva pustakadayakā"
+  },
+  {
+   "from": "p8",
+   "type": "under_reign_of",
+   "to": "p6",
+   "evidence": "bhāgirāmaparamānayā velasa"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 808 śrāvaṇavadi 13",
+  "era": "NS",
+  "year": "808",
+  "month": "śrāvaṇa",
+  "paksa": "vadi",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1688"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon contains two copying records: an earlier verse recording that King Jagajjyotirmalla brought the text from Mithilā and had it copied by Viśvasiṃha Gaṇaka in Śāke 1550 (Śāke gagaṇabāṇaśaracandre = 1550, Śrāvaṇa śukla 6 Saturday c. 1628 CE), and the present copy prepared under King Jayajitāmitramalla in NS 808 during the administration of the pramāṇa Bhāgirāma. Rūpanārāyaṇa and Bhairavabhūmipāla refer to King Bhairavasiṃha of Mithilā who patronised Vācaspatimiśra.",
+ "_meta": {
+  "reel": "A 50/12",
+  "model": "gemini-flash-latest",
+  "secs": 13.1,
+  "in_tok": 995,
+  "out_tok": 3741
+ }
+}

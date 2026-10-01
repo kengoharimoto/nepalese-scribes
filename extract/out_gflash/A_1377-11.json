@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The excerpt contains only the work's textual/chapter colophon (puṣpikā) citing the dialogue between Kṛṣṇa and Yudhiṣṭhira from the Nāradīyapurāṇa, followed by a general verse on the merits of a Vaiṣṇava text. No historical persons, scribal colophon, date, or location are present.",
+ "_meta": {
+  "reel": "A 1377/11",
+  "model": "gemini-flash-latest",
+  "secs": 3.0,
+  "in_tok": 709,
+  "out_tok": 477
+ }
+}

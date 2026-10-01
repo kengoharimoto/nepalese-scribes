@@ -1,0 +1,113 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījinaharṣasūriguruṇāṃ",
+   "name": "Jinaharṣasūri",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "guru",
+    "sūri"
+   ],
+   "affiliation": "vṛ...gaccha",
+   "residence": "",
+   "evidence": "śrījinaharṣasūriguruṇāṃ saṃāne",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmānakīrtimahopādhyānaṃ",
+   "name": "Mānakīrti",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "mahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmānakīrtimahopādhyānaṃ śiṣya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīdevakalaśamunipaṇḍitapravara",
+   "name": "Devakalaśa",
+   "roles": [
+    "pupil",
+    "teacher"
+   ],
+   "titles": [
+    "paṇḍita",
+    "muni",
+    "paṇḍitapravara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmānakīrtimahopādhyānaṃ śiṣya paṃ. śrīdevakalaśamunipaṇḍitapravara (15) /// śiṣya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "vinayasāgaramunilibhir",
+   "name": "Vinayasāgara",
+   "roles": [
+    "scribe",
+    "pupil"
+   ],
+   "titles": [
+    "muni"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śiṣya vinayasāgaramunilibhir likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śrījinaharṣasūriguruṇāṃ saṃāne śrīmānakīrtimahopādhyānaṃ"
+  },
+  {
+   "from": "p3",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "śrīmānakīrtimahopādhyānaṃ śiṣya paṃ. śrīdevakalaśamuni"
+  },
+  {
+   "from": "p4",
+   "type": "pupil_of",
+   "to": "p3",
+   "evidence": "śrīdevakalaśamunipaṇḍitapravara (15) /// śiṣya vinayasāgaramuni"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1616 mārgaśira vadi 1 dine budhavāsare",
+  "era": "VS",
+  "year": "1616",
+  "month": "mārgaśira",
+  "paksa": "vadi",
+  "tithi": "1",
+  "weekday": "budhavāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1559"
+ },
+ "place": {
+  "as_written": "śrīdillīnagaramadhye",
+  "normalized": "Delhi"
+ },
+ "purpose": "",
+ "notes": "The catalogue queries the era as ŚS 1616 and gives the scribe as Sāgaramuni; the colophon clearly indicates a Jain monastic lineage in Delhi, where saṃvat normally refers to Vikrama Saṃvat (VS 1616 = c. 1559 CE), and the scribe's name is Vinayasāgaramuni.",
+ "_meta": {
+  "reel": "B 275/15",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 816,
+  "out_tok": 2007
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "brāhmaṇa someśvaradadhīca",
+   "name": "Someśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa",
+    "dadhīca"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ brāhmaṇa someśvaradadhīca",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jyānilajyā śaṃkarasya",
+   "name": "Śaṃkara",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jyānilajyā śaṃkarasyedaṃ pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "likhitaṃ brāhmaṇa someśvaradadhīca || jyānilajyā śaṃkarasyedaṃ pustakaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1840 ... miti kārtikavadi paṃcamī 5 budhavāsare",
+  "era": "VS",
+  "year": "1840",
+  "month": "kārtika",
+  "paksa": "vadi",
+  "tithi": "paṃcamī 5",
+  "weekday": "budhavāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1783"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Dadhīca (Dādhīca) is the Brahmin lineage/sub-caste of the scribe Someśvara. The word jyānilajyā preceding Śaṃkarasya is unclear; it could be a corrupt name/epithet or place designation.",
+ "_meta": {
+  "reel": "A 102/3",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 851,
+  "out_tok": 1459
+ }
+}

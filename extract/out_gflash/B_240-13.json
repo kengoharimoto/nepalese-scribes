@@ -1,0 +1,49 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "serajaṅgī diptamān janaralasāheva vahādūra janarala bhīmasenathāpā",
+   "name": "Bhīmasena Thāpā",
+   "roles": [
+    "commissioner",
+    "minister"
+   ],
+   "titles": [
+    "serajaṅgī",
+    "diptamān",
+    "janaralasāheba",
+    "bahādura",
+    "janarala"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tamām bhayo yo kitāpa serajaṅgī diptamān janaralasāheva vahādūra janarala bhīmasenathāpā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1884 sāla miti pauṣa vadi 11 roja bṛhaspativāra mā",
+  "era": "VS",
+  "year": "1884",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1827"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Nepali colophon recording the completion of the book for or under General Mukhtiyar Bhimsen Thapa.",
+ "_meta": {
+  "reel": "B 240/13",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 701,
+  "out_tok": 1062
+ }
+}

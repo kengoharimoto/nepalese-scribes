@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmahopādhyāyaśrīśrīdatta-",
+   "name": "Śrīdatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāyaśrīśrīdattaviracitas",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīsanmiśrapuruṣottama-",
+   "name": "Puruṣottama",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [
+    "sanmiśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsanmiśrapuruṣottamaprītyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīvaidyanāthaśarmmaṃā",
+   "name": "Vaidyanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ samayapraīpaṃ (!) śrīvaidyanāthaśarmmaṃā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "śrīsanmiśrapuruṣottamaprītyā likhitam idaṃ samayapraīpaṃ (!) śrīvaidyanāthaśarmmaṃā"
+  }
+ ],
+ "date": {
+  "as_written": "lasaṃ 502 bhādraśuklasaptamīcandre",
+  "era": "LS",
+  "year": "502",
+  "month": "bhādra",
+  "paksa": "śukla",
+  "tithi": "saptamī",
+  "weekday": "candra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1621"
+ },
+ "place": {
+  "as_written": "vauharāgrāma",
+  "normalized": ""
+ },
+ "purpose": "śrīsanmiśrapuruṣottamaprītyā",
+ "notes": "",
+ "_meta": {
+  "reel": "A 51/5",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 855,
+  "out_tok": 1706
+ }
+}

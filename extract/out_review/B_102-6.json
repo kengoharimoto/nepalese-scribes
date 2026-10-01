@@ -1,0 +1,54 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Added the anonymous vajrācārya scribe as p1. His name is lost in the lacuna, but his title, his status as paramopāsaka and his residence in the Yaśodhara-vihāra are stated. He is also the donor, because the deyadharma formula is attached to him.",
+   "Moved Śrī Yaśodharavihāra from 'place' to the scribe's residence. The colophon gives it only as where he lives ('-vihāravāsitaḥ'), not as the place of copying, so 'place' is now empty.",
+   "Era: 'saṃvat' with no era name; NS (CE ≈1609) is kept as the likely era, given the Newari script and the Patan vihāra context. The doubt is recorded in the notes.",
+   "Purpose rephrased as a pious gift (deyadharma)."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vrajācāryye(ṇa)……..",
+   "name": "",
+   "roles": [
+    "scribe",
+    "donor"
+   ],
+   "titles": [
+    "vajrācārya",
+    "paramopāsaka"
+   ],
+   "affiliation": "Śrī Yaśodhara-vihāra (Bu Bāhā), Patan",
+   "residence": "śrījaśodharavihāra (Yaśodhara Mahāvihāra, Patan)",
+   "evidence": "deyadharmmoyaṃ … paramopāsakaśrījaśodharavihāravāsitaḥ(!) vrajācāryye(ṇa)…….. likhito",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 729?",
+  "era": "NS",
+  "year": "729",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1609"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "pious gift (deyadharma) of a Mahāyāna lay devotee/vajrācārya",
+ "notes": "The catalogue's 'Yaśodhara vajrācāya?' is a misreading: 'śrījaśodharavihāravāsitaḥ' means 'living in the Śrī Yaśodhara-vihāra' (Bu Bāhā, Patan). The vajrācārya scribe/donor's own name is lost in the lacuna after 'vrajācāryye(ṇa)'. 'pravaramahā || || yāyinaḥ' is probably 'pravaramahāyānayāyinaḥ'. The colophon says only 'saṃvat'; NS is assumed (Newari script, Newar vihāra context), and the year 729 is itself marked doubtful by the cataloguer (NS 729 = c. 1609 CE).",
+ "_meta": {
+  "reel": "B 102/6",
+  "model": "opus",
+  "cost_usd": 0.07908200000000001,
+  "secs": 18.3
+ }
+}

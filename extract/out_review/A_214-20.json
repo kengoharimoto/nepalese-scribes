@@ -1,0 +1,48 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "ce_approx changed from 1791 to 1792. VS 1848 began in Caitra 1791, so Māgha vadī 2 of that year falls in January or February 1792. The simple VS−57 formula gives 1791.",
+   "Notes expanded: the scribe name in the catalogue cannot be verified, 'mīṭī' is the Nepali word miti, and the invocations name deities, not people."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmādhavakara",
+   "name": "Mādhavakara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmādhavakaraviracita",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1848 mīṭī (!) māgha vadī 2 vāra budhavāra",
+  "era": "VS",
+  "year": "1848",
+  "month": "māgha",
+  "paksa": "vadī",
+  "tithi": "2",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1792"
+ },
+ "place": {
+  "as_written": "kāśyāṃ madhye",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The catalogue gives the scribe as Kṛṣṇadāsa, but that name is not in the quoted colophon. It may be in the part left out at the ellipsis '…'. Because it can't be checked, Kṛṣṇadāsa is not added as a person. The era is not named. VS is assumed because the copy was made in Kāśī and because of the year range. The CE year is given as 1792, not 1791 (VS−57), because Māgha of VS 1848 (counting the year from Caitra) falls in early 1792. 'mīṭī' is Nepali miti, meaning 'date'. 'śrīlakṣmī najīāya(!)' is probably a corruption of Lakṣmīnārāyaṇa. That name, and Rāmacandra, Kṛṣṇa, Gopāla, Hanumat and 'rājārāmacaṃdra', are deities in the closing invocations, not people.",
+ "_meta": {
+  "reel": "A 214/20",
+  "model": "opus",
+  "cost_usd": 0.072454,
+  "secs": 15.5
+ }
+}

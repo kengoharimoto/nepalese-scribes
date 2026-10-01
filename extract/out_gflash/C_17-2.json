@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "muktānaṃdana",
+   "name": "Muktānanda",
+   "roles": [
+    "scribe",
+    "reader"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "saovāhā tola",
+   "evidence": "śrīvajrācāryā +javanavaṃḥ || muktānaṃdana voyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śubha saṃvat 933 miti jyeṣṭha śu di 15",
+  "era": "NS",
+  "year": "933",
+  "month": "jyeṣṭha",
+  "paksa": "śuklapakṣa",
+  "tithi": "15",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1813"
+ },
+ "place": {
+  "as_written": "saovāhā tola",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The manuscript contains multiple subsequent diary-like notes/records of readings and copyings by Vajrācārya Muktānanda, dated NS 981 (where his age is given as 97: 'muktānaṃdayā varṣa 97 dū'), NS 980, etc.",
+ "_meta": {
+  "reel": "C 17/2",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 983,
+  "out_tok": 1376
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkaṃṭhaśivapaṃḍita",
+   "name": "Śrīkaṇṭhaśiva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramaśaivācārya",
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīkaṃṭhaśivapaṃḍitaviracitātāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kṛṣṇanewāreṇa",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "newāra"
+   ],
+   "affiliation": "",
+   "residence": "karvudā nikaṭe vaṃdipuragrāme",
+   "evidence": "likhitaṃ kṛṣṇanewāreṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1717 māse vaiśākha kṛṣṇapakṣe ekādaśyāṃ tithau budhavāsare",
+  "era": "ŚS",
+  "year": "1717",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1795"
+ },
+ "place": {
+  "as_written": "karvudā nikaṭe vaṃdipuragrāme",
+  "normalized": "Bandipur"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 210/10",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 800,
+  "out_tok": 1333
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāyastha balabhadrātmajagopāladāsa",
+   "name": "Gopāladāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkāyastha balabhadrātmajagopāladāsaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "balabhadra",
+   "name": "Balabhadra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "balabhadrātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "jagannāthena",
+   "name": "Jagannātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ jagannāthena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīmad raṇabahādūrasena",
+   "name": "Raṇabahādurasena",
+   "roles": [
+    "commissioner",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmad raṇabahādūrasenārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "balabhadrātmaja"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "likhitaṃ jagannāthena śrīmad raṇabahādūrasenārthaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "abde nāmgayugāṃgaśītakiraṇe 1648 taiṣetithau pakṣatau 1 kṛṣṇāyā minavāsare mṛgaśiraḥ sādhyollasat kaulave",
+  "era": "unspecified",
+  "year": "1648",
+  "month": "taiṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "1",
+  "weekday": "minavāsara",
+  "nakshatra_yoga": "mṛgaśiras, sādhya, kaulava",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīmad raṇabahādūrasenārthaṃ",
+ "notes": "The date year 1648 (taiṣa kṛṣṇa 1) in chronogram and numerals refers to the completion of the composition by Gopāladāsa ('saṃpūrṇaṃ kṛtavān ayaṃ ... karikautukaṃ balisuto gopālanāmā'), although the catalogue registers it as the copying date. Scribe Jagannātha copied this text for Raṇabahādūrasena.",
+ "_meta": {
+  "reel": "A 227/12",
+  "model": "gemini-flash-latest",
+  "secs": 14.8,
+  "in_tok": 1040,
+  "out_tok": 3875
+ }
+}

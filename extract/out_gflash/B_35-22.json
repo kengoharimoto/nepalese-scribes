@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmurāriśarmmaṇā",
+   "name": "Murāri",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmurāriśarmmaṇā likhiteṣā pustakīti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "la saṃ 475 pauṣaśudi 12 budhe",
+  "era": "LS",
+  "year": "475",
+  "month": "pauṣa",
+  "paksa": "śudi",
+  "tithi": "12",
+  "weekday": "budhe",
+  "nakshatra_yoga": "",
+  "ce_approx": "1594"
+ },
+ "place": {
+  "as_written": "bhau ā(dra)grāme",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 35/22",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 714,
+  "out_tok": 1393
+ }
+}

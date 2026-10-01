@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "appadīkṣita",
+   "name": "Appadīkṣita",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmad appadīkṣita viracito",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vipaśvitsukhalālākhyena",
+   "name": "Sukhalāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipaścit"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaḥ vipaśvitsukhalālākhyena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "harinmṛgāṃkayāṃjhava (!) veda pramite vatsare bhādrapadameva ka caturddaśyāṃ śauriyasrānvitāyāṃ",
+  "era": "unspecified",
+  "year": "1845",
+  "month": "Bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturdaśī",
+  "weekday": "śanivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1788"
+ },
+ "place": {
+  "as_written": "śrīddhariddharesiru (!) rāṣṭrasya vyapāla vāhinīpariveṣṭite",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram for the year is corrupt ('harinmṛgāṃkayāṃjhava (!) veda pramite vatsare'); the cataloguer reads it as SAM 1845 (VS 1845 = 1788 CE). The scribe's title/epithet 'vipaśvit' is misread as a personal name ('Pipaśvī') in the catalogue record. The location description following the scribe's name ('śrīddhariddharesiru (!) rāṣṭrasya vyapāla vāhinīpariveṣṭite') is corrupt and obscure.",
+ "_meta": {
+  "reel": "A 371/1",
+  "model": "gemini-flash-latest",
+  "secs": 8.1,
+  "in_tok": 800,
+  "out_tok": 1921
+ }
+}

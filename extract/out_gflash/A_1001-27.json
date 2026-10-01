@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dharmadattaśarmaṇa",
+   "name": "Dharmadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣi(!)taṃ dharmadattaśarmaṇa idam pustakaṃ liṣi(!)taṃm (!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśālivāhanīyaśāke 1775 śrī(!)kramā ’rka samvat 1910 nepālīsamvat 973 māse 4 tithau 5 vāre 2 nakṣatre 26",
+  "era": "ŚS",
+  "year": "1775",
+  "month": "4",
+  "paksa": "",
+  "tithi": "5",
+  "weekday": "2",
+  "nakshatra_yoga": "nakṣatre 26",
+  "ce_approx": "1853"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Three eras are synchronized in the colophon: Śālivāhana Śaka 1775, Vikrama Saṃvat 1910, and Nepāla Saṃvat 973.",
+ "_meta": {
+  "reel": "A 1001/27",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 882,
+  "out_tok": 1093
+ }
+}

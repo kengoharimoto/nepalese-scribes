@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Author name normalized to stem 'Trimalla' with 'bhaṭṭa' kept only in titles (was 'Trimallabhaṭṭa').",
+   "Date year given as '1746' with explicit chronogram analysis; last digit (padma) flagged as uncertain.",
+   "Notes expanded: chronogram reading, the lacuna, and the catalogue's scribe and place not being in the quoted text."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "trimallabhaṭṭa",
+   "name": "Trimalla",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "iti śrītrimallabhaṭṭa/// yogataraṅgiṇīgraṃthaḥ samāptaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat padmapayodhiśailavasudhābhiḥ saṃmite śrī–/// ... miti vaiśākhaśukla 3",
+  "era": "VS",
+  "year": "1746",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1689"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram is read from right to left: vasudhā = 1, śaila = 7, payodhi = 4 (oceans), padma = ? The value of 'padma' is not a standard bhūtasaṃkhyā value; the catalogue gives 6 with a query. That makes the year 174x, probably 1746. The era is not named ('saṃvat'). VS is assumed because the catalogue says the copy was made in Kāśī, and VS 1746 ≈ 1689 CE. The text breaks off after 'saṃmite śrī–///', so the rest of the date and probably the scribe's name are lost. The catalogue's scribe (Bālakṛṣṇa) and place (Kāśī) do not appear in the quoted excerpt, so they are not recorded as persons or place here. They may come from the lacuna or another folio. 'miti vaiśākhaśukla 3' comes after an added short recipe colophon ('iti vātanāśakatailaṃ'). It may belong to the same copying date or to that addition.",
+ "_meta": {
+  "reel": "A 214/3",
+  "model": "opus",
+  "cost_usd": 0.075706,
+  "secs": 15.4
+ }
+}

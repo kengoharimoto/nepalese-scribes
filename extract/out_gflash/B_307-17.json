@@ -1,0 +1,98 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhanudatta",
+   "name": "Bhānudatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "maithila"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhanudatta(3)vircitā rasataraṃgiṇī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kalāsabhānāthagaṇanātha",
+   "name": "Gaṇanātha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "kalāsabhānātha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkalāsabhānāthagaṇanāthatanaya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "joītā rāmeṇa",
+   "name": "Joītārāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Tāpitīra",
+   "evidence": "tāpitīra nivāsinā dayārāmātmajena joītā rāmeṇa likhitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "dayārāmātmajena",
+   "name": "Dayārāma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dayārāmātmajena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīkalāsabhānāthagaṇanāthatanaya"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "dayārāmātmajena"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1857 śāke 1722 pravarttamāne phālgunamā(4)se śuklapakṣe tithau trayodaśyaṃ 13 guruvāsare",
+  "era": "VS",
+  "year": "1857",
+  "month": "phālguna",
+  "paksa": "śukla",
+  "tithi": "trayodaśī (13)",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1801"
+ },
+ "place": {
+  "as_written": "tāpitīra",
+  "normalized": ""
+ },
+ "purpose": "svapanārthaṃ vā paropakārārtham",
+ "notes": "The catalogue header lists 'VS 1875', but the colophon clearly reads 'saṃvat 1857 śāke 1722', which is mathematically consistent (1857 - 135 = 1722).",
+ "_meta": {
+  "reel": "B 307/17",
+  "model": "gemini-flash-latest",
+  "secs": 8.7,
+  "in_tok": 901,
+  "out_tok": 2208
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ḍhuṃḍirājasya",
+   "name": "Ḍhuṃḍirāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "māvalaṃkaropanāma"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "hastākṣaraṃ māvalaṃ karopanāma ḍhuṃḍirājasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 1784 /// -galasaṃvatsare āṣāḍhaśuklaikādaśyāṃ",
+  "era": "VS",
+  "year": "1784",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1727"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe carries the Maharashtrian Chitpavan/Karhade surname (upanāman) Māvalankara (māvalaṃkaropanāma).",
+ "_meta": {
+  "reel": "A 205/10",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 775,
+  "out_tok": 780
+ }
+}

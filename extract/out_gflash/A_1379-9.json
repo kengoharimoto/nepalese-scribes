@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "amvaradhoja hilavāla",
+   "name": "Ambaradhvaja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "hilavāla"
+   ],
+   "affiliation": "",
+   "residence": "cāvela grāme",
+   "evidence": "śrī amvaradhoja hilavāla liṣete",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1938 sāla mīti jeṣṭha sudi 6 roja 6",
+  "era": "VS",
+  "year": "1938",
+  "month": "jeṣṭha",
+  "paksa": "sudi",
+  "tithi": "6",
+  "weekday": "roja 6",
+  "nakshatra_yoga": "",
+  "ce_approx": "1881"
+ },
+ "place": {
+  "as_written": "pasupati guhyeśvari nikaṭe || cavivela gaṇeśā sase || cāvela grāme",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "Copied in Chabahil (Cāvela) near Pashupatinath and Guhyeshwari.",
+ "_meta": {
+  "reel": "A 1379/9",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 797,
+  "out_tok": 1197
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvajrācāryasiddhinikasya / śrīvajrācāryasiddhiminiṃ",
+   "name": "Siddhimuni",
+   "roles": [
+    "commissioner",
+    "donor",
+    "scribe"
+   ],
+   "titles": [
+    "paramopāsaka",
+    "vajrācārya"
+   ],
+   "affiliation": "mahibhadrācāryasaṃskāritamaitrīpurīmahāvihāra",
+   "residence": "Suvarṇapanārī",
+   "evidence": "paramopāsakaśrī3vajradevīcaraṇasevitaśrīvajrācāryasiddhinikasya ... śrīvajrācāryasiddhiminiṃ tha o kuladevatāyā‥ pāṭha yāya, yāta tha manaṃ thva sarvatantracoyā saṃmpūrṇna siddha yānā dina jula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 993 miti jyeṣṭha kṛṣṇa 14",
+  "era": "NS",
+  "year": "993",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "14",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1873"
+ },
+ "place": {
+  "as_written": "sasuvarṇapanārimahānagare",
+  "normalized": ""
+ },
+ "purpose": "tha o kuladevatāyā pāṭha yāya yāta (for recitation for one's own tutelary deity) and anuttarajñānaphala for all beings",
+ "notes": "The name is written first as Siddhinika and then as Siddhimuni (siddhiminiṃ). Mahībhadrācārya is mentioned only in the standing designation of the vihāra (mahibhadrācāryasaṃskārita-maitrīpurī-mahāvihāra).",
+ "_meta": {
+  "reel": "A 138/3",
+  "model": "gemini-flash-latest",
+  "secs": 16.0,
+  "in_tok": 1023,
+  "out_tok": 3109
+ }
+}

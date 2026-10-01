@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījayajagat prakāśamalla",
+   "name": "Jagatprakāśamalla",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śrījayajagat prakāśamallakṛtaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Colophon of act 3 (tṛtīyāṅka samāptaṃ) attributing the composition to King Jagatprakāśamalla of Bhaktapur.",
+ "_meta": {
+  "reel": "A 349/13",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 672,
+  "out_tok": 877
+ }
+}

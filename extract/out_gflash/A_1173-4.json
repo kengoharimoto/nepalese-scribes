@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāiṭara vāburāma śarmmaṇā",
+   "name": "Bāburāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "rāiṭara",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ rāiṭara vāburāma śarmmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1938 shāgunakṛṣṇa paṃcamyāṃ budhavāsare",
+  "era": "VS",
+  "year": "1938",
+  "month": "Phālguna",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1882"
+ },
+ "place": {
+  "as_written": "sisnyāri brahmapuragrāmasthāne",
+  "normalized": "Sisneri"
+ },
+ "purpose": "",
+ "notes": "The month name 'shāguna' stands for Phālguna. The title 'rāiṭara' is Nepali/English 'writer' (clerk/scribe).",
+ "_meta": {
+  "reel": "A 1173/4",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 687,
+  "out_tok": 969
+ }
+}

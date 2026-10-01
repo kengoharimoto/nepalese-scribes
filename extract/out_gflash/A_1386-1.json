@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgajādharadvijanmanā",
+   "name": "Gajādhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvijanman"
+   ],
+   "affiliation": "",
+   "residence": "jñādigrāma",
+   "evidence": "likhitaṃ ... śrīgajādharadvijanmanā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "jñādigrāmābhidhānaṃ",
+  "normalized": ""
+ },
+ "purpose": "śrīviṣṇututyartham ... kuvuddhināśāya",
+ "notes": "The phrase 'pahaladaṃ' is a corruption of 'phaladaṃ'. 'śubhaphaṇabhṛmithautra' is corrupt and might conceal a chronogram, but cannot be safely identified as a date without further context.",
+ "_meta": {
+  "reel": "A 1386/1",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 761,
+  "out_tok": 993
+ }
+}

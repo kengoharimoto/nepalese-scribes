@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhavanāthadvijaskasya(!)",
+   "name": "Bhavanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhavanāthadvijaskasya(!) likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "aṣṭḥā(!)daśāṃkeṃduśāke māse madhau stathā(!) mūlakṣye(!) bhaṃ || yogavyatiś ca navami(!) asitās(!)tathā ... saumyavāsare",
+  "era": "ŚS",
+  "year": "1891",
+  "month": "madhu (Caitra)",
+  "paksa": "asita (kṛṣṇa)",
+  "tithi": "navamī",
+  "weekday": "saumyavāsara",
+  "nakshatra_yoga": "mūla, vyatīpāta",
+  "ce_approx": "1969"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram: aṣṭādaśa (18) + aṅka (9) + indu (1) śāke = ŚS 1891. The scribe's name appears with a scribal error/corruption: bhavanāthadvijaskasya for bhavanāthadvijasya.",
+ "_meta": {
+  "reel": "A 1103/34",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 748,
+  "out_tok": 993
+ }
+}

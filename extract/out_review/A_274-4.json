@@ -1,0 +1,109 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: name stripped of title → 'Ratnagarbha' (bhaṭṭācārya kept in titles)",
+   "p4: name as written 'avanideva' (short i) → 'Avanideva' rather than 'Avanīdeva'",
+   "p2: 'prabhu' removed from titles (just an epithet, 'by order of the lord'); identification of Bahādur made less certain (Bahādur Śāha vs. the young king Raṇa Bahādur Śāha), confidence lowered to medium",
+   "date: era is not stated in the colophon; VS inferred from the Bahādur context, noted",
+   "date: checked Āśvina śukla dvādaśī on a Monday (≈ 20 Sept 1790) by approximate calculation; it fits better than reading vivasvattithi as saptamī (the tithi ruled by the Sun), which noted",
+   "notes rewritten"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīratnagarbhabhaṭṭācārya",
+   "name": "Ratnagarbha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīratnagarbhabhaṭṭācāryaracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bahādūrasya",
+   "name": "Bahādura",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "yuvabhūpati",
+    "yuvarājavara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīyuvabhūpater ... bahādūrasyā ... ājñayā prabhoḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śivanidhir",
+   "name": "Śivanidhi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitavān ... ʼvanidevajaḥ śivanidhir nāma",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "ʼvanideva-",
+   "name": "Avanideva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ʼvanidevajaḥ śivanidhir",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "ʼvanidevajaḥ śivanidhir"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "śrīyuvabhūpater likhitavān ... bahādūrasyā ... ājñayā prabhoḥ"
+  }
+ ],
+ "date": {
+  "as_written": "varṣe śailasaripatībharajanīkāṃtair mite tīkṣṇagau kanyārāśim upāgate ʼmaladale some vivasvattithau",
+  "era": "VS",
+  "year": "1847",
+  "month": "Āśvina",
+  "paksa": "śukla",
+  "tithi": "12",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1790"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "copied by order of the yuvabhūpati Bahādur",
+ "notes": "The chronogram reads śaila 7, saritpati 4, ibha 8, rajanīkānta 1; read right to left, this gives 1847. The colophon does not name an era. VS is inferred because the date (1790 CE) fits the Gorkhā court of Bahādur. Śaka 1847 (1925 CE) would not fit. Tīkṣṇagu (the Sun) in Kanyā, the bright fortnight (amaladala) and Monday (soma) point to amānta Āśvina śukla. 'Vivasvattithi' is ambiguous. As a number-word, vivasvat = 12 (dvādaśī). As the tithi ruled by Sūrya, it would be 7 (saptamī). A rough mean-lunation calculation puts the new moon at about 8 Sept 1790 and the Kanyā saṅkrānti at about 13 Sept. On that basis Monday 20 Sept 1790 falls on or near śukla 12, while saptamī (14–15 Sept) falls on a Tuesday or Wednesday. So 12 is preferred, but this is not verified with exact tables. Who 'yuvabhūpati Bahādur' is remains uncertain. It is most likely the regent Bahādur Śāha (Pṛthvīnārāyaṇ's son, regent 1785–94). However, 'yuvabhūpati' could also mean the young king Raṇa Bahādur Śāha, who was about 15 in 1790. The catalogue is wrong to call Avanideva the scribe and Śivanidhi the donor. The text says Śivanidhi, son of Avanideva (avanidevajaḥ), copied the book by order of the prince. Verse 2 is a benedictory verse to the yuvarāja. The compound 'purāṇaṃbahādūrasyā' is a word-division artefact: purāṇaṃ + bahādūrasya.",
+ "_meta": {
+  "reel": "A 274/4",
+  "model": "opus",
+  "cost_usd": 0.14761,
+  "secs": 48.8
+ }
+}

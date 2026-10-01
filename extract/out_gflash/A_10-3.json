@@ -1,0 +1,84 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadānandabhūpate",
+   "name": "Ānandadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhūpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadānandabhūpate",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nāgajaharṣapālasya",
+   "name": "Harṣapāla",
+   "roles": [
+    "commissioner",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "śrīmāndhānupura",
+   "evidence": "nāgajaharṣapālasya pitā bhrātā svakātmajāḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "puruṣottamavarmena",
+   "name": "Puruṣottamavarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "puruṣottamavarmena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "nepālamaṇḍalekāntā śrīmadānandabhūpate"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "nāgajaharṣapālasya pitā bhrātā svakātmajāḥ ... viṣudharmam idaṃ punyam akṣilaṃ śāstrasaṃgrahaṃ | puruṣottamavarmena likhitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "prathivyāpannagapakṣa+++++ nā(ya)te | phālgune sitapakṣe ca riktādyātithayaḥ subhe || nakṣatra raivatau〇 jñeyā vāsare somanandane",
+  "era": "NS",
+  "year": "281",
+  "month": "phālguna",
+  "paksa": "śukla",
+  "tithi": "riktādyatithi (caturthī)",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "revatī",
+  "ce_approx": "1161"
+ },
+ "place": {
+  "as_written": "śrīmāndhānupure",
+  "normalized": ""
+ },
+ "purpose": "āyur ārogyam aiśvarya-lakṣmī-saubhāgya-sampadāḥ, merit transfer to family (pitā, bhrātā, svakātmajāḥ)",
+ "notes": "The chronogram prathivī (1), pannaga (8), pakṣa (2) gives NS 281. The prefix 'nāgaja-' in 'nāgajaharṣapālasya' could indicate that Harṣapāla was the son of someone named Nāga ('nāga-ja'), or it may be part of an epithet/designation. Unnamed family members of Harṣapāla (father, brother, sons, grandsons) are mentioned as beneficiaries.",
+ "_meta": {
+  "reel": "A 10/3",
+  "model": "gemini-flash-latest",
+  "secs": 10.4,
+  "in_tok": 996,
+  "out_tok": 2589
+ }
+}

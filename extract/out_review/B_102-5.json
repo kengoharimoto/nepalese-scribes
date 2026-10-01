@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "purpose: replaced raw quotation with a short summary (deyadharma, merit dedicated to parents first and to all beings for supreme enlightenment)",
+   "notes: added that the deyadharma formula has an empty donor slot, that the king's personal name is missing (the text reads śtī-malla, likely śrī-[…]-malla), and that the bhūpaticaraṇakamaladhūlidhūsarita formula usually goes on to name the scribe or donor, whose name is lost with the broken text",
+   "p1: kept as a reigning king with low confidence; name is only the dynastic element 'Malla'"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śtīmalla",
+   "name": "Malla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhūpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śtīmallabhūupati",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "deyadharma; merit dedicated first to mother and father, then to all beings, for supreme enlightenment",
+ "notes": "The deyadharma formula ('deyadharmo 'yaṃ pravaramahāyānayāyinaḥ paramopāsaka paramadhārmika dharmātmā …') is missing the donor's name: either the scribe left the slot empty or the name dropped out. The colophon breaks off at fol. 96v5 with 'śtīmallabhūupaticaranakamaradhuridhusa…', read as śrī-[…]-malla-bhūpati-caraṇa-kamala-dhūli-dhūsarita(-śiras) 'whose head is grey with the dust of the lotus feet of King […] Malla'. In Newar colophons this formula usually comes right before the name of the scribe or donor, which is lost here. The king's personal name is missing or omitted ('śtī' = śrī), so he cannot be identified beyond 'Malla', which matches the catalogue's '… Malla'. There is no date, so the Malla period (roughly 13th–18th c.) is the only clue to dating. The title 'pūrvvaśrīvasundhārā' is corrupt for Vasundharā, and 'asoghoṣo nandimukho' is probably Nandimukhasughoṣa-avadāna.",
+ "_meta": {
+  "reel": "B 102/5",
+  "model": "opus",
+  "cost_usd": 0.07581399999999999,
+  "secs": 17.0
+ }
+}

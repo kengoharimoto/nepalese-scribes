@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhānudattamīśra",
+   "name": "Bhānudatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhānudattamīśraviracitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1837",
+  "era": "VS",
+  "year": "1837",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1780"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "‘rāmaḥ’ at the very end is treated as an invocation to the deity Rāma rather than a human scribe.",
+ "_meta": {
+  "reel": "B 309/8",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 679,
+  "out_tok": 1177
+ }
+}

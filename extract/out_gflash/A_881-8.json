@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ratnamānpatinā",
+   "name": "Ratnamānapati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ratnamānpatinā likhitam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gururājahemarājapaṇḍitaśarmaṇo",
+   "name": "Hemarāja",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "gururāja",
+    "paṇḍita",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idam (!) pustakam (!) gururājahemarājapaṇḍitaśarmaṇo jñeyam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "ratnamānpatinā likhitam || || || śivam || || idam (!) pustakam (!) gururājahemarājapaṇḍitaśarmaṇo jñeyam"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1948 sāla miti bhādrakṛṣṇa 6 roja 3",
+  "era": "VS",
+  "year": "1948",
+  "month": "bhādra",
+  "paksa": "kṛṣṇa",
+  "tithi": "6",
+  "weekday": "roja 3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1891"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The owner is Hemarāj Śarmā (Gurujī Hemarāja Paṇḍita, 1878–1953), the renowned Nepali royal preceptor and scholar.",
+ "_meta": {
+  "reel": "A 881/8",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 731,
+  "out_tok": 1465
+ }
+}

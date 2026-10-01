@@ -1,0 +1,90 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dhanasāgaranā..na",
+   "name": "Dhanasāgara",
+   "roles": [
+    "scribe",
+    "donor"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Dharmakṛtimahāvihāra",
+   "residence": "",
+   "evidence": "dharmmakṛtimahā⁅vihā⁆rayā śrī śrī śrīvajrācāryya dhanasāgaranā..na svahasta pustaka liṣitaṃ mayā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bodhananaṃda..",
+   "name": "Bodhānanda",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pitā bodhananaṃda..",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "dhanasuṃdharaḥ",
+   "name": "Dhanasundhara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jyeṣṭhabhrātrā dhanasuṃdharaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "pitā bodhananaṃda.. ... kanyastrabhrātrā dhanāsāgara"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "pitā bodhananaṃda.. jyeṣṭhabhrātrā dhanasuṃdharaḥ"
+  },
+  {
+   "from": "p3",
+   "type": "brother_of",
+   "to": "p1",
+   "evidence": "jyeṣṭhabhrātrā dhanasuṃdharaḥ kanyastrabhrātrā dhanāsāgara"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 719 || āṣāḍhamāse śukra dvāsyā ti budhavāra",
+  "era": "NS",
+  "year": "719",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1599"
+ },
+ "place": {
+  "as_written": "dharmmakṛtimahā⁅vihā⁆rayā",
+  "normalized": ""
+ },
+ "purpose": "dharmmacīta utapatijuyāḥ bhagavānayā nāmakāsyaṃ",
+ "notes": "The chronogram in verse confirms the date: nepālavarṣa munisomaratna (719) āṣāḍhamāse dhavale harau ca tithau budhavāsarake.",
+ "_meta": {
+  "reel": "B 103/10",
+  "model": "gemini-flash-latest",
+  "secs": 12.4,
+  "in_tok": 892,
+  "out_tok": 2411
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon text contains only the chapter/text ending formula (pañcadaśaḥ paṭalaḥ samāptaḥ guhyasamājāparārddhaḥ) with no scribal or donor details.",
+ "_meta": {
+  "reel": "A 139/5",
+  "model": "gemini-flash-latest",
+  "secs": 2.5,
+  "in_tok": 688,
+  "out_tok": 337
+ }
+}

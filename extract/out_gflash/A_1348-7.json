@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgaurīśaṅkaraṇa",
+   "name": "Gaurīśaṅkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman",
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "tāgṛha",
+   "evidence": "gaurīśaṃkaraśammāsau māghakāvyaṃ midālikhat || saṃvat 835 ... śrīgaurīśaṅkaraṇaśva mādhakāvyacoyadhunakājuro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrībhavānīśaṅkarasya",
+   "name": "Bhavānīśaṅkara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "tāgṛha",
+   "evidence": "tāgṛhadvijavara śrībhavānīśaṅkarasya putra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "māghaḥ",
+   "name": "Māgha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "māghakāvyaṃ midālikhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrībhavānīśaṅkarasya putra śrīgaurīśaṅkaraṇa"
+  }
+ ],
+ "date": {
+  "as_written": "abdebhvagnivasaumāse mārge hastimukhe tithau ... saṃvat 835 mārgaśiraśuklacaturthyāpūrvvāṣāḍhāpara uttaraṣāḍhānakṣatra gaṃdhayoga somavāra",
+  "era": "NS",
+  "year": "835",
+  "month": "mārgaśira",
+  "paksa": "śukla",
+  "tithi": "caturthī",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "pūrvvāṣāḍhāpara uttaraṣāḍhānakṣatra gaṃdhayoga",
+  "ce_approx": "1714"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Tāgṛha may correspond to the Newar locality Taḥchẽ (Ta-gṛha). The final verse cites a common subhāṣita mentioning Kālidāsa alongside Māgha.",
+ "_meta": {
+  "reel": "A 1348/7",
+  "model": "gemini-flash-latest",
+  "secs": 10.2,
+  "in_tok": 897,
+  "out_tok": 2571
+ }
+}

@@ -1,0 +1,130 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pātasāhaśrīgayāsadīna",
+   "name": "Gayāsadīna",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "pātasāha"
+   ],
+   "affiliation": "",
+   "residence": "maṃḍapācala",
+   "evidence": "pātasāhaśrīgayāsadīnasamastasaptāṅgarājya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrījīvāna",
+   "name": "Jīvāna",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījīvānātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīpuṃjarājasāha",
+   "name": "Puṃjarājasāha",
+   "roles": [
+    "author",
+    "minister"
+   ],
+   "titles": [
+    "maṃtrivara",
+    "mahāpuruṣa",
+    "sāha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "maṃtrivaraśrīpuṃjarājasāhaviraviracitā sārasvatīṭīkā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "viṣṇukaviḥ",
+   "name": "Viṣṇukavi",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "graṃthakarttā",
+    "mahākavivara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "graṃthakarttā viṣṇukaviḥ kam api viśeṣam āha",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrībhavānīśaṃkara",
+   "name": "Bhavānīśaṃkara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "vatāgṛha",
+   "evidence": "vatāgṛhanivāsaka śrībhavānīśaṃkarasyaputra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "śrīgaurīśaṃkara",
+   "name": "Gaurīśaṃkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "vatāgṛha",
+   "evidence": "śrīgaurīśaṃkara(ṇathva) ṭīkā (kaṣṭana coyā juro)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrījīvānātmaja"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p5",
+   "evidence": "śrībhavānīśaṃkarasyaputra"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 843 vaiśākhaśuklacaturddaśī budhavāra",
+  "era": "NS",
+  "year": "843",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "caturdaśī",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1723"
+ },
+ "place": {
+  "as_written": "vatāgṛha",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The original work (Puñjarājī / Sārasvataṭīkā) was composed by Viṣṇukavi under the patronage of minister Puñjarāja (son of Jīvāna) during the reign of Sultan Ghiyāsuddīn of Māṇḍū (Māṇḍapācala). The copyist Gaurīśaṅkara, son of Bhavānīśaṅkara, completed copying in NS 843.",
+ "_meta": {
+  "reel": "A 577/8",
+  "model": "gemini-flash-latest",
+  "secs": 7.8,
+  "in_tok": 1240,
+  "out_tok": 2139
+ }
+}

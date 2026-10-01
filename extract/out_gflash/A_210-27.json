@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmacaṃdra somayāji",
+   "name": "Rāmacandra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "somayājin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmacaṃdra somayāji kṛtaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "samrāḍagnicit sūryadāsātmaja",
+   "name": "Sūryadāsa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "samrāṭ",
+    "agnicit"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "samrāḍagnicit sūryadāsātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "sūryadāsātmaja rāmacaṃdra"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1773 varṣe jeṣṭamāse (!) dinagatā 29 vāre 1 tithau 2 nakṣatre 2 sudī saptamyāṃ sanaiścarai (!)",
+  "era": "VS",
+  "year": "1773",
+  "month": "jeṣṭhamāsa",
+  "paksa": "śuklapakṣa",
+  "tithi": "saptamī (tithau 2)",
+  "weekday": "vāre 1, sanaiścara",
+  "nakshatra_yoga": "nakṣatre 2",
+  "ce_approx": "1716"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records the scribe as Gṛhapati Jaisi, the king as Pṛthipati Sāha (king of Gorkha), and the place as 'dharmmānadī taṭagrāme gorṣeśvarasthāne', but none of these appear in the colophon text quoted for fol. 23r2–4. They may appear elsewhere in the manuscript or in an unquoted continuation.",
+ "_meta": {
+  "reel": "A 210/27",
+  "model": "gemini-flash-latest",
+  "secs": 10.2,
+  "in_tok": 922,
+  "out_tok": 2466
+ }
+}

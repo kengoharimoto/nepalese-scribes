@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Rāmakṛṣṇa: confidence lowered high→medium. The form rāmakṛṣṇaśarmaṇe is dative ('for Rāmakṛṣṇa'). The cataloguer's (!) suggests they read it as an error for the instrumental -śarmaṇā ('by'), so 'scribe' is kept, but 'beneficiary' is possible.",
+   "Evidence shortened to the name phrase itself.",
+   "Date: weekday normalized to Sunday; 'dina gatā 16' (solar day 16) recorded in notes. ce_approx 1797 kept: ŚS 1718 and VS 1853 agree (VS−135=ŚS), and Caitra kṛṣṇa falls at the end of the year, spring 1797.",
+   "Notes expanded: the place is located relative to Paśupati and Garuḍanārāyaṇa (Cāṅgu Nārāyaṇa); catalogue Śaka 1728 is wrong."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmakṛṣṇaśarmaṇe(!)",
+   "name": "Rāmakṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tathā rāmakṛṣṇaśarmaṇe(!)",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1718 || samvat 1853 māse caitrakṛṣṇaś || trayodaśī dina gatā || 16 || ādityavāsare",
+  "era": "ŚS",
+  "year": "1718",
+  "month": "Caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī (13)",
+  "weekday": "Sunday (ādityavāsara)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1797"
+ },
+ "place": {
+  "as_written": "paśupatnyāṃ(!) pūrvabhāge || garuḍanārāyaṇapaścimabhage | brahmasthalīgrāmaḥ",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives two eras: Śaka 1718 and (Vikrama) saṃvat 1853. They agree, because VS 1853 − 135 = ŚS 1718. The catalogue field 'Śakasamvat 1728' misreads the colophon, which has 1718. The date is Caitra kṛṣṇa 13, a Sunday, solar day 16 ('dina gatā 16'). This falls at the end of the year, around March/April 1797 CE; the weekday was not checked. Place: the village of Brahmasthalī, east of Paśupati (paśupatnyāṃ = Paśupateḥ) and west of Garuḍanārāyaṇa (probably Cāṅgu Nārāyaṇa). That puts it in the Kathmandu Valley, but there is no certain modern identification. The name rāmakṛṣṇaśarmaṇe is in the dative ('for Rāmakṛṣṇa'). The cataloguer's (!) and the catalogue's 'Scribe' field both point to the intended instrumental ('by Rāmakṛṣṇa'), so he is taken as scribe, but beneficiary/recipient cannot be excluded.",
+ "_meta": {
+  "reel": "A 1102/28",
+  "model": "opus",
+  "cost_usd": 0.09029,
+  "secs": 21.8
+ }
+}

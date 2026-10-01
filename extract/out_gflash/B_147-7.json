@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīyogarājo / (śrījoga)rājena",
+   "name": "Yogarāja",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vipraḥ śrīyogarājo vilikhayati mudā svasya pāṭhārtham eva",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "yāte naipālikābde gagaṇa(!)vasuhaye mādhave māsi śukle, pakṣe śīr devatāyā(!) tithibhṛgutanayā,hargate hasta-ṛkṣe [...] samvat 780 vaiśākhaśudi 13",
+  "era": "NS",
+  "year": "780",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "Friday",
+  "nakshatra_yoga": "Hasta",
+  "ce_approx": "1660"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svasya pāṭhārtham eva, śrī 3 śāradāprītina",
+ "notes": "Chronogram: gagaṇa (0), vasu (8), haya (7) = NS 780. Copied by the brāhmaṇa Yogarāja for his own reading and collected (saṃcaya yāṅā) for the pleasure of Goddess Śāradā.",
+ "_meta": {
+  "reel": "B 147/7",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 853,
+  "out_tok": 1289
+ }
+}

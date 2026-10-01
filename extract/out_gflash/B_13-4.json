@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sthitirājamallaḥ",
+   "name": "Sthitirājamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpeśa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yasmin nṛpeśa (!) sthitirājamallaḥ samastasāmantabhuvaṃ bhunakti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vīrādisiṃho",
+   "name": "Vīrasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "samālikhya vīrādisiṃho",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "yasmin nṛpeśa (!) sthitirājamallaḥ samastasāmantabhuvaṃ bhunakti | tasmin samālikhya vīrādisiṃho"
+  }
+ ],
+ "date": {
+  "as_written": "samvatsare bhūtakhapañcaseṣe māse site śrāvaṇajīvavāre | pūrvvādiṣāḍhe ṛkṣa kāmatithau dineṣu (!)",
+  "era": "NS",
+  "year": "505",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "kāmatithi (trayodaśī)",
+  "weekday": "jīvavāra (Thursday)",
+  "nakshatra_yoga": "pūrvvādiṣāḍhā (Pūrvāṣāḍhā)",
+  "ce_approx": "1385"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram: bhūta (5) - kha (0) - pañca (5) = NS 505. The scribe's name 'vīrādisiṃha' uses the metric filler '-ādi-' for Vīrasiṃha.",
+ "_meta": {
+  "reel": "B 13/4",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 791,
+  "out_tok": 1255
+ }
+}

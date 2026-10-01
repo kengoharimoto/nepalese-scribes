@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dāmodara",
+   "name": "Dāmodara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dāmodarakṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "abhrarāmagajesaṃkhye nepālābde gate ravau navamyāṃ varuṇe sakṣe",
+  "era": "NS",
+  "year": "830",
+  "month": "",
+  "paksa": "sakṣe",
+  "tithi": "navamī",
+  "weekday": "ravau",
+  "nakshatra_yoga": "varuṇe",
+  "ce_approx": "1710"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Dāmodara is the author of the text (dāmodarakṛtau). The scribe is not named, though the verb vyalīlikhat indicates the manuscript was written on Sunday, the 9th tithi (nakṣatra Vāruṇa/Śatabhiṣā?) in NS 830 (abhra = 0, rāma = 3, gaja = 8).",
+ "_meta": {
+  "reel": "B 326/7",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 727,
+  "out_tok": 1345
+ }
+}

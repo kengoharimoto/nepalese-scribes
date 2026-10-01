@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vaidyakumāravatmani(!)",
+   "name": "Kumāravarman",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtiriyaṃ vaidyakumāravatmani(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 667 śrāvana śukla aṣṭami",
+  "era": "NS",
+  "year": "667",
+  "month": "śrāvana",
+  "paksa": "śukla",
+  "tithi": "aṣṭami",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1547"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Kumāravarman as scribe, but the phrase 'kṛtir iyaṃ' explicitly denotes authorship.",
+ "_meta": {
+  "reel": "B 164/10",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 717,
+  "out_tok": 1194
+ }
+}

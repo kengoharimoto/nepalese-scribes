@@ -1,0 +1,74 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 Mahānanda: 'scribe' role removed. 'mārphata' means 'through' or 'by the agency of', so he was the agent who got the copy made, not necessarily the copyist. Roles are now 'other'; confidence for scribe stays open (see notes).",
+   "Relation changed from 'p2 wrote_for p1' to 'p1 commissioned_from p2', because the copy was made through Mahānanda.",
+   "Identification of Candravīra with Candravīra Kũvar softened to 'probable' in notes.",
+   "Notes now say the catalogue's king (Pṛthvīnārāyaṇa Śāha, d. 1775) is anachronistic for VS 1863. The colophon also names no scribe Hariścandra."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsardāracaṃdravīrale",
+   "name": "Candravīra",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "sardāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsardāracaṃdravīrale ... purāna lekhāyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mahānaṃdapaṇḍitamārphata",
+   "name": "Mahānanda",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahānaṃdapaṇḍitamārphata ... lekhāyā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "commissioned_from",
+   "to": "p2",
+   "evidence": "śrīsardāracaṃdravīrale ... mahānaṃdapaṇḍitamārphata ... lekhāyā"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1863 sāla phālguna kṛṣṇapakṣacaturthītithi vṛhaspativāramā",
+  "era": "VS",
+  "year": "1863",
+  "month": "phālguna",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturthī",
+  "weekday": "vṛhaspativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1807"
+ },
+ "place": {
+  "as_written": "śrīnagaramā",
+  "normalized": "Srinagar (Garhwal)"
+ },
+ "purpose": "\"commissioned by Sardār Candravīra\"",
+ "notes": "The colophon is in Nepali. It says Sardār Candravīra had the Brahmottarakhaṇḍa copied at Śrīnagara through (mārphata) Mahānanda Paṇḍita. Mahānanda may have been the actual copyist, or only the paṇḍita who arranged the copying. The text does not say which. Candravīra is probably Candravīra Kũvar, a Gorkhali sardār in Garhwal during the Gorkha occupation (1804–1815). That fits Śrīnagara = Srinagar in Garhwal, but the identification is not certain. The date is VS 1863 Phālguna kṛṣṇa 4, a Thursday, which is about Feb/Mar 1807 CE; the weekday was not checked against an ephemeris. The catalogue fields do not match the colophon. No Hariścandra appears in the quoted text; he may be named elsewhere in the manuscript. King Pṛthvīnārāyaṇa Śāha died in 1775, so he cannot be the reigning king; in 1807 the king was Girvāṇayuddha Vikrama Śāha, who is not named here.",
+ "_meta": {
+  "reel": "B 234/9",
+  "model": "opus",
+  "cost_usd": 0.09089799999999999,
+  "secs": 20.4
+ }
+}

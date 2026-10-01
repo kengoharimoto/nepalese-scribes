@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Month 12: corrected the note. In a Śaka date months usually count from Caitra, so month 12 is probably Phālguna, not Caitra.",
+   "Date: added the month and weekday interpretations to the date fields; kept ce_approx 1679, since Phālguna of ŚS 1600 falls around February 1679 CE.",
+   "Notes: replaced the conjecture 'yo 'likhad idaṃ' for 'yo ṣimidaṃ' with a neutral flag; the phrase is unclear and may hide a surname, place or epithet.",
+   "Person: lowered confidence from high to medium because of the unclear phrase that follows the name."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "valabhadraṃ",
+   "name": "Balabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pūstakaṃ liṣitaṃ valabhadraṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1600 māse 12 tithau 10 vāre 5",
+  "era": "ŚS",
+  "year": "1600",
+  "month": "12 (probably Phālguna, counting from Caitra)",
+  "paksa": "",
+  "tithi": "10",
+  "weekday": "5 (Thursday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1679"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The month, tithi and weekday are given only as numbers, and the pakṣa is not stated. Month 12 is probably Phālguna if months are counted from Caitra; it would be Caitra only if they are counted from Vaiśākha. Weekday 5 = Thursday. ŚS 1600 + 78 = 1678; Phālguna of that year falls in early 1679 CE. 'valabhadraṃ' is a corrupt form, presumably for the instrumental 'balabhadreṇa' ('written by Balabhadra'). The phrase 'yo ṣimidaṃ' after the name is unclear. It may be corrupt, or it may hide a surname, place or epithet; it is not explained here.",
+ "_meta": {
+  "reel": "A 470/28",
+  "model": "opus",
+  "cost_usd": 0.06618120000000001,
+  "secs": 16.3
+ }
+}

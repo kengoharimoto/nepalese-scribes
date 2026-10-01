@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 confidence lowered from high to medium: 'vaidyakumāravatmani(!)' is corrupt. It most likely stands for vaidyakumāravartmanaḥ (cf. the catalogue's 'kumāra(vartma)[varmā]'), so the stem could be Kumāravartman or Kumāravarman.",
+   "Role 'author' kept: 'kṛtir iyaṃ' marks authorship of the text, not copying. The catalogue's 'Scribe' field is probably wrong, and the scribe is not named.",
+   "Notes expanded: the era is not stated, and 'bharagāya' is an invocation, not a person."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vaidyakumāravatmani(!)",
+   "name": "Kumāravarman",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtiriyaṃ vaidyakumāravatmani(!)",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 667 śrāvana śukla aṣṭami",
+  "era": "NS",
+  "year": "667",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "aṣṭamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1547"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The era is not named ('samvat' only). The cataloguer supplied [NS], and NS 667 = c. 1547 CE is the only plausible reading for a Nepalese paper manuscript: VS 667 would be 610 CE and ŚS 667 would be 745 CE. The name is corrupt ('vaidyakumāravatmani(!)'): read either Kumāravartman (genitive vartmanaḥ) or Kumāravarman, as the catalogue emends it. 'kṛtir iyaṃ' makes him the author of the Pākavidhi, not the scribe, so the catalogue's Scribe field probably confuses author and copyist. The scribe of this copy is not named. 'bharagāya namo nama(!)' is a closing invocation, probably bhārgavāya or bhairavāya, and is not a person.",
+ "_meta": {
+  "reel": "B 164/10",
+  "model": "opus",
+  "cost_usd": 0.070922,
+  "secs": 24.5
+ }
+}

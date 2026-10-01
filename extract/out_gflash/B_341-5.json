@@ -1,0 +1,82 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñānaṃta",
+   "name": "Ananta",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñānaṃta suta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "daivajñarāma",
+   "name": "Rāma",
+   "roles": [
+    "author",
+    "commentator"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñarāma viracitāyāṃ svakṛta muhūrttaciṃtāmaṇI ṭīkāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vīreśvaropādhyāyenā",
+   "name": "Vīreśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitamidaṃ pustakaṃ vīreśvaropādhyāyenā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "daivajñānaṃta suta daivajñarāma"
+  }
+ ],
+ "date": {
+  "as_written": "vyomaaṃkaghana vikrama saṃvat 1790 māse śrāvaṇasitetarapakṣe || || nāka rāma 30 pramite tithi saṃjñe",
+  "era": "VS",
+  "year": "1790",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "30",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1733"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "sitetarapakṣe indicates kṛṣṇapakṣa.",
+ "_meta": {
+  "reel": "B 341/5",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 827,
+  "out_tok": 1506
+ }
+}

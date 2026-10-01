@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bajrācāryyemuṇiharṣa",
+   "name": "Muniharṣa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "līṣītaṃ bajrācāryyemuṇiharṣa julo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "harṣanārāyaṇa",
+   "name": "Harṣanārāyaṇa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "tapālāchī tola",
+   "evidence": "tapālāchī tolayā harṣanārāyaṇa",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "līṣītaṃ bajrācāryyemuṇiharṣa julo, || tapālāchī tolayā harṣanārāyaṇa"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1009 miti || pauṣasudī aṣṭamī 8 roja 4",
+  "era": "NS",
+  "year": "1009",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "aṣṭamī 8",
+  "weekday": "roja 4 (Wednesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1889"
+ },
+ "place": {
+  "as_written": "tapālāchī tola",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Text contains a small lacuna after Harṣanārāyaṇa's name, likely mentioning ownership or commission.",
+ "_meta": {
+  "reel": "A 1351/5",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 792,
+  "out_tok": 1203
+ }
+}

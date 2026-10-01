@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhaṭṭojidīkṣita-",
+   "name": "Bhaṭṭojidīkṣita",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhaṭṭojidīkṣitaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śivāgraśarmā",
+   "name": "Śivāgraśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lilekha tiṅantam atrāśu śivāgraśarmā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "dvivedasaptendumite śake ʼrke vṛṣasthite tigmagabhastivāre || śivātithau śukladale",
+  "era": "ŚS",
+  "year": "1742",
+  "month": "Vṛṣa",
+  "paksa": "śukla",
+  "tithi": "śivatithi (caturdaśī)",
+  "weekday": "tigmagabhastivāra (Sunday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1820"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram: dvi (2), veda (4), sapta (7), indu (1) = ŚS 1742.",
+ "_meta": {
+  "reel": "A 580/15",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 753,
+  "out_tok": 1030
+ }
+}

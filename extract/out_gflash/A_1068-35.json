@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "cakrapāṇI śarmaṇā",
+   "name": "Cakrapāṇi",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitamidaṃ gṛhītamidaṃ vā parahastā cakrapāṇI śarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1647 māse 12 tithau 7 vāre 2",
+  "era": "ŚS",
+  "year": "1647",
+  "month": "12",
+  "paksa": "",
+  "tithi": "7",
+  "weekday": "2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1725"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Catalogue gives ŚS 1674, but the text clearly reads 1647. Cakrapāṇi describes the manuscript as either copied or acquired from another hand: 'likhitamidaṃ gṛhītamidaṃ vā parahastā'.",
+ "_meta": {
+  "reel": "A 1068/35",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 799,
+  "out_tok": 1039
+ }
+}

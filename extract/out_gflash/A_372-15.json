@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhānudatta",
+   "name": "Bhānudatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhānudattaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gaṇapati",
+   "name": "Gaṇapati",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gaṇapatitanaya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "gaṇapatitanaya"
+  }
+ ],
+ "date": {
+  "as_written": "mitī (!) asāḍha (!) śuklapakṣe tithau 14 caṃdravāsare",
+  "era": "none",
+  "year": "",
+  "month": "asāḍha",
+  "paksa": "śukla",
+  "tithi": "14",
+  "weekday": "caṃdravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "mathenaṣuspālacaṃdaharidurgamadhye",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The phrase following likhitaṃ ('mathenaṣuspālacaṃdaharidurgamadhye (!)') is corrupt and unsegmented. It clearly refers to a location (haridurgamadhye, 'inside the fort Haridurga'), and may contain a scribe's name (e.g. mathena / mathanena) and/or a ruler/patron's name (ṣuspālacaṃda / khuṣpālacandra), but due to corruption and lack of clear word division, no copy-related person can be identified with certainty.",
+ "_meta": {
+  "reel": "A 372/15",
+  "model": "gemini-flash-latest",
+  "secs": 22.4,
+  "in_tok": 737,
+  "out_tok": 5107
+ }
+}

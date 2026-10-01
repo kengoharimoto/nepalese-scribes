@@ -1,0 +1,162 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nalavirasiṃḥ",
+   "name": "Nalavirasiṃha",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "kāsyapagvatra, vakaṃ vāhāra",
+   "residence": "vakaṃ vāhāra",
+   "evidence": "dānapatiḥ vakaṃ vāhārayāḥ kāsyapagvatraḥ nalavirasiṃḥ ... nalavirasiṃhenaḥ ... thva śrīprajñāpāramitāḥ pustakadayakā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mānavirasiṃḥ",
+   "name": "Mānavirasiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "putraḥ mānavirasiṃḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "kṛṣṇamānasiṃḥ",
+   "name": "Kṛṣṇamānasiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvitṛyaputraḥ kṛṣṇamānasiṃḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "tejalakṣmī",
+   "name": "Tejalakṣmī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāryyāḥ tejalakṣmī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "dhanavirasiṃ",
+   "name": "Dhanavirasiṃha",
+   "roles": [
+    "beneficiary",
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pitāḥ devagatajuyāvaḥ ... dhanavirasiṃ ... nāmanaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "gaṃgālakṣmi",
+   "name": "Gaṃgālakṣmī",
+   "roles": [
+    "beneficiary",
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mātṛṃḥ devaṃgatajuyājoḥ dhanavirasiṃ gaṃgālakṣmi niṣnasayā nāmanaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "śrīvidyādattena",
+   "name": "Vidyādatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "mānadevasaskālita cakravāhāra",
+   "residence": "",
+   "evidence": "śrīvajrācāryyaḥ śrīvidyādattena coyā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "nalavirasiṃḥ kasya putraḥ mānavirasiṃḥ"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "dvitṛyaputraḥ kṛṣṇamānasiṃḥ"
+  },
+  {
+   "from": "p4",
+   "type": "wife_of",
+   "to": "p1",
+   "evidence": "bhāryyāḥ tejalakṣmī"
+  },
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p5",
+   "evidence": "pitāḥ devagatajuyāvaḥ ... dhanavirasiṃ"
+  },
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p6",
+   "evidence": "mātṛṃḥ devaṃgatajuyājoḥ ... gaṃgālakṣmi"
+  },
+  {
+   "from": "p7",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "nalavirasiṃhenaḥ ... pustakadayakā juro ... śrīvidyādattena coyā juro"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 963 mti mārgaśiraśudiyā trayodasi budvavāra",
+  "era": "NS",
+  "year": "963",
+  "month": "mārgaśira",
+  "paksa": "śudi",
+  "tithi": "trayodasi",
+  "weekday": "budvavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1842"
+ },
+ "place": {
+  "as_written": "mānadevasaskālitaḥ cakravāhāra",
+  "normalized": "Patan"
+ },
+ "purpose": "for deceased parents Dhanavirasiṃha and Gaṃgālakṣmī (pitāḥ devagatajuyāvaḥ mātṛṃḥ devaṃgatajuyājoḥ dhanavirasiṃ gaṃgālakṣmi niṣnasayā nāmanaḥ)",
+ "notes": "Mānadevasaṃskārita Cakra-vihāra (Cukā-bāhā) is in Patan (Lalitpur). The donor's vihāra is Vakaṃ Vāhāra.",
+ "_meta": {
+  "reel": "A 107/1",
+  "model": "gemini-flash-latest",
+  "secs": 13.4,
+  "in_tok": 1223,
+  "out_tok": 3748
+ }
+}

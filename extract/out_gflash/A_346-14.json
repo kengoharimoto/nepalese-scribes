@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "chrīdvijalālaśarmmā",
+   "name": "Dvijalāla",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nijadarśanārtha〈〈ṃ〉〉m alīlikhac chrīdvijalālaśarmmā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vītyāśugābdābdaśake śucer dale ʼṣṭamyāṃ bhṛgau",
+  "era": "ŚS",
+  "year": "vītyāśugābdābda",
+  "month": "Śuci",
+  "paksa": "",
+  "tithi": "8",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "nepāladeśe",
+  "normalized": "Nepal"
+ },
+ "purpose": "nijadarśanārtham",
+ "notes": "The catalogue lists Dvijalālaśarman as scribe, but the causative verb 'alīlikhat' along with 'nijadarśanārtham' ('had it copied for his own study/consultation') indicates he commissioned and owned it.",
+ "_meta": {
+  "reel": "A 346/14",
+  "model": "gemini-flash-latest",
+  "secs": 6.8,
+  "in_tok": 752,
+  "out_tok": 1388
+ }
+}

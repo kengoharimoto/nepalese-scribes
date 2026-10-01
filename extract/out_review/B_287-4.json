@@ -1,0 +1,35 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "month normalized from 'jyaṣṭa' to 'jyeṣṭha'",
+   "weekday normalized: 'śuklavāra' is a scribal slip for śukravāra (Friday), which agrees with the catalogue",
+   "added notes on 'sirdha yāṅā' (= siddha yāṅā, 'completed') and the corrupt closing verse; date and ce_approx (NS 823 = 1703 CE) confirmed"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 823 jyaṣṭakṛṣṇa dvitiyā śuklavāra",
+  "era": "NS",
+  "year": "823",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvitīyā (2)",
+  "weekday": "śukravāra (Friday; written śuklavāra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1703"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon is in Newari: 'thvakuhnu sirdha yāṅā' = 'completed on this day' (sirdha for siddha). It names no scribe, patron or owner. The closing line 'jadi sūrdhaṃ masūrdhaṃ vāmamadva ..na hieta' is a corrupt form of the usual scribe's apology verse ('yadi śuddham aśuddhaṃ vā...'). The catalogue gives King Bhāskaramalla and Kathmandu, but neither appears in the quoted colophon. They fit the date, since Bhāskaramalla ruled Kathmandu c. 1700–1714 CE. The cataloguer probably inferred them, or took them from a part of the manuscript that is not quoted here, so they are not recorded as persons or place.",
+ "_meta": {
+  "reel": "B 287/4",
+  "model": "opus",
+  "cost_usd": 0.063614,
+  "secs": 10.8
+ }
+}

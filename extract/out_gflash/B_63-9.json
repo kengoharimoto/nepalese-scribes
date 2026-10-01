@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mādhavarāva sāvā jī vijheṃ",
+   "name": "Mādhavarāva Sāvājī Vijhe",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "rāva",
+    "jī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "hastākṣara mādhavarāva sāvā jī vijheṃ pustaka khāsagata",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "pauṣaśuddha 5 samaṃta(!) 1902",
+  "era": "VS",
+  "year": "1902",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1846"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "khāsagata (personal copy), dedicated to Śrī Rāma (śrīrāmārpaṇamastu)",
+ "notes": "The scribe and owner is identified in Marathi idiom (hastākṣara ... pustaka khāsagata). 'Vijhe' is likely the family name (kulnām), and 'Sāvājī' either patronymic or second name. Nandikeśvara is a dialogue interlocutor in the Rudrayāmala framing and is therefore excluded.",
+ "_meta": {
+  "reel": "B 63/9",
+  "model": "gemini-flash-latest",
+  "secs": 13.2,
+  "in_tok": 770,
+  "out_tok": 2731
+ }
+}

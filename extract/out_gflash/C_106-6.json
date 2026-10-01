@@ -1,0 +1,68 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "juvarājaśṛīśrīdharmmamaladevasya",
+   "name": "Dharmamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "yuvarāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājāddhirājaḥ juvarājaśṛīśrīdharmmamaladevasya vijayarājyau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "devajña dharnnapativarddhanasyaḥ",
+   "name": "Dharmapativardhana",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "śrīyaṃbū vakvalva śrīduthonihmaṃ",
+   "evidence": "devajña dharnnapativarddhanasyaḥ svapvastakaṃ svayaṃ likhitambhavatiḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "juvarājaśṛīśrīdharmmamaladevasya vijayarājyau"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 523 cetraśukla | dvādaśīḥ buddhadine",
+  "era": "NS",
+  "year": "523",
+  "month": "cetra",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "buddhadine",
+  "nakshatra_yoga": "",
+  "ce_approx": "1403"
+ },
+ "place": {
+  "as_written": "śrīyaṃbū vakvalva śrīduthonihmaṃ",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "svārtha",
+ "notes": "Yaṃbū (śrīyaṃbū) designates Kathmandu. Scribe wrote the book for his own study/use (svapustakaṃ svayaṃ likhitam).",
+ "_meta": {
+  "reel": "C 106/6",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 798,
+  "out_tok": 1390
+ }
+}

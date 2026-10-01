@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgopālāśrama",
+   "name": "Gopālāśrama",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīparamahaṃsaparivrājakācāryaśrīgopālāśramaviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1629 vaiśāṣavadi paṃcamyāṃ gurūvāsare",
+  "era": "VS",
+  "year": "1629",
+  "month": "vaiśāṣa",
+  "paksa": "vadi",
+  "tithi": "paṃcamī",
+  "weekday": "gurūvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1572"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe is not named (only 'likhitaṃ' is given).",
+ "_meta": {
+  "reel": "B 153/2",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 864,
+  "out_tok": 963
+ }
+}

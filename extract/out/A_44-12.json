@@ -1,0 +1,91 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmadattena",
+   "name": "Rāmadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ rāmadattena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śākyabhikṣuśrīmadanabhadrena",
+   "name": "Madanabhadra",
+   "roles": [
+    "owner",
+    "commissioner"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "Cāvihāra",
+   "residence": "Cāvihāra",
+   "evidence": "pustaka ma〈〈ḍa〉〉dnabhadrasya; śrīmancāvihāre śākyabhikṣuśrīmadanabhadrena svayaṃ pāṭhārthahetunā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rājādhirājaśrīśrījayajyotimalladevasya",
+   "name": "Jayajyotimalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājādhirājaśrīśrījayajyotimalladevasya vijayarājye",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "pustaka madanabhadrasya rāmadattena likṣate"
+  },
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "jayajyotimalladevasya vijayarājye"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "jayajyotimalladevasya vijayarājye"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 538 māghakṛṣṇaaṣṭaṃmyāyāṃ viśāṣapraarādhanakṣatre || dhruvayoge || śanaiścaravāsare",
+  "era": "NS",
+  "year": "538",
+  "month": "Māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "Saturday (śanaiścaravāra)",
+  "nakshatra_yoga": "Viśākhā (corrupt: viśāṣapraarādhana-) nakṣatra; Dhruva yoga",
+  "ce_approx": "1418"
+ },
+ "place": {
+  "as_written": "śrīmancāvihāre",
+  "normalized": ""
+ },
+ "purpose": "for the owner Madanabhadra's own study/reading (svayaṃ pāṭhārthahetunā)",
+ "notes": "The owner's name first appears corrupted as \"ma〈〈ḍa〉〉dnabhadrasya\", but the later \"śrīmadanabhadrena\" settles the reading as Madanabhadra. The catalogue lists him as donor; in the colophon he is the owner and commissioner, writing for his own reading, not a donor. Cāvihāra is probably Cā(ru)vihāra / Cābahil in the Kathmandu Valley, but this identification isn't certain, so \"normalized\" is left empty. The nakṣatra \"viśāṣapraarādhana\" is corrupt; Viśākhā is most likely. \"vaiḥ\" after rāmadattena is unclear. Kṛṣṇa aṣṭamī is assumed to fall in the CE year 1418 (Māgha falls in January–February).",
+ "_meta": {
+  "reel": "A 44/12",
+  "model": "opus",
+  "cost_usd": 0.07625380000000001,
+  "secs": 16.1
+ }
+}

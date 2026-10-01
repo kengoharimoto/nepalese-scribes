@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "meghānandanaṃ",
+   "name": "Meghānandana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "meghānandanaṃ coyā siddhayakā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1036 miti vaiśākhakṛṣṇa 4 roja 6",
+  "era": "NS",
+  "year": "1036",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "4",
+  "weekday": "roja 6",
+  "nakshatra_yoga": "",
+  "ce_approx": "1916"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 142/12",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 770,
+  "out_tok": 675
+ }
+}

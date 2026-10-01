@@ -1,0 +1,74 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Weekday normalised: 'roja 2' = Monday (Persian rōz count, day 2); kept as_written in date.as_written",
+   "ce_approx refined: ŚS 1809 Māgha śukla falls in Jan/Feb 1888 CE (ŚS+78 = 1887 for the start of the year)",
+   "Padmanābha: confidence lowered to medium (gurupadmanābhaprasādā(t) is a formulaic invocation; probably the scribe's human teacher, but could be read as Viṣṇu Padmanābha)",
+   "Notes expanded: catalogue King Dravya Śāha (16th-c. Gorkha ruler) is anachronistic for 1888; reigning king then was Pṛthvī Vīra Vikrama Śāha, not named in colophon"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīharṣaratnena vajrā cāryena",
+   "name": "Harṣaratna",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śrīharṣaratnena vajrā cāryena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gurupadmanābha",
+   "name": "Padmanābha",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "guru"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gurupadmanābhaprasādā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "gurupadmanābhaprasādā"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1809 māghaśukla 10 roja 2 taddine",
+  "era": "ŚS",
+  "year": "1809",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "Monday (roja 2)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1888"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives King Dravya Śāha, but the colophon names no king. Dravya Śāha was a 16th-century king of Gorkha, so that field cannot be right for a copy dated ŚS 1809 (c. 1888 CE). The king reigning in 1888 was Pṛthvī Vīra Vikrama Śāha, and he is not mentioned either. ŚS 1809 + 78 = 1887, but Māgha śukla 10 of that year falls in January/February 1888 CE. 'roja 2' uses the Persian day-count, so the weekday is Monday. 'gurupadmanābhaprasādā(t)' most likely names the scribe's human teacher Padmanābha. It could also be a formulaic invocation of Viṣṇu Padmanābha, so the confidence is medium. The work is a Sauramata (astral) text, the Ratnadīpaka/Ratnadīpikā.",
+ "_meta": {
+  "reel": "A 1072/14",
+  "model": "opus",
+  "cost_usd": 0.063391,
+  "secs": 27.8
+ }
+}

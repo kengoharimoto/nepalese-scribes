@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 663 dvirāṣāḍhaśuklasaptamyāṃ hastājve(?)",
+  "era": "NS",
+  "year": "663",
+  "month": "dvirāṣāḍha",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "",
+  "nakshatra_yoga": "hastājve(?)",
+  "ce_approx": "1543"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons are named in the colophon. The reading 'hastājve(?)' likely represents the nakṣatra Hastā (e.g. corrupt for hastarkṣe).",
+ "_meta": {
+  "reel": "A 21/3",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 676,
+  "out_tok": 853
+ }
+}

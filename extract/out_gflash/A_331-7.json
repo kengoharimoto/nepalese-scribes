@@ -1,0 +1,63 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaṃgārāmaḥ",
+   "name": "Gaṅgārāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "yaṃ parāchā",
+   "evidence": "likhite yaṃ parāchayā (!) gaṃgārāmaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīkālidāsana",
+   "name": "Kālidāsa",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkālidāsana saṃcayayāṅā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "likhite yaṃ parāchayā (!) gaṃgārāmaḥ ... śrīkālidāsana saṃcayayāṅā"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 758 pauṣaśuklacaturth〈yā〉yāṃ tithau, śravaṇanakṣetre, (!) harkhanayoge (!), ādityavāsare",
+  "era": "NS",
+  "year": "758",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "caturthī",
+  "weekday": "ādityavāsara",
+  "nakshatra_yoga": "śravaṇanakṣetra, harkhanayoga",
+  "ce_approx": "1637"
+ },
+ "place": {
+  "as_written": "yaṃ parāchayā",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "viṣṇuprīti",
+ "notes": "The toponym 'yaṃ' refers to Kathmandu (Newari: Yeṃ), and 'parāchā' is likely a tol/neighborhood therein.",
+ "_meta": {
+  "reel": "A 331/7",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 833,
+  "out_tok": 1455
+ }
+}

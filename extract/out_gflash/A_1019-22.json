@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nahākula guruṃ",
+   "name": "Nahākula",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "guruṅ"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "leṣitaṃ nahākula guruṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 173 samvat 1867 sāla miti śrāvaṇa vadi vāre caṃdra",
+  "era": "VS",
+  "year": "1867",
+  "month": "śrāvaṇa",
+  "paksa": "vadi",
+  "tithi": "",
+  "weekday": "caṃdra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1810"
+ },
+ "place": {
+  "as_written": "śrīvakmati gaṃgā nikaṭe śrīpasupati chetreḥ kāṃtipurāgrāmasthāneḥ",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The Śāka year is given incompletely as 173 (likely intending Śāke 1732, corresponding to VS 1867). The tithi is omitted before 'vāre caṃdra'.",
+ "_meta": {
+  "reel": "A 1019/22",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 841,
+  "out_tok": 1547
+ }
+}

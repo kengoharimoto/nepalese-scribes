@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahārājādhirājaśrīśrījagajjyotirmmallabhūpa",
+   "name": "Jagajjyotirmalla",
+   "roles": [
+    "commentator",
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "bhūpa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājādhirājaśrīśrījagajjyotirmmallabhūpaviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 354/19",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 696,
+  "out_tok": 675
+ }
+}

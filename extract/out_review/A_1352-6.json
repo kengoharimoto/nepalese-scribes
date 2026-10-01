@@ -1,0 +1,72 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Persons, relations, date and place left as they were; all are supported by the colophon.",
+   "Notes expanded: Śivalāla is Devarāma's teacher, not the teacher of anyone who produced this copy; the colophon quoted is for the Uttarakāṇḍa, although the title gives Sundara- and Yuddhakāṇḍa; the copy-date pakṣa and tithi were checked."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivalāla pāṭhaka",
+   "name": "Śivalāla",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "pāṭhaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śivalāla pāṭhaka pādānumāyi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaṭṭadevarāma",
+   "name": "Devarāma",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭadevarāma saṃgṛhīte śrīmadrāmāyaṇīya viṣamapadavyākhyāne",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śivalāla pāṭhaka pādānumāyi bhaṭṭadevarāma"
+  }
+ ],
+ "date": {
+  "as_written": "bhādraśudi 9 saṃvat 1901",
+  "era": "VS",
+  "year": "1901",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1844"
+ },
+ "place": {
+  "as_written": "vārāṇasyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The catalogue gives Rādhākṛṣṇa Dāsa as scribe, but his name is not in the quoted colophon. He may be named elsewhere in the manuscript. Śivalāla Pāṭhaka is called 'śrīmajjānakīramaṇapadapaṅkajaparicaraṇaparāyaṇa'. He is named only as the teacher, or model, of the commentator Bhaṭṭa Devarāma ('pādānumāyin'). He has no part in the 1844 copy. Devarāma 'compiled' (saṃgṛhīte) the Viṣamapadavyākhyāna on the Rāmāyaṇa. This colophon closes the Uttarakāṇḍa (sarga 111, fol. 376r), but the catalogue title gives Sundara- and Yuddhakāṇḍa. Either the title is incomplete or the manuscript covers more kāṇḍas. 'Saṃvat 1901' at Vārāṇasī is taken as Vikrama Saṃvat. Bhādrapada śukla 9 of that year falls in about August–September 1844 CE.",
+ "_meta": {
+  "reel": "A 1352/6",
+  "model": "opus",
+  "cost_usd": 0.08377799999999999,
+  "secs": 17.8
+ }
+}

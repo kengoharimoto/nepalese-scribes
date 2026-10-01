@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "maṃtrī trivikramasiṃhasya",
+   "name": "Trivikramasiṃha",
+   "roles": [
+    "beneficiary",
+    "reader"
+   ],
+   "titles": [
+    "maṃtrī"
+   ],
+   "affiliation": "",
+   "residence": "Gorakṣācala",
+   "evidence": "gorakṣācalādhipa maṃtrī trivikramasiṃhasya paṭhanārtham",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1758 māse 6 tithau 7 vāsare",
+  "era": "ŚS",
+  "year": "1758",
+  "month": "6",
+  "paksa": "",
+  "tithi": "7",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1836"
+ },
+ "place": {
+  "as_written": "kāntipurarājadhānīm",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "paṭhanārtham",
+ "notes": "No scribe is explicitly named. Trivikramasiṃha is designated as minister (mantrī) of the ruler of Gorkha (gorakṣācalādhipa).",
+ "_meta": {
+  "reel": "A 381/11",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 799,
+  "out_tok": 1337
+ }
+}

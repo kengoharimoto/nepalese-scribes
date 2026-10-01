@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The quoted text contains only a protective admonition against theft ('thva pustaka sunānaṃ robha pāpa yānā kāya madu...'). The scribe Viśvaratna Vajrācārya and place Kathamandu recorded in the catalogue metadata do not appear in the transcribed excerpt.",
+ "_meta": {
+  "reel": "A 343/8",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 687,
+  "out_tok": 804
+ }
+}

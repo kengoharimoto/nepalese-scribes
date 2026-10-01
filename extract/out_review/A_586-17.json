@@ -1,0 +1,64 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "ce_approx corrected 1762 → 1763: māgha of VS 1819 falls in Jan/Feb 1763 whether the year starts in Caitra or Kārttika",
+   "Premaśaṃkara's role changed from 'other' to 'scribe' (low confidence): 'lī' is read as the usual abbreviation for likhitam, as in western Indian colophons",
+   "Dīkpāla's confidence lowered to low: it may be a second person, part of Premaśaṃkara's name, or a corrupted family or caste name",
+   "weekday normalized to 'śani' (Saturday)",
+   "notes expanded"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "premaśaṃkara",
+   "name": "Premaśaṅkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "līdā- premaśaṃkaradīkpāla sajñāti",
+   "confidence": "low"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dīkpāla",
+   "name": "Dikpāla",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "premaśaṃkaradīkpāla sajñāti",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 18 |19 | (nāvarṣe) māgha sudī 1 śanai",
+  "era": "VS",
+  "year": "1819",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "śani",
+  "nakshatra_yoga": "",
+  "ce_approx": "1763"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is not named; VS is assumed from the catalogue and from the Devanagari, western-Indian style of the colophon ('sudī'; Premaśaṅkara is a Gujarati-type name). 'līdā-' is read as 'li(khitaṃ) dā(sa?)', an abbreviation for likhitam, which would make Premaśaṃkara the scribe. This reading is uncertain. 'dīkpāla' may be a second person, part of the same name, or a corrupted surname; 'sajñāti' (= 'with kinsmen' or 'of the X jñāti/caste') is unclear. '(nāvarṣe)' perhaps stands for 'nāma varṣe', and '(ścamahīna)' is unclear. The verse 'śabdaśāstram anadhītya…' is a stock verse, not prosopographical.",
+ "_meta": {
+  "reel": "A 586/17",
+  "model": "opus",
+  "cost_usd": 0.078738,
+  "secs": 17.3
+ }
+}

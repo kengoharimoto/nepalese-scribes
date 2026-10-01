@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmanmādhavasarasvatī",
+   "name": "Mādhavasarasvatī",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatparamahaṃsaparivrājakācāryaśrīmanmādhavasarasvatī viracitā saptapadārthī ṭīkā mitabhāṣiṇī samāptā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīpatirāyena",
+   "name": "Śrīpatirāya",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "rāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ śrīpatirāyena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "pramāthīnāmasaṃvatsare dakṣiyane(!) tṛtīyāṃ(!) śubhatithau ravivāse(!) viśākhānakṣatre viṣkaṃbhayoge",
+  "era": "unspecified",
+  "year": "pramāthī",
+  "month": "",
+  "paksa": "",
+  "tithi": "tṛtīyā",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "viśākhā nakṣatra, viṣkambha yoga",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No calendar era or year number is provided, only the 60-year Jovian year Pramāthin and the solar half-year Dakṣiṇāyana. The scribe's name appears both as śrīpatinā and śrīpatirāyena.",
+ "_meta": {
+  "reel": "B 57/15",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 811,
+  "out_tok": 1694
+ }
+}

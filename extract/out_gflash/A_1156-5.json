@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahārājaśrīmadviṣṇusiṃhasya",
+   "name": "Viṣṇusiṃha",
+   "roles": [
+    "king",
+    "beneficiary"
+   ],
+   "titles": [
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājaśrīmadviṣṇusiṃhasya viṣṇoḥ pūjanārthaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrībhimamitreṇa",
+   "name": "Bhīmamitra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ śrībhimamitreṇeti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "mahārājaśrīmadviṣṇusiṃhasya viṣṇoḥ pūjanārthaṃ likhitam idaṃ śrībhimamitreṇeti"
+  }
+ ],
+ "date": {
+  "as_written": "la. Saṃ. 428 mārga badicaturddaśyāṃ",
+  "era": "LS",
+  "year": "428",
+  "month": "mārga",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturdaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1547"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "viṣṇoḥ pūjanārthaṃ",
+ "notes": "The manuscript was copied for the worship of Viṣṇu on behalf of King Viṣṇusiṃha (of the Oiniwāra / Tirhut or related region, dated in Lakṣmaṇasena Saṃvat).",
+ "_meta": {
+  "reel": "A 1156/5",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 782,
+  "out_tok": 1191
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadvijayakāmadevasya",
+   "name": "Vijayakāmadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadvijayakāmadevasya rājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ācāryaśrīhariharasya",
+   "name": "Harihara",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ācāryaśrīhariharasya nityāhnikatilakaṃ niṣpannam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīmadvijayakāmadevasya rājye samvat 317 vaiśākhapaurṇṇamāsyāṃ 〇 ācāryaśrīhariharasya nityāhnikatilakaṃ niṣpannam"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 317 vaiśākhapaurṇṇamāsyāṃ",
+  "era": "NS",
+  "year": "317",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "paurṇamāsī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1197"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists 'Donor: Harihara > Hṛdayarāma', but Hṛdayarāma is not mentioned in the quoted colophon text.",
+ "_meta": {
+  "reel": "A 1306/34",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 747,
+  "out_tok": 1166
+ }
+}

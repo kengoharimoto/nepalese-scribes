@@ -1,0 +1,34 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Only cosmetic edits: weekday normalized to 'Sunday', and pakṣa written as 'śukla'.",
+   "Notes now give the alternative reading ŚS 1894 (≈1972 CE) and the reasons for preferring VS. The era assignment is unchanged."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śrī saṃvat 1894 sāla miti āśvina śudi | 2 | roja 1",
+  "era": "VS",
+  "year": "1894",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "2",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1837"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names no persons and no place. The catalogue gives the date as ŚS 1894, but the colophon says only 'saṃvat 1894 sāla miti ... roja'. In Nepali documents, 'saṃvat' with sāla/miti/roja normally means Vikrama Saṃvat, which makes this VS 1894 ≈ 1837 CE. Nepali documents usually write a Śaka date as 'śāke'. The cataloguer's ŚS 1894 (≈1972 CE) cannot be ruled out, though: they may have judged the date from the paper, and a 1972 copy would be young but possible. A rough check against 1972 puts Āśvina śukla 1–2 around Sunday 8 / Monday 9 October, which is close to roja 1 but does not settle it. I have not checked the weekday for 1837. The era should be checked against the physical description of the manuscript.",
+ "_meta": {
+  "reel": "A 1072/4",
+  "model": "opus",
+  "cost_usd": 0.078334,
+  "secs": 19.6
+ }
+}

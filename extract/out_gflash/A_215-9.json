@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvaidyapatimahāmahopādhyāyaśrīvijayarakṣaka",
+   "name": "Vijayarakṣaka",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "vaidyapati",
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvaidyapatimahāmahopādhyāyaśrīvijayarakṣakakṛtau vyākhyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1765 (sa)bhādra",
+  "era": "unspecified",
+  "year": "1765",
+  "month": "bhādra",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1708"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Vijayarakṣaka is a scribal variant for Vijayarakṣita, the well-known commentator on the Mādhavanidāna (Madhukoṣavyākhyā). The four-digit year 1765 in Devanagari script is likely Vikrama Saṃvat (1708 CE).",
+ "_meta": {
+  "reel": "A 215/9",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 693,
+  "out_tok": 1324
+ }
+}

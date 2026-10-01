@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pada",
+   "name": "Pada",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvijendra"
+   ],
+   "affiliation": "kauḍinya vaṃśa",
+   "residence": "",
+   "evidence": "kauḍinya vaṃśodbhava pada (!) nāmabhidho dvijendo likhyad",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "medhābde mite (!) śakābde nepāladeśe meṣarāṣisthite ’rke",
+  "era": "ŚS",
+  "year": "medhābde mite",
+  "month": "Meṣa",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "nepāladeśe",
+  "normalized": "Nepal"
+ },
+ "purpose": "ātmajādeḥ pāṭhāya",
+ "notes": "The scribe's name 'pada (!)' is marked corrupt by the cataloguer, perhaps for Padmanābha or similar. The year word 'medhābde' is an obscure or corrupt chronogram.",
+ "_meta": {
+  "reel": "A 1390/10",
+  "model": "gemini-flash-latest",
+  "secs": 7.9,
+  "in_tok": 699,
+  "out_tok": 1586
+ }
+}

@@ -1,0 +1,123 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "tribhuvanavīravikramaśāhadeva",
+   "name": "Tribhuvanavīravikramaśāhadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpañcakālaṅkṛtamahārājādhirājatribhuvanavīravikramaśāhadevavijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "candraśaṃśeravarma",
+   "name": "Candraśaṃśera",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "mahārāja",
+    "varmā",
+    "pradhānasāciva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīśrīmahārājacandraśaṃśeravarmapradhānasācivyaparipālite nipāladeśe",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "hemarājaśarmavidvanmaṇīnāṃ",
+   "name": "Hemarāja",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "mānyavara",
+    "sī. āi. i.",
+    "rājaguru",
+    "śarman",
+    "vidvanmaṇi"
+   ],
+   "affiliation": "Bhāratībhavana",
+   "residence": "",
+   "evidence": "śrīmadrājagurūṇāṃ śrīhemarājaśarmavidvanmaṇīnāṃ bhāratībhavanākhyasvakīyamahāpustakālayesthāpanārthaṃ tadājñayā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "pūrṇaprasādaśarmaṇā",
+   "name": "Pūrṇaprasāda",
+   "roles": [
+    "scribe",
+    "corrector"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pūrṇaprasādaśarmaṇā likhitam idaṃ pustakaṃ, prācīnāni tālapatrapustakāntarāṇi saṃvādya labdhaiḥ pāṭhāntarair yāvac chakyaṃ saṃskṛtaṃ ca",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "baladeva",
+   "name": "Baladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībaladevarājye likhitaṃ prācīnatālapatrapustakam avalambya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p4",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "śrīmadrājagurūṇāṃ śrīhemarājaśarmavidvanmaṇīnāṃ bhāratībhavanākhyasvakīyamahāpustakālayesthāpanārthaṃ tadājñayā pūrṇaprasādaśarmaṇā likhitam"
+  },
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "tribhuvanavīravikramaśāhadevavijayarājye ... pūrṇaprasādaśarmaṇā likhitam"
+  }
+ ],
+ "date": {
+  "as_written": "1982 vaikramavarṣe",
+  "era": "VS",
+  "year": "1982",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1925"
+ },
+ "place": {
+  "as_written": "kāṣṭhamaṇḍaparājadhānyāṃ",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "bhāratībhavanākhyasvakīyamahāpustakālayesthāpanārthaṃ",
+ "notes": "The manuscript was copied from an ancient palm-leaf exemplar copied during the reign of King Baladeva in NS 180 Māgha śukla tṛtīyā in the Royal Library. The long colophon also details prime minister Chandra Shumsher's abolition of slavery in Nepal (51,000 slaves freed) in that same year, as well as his British and French decorations.",
+ "_meta": {
+  "reel": "B 133/7",
+  "model": "gemini-flash-latest",
+  "secs": 10.4,
+  "in_tok": 1657,
+  "out_tok": 2809
+ }
+}

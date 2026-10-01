@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvāsudevendra-",
+   "name": "Vāsudevendra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvāsudevendravi(6)racitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke (7) 17 saye śrīsamvat 1917 sāla miti phāguṇasudi (!) 11 roja śukavāśare (!)",
+  "era": "VS",
+  "year": "1917",
+  "month": "phāguṇa",
+  "paksa": "śudi",
+  "tithi": "11",
+  "weekday": "śukavāśara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1861"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śaka (17 saye, i.e. 1700-something) and Vikrama Saṃvat 1917 are mentioned. The scribe is left unnamed ('liṣete').",
+ "_meta": {
+  "reel": "A 89/6",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 756,
+  "out_tok": 1085
+ }
+}

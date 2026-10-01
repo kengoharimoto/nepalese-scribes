@@ -1,0 +1,64 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Month normalized: 'taiṣa' (from Tiṣya = Puṣya) = Pauṣa; kept the written form in as_written",
+   "Notes expanded: the chronogram is analysed and possible readings are given; ce_approx left empty because the reading cannot be confirmed",
+   "Notes: 'likhaj jinaḥ' flagged (probably a corruption, e.g. of janaḥ, or an epithet); not treated as a separate person"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīpūrṇānaṃdaparamahaṃsena",
+   "name": "Pūrṇānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramahaṃsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpūrṇānaṃdaparamahaṃsena viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "viśvānaṃdoʼ",
+   "name": "Viśvānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viśvānaṃdoʼ likhaj",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śailāgnighanage śāke taiṣe māse site dale || saptamyāṃ ravivare ca",
+  "era": "ŚS",
+  "year": "śailāgnighanage (chronogram, unresolved)",
+  "month": "Pauṣa (taiṣa)",
+  "paksa": "śukla",
+  "tithi": "saptamī",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'śailāgnighanage' (catalogue: 'śailāgnidhanage') is corrupt or unusual. The clear parts are śaila = 7 and agni = 3. 'ghana/dhana' has no standard value. If the ending is read as naga = 7, read right to left the year would be 7-?-3-7, i.e. Śaka 17?37 → probably Śaka 1737 = c. 1815/16 CE. That year would fit the date of Pūrṇānanda (16th c.), but it cannot be confirmed, so ce_approx is left empty. The weekday (Sunday, Pauṣa śukla 7) has not been checked. 'likhaj jinaḥ' is odd: probably a scribal corruption (e.g. of janaḥ) or an epithet of the scribe, not a second person. The catalogue spells the scribe's name 'Vīśvānaṃda'; the colophon has viśvānaṃdo.",
+ "_meta": {
+  "reel": "B 192/6",
+  "model": "opus",
+  "cost_usd": 0.08701400000000001,
+  "secs": 22.0
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīraghupati",
+   "name": "Raghupati",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīraghupatikṛtāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "sambat 777 pauṣaśukladaśasmāṃ (!)",
+  "era": "NS",
+  "year": "777",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1657"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Raghupati is named as the author/commentator of the Kumāravyākhyāsudhā.",
+ "_meta": {
+  "reel": "A 375/6",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 719,
+  "out_tok": 752
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhojadeva",
+   "name": "Bhojadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhojadeva (!) likhil(!) lipiṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vedasuśiranāgaś ca, śite jyeṣṭhe padāmbike | guruvāre pratipadyāṃ ... saṃ 874 jyeṣṭhaśuddhi(!) 1",
+  "era": "NS",
+  "year": "874",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "guruvāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1754"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'vedasuśiranāga' corresponds to veda (4), suśira (7), and nāga (8), giving 874, confirmed by 'saṃ 874'.",
+ "_meta": {
+  "reel": "B 108/31",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 706,
+  "out_tok": 748
+ }
+}

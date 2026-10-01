@@ -1,0 +1,121 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhājudhaṃ siṃju",
+   "name": "Dhaṃsiṃha",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "bhāju"
+   ],
+   "affiliation": "",
+   "residence": "hataṣādaḍonani",
+   "evidence": "dānapati, (hataṣādaḍonani , śrībhājudhaṃ siṃju",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vi(!)ralakṣmi(!)",
+   "name": "Viralakṣmī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasya bhāryyāvi(!)ralakṣmi(!)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "jiodhanaju",
+   "name": "Jiodhana",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "putraśrījiodhanaju",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "jñānalakṣmi(!)",
+   "name": "Jñānalakṣmī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasya bhā(!) jñānalakṣmi(!)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "munirājaju",
+   "name": "Munirāja",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pu munirājaju",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wife_of",
+   "to": "p1",
+   "evidence": "tasya bhāryyāvi(!)ralakṣmi(!)"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "putraśrījiodhanaju"
+  },
+  {
+   "from": "p4",
+   "type": "wife_of",
+   "to": "p3",
+   "evidence": "tasya bhā(!) jñānalakṣmi(!)"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "pu munirājaju"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 960 m(!)ti māghamāsye(!) śuklapakṣa(!) ṣaṣṭhamyāṃ(!) mahāpun(!)yatithau, aśuṇi(!)nakṣatre śubhayoge yathākarṇṇe(!) mahotra,(!) ādi[tya]vāre",
+  "era": "NS",
+  "year": "960",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "ṣaṣṭhī",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "aśvinī nakṣatra, śubha yoga",
+  "ce_approx": "1840"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "sadā sarvvakāraṃ maṅgarajuyamāra juro",
+ "notes": "Hataṣādaḍonani (Hatakhā daḍonani?) is recorded as the residence (nani) of the donor family.",
+ "_meta": {
+  "reel": "A 123/2",
+  "model": "gemini-flash-latest",
+  "secs": 9.7,
+  "in_tok": 953,
+  "out_tok": 2625
+ }
+}

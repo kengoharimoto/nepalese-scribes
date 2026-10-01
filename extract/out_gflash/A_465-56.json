@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon contains only the title/conclusion and brief ritual instructions in Newari; no persons, date, or place are mentioned.",
+ "_meta": {
+  "reel": "A 465/56",
+  "model": "gemini-flash-latest",
+  "secs": 2.2,
+  "in_tok": 697,
+  "out_tok": 349
+ }
+}

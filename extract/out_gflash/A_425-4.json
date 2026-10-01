@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīnivāsa",
+   "name": "Śrīnivāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "satpaṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "Mahīntāpana",
+   "evidence": "mahīntāpanīyasatpaṇḍitaśrīśrīnivāsaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhavānisaṃkarena",
+   "name": "Bhavānīśaṃkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhavānisaṃkarena samāptayāṅā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 810 mārgaśiramāse śuklapakṣaḥ || dvādasyān tithau || aśvinanakṣatre (!) || variyānayoge || guruvāle (!)",
+  "era": "NS",
+  "year": "810",
+  "month": "mārgaśira",
+  "paksa": "śukla",
+  "tithi": "dvādasī",
+  "weekday": "guruvāra",
+  "nakshatra_yoga": "aśvinī, varīyas",
+  "ce_approx": "1690"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The phrase 'maṇḍūyā liṣiti' preceding 'bhavānisaṃkarena samāptayāṅā juro' is ambiguous; 'maṇḍū' could be a place name, an unverified commissioner/owner's name in genitive, or a corruption.",
+ "_meta": {
+  "reel": "A 425/4",
+  "model": "gemini-flash-latest",
+  "secs": 14.7,
+  "in_tok": 805,
+  "out_tok": 3064
+ }
+}

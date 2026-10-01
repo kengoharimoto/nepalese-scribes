@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. Jīvacandra stays the scribe (svahastena), with the title daivajña (written 'devajña'). NS 412 + 880 = 1292 CE is correct. I expanded the notes on 'śrīmanta' and 'bhāṣā'."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devajña śrīmantajīvacandreṇa",
+   "name": "Jīvacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhita devajña śrīmantajīvacandreṇa svahastena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 412 bhāṣā",
+  "era": "NS",
+  "year": "412",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1292"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'devajña' stands for daivajña. 'śrīmanta-' is taken as the honorific śrīmant- in compound with the name (śrīmant + Jīvacandra), not as part of the name; this matches the catalogue's 'Jīvacandra'. The era is not written but is taken as NS: this is a Newari-script manuscript and the catalogue also reads [NS] 412. The word 'bhāṣā' after the year is unclear. It may be the start of a month name or of a vernacular note that was cut off, or something left incomplete by the cataloguer. It cannot be read as any date element. Two stock verses come before the scribal line: 'padmāni bodhayaty arkaḥ…' and the 'udakānalacaurebhyo…' protection verse.",
+ "_meta": {
+  "reel": "A 17/13",
+  "model": "opus",
+  "cost_usd": 0.064994,
+  "secs": 12.2
+ }
+}

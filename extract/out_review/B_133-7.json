@@ -1,0 +1,140 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Baladeva (p5): role changed from 'king' to 'other'. He reigned when the palm-leaf exemplar was copied in NS 180, not when this VS 1982 copy was made.",
+   "Notes corrected: 'nepālarājakīyapustakālayasthitaṃ' says the exemplar was kept in the Nepal Royal Library. It does not say the exemplar was copied there.",
+   "Purpose rewritten as a short English summary.",
+   "Added relation p2 servant_of p1 (prime minister under the king).",
+   "Hemarāja: the catalogue calls him 'Donor', but the colophon does not support this. He commissioned the copy for his own library, so he is kept as commissioner and owner, not donor.",
+   "Added the exemplar date and Candraśaṃśera's second spelling to the notes."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "tribhuvanavīravikramaśāhadeva",
+   "name": "Tribhuvanavīravikramaśāhadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "śrīpañcakālaṅkṛta"
+   ],
+   "affiliation": "Śāha dynasty",
+   "residence": "",
+   "evidence": "śrīpañcakālaṅkṛtamahārājādhirājatribhuvanavīravikramaśāhadevavijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "candraśaṃśeravarma",
+   "name": "Candraśaṃśera",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "mahārāja",
+    "varman",
+    "pradhānasāciva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīśrīmahārājacandraśaṃśeravarmapradhānasācivyaparipālite nipāladeśe",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "hemarājaśarmavidvanmaṇīnāṃ",
+   "name": "Hemarāja",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "mānyavara",
+    "C.I.E.",
+    "rājaguru",
+    "śarman",
+    "vidvanmaṇi"
+   ],
+   "affiliation": "Bhāratībhavana (his private library)",
+   "residence": "",
+   "evidence": "śrīhemarājaśarmavidvanmaṇīnāṃ bhāratībhavanākhyasvakīyamahāpustakālayesthāpanārthaṃ tadājñayā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "pūrṇaprasādaśarmaṇā",
+   "name": "Pūrṇaprasāda",
+   "roles": [
+    "scribe",
+    "corrector"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tadājñayā pūrṇaprasādaśarmaṇā likhitam idaṃ pustakaṃ ... pāṭhāntarair yāvac chakyaṃ saṃskṛtaṃ ca",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "baladeva",
+   "name": "Baladeva",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "180 parimita(nepāla)samvtasaramāghaśuklatṛtīyāyāṃ śrībaladevarājye likhitaṃ prācīnatālapatrapustakam avalambya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p4",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "svakīyamahāpustakālayesthāpanārthaṃ tadājñayā pūrṇaprasādaśarmaṇā likhitam"
+  },
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "tribhuvanavīravikramaśāhadevavijayarājye ... likhitam idaṃ pustakaṃ"
+  },
+  {
+   "from": "p2",
+   "type": "servant_of",
+   "to": "p1",
+   "evidence": "tribhuvanavīravikramaśāhadevavijayarājye śrīśrīśrīmahārājacandraśaṃśeravarmapradhānasācivyaparipālite"
+  }
+ ],
+ "date": {
+  "as_written": "1982 vaikramavarṣe",
+  "era": "VS",
+  "year": "1982",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1925"
+ },
+ "place": {
+  "as_written": "kāṣṭhamaṇḍaparājadhānyāṃ",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "for installation in Hemarāja's own library, the Bhāratībhavana",
+ "notes": "This is a modern copy made in VS 1982 (c. 1925–26 CE). It was copied from an old palm-leaf exemplar kept in the Nepal Royal Library ('nepālarājakīyapustakālayasthitaṃ'). That exemplar is dated NS 180 Māgha śukla 3 (c. 1060 CE) in the reign of Baladeva, so Baladeva is the king of the exemplar, not of this copy. The scribe says he collated other old palm-leaf manuscripts and corrected the text from their variant readings. The colophon also praises events of that year and the year before: Candraśaṃśera abolished slavery, freeing about 51,000 slaves with compensation paid to their owners; he received British, Chinese and French honours; a new Anglo-Nepalese treaty was made; and the roof of Paśupatinātha was regilded. Candraśaṃśera is spelled 'candraśaṃśerevarmaṇo' at the second mention. The closing phrase 'ekatamena bhaktaparamānunedam alekhi' (garbled; it ends 'this was written') is presumably by the scribe Pūrṇaprasāda. The catalogue lists Hemarāja as 'Donor'. The colophon makes him commissioner and owner, not donor.",
+ "_meta": {
+  "reel": "B 133/7",
+  "model": "opus",
+  "cost_usd": 0.12067800000000001,
+  "secs": 25.9
+ }
+}

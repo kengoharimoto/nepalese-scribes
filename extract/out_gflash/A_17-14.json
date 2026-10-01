@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmanmadanasiṃhadevānāṃ",
+   "name": "Madanasiṃhadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "ripurājadaityanārāyaṇa"
+   ],
+   "affiliation": "",
+   "residence": "Campakāraṇyanagara",
+   "evidence": "mahārājādhirājaśrīmanmadanasiṃhadevānāṃ saṃbhujyamānavijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ṭhakkuraśrīgaṅgayīkair",
+   "name": "Gaṅgayīka",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "ṭhakkura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ṭhakkuraśrīgaṅgayīkair llikhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīmanmadanasiṃhadevānāṃ saṃbhujyamānavijayarājye | ṭhakkuraśrīgaṅgayīkair llikhitam"
+  }
+ ],
+ "date": {
+  "as_written": "visaṃ 1511 śrāvaṇaśuklanavamyāṃ śukre",
+  "era": "VS",
+  "year": "1511",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1454"
+ },
+ "place": {
+  "as_written": "śrīcampakāraṇyanagare",
+  "normalized": "Champaran"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 17/14",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 777,
+  "out_tok": 1238
+ }
+}

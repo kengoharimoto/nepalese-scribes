@@ -1,0 +1,50 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī śrī śrīmahārājajaṃgavahādura rāṇā",
+   "name": "Jaṅgabahādura",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "mahārāja",
+    "rāṇā",
+    "ji si vī",
+    "thoṅ lin pimmāko kāṅ vāṅsyān",
+    "prāīmminiṣṭira",
+    "kamyāṇḍara cīpha",
+    "mukhyasaciva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "prāīmminiṣṭira yāṇḍakamyāṇḍara cīpha vīrapuruṣa nepāla gorakṣa sarkāra mukhyasaciva",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chapter colophon of the first chapter of the Śāharāṇācaritra, invoking Prime Minister Jang Bahadur Rana with his full official titles (including GCB, Qing title Thong-lin-pim-ma-ko-kang-wang-syan, Prime Minister and Commander-in-Chief). No scribe, date, or copyist information is provided.",
+ "_meta": {
+  "reel": "A 1375/8",
+  "model": "gemini-flash-latest",
+  "secs": 17.4,
+  "in_tok": 749,
+  "out_tok": 4230
+ }
+}

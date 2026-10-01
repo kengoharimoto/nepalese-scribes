@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: removed 'commissioner' role — the colophon only says the date was the day of his Anantavrata observance; no likhāpitam/coyakā or ownership formula. Kept role 'other'.",
+   "p1: 'juju' kept as a title. Name kept as Herānandarāja, with a note that the catalogue gives 'Herānanda'.",
+   "date.weekday normalized to 'Tuesday (roja 3)'. Bhādra śukla 14 is Anantacaturdaśī, which fits the Anantavrata; NS 944 gives ≈ 7 Sept 1824, a Tuesday, so the date is consistent.",
+   "purpose rephrased; notes expanded on the conflicts with the catalogue's scribe and date fields."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīherānandarāja jujuyā",
+   "name": "Herānandarāja",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "juju"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīherānandarāja jujuyā śrīanantavrata goyā dina",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 944 bhādra sudi 14 roja 3",
+  "era": "NS",
+  "year": "944",
+  "month": "Bhādra",
+  "paksa": "śukla (sudi)",
+  "tithi": "14",
+  "weekday": "Tuesday (roja 3)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1824"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "dated to the day of Herānandarāja Juju's Anantavrata observance (Anantacaturdaśī); possibly copied for that vrata",
+ "notes": "The colophon does not name a scribe. The Newari line 'śrīherānandarāja jujuyā śrīanantavrata goyā dina' only marks the date as the day of Herānandarāja Juju's Anantavrata. The catalogue's 'Scribe: Herānanda juju' is not supported by the colophon; he may have been the sponsor or beneficiary of the copy, but the text does not say so. The catalogue's 'SAM 1282' conflicts with the colophon's 'saṃvat 944'. The colophon's date is internally consistent: Bhādra śukla 14 is Anantacaturdaśī, and NS 944 (≈ 7 Sept 1824 CE) fell on a Tuesday, matching roja 3. 'juju' is a Newari honorific for a king or lord; in 1824 (Shah period) it is probably honorific here. 'rāja' may be either part of the name or a title.",
+ "_meta": {
+  "reel": "A 90/7",
+  "model": "opus",
+  "cost_usd": 0.082446,
+  "secs": 20.5
+ }
+}

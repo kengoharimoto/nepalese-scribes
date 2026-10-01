@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe confidence lowered to low; noted the alternative reading Raṇachoḍa (Raṇchoḍ), with the initial va- perhaps a misreading or a stray syllable",
+   "Pakṣa normalised to 'śukla'; tithi given as '14 (caturdaśī)'; weekday as 'bhṛguvāra (Friday)'",
+   "Notes expanded: 'saṃvat' is taken as VS on the catalogue's authority, the place phrase is obscure, and the weekday was not verified"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "(varaṇachoḍena)",
+   "name": "Varaṇachoḍa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "(varaṇachoḍena) likhitāṃ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1723 varaṣe phālgunamāse śuklapakṣe 14 caturdaśī bhṛguvāsare",
+  "era": "VS",
+  "year": "1723",
+  "month": "phālguna",
+  "paksa": "śukla",
+  "tithi": "14 (caturdaśī)",
+  "weekday": "bhṛguvāra (Friday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1667"
+ },
+ "place": {
+  "as_written": "labhatarasupuṃgavāsthite gaṃḍakayām uttare tīe lakṣmīnārāyaṇasaṃnidhau",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The cataloguer put the scribe's name in parentheses: (varaṇachoḍena). This probably means the reading is uncertain. The most likely name is Raṇachoḍa (Raṇchoḍ, a common Vaiṣṇava name), and 'va' may be a misread or extra syllable. 'tīe' stands for tīre: the copy was made on the north bank of the Gaṇḍakī, near (an image or temple of) Lakṣmīnārāyaṇa. 'labhatarasupuṃgavāsthite' is corrupt or obscure and may hide a local place name or a ruler's name; it is not identified here. The era is not stated ('saṃvat' only). It is taken as VS following the catalogue (SAM 1723), which gives Phālguna śukla 14 ≈ February–March 1667 CE. The Friday weekday was not checked. The closing formula lekhakapāṭhakayoḥ kalyāṇam is a stock phrase and names no reader.",
+ "_meta": {
+  "reel": "B 172/22",
+  "model": "opus",
+  "cost_usd": 0.078202,
+  "secs": 17.1
+ }
+}

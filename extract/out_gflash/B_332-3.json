@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivavarmmāṛtiṃ (!)",
+   "name": "Śivavarman",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīparārddhasaṃgrahasāra, śivavarmmāṛtiṃ (!)",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe is anonymous ('likhitā mayā'). The author name is corrupted as 'śivavarmmāṛtiṃ' for 'śivavarmakṛtim'.",
+ "_meta": {
+  "reel": "B 332/3",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 689,
+  "out_tok": 628
+ }
+}

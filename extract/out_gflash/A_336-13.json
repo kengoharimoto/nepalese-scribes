@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sāpkoṭettyupanāmaka ceta(3)nidhī śarmmaṇā dvijena",
+   "name": "Cetanidhi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sāpkoṭā",
+    "śarman",
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ-m idaṃ pustakaṃ sāpkoṭettyupanāmaka ceta(3)nidhī śarmmaṇā dvijena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1935 sāla jeṣṭhakṛṣṇa 3 roja 4",
+  "era": "VS",
+  "year": "1935",
+  "month": "jeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "3",
+  "weekday": "roja 4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1878"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 336/13",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 893,
+  "out_tok": 1070
+ }
+}

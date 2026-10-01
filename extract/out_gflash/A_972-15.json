@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmahāmahopā(6)dhyāyaśrīmaheśabhaṭṭa",
+   "name": "Maheśabhaṭṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahāmahopā(6)dhyāyaśrīmaheśabhaṭṭaviracitāyām",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śeṣaramaṇena",
+   "name": "Śeṣaramaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śeṣaramaṇena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "60sāla mārgaśuklacaturthyāṃ candravāsare",
+  "era": "VS",
+  "year": "60",
+  "month": "mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "caturthī",
+  "weekday": "candravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1903"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Year written as '60 sāla', interpreted in catalogue as [VS 19]60.",
+ "_meta": {
+  "reel": "A 972/15",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 746,
+  "out_tok": 440
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaurīdattadvijo",
+   "name": "Gaurīdatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gaurīdattadvijo lilekha",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "trivikrame rājake",
+   "name": "Trivikrama",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "trivikrame rājake",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "trivikrame rājake gaurīdattadvijo lilekha"
+  }
+ ],
+ "date": {
+  "as_written": "śāke rūpayugāṣṭabhūparimite bhādre siterke harau dvādaśyāṃ bhṛguvāsare śaśadhare raudre gate gīṣpatau || puṣye",
+  "era": "ŚS",
+  "year": "1841",
+  "month": "bhādra",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "bhṛguvāsara",
+  "nakshatra_yoga": "puṣya",
+  "ce_approx": "1919"
+ },
+ "place": {
+  "as_written": "bhoraṣṭāreka",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'rūpa-yuga-aṣṭa-bhū' yields 1841. While the text specifies 'śāke' (ŚS 1841 = 1919 CE), in hill Nepalese colophons 'śāke' is sometimes used loosely for Vikrama Saṃvat (VS 1841 = 1784 CE, which would match King Trivikrama Sen of Tanahun). 'bhoraṣṭāreka' may refer to a place (possibly Bhorletār) or remains corrupt.",
+ "_meta": {
+  "reel": "A 1113/18m",
+  "model": "gemini-flash-latest",
+  "secs": 10.4,
+  "in_tok": 815,
+  "out_tok": 1933
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkaṃṭhena",
+   "name": "Śrīkaṇṭha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śrīkaṃṭhena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1710? āṣāḍha vadi pratipāda",
+  "era": "VS",
+  "year": "1710?",
+  "month": "āṣāḍha",
+  "paksa": "vadi",
+  "tithi": "pratipāda",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1653"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The cataloguer marks the year reading with a question mark (1710?).",
+ "_meta": {
+  "reel": "B 59/10",
+  "model": "gemini-flash-latest",
+  "secs": 3.3,
+  "in_tok": 678,
+  "out_tok": 618
+ }
+}

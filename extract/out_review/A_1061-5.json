@@ -1,0 +1,33 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Notes expanded: the era is written only as 'samvat'. VS is inferred from the Devanagari script, the 19th-century date and the Nepali 'miti … śudi' formula; the weekday was not checked."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1912 miti “śrāvaṇaśudi 4 vṛhaspativāsare",
+  "era": "VS",
+  "year": "1912",
+  "month": "śrāvaṇa",
+  "paksa": "śudi",
+  "tithi": "4",
+  "weekday": "vṛhaspativāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1855"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "This colophon closes the Āpaddharma section of the Śāntiparvan (fol. 84r). It names no people. The catalogue gives Tejadatta as scribe, but he does not appear in this colophon. He may be named elsewhere in the manuscript, so he is not entered here. The era is just 'samvat'. Reading it as VS (1912 − 57 = 1855 CE) is an inference, not stated in the text.",
+ "_meta": {
+  "reel": "A 1061/5",
+  "model": "opus",
+  "cost_usd": 0.060438,
+  "secs": 9.4
+ }
+}

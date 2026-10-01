@@ -1,0 +1,86 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmadattena",
+   "name": "Rāmadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmadattena likṣate",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śākyabhikṣuśrīmadanabhadrena",
+   "name": "Madanabhadra",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "śrīmancāvihāra",
+   "residence": "",
+   "evidence": "śākyabhikṣuśrīmadanabhadrena svayaṃ pāṭhārthahetunā likhitam idaṃ rāmadattena vaiḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rājādhirājaśrīśrījayajyotimalladevasya",
+   "name": "Jayajyotimalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "śrīnepālamaṇḍala",
+   "evidence": "rājādhirājaśrīśrījayajyotimalladevasya vijayarājye",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "śākyabhikṣuśrīmadanabhadrena svayaṃ pāṭhārthahetunā likhitam idaṃ rāmadattena vaiḥ"
+  },
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "likhitam idaṃ rāmadattena ... rājādhirājaśrīśrījayajyotimalladevasya vijayarājye"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 538 māghakṛṣṇaaṣṭaṃmyāyāṃ viśāṣapraarādhanakṣatre || dhruvayoge || śanaiścaravāsare",
+  "era": "NS",
+  "year": "538",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "śanaiścaravāsara",
+  "nakshatra_yoga": "viśāṣapraarādhanakṣatre, dhruvayoge",
+  "ce_approx": "1418"
+ },
+ "place": {
+  "as_written": "śrīmancāvihāre",
+  "normalized": "Chabahil, Kathmandu"
+ },
+ "purpose": "svayaṃ pāṭhārthahetunā",
+ "notes": "Cāvihāra corresponds to the modern Chabahil (Carumati Vihāra) in the Kathmandu Valley. The nakṣatra name is written as 'viśāṣapraarādha' (likely a blending/transitional mention of Viśākhā and Anurādhā).",
+ "_meta": {
+  "reel": "A 44/12",
+  "model": "gemini-flash-latest",
+  "secs": 10.2,
+  "in_tok": 899,
+  "out_tok": 1865
+ }
+}

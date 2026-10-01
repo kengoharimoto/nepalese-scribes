@@ -1,0 +1,90 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name: 'Harirāmaśarman' → 'Harirāma'; 'śarman' moved to titles",
+   "date.month normalized: rādha = Vaiśākha",
+   "date.weekday normalized: bhṛgor dine = Friday",
+   "date.year: chronogram discussed in notes; tryaṅgābda gives no secure year as written",
+   "purpose reworded as a merit/dedication formula",
+   "notes expanded: Dharaṇidhara not attested in the quoted colophon, catalogue date ŚS 1800 not supported by the chronogram"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paṇḍitaharirāmaśarma",
+   "name": "Harirāma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paṇḍita",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṇḍitaharirāmaśarmasūnu",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhairavadattadaivajña",
+   "name": "Bhairavadatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhairavadattadaivajñaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vedagarbhakaḥ",
+   "name": "Vedagarbha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "alikhad vedagarbhakaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "harirāmaśarmasūnuśrībhairavadatta"
+  }
+ ],
+ "date": {
+  "as_written": "tryaṅgābdasaṃmite śāke rādhe māsi bhṛgor dine",
+  "era": "ŚS",
+  "year": "tryaṅgābda (unclear; tri=3, aṅga=6)",
+  "month": "Vaiśākha (rādha)",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "Friday (bhṛgor dine)",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "merit/dedication: anena lipikarmaṇā prīto 'stu śrīrāmeśaḥ (may Rāmeśa be pleased by this copying)",
+ "notes": "The chronogram 'tryaṅgābda-saṃmite śāke' is incomplete or corrupt. As written, tri = 3 and aṅga = 6, read right to left as 63; 'abda' is probably just 'year', so the higher digits are missing. If 'abda' is a corruption of 'abdhi' (= 4), the reading would be 463, again with the thousands digit missing (e.g. 1463 if a 'bhū' was lost). None of these readings gives the catalogue's ŚS 1800, so the catalogue date may be the cataloguer's estimate or may come from elsewhere in the manuscript. ce_approx is left empty. The catalogue also names 'Dharaṇidhara' as a scribe, but he does not appear in the quoted colophon; he may be named elsewhere (e.g. in an earlier section colophon), so he is not included here. The text ends with the 4th (antardaśā) adhyāya, which appears to complete the work. 'Rāmeśa' is a deity in the dedication and is not counted as a person. 'Uḍudāyapradīpodyota' is a commentary on the Uḍudāyapradīpa (Laghupārāśarī).",
+ "_meta": {
+  "reel": "A 401/10",
+  "model": "opus",
+  "cost_usd": 0.08952600000000001,
+  "secs": 21.0
+ }
+}

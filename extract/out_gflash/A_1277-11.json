@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajña viśvasiṃhena",
+   "name": "Viśvasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajña viśvasiṃhena, likhyate hayaśāstrakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepāla vatsaragate vasuvedośvasaṃyute | śrāvaṇa ʼsita pakṣe ca daśamyāṃ guruvāsare",
+  "era": "NS",
+  "year": "748",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1628"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "bhavānīprīṇātu",
+ "notes": "The catalogue records the scribe as Bhāgīrāma pradhānāṃga, but the colophon explicitly names Daivajña Viśvasiṃha (daivajña viśvasiṃhena, likhyate). The chronogram vasu-veda-aśva denotes 748.",
+ "_meta": {
+  "reel": "A 1277/11",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 721,
+  "out_tok": 925
+ }
+}

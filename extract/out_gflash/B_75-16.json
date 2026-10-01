@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmacchaṃkarācārya",
+   "name": "Śaṅkarācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmacchaṃkarācāryaviracitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śake 1752 || vikṛtināmasaṃvatsare āśvīnaśuklapakṣapratipadyāṃ",
+  "era": "ŚS",
+  "year": "1752",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "pratipad",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1830"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīmatsītārāmacaṃdrārpaṇam astu",
+ "notes": "",
+ "_meta": {
+  "reel": "B 75/16",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 750,
+  "out_tok": 789
+ }
+}

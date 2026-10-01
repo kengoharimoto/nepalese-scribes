@@ -1,0 +1,65 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: author name normalized to Śatānanda (the author of the Bhāsvatī; the colophon has 'satānanda' with s for ś)",
+   "p2: evidence shortened to the key substring; Luiṭel recorded as a family name (thar)",
+   "date: confirmed ŚS 1761 = VS 1896 = 1839 CE (consistent); roja 3 = Tuesday"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "satānanda",
+   "name": "Śatānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "satānandaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "balabhadrasameṇa (!) upādhyā luṃñiṃṭyāla",
+   "name": "Balabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman",
+    "upādhyāya"
+   ],
+   "affiliation": "Luiṭel (thar)",
+   "residence": "",
+   "evidence": "balabhadrasameṇa (!) upādhyā luṃñiṃṭyāla leṣaka",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1761 samvat 1896 śālam (!) ... miti mārgavadi 5 roja 3",
+  "era": "ŚS",
+  "year": "1761",
+  "month": "Mārgaśīrṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1839"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The colophon gives both Śaka 1761 and Vikrama Saṃvat 1896, and they agree (1761+78 = 1896−57 = 1839 CE). 'roja 3' (Nepali roj) = the third weekday, i.e. Tuesday. The scribe's name is corrupt: 'balabhadrasameṇa' stands for Balabhadraśarmaṇā, 'upādhyā' for upādhyāya, and 'luṃñiṃṭyāla' for the Nepali Brahmin thar Luiṭel. The catalogue writes the name as 'Valabhadra'. 'leṣakayoḍha' is unclear but probably contains lekhaka ('scribe'). The text title in the colophon, 'bhāsvaha karṇe', is a corruption of Bhāsvatīkaraṇe.",
+ "_meta": {
+  "reel": "A 1390/9",
+  "model": "opus",
+  "cost_usd": 0.076318,
+  "secs": 14.0
+ }
+}

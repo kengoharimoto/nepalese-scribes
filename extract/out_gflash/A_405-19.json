@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīlakṣmīpatidaivajña-",
+   "name": "Lakṣmīpati",
+   "roles": [
+    "commentator",
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīlakṣmīpatidaivajñaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rudradaivena",
+   "name": "Rudradeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rudradaivena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "1910 kārttikaśuklaṣaṣṭhyāṃ ravau",
+  "era": "VS",
+  "year": "1910",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "ṣaṣṭhī",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1853"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The digits 11775 following the scribe's name may represent an accession or folio/grantha number.",
+ "_meta": {
+  "reel": "A 405/19",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 719,
+  "out_tok": 885
+ }
+}

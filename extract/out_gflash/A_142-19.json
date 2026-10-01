@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sir(!)dddhānandena",
+   "name": "Siddhānanda",
+   "roles": [
+    "commissioner",
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "rājakṛtīmahāvihāla",
+   "residence": "kāttīpuramahānagare nepāramaṇḍale",
+   "evidence": "śrīvajrācājya(!) sir(!)dddhānandena likhāpitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "savat(!) 948 miti caitraśudi 11",
+  "era": "NS",
+  "year": "948",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1828"
+ },
+ "place": {
+  "as_written": "nepāra(!)maṇḍale kāttī(!)puramahānagare rājakṛtī(!)mahāvihāle",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The form 'likhāpitā' strictly denotes commissioning ('caused to be written'), but both 'līkhītaṃ' and 'likhāpitā' appear in the sentence, leading the cataloguer to query Siddhānanda as the scribe.",
+ "_meta": {
+  "reel": "A 142/19",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 861,
+  "out_tok": 1138
+ }
+}

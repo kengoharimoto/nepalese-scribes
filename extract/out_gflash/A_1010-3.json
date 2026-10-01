@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "guṇīndramukhyaiḥ",
+   "name": "Guṇīndra",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "guṇīndramukhyaiḥ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "yugmabhūśailaparipālitacaitraśuklo ... candrātmajānvitaturaṅgamabheṣu",
+  "era": "NS",
+  "year": "712",
+  "month": "Caitra",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "turaṅgama (Aśvinī)",
+  "ce_approx": "1592"
+ },
+ "place": {
+  "as_written": "nepālapattanavare kila bhaktasaṃle",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "śrīparaśurāmaprītaye / śrībhavānīprīṇanāya",
+ "notes": "The chronogram yugma (2) - bhū (1) - śaila (7) gives NS 712. The cataloguer erroneously recorded 'SAM 712' under Scribe. The text 'āyuridhīramadananta (!) guṇīndramukhyaiḥ' is corrupt; 'guṇīndramukhyaiḥ' may refer to a patron/commissioner Guṇīndra (and associates) or simply mean 'headed by the chief of the virtuous'.",
+ "_meta": {
+  "reel": "A 1010/3",
+  "model": "gemini-flash-latest",
+  "secs": 16.5,
+  "in_tok": 792,
+  "out_tok": 3583
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "hari śāhasya",
+   "name": "Hari Śāha",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "midampustakaṃ ----- hari śāhasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1712 śamvat 1857",
+  "era": "ŚS",
+  "year": "1712 (Śāke) / 1857 (Saṃvat)",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1790 / 1800"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śaka 1712 (= ca. 1790 CE) and Vikrama Saṃvat 1857 (= ca. 1800 CE) are stated; one of the two years contains a scribal error (Śaka 1712 corresponds to VS 1847, or VS 1857 corresponds to Śaka 1722).",
+ "_meta": {
+  "reel": "A 1024/9",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 710,
+  "out_tok": 1246
+ }
+}

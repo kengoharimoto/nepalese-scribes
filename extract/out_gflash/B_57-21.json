@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ṭoḍarānanda vajriṇa",
+   "name": "Ṭoḍarānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lilekhanyāya kaṇikāṃ ṭoḍarānanda vajriṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "bhūṣaḍaṅkendu yuktevden taiṣa śukleṣṭamī śanau",
+  "era": "unspecified",
+  "year": "1961",
+  "month": "taiṣa",
+  "paksa": "śukla",
+  "tithi": "8",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1904"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram reads bhū (1), ṣaḍ (6), aṅka (9), indu (1) = 1961, likely in Vikrama Saṃvat (c. 1904 CE). The text copied is the Nyāyakaṇikā.",
+ "_meta": {
+  "reel": "B 57/21",
+  "model": "gemini-flash-latest",
+  "secs": 7.7,
+  "in_tok": 690,
+  "out_tok": 1615
+ }
+}

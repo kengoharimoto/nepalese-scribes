@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīlālaśarmā",
+   "name": "Śrīlāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarmā"
+   ],
+   "affiliation": "",
+   "residence": "Kāśī",
+   "evidence": "kāśyām idaṃ yantravarasya pustakaṃ śrīlālaśarmālikhad ātmatuṣṭaye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmannṛpajayasiṃhadeva",
+   "name": "Jayasiṃhadeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "nṛpa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmannṛpajayasiṃhadevakārite yantrarājāgame",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "pṛṣatkavāṇāśvarasāmite śake nabhaḥ sitārddhāntyatithau budhāhani",
+  "era": "ŚS",
+  "year": "1755",
+  "month": "Nabhas (Śrāvaṇa)",
+  "paksa": "śukla",
+  "tithi": "antya tithi (pūrṇimā, 15)",
+  "weekday": "Wednesday (budha)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1833"
+ },
+ "place": {
+  "as_written": "kāśyām",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "svārtha (ātmatuṣṭaye, for own satisfaction)",
+ "notes": "Jayasiṃhadeva (probably Sawai Jai Singh II of Jaipur) is named as the one who had the Yantrarāja text made (kārite). He is not the reigning king at the time of this copy, so there is no under_reign_of relation. The role \"commissioner\" refers to the original work, not this copy. The chronogram (pṛṣat-ka-vāṇa-aśva-rasa) is unclear as quoted, so the year 1755 is taken from the catalogue and not independently verified. The CE date 1833 follows from it. Month Nabhas = Śrāvaṇa, and \"sitārddhāntyatithi\" is read as the last tithi of the bright half, i.e. pūrṇimā.",
+ "_meta": {
+  "reel": "B 344/9",
+  "model": "sonnet",
+  "cost_usd": 0.0786432,
+  "secs": 18.6
+ }
+}

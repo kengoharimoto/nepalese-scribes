@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sthitirājamalla nṛpatiḥ",
+   "name": "Sthitirājamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sthitirājamalla nṛpatiḥ svarggāvarohaṃ gato",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "kāmaśaraikabhūtasahite naipālike hāyane ṣaṣṭhyāṃ bhādrapade ’site ravidine ṛkṣe tathā sraṣṭari madhyāhne",
+  "era": "NS",
+  "year": "515",
+  "month": "bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "6",
+  "weekday": "ravidine",
+  "nakshatra_yoga": "sraṣṭari",
+  "ce_approx": "1395"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Historical marginal/post-colophonic record commemorating the death of King Sthitirājamalla (Jayasthiti Malla) on Bhādrapada kṛṣṇa 6, Sunday, NS 515 (chronogram: kāmaśara [5] - eka [1] - bhūta [5] = 515).",
+ "_meta": {
+  "reel": "A 19/2",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 718,
+  "out_tok": 1288
+ }
+}

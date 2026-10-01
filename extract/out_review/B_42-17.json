@@ -1,0 +1,101 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p4: name normalized from 'Kṛṣṇaśarman' to 'Kṛṣṇa'; 'śarman' moved to titles",
+   "p4: title 'jotirvid' kept as written and 'jyotirvid' (astrologer) added as the normalized form",
+   "p4: 'Rāmanagaravāle' recorded as a family name (upākhyā), with a note that it may point to Rāmanagara as his home",
+   "notes: owner's role now marked as added later in another hand; catalogue 'SAM 1771' explained"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīānaṃdadeva-",
+   "name": "Ānandadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīānaṃdadevasūnunā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "āpadevena",
+   "name": "Āpadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "āpadevena kṛtaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rāmacaṃdropādhyāyena",
+   "name": "Rāmacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmacaṃdropādhyāyena likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīkṛṣṇaśarmaṇaḥ",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "śarman",
+    "jotirvid (jyotirvid)"
+   ],
+   "affiliation": "family name (upākhyā) Rāmanagaravāle",
+   "residence": "",
+   "evidence": "Rāma nagaravāle ityupākhyajotirvid śrīkṛṣṇaśarmaṇaḥ pustakam idam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīānaṃdadevasūnunā āpadevena"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśake 1771 āṣāḍhaśukla 3",
+  "era": "ŚS",
+  "year": "1771",
+  "month": "Āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1849"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue field 'SAM 1771' does not match the colophon, which clearly says 'śrīśake 1771'. That is Śaka 1771 = 1849 CE. Reading it as VS 1771 would give 1714 CE, which is wrong. The ownership note by the astrologer Kṛṣṇa(śarman) is in a different hand and may have been added later, so he may not be the person who had the copy made. 'Rāmanagaravāle' is given as his family name (upākhyā). It may mean 'from Rāmanagara' (perhaps Ramnagar near Vārāṇasī), but this is not certain. 'jotirvid' stands for jyotirvid.",
+ "_meta": {
+  "reel": "B 42/17",
+  "model": "opus",
+  "cost_usd": 0.078426,
+  "secs": 14.2
+ }
+}

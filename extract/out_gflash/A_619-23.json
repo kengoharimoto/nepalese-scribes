@@ -1,0 +1,70 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jaya jitāmitramallavarmmaṇā",
+   "name": "Jayajitāmitramalla",
+   "roles": [
+    "king",
+    "scribe",
+    "author",
+    "donor"
+   ],
+   "titles": [
+    "sumati",
+    "varman",
+    "bhūpa",
+    "deva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jaya jitāmitramallavarmmaṇā svakarena likhitaṃ saṃpūrṇṇaṃ ... jitāmitrasya bhūpasya ... jaya jitāmitramalladevasana",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhāgīrāmayā",
+   "name": "Bhāgīrāma",
+   "roles": [
+    "minister"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgīrāmayā verasa juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "other",
+   "to": "p1",
+   "evidence": "bhāgīrāmayā verasa juroṃ"
+  }
+ ],
+ "date": {
+  "as_written": "śrīnepālasamvat 805 || śrīkarigata samvat 4785 || śrīvikramāditya samvat 1741 || śrīśake samvat 1606 || māghamāse, śuklapakṣa || śrīpaṇcamyāyātithai || revati nakṣete || śubhayoge || yathākarana mūhūtake || bṛhaspativāśale",
+  "era": "NS",
+  "year": "805",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "revatī, śubha",
+  "ce_approx": "1685"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "pūjāpaddhati prepared in connection with offering a large bell (tavagvaḍa ghaṃṭā) to Nāṭeśvara Mahābhairava",
+ "notes": "King Jayajitāmitramalla of Bhaktapur wrote the manuscript with his own hand (svakarena likhitaṃ) and compiled the paddhati from multiple texts (nānā granthasa soyāva pūjāpaddhati saṃphuḍi mahākastana dayakā). Bhāgīrāma was the prominent minister/administrator in Bhaktapur under his reign.",
+ "_meta": {
+  "reel": "A 619/23",
+  "model": "gemini-flash-latest",
+  "secs": 10.4,
+  "in_tok": 1240,
+  "out_tok": 2925
+ }
+}

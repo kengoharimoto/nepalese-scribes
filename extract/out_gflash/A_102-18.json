@@ -1,0 +1,76 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vedavyāsa",
+   "name": "Vedavyāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhagavadvedavyāsakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rāmatīrthena",
+   "name": "Rāmatīrtha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmatīrthena likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "mukaṃdaāśrama",
+   "name": "Mukundāśrama",
+   "roles": [
+    "beneficiary",
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mukaṃdaāśramapaṭhaṇārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "rāmatīrthena likhitaṃ mukaṃdaāśramapaṭhaṇārthaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat ṣola 57 varṣe navamyāṃ ravivāsare",
+  "era": "VS",
+  "year": "1657",
+  "month": "",
+  "paksa": "",
+  "tithi": "navamī",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1600"
+ },
+ "place": {
+  "as_written": "revātīre 〈〈ślu〉〉 śuklatīrthe",
+  "normalized": "Śuklatīrtha"
+ },
+ "purpose": "mukaṃdaāśramapaṭhaṇārthaṃ",
+ "notes": "The year is written 'ṣola 57' (i.e. solaha sai 57 = VS 1657). Copied at Śuklatīrtha on the bank of the Revā (Narmadā) river.",
+ "_meta": {
+  "reel": "A 102/18",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 799,
+  "out_tok": 1347
+ }
+}

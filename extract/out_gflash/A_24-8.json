@@ -1,0 +1,68 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāmadeva",
+   "name": "Kāmadeva",
+   "roles": [
+    "king",
+    "other"
+   ],
+   "titles": [
+    "cakravartin",
+    "vīra"
+   ],
+   "affiliation": "Kādambakula",
+   "residence": "",
+   "evidence": "kādambakulatila[[ka]]cakravarttivīraśrīkāmadevaprotsāhita",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kavirājapaṇḍita",
+   "name": "Kavirāja",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkavirājapaṇḍitaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "other",
+   "to": "p1",
+   "evidence": "kāmadevaprotsāhitaśrīkavirājapaṇḍitaviracite"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 677 śrāvaṇaśukladvitīyāyāṃ",
+  "era": "NS",
+  "year": "677",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1557"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives the final sarga colophon mentioning the Kadamba patron Kāmadeva and the author Kavirāja, followed by the copying date NS 677. No copyist, commissioner, or reigning king is specified.",
+ "_meta": {
+  "reel": "A 24/8",
+  "model": "gemini-flash-latest",
+  "secs": 8.1,
+  "in_tok": 776,
+  "out_tok": 1843
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhuvaneśvaraśarmaṇā",
+   "name": "Bhuvaneśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ(!)m idam bhuvaneśvaraśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1971 vaiśākha 3 gate roja 5mā",
+  "era": "VS",
+  "year": "1971",
+  "month": "vaiśākha",
+  "paksa": "",
+  "tithi": "3 gate",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1914"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīrāmārpaṇam astu",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1171/24",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 784,
+  "out_tok": 774
+ }
+}

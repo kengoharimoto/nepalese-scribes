@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīlolimvarāja",
+   "name": "Lolimbarāja",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīlolimvarājaviracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 1828 āṣāḍha śudi 3",
+  "era": "VS",
+  "year": "1828",
+  "month": "āṣāḍha",
+  "paksa": "śudi",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1771"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 165/17",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 703,
+  "out_tok": 514
+ }
+}

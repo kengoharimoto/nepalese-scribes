@@ -1,0 +1,70 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhūbhukdilīpa",
+   "name": "Dilīpa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhūbhuk"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhūbhukdilīpaviracete",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīlakṣmīrāyane",
+   "name": "Lakṣmīrāya",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "thva dhanuśāstra coya dhunakā śrīlakṣmīrāyane",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīhanumantana",
+   "name": "Hanumanta",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīhanumantana niyā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 852 pauṣa,kṛṣṇa,trayodaśī,śukrathva kuhnu",
+  "era": "NS",
+  "year": "852",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1732"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The Newari phrase 'thva dhanuśāstra coya dhunakā śrīlakṣmīrāyane, svanihma, śrīhanumantana niyā juro' indicates that Lakṣmīrāya finished copying the text, which was then acquired/bought (niyā juro) by Hanumanta.",
+ "_meta": {
+  "reel": "C 51/3",
+  "model": "gemini-flash-latest",
+  "secs": 11.3,
+  "in_tok": 868,
+  "out_tok": 2514
+ }
+}

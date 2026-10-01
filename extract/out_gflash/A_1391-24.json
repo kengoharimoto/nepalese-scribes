@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṛṣṇabahāduraṣatrisya",
+   "name": "Kṛṣṇabahādura",
+   "roles": [
+    "owner",
+    "scribe"
+   ],
+   "titles": [
+    "khatrī"
+   ],
+   "affiliation": "",
+   "residence": "Naksāl (naksālgrāmasthite)",
+   "evidence": "naksālgrāmasthite kṛṣṇabahāduraṣatrisya pustakam paropakāreṇa liṣitamḥm",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsāke 1807 śrīsamvat 1942 śāla miti kārtikaśudi14 roja7",
+  "era": "VS",
+  "year": "1942",
+  "month": "kārtika",
+  "paksa": "śudi",
+  "tithi": "14",
+  "weekday": "roja 7 (Sunday)",
+  "nakshatra_yoga": "bharaṇī nakṣatra, variyān yoga, dhvāṅkṣa yoga",
+  "ce_approx": "1885"
+ },
+ "place": {
+  "as_written": "śrīṇepāladese paśupatikṣetraḥ uttaraṇilakaṇṭheḥ pācapoṣariḥ vāgmatinikaṭhe śrīnandikesaramahādevacarṇe",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "paropakāreṇa",
+ "notes": "Both Śaka 1807 and Vikrama Saṃvat 1942 are specified, which correspond to CE 1885. The text specifies copying at Pāṃcapokharī near the Vāgmatī in the Paśupati region, and mentions the scribe/owner residing in Naksāl.",
+ "_meta": {
+  "reel": "A 1391/24",
+  "model": "gemini-flash-latest",
+  "secs": 7.2,
+  "in_tok": 940,
+  "out_tok": 1715
+ }
+}

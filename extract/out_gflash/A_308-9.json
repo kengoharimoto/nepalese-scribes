@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dvijarāmaḥ",
+   "name": "Dvijarāma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvijarāmaḥ suta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīlakṣmīkānta",
+   "name": "Lakṣmīkānta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīlakṣmīkāntahastena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "dvijarāmaḥ suta śrīlakṣmīkāntahastena"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1741 śrīsamvat 1876 māse śrāvaṇa śuklapaurṇamāśyāṃ tithau śravaṇa nakṣatre āyuṣmānayoge guruvāsare",
+  "era": "VS",
+  "year": "1876",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "paurṇamāsī",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "śravaṇa, āyuṣmat",
+  "ce_approx": "1819"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śaka 1741 and Vikrama Saṃvat 1876 are recorded in the date, both yielding CE 1819. In dvijarāmaḥ, dvija might alternatively be understood as a title (dvija Rāma).",
+ "_meta": {
+  "reel": "A 308/9",
+  "model": "gemini-flash-latest",
+  "secs": 8.7,
+  "in_tok": 833,
+  "out_tok": 2062
+ }
+}

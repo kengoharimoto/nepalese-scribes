@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dharmarājatṛ(!)pāṭhi(!)",
+   "name": "Dharmarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "tripāṭhī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dharmarājatṛ(!)pāṭhi(!)haste(!) liṣitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1948 sālamiti āṣāḍhavadī(!) 10 roja 5",
+  "era": "VS",
+  "year": "1948",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1891"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1116/10",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 879,
+  "out_tok": 1112
+ }
+}

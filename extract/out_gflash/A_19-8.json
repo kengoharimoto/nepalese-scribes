@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ṭhakkuraśrīāṇandakareṇa",
+   "name": "Ānandakara",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "ṭhakkura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ṭhakkuraśrīāṇandakareṇa svārthaṃ likhitaiṣā pustīti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ṭhakkuraśrīlakṣmīpatīnām",
+   "name": "Lakṣmīpati",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "ṭhakkura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ṭhakkuraśrīlakṣmīpatīnām ātmajena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "ṭhakkuraśrīlakṣmīpatīnām ātmajena ṭhakkuraśrīāṇandakareṇa"
+  }
+ ],
+ "date": {
+  "as_written": "lasaṃ 358 āśvinaśudi 11 kuje",
+  "era": "LS",
+  "year": "358",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1477"
+ },
+ "place": {
+  "as_written": "kelisvīgrāme",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ",
+ "notes": "",
+ "_meta": {
+  "reel": "A 19/8",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 746,
+  "out_tok": 1186
+ }
+}

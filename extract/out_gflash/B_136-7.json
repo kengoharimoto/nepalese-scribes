@@ -1,0 +1,85 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmajjayabhīma",
+   "name": "Jayabhīmadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "parameśvara",
+    "paramamāheśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājādhirājaparameśvaraparamamāheśvaraparamabhaṭṭārakaśrīmajjayabhīmarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīrājagurūhemarājapaṇḍitavarāṇām",
+   "name": "Hemarāja",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "rājaguru",
+    "paṇḍitavara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrājagurūhemarājapaṇḍitavarāṇām ājñayā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "pūrṇaprasādaśarmaṇā",
+   "name": "Pūrṇaprasāda Śarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pūrṇaprasādaśarmaṇā vilikyā samāpitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "śrīrājagurūhemarājapaṇḍitavarāṇām ājñayā ... pūrṇaprasādaśarmaṇā vilikyā samāpitam"
+  }
+ ],
+ "date": {
+  "as_written": "1986 vaikramāvde āśvinapūrṇimāyāṃ",
+  "era": "VS",
+  "year": "1986",
+  "month": "āśvina",
+  "paksa": "",
+  "tithi": "pūrṇimā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1929"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīrājagurūhemarājapaṇḍitavarāṇām ājñayā",
+ "notes": "This modern transcript copies the colophon of its exemplar dated NS 380 (caitre site pakṣe pañcamyāṃ bhṛguvāsare) during the reign of King Jayabhīmadeva, transcribed in VS 1986 by Pūrṇaprasāda Śarman under the order of Rājaguru Hemarāja Śarmā (Paṇḍita).",
+ "_meta": {
+  "reel": "B 136/7",
+  "model": "gemini-flash-latest",
+  "secs": 7.6,
+  "in_tok": 910,
+  "out_tok": 1802
+ }
+}

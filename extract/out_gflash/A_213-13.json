@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "upādhyāyamādhava",
+   "name": "Mādhava",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "sārasvatakula",
+   "residence": "Saurāṣṭradeśa",
+   "evidence": "upādhyāyamādhavaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1880",
+  "era": "VS",
+  "year": "1880",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1823"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Mādhava Upādhyāya is the author of the Āyurvedaprakāśa, stated to originate from Saurāṣṭra and of the Sārasvata lineage.",
+ "_meta": {
+  "reel": "A 213/13",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 729,
+  "out_tok": 771
+ }
+}

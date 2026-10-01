@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1955 nepālisaṃvat 1008 sālamiti bhādraśudi 8 roja 5",
+  "era": "VS",
+  "year": "1955",
+  "month": "bhādra",
+  "paksa": "śudi",
+  "tithi": "8",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1898"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both VS 1955 and NS (written as nepālisaṃvat 1008, likely a scribal error for 1018 as noted in the catalogue) are mentioned. No human individuals are named in the colophon.",
+ "_meta": {
+  "reel": "A 138/7",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 790,
+  "out_tok": 996
+ }
+}

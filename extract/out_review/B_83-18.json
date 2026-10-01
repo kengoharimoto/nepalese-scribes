@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 roles: removed 'commissioner' — no causative verb (likhāpitam/coyakā) in the colophon. 'skeduṃtājuro' is best read as Paśupati-s(a) deduṃtā juro, 'was offered to Paśupati', which supports only 'donor'.",
+   "Notes: replaced the 'caused to write' reading of skeduṃtājuro with the dedication reading. Also noted that the catalogue's 'scribe' attribution is not stated in the colophon.",
+   "Place of copying: emptied. Ipalāccha ṭola is given only as Vāsudeva's residence (ṭolayā), not as the place of copying.",
+   "Purpose: rephrased as a dedication to Paśupati for the pleasure of Indrāyaṇī.",
+   "Date: normalized weekday (Saturday), nakṣatra (Uttarabhādrapadā) and yoga (Aindra). Normalized tithi spelling. Refined ce_approx (Feb–Mar 1693)."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vāsudeva bhārona",
+   "name": "Vāsudeva",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "bhāro"
+   ],
+   "affiliation": "Kāśyapagotra",
+   "residence": "Ipalāccha ṭola",
+   "evidence": "kāśyapagotra ipalāccha ṭolayā vāsudeva bhārona śrī 3 indrāyaṇīprītina śrī 3 paśupati skeduṃtājuro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 813 phālguṇakṛṣṇacaturddaśi utrabhadra (!) nakṣatre ēndrayoga śaniścala (!) vāsare thvakunhu",
+  "era": "NS",
+  "year": "813",
+  "month": "Phālguna",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturdaśī (14)",
+  "weekday": "Saturday (śanaiścara)",
+  "nakshatra_yoga": "Uttarabhādrapadā nakṣatra; Aindra yoga",
+  "ce_approx": "1693"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "offered to Śrī 3 Paśupati for the pleasure of Śrī 3 Indrāyaṇī (indrāyaṇīprītina)",
+ "notes": "'skeduṃtājuro' is probably a corruption, or a word-division error, for '(paśupati)sa deduṃtā juro', 'was offered/dedicated to Paśupati'. That makes Vāsudeva the donor. The colophon does not say he commissioned or wrote the copy. The catalogue calls him the scribe, but the colophon gives no scribe statement. He may have copied it himself, but this cannot be confirmed. 'bhārona' = Bhāro (caste/title) + Newari ergative -na. Ipalāccha ṭola (catalogue: Ipalāttha) is stated as his residence, not explicitly as the place of copying, and its identification is uncertain. NS 813 + 880 gives early 1693 CE: Phālguna kṛṣṇa 14 falls around February–March 1693. The weekday and nakṣatra were not checked by calculation.",
+ "_meta": {
+  "reel": "B 83/18",
+  "model": "opus",
+  "cost_usd": 0.090226,
+  "secs": 23.2
+ }
+}

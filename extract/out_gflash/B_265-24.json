@@ -1,0 +1,55 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "amara siṃha",
+   "name": "Amarasiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "amara siṃha kṛtā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mahattasiṃhana",
+   "name": "Mahattasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahattasiṃhanadayakā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 845 āśuna kṛṣṇa ekādaśī kunhu",
+  "era": "NS",
+  "year": "845",
+  "month": "āśuna",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1725"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives the scribe's name as Mahantasiṃha, but the colophon reads mahattasiṃhana dayakā ('dayakā' in Newari indicates made/copied or caused to make).",
+ "_meta": {
+  "reel": "B 265/24",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 729,
+  "out_tok": 952
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī 2 bhūpālendramallasya",
+   "name": "Bhūpālendramalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī 2 bhūpālendramallasya sāmrājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīsūryyacandrabhiunā",
+   "name": "Sūryacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhikṣu"
+   ],
+   "affiliation": "Śrīkeśavacandrakṛta Pārāvata Mahāvihāra",
+   "residence": "ṅataḍholaka, mārgapūrvabhāga",
+   "evidence": "śrīsūryyacandrabhiunā (!) likhitaiṣā pustīti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrī 2 bhūpālendramallasya sāmrājye"
+  }
+ ],
+ "date": {
+  "as_written": "rudravasubhi (!) vaiśāṣakṛṣṇapakṣe aṣṭamyāyāṃ (!) tithau śatavṛṣanakṣetre (!) vaidhatiyoge (!) āditavāsare (!)",
+  "era": "NS",
+  "year": "811",
+  "month": "Vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "Śatabhiṣā nakṣatra, Vaidhṛti yoga",
+  "ce_approx": "1691"
+ },
+ "place": {
+  "as_written": "śrīkeśavacandrakṛta pārāvatamahāvihārāvasthita, (ṅataḍholake,) mārgapūrvabhāge",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "śrīśrīśrīpaśupatiprītir astu",
+ "notes": "The year is expressed via chronogram 'rudravasubhiḥ' (rudra = 11, vasu = 8, giving NS 811). Scribe's title is corrupted as 'bhiunā' for 'bhikṣuṇā'. Place of copying refers to Itum Bāhā (Keśavacandrakṛta Pārāvata Mahāvihāra) in Kathmandu.",
+ "_meta": {
+  "reel": "A 332/14",
+  "model": "gemini-flash-latest",
+  "secs": 8.3,
+  "in_tok": 933,
+  "out_tok": 2305
+ }
+}

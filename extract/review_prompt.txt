@@ -1,0 +1,11 @@
+You are the second reader in a two-pass extraction of prosopographical data from manuscript colophons catalogued by the Nepal-German Manuscript Cataloguing Project (NGMCP). A first model has already read the colophon below and produced the JSON shown under FIRST READING. The colophon is quoted in IAST as given by the cataloguer, often with errors marked (!), lacunae (..), or line numbers in parentheses, in Sanskrit, Newari, Nepali or Maithili.
+
+Check the first reading against the colophon and return the corrected, complete record in the same schema. In particular:
+- Persons: only HUMAN persons connected with this copy (scribe, commissioner, donor, owner, beneficiary, reigning king/queen, minister, teacher, and relatives named to identify them); authors/commentators of the text only with role "author"/"commentator". No deities, characters, or names inside titles. A king named because he commissioned the ORIGINAL text is not the reigning king of this copy (role "other").
+- Names in IAST stem form, without śrī/śrīmat and without caste, office or brahmin suffixes (śarman, śarmā, miśra, upādhyāya, vajrācārya, ṭhakkura, etc.; put these in "titles"). Kings keep -deva / -malla as part of the regnal name. For a corrupt name give your best reading and set confidence accordingly.
+- Roles: "commissioner" when someone had the copy made (likhāpitam, lekhayāmāsa, coyakā); "owner" when the book is said to be his (asya pustakam, -yā pustaka); do not add "donor" or "reader" unless the colophon says so (svapaṭhanārtham alone means the scribe copied it for his own study: roles scribe + owner).
+- Relations: check direction and type.
+- Date: verify any chronogram (bhūtasaṃkhyā read right to left), the era, and ce_approx (NS+880, VS−57, ŚS+78, LS+1119). If two eras in the colophon conflict, say so in notes.
+- The catalogue fields are for reference and may be wrong.
+
+In "review" state whether you confirmed or corrected the first reading and list each change briefly. Keep the first reading's content where it is right.

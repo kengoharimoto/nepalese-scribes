@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmacchaṃkarācāryya",
+   "name": "Śaṅkara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmacchaṃkarācāryyaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sanatkumāraśarmarṇā",
+   "name": "Sanatkumāra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "atrigotra",
+   "residence": "",
+   "evidence": "likhitam idam pustakam atrigotrotpannasanatkumāraśarmarṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1802 samvat 1937 sāla vaiśāṣaśuklāṣṭamyāṃ gurau",
+  "era": "VS",
+  "year": "1937 (ŚS 1802)",
+  "month": "vaiśāṣa",
+  "paksa": "śukla",
+  "tithi": "aṣṭamī",
+  "weekday": "gurau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1880"
+ },
+ "place": {
+  "as_written": "ānandavane",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "Both Śaka 1802 and Vikrama Samvat 1937 are given in the date.",
+ "_meta": {
+  "reel": "A 1102/5",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 745,
+  "out_tok": 1667
+ }
+}

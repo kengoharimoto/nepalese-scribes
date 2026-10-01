@@ -1,0 +1,47 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Kept the first reading's content. Expanded the notes on the NS 842 vs 942 conflict, the month spelling (ākhāḍha = Āṣāḍha), the era assumption, and why Naṭanāyaka is left out."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgaṃgānandena",
+   "name": "Gaṅgānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgaṃgānandena likhitam idaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvatsara 842 ākhāḍhavadi 7",
+  "era": "NS",
+  "year": "842",
+  "month": "ākhāḍha (Āṣāḍha)",
+  "paksa": "vadi (kṛṣṇa)",
+  "tithi": "7",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1722"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon reads saṃvatsara 842 but the catalogue gives NS 942. 842 is used here (NS 842 = c. 1722 CE). If 942 is right, the date would be c. 1822 CE, so check the manuscript. The colophon names no era. NS is assumed from the Newari script and the 'saṃvatsara' plus vadi style. ākhāḍha is the vernacular spelling of Āṣāḍha. 'śrīnaṭanāyaka[[sya]] caraṇau vandāmahe' is a closing benediction to Naṭanāyaka, probably Śiva as Naṭarāja/Naṭeśvara, so it is not listed as a human person.",
+ "_meta": {
+  "reel": "A 1038/2",
+  "model": "opus",
+  "cost_usd": 0.06459000000000001,
+  "secs": 10.4
+ }
+}

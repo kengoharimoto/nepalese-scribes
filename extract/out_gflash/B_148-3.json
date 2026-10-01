@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "cikutyāhvaya ācāryyaḥ",
+   "name": "Cikutya",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "cikutyāhvaya ācāryyaḥ ... vyalikhaśś(!) cchāradām imāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jayaśaṃkarayā",
+   "name": "Jayaśaṃkara",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jayaśaṃkarayā śātra",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "vyalikhaśś(!) cchāradām imāṃ || jayaśaṃkarayā śātra"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 827 kārttikaśuklacaturthī ... saptayugvasusaṃmiśre kārttike śuklapakṣake | caturthyāṃ ravivāre ca",
+  "era": "NS",
+  "year": "827",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "caturthī",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1707"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'saptayugvasu' indicates 827 (sapta = 7, yug[ma] = 2, vasu = 8). In the phrase 'jayaśaṃkarayā śātra', -yā is the Newari genitive marker and 'śātra' stands for śāstra ('Jayaśaṃkara's book').",
+ "_meta": {
+  "reel": "B 148/3",
+  "model": "gemini-flash-latest",
+  "secs": 9.9,
+  "in_tok": 780,
+  "out_tok": 2234
+ }
+}

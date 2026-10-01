@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījayadevakavi",
+   "name": "Jayadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījayadevakavikṛta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat || 19 || || 31 ||",
+  "era": "VS",
+  "year": "1931",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1874"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe is not explicitly named ('lekhakapāṭhakayoḥ' is a general formula). 'rāma || kṛṣṇa ||' are invocations of deities.",
+ "_meta": {
+  "reel": "A 1022/8",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 732,
+  "out_tok": 647
+ }
+}

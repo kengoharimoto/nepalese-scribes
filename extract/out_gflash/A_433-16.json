@@ -1,0 +1,98 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāhnakavīśvara",
+   "name": "Kāhna",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "kavīśvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāhnakavīśvaranandana",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "govindakavīśvareṇa",
+   "name": "Govinda",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavīśvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "govindakavīśvareṇa nirṇīte || saṃvitprakāśakāvye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīkaṇṭhena",
+   "name": "Śrīkaṇṭha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkaṇṭhenālekhi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrībudhendrasya",
+   "name": "Budhendra",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībudhendrasya tuṣṭyai",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "kāhnakavīśvaranandana"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "śrīkaṇṭhenālekhi samvitprakāśa- praśnagranthaḥ śrībudhendrasya tuṣṭyai"
+  }
+ ],
+ "date": {
+  "as_written": "pañcāṅgābdaiḥ sammite śākakāle sūrye karkasthe śuceḥ kṛṣṇaviṣṇau",
+  "era": "ŚS",
+  "year": "pañcāṅgābda",
+  "month": "śuci",
+  "paksa": "kṛṣṇa",
+  "tithi": "viṣṇu",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1843"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrībudhendrasya tuṣṭyai",
+ "notes": "The catalogue resolves the chronogram date as Śaka 1765 (pañca=5, aṅga=6, abdhi/abda?). Śuci denotes the month of Āṣāḍha; viṣṇutithi corresponds to ekādaśī. Budhendra may be a personal name or an epithet ('the best of scholars').",
+ "_meta": {
+  "reel": "A 433/16",
+  "model": "gemini-flash-latest",
+  "secs": 15.9,
+  "in_tok": 903,
+  "out_tok": 3553
+ }
+}

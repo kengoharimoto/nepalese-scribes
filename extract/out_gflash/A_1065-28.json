@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭarāīty upāhvena ... kṛṣṇaprasādena",
+   "name": "Kṛṣṇaprasāda",
+   "roles": [
+    "scribe",
+    "donor"
+   ],
+   "titles": [
+    "bhaṭṭarāī"
+   ],
+   "affiliation": "",
+   "residence": "Siphala",
+   "evidence": "svahastena pratilipiṃ vidhāya ... arpitā pustakālaye",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "2016 || saṃ",
+  "era": "VS",
+  "year": "2016",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1959"
+ },
+ "place": {
+  "as_written": "siphale",
+  "normalized": "Siphala"
+ },
+ "purpose": "vinodārthaṃ vidagdhānām arpitā pustakālaye",
+ "notes": "The scribe/donor is the scholar Kṛṣṇaprasāda Bhaṭṭarāī. Siphala (Siphal) is a neighborhood near Pashupatinath in Kathmandu.",
+ "_meta": {
+  "reel": "A 1065/28",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 794,
+  "out_tok": 998
+ }
+}

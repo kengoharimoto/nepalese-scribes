@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāghavo",
+   "name": "Rāghava",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "alikhad rāghavo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "raṃdhrairvāṇai(!)mukhābhratai(!) vatsare vikramārkamāghe māse bhṛgusu ca dine paṃcamī śuklapakṣe",
+  "era": "VS",
+  "year": "raṃdhrairvāṇaimukhābhratai",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue field names Khaḍgadhara as the scribe, but the colophon text clearly states 'kāśīkhaṃḍaṃ sakalam alikhad rāghavo'.",
+ "_meta": {
+  "reel": "A 258/3",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 787,
+  "out_tok": 1390
+ }
+}

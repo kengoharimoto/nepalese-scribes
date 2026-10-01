@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭaśrīprabhākaraśūreṇa",
+   "name": "Prabhākaraśūra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭaśrīprabhākaraśūreṇa likhita⁅m iti⁆",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 184 āṣāḍhaśukladivāṣṭamyāṃ",
+  "era": "NS",
+  "year": "184",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "8",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1064"
+ },
+ "place": {
+  "as_written": "⁅śrī⁆+++ śālāyāṃ",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue reads the place as [Nīlī]śālā.",
+ "_meta": {
+  "reel": "C 44/8",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 740,
+  "out_tok": 726
+ }
+}

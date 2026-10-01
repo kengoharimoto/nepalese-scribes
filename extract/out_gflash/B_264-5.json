@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmabhadra(dbuja)(!)",
+   "name": "Rāmabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ rāmabhadra(dbuja)(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1693 māse (9) vā 7",
+  "era": "ŚS",
+  "year": "1693",
+  "month": "9",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1771"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīśrīrājapustakaṃ",
+ "notes": "The phrase 'śrīśrīrājapustakaṃ' designates it as a royal manuscript. 'rāmakṛṣṇagoviṃdaḥ rāma rāma' at the end is an invocation.",
+ "_meta": {
+  "reel": "B 264/5",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 761,
+  "out_tok": 1599
+ }
+}

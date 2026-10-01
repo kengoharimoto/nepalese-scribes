@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayaraṇajinmallamahārāja",
+   "name": "Jayaraṇajinmalla",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayaraṇajinmallamahārājaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīparatāpasiṃha",
+   "name": "Pratāpasiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīparatāpasiṃha kahe",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 845 vaiśāṣa sudi 10",
+  "era": "NS",
+  "year": "845",
+  "month": "vaiśāṣa",
+  "paksa": "sudi",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1725"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The primary completion date of the play copying is NS 845 Vaiśākha śukla 10, with the dance performance noted as starting on Jyeṣṭha śukla 6 (jeṣṭha śudi 6 nṛtyāraṃbheyāṅādina). A later added song bearing the bhaṇitā of Pratāpasiṃha carries the date NS 902 Śrāvaṇa śukla 12 (samvat 902 śrāvanaśudi 12, ca. 1782 CE).",
+ "_meta": {
+  "reel": "A 1026/12",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 801,
+  "out_tok": 1765
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p3: as_written trimmed to 'gaṃdhādhareṇa'; removed residence 'pāṭalipura' (stated only as place of copying, not residence); affiliation normalized to 'Mahārāṣṭra jñāti'",
+   "p4: name given as 'Dabhikhaṃ' with 'bhaṭṭa' only in titles, and the affiliation is no longer repeated for the father; noted that 'dabhikhaṃ' may be a family name or a cataloguer's uncertain reading",
+   "date: weekday normalized to Friday (bhṛgu); era cross-check recorded (VS 1724 = ŚS 1589 = 1667 CE, consistent)",
+   "purpose normalized to 'svārtha'"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhāskarācārya",
+   "name": "Bhāskara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmaheśvaropādhyāyasutabhāskarācāryaviracitaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmaheśvaropādhyāya",
+   "name": "Maheśvara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmaheśvaropādhyāyasutabhāskarācārya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "gaṃdhādhareṇa",
+   "name": "Gaṅgādhara",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "Mahārāṣṭra jñāti",
+   "residence": "",
+   "evidence": "likhitam idaṃ gaṃdhādhareṇa mahārāṣṭra jñātīye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "(dabhikhaṃ) bhaṭṭa",
+   "name": "Dabhikhaṃ",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jñātīye(dabhikhaṃ) bhaṭṭasute",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīmaheśvaropādhyāyasutabhāskarācārya"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "(dabhikhaṃ) bhaṭṭasute"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1724 śake 1589 bhādrapadakṛṣṇāṣṭamyāṃ bhṛgau",
+  "era": "VS",
+  "year": "1724",
+  "month": "Bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "8 (aṣṭamī)",
+  "weekday": "Friday (bhṛgu)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1667"
+ },
+ "place": {
+  "as_written": "pāṭalipure",
+  "normalized": "Patna"
+ },
+ "purpose": "svārtha (for the scribe's own use)",
+ "notes": "'gaṃdhādhareṇa' is a slip for 'gaṃgādhareṇa' (Gaṅgādhara), which is how the catalogue reads it. The father's name is unclear. The cataloguer gives '(dabhikhaṃ)' in parentheses before 'bhaṭṭasute'. This may be an uncertain reading, or a Marathi family name, since the scribe calls himself a Mahārāṣṭra jñātīya. The father is therefore known only as a Bhaṭṭa. 'jñātīye' is grammatically inconsistent (it is locative, but it should agree with the instrumental 'gaṃdhādhareṇa'). The two eras agree: VS 1724 − 57 = 1667 and ŚS 1589 + 78 = 1667. Bhādrapada kṛṣṇa 8 is Janmāṣṭamī, which falls around August 1667. Identifying Pāṭalipura with Patna is likely but not certain.",
+ "_meta": {
+  "reel": "A 432/12",
+  "model": "opus",
+  "cost_usd": 0.09753400000000001,
+  "secs": 20.5
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Name normalized to 'Paramānandaprakāśa' (the ācārya title stripped from 'Prakāśācārya' into titles); confidence lowered to medium because it is unclear whether 'Prakāśa' belongs to the personal name",
+   "Month read: 'krāṃ ra' is most likely Hindi kvār/kuār, i.e. Āśvina. This fits 'durgāttīja' (Durgā-tṛtīyā, the third day of the autumn Navarātri, Āśvina śukla 3)",
+   "Tithi annotated as Durgā-tṛtīyā",
+   "Notes expanded on the era and the month"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīparmmānaṃda prakāśācāryeṇa",
+   "name": "Paramānandaprakāśa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ -------- śrīparmmānaṃda prakāśācāryeṇa",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1851 ke krāṃ ra śuddhi śrīdurgāttīja 3 śanivāra",
+  "era": "unspecified",
+  "year": "1851",
+  "month": "Āśvina (kvāra/kuāra; written 'krāṃ ra')",
+  "paksa": "śukla",
+  "tithi": "3 (Durgā-tṛtīyā)",
+  "weekday": "śanivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1794"
+ },
+ "place": {
+  "as_written": "śrī kāśī svakṣetre śrīmaṇI karṇikā varttate śrīgopālamaṃdirasthāne",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The colophon says only 'śrīsaṃvat 1851'. In a Kāśī context with a Hindi-style date ('1851 ke … śuddhi'), 'saṃvat' normally means Vikrama Saṃvat, which gives about 1794 CE. The catalogue's 'ŚS 1851' (= 1929 CE) is not supported by the wording. 'ke krāṃ ra' is probably '[saṃvat 1851] ke kvāra/kuāra', Hindi for Āśvina. That agrees with 'durgāttīja' (Durgā-tṛtīyā, Āśvina śukla 3). The weekday (Saturday) has not been checked. The scribe's name could be read as Paramānanda with the title 'Prakāśācārya', or as the ascetic-style name Paramānandaprakāśa with the title ācārya. The place of copying is the Gopāla temple near Maṇikarṇikā, Kāśī.",
+ "_meta": {
+  "reel": "A 1266/12",
+  "model": "opus",
+  "cost_usd": 0.08781800000000001,
+  "secs": 20.6
+ }
+}

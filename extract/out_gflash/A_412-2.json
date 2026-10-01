@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "cīraṃjīvabhaṭṭā(4)cāryya",
+   "name": "Cīrañjīva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "cīraṃjīvabhaṭṭā(4)cāryyakṛta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chapter colophon (navamaprabhā) attributing the work to Cīrañjīva Bhaṭṭācārya; no scribal colophon or date is preserved.",
+ "_meta": {
+  "reel": "A 412/2",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 676,
+  "out_tok": 660
+ }
+}

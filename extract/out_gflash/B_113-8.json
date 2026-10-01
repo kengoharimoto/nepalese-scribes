@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1044 sālamiti vaiśākhavadi 7 ro[[(kṛtir iyaṃ śrīmahāpaṇḍita)]] ja 1 sasi",
+  "era": "NS",
+  "year": "1044",
+  "month": "vaiśākha",
+  "paksa": "vadi",
+  "tithi": "7",
+  "weekday": "sasi",
+  "nakshatra_yoga": "ro",
+  "ce_approx": "1924"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon contains an incomplete/truncated author attribution in double brackets ('kṛtir iyaṃ śrīmahāpaṇḍita') without a readable personal name. No scribe, donor, or patron is mentioned.",
+ "_meta": {
+  "reel": "B 113/8",
+  "model": "gemini-flash-latest",
+  "secs": 12.8,
+  "in_tok": 715,
+  "out_tok": 2584
+ }
+}

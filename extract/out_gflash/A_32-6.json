@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 491 bhādrapadaśuklatṛtī〇yāyāṃ tithau hastanakṣatre śubhayoge bṛhaspativāsare",
+  "era": "NS",
+  "year": "491",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "tṛtīyā",
+  "weekday": "bṛhaspativāsara",
+  "nakshatra_yoga": "hastanakṣatre śubhayoge",
+  "ce_approx": "1371"
+ },
+ "place": {
+  "as_written": "śrīmāṇīgalottaramahāvihāre",
+  "normalized": "Patan"
+ },
+ "purpose": "-rthahetunā",
+ "notes": "The catalogue records King Jayārjunadeva and Scribe Gomendracandra (known from Petech's reading of this colophon), but both names fall directly inside lacunae in the quoted transcript ('rājādhirājaparameśva⁅ra⁆/// -nāṃ' and 'śrīyokhācchevi〇hārādhivāsi/// -rthahetunā svahastena likhitam'). 'ṭoḍalamalla' and 'vīranārāyaṇa' are royal virudas. Since the names are not preserved in the provided colophon text, no persons are extracted.",
+ "_meta": {
+  "reel": "A 32/6",
+  "model": "gemini-flash-latest",
+  "secs": 20.2,
+  "in_tok": 1322,
+  "out_tok": 4930
+ }
+}

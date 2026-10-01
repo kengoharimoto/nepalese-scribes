@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jvālā",
+   "name": "Jvālā",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jvālā likhyate",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃtma uṃnisesolā 1916 phāgu śudi pacami",
+  "era": "VS",
+  "year": "1916",
+  "month": "phāgu",
+  "paksa": "śudi",
+  "tithi": "pacami",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1860"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 63/12",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 706,
+  "out_tok": 683
+ }
+}

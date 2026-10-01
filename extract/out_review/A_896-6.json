@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Added Kṛṣṇadevaprasāda as scribe (low confidence). 'likhitam idaṃ … śrīkṛṣṇadeva prasādeva' can be read as a corrupt 'śrīkṛṣṇadevaprasādena', i.e. 'written by Kṛṣṇadevaprasāda'. The catalogue also reads it that way. The first reading took it as devotional 'prasāda eva'. That reading is possible, but the syntax after 'likhitam idaṃ' points to an instrumental agent.",
+   "Emptied purpose: 'pāpasaṃcayaṃ harati' describes what the text does, not why this copy was made.",
+   "Weekday changed to 'bhauma (Tuesday)'. The rest of the date (ŚS 1765 = c. 1843 CE) is confirmed."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkṛṣṇadeva prasādeva",
+   "name": "Kṛṣṇadevaprasāda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitamidaṃ gītāsārabhāṣā śrīkṛṣṇadeva prasādeva",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1765 bhādrapadamāse kṛṣṇapakṣe dvādaśyāṃ tithau bhaumavāsare",
+  "era": "ŚS",
+  "year": "1765",
+  "month": "bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādaśī",
+  "weekday": "bhauma (Tuesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1843"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The text 'śrīkṛṣṇadeva prasādeva pāpasaṃcayaṃ harati' is ambiguous. (a) It may be a corrupt '°prasādena': 'written by Śrī Kṛṣṇadevaprasāda; [this text] removes the heap of sins'. Prasāda-type personal names are common in 19th-century Nepal, and the catalogue gives Kṛṣṇadevaprasāda as scribe. (b) It may be 'śrīkṛṣṇadevaprasāda eva pāpasaṃcayaṃ harati': 'the grace of Lord Kṛṣṇa alone removes sins', with no human named. Reading (a) is recorded here, but with low confidence. The weekday has not been checked against the calendar (ŚS 1765 Bhādrapada kṛṣṇa 12 falls around September 1843). The colophon calls the text 'gītāsāra' / 'gītāsārabhāṣā', not the full Bhagavadgītā with commentary given in the catalogue title.",
+ "_meta": {
+  "reel": "A 896/6",
+  "model": "opus",
+  "cost_usd": 0.079178,
+  "secs": 15.4
+ }
+}

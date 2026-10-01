@@ -1,0 +1,74 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name normalized to 'Jitāmitramalladeva' (dropped honorific 'jaya'; 'sumati' kept as epithet/title)",
+   "ce_approx changed 1690 → 1689: NS years begin in Kārttika, so Kārttika śukla 9 of NS 810 falls in Oct/Nov 1689",
+   "notes expanded: king identified as Jitāmitra Malla of Bhaktapur; scribe not named; place not stated"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī śrīsumati jayajitāmitramalladevasana",
+   "name": "Jitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsumati jayajitāmitramalladevasana thva pustaka dayakā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhāgīrāma pradhāṃnāṃgayā",
+   "name": "Bhāgīrāma",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "pradhānāṅga"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgīrāma pradhāṃnāṃgayā velasa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "servant_of",
+   "to": "p1",
+   "evidence": "jayajitāmitramalladevasana thva pustaka dayakā || bhāgīrāma pradhāṃnāṃgayā velasa"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 810 kārttika sudi 9",
+  "era": "NS",
+  "year": "810",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1689"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Bhāgīrāma Pradhānāṅga as the scribe. But 'bhāgīrāma pradhāṃnāṃgayā velasa' means 'in the time of Bhāgīrāma the pradhānāṅga (chief minister)'. It dates the copy to his term in office and does not name him as scribe. The colophon names no scribe. King Jitāmitra Malla of Bhaktapur (r. c. 1673–1696) had the book made ('thva pustaka dayakā'). This makes Bhaktapur a likely place of copying, but the colophon does not say so. NS years begin with Kārttika, so NS 810 Kārttika śukla 9 corresponds to about Oct/Nov 1689 CE. The relation p2→p1 has been changed from under_reign_of to servant_of. That is a judgment call; he is a minister of the reigning king.",
+ "_meta": {
+  "reel": "A 226/2",
+  "model": "opus",
+  "cost_usd": 0.07783799999999999,
+  "secs": 15.4
+ }
+}

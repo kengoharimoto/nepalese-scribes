@@ -1,0 +1,102 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīpatibhaṭṭa",
+   "name": "Śrīpati",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa",
+    "gaṇakacakracūḍāmaṇi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīpatibhaṭṭaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "/// (6)hīndramalladevana",
+   "name": "...hīndramalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "/// (6)hīndramalladevana mātā śrīrājeśvarīdevī saena nītinā prājāpālitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīrājeśvarīdevī",
+   "name": "Rājeśvarīdevī",
+   "roles": [
+    "queen"
+   ],
+   "titles": [
+    "devī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mātā śrīrājeśvarīdevī saena nītinā prājāpālitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "daivajñaśivanārāyaṇa bhārāsana",
+   "name": "Śivanārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña",
+    "bhāro"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñaśivanārāyaṇa bhārāsana, thva ratnamālāyā tīkā coya dhunakā dina juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "mātā śrīrājeśvarīdevī"
+  },
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "hīndramalladevana mātā śrīrājeśvarīdevī saena nītinā prājāpālitā"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 830 jyeṣṭha māse śuklapakṣe dvādaśyāntithau svātīnakṣatre || parighayoge ādityavāsare",
+  "era": "NS",
+  "year": "830",
+  "month": "Jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "ādityavāsara",
+  "nakshatra_yoga": "svātī, parigha",
+  "ce_approx": "1710"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records Lalitapura as the place of copying and identifies the king as '///hīndramalla / mātā śrīrājeśvarīdevī' (likely Mahīndrasimha Malla / Bhāskara Malla or a Patan ruler around NS 830). The place name Lalitapura is not present in the quoted colophon text.",
+ "_meta": {
+  "reel": "B 331/13",
+  "model": "gemini-flash-latest",
+  "secs": 13.2,
+  "in_tok": 939,
+  "out_tok": 3163
+ }
+}

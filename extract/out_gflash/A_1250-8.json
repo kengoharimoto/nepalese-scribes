@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jaya bhūpatīndramalladevasana",
+   "name": "Bhūpatīndramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Bhaktapur",
+   "evidence": "śrīśrījaya bhūpatīndramalladevasana cuka(6)cāsa devapratiṣṭhā siddhāgni ayutāhuti yajña yāṅāyā thva (7) saṃphuli",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 825 bhādrapada śukla daśamī mūla śanīścaravārakuhnu",
+  "era": "NS",
+  "year": "825",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "śanīścaravāra",
+  "nakshatra_yoga": "mūla",
+  "ce_approx": "1705"
+ },
+ "place": {
+  "as_written": "cukacāsa",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "devapratiṣṭhā siddhāgni ayutāhuti yajña yāṅāyā thva saṃphuli",
+ "notes": "The manuscript is a manual/record book (saṃphuli) prepared for/during the Devapratiṣṭhā and Ayutāhuti yajña performed by King Bhūpatīndra Malla in the Cukacā (courtyard in the royal palace complex of Bhaktapur).",
+ "_meta": {
+  "reel": "A 1250/8",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 757,
+  "out_tok": 1108
+ }
+}

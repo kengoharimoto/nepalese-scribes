@@ -1,0 +1,34 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No changes to persons, relations, date or place: the colophon names no person, era or place.",
+   "Expanded the notes: the Newari wording, the corrupt reading paṃcasdaśakam, and the likely reason the catalogue names Jagajjyotimalla."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon is in Newari: 'thvate nepālabhākhāna nānārtha paṃcasdaśakam gītaṃ saṃpūrṇam' means 'these fifteen songs on various topics, in the Nepal language, are complete'. 'paṃcasdaśakam' is a corrupt form of pañcadaśakam. The quoted colophon names no scribe, owner, king, date or place. The catalogue's King field (Jagajjyotimalla) is probably there because he is thought to have composed or patronised the songs (Jagajjyotimalla of Bhaktapur, who wrote Newari songs). It may come from the song signatures (bhaṇitā) in the body of the text, not from this colophon. It is not recorded here as reigning king or author because the colophon gives no evidence for either.",
+ "_meta": {
+  "reel": "B 286/9",
+  "model": "opus",
+  "cost_usd": 0.058658,
+  "secs": 10.8
+ }
+}

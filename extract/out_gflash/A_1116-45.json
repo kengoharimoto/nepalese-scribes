@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "haladharavipreṇa",
+   "name": "Haladhara",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "haladharavipreṇabrāhmaṇārpitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 995 bhādraśudi 3 roja 6",
+  "era": "NS",
+  "year": "995",
+  "month": "bhādra",
+  "paksa": "śuklapakṣa",
+  "tithi": "3",
+  "weekday": "roja 6",
+  "nakshatra_yoga": "",
+  "ce_approx": "1875"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "brāhmaṇārpitaṃ",
+ "notes": "The phrase 'haladharavipreṇabrāhmaṇārpitaṃ' indicates the manuscript was offered/dedicated to a brāhmaṇa by the vipra Haladhara.",
+ "_meta": {
+  "reel": "A 1116/45",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 739,
+  "out_tok": 1164
+ }
+}

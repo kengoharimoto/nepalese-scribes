@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devabhārona",
+   "name": "Deva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhāro"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devabhārona rikhi[[ta]]ma",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 732 vbhādra pratipadi 10",
+  "era": "NS",
+  "year": "732",
+  "month": "vbhādra",
+  "paksa": "",
+  "tithi": "pratipadi 10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1612"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe Devabhāro is recorded with instrumental suffix -na (devabhārona) and rikhi[[ta]]ma for likhitam.",
+ "_meta": {
+  "reel": "B 281/26",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 729,
+  "out_tok": 841
+ }
+}

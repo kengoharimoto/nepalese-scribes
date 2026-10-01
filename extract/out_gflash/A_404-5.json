@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīraṃganātha",
+   "name": "Raṅganātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitam idaṃ śrīraṃga śrīraṃganāthaliṣaḍgraṃthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1703 śrīsaṃvat 1838 bhādrapadatithau 14 vāsare 7",
+  "era": "ŚS",
+  "year": "1703 (ŚS) / 1838 (VS)",
+  "month": "bhādrapada",
+  "paksa": "",
+  "tithi": "14",
+  "weekday": "vāsare 7 (शनिवार)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1781"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śāka era 1703 and Vikrama Saṃvat 1838 are recorded (both correspond to 1781 CE). 'śrīraṃga' preceding 'śrīraṃganātha' appears to be an incomplete false start.",
+ "_meta": {
+  "reel": "A 404/5",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 743,
+  "out_tok": 1265
+ }
+}

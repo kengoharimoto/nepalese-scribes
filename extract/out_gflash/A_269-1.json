@@ -1,0 +1,71 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumatijayajitāmitramalladevasana",
+   "name": "Sumati Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumatijayajitāmitramalladevasanabhāgirāmapradhānāṅgayāvalasa thva matsyapurāṇa covakā dina juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhāgirāmapradhānāṅga",
+   "name": "Bhāgīrāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "pradhāna"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgirāmapradhānāṅgayāvalasa thva matsyapurāṇa covakā dina juro",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīśrīsumatijayajitāmitramalladevasanabhāgirāmapradhānāṅgayāvalasa thva matsyapurāṇa covakā dina juro"
+  },
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "śrīśrīsumatijayajitāmitramalladevasanabhāgirāmapradhānāṅgayāvalasa thva matsyapurāṇa covakā dina juro"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 805 pauṣaśudi 12",
+  "era": "NS",
+  "year": "805",
+  "month": "pauṣa",
+  "paksa": "śudi",
+  "tithi": "12",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1685"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "King Sumati Jayajitāmitramalla of Bhaktapur had the manuscript written (covakā dina juro). The catalogue lists Bhāgīrāma Pradhāna as the scribe.",
+ "_meta": {
+  "reel": "A 269/1",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 762,
+  "out_tok": 1858
+ }
+}

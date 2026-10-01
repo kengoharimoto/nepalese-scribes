@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvālānaṃdabrāhmaṇena",
+   "name": "Bālānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ likhitaṃ śrīvālānaṃdabrāhmaṇena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1697 || saṃvat 1832 || samaya(!) māghakṛṣṇacaturdasyāṃ",
+  "era": "ŚS",
+  "year": "1697 (ŚS) / 1832 (VS)",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturdaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1776"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śaka Era (1697) and Vikrama Saṃvat (1832) are specified, which correspond to February 1776 CE.",
+ "_meta": {
+  "reel": "A 469/60",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 870,
+  "out_tok": 1505
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Ramaṇa: added role 'owner'. 'vyutpattikāmena' means he copied it wanting to learn the text himself, the same case as svapaṭhanārtham.",
+   "Ramaṇa–Kāmadeva relation kept as son_of but lowered to medium confidence. Read literally, 'kāmadevātmajāgrajaḥ' means 'elder brother of Kāmadeva's son'. Ramaṇa is therefore most likely Kāmadeva's eldest son, and an unnamed younger son is implied. Explained in notes.",
+   "Pakṣa: 'durgāpriye' is a descriptive term, not a pakṣa name. Normalized it, with an interpretation given in notes.",
+   "Weekday normalized to 'Tuesday (bhauma)'.",
+   "Chronogram checked: pañca 5, agni 3, aśva 7, eka 1, read right to left = ŚS 1735, which is CE 1813. Confirmed.",
+   "Purpose rephrased as a short gloss."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ramaṇaḥ",
+   "name": "Ramaṇa",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "sudhī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ vyutpattikāmena ... vyalikhad ramaṇaḥ sudhīḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kāmadeva",
+   "name": "Kāmadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāmadevātmajāgrajaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "kāmadevātmajāgrajaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "paṃcāgnyaśvaikasaṃyukte śāke ... pakṣe durgāpriye bhaume caturthyāṃ divase tithau",
+  "era": "ŚS",
+  "year": "1735",
+  "month": "",
+  "paksa": "durgāpriya (probably śukla)",
+  "tithi": "caturthī",
+  "weekday": "Tuesday (bhauma)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1813"
+ },
+ "place": {
+  "as_written": "śrīśivasannidhau",
+  "normalized": ""
+ },
+ "purpose": "svārtha: copied out of a wish to learn the text (vyutpattikāmena), to please Vāgīśvarī",
+ "notes": "The chronogram pañca(5)-agni(3)-aśva(7)-eka(1), read right to left, gives Śaka 1735, which is CE 1813/14. This matches the catalogue. Read literally, 'kāmadevātmajāgrajaḥ' means 'the elder brother of Kāmadeva's son'. This implies Ramaṇa is Kāmadeva's elder (probably eldest) son, with an unnamed younger brother. The son_of relation is inferred from this. 'pakṣe durgāpriye' ('in the fortnight dear to Durgā') probably means the bright half of Āśvina (Navarātri). If so, the date would be Āśvina śukla caturthī, a Tuesday, but the month is not stated, so the month field is left empty. 'śrīśivasannidhau' ('in the presence of Śiva') probably refers to a Śiva shrine, not a named locality, so it is not normalized. 'sudhīḥ' is an epithet ('learned'), not a formal title.",
+ "_meta": {
+  "reel": "A 73/35",
+  "model": "opus",
+  "cost_usd": 0.15028360000000002,
+  "secs": 33.0
+ }
+}

@@ -1,0 +1,423 @@
+<title>Nepalese Scribes and Patrons</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400&family=Noto+Sans:wght@400;500;600&display=swap">
+<style>
+/* Layout: ledger-style register — era histogram on top, a person-per-row timeline on the left, the selected person's manuscripts on the right. */
+:root {
+  --bg: #eef0ee; --panel: #f8f9f7; --ink: #1c2322; --muted: #5d6965; --rule: #cfd5d1;
+  --scribe: #2f4f9a; --patron: #a8740a; --king: #9c3328; --other: #2e7a5c; --kin: #7d8582;
+  --era-ns: #5f8f84; --era-vs: #9a86a8; --era-ss: #c3a26a; --era-ls: #8aa3bd; --era-x: #b5bcb8;
+  --hl: #e7d47a;
+  --serif: "Gentium Book Plus", "Noto Serif", Georgia, serif;
+  --sans: "Noto Sans", "Segoe UI", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #131716; --panel: #1b201f; --ink: #e2e6e3; --muted: #9aa5a0; --rule: #313936;
+  --scribe: #8ea6ec; --patron: #e0b14d; --king: #e3877b; --other: #6cc49e; --kin: #9aa29f;
+  --era-ns: #6fa99b; --era-vs: #a995bb; --era-ss: #cfae74; --era-ls: #8fadcb; --era-x: #555d5a; --hl: #6b5d1c; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #131716; --panel: #1b201f; --ink: #e2e6e3; --muted: #9aa5a0; --rule: #313936;
+  --scribe: #8ea6ec; --patron: #e0b14d; --king: #e3877b; --other: #6cc49e; --kin: #9aa29f;
+  --era-ns: #6fa99b; --era-vs: #a995bb; --era-ss: #cfae74; --era-ls: #8fadcb; --era-x: #555d5a; --hl: #6b5d1c; color-scheme: dark }
+[hidden] { display: none !important; }
+body { background: var(--bg); color: var(--ink); font: 14px/1.5 var(--sans); }
+.wrap { padding-inline: 20px; padding-block: 24px 48px; max-width: 1500px; margin: 0 auto; display: grid; gap: 20px; }
+header h1 { font: 700 30px/1.15 var(--serif); margin: 0; text-wrap: balance; letter-spacing: .005em; }
+header p { margin: 6px 0 0; color: var(--muted); max-width: 80ch; }
+.num { font-variant-numeric: tabular-nums; }
+.eyebrow { font: 600 11px var(--sans); letter-spacing: .09em; text-transform: uppercase; color: var(--muted); }
+section.hist { background: var(--panel); border: 1px solid var(--rule); border-radius: 6px; padding: 12px 14px 6px; }
+.legend { display: flex; flex-wrap: wrap; gap: 14px; align-items: center; font-size: 12px; color: var(--muted); }
+.sw { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 5px; vertical-align: -1px; }
+.controls { display: flex; flex-wrap: wrap; gap: 10px 18px; align-items: center; }
+.controls label { display: inline-flex; gap: 6px; align-items: center; cursor: pointer; }
+.controls input[type=search] { font: inherit; padding: 6px 10px; border: 1px solid var(--rule); border-radius: 4px; background: var(--panel); color: var(--ink); width: 240px; max-width: 100%; }
+.controls select { font: inherit; padding: 5px 6px; border: 1px solid var(--rule); border-radius: 4px; background: var(--panel); color: var(--ink); }
+.role-dot { width: 9px; height: 9px; border-radius: 50%; display: inline-block; flex: none; }
+.main { display: grid; grid-template-columns: minmax(0, 1fr) 420px; gap: 20px; align-items: start; }
+@media (max-width: 1000px) { .main { grid-template-columns: minmax(0, 1fr); } }
+.tl { background: var(--panel); border: 1px solid var(--rule); border-radius: 6px; min-width: 0; }
+.tl-head { display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap; padding: 10px 14px; border-bottom: 1px solid var(--rule); font-size: 12px; color: var(--muted); }
+.tl-scroll { overflow-x: auto; }
+svg text { fill: var(--ink); }
+svg .axis text { fill: var(--muted); font: 11px var(--sans); }
+svg .grid line { stroke: var(--rule); }
+svg .row { cursor: pointer; }
+svg .row:hover .bgr { fill: var(--rule); fill-opacity: .45; }
+svg .row.sel .bgr { fill: var(--hl); fill-opacity: .55; }
+svg .nm { font: 13px var(--serif); }
+svg .cnt { font: 11px var(--sans); fill: var(--muted); }
+.more { padding: 10px 14px; border-top: 1px solid var(--rule); display: flex; gap: 12px; align-items: center; color: var(--muted); font-size: 12px; }
+button { font: inherit; border: 1px solid var(--rule); background: var(--bg); color: var(--ink); border-radius: 4px; padding: 5px 12px; cursor: pointer; }
+button:hover { border-color: var(--muted); }
+:focus-visible { outline: 2px solid var(--scribe); outline-offset: 2px; }
+aside.detail { background: var(--panel); border: 1px solid var(--rule); border-radius: 6px; padding: 16px; position: sticky; top: calc(env(safe-area-inset-top, 0px) + 12px); max-height: calc(100vh - 24px); overflow-y: auto; min-width: 0; }
+@media (max-width: 1000px) { aside.detail { position: static; max-height: none; } }
+aside h2 { font: 700 22px/1.2 var(--serif); margin: 4px 0 2px; }
+.chips { display: flex; flex-wrap: wrap; gap: 5px; }
+.chip { display: inline-block; font: 600 10.5px var(--sans); letter-spacing: .07em; text-transform: uppercase; padding: 2px 7px; border-radius: 3px; color: var(--panel); }
+.chip.s { background: var(--scribe); } .chip.p { background: var(--patron); } .chip.k { background: var(--king); } .chip.o { background: var(--other); } .chip.r { background: var(--kin); }
+.tag { font: 12px var(--serif); font-style: italic; color: var(--muted); }
+.note { font-size: 12px; color: var(--muted); margin: 6px 0; }
+.rel { font-size: 13px; margin: 8px 0 0; display: grid; gap: 3px; }
+.rel button, .co button { font-size: 12px; padding: 1px 7px; font-family: var(--serif); display: inline-flex; align-items: center; gap: 4px; }
+ol.mslist { list-style: none; padding: 0; margin: 12px 0 0; display: grid; gap: 12px; }
+ol.mslist li { border-top: 1px solid var(--rule); padding-top: 10px; display: grid; gap: 3px; }
+.ms-t { font: 15px var(--serif); }
+.ms-m { font-size: 12px; color: var(--muted); }
+.ms-m b { color: var(--ink); font-weight: 500; }
+.ev { font: italic 13px/1.45 var(--serif); border-left: 2px solid var(--rule); padding-left: 8px; overflow-wrap: anywhere; }
+.src { font: 600 10px var(--sans); letter-spacing: .06em; text-transform: uppercase; color: var(--muted); border: 1px solid var(--rule); border-radius: 3px; padding: 0 5px; }
+.co { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 3px; }
+details summary { cursor: pointer; font-size: 12px; color: var(--muted); }
+details p, details ul { font: 13px/1.5 var(--serif); margin: 4px 0 0; overflow-wrap: anywhere; }
+details ul { padding-left: 18px; }
+#tip { position: fixed; pointer-events: none; background: var(--ink); color: var(--bg); font-size: 12px; padding: 5px 8px; border-radius: 4px; max-width: 320px; z-index: 5; }
+.tabs { display: flex; gap: 4px; border-bottom: 1px solid var(--rule); }
+.tabs button { border: 1px solid transparent; border-bottom: none; border-radius: 5px 5px 0 0; background: none; padding: 7px 14px; font: 500 13px var(--sans); color: var(--muted); margin-bottom: -1px; }
+.tabs button[aria-selected="true"] { background: var(--panel); border-color: var(--rule); color: var(--ink); }
+.net { background: var(--panel); border: 1px solid var(--rule); border-radius: 6px; min-width: 0; display: grid; }
+.net-bar { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: center; padding: 10px 14px; border-bottom: 1px solid var(--rule); font-size: 12px; color: var(--muted); }
+.net-bar label { display: inline-flex; gap: 5px; align-items: center; cursor: pointer; }
+.net-bar .zoom { margin-left: auto; display: flex; gap: 4px; }
+.net-bar .zoom button { padding: 2px 9px; }
+.stage { position: relative; height: min(78vh, 900px); min-height: 420px; }
+.stage canvas { position: absolute; inset: 0; width: 100%; height: 100%; touch-action: none; }
+.ekey { display: inline-block; width: 22px; height: 0; border-top: 2px solid var(--ink); vertical-align: middle; opacity: .7; }
+.est { color: var(--patron); }
+footer { color: var(--muted); font-size: 12px; max-width: 95ch; display: grid; gap: 6px; }
+</style>
+
+<div class="wrap">
+  <header>
+    <span class="eyebrow">NGMCP catalogue · prosopography</span>
+    <h1>Nepalese Scribes and Patrons</h1>
+    <p id="intro"></p>
+  </header>
+
+  <section class="hist" aria-label="Dated manuscripts per decade">
+    <div class="legend">
+      <span class="eyebrow">Dated manuscripts per decade (CE), by era</span>
+      <span><i class="sw" style="background:var(--era-ns)"></i>Nepāla Saṃvat</span>
+      <span><i class="sw" style="background:var(--era-vs)"></i>Vikrama Saṃvat</span>
+      <span><i class="sw" style="background:var(--era-ss)"></i>Śaka</span>
+      <span><i class="sw" style="background:var(--era-ls)"></i>Lakṣmaṇasena</span>
+      <span><i class="sw" style="background:var(--era-x)"></i>other or unnamed</span>
+    </div>
+    <div class="tl-scroll"><svg id="hist" height="110" role="img" aria-label="Histogram of dated manuscripts"></svg></div>
+  </section>
+
+  <div class="controls">
+    <input type="search" id="q" placeholder="Search a name or title (diacritics optional)" aria-label="Search names and titles">
+    <label><input type="checkbox" id="r-s" checked><span class="role-dot" style="background:var(--scribe)"></span>Scribes</label>
+    <label><input type="checkbox" id="r-p" checked><span class="role-dot" style="background:var(--patron)"></span>Patrons &amp; owners</label>
+    <label><input type="checkbox" id="r-k" checked><span class="role-dot" style="background:var(--king)"></span>Kings</label>
+    <label><input type="checkbox" id="r-o"><span class="role-dot" style="background:var(--other)"></span>Teachers, ministers</label>
+    <label><input type="checkbox" id="r-r"><span class="role-dot" style="background:var(--kin)"></span>Kin</label>
+    <label>Min. MSS <select id="min"><option value="1">1</option><option value="2" selected>2</option><option value="3">3</option><option value="5">5</option></select></label>
+    <label>Place <select id="place"><option value="">any</option></select></label>
+    <label>Sort <select id="sort"><option value="from">earliest date</option><option value="n">number of MSS</option><option value="name">name</option></select></label>
+  </div>
+
+  <div class="tabs" role="tablist">
+    <button role="tab" id="tab-tl" aria-selected="true">Timeline</button>
+    <button role="tab" id="tab-net" aria-selected="false">Network</button>
+  </div>
+  <div class="main">
+    <section class="net" id="netview" hidden>
+      <div class="net-bar">
+        <span>Links:</span>
+        <label><input type="checkbox" id="e-kin" checked><i class="ekey"></i>kin</label>
+        <label><input type="checkbox" id="e-pupil" checked><i class="ekey" style="border-top-width:3px"></i>teacher → pupil</label>
+        <label><input type="checkbox" id="e-work" checked><i class="ekey" style="border-top-style:dashed"></i>wrote for / commissioned</label>
+        <label><input type="checkbox" id="e-reign" checked><i class="ekey" style="border-top-style:dotted"></i>under the reign of</label>
+        <label><input type="checkbox" id="e-co"><i class="ekey" style="opacity:.3"></i>named in the same colophon</label>
+        <span class="zoom"><button id="zin" aria-label="Zoom in">+</button><button id="zout" aria-label="Zoom out">−</button><button id="zfit">Fit</button></span>
+      </div>
+      <div class="stage" id="stage"><canvas id="net" aria-label="Network of persons placed by date; click a person to select"></canvas></div>
+      <div class="more" id="netnote"></div>
+    </section>
+    <section class="tl" id="tlview">
+      <div class="tl-head"><span id="count"></span><span>Row colour: the person's main role · dot colour: role in that manuscript · searching also shows undated persons</span></div>
+      <div class="tl-scroll"><svg id="chart"></svg></div>
+      <div class="more" id="more"></div>
+    </section>
+    <aside class="detail" id="detail" aria-live="polite"></aside>
+  </div>
+
+  <footer>
+    <p>Sources: NGMCP catalogue entries (Nepal-German Manuscript Cataloguing Project). Persons come from two places: the catalogue fields Scribe, Donor and King, and a reading of each quoted colophon by Gemini Flash, with a second reading by Claude Opus wherever the first was uncertain or disagreed with the catalogue. Each attestation is marked with its source: <span class="src">cat</span> catalogue field, <span class="src">flash</span> Gemini reading, <span class="src">opus</span> checked by Opus.</p>
+    <p>Dates follow the catalogue where it names the era; otherwise the era and year come from the colophon reading. Conversion: NS + 880, VS − 57, ŚS + 78, LS + 1119, approximate to a year. A “?” marks an inferred era.</p>
+    <p>Undated manuscripts get an estimated date (hollow dots and circles) from the people and places they name: a king attested in at least two dated manuscripts (the king's attested span ± 5 years), two persons named together in a dated manuscript (± 25), a person's dated span (± 20; graded by whether a title or residence also matches), or a specific locality whose dated manuscripts fall within 150 years. The evidence is listed with each estimate.</p>
+    <p>Persons are grouped by normalized name (without śrī and without titles such as śarman, vajrācārya, upādhyāya). A name whose dated manuscripts are more than 60 years apart is split into separate persons, so homonyms are separated only by date.</p>
+  </footer>
+</div>
+<div id="tip" hidden></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script>
+const DATA = /*DATA*/null;
+const ROLE = { s: 'Scribe', p: 'Patron / owner', k: 'King', o: 'Other role', r: 'Kin' };
+const RCOL = { s: 'var(--scribe)', p: 'var(--patron)', k: 'var(--king)', o: 'var(--other)', r: 'var(--kin)' };
+const ECOL = { NS: 'var(--era-ns)', VS: 'var(--era-vs)', 'ŚS': 'var(--era-ss)', LS: 'var(--era-ls)', other: 'var(--era-x)', '': 'var(--era-x)' };
+const GROUP = { scribe: 's', commissioner: 'p', donor: 'p', owner: 'p', beneficiary: 'p', king: 'k', queen: 'k', relative_only: 'r' };
+const RELTXT = { son_of: 'son of', daughter_of: 'daughter of', grandson_of: 'grandson of', brother_of: 'brother of', wife_of: 'wife of', husband_of: 'husband of', pupil_of: 'pupil of', servant_of: 'servant of', wrote_for: 'wrote for', commissioned_from: 'commissioned from', under_reign_of: 'under the reign of', other: 'linked to' };
+const INV = { son_of: 'parent of', daughter_of: 'parent of', grandson_of: 'grandparent of', brother_of: 'brother of', wife_of: 'husband of', husband_of: 'wife of', pupil_of: 'teacher of', servant_of: 'master of', wrote_for: 'had a copy written by', commissioned_from: 'was commissioned by', under_reign_of: 'reigned over', other: 'linked to' };
+const SRC = { c: 'cat', f: 'flash', o: 'opus' };
+const MS = DATA.mss.map(a => ({ reel: a[0], title: a[1], raw: a[2], ce: a[3], era: a[4], place: a[5], script: a[6], subject: a[7], col: a[8], reading: a[9], dsrc: a[10], notes: a[11], review: a[12], purpose: a[13], est: a[14] }));
+const PS = DATA.persons.map((a, i) => ({ id: i, role: a[0], name: a[1], ms: a[2], from: a[3], to: a[4], split: a[5], variants: a[6], titles: a[7],
+  att: a[8].map(x => ({ ms: x[0], roles: x[1], titles: x[2], res: x[3], ev: x[4], conf: x[5], src: x[6] })), est: a[9] }));
+const span = p => p.from ? [p.from, p.to, false] : p.est ? [p.est[0], p.est[1], true] : null;
+MS.forEach(m => m.persons = []);
+PS.forEach(p => p.ms.forEach(i => MS[i].persons.push(p.id)));
+const roleIn = (p, mi) => { const a = p.att.find(x => x.ms === mi); if (!a) return p.role; const g = a.roles.split(' ').map(r => GROUP[r] || 'o'); return ['s', 'p', 'k', 'o', 'r'].find(r => g.includes(r)); };
+const REL = {}; DATA.rels.forEach(([f, t, to, ms]) => { (REL[f] = REL[f] || []).push({ txt: RELTXT[t] || t, other: to, ms }); (REL[to] = REL[to] || []).push({ txt: INV[t] || t, other: f, ms }); });
+const fold = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+PS.forEach(p => { p.key = fold([p.name, ...p.variants, ...p.titles].join(' ')); p.places = [...new Set(p.ms.map(i => MS[i].place).filter(Boolean))]; });
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const SVGNS = 'http://www.w3.org/2000/svg';
+const $ = id => document.getElementById(id);
+
+const st = DATA.stats, cnt = r => PS.filter(p => p.role === r).length.toLocaleString();
+$('intro').textContent = `${st.files.toLocaleString()} catalogue entries for ${st.reels.toLocaleString()} microfilmed manuscripts; ${st.dated.toLocaleString()} carry a usable date. `
+  + `${st.flash.toLocaleString()} colophons were read for names (${st.opus.toLocaleString()} of them checked a second time). Of ${st.undated_named.toLocaleString()} undated manuscripts that name someone, ${st.estimated.toLocaleString()} have an estimated date. `
+  + `The register holds ${cnt('s')} scribes, ${cnt('p')} patrons and owners, ${cnt('k')} kings, ${cnt('o')} teachers, ministers and others, and ${cnt('r')} relatives named only as kin. Select a row to see the manuscripts and the people named with them.`;
+
+const pc = {}; MS.forEach(m => m.place && (pc[m.place] = (pc[m.place] || 0) + 1));
+Object.entries(pc).filter(e => e[1] >= 3).sort((a, b) => b[1] - a[1]).forEach(([p, n]) => $('place').insertAdjacentHTML('beforeend', `<option value="${esc(p)}">${esc(p)} (${n})</option>`));
+
+const X0 = 1000, X1 = 1960;
+function el(tag, attrs, parent) { const e = document.createElementNS(SVGNS, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); parent && parent.appendChild(e); return e; }
+
+(function hist() {
+  const svg = $('hist'), W = 1100, H = 110, L = 200, R = 16, T = 8, B = 22;
+  svg.setAttribute('viewBox', `0 0 ${W} ${H}`); svg.setAttribute('width', W); svg.style.maxWidth = '100%'; svg.style.minWidth = '640px';
+  const by = {}; DATA.hist.forEach(([d, e, n]) => { if (d < X0 || d > X1) return; (by[d] = by[d] || {})[e] = n; });
+  const tot = d => Object.values(by[d] || {}).reduce((a, b) => a + b, 0);
+  const max = Math.max(...Object.keys(by).map(tot)), step = max > 200 ? 100 : 50;
+  const sx = y => L + (y - X0) / (X1 - X0) * (W - L - R), bw = (W - L - R) / ((X1 - X0) / 10) - 1;
+  const g = el('g', { class: 'grid' }, svg), ax = el('g', { class: 'axis' }, svg);
+  for (let v = 0; v <= max; v += step) el('line', { x1: L, x2: W - R, y1: H - B - v / max * (H - T - B), y2: H - B - v / max * (H - T - B) }, g);
+  for (let y = X0; y <= X1; y += 100) { const t = el('text', { x: sx(y), y: H - 6, 'text-anchor': 'middle' }, ax); t.textContent = y; }
+  for (let v = step; v <= max; v += step) { const t = el('text', { x: L - 6, y: H - B - v / max * (H - T - B) + 4, 'text-anchor': 'end' }, ax); t.textContent = v; }
+  Object.keys(by).forEach(d => {
+    let y = H - B; d = +d;
+    ['NS', 'VS', 'ŚS', 'LS', 'other'].forEach(e => { const n = by[d][e]; if (!n) return; const h = n / max * (H - T - B);
+      const r = el('rect', { x: sx(d), y: y - h, width: Math.max(bw, 1), height: h, fill: ECOL[e] }, svg); y -= h;
+      r.addEventListener('mousemove', ev => tip(ev, `${d}s: ${n} MSS dated in ${e === 'other' ? 'another or unnamed era' : e}`)); r.addEventListener('mouseleave', untip); });
+  });
+})();
+
+let shown = 300, selected = null;
+function filtered() {
+  const q = fold($('q').value.trim()), min = +$('min').value, place = $('place').value;
+  const roles = { s: $('r-s').checked, p: $('r-p').checked, k: $('r-k').checked, o: $('r-o').checked, r: $('r-r').checked };
+  let list = PS.filter(p => roles[p.role] && (q ? (p.key.includes(q) || p.ms.some(i => fold(MS[i].title).includes(q))) : (span(p) && p.ms.length >= min)) && (!place || p.places.includes(place)));
+  const s = $('sort').value;
+  list.sort(s === 'n' ? (a, b) => b.ms.length - a.ms.length || (span(a)?.[0] ?? 9999) - (span(b)?.[0] ?? 9999)
+    : s === 'name' ? (a, b) => fold(a.name).localeCompare(fold(b.name))
+    : (a, b) => (span(a)?.[0] ?? 9999) - (span(b)?.[0] ?? 9999) || b.ms.length - a.ms.length);
+  return list;
+}
+function draw() {
+  const list = filtered(), rows = list.slice(0, shown);
+  const svg = $('chart'), W = 1100, L = 200, R = 16, RH = 18, T = 24;
+  const H = T + rows.length * RH + 8;
+  svg.innerHTML = ''; svg.setAttribute('viewBox', `0 0 ${W} ${H}`); svg.setAttribute('width', W); svg.setAttribute('height', H);
+  svg.style.width = '100%'; svg.style.minWidth = '640px'; svg.style.height = 'auto';
+  const sx = y => L + (Math.min(Math.max(y, X0), X1) - X0) / (X1 - X0) * (W - L - R);
+  const g = el('g', { class: 'grid' }, svg), ax = el('g', { class: 'axis' }, svg);
+  for (let y = X0; y <= X1; y += 50) {
+    el('line', { x1: sx(y), x2: sx(y), y1: T - 4, y2: H, 'stroke-opacity': y % 100 ? .45 : 1 }, g);
+    if (y % 100 === 0) { const t = el('text', { x: sx(y), y: 14, 'text-anchor': 'middle' }, ax); t.textContent = y; }
+  }
+  rows.forEach((p, i) => {
+    const y = T + i * RH, row = el('g', { class: 'row' + (p.id === selected ? ' sel' : ''), tabindex: 0, role: 'button', 'aria-label': `${p.name}, ${ROLE[p.role]}, ${p.ms.length} manuscripts` }, svg);
+    el('rect', { class: 'bgr', x: 0, y, width: W, height: RH, fill: 'transparent' }, row);
+    el('circle', { cx: 10, cy: y + 9, r: 3.5, fill: RCOL[p.role] }, row);
+    const nm = el('text', { class: 'nm', x: 20, y: y + 13 }, row); nm.textContent = p.name.length > 22 ? p.name.slice(0, 21) + '…' : p.name;
+    const c = el('text', { class: 'cnt', x: L - 8, y: y + 13, 'text-anchor': 'end' }, row); c.textContent = p.ms.length;
+    const sp = span(p);
+    if (sp) {
+      if (sp[1] > sp[0]) el('line', { x1: sx(sp[0]), x2: sx(sp[1]), y1: y + 9, y2: y + 9, stroke: RCOL[p.role], 'stroke-width': 2, 'stroke-opacity': .5, 'stroke-dasharray': sp[2] ? '3 3' : 'none' }, row);
+      p.ms.forEach(mi => { const m = MS[mi], c = m.ce ?? (m.est ? (m.est[0] + m.est[1]) / 2 : null); if (c == null) return;
+        const col = RCOL[roleIn(p, mi)], d = el('circle', { cx: sx(c), cy: y + 9, r: 3.6, fill: m.ce ? col : 'var(--panel)', stroke: col, 'stroke-width': m.ce ? 0 : 1.5, 'fill-opacity': .9 }, row);
+        d.addEventListener('mousemove', ev => tip(ev, `${ROLE[roleIn(p, mi)]} · ${m.title} · ${m.reel} · ` + (m.ce ? `≈ ${m.ce} CE` : `undated, estimated ${m.est[0]}–${m.est[1]} (${m.est[2]})`))); d.addEventListener('mouseleave', untip); });
+    } else { const t = el('text', { class: 'cnt', x: L + 8, y: y + 13 }, row); t.textContent = 'undated'; }
+    row.addEventListener('click', () => select(p.id));
+    row.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); select(p.id); } });
+  });
+  $('count').textContent = `${list.length.toLocaleString()} persons` + (list.length > rows.length ? `, showing ${rows.length}` : '');
+  $('more').innerHTML = list.length > rows.length ? `<button id="mb">Show ${Math.min(300, list.length - rows.length)} more</button><span>${list.length - rows.length} not yet shown</span>` : (list.length ? '<span>End of list</span>' : '<span>No persons match. Try a lower minimum, more roles, or clear the search.</span>');
+  const mb = $('mb'); mb && mb.addEventListener('click', () => { shown += 300; draw(); });
+}
+function tip(ev, text) { const t = $('tip'); t.textContent = text; t.hidden = false; t.style.left = Math.min(ev.clientX + 12, innerWidth - 330) + 'px'; t.style.top = (ev.clientY + 14) + 'px'; }
+function untip() { $('tip').hidden = true; }
+const pbtn = x => `<button data-p="${x}"><span class="role-dot" style="background:${RCOL[PS[x].role]}"></span>${esc(PS[x].name)}</button>`;
+
+function select(id) {
+  selected = id; const p = PS[id];
+  const ms = [...p.ms].sort((a, b) => (MS[a].ce ?? 9999) - (MS[b].ce ?? 9999));
+  const spanTxt = p.from ? (p.from === p.to ? `${p.from} CE` : `${p.from}–${p.to} CE`) : p.est ? `<span class="est">no dated manuscript; estimated ${p.est[0]}–${p.est[1]} CE (${p.est[2]} confidence)</span>` : 'no dated manuscript';
+  const roles = [...new Set(p.ms.map(mi => roleIn(p, mi)))];
+  let h = `<div class="chips">${roles.map(r => `<span class="chip ${r}">${ROLE[r]}</span>`).join('')}</div><h2>${esc(p.name)}</h2>
+    ${p.titles.length ? `<div class="tag">${esc(p.titles.join(', '))}</div>` : ''}
+    <div class="ms-m num">${p.ms.length} manuscript${p.ms.length > 1 ? 's' : ''} · ${spanTxt}${p.places.length ? ' · ' + esc(p.places.join(', ')) : ''}</div>`;
+  if (p.variants.length) h += `<p class="note">Also written: ${esc(p.variants.join('; '))}</p>`;
+  if (p.split) h += `<p class="note">This name also occurs more than 60 years away; those manuscripts are listed under a separate person of the same name.</p>`;
+  const rl = (REL[id] || []).filter((r, i, a) => a.findIndex(x => x.txt === r.txt && x.other === r.other) === i);
+  if (rl.length) h += `<div class="rel">${rl.map(r => `<div>${esc(r.txt)} ${pbtn(r.other)}</div>`).join('')}</div>`;
+  h += '<ol class="mslist">';
+  ms.forEach(mi => { const m = MS[mi], a = p.att.find(x => x.ms === mi) || {};
+    const co = m.persons.filter(x => x !== id).map(pbtn).join('');
+    const date = m.raw ? esc(m.raw) + (m.ce ? ` ≈ ${m.ce} CE` + (m.era.endsWith('?') ? ' (era inferred)' : '') : '') : (m.ce ? `≈ ${m.ce} CE` : 'undated');
+    const estH = !m.ce && m.est ? `<details><summary class="est">Estimated ${m.est[0]}–${m.est[1]} CE (${m.est[2]} confidence)</summary><ul>${m.est[3].map(b => `<li>${esc(b)}</li>`).join('')}</ul></details>` : '';
+    h += `<li><span class="ms-t">${esc(m.title || '(untitled)')}</span>
+      <span class="ms-m num"><b>${esc(m.reel)}</b> · ${date}${m.place ? ' · ' + esc(m.place) : ''}</span>
+      <span class="ms-m">${esc(a.roles || '')}${a.titles ? ' · <i>' + esc(a.titles) + '</i>' : ''}${a.res ? ' · of ' + esc(a.res) : ''} <span class="src">${SRC[a.src] || ''}</span>${a.conf && a.conf !== 'high' ? ` <span class="src">${esc(a.conf)} confidence</span>` : ''}</span>
+      ${estH}
+      ${a.ev ? `<span class="ev">${esc(a.ev)}</span>` : ''}
+      ${co ? `<div class="co">${co}</div>` : ''}
+      ${m.col || m.notes ? `<details><summary>Colophon${m.notes ? ' and reader’s notes' : ''}</summary>${m.col ? `<p>${esc(m.col)}</p>` : ''}${m.notes ? `<p class="note">${esc(m.notes)}</p>` : ''}${m.review.length ? `<ul>${m.review.map(c => `<li>${esc(c)}</li>`).join('')}</ul>` : ''}</details>` : ''}</li>`; });
+  $('detail').innerHTML = h + '</ol>';
+  $('detail').querySelectorAll('[data-p]').forEach(b => b.addEventListener('click', () => select(+b.dataset.p)));
+  $('detail').scrollTop = 0;
+  draw(); netSelect(id);
+}
+
+// ---------------- network: persons placed by date, explicit links and co-naming
+const KIN = new Set(['son_of', 'daughter_of', 'grandson_of', 'brother_of', 'wife_of', 'husband_of']);
+const ETYPE = t => KIN.has(t) ? 'kin' : t === 'pupil_of' ? 'pupil' : (t === 'wrote_for' || t === 'commissioned_from') ? 'work' : t === 'under_reign_of' ? 'reign' : 'kin';
+const EDASH = { kin: [], pupil: [], work: [5, 3], reign: [1.5, 3], co: [] };
+const NE = [], seenE = new Set();
+DATA.rels.forEach(([f, t, to]) => { const ty = ETYPE(t), k = Math.min(f, to) + '-' + Math.max(f, to) + ty; if (seenE.has(k)) return; seenE.add(k); NE.push({ s: f, t: to, type: ty, raw: t }); });
+const linked = new Set(NE.map(e => Math.min(e.s, e.t) + '-' + Math.max(e.s, e.t)));
+MS.forEach(m => { const ps = [...new Set(m.persons)]; for (let i = 0; i < ps.length; i++) for (let j = i + 1; j < ps.length; j++) {
+  const k = Math.min(ps[i], ps[j]) + '-' + Math.max(ps[i], ps[j]); if (linked.has(k) || seenE.has(k + 'co')) continue; seenE.add(k + 'co'); NE.push({ s: ps[i], t: ps[j], type: 'co' }); } });
+const adj = new Map(); NE.forEach(e => { for (const [a, b] of [[e.s, e.t], [e.t, e.s]]) { if (!adj.has(a)) adj.set(a, []); adj.get(a).push({ o: b, e }); } });
+const yearOf = p => { const sp = span(p); return sp ? (sp[0] + sp[1]) / 2 : null; };
+const NN = PS.filter(p => adj.has(p.id)).map(p => ({ p, id: p.id, yr: yearOf(p), r: 2.5 + Math.sqrt(p.ms.length) * 1.4 }));
+const NB = new Map(NN.map(n => [n.id, n]));
+NE.forEach(e => { e.S = NB.get(e.s); e.T = NB.get(e.t); });
+let netReady = false, nsim = null, NT = d3.zoomIdentity, nsel = null, nhl = null, nlit = null, nhover = null, nqt = null, nraf = 0;
+const NW = 2400, NH = 1500, NPAD = 40, NUND = NW + 60;
+const canvas = $('net'), nctx = canvas.getContext('2d');
+let nxs;
+function netLayout() {
+  const ys = NN.map(n => n.yr).filter(y => y != null).sort((a, b) => a - b);
+  const d0 = Math.floor(ys[0] / 10) * 10, d1 = Math.min(1960, Math.ceil(ys[ys.length - 1] / 10) * 10), decs = d3.range(d0, d1 + 1, 10), cnt = new Map();
+  ys.forEach(y => { const d = Math.floor(y / 10) * 10; cnt.set(d, (cnt.get(d) || 0) + 1); });
+  // elastic decades: room in proportion to the square root of the persons in each, so the crowded 18th–19th centuries get space
+  const wts = decs.slice(0, -1).map(d => Math.max(1, Math.sqrt(cnt.get(d) || 0))), tot = d3.sum(wts);
+  let acc = 0; const rng = [NPAD]; wts.forEach(w => { acc += w; rng.push(NPAD + (NW - 2 * NPAD) * acc / tot); });
+  nxs = d3.scaleLinear().domain(decs).range(rng).clamp(true); nxs.d0 = d0; nxs.d1 = d1;
+  let seed = 11; const rnd = () => (seed = (seed * 16807) % 2147483647) / 2147483647;
+  NN.forEach(n => { n.tx = n.yr != null ? nxs(n.yr) : NUND; n.x = n.tx; n.y = NH / 2 + (rnd() - .5) * NH * .9; });
+  const links = NE.filter(e => e.S && e.T).map(e => ({ source: e.S, target: e.T, type: e.type }));
+  nsim = d3.forceSimulation(NN).force('x', d3.forceX(d => d.tx).strength(.9)).force('y', d3.forceY(NH / 2).strength(.01))
+    .force('link', d3.forceLink(links).distance(40).strength(l => l.type === 'co' ? .03 : l.type === 'reign' ? .04 : .3))
+    .force('charge', d3.forceManyBody().strength(-45).distanceMax(300).theta(1.1))
+    .force('collide', d3.forceCollide(d => d.r + 3).iterations(1)).stop();
+  let ticks = 0; const total = 260;
+  (function step() {
+    for (let i = 0; i < 12 && ticks < total; i++, ticks++) nsim.tick();
+    netIndex(); netDraw(ticks < total ? `arranging ${NN.length.toLocaleString()} persons… ${Math.round(100 * ticks / total)}%` : '');
+    if (ticks < total) requestAnimationFrame(step); else { netFinish(); }
+  })();
+}
+function netFinish() {
+  const und = NN.filter(n => n.yr == null).sort((a, b) => a.y - b.y);
+  und.forEach((n, i) => { n.x = NUND + (i % 4) * 22; n.y = 40 + (NH - 80) * (i + .5) / und.length; });
+  netIndex(); netFit(0);
+  $('netnote').innerHTML = `<span>${NN.length.toLocaleString()} persons with at least one link · x = date (decades widen where people are many) · hollow circle = date estimated · column at the right = undated · drag to pan, scroll to zoom</span>`;
+}
+function netIndex() { nqt = d3.quadtree().x(d => d.x).y(d => d.y).addAll(NN); }
+const nzoom = d3.zoom().scaleExtent([.15, 12]).on('zoom', ev => { NT = ev.transform; netSchedule(); });
+d3.select(canvas).call(nzoom).on('dblclick.zoom', null);
+const netSchedule = () => { if (!nraf) nraf = requestAnimationFrame(() => { nraf = 0; netDraw(); }); };
+const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
+function netFit(ms = 400) { const r = $('stage').getBoundingClientRect(), FW = NUND + 120, k = Math.min(r.width / FW, r.height / NH) * .98;
+  const t = d3.zoomIdentity.translate((r.width - FW * k) / 2, (r.height - NH * k) / 2).scale(k);
+  (reduced || !ms ? d3.select(canvas) : d3.select(canvas).transition().duration(ms)).call(nzoom.transform, t); }
+function netCentre(n) { const r = $('stage').getBoundingClientRect(), k = Math.max(NT.k, 1.4);
+  (reduced ? d3.select(canvas) : d3.select(canvas).transition().duration(450)).call(nzoom.transform, d3.zoomIdentity.translate(r.width / 2 - n.x * k, r.height / 2 - n.y * k).scale(k)); }
+$('zin').onclick = () => d3.select(canvas).transition().call(nzoom.scaleBy, 1.6);
+$('zout').onclick = () => d3.select(canvas).transition().call(nzoom.scaleBy, 1 / 1.6);
+$('zfit').onclick = () => netFit();
+const ON = () => ({ kin: $('e-kin').checked, pupil: $('e-pupil').checked, work: $('e-work').checked, reign: $('e-reign').checked, co: $('e-co').checked });
+function netPick(ev) { if (!nqt) return null; const r = canvas.getBoundingClientRect(), [x, y] = NT.invert([ev.clientX - r.left, ev.clientY - r.top]);
+  const d = nqt.find(x, y, 14 / NT.k); return d && Math.hypot(d.x - x, d.y - y) * NT.k <= d.r * Math.max(1, NT.k) + 6 ? d : null; }
+canvas.addEventListener('pointermove', ev => { const d = netPick(ev); if (d !== nhover) { nhover = d; canvas.style.cursor = d ? 'pointer' : ''; netSchedule(); }
+  if (d) { const sp = span(d.p); tip(ev, `${d.p.name} · ${ROLE[d.p.role]} · ${d.p.ms.length} MS${d.p.ms.length > 1 ? 'S' : ''}` + (sp ? ` · ${sp[2] ? 'est. ' : ''}${sp[0]}${sp[1] > sp[0] ? '–' + sp[1] : ''}` : '')); } else untip(); });
+canvas.addEventListener('pointerleave', () => { nhover = null; untip(); netSchedule(); });
+canvas.addEventListener('click', ev => { const d = netPick(ev); if (d) select(d.id); });
+['e-kin', 'e-pupil', 'e-work', 'e-reign', 'e-co'].forEach(id => $(id).addEventListener('input', () => { netSelect(nsel); }));
+function netSelect(id) {
+  nsel = id; nhl = null; nlit = null;
+  if (id != null && NB.has(id)) {
+    // the whole kin and teacher-pupil line of the selected person, plus every direct link
+    const on = ON(), ids = new Set([id]), es = new Set(), st = [id];
+    while (st.length) { const c = st.pop(); for (const { o, e } of adj.get(c) || []) if ((e.type === 'kin' || e.type === 'pupil') && on[e.type]) { es.add(e); if (!ids.has(o)) { ids.add(o); st.push(o); } } }
+    for (const { o, e } of adj.get(id)) if (on[e.type]) { es.add(e); ids.add(o); }
+    nhl = ids; nlit = es;
+    if (netReady && !$('netview').hidden) netCentre(NB.get(id));
+  }
+  netSchedule();
+}
+function css(v) { return getComputedStyle(document.documentElement).getPropertyValue(v).trim(); }
+function netDraw(msg) {
+  if (!nxs || $('netview').hidden) return;
+  const r = $('stage').getBoundingClientRect(), dpr = devicePixelRatio || 1, vw = r.width, vh = r.height;
+  if (canvas.width !== Math.round(vw * dpr) || canvas.height !== Math.round(vh * dpr)) { canvas.width = Math.round(vw * dpr); canvas.height = Math.round(vh * dpr); }
+  const c = nctx; c.setTransform(dpr, 0, 0, dpr, 0, 0); c.clearRect(0, 0, vw, vh);
+  const ink = css('--ink'), muted = css('--muted'), rule = css('--rule'), panel = css('--panel'), hot = css('--king');
+  const RC = { s: css('--scribe'), p: css('--patron'), k: css('--king'), o: css('--other'), r: css('--kin') };
+  c.font = '11px "Noto Sans", sans-serif'; c.textAlign = 'center'; c.lineWidth = 1; let lastX = -1e9;
+  for (let y = nxs.d0; y <= nxs.d1; y += 10) { const x = Math.round(NT.applyX(nxs(y))) + .5; if (x < -20 || x > vw + 20) continue;
+    const major = y % 50 === 0, lab = x - lastX >= 40 || (major && x - lastX >= 28); if (!lab && !major) continue;
+    c.strokeStyle = rule; c.globalAlpha = major ? 1 : .5; c.beginPath(); c.moveTo(x, 22); c.lineTo(x, vh); c.stroke();
+    c.globalAlpha = 1; if (lab) { c.fillStyle = muted; c.fillText(y, x, 14); lastX = x; } }
+  c.fillStyle = muted; c.font = 'italic 11px "Noto Sans", sans-serif'; c.fillText('undated', NT.applyX(NUND + 30), 14);
+  const on = ON(), onS = n => { const x = NT.applyX(n.x), y = NT.applyY(n.y); return x > -60 && x < vw + 60 && y > -40 && y < vh + 40; };
+  for (const pass of [0, 1]) for (const e of NE) {
+    if (!e.S || !e.T) continue; const lit = !!(nlit && nlit.has(e)); if (lit !== !!pass) continue;
+    if (!on[e.type] || (!onS(e.S) && !onS(e.T))) continue;
+    const dim = !!nhl && !lit; if (dim && e.type === 'co') continue;
+    const x1 = NT.applyX(e.S.x), y1 = NT.applyY(e.S.y), x2 = NT.applyX(e.T.x), y2 = NT.applyY(e.T.y), dx = x2 - x1, dy = y2 - y1;
+    c.globalAlpha = lit ? .95 : dim ? .05 : e.type === 'co' ? .1 : e.type === 'reign' ? .18 : .4;
+    c.strokeStyle = lit ? hot : ink; c.lineWidth = lit ? 1.8 : e.type === 'pupil' ? 1.6 : 1; c.setLineDash(EDASH[e.type]);
+    c.beginPath(); c.moveTo(x1, y1); c.quadraticCurveTo((x1 + x2) / 2 - dy * .12, (y1 + y2) / 2 + dx * .12, x2, y2); c.stroke();
+  }
+  c.setLineDash([]); c.globalAlpha = 1;
+  const vis = NN.filter(onS), rad = n => n.r * Math.min(Math.max(NT.k, .6), 2.2);
+  for (const n of vis) { const x = NT.applyX(n.x), y = NT.applyY(n.y), dim = nhl && !nhl.has(n.id), estd = !n.p.from;
+    c.globalAlpha = dim ? .12 : 1; c.beginPath(); c.arc(x, y, rad(n), 0, 6.2832);
+    if (estd) { c.fillStyle = panel; c.fill(); c.strokeStyle = RC[n.p.role]; c.lineWidth = 1.4; c.stroke(); }
+    else { c.fillStyle = RC[n.p.role]; c.fill(); c.strokeStyle = panel; c.lineWidth = .8; c.stroke(); }
+    if (n.id === nsel) { c.globalAlpha = 1; c.strokeStyle = ink; c.lineWidth = 2.5; c.beginPath(); c.arc(x, y, rad(n) + 3, 0, 6.2832); c.stroke(); } }
+  const cand = vis.map(n => ({ n, pr: (n === nhover ? 1e6 : 0) + (n.id === nsel ? 1e5 : 0) + (nhl && nhl.has(n.id) ? 1e3 : 0) + n.p.ms.length * 3 + (adj.get(n.id) || []).length })).sort((a, b) => b.pr - a.pr);
+  const boxes = []; let k = 0; c.globalAlpha = 1; c.textAlign = 'left'; c.lineJoin = 'round';
+  for (const { n, pr } of cand) { if (nhl && !nhl.has(n.id) && n !== nhover) continue;
+    const fs = 12, w = n.p.name.length * fs * .55 + 6, h = fs + 4, x = NT.applyX(n.x) + rad(n) + 3, y = NT.applyY(n.y) - h / 2;
+    if (pr < 1e5 && boxes.some(b => x < b.x + b.w && x + w > b.x && y < b.y + b.h && y + h > b.y)) continue;
+    boxes.push({ x, y, w, h }); c.font = `${fs}px "Gentium Book Plus", Georgia, serif`;
+    c.strokeStyle = panel; c.lineWidth = 3.5; c.strokeText(n.p.name, x, y + h - 4); c.fillStyle = ink; c.fillText(n.p.name, x, y + h - 4);
+    if (++k > 160) break; }
+  if (msg) { c.font = '13px "Noto Sans", sans-serif'; c.fillStyle = muted; c.fillText(msg, 14, vh - 12); }
+}
+function showView(v) {
+  $('tab-tl').setAttribute('aria-selected', v === 'tl'); $('tab-net').setAttribute('aria-selected', v === 'net');
+  $('tlview').hidden = v !== 'tl'; $('netview').hidden = v !== 'net';
+  try { localStorage.setItem('ngmcp-view', v); } catch (e) {}
+  if (v === 'net') { if (!netReady) { netReady = true; netLayout(); } else { netDraw(); if (nsel != null && NB.has(nsel)) netCentre(NB.get(nsel)); } }
+}
+$('tab-tl').onclick = () => showView('tl'); $('tab-net').onclick = () => showView('net');
+addEventListener('resize', netSchedule);
+matchMedia('(prefers-color-scheme: dark)').addEventListener('change', netSchedule);
+new MutationObserver(netSchedule).observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
+
+['q', 'r-s', 'r-p', 'r-k', 'r-o', 'r-r', 'min', 'place', 'sort'].forEach(id => $(id).addEventListener('input', () => { shown = 300; draw(); }));
+draw();
+const first = PS.filter(p => p.role === 's' && p.from && (REL[p.id] || []).length).sort((a, b) => b.ms.length - a.ms.length)[0] || PS[0];
+select(first.id);
+try { if (localStorage.getItem('ngmcp-view') === 'net') showView('net'); } catch (e) {}
+</script>

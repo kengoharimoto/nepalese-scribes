@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 763 āśvina śuklapañcamī anurādha (!), viskaṃbha, śkravāra",
+  "era": "NS",
+  "year": "763",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "anurādhā, viṣkambha",
+  "ce_approx": "1643"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No person is named in the colophon. The catalogue metadata gives the tithi as śukla 7, but the colophon clearly specifies śuklapañcamī (5).",
+ "_meta": {
+  "reel": "A 226/21",
+  "model": "gemini-flash-latest",
+  "secs": 2.9,
+  "in_tok": 682,
+  "out_tok": 565
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dharaṇīdharaśarmaṇā",
+   "name": "Dharaṇīdhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ pustakaṃ cedaṃ dharaṇīdharaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "kārtike śuklapakṣe tu navamyāṃ kujavāsare",
+  "era": "none",
+  "year": "",
+  "month": "kārtika",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "kujavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No year is given in the colophon verse.",
+ "_meta": {
+  "reel": "B 240/4",
+  "model": "gemini-flash-latest",
+  "secs": 2.5,
+  "in_tok": 701,
+  "out_tok": 569
+ }
+}

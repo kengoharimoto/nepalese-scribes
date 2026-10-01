@@ -1,0 +1,100 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ratnagarbhabhaṭṭācārya",
+   "name": "Ratnagarbhabhaṭṭācārya",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ratnagarbhabhaṭṭācāryaracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bahādūrasya",
+   "name": "Bahādūra",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "yuvabhūpati",
+    "prabhu",
+    "yuvarājavara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yuvabhūpater ... bahādūrasyā ʼvanidevajaḥ śivanidhir nāmājñayā prabhoḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śivanidhiḥ",
+   "name": "Śivanidhi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitavān viṣṇoḥ purāṇaṃbahādūrasyā ʼvanidevajaḥ śivanidhir nāmājñayā prabhoḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "ʼvanideva",
+   "name": "Avanīdeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ʼvanidevajaḥ śivanidhir",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "ʼvanidevajaḥ śivanidhir"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "likhitavān viṣṇoḥ purāṇaṃbahādūrasyā ʼvanidevajaḥ śivanidhir nāmājñayā prabhoḥ"
+  }
+ ],
+ "date": {
+  "as_written": "varṣe śailasaripatībharajanīkāṃtair mite tīkṣṇagau kanyārāśim upāgate ʼmaladale some vivasvattithau",
+  "era": "VS",
+  "year": "1847",
+  "month": "Āśvina",
+  "paksa": "śukla",
+  "tithi": "12",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1790"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram is śaila (7) - saritpati (4) - ibha (8) - rajanīkānta (1) = 1847 (Vikrama Samvat). The catalogue erroneously lists Avanīdeva as scribe and Śivanidhi as donor; the colophon clearly states that Śivanidhi, the son of Avanīdeva (avanidevajaḥ śivanidhiḥ), copied the manuscript by order of the Regent Bahadur Shah (yuvabhūpati bahādūra). Vivasvattithi refers to dvādaśī (12 Adityas).",
+ "_meta": {
+  "reel": "A 274/4",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 1001,
+  "out_tok": 1616
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "iti śrīsamvata 1955 sāla miti pauṣaśukla 7 roja 4",
+  "era": "VS",
+  "year": "1955",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "roja 4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1898"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon contains an earlier chronogram date ('vatsare ʼśvīndukhacandrae iṣe śukle tithau śivā', likely NS 1012 Āśvina śukla 11, referring to composition or exemplar) followed by the actual copying date: VS 1955 Pauṣa śukla 7, Wednesday. No persons are mentioned.",
+ "_meta": {
+  "reel": "B 101/13",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 741,
+  "out_tok": 1150
+ }
+}

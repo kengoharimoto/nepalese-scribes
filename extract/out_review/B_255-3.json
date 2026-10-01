@@ -1,0 +1,96 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 Viṣṇudāsa: added role 'owner' (svārthaṃ … likhitam = copied for his own use); replaced pseudo-title 'lekhaka' with 'karaṇa (kāyastha)'; affiliation kept as karaṇavaṃśa",
+   "p1 Jayanarasiṃhadeva: removed residence (the realm is the place of copying, not a residence); added epithet 'vikramanārāyaṇāvatāra' (written 'vikramanārāyaṇāvara') to titles",
+   "purpose normalised to 'svārtha (scribe's own use)'",
+   "notes expanded: chronogram vs catalogue, ambiguous 'śuke kho', historical doubt about the king"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śriśrījayanarasiṃhadeva",
+   "name": "Jayanarasiṃhadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "vikramanārāyaṇāvatāra",
+    "bhūpālacakracūḍāmaṇi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājādhirājaśrīvikramanārāyaṇāvaraśriśrījayanarasiṃhadevabhūpālacakracūḍāmaṇinā pālite lalitapaṭhṭhanamahārāṣṭre",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "viṣṇudāśena",
+   "name": "Viṣṇudāsa",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "karaṇa (kāyastha)"
+   ],
+   "affiliation": "karaṇavaṃśa",
+   "residence": "",
+   "evidence": "karaṇavaṃśodbhavena viṣṇudāśena … svārthaṃ lekhakena likhitam idaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrībhāratasiṃhātmajena",
+   "name": "Bhāratasiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhāratasiṃhātmajena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "śrībhāratasiṃhātmajena karaṇavaṃśodbhavena viṣṇudāśena"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "jayanarasiṃhadeva…pālite lalitapaṭhṭhanamahārāṣṭre … viṣṇudāśena … likhitam"
+  }
+ ],
+ "date": {
+  "as_written": "vasuradhrarase (!) yāte neplābdeṣu mādhave | śuke kho caturthyāyāṃ",
+  "era": "NS",
+  "year": "698",
+  "month": "Mādhava (Vaiśākha)",
+  "paksa": "śukla",
+  "tithi": "caturthī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1578"
+ },
+ "place": {
+  "as_written": "lalitapaṭhṭhanamahārāṣṭre",
+  "normalized": "Patan"
+ },
+ "purpose": "svārtha (scribe's own use)",
+ "notes": "Chronogram vasu (8), radhra = randhra (9), rasa (6); read right to left this gives NS 698 (≈ April/May 1578 CE). The catalogue's NS 689 looks like a digit transposition. 'śuke kho' is unclear: probably śukla(pakṣa), though it could hide śukre (Friday), so the weekday is left empty. 'vikramanārāyaṇāvara' is probably a corruption of vikramanārāyaṇāvatāra. A Jayanarasiṃhadeva ruling Patan in 1578 is not easy to fit into the standard king lists (Purandarasiṃha is usually placed there at this time), so check this against other sources. The scribe says he wrote out the whole 18-parvan Mahābhārata in his own hand ('aṣṭādaśaparvvamahābhāratasvākṣarena'). 'nuñcha (!)' stands for uñchavṛtti.",
+ "_meta": {
+  "reel": "B 255/3",
+  "model": "opus",
+  "cost_usd": 0.1682018,
+  "secs": 36.4
+ }
+}

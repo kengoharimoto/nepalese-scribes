@@ -1,0 +1,80 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Rāmacandradeva: roles changed from king+relative_only to 'other'. He is named only in the author's statement about the original work (father of the patron of the Śaradāgama), not as the reigning king of this copy. Name normalised to IAST 'Rāmacandradeva'.",
+   "Removed the relation 'Pradyotana son_of Rāmacandradeva'. Pradyotana Bhaṭṭācārya was a brahmin paṇḍita. The 'rāmacaṃdradevātmaja' compound refers to the royal patron, Vīrabhadra (as the catalogue's King field indicates), whose name has dropped out of this copy's colophon. Explained in notes.",
+   "Date: the chronogram is solved. vahni=3, dvīpa=7, surataru=5, brahma=1, read right to left = 1573. 'śateke' is taken as a corruption of 'śāke', so the era is ŚS 1573 ≈ 1651 CE. That also fits the date of the work (late 16th century). VS 1573 (1516 CE) would come before the work was written.",
+   "Tithi made explicit as pūrṇimā (rākā)."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmacaṃdradeva",
+   "name": "Rāmacandradeva",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahārājādhirāja śrīrāmacaṃdradevātmaja",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "pradyotanabhaṭṭācāryya",
+   "name": "Pradyotana",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pradyotanabhaṭṭācāryyaviracitacaṃdrālokaprakāśe",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "mathurānātho",
+   "name": "Mathurānātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "alikhan mathurānātho graṃthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vāhne dvīpa surataru brahmasamete śateke kvāpi ... vaiśākha rākāyāmḥ",
+  "era": "ŚS",
+  "year": "1573",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā (rākā)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1651"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram: vahni (3), dvīpa (7), surataru/kalpataru (5), brahma (1), read right to left = 1573. The era word 'śateke' is corrupt. It is read as 'śāke', which gives ŚS 1573 ≈ 1651 CE. VS 1573 ≈ 1516 CE would be earlier than the composition of the Śaradāgama under Vīrabhadra of Bāndhava/Rewa (late 16th century), so the era is uncertain but ŚS is preferred. 'rāmacaṃdradevātmaja' (son of Rāmacandradeva) must refer to the royal patron Vīrabhadra, whose name seems to have dropped out of this copy (the catalogue lists 'Vīrabhadra Bhūpati' as King). It does not refer to Pradyotana Bhaṭṭācārya, a brahmin who wrote the commentary. Neither Rāmacandra nor Vīrabhadra is the reigning king of this copy. The catalogue wrongly gives Pradyotana as scribe: he is the commentator, and the copyist is Mathurānātha ('alikhan mathurānātho').",
+ "_meta": {
+  "reel": "A 371/2",
+  "model": "opus",
+  "cost_usd": 0.10311400000000001,
+  "secs": 25.0
+ }
+}

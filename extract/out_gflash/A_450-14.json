@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumati jaya jitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumati jaya jitāmitramalladevasana, mahā(4)navamī puṣpabhājanādi pūjā choya vidhi dayākā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 812 kārttika śuddhi 8 thvaku(3)hnu",
+  "era": "NS",
+  "year": "812",
+  "month": "kārttika",
+  "paksa": "śuddhi",
+  "tithi": "8",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1691"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "King Jayajitāmitramalla of Bhaktapur is mentioned as the composer/creator of the text (vidhi dayākā juroṃ).",
+ "_meta": {
+  "reel": "A 450/14",
+  "model": "gemini-flash-latest",
+  "secs": 2.2,
+  "in_tok": 735,
+  "out_tok": 365
+ }
+}

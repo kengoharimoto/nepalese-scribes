@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī buddharakṣita kaviḥ",
+   "name": "Buddharakṣita",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitam idaṃ śrī buddharakṣita kaviḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 989 pauṣa va dvitṛyodsyā aṃgāravāsare",
+  "era": "NS",
+  "year": "989",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvitṛyodsyā",
+  "weekday": "aṃgāravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1869"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Catalogue suggests ŚS 989 with a question mark, but three-digit saṃvat in Newari manuscripts usually denotes Nepal Samvat (c. 1869 CE). Tithi is written corruptly as 'dvitṛyodsyā' (trayodaśī).",
+ "_meta": {
+  "reel": "A 578/10",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 734,
+  "out_tok": 956
+ }
+}

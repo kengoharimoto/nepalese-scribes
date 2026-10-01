@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī5 vāsudeva ācāryakasya",
+   "name": "Vāsudeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī5 vāsudeva ācāryakasya kaniṣṭha putra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīrāmānanda ācāryahaste",
+   "name": "Rāmānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "cainyapūragrāme aruṇataṭe",
+   "evidence": "śrīrāmānanda ācāryahaste pustakaṃ liṣitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrī5 vāsudeva ācāryakasya kaniṣṭha putra śrīrāmānanda ācārya"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1748 varṣa śrīsamvat 1883 sālamā pauṣamāse dina 16 sūktatithau pratipadā sukavāsare",
+  "era": "VS",
+  "year": "1883",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "pratipadā",
+  "weekday": "śukravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1826"
+ },
+ "place": {
+  "as_written": "cainyapūragrāme aruṇataṭe",
+  "normalized": "Chainpur"
+ },
+ "purpose": "",
+ "notes": "Double-dated in Śaka 1748 and Vikrama Saṃvat 1883. 'sūktatithau' is presumably a scribal error for śuklatithau.",
+ "_meta": {
+  "reel": "A 1071/6",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 814,
+  "out_tok": 1421
+ }
+}

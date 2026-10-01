@@ -1,0 +1,71 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 titles: 'bhaṭṭarāya' replaced by 'bhaṭṭa'. 'bhaṭṭaraya' is most likely a scribal slip for the genitive bhaṭṭasya, and Bhaṭṭarāya is not a known title.",
+   "p1 (Gaṅgādhara): affiliation Maunī kept but confidence lowered to medium. The surname comes before both names, so it is inferred for the father.",
+   "Notes expanded: Maunī upanāman, the corrupt genitive, the misspelled catalogue title, and the absence of any date, place or scribe."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaṃgādhara",
+   "name": "Gaṅgādhara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "Maunī (upanāman)",
+   "residence": "",
+   "evidence": "maunītyupanāmaka gaṃgādharātmaja",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gaṇapati bhaṭṭaraya",
+   "name": "Gaṇapati",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "Maunī (upanāman)",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ maunītyupanāmaka gaṃgādharātmaja gaṇapati bhaṭṭaraya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "gaṃgādharātmaja gaṇapati"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The book is said to belong to Gaṇapati Bhaṭṭa ('idaṃ pustakaṃ … gaṇapati bhaṭṭaraya'). That makes him the owner. Nothing in the colophon says he wrote the copy, so he is not listed as scribe. 'bhaṭṭaraya' is read as a corrupt genitive, probably for bhaṭṭasya; a reading 'Bhaṭṭarāya' cannot be ruled out. 'maunītyupanāmaka' gives the family surname (upanāman) Maunī, which points to a Maharashtrian or Deccani brahmin family. There is no date, place or scribe. 'śrīvaralakṣmyarpaṇamastu' is a dedication to the goddess and names no person. The catalogue title '*Varalakṣmīvrataathā' is a typo for °vratakathā.",
+ "_meta": {
+  "reel": "A 340/23",
+  "model": "opus",
+  "cost_usd": 0.07303,
+  "secs": 13.9
+ }
+}

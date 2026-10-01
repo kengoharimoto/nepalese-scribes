@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dvijavaraśrīdāmodareṇa",
+   "name": "Dāmodara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvijavaraśrīdāmodareṇa sampūrṇaṃ likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 837 mārgaśiramāse śuklapakṣe pūrṇṇimāyān tithau rohiṇīnakṣetre siddhiyoge ādityavāre",
+  "era": "NS",
+  "year": "837",
+  "month": "mārgaśira",
+  "paksa": "śuklapakṣa",
+  "tithi": "pūrṇimā",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "rohiṇīnakṣetre siddhiyoge",
+  "ce_approx": "1716"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 296/9",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 793,
+  "out_tok": 860
+ }
+}

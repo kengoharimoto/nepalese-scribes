@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśveśvarābhidho || yatī || tīrthānta tasya vai nāma",
+   "name": "Viśveśvaratīrtha",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "yati"
+   ],
+   "affiliation": "",
+   "residence": "śrīviśveśvarasarittīra",
+   "evidence": "tasyedaṃ pustakaṃ smṛtam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "śrīviśveśvarasarittīre",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The catalogue lists the donor as 'Viśveśvatratīrtha' (misprint for Viśveśvaratīrtha). The colophon verse states the book belongs to the yati whose name is Viśveśvara ending in tīrtha ('tīrthānta tasya vai nāma tasyedaṃ pustakaṃ smṛtam') residing in a maṭha by the river near Viśveśvara (Vārāṇasī).",
+ "_meta": {
+  "reel": "A 88/26",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 830,
+  "out_tok": 1297
+ }
+}

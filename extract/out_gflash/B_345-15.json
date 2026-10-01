@@ -1,0 +1,77 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmeśvara",
+   "name": "Rāmeśvara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "Kṣīrasāgara",
+   "residence": "",
+   "evidence": "rāmeśvaraviracitāyāṃ cūḍāmaṇy abhidhāyāṃ hillājavyākhyāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīpatibhatta",
+   "name": "Śrīpati",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "Kṣīrasāgara",
+   "residence": "",
+   "evidence": "kṣīrasāgaropanāmakaśrīpatibhattāgraja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rudradevena",
+   "name": "Rudradeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rudradevena likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "brother_of",
+   "to": "p2",
+   "evidence": "śrīpatibhattāgraja"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records Date of Copying: ŚS 1530, but no date occurs in the quoted colophon.",
+ "_meta": {
+  "reel": "B 345/15",
+  "model": "gemini-flash-latest",
+  "secs": 6.8,
+  "in_tok": 719,
+  "out_tok": 1713
+ }
+}

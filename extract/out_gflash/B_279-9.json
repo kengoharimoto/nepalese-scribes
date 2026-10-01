@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāsirāmaśarmaṇāḥ",
+   "name": "Kāśīrāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "tanahugrāma",
+   "evidence": "likhitaṃ kāsirāmaśarmaṇāḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "1664 śāke || saṃvat 1799 || vāre 2 tithau 2 nakṣatra (!) 17 māse 7",
+  "era": "ŚS",
+  "year": "1664 (ŚS) / 1799 (VS)",
+  "month": "7",
+  "paksa": "",
+  "tithi": "2",
+  "weekday": "2 (Somavāra)",
+  "nakshatra_yoga": "nakṣatra 17 (Anurādhā)",
+  "ce_approx": "1742"
+ },
+ "place": {
+  "as_written": "tulasisthāne śuklānikaṭe tanahugrāme",
+  "normalized": "Tanahun"
+ },
+ "purpose": "",
+ "notes": "The catalogue erroneously lists 'NS 1799'; the colophon provides Śāke 1664 and Saṃvat 1799, which is Vikrama Saṃvat (1664 ŚS corresponds exactly to 1799 VS / 1742 CE). Place refers to Tanahu/Tanahun, near Śuklā (likely Śuklagandaki) at Tulasi-sthāna.",
+ "_meta": {
+  "reel": "B 279/9",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 789,
+  "out_tok": 1186
+ }
+}

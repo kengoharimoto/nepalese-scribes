@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe name: reading changed from Rāmacandra to Rāmendra. 'rāmandra' is closer to Rāmendra, which only needs a dropped e-mātrā; Rāmacandra needs a missing akṣara. Both are noted, and confidence is lowered to low.",
+   "Era NS kept, but it is inferred: the colophon has only 'saṃvat', and NS is assumed from the Newari script and the year range. This is now stated in notes.",
+   "Notes: 'likhiti' is a common form in Nepalese colophons, not necessarily an error; the meaning of '100' is now noted."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmandra(!)",
+   "name": "Rāmendra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiti rāmandra(!)",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 814 || āṣāḍhasudi 3",
+  "era": "NS",
+  "year": "814",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1694"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name 'rāmandra(!)' is corrupt (the cataloguer marked it with '!'). It is probably Rāmendra, with a lost e-mātrā, or else Rāmacandra, with a missing 'ca'. 'likhiti' is a usual form in Nepalese colophons for 'written (by)'. The era is not named: the colophon has only 'saṃvat 814'. NS (= 1694 CE) is assumed from the Newari script; VS 814 or ŚS 814 would be implausibly early. The '100' after 'iti ṭīkāyāṃ' is probably a count of verses, sections or leaves, not part of the date.",
+ "_meta": {
+  "reel": "B 207/7",
+  "model": "opus",
+  "cost_usd": 0.069102,
+  "secs": 15.2
+ }
+}

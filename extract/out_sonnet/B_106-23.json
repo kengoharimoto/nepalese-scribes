@@ -1,0 +1,44 @@
+{
+ "date": {
+  "as_written": "samvat 1021 mti phārguna śukla pūrṇṇemā",
+  "era": "NS",
+  "year": "1021",
+  "month": "Phālguna",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1901"
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśvaratnaṃ",
+   "name": "Viśvaratna",
+   "roles": [
+    "scribe",
+    "donor"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Jhvābāhāra (Jhvābahāl)",
+   "residence": "Tāṃrāchitola (Tāmrāchi tola), Jhvābāhāra",
+   "evidence": "t𝘢ṃrāchitola jhvābāhārayā varjācāryya viśvaratnaṃ coyā thaota dayakā tayā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "place": {
+  "as_written": "taṃrāchitola jhvābāhāra",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "Copy made and deposited by the scribe himself (thaota dayakā tayā); the colophon warns that anyone who removes it without paying the fee (ṅeya eṃkāpisaṃ) incurs guilt (guru doha)",
+ "notes": "Only one person named. The text says the vajrācārya Viśvaratna of Tāṃrāchitola, Jhvābāhāra wrote the book and had it made for himself (thaota dayakā tayā), so he is both scribe and owner/donor. NS 1021 + 880 = 1901 CE. Place identification as Kathmandu is probable (Jhvābāhāra and Tāmrāchi tola are Kathmandu localities) but not stated. 'thaota' is read as 'for himself'. No king is named. Blessing and scribal-apology formula at the end names nobody. The evidence string is quoted with a typo in 'taṃrāchitola' and should be checked against the original.",
+ "_meta": {
+  "reel": "B 106/23",
+  "model": "sonnet",
+  "cost_usd": 0.0313412,
+  "secs": 8.1
+ }
+}

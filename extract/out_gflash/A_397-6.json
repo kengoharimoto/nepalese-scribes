@@ -1,0 +1,75 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkālidāsakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhoganaṃdo",
+   "name": "Bhogananda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "alikhad bhoganaṃdo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "kavardāraputrasya",
+   "name": "Kavardāraputra",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkavardāraputrasya prītyālikhad",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "śrīkavardāraputrasya prītyālikhad bhoganaṃdo"
+  }
+ ],
+ "date": {
+  "as_written": "khāgnijīmūtayukteśake hāyaṇe āśvine śuklapakṣe kumāre ravau",
+  "era": "ŚS",
+  "year": "1730",
+  "month": "āśvine",
+  "paksa": "śuklapakṣe",
+  "tithi": "kumāre",
+  "weekday": "ravau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1808"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for the pleasure of the son of Kavardāra",
+ "notes": "The catalogue misspells the scribe's name as 'Bhaogānanda'. 'kavardāraputrasya' could mean for the pleasure of the unnamed son of a Kapardāra/Kavardāra (an official title/court office in Nepal), or Kavardāra may be a proper name. The date chronogram gives Śaka 1730 (kha = 0, agni = 3, jīmūta = 7, yukta = 1); tithi 'kumāra' refers to ṣaṣṭhī.",
+ "_meta": {
+  "reel": "A 397/6",
+  "model": "gemini-flash-latest",
+  "secs": 20.7,
+  "in_tok": 750,
+  "out_tok": 4730
+ }
+}

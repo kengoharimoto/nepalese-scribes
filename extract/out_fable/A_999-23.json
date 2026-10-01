@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgaṃgādharaśarmmaṇā",
+   "name": "Gaṅgādhara Śarman",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgaṃgādharaśarmmaṇā viracitā gaṅgādharī ṭīkā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīdevaśaṅkaraśarmmā",
+   "name": "Devaśaṅkara Śarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman",
+    "vipra"
+   ],
+   "affiliation": "viprakula",
+   "residence": "svanimhavantāgṛha (as written; uncertain)",
+   "evidence": "śrīdevaśaṅkaraśarmmāmūṃ gaṅgādharīṭīkām alīlikhat",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīgaṇapatiśarmmaṇaḥ",
+   "name": "Gaṇapati Śarman",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "viprakula",
+   "residence": "",
+   "evidence": "śrīgaṇapatiśarmmaṇaḥ putraḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "śrīgaṇapatiśarmmaṇaḥ putraḥ śrīdevaśaṅkaraśarmmā"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 823 āśvinamāse kṛṣṇapakṣe daśamyāṃ tithāv ādityavāre",
+  "era": "NS",
+  "year": "823",
+  "month": "Āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "10 (daśamī)",
+  "weekday": "Sunday (ādityavāra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1703"
+ },
+ "place": {
+  "as_written": "svanimhavantāgṛhanivāsito",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Scribe statement in Sanskrit: Devaśaṅkara Śarman, of brahmin (vipra) family, son of Gaṇapati Śarman, wrote (alīlikhat) this Gaṅgādharī ṭīkā; matches catalogue scribe field. 'śrīdevaśaṅkaraśarmmāmūṃ' = śarmmā + imāṃ (imūṃ, error). 'svanimhavantāgṛhanivāsito' is obscure: apparently 'residing in the house/quarter of svanimhavantā', possibly a corrupt local (Newari) place or house name; left unnormalized. Year 823 taken as NS (Newari script, Nepalese context), Āśvina kṛṣṇa 10 Sunday ≈ autumn 1703 CE (or late 1702 depending on reckoning). Gaṅgādhara Śarman is the commentator, not a party to this copy.",
+ "_meta": {
+  "reel": "A 999/23",
+  "model": "fable",
+  "cost_usd": 0.15917325,
+  "secs": 40.2
+ }
+}

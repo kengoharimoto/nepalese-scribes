@@ -1,0 +1,48 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday normalized: 'roja 3' = day 3 of the week, counted from Sunday, so Tuesday (maṅgalavāra)",
+   "notes expanded: the era is just 'samvat' and VS is inferred; possible readings of the corrupt name ending are listed"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dhairyanārāyaṇavatās(!)",
+   "name": "Dhairyanārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ likhitaṃ dhairyanārāyaṇavatās(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1891 miti kārttikavadi 4 roja 3",
+  "era": "VS",
+  "year": "1891",
+  "month": "Kārttika",
+  "paksa": "kṛṣṇa (vadi)",
+  "tithi": "4",
+  "weekday": "roja 3 = Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1834"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon writes only 'samvat'. VS is inferred from the size of the year (1891) and the miti/vadi/roja formula, which belongs to Gorkha-period Nepal and North India. If the year were NS it would fall in 2771 CE, which is impossible. Kārttika vadi 4 VS 1891 falls around October/November 1834. 'roja 3' counts weekdays from Sunday, so it means Tuesday. The ending of the scribe's name, '-vatās(!)', is corrupt. It may be a garbled vernacular agent marker (e.g. something like '-vatā' or '-dvārā') or a scribal slip. The stem Dhairyanārāyaṇa is secure and matches the catalogue field. No owner, commissioner or place is named.",
+ "_meta": {
+  "reel": "A 260/5",
+  "model": "opus",
+  "cost_usd": 0.067942,
+  "secs": 14.6
+ }
+}

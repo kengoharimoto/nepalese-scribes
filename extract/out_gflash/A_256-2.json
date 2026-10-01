@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "cukuṭi pāḍunemhaṃ",
+   "name": "Kṛtīpātu",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "yāṃche ṭola",
+   "evidence": "cukuṭi pāḍunemhaṃvākāyasena ... dāna viyā juro",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīnandalāla ojhāyāke",
+   "name": "Nandalāla",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "ojhā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnandalāla ojhāyāke kāśīkhaṇḍa vyākhyānaṅeṅāv",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrībālakṛṣṇabhāju",
+   "name": "Bālakṛṣṇa",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [
+    "bhāju"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībālakṛṣṇabhāju yātā dāna viyā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "śrīnandalāla ojhāyāke kāśīkhaṇḍa vyākhyānaṅeṅāv"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 816 kārttika śudi 3 || 2 saṃvat 819 mārgāśiraśudi pañcamī ādityavāra",
+  "era": "NS",
+  "year": "816",
+  "month": "Kārttika",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1695"
+ },
+ "place": {
+  "as_written": "yāṃche ṭolayā",
+  "normalized": "Patan"
+ },
+ "purpose": "dāna for the pleasure of Śrī Rāmacandra (śrīrāmacandraprītina)",
+ "notes": "Two dates are recorded: the completion of copying in NS 816 Kārttika śukla 3, and the donation of the manuscript in NS 819 Mārgaśīrṣa śukla 5, Sunday (= 1698 CE). The donor is referred to in Newari as 'cukuṭi pāḍunemhaṃ' (taking a vow: vāk kāyasena) and in the Sanskrit verse explicitly as 'kṛtīpātu nāmā'.",
+ "_meta": {
+  "reel": "A 256/2",
+  "model": "gemini-flash-latest",
+  "secs": 21.2,
+  "in_tok": 899,
+  "out_tok": 5508
+ }
+}

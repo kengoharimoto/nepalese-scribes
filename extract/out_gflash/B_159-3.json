@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dvijakulaśreṣṭhaśrīvāmadeva-upādhyāyena",
+   "name": "Vāmadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvijakulaśreṣṭha",
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvijakulaśreṣṭhaśrīvāmadeva-upādhyāyena likhitam idaṃ pustakam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśo(!)ke 1689 saṃvat 18 cāṃdramānena mārgaśira(‥‥)vadi 6 budhavāsare",
+  "era": "ŚS",
+  "year": "1689",
+  "month": "mārgaśira",
+  "paksa": "kṛṣṇa",
+  "tithi": "6",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1767"
+ },
+ "place": {
+  "as_written": "himālayasya dakṣiṇabhāge bhairavīdevyāyā(!) nikaṭe navākoṭagrāme",
+  "normalized": "Nuwakot"
+ },
+ "purpose": "",
+ "notes": "The date gives Śaka 1689 and 'saṃvat 18...' (likely VS [18]24).",
+ "_meta": {
+  "reel": "B 159/3",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 849,
+  "out_tok": 1057
+ }
+}

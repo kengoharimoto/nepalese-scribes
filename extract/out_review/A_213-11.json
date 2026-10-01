@@ -1,0 +1,74 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Chronogram bhū(1) rāma(3) aṅka(9) indu(1), read right to left = 1931; VS 1931 → c. 1874 CE: confirmed",
+   "Weekday clarified as Tuesday (bhauma); notes expanded on the corrupt name forms and on Sukīrtidatta's uncertain role"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāśirāja",
+   "name": "Kāśirāja",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāśirājaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sukirtidattaś",
+   "name": "Sukīrtidatta",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sukirtidattaś caraṇa sadāsarvadā śubham bhūyāt",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "sukradattena",
+   "name": "Śukradatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "alikhat sukradattena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "āṣāḍhike śite pakṣe bhūrāmāṅkenduvatsare ... daśami bhaumavāsare",
+  "era": "VS",
+  "year": "1931",
+  "month": "Āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "bhaumavāsara (Tuesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1874"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is given only by the chronogram bhūrāmāṅkendu (1-3-9-1, read in reverse = 1931). No era is named. The catalogue's 'Saṃvat 1931' and the Devanagari script suggest Vikrama Saṃvat (VS), giving c. 1874 CE. The colophon gives no place. 'śite' stands for sita, the bright fortnight (śukla). The scribe's name is written 'sukradatta'; the catalogue normalises it to Śukradatta, but 'Sukradatta' cannot be ruled out. The blessing 'śrīrāma śitā(!)jikā caraṇa o sukirtidattaś caraṇa' is mixed Sanskrit and Hindi/Nepali: '(may) the feet of Śrī Rāma and Sītājī, and the feet of Sukīrtidatta (bring blessing) always'. Sukīrtidatta is therefore honoured as a human, probably the scribe's guru or father. The colophon does not state this, so his role is left as 'other'. His name 'sukirtidattaś' may be a corruption of 'sukīrtidatta-kā'.",
+ "_meta": {
+  "reel": "A 213/11",
+  "model": "opus",
+  "cost_usd": 0.079278,
+  "secs": 17.2
+ }
+}

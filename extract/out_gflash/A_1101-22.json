@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mādhavasya",
+   "name": "Mādhava",
+   "roles": [
+    "owner",
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ mādhavasyedaṃ pustakam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1862 sāla baiśākhakṛṣṇa amāvāsyāsomayuktāyāṃ",
+  "era": "VS",
+  "year": "1862",
+  "month": "baiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "amāvāsyā",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1805"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Mādhava is explicitly named as the owner (mādhavasyedaṃ pustakam), and the catalogue also identifies him as the scribe (likhitam idaṃ).",
+ "_meta": {
+  "reel": "A 1101/22",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 745,
+  "out_tok": 833
+ }
+}

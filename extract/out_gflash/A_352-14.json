@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "keśavamiśreṇa",
+   "name": "Keśava",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "nāvāpārāṃtargātaphariṃhāva",
+   "evidence": "likhitaṃ keśavamiśreṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "harisarma śuklasya",
+   "name": "Hariśarman",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "śukla"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "graṃthaharisarma śuklasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "likhitaṃ keśavamiśreṇa nāvāpārāṃtargātaphariṃhāvavṛttimālinā || || subham astu || || graṃthaharisarma śuklasya"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Catalogue lists 'Donor: Miśra Kṣemaṅkara / Hariśarmaśukla', but Miśra Kṣemaṅkara is not mentioned in the cited colophon snippet.",
+ "_meta": {
+  "reel": "A 352/14",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 728,
+  "out_tok": 1234
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p3 name normalized to 'Raṇabahādura Sena' (regnal-type name kept with dynastic Sena, as with -deva/-malla), confidence lowered to medium because the colophon never calls him king; 'king' role kept tentatively because the catalogue lists him as king and the copy was made in the Pālpā capital",
+   "p3 residence changed to 'Śrīnagara (Pālpā)', and the 'Sena dynasty' affiliation kept as an inference",
+   "p1 'Maithila' moved from affiliation to residence (Mithilā), because it states his regional origin",
+   "purpose shortened to a plain description",
+   "place normalized as Palpa (Śrīnagara = Tansen)",
+   "notes expanded: era check, adhika month, uncertainty about whether he was king"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmaithilabhānudattamiśraviracitāyāṃ",
+   "name": "Bhānudatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "Mithilā (Maithila)",
+   "evidence": "śrīmaithilabhānudattamiśraviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jagannāthajyotirvidā",
+   "name": "Jagannātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitā jagannāthajyotirvidā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīmadraṇabahāduraśyenasya (!)",
+   "name": "Raṇabahādura Sena",
+   "roles": [
+    "beneficiary",
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "Sena dynasty of Pālpā (inferred)",
+   "residence": "Śrīnagara (Pālpā)",
+   "evidence": "śrīmadraṇabahāduraśyenasya (!) pāṭhārthaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "likhitā jagannāthajyotirvidā śrīmadraṇabahāduraśyenasya (!) pāṭhārthaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1717 saṃvati (!) 1852 bhādrapadādhikaśuklatṛtīyāyāṃ somavāsare",
+  "era": "ŚS",
+  "year": "1717",
+  "month": "Bhādrapada (adhika)",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "somavāsara (Monday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1795"
+ },
+ "place": {
+  "as_written": "śrīnagarābhidhāyāṃ pālapādhiparājadhānyāṃ",
+  "normalized": "Palpa (Tansen)"
+ },
+ "purpose": "pāṭhārtham: copied for Raṇabahādura Sena to read",
+ "notes": "The two eras agree: ŚS 1717 + 78 = 1795 and VS 1852 − 57 = 1795 CE. The month is an intercalary (adhika) Bhādrapada. The weekday was not verified. 'śyenasya (!)' stands for 'senasya', the Sena house of Pālpā. The colophon only says the copy was written at 'the capital of the lord of Pālapa called Śrīnagara'. It never explicitly calls Raṇabahādura Sena king. The 'king' role comes from the catalogue field. He may have been a Sena prince rather than the ruling lord of Pālpā in 1795, so check this against Pālpā Sena king lists. 'pāṭhārtham' could also justify a 'reader' role, but only 'beneficiary' is given.",
+ "_meta": {
+  "reel": "A 372/7",
+  "model": "opus",
+  "cost_usd": 0.09691,
+  "secs": 22.9
+ }
+}

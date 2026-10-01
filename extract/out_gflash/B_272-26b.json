@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajña rāmeśvara",
+   "name": "Rāmeśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiti daivajña rāmeśvara",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 778 āṣāḍhakṛṣṇa edaśi (!)",
+  "era": "NS",
+  "year": "778",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "edaśi",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1658"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "edaśi is a scribal error for ekādaśī.",
+ "_meta": {
+  "reel": "B 272/26b",
+  "model": "gemini-flash-latest",
+  "secs": 6.8,
+  "in_tok": 709,
+  "out_tok": 656
+ }
+}

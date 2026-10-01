@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "karṇa",
+   "name": "Karṇa",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "karṇa",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 1762 āśviṇaśukla aṣṭmyāmtithai",
+  "era": "unspecified",
+  "year": "1762",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "8",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon is fragmentary. 'karṇa' is likely part of a personal name (such as the scribe or commissioner), but the surrounding text is lost. The era is written simply as 'saṃ'; the catalogue identifies it as ŚS 1762 (approx. 1840 CE), though VS 1762 (approx. 1705 CE) is also possible.",
+ "_meta": {
+  "reel": "A 1168/6",
+  "model": "gemini-flash-latest",
+  "secs": 8.6,
+  "in_tok": 654,
+  "out_tok": 1557
+ }
+}

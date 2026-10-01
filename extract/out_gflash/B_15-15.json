@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon contains only the conclusion of act 6, a benediction (śubham astu sarvajagatāṃ), and the title of the work (pravodhacahdrodayapustakam). No persons, dates, or places are mentioned.",
+ "_meta": {
+  "reel": "B 15/15",
+  "model": "gemini-flash-latest",
+  "secs": 2.4,
+  "in_tok": 662,
+  "out_tok": 404
+ }
+}

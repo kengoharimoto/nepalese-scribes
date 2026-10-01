@@ -1,0 +1,83 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭaśrīmurārer",
+   "name": "Murāri",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahākavi",
+    "bhaṭṭa"
+   ],
+   "affiliation": "maudgalyāyana",
+   "residence": "",
+   "evidence": "mahākaver maudgalyāyanasya bhaṭṭaśrīmurārer argha(!)rāghavan nāma nāṭakaṃ samāptam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "samastaprakriyāvirājamānamahārājādhirājaśrīmatpratāpanārāyaṇadeva",
+   "name": "Pratāpanārāyaṇadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "samastaprakriyāvirājamāna",
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "Mithilā",
+   "evidence": "samastaprakriyāvirājamānamahārājādhirājaśrīmatpratāpanārāyaṇadevapā〇litāyāṃ mithilāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīvāmadevaśarmmaṇā",
+   "name": "Vāmadevaśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "jajivātasaṃ",
+   "residence": "vahikagrāma",
+   "evidence": "śrīvāmadevaśarmmaṇā likhitaiṣeti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "mahārājādhirājaśrīmatpratāpanārāyaṇadevapā〇litāyāṃ mithilāyāṃ vahikagrāme jajivātasaṃ śrīvāmadevaśarmmaṇā likhitaiṣeti"
+  }
+ ],
+ "date": {
+  "as_written": "lasaṃ 492 caitraśudi 4 gurau",
+  "era": "LS",
+  "year": "492",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1611"
+ },
+ "place": {
+  "as_written": "mithilāyāṃ vahikagrāme",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "jajivātasaṃ preceding the scribe's name may refer to a Maithil Brahmin mūla or territorial lineage affiliation.",
+ "_meta": {
+  "reel": "A 19/13",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 953,
+  "out_tok": 1792
+ }
+}

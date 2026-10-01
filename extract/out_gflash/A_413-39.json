@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śāraṅgadharaḥ",
+   "name": "Śāraṅgadhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Gorkhā",
+   "evidence": "lilekha śāraṅgadharaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vainasbhūpanāmni",
+   "name": "Vainasbhūpa",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhūpa"
+   ],
+   "affiliation": "",
+   "residence": "Gorkhā",
+   "evidence": "virājite vainasbhūpanāmni",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "gorṣā nagaryāṃ kilarājadhānyaṃ virājite vainasbhūpanāmni || lilekha śāraṅgadharaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1661 māse 4 kṛṣṇapakṣe tithau 14 vāre 2",
+  "era": "ŚS",
+  "year": "1661",
+  "month": "4 (Śrāvaṇa)",
+  "paksa": "kṛṣṇa",
+  "tithi": "14",
+  "weekday": "Monday (vāre 2)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1739"
+ },
+ "place": {
+  "as_written": "gorṣā nagaryāṃ",
+  "normalized": "Gorkha"
+ },
+ "purpose": "svārthāya pāṭhāya",
+ "notes": "The colophon reads 'virājite vainasbhūpanāmni', which the cataloguer identifies as King Narabhūpāla Śāha of Gorkha (reigned 1716–1743 CE). A second date verse follows in line 7–8 ('māsi śrāvaṇe śuklapakṣe... śaṃbhutithābjavāre').",
+ "_meta": {
+  "reel": "A 413/39",
+  "model": "gemini-flash-latest",
+  "secs": 10.2,
+  "in_tok": 868,
+  "out_tok": 2556
+ }
+}

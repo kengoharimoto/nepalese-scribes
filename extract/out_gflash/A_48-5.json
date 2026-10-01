@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jinacareṇa",
+   "name": "Jinacara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhati (!) jinacareṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "gaganaśararase bde caitramāse ca kṛṣṇe śatavṛṣabrahmayoge viśvatithyāṃ budhe ʼhne",
+  "era": "unspecified",
+  "year": "650",
+  "month": "Caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "budhe",
+  "nakshatra_yoga": "śatavṛṣa, brahmayoga",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "tena puṇyena lokānāṃ sarvvasiddhi samāpnuyāt",
+ "notes": "Year 650 given in chronogram: gagana (0), śara (5), rasa (6). Era is unspecified; if NS 650, it corresponds to ca. 1530 CE.",
+ "_meta": {
+  "reel": "A 48/5",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 780,
+  "out_tok": 1441
+ }
+}

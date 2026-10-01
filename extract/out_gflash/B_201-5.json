@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "cakrarājaḥ",
+   "name": "Cakrarāja",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "dharaṇivibudha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dharaṇi,vibudhaś cakrarājaḥ sudhīraḥ śukle pakṣe vividharacanaṃ lekhayāmāsa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "kāle dyocāraṇavikalite, śuddhanepālaśāke, māghe māse śaśadharadine ... śrīpañcamyāṃ ... śukle pakṣe",
+  "era": "NS",
+  "year": "906",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "5 (śrīpañcamī)",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1786"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Cakrarāja as scribe, but the causative verb 'lekhayāmāsa' indicates he commissioned the manuscript. The epithet 'dharaṇivibudha' designates him as a Brahmin.",
+ "_meta": {
+  "reel": "B 201/5",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 743,
+  "out_tok": 1340
+ }
+}

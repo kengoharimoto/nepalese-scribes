@@ -1,0 +1,63 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī śrījayajagatprakāśamalla",
+   "name": "Jayajagatprakāśamalla",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śrījayajagatprakāśamallakṛtaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīśrī ugramallasya",
+   "name": "Ugramalla",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kaniṣṭhaputra śrīśrī ugramallasya upanayanasyārthe",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "kaniṣṭhaputra śrīśrī ugramallasya"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 790 śrāvaṇa va di 1",
+  "era": "NS",
+  "year": "790",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "1",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1670"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "kaniṣṭhaputra śrīśrī ugramallasya upanayanasyārthe",
+ "notes": "rikṣita saṃpūrṇṇa kṛta stands for likhitaṃ saṃpūrṇakṛtam.",
+ "_meta": {
+  "reel": "C 28/14",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 749,
+  "out_tok": 983
+ }
+}

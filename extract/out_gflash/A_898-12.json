@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ṛṣiśarmmaṇaṃ",
+   "name": "Ṛṣiśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "naipālā dakṣIṇebhāge vāgmatyāyāṃ nadītaṭe siṣarāpūri",
+   "evidence": "siṣarāpūri ca vāstavyāṃ ṛṣiśarmmaṇaṃ liṣet",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat śāke 1727 mārgakṛṣṇa aṣṭamyāṃ maghā ca guruvāsare",
+  "era": "ŚS",
+  "year": "1727",
+  "month": "mārga",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "maghā",
+  "ce_approx": "1805"
+ },
+ "place": {
+  "as_written": "naipālā dakṣIṇebhāge vāgmatyāyāṃ nadītaṭe siṣarāpūri",
+  "normalized": "Pharping"
+ },
+ "purpose": "",
+ "notes": "The catalogue records 'samvat 1862' alongside Śaka 1727, but the year 1862 is not present in the quoted colophon text. Siṣarāpura corresponds to Śikharāpura (Pharping).",
+ "_meta": {
+  "reel": "A 898/12",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 802,
+  "out_tok": 1272
+ }
+}

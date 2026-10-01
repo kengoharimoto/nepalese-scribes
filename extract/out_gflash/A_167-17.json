@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmanmahīdhara",
+   "name": "Mahīdhara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanmahīdharaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1760 māse vaiśākhe",
+  "era": "VS",
+  "year": "1760",
+  "month": "vaiśākhe",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1703"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The text Mantramahodadhi was composed in VS 1645 (referred to in the catalogue card's 'SAM 1645?'); the copy date is saṃvat 1760 (VS).",
+ "_meta": {
+  "reel": "A 167/17",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 701,
+  "out_tok": 1067
+ }
+}

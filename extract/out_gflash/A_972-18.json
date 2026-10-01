@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "manirāmapālikhe",
+   "name": "Manirāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "Pālikhe"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "manirāmapālikhedhaṃ vāvā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 954 śrāvanasudi 6 roja1",
+  "era": "NS",
+  "year": "954",
+  "month": "śrāvana",
+  "paksa": "sudi",
+  "tithi": "6",
+  "weekday": "roja 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1834"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Pālikhe is a Newar lineage/family name.",
+ "_meta": {
+  "reel": "A 972/18",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 696,
+  "out_tok": 718
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "harikṛṣṇadāsa",
+   "name": "Harikṛṣṇadāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "harikṛṣṇadāsa (!) likhete (!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃmata (!) u 1923 miti puṣyasudi (!) dvāṣi (!)",
+  "era": "VS",
+  "year": "1923",
+  "month": "puṣya",
+  "paksa": "śuklapakṣa",
+  "tithi": "dvāṣi",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1866"
+ },
+ "place": {
+  "as_written": "prāyāgamadhye",
+  "normalized": "Prayāga"
+ },
+ "purpose": "",
+ "notes": "Tithi dvāṣi is presumably a scribal corruption or vernacular spelling of dvādaśī (12).",
+ "_meta": {
+  "reel": "B 82/11",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 774,
+  "out_tok": 815
+ }
+}

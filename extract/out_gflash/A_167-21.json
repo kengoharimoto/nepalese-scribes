@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "(jñ)ogarasiṃhena",
+   "name": "Jñogarasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "(jñ)ogarasiṃhena likhim",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 963 vaiśākha śudi (10) 8 roja 1 tatdine (!)",
+  "era": "NS",
+  "year": "963",
+  "month": "vaiśākha",
+  "paksa": "śudi",
+  "tithi": "8",
+  "weekday": "roja 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1843"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The initial akṣara of the scribe's name is uncertain ((jñ)ogarasiṃha).",
+ "_meta": {
+  "reel": "A 167/21",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 731,
+  "out_tok": 1038
+ }
+}

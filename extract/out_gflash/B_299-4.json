@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vālmīkīye",
+   "name": "Vālmīki",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vālmīkīye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "svanihmavantāgṛhadvijaśrīdevaśaṃkareṇa",
+   "name": "Devaśaṃkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "svanihmavantāgṛha",
+   "evidence": "svanihmavantāgṛhadvijaśrīdevaśaṃkareṇa rāmāyaṇa uttarakāṇda saṃpūrṇṇana cosyaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "dvijavaraśrīyadunandanaju",
+   "name": "Yadunandana",
+   "roles": [
+    "beneficiary",
+    "owner"
+   ],
+   "titles": [
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "vaṃlā",
+   "evidence": "vaṃlā nihma dvijavaraśrīyadunandanaju yāta viyā dina juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "svanihmavantāgṛhadvijaśrīdevaśaṃkareṇa rāmāyaṇa uttarakāṇda saṃpūrṇṇana cosyaṃ, vaṃlā nihma dvijavaraśrīyadunandanaju yāta viyā dina juro"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 813 mārggaśila (!) kṛṣṇacaturddaśī somavāra",
+  "era": "NS",
+  "year": "813",
+  "month": "mārggaśila",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturddaśī",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1693"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The manuscript was copied by Devaśaṃkara and presented/given to Yadunandana ('cosyaṃ ... yāta viyā dina juro').",
+ "_meta": {
+  "reel": "B 299/4",
+  "model": "gemini-flash-latest",
+  "secs": 9.6,
+  "in_tok": 815,
+  "out_tok": 1966
+ }
+}

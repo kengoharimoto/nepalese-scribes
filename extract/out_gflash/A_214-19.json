@@ -1,0 +1,100 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "manohara",
+   "name": "Manohara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanmanohara sūnunā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gosvāmīnā harinātha",
+   "name": "Harinātha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "gosvāmin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gosvāmīnā harināthakṛtāyāṃ vaidyajīvanaṭīkāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "brāhmaṇa saṃbhūrāmeṇa",
+   "name": "Śambhurāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ brāhmaṇa saṃbhūrāmeṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "gosvāmi bālakṛṣṇajī",
+   "name": "Bālakṛṣṇa",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "gosvāmin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhāyataṃ cīraṃjī (!)gosvāmi bālakṛṣṇajī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīmanmanohara sūnunā gosvāmīnā harinātha"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "likhitaṃ brāhmaṇa saṃbhūrāmeṇa likhāyataṃ cīraṃjī (!)gosvāmi bālakṛṣṇajī"
+  }
+ ],
+ "date": {
+  "as_written": "miti bhādrapada śuklapakṣe tithau || 2 || ravivāsare || || saṃvat ||1849 || vṛṣe śākhe || || 1714 ||",
+  "era": "VS",
+  "year": "1849",
+  "month": "bhādrapada",
+  "paksa": "śuklapakṣa",
+  "tithi": "2",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1792"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon also quotes the composition chronogram of the ṭīkā (VS 1730 Jyeṣṭha kṛṣṇa 7, composed by 'Śrīnātha Gosvāmin', likely an alternate/abbreviated form for Harinātha Gosvāmin). The copy date gives both VS 1849 and ŚS 1714.",
+ "_meta": {
+  "reel": "A 214/19",
+  "model": "gemini-flash-latest",
+  "secs": 14.0,
+  "in_tok": 929,
+  "out_tok": 3758
+ }
+}

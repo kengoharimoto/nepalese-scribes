@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Added Bhavahari as scribe (low confidence), taken only from the catalogue's Scribe field; the name is not in the quoted colophon and probably appears elsewhere in the MS (e.g. a cover leaf or another colophon)",
+   "Weekday normalized: 'roja 5' = Thursday (bṛhaspativāra)",
+   "Paksa normalized to kṛṣṇa (badi)"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "Bhavahariśarmā",
+   "name": "Bhavahari",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "catalogue field 'Scribe: Bhavahariśarmā' (not in quoted colophon)",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1813 sāla miti āśvinabadi 14 roja 5",
+  "era": "ŚS",
+  "year": "1813",
+  "month": "Āśvina",
+  "paksa": "kṛṣṇa (badi)",
+  "tithi": "14",
+  "weekday": "Thursday (roja 5)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1891"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The quoted colophon names no one. The scribe Bhavahariśarmā comes only from the catalogue field, so it is probably recorded elsewhere in the manuscript; it needs checking against the reel. The date uses Śaka with 'sāla miti … roja', a Gorkhā/Rana-period Nepali formula, which fits ŚS 1813 = 1891 CE (VS 1948). Āśvina kṛṣṇa 14 (amānta) falls around 1–2 Oct 1891. A Thursday fits within a day, but I did not compute it exactly.",
+ "_meta": {
+  "reel": "A 1101/2",
+  "model": "opus",
+  "cost_usd": 0.073106,
+  "secs": 15.4
+ }
+}

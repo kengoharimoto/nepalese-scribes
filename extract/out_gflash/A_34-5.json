@@ -1,0 +1,82 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devanāthaḥ",
+   "name": "Devanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "tarkapañcānana",
+    "ṭhakkura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāyatarkkapa〇ñcānanaṭhakkuraśrīdevanāthakṛtā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "somabhaṭṭa-",
+   "name": "Somabhaṭṭa",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "somabhaṭṭopadiṣṭena pathā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "locanaḥ",
+   "name": "Locana",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lilekha locanaḥ svārtham",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "somabhaṭṭopadiṣṭena pathā"
+  }
+ ],
+ "date": {
+  "as_written": "vedabāhurasakṣmābhir lakṣite śakavasare ... mārgādime hani",
+  "era": "ŚS",
+  "year": "1624",
+  "month": "Mārgaśīrṣa",
+  "paksa": "",
+  "tithi": "1",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1702"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtham",
+ "notes": "Year chronogram: veda (4), bāhu (2), rasa (6), kṣmā (1) = Śaka 1624. 'mārgādime hani' refers to the first day of the month of Mārgaśīrṣa.",
+ "_meta": {
+  "reel": "A 34/5",
+  "model": "gemini-flash-latest",
+  "secs": 7.2,
+  "in_tok": 843,
+  "out_tok": 1949
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe confidence lowered to medium: the string 'do lālaratnākaravi dvide 'likhat is corrupt; the catalogue reads the name as Ratnākaralāla",
+   "Removed residence 'paśupeśadeśa' from the scribe: the colophon gives it only as the place of copying",
+   "Scribe roles kept as scribe only (no purpose stated)",
+   "Date: month added as Āśvina (Iṣa), reading 'raṣasya (!)' as a corruption of iṣasya, which fits the sun in Virgo; marked uncertain",
+   "Date: 'strībhe gate 'rke' moved out of nakshatra_yoga, since it gives the sun's sign (Kanyā/Virgo), not a nakṣatra",
+   "Date: as_written trimmed to the date words; tithi left empty because '†padākahā†' is corrupt",
+   "Place normalized to Kathmandu Valley (Nepal), not Kathmandu city",
+   "Notes expanded"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñanṛsiṃha",
+   "name": "Nṛsiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñanṛsiṃhasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "divākara",
+   "name": "Divākara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñanṛsiṃhasutadivākaraviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "lālaratnākaravi",
+   "name": "Lālaratnākara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lālaratnākaravi dvide 'likhat",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "daivajñanṛsiṃhasuta"
+  }
+ ],
+ "date": {
+  "as_written": "śaileṣu śailendu samāsame śake[1757] raṣasya (!) śubhrārddha†padākahā† ravau | strībhe gate rke",
+  "era": "ŚS",
+  "year": "1757",
+  "month": "Āśvina (Iṣa)? — reading 'raṣasya (!)' as iṣasya",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1835"
+ },
+ "place": {
+  "as_written": "paśupeśadeśe",
+  "normalized": "Kathmandu Valley (Nepal)"
+ },
+ "purpose": "",
+ "notes": "The chronogram śaila (7) iṣu (5) śaila (7) indu (1), read right to left, gives 1757. The era is stated as śake, so this is Śaka 1757, about 1835 CE. The catalogue's 'SAM 1757' is only a label; if it were Vikrama the date would be about 1700 CE, but the text says śake. 'raṣasya (!)' is a corrupt month name. The best guess is iṣasya (Iṣa = Āśvina), which agrees with 'strībhe gate 'rke' (the sun having entered Virgo/Kanyā); sahasya (Pauṣa) is less likely. 'śubhrārddha' = the bright half (śukla); the tithi in '†padākahā†' is corrupt (perhaps pratipadā?). ravau = Sunday. The scribe's name is corrupt in '’do lālaratnākaravi dvide ’likhat'. One possible reading is lālaratnākara-vid/vidvān; the catalogue gives Ratnākaralāla. Paśupeśadeśa = 'the land of the Lord Paśupati', i.e. Nepal (Kathmandu Valley). It is the place of copying, not explicitly the scribe's residence.",
+ "_meta": {
+  "reel": "A 419/2",
+  "model": "opus",
+  "cost_usd": 0.104006,
+  "secs": 27.5
+ }
+}

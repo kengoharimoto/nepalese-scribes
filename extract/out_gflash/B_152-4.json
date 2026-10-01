@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭarāghava",
+   "name": "Rāghava",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭarāghavaviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1753 kārttikaśuklapakṣe purṇīvā",
+  "era": "VS",
+  "year": "1753",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "purṇīvā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1696"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Rāghavabhaṭṭa is the author of the commentary Padārthādarśa on the Śāradātilaka.",
+ "_meta": {
+  "reel": "B 152/4",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 771,
+  "out_tok": 1140
+ }
+}

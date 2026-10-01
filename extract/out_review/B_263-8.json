@@ -1,0 +1,65 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2: confidence lowered to medium; the name form is corrupt (lakṣanārāṃyā, catalogue reads Lakṣyanārāyaṇa, possibly for Lakṣmīnārāyaṇa)",
+   "p2: affiliation 'vāgvatuthikṣe' removed. It is an unclear string, not a stated vihāra or guṭhi, so it now sits in residence/notes",
+   "p2: residence normalised to Sankhu (Sakva), Jalaṣu ṭol",
+   "date: month given as Āṣāḍha, with 'naṣṭa' left in as_written and discussed in notes; paksa normalised to kṛṣṇa (vadi); weekday read as Tuesday (roja 3)",
+   "purpose rendered in English",
+   "notes: added a check that the three eras agree (all 1874) and a caveat on the commissioner vs scribe role"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vaiyāsikyāṃ",
+   "name": "Vyāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "saṃhitāyāṃ vaiyāsikyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nhulakṣanārāṃyā",
+   "name": "Lakṣanārāyaṇa",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Sakodeśa (Sankhu), Jalaṣu ṭol",
+   "evidence": "likhāpaītvā (!) sakodeśe jalaṣu tola vāgvatuthikṣeyānhulakṣanārāṃyā (!)",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1796 || śrīvikramādi 1931 śrīnepālī śrayos tu samvat 994 sālam iti naṣṭa āṣāḍhavadi 8 roja 3",
+  "era": "ŚS",
+  "year": "1796",
+  "month": "Āṣāḍha",
+  "paksa": "kṛṣṇa (vadi)",
+  "tithi": "8",
+  "weekday": "Tuesday (roja 3)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1874"
+ },
+ "place": {
+  "as_written": "sakodeśe jalaṣu tola",
+  "normalized": "Sankhu"
+ },
+ "purpose": "merit: copy had made because a pious mind arose (dharmacitta utpatti juyā)",
+ "notes": "The three eras agree: ŚS 1796 + 78 = VS 1931 − 57 = NS 994 + 880 = 1874 CE. The word 'naṣṭa' before āṣāḍhavadi is unclear. It may be a scribal word, or it may mark a kṣaya/irregular month; this has not been checked. The catalogue names Lakṣyanārāyaṇa as the scribe. However, likhāpaītvā (= likhāpayitvā, 'having caused to be written') together with 'dharmacitta utpattijuyā' suggests he was the patron who had the copy made. He may also have done the writing himself, but the colophon does not say so. His name is corrupt (lakṣanārāṃyā with Newari genitive -yā; possibly Lakṣmīnārāyaṇa). The 'nhu' before it and the string 'vāgvatuthikṣe' are unclear and may be part of a locality or a corrupt word, so they are not treated as an affiliation. The closing Newari phrase 'bhvate bhāṣasaphulatokātayā jula' is obscure.",
+ "_meta": {
+  "reel": "B 263/8",
+  "model": "opus",
+  "cost_usd": 0.10370599999999999,
+  "secs": 26.6
+ }
+}

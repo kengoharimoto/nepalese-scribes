@@ -1,0 +1,70 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsiṃhadeva",
+   "name": "Siṃhadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "śrīmanmahārājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanmahārājādhirājaparameśvaraparamabhaṭṭārakaśrīsiṃhadevavijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "paramopāsakamahākāruṇikavaidyaśrīrudrākaravrmanā",
+   "name": "Rudrākaravarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paramopāsaka",
+    "mahākāruṇika",
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "śrīlalitabrumāyāṃ śrīmānījvalamadhyamaṭolke",
+   "evidence": "paramopāsakamahākāruṇikavaidyaśrīrudrākaravrmanā satvānāṃ hitahetunā | idaṃ vaidyaśāstraṃ siddhasāranighaṇṭusametaṃ likhyate",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīsiṃhadevavijayarājye || śrīlalitabrumāyāṃ śrīmānījvalamadhyamaṭolke ʼdhivāsinā paramopāsakamahākāruṇikavaidyaśrīrudrākaravrmanā"
+  }
+ ],
+ "date": {
+  "as_written": "samvat ālapka (234) aśviniśukladivānavamyāṃ | pūrvāṣāḍhanakṣatre | budhadine",
+  "era": "NS",
+  "year": "234",
+  "month": "aśvina",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "pūrvāṣāḍha",
+  "ce_approx": "1114"
+ },
+ "place": {
+  "as_written": "śrīlalitabrumāyāṃ śrīmānījvalamadhyamaṭolke",
+  "normalized": "Patan"
+ },
+ "purpose": "satvānāṃ hitahetunā",
+ "notes": "The year is expressed in letter-numerals (akṣarapallī / letter-numerals: ālapka = 234).",
+ "_meta": {
+  "reel": "A 45/4",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 878,
+  "out_tok": 1603
+ }
+}

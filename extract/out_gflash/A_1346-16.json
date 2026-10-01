@@ -1,0 +1,110 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahākavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahākavikālidāsa〈〈kṛto〉〉viracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīcaṃdrakīrttisūri",
+   "name": "Candrakīrti",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "Nāgapurīya Tapāgaccha",
+   "residence": "",
+   "evidence": "śrī(nāgapurīyatapāgachebhaºº śrīcaṃdrakīrttisūri",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīmānakīrttisūri",
+   "name": "Mānakīrti",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "Nāgapurīya Tapāgaccha",
+   "residence": "",
+   "evidence": "śrīmānakīrttisūri",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīharṣakīrttisūribhr",
+   "name": "Harṣakīrti",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "Nāgapurīya Tapāgaccha",
+   "residence": "",
+   "evidence": "śrīharṣakīrttisūribhr lekhitaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "samarasiṃha",
+   "name": "Samarasiṃha",
+   "roles": [
+    "beneficiary",
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "samarasiṃhapaṭhanārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p4",
+   "type": "other",
+   "to": "p5",
+   "evidence": "śrīharṣakīrttisūribhr lekhitaḥ (!) || samarasiṃhapaṭhanārthaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1658 bhādrapadabahula 14 dine",
+  "era": "VS",
+  "year": "1658",
+  "month": "bhādrapada",
+  "paksa": "bahula",
+  "tithi": "14",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1601"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "samarasiṃhapaṭhanārthaṃ",
+ "notes": "The catalogue lists Harṣakīrti as scribe, but the colophon uses the causative 'lekhitaḥ' indicating he commissioned or caused the manuscript to be written for Samarasiṃha's study ('samarasiṃhapaṭhanārthaṃ'). Candrakīrti, Mānakīrti, and Harṣakīrti belong to the monastic lineage of the Nāgapurīya Tapāgaccha.",
+ "_meta": {
+  "reel": "A 1346/16",
+  "model": "gemini-flash-latest",
+  "secs": 10.8,
+  "in_tok": 1078,
+  "out_tok": 2779
+ }
+}

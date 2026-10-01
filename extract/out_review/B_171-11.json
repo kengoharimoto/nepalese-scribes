@@ -1,0 +1,146 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p4: 'Sumati' is part of Jitāmitramalla's full regnal name, not a title. Name changed to Sumatijayajitāmitramalladeva and the title removed. Roles changed from king+owner to king+owner+other: he acquired the book in NS 808.",
+   "p5 Bhāgīrāma: 'paramāna yā' means 'acted as witness (pramāṇa)', not minister. Role changed to other, the 'paramāna' title removed, and confidence set to medium.",
+   "Removed p5 under_reign_of p4 and added p5 other->p4 (witness to the king's acquisition).",
+   "Added p6 Dalavāra (low confidence): the book was obtained from his son for money ('dalavārayā kayaña').",
+   "p2 Jagajjyotirmalla: commissioner confidence lowered to medium. NS 713 (1593) falls before his reign (c. NS 734-757), so the under_reign_of relation was removed. Kept wrote_for p3->p2.",
+   "p3 Jayantarājadeva confidence lowered to medium.",
+   "Notes rewritten."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayadatta",
+   "name": "Jayadatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jayadatta nāma śāḍaṃyā śāstra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jagajjyotirmmalladeva",
+   "name": "Jagajjyotirmalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "parameśvara",
+    "paramabhaṭṭāraka",
+    "rājādhirāja",
+    "prabhu",
+    "ṭhākura"
+   ],
+   "affiliation": "Malla dynasty of Bhaktapur",
+   "residence": "",
+   "evidence": "thva pustaka ... jagajjyotirmmalladeva prabhu ṭhākuras taṃ śrī jayantarājadevana coyā juro",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "jayantarājadevana",
+   "name": "Jayantarājadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī jayantarājadevana coyā juro",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "sumati jayajitāmitramalladevasana",
+   "name": "Sumatijayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "owner",
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "Malla dynasty of Bhaktapur",
+   "residence": "",
+   "evidence": "sumati jayajitāmitramalladevasana thva ustaka ... gadāṅa guli dukā syaṃta yā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "bhāgīrāma",
+   "name": "Bhāgīrāma",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgīrāma paramāna yā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p6",
+   "as_written": "dalavārayā",
+   "name": "Dalavāra",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dalavārayā kayaña",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "jagajjyotirmmalladeva prabhu ṭhākuras taṃ śrī jayantarājadevana coyā juro"
+  },
+  {
+   "from": "p5",
+   "type": "other",
+   "to": "p4",
+   "evidence": "bhāgīrāma paramāna yā"
+  },
+  {
+   "from": "p4",
+   "type": "other",
+   "to": "p6",
+   "evidence": "dalavārayā kayaña gadāṅa guli dukā syaṃta yā juro"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 713 jeṣṭha kṛṣṇa tṛtīyāyāṃ utrāṣāḍha (!) nakṣatra budhavāra",
+  "era": "NS",
+  "year": "713",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "tṛtīyā",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "uttarāṣāḍhā",
+  "ce_approx": "1593"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for King Jagajjyotirmalla",
+ "notes": "The main colophon says that in NS 713 (c. 1593 CE), Jayantarājadeva copied Jayadatta's treatise on horses (Aśvaśāstra) for the lord Jagajjyotirmalla. The reading of 'prabhu ṭhākuras taṃ' is unclear: it could mean 'for the lord' or 'by the lord himself'. Jagajjyotirmalla of Bhaktapur reigned c. NS 734-757 (1614-1637 CE), so in NS 713 he could only have been a prince. Either the regnal titles were added later or the year is miscopied (perhaps 733?).\n\nThe bracketed later note is dated NS 808 Śrāvaṇa vadi 13 (c. 1688 CE). That date fits the reign of Jitāmitramalla of Bhaktapur (c. 1673-1696). The note records that the king acquired this book from the son of Dalavāra by paying a sum of money (gadāṅa; 'dukā syaṃta'). Bhāgīrāma acted as witness (paramāna = pramāṇa). 'varasa' is unclear. The catalogue lists Bhāgīrāma as the scribe, which is wrong. Dalavāra could also be an office title rather than a personal name.",
+ "_meta": {
+  "reel": "B 171/11",
+  "model": "opus",
+  "cost_usd": 0.58175,
+  "secs": 57.4
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vīrabhadrasādhaka mumukṣuṇe(!)",
+   "name": "Vīrabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sādhaka",
+    "mumukṣu"
+   ],
+   "affiliation": "",
+   "residence": "Rāmadila(pu)ṇyāśrama, Galkoṭa",
+   "evidence": "vīrabhadrasādhaka mumukṣuṇe(!) idaṃ pustakaṃ litaṃ(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1887 || miti āśvina vadi 30 || roja 5",
+  "era": "VS",
+  "year": "1887",
+  "month": "Āśvina",
+  "paksa": "vadi (kṛṣṇa)",
+  "tithi": "30 (amāvāsyā)",
+  "weekday": "roja 5 (Thursday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1830"
+ },
+ "place": {
+  "as_written": "galkoṭadaśruśaile rāmadilamuṇyāśrame",
+  "normalized": "Galkot (Baglung district, western Nepal)"
+ },
+ "purpose": "\"copied by/for a mumukṣu (seeker of liberation); no explicit svārtha/parārtha\"",
+ "notes": "I have recorded the era as VS, not NS. The \"miti … roja\" formula and the copy being made at Galkoṭ in western Nepal point to Vikrama Saṃvat, which makes VS 1887 = c. 1830 CE. As NS, 1887 would be impossible.\n\nThe scribe's name and titles: \"vīrabhadrasādhaka\" is read as the name Vīrabhadra plus the title sādhaka. The catalogue gives the whole compound, Vīrabhadrasādhaka, as the scribe's name. \"mumukṣuṇe(!)\" is a garbled form, probably meant as an instrumental (mumukṣuṇā), so it describes the scribe. It could also be read as a dative (\"for a mumukṣu\"), which would make it the copy's intended recipient, but the scribe reading seems more likely. \"litaṃ(!)\" stands for likhitaṃ.\n\nThe place name is unclear. The colophon reads \"rāmadilamuṇyāśrame\"; the catalogue gives \"Rāmadilapuṇyāśrama\", so \"muṇya\" is probably a mistake for \"puṇya\". \"daśruśaile\" is unclear; it may be a corruption of a word for a hill or mountain near Galkoṭ.\n\nAṣṭāvakra is named as the author of the text (\"aṣṭāvakramuniviracite\"). I left him out because he is a mythical sage, not a historical person.",
+ "_meta": {
+  "reel": "B 60/7",
+  "model": "opus",
+  "cost_usd": 0.06986980000000001,
+  "secs": 15.2
+ }
+}

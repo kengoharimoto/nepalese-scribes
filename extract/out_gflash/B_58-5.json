@@ -1,0 +1,135 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "candraḥ",
+   "name": "Candra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāyaśrīcandrakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mahopādhyāyaśrīguṇaratiḥ",
+   "name": "Guṇarati",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahopādhyāyaśrīguṇaratir abhūd yasya janakaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīharikareṇa",
+   "name": "Harikara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "kahnau grāme",
+   "evidence": "śrīharikareṇa likhitam idaṃ pustakam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "mahopādhyāyaśrīratnākara",
+   "name": "Ratnākara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahopādhyāyaśrīratnākarātmajena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrīmadrājaguruhemarāja",
+   "name": "Hemarāja",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "rājaguru"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svakīyabhāratībhavanārthaṃ śrīmadrājaguruhemarājavidvadvarājñayā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "devīramaṇadvārā",
+   "name": "Devīramaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devīramaṇadvārā vilikhya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "mahopādhyāyaśrīguṇaratir abhūd yasya janakaḥ"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "mahopādhyāyaśrīratnākarātmajena"
+  },
+  {
+   "from": "p6",
+   "type": "wrote_for",
+   "to": "p5",
+   "evidence": "śrīmadrājaguruhemarājavidvadvarājñayā devīramaṇadvārā vilikhya"
+  }
+ ],
+ "date": {
+  "as_written": "vaikramābde 1985 śrāvaṇe māsi",
+  "era": "VS",
+  "year": "1985",
+  "month": "śrāvaṇa",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1928"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svakīyabhāratībhavanārthaṃ",
+ "notes": "Devīramaṇa prepared this transcript in VS 1985 for Rājaguru Hemarāja's personal collection (Bhāratībhavana), copying an older palm-leaf manuscript dated La.Saṃ. 258 copied in Kahnau-grāma by Harikara, son of Ratnākara. Candra is the text's author, son of Guṇarati.",
+ "_meta": {
+  "reel": "B 58/5",
+  "model": "gemini-flash-latest",
+  "secs": 10.9,
+  "in_tok": 1037,
+  "out_tok": 2866
+ }
+}

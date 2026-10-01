@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvaidyagadādhara",
+   "name": "Gadādhara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvaidyagadādharasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vaṃgasena",
+   "name": "Vaṅgasena",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "vaidya",
+    "viprācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvaidyagadādharasutavaidyaviprācāryaviracitāyāṃ vaṃgasenagraṃtha",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "dhairyanārāyaṇa",
+   "name": "Dhairyanārāyaṇa",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dhairyanārāyaṇavatāse",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīvaidyagadādharasuta"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1900 sāla miti pauṣa śudi 13 roja 4",
+  "era": "VS",
+  "year": "1900",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1844"
+ },
+ "place": {
+  "as_written": "bhagatpatnanagare harikṣetre",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "Bhagatpatnanagara represents Bhaktapaṭṭana (Bhaktapur). Roja 4 corresponds to Wednesday, which accurately matches VS 1900 Pauṣa śukla 13 (3 January 1844 CE). 'dhairyanārāyaṇavatāse' is likely a corruption for 'dhairyanārāyaṇāvāse' (in the residence/compound of Dhairyanārāyaṇa).",
+ "_meta": {
+  "reel": "A 1276/12",
+  "model": "gemini-flash-latest",
+  "secs": 15.5,
+  "in_tok": 798,
+  "out_tok": 3346
+ }
+}

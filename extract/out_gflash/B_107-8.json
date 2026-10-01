@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācāryyaśrīdhatnarājaṃ",
+   "name": "Dhatnarāja",
+   "roles": [
+    "scribe",
+    "commissioner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitai (!) śrī 3 āryyāvareokiteśvarasyaṃ(!) caranaśevaka(!) , vajrācāryyaśrīdhatnarājaṃ riṣāyitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 880",
+  "era": "NS",
+  "year": "880",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1760"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue identified Āryāvalokiteśvara (śrī 3 āryyāvareokiteśvara) as donor, but this is the Buddhist deity Avalokiteśvara of whom the person describes himself as a devotee (caraṇasevaka). Dhatnarāja (possibly a corruption for Ratnarāja) is associated with both 'liṣitai' and 'riṣāyitaṃ' (likhāyitam), making it ambiguous whether he copied it himself or had it copied.",
+ "_meta": {
+  "reel": "B 107/8",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 756,
+  "out_tok": 1345
+ }
+}

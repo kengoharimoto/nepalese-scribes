@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhartṛhari",
+   "name": "Bhartṛhari",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhartṛhari viracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vikama saṃvat 1954 sālamitī kārtikakṛṣṇa aṣṭami svamavāsareṇa",
+  "era": "VS",
+  "year": "1954",
+  "month": "kārtika",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭami",
+  "weekday": "svamavāsareṇa",
+  "nakshatra_yoga": "",
+  "ce_approx": "1897"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrī īśvarīsvarārpaṇam",
+ "notes": "No scribe or commissioner named (the verb is impersonal: idaṃ pustakaṃ liṣitam). 'svamavāsareṇa' is a scribal error for somavāsareṇa (Monday).",
+ "_meta": {
+  "reel": "E 1530/26",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 738,
+  "out_tok": 967
+ }
+}

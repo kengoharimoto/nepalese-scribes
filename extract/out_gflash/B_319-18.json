@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "prakāśacandra …vatiḥ",
+   "name": "Prakāśacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "alīlikhat kutūhalāt prakāśacandra …vatiḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "bhugaṅgabhogisaptibhir mite śakesite vusvanabhasyamāsimitrabhetitho vinasya sad vidhau",
+  "era": "ŚS",
+  "year": "788",
+  "month": "Nabhasya",
+  "paksa": "śukla",
+  "tithi": "vinasya",
+  "weekday": "",
+  "nakshatra_yoga": "Mitrabha",
+  "ce_approx": "866"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "kutūhalāt",
+ "notes": "The chronogram 'bhugaṅga-bhogi-saptibhir' denotes 788 Śaka era (bhujanga = 8, bhogi = 8, sapti = 7). The name of the copyist/patron is partially broken: 'prakāśacandra …vatiḥ'.",
+ "_meta": {
+  "reel": "B 319/18",
+  "model": "gemini-flash-latest",
+  "secs": 8.3,
+  "in_tok": 716,
+  "out_tok": 1625
+ }
+}

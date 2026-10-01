@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumatijayajitāmitramalladevena",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumatijayajitāmitramalladevena nāṭakaṃ siddhaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīśrībhūpātindramalladevasyana",
+   "name": "Bhūpatīndramalladeva",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrībhūpātindramalladevasyana dayakā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīśrīsumatijayajitāmitramalladevena nāṭakaṃ siddhaṃ || || śrīśrībhūpātindramalladevasyana dayakā juro"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 810 pauṣaśudi 3",
+  "era": "NS",
+  "year": "810",
+  "month": "pauṣa",
+  "paksa": "śudi",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1690"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon notes that the play began on NS 810 Pauṣa śudi 3, and additionally records bell-work (ghaṃtijyā) dates from NS 809 Caitra śudi 13 to Śrāvaṇa śudi 1.",
+ "_meta": {
+  "reel": "A 346/3",
+  "model": "gemini-flash-latest",
+  "secs": 9.4,
+  "in_tok": 813,
+  "out_tok": 2460
+ }
+}

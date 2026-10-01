@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīhemantamallana",
+   "name": "Hemantamalla",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śrīhemantamallanatha[[va]]tā nimirttina (!) dayakā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 799 māghamāsa śukla pakṣa śrīpañcamyāṃ tithau revatī nakṣetre gurudine",
+  "era": "NS",
+  "year": "799",
+  "month": "māghamāsa",
+  "paksa": "śukla",
+  "tithi": "śrīpañcamī",
+  "weekday": "gurudine",
+  "nakshatra_yoga": "revatī",
+  "ce_approx": "1679"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtha (thavatā nimittina)",
+ "notes": "The catalogue lists Hemantamalla as scribe, but the Newari phrasing 'śrī śrīhemantamallana thavatā nimirttina dayakā' ('made / caused to be made by Hemantamalla for his own sake') and the warning 'kayaṃgalana pitāṃ viya mate va' ('sons etc. must not give this outside; a very rare object') indicate he was the commissioner/owner.",
+ "_meta": {
+  "reel": "A 266/10",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 797,
+  "out_tok": 1361
+ }
+}

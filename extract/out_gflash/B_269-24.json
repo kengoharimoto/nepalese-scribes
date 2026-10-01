@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vyāśagaṃgārāmeṇa",
+   "name": "Gaṅgārāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vyāsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vyāśagaṃgārāmeṇa likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1795 varṣe sāke1660 pravarttamāne māsottamamāse mārgasiravadi 9 bhragu(!)vāsare",
+  "era": "VS",
+  "year": "1795",
+  "month": "mārgasira",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "bhṛguvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1738"
+ },
+ "place": {
+  "as_written": "nagarasirasiḍimadhye",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both VS 1795 and Śaka 1660 are mentioned in the colophon (both correspond to 1738 CE).",
+ "_meta": {
+  "reel": "B 269/24",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 867,
+  "out_tok": 948
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Weekday normalized to 'Thursday (roja 5)'.",
+   "Notes rewritten: the first reading's claim that the weekday confirms 8 July 1886 is unsupported. 8 July 1886 was a Thursday, but by the amānta reckoning that day falls in Śrāvaṇa, not Āṣāḍha; Āṣāḍha śukla 7 of 1886 falls around 8–9 June (a Tuesday). The NS attribution rests on plausibility, not on a verified weekday.",
+   "Added a note on the catalogue's ŚS 1006 and on the scribal error 'likhiti'."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śaśidharaśarmmaṇā",
+   "name": "Śaśidhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiti śaśidharaśarmmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1006 āṣāḍhaśukla 7 roja 5",
+  "era": "NS",
+  "year": "1006",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "Thursday (roja 5)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1886"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is not stated ('samvat 1006'). The catalogue gives ŚS 1006 (= 1084 CE). That is implausible for a Devanagari paper manuscript, and so is VS 1006 (949 CE), especially since the Persian weekday term 'roja' is a late usage. NS 1006 (= 1886 CE) is the most plausible reading. The weekday has not been verified: by an approximate check, Āṣāḍha śukla 7 of 1886 falls around 8–9 June 1886, a Tuesday rather than a Thursday (roja 5), so the NS attribution is likely but not confirmed. 'likhiti' is a scribal error for 'likhitam'.",
+ "_meta": {
+  "reel": "A 897/2",
+  "model": "opus",
+  "cost_usd": 0.08479800000000001,
+  "secs": 20.0
+ }
+}

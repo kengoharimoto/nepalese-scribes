@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat || 1883 ||",
+  "era": "unspecified",
+  "year": "1883",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons mentioned. The catalogue metadata mistakenly records the date '[SS] 1883' in the Place of Copying field; the era in the text is given merely as 'samvat' (likely VS 1883 / 1826 CE or ŚS 1883 / 1961 CE).",
+ "_meta": {
+  "reel": "A 410/3",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 662,
+  "out_tok": 682
+ }
+}

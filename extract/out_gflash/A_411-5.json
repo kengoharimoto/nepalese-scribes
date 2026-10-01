@@ -1,0 +1,72 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "haribhaṭta",
+   "name": "Haribhaṭṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "haribhaṭtaviracitas",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rāmadāsa",
+   "name": "Rāmadāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "lekhaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ rāmadāsa lekhaka",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "raṃganāthasya",
+   "name": "Raṅganātha",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "raṃganāthasyedaṃ putakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1667 varṣe vaiśākha māse kṛṣṇaakṣe tithi 13 budhavāsareṇa",
+  "era": "VS",
+  "year": "1667",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1610"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "kṛṣṇaakṣe is scribal error for kṛṣṇapakṣe; putakaṃ for pustakaṃ. Raṅganātha's ownership note appears at the end of the text.",
+ "_meta": {
+  "reel": "A 411/5",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 771,
+  "out_tok": 1391
+ }
+}

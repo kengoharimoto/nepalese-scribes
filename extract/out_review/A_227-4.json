@@ -1,0 +1,87 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Devaśaṃkara: confidence lowered to medium, since the catalogue gives the scribe as Bhavāniśaṃkara and the colophon form is marked (!). Residence 'sohnemhavantā' is kept only as a tentative reading; its parsing is unclear.",
+   "Added p2 Lakṣmīpati and p3 Lakṣmīśvarī from the later note dated NS 902. Both are recorded in the manuscript, possibly as owners' family, so they get role 'other' with low confidence.",
+   "Added a wife_of relation for Lakṣmīśvarī and Lakṣmīpati, inferred from the sati context (low certainty).",
+   "Notes now give the CE equivalent of the second date (NS 902 ≈ 1782)."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dvija śrīdevaśaṃkaraṇa (!)",
+   "name": "Devaśaṃkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "sohnemhavantā (?)",
+   "evidence": "dvija śrīdevaśaṃkaraṇa (!), thva ṣaḍaṃśāstra (!) coya dhunakā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīlakṣmīpati",
+   "name": "Lakṣmīpati",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "saṃºº 902 phālguṇa śukla caturthī thva kuhnu śrīlakṣmīpati ju oṃ",
+   "confidence": "low"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīlakṣṃīśvarī agnihotrī",
+   "name": "Lakṣmīśvarī",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "agnihotrī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīlakṣṃīśvarī agnihotrī sativana",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wife_of",
+   "to": "p2",
+   "evidence": "śrīlakṣmīpati ju oṃ rāyā agnihotra mākasa śrīlakṣṃīśvarī agnihotrī sativana"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 806 āṣāḍhaśukla saptamī śukravāra",
+  "era": "NS",
+  "year": "806",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "saptamī",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1686"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"Not stated. The closing 'dina joro' (perhaps 'given/offered'?) is unclear.\"",
+ "notes": "The catalogue gives the scribe as Bhavāniśaṃkara, but the colophon reads 'dvija śrīdevaśaṃkaraṇa (!)', i.e. Devaśaṃkara in the Newari agentive. The cataloguer's (!) may mean that the name is doubtful. 'sohnemhavantā' before 'dvija' is unclear. It could be a place or epithet, or a misreading. 'ṣaḍaṃśāstra (!)' is probably a corruption, perhaps of ṣaḍaṅga-śāstra or a name for the Śālihotra text. A second, later note dated NS 902 (≈ CE 1782), Phālguna śukla 4, records an event involving Lakṣmīpati, apparently his death. It also records that Lakṣmīśvarī, the agnihotrī who kept the agnihotra, became sati; 'thvana hṅāsati ... sivamadū' perhaps means 'five days after this ... died'. This note says nothing about the copying, and these persons may be later owners or their family. The NS 806 weekday has not been verified.",
+ "_meta": {
+  "reel": "A 227/4",
+  "model": "opus",
+  "cost_usd": 0.089114,
+  "secs": 21.4
+ }
+}

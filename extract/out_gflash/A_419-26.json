@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivanṛ⁅siṃ⁆///[ha ]",
+   "name": "Śivanṛsiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhati śivanṛ⁅siṃ⁆///[ha ]",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "khacaranayana⁅śai⁆[la] (!)/// divasakarakulīrasthe śucau śuklapakṣe || amṛtakiraṇatithyāṃ vāsare harppatau ca",
+  "era": "unspecified",
+  "year": "khacaranayanaśaila...",
+  "month": "śuci",
+  "paksa": "śuklapakṣa",
+  "tithi": "amṛtakiraṇatithi",
+  "weekday": "harppati (Thursday?)",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram year is broken at the end (khacaranayanaśaila...). Month is specified as śuci (Āṣāḍha) with the Sun in Cancer (divasakarakulīrasthe).",
+ "_meta": {
+  "reel": "A 419/26",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 748,
+  "out_tok": 1288
+ }
+}

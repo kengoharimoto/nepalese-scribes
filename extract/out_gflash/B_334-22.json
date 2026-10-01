@@ -1,0 +1,109 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭotpala-",
+   "name": "Bhaṭṭotpala",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭotpalaviravitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "varāhamihira-",
+   "name": "Varāhamihira",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "varāhamihirakṛtā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "karmmācāryya bhājumuni",
+   "name": "Bhājumuni",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmācārya"
+   ],
+   "affiliation": "",
+   "residence": "Vidyāpīṭha",
+   "evidence": "liṣitaṃ vidyāpīṭhayā karmmācāryya bhājumuni",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "māneśvaranāmadhaṃju",
+   "name": "Māneśvara",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "māneśvaranāmadhaṃju, asya(!) pustakaṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p5",
+   "as_written": "ādityadāsana…",
+   "name": "Ādityadāsa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ādityadāsana…",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p5",
+   "evidence": "ādityadāsana… horāṃ varāhamihiro"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "liṣitaṃ vidyāpīṭhayā karmmācāryya bhājumuni || || śubha || || samvat912 māgha śudi5 roja7 māneśvaranāmadhaṃju, asya(!) pustakaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat912 māgha śudi5 roja7",
+  "era": "NS",
+  "year": "912",
+  "month": "māgha",
+  "paksa": "śudi",
+  "tithi": "5",
+  "weekday": "roja7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1792"
+ },
+ "place": {
+  "as_written": "vidyāpīṭhayā",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "vidyāpīṭhayā indicates the scribe's locality with the Newari oblique/genitive suffix -yā. 'māneśvaranāmadhaṃju' reflects Newari phrased honorific/expression for 'one named Māneśvara'. The end contains the standard Bṛhajjātaka closing verse referring to Varāhamihira as son of Ādityadāsa (ādityadāsa[tanayaḥ]).",
+ "_meta": {
+  "reel": "B 334/22",
+  "model": "gemini-flash-latest",
+  "secs": 12.5,
+  "in_tok": 849,
+  "out_tok": 3115
+ }
+}

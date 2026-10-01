@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhāju dhana",
+   "name": "Dhana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhāju"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāju dhana vyākaraṇaṃ prayogamukhaṃ lilekhādhyayanārtham eva",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 883 jyeṣṭhaśuklayā ekāśi (!) somavāra ... guṇāhimātaṃgagate ca varṣe, jeṣṭhe śucau candradine hares tithau",
+  "era": "NS",
+  "year": "883",
+  "month": "Jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1763"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "adhyayanārtham eva",
+ "notes": "The chronogram 'guṇāhimātaṅga' corresponds to 3, 8, 8 = NS 883. Ekādaśī is designated by 'hares tithau'.",
+ "_meta": {
+  "reel": "A 557/7",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 765,
+  "out_tok": 1055
+ }
+}

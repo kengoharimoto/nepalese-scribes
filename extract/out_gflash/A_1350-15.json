@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkaviratnasya",
+   "name": "Kaviratna",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkaviratnasya pustakam idaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 779 phālgunaśuklacaturddaśyāṃ tithau",
+  "era": "NS",
+  "year": "779",
+  "month": "phālguna",
+  "paksa": "śukla",
+  "tithi": "caturddaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1659"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Kaviratna as donor, but 'śrīkaviratnasya pustakam idaṃ' explicitly indicates ownership.",
+ "_meta": {
+  "reel": "A 1350/15",
+  "model": "gemini-flash-latest",
+  "secs": 3.1,
+  "in_tok": 689,
+  "out_tok": 678
+ }
+}

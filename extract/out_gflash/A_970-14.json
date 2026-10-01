@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvimarśānaṃdanātha",
+   "name": "Vimarśānandanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvimarśānaṃdanātha(8)viracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1754 mīti (!) āsāḍhavadī dutīā (!)",
+  "era": "VS",
+  "year": "1754",
+  "month": "āsāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1697"
+ },
+ "place": {
+  "as_written": "nepālamadhye lalitapaṭane",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 970/14",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 744,
+  "out_tok": 762
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jīvanāthaśarmaṇa",
+   "name": "Jīvanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ jīvanāthaśarmaṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1777 saṃvat 1912 sāla. miti mārgavadi 10 roja 3",
+  "era": "ŚS",
+  "year": "1777",
+  "month": "mārga",
+  "paksa": "vadi",
+  "tithi": "10",
+  "weekday": "roja 3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1855"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue wrongly identifies Saṃvat 1912 as NS; Śāke 1777 corresponds directly to Vikrama Saṃvat 1912 (1855 CE).",
+ "_meta": {
+  "reel": "A 1393/23",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 719,
+  "out_tok": 1461
+ }
+}

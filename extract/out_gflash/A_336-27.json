@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhuvanā- nando",
+   "name": "Bhuvanānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vinikhati(!) jinajo bhuvanā- nando",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "rasamunimunicandrayute śāke vārddhyāṣāḍhāsiteṣṭamyāṃ",
+  "era": "ŚS",
+  "year": "1776",
+  "month": "Āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1854"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'rasa-muni-muni-candra' gives Śaka 1776. The month is specified as 'vārddhyāṣāḍha' (vṛddhy-āṣāḍha, intercalary/adhika Āṣāḍha), which indeed occurred in 1854 CE. The word 'jinajo' modifying Bhuvanānanda is ambiguous (possibly corrupt for 'dvijajo', or 'born of Jina', etc.) and has not been split into a separate person.",
+ "_meta": {
+  "reel": "A 336/27",
+  "model": "gemini-flash-latest",
+  "secs": 8.0,
+  "in_tok": 773,
+  "out_tok": 1660
+ }
+}

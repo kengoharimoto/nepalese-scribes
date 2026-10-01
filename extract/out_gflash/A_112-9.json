@@ -1,0 +1,70 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "surendravikramasāha",
+   "name": "Surendravikrama Śāha",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "girirājacacracūḍāmaṇi",
+    "naranārāyaṇa",
+    "nepāleśvara",
+    "narapati",
+    "mahārājadhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahārājadhirājaśrī3(!)surendravikramasāhasamaraja(ḍa);mahāsamaravijayī(!)vī(!)jayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vajrācāryyaśrīmaṇidattan(!)",
+   "name": "Maṇidatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "śrīmānadevasaṃskāritacakramahāvihāra",
+   "residence": "lalitāpuramahānagara",
+   "evidence": "lihitaṃ lalitāpuramahānagare śṛīmānadevasaskāritacakramahāvihārāvasthitavajrā-cāryyaśrīmaṇidattan(!) saṃpūrṇṇaṃ likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīmahārājadhirājaśrī3(!)surendravikramasāha... vī(!)jayarājye ... lihitaṃ ... vajrācāryyaśrīmaṇidattan(!) saṃpūrṇṇaṃ likhitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 972 miti māghamāse śuklapakṣe daśamyāṃ tithau ki(!)rttikāprarohinī(!)nakṣe(!)tre, śaniścaravāsare",
+  "era": "NS",
+  "year": "972",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "śaniścaravāsara",
+  "nakshatra_yoga": "kṛttikā-rohiṇī",
+  "ce_approx": "1852"
+ },
+ "place": {
+  "as_written": "lalitāpuramahānagare śṛīmānadevasaskāritacakramahāvihārāvasthita",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "A donor (dānapati) from Kāntipura (Kathmandu) is referenced ('dānapatinepāladeśe kāntipuramahānagare, …'), but the name seems to have been omitted or obscured in an untranscribed section indicated by an ellipsis.",
+ "_meta": {
+  "reel": "A 112/9",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 1184,
+  "out_tok": 1287
+ }
+}

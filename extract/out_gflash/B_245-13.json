@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīharinārāyana",
+   "name": "Harinārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ mayā || yadi suddham asuddhaṃ vā mama doṣo na dīyate || śrīharinārāyana",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribal verse at fol. 51r9 names śrīharinārāyaṇa (possibly an invocation or the scribe, as catalogued). The subsequent text passage (fol. 51r5–51v11) contains narrative text from the chronicle (Nepālarājavaṃśāvalī) recording the reigns and the death of King Śrīnivāsa Malla on NS 807 māgha śukla 11, along with mentions of Yoganarendra Malla, Pārthivendra Malla, and Ugra Malla; these are text characters/events, not the copy's colophon date or patrons.",
+ "_meta": {
+  "reel": "B 245/13",
+  "model": "gemini-flash-latest",
+  "secs": 24.3,
+  "in_tok": 847,
+  "out_tok": 5633
+ }
+}

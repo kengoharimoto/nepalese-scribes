@@ -1,0 +1,56 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrītārācaṃdra",
+   "name": "Tārācandra",
+   "roles": [
+    "author",
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrītārācaṃdraviracite śrutabodhaṭīkā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "indumaulinā",
+   "name": "Indumauli",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ indumaulinā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1666 māse śrāvaṇaharitithau",
+  "era": "ŚS",
+  "year": "1666",
+  "month": "śrāvaṇa",
+  "paksa": "",
+  "tithi": "hari (ekādaśī)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1744"
+ },
+ "place": {
+  "as_written": "gorṣāsthale (!)",
+  "normalized": "Gorkha"
+ },
+ "purpose": "",
+ "notes": "Haritithi refers to ekādaśī (11th tithi).",
+ "_meta": {
+  "reel": "A 356/10",
+  "model": "gemini-flash-latest",
+  "secs": 2.0,
+  "in_tok": 723,
+  "out_tok": 395
+ }
+}

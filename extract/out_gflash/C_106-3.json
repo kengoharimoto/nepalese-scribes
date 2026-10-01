@@ -1,0 +1,85 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "anantamalladevasya",
+   "name": "Anantamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājādhirāja śrīmat anantamalladevasya vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "pa(4)ramasevācāryasya",
+   "name": "Paramaseva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmat pa(4)ramasevācāryasya putraḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "paśupatidāsena",
+   "name": "Paśupatidāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paśupatidāseneti likhitamidaṃ pustakoyaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīmat pa(4)ramasevācāryasya putraḥ paśupatidāseneti"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "anantamalladevasya vijayarājye || śrīmat pa(4)ramasevācāryasya putraḥ paśupatidāseneti likhitam"
+  }
+ ],
+ "date": {
+  "as_written": "śrīman nepālikasamvatsara 406 (40r3) mārggaśira kṛṣṇa ekādaśyāṃtitho | śaniścaravāsare | svāti nakṣatre | śobhana yoge",
+  "era": "NS",
+  "year": "406",
+  "month": "mārggaśira",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī",
+  "weekday": "śaniścaravāsara",
+  "nakshatra_yoga": "svāti nakṣatra, śobhana yoga",
+  "ce_approx": "1286"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "C 106/3",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 932,
+  "out_tok": 1717
+ }
+}

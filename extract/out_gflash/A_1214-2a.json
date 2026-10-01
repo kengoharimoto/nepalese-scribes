@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmanarāmena",
+   "name": "Manarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanarāmena [[ṛṣitaṃ]]",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 814 śrāvaṇa śukla || 13 || aṃgālavāla",
+  "era": "NS",
+  "year": "814",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "aṃgālavāla",
+  "nakshatra_yoga": "",
+  "ce_approx": "1694"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "[[ṛṣitaṃ]] is an error or correction for likhitaṃ.",
+ "_meta": {
+  "reel": "A 1214/2a",
+  "model": "gemini-flash-latest",
+  "secs": 2.9,
+  "in_tok": 762,
+  "out_tok": 678
+ }
+}

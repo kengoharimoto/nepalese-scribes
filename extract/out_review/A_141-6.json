@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Chronogram re-read: maṇi normally = 9 (nine gems), yuga = 4, aṅka = 9; reading right to left gives NS 949 (≈1829 CE), not 941. The catalogue's 94(1) is noted as an alternative reading.",
+   "Month left as written ('abhāmāsa', corrupt); possible emendations given in notes.",
+   "Notes expanded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "saumyānandā(!)",
+   "name": "Saumyānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "saumyānandā(!) likhet khalu",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "maṇiyugāṅke siddhye, abhāmāse site dine pañcamyāṃ",
+  "era": "NS",
+  "year": "949",
+  "month": "abhāmāsa (corrupt)",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1829"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The era is not stated; NS is assumed from the Newari script and the three-digit chronogram. The chronogram maṇi-yuga-aṅka, read right to left, gives 9(aṅka)-4(yuga)-x(maṇi). Taking maṇi = 9 gives NS 949 (≈1829 CE). The catalogue's 'NS 94(1)' implies maṇi = 1, which is less usual; if that is right, the date is NS 941 (≈1821 CE). 'siddhye' may simply mean 'for success' (or be a corruption of siddhe), not part of the number; if siddhi = 8 were meant, the number would not make sense. The month 'abhāmāse' is corrupt; it might stand for bhādramāse or adhimāse, but this is uncertain. 'site dine' = śukla pakṣa. The name ending saumyānandā(!) is marked by the cataloguer; the stem is Saumyānanda. The ye dharmā stanza follows the end of the text.",
+ "_meta": {
+  "reel": "A 141/6",
+  "model": "opus",
+  "cost_usd": 0.076598,
+  "secs": 16.9
+ }
+}

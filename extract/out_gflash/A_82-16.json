@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmahopādhyāyaśrīviśvanāthasi(12)ddhāṃtapaṃcānanabhaṭṭācārya",
+   "name": "Viśvanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahopādhyāya",
+    "siddhāntapañcānana",
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahopādhyāyaśrīviśvanāthasi(12)ddhāṃtapaṃcānanabhaṭṭācāryaviracitaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1784 jyeṣṭa(!) sudi pratipad(!)atithau saumyavāsare",
+  "era": "VS",
+  "year": "1784",
+  "month": "jyeṣṭha",
+  "paksa": "śuklapakṣa",
+  "tithi": "pratipadā",
+  "weekday": "saumyavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1727"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Kṛṣṇabhaṭṭa as donor, but this name does not appear in the quoted colophon fragment.",
+ "_meta": {
+  "reel": "A 82/16",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 750,
+  "out_tok": 972
+ }
+}

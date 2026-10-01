@@ -1,0 +1,89 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmahāsāmantaraphasadīva",
+   "name": "Raphasadīva",
+   "roles": [
+    "governor"
+   ],
+   "titles": [
+    "pannugaviṣayādhipati",
+    "mahāsāmanta"
+   ],
+   "affiliation": "",
+   "residence": "pannugaviṣaya",
+   "evidence": "śṛīpannugaviṣayādhipatiśrīmahāsāmantaraphasadīvavijayarājeḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīkulaputra〈〈sya〉〉phulananāyakasya",
+   "name": "Phulananāyaka",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "kulaputra"
+   ],
+   "affiliation": "",
+   "residence": "yupaṭola",
+   "evidence": "yupaṭolakādhivāsino | śrīkulaputra〈〈sya〉〉phulananāyakasya pustaka ddarmārthena li[khi]taḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "naiṣṭikatejādīta",
+   "name": "Tejādīta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "naiṣṭika"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "naiṣṭikatejādītalikhita",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "phulananāyakasya pustaka ddarmārthena li[khi]taḥ naiṣṭikatejādītalikhita"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śṛīpannugaviṣayādhipatiśrīmahāsāmantaraphasadīvavijayarājeḥ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat ā 7 śrāvanakṛṣṇadasaṃmyāṃ sukradine",
+  "era": "NS",
+  "year": "207",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "śukradina",
+  "nakshatra_yoga": "",
+  "ce_approx": "1087"
+ },
+ "place": {
+  "as_written": "yupaṭola | pannugaviṣaya",
+  "normalized": "Panauti"
+ },
+ "purpose": "ddarmārthena",
+ "notes": "The year is expressed with letter-numerals 'ā 7' designating NS 207. Pannugaviṣaya refers to the Panauti region; Yupaṭola is a locality within it.",
+ "_meta": {
+  "reel": "A 40/12",
+  "model": "gemini-flash-latest",
+  "secs": 6.7,
+  "in_tok": 915,
+  "out_tok": 1791
+ }
+}

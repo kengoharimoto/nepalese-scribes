@@ -1,0 +1,73 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: 'sumati' is not a title but part of the regnal name (Sumatijaya- prefix of the Bhaktapur kings); name normalized to the standard Jitāmitramalla, titles emptied; roles commissioner + king kept (dayakā = caused to be made; not 'donor' as in the catalogue)",
+   "p2: Bhāgirāma's role changed from 'other' to 'minister'; title 'paramāna' given as pramāṇa (chief minister); 'yāvelasa' = 'at the time when (he was pramāṇa)'. He is not the scribe (catalogue's guess)",
+   "relation p2→p1 changed from under_reign_of to servant_of (minister of the king)",
+   "date: ce_approx corrected to 1689 (Kārttika śukla of NS 810 falls in Oct/Nov 1689); paksa normalized to śukla"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumatijayajitāmitramallasana",
+   "name": "Jitāmitramalla",
+   "roles": [
+    "commissioner",
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Bhaktapur",
+   "evidence": "śrīśrīsumatijayajitāmitramallasana thva pustaka dayakā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhāgirāma",
+   "name": "Bhāgirāma",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "pramāṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgirāma paramāna yāvelasa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "servant_of",
+   "to": "p1",
+   "evidence": "bhāgirāma paramāna yāvelasa"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 810 kārttikaśudi 9 śubha",
+  "era": "NS",
+  "year": "810",
+  "month": "Kārttika",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1689"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "commissioned by King Jitāmitra Malla",
+ "notes": "Newari colophon: 'Sumatijayajitāmitramalla had this book made, at the time when Bhāgirāma was pramāṇa (paramāna = chief minister)'. 'Sumati-jaya-' is the regnal prefix of Jitāmitra Malla of Bhaktapur (r. c. NS 793–816), so it is treated as part of the name and not as a title. The colophon names no scribe; the catalogue's 'Scribe: Bhāgirāma ?' is a misreading, and its 'Donor' field should read commissioner. Bhaktapur as residence comes from the known identity of the king and is not stated in the colophon. NS 810 Kārttika śukla 9 ≈ October/November 1689 CE.",
+ "_meta": {
+  "reel": "A 1060/3",
+  "model": "opus",
+  "cost_usd": 0.08607000000000001,
+  "secs": 18.7
+ }
+}

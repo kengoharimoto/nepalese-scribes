@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "haṣamāyāta",
+   "name": "Haṣamā",
+   "roles": [
+    "beneficiary",
+    "pupil"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Kothusā",
+   "evidence": "haṣamāyāta seneyāta coviyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhīdyāyā",
+   "name": "Bhīdyā",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mānadhala"
+   ],
+   "affiliation": "",
+   "residence": "Kothusā",
+   "evidence": "kothusāyā mānadhala bhīdyāyā kāya",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "bhīdyāyā kāya haṣamāyāta"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvata 971miti bhāva māse (kīnapakṣayā 6 nu",
+  "era": "NS",
+  "year": "971",
+  "month": "bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "6",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1851"
+ },
+ "place": {
+  "as_written": "ṅājila",
+  "normalized": ""
+ },
+ "purpose": "seneyāta (for instruction / study of Haṣamā)",
+ "notes": "bhāva māse is an error for bhādra māse; kīnapakṣayā is for kṛṣṇapakṣayā. 'mānadhala' corresponds to the Newar caste Mānandhara (Sāyami). ṅājila may refer to a locality/tole (e.g. Ṅājilā in Bhaktapur), and Kothusā to another tole or place.",
+ "_meta": {
+  "reel": "A 132/6",
+  "model": "gemini-flash-latest",
+  "secs": 12.8,
+  "in_tok": 732,
+  "out_tok": 2732
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "āvaṃtikācāryavarāhamihira",
+   "name": "Varāhamihira",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "Avanti",
+   "evidence": "āvaṃtikācāryavarāhamihirakṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vaikuṃṭhaśarmmaṇāḥ",
+   "name": "Vaikuṇṭhaśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "jiunpurgrāma",
+   "evidence": "likhitasya(!) vaikuṃṭhaśarmmaṇāḥ(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1693 māse śrāvana(!) somavārasaṃyutāyāṃ caturthi(!)tithau",
+  "era": "ŚS",
+  "year": "1693",
+  "month": "śrāvaṇa",
+  "paksa": "",
+  "tithi": "caturthī",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1771"
+ },
+ "place": {
+  "as_written": "nepāladeśe triśulagaṃgāpūrvabhāge jiunpurgrāme",
+  "normalized": "Jīvanapura"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 334/26",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 822,
+  "out_tok": 1165
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmahipādhyāyamiśraśrīkṛṣṇa",
+   "name": "Kṛṣṇamiśra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahipādhyāyamiśraśrīkṛṣṇaviracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 677",
+  "era": "NS",
+  "year": "677",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1557"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "mahipādhyāya is an error/variant for mahopādhyāya. The phrase 'śrīśutra' is unclear (possibly a scribal error for śrutaṃ or a corrupted date/formula) and does not clearly identify a person.",
+ "_meta": {
+  "reel": "B 15/10",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 692,
+  "out_tok": 1163
+ }
+}

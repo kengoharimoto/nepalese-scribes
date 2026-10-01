@@ -1,0 +1,41 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgopālavilāsīviracitāyāṃ",
+   "name": "Gopālavilāsī",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "iti śrīgopālavilāsīviracitāyāṃ buddhiprasādinī mahālakṣmīrānīyoga samvāde",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "svasti śrīsamvat 1935 sāla miti mārga vadi 10 roja 4 mā likhitam saṃpūrṇa",
+  "era": "VS",
+  "year": "1935",
+  "month": "mārga (Mārgaśīrṣa)",
+  "paksa": "vadi (kṛṣṇa)",
+  "tithi": "10",
+  "weekday": "roja 4 (Wednesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1878"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Gopālavilāsī is the author of the text (Buddhiprasādinī appears to be the title of the work or its commentary), not a participant in copying; listed only for filtering. No scribe, commissioner or ruler named. Year 1935 with Nepali 'sāla', 'miti', 'roja' is Vikrama Saṃvat (= CE 1878, Mārga kṛṣṇa, Nov/Dec), consistent with the catalogue's 'SAM 1935'. The Nepali verse after the date (ntāgari || manalāi || ṣaicera || rāṣadā ...) is partly corrupt and contains no personal names.",
+ "_meta": {
+  "reel": "A 1029/32",
+  "model": "fable",
+  "cost_usd": 0.149847,
+  "secs": 46.8
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date: era changed from 'unspecified' to NS (inferred). VS 1011 (954 CE) and ŚS 1011 (1089 CE) are implausible for a late Devanagari paper copy of the Kalkipurāṇa dated with 'miti … roja'. NS 1011 gives c. 1891 CE, so ce_approx is set to 1891.",
+   "Date: weekday normalized from 'roja 3' to Tuesday (Maṅgalavāra); paksa normalized to 'śukla'; month capitalized to 'Caitra'.",
+   "Notes expanded to explain the era inference and the illegible father's name."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī-aśvinīkumāravipreṇa",
+   "name": "Aśvinīkumāra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī-aśvinīkumāravipreṇa liṣi(!)taṃ pustakam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīha(‥‥māra)dvija",
+   "name": "Ha…māra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīha(‥‥māra)dvijātmaja",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīha(‥‥māra)dvijātmajaśrī-aśvinīkumāravipreṇa"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1011 miti caitraśudī(!) 9 roja 3",
+  "era": "NS",
+  "year": "1011",
+  "month": "Caitra",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "Tuesday (roja 3)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1891"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is only given as 'samvat'. NS is inferred because VS 1011 (954 CE) and ŚS 1011 (1089 CE) do not fit a Devanagari copy of the late Kalkipurāṇa written with the 'miti … roja' formula. NS 1011 corresponds to c. 1891 CE (Caitra śukla 9 = Rāmanavamī). The father's name is partly illegible ('ha(‥‥māra)'). It could be something like Harikumāra or Hemakumāra, but this is unverified, so the name is kept as Ha…māra with low confidence. In 'liṣi(!)taṃ', ṣ stands for kh (= likhitaṃ).",
+ "_meta": {
+  "reel": "B 201/3",
+  "model": "opus",
+  "cost_usd": 0.080462,
+  "secs": 16.4
+ }
+}

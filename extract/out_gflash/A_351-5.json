@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmasya",
+   "name": "Rāma",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmasyedaṃ pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Rucipati as scribe and Bhairavasiṃha as king; however, Rucipati is the author/commentator of the Anargharāghava/Murāri commentary composed under the Oinwāra king Bhairavasiṃha. Neither appears in the quoted colophon, which only names the owner Rāma (rāmasyedaṃ pustakaṃ).",
+ "_meta": {
+  "reel": "A 351/5",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 685,
+  "out_tok": 878
+ }
+}

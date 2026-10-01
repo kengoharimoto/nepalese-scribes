@@ -1,0 +1,102 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viudyāraṇyamuni",
+   "name": "Vidyāraṇya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "muni"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīviudyāraṇyamunikṛtāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrībhāratītīrthavidyāraṇyamunivarya",
+   "name": "Bhāratītīrtha",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "paramahaṃsa",
+    "parivrājakācārya",
+    "munivarya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhāratītīrthavidyāraṇyamunivaryaśiṣyeṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīrāmakṛṣṇākhya",
+   "name": "Rāmakṛṣṇa",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "vidvas"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmakṛṣṇākhya viduṣā viracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śivaśarmaṇā",
+   "name": "Śivaśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Kāśī",
+   "evidence": "lekhī ... śrīkāśyāṃ śivaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "śrībhāratītīrthavidyāraṇyamunivaryaśiṣyeṇa"
+  },
+  {
+   "from": "p3",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śrībhāratītīrthavidyāraṇyamunivaryaśiṣyeṇa"
+  }
+ ],
+ "date": {
+  "as_written": "aṅkenduddakadairmite śaka itepatyaudyutīnāṃdhane lakṣmījānidine dale tu dhavale lekhīrajevāsare",
+  "era": "ŚS",
+  "year": "aṅkenduddakadairmite",
+  "month": "",
+  "paksa": "śukla",
+  "tithi": "lakṣmījānidina",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "śrīkāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The chronogram for the Śaka year contains corrupt readings ('aṅkenduddakadairmite'). The weekday appears to be raveḥ vāsare ('rajevāsare').",
+ "_meta": {
+  "reel": "B 69/7",
+  "model": "gemini-flash-latest",
+  "secs": 9.5,
+  "in_tok": 881,
+  "out_tok": 2416
+ }
+}

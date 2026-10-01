@@ -1,0 +1,54 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 roles changed from commissioner+owner to scribe+owner. 'alīlikhat' is formally a causative aorist, but Nepalese scribes routinely use it for their own copying. 'nijadarśanārtham' with himself as subject and the catalogue's 'Scribe' field both point to self-copying. Confidence lowered to medium.",
+   "date.nakshatra_yoga filled: 'bhage' = Bhaga-nakṣatra (Pūrvaphalgunī); 'dvandvabhage' = sun in Mithuna (Gemini).",
+   "date.month normalised to Śuci (= Āṣāḍha); era kept as ŚS but flagged as uncertain; chronogram discussed in notes; ce_approx left empty.",
+   "date.as_written extended to include the nakṣatra phrase.",
+   "notes rewritten."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "chrīdvijalālaśarmmā",
+   "name": "Dvijalāla",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nijadarśanārtha〈〈ṃ〉〉m alīlikhac chrīdvijalālaśarmmā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vītyāśugābdābdaśake śucer dale ʼṣṭamyāṃ bhṛgau dvandvabhage bhage",
+  "era": "ŚS",
+  "year": "vītyāśugābdābda (chronogram, unresolved)",
+  "month": "Śuci (Āṣāḍha)",
+  "paksa": "",
+  "tithi": "8 (aṣṭamī)",
+  "weekday": "Friday (bhṛgu)",
+  "nakshatra_yoga": "Pūrvaphalgunī (bhaga); sun in Mithuna (dvandvabha)",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "nepāladeśe",
+  "normalized": "Nepal"
+ },
+ "purpose": "nijadarśanārtham (for his own perusal)",
+ "notes": "Role: 'alīlikhat' is strictly the causative aorist of likh ('caused to be written'), so Dvijalāla might have commissioned the copy rather than written it. Nepalese colophons, however, often use alīlikhat simply for 'wrote'. Together with nijadarśanārtham and the catalogue's Scribe field, this makes scribe + owner the more likely reading. Commissioner remains possible.\n\nChronogram: 'vīty-āśuga-abda-abda-śake' is unresolved. vīti (horse) = 7 and āśuga (arrow) = 5, but 'abda' (cloud? or simply 'year') has no secure numerical value. If the second 'abda' just means 'year', only three digit-words remain, which is too few for a Śaka year. The era is taken as ŚS from 'śake', but 'śaka' can also mean 'era' in general. If the year were ŚS 1757 the date would be about CE 1835, but this is speculative, so ce_approx is left empty.\n\nPakṣa: 'dale' does not name the pakṣa. Śukla is inferred from the astronomy: Āṣāḍha aṣṭamī with the sun in Mithuna and the moon in Pūrvaphalgunī fits the bright fortnight. 'Śuci' may also denote Jyeṣṭha in some usage.\n\nThe 〈〈ṃ〉〉 in nijadarśanārtha〈〈ṃ〉〉m is the cataloguer's mark of a redundant anusvāra.",
+ "_meta": {
+  "reel": "A 346/14",
+  "model": "opus",
+  "cost_usd": 0.106394,
+  "secs": 32.4
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jaya raṇajitmalla",
+   "name": "Jayaraṇajitmalla",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "narendra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jaya raṇajitmalla na( 260v4 )rendra viracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 845 vaiśāṣa vaddi 6 śukravāra",
+  "era": "NS",
+  "year": "845",
+  "month": "vaiśāṣa",
+  "paksa": "vaddi",
+  "tithi": "6",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1725"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Two dates are given: samvat 845 phārguṇa vaddi 1 and saṃvat 845 vaiśāṣa vaddi 6 śukravāra, the latter recording the completion of the play (śrīrāmāyaṇa pyākhana dhunakā juro).",
+ "_meta": {
+  "reel": "A 1350/18",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 771,
+  "out_tok": 1369
+ }
+}

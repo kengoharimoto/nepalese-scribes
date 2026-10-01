@@ -1,0 +1,70 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Jagajjyotirmalladeva: removed role 'king'. He is named only as author of the Nītisaṃgraha ('-viracito'), and the colophon has no reign formula for this copy. NS 750 does fall within his Bhaktapur reign (c. NS 734–757), which is now recorded in notes.",
+   "p2: name changed from 'Dhanarājadeva' to 'Dhanarāja'. 'devaṇa' looks like deva + Newari agentive -ṇa, and the verse gives only 'vipraśrīdhanarājena'. The -deva form is kept as a possible variant in notes. Confidence lowered to medium for the name form; roles scribe + owner unchanged (svapāṭhārtham).",
+   "Date: ce_approx changed from 1630 to 1629. Kārttika śukla 5 falls at the very start of NS 750, about Oct/Nov 1629 CE.",
+   "Date: nakshatra written as mūla in standard form.",
+   "Notes rewritten: the chronogram 'vyomakhādahayāmite' as transmitted gives 0-0-7, read right to left = 700, which matches neither 750 nor the catalogue's 760. The prose figure 750 is preferred."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahārājādhirāja śrīśrījagajjyotirmmalladeva",
+   "name": "Jagajjyotirmalladeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājādhirāja śrīśrījagajjyotirmmalladevaviracito nītisaṃgrahaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dvija śrīdhanarāja devaṇa / vipraśrīdhanarājena",
+   "name": "Dhanarāja",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "dvija",
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvija śrīdhanarāja devaṇa, likhitam ... idaṃ pustakaṃ svapāṭhārthaṃ likhitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 750 kārttikaśukla paṃcamyāṃ tithau, muraṇakṣatra (!) śubhajoga, āditya vārasa ... nepālavatsare jāte vyomakhādahayāmite kārtikasya site pakṣe paṃcamyām ca tithau dine mūle vā śubhamyoje ca ravivāreṇa saṃyute",
+  "era": "NS",
+  "year": "750",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "ādityavāra (ravivāra)",
+  "nakshatra_yoga": "mūla (written 'muraṇakṣatra'); yoga śubha",
+  "ce_approx": "1629"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svapāṭhārtham (scribe's own study)",
+ "notes": "The prose date is NS 750 Kārttika śukla 5, a Sunday, with nakṣatra mūla. That corresponds to about Oct/Nov 1629 CE, because Kārttika śukla opens the NS year.\n\nThe verse chronogram 'vyomakhādahayāmite' seems corrupt. Reading vyoma = 0, kha = 0, haya = 7 from right to left gives 700, and '-āda-' has no clear numerical value. So it matches neither 750 nor the catalogue's '760'. The catalogue's '750 pauṣaśukla 15' also does not appear in the quoted colophon and may come from another part of the manuscript or be an error.\n\nThe scribe's name is 'dhanarāja devaṇa' in the prose and 'dhanarājena' in the verse. 'deva' may be part of the name (the catalogue gives Dhanarājadeva) or an honorific, followed by the Newari agentive -ṇa.\n\nJagajjyotirmalla of Bhaktapur, the author, ruled in about NS 734–757, so this copy was probably made during his reign. However, the colophon does not name him as the reigning king.",
+ "_meta": {
+  "reel": "B 281/31",
+  "model": "opus",
+  "cost_usd": 0.10211,
+  "secs": 26.3
+ }
+}

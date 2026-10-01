@@ -1,0 +1,55 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "amarasiṃha",
+   "name": "Amarasiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "amarasiṃhakṛau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bālakṛṣṇadena(!)",
+   "name": "Bālakṛṣṇadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bālakṛṣṇadena(!) likhitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1818 śrāvaṇaśuºº ekāśyāṃ (!) tithau taddine",
+  "era": "VS",
+  "year": "1818",
+  "month": "śrāvaṇa",
+  "paksa": "śuklapakṣa",
+  "tithi": "11",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1761"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name is written as bālakṛṣṇadena(!), likely a scribal error for bālakṛṣṇadevena or bālakṛṣṇena. 'ekāśyāṃ' is an error for ekādaśyām.",
+ "_meta": {
+  "reel": "B 268/11b",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 748,
+  "out_tok": 1364
+ }
+}

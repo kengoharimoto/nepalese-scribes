@@ -1,0 +1,54 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe confidence lowered to medium: the name 'tilocanda(!)' is flagged by the cataloguer (possibly Tilocana/Trilocana), and 'śarmaṇe' is grammatically dative ('for'), not instrumental ('by'). It is read as a slip for śarmaṇā, so the role stays scribe, but this is uncertain.",
+   "Weekday normalized: 'roja 6' = Friday.",
+   "Date year field set to the Śāka year 1752 (the VS 1887 is recorded in notes). Both eras give 1830 CE, so they agree.",
+   "Place normalization expanded to Rangeli near Bakraha, Vijayapur, Morang district (eastern Nepal Tarai).",
+   "Notes expanded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "tilocanda(!) upādhyā(!)armaṇe(!)",
+   "name": "Tilocanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pustakaṃ likhitaṃ tilocanda(!) upādhyā(!)armaṇe(!)",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1752 || 1887 sāla bhādravadi 2 roja 6",
+  "era": "ŚS",
+  "year": "1752",
+  "month": "Bhādrapada",
+  "paksa": "kṛṣṇa (vadi)",
+  "tithi": "2",
+  "weekday": "Friday (roja 6)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1830"
+ },
+ "place": {
+  "as_written": "vijaipura jille moraṃgadeśe śrīvakrāhānikaṭe raṃgelīkacaharigrāme",
+  "normalized": "Rangeli, Morang district (Vijayapur), Nepal"
+ },
+ "purpose": "",
+ "notes": "The colophon gives two dates that agree: Śāka 1752 (+78 = 1830) and '1887 sāla', which is Vikrama Saṃvat (−57 = 1830). This places the copy in about August–September 1830 CE. The scribe's name 'tilocanda' is flagged (!) by the cataloguer. It could be a corrupt form of Tilocana/Trilocana, or a vernacular name such as Tilokcand. 'upādhyā(!)armaṇe(!)' stands for upādhyāya-śarmaṇe. The dative ending would strictly mean 'written for him'. It is taken here, as by the cataloguer, as a slip for the instrumental (written by him), so he is recorded as scribe. The place was a kacaharī (revenue office) village at Rangeli near the Bakraha (Vakrāhā) river, in Vijayapur, Morang.",
+ "_meta": {
+  "reel": "A 1103/24",
+  "model": "opus",
+  "cost_usd": 0.07855000000000001,
+  "secs": 16.7
+ }
+}

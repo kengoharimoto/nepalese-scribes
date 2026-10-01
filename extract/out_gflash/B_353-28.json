@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaurikāntaśarmaṇaḥ",
+   "name": "Gaurīkānta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pūstakaṃ (!) gaurikāntaśarmaṇaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsāke 1774 śrīsamvat 1909 sāla mitī (!) phālguna vadi 14 roja 3",
+  "era": "ŚS",
+  "year": "1774 (ŚS) / 1909 (VS)",
+  "month": "phālguna",
+  "paksa": "vadi",
+  "tithi": "14",
+  "weekday": "roja 3 (Tuesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1853"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue misread the date as ŚS 1747; the text clearly reads śrīsāke 1774 and śrīsamvat 1909.",
+ "_meta": {
+  "reel": "B 353/28",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 776,
+  "out_tok": 1199
+ }
+}

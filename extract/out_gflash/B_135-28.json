@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kaṃsārimiśrātmaja",
+   "name": "Kaṃsāri",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kaṃsārimiśrātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "miśrayaśōdhara",
+   "name": "Yaśodhara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "miśrayaśōdharaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "mādhave naiva",
+   "name": "Mādhava",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitā mādhave naiva",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "kaṃsārimiśrātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "śāle vikramabhūpasya vasviṣu ṣaṭśaśiśu ca",
+  "era": "VS",
+  "year": "1658",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1601"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives the date as ŚS 1658, but the verse clearly specifies 'śāle vikramabhūpasya' (Vikrama era 1658, chronogram: vasu [8], iṣu [5], ṣaṭ [6], śaśin [1] read right to left = 1658).",
+ "_meta": {
+  "reel": "B 135/28",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 779,
+  "out_tok": 1273
+ }
+}

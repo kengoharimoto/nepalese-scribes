@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "Uddaiyāvākasya",
+   "name": "Uddaiyāvāka",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "śrīnīlīśālā",
+   "evidence": "śrīnīlī〇śālāyāṃ nivāsinaḥ Uddaiyāvākasya yad atra puṇyaṃ ... anena likitapuṇyena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 69 aśvinikṛṣṇadivātrayodaśyām",
+  "era": "NS",
+  "year": "69",
+  "month": "aśvini",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī (13)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "949"
+ },
+ "place": {
+  "as_written": "śrīnīlī〇śālāyāṃ",
+  "normalized": "Nīlīśālā"
+ },
+ "purpose": "yad atra puṇyaṃ tad bhavatu mātāpitṛpūrvaṃgamena ṣaḍgatisaṃsāragatānāṃ sarvvasattvānāṃ sarvaduḥkhopaśāntaye",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1161/6",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 876,
+  "out_tok": 1217
+ }
+}

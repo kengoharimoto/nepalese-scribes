@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kulamānasiṃna",
+   "name": "Kulamānasiṃha",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "rājabhaṇḍela"
+   ],
+   "affiliation": "",
+   "residence": "Nagha",
+   "evidence": "naghayā rājabhaṇḍela kulamānasiṃna ṅānā kayā jula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 685 caitripūrṇimā śukravāsāre",
+  "era": "NS",
+  "year": "685",
+  "month": "Caitra",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "śukravāsāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1565"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "A later note dated NS 987 (ca. 1867 CE), Śrāvaṇa kṛṣṇa, records that this book (thva saphu) was purchased (ṅānā kayā jula) by Kulamānasiṃha, a Rājabhaṇḍārī (rājabhaṇḍela) of Nagha.",
+ "_meta": {
+  "reel": "A 13/1",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 805,
+  "out_tok": 1280
+ }
+}

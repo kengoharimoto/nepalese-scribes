@@ -1,0 +1,101 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "goviṃdakavīśvareṇa",
+   "name": "Govinda",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavīśvara",
+    "kavīśa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "goviṃdakavīśvareṇa nirṇīte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kāhnava(!)vīśvara",
+   "name": "Kāhna",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "kavīśvara",
+    "kavi",
+    "kavīśāgraṇī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāhnava(!)vīśvaranaṃdana-",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīkarmadevī",
+   "name": "Karmadevī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkarmadevī ca yam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "bhūdevair",
+   "name": "Bhūdeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "pāṃcaliṃga",
+   "evidence": "pāṃcaliṃganivāsibhiḥ || saṃvitprakāśakāvyaṃ vai bhūdevair alikhann idam",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "kāhnava(!)vīśvaranaṃdana-"
+  },
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "śrīkarmadevī ca yam"
+  }
+ ],
+ "date": {
+  "as_written": "bhūbhṛddināgabhūśāke",
+  "era": "ŚS",
+  "year": "1827",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1905"
+ },
+ "place": {
+  "as_written": "pāṃcaliṃganivāsibhiḥ",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "Chronogram bhūbhṛt (7) + dināga (likely for dvi-nāga: 2, 8) + bhū (1) = Śāke 1827. Scribe's name bhūdeva could also be understood as a generic term (brāhmaṇa).",
+ "_meta": {
+  "reel": "A 433/17",
+  "model": "gemini-flash-latest",
+  "secs": 9.4,
+  "in_tok": 875,
+  "out_tok": 2254
+ }
+}

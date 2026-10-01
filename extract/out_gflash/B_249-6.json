@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "narāpapādasa",
+   "name": "Narāpapādasa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhārgava",
+    "brāhmaṇa"
+   ],
+   "affiliation": "bhārgava",
+   "residence": "sāḍhoṃre vāre",
+   "evidence": "lekhaka narāpapādasa bhārgava vrāhmaṇa sāḍhoṃre (!) vāre kasavāranodamadhye liṣitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1688 saṃvat 1823 durmukhanāma samvatsare māsottame māse śrāvaṇamāse kṛṣṇapakṣe 2 vudhavāratādina",
+  "era": "VS",
+  "year": "1823",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "2",
+  "weekday": "vudhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1766"
+ },
+ "place": {
+  "as_written": "kasavāranodamadhye",
+  "normalized": "Ranod"
+ },
+ "purpose": "",
+ "notes": "Copied in Kasbā Ranod (Madhya Pradesh). The scribe is identified as 'sāḍhoṃre vāre' (resident of Sadhora/Shadhora, MP). The scribe's name narāpapādasa may be corrupt for Narapatidāsa or Narāpadāsa.",
+ "_meta": {
+  "reel": "B 249/6",
+  "model": "gemini-flash-latest",
+  "secs": 12.1,
+  "in_tok": 810,
+  "out_tok": 2583
+ }
+}

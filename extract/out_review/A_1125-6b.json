@@ -1,0 +1,37 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "No persons: confirmed, the colophon names no scribe, patron, owner or king.",
+   "Date: the first reading gave era NS with year '966?' and CE 1842, which do not agree (NS 966 + 880 = 1845/46). Changed the main era to VS 1898, the only date written fully in figures that agrees with Kali 4942; CE about 1842.",
+   "Chronogram: ritu (6), rasa (6), nava (9), read right to left, gives NS 966. Recorded this in the notes as a conflict, not treated as a corruption of 962.",
+   "Śaka 1796 does not match the other eras (VS 1898 implies Śaka 1763); noted as a scribal error.",
+   "Weekday: both dates give Tuesday (maṃgalavāra; aṃgavāra for aṅgāravāra)."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śrī nepālasamvata ritu rasā nava varṣa saṃjña māghase ca śucīpache pañcamyā ca titho pauṣṇe ca nāma nakṣutre śubhe ca yoga maṃgalavārasano ... śrīkalījuge bhoga 4942 śrīśakrarājasya śakakāla 1796 śrīsamvata 1898 sāla miti māghaśukrayā paṃñcami reotinakṣetra śūbhayoge aṃgavārasare ca",
+  "era": "VS",
+  "year": "1898 (also: NS ritu-rasa-nava = 966; Kali 4942; Śaka 1796 [!])",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "5 (Śrīpañcamī)",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "Revatī (pauṣṇa) nakṣatra, moon in Mīna; śubha yoga",
+  "ce_approx": "1842"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names no people. It gives two date statements for the same day, Māgha śukla 5, Revatī nakṣatra, śubha yoga, Tuesday. (1) In the first, the NS chronogram ritu (6), rasa (6), nava (9), read right to left, gives NS 966, which is about 1845/46 CE. (2) In the second, Kali 4942 and VS 1898 both point to early 1842 CE. Śaka 1796 (= 1874 CE) contradicts both and is probably a scribal error for 1763. So the NS and the VS/Kali figures conflict by about 4 years. The NS chronogram may be corrupt, e.g. for 962, or the two statements may refer to different events (exemplar and copy). The VS figure is taken as the main date. The text title in the colophon is garbled ('cau(3)sathi lijñeśvara', 'cauṣaṣṭilīgāsvara' = Catuḥṣaṣṭiliṅgeśvara).",
+ "_meta": {
+  "reel": "A 1125/6b",
+  "model": "opus",
+  "cost_usd": 0.089666,
+  "secs": 21.0
+ }
+}

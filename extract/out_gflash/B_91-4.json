@@ -1,0 +1,88 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvīravāhādura śākevaṃśa",
+   "name": "Vīrabāhādura",
+   "roles": [
+    "scribe",
+    "donor"
+   ],
+   "titles": [
+    "śākevaṃśa"
+   ],
+   "affiliation": "Akavāhāra",
+   "residence": "Yela",
+   "evidence": "līkhitaṃ nepāla yela akavāhālayā śrīvīravāhādura śākevaṃśa kuti nāma desasa conā vale dharmmacitta utapati juyā va ... coyā sidhayakā viyā jula",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "(++++++++++)narasiṃha",
+   "name": "Narasiṃha",
+   "roles": [
+    "beneficiary",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "Kvavāhāla",
+   "residence": "Yela desa kvavāhāla cāla dhālāsika",
+   "evidence": "yela desa kvavāhāla cāla dhālāsika sa conahma (++++++++++)narasiṃha va kṛṣṇalālaśreṣṭhayāta thva śrīaṣṭasāhaśrikāprajñāpāramitāyā purāna poṣṭaka nepālabhṣānaṃ coyā sidhayakā viyā jula",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "kṛṣṇalālaśreṣṭhayāta",
+   "name": "Kṛṣṇalāla",
+   "roles": [
+    "beneficiary",
+    "owner"
+   ],
+   "titles": [
+    "śreṣṭha"
+   ],
+   "affiliation": "Kvavāhāla",
+   "residence": "Yela desa kvavāhāla cāla dhālāsika",
+   "evidence": "kṛṣṇalālaśreṣṭhayāta thva śrīaṣṭasāhaśrikāprajñāpāramitāyā purāna poṣṭaka nepālabhṣānaṃ coyā sidhayakā viyā jula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "coyā sidhayakā viyā jula"
+  },
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "coyā sidhayakā viyā jula"
+  }
+ ],
+ "date": {
+  "as_written": "vikramasaṃvat 1973 subhasamvat 1037 sāla miti phālguṇakṛṣṇa ṣaṣṭhami(!) visāṣāḍhā nakṣatra harṣana(!) yoga galakarṇa (!) vṛścikrāsi buddhavāra",
+  "era": "VS",
+  "year": "1973",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "ṣaṣṭhamī",
+  "weekday": "buddhavāra",
+  "nakshatra_yoga": "visāṣāḍhā nakṣatra harṣana yoga",
+  "ce_approx": "1917"
+ },
+ "place": {
+  "as_written": "kuti nāma desasa",
+  "normalized": "Kuti"
+ },
+ "purpose": "dharmmacitta utapati juyā va ... thugu dharmmadānapati sahita jagatasaṃsāra uddhāra juyamāla jula",
+ "notes": "The scribe Vīrabāhādura Śākya of Hakhabāhāl (Patan) completed the manuscript while residing in Kuti (Tibet) and gifted it to [lacuna]narasiṃha and Kṛṣṇalāla Śreṣṭha of Kvavāhāl (Patan). Both VS 1973 and NS 1037 are recorded.",
+ "_meta": {
+  "reel": "B 91/4",
+  "model": "gemini-flash-latest",
+  "secs": 17.3,
+  "in_tok": 907,
+  "out_tok": 4240
+ }
+}

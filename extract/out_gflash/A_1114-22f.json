@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdaṇḍapāṇi",
+   "name": "Daṇḍapāṇi",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdaṇḍapāṇiviracitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 956 jeṣṭhavadi 4 roja 7",
+  "era": "NS",
+  "year": "956",
+  "month": "jeṣṭha",
+  "paksa": "vadi",
+  "tithi": "4",
+  "weekday": "roja 7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1836"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribe is explicitly named, though a standard scribal apology verse addressing Avimukta (Śiva) is present.",
+ "_meta": {
+  "reel": "A 1114/22f",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 738,
+  "out_tok": 884
+ }
+}

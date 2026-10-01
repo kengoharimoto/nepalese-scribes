@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name normalized to 'Gaṇapati' (śarman kept only in titles, per stem-form rule)",
+   "Notes rewritten: 'lekhakānāṃ trayāṇāṃ ...' is part of a formulaic benediction, not a statement that three scribes copied the manuscript; no scribe is named",
+   "Weekday normalized: 'śukavāra' read as śukravāra (Friday)",
+   "Notes now mention that the colophon belongs to a Vāgvatīstotra, while the catalogue title is Skandapurāṇa",
+   "Era NS kept: the reading is inferred from the bare 'saṃvat' and the Newari script; ce_approx 1673 checked (793+880; Māgha falls in early 1673)"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgaṇapatiśarmmaṇā",
+   "name": "Gaṇapati",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgaṇapatiśarmmaṇā viracitaṃ vāgvatīstotraṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 793 māghakṛṣṇadvitīyā śukavārakunhudhunakā dinajuro",
+  "era": "NS",
+  "year": "793",
+  "month": "Māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvitīyā",
+  "weekday": "śukravāra (Friday; written śukavāra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1673"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives the era only as 'saṃvat'. Nepal Saṃvat is inferred from the Newari script and the Newari phrase 'kunhu dhunakā dina juro' ('on that day it was finished'), so NS 793 is about 1673 CE (Māgha kṛṣṇa 2, around January–February 1673). The weekday has not been checked. The colophon names no scribe, commissioner or owner. 'lekhakānāṃ trayāṇāṃ ... devānāṃ' sits inside a damaged stock benediction ('śubham astu sarvajagatāṃ ...'); it should not be read as naming three scribes. Gaṇapatiśarman is the author of the stotra, not a person involved in this copy. The colophon closes a Vāgvatīstotra (fol. 98v), while the catalogue title is Skandapurāṇa. The stotra may be an added text or a related Vāgvatī-māhātmya piece, so the date may apply only to this part of the codex.",
+ "_meta": {
+  "reel": "B 233/17",
+  "model": "opus",
+  "cost_usd": 0.07627400000000001,
+  "secs": 16.7
+ }
+}

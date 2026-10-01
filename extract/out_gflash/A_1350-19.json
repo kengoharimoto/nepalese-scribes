@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "miśraśrīvaṭeśvara",
+   "name": "Vaṭeśvara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "miśraśrīvaṭeśvaraviracita",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmahāmahopādhyāyaśrīgaurīśvara",
+   "name": "Gaurīśvara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahāmahopādhyāyaśrīgaurīśvarātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "gaurīśvarātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 841 mārgaśuklapakṣe purṇamāsyāyāṃ śaravāśare",
+  "era": "NS",
+  "year": "841",
+  "month": "Mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "purṇamāsī",
+  "weekday": "śaravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1720"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Vaṭeśvara is the commentator of the Mudrārākṣasaprakāśa. The weekday 'śaravāśare' is likely corrupt for śanivāsare or śukravāsare.",
+ "_meta": {
+  "reel": "A 1350/19",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 767,
+  "out_tok": 1284
+ }
+}

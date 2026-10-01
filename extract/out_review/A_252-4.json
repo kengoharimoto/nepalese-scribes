@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Lowered p1 confidence to low: the name and role sit in a [[ ]] passage, which may be a later addition, and the role word 'cocaka' is uncertain",
+   "Added notes: the Newari phrase is translated, 'cocaka' could be read as coyā (scribe) or coyakā (commissioner), and the ce_approx is checked",
+   "Kept the date fields; NS 786 + 880 = 1666 is correct"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīharivaṃśanāthavatacocaka",
+   "name": "Harivaṃśanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīharivaṃśanāthavatacocaka",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 786 caitrakṛ trayodaśī pra caturdaśyān tithau revatī pra aśvinī nakṣatra ādityavāra",
+  "era": "NS",
+  "year": "786",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī pra caturdaśī",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "revatī pra aśvinī",
+  "ce_approx": "1666"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The Newari '(tho kuhnū dhunakājuro)' means 'finished on this day' (tho kunhu dhunakā juro), so the date is the completion date. The name and role are inside the cataloguer's [[ ]] brackets: '[[śrīharivaṃśanāthavatacocaka || ]]'. This passage may be in a later hand or a doubtful reading, so it is uncertain whether it belongs to the original colophon. The segmentation of the name is unclear. 'vata' might be a corrupt case ending or particle (Newari ergative -na/-naṃ?), or it might be part of the name. 'cocaka' is probably a corrupt Newari verb from coy- ('to write'). If it stands for coyā ('wrote'), Harivaṃśanātha is the scribe. If it stands for coyakā ('had written'), he is the commissioner. The scribe role is tentative. Date: no era is given, but 'samvat 786' in Newari script is taken as NS, so 786 + 880 gives about 1666 CE (Caitra kṛṣṇa, around March/April 1666). The weekday and nakṣatra have not been checked against an ephemeris.",
+ "_meta": {
+  "reel": "A 252/4",
+  "model": "opus",
+  "cost_usd": 0.07799,
+  "secs": 17.6
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmaśaṃkaraśarmakaḥ",
+   "name": "Rāmaśaṃkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "eṣīkaparvavyalikhadrāmaśaṃkaraśarmakaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śaśisāgarakāṃkeʼsminmārge kṛṣṇe tithau hareḥ ... samvat 939 vaiśāṣa vadi 5",
+  "era": "NS",
+  "year": "939",
+  "month": "vaiśāṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1819"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records 'VS 923', but the colophon text explicitly provides 'samvat 939 vaiśāṣa vadi 5' in Newari, which is Nepāla Saṃvat 939 (ca. 1819 CE). The verse also records an earlier completion or writing date on Mārgaśīrṣa kṛṣṇa 11 (hareḥ tithau).",
+ "_meta": {
+  "reel": "A 1071/11",
+  "model": "gemini-flash-latest",
+  "secs": 9.3,
+  "in_tok": 800,
+  "out_tok": 2479
+ }
+}

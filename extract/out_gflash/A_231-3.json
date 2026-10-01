@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "premanidhiśarma",
+   "name": "Premanidhi",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "Bhāradvājakula, Pantha",
+   "residence": "Kūrmācala",
+   "evidence": "premanidhiśarmanirmitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1817",
+  "era": "VS",
+  "year": "1817",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1760"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Premanidhi Śarman (Pantha) of Kūrmācala is the author of the text. No copyist is mentioned; the catalogue record misplaces the date 'SAM 1817' in the scribe field.",
+ "_meta": {
+  "reel": "A 231/3",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 709,
+  "out_tok": 1069
+ }
+}

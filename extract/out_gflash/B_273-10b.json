@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jītarāmāsau",
+   "name": "Jītarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jītarāmāsau likhitaṃ ten atatkathāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīrāghavatanūjasya",
+   "name": "Rāghava",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāghavatanūjasya madhyamasyānujātmajaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "grandson_of",
+   "to": "p2",
+   "evidence": "śrīrāghavatanūjasya madhyamasyānujātmajaḥ | nāmāsau jītarāmāsau"
+  }
+ ],
+ "date": {
+  "as_written": "vaiśvānarābdi śikhare gate nepāla hāya | phālguṇasya site pakṣe daśamyām ādrayā (!) saha || saubhāgye suraje vāre",
+  "era": "NS",
+  "year": "743",
+  "month": "Phālguṇa",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "suraje vāre",
+  "nakshatra_yoga": "ārdrā, saubhāgya",
+  "ce_approx": "1623"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīsadāśiva prīṇātu",
+ "notes": "Chronogram: vaiśvānara (3), abdhi (4), śikhara (7) = NS 743. Scribe Jītarāma identifies himself as the son of the younger brother of the middle son of Rāghava (śrīrāghavatanūjasya madhyamasyānujātmajaḥ).",
+ "_meta": {
+  "reel": "B 273/10b",
+  "model": "gemini-flash-latest",
+  "secs": 11.5,
+  "in_tok": 774,
+  "out_tok": 2052
+ }
+}

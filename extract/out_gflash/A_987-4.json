@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "tārānidhiupādhyā arjyāla śarmaṇaḥ",
+   "name": "Tārānidhi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya",
+    "śarman"
+   ],
+   "affiliation": "Arjyāla",
+   "residence": "",
+   "evidence": "likhitam idaṃ tārānidhiupādhyā arjyāla śarmaṇaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī samvat 1952 sāla āṣāḍa vadi daśamyāṃ vudhavāsare",
+  "era": "VS",
+  "year": "1952",
+  "month": "āṣāḍa",
+  "paksa": "vadi",
+  "tithi": "daśamī",
+  "weekday": "vudhavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1895"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 987/4",
+  "model": "gemini-flash-latest",
+  "secs": 6.7,
+  "in_tok": 748,
+  "out_tok": 1490
+ }
+}

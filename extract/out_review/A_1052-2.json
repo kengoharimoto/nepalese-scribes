@@ -1,0 +1,62 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2: name kept as Rāmavarmā (commentator of the Rāmāyaṇatilaka), but confidence lowered to medium: the colophon has only 'śrīrāmīye', not the full name 'Rāmavarmā'",
+   "date.weekday: '6' cleared. The '|| 6 ||' after the tithi is not clearly a weekday; flagged in notes",
+   "notes: added that the colophon names no scribe, a remark on the era, and the 'navabhyām' spelling"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vālmīkīye",
+   "name": "Vālmīki",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmāyaṇe vālmīkīye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīrāmīye",
+   "name": "Rāmavarmā",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmābhirāme śrīrāmīye rāmāyaṇaḥ tilake",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī samvat 1855 mārgaśīrṣe śuklepakṣe navabhyām || 6 ||",
+  "era": "VS",
+  "year": "1855",
+  "month": "Mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1798"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names no scribe. The catalogue's 'Scribe: Śrīrāma Varmā' comes from the commentary's name ('rāmābhirāme śrīrāmīye rāmāyaṇaḥ tilake' = the Rāmāyaṇatilaka, ascribed to Rāma Varmā, which is often credited to Nāgeśa). Rāma Varmā is the commentator, not the copyist. The era is just 'samvat'. VS is assumed from the Devanagari script and the year 1855: NS 1855 is impossible, and ŚS 1855 (1933 CE) is possible but less likely for a plain 'samvat'. VS 1855 Mārgaśīrṣa śukla 9 falls around Nov/Dec 1798 CE. 'navabhyām' is a spelling of navamyām. The '|| 6 ||' after the tithi could be a weekday (6 = Friday) or just a number/ornament. It is left out of weekday as uncertain. The colophon covers only the end of the Uttarakāṇḍa (sarga 111).",
+ "_meta": {
+  "reel": "A 1052/2",
+  "model": "opus",
+  "cost_usd": 0.078362,
+  "secs": 15.8
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījaya jyotimalladevasya",
+   "name": "Jayajyotimalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājāddhirājaparameśvaraparamabhaṭāraka śrīśrījaya jyotimalladevasya vijayarājyo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dharmmapativarddhanasya",
+   "name": "Dharmapativardhana",
+   "roles": [
+    "scribe",
+    "owner",
+    "commissioner"
+   ],
+   "titles": [
+    "yajamāna",
+    "daivajña"
+   ],
+   "affiliation": "karṇṇakuṭumba (karṇṇakuṭumbaja)",
+   "residence": "śrīyaṃbūbrūmāyā śrīgāṅgalaṃge śrīvaṃkvalvaṃsthāne śrīduṃthonihmagṛha",
+   "evidence": "yajamāna śrīyaṃbūbrūmāyā ... dharmmapativarddhanasya svapvastakaṃ (4) ///vo likhitanbhavatiḥ || jādṛsaṃ pvastakaṃ dṛṣṭvā tādṛsaṃ likhitaṃ mayā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīśrījaya jyotimalladevasya vijayarājyo"
+  }
+ ],
+ "date": {
+  "as_written": "śrīmatnaipālikasamvarsara 529 aśviniśukla || tṛtīyāyāntithau || svātinakṣatre | vedhṛtīyoge || bṛhaspativāśare",
+  "era": "NS",
+  "year": "529",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "svātī, vaidhṛti",
+  "ce_approx": "1409"
+ },
+ "place": {
+  "as_written": "śrīyaṃbūbrūmāyā śrīgāṅgalaṃge śrīvaṃkvalvaṃsthāne śrīduṃthonihmagṛhāddhivāśina",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "svapustakam (svārtha)",
+ "notes": "Yaṃbū (Kathmandu), specifically in Gāṅgalaṅga / Vaṃkvalvaṃ. Dharmapativardhana copied the manuscript for his own use (svapvastakaṃ).",
+ "_meta": {
+  "reel": "C 106/6c",
+  "model": "gemini-flash-latest",
+  "secs": 8.5,
+  "in_tok": 1122,
+  "out_tok": 2184
+ }
+}

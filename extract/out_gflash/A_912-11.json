@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībalarāma jhā",
+   "name": "Balarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jhā"
+   ],
+   "affiliation": "",
+   "residence": "ghusauṭ",
+   "evidence": "likhitaṃ śrībalarāma jhā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1910 sāla miti āśviṇa (!) sudi 14 roja 7",
+  "era": "VS",
+  "year": "1910",
+  "month": "āśvina",
+  "paksa": "sudi",
+  "tithi": "14",
+  "weekday": "roja 7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1853"
+ },
+ "place": {
+  "as_written": "mukāma ghusauṭ",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 912/11",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 1009,
+  "out_tok": 1110
+ }
+}

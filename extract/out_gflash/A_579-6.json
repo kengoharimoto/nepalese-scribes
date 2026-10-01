@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnarendrapurī",
+   "name": "Narendrapurī",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnarendrapurīśrīcaraṇaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "viśvānaṃdena",
+   "name": "Viśvānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Jaina",
+   "residence": "",
+   "evidence": "likhitaṃ viśvānaṃdena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "(kavardāraḥ śrīphaṭ) siṃhanāmnaḥ",
+   "name": "Phaṭsiṃha",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "kavardāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ viśvānaṃdena ... (kavardāraḥ śrīphaṭ) siṃhanāmnaḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "likhitaṃ viśvānaṃdena ... (kavardāraḥ śrīphaṭ) siṃhanāmnaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1939 bāhulamāse śuklapakṣe paṃcadaśyāṃ tithau guruvāsare",
+  "era": "ŚS",
+  "year": "1939",
+  "month": "bāhulamāsa",
+  "paksa": "śuklapakṣa",
+  "tithi": "paṃcadaśī",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1882"
+ },
+ "place": {
+  "as_written": "(saṃjñānābhidha)pattana",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Although the era is stated as 'śrīśāke 1939', 1939 is almost certainly a Vikrama Saṃvat date (VS 1939 Kārttika śukla 15 corresponds to Thursday, 26 October 1882 CE, matching 'guruvāsare'). Bāhula designates the month of Kārttika. 'Kavardāra' corresponds to the administrative title kapardāra (storekeeper/steward).",
+ "_meta": {
+  "reel": "A 579/6",
+  "model": "gemini-flash-latest",
+  "secs": 8.2,
+  "in_tok": 799,
+  "out_tok": 2209
+ }
+}

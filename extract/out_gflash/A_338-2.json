@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jośirāma",
+   "name": "Jośīrāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ kāśimadhye jośirāma",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1800 āṣāḍhamāsekṛṣṇapakṣedaśamyāṃ caṃdravāsare",
+  "era": "VS",
+  "year": "1800",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī",
+  "weekday": "caṃdravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1743"
+ },
+ "place": {
+  "as_written": "kāśimadhye",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 338/2",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 805,
+  "out_tok": 915
+ }
+}

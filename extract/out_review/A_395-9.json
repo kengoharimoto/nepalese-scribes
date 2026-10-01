@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: name normalized to 'Mallinātha' (sūri moved to titles only); 'Kolavala' identified as corrupt form of the family epithet Kolācala/Kolāchala",
+   "Removed p2 'jadunāthasvāmī': like the preceding 'śrīgopālajī', it is most likely an invocation of Kṛṣṇa (Yadunātha), i.e. a deity, not a human connected with the copy; mentioned in notes instead",
+   "Date: tithi normalized to ṣaṣṭhī (chaṭI), paksa to śukla (sudī), month to Śrāvaṇa (sāvana), weekday to Thursday (guruvāra); VS 1667 → c. 1610 CE confirmed"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kolavalamallināthasūri",
+   "name": "Mallinātha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "mahopādhyāya",
+    "sūri"
+   ],
+   "affiliation": "Kolācala (written kolavala)",
+   "residence": "",
+   "evidence": "mahopādhyāya kolavalamallināthasūriviracitāyāṃ raghuvaṃśaṭīkāyāṃ saṃjīvinīsamākhyāyām",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1667 samaye sāvana sudī chaṭI vāraguravāsare",
+  "era": "VS",
+  "year": "1667",
+  "month": "Śrāvaṇa (sāvana)",
+  "paksa": "śukla (sudī)",
+  "tithi": "6 (ṣaṣṭhī, written chaṭI)",
+  "weekday": "Thursday (guruvāsara)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1610"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The text copied is Mallinātha's Saṃjīvinī commentary on the Raghuvaṃśa, sarga 19. 'kolavala' is a corrupt spelling of Kolācala, Mallinātha's family epithet. 'śrīgopālajī' and 'śrī jadunāthasvāmī' are read here as invocations of Kṛṣṇa, so they are left out of the persons list. A human Yadunātha Svāmin (for example the Vallabha Gosvāmī Yadunātha, early 17th c.) cannot be ruled out entirely. No scribe, commissioner or place is named. The era is taken as VS from the plain 'saṃvat' and Hindi-style month and pakṣa forms ('sāvana sudī'), which fits a north-Indian Devanagari manuscript. This gives c. July/Aug 1610 CE, but the weekday has not been checked.",
+ "_meta": {
+  "reel": "A 395/9",
+  "model": "opus",
+  "cost_usd": 0.07586200000000001,
+  "secs": 15.4
+ }
+}

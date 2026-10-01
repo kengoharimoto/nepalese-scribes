@@ -1,0 +1,83 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīanantamalladevasya",
+   "name": "Anantamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "Rājādhirājaprameśvaraśrīanantamalladevasya vijayarajye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dvijavaraśrīśirapatikasya",
+   "name": "Śirapati",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "Yāgaṃ grāma",
+   "evidence": "Yāgaṃ grāmādhivāśina dvijavaraśrīśirapatikasya pustakasiddhaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "oṁbhārona",
+   "name": "Oṃ",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "bhāro"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "oṁbhārona anaṃtavrata thama doṅā juroṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "Rājādhirājaprameśvaraśrīanantamalladevasya vijayarajye | Yāgaṃ grāmādhivāśina dvijavaraśrīśirapatikasya pustakasiddhaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "Samvat 398 bhādrava śukla ekādasyā",
+  "era": "NS",
+  "year": "398",
+  "month": "bhādrava",
+  "paksa": "śukla",
+  "tithi": "ekādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1278"
+ },
+ "place": {
+  "as_written": "Yāgaṃ grāma",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "A later addition dated NS 400 Bhādrapada śukla caturdaśī records that Oṁbhāro performed the Anantavrata ritual (anaṃtavrata thama doṅā juroṃ).",
+ "_meta": {
+  "reel": "A 1154/15",
+  "model": "gemini-flash-latest",
+  "secs": 8.5,
+  "in_tok": 794,
+  "out_tok": 2053
+ }
+}

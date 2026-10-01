@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "karmmācāryya nārāyaṇasiṃhana",
+   "name": "Nārāyaṇasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmmācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "riṣita (!) (2) karmmācāryya nārāyaṇasiṃhana",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 802 kārttikaśuklacaturddaśi kunhu",
+  "era": "NS",
+  "year": "802",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "caturdaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1682"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "riṣita is a corrupt spelling for likhita, followed by the Newari instrumental suffix -na marking the scribe.",
+ "_meta": {
+  "reel": "B 80/9",
+  "model": "gemini-flash-latest",
+  "secs": 3.3,
+  "in_tok": 786,
+  "out_tok": 816
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paṃ naranāthena",
+   "name": "Naranātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "kaṇvālaya rudraprayāga",
+   "evidence": "rudraprayāga nivāsi paṃ naranāthena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1989 varṣe āśvina vadi",
+  "era": "VS",
+  "year": "1989",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1932"
+ },
+ "place": {
+  "as_written": "nepāladdeśe",
+  "normalized": "Nepal"
+ },
+ "purpose": "parārtha (paropakārārthaṃ)",
+ "notes": "The catalogue records the date as VS 1689, but the colophon reads saṃvat 1989 varṣe. The scribe is described as a resident of Rudraprayāga (kaṇvālaya rudraprayāga nivāsi), while the copy seems to have been made in Nepal (nepāladdeśe…).",
+ "_meta": {
+  "reel": "B 69/18",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 724,
+  "out_tok": 1139
+ }
+}

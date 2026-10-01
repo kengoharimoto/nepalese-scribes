@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "goviṃda jyotirvidāṃ",
+   "name": "Govinda",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ goviṃda jyotirvidāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Govinda as the scribe, but the formulation 'idaṃ pustakaṃ goviṃda jyotirvidāṃ' indicates ownership ('this book belongs to the astrologer Govinda').",
+ "_meta": {
+  "reel": "A 1029/8",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 691,
+  "out_tok": 720
+ }
+}

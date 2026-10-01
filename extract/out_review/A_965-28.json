@@ -1,0 +1,81 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2: name split as Dhana with Newari honorific 'bhāju' (bhājudhaṇ = bhāju Dhana); removed 'dvānyā' from titles (it is a verb/connective form, not a title); kept 'jamādāra' as office title, low confidence",
+   "added p3 'śrīdattareva' (Dattareva?), named in the appended Gayā-śrāddha note, role other, low confidence",
+   "ce_approx refined to 1852/1853: Pauṣa NS 973 falls in Dec 1852–Jan 1853",
+   "notes: added a caution that the appended note (Kārttika vadi 11, NS 973) is a later secondary record and has nothing to do with the copying; also flagged that the appended Newari is unclear"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dvijaḥ śrīnidhidevakaḥ",
+   "name": "Śrīnidhideva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "saptamyāmalikhac cedaṃ dvijaḥ śrīnidhidevakaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhājudhaṇ ... bhājudhaṃ jamādāra",
+   "name": "Dhana",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "bhāju",
+    "jamādāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pāsā bhājudhaṇ dvānyā bhājudhaṃ dvānyā bhājudhaṃ jamādāra strīpuruṣaṃ",
+   "confidence": "low"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīdattareva",
+   "name": "Dattareva",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdattareva gayāśrāddha ṣaḍdina",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "abde rāmādrivivare pauṣaśuklekṣapākare | saptamyām",
+  "era": "NS",
+  "year": "973",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1852/1853"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is not stated in the verse. NS is inferred from the appended 'saṃvat 973' and the Newari script. The chronogram rāma(3)-adri(7)-vivara(9), read right to left, gives 973, which matches the appended entry. 'pauṣaśukle kṣapākare' means Pauṣa śukla on a Monday (kṣapākara = moon). The scribe is Śrīnidhideva ('-ka' is a diminutive suffix and 'dvija' his brahmin status), which agrees with the catalogue. The appended Newari line ('saṃvat 973 kārttika vadi 11 śrīdattareva gayāśrāddha ṣaḍdina pāsā bhājudhaṇ dvānyā bhājudhaṃ dvānyā bhājudhaṃ jamādāra strīpuruṣaṃ luja') looks like a separate later record of a six-day Gayā-śrāddha. It apparently involves Dattareva(?) and companions ('pāsā'), including bhāju Dhana and a jamādāra couple ('strīpuruṣa'). The text is repetitive (probably dittography) and only partly understood, so the persons from this line have unclear roles and are not connected with the copying. If Kārttika vadi 11 is taken in the amānta reckoning, it would fall before the NS year-change. So the note's year may be counted differently, or it was written about a year after the copy.",
+ "_meta": {
+  "reel": "A 965/28",
+  "model": "opus",
+  "cost_usd": 0.09631400000000001,
+  "secs": 23.2
+ }
+}

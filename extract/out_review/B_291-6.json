@@ -1,0 +1,71 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date: tithi/weekday from 'ā. | tṛ.' kept as tṛtīyā / Ādityavāra, but flagged as uncertain. 'ā.' could also abbreviate a month (Āṣāḍha/Āśvina).",
+   "Date: the month śrāvaṇa kṛṣṇa comes from the verse after the mūla colophon ('śrāvaṇe kṛṣṇapakṣe'), not from the dated line.",
+   "Notes: the corrupt 'saṃvat 18 9' is explained as probably VS 1910, which agrees with ŚS 1775 (= 1853 CE). The two eras do not conflict.",
+   "Notes: the Raktākṣa saṃvatsara does not obviously fit ŚS 1775 in the southern 60-year cycle (Raktākṣī falls in ŚS 1786 = 1864/65). This is flagged.",
+   "Notes: the catalogue's 'Scribe' field actually names the ṭīkākāra (Rāmavarman). No scribe is named. Himativarman may stand for Himmatavarman."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmavarmaṇaḥ",
+   "name": "Rāmavarman",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "himativarmaṇaḥ putrasya śrīrāmavarmaṇaḥ kṛtāvadhyātmarāmāyaṇasetau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "himativarmaṇaḥ",
+   "name": "Himativarman",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "himativarmaṇaḥ putrasya",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "himativarmaṇaḥ putrasya śrīrāmavarmaṇaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat || 18 9 ||(!) śāke || 17 || 75 || rattākṣanāma || ā. | tṛ. |",
+  "era": "ŚS",
+  "year": "1775",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "tṛtīyā (?)",
+  "weekday": "ādityavāra (?)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1853"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon has two eras. The VS figure '18 9' is corrupt; it is probably VS 1910, which equals ŚS 1775 and 1853 CE, so the two eras agree. The saṃvatsara is 'rattākṣa' = Raktākṣa/Raktākṣī. In the southern 60-year cycle, Raktākṣī falls in ŚS 1786 (1864/65), not ŚS 1775, so either the year or the cycle name is doubtful. 'ā. tṛ.' is read as Ādityavāra and tṛtīyā, but this is uncertain: 'ā.' could also abbreviate a month. The month and fortnight (śrāvaṇa kṛṣṇa) come from the verse after the mūla colophon. Rāmavarman, son of Himativarman (possibly Himmatavarman), wrote the Adhyātmarāmāyaṇa-setu commentary. His birudāvalī suggests he was of royal or noble rank. He is not the reigning king of this copy. The catalogue's 'Scribe' field gives the ṭīkākāra. No scribe is named in the colophon.",
+ "_meta": {
+  "reel": "B 291/6",
+  "model": "opus",
+  "cost_usd": 0.09999,
+  "secs": 26.0
+ }
+}

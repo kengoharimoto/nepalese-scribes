@@ -1,0 +1,45 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": []
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījagādānanda",
+   "name": "Jagadānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījagādānanda viracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Jagadānanda as the scribe, but 'viracite' identifies him as the author. 'jagādānanda' is a scribal slip for Jagadānanda. This is an authorial colophon only: it names no scribe and gives no date or place.",
+ "_meta": {
+  "reel": "A 1230/28b",
+  "model": "opus",
+  "cost_usd": 0.054742,
+  "secs": 7.2
+ }
+}

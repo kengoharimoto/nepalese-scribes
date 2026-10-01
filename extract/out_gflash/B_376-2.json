@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kavikālidāsa-",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkavikālidāsakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "maṇirāma śarmaṇā",
+   "name": "Maṇirāma",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "Bhāradvāja",
+   "residence": "",
+   "evidence": "maṇirāma śarmaṇā || iti bhāradjvāja maṇirāma viracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1925 sāla miti kārtika vadi 5 roya 3",
+  "era": "VS",
+  "year": "1925",
+  "month": "kārtika",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "roya 3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1868"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon records both the composition date of the commentary by Maṇirāma Śarman in chronogram (vedacandravasubhūmivatsare = [VS] 1814, Māgha śukla 5) and the copying date of this manuscript (VS 1925). The scribe remains anonymous ('likhitaṃ mayā').",
+ "_meta": {
+  "reel": "B 376/2",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 934,
+  "out_tok": 1436
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "varjācāryya viśvaratnaṃ",
+   "name": "Viśvaratna",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Jhvābāhāra (Jhvā Bāhāl)",
+   "residence": "Taṃrāchitola (Taṃrāchi-ṭola)",
+   "evidence": "liṣitaṃ taṃrāchitola jhvābāhārayā varjācāryya viśvaratnaṃ coyā thaota dayakā tayā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1021 mti phārguna śukla pūrṇṇemā ṣunaṃ",
+  "era": "NS",
+  "year": "1021",
+  "month": "Phālguna",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā (15)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1901"
+ },
+ "place": {
+  "as_written": "taṃrāchitola jhvābāhāra",
+  "normalized": ""
+ },
+ "purpose": "svārtha: scribe wrote it and made/kept it for himself (coyā thaota dayakā tayā); book not to be given/lent to others, on pain of the guru's curse (guru doha lāyu)",
+ "notes": "Newari colophon. 'varjācāryya' = vajrācārya. 'taṃrāchitola jhvābāhārayā' gives the scribe's quarter (ṭola) and bāhāl, not an explicit place of copying; Jhvā Bāhāl is a Buddhist monastery of the Valley (identification Patan vs. Kathmandu not certain, so normalized left empty). Date agrees with catalogue (NS 1021 = c. Feb/Mar 1901). 'ṅeya eṃkāpisaṃ pacaya yāya madu' is an injunction against others taking/lending the book; standard scribal disclaimer follows.",
+ "_meta": {
+  "reel": "B 106/23",
+  "model": "fable",
+  "cost_usd": 0.14758325,
+  "secs": 21.5
+ }
+}

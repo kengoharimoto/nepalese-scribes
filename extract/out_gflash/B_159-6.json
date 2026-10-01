@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājadaivajñalakṣmīnārāyaṇa",
+   "name": "Lakṣmīnārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "rājadaivajña"
+   ],
+   "affiliation": "",
+   "residence": "kāthamavasa (‥)pagṛhe",
+   "evidence": "jadi postakaṃ (dmitvā) rīkhītaṃ, rājadaivajñalakṣmīnārāyaṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat || (1891) || naṣṭa āṣāḍha śuklapakṣa, catu(‥)tithai, puṣyanakṣatre, vyāghātajogye, ādityabālasa(‥)",
+  "era": "VS",
+  "year": "1891",
+  "month": "naṣṭa āṣāḍha",
+  "paksa": "śuklapakṣa",
+  "tithi": "catu(‥)tithai",
+  "weekday": "ādityavāsara",
+  "nakshatra_yoga": "puṣyanakṣatre, vyāghātajogye",
+  "ce_approx": "1834"
+ },
+ "place": {
+  "as_written": "kāthamavasa (‥)pagṛhe",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The four-digit Samvat year 1891 corresponds to Vikrama Samvat (1834 CE). 'kāthamavasa (‥)pagṛhe' likely refers to Kāṣṭhamaṇḍapa / Kathmandu.",
+ "_meta": {
+  "reel": "B 159/6",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 808,
+  "out_tok": 1397
+ }
+}

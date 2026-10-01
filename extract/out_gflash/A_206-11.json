@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaṃgārāmena",
+   "name": "Gaṅgārāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "kovāhāratolakāraṇḍavāhāragṛha",
+   "evidence": "gaṃgārāmena (!) likhita (!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 771 māghaśuklapaṃcamyāyāṃ tithau utrabhadranakṣatre (!) siddhiyoge vṛhaspativāsatve (!)",
+  "era": "NS",
+  "year": "771",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "paṃcamī",
+  "weekday": "bṛhaspativāsara",
+  "nakshatra_yoga": "uttarabhadrapadā, siddhi",
+  "ce_approx": "1651"
+ },
+ "place": {
+  "as_written": "kovāhāratolakāraṇḍavāhāragṛha",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 206/11",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 828,
+  "out_tok": 1176
+ }
+}

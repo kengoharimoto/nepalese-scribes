@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajña joganarasiṃhena",
+   "name": "Joganarasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajña joganarasiṃhena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ-mvat 1877 sāla miti āśvina śudi 3 roja 4",
+  "era": "VS",
+  "year": "1877",
+  "month": "āśvina",
+  "paksa": "śudi",
+  "tithi": "3",
+  "weekday": "roja 4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1820"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 989/24",
+  "model": "gemini-flash-latest",
+  "secs": 2.8,
+  "in_tok": 686,
+  "out_tok": 662
+ }
+}

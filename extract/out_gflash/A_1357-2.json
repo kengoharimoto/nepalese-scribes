@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīharivaṃśana",
+   "name": "Harivaṃśa",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīharivaṃśana thavata coyakā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 789 caitrakṛṣṇatrayodaśī pracacurddaśyāṃ(!) tithau revati aśvinī nakṣatra ādityavāra",
+  "era": "NS",
+  "year": "789",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī / caturdaśī",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "revati aśvinī nakṣatra",
+  "ce_approx": "1669"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "thavata (for himself / svārtha)",
+ "notes": "Newari phrase 'thavata coyakā' indicates Harivaṃśa had the manuscript copied for his own use.",
+ "_meta": {
+  "reel": "A 1357/2",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 713,
+  "out_tok": 922
+ }
+}

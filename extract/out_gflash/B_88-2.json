@@ -1,0 +1,121 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhāju dhaṃsiju",
+   "name": "Dhaṃsiju",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "bhāju"
+   ],
+   "affiliation": "",
+   "residence": "hataṣāde onani",
+   "evidence": "dānapati hataṣāde onani, śrībhāju dhaṃsiju",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vilalakṣmi",
+   "name": "Vilalakṣmī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasya bhāryyā vilalakṣmi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "jio dhaṃju",
+   "name": "Jiodhaṃju",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "putra jio dhaṃju",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "jñānalakṣmi",
+   "name": "Jñānalakṣmī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasya bhāryyā jñānalakṣmi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "munirāja",
+   "name": "Munirāja",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "putra munirāja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wife_of",
+   "to": "p1",
+   "evidence": "tasya bhāryyā vilalakṣmi"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "putra jio dhaṃju"
+  },
+  {
+   "from": "p4",
+   "type": "wife_of",
+   "to": "p3",
+   "evidence": "tasya bhāryyā jñānalakṣmi"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "tasya bhāryyā jñānalakṣmi putra munirāja"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 950 mti māghamāsya śuklapakṣe ṣaṣṭammītithau aśuṇinakṣatre, śubhayogya yathākarṇṇamahātre, ādityavāsare",
+  "era": "NS",
+  "year": "950",
+  "month": "māgha",
+  "paksa": "śuklapakṣa",
+  "tithi": "ṣaṣṭhī",
+  "weekday": "ādityavāsara",
+  "nakshatra_yoga": "aśvinī nakṣatra, śubha yoga",
+  "ce_approx": "1830"
+ },
+ "place": {
+  "as_written": "hataṣāde onani",
+  "normalized": ""
+ },
+ "purpose": "maṅgalajuya māra",
+ "notes": "Catalogue gives the year as NS 910, but the transcribed colophon text clearly reads 'samvat 950'.",
+ "_meta": {
+  "reel": "B 88/2",
+  "model": "gemini-flash-latest",
+  "secs": 7.7,
+  "in_tok": 884,
+  "out_tok": 2022
+ }
+}

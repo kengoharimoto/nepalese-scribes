@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumati (10) jayajitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "commissioner",
+    "king"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jayajitāmitramalladevasana dayakā ju(11)roṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 803 caitra śudi 3",
+  "era": "NS",
+  "year": "803",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1683"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrī 3 siddhilakṣmī prīnātu",
+ "notes": "Bhaktapur is recorded as the place in the catalogue metadata based on the ruler Jitāmitra Malla, but it is not explicitly mentioned in the colophon text itself.",
+ "_meta": {
+  "reel": "A 624/11d",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 721,
+  "out_tok": 896
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmacandra",
+   "name": "Rāmacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "riṣirtti (!) rāmacandra",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 780 jyeṣṭha (6) vadi 1 bṛhaspativāra",
+  "era": "NS",
+  "year": "780",
+  "month": "jyeṣṭha",
+  "paksa": "vadi",
+  "tithi": "1",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1660"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The corrupt word 'riṣirtti' preceding the scribe's name likely stands for likhita / likhati.",
+ "_meta": {
+  "reel": "B 80/12",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 815,
+  "out_tok": 960
+ }
+}

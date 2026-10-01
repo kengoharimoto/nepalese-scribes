@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsomaśivena",
+   "name": "Somaśiva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paṇḍitācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṇḍitācārya śrīsomaśivena viracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīmatkarṇaprakāśaṃ vyavahareṇoyāṃsa samasaṃvatsare",
+  "era": "unspecified",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon refers to the text Kriyākāṇḍa composed by Somaśiva (Somaśambhu). It contains a reference to reckoning according to the astronomical manual Karṇaprakāśa ('śrīmatkarṇaprakāśaṃ vyavahareṇa...'), but the specific year/date elements are obscure.",
+ "_meta": {
+  "reel": "A 224/12",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 690,
+  "out_tok": 1019
+ }
+}

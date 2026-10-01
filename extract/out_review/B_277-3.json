@@ -1,0 +1,80 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Place of copying set to empty: 'rāmanagara' is attached to the later note naming Kṛṣṇa Jośī and is not stated as the place of copying. 'Ramnagar' was also not a certain identification.",
+   "Tithi normalized to 'caturthī (varadā)'. Month field written as Māgha.",
+   "Kṛṣṇa Jośī's confidence lowered to low: the closing note's function (owner, reader or later hand) is unclear.",
+   "Notes expanded: the obscure 'vāgaśītikhyāti', the cross-check of both eras, and 'heramba' as possibly a name rather than an invocation."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījagadīśvara-",
+   "name": "Jagadīśvara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījagadīśvarakṛtaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīkāśīnātha(2)śarmmaṇa",
+   "name": "Kāśīnātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svākṣaram idaṃ śrīkāśīnātha(2)śarmmaṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīkṛṣnajośī",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "rāmanagara",
+   "evidence": "śrīkṛṣnajośī rāmanagara heramba",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śakābdā 1727 samvat 1862 māghī śuklā varadācaturthī",
+  "era": "VS",
+  "year": "1862",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "caturthī (varadā)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1806"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date is double-dated, and the two eras agree: ŚS 1727 (+78 = 1805) and VS 1862 (−57 = 1805). Māgha śukla 4 falls in Jan/Feb 1806 CE. The catalogue's 'ŚS 1720' is wrong; the colophon reads 1727. 'vāgaśītikhyāti' after the scribe's name is obscure and probably corrupt; it may hide an epithet or a place name. The closing line 'śrīkṛṣnajośī rāmanagara heramba' looks like a separate note, perhaps an owner's or later hand's. Rāmanagara is taken as Kṛṣṇa Jośī's residence, not the place of copying; it is possibly Ramnagar near Vārāṇasī, which would fit the invocations to Annapūrṇā and Viśveśvara, but this is unconfirmed. 'heramba' may be an invocation to Gaṇeśa or another personal name (Heramba).",
+ "_meta": {
+  "reel": "B 277/3",
+  "model": "opus",
+  "cost_usd": 0.083814,
+  "secs": 18.0
+ }
+}

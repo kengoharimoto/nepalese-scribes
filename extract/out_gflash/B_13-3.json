@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmohanaśarmmabhir",
+   "name": "Mohana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "parvvapallī",
+   "evidence": "śrīmohanaśarmmabhir llikhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "lasaṃ 504 vaiśākhakṛṣṇadvādaśyāṃ budhe. [...] vedābhrabāṇāṅkitalakṣmaṇābde māse śubhe mādhavasaṃjñake ca | tithau murārer vvidhusūnuvāre",
+  "era": "LS",
+  "year": "504",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādaśī",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1623"
+ },
+ "place": {
+  "as_written": "parvvapallī",
+  "normalized": "Parvapallī"
+ },
+ "purpose": "",
+ "notes": "Chronogram in verse: vedābhrabāṇa = 504 (veda = 4, abhra = 0, bāṇa = 5) Lakṣmaṇābda. 'parvvapallīsaṃ' likely abbreviates Parvapallīsaṃstha / Parvapallī-nivāsin.",
+ "_meta": {
+  "reel": "B 13/3",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 807,
+  "out_tok": 1174
+ }
+}

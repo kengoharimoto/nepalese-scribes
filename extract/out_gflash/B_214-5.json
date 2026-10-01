@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayasiṃha",
+   "name": "Jayasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmācārya"
+   ],
+   "affiliation": "",
+   "residence": "Vidyāpīṭha",
+   "evidence": "riṣitaṃ vidyāpi(!)ṭhayā karmmācārya jayasiṃha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 813 āṣāḍhaśuklasaptamī kunhu",
+  "era": "NS",
+  "year": "813",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "saptamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1693"
+ },
+ "place": {
+  "as_written": "vidyāpi(!)ṭhayā",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The term 'kunhu' is Newari for 'on the day of'.",
+ "_meta": {
+  "reel": "B 214/5",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 749,
+  "out_tok": 776
+ }
+}

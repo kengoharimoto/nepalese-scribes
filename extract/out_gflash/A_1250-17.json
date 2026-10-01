@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayajitāmitramallasana",
+   "name": "Jayajitāmitramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayajitāmitramallasana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 811 kārttika śukla navamī thvakuhnu",
+  "era": "NS",
+  "year": "811",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "navamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1690"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "King Jayajitāmitramalla of Bhaktapur caused the text to be made ('dayakā juroṃ'). The cataloguer places the copy in Bhaktapur based on the king's rule.",
+ "_meta": {
+  "reel": "A 1250/17",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 762,
+  "out_tok": 866
+ }
+}

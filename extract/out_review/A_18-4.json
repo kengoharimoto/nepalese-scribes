@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date era: 'saṃ 319' in a Maithili/Magadhi-script manuscript is most probably Lakṣmaṇa Saṃvat. Era set to LS and ce_approx to c. 1438; flagged as an inference in notes.",
+   "Maheśvara's titles: the epithets are now given in their attested forms ('sakalavaidyarājacakramuktāśekhara', 'gadyavidyānidhi') instead of a bare 'vaidyarāja'.",
+   "Chronogram checked: rāma 3, anala 3, vyoma 0, rūpa 1, read right to left = Śaka 1033 (c. 1111 CE). This is the date the text was composed, not the date of the copy. The note now says so explicitly."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmaheśvarasya",
+   "name": "Maheśvara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "sakalavaidyarājacakramuktāśekhara",
+    "gadyavidyānidhi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmaheśvarasya kṛtau viśvaprakāśābhidhāne",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 319 vaiśākha śuklacaturdasyāṃ",
+  "era": "LS",
+  "year": "319",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "caturdaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1438"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The verse 'rāmānalavyomarūpaiḥ śakakāle' is a chronogram for the date Maheśvara composed the Viśvaprakāśa: Śaka 1033, c. 1111 CE. It does not date this copy. The copy is dated only 'saṃ 319' with no era named. Because the script is Maithili (Magadhi), this is taken as Lakṣmaṇa Saṃvat 319, c. 1438 CE, but that is an inference. If the era is Nepāla Saṃvat, the date is 1199 CE, which is also possible since it comes after the text was composed. The colophon names no scribe or commissioner; it says only 'likhitaṃ'.",
+ "_meta": {
+  "reel": "A 18/4",
+  "model": "opus",
+  "cost_usd": 0.11665940000000001,
+  "secs": 21.3
+ }
+}

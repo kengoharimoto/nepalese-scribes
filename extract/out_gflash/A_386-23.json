@@ -1,0 +1,142 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "narabhūpāla",
+   "name": "Narabhūpāla",
+   "roles": [
+    "relative_only",
+    "king"
+   ],
+   "titles": [
+    "gorṣādhīśvara",
+    "bhūpāla"
+   ],
+   "affiliation": "",
+   "residence": "Gorkha",
+   "evidence": "gorṣādhīśvara bhūpālanarabhūpālapautra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmacchrīkṛṣṇasāha",
+   "name": "Kṛṣṇasāha",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "kumāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīman mahoddāmakīrti kumāra śrīmacchrīkṛṣṇasāhakāritā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rāmahṛ(!)yaḥ",
+   "name": "Rāmahṛdaya",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paṃḍitaśiromaṇi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmad rāmahṛ(!)yaḥ paṃḍitaśiromaṇi sūnu",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "vāṇīvilāsa",
+   "name": "Vāṇīvilāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vāṇīvilāsa kaviviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "gīrvāṇayuddhavikramasāha bahādūrasamser jaṅdevānām",
+   "name": "Gīrvāṇayuddhavikramaśāha",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "mahārāja",
+    "girirājacakracūḍāmaṇi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanmahārājādhirāja śrī śrī śrīmahārāje gīrvāṇayuddhavikramasāha bahādūrasamser jaṅdevānām",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "+ + + + sena bahādūra devānām",
+   "name": "Sena",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanmahārājādhirāja śrī śrī śrīman + + + + sena bahādūra devānām",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "grandson_of",
+   "to": "p1",
+   "evidence": "narabhūpālapautra śrīman mahoddāmakīrti kumāra śrīmacchrīkṛṣṇasāha"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "śrīmad rāmahṛ(!)yaḥ paṃḍitaśiromaṇi sūnu vāṇīvilāsa"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p5",
+   "evidence": "śrīmanmahārājādhirāja śrī śrī śrīmahārāje gīrvāṇayuddhavikramasāha bahādūrasamser jaṅdevānām"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Fol. 7v–8r contains praśastis to King Gīrvāṇayuddhavikramaśāha followed by another ruler bearing the Sena title and the viruda 'Rūpanārāyaṇa' (likely Pṛthvīpālasena of Palpa), though the first part of the name is lost in a lacuna (+ + + + sena).",
+ "_meta": {
+  "reel": "A 386/23",
+  "model": "gemini-flash-latest",
+  "secs": 15.7,
+  "in_tok": 963,
+  "out_tok": 4313
+ }
+}

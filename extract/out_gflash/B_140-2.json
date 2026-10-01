@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkaparddārakālidāsena",
+   "name": "Kālidāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kaparddāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkaparddārakālidāsena saṃgrahaḥ kṛtaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśākavarṣe 1703 āśvinamāse dhavalapakṣe mahādaśamītithau śravaṇanakṣatre vācaspativāre",
+  "era": "ŚS",
+  "year": "1703",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "mahādaśamī",
+  "weekday": "vācaspativāra",
+  "nakshatra_yoga": "śravaṇa",
+  "ce_approx": "1781"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The title kaparddāra (Kapardār) denotes an administrative officer/wardrobe keeper in Nepal. 'saṃgrahaḥ kṛtaḥ' indicates he compiled or had the manuscript copied/assembled.",
+ "_meta": {
+  "reel": "B 140/2",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 799,
+  "out_tok": 1239
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mudgala(vā)ta(8)sāha śrīakabara",
+   "name": "Akabara",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mudgalavātasāha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mudgala(vā)ta(8)sāha śrīakabararājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīsādhu suṃdarasūri",
+   "name": "Sundarasūri",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "sādhu",
+    "sūri"
+   ],
+   "affiliation": "Pūrṇimāgaccha",
+   "residence": "",
+   "evidence": "śrīsādhu pūrṇimā gache | bhaya śrīsādhu suṃdarasūri",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrījayasāgarasūribhir",
+   "name": "Jayasāgarasūri",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "Pūrṇimāgaccha",
+   "residence": "",
+   "evidence": "tatpa(9)hebhaya śrījayasāgarasūribhir meghamālāgaṃtha likhitam asti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "suṃdarasūri tatpa(9)hebhaya śrījayasāgarasūribhir"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīakabararājye ... śrījayasāgarasūribhir meghamālāgaṃtha likhitam asti"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1644 varṣe | śāke 1509 pravarttamāne | ṣaṣṭyābdamadhye manmathanāmasaṃvatsare | ... prathamavaiśāṣavadi 11 ravi(9)vāsare",
+  "era": "VS",
+  "year": "1644",
+  "month": "prathamavaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "manmatha",
+  "ce_approx": "1587"
+ },
+ "place": {
+  "as_written": "mālapakakṣetre || ... ūcanudasamīpe sonakachagṛāme",
+  "normalized": "Sonkatch"
+ },
+ "purpose": "",
+ "notes": "Mālapakakṣetre is likely a scribal corruption for Mālavakṣetre (in the region of Malwa). Sonakachagrāme corresponds to modern Sonkatch (Madhya Pradesh). 'mudgalavātasāha' stands for Mughal Pādshāh Akbar. The scribe Jayasāgarasūri belongs to the Jain Pūrṇimāgaccha tradition under Sundarasūri (tatpatte / tatpaṭṭe).",
+ "_meta": {
+  "reel": "B 346/11",
+  "model": "gemini-flash-latest",
+  "secs": 9.3,
+  "in_tok": 956,
+  "out_tok": 2133
+ }
+}

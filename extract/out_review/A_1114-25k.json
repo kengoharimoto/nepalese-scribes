@@ -1,0 +1,36 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "month normalized to Vaiśākha (written vaiśāṣa)",
+   "paksa normalized to kṛṣṇa (vadī)",
+   "weekday interpreted: roja 7 = Saturday",
+   "notes expanded: catalogue date field '1950-55-59' is odd; colophon clearly gives VS 1955"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat1955sāla vaiśāṣavadī11 roja7",
+  "era": "VS",
+  "year": "1955",
+  "month": "Vaiśākha",
+  "paksa": "kṛṣṇa (vadī)",
+  "tithi": "11",
+  "weekday": "Saturday (roja 7)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1898"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names no persons. The text is ascribed to the Nīlatantra and no author is given. The era is unspecified ('saṃvat … sāla'), but VS fits the catalogue and the period: VS 1955 = 1898 CE (Vaiśākha falls in April–May 1898). 'roja 7' is the seventh day of the week in Persian-style counting, so Saturday. The catalogue field 'SAM (VS) 1950-55-59' is garbled; the colophon clearly reads 1955.",
+ "_meta": {
+  "reel": "A 1114/25k",
+  "model": "opus",
+  "cost_usd": 0.05821,
+  "secs": 9.6
+ }
+}

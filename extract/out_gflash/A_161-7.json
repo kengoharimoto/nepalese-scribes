@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sītārāmabhaṭṭasya",
+   "name": "Sītārāma",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sītārāmabhaṭṭasya pustakam idaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1833 (...) 27 śāke 1698",
+  "era": "VS",
+  "year": "1833",
+  "month": "",
+  "paksa": "",
+  "tithi": "27",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1776"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Sītārāma Bhaṭṭa as scribe and donor, but the text specifically states ownership ('sītārāmabhaṭṭasya pustakam idaṃ'). Both VS 1833 and Śāke 1698 are given.",
+ "_meta": {
+  "reel": "A 161/7",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 795,
+  "out_tok": 958
+ }
+}

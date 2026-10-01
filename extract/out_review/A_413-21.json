@@ -1,0 +1,67 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: name normalized to 'Ṛṣi' with 'śarman' moved to titles (alongside ācārya), per the rule on brahmin suffixes; confidence lowered to medium because Ṛṣiśarman may be the whole name",
+   "Notes: the date check was rewritten. My own calculation confirms that 9 July 1796 was a Saturday and fell about 4 days after the new moon, in Āṣāḍha. Without full pañcāṅga software, the tithi can't be called 'precisely' certain. The VS/ŚS conflict is stated explicitly",
+   "Notes: points out that the colophon names the text 'praśnavidyā' and the section 'nāmavadhaprakaraṇa', not the catalogue title"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ṛṣiśarmācārya",
+   "name": "Ṛṣi",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "śarman",
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ṛṣiśarmācāryaviracitā praśnavidyā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "āpābhaṭṭa",
+   "name": "Āpā",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ āpābhaṭṭa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1753 || śāke 1718 āṣāḍhaśuddhapaṃcamī 5 maṃdavāsare",
+  "era": "ŚS",
+  "year": "1718",
+  "month": "Āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "Saturday (mandavāsara)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1796"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The two eras conflict. 'saṃvat 1753' (VS) gives about 1696 CE, but 'śāke 1718' gives about 1796 CE, a difference of 100 years. ŚS 1718 matches VS 1853, so 'saṃvat 1753' is probably a slip for 1853. ŚS 1718 is adopted here. Weekday check by my own calculation: 9 July 1796 CE was a Saturday and about 3.5–4 days after the new moon of early July, with the Sun in sidereal Mithuna. That fits Āṣāḍha śukla 4/5 well, but it hasn't been checked against a full pañcāṅga. The VS 1753 alternative (1696 CE) was not checked. The colophon gives the text as a 'praśnavidyā' by Ṛṣiśarmācārya and the section as 'nāmavadhaprakaraṇa'. The catalogue title Jñānālaṅkṛtamañjarī does not appear in the colophon. The author's name could be taken as Ṛṣiśarman; '-śarman' was removed as a suffix. 'Āpā' is a common Marathi personal name, so the scribe may be a Deccani brahmin.",
+ "_meta": {
+  "reel": "A 413/21",
+  "model": "opus",
+  "cost_usd": 0.098354,
+  "secs": 26.3
+ }
+}

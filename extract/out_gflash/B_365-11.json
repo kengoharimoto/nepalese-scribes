@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījaya bhūpatīndramalladevasana",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījaya bhūpatīndramalladevasana, nāyakhācheyā kvātha prati(9)ṣṭhā yāṅā sāphula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 827 vaiśākha śukla akṣatṛtīyā (8) budhavāra",
+  "era": "NS",
+  "year": "827",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "akṣatṛtīyā",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1707"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "nāyakhācheyā kvātha pratiṣṭhā yāṅā",
+ "notes": "The manuscript is designated as the ritual manual (sāphula) for the consecration (pratiṣṭhā) of the Nāyakhāche kvātha (fortress/quarter in Bhaktapur) performed by King Bhūpatīndramalla.",
+ "_meta": {
+  "reel": "B 365/11",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 776,
+  "out_tok": 1519
+ }
+}

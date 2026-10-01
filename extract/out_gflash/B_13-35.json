@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "tripāṭiśrībhānukaraṇāṃ",
+   "name": "Bhānukara",
+   "roles": [
+    "commissioner",
+    "beneficiary"
+   ],
+   "titles": [
+    "tripāṭin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tripāṭiśrībhānukaraṇāṃ kṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "upādhyāyaśrīsūryaka",
+   "name": "Sūryaka",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "upādhyāyaśrīsūryaka /// mabhi vibhramāt yathādarśa likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "tripāṭiśrībhānukaraṇāṃ kṛte upādhyāyaśrīsūryaka /// ... likhitam"
+  }
+ ],
+ "date": {
+  "as_written": "lasaṃ 187 śrāvaṇaśuklanavamyāṃ ravau",
+  "era": "LS",
+  "year": "187",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1306"
+ },
+ "place": {
+  "as_written": "navitagrāmapattane",
+  "normalized": ""
+ },
+ "purpose": "for Bhānukara Tripāṭhin (tripāṭiśrībhānukaraṇāṃ kṛte)",
+ "notes": "The genitive plural 'bhānukaraṇāṃ' likely stands for bhānukarāṇāṃ kṛte. Sūryaka's name appears broken at the folio margin (///).",
+ "_meta": {
+  "reel": "B 13/35",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 772,
+  "out_tok": 1388
+ }
+}

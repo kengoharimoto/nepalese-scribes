@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnavamīsiṃha",
+   "name": "Navamīsiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnavamīsiṃhakṛtāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1984 sāla miti śrāvaṇaśudi 14 roja 6",
+  "era": "VS",
+  "year": "1984",
+  "month": "śrāvaṇa",
+  "paksa": "śudi",
+  "tithi": "14",
+  "weekday": "roja 6",
+  "nakshatra_yoga": "",
+  "ce_approx": "1927"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "C 50/5",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 741,
+  "out_tok": 738
+ }
+}

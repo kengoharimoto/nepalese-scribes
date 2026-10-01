@@ -1,0 +1,55 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkāśinātha-",
+   "name": "Kāśīnātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkāśināthakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "keśavasiṃhana",
+   "name": "Keśavasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "thva saphūlasidha yakā dina juro || || dai iba bhe || keśavasiṃhana juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "591 || || || ||❖ samvat. 28 pauṣaśukla 12 roja 7 vāla",
+  "era": "NS",
+  "year": "28",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "12",
+  "weekday": "roja 7",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records the date as NS 591, likely reading the number 591 immediately after the text completion mark as the year, whereas the text then continues with 'samvat. 28 pauṣaśukla 12 roja 7 vāla' (perhaps with the century omitted or 591 being a śloka/grantha count). The phrase 'dai iba bhe' before Keśavasiṃha's name is unclear (possibly an abbreviation for daivajña or a toponym).",
+ "_meta": {
+  "reel": "E 423/7",
+  "model": "gemini-flash-latest",
+  "secs": 8.8,
+  "in_tok": 731,
+  "out_tok": 1931
+ }
+}

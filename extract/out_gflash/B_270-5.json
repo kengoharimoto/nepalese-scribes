@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "raṇajinmallabhūbhṛtā",
+   "name": "Raṇajinmalla",
+   "roles": [
+    "commissioner",
+    "king"
+   ],
+   "titles": [
+    "bhūbhṛt"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhāpitamidaṃpustaṃ, raṇajinmallabhūbhṛtā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "tarkebhavāraṇamite, nepālābde ca kārttike",
+  "era": "NS",
+  "year": "886",
+  "month": "Kārttika",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1766"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'tarkebhavāraṇamite' corresponds to tarka (6), ibha (8), vāraṇa (8), yielding NS 886 (c. 1766 CE), though the catalogue record gives Saṃ. 866. Both fall within the reign of King Raṇajit Malla of Bhaktapur.",
+ "_meta": {
+  "reel": "B 270/5",
+  "model": "gemini-flash-latest",
+  "secs": 6.7,
+  "in_tok": 727,
+  "out_tok": 1414
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkalyāṇa malla",
+   "name": "Kalyāṇamalla",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahākavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkalyāṇa malla mahākavi viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmallāḍa ṣāna",
+   "name": "Lāḍaṣāna",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmallāḍa ṣāna vinodāya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "other",
+   "to": "p2",
+   "evidence": "śrīmallāḍa ṣāna vinodāya śrīkalyāṇa malla mahākavi viracite"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1005 miti bhādra śudi 9 ro +++++",
+  "era": "NS",
+  "year": "1005",
+  "month": "bhādra",
+  "paksa": "śudi",
+  "tithi": "9",
+  "weekday": "ro +++++",
+  "nakshatra_yoga": "",
+  "ce_approx": "1885"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "śrīmallāḍa ṣāna represents sandhi of śrīmat-lāḍa-ṣāna (Lāḍa Khān), the patron for whose entertainment Kalyāṇamalla composed the Anaṅgaraṅga. The era 1005 must be Nepāla Saṃvat (= 1885 CE), given the modern Nepali commentary and 16th-century date of the source text.",
+ "_meta": {
+  "reel": "A 1024/8",
+  "model": "gemini-flash-latest",
+  "secs": 8.6,
+  "in_tok": 787,
+  "out_tok": 1941
+ }
+}

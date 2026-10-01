@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Notes expanded: final '-na' in 'hemā〇krana' read as Newari ergative suffix (Hemākara-na), supporting the reading Hemākara; '〇' is a string-hole/space mark, not a lost akṣara",
+   "Affiliation clarified: the scribe's house is on the south side of the Raraṃkṛtavihāra, which belongs to the (Tarumura) Mahāvihāra",
+   "Date checked: NS 892 + 880 gives 1772 CE for Āśvina; buddhavāra is Wednesday"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācāryya śrīhemā〇krana",
+   "name": "Hemākara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Raraṃkṛtavihāra (branch of Tarumura Mahāvihāra)",
+   "residence": "Sayava tola; house south of Raraṃkṛtavihāra",
+   "evidence": "vajrācāryya śrīhemā〇krana likhyate",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 892 āśviṇakṛṣṇa tṛtīyā buddhavāra",
+  "era": "NS",
+  "year": "892",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "tṛtīyā",
+  "weekday": "buddhavāra (Wednesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1772"
+ },
+ "place": {
+  "as_written": "sayava tolake (tarumura)mahāvihārāvasthita raraṃkṛtavihārasya dakṣanadisagṛha",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The scribe's name is written 'śrīhemā〇krana'. '〇' is probably a string-hole space and not a lost character, and the final '-na' is likely the Newari ergative ending, so the name reads Hemākara (Hemākara-na likhyate). The place is unclear. 'sayava tolake' is a locality (tola) in Newari locative. '(tarumura)' is the cataloguer's uncertain reading of the mahāvihāra's name. 'raraṃkṛtavihāra' may be corrupt. 'dakṣanadisagṛha' means a house on the south side (dakṣiṇadiśā). The city is not identified. The year is in NS with no conflicting era. Thvakuhnu sidhu juro (Newari) means 'completed on this day'.",
+ "_meta": {
+  "reel": "B 105/14q",
+  "model": "opus",
+  "cost_usd": 0.077462,
+  "secs": 16.9
+ }
+}

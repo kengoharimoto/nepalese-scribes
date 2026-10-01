@@ -1,0 +1,41 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījagadānandaviracitaṃ",
+   "name": "Jagadānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījagadānandaviracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Only a final rubric: 'iti śrījagadānandaviracitaṃ śrītripurasaundaryyāstava samāptaṃ'. Jagadānanda is the author of the Tripurasaundaryastava, not a person involved in making this copy. No scribe, commissioner, king, date, or place is given. 'tripurasaundaryyāstava' is a corruption of tripurasundarīstava (title, not a person). Catalogue fields are empty, no conflict.",
+ "_meta": {
+  "reel": "E 1685/30b",
+  "model": "fable",
+  "cost_usd": 0.117447,
+  "secs": 7.9
+ }
+}

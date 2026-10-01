@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsomena",
+   "name": "Soma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsomena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 800 āṣāḍhakṛṣṇatṛtīyā ādityadina",
+  "era": "NS",
+  "year": "800",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "tṛtīyā",
+  "weekday": "ādityadina",
+  "nakshatra_yoga": "",
+  "ce_approx": "1680"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 243/8",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 722,
+  "out_tok": 822
+ }
+}

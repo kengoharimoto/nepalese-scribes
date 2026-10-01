@@ -1,0 +1,60 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "miśraśrīkṛṣṇa",
+   "name": "Kṛṣṇamiśra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmohopādhyāya",
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmāhāmohopādhyāya miśraśrīkṛṣṇaviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīgovindarāja viprena",
+   "name": "Govindarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgovindarāja viprena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 988 miti mārgaśīrṣaśukla 7 roja thva kunhu",
+  "era": "NS",
+  "year": "988",
+  "month": "mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1867"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The word 'roja' (roz) in Newari here likely means 'on the date/day', rather than specifying a particular day of the week.",
+ "_meta": {
+  "reel": "A 1025/14",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 759,
+  "out_tok": 892
+ }
+}

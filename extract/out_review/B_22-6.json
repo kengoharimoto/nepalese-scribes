@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes; note expanded to flag the catalogue/colophon date conflict (LS 433 vs LS 528) and that the scribe and place appear only in the catalogue fields"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmahāmahopādhyāyaśrīgovinda",
+   "name": "Govinda",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahāmahopādhyāyaśrīgovindaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "lasaṃ 528 kārttikaśudidvitīyāyāṃ",
+  "era": "LS",
+  "year": "528",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1647"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The quoted colophon (fol. 58v, end of the 5th pariccheda) names only the author Govinda and gives the date LS 528 Kārttika śukla 2 (≈1647 CE). The catalogue fields give the scribe as Vaṃśamaṇi, the date as LS 433 vaiśākhaśuklacaturthī bhaumavāsara (≈1552 CE) and the place as Śataṃlakhāgrāma. None of these appear in this excerpt. They probably come from another colophon in the manuscript, perhaps a final or second one that wasn't quoted. Because the dates differ by 95 years, the manuscript may be composite, or one of the two dates may be a misreading. The scribe and place aren't recorded here because the quoted colophon doesn't support them. Check against the manuscript images.",
+ "_meta": {
+  "reel": "B 22/6",
+  "model": "opus",
+  "cost_usd": 0.066638,
+  "secs": 11.7
+ }
+}

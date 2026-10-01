@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījayabhūpatīndramalladeva",
+   "name": "Jayabhūpatīndramalla",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījayabhūpatīndramalladeva, mahārājādhirāja, viracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīśivarājopādhyāyale",
+   "name": "Śiva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "rājopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśivarājopādhyāyale banāyāko pustakam idaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat [ 808 . . .] śudi 2 roja 2",
+  "era": "NS",
+  "year": "808",
+  "month": "",
+  "paksa": "śuklapakṣa",
+  "tithi": "2",
+  "weekday": "roja 2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1688"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The name śrīśivarājopādhyāyale can be read either as Śiva with the title Rājopādhyāya or Śivarāja with the title Upādhyāya; Newar Brahmins commonly hold the title Rājopādhyāya. The verb form banāyāko is Nepali.",
+ "_meta": {
+  "reel": "A 1026/14",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 760,
+  "out_tok": 1269
+ }
+}

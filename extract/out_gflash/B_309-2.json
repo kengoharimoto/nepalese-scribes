@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhānudattamiśra",
+   "name": "Bhānudatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhānudattamiśraprakāśitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrībhavānīśaṅkarasya",
+   "name": "Bhavānīśaṅkara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhavānīśaṅkarasya putra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīgaurīśaṅkaraṇa",
+   "name": "Gaurīśaṅkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vipreṇa tena likhitā ... śrīgaurīśaṅkaraṇa (!) rasamañjarī saṃphuri coyā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrībhavānīśaṅkarasya (7) putra, śrīgaurīśaṅkaraṇa"
+  }
+ ],
+ "date": {
+  "as_written": "varṣe ʼ bdhivedagajake sati māsi māghe pakṣe site ʼntakatithau divase ʼsurejye ... saṃ. 844 māghaśuºº daśa (!) śukravāra",
+  "era": "NS",
+  "year": "844",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1724"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date is given both via chronogram (abdhi-veda-gajake = 844, antakatithau, asurejye) and numerically in Newari prose (saṃ. 844 māghaśu daśa śukravāra).",
+ "_meta": {
+  "reel": "B 309/2",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 820,
+  "out_tok": 1515
+ }
+}

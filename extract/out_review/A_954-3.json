@@ -1,0 +1,65 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 affiliation normalized to 'Dukṣe Vihāra (dukṣevāhāla)' instead of the hybrid 'Dukṣevāhāra'; residence spelled as Saṅkhu (Śaṅkharāpura), Dhvaṃlā Tol",
+   "p2 name: kept 'Jinaratnamuni' but noted that 'muni' may be an epithet (the catalogue gives 'Jinaratna'); confidence lowered to medium for the exact name form",
+   "Weekday normalized as buddhavāra (Wednesday); date as_written includes 'śubha'",
+   "Notes expanded; no other changes. NS 964 + 880 = 1844 CE checks out"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmādhava-",
+   "name": "Mādhava",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmādhavaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrībajrācāryyā jiṇaratnamunina",
+   "name": "Jinaratnamuni",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Dukṣe Vihāra (dukṣevāhāla)",
+   "residence": "Saṅkhu (Śaṅkharāpura), Dhvaṃlā Tol",
+   "evidence": "śrībajrācāryyā jiṇaratnamunina siddhayakā jula",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śubha samvat 964 sāla miti vaiśākhakṛṣṇayāṣyaṣṭamī (!) buddhavāra",
+  "era": "NS",
+  "year": "964",
+  "month": "Vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "buddhavāra (Wednesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1844"
+ },
+ "place": {
+  "as_written": "saṃkharāpūramahānagarayā dhvaṃlātola dukṣevāhālyā",
+  "normalized": "Sankhu"
+ },
+ "purpose": "",
+ "notes": "The era is not named, but samvat 964 fits Nepal Saṃvat (1844 CE), as the catalogue also takes it. The scribe's name appears as 'jiṇaratnamunina' (instrumental). The catalogue reads it as 'bajrācāryyamuni Jinaratna', i.e. it treats 'muni' as an epithet. The personal name may therefore be Jinaratna rather than Jinaratnamuni. The colophon calls the text 'saṃkṣepacikitsāvidhi' by Mādhava (the Mādhavanidāna). The scribe finished the copy ('siddhayakā jula') at Dukṣe Vihāra in Dhvaṃlā Tol, Saṅkhu. After the colophon come the usual scribal apology verse (yādṛśaṃ pustakaṃ dṛṣṭvā…) and a Newari injunction against giving away, selling or pawning the manuscript (thva saphu … viyeṃ maḍu hleyā viyaṃ madu …).",
+ "_meta": {
+  "reel": "A 954/3",
+  "model": "opus",
+  "cost_usd": 0.08867,
+  "secs": 19.6
+ }
+}

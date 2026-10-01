@@ -1,0 +1,47 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. Expanded the notes on the scribe conflict with the catalogue and the uncertainty in converting the LS date."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśaṅkareṇa",
+   "name": "Śaṅkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśaṅkareṇālekhi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "lasaṃ 433 vaiśākhaśuklacaturthyāṃ bhaume",
+  "era": "LS",
+  "year": "433",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "caturthī",
+  "weekday": "bhauma",
+  "nakshatra_yoga": "",
+  "ce_approx": "1552"
+ },
+ "place": {
+  "as_written": "śataṃlakhāgrāme",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives the scribe as Vaṃśamaṇi, but the quoted colophon (fol. 70v) clearly reads śrīśaṅkareṇālekhi. Vaṃśamaṇi may be named somewhere else in the manuscript that the cataloguer did not quote, so this cannot be settled from the colophon alone. The LS date converts to CE 1552 using +1119; because LS conversions are uncertain, it could also be 1551–1553. Śataṃlakhāgrāma is a village, probably in Mithilā, and has not been identified.",
+ "_meta": {
+  "reel": "B 22/7",
+  "model": "opus",
+  "cost_usd": 0.049915,
+  "secs": 11.3
+ }
+}

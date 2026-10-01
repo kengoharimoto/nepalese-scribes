@@ -1,0 +1,88 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayajitāmitre",
+   "name": "Jayajitāmitra",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpa",
+    "bhūpālacūḍāmaṇi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nṛpe jayajitāmitre mahīṃ śāsati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "devarāmasacivo",
+   "name": "Devarāma",
+   "roles": [
+    "commissioner",
+    "minister"
+   ],
+   "titles": [
+    "saciva",
+    "amātyottama"
+   ],
+   "affiliation": "",
+   "residence": "Bhaktapur",
+   "evidence": "bhaktāyāṃ purīdevarāmasacivo ... kūrmmapurāṇam indujamukhaiḥ prālekhayal",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "indujamukhaiḥ",
+   "name": "Induja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "indujamukhaiḥ prālekhayal lekhakaiḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "nṛpe jayajitāmitre mahīṃ śāsati, bhaktāyāṃ purīdevarāmasacivo"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "devarāmasacivo ... indujamukhaiḥ prālekhayal lekhakaiḥ"
+  }
+ ],
+ "date": {
+  "as_written": "pāvakakheṭaghoṭakamite nepālaśāke site, caitramāsi punarvvasau, kumudinii nāthe",
+  "era": "NS",
+  "year": "793",
+  "month": "Caitra",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "Somavāra",
+  "nakshatra_yoga": "Punarvasu",
+  "ce_approx": "1673"
+ },
+ "place": {
+  "as_written": "bhaktāyāṃ purī",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "The chronogram 'pāvakakheṭaghoṭaka' gives 3 (pāvaka), 9 (kheṭa = navagraha), 7 (ghoṭaka) = NS 793. 'kumudinīnātha' indicates the Moon (Monday).",
+ "_meta": {
+  "reel": "A 259/2",
+  "model": "gemini-flash-latest",
+  "secs": 8.5,
+  "in_tok": 899,
+  "out_tok": 2172
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajña viṣṇu siṃha",
+   "name": "Viṣṇusiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiti daivajña viṣṇu siṃha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 835 sāla jyeṣṭhavadi 9 ro 4",
+  "era": "NS",
+  "year": "835",
+  "month": "jyeṣṭha",
+  "paksa": "vadi",
+  "tithi": "9",
+  "weekday": "ro 4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1715"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 283/22",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 713,
+  "out_tok": 644
+ }
+}

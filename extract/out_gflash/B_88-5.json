@@ -1,0 +1,61 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paṇḍitabhikṣuprajñākarapādānāṃ",
+   "name": "Prajñākara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "paṇḍita",
+    "bhikṣu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtir iyaṃ paṇḍitabhikṣuprajñākarapādānāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dharmarāja gubhājule",
+   "name": "Dharmarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya",
+    "gubhāju"
+   ],
+   "affiliation": "",
+   "residence": "pāṭan cukabāhāla",
+   "evidence": "pāṭan cukabāhāla baśne, vajrācāryya, dharmarāja gubhājule, saṃpūrṇa lekhī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1978 sāla āśvinaśudi dvitīyā, somavāramā",
+  "era": "VS",
+  "year": "1978",
+  "month": "āśvina",
+  "paksa": "śudi",
+  "tithi": "dvitīyā",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1921"
+ },
+ "place": {
+  "as_written": "pāṭan cukabāhāla",
+  "normalized": "Patan"
+ },
+ "purpose": "tenāstu buddho janaḥ",
+ "notes": "",
+ "_meta": {
+  "reel": "B 88/5",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 880,
+  "out_tok": 855
+ }
+}

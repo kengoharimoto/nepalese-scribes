@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrī ///⁅lla⁆devasya",
+   "name": "///lladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmataśrīśrīrājāddhirājaḥ śrīśrī ///⁅lla⁆devasya vijayarāje",
+   "confidence": "low"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrījaya ///",
+   "name": "Jaya///",
+   "roles": [
+    "owner",
+    "scribe"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "śrīvūvahāra",
+   "residence": "śrīlalitabrumāyā śrāniglakaḥ paścimasthaḥ",
+   "evidence": "śrīvūvahāravaidyaḥ śrījaya ///⁅pusta⁆ko yaṃ ... mayā kaṣṭena likhitaḥ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "///⁅lla⁆devasya vijayarāje | śrīlalitabrumāyā ... śrījaya ///"
+  }
+ ],
+ "date": {
+  "as_written": "samvat minarituśra ///ekadaśīpradvādasya tithau | jeṣṭapramūlanakṣatre || guruvāsare",
+  "era": "NS",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "ekadaśīpradvādasya",
+  "weekday": "guruvāsare",
+  "nakshatra_yoga": "jeṣṭapramūlanakṣatre",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "śrīlalitabrumāyā śrāniglakaḥ paścimasthaḥ śrīvūvahāra",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The year is missing/corrupt ('minarituśra ///'). The king's name is fragmentary ('///lladeva'), likely a Malla king. The owner/scribe's name is also fragmentary ('Jaya///'). The place name 'lalitabrumāyā' is a corruption or variant of Lalitakramāyāṃ (Patan).",
+ "_meta": {
+  "reel": "A 45/8",
+  "model": "gemini-pro-latest",
+  "secs": 27.8,
+  "in_tok": 821,
+  "out_tok": 3195
+ }
+}

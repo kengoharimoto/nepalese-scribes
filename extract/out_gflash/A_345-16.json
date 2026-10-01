@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jaya raṇajitmalladeva",
+   "name": "Jayaraṇajitmalladeva",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrī jaya raṇajitmalladeva mahārājādhirāja viracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 886 jyeṣṭha sudi 3",
+  "era": "NS",
+  "year": "886",
+  "month": "jyeṣṭha",
+  "paksa": "sudi",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1766"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bhaktapur is recorded as the place in the catalogue metadata because King Jayaraṇajit Malla ruled Bhaktapur, but it is not mentioned in the colophon text itself.",
+ "_meta": {
+  "reel": "A 345/16",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 765,
+  "out_tok": 807
+ }
+}

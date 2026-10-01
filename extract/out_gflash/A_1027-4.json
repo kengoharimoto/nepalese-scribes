@@ -1,0 +1,47 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayaaṇajitamallamahārājādhirājapramabhaṭṭārakanarendra",
+   "name": "Jayaraṇajitamalla",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "paramabhaṭṭāraka",
+    "narendra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jayaaṇajitamallamahārājādhirājapramabhaṭṭārakanarendravicite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 885 caitaśudi 10",
+  "era": "NS",
+  "year": "885",
+  "month": "caita",
+  "paksa": "śudi",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1765"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author is King Raṇajit Malla of Bhaktapur (r. NS 842–889), written here as jayaaṇajitamalla...vicite (for viracite). The Newari word 'dhunakā' means 'finished'.",
+ "_meta": {
+  "reel": "A 1027/4",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 726,
+  "out_tok": 774
+ }
+}

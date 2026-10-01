@@ -1,0 +1,73 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Gaṅgādhara: removed role 'commissioner' — the colophon has only a genitive of possession (śrīgaṃgādharabrahmasya ... śrīmatottarasaṃcayaṃ), with no causative verb; kept 'owner'.",
+   "p1 name: kept 'Gaṅgādharabrahma' but noted that '-brahma' may mark brahmin status rather than be part of the name; confidence lowered to medium.",
+   "p2 Manohara: confidence lowered to medium because the name in the colophon is corrupt (mano†holasyaṃ†); the identification rests on the catalogue's 'Manohara'.",
+   "ce_approx corrected from 1706 to 1705: Mārgaśira kṛṣṇa 8 of NS 826 falls in about December 1705 (NS 826 began in about October 1705).",
+   "nakshatra and weekday kept; notes expanded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgaṃgādharabrahmasya(!)",
+   "name": "Gaṅgādharabrahma",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgaṃgādharabrahmasya(!), śrīmatottaraśa(!)ṃcayaṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "daivajñamano†holasyaṃ†",
+   "name": "Manohara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñamano†holasyaṃ†, lekhyate",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "śrīgaṃgādharabrahmasya(!), śrīmatottaraśa(!)ṃcayaṃ ... daivajñamano†holasyaṃ†, lekhyate"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 826 mārgavadi 8 pū(!)vvaphālguṇa aṃ(!)gāradina",
+  "era": "NS",
+  "year": "826",
+  "month": "mārgaśira",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "pūrvaphālguṇī",
+  "ce_approx": "1705"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name is corrupt: 'mano†holasyaṃ†' probably stands for manoharasya / manohareṇa. The reading Manohara follows the catalogue field 'Daivajña Manohara'. In 'gaṃgādharabrahmasya', '-brahma' may be a status marker meaning brahmin rather than part of the personal name, so 'Gaṅgādhara' alone is also possible. The genitive marks Gaṅgādhara as owner of the copy. The colophon does not say that he commissioned it. The verse date ('kṛṣṇe mārgaśire', aṣṭamī, Pūrvaphālgunī, Tuesday) agrees with the prose date NS 826 mārga vadi 8. NS 826 Mārgaśira kṛṣṇa falls in about late 1705 CE.",
+ "_meta": {
+  "reel": "A 194/3",
+  "model": "opus",
+  "cost_usd": 0.085854,
+  "secs": 18.2
+ }
+}

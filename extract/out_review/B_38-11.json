@@ -1,0 +1,68 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: name normalized to 'Vācaspati' (miśra moved to titles only, per stem-form rule)",
+   "p2: name normalized to 'Yadolāla Ratnākara' (the ms reading 'yadolālala' looks like dittography; the catalogue gives Yādolāla); confidence lowered to medium",
+   "date.tithi: 'gauha' is not a corruption. It is the vṛddhi derivative of Guha (the day sacred to Guha/Skanda = ṣaṣṭhī, 6). The Āryā metre needs the long 'gau'",
+   "date.weekday: 'saume' read as Monday (sauma < soma); Wednesday (saumya) is possible but less likely",
+   "date: chronogram verified (arvan 7, abdhi 4, adri 7, indu 1, read right to left = 1747); added a note on current vs. expired year",
+   "purpose normalized to 'svārtha (for the scribe's own use)'"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vācaspatimiśra",
+   "name": "Vācaspati",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvāca(6)spatimiśraviracitā sāṃkhyatattvakaumudī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "yadolālalaratnākarākhyaḥ",
+   "name": "Yadolāla Ratnākara",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Kāśī",
+   "evidence": "svārthaṃ kāśyām alikhad yadolālalaratnākarākhyaḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "arvābdhyadrīnduśake rādhāsitapakṣagauhasaume ʼhni",
+  "era": "ŚS",
+  "year": "1747",
+  "month": "Rādhā (= Vaiśākha)",
+  "paksa": "śukla (sita)",
+  "tithi": "6 (gauha = ṣaṣṭhī, Guha's tithi)",
+  "weekday": "Monday (saume)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1825"
+ },
+ "place": {
+  "as_written": "kāśyām",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "svārtha (for the scribe's own use)",
+ "notes": "The year is a bhūtasaṃkhyā chronogram: arvan (horse) 7, abdhi 4, adri 7, indu 1. Read right to left this gives Śaka 1747, which is ŚS+78 = 1825 CE. The colophon is a single Āryā verse. 'Gauha' (gau long) is metrically required and means 'belonging to Guha', i.e. ṣaṣṭhī. The scribe's name: the ms has 'yadolālala'. The metre (27 mātrās) works with either 'yadolālala' or the catalogue's 'yādolāla', so the name is probably Yādolāla/Yadulāla with a doubled 'la'. 'Ratnākara' is probably a family name or epithet, so I kept it in the name. A rough calendar check: if 1747 is the expired year, Vaiśākha śukla 6 falls around 22–24 April 1825, which does not give a Monday. If 1747 is the current year (= 1746 expired), it falls around 3 May 1824, which is a Monday and matches 'saume'. So the date could be 1824 rather than 1825. This was checked only with mean new moons and is unconfirmed.",
+ "_meta": {
+  "reel": "B 38/11",
+  "model": "opus",
+  "cost_usd": 0.13547399999999998,
+  "secs": 47.2
+ }
+}

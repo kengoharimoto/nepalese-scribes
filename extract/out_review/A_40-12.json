@@ -1,0 +1,100 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2: removed 'commissioner' — the colophon only says the book is his ('phulananāyakasya pustaka'), with no likhāpitam or similar. Roles are now owner only; the inferred commissioning is mentioned in notes.",
+   "p2: name split into 'Phulana' with 'nāyaka' moved to titles (headman title), confidence lowered to medium; residence corrected to Yupaṭola(ka) per 'yupaṭolakādhivāsino'.",
+   "p1: name normalized to Raphasadeva (dīva = deva, kept as part of the regnal name); residence emptied — he rules Pannugaviṣaya, but the colophon does not say where he lives; the viṣaya is kept in titles.",
+   "p3: name read as Tejāditya (dīta = ditya), confidence medium; naiṣṭika (= naiṣṭhika) kept as title.",
+   "place: normalized 'Panauti' removed as uncertain; the place of copying is not explicitly stated (Yupaṭola is the owner's residence).",
+   "purpose normalized to dharmārtha.",
+   "notes expanded: letter-numeral year, Kubjikāmata colophon vs catalogue title."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmahāsāmantaraphasadīva",
+   "name": "Raphasadeva",
+   "roles": [
+    "governor"
+   ],
+   "titles": [
+    "mahāsāmanta",
+    "pannugaviṣayādhipati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śṛīpannugaviṣayādhipatiśrīmahāsāmantaraphasadīvavijayarājeḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīkulaputra〈〈sya〉〉phulananāyakasya",
+   "name": "Phulana",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "kulaputra",
+    "nāyaka"
+   ],
+   "affiliation": "",
+   "residence": "Yupaṭola(ka)",
+   "evidence": "yupaṭolakādhivāsino | śrīkulaputra〈〈sya〉〉phulananāyakasya pustaka",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "naiṣṭikatejādīta",
+   "name": "Tejāditya",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "naiṣṭhika"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "naiṣṭikatejādītalikhita",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "phulananāyakasya pustaka ddarmārthena li[khi]taḥ naiṣṭikatejādītalikhita"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "pannugaviṣayādhipatiśrīmahāsāmantaraphasadīvavijayarājeḥ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat ā 7 śrāvanakṛṣṇadasaṃmyāṃ sukradine",
+  "era": "NS",
+  "year": "207",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "10 (daśamī)",
+  "weekday": "śukra (Friday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1087"
+ },
+ "place": {
+  "as_written": "yupaṭolaka (owner's residence), pannugaviṣaya",
+  "normalized": ""
+ },
+ "purpose": "dharmārtha (for merit), for the owner Phulana(nāyaka)",
+ "notes": "The year 'ā 7' uses letter-numerals. I follow the cataloguer's NS 207 (= 1087 CE). I have not verified this independently. Era 'samvat' is unspecified but the letter-numerals point to NS. The place of copying is not stated. Yupaṭolaka is where the owner lives, and Pannugaviṣaya is the district governed by the mahāsāmanta. Identifying Pannugaviṣaya with Panauti is possible but unproven. 'nāyaka' in Phulananāyaka may be part of the name and not a title. It is not stated that he commissioned the copy, but this is implied ('his book, written for merit'). The catalogue calls him donor, but the colophon has no donation formula. Raphasadīva/Raphasadeva is a mahāsāmanta, a feudatory ruler of a district, not a king: 'vijayarāje' marks his rule. The names Tejādīta and Raphasadīva are likely misspellings of -āditya and -deva. The colophon ending names Kubjikāmata (dvādaśasāhasrikā), chapter 32 'tripurāyoga', which does not match the catalogue title Uttaraṣaṭkaṭīkā.",
+ "_meta": {
+  "reel": "A 40/12",
+  "model": "opus",
+  "cost_usd": 0.107714,
+  "secs": 28.1
+ }
+}

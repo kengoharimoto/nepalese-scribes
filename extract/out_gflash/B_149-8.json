@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīpūrṇānaṃdaparamahaṃsena",
+   "name": "Pūrṇānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramahaṃsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpūrṇānaṃdaparamahaṃsena viracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1950 sāḷamiti phalguṇa (!) śūdi 2 roja 6",
+  "era": "ŚS",
+  "year": "1950",
+  "month": "phalguṇa",
+  "paksa": "śūdi",
+  "tithi": "2",
+  "weekday": "roja 6",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is stated as 'śrīśāke 1950', but the phrasing 'sāla miti' and the year 1950 strongly suggest that Vikrama Saṃvat 1950 (c. 1894 CE) was intended, as Śaka 1950 corresponds to 2028 CE.",
+ "_meta": {
+  "reel": "B 149/8",
+  "model": "gemini-flash-latest",
+  "secs": 6.7,
+  "in_tok": 704,
+  "out_tok": 1380
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśaṃkarācārya",
+   "name": "Śaṅkarācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya",
+    "bhagavat"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśaṃkarācāryabhagavatkṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "goviṃdabhavatpūjyapāda",
+   "name": "Govinda",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "bhavatpūjyapāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "goviṃdabhavatpūjyapādaśiṣya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "goviṃdabhavatpūjyapādaśiṣyaśrīśaṃkarācārya"
+  }
+ ],
+ "date": {
+  "as_written": "śāke 1767 phālguṇa śuklasaptamyaṃ tithau budhavāsare",
+  "era": "ŚS",
+  "year": "1767",
+  "month": "phālguṇa",
+  "paksa": "śukla",
+  "tithi": "saptamī",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1846"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrībrahmārpaṇam astu",
+ "notes": "No scribe or commissioner is mentioned. Only the author Śaṅkarācārya and his teacher Govindapāda are named in the text colophon.",
+ "_meta": {
+  "reel": "A 89/24",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 907,
+  "out_tok": 1730
+ }
+}

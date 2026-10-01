@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījīvanāthena",
+   "name": "Jīvanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījīvanāthena viracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dvijo gaṇapatiḥ",
+   "name": "Gaṇapati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lilekha, śīghraṃ dvijo gaṇapatiḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "abde gate śaranavācarake (!) vicitraṃ, vaiśākhamāsi dhavale girijātithau tat | vāre ravau",
+  "era": "unspecified",
+  "year": "śaranavācarake",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "girijātithau",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "pravaralokahitaṃ",
+ "notes": "The year is expressed via a corrupt chronogram: 'śaranavācarake (!)' (śara = 5, nava = 9, etc.). Girijātithi refers to either the 3rd or 8th tithi (associated with Gaurī/Girijā).",
+ "_meta": {
+  "reel": "A 423/24",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 727,
+  "out_tok": 1296
+ }
+}

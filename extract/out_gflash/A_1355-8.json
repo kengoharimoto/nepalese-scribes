@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dvijakṛṣṇadeva",
+   "name": "Kṛṣṇadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija",
+    "lipivara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhan lipivaro dvijakṛṣṇadeva",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvatsare ʼnalasutānanagotragotre pakṣe site ʼśvayujapūrṇṇam iyāta",
+  "era": "unspecified",
+  "year": "ʼnalasutānanagotragotre",
+  "month": "āśvayuja",
+  "paksa": "sita",
+  "tithi": "pūrṇimā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is expressed via a chronogram in verse ('ʼnalasutānanagotragotre'). The phrase 'lakṣmīśasomasahito harināmayuktaḥ' describes the scribe Kṛṣṇadeva (who is 'harināmayukta', bearing a name of Hari); 'lakṣmīśasoma' likely refers to deities/splendor rather than human individuals.",
+ "_meta": {
+  "reel": "A 1355/8",
+  "model": "gemini-flash-latest",
+  "secs": 17.3,
+  "in_tok": 723,
+  "out_tok": 3795
+ }
+}

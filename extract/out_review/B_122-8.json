@@ -1,0 +1,75 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 name normalized to 'Harideva' (stem form): 'śarman' moved to titles alongside 'vipra'",
+   "p2 roles reduced to 'owner': the genitive 'śrīharidevaśarmmaṇaḥ' after 'likhitaṃ' means the copy was written for him, but no causative (likhāpitam etc.) is used, so 'commissioner' is not stated; confidence lowered to medium",
+   "weekday normalized to 'budhavāra' (as written: vudhavāre)",
+   "notes expanded on the cataloguer's (!) and the catalogue's attribution of scribe"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāyasthadevarāmeṇa",
+   "name": "Devarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ kāyasthadevarāmeṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vipra śrīharidevaśarmmaṇaḥ",
+   "name": "Harideva",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "vipra",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ kāyasthadevarāmeṇa vipra śrīharidevaśarmmaṇaḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "likhitaṃ kāyasthadevarāmeṇa vipra śrīharidevaśarmmaṇaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat762vaiśākhaśuklapūrṇimāyāṃ, anurādhānakṣatraśivayoge vudhavāre",
+  "era": "NS",
+  "year": "762",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "Anurādhā nakṣatra, Śiva yoga",
+  "ce_approx": "1642"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "written for vipra Harideva",
+ "notes": "The catalogue lists Harideva Śarmmaṇa as the scribe. The colophon's instrumental 'kāyasthadevarāmeṇa' marks the kāyastha Devarāma as the scribe. The genitive 'vipra śrīharidevaśarmmaṇaḥ' marks the brahmin Harideva as the person the copy was made for. The cataloguer's (!) probably flags this syntax (or the form śarmmaṇaḥ). If the genitive is a slip for an instrumental, Harideva could instead be a co-scribe, but the text as transmitted supports owner / recipient. He may have commissioned the copy, but the colophon does not say so explicitly. The era is unspecified ('samvat'), but a Newari script and a 3-digit year point to Nepāla Saṃvat: 762+880 ≈ 1642 CE. The weekday, nakṣatra and yoga have not been verified against an ephemeris.",
+ "_meta": {
+  "reel": "B 122/8",
+  "model": "opus",
+  "cost_usd": 0.08271400000000001,
+  "secs": 17.9
+ }
+}

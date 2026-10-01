@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "narāēna dāsa",
+   "name": "Nārāyaṇadāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Kāśī",
+   "evidence": "likhite narāēna dāsa || kāsī vāsī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1704 sa(?) caitra sudī || 12 || vāra ravīvāsare",
+  "era": "VS",
+  "year": "1704",
+  "month": "caitra",
+  "paksa": "śuklapakṣa",
+  "tithi": "12",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1647"
+ },
+ "place": {
+  "as_written": "śrībhīmasenī nīkaṭe || mukāmakā (?)",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe identifies himself as an inhabitant of Kāśī (kāsī vāsī) writing near a Bhīmasena temple/shrine (śrībhīmasenī nīkaṭe).",
+ "_meta": {
+  "reel": "A 1379/6",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 817,
+  "out_tok": 1072
+ }
+}

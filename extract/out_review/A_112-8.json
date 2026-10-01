@@ -1,0 +1,311 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name: 'jyeṣṭha' treated as an epithet ('eldest' or head of household), not part of the name, so the name is Naravīrasiṃha. 'jyeṣṭha' moved to titles and kāyastha normalised.",
+   "p1: Lalitapura and Vakaṃbāhāla moved to residence. Vakaṃbāhāla is the donor's locality and is not clearly a monastic affiliation.",
+   "Place of copying: the colophon does not state where the copy was made. The Lalitapura address belongs to the donor, so the place field is now empty and this is explained in the notes.",
+   "p10/p11: 'relative_only' removed. They are the beneficiaries of the merit transfer.",
+   "Added son_of/daughter_of relations from the children to the mother, Tejalakṣmī (p2).",
+   "Purpose rephrased as a merit transfer to the deceased parents rather than 'parārtha'.",
+   "Notes expanded: the catalogue gives Maṇidatta as scribe but the colophon names Tejadatta; the form 'śrī3nokhaṇḍa' is unclear; 'ekakṣe' is unclear."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jyeṣṭhanaravīrasiṃha",
+   "name": "Naravīrasiṃha",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [
+    "kāyastha",
+    "jyeṣṭha"
+   ],
+   "affiliation": "",
+   "residence": "Lalitapura (Patan), Vakaṃbāhāla",
+   "evidence": "dānapati śrīlalitāpūramahānagarayā, ekakṣe, vakaṃbāhālayā, kāyaṣṭha, jyeṣṭhanaravīrasiṃha ... cocakaṃ dayakā julo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "tejalakṣmī",
+   "name": "Tejalakṣmī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāryyātejalakṣmī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "mānavīrasiṃ",
+   "name": "Mānavīrasiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jyeṣṭhaputra, mānavīrasiṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "kṛṣṇamānasiṃ",
+   "name": "Kṛṣṇamānasiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvitīyaputra; kṛṣṇamānasiṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "kulamānasiṃ",
+   "name": "Kulamānasiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tṛtīyaputra, kulamānasiṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "gajamānasiṃ",
+   "name": "Gajamānasiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "caturthaputra, gajamānasiṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "devithakuṃ",
+   "name": "Devīthakuṃ",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jyeṣṭhaputrī, devithakuṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p8",
+   "as_written": "bhavānidevi",
+   "name": "Bhavānīdevī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvitīyaputrī, bhavānidevi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p9",
+   "as_written": "durgādevī",
+   "name": "Durgādevī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tṛtīyaputrī, durgādevī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p10",
+   "as_written": "dhanavīrasiṃha",
+   "name": "Dhanavīrasiṃha",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svapitā, dhanavīrasiṃha ... svargārohana juyā o",
+   "confidence": "high"
+  },
+  {
+   "pid": "p11",
+   "as_written": "gaṃgālakṣmī",
+   "name": "Gaṅgālakṣmī",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svamātṛ, gaṃgālakṣmī, svargārohana juyā o",
+   "confidence": "high"
+  },
+  {
+   "pid": "p12",
+   "as_written": "tejadattana",
+   "name": "Tejadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Elacukravāhāla",
+   "residence": "Elacukravāhāla",
+   "evidence": "lekhaka elacukravāhālayā, śrīvajrācāryya, śrītejadattana coyā jula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wife_of",
+   "to": "p1",
+   "evidence": "bhāryyātejalakṣmī"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "jyeṣṭhaputra, mānavīrasiṃ"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "dvitīyaputra; kṛṣṇamānasiṃ"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "tṛtīyaputra, kulamānasiṃ"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "caturthaputra, gajamānasiṃ"
+  },
+  {
+   "from": "p7",
+   "type": "daughter_of",
+   "to": "p1",
+   "evidence": "jyeṣṭhaputrī, devithakuṃ"
+  },
+  {
+   "from": "p8",
+   "type": "daughter_of",
+   "to": "p1",
+   "evidence": "dvitīyaputrī, bhavānidevi"
+  },
+  {
+   "from": "p9",
+   "type": "daughter_of",
+   "to": "p1",
+   "evidence": "tṛtīyaputrī, durgādevī"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "bhāryyātejalakṣmī, jyeṣṭhaputra, mānavīrasiṃ"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "dvitīyaputra; kṛṣṇamānasiṃ"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "tṛtīyaputra, kulamānasiṃ"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "caturthaputra, gajamānasiṃ"
+  },
+  {
+   "from": "p7",
+   "type": "daughter_of",
+   "to": "p2",
+   "evidence": "jyeṣṭhaputrī, devithakuṃ"
+  },
+  {
+   "from": "p8",
+   "type": "daughter_of",
+   "to": "p2",
+   "evidence": "dvitīyaputrī, bhavānidevi"
+  },
+  {
+   "from": "p9",
+   "type": "daughter_of",
+   "to": "p2",
+   "evidence": "tṛtīyaputrī, durgādevī"
+  },
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p10",
+   "evidence": "svapitā, dhanavīrasiṃha"
+  },
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p11",
+   "evidence": "svamātṛ, gaṃgālakṣmī"
+  },
+  {
+   "from": "p12",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "lekhaka ... śrītejadattana coyā jula"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 966 miti caitrakṛṣṇayā, trayodasi, bṛhaspativāra",
+  "era": "NS",
+  "year": "966",
+  "month": "Caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "bṛhaspativāra (Thursday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1846"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "Merit transfer for the donor's deceased parents, Dhanavīrasiṃha and Gaṅgālakṣmī (svargārohana juyā o). Also made because the donor's family resolved on a religious act (dharmacittautpatti), with wishes for the donor's prosperity and knowledge.",
+ "notes": "The catalogue field gives Maṇidatta as scribe, but the colophon names the scribe as Vajrācārya Tejadatta of Elacukravāhāla ('śrītejadattana coyā jula'); the -na ending is the Newari ergative. No place of copying is stated. The donor lived in Lalitapura (Patan) at Vakaṃbāhāla. 'ekakṣe' is unclear (perhaps a locality or a corruption). In 'jyeṣṭhanaravīrasiṃha', 'jyeṣṭha' is taken as an epithet ('eldest' or head of household), not part of the name. 'śrī3nokhaṇḍapuṣṭaka' is unclear; it may be a corruption of 'navakhaṇḍa' or a name of the text. The date NS 966 Caitra kṛṣṇa 13, a Thursday, falls in about March/April 1846 CE. The weekday has not been checked.",
+ "_meta": {
+  "reel": "A 112/8",
+  "model": "opus",
+  "cost_usd": 0.154574,
+  "secs": 35.7
+ }
+}

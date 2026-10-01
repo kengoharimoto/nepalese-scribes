@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sadāśivasya",
+   "name": "Sadāśiva",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sadāśivasya pāṭhārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke rasāṣṭabhūpe ca tulārke daśamītithau",
+  "era": "ŚS",
+  "year": "1686",
+  "month": "tulārka",
+  "paksa": "",
+  "tithi": "daśamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1764"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "sadāśivasya pāṭhārthaṃ",
+ "notes": "The scribe is designated only as the elder brother(s) of the beneficiary (sadāśivasya pāṭhārthaṃ liṣitaṃ jeṣṭhabhrātṛbhiḥ) without a personal name. Chronogram: rasa (6), aṣṭa (8), bhūpa (16) = Śaka 1686.",
+ "_meta": {
+  "reel": "A 167/27",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 775,
+  "out_tok": 1312
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Normalized the tithi spelling to 'pūrṇimā' and the weekday to 'Sunday (ravau)'.",
+   "Added notes: 'mahā…' may begin a title such as mahāmahopādhyāya, or may be the rest of a longer name, so 'Bhīma' may be incomplete.",
+   "Added notes: the scribe role rests only on the catalogue and the usual colophon formula, because the verb is lost in the lacuna. He could also be the commissioner or owner.",
+   "Added notes: LS conversion is not exact (+1118/1119) and Pauṣa falls around December–January, so the CE date is about 1542/43.",
+   "Persons, date (LS 424, about 1543 CE) and place (Kaṅkapura, not identified) otherwise kept as in the first reading."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "miśraśrībhīmamahā++++++++",
+   "name": "Bhīma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kaṅkapure miśraśrībhīmamahā++++++++",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "la saṃ 424 pauṣaśuklapurṇṇimāyāṃ ravau",
+  "era": "LS",
+  "year": "424",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "Sunday (ravau)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1543"
+ },
+ "place": {
+  "as_written": "kaṅkapure",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon breaks off after 'miśraśrībhīmamahā' and the rest is lost (++++++++). 'mahā…' probably begins a title such as mahāmahopādhyāya, or may be part of a longer name, so 'Bhīma' may be incomplete. The verb is lost, so his role is not stated. Calling him the scribe follows the catalogue and the usual colophon pattern (place + name + likhitam), but he could also be the commissioner or owner. LS 424 + 1119 = 1543 CE. Because LS conversion is not exact and Pauṣa falls around December–January, the date is about 1542/43 CE. Kaṅkapura is not identified; it is presumably in Mithilā, since the script is Maithilī.",
+ "_meta": {
+  "reel": "A 20/6",
+  "model": "opus",
+  "cost_usd": 0.055171,
+  "secs": 16.0
+ }
+}

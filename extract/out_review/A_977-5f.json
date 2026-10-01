@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday normalized: 'roja 5' = 5th day = Thursday",
+   "paksa normalized to 'śukla'",
+   "notes expanded: verified that the three eras agree, and recorded the orthographic variants"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgovindacaraṇaupādhyāyena",
+   "name": "Govindacaraṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgovindacaraṇaupādhyāyena liṣita idaṃ puṣṭakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke saṃvat 1769 sāla śrāvaṇa śu di 15 roja 5 ... vikramābda 1904 || naipālasaṃvat 967",
+  "era": "ŚS",
+  "year": "1769",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "15 (pūrṇimā)",
+  "weekday": "Thursday (roja 5)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1847"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives the date in three eras, and they agree: Śaka 1769 (+78 = 1847), Vikrama 1904 (−57 = 1847) and Nepāla Saṃvat 967 (+880 = 1847). Śrāvaṇa śukla 15 falls in July/August 1847 CE. 'roja 5' is the fifth weekday, i.e. Thursday; I did not check it against an ephemeris. 'liṣita' and 'likṣitaṃ' are spellings of likhitam, and 'puṣṭakaṃ' of pustakam. The second statement ('śrīkālikāyā prasādena idaṃ puṣṭakaṃ likṣitaṃ') is an invocatory formula and does not add a second scribe. The catalogue's 'SAM 1769' is the Śaka year.",
+ "_meta": {
+  "reel": "A 977/5f",
+  "model": "opus",
+  "cost_usd": 0.06951399999999999,
+  "secs": 11.6
+ }
+}

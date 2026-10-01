@@ -1,0 +1,60 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmahābauddhopāśakaśrīmaheśvarānaṃdena",
+   "name": "Maheśvarānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "mahābauddhopāsaka",
+    "bauddhācārya"
+   ],
+   "affiliation": "Ukubāhāla Mahābuddha",
+   "residence": "śrīlalitapūranagara",
+   "evidence": "śrīmahābauddhopāśakaśrīmaheśvarānaṃdena samāptakriyā(!) ... mahśvarānandabauddhācāryena(!) likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "haladhara upādhyāyena",
+   "name": "Haladhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "haladhara upādhyāyena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "svasti śrīsaṃvat 1941 sālam iti pauṣaśudi 11",
+  "era": "VS",
+  "year": "1941",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1884"
+ },
+ "place": {
+  "as_written": "śrīlalitapū(!)ranagaradhi[[ukubāhāla mahābuddha]]",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The manuscript was copied jointly: Haladhara Upādhyāya copied 3575 granthas and Maheśvarānanda copied 8149 granthas out of the total 11724 granthas.",
+ "_meta": {
+  "reel": "A 1040/6",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 922,
+  "out_tok": 1440
+ }
+}

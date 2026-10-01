@@ -1,0 +1,56 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "amarasiṃhakṛtau",
+   "name": "Amarasiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ity amarasiṃhakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "indrasīha",
+   "name": "Indrasiṃha",
+   "roles": [
+    "beneficiary",
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "indrasīhapāthārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1842 kā mārgaśiramāse kṛṣnapakṣe kṛṣṇai navamyā (!) tithau śukravāre",
+  "era": "VS",
+  "year": "1842",
+  "month": "mārgaśira",
+  "paksa": "kṛṣṇa",
+  "tithi": "navamī",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1785"
+ },
+ "place": {
+  "as_written": "śīvapūri subhathāne(!)",
+  "normalized": "Śivapurī"
+ },
+ "purpose": "pāṭhārtha (for the study/reading of Indrasiṃha)",
+ "notes": "The catalogue lists Indrasiṃha as the scribe, but the colophon reads 'indrasīhapāthārthaṃ' (for the reading/study of Indrasiṃha), making him the intended reader/beneficiary rather than explicitly the copyist.",
+ "_meta": {
+  "reel": "A 964/27",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 777,
+  "out_tok": 1286
+ }
+}

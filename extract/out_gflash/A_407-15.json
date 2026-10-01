@@ -1,0 +1,47 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī śrījayaraṇajīta malladeva mahārājasana",
+   "name": "Jayaraṇajitmalladeva",
+   "roles": [
+    "commissioner",
+    "king"
+   ],
+   "titles": [
+    "mahārāja",
+    "nepāleśvaramahārājādhirāja",
+    "gaubrāhmaṇapālaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śrījayaraṇajīta malladeva mahārājasana thva jaiminīsūtraṭīkā dayakaṃtayā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 874 śrāvaṇakṛṣṇa 15 (!) ādityavāra",
+  "era": "NS",
+  "year": "874",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "15",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1754"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Jayaraṇajitmalladeva (Jayarañjit Malla) was the king of Bhaktapur (r. 1722–1769 CE). The colophon records that he commissioned the making of the manuscript (dayakaṃtayā juro).",
+ "_meta": {
+  "reel": "A 407/15",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 886,
+  "out_tok": 1584
+ }
+}

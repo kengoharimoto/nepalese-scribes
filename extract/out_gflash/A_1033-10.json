@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vīrabhadraḥ",
+   "name": "Vīrabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vyalikhad amaladhīḥ pustakaṃ vīrabhadraḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepāla sammatetra grahaturagamunāvaṃkite caitramāse śuklatithyāṃ hi rudre maghasahita yute yogarāje ca śūle | vāre vāgīśvarākhye",
+  "era": "NS",
+  "year": "779",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "rudra (11)",
+  "weekday": "vāgīśvara (Thursday)",
+  "nakshatra_yoga": "maghā, śūla",
+  "ce_approx": "1659"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "puṇya",
+ "notes": "The chronogram graha-turaga-muni reads 9-7-7 (NS 779). The scribe Vīrabhadra is described as kṣitipatikulajaḥ ('born of a royal/kṣatriya lineage'). Śrīpati refers to the deity Viṣṇu.",
+ "_meta": {
+  "reel": "A 1033/10",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 787,
+  "out_tok": 1216
+ }
+}

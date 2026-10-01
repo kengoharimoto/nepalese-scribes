@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Normalised weekday 'vudha' to 'budha (Wednesday)'; the date continues into a lacuna after it.",
+   "Normalised nakṣatra to 'Anurādhā'.",
+   "p1: role 'beneficiary' kept but marked tentative. The '-sya śubham' blessing usually names the scribe or the owner, and the lacuna before it may have held a scribe statement. Added this to notes.",
+   "Added notes on the corrupt text name and the lost era."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "…rāmasya",
+   "name": "…rāma",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "…..rāmasya śubham",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat…3 kārttikaśudi 2 anurādhanakṣatre vudha…….",
+  "era": "unspecified",
+  "year": "…3",
+  "month": "Kārttika",
+  "paksa": "śukla (śudi)",
+  "tithi": "2",
+  "weekday": "budha (Wednesday)",
+  "nakshatra_yoga": "Anurādhā",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon has gaps at several points. Only the last digit (3) of the year survives, and no era is named, so no CE date can be given. The 'saṃvat' form and 'śudi' point to Nepal Saṃvat or Vikrama Saṃvat, but this is not certain. Only the ending of the person's name, -rāma, survives: '…rāmasya śubham'. This is a blessing formula, so the person is most likely the scribe or the owner. The role 'beneficiary' is therefore tentative. The words lost before it may have contained a scribe statement such as 'likhitam … rāmeṇa'. The text title is corrupt in the colophon: 'nityāṣāḍe śirārṇave' is probably a garbled form of Nityāṣoḍaśikārṇava. Folio reference '13r1' is probably '113r1'.",
+ "_meta": {
+  "reel": "B 172/20",
+  "model": "opus",
+  "cost_usd": 0.069082,
+  "secs": 14.4
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vīrabhadra",
+   "name": "Vīrabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vīrabhadraniṣitāmuyudevaḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "siṣunāgamunināma punābde mādhave himarūcidye tiṣasṭhyāṃ sūryya ja ca divasena ... samvat 787 || vaiśā ṣaṣṭhi śanivāra",
+  "era": "NS",
+  "year": "787",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "6",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1667"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives a date in a Sanskrit verse followed by a Newari gloss: siṣu-nāga-muni- (chronogram for 787), mādhave (= vaiśā), tiṣasṭhyāṃ (= ṣaṣṭhi), sūryyaje (= śanivāra). 'vīrabhadraniṣitāmuyudevaḥ' likely misreads 'vīrabhadra-likhitā mudā eva' or similar, matching the Newari gloss 'coyā' ('written'), indicating Vīrabhadra as the scribe.",
+ "_meta": {
+  "reel": "A 1057/4",
+  "model": "gemini-flash-latest",
+  "secs": 19.6,
+  "in_tok": 749,
+  "out_tok": 4305
+ }
+}

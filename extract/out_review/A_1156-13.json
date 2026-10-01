@@ -1,0 +1,54 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Re-segmented 'dvijavara śrīsaśidevātmaja pravoddanārtha': read as 'dvijavara-śrī-Śaśideva[na] ātmaja-prabodhanārtha[ṃ]' ('by the excellent brahmin Śaśideva, to instruct his son'). The instrumental 'vāsina' (= vāsinā) needs an agent noun, and a scribe naming himself only as 'son of X' would be unusual. Śaśideva is therefore the scribe and owner (svaṃ pustakaṃ), not merely the father.",
+   "Removed p1 'Śaśidevātmaja' as a person. The son is not named, so he appears only in purpose and notes. The son_of relation is removed as well.",
+   "Date: 'aśukla' read as Āśvina śukla. On śukla 5 the Moon in Jyeṣṭhā puts the Sun around Kanyā, which fits amānta Āśvina. Set month Āśvina and pakṣa śukla. NS 586 ≈ 1466 CE is kept.",
+   "Purpose rewritten as instruction of the scribe's son; the book is his own.",
+   "Place as_written is now the full phrase; Patan is kept (Lalitabruma/Lalitapura, Mānīgala)."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dvijavara śrīsaśideva(-ātmaja...)",
+   "name": "Śaśideva",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "Valānihma, south of Mānīgala, Lalitabruma (Patan)",
+   "evidence": "likhitam ideṃ ... yāmagṛhādivāsina|| dvijavara śrīsaśidevātmaja pravoddanārtha(!) svaṃ pvaṣṭakaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvata 586(!) aśukla(!)pañcaṃmyāṃ tithau | jyeṣṭa(!) nakṣatre || somavāsare",
+  "era": "NS",
+  "year": "586",
+  "month": "Āśvina (conjectural, from 'aśukla')",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "Monday (somavāsara)",
+  "nakshatra_yoga": "Jyeṣṭhā",
+  "ce_approx": "1466"
+ },
+ "place": {
+  "as_written": "śrīlaḍitabrumā(!) śrīmānīgalake dakṣiṇata(!) || pitho valānihmaṃ yāmagṛhādivāsina",
+  "normalized": "Patan"
+ },
+ "purpose": "ātmaja-prabodhanārtham: for the instruction of (the scribe's) son; svaṃ pustakam: his own book",
+ "notes": "'śrīsaśidevātmaja pravoddanārtha' is ambiguous. The preferred reading is Śaśideva as scribe and owner, writing to instruct his unnamed son (ātmaja-prabodhanārtham), with 'vāsina' as an instrumental agent. The alternative is that the scribe is an unnamed son of Śaśideva copying for his own study. 'aśukla' is most likely Āśvina śukla: Jyeṣṭhā on śukla 5 implies the Sun is in Kanyā. The cataloguer marked the year 586 with (!), so it may be misread. NS 586 = 1466 CE, but the weekday has not been verified. 'Laḍitabrumā' = Lalitabruma/Lalitapura (Patan); 'Mānīgala' = Maṇigal, the palace area. 'pitho' may be a corruption of 'pīṭha' or of a locality name.",
+ "_meta": {
+  "reel": "A 1156/13",
+  "model": "opus",
+  "cost_usd": 0.10137399999999999,
+  "secs": 27.0
+ }
+}

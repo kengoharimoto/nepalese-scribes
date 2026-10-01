@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ṭōḍarānandasaṃjñaḥ",
+   "name": "Ṭoḍarānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vilikhatya śūbhamaṃ vedvāś dhanāyaṃ suviñair anativipulavudhir ṭōḍarānandasaṃjñaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śaradi apani paṃcāṅkendge īṣa śūbhre ahi tithi gurū pāre",
+  "era": "unspecified",
+  "year": "apani paṃcāṅkendge",
+  "month": "īṣa",
+  "paksa": "śūbhre",
+  "tithi": "ahi",
+  "weekday": "gurū pāre",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Īṣa (Iṣa) refers to the month of Āśvina; śubhra refers to śuklapakṣa; ahi tithi likely refers to the 8th tithi. The chronogram for the year includes avani (1), pañca (5), aṅka (9), indu (1), possibly VS 1951 or VS 1591.",
+ "_meta": {
+  "reel": "A 197/5",
+  "model": "gemini-flash-latest",
+  "secs": 7.9,
+  "in_tok": 766,
+  "out_tok": 1754
+ }
+}

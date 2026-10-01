@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "balabhadra",
+   "name": "Balabhadra",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "balabhadraviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dāmodara",
+   "name": "Dāmodara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajñavarya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñavaryamaṃ(!)ḍitadāmodarātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "dāmodarātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "saṃ1872 aśvinakṛṣṇa3 gurau",
+  "era": "VS",
+  "year": "1872",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "3",
+  "weekday": "gurau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1815"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "maṃ(!)ḍita in daivajñavaryamaṃ(!)ḍitadāmodarātmaja is likely a scribal error for paṇḍita.",
+ "_meta": {
+  "reel": "B 345/3",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 706,
+  "out_tok": 1241
+ }
+}

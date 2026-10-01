@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībṛhaspati ācārya",
+   "name": "Bṛhaspati",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībṛhaspati ācāryaviracita",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat || 1867 || vaiśāṣe śukla ||paºº|| somavāsare",
+  "era": "VS",
+  "year": "1867",
+  "month": "vaiśāṣa",
+  "paksa": "śukla",
+  "tithi": "paºº",
+  "weekday": "somavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1810"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bṛhaspati is the traditional/legendary author. Tithi abbreviated as paºº.",
+ "_meta": {
+  "reel": "A 1002/1",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 712,
+  "out_tok": 822
+ }
+}

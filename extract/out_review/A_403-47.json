@@ -1,0 +1,82 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 Dādābhāī: role reduced to 'commentator' only (the work is a vivaraṇa on the Sūryasiddhānta, not an original text); evidence shortened",
+   "p1 Mādhava: Cittapāvana kept as community affiliation, since 'cittapāvana' qualifies the father and son phrase as a whole",
+   "date: year field now records the chronogram as read right to left (megha-iṣu(5)-kha(0)); notes expanded on the non-standard word 'megha' and the possible reading ŚS 1750 ≈ 1828 CE; ce_approx left empty"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mādhavātmaja",
+   "name": "Mādhava",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "Cittapāvana",
+   "residence": "",
+   "evidence": "cittapāvana mādhavātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dādābhāīkṛte",
+   "name": "Dādābhāī",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "Cittapāvana",
+   "residence": "",
+   "evidence": "mādhavātmaja dādābhāīkṛte caṃdrakiraṇāvalīsaṃjñe saura sūtravivaraṇaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vedagarbho",
+   "name": "Vedagarbha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sūryasiddhāṃta vivṛttiṃ vedagarbho vyalīlikhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "mādhavātmaja dādābhāīkṛte"
+  }
+ ],
+ "date": {
+  "as_written": "kheṣumegha miteśāke kanyāsakte divākare",
+  "era": "ŚS",
+  "year": "kha(0)-iṣu(5)-megha(?) → ?50 (right to left: megha 5 0)",
+  "month": "Kanyā (solar; sun in Virgo, ≈ Bhādrapada/Āśvina)",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The chronogram is kha (0) + iṣu (5) + megha. 'Megha' is not a standard bhūtasaṃkhyā word. Read right to left, the year is [megha]50 Śaka. Dādābhāī (the Cittapāvana author of the Kiraṇāvalī commentary on the Sūryasiddhānta, son of Mādhava) is usually dated to the early 18th century, about ŚS 1641 / 1719 CE. If 'megha' stands for 17, the copy would be ŚS 1750 ≈ 1828 CE, which fits that dating, but this is a guess and ce_approx is left empty. The text could also be corrupt. The scribe's line says only 'sūryasiddhāṃta vivṛtti' and gives no place. The catalogue title 'Candrakiraṇāvalī (golādhyāya)' differs from the colophon, which closes the mānādhyāya (14) and then the whole commentary.",
+ "_meta": {
+  "reel": "A 403/47",
+  "model": "opus",
+  "cost_usd": 0.08507,
+  "secs": 18.9
+ }
+}

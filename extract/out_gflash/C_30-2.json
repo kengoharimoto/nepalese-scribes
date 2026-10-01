@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhairavācārya",
+   "name": "Bhairavācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhairavācāryaviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dvijaśrīmaheśvara",
+   "name": "Maheśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhad dvijaśrīmaheśvarasamā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "surapratāpo juvarāja",
+   "name": "Surapratāpa",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [
+    "juvarāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "surapratāpo juvarājapriti idaṃ rahasyaṃ likhad",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "surapratāpo juvarājapriti idaṃ rahasyaṃ likhad"
+  }
+ ],
+ "date": {
+  "as_written": "śākognināgārttuśaśiś ca saṃkhyā māsorjabhā niyamadaivateṣu || tithau dvitīyā guruvāsareṣu",
+  "era": "ŚS",
+  "year": "1683",
+  "month": "Kārttika",
+  "paksa": "",
+  "tithi": "dvitīyā",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1761"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "surapratāpo juvarājaprīti (for the pleasure/benefit of Prince Surapratāpa)",
+ "notes": "The chronogram 'agni-nāga-ṛtu-śaśi' denotes 1683 Śaka era. 'Ūrja' is an epithet of Kārttika month.",
+ "_meta": {
+  "reel": "C 30/2",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 995,
+  "out_tok": 1403
+ }
+}

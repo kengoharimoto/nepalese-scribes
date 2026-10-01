@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jīvanāthaśarmaṇā",
+   "name": "Jīvanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ jīvanāthaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1792 miti āśvinakṛṣṇa 8 roja 1",
+  "era": "ŚS",
+  "year": "1792",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "roja 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1870"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 428/17",
+  "model": "gemini-flash-latest",
+  "secs": 3.0,
+  "in_tok": 686,
+  "out_tok": 539
+ }
+}

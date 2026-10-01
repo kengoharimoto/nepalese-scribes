@@ -1,0 +1,113 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p3 Pravala: kept commissioner+owner but lowered confidence to medium — 'yogyeṣu likhitam' means 'written for (the use of)' and does not say outright that he had it made; 'donor' (catalogue) is not supported",
+   "p3: added suggested reading Prabala (Nep. Prabal) in notes; stem kept as written",
+   "place.normalized: changed 'Gangolihat, Kumaon' to 'Kumaon'. Gaṅgāvālī is the Gaṅgolī region rather than the town of Gangolihat, and the colophon gives it as the scribe's residence, not explicitly as the place of copying",
+   "purpose rephrased: written for Subbā Pravala Rāṇā",
+   "notes expanded: the ŚS 1719 date fits Gorkha rule in Kumaon (1790–1815); the catalogue's 1789 is probably a misprint"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgadādharasuta",
+   "name": "Gadādhara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "vaidyapravarācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadvaidyapravarācāryya śrīgadādharasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvaṃgasenakṛtau",
+   "name": "Vaṅgasena",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "vaidyavidyācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vaidyavidyācārya śrīvaṃgasenakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīsuvā pravalarāṇā",
+   "name": "Pravala",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "suvā",
+    "rāṇā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsuvā pravalarāṇā yogyeṣu likhitam",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "rāmakṛṣṇapaṃtena",
+   "name": "Rāmakṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paṃta"
+   ],
+   "affiliation": "",
+   "residence": "śrīkūrmācale gaṃgāvālī",
+   "evidence": "likhitam idaṃ pustaka rāmakṛṣṇapaṃtena śrīkūrmācale gaṃgāvālī nivāsinā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīgadādharasuta ... śrīvaṃgasenakṛtau"
+  },
+  {
+   "from": "p4",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "śrīsuvā pravalarāṇā yogyeṣu likhitam idaṃ pustaka rāmakṛṣṇapaṃtena"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat śrīśāke 1719 mārgaśīrṣa sudi 1 ravau",
+  "era": "ŚS",
+  "year": "1719",
+  "month": "mārgaśīrṣa",
+  "paksa": "sudi",
+  "tithi": "1",
+  "weekday": "ravau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1797"
+ },
+ "place": {
+  "as_written": "śrīkūrmācale gaṃgāvālī",
+  "normalized": "Kumaon"
+ },
+ "purpose": "written for (the use of) Subbā Pravala Rāṇā",
+ "notes": "The catalogue gives ŚS 1789, but the colophon reads 'śrīśāke 1719' (= 1797 CE, Mārgaśīrṣa, so Nov./Dec. 1797). The 1719 reading fits the Gorkha occupation of Kumaon (1790–1815), when a Subbā (governor) Prabal Rāṇā would be plausible, so the catalogue figure is probably a misprint. 'Pravala' is probably Prabala/Prabal. 'Yogyeṣu likhitam' means 'written for (the use of)': it makes him the owner/beneficiary and probably the commissioner. The colophon does not support the catalogue's 'Donor'. Gaṃgāvālī = Gaṅgolī in Kumaon. The colophon gives it as the scribe's residence ('nivāsinā'), not explicitly as the place of copying. Paṃta = Pant, a Kumaoni brahmin surname. Vaṅgasena (son of Gadādhara) is the author of the text.",
+ "_meta": {
+  "reel": "B 170/2",
+  "model": "opus",
+  "cost_usd": 0.10277800000000001,
+  "secs": 23.4
+ }
+}

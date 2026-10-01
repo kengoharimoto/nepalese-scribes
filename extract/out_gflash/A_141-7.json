@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācāryaśrī ānaṃdavajrene(!)ti",
+   "name": "Ānandavajra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "talumūle mahāvīhāraḥ",
+   "residence": "gvācchemugara",
+   "evidence": "likhiteyaṃ ... vajrācāryaśrī ānaṃdavajrene(!)ti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "asanidevyā",
+   "name": "Asanidevī",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "layatācche",
+   "evidence": "layatāccheyā, asanidevyā, sevita vajrācāryaśrī ānaṃdavajrene(!)ti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "layatāccheyā, asanidevyā, sevita vajrācāryaśrī ānaṃdavajrene(!)ti"
+  }
+ ],
+ "date": {
+  "as_written": "samvat, sagara, vasu, mātṛkā, māghaśukle, pūrṇṇamā(!), kuhnu",
+  "era": "NS",
+  "year": "884",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1764"
+ },
+ "place": {
+  "as_written": "sa eva nagare, talu(!)mūle, mahāvīḥ(!)hāraḥ gvācchemugara",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'sagara, vasu, mātṛkā' reads 4-8-8 = NS 884. Talumūla Mahāvihāra is a known monastery (often identified as Sikhamū Bāhā in Kathmandu or Ta:bāhā in Patan). Layatācche indicates the house/tole affiliation of the patron Asanidevī, whose family priest (vajrācārya) was the scribe Ānandavajra.",
+ "_meta": {
+  "reel": "A 141/7",
+  "model": "gemini-flash-latest",
+  "secs": 16.0,
+  "in_tok": 793,
+  "out_tok": 3458
+ }
+}

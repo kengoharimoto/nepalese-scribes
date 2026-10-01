@@ -1,0 +1,76 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsārṅgadhare",
+   "name": "Śārṅgadhara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsārṅgadhare (!) viracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rudrasīhe",
+   "name": "Rudrasīṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣītaṃ (!) rudrasīhe (!)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "maṃgalasena",
+   "name": "Maṃgalasena",
+   "roles": [
+    "beneficiary",
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "maṃgalasena pāṭhārthe",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "liṣītaṃ (!) rudrasīhe (!) maṃgalasena pāṭhārthe"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1806 kā māghamāse śuklapakṣa pratipadāyā tīthau (!) sanivāsare dhaneṣṭā (!) nakṣatre",
+  "era": "VS",
+  "year": "1806",
+  "month": "māgha",
+  "paksa": "śuklapakṣa",
+  "tithi": "pratipadā",
+  "weekday": "sanivāsara",
+  "nakshatra_yoga": "dhaniṣṭhā",
+  "ce_approx": "1749"
+ },
+ "place": {
+  "as_written": "śrīnagra",
+  "normalized": "Śrīnagara"
+ },
+ "purpose": "maṃgalasena pāṭhārthe",
+ "notes": "",
+ "_meta": {
+  "reel": "A 964/28",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 813,
+  "out_tok": 1630
+ }
+}

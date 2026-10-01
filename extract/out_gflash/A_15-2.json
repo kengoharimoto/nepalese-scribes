@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsurapatinā",
+   "name": "Surapati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Mainīgrāma",
+   "evidence": "śrīsurapatinā〇 likhitam adaḥ pustakam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "lasaṃ 395 caitrabadi 9 śanau",
+  "era": "LS",
+  "year": "395",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "śanau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1514"
+ },
+ "place": {
+  "as_written": "mainīgrāmam",
+  "normalized": "Mainīgrāma"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 15/2",
+  "model": "gemini-flash-latest",
+  "secs": 3.1,
+  "in_tok": 916,
+  "out_tok": 716
+ }
+}

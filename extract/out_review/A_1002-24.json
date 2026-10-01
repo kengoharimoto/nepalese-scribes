@@ -1,0 +1,65 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday normalized: 'roja 2' = Monday",
+   "ce_approx kept at 1816 but explained: Māgha of VS 1872 (Caitrādi) falls in Jan–Feb 1816 CE, while the plain VS−57 gives 1815",
+   "Haridatta kept as 'other' (low confidence); notes add the possible reading bhāṅa = bhāga ('share'), which would make Haridatta the owner",
+   "the as_written date now includes 'śubham'"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nārāyaṇadattasarmaṇāṃ",
+   "name": "Nārāyaṇadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣi(!)taṃ nārāyaṇadattasarmaṇāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "haridattabhāṅa",
+   "name": "Haridatta",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "haridattabhāṅa",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1872 māghakṛṣṇa 30 roja 2 śubham",
+  "era": "VS",
+  "year": "1872",
+  "month": "Māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "30 (amāvāsyā)",
+  "weekday": "Monday (roja 2)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1816"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is not named ('samvat'). VS fits the Devanagari script and the -datta śarman name type, and matches the catalogue. Māgha kṛṣṇa 30 of VS 1872 falls in Jan–Feb 1816 CE. The scribe's name is written 'sarmaṇāṃ' for śarmaṇā (instrumental). 'haridattabhāṅa' stands after the ornamental marks and is unclear: it may be read as Haridatta + bhāga ('share, portion', i.e. the book belongs to Haridatta, making him the owner), or as a later owner's or reader's note. Its role is therefore left as 'other'.",
+ "_meta": {
+  "reel": "A 1002/24",
+  "model": "opus",
+  "cost_usd": 0.074206,
+  "secs": 14.8
+ }
+}

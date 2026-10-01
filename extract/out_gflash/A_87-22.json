@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dave sabhācaṃdra nāgara brāhmaṇena",
+   "name": "Sabhācandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dave",
+    "nāgara",
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ dave sabhācaṃdra nāgara brāhmaṇena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "karnyālīkṣetramadhye",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 87/22",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 679,
+  "out_tok": 891
+ }
+}

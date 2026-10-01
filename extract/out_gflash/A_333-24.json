@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "muṃjāditya",
+   "name": "Muñjāditya",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "muṃjāditya viracito",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kottapalyupanāmakasāṃva śivena",
+   "name": "Sāṃvaśiva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kottapalyupanāmaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kottapalyupanāmakasāṃva śivena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1869 caitravadhya 30 guruvāsare",
+  "era": "VS",
+  "year": "1869",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "30",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1812"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthaṃ ca",
+ "notes": "The scribe's surname/upanāman is given as Kottapalya (kottapaly-upanāmaka).",
+ "_meta": {
+  "reel": "A 333/24",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 790,
+  "out_tok": 1248
+ }
+}

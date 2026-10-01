@@ -1,0 +1,80 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. Notes now cover the uncertain bracketed word ⁅pratya⁆karo, the reading of dvijātmanā, and the date check."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmahopādhyāyadharmādhikaraṇikaśrījagaddhara°",
+   "name": "Jagaddhara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "dharmādhikaraṇika"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāyadharmādhikaraṇikaśrījagaddharakṛtau veṇīsaṃhāraṭippaṇikāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīrāmeṇa dvijātmanā",
+   "name": "Rāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaiṣā prayatnena śrīrāmeṇa dvijātmanā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vipro jayadevaḥ",
+   "name": "Jayadeva",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "Kaṅkapura",
+   "evidence": "tatra ⁅pratya⁆karo vipro jayadevaḥ kila sundaraḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "abde lakṣmaṇasenasa〇mmate(!) śatacatuṣṭaye caturvviṃśatau ca likhyamāne | pauṣe py asite pakṣe ’māvāsyānvite ravau",
+  "era": "LS",
+  "year": "424",
+  "month": "Pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "amāvāsyā",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1543"
+ },
+ "place": {
+  "as_written": "grāme kaṅkapure",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date is written out in words: śatacatuṣṭaye caturviṃśatau = 424 in the Lakṣmaṇasena era (LS). Using the LS+1119 conversion this is about 1543 CE, but the LS epoch is disputed, so the CE year is approximate. The catalogue's 'pauṣa 30' matches amāvāsyā (new-moon day) of the dark half. Jayadeva is a brahmin (vipra) of Kaṅkapura, the village where the copy was made. His role depends on the uncertain bracketed word ⁅pratya⁆karo. It could perhaps be a corrupt pratyakṣakara, 'one who examined/witnessed', or some patron-like function. Commissioner, owner or corrector cannot be confirmed, so he is entered as 'other'. dvijātmanā is read as 'by the twice-born (brahmin) Rāma'. It could also mean 'son of a brahmin', but no father is named.",
+ "_meta": {
+  "reel": "A 20/3",
+  "model": "opus",
+  "cost_usd": 0.068683,
+  "secs": 17.5
+ }
+}

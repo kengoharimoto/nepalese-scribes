@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "candreśvara samāṇasya (!)",
+   "name": "Candreśvara",
+   "roles": [
+    "scribe",
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "candreśvara samāṇasya (!) likhitaṃ paṭhanādrarthe",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "rupākṣisaptedugate ca śāke kulīrayukte ca divākaraścaḥ || parodratithyaṃ yugavāśareṣu śvi (!) mṛkṣe bhūmiyoga yuktaḥ",
+  "era": "ŚS",
+  "year": "1721",
+  "month": "Karkaṭa (kulīra)",
+  "paksa": "",
+  "tithi": "parodratithyaṃ",
+  "weekday": "yugavāśareṣu",
+  "nakshatra_yoga": "śvi (!) mṛkṣe bhūmiyoga yuktaḥ",
+  "ce_approx": "1799"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "paṭhanārthe",
+ "notes": "The chronogram 'rupākṣisaptedugate' (rūpa = 1, akṣi = 2, sapta = 7, indu = 1) yields Śāke 1721. The cataloguer interprets 'samāṇasya (!)' as 'Varmā' (perhaps corrupt for varmaṇaḥ or śarmaṇaḥ).",
+ "_meta": {
+  "reel": "A 1390/23",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 774,
+  "out_tok": 1429
+ }
+}

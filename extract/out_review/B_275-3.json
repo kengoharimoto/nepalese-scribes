@@ -1,0 +1,92 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name normalized from 'Murāriśarman' to 'Murāri' (śarman is a brahmin suffix and stays in titles)",
+   "p1 evidence extended: the second mention 'naipāyikavāraṇapaṃcānanabhaṭṭācāryamurārikṛta' (read naiyāyikavāraṇapañcānana) is noted",
+   "Chronogram navavivaravāha = 9-9-7, read right to left = 799, confirmed; NS 799 = c. 1679 CE, which falls in Nṛpendramalla's reign; catalogue's NS 709 flagged as a misreading",
+   "Place clarified: Nepāla is stated as the scribe's residence (nepālādhivāsinā), not explicitly as the place of copying"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmurāriśarmmaṇā",
+   "name": "Murāri",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "tarkapañcānana",
+    "bhaṭṭācārya",
+    "śarman"
+   ],
+   "affiliation": "Maudgalyagotra",
+   "residence": "",
+   "evidence": "tarkkapañcānanaśrībhaṭṭācāryyamaudgalyagotrasambhavena śrīmurāriśarmmaṇā viracitaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nṛpendramalla",
+   "name": "Nṛpendramalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nṛpendramallamahārājādhiṣṭhite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīviśvambharopādhyāyena",
+   "name": "Viśvambhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya",
+    "dvijanman"
+   ],
+   "affiliation": "",
+   "residence": "Nepāla",
+   "evidence": "nepālādhirvāsinā śrīviśvambharopādhyāyena dijanmanā ... vyalikhi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "nṛpendramallamahārājādhiṣṭhite nepālādhirvāsinā śrīviśvambharopādhyāyena ... vyalikhi"
+  }
+ ],
+ "date": {
+  "as_written": "navavivaravāhaṅkite saṃvatsare ʼsmin phālguṇaśukladaśamyāṃ some",
+  "era": "NS",
+  "year": "799",
+  "month": "phālguṇa",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "soma",
+  "nakshatra_yoga": "",
+  "ce_approx": "1679"
+ },
+ "place": {
+  "as_written": "nepāla",
+  "normalized": "Kathmandu Valley"
+ },
+ "purpose": "",
+ "notes": "The era is not named, but NS is implied by the reign of Nṛpendramalla of Kathmandu (c. NS 794–800 / 1674–1680 CE). The chronogram navavivaravāha gives nava = 9, vivara = 9 (the nine openings of the body) and vāha = 7 (the horses of the sun). Read right to left, that is 799, so NS 799 ≈ 1679 CE. The catalogue's NS 709 is probably a misreading of the chronogram, since 709 would fall outside his reign. Nepāla is given as the scribe's residence (nepālādhirvāsinā, read nepālādhivāsinā); the place of copying is not stated separately. 'dijanmanā' should read dvijanmanā. 'naipāyikavāraṇapaṃcānana' should read naiyāyikavāraṇapañcānana, an epithet of the author Murāri. The weekday (Monday) has not been checked against the tithi.",
+ "_meta": {
+  "reel": "B 275/3",
+  "model": "opus",
+  "cost_usd": 0.089538,
+  "secs": 18.2
+ }
+}

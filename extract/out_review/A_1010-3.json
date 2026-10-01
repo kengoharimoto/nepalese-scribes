@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Guṇīndra: role changed from 'commissioner' to 'other'. There is no causative verb such as likhāpitam, and the verb of the clause is lost in the corruption. Confidence stays low.",
+   "Notes: added that 'dhīramadananta' may contain more names (Madana, Ananta). It may also be the epithet 'dhīra' plus a name. These were not entered as persons because the reading is too uncertain.",
+   "Date: the chronogram yugma 2, bhū 1, śaila 7, read right to left, gives NS 712 = 1592 CE (Caitra). This is confirmed. Candrātmaja (Budha) = Wednesday and turaṅgama-bha = Aśvinī are kept. The tithi is not stated. Notes now say that 'iṣu' could also be read as the number 5, which would mean pañcamī, but this is doubtful.",
+   "Place: Bhaktapur kept. 'bhaktasaṃle' is probably a corruption of 'bhaktasaṃjñe' (the town called Bhakta[pur]).",
+   "Purpose: rephrased as the colophon's pious invocations (wishes), not a dedication of the copy."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "guṇīndramukhyaiḥ",
+   "name": "Guṇīndra",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "āyuridhīramadananta (!) guṇīndramukhyaiḥ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "yugmabhūśailaparipālitacaitraśuklo ... candrātmajānvitaturaṅgamabheṣu",
+  "era": "NS",
+  "year": "712",
+  "month": "Caitra",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "Aśvinī (turaṅgama-bha)",
+  "ce_approx": "1592"
+ },
+ "place": {
+  "as_written": "nepālapattanavare kila bhaktasaṃle (!)",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "invocations: śrīparaśurāmaprītir astu; śrībhavānī prīṇātu",
+ "notes": "The chronogram yugma (2), bhū (1), śaila (7), read right to left, gives NS 712, about 1592 CE (Caitra). The catalogue's 'Scribe: SAM 712' is really the date, wrongly entered in the scribe field. The second half of the verse ('...sahyam (!) āyuridhīramadananta (!) guṇīndramukhyaiḥ') is corrupt. It could be divided as 'āyur iha dhīra-madana-ananta-guṇīndra-mukhyaiḥ', meaning 'by [the wise?] Madana, Ananta, Guṇīndra and others'. The persons named in the instrumental would then be the agents of a lost verb, either copying or having the copy made, so their role is unknown. Only Guṇīndra is entered, with low confidence. Madana and Ananta are possible further names. 'turaṅgamabheṣu' is taken as the nakṣatra Aśvinī. 'iṣu' could also mean the number 5 (tithi pañcamī), but this reading is doubtful. The weekday was not checked against the calendar. The final verse ('imāṃ madīyāṃ ...') is lacunose, apparently a standard scribal apology.",
+ "_meta": {
+  "reel": "A 1010/3",
+  "model": "opus",
+  "cost_usd": 0.106662,
+  "secs": 30.0
+ }
+}

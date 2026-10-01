@@ -1,0 +1,73 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date: the chronogram kha(0)-candra(1)-vasu(8), read right to left, gives only 810. The reading Śaka 1810 assumes an omitted digit or millennium, which the notes now say.",
+   "Date: nakshatra_yoga now records that the yoga name is corrupt ('yogagāḍhyaṃ'); only Hasta is certain.",
+   "Notes: 'ravau karkaṭa(ke) kanyāyāṃ indur' (sun in Cancer, moon in Virgo) is consistent with Hasta and with Śrāvaṇa śukla 5, so the month reading 'name' = nabhe (Śrāvaṇa) is supported.",
+   "Notes: the conversion to 12 August 1888 is not verified against an ephemeris.",
+   "Persons: Medinīrāja lowered to medium confidence because 'sūnumedinīrājakaḥ' is run together in the text. The '-ka' ending is taken as a suffix added to the name, not part of it."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vāṇirājākhya viprasya",
+   "name": "Vāṇirāja",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vāṇirājākhya viprasya sūnu",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sūnumedinīrājakaḥ",
+   "name": "Medinīrāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sūnumedinīrājakaḥ || || īṣat pustakagāruḍaṃ purāṇaṃ likhitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "vāṇirājākhya viprasya sūnumedinīrājakaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "khacandravasusakasyāt name śukleśu pañcamī || hastarkṣe yogagāḍhyaṃ(!) ca vāre ravi ... ravau(!) karkaṭakanyāyāṃ indurgatimibhāṃvasaḥ(!)",
+  "era": "ŚS",
+  "year": "1810",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "Hasta (moon in Kanyā, sun in Karkaṭa); yoga name corrupt ('gāḍhyaṃ')",
+  "ce_approx": "1888"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram kha-candra-vasu (0-1-8, read right to left) gives Śaka 810. This is impossible for a Devanagari paper manuscript, so a digit or the millennium was probably left out, giving Śaka 1810 (about 1888 CE). The ce_approx is therefore an inference. 'name' is most likely a corruption of 'nabhe' (Śrāvaṇa). This fits the planetary data: sun in Karkaṭa, moon in Kanyā (Hasta) on śukla 5. The exact Julian date (12 August 1888, a Sunday) has not been checked against an ephemeris. 'yogagāḍhyaṃ' is corrupt and the yoga name cannot be recovered with confidence. The phrase 'śrīgovinda ... bhūt' has a lacuna and is an invocation, not a person. The final 'samvat' is blank.",
+ "_meta": {
+  "reel": "A 260/2",
+  "model": "opus",
+  "cost_usd": 0.099398,
+  "secs": 25.6
+ }
+}

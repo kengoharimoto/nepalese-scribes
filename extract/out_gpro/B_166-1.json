@@ -1,0 +1,99 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "manohara",
+   "name": "Manohara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "manohara sūnunā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "harinātha",
+   "name": "Harinātha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "gosvāmin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gosvāminā harinātha kṛtāyāṃ vaidyajīvanaṭīkāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "puruṣottama",
+   "name": "Puruṣottama",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa",
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiṃta puruṣottama bhrāmhana paṃḍītasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "chaganajīvrane",
+   "name": "Chaganajī",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "chaganajīvrane pustakalītaṃ pustakaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "manohara sūnunā gosvāminā harinātha"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "likhiṃta puruṣottama bhrāmhana paṃḍītasya chaganajīvrane pustakalītaṃ pustakaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "miti āsvī dvitīyāṃ 2 maṃgalavāsare || || saṃvat || || 1890 || || vṛṣe śākha || || 17 || 14 ||",
+  "era": "VS",
+  "year": "1890",
+  "month": "āśvina",
+  "paksa": "",
+  "tithi": "2",
+  "weekday": "maṃgalavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1833"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon contains two dates: the composition date of the commentary (expressed in chronograms as VS kha-vahni-sindhu = 1730?) and the copying date (VS 1890, Śaka 1714). The years VS 1890 and Śaka 1714 do not match (the difference is 176 years instead of the usual 135). 'chaganajīvrane' is interpreted as the owner or commissioner Chaganajī. The commentator Harinātha is also referred to as 'śrīnātha gosvāmibhīr' later in the colophon, likely a variant or scribal error.",
+ "_meta": {
+  "reel": "B 166/1",
+  "model": "gemini-pro-latest",
+  "secs": 26.2,
+  "in_tok": 1011,
+  "out_tok": 3038
+ }
+}

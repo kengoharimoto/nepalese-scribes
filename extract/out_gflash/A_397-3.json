@@ -1,0 +1,136 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkālidāsakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "trailokyamalle",
+   "name": "Trailokyamalla",
+   "roles": [
+    "king",
+    "beneficiary"
+   ],
+   "titles": [
+    "nṛpa",
+    "bhūpāla"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nepāle pratipālite tad adhunā trailokyamalle nṛpe ... trailokyamallabhūpālapāṭhārthaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "indra",
+   "name": "Indra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "indrasūnunā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "jayantena",
+   "name": "Jayanta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jayantenendrasūnunā | ... likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrīśrīsumatijayajitāmitramalladevasana",
+   "name": "Jayajitāmitramalla",
+   "roles": [
+    "king",
+    "owner"
+   ],
+   "titles": [
+    "sumati",
+    "deva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumatijayajitāmitramalladevasana thva pustaka daravālayā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "bhāgīrāma",
+   "name": "Bhāgīrāma",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "paramāna"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgīrāma paramānayā velasa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "jayantenendrasūnunā"
+  },
+  {
+   "from": "p4",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "trailokyamallabhūpālapāṭhārthaḥ likhitaṃ"
+  },
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "nepāle pratipālite tad adhunā trailokyamalle nṛpe"
+  }
+ ],
+ "date": {
+  "as_written": "samvannetra harasya vidumunibhir yuktaṃ ... rādhemāsi sitetithau hariyute bhaume kare bhe",
+  "era": "NS",
+  "year": "713",
+  "month": "rādhe",
+  "paksa": "sita",
+  "tithi": "hari (11)",
+  "weekday": "bhauma",
+  "nakshatra_yoga": "kara (Hasta)",
+  "ce_approx": "1593"
+ },
+ "place": {
+  "as_written": "nepāle",
+  "normalized": ""
+ },
+ "purpose": "for the reading of King Trailokyamalla (trailokyamallabhūpālapāṭhārthaḥ)",
+ "notes": "Original manuscript copied in NS 713 (chronogram: netra harasya = 3, vidu = 1, muni = 7) during the reign of King Trailokyamalla. A later note records the book's deposit in the palace during the reign of King Sumati Jayajitāmitramalla in NS 808 Śrāvaṇa vadi 13 under the administration of Bhāgīrāma Pramāṇa.",
+ "_meta": {
+  "reel": "A 397/3",
+  "model": "gemini-flash-latest",
+  "secs": 8.0,
+  "in_tok": 925,
+  "out_tok": 2265
+ }
+}

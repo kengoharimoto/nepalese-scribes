@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībrahmadāsaputra",
+   "name": "Brahmadāsa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībrahmadāsaputra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīnārāyaṇadāsasiddha",
+   "name": "Nārāyaṇadāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "siddha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnārāyaṇadāsasiddhaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bhaṭa(!)gaṃgādhareṇa",
+   "name": "Gaṃgādhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ likhitaṃ bhaṭa(!)gaṃgādhareṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrībrahmadāsaputra"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1681 varṣe caitravadi 13 ravivāsare || ... caitramāse kṛṣṇapakṣe trayodaśyāṃ tithau | ravivāsare",
+  "era": "VS",
+  "year": "1681",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1624"
+ },
+ "place": {
+  "as_written": "naravaramadhye",
+  "normalized": "Narwar"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 349/5",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 949,
+  "out_tok": 1843
+ }
+}

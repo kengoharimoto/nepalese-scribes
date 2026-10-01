@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkāśīnātha",
+   "name": "Kāśīnātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "sarvaśāstraviśārada"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkāśīnātha kṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1723 samaye āśvinamāse kṛṣṇapakṣe 11 bhṛguvāsare",
+  "era": "VS",
+  "year": "1723",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "bhṛguvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1666"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The phrase 'bhṛguvāsarekahapustaka samāptaḥ' is likely scribal error for 'bhṛguvāsare [i]ha pustaka samāptaḥ' or 'bhṛguvāsare eka pustaka samāptaḥ'.",
+ "_meta": {
+  "reel": "B 346/14",
+  "model": "gemini-flash-latest",
+  "secs": 3.3,
+  "in_tok": 720,
+  "out_tok": 801
+ }
+}

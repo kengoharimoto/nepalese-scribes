@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon contains only the final chapter colophon and the standard scribal apology verse (yādṛśaṃ pustakaṃ dṛṣṭvā...) without naming the scribe, date, or place.",
+ "_meta": {
+  "reel": "A 107/5",
+  "model": "gemini-flash-latest",
+  "secs": 2.6,
+  "in_tok": 732,
+  "out_tok": 440
+ }
+}

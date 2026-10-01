@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vidydhareṇa",
+   "name": "Vidyādhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vidydhareṇa likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "Śrskke vahnikulicaraseṃdumsabhdrapadda",
+  "era": "ŚS",
+  "year": "vahnikulicaraseṃdu",
+  "month": "bhādrapada",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1761"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram vahni (3), kulicara/kuñjara (?) (8), rasa (6), indu (1) reversed gives Śaka 1683. Colophon text contains font conversion artifacts.",
+ "_meta": {
+  "reel": "A 342/40",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 791,
+  "out_tok": 846
+ }
+}

@@ -1,0 +1,112 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhūpatīndramalla",
+   "name": "Bhūpatīndramalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jaya śrībhūpatīndramallavalarājadhāni",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jagatsiṃhasya",
+   "name": "Jagatsiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "śrīkaraṇa",
+   "residence": "",
+   "evidence": "kāyastha śrīkaraṇasya, kulotpannajagatsiṃhasya kulaputraja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "savantasiṃham",
+   "name": "Savantasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kulaputra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiti kāyastha śrīkaraṇasya, kulotpannajagatsiṃhasya kulaputraja savantasiṃham āniksiṃhau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "āniksiṃhau",
+   "name": "Mānikasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kulaputra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiti kāyastha śrīkaraṇasya, kulotpannajagatsiṃhasya kulaputraja savantasiṃham āniksiṃhau",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "jagatsiṃhasya kulaputraja savantasiṃham"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "jagatsiṃhasya kulaputraja savantasiṃham āniksiṃhau"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "jaya śrībhūpatīndramallavalarājadhāni | likhiti"
+  },
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "jaya śrībhūpatīndramallavalarājadhāni | likhiti"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 818 jyeṣṭhaśudi 12",
+  "era": "NS",
+  "year": "818",
+  "month": "Jyeṣṭha",
+  "paksa": "śuklapakṣa",
+  "tithi": "12",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1698"
+ },
+ "place": {
+  "as_written": "śrībhūpatīndramallavalarājadhāni",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "śrīśrīśrīcaṇḍikādevyai prītyarthaṃ",
+ "notes": "The dual suffix -au in 'savantasiṃham āniksiṃhau' indicates two scribes, sons of Jagatsiṃha; the name is likely Mānikasiṃha (Māṇikyasiṃha), separated into 'savantasiṃham āniksiṃhau' in transliteration, or alternatively Savantasiṃha and Ānikasiṃha.",
+ "_meta": {
+  "reel": "A 1342/3",
+  "model": "gemini-flash-latest",
+  "secs": 12.7,
+  "in_tok": 782,
+  "out_tok": 2986
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Notes expanded on the Śaka chronogram: 'ṣaḍabhravāruṇair' reads right to left as 6-0-(vāruṇa), and the catalogue's ŚS 1606 needs vāruṇa = 16, which is not a standard value. ŚS 1606 Mārgaśira is about Nov/Dec 1684, but NS 806 Mārgaśira is about Nov/Dec 1685, so the two eras are one year apart. This conflict is now flagged.",
+   "Noted the spelling 'śrīcakrarājyasya' for the genitive śrīcakrarājasya. Cakrarāja is kept as commissioner and owner. No scribe is named, so the catalogue's 'Scribe: Cakrarāja' is not supported.",
+   "Purpose field filled in; date as_written made fuller."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīcakrarājyasya / cakrarāja",
+   "name": "Cakrarāja",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sudhīś ca cakrarāja eva lekhayāñcakāraha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 806 mārgaśira śudi 14 āditya(!)ra saṃpūrṇana coyā dina; ṣaḍabhravāruṇair yute śake caturddaśītithau pracaṇḍabhānuvāsare sumārgaśīrṣamāsi vai śuklapakṣamiśrite",
+  "era": "NS",
+  "year": "806",
+  "month": "Mārgaśira",
+  "paksa": "śukla",
+  "tithi": "14",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1685"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "commissioned by Cakrarāja for himself (book is his)",
+ "notes": "The date is given twice. (1) In prose: NS 806, Mārgaśira śukla 14, Sunday (ādityavāra), the day the copy was finished. This is about Nov/Dec 1685 CE. (2) In a verse with a Śaka chronogram, 'ṣaḍabhravāruṇair yute śake'. Read right to left: ṣaḍ = 6, abhra = 0, then vāruṇa (value unclear). The catalogue's reading ŚS 1606? would need vāruṇa = 16, which is not a standard bhūtasaṃkhyā value. ŚS 1606 Mārgaśira = Nov/Dec 1684 CE, one year earlier than NS 806; the matching Śaka year would be 1607. So the two eras conflict by one year, or the chronogram is misread. NS 806 is taken as primary. The catalogue lists Cakrarāja as scribe, but the colophon only has him commissioning the copy (lekhayāñcakāra, causative) and owning it ('śrīcakrarājyasya', a spelling of śrīcakrarājasya). The scribe is not named; he may have copied it himself, but the text does not say so. 'sudhīḥ' ('learned') is an epithet, not a title.",
+ "_meta": {
+  "reel": "B 134/5",
+  "model": "opus",
+  "cost_usd": 0.14226560000000002,
+  "secs": 30.4
+ }
+}

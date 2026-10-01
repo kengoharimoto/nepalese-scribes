@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījayasīhamallavarmmaṇena",
+   "name": "Jayasiṃhamallavarman",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "pradhānāṅgamahāpātra"
+   ],
+   "affiliation": "Hnolavihāra",
+   "residence": "Lalitapura",
+   "evidence": "śrīhnolavihārakuṭumbodbhavapradhānāṅgamahāpātraśrījayasīhamallavarmmaṇena satvārthahetunā ⁅s⁆vahastena likṣitaṃ ... pustakam idañ ca śrījayasīhamallavarmmaṇasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 496 māgha kṛṣṇapañcamyān tithau || svātinakṣatre || dhruvayoge || somavāsaradine",
+  "era": "NS",
+  "year": "496",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "pañcamī",
+  "weekday": "somavāsara",
+  "nakshatra_yoga": "svāti, dhruva",
+  "ce_approx": "1376"
+ },
+ "place": {
+  "as_written": "śrīnepāladeśe śrīśrīśrīpaśupatipaṭanād dakṣiṇasyān diśi || śrīvāghamatyāyān dakṣinākūle || śrīlalitapure śrīmānīgalottraravihāre",
+  "normalized": "Patan"
+ },
+ "purpose": "satvārthahetunā",
+ "notes": "The catalogue records Jayasiṃha Malla as king, but the colophon terms him pradhānāṅgamahāpātra of the Hnolavihāra lineage/family and clearly identifies him as the scribe copying with his own hand (svahastena likṣitam) and as the manuscript's owner.",
+ "_meta": {
+  "reel": "A 17/10",
+  "model": "gemini-flash-latest",
+  "secs": 7.2,
+  "in_tok": 1730,
+  "out_tok": 1864
+ }
+}

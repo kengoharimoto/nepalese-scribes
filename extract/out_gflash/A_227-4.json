@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dvija śrīdevaśaṃkaraṇa",
+   "name": "Devaśaṃkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "sohnemhavantā",
+   "evidence": "dvija śrīdevaśaṃkaraṇa (!), thva ṣaḍaṃśāstra (!) coya dhunakā dina",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 806 āṣāḍhaśukla saptamī śukravāra",
+  "era": "NS",
+  "year": "806",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "saptamī",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1686"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records the scribe as Bhavāniśaṃkara, but the colophon text reads dvija śrīdevaśaṃkaraṇa. A subsequent note dated NS 902 records the death of Lakṣmīpati and the sati of Lakṣmīśvarī; this later record has been excluded as it does not concern the copying of the manuscript.",
+ "_meta": {
+  "reel": "A 227/4",
+  "model": "gemini-flash-latest",
+  "secs": 28.0,
+  "in_tok": 790,
+  "out_tok": 6781
+ }
+}

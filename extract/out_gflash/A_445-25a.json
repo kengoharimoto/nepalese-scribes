@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vipra śrīmaṇidharadevaḥ",
+   "name": "Maṇidharadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣiti vipra śrīmaṇidharadevaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī[[jaya]] bhūpatīndra malladeva",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī[[jaya]] bhūpatīndra malladeva divaṃgata juva dina",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 836 ākhāḍha vadi 10",
+  "era": "NS",
+  "year": "836",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1716"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīkṛṣṇa prītir astu",
+ "notes": "The manuscript was copied in NS 836. Subsequent marginal/additional notes record the death of King Jayabhūpatīndra Malla in NS 842 Vaiśākha śukla pūrṇimā, and a royal event/upāsana at Sipādola (sipādorasa) in NS 843 Kārttika.",
+ "_meta": {
+  "reel": "A 445/25a",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 831,
+  "out_tok": 1768
+ }
+}

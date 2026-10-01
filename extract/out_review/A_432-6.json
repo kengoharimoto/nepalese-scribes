@@ -1,0 +1,48 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday normalized from 'ravau' to 'Sunday (ravau)'",
+   "notes expanded: Pauṣa kṛṣṇa 10 of VS 1913 falls in Dec 1856 or Jan 1857 depending on the month system; catalogue VS 1813 is probably a typo"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "durgādattena",
+   "name": "Durgādatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ durgādattena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1913 pauṣakṛ 10 ravau",
+  "era": "VS",
+  "year": "1913",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "Sunday (ravau)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1856"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives the date as VS 1813, but the colophon reads saṃvat 1913. VS 1813 is probably a catalogue typo. The colophon names the era only as 'saṃvat'. VS is assumed because the script is Devanagari and the four-digit year fits VS. Pauṣa kṛṣṇa 10 of VS 1913 falls around Dec 1856 or early Jan 1857, depending on the month system (amānta or pūrṇimānta).",
+ "_meta": {
+  "reel": "A 432/6",
+  "model": "opus",
+  "cost_usd": 0.061814,
+  "secs": 9.9
+ }
+}

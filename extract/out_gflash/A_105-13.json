@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaurigiraka",
+   "name": "Gaurigiri",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śrīgosāiṃ suphalagirakā śiṣya gaurigiraka hastaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīgosāiṃ suphalagirakā",
+   "name": "Suphalagiri",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "gosāiṃ"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgosāiṃ suphalagirakā śiṣya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "śrīgosāiṃ suphalagirakā śiṣya gaurigiraka"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsamvat 1893 sālamiti aśvina (!) vadi 1 roja 1",
+  "era": "VS",
+  "year": "1893",
+  "month": "Āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "1",
+  "weekday": "Sunday (roja 1)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1836"
+ },
+ "place": {
+  "as_written": "nepāladeśe || paśupati vāgmatyāṃ pūrvakauśikāyāṃ paścimabhāge || bhagatapaṭane || harikṣetre || śrī 3 gurudattātrayasthāne || śrī 3 viśveśvarasannidhāne",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "The manuscript contains multiple texts with separate dates, all written in VS 1893 by Gaurigiri, disciple of Gosāiṃ Suphalagiri at the Dattātreya temple in Bhaktapur: Viṣṇusahasranāma dated Āśvina vadi 1 roja 1; Bhīṣmastavarāja dated Āśvina vadi 4 roja 4; Bhagavadgītā dated Bhādra śudi 8 roja 1.",
+ "_meta": {
+  "reel": "A 105/13",
+  "model": "gemini-flash-latest",
+  "secs": 6.7,
+  "in_tok": 1442,
+  "out_tok": 1882
+ }
+}

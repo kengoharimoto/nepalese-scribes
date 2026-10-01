@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pitāmvara upādhyāle",
+   "name": "Pītāmbara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "lamajum",
+   "evidence": "pitāmvara upādhyāle lekhyāko",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1902 sālamā",
+  "era": "VS",
+  "year": "1902",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1845"
+ },
+ "place": {
+  "as_written": "lamajum",
+  "normalized": "Lamjung"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 413/23",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 685,
+  "out_tok": 614
+ }
+}

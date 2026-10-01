@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "trailokyanāthena",
+   "name": "Trailokyanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "trailokyanāthena likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke || 1756 || caitre māse kṛṣṇapakṣe || 14 ||",
+  "era": "ŚS",
+  "year": "1756",
+  "month": "caitre",
+  "paksa": "kṛṣṇapakṣe",
+  "tithi": "14",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1834"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 977/30",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 863,
+  "out_tok": 836
+ }
+}

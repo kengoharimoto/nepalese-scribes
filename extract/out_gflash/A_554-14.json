@@ -1,0 +1,86 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nāgojībhaṭṭa",
+   "name": "Nāgojībhaṭṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nāgojībhaṭṭakṛta-",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "upādhyāyopanāmakaśivabhaṭṭa",
+   "name": "Śivabhaṭṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "upādhyāya",
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadupādhyāyopanāmakaśivabhaṭṭasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "satī",
+   "name": "Satī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "satīgarbhaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śivabhaṭṭasuta"
+  },
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "satīgarbhaja"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe refers to himself only in the first person ('mayā', 'mama') and remains anonymous.",
+ "_meta": {
+  "reel": "A 554/14",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 739,
+  "out_tok": 1462
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "udai brahmavardhanasya",
+   "name": "Udaibrahmavardhana",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [
+    "kulaputra"
+   ],
+   "affiliation": "pravaraśivayānayāyin",
+   "residence": "",
+   "evidence": "deyadharmoyaṃ pravaraśivayānayāyinaḥ paramadhārmikakulaputraśrīudai brahmavardhanasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rūdradevasya",
+   "name": "Rudradeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramaśaiva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājādhirājaparameśvaraparamaśaivaśrīmanat rūdradevasyavijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "govindavarmeṇa",
+   "name": "Govindavarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kulaputra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ kulaputragovindavarmeṇeti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "deyadharmoyaṃ ... śrīudai brahmavardhanasya ... likhitam idaṃ kulaputragovindavarmeṇeti"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "rūdradevasyavijayarājye || likhitam idaṃ kulaputragovindavarmeṇeti"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 293 caitraśuklatṛtīyāyāṃ ādityadine",
+  "era": "NS",
+  "year": "293",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "tṛtīyā",
+  "weekday": "ādityadina",
+  "nakshatra_yoga": "",
+  "ce_approx": "1173"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "ācāryopādhyāyamātāpitṛpūrvvaṅgamaṃ kṛtvā sakalasatvarāser anutvarajñānaphalāvāptaye",
+ "notes": "",
+ "_meta": {
+  "reel": "C 6/8",
+  "model": "gemini-flash-latest",
+  "secs": 7.6,
+  "in_tok": 924,
+  "out_tok": 1864
+ }
+}

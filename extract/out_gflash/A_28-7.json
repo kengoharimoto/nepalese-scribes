@@ -1,0 +1,87 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījayasthitirā〇jamaladevasya",
+   "name": "Jayasthitirājamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "paṭṭabaddha",
+    "bhūbhuj"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījayasthitirā〇jamaladevasya paṭṭabaddhasya bhūbhujaḥ | rājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jayasiṃharāmaḥ",
+   "name": "Jayasiṃharāma",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "aśeṣasāmantaśiromaṇi",
+    "mahīpatīndra"
+   ],
+   "affiliation": "anaikanāmasya kule",
+   "residence": "",
+   "evidence": "jayasiṃharāmaḥ || sa puṇyakīrttiḥ sukṛtaikasiṃ〇dhur anaikanāmasya kulekaratnaṃ (!) | idaṃ mahābhāratam etad evaṃ vyalīlikhat",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "anaikanāmasya",
+   "name": "Anekanāma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "anaikanāmasya kulekaratnaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrījayasthitirā〇jamaladevasya paṭṭabaddhasya bhūbhujaḥ | rājye naipāladeśe smin ... jayasiṃharāmaḥ ... vyalīlikhat"
+  },
+  {
+   "from": "p2",
+   "type": "other",
+   "to": "p3",
+   "evidence": "anaikanāmasya kulekaratnaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "trayodaśādhike pañcaśate naipālavatsare āṣādhakṛṣṇakha(ṣṭhīmī)",
+  "era": "NS",
+  "year": "513",
+  "month": "Āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "6",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1393"
+ },
+ "place": {
+  "as_written": "naipāladeśe smin",
+  "normalized": "Nepal"
+ },
+ "purpose": "svargaphala",
+ "notes": "Anekanāma is a variant/scribal error for the powerful Mahārāthā Anekarāma (father/ancestor of Jayasiṃharāma).",
+ "_meta": {
+  "reel": "A 28/7",
+  "model": "gemini-flash-latest",
+  "secs": 9.2,
+  "in_tok": 893,
+  "out_tok": 2434
+ }
+}

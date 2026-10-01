@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajña joganarasiṃha",
+   "name": "Joganarasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "Bhaktapaṭṭana",
+   "evidence": "bhaktapaṭṭanakā daivajña joganarasiṃha likhitamidaṃ pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 1879 sāla miti jeṣṭha vadi 14 roja 1",
+  "era": "VS",
+  "year": "1879",
+  "month": "jeṣṭha",
+  "paksa": "vadi",
+  "tithi": "14",
+  "weekday": "roja 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1822"
+ },
+ "place": {
+  "as_written": "bhaktapaṭṭana",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 211/16",
+  "model": "gemini-flash-latest",
+  "secs": 3.3,
+  "in_tok": 755,
+  "out_tok": 731
+ }
+}

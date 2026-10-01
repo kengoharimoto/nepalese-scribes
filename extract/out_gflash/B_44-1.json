@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mithilāgatadurllabhena",
+   "name": "Durlabha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Mithilā",
+   "evidence": "pustaṃ vyavilekhi mithilāgatadurllabhena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saptenduhastidharaṇīyutavarṣarāje rādhe ramāpatitithau kila śuklapakṣe",
+  "era": "VS",
+  "year": "1817",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1760"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram: sapta (7), indu (1), hasti (8), dharaṇī (1) = 1817 (VS 1817). Month: rādha = Vaiśākha; tithi: ramāpatitithi = ekādaśī (11). Śrīkānta in 'śrīkāntapādarasikena' likely refers to Viṣṇu.",
+ "_meta": {
+  "reel": "B 44/1",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 740,
+  "out_tok": 1554
+ }
+}

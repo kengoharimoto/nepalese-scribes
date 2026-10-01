@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mudgalasūri",
+   "name": "Mudgala",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mudgalasūriviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gaurīpatisaṃjñako",
+   "name": "Gaurīpati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gaurīpatisaṃjñako ’likhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "daśaghanaparimitaśāke śukre māsi tithau dvitīyākhyena ... kavivāre",
+  "era": "ŚS",
+  "year": "1710",
+  "month": "śukra",
+  "paksa": "",
+  "tithi": "dvitīyā",
+  "weekday": "kavivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1788"
+ },
+ "place": {
+  "as_written": "kāśyām",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "Year 1710 is given by the cataloguer for the chronogram daśaghanaparimitaśāke.",
+ "_meta": {
+  "reel": "B 323/7",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 729,
+  "out_tok": 1391
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe confidence lowered from medium to low because the cataloguer marks the name as corrupt with cruxes (†…†) and adds a query.",
+   "Notes give a possible reading 'Jaivaṃta' (Jayavanta), with 'Vyāsa' read as a family or brahmin title.",
+   "Date fields normalised: month Āśvina (written 'a(!)śvana'), pakṣa śukla (written 'śudi'), weekday Thursday (guruvāra).",
+   "Notes add that 'lekhakapāṭhakayoḥ śubham' is a stock blessing formula, not a statement of purpose or ownership, and that 'alaṃ liṣitaṃ' probably stands for 'idaṃ likhitaṃ'."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vyāsajaivaṃtana",
+   "name": "Jaivaṃtana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vyāsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ †vyāsajaivaṃtana†",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1684 varṣe a(!)śvanaśudi 12 guruvāre",
+  "era": "VS",
+  "year": "1684",
+  "month": "Āśvina",
+  "paksa": "śukla",
+  "tithi": "12",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1627"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The cataloguer marks the scribe's name as corrupt with cruxes (†vyāsajaivaṃtana†); the catalogue field reads 'Vyāsa Jaivaṃtana ?'. 'Vyāsa' is probably a family or brahmin title. The personal name might be Jaivaṃta (Jayavanta), with the final '-na' unexplained. 'alaṃ liṣitaṃ' probably stands for 'idaṃ likhitaṃ'. 'leṣakapāthakayoḥ śubhaṃ' (= lekhakapāṭhakayoḥ śubham) is a stock blessing formula, not a purpose clause. The era is not named, but 'saṃvat … śudi' in Devanagari points to Vikrama: VS 1684 Āśvina śukla 12 ≈ September/October 1627 CE. The weekday has not been checked. The chapter number 'n(!)naviṃśo' is presumably ūnaviṃśo (19th).",
+ "_meta": {
+  "reel": "A 1115/38",
+  "model": "opus",
+  "cost_usd": 0.075766,
+  "secs": 16.6
+ }
+}

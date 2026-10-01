@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Name normalized from sandhi form 'Raṇajinmalla' to stem 'Raṇajitmalla' (raṇajit + malla).",
+   "Notes: date reading 886 confirmed (tarka 6, ibha 8, vāraṇa 8, read right to left), and the conflict with the catalogue's 866 is now stated explicitly."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "raṇajinmallabhūbhṛtā",
+   "name": "Raṇajitmalla",
+   "roles": [
+    "commissioner",
+    "king"
+   ],
+   "titles": [
+    "bhūbhṛt"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhāpitamidaṃpustaṃ, raṇajinmallabhūbhṛtā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "tarkebhavāraṇamite, nepālābde ca kārttike",
+  "era": "NS",
+  "year": "886",
+  "month": "Kārttika",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1766"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"Commissioned by King Raṇajit Malla\"",
+ "notes": "The chronogram tarka (6), ibha (8), vāraṇa (8), read right to left, gives NS 886, which is about 1766 CE. The catalogue field says Saṃ. 866 (about 1746 CE), possibly a transposition. Both years fall within Raṇajit Malla's reign at Bhaktapur (c. 1722–1769). The colophon gives no place, so Bhaktapur is only inferred from the king and is not entered as the place of copying.",
+ "_meta": {
+  "reel": "B 270/5",
+  "model": "opus",
+  "cost_usd": 0.067446,
+  "secs": 11.4
+ }
+}

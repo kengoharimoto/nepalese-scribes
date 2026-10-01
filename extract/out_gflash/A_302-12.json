@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "karmmācāryyanārāyaṇasiṃhana",
+   "name": "Nārāyaṇasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "karmmācāryyanārāyaṇasiṃhana, saṃpūrṇṇam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 815 śrāvaṇakṛṣṇaṣaḍṭḥīkunhu",
+  "era": "NS",
+  "year": "815",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "ṣaṣṭhī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1695"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 302/12",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 749,
+  "out_tok": 1308
+ }
+}

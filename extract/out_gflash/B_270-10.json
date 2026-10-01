@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vipra śrīgaṃgārāmana",
+   "name": "Gaṅgārāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "Paśrache",
+   "evidence": "likhiti, vipra śrīgaṃgārāmana",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 777 māghakṛṣṇatrayo(4)daśī, ādityavāra",
+  "era": "NS",
+  "year": "777",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1657"
+ },
+ "place": {
+  "as_written": "paśrache",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The genitive form 'paśracheyā' indicates the scribe belonged to the locality/ṭol named Paśrache.",
+ "_meta": {
+  "reel": "B 270/10",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 724,
+  "out_tok": 1201
+ }
+}

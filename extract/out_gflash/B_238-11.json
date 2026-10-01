@@ -1,0 +1,119 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījitāmitra malle",
+   "name": "Jitāmitramalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpa"
+   ],
+   "affiliation": "",
+   "residence": "Bhaktapur",
+   "evidence": "nṛpe śāsati śrījitāmitra malle",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kaniṣṭhogramalle",
+   "name": "Ugramalla",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Bhaktapur",
+   "evidence": "kaniṣṭhogramalle virājatpratāpe",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śivahari",
+   "name": "Śivahari",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "dharaṇīdaivata"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devīprītyā sudhīmān śivahari dharaṇī daivato",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śivasiṃhaḥ",
+   "name": "Śivasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vitarāte śivasiṃhaḥsma daivajñe dhīraḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "vyāsa",
+   "name": "Vyāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vyāsoktaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "brother_of",
+   "to": "p1",
+   "evidence": "kaniṣṭhogramalle"
+  },
+  {
+   "from": "p4",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "śivahari dharaṇī daivatoyetihāsaṃ, vyāsoktaṃ pustakātryāṃ vitarāte śivasiṃhaḥsma"
+  },
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "nṛpe śāsati śrījitāmitra malle"
+  }
+ ],
+ "date": {
+  "as_written": "nepāle hāyanesmin grahanidhi turage caitramāse tamiśre, vaidhṛtyāṃ revatī divasakara śaśina saṃgame somavāre",
+  "era": "NS",
+  "year": "799",
+  "month": "Caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "amāvāsyā",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "revatī, vaidhṛti",
+  "ce_approx": "1679"
+ },
+ "place": {
+  "as_written": "mahīmaṇḍāsmin pure bhaktasaṃjñe",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "devīprītyā",
+ "notes": "The catalogue gives NS 997, but the chronogram 'graha-nidhi-turage' (graha=9, nidhi=9, turaga=7) interpreted in reverse order yields NS 799 (c. 1679 CE), which corresponds to the reign of Jitāmitramalla of Bhaktapur (r. 1673–1696 CE). 'divasakara-śaśina-saṃgame' denotes the conjunction of sun and moon (amāvāsyā).",
+ "_meta": {
+  "reel": "B 238/11",
+  "model": "gemini-flash-latest",
+  "secs": 16.4,
+  "in_tok": 864,
+  "out_tok": 3889
+ }
+}

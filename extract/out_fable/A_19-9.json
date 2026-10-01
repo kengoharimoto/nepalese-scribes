@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnārā〇yaṇaśarmmā",
+   "name": "Nārāyaṇaśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "Visapīgrāma",
+   "evidence": "visapīgrāme śrīnārā〇yaṇaśarmmālikhad idaṃ pustakam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "lasaṃ 507 āśvinaśu〈〈kla〉〉klaikādaśyāṃ śukre",
+  "era": "LS",
+  "year": "507",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "11 (ekādaśī)",
+  "weekday": "śukra (Friday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1626"
+ },
+ "place": {
+  "as_written": "visapīgrāme",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The only human named is the scribe Nārāyaṇaśarman (śarman is a brahmin name-suffix rather than an office title; the 〇 is a string-hole mark in the transliteration). The three phrases gopālagati (!), śrīvaidyanāthagati (!), rāmacandragati (!) follow the devotional verse 'matir bhavatu govinde' and read most naturally as devotional formulas ('Gopāla/Vaidyanātha/Rāmacandra is [my] refuge', gati for gatiḥ, hence the cataloguer's (!)) naming the deities Gopāla (Kṛṣṇa), Vaidyanātha (Śiva) and Rāmacandra; they are therefore not listed as persons. They could conceivably be later ownership/reading notes by persons bearing those names, but nothing supports this. 'hariharābhyāṃ namaḥ' is a salutation to deities. Visapīgrāma is unidentified (Mithila region presumed). Catalogue fields agree with the colophon; LS 507 ≈ 1626 CE.",
+ "_meta": {
+  "reel": "A 19/9",
+  "model": "fable",
+  "cost_usd": 1.07927,
+  "secs": 20.2
+ }
+}

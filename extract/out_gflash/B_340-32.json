@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsadānaṃda",
+   "name": "Sadānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsadānaṃdaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chapter colophon (parilekhādhikāra) naming author Sadānanda. No copyist or date mentioned.",
+ "_meta": {
+  "reel": "B 340/32",
+  "model": "gemini-flash-latest",
+  "secs": 3.3,
+  "in_tok": 659,
+  "out_tok": 502
+ }
+}

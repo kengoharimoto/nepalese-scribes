@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dharmmācāryeṇa",
+   "name": "Dharmācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya",
+    "deśika"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dharmmācāryeṇa sannāmnā ... desikena kṛtā ... nirvvāṇapaddhati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vandīpurā〇cārya",
+   "name": "Vandīpurācārya",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "Vandīpura",
+   "evidence": "śrīmadvandīpurā〇cāryapādapadmopajīvinā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīkaṇṭhākhyo",
+   "name": "Śrīkaṇṭha",
+   "roles": [
+    "scribe",
+    "teacher"
+   ],
+   "titles": [],
+   "affiliation": "Śaivasiddhānta",
+   "residence": "",
+   "evidence": "śrīkaṇṭhākhyo vratapathayamī paddhatīyaṃ śrutārthaṃ tatsiṣyeṇa vratagaṇavatāṃ likhita〈〈ādā〉〉m",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "śrīmadvandīpurā〇cāryapādapadmopajīvinā | dharmmācāryeṇa"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "vratagaṇavatāṃ śrutārthaṃ",
+ "notes": "The catalogue records Śrīkaṇṭha as scribe, though the syntax 'śrīkaṇṭhākhyo ... tatsiṣyeṇa ... likhitā' suggests the copy may have been written by Śrīkaṇṭha's unnamed disciple. Preceding Śrīkaṇṭha are mentions of Śaivasiddhānta ascetics ('śrīman mūrttiḥ pratitaśivavān ... tasya analpaśivaniyamino ... śiṣyaḥ śrīkaṇṭhākhyo') which may contain additional monastic/ascetic names.",
+ "_meta": {
+  "reel": "A 54/18",
+  "model": "gemini-flash-latest",
+  "secs": 20.4,
+  "in_tok": 871,
+  "out_tok": 5011
+ }
+}

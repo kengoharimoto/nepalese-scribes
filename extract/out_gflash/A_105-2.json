@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śaṃkara bhagavatpāda",
+   "name": "Śaṅkara",
+   "roles": [
+    "author",
+    "commentator"
+   ],
+   "titles": [
+    "bhagavatpāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmat śaṃkara bhagavatpāda kṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke taponiṣṭha śarāṃgacandre jyeṣṭhāsite paṃcātithau surejye(!) ... paṃca saṃvat 1809 āṣāḍha kṛṣṇapakṣe 11",
+  "era": "ŚS",
+  "year": "taponiṣṭha śarāṃgacandre",
+  "month": "Jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1752"
+ },
+ "place": {
+  "as_written": "ayodhyāṃ samīpe",
+  "normalized": "Ayodhyā"
+ },
+ "purpose": "",
+ "notes": "The scribe is unnamed ('matimadvijena' = 'by a wise dvija'). The colophon provides two dates: first in verse with a Śaka chronogram (Jyeṣṭha kṛṣṇa 5, Thursday / surejya), followed by a prose date 'saṃvat 1809 āṣāḍha kṛṣṇapakṣe 11' (c. 1752 CE). The catalogue gives VS 1806.",
+ "_meta": {
+  "reel": "A 105/2",
+  "model": "gemini-flash-latest",
+  "secs": 17.8,
+  "in_tok": 807,
+  "out_tok": 4388
+ }
+}

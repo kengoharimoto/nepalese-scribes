@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmarādū",
+   "name": "Rāmarādū",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "Kāśī",
+   "evidence": "liṃtaṃ (!) rāmarādūkāesthakāsīvāsī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 16||50 samae (!) phālaguna(!)vadi parīvā",
+  "era": "VS",
+  "year": "1650",
+  "month": "phālaguna",
+  "paksa": "vadi",
+  "tithi": "parīvā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1594"
+ },
+ "place": {
+  "as_written": "kāsī asthāne",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The reading 'liṃtaṃ' stands for likhitam. The tithi 'parīvā' stands for pratipad (padivā/parivā). The caste 'kāestha' corresponds to Kāyastha.",
+ "_meta": {
+  "reel": "B 76/3",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 771,
+  "out_tok": 880
+ }
+}

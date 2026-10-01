@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāghavabhaṭṭa",
+   "name": "Rāghavabhaṭṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāghavabhaṭṭaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīcakrarājaḥ",
+   "name": "Cakrarāja",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kālītatvam alekhayad vijavaraḥ śrīcakrarājaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "devena",
+   "name": "Deva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kālītatvam alekhayad ... devena saṃyatnataḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "kālītatvam alekhayad vijavaraḥ śrīcakrarājaḥ ... devena saṃyatnataḥ"
+  }
+ ],
+ "date": {
+  "as_written": "ṣaṣṭhadyogajasammite suraguror ghasre[ʼ]site pakṣake ... māse kārttikike ... pañcamyāṃ śubhayogamiśritabharaṇyāṃ tārakāyāṃ",
+  "era": "NS",
+  "year": "806",
+  "month": "Kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "Bharaṇī, Śubha",
+  "ce_approx": "1686"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'ṣaṣṭha-dyo-gaja' corresponds to 6-0-8 = NS 806. The catalogue lists the scribe as 'Manohara', evidently misreading the compound 'manohararasādevena' (manohara-rasād devena) in the Śārdūlavikrīḍita verse; syntactically, Cakrarāja is the causer ('alekhayad') and Deva is the instrumental agent/scribe ('devena saṃyatnataḥ').",
+ "_meta": {
+  "reel": "B 119/7",
+  "model": "gemini-flash-latest",
+  "secs": 26.6,
+  "in_tok": 776,
+  "out_tok": 6321
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmanārāyaṇena",
+   "name": "Rāmanārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "śrīsvapnabrahmapura",
+   "evidence": "śrīrāmanārāyaṇena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 784 vaiśākhamāse kṛṣṇapakṣe sa(!)niścaravāsare",
+  "era": "NS",
+  "year": "784",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "",
+  "weekday": "śaniścaravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1664"
+ },
+ "place": {
+  "as_written": "śrīsvapnabrahmapura",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 337/13",
+  "model": "gemini-flash-latest",
+  "secs": 13.4,
+  "in_tok": 774,
+  "out_tok": 912
+ }
+}

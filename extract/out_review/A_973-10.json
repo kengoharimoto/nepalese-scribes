@@ -1,0 +1,159 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Bhāsurānandanātha: role 'teacher' → 'other' (he is the author's guru, not involved in producing this copy); noted identity with Bhāskararāya",
+   "p4 Gaṇeśa: confidence high → medium; the colophon has two instrumentals with one 'likhitaṃ', so co-scribe is one reading, but owner (gaṇeśasūriṇā for -ṇaḥ) is also possible; the catalogue names only Lakṣmīnārāyaṇa",
+   "p7 Rājābhāū: 'Kive' moved from affiliation to titles as a surname (upanāmaka); evidence trimmed",
+   "notes expanded: umanāmakasya = upanāmakasya; smṛtīyaḥ(!) probably = tṛtīyaḥ; dhuṃḍhirājātmaka- = -ātmaja-"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhāsurānaṃdanātha",
+   "name": "Bhāsurānandanātha",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhāsurānaṃdanāthacaraṇāraviṃdamiliṃdāyamānamānasena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "[mānasen]omānaṃdanāthena",
+   "name": "Umānandanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mānasenomānaṃdanāthena viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "dhuṃḍhirāja",
+   "name": "Dhuṇḍhirāja",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "Devasthalī",
+   "residence": "",
+   "evidence": "devasthalyupanāmakadhuṃḍhirājātmakagaṇeśasūriṇā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "gaṇeśasūriṇā",
+   "name": "Gaṇeśa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "Devasthalī",
+   "residence": "",
+   "evidence": "devasthalyupanāmakadhuṃḍhirājātmakagaṇeśasūriṇā ... likhitaṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p5",
+   "as_written": "kṛṣṇabhaṭṭa",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛṣṇabhaṭṭasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "lakṣmīnārāyaṇena",
+   "name": "Lakṣmīnārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛṣṇabhaṭṭasutalakṣmīnārāyaṇena likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "rājābhāu",
+   "name": "Rājābhāū",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "Kive (surname)"
+   ],
+   "affiliation": "",
+   "residence": "Induragrāma (Indore)",
+   "evidence": "kive ity umanāmakasya(!) rājābhāu yasya gṛhe",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śrībhāsurānaṃdanāthacaraṇāraviṃdamiliṃdāyamānamānasenomānaṃdanāthena"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "dhuṃḍhirājātmakagaṇeśasūriṇā"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p5",
+   "evidence": "kṛṣṇabhaṭṭasutalakṣmīnārāyaṇena"
+  },
+  {
+   "from": "p6",
+   "type": "other",
+   "to": "p7",
+   "evidence": "rājābhāu yasya gṛheṃduragrāmamadhye likhitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "induragrāmamadhye (in Rājābhāū Kive's house)",
+  "normalized": "Indore"
+ },
+ "purpose": "svārthaṃ ca parārthaṃ ca",
+ "notes": "The text is Umānandanātha's Nityotsava. Bhāsurānandanātha is the initiatory name of Bhāskararāya, the author's guru; he had no part in this copy. 'mānasenomānaṃdanāthena' = mānasena + umānandanāthena. 'yauvanollāsasmṛtīyaḥ (!)' probably stands for 'yauvanollāsas tṛtīyaḥ'. 'umanāmakasya(!)' = upanāmakasya, so Kive (Kibe) is Rājābhāū's surname; the Kibe family was prominent in Indore. 'dhuṃḍhirājātmaka-' stands for -ātmaja-. Two people stand in the instrumental (Gaṇeśasūri, son of Dhuṇḍhirāja, surname Devasthalī, and Lakṣmīnārāyaṇa, son of Kṛṣṇabhaṭṭa) before a single 'likhitaṃ'. Their fathers differ, so they are two people. Gaṇeśa could be a co-scribe. Or 'gaṇeśasūriṇā' may be a slip for the genitive '-ṇaḥ', which would make him the owner of the book. The catalogue lists only Lakṣmīnārāyaṇa as scribe. No date is given.",
+ "_meta": {
+  "reel": "A 973/10",
+  "model": "opus",
+  "cost_usd": 0.126166,
+  "secs": 31.3
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "valabhadradaivajña",
+   "name": "Balabhadra",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "valabhadradaivajña viracitāyāṃ bhāsvatīṭīkāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vasaṃtātmaja",
+   "name": "Vasanta",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvasaṃtātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "vasaṃtātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chapter colophon (tithidhruvānayanādhikāraḥ prathamaḥ) of the Bālabodhinī commentary on the Bhāsvatī.",
+ "_meta": {
+  "reel": "A 1000/11",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 685,
+  "out_tok": 814
+ }
+}

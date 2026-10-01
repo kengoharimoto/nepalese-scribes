@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1858",
+  "era": "VS",
+  "year": "1858",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1801"
+ },
+ "place": {
+  "as_written": "kāśyām",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The colophon notes that the manuscript was copied quickly in a single day (likhitam idaṃ śaighryeṇaikadina iti bodhyam), but no scribe or other person is named.",
+ "_meta": {
+  "reel": "A 371/15",
+  "model": "gemini-flash-latest",
+  "secs": 2.9,
+  "in_tok": 682,
+  "out_tok": 593
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgurur ... pūrṇānandeti nāmā / śrīpūrṇānandana",
+   "name": "Pūrṇānanda",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "guru"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgurur bhaktiyuktaḥ || pūrṇānandeti nāmā samalikhad amalaṃ bhadrakalpāvadānaṃ ... śrīpūrṇānandana thavata coyā jula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepāle saṃvadākhye kunavanavayute śrāvaṇē śuklapakṣe || paṃcamyāṃ vaiśvadeve parighakasahite bhānuputrasya vāre ... saṃvat 991 śrāvaṇamāsayā paṃcami(!) utra(!)bhādranakṣakra(!) parighanayoga(!) śanivāra",
+  "era": "NS",
+  "year": "991",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "Saturday (bhānuputrasya vāre / śanivāra)",
+  "nakshatra_yoga": "Vaiśvadeva (= Uttarāṣāḍhā) in verse / Uttarabhādra(pada) in Newari; Parigha yoga",
+  "ce_approx": "1871"
+ },
+ "place": {
+  "as_written": "bṛṅṣādye mūlakāntye khalu suviharaṇe",
+  "normalized": ""
+ },
+ "purpose": "svārtha: scribe wrote it for himself (thavata coyā jula)",
+ "notes": "Year expressed in verse by word-numerals 'ku-nava-nava' (1-9-9 read in reverse = 991), matching the Newari 'saṃvat 991'. The verse nakṣatra Vaiśvadeva (Uttarāṣāḍhā) conflicts with the Newari 'uttarabhādra'; one is probably an error. The place phrase 'bṛṅṣādye mūlakāntye khalu suviharaṇe' is corrupt; it seems to name a vihāra but cannot be identified. 'śrīguru' is taken as an honorific title of the scribe, not a separate person. The catalogue's '(exp. 451)' is unclear (possibly a misprint or a different expected year) and does not match the colophon; colophon date NS 991 is followed. 'thavata coyā jula' (Newari) = wrote for himself, hence owner/svārtha.",
+ "_meta": {
+  "reel": "A 122/3",
+  "model": "fable",
+  "cost_usd": 0.17251700000000003,
+  "secs": 19.6
+ }
+}

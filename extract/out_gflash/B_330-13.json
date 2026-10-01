@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivadeva",
+   "name": "Śivadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "rājasūnu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lileṣa śrīrājasūnu śivadeva",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśākavāṇanidhi ṣaḍvidhu ... somena yukta śubhavāruṇabhenavabhyāṃ krodhisamvatsara",
+  "era": "ŚS",
+  "year": "1695",
+  "month": "",
+  "paksa": "",
+  "tithi": "navamī",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "vāruṇa (śatabhiṣaj)",
+  "ce_approx": "1773"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram is vāṇa (5) - nidhi (9) - ṣaḍ (6) - vidhu (1) = Śāka 1695. 'lileṣa' is a scribal corruption for 'lilekha'.",
+ "_meta": {
+  "reel": "B 330/13",
+  "model": "gemini-flash-latest",
+  "secs": 6.2,
+  "in_tok": 756,
+  "out_tok": 1224
+ }
+}

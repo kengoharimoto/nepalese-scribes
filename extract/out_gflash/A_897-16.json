@@ -1,0 +1,72 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhāṣkararāyeṇa",
+   "name": "Bhāskararāya",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "iti bhāṣkararā(7)yeṇa nāmicitā (!) tripurāmahopaniṣadorthāḥ (!) prakaṭayi(1) mayojñām api viduṣāṃ toṣāya katipaye kathitāḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gopīnātha maṃḍalīkaraṇē",
+   "name": "Gopīnātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "maṃḍalīkaraṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liººgopīnā(7)tha maṃḍalīkaraṇē",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "Śrīkṛṣṇa jyoºº",
+   "name": "Śrīkṛṣṇa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jyotiṣī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "puºº Śrīkṛṣṇa jyoºº",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ ○ 1970 bhādra kṛṣṇa 2 tithau guruvā(6)sare",
+  "era": "VS",
+  "year": "1970",
+  "month": "bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "2",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1913"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "gurucaraṇāraviṃdārpaṇaṃ",
+ "notes": "It is unclear whether 'maṃḍalīkaraṇē' represents a title/sub-caste (Karaṇa kāyastha), a locative of place, or an epithet of the scribe Gopīnātha. 'puºº' preceding Śrīkṛṣṇa jyoºº stands for pustakam (owner), and 'jyoºº' stands for jyotiṣī.",
+ "_meta": {
+  "reel": "A 897/16",
+  "model": "gemini-flash-latest",
+  "secs": 8.7,
+  "in_tok": 854,
+  "out_tok": 2077
+ }
+}

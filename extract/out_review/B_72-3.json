@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. Added notes on the abbreviated date, the Jovian year and the ambiguity of the CE year."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gauḍapādācārya",
+   "name": "Gauḍapāda",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgauḍapādācāryaviravcitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "caiºº vaºº 3ºº śaºº hemalaṃbi saṃ 1942",
+  "era": "VS",
+  "year": "1942",
+  "month": "Caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "3",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1885"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names no scribe, owner or commissioner. The date is abbreviated: caiºº vaºº 3ºº śaºº = Caitra vadi (kṛṣṇa) 3, śanivāra (Saturday). The Jovian year Hemalamba(-ī) roughly fits VS 1942 in the northern (Bārhaspatya) reckoning, about 12 years ahead of the southern cycle. The CE year is 1885 or early 1886, depending on whether the months are reckoned pūrṇimānta or amānta. The abbreviation string 'haºº āºº svāºº maºº duºº bāºº kṣeºº kāºº miºº' before the date probably stands for a formula or a list (possibly mantra syllables). I did not read it as personal names. The date agrees with the catalogue field VS 1942.",
+ "_meta": {
+  "reel": "B 72/3",
+  "model": "opus",
+  "cost_usd": 0.087594,
+  "secs": 24.2
+ }
+}

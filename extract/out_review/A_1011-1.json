@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date: normalized month to Mārgaśīrṣa and pakṣa to kṛṣṇa (vadi); weekday 'roja 4' interpreted as the 4th weekday, i.e. Wednesday, if counted from Sunday = 1 (uncertain)",
+   "Date: ce_approx stays 1893. VS 1950 Mārgaśīrṣa vadi falls in Nov–Dec 1893",
+   "Notes: said that the genitive can mark the agent ('written by'), so the scribe role is retained and 'owner' is only possible"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "veṇidharaśarmaṇaḥ",
+   "name": "Veṇīdhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitam idaṃ pustakaṃ veṇidharaśarmaṇaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1950 sāla mārgasirṣavadi 14 roja4",
+  "era": "VS",
+  "year": "1950",
+  "month": "Mārgaśīrṣa",
+  "paksa": "kṛṣṇa (vadi)",
+  "tithi": "14",
+  "weekday": "roja 4 (= Wednesday?)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1893"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'liṣitam idaṃ pustakaṃ veṇidharaśarmaṇaḥ': the genitive most likely marks the agent ('written by Veṇīdhara Śarman'). An ownership reading ('this book of …') is possible but less likely, so the role is kept as scribe only. The name is written Veṇidhara (short i), normalized to Veṇīdhara. VS is assumed for 'samvat … sāla'; VS 1950 = 1893 CE (Mārgaśīrṣa kṛṣṇa 14 ≈ Nov/Dec 1893). 'roja 4' (Nepali/Persian roj, 'day') most likely means the 4th weekday, i.e. Wednesday. The chapter number 'dvipaṃcāśattamo' (52) agrees with the numeral 52.",
+ "_meta": {
+  "reel": "A 1011/1",
+  "model": "opus",
+  "cost_usd": 0.069134,
+  "secs": 12.5
+ }
+}

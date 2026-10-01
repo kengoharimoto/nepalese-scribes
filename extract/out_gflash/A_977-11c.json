@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmahādinānātha",
+   "name": "Mahādinānātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahādinānāthaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ṭaṃkadhvajapāḍrā kṣetrī",
+   "name": "Ṭaṃkadhvaja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "pāḍrā",
+    "kṣetrī"
+   ],
+   "affiliation": "",
+   "residence": "naipāle nagare",
+   "evidence": "likhaka ṭaṃkadhvajapāḍrā kṣetrī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1938 śrāvaṇasya śite pakṣa tṛtīyāṃ guruvāsare",
+  "era": "VS",
+  "year": "1938",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "tṛtīyā",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1881"
+ },
+ "place": {
+  "as_written": "deśe kumārikākhaṇḍe naipāle nagaresthita",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "Pāḍrā is likely a clan/surname or subcaste designation associated with Kṣetrī (Chhetri).",
+ "_meta": {
+  "reel": "A 977/11c",
+  "model": "gemini-flash-latest",
+  "secs": 8.8,
+  "in_tok": 788,
+  "out_tok": 1850
+ }
+}

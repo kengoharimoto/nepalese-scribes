@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhojadevanṛpa",
+   "name": "Bhojadeva",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "nṛpa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhojadevanṛpasarvvasārasaṃ(2)graha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon contains only the title/author attribution (Sarvasārasaṃgraha / Bhojadevanāmapustaka attributed to King Bhojadeva) with no scribe, commissioner, or date.",
+ "_meta": {
+  "reel": "B 324/8",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 668,
+  "out_tok": 777
+ }
+}

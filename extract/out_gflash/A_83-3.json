@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvikramānanda",
+   "name": "Vikramānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvikramānandaviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepālīsamvat 1035 miti śrāvanakṛṣṇa trayodaśī maṃgavārasa",
+  "era": "NS",
+  "year": "1035",
+  "month": "śrāvana",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "maṃgavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1915"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon notes that the text was completed/copied according to the master copy ('guru saphu vamojima thva saphu chāppeyānā sidhayakā dina jula'). No scribe or patron is specifically named.",
+ "_meta": {
+  "reel": "A 83/3",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 803,
+  "out_tok": 822
+ }
+}

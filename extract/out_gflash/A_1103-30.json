@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "manaharīśarmaṇaṃ",
+   "name": "Manahari",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "manaharīśarmaṇaṃ haste(!) likhitaṃm(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1983 māghaśukla 5 roja 1",
+  "era": "VS",
+  "year": "1983",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "roja 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1927"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1103/30",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 788,
+  "out_tok": 846
+ }
+}

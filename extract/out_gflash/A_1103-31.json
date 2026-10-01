@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vāṇivilāsa",
+   "name": "Vāṇīvilāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ vāṇivilāsa hastena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "sāla miti vaiśā(!) badi 12 roja 4 śumbha(!) || śrīśāke 1758",
+  "era": "ŚS",
+  "year": "1758",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "12",
+  "weekday": "roja 4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1836"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1103/31",
+  "model": "gemini-flash-latest",
+  "secs": 3.0,
+  "in_tok": 740,
+  "out_tok": 684
+ }
+}

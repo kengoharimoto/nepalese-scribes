@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paramācāryabodhiguptasya",
+   "name": "Bodhigupta",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "paramācārya",
+    "pravaramahāyānayāyin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "deyadharmmo yam pravaramahāyānayāyinaḥ paramācāryabodhiguptasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 88 vaiśākhaśuklapañcamyāṃ",
+  "era": "NS",
+  "year": "88",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "968"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "yad atra puṇyan tad bhavatu mātāpitṛgu[ru]upādhyāyapūrvvaṅgamaṃ kṛtvā sakalasatvarāśer anuttarajñānavāptaya iti",
+ "notes": "",
+ "_meta": {
+  "reel": "A 39/5",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 842,
+  "out_tok": 1152
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vaiṣṇava lakṣamaṇadāsa",
+   "name": "Lakṣmaṇadāsa",
+   "roles": [
+    "scribe",
+    "reader"
+   ],
+   "titles": [
+    "vaiṣṇava"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ likhitvā ... paṭhanārthaṃ vaiṣṇava lakṣamaṇadāsa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1793 varṣe māsa phālguṇakṛṣṇapakṣe catudaśyāyāṃ (!) vāra vṛhaspativāsare",
+  "era": "VS",
+  "year": "1793",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "14",
+  "weekday": "vṛhaspativāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1736"
+ },
+ "place": {
+  "as_written": "vajāvada madhye śrīrāmaholāyāṃ śrīcaturbhujamaṃdira samipe",
+  "normalized": ""
+ },
+ "purpose": "vaiṣṇavasevā / paṭhanārtha",
+ "notes": "",
+ "_meta": {
+  "reel": "A 301/10",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 812,
+  "out_tok": 1211
+ }
+}

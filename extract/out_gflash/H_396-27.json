@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmahopādhyāyakavikālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahāmahopādhyāyakavikālidāsakṛtaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 862 pauṣamāse kṛṣṇapakṣe saptamyāṃ tithau ādityavārasare (!)",
+  "era": "NS",
+  "year": "862",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "saptamī",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1742"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribe or commissioner is mentioned. The colophon ends with grammatical/scribal explanatory notes in Newari/Sanskrit.",
+ "_meta": {
+  "reel": "H 396/27",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 771,
+  "out_tok": 905
+ }
+}

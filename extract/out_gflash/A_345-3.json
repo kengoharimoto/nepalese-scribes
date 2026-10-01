@@ -1,0 +1,78 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bharavikṛtau",
+   "name": "Bhāravi",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bharavikṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rāvalaharibhā (!) itasya",
+   "name": "Haribhāita",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "rāvala"
+   ],
+   "affiliation": "",
+   "residence": "Vāripura",
+   "evidence": "vāripuranivāśirāvalaharibhā (!) itasyātmaja",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "anaṃdarāmeṇa",
+   "name": "Ānandarāma",
+   "roles": [
+    "scribe",
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Vāripura",
+   "evidence": "anaṃdarāmeṇa lakhitaṃ (!) idi (!) pustakaṃ svapaṭhanārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "rāvalaharibhā (!) itasyātmaja (!) anaṃdarāmeṇa"
+  }
+ ],
+ "date": {
+  "as_written": "śaṃvat (!)18017 (!) varṣe śāke 1691 (!) pravarttamāne dakṣiṇāyanagate śrīsūrye hemaṃtaṛtumahāmāṃgalya〈〈e〉〉prade (!) māsottamamāse mārgaśirṣamāse (!) kṛṣṇapakṣe adya tithau 12 bhṛguvāsare",
+  "era": "VS",
+  "year": "18017 (VS 1817 / ŚS 1691)",
+  "month": "mārgaśirṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "12",
+  "weekday": "bhṛguvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1769"
+ },
+ "place": {
+  "as_written": "vāripura",
+  "normalized": ""
+ },
+ "purpose": "svapaṭhanārthaṃ",
+ "notes": "The year is written as '18017' (evidently a scribal error for VS 1817 or 1826/1827 to match ŚS 1691). The cataloguer resolved it to VS 1817 and ŚS 1681. Father's name is corruptly written as 'rāvalaharibhā (!) itasya'.",
+ "_meta": {
+  "reel": "A 345/3",
+  "model": "gemini-flash-latest",
+  "secs": 13.7,
+  "in_tok": 898,
+  "out_tok": 2251
+ }
+}

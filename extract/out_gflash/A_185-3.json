@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "joganarasiṃhana",
+   "name": "Joganarasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Ghāsaṃ",
+   "evidence": "joganarasiṃhana coyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1903 sāla samvat 1768 nepāla (nepāla 966) sālam vaisāṣavadi (!) 30 roja 2",
+  "era": "VS",
+  "year": "1903",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "30",
+  "weekday": "roja 2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1846"
+ },
+ "place": {
+  "as_written": "ghāsaṃyā",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date provides three year counts: VS 1903, ŚS 1768 (erroneously labelled 'nepāla' in the original text), and NS 966 (corrected in parentheses). Vaiśākha kṛṣṇa 30 on roja 2 (Monday) corresponds precisely to 25 May 1846 CE. 'ghāsaṃyā' indicates the scribe's residence/tol (Ghāsaṃ + Newari genitive suffix -yā).",
+ "_meta": {
+  "reel": "A 185/3",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 832,
+  "out_tok": 1436
+ }
+}

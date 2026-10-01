@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī bhānudatto",
+   "name": "Bhānudatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī bhānudatto alikhaddhanārthe",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vasvaṃka bhūpaiḥ pramite śake abde sarpasya tithyāṃ śanivāsareśudā",
+  "era": "ŚS",
+  "year": "vasvaṃka bhūpaiḥ (1698)",
+  "month": "",
+  "paksa": "śudi",
+  "tithi": "sarpasya tithyāṃ (pañcamī)",
+  "weekday": "śanivāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1776"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "dhanārthe",
+ "notes": "The chronogram 'vasv-aṅka-bhūpaiḥ' gives Śaka 1698 (vasu = 8, aṅka = 9, bhūpa = 16), which corresponds to VS 1833 (as given in the catalogue) and approx. 1776 CE. Sarpa represents tithi 5 (pañcamī).",
+ "_meta": {
+  "reel": "B 183/13",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 790,
+  "out_tok": 1220
+ }
+}

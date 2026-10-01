@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkarṇṇapureṇa",
+   "name": "Karṇapūra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkarṇṇapureṇa kavinā kṛtinā kṛta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 820 mārggaśīra māse śukle pakṣe dvitīyāyāṃ tithau, jyeṣṭha para mūla nakṣētre dhṛtiyoge yathā karaṇa muhurtte, somavāsare",
+  "era": "NS",
+  "year": "820",
+  "month": "mārggaśīra",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "somavāsara",
+  "nakshatra_yoga": "jyeṣṭha para mūla nakṣētre dhṛtiyoge",
+  "ce_approx": "1700"
+ },
+ "place": {
+  "as_written": "pāladhvākhā",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "Catalogue records date as 'NS 820 māgha', but the colophon text clearly reads 'mārggaśīra māse'. 'lohodevara' refers to a stone temple (lohōṃ devala) in front of the Pāladhvākhā gate in Bhaktapur, where a koṭyāhuti yajña was held on the day of completion.",
+ "_meta": {
+  "reel": "A 860/3",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 973,
+  "out_tok": 1340
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmādhava-",
+   "name": "Mādhava",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmādhavaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrībajrācāryyā jiṇaratnamunina",
+   "name": "Jinaratnamuni",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Dukṣevāhāra",
+   "residence": "Saṃkharāpūramahānagara, Dhvaṃlātola",
+   "evidence": "śrībajrācāryyā jiṇaratnamunina siddhayakā jula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 964 sāla miti vaiśākhakṛṣṇayāṣyaṣṭamī (!) buddhavāra",
+  "era": "NS",
+  "year": "964",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "buddhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1844"
+ },
+ "place": {
+  "as_written": "saṃkharāpūramahānagarayā dhvaṃlātola dukṣevāhālyā",
+  "normalized": "Sankhu"
+ },
+ "purpose": "",
+ "notes": "The scribe completed the copying at Dukṣe Vihāra in the Dhvaṃlā quarter of Saṅkhu (Śaṅkharāpura). Followed by scribal apology verses and a Newari warning against lending or pawning the manuscript (thva saphulaṅeya viyeṃ maḍu hleyā viyaṃ madu...).",
+ "_meta": {
+  "reel": "A 954/3",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 906,
+  "out_tok": 1671
+ }
+}

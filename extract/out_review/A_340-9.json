@@ -1,0 +1,75 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed the two 'wrote_for' relations. 'dvaipāyanasyedaṃ' and 'pūrrajñasyedaṃ' are bracketed ownership marks that may have been added later. They do not show that Candrabhānu copied the text for these people.",
+   "Lowered confidence for Pūrrajña to low, because the name is evidently corrupt.",
+   "Added the date of the second colophon to the notes, along with the question of whether the two colophons belong to one manuscript or two."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "candrabhānunā",
+   "name": "Candrabhānu",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ candrabhānunā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dvaipāyanasya",
+   "name": "Dvaipāyana",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvaipāyanasyedaṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "pūrrajñasya",
+   "name": "Pūrrajña",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pūrrajñasyedaṃ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1663 samaye pauṣasudi saptamī gurau",
+  "era": "VS",
+  "year": "1663",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1606"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon ends twice. Fol. 5v is dated samvat 1663 Pauṣa sudi 7, Thursday (gurau), and carries the ownership mark 'dvaipāyanasyedaṃ'. Exp. 12 is dated samvat 1664 Māgha vadi 10, Saturday (śanivāsare), and carries the ownership mark 'pūrrajñasyedaṃ'. Both colophons name Candrabhānu as scribe. The second date is about a year later (VS 1664 Māgha falls around January 1608). This suggests the reel holds two copies of the Bahulākathā by the same scribe, each with a different owner, rather than one manuscript. The era is not stated. It is taken as Vikrama because the script is Devanagari, the scribe is not Newar, and the date formula is North Indian. VS 1663 Pauṣa corresponds to December 1606 or January 1607. I did not check the weekdays. 'pūrrajña' is evidently corrupt; Pūrṇajña is a possible reading. The ownership marks are in brackets and may be later additions, so no link between the scribe and the owners is recorded.",
+ "_meta": {
+  "reel": "A 340/9",
+  "model": "opus",
+  "cost_usd": 0.082562,
+  "secs": 16.6
+ }
+}

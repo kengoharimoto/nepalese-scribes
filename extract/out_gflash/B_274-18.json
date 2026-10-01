@@ -1,0 +1,69 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭaśrīpṛthvīdharātmaja",
+   "name": "Pṛthvīdhara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa",
+    "padavākyapramāṇapārāvārīṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭaśrīpṛthvīdharātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaṭṭarāgha[[va]]",
+   "name": "Rāghava",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhaṭṭa",
+    "sāhityaratnākara",
+    "sakalaśāstrapravīṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭarāgha[[va]]viracitābhijñānaśākuṃtalaṭīkā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "bhaṭṭaśrīpṛthvīdharātmaja(8)...bhaṭṭarāgha[[va]]"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1748 āṣāḍhabadi 30 | pratipadcchuddhā",
+  "era": "unspecified",
+  "year": "1748",
+  "month": "āṣāḍha",
+  "paksa": "badi",
+  "tithi": "30",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1691"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue identifies the era as ŚS 1748 (1826 CE) and the place as Kāśī, though the colophon text itself only states 'saṃvat 1748' (which standardly denotes VS 1748 / 1691 CE in Devanagari manuscripts) and does not name a place.",
+ "_meta": {
+  "reel": "B 274/18",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 789,
+  "out_tok": 1658
+ }
+}

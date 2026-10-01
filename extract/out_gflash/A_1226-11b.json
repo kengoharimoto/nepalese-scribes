@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "karmmacārya dhamendrasiṁha",
+   "name": "Dharmendrasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣiṭa karmmacārya dhamendrasiṁha pūtra … deva nihmasyana coyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "… deva",
+   "name": "…deva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "… deva nihmasyana coyā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "dhamendrasiṁha pūtra … deva"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon does not record a date. It mentions two scribes (nihmasyana coyā jula): Karmācārya Dharmendrasiṃha and his son, whose name is partially illegible/lost (…deva).",
+ "_meta": {
+  "reel": "A 1226/11b",
+  "model": "gemini-flash-latest",
+  "secs": 10.3,
+  "in_tok": 730,
+  "out_tok": 1950
+ }
+}

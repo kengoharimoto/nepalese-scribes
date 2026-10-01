@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sūryarāma",
+   "name": "Sūryarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rikhiti sūryarāma",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 770 ākhāḍha śu di 5 āditavārakohnū",
+  "era": "NS",
+  "year": "770",
+  "month": "ākhāḍha",
+  "paksa": "śu",
+  "tithi": "5",
+  "weekday": "āditavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1650"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "manakāmanāsiddhir astu",
+ "notes": "The form 'rikhiti' stands for likhitam/likhitaḥ.",
+ "_meta": {
+  "reel": "A 981/1",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 949,
+  "out_tok": 889
+ }
+}

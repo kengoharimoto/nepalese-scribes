@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkāśīnātha-",
+   "name": "Kāśīnātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkāśīnāthaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 947 mti (!) śrāvaṇaśºº 1 roja 3 rātrī ghaṭī 19 paºº 47",
+  "era": "NS",
+  "year": "947",
+  "month": "śrāvaṇa",
+  "paksa": "śuklapakṣa",
+  "tithi": "1",
+  "weekday": "roja 3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1827"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date record in brackets appears to be a birth record (janma śubhaṃ), though no personal name is provided for the individual born.",
+ "_meta": {
+  "reel": "A 424/17",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 741,
+  "out_tok": 1001
+ }
+}

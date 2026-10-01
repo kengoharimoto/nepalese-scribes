@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śṛīvajrācāryya candrapatidhananaṃ",
+   "name": "Candrapatidhana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "maṇisaṃgha mahā(ra) laṃtaleche",
+   "residence": "hlūgrabāhāra",
+   "evidence": "śṛīvajrācāryya candrapatidhananaṃ coyā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 972 māgha śukla 10 sa",
+  "era": "NS",
+  "year": "972",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "sa",
+  "nakshatra_yoga": "",
+  "ce_approx": "1852"
+ },
+ "place": {
+  "as_written": "maṇisaṃgha mahā(ra) laṃtalecheyā hlūgrabāhārasa",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The weekday abbreviation 'sa' likely stands for sanivāra (Saturday). 'maṇisaṃgha mahā(ra)' likely reconstructs to Maṇisaṅgha mahāvihāra (in Patan).",
+ "_meta": {
+  "reel": "B 105/15",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 721,
+  "out_tok": 1032
+ }
+}

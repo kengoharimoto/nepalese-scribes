@@ -1,0 +1,63 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrībhojadevanṛpa",
+   "name": "Bhojadeva",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "nṛpa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrībhojadevanṛpasarvvasārasaṅgraha",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrījayasīhamallavarmmaṇaiḥ",
+   "name": "Jayasīhamallavarman",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "kuṭumbaja",
+    "pradhāṅga",
+    "mahāpātra"
+   ],
+   "affiliation": "Mānīgalottaravihāra, Hnolavihāra",
+   "residence": "Lalitapattana",
+   "evidence": "kuṭumbajapradhāṅgamahāpātraśrījayasīhamallavarmmaṇaiḥ svaparārthahetunā || bodhisatvamahāsatvaśrīśrīśrībugmāryāvalokeśvarasannidhāne svahastena likhitaṃ || pustakañ ca śrījayasīhamallavarmmaṇasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 479 kārttikakṛṣṇāpañcamīparaṣaṣṭhamyān tithau || puṣyanakṣatre || brahmayoge || budhavāsare",
+  "era": "NS",
+  "year": "479",
+  "month": "kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "pañcamīparaṣaṣṭhī",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "puṣya, brahma",
+  "ce_approx": "1359"
+ },
+ "place": {
+  "as_written": "śrīlalitapattane śrīmānīgalottaravihāre śrīhnolavihāre",
+  "normalized": "Patan"
+ },
+ "purpose": "svaparārthahetunā",
+ "notes": "Written in the presence of Bugmāryāvalokeśvara (svahastena likhitaṃ).",
+ "_meta": {
+  "reel": "A 1/1",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 881,
+  "out_tok": 1584
+ }
+}

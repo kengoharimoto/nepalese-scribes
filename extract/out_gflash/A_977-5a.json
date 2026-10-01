@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgovindacaraṇa upādhyāṃ",
+   "name": "Govindacaraṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "Brahmapūrache",
+   "evidence": "śrīgovindacaraṇa upādhyāṃ brahmapūrachesaconā coyāsidhayakā julo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "iti saṃvat 967 sāla mi caitra śudi 1 roja 4",
+  "era": "NS",
+  "year": "967",
+  "month": "caitra",
+  "paksa": "śuklapakṣa",
+  "tithi": "1",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1847"
+ },
+ "place": {
+  "as_written": "brahmapūrachesa",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe Govindacaraṇa Upādhyāya completed the text residing at Brahmapūrache (brahmapūrachesaconā). The subsequent text describes a dream and an event on Phālguna vadi 11, Wednesday, involving the goddess/Śakti giving the book in a dream, and mentions 'vipana sadhīrjavīraṃ' and 'dhūktalā vāju Dhaka', which may contain obscure personal names or transactions, but the reading and syntax are too uncertain to extract them securely as distinct persons.",
+ "_meta": {
+  "reel": "A 977/5a",
+  "model": "gemini-flash-latest",
+  "secs": 10.6,
+  "in_tok": 903,
+  "out_tok": 1809
+ }
+}

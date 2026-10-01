@@ -1,0 +1,65 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 Tīrtharāja: role 'owner' removed (colophon gives no ownership formula such as asya pustakam); kept 'beneficiary' for the dative 'tīrtharājāya ... likhita'",
+   "p2 confidence lowered to medium: the catalogue lists him as scribe, and the loose Sanskrit could mean the dative stands for an agent, so his scribe role can't be ruled out",
+   "Notes expanded"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "puruśottamadeva",
+   "name": "Puruṣottamadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "śābdika",
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śābdikamahāmahopādhyāya puruśottamadeva praṇītā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "tīrtharājāya",
+   "name": "Tīrtharāja",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tīrtharājāya ayaṃ hāvali likhita",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for Tīrtharāja (tīrtharājāya)",
+ "notes": "The catalogue names Tīrtharāja as scribe. The colophon instead reads 'tīrtharājāya ayaṃ hāvali(!) likhita', a dative meaning 'this Hārāvalī was written for Tīrtharāja'. That makes him the person the copy was made for, possibly its commissioner or owner. However, the colophon's Sanskrit is substandard (hāvali for hārāvalī, likhita for likhitā), so the dative may have been used loosely for an agent. That would make Tīrtharāja the scribe, as the catalogue says. No scribe is named otherwise. 'puruśottama' is read as Puruṣottamadeva, the grammarian and lexicographer, author of the Hārāvalī. 'praṇītāhārāvalī' is read as praṇītā hārāvalī. The colophon has no date. The invocation of Rāmacandra, Saṅkaṭā, Hanumān and others suggests a late copy, but nothing more can be said.",
+ "_meta": {
+  "reel": "A 1032/5",
+  "model": "opus",
+  "cost_usd": 0.072586,
+  "secs": 14.2
+ }
+}

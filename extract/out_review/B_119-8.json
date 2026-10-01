@@ -1,0 +1,88 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: name changed from 'Rāghavabhaṭṭa' to 'Rāghava'; 'bhaṭṭa' is kept only in titles.",
+   "p3: scribe's name changed from 'Deva' to 'Manohara', as in the catalogue. Splitting the word as 'manohara-rasād devena' (Deva, 'out of delight') is less likely than a personal name, and a scribe called just 'Deva' is implausible. Confidence stays medium.",
+   "p2: 'vijavaraḥ' recorded as an error for dvijavaraḥ. 'sudhīḥ' added as an epithet.",
+   "Date: 'ghasre[ʼ]site' parsed as ghasre + asite (dark fortnight, kṛṣṇa), which depends on the cataloguer's avagraha. The chronogram is confirmed as 6-0-8, read right to left = NS 806. ce_approx widened to 1685/86 because Kārttika falls at the turn of the NS year.",
+   "Notes: added the metrical check and a doubt about the nakṣatra, and removed the 'Deva' interpretation."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāghavabhaṭṭaviracite",
+   "name": "Rāghava",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāghavabhaṭṭaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vijavaraḥ śrīcakrarājaḥ sudhīḥ",
+   "name": "Cakrarāja",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kālītatvam alekhayad vijavaraḥ śrīcakrarājaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "manohararasādevena",
+   "name": "Manohara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "manohararasādevena saṃyatnataḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "alekhayad vijavaraḥ śrīcakrarājaḥ ... manohararasādevena"
+  }
+ ],
+ "date": {
+  "as_written": "ṣaṣṭhadyogajasammite suraguror ghasre[ʼ]site pakṣake ... māse kārttikike ... pañcamyāṃ śubhayogamiśritabharaṇyāṃ tārakāyāṃ",
+  "era": "NS",
+  "year": "806",
+  "month": "Kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "Bharaṇī nakṣatra; śubha yoga",
+  "ce_approx": "1685/86"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "commissioned by Cakrarāja",
+ "notes": "Chronogram 'ṣaṣ(ṭha)-dyo-gaja': ṣaṭ = 6, dyo (sky) = 0, gaja = 8. Read right to left this gives 806. The era is not named; it is taken as NS from the catalogue's 'SAM 806' and the Newari script. Kārttika of NS 806 falls in October–November 1685, or 1686 if the month is counted after the year's change.\n\nMetre is Śārdūlavikrīḍita, and 'māse kārttikike manohararasādevena saṃyatnataḥ' scans correctly. So the extra syllable 'ra' is metrically needed. It may be a doubled 'ra' in the name: perhaps Manoharasa-/Manohara-deva, which would give 'Manoharadeva'. Alternatively it could be 'manohara-rasāt' plus a name 'Deva'. I follow the catalogue: Manohara.\n\n'ghasre[ʼ]site': the dark fortnight (asita) depends on the cataloguer's avagraha. Read without it, as 'site', it would mean the bright fortnight (śukla). Neither a kṛṣṇa nor a śukla pañcamī in Kārttika fits the Bharaṇī nakṣatra well, so the date details may be faulty. Verify before converting.\n\nCakrarāja is called a dvija ('vijavaraḥ', missing its 'd'), so he is a brahmin. The text is given in the colophon as the 21st tattva of Rāghavabhaṭṭa's Kālītattvarahasya; the catalogue title is Kālītantra.",
+ "_meta": {
+  "reel": "B 119/8",
+  "model": "opus",
+  "cost_usd": 0.563538,
+  "secs": 56.3
+ }
+}

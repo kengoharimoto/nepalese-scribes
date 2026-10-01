@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sarasvatītīrtha",
+   "name": "Sarasvatītīrtha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "paramahaṃsa",
+    "parivrājakācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sarasvatītīrthaviracitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1846 mitī śrāvanasudi nāgapaṃcamī",
+  "era": "VS",
+  "year": "1846",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "5 (nāgapañcamī)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1789"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 320/22",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 745,
+  "out_tok": 827
+ }
+}

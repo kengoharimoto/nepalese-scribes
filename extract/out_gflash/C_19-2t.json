@@ -1,0 +1,49 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājarājendrakavīndramallajayapratāpamalladeva",
+   "name": "Jayapratāpamalladeva",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "samastaśāstrasaṃgītāsakalavidyāpāraṃgata",
+    "mahārājādhirāja",
+    "vidagdhacūḍāmaṇi",
+    "rājarājendra",
+    "kavīndramalla"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājādhirāja vidagdhacūḍāmaṇi śrī 3 rājarājendrakavīndramallajayapratāpamalladevaviracita",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon is only an author colophon attributing the hymn to King Pratāpa Malla (Jayapratāpamalladeva) of Kathmandu; no scribe or date of copying is mentioned.",
+ "_meta": {
+  "reel": "C 19/2t",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 747,
+  "out_tok": 788
+ }
+}

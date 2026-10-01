@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgaṃgānandena",
+   "name": "Gaṅgānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgaṃgānandena likhitam idaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvatsara 842 ākhāḍhavadi 7",
+  "era": "NS",
+  "year": "842",
+  "month": "ākhāḍha",
+  "paksa": "vadi",
+  "tithi": "7",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1722"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Catalogue records date as NS 942, but the colophon text reads saṃvatsara 842.",
+ "_meta": {
+  "reel": "A 1038/2",
+  "model": "gemini-flash-latest",
+  "secs": 2.8,
+  "in_tok": 792,
+  "out_tok": 585
+ }
+}

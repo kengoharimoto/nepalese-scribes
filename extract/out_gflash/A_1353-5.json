@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivalāla pāṭhaka",
+   "name": "Śivalāla",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "pāṭhaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śivalāla pāṭhaka pādānuyāyi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaṭṭadevarāma",
+   "name": "Devarāma",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭadevarāma saṃgṛhīte śrī madrāyaṇīya viṣamapada vyākhyāne",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rādhākṣṇena",
+   "name": "Rādhākṛṣṇa",
+   "roles": [
+    "scribe",
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rādhākṣṇena svapāṭārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śivalāla pāṭhaka pādānuyāyi"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1901 pauṣaśudi 15",
+  "era": "VS",
+  "year": "1901",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "15",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1844"
+ },
+ "place": {
+  "as_written": "śrīkāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "svapāṭhārtham",
+ "notes": "The catalogue identified Śivalāla Pāṭhaka as donor, but in the colophon he is the teacher whose follower (pādānuyāyin) Bhaṭṭa Devarāma composed/compiled the commentary (saṃgṛhīte). The scribe copied the text for his own reading (svapāṭārthaṃ).",
+ "_meta": {
+  "reel": "A 1353/5",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 939,
+  "out_tok": 1422
+ }
+}

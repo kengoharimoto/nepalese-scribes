@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṣamādevena",
+   "name": "Kṣamādeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṣamādevena lekhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Mahārudra / Rudra is named as the composer (śrīmahārudraviracitaṃ, śrīrudreṇa racitaṃ), which refers to the deity Śiva and is therefore excluded.",
+ "_meta": {
+  "reel": "B 331/20",
+  "model": "gemini-flash-latest",
+  "secs": 10.0,
+  "in_tok": 725,
+  "out_tok": 1889
+ }
+}

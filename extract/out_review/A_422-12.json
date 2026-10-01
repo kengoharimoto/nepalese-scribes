@@ -1,0 +1,47 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Notes expanded: the era is only 'saṃvat' and VS is assumed; the place Vahlevā is unidentified; the verse 'yādṛśaṃ... na diyate' is the standard scribal formula."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paraśurāmo〈〈‥ ‥ ‥〉〉",
+   "name": "Paraśurāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ paraśurāmo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1678 samaye caitra",
+  "era": "VS",
+  "year": "1678",
+  "month": "caitra",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1621"
+ },
+ "place": {
+  "as_written": "vahlevā",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The text after the scribe's name Paraśurāma is lost or illegible (〈〈‥ ‥ ‥〉〉), so a title, place or kinship statement may be missing. The colophon gives only 'saṃvat' with no era name. VS is assumed because the manuscript is in Devanagari and the year is 1678, which gives about 1621 CE. NS 1678 is impossible, but ŚS 1678 (about 1756 CE) cannot be strictly ruled out. The place 'vahlevā' (sthāne vahlevā) is unidentified. 'yādṛśaṃ... na diyate (!)' is the standard scribal formula. The author of the Raṇahastisvaraśāstra is not named in the colophon.",
+ "_meta": {
+  "reel": "A 422/12",
+  "model": "opus",
+  "cost_usd": 0.063626,
+  "secs": 11.3
+ }
+}

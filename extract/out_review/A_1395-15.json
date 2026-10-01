@@ -1,0 +1,34 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "era changed from 'unspecified' to 'VS' (tentative): a bare 'samvat' with year 1690 in a Devanagari manuscript most naturally means Vikrama Saṃvat; NS 1690 is impossible and Śaka is usually written as śāke/śaka; ce_approx stays 1633",
+   "notes: added that '|| 18 ||' is the chapter number (aṣṭādaśo 'dhyāyaḥ), not part of the date, and that the cataloguer's (!) after 1690 is unexplained"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1690 (!)",
+  "era": "VS",
+  "year": "1690",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1633"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names no persons. It gives only 'samvat 1690', and I take the era as Vikrama Saṃvat (about 1633 CE), but that is a guess. Śaka 1690 (about 1768 CE) cannot be ruled out. The cataloguer's (!) after 1690 may mean they doubted the year or the spelling 'samvat'. '|| 18 ||' is the chapter number (the 18th adhyāya), not part of the date. This colophon is at the end of chapter 18 (fol. 35v). It may not be the final colophon of the manuscript.",
+ "_meta": {
+  "reel": "A 1395/15",
+  "model": "opus",
+  "cost_usd": 0.061554,
+  "secs": 11.1
+ }
+}

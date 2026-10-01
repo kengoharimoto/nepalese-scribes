@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭācāryyacūḍāmaṇi",
+   "name": "Bhaṭṭācāryacūḍāmaṇi",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭācārya",
+    "cūḍāmaṇi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhaṭṭācāryyacūḍāmaṇikṛtāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "harir",
+   "name": "Hari",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "alikhat putrapāṭhārthaṃ ... harir",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "ibhākṣirasacaṃdre ʼsmin śāke 〈〈‥‥〉〉 bāhulake bhṛgau",
+  "era": "ŚS",
+  "year": "1628",
+  "month": "",
+  "paksa": "kṛṣṇa",
+  "tithi": "",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1706"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "putrapāṭhārthaṃ (for the study of his son)",
+ "notes": "Year given in chronogram ibha (8) - akṣi (2) - rasa (6) - candra (1) = Śāka 1628. The son is unnamed.",
+ "_meta": {
+  "reel": "B 58/11",
+  "model": "gemini-flash-latest",
+  "secs": 6.7,
+  "in_tok": 794,
+  "out_tok": 1510
+ }
+}

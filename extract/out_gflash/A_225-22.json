@@ -1,0 +1,74 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī śrījayaraṇajitamalla mahārājasana",
+   "name": "Jayaraṇajitamalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śrījayaraṇajitamalla mahārājasana ... ṭīkādayakaṃ sidhayakā julo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "yajñanārāyaṇapradhānāṃgayā",
+   "name": "Yajñanārāyaṇa",
+   "roles": [
+    "commentator",
+    "minister"
+   ],
+   "titles": [
+    "pradhānāṅga"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yajñanārāyaṇapradhānāṃgayā valasa thva guli siddhayoga saṃgrahanāma aśvaśāstrayā nepālabhāṣāna ṭīkādayakaṃ sidhayakā julo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "jīpanisayā makhu, svāmiyā ājñāmātra yathā śaktina praṃāṇa yāṅā"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrī śrījayaraṇajitamalla mahārājasana, yajñanārāyaṇapradhānāṃgayā valasa"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 850 mārgasira kṛṣṇa daśamī bṛhaspativāra",
+  "era": "NS",
+  "year": "850",
+  "month": "mārgasira",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1729"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon records the completion of the Newari (Nepālabhāṣā) commentary/translation of the Siddhayogasaṃgraha Aśvaśāstra commissioned by King Jayaraṇajitamalla and prepared with the agency of Yajñanārāyaṇa Pradhānāṅga.",
+ "_meta": {
+  "reel": "A 225/22",
+  "model": "gemini-flash-latest",
+  "secs": 9.1,
+  "in_tok": 872,
+  "out_tok": 2418
+ }
+}

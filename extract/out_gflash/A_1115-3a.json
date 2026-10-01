@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sūrjapraśāda travedī",
+   "name": "Sūryaprasāda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "travedī"
+   ],
+   "affiliation": "",
+   "residence": "ṣasurauke",
+   "evidence": "daśaṣatta sūrjapraśāda travedī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1904 māghakṛṣṇa 7 guru",
+  "era": "VS",
+  "year": "1904",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "7",
+  "weekday": "guru",
+  "nakshatra_yoga": "",
+  "ce_approx": "1848"
+ },
+ "place": {
+  "as_written": "ṣasurauke",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The word daśaṣatta represents dastaḵẖaṭ (signature). The end of the colophon reads 'ṣasurauke vāsī nar ahi'.",
+ "_meta": {
+  "reel": "A 1115/3a",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 720,
+  "out_tok": 1270
+ }
+}

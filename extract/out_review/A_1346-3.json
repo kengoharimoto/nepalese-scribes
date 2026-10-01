@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. Added notes on the 'upādhyena' spelling, the numeric month, and the title discrepancy."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nāradopādhyena",
+   "name": "Nārada",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nāradopādhyenalikhita",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1762 māse 6",
+  "era": "ŚS",
+  "year": "1762",
+  "month": "6",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1840"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'nāradopādhyena' is read as Nārada-upādhyāyena; the syllable -yā- is dropped in the text as quoted. The month is given only as a number ('māse 6'), so the month name depends on the reckoning used (perhaps Āśvina for a Caitrādi year). The colophon calls the work a kāvya named Rādhāvinoda, but the catalogue title says it is a ṭīkā.",
+ "_meta": {
+  "reel": "A 1346/3",
+  "model": "opus",
+  "cost_usd": 0.057826,
+  "secs": 8.9
+ }
+}

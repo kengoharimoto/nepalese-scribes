@@ -1,0 +1,83 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvāgīśvarabhaṭṭācāryya",
+   "name": "Vāgīśvara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvāgīśvarabhaṭṭācāryyaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mahāmahopādhyāya rāmajīvanatarkālaṃkārabhaṭṭācāryya",
+   "name": "Rāmajīvana",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "tarkālaṃkāra",
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāya rāmajīvanatarkālaṃkārabhaṭṭācāryyātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīnārāyaṇaśarmā",
+   "name": "Nārāyaṇa Śarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnārāyaṇaśarmāhaṃ vyalikhad",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "rāmajīvanatarkālaṃkārabhaṭṭācāryyātmajaśrīvāgīśvara"
+  }
+ ],
+ "date": {
+  "as_written": "†turārke† sitapakṣe vai tṛtīyāyāṃ śanau",
+  "era": "none",
+  "year": "",
+  "month": "Tulā",
+  "paksa": "sita",
+  "tithi": "tṛtīyā",
+  "weekday": "śani",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "īśvarechayā",
+ "notes": "†turārke† is likely a corruption or reading for tulārke (in the solar month of Tulā). No year is specified in the colophon verse.",
+ "_meta": {
+  "reel": "C 32/8",
+  "model": "gemini-flash-latest",
+  "secs": 6.2,
+  "in_tok": 768,
+  "out_tok": 1458
+ }
+}

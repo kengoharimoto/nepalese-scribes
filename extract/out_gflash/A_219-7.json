@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "yajñeśvara śarmaṇā",
+   "name": "Yajñeśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ yajñeśvara śarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1886 phālguṇa (!) śudi 13 vāre 3",
+  "era": "ŚS",
+  "year": "1886",
+  "month": "phālguṇa",
+  "paksa": "śudi",
+  "tithi": "13",
+  "weekday": "3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1964"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon clearly gives the year as śrīśāke 1886, while the catalogue entry records ŚS 1686 (1764 CE).",
+ "_meta": {
+  "reel": "A 219/7",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 796,
+  "out_tok": 818
+ }
+}

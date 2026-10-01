@@ -1,0 +1,41 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gopālavilāsī",
+   "name": "Gopālavilāsī",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "iti śrīgopālavilāsīviracitāyāṃ buddhiprasādinī",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "svasti śrīsamvat 1935 sāla miti mārga vadi 10 roja 4",
+  "era": "VS",
+  "year": "1935",
+  "month": "Mārga",
+  "paksa": "kṛṣṇa (vadi)",
+  "tithi": "10",
+  "weekday": "roja 4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1878"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribe, owner, donor or king is named. Gopālavilāsī is the author of the Buddhiprasādinī (the work or commentary named in the colophon). He is recorded as author only, to be filtered out later. The era is not stated, but \"sāla\" with a four-digit year points to Vikrama Saṃvat, which matches the catalogue's \"SAM 1935\". 1935 VS is about 1878 CE. \"roja 4\" is a weekday number and I have not checked it. The words \"ntāgari || manalāi || ṣaicera || rāṣadā ...\" are a Nepali scribal note, not a person. \"yogamāhātmāko\" and the closing lines are text content.",
+ "_meta": {
+  "reel": "A 1029/32",
+  "model": "sonnet",
+  "cost_usd": 0.0494648,
+  "secs": 12.1
+ }
+}

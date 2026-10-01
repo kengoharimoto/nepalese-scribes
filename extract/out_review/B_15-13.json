@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Notes expanded: the date is NS 313 Kārtika kṛṣṇa, which in Nepalese amānta reckoning falls in Oct–Nov 1192 CE. The simple NS+880 formula would give 1193, so ce_approx stays at 1192.",
+   "Notes: the king is identified as Lakṣmīkāmadeva II (c. NS 312–317), not the 11th-century Lakṣmīkāmadeva I.",
+   "Notes: the place reading comes from a garbled phrase in parentheses that may be a later addition, so the Patan identification is only probable.",
+   "Weekday normalized to āditavāra (= ādityavāra, Sunday)."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīlakṣmīkāmadevasya",
+   "name": "Lakṣmīkāmadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājādhirājaparameśvara || śrīlakṣmīkāmadevasya vijayarājye",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 313 kārtikakṣṇa āditavāre",
+  "era": "NS",
+  "year": "313",
+  "month": "kārtika",
+  "paksa": "kṛṣṇa",
+  "tithi": "",
+  "weekday": "āditavāra (Sunday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1192"
+ },
+ "place": {
+  "as_written": "lalita pantaṇa",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "No tithi is given: 'kārtikakṣṇa' stands for kārtikakṛṣṇa, and no day number follows. NS 313 Kārtika kṛṣṇa falls in Oct–Nov 1192 CE under amānta reckoning; the simple NS+880 formula gives 1193. The king is Lakṣmīkāmadeva II (reigned c. NS 312–317), which fits the date. The place comes from the parenthetical phrase '(etasti sā lalita pantaṇa tatu bhavatu)'. This phrase is garbled and may be a later addition. 'lalita pantaṇa' probably means Lalitapaṭṭana (Patan), which agrees with the catalogue's Lalitapura. No scribe or commissioner is named; part of the colophon is lost (///).",
+ "_meta": {
+  "reel": "B 15/13",
+  "model": "opus",
+  "cost_usd": 0.078162,
+  "secs": 17.9
+ }
+}

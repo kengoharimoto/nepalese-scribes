@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: removed 'ācārya' from titles — it is part of the name Kavīndrācārya, not a separate title; kept 'sarvavidyānidhāna' as an epithet",
+   "p1: confidence lowered from high to medium because the name breaks off after 'sa…' (very probably Sarasvatī) and the reading rests on that restoration",
+   "notes: the catalogue's 'scribe Milhaṇa' and 'Ḍhillikānagara' very probably come from the author's own colophon (Milhaṇa wrote the Cikitsāmṛta at Delhi, 13th c.), not from a scribal colophon; the verse in the quoted passage contains no persons"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsarvavidyānidhāna kavīndrācārya sa……….",
+   "name": "Kavīndrācārya",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "sarvavidyānidhāna"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sarvavidyānidhāna kavīndrācārya sa………. ci[[ki]]tsāmṛtapustakam",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The quoted passage is an ownership note in the standard form used by the library of the Benares scholar Kavīndrācārya Sarasvatī (fl. c. 1600–1675): 'sarvavidyānidhāna kavīndrācārya sa[rasvatīnām] … pustakam'. The name breaks off after 'sa…', so the restoration to Sarasvatī is a guess, though a very likely one. The ownership note means the copy existed before c. 1675, but no date is given. The verse that follows ('cikīrṣite karmaṇi cakrapāṇe…') is a corrupt stanza and contains no persons. The catalogue fields 'Scribe: milhaṇa' and 'Place of Copying: ḍhillikānagara' do not appear in the quoted text. They very probably come from the author's own colophon: Milhaṇa composed the Cikitsāmṛta at Ḍhillikā (Delhi) in the 13th century (traditionally VS 1281 ≈ 1224 CE). If so, Milhaṇa is the author, not the scribe of this copy, and Delhi is where the text was composed, not where this copy was made. Neither has been added here as a person or place connected with the copy; this should be checked against the full catalogue entry.",
+ "_meta": {
+  "reel": "A 210/2",
+  "model": "opus",
+  "cost_usd": 0.47877400000000003,
+  "secs": 26.8
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Tithi normalized to 'pūrṇimā' (written purṇamāsyāyāṃ)",
+   "Notes: era not stated in the colophon (bare 'samvat'); NS follows the catalogue and fits a Nepalese copy, so ce_approx 1720 is kept with a caveat",
+   "Notes: no scribe, commissioner or place is named; the catalogue's remark about Newari sentences doesn't match the quoted colophon, which is all Sanskrit"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "miśraśrīvaṭeśvara",
+   "name": "Vaṭeśvara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "miśraśrīvaṭeśvaraviracitamudrāprakāśe",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmahāmahopādhyāyaśrīgaurīśvara",
+   "name": "Gaurīśvara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahāmahopādhyāyaśrīgaurīśvarātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "gaurīśvarātmajamiśraśrīvaṭeśvara"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 841 mārgaśuklapakṣe purṇamāsyāyāṃ śaravāśare",
+  "era": "NS",
+  "year": "841",
+  "month": "Mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "śaravāśare (corrupt; probably śanivāsare)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1720"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Vaṭeśvara is the commentator who wrote the Mudrārākṣasaprakāśa, a commentary on the Mudrārākṣasa. His father Gaurīśvara is named only to identify him. Neither of them is connected with the production of this copy. The colophon names no scribe, commissioner or owner. The colophon gives only 'samvat 841' without naming an era. NS is taken from the catalogue and is plausible for a Nepalese copy: Mārgaśīrṣa śukla pūrṇimā NS 841 falls around Nov/Dec 1720 CE. If the era were VS, the date would be about 784 CE, which is impossible. 'śaravāśare' is corrupt for a weekday, most likely śanivāsare (Saturday); this is unverified. The catalogue says the first two sentences are in Newari, but the quoted colophon is all Sanskrit.",
+ "_meta": {
+  "reel": "A 1350/19",
+  "model": "opus",
+  "cost_usd": 0.094112,
+  "secs": 15.6
+ }
+}

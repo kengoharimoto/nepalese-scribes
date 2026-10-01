@@ -1,0 +1,55 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahīdharakṛte",
+   "name": "Mahīdhara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yogavāśiṣthavivaraṇe mahīdharakṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sauparṇarāmena",
+   "name": "Sauparṇarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vilikhitaṃ ... sauparṇarāmena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "barhir nādasaritpatirmuniyute nepāla samvatsare saubhāgye saha karkkaṭe guhadine āṣāḍhakṛṣṇe yute paṃcamyām",
+  "era": "NS",
+  "year": "barhir nādasaritpatirmuni [747?]",
+  "month": "Āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "guhadina [Tuesday?]",
+  "nakshatra_yoga": "saubhāgya yoga, karkaṭa saṅkrānti",
+  "ce_approx": "1627"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram in 'barhir nādasaritpatirmuniyute' was queried by the cataloguer as NS 747 (muni = 7, saritpati = 4; barhir/nāda interpretation uncertain). If NS 747, the approximate CE year is c. 1627.",
+ "_meta": {
+  "reel": "A 95/28",
+  "model": "gemini-flash-latest",
+  "secs": 7.2,
+  "in_tok": 807,
+  "out_tok": 1564
+ }
+}

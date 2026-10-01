@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vālmīkinā",
+   "name": "Vālmīki",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vālmīkinā viracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1656 samae vaiśāṣa vadi navabhyāṃ vudhavāsare",
+  "era": "VS",
+  "year": "1656",
+  "month": "vaiśāṣa",
+  "paksa": "vadi",
+  "tithi": "navamī",
+  "weekday": "vudhavāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1599"
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Varanasi"
+ },
+ "purpose": "",
+ "notes": "The scribe is anonymous (liṣitaṃ kāśyāṃ).",
+ "_meta": {
+  "reel": "A 358/9",
+  "model": "gemini-flash-latest",
+  "secs": 3.1,
+  "in_tok": 728,
+  "out_tok": 642
+ }
+}

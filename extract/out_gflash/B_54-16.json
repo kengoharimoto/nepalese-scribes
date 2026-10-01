@@ -1,0 +1,83 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭamahādeva",
+   "name": "Mahādeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭamahādeva kṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vālakṛṣna(!)",
+   "name": "Bālakṛṣṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vālakṛṣna(!) tanūdbhava",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bhavaradarāja(!)",
+   "name": "Bhavaradarāja",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhavaradarāja(!) kulodbhava",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "vālakṛṣna(!) tanūdbhava bhaṭṭamahādeva"
+  },
+  {
+   "from": "p1",
+   "type": "other",
+   "to": "p3",
+   "evidence": "bhavaradarāja(!) kulodbhava"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "śloka saṃ 4989 indicates the grantha/śloka count, not a calendar date.",
+ "_meta": {
+  "reel": "B 54/16",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 718,
+  "out_tok": 1518
+ }
+}

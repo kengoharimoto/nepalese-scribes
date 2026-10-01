@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "valllāla",
+   "name": "Vallāla",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpaṃḍita valllāla 〈〈paṃḍita…〉〉[[ viracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1774 śāke 1639 pravarttamāne prathama jyeṣṭha sudi 14 caṃdravāre",
+  "era": "VS",
+  "year": "1774",
+  "month": "prathama jyeṣṭha",
+  "paksa": "sudi",
+  "tithi": "14",
+  "weekday": "caṃdravāre",
+  "nakshatra_yoga": "",
+  "ce_approx": "1717"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both VS 1774 and ŚS 1639 correspond to 1717 CE. Bhoja (mentioned in 'dhārādhīnāthasya bhojasya prabaṃdhaḥ') is the subject of the literary work and is omitted.",
+ "_meta": {
+  "reel": "B 282/9",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 759,
+  "out_tok": 953
+ }
+}

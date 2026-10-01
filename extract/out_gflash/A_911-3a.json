@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmudgalabhaṭṭa",
+   "name": "Mudgala",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahāmudgalabhaṭṭaviracita",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1954 caitraśudi 13 roja 5",
+  "era": "VS",
+  "year": "1954",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1897"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 911/3a",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 702,
+  "out_tok": 843
+ }
+}

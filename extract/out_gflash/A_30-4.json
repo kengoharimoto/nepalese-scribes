@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devajñaśrīamṛtajīvacandreṇa",
+   "name": "Amṛtajīvacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devajñaśrīamṛtajīvacandreṇa svahastena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvatsare yugarituvedamāse (!) haimantaśitatṛtīyā (!)",
+  "era": "NS",
+  "year": "464",
+  "month": "",
+  "paksa": "śuklapakṣa",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1344"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'yuga-ṛtu-veda' indicates 464 (vedas=4, ṛtu=6, yuga=4), though the catalogue record reads the date as NS 462.",
+ "_meta": {
+  "reel": "A 30/4",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 691,
+  "out_tok": 833
+ }
+}

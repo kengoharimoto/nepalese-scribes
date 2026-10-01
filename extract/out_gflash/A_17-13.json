@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devajña śrīmantajīvacandreṇa",
+   "name": "Jīvacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhita devajña śrīmantajīvacandreṇa svahastena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 412 bhāṣā",
+  "era": "NS",
+  "year": "412",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1292"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The word 'bhāṣā' after the year saṃ 412 may indicate the beginning of a vernacular section/gloss, or an incomplete/corrupted date specification (e.g. for Bhādrapada).",
+ "_meta": {
+  "reel": "A 17/13",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 764,
+  "out_tok": 1023
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvīrabhadrakṛtino",
+   "name": "Vīrabhadra",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "kṛtin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvīrabhadrakṛtino vacasā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "prayogarāmeṇa gaṇakena",
+   "name": "Prayogarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "gaṇaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitā śivagīteyaṃ, prayogarāmeṇa gaṇakena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "śrīvīrabhadrakṛtino vacasā ... likhitā śivagīteyaṃ, prayogarāmeṇa"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 758 jyeṣṭhaśuklaekādaśyāṃ tithau, hastānakṣatre, ādityavāsare",
+  "era": "NS",
+  "year": "758",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "ekādaśī",
+  "weekday": "ādityavāsara",
+  "nakshatra_yoga": "hastānakṣatra",
+  "ce_approx": "1638"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śivaprītir astu",
+ "notes": "",
+ "_meta": {
+  "reel": "A 34/13",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 864,
+  "out_tok": 1279
+ }
+}

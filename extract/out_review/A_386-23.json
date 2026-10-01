@@ -1,0 +1,151 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Narabhūpāla: dropped role 'king'. He is named only as Kṛṣṇasāha's grandfather and died long before Gīrvāṇayuddha's reign (he was king of Gorkha, c. 1716–1743). Role is now relative_only.",
+   "p2 Kṛṣṇasāha: role changed from 'commissioner' to 'other'. '-kāritā' goes with 'kaviviracitā praśastiratnāvaliḥ', so he paid for the composition of the text, not for this copy. The catalogue calls him 'Donor', but the colophon does not support that.",
+   "Removed the relation p2 under_reign_of p5. Nothing in the colophon ties the patron of the composition to Gīrvāṇayuddha's reign.",
+   "p5 Gīrvāṇayuddhavikramaśāha: confidence lowered to medium, and bahādura/śamśera/jaṅga added to titles. The fol. 8r praśastis may be sample formulae added to this praśasti manual rather than a statement of the reigning king.",
+   "p6: the name is lost in the lacuna, so 'Sena' alone is not a usable name. The name field now marks the gap, and the role is changed to 'other' (addressee of a sample praśasti), low confidence.",
+   "p4 Vāṇīvilāsa: confidence lowered to medium, because 'vāṇīvilāsa' could be an epithet of the poet rather than his name.",
+   "p3: confidence for the reading Rāmahṛdaya kept at medium. The epithet 'rājakulaśiromaṇi-pravilasat-pādāravindadvanda' added to evidence."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "narabhūpāla",
+   "name": "Narabhūpāla",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "gorṣādhīśvara",
+    "bhūpāla"
+   ],
+   "affiliation": "Śāha dynasty of Gorkha",
+   "residence": "Gorkha",
+   "evidence": "gorṣādhīśvara bhūpālanarabhūpālapautra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmacchrīkṛṣṇasāha",
+   "name": "Kṛṣṇasāha",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "kumāra"
+   ],
+   "affiliation": "Śāha dynasty of Gorkha",
+   "residence": "",
+   "evidence": "narabhūpālapautra śrīman mahoddāmakīrti kumāra śrīmacchrīkṛṣṇasāhakāritā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rāmahṛ(!)yaḥ",
+   "name": "Rāmahṛdaya",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paṇḍitaśiromaṇi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājakula śiromaṇi pravilasat pādāravindadvanda śrīmad rāmahṛ(!)yaḥ paṃḍitaśiromaṇi sūnu",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "vāṇīvilāsa",
+   "name": "Vāṇīvilāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sūnu vāṇīvilāsa kaviviracitā praśastiratnāvaliḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p5",
+   "as_written": "gīrvāṇayuddhavikramasāha bahādūrasamser jaṅdevānām",
+   "name": "Gīrvāṇayuddhavikramaśāha",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "girirājacakracūḍāmaṇi",
+    "naranārāyaṇa",
+    "bahādura",
+    "śamśera",
+    "jaṅga"
+   ],
+   "affiliation": "Śāha dynasty",
+   "residence": "",
+   "evidence": "śrīmanmahārājādhirāja śrī śrī śrīmahārāje gīrvāṇayuddhavikramasāha bahādūrasamser jaṅdevānām",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p6",
+   "as_written": "+ + + + sena bahādūra devānām",
+   "name": "[...]sena",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "rūpanārāyaṇa",
+    "bahādura"
+   ],
+   "affiliation": "Sena dynasty",
+   "residence": "",
+   "evidence": "rūpanārāyaṇetyādi ... śrīmanmahārājādhirāja śrī śrī śrīman + + + + sena bahādūra devānām",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "grandson_of",
+   "to": "p1",
+   "evidence": "narabhūpālapautra śrīman mahoddāmakīrti kumāra śrīmacchrīkṛṣṇasāha"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "śrīmad rāmahṛ(!)yaḥ paṃḍitaśiromaṇi sūnu vāṇīvilāsa"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon is undated. 'Kṛṣṇasāhakāritā ... kaviviracitā praśastiratnāvaliḥ' makes Kṛṣṇasāha, grandson of Narabhūpāla of Gorkha, the patron of the composition. Nothing says he commissioned or donated this copy, so the catalogue's 'Donor' field is doubtful. Fol. 8r1–5 has two praśasti formulae in honorific genitive plural (devānām ... sadāsamaravijayinām). The first is for Gīrvāṇayuddhavikramaśāha (r. 1799–1816). The second is for a Sena ruler styled Rūpanārāyaṇa, whose name is lost in the lacuna; he is probably of the Palpa/Makwanpur Senas, perhaps Pṛthvīpālasena, but that is unverified. Since this is a manual of praśastis, these may be specimen formulae rather than a statement of the reigning king. If they are contemporary, they put the copy roughly in 1799–1806 CE. That is an inference only. 'rāmahṛ(!)yaḥ' is read as Rāmahṛdaya. 'vāṇīvilāsa' could be the poet's name or an epithet.",
+ "_meta": {
+  "reel": "A 386/23",
+  "model": "opus",
+  "cost_usd": 0.132726,
+  "secs": 35.8
+ }
+}

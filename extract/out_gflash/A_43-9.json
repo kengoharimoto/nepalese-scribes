@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmahādevena",
+   "name": "Mahādeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahādevena likhitam idaṃ pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 307 pauṣaśudi 8 śukravāre",
+  "era": "NS",
+  "year": "307",
+  "month": "pauṣa",
+  "paksa": "śuklapakṣa",
+  "tithi": "8",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1186/1187"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 43/9",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 886,
+  "out_tok": 686
+ }
+}

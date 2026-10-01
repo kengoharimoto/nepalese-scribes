@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sipāḍe kavara",
+   "name": "Sipāḍe Kavara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "mahibolasthāne",
+   "evidence": "sipāḍe kavara liṣitaṃ pustakaṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sirājā indrase(10)ṇa",
+   "name": "Indrasena",
+   "roles": [
+    "king",
+    "beneficiary"
+   ],
+   "titles": [
+    "rājā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sirājā indrase(10)ṇapāṭhārtho (!) liṣitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "sipāḍe kavara liṣitaṃ pustakaṃ || svasti sirājā indrase(10)ṇapāṭhārtho (!) liṣitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "sisāke 1482 saṃvat 1617 (8) samaya kārtikasūdi dvādasāṃ tithau || utrabhādravā nakṣatre",
+  "era": "ŚS",
+  "year": "1482 ŚS / 1617 VS",
+  "month": "kārtika",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "utrabhādravā",
+  "ce_approx": "1560"
+ },
+ "place": {
+  "as_written": "mahibolasthāne",
+  "normalized": ""
+ },
+ "purpose": "rājā indrasenapāṭhārtha",
+ "notes": "The colophon gives both Śaka 1482 ('sisāke') and Vikrama Saṃvat 1617 ('saṃvat'). The scribe's name may be a corruption of 'Pāṇḍe Kaṃvara'.",
+ "_meta": {
+  "reel": "A 433/10",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 826,
+  "out_tok": 1513
+ }
+}

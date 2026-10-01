@@ -1,0 +1,60 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "muniagasta",
+   "name": "Agasta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahājautika",
+    "muni"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "muniagastaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "brahmaṇa (!) sukhānaṃda",
+   "name": "Sukhānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "Aṭhāṇāgrāma",
+   "evidence": "liṣyatai (!) brahmaṇa (!) sukhānaṃda",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 1811 mā(8)hāvidi 14 śanau",
+  "era": "VS",
+  "year": "1811",
+  "month": "māhā",
+  "paksa": "vidi",
+  "tithi": "14",
+  "weekday": "śanau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1754"
+ },
+ "place": {
+  "as_written": "aṭhāṇāgrāmai",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon concludes with a Hindi benedictory verse: jabalagameru aṭalahai, tabalagi śaśi ara sūraja bulaga eha pothī yā raho sadābharapura.",
+ "_meta": {
+  "reel": "A 412/6",
+  "model": "gemini-flash-latest",
+  "secs": 8.1,
+  "in_tok": 784,
+  "out_tok": 1807
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jaisigha",
+   "name": "Jayasiṃha",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "aṃbāvatī",
+   "evidence": "mahārājādhirāja jaisigharājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jaimala",
+   "name": "Jaimala",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "matheṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣataṃ matheṇa jaimala liṣataṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "mahārājādhirāja jaisigharājye kṛta\\ aṃbāvatī madhye pothī liṣi(!) ... liṣataṃ matheṇa jaimala"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1696 varṣe śāke 1561 pravartte || vaiśākhamāse kṛṣṇapakṣye(!) ||ṣaṣṭI 6 tithau vāra śanīscara",
+  "era": "VS",
+  "year": "1696",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "6",
+  "weekday": "śanīscara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1639"
+ },
+ "place": {
+  "as_written": "aṃbāvatī madhye",
+  "normalized": "Amer"
+ },
+ "purpose": "",
+ "notes": "Ambāvatī refers to Amber/Amer (Rajasthan), ruled by Mirza Raja Jai Singh I (r. 1621–1667). The scribe's title/caste Matheṇa refers to the Mathan community of traditional painters/scribes in Rajasthan.",
+ "_meta": {
+  "reel": "A 1288/14",
+  "model": "gemini-flash-latest",
+  "secs": 9.3,
+  "in_tok": 920,
+  "out_tok": 2147
+ }
+}

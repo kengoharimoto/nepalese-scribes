@@ -1,0 +1,83 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paṇḍita śrīdivākaracandrasya",
+   "name": "Divākaracandra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kritir iyaṃ paṇḍita śrīdivākaracandrasyeti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmad rājaguru hemarāja śarmaṇā",
+   "name": "Hemarāja",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "rājaguru",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmad rājaguru hemarāja śarmaṇā acārjo papada ravinātha śarma dvārā likhitam idam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "acārjo papada ravinātha śarma",
+   "name": "Ravinātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "ācārya",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ravinātha śarma dvārā likhitam idam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "śrīmad rājaguru hemarāja śarmaṇā acārjo papada ravinātha śarma dvārā likhitam idam"
+  }
+ ],
+ "date": {
+  "as_written": "śrīvaikramīye 1983 varṣe",
+  "era": "VS",
+  "year": "1983",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1926"
+ },
+ "place": {
+  "as_written": "rājakīyapustakālaya",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "Copied from an old palm-leaf manuscript preserved in the Royal Library (rājakīyapustakālaya) under the patronage/direction of Rājaguru Hemarāja Śarmā.",
+ "_meta": {
+  "reel": "A 214/5",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 761,
+  "out_tok": 1231
+ }
+}

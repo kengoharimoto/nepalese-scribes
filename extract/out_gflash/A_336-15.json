@@ -1,0 +1,63 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvavujuna",
+   "name": "Vavuju",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śrīvavujuna, putra lalitasiṃhayānaṃ, viyājuro",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "lalitasiṃhayānaṃ",
+   "name": "Lalitasiṃha",
+   "roles": [
+    "beneficiary",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "putra lalitasiṃhayānaṃ, viyājuro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "putra lalitasiṃhayānaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃ.721 kārttikakṛṣṇa 13",
+  "era": "NS",
+  "year": "721",
+  "month": "kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1601"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "gift from father to son (putra lalitasiṃhayānaṃ viyājuro)",
+ "notes": "The donor is addressed as 'śrī śrīvavuju' (Newari: vavuju = father), which may either be an honorific kinship term for the unnamed father of Lalitasiṃha or used here as a personal name/designation.",
+ "_meta": {
+  "reel": "A 336/15",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 731,
+  "out_tok": 1498
+ }
+}

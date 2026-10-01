@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 729 phālguṇa kṛṣṇa 9",
+  "era": "NS",
+  "year": "729",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1609"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue erroneously lists the date 'NS 729' in the 'Place of Copying' field. Śrīkaṇṭhanātha mentioned in the chapter colophon is a deity/mythical revealer and has been excluded.",
+ "_meta": {
+  "reel": "A 194/2",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 753,
+  "out_tok": 703
+ }
+}

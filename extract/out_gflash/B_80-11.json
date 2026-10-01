@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "hemedyutidvij",
+   "name": "Hemadyuti",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "hemedyutidvijlikhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "māse 12 pakṣe 1 tithau 2 vāre 5 ... 1978 sālamā",
+  "era": "VS",
+  "year": "1978",
+  "month": "12",
+  "paksa": "1",
+  "tithi": "2",
+  "weekday": "5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1922"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The phrase 'sālamā' is Nepali for 'in the year'. Scribe written as 'hemedyutidvijlikhitaṃ' (Hemadyuti-dvija-likhitaṃ).",
+ "_meta": {
+  "reel": "B 80/11",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 748,
+  "out_tok": 931
+ }
+}

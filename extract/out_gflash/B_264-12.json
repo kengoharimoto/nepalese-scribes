@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmabhadra(ṃ",
+   "name": "Rāmabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ(!) rāmabhadra(ṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsāke(!) 1688 ba 1 ti 15 māse caitre",
+  "era": "ŚS",
+  "year": "1688",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "15",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1766"
+ },
+ "place": {
+  "as_written": "jitāgrāme",
+  "normalized": ""
+ },
+ "purpose": "śrīrājapustakam",
+ "notes": "Described as a royal book (śrīrājapustakaṃ), but no king is explicitly named.",
+ "_meta": {
+  "reel": "B 264/12",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 802,
+  "out_tok": 1073
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāśirāmena",
+   "name": "Kāśīrāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ pustakam idam iti śrīvāmakeśvarī | kāśirāmena(!) saṃpūrṇṇa,m",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kālidāsa〈〈ya〉〉śarmmaṇe",
+   "name": "Kālidāsa",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kālidāsa〈〈ya〉〉śarmmaṇe || ... śrīkālidāsana saṃcaya yāṅā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "kāśirāmena(!) saṃpūrṇṇa,m ... [[śrī]]kālidāsa〈〈ya〉〉śarmmaṇe"
+  }
+ ],
+ "date": {
+  "as_written": "nepālavarṣe hutabhu,gvāṇasāgarasaṃyute, | māsi māghe site pakṣe, pratipad bhaumavāsare ... saṃvat 753 māghamā[se] śuklapakṣe pratipadi bhaume",
+  "era": "NS",
+  "year": "753",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1633"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrī 3 bhavānīśaṃkaraprītina / umeśaprītaye",
+ "notes": "",
+ "_meta": {
+  "reel": "A 187/6",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 986,
+  "out_tok": 1582
+ }
+}

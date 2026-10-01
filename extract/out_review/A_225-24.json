@@ -1,0 +1,76 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: name changed to the standard regnal stem 'Jitāmitramalladeva'. 'sumati jaya' is part of the royal style, so it moves to titles. Roles king + commissioner kept: 'thva pustaka dayakā' means 'had this book made'.",
+   "p2 Bhāgīrāma: the vague role 'other' is removed and only 'minister' is kept. 'paramāna' is read as pramāṇa/pradhāna, an office title. He is not the scribe, so the catalogue's 'Scribe' field is wrong. Confidence raised to high because the Newari is clear.",
+   "Date: ce_approx changed from 1690 to 1689. NS 810 began in Kārtika 1689, so Kārtika śukla 9 of NS 810 falls in Oct/Nov 1689.",
+   "Notes: confirmed that Śaka 1553 and VS 1688 agree (both 1631 CE) and that jīvavāsara means Thursday. 'Śālihotra' is noted as a text title, not a person. Added that the place is not stated but Bhaktapur is implied by the king.",
+   "Purpose filled in: commissioned by the king."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī śrī sumati jayajitāmitramalladevasana",
+   "name": "Jitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati jaya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sumati jayajitāmitramalladevasana thva pustaka dayakā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhāgirāma",
+   "name": "Bhāgīrāma",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "pramāṇa (paramāna)"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgirāma paramānayāvelasa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "jayajitāmitramalladevasana thva pustaka dayakā, bhāgirāma paramānayāvelasa"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 810 kārtika śudi 9",
+  "era": "NS",
+  "year": "810",
+  "month": "kārtika",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1689"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "commissioned by King Jitāmitra Malla",
+ "notes": "The colophon has two dates. (1) An inherited date, probably from the exemplar: śāke 1553 tathā saṃvat 1688, Śrāvaṇa kṛṣṇa 11, jīvavāsara (Thursday). Śaka 1553 + 78 = 1631 and VS 1688 − 57 = 1631, so the two eras agree (July/Aug 1631 CE). (2) The date of this copy: NS 810 Kārtika śukla 9, about Oct/Nov 1689 CE. That falls within Jitāmitra Malla's reign at Bhaktapur (1673–1696). 'śālihotrasya pustakaṃ' names the text tradition (Śālihotra, the hippiatric author), not a person connected with this copy. The catalogue lists Bhāgīrāma as scribe, but 'bhāgirāma paramānayāvelasa' only dates the copy to 'the time when Bhāgīrāma was pramāṇa/pradhāna (minister)'. Bhāgīrāma is known as a pradhāna of Bhaktapur under Jitāmitra Malla. The scribe is not named. The place of copying is not stated, though Bhaktapur is likely from the king.",
+ "_meta": {
+  "reel": "A 225/24",
+  "model": "opus",
+  "cost_usd": 0.098074,
+  "secs": 25.7
+ }
+}

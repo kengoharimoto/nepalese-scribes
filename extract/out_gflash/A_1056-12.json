@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rucirānaṃdena",
+   "name": "Rucirānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rucirānaṃdena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "naipālasaṃvat 941 || holikāpūrṇāyāṃ",
+  "era": "NS",
+  "year": "941",
+  "month": "",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1821"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Holikāpūrṇimā falls on the full moon day (pūrṇimā) of the month of Phālguna.",
+ "_meta": {
+  "reel": "A 1056/12",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 704,
+  "out_tok": 664
+ }
+}

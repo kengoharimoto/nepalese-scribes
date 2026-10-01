@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajña śivahari",
+   "name": "Śivahari",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiti(!) daivajña śivahari",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 810 bhādrapadamāse kṛṣṇapakṣacaturddaśyāṃ tithau, utra(!)phālguṇī nakṣatre, śuklayoge ādityavāsare",
+  "era": "NS",
+  "year": "810",
+  "month": "bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturdaśī",
+  "weekday": "ādityavāsara",
+  "nakshatra_yoga": "utraphālguṇī, śukla",
+  "ce_approx": "1690"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 205/7",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 867,
+  "out_tok": 814
+ }
+}

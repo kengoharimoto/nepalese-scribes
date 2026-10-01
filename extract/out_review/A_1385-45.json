@@ -1,0 +1,73 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Merged p2 'śrīsanma(!) varmaṇaḥ' into p3 Rāmavarman. 'sanma(!)' is almost certainly a misreading of 'rāma' (śrīrāmavarmaṇaḥ). The same colophon names the Setu's author as rāmavarmaṇa, so both refer to one commentator, son of Himmativarman. Confidence is now medium.",
+   "Moved the son_of relation to the merged person (Rāmavarman son_of Himmativarman).",
+   "Himmativarman: the titles field now holds the virudāvalī as an epithet. Role stays relative_only, and confidence is medium because the name could be a form of Himmat(a)varman.",
+   "Purpose rewritten as 'dedicated to Rāma (rāmārpaṇam)'.",
+   "Notes expanded: no scribe is named, and the date may belong to the commentary rather than to the copy."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "himmati varmaṇa",
+   "name": "Himmativarman",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "sakalarājavipaduddharaṇasamarthetyādivirudāvalīvirājamāna"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "himmati varmaṇa putrasya",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīsanma(!) varmaṇaḥ; rāmavarmaṇa",
+   "name": "Rāmavarman",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "himmati varmaṇa putrasya śrīsanma(!) varmaṇaḥ kṛtāv adhyātma rāmāyaṇa setau; ṭīkeyaṃ rāmavarmaṇakṛtā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "himmati varmaṇa putrasya śrīsanma(!) varmaṇaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1801 mītīkātīka vaṃda 5 vāraśomā",
+  "era": "VS",
+  "year": "1801",
+  "month": "Kārttika",
+  "paksa": "kṛṣṇa (vadi)",
+  "tithi": "5",
+  "weekday": "Monday (somavāra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1744"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "dedicated to Rāma (rāmārpaṇam)",
+ "notes": "The catalogue's 'Scribe: Śrīrāma Varmā' is a mistake. Rāmavarman, son of Himmativarman, is the author of the Setu commentary ('ṭīkeyaṃ rāmavarmaṇakṛtā'), not the copyist. No scribe is named. 'śrīsanma(!)' is read as 'śrīrāma'. The figure '9 6' / '96' after 'navamaḥ sargaḥ' looks like a running sarga count. The date 'saṃvat 1801 (mītī) Kārttika vadi 5, Monday' comes straight after the commentary's closing verse. It may therefore date the commentary (or a copy reproduced with it) rather than this manuscript, so treat it as the copying date only with caution. Taking the era as VS gives 1744 CE (October/November). The weekday has not been verified.",
+ "_meta": {
+  "reel": "A 1385/45",
+  "model": "opus",
+  "cost_usd": 0.09241,
+  "secs": 20.8
+ }
+}

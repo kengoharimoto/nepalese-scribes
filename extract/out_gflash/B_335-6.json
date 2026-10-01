@@ -1,0 +1,101 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "maheśvaropādhyāya",
+   "name": "Maheśvara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "Jaḍaviḍanagara",
+   "evidence": "śrī maheśvaropādhyāya suta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhāskarācārya",
+   "name": "Bhāskara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya",
+    "sakala gaṇaka sārvabhauma"
+   ],
+   "affiliation": "",
+   "residence": "Jaḍaviḍanagara",
+   "evidence": "śrī bhāskarācārya viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vallabha paṃḍita",
+   "name": "Vallabha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī vallabha paṃḍitasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "kāśī vallabhena",
+   "name": "Kāśīvallabha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāśī vallabhena likhitam idaṃ pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrī maheśvaropādhyāya suta śrī bhāskarācārya"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "śrī vallabha paṃḍitasuta kāśī vallabhena"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1808 śāke 1673 āśvina kṛṣṇa 1 candre",
+  "era": "VS",
+  "year": "1808 (ŚS 1673)",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "1",
+  "weekday": "candre",
+  "nakshatra_yoga": "",
+  "ce_approx": "1751"
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "Both Vikrama Saṃvat 1808 and Śaka Saṃvat 1673 are recorded, corresponding to 1751 CE.",
+ "_meta": {
+  "reel": "B 335/6",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 789,
+  "out_tok": 1839
+ }
+}

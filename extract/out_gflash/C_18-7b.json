@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrāvajācāryya, dhanaratnabhadrana",
+   "name": "Dhanaratnabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "dugaṃvahite tavāhārapine kaladhukṣasa",
+   "evidence": "śrāvajācāryya, dhanaratnabhadrana, durggatipariśodhana saphari, cosyaṃ, sidhayakādina jura",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 984 miti bhādravaśukla,savatamīñnulādhārakṣetra,visaṣaṃ vijābhā, bṛsapativārasahade",
+  "era": "NS",
+  "year": "984",
+  "month": "bhādrava",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "viśākhā",
+  "ce_approx": "1864"
+ },
+ "place": {
+  "as_written": "dugaṃvahite tavāhārapine kaladhukṣasa",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The catalogue lists the scribe as Dharmaratna Vajrācārya, but the text clearly reads 'dhanaratnabhadrana'. Dugaṃvahī (Dugan Bahi) is a Buddhist monastery in Kathmandu.",
+ "_meta": {
+  "reel": "C 18/7b",
+  "model": "gemini-flash-latest",
+  "secs": 9.5,
+  "in_tok": 965,
+  "out_tok": 2253
+ }
+}

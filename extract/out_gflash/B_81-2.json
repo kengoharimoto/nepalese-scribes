@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jagaṃn-nāthena",
+   "name": "Jagannātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitvā samāpitam idaṃ jagaṃ(3)n-nāthena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1731 samaye pauṣaśuddha[[paurṇa]]māsyāṃ",
+  "era": "VS",
+  "year": "1731",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "paurṇamāsī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1674"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is confirmed by 'vikramārkkād gate kāle'. Gayā is mentioned in a cited traditional verse on śrāddha, not as the place of copying.",
+ "_meta": {
+  "reel": "B 81/2",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 818,
+  "out_tok": 972
+ }
+}

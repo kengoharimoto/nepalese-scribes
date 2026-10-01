@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dhairyanārāyaṇavatās(!)",
+   "name": "Dhairyanārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ likhitaṃ dhairyanārāyaṇavatās(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1891 miti kārttikavadi 4 roja 3",
+  "era": "VS",
+  "year": "1891",
+  "month": "kārttika",
+  "paksa": "vadi",
+  "tithi": "4",
+  "weekday": "roja 3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1834"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name ending 'dhairyanārāyaṇavatās(!)' is irregular/corrupt, likely intended for a vernacular agentive/instrumental form or Dhairyanārāyaṇena.",
+ "_meta": {
+  "reel": "A 260/5",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 754,
+  "out_tok": 889
+ }
+}

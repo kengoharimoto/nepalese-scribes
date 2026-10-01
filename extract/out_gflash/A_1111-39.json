@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadamarasiṃhathāpābhīdheyasardārasya",
+   "name": "Amarasiṃha Thāpā",
+   "roles": [
+    "commissioner",
+    "reader"
+   ],
+   "titles": [
+    "sardāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadamarasiṃhathāpābhīdheyasardārasya pāṭhārtham",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat || 1856 || mārgakṛṣṇatrayodaśīcandre",
+  "era": "VS",
+  "year": "1856",
+  "month": "mārga",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "candravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1799"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "pāṭhārtham",
+ "notes": "Amarasiṃha Thāpā is the prominent Gorkhali military commander (Sardar Amar Singh Thapa).",
+ "_meta": {
+  "reel": "A 1111/39",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 721,
+  "out_tok": 1034
+ }
+}

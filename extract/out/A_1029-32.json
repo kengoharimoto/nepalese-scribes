@@ -1,0 +1,41 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gopālavilāsīviracitāyāṃ",
+   "name": "Gopālavilāsī",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgopālavilāsīviracitāyāṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1935 sāla miti mārga vadi 10 roja 4",
+  "era": "VS",
+  "year": "1935",
+  "month": "Mārgaśīrṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "Wednesday (roja 4)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1878"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names no scribe, commissioner, owner or king. The only person named is the author, Gopālavilāsī. This could be an epithet or pen-name rather than a personal name. The date uses the Nepali formula 'saṃvat ... sāla miti ... roja', so the era is taken as VS (1935 VS ≈ 1878 CE). Read as NS, the year 1935 is impossible. The text after the date ('ntāgari || manalāi || ṣaicera ...') is a Nepali fragment of the work's text, not part of the scribal colophon.",
+ "_meta": {
+  "reel": "A 1029/32",
+  "model": "opus",
+  "cost_usd": 0.0562978,
+  "secs": 8.6
+ }
+}

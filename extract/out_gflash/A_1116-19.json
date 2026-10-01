@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon states that the manuscript was written by a Brahmin ('brāhmaṇena likhitaṃ'), but gives no individual personal name, date, or place.",
+ "_meta": {
+  "reel": "A 1116/19",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 705,
+  "out_tok": 815
+ }
+}

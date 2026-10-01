@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmandra",
+   "name": "Rāmacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiti rāmandra(!)",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 814 || āṣāḍhasudi 3",
+  "era": "NS",
+  "year": "814",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1694"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name 'rāmandra(!)' is likely a scribal corruption for Rāmacandra (or Rāmabhadra). 'likhiti' is ungrammatical for likhitaṃ.",
+ "_meta": {
+  "reel": "B 207/7",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 674,
+  "out_tok": 883
+ }
+}

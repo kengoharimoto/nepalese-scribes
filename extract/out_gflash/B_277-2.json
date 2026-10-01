@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "tārānidhir",
+   "name": "Tārānidhi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "alikhat tārānidhir",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "kalāghanamite śāke phālgune budhavāsare saptamyām ... śuklapakṣe",
+  "era": "ŚS",
+  "year": "1764",
+  "month": "Phālguna",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1842"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is expressed via the chronogram 'kalāghana' (read as ŚS 1764 by the cataloguer). The note 'śuklapakṣe iti śeṣaḥ' specifies the fortnight.",
+ "_meta": {
+  "reel": "B 277/2",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 725,
+  "out_tok": 1255
+ }
+}

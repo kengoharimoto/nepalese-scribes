@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmaviracite",
+   "name": "Rāma",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "davajñānaṃtarasutarāmaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "davajñānaṃtara",
+   "name": "Ananta",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "davajñānaṃtarasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "nahyupaṃnthena(!)",
+   "name": "Narahari Paṃtha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paṃtha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣite nahyupaṃnthena(!)",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "davajñānaṃtarasutarāmaviracite"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1750 pauṣādhikamāśye somāvāsyāṃ tithau",
+  "era": "ŚS",
+  "year": "1750",
+  "month": "Pauṣa (adhika)",
+  "paksa": "kṛṣṇa",
+  "tithi": "amāvāsyā",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1829"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name is corruptly written as 'nahyupaṃnthena(!)', identified by the cataloguer as Narahari Paṃtha. 'somāvāsyā' denotes an Amāvāsyā falling on a Monday (Somavāra).",
+ "_meta": {
+  "reel": "A 418/23",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 792,
+  "out_tok": 1757
+ }
+}

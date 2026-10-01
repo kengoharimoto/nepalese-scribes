@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "siddhiśvarācāryyeṇa",
+   "name": "Siddhīśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "siddhiśvarācāryyeṇa (!) riṣitaṃm (!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 814 ākhāḍhakṛṣṇasaptami (!), aṃgāvāla (!) thava kuhnu",
+  "era": "NS",
+  "year": "814",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "saptamī",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1694"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "riṣitaṃm is a scribal error for likhitam; aṃgāvāla is for aṅgāravāra (Tuesday).",
+ "_meta": {
+  "reel": "A 157/6",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 776,
+  "out_tok": 1109
+ }
+}

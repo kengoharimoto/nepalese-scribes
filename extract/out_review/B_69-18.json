@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Place: removed 'nepāladdeśe' / Nepal as place of copying. The fragment is cut off ('nepāladdeśe…'), probably opens a new clause and does not say the copy was made there. No place of copying is stated explicitly; the catalogue's Rudraprayāga is only the scribe's residence.",
+   "Date: kept VS 1989 = c. 1932 CE. The era is inferred from a bare 'saṃvat' (VS is the usual era in Garhwal). Added a note on the catalogue's VS 1689.",
+   "Notes: rewritten to reflect the above; residence given as Kaṇvālaya, Rudraprayāga.",
+   "Person p1 is unchanged (Naranātha, scribe, paṇḍita)."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paṃ naranāthena",
+   "name": "Naranātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "Kaṇvālaya, Rudraprayāga",
+   "evidence": "kaṇvālaya rudraprayāga nivāsi paṃ naranāthena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1989 varṣe āśvina vadi",
+  "era": "VS",
+  "year": "1989",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa (vadi)",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1932"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for the benefit of others (paropakārārthaṃ)",
+ "notes": "The colophon reads 'saṃvat 1989', but the catalogue field has VS 1689. One of the two is a typo that can only be settled from the image. If 1989 is right, the date is c. 1932 CE; if 1689, c. 1632 CE. The era is not named. VS is assumed because the scribe lived in Rudraprayāga (Garhwal), where Vikrama saṃvat is normal. The tithi after 'vadi' is not given. 'kaṇvālaya rudraprayāga nivāsi' gives the scribe's residence, not explicitly the place of copying. 'Kaṇvālaya' may be a locality (cf. Kaṇvāśrama in Garhwal) or a house or āśrama name. 'nepāladdeśe…' is cut off by the cataloguer and its function is unclear: it may name a destination or owner, or begin a later note. It is not treated as the place of copying. The catalogue's 'Scribe' field wrongly includes 'āśvina vadi'.",
+ "_meta": {
+  "reel": "B 69/18",
+  "model": "opus",
+  "cost_usd": 0.08077800000000002,
+  "secs": 20.3
+ }
+}

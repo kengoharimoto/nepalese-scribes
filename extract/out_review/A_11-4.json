@@ -1,0 +1,76 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Normalized paksa to 'śukla (śudi)' and weekday to 'Thursday (gurau)'.",
+   "Jīvanātha's affiliation now reads 'Baliāsa (Maithil mūla)'. The 'saṃ' after it is taken as the Panjī-style marker for a mūla-grāma, not as part of the name.",
+   "Notes now explain that the catalogue's 'King: Donor Jīvanāthopādhyāya' field is garbled. The colophon names no king and no donor.",
+   "Added a note that the 'san-' prefix in 'sanmiśra' is honorific sat-.",
+   "Owner role kept: it is inferred from 'pāṭhārthaṃ likhitam' (written for his reading)."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sanmiśraśrīnārāyaṇena",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sanmiśraśrīnārāyaṇena ... likhitam idaṃ pustakam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "baliāsasaṃjīvanāthopādhyāyasya",
+   "name": "Jīvanātha",
+   "roles": [
+    "owner",
+    "beneficiary"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "Baliāsa (Maithil mūla)",
+   "residence": "",
+   "evidence": "baliāsasaṃjīvanāthopādhyāyasya pāṭhārthaṃ likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "sanmiśraśrīnārāyaṇena baliāsasaṃjīvanāthopādhyāyasya pāṭhārthaṃ likhitam"
+  }
+ ],
+ "date": {
+  "as_written": "lasaṃ 472 kārttikaśudi (3 gurau)",
+  "era": "LS",
+  "year": "472",
+  "month": "Kārttika",
+  "paksa": "śukla (śudi)",
+  "tithi": "3",
+  "weekday": "Thursday (gurau)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1591"
+ },
+ "place": {
+  "as_written": "korau..grāme",
+  "normalized": ""
+ },
+ "purpose": "for the reading (pāṭhārtham) of Jīvanātha Upādhyāya",
+ "notes": "'baliāsasaṃ' is read as the Maithil mūla Baliāsa (Baliyāsa) plus the Panjī-style 'saṃ' marker. The catalogue field 'King: Donor Jīvanāthopādhyāya' is garbled. The colophon names no king, and Jīvanātha appears only as the person the copy was written for to read, not as a donor. The place name Korau..grāma has a lacuna and cannot be identified. The 'san-' in 'sanmiśra' is honorific sat-. The owner role for Jīvanātha is inferred from pāṭhārtham. LS 472 + 1119 gives about 1591 CE.",
+ "_meta": {
+  "reel": "A 11/4",
+  "model": "opus",
+  "cost_usd": 0.085946,
+  "secs": 20.4
+ }
+}

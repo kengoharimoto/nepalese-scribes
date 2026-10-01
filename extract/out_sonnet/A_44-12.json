@@ -1,0 +1,93 @@
+{
+ "date": {
+  "as_written": "samvat 538 māghakṛṣṇaaṣṭaṃmyāyāṃ viśāṣapraarādhanakṣatre || dhruvayoge || śanaiścaravāsare",
+  "era": "NS",
+  "year": "538",
+  "month": "Māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī (8)",
+  "weekday": "śanaiścara (Saturday)",
+  "nakshatra_yoga": "viśākhā (written viśāṣapraarādhana, corrupt) nakṣatra; dhruva yoga",
+  "ce_approx": "1418"
+ },
+ "notes": "Catalogue fields agree with the colophon. The nakṣatra is corrupt ('viśāṣapraarādhana'); it is probably Viśākhā. The text is Nirghaṇṭha / Divyauṣadhināmamālā, and no author is named. The first line has the form 'pustaka ma〈〈ḍa〉〉dnabhadrasya', which the cataloguer has emended and which reads Madanabhadra. 'vaiḥ' at the end of the copying sentence is probably a scribal filler. The date is NS 538, which gives 1418 CE.",
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmadattena",
+   "name": "Rāmadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ rāmadattena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śākyabhikṣuśrīmadanabhadrena",
+   "name": "Madanabhadra",
+   "roles": [
+    "commissioner",
+    "owner",
+    "donor",
+    "beneficiary"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "Cāvihāra",
+   "residence": "Cāvihāra",
+   "evidence": "śrīmancāvihāre śākyabhikṣuśrīmadanabhadrena svayaṃ pāṭhārthahetunā likhitam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rājādhirājaśrīśrījayajyotimalladevasya",
+   "name": "Jayajyotimalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "Nepālamaṇḍala",
+   "evidence": "rājādhirājaśrīśrījayajyotimalladevasya vijayarājye śrīnepālamaṇḍale",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "pustaka madanabhadrasya rāmadattena likṣate"
+  },
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "jayajyotimalladevasya vijayarājye"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "jayajyotimalladevasya vijayarājye śrīnepālamaṇḍale"
+  }
+ ],
+ "place": {
+  "as_written": "śrīmancāvihāre",
+  "normalized": "Cāvihāra (Kathmandu)"
+ },
+ "purpose": "svārtha: copied for Madanabhadra's own study (svayaṃ pāṭhārthahetunā)",
+ "_meta": {
+  "reel": "A 44/12",
+  "model": "sonnet",
+  "cost_usd": 0.0361912,
+  "secs": 9.2
+ }
+}

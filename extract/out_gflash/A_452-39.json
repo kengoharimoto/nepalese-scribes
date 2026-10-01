@@ -1,0 +1,68 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "upādhyā devānanda bhāju(3)sta",
+   "name": "Devānanda",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "upādhyā",
+    "bhāju"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "upādhyā devānanda bhāju(3)sta ... cosyaṃ biyā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "daivajñe kulānandana",
+   "name": "Kulānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "podetola",
+   "evidence": "daivajñe kulānandana, cosyaṃ biyā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "upādhyā devānanda bhāju(3)sta podetolayā daivajñe kulānandana, cosyaṃ biyā juro"
+  }
+ ],
+ "date": {
+  "as_written": "śubha samvat 849 śrāvaṇa śuddhi pūrṇṇīmā maṃgalavāla",
+  "era": "NS",
+  "year": "849",
+  "month": "śrāvaṇa",
+  "paksa": "śuklapakṣa",
+  "tithi": "pūrṇimā",
+  "weekday": "maṃgalavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1729"
+ },
+ "place": {
+  "as_written": "podetola",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 452/39",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 759,
+  "out_tok": 1556
+ }
+}

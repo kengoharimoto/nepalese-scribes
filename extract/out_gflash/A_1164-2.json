@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīguṇakāmadevasya",
+   "name": "Guṇakāmadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "paramadhārmika"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājādhirāja paramadhārmika śrīguṇakāmadevasya vijayarājya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 307 caitraśukla dvitīyāyām",
+  "era": "NS",
+  "year": "307",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1187"
+ },
+ "place": {
+  "as_written": "caityamakutyāyāṃ",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1164/2",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 708,
+  "out_tok": 794
+ }
+}

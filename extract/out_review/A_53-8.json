@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 roles: dropped 'reader' (colophon only says he learned/completed grammar; 'reader' not explicitly stated); kept 'pupil'",
+   "ce_approx corrected 1397 → 1396 (Kārtika kṛṣṇa early in NS 517 = Oct/Nov 1396)",
+   "weekday normalized to bṛhaspativāra (Thursday) with note on corrupt spelling",
+   "notes expanded: text-title conflict (Kalāpa vs Cāndra), possible reading Ratnahema"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrathahema",
+   "name": "Rathahema",
+   "roles": [
+    "pupil"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrathahemavyākranaseṅājuroḥ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 517 kārtikṛṣṇadasamyāyā titho vṛrsapavāre",
+  "era": "NS",
+  "year": "517",
+  "month": "kārtika",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī",
+  "weekday": "bṛhaspativāra (Thursday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1396"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "study of grammar by Rathahema (vyākaraṇa seṅā juro)",
+ "notes": "The era is not named, but 'samvat 517' with a Newari phrase points to NS: 517+880 = 1396/97 CE. Kārtika kṛṣṇa falls at the start of the NS year, so Oct/Nov 1396. 'vṛrsapavāre' is a corrupt spelling of bṛhaspativāre (Thursday). The Newari 'vyākrana seṅā juro' seems to mean '[he] completed learning grammar'. So Rathahema is the student who studied this text. He may also have been the scribe or owner, but the colophon does not say so. 'Rathahema' may be corrupt for Ratnahema. The colophon calls the text 'kalāpavyākrnasūtra' (Kalāpa/Kātantra grammar). That conflicts with the catalogue title Cāndravṛtti: either the colophon belongs to a different text or the catalogue identification is wrong.",
+ "_meta": {
+  "reel": "A 53/8",
+  "model": "opus",
+  "cost_usd": 0.07805400000000001,
+  "secs": 18.0
+ }
+}

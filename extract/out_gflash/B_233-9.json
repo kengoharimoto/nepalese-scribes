@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1761 samaye nāma agahana vadī 13",
+  "era": "VS",
+  "year": "1761",
+  "month": "agahana",
+  "paksa": "vadī",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1704"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue mistakenly enters the date 'SAM 1761' in the scribe field. No persons are mentioned in the colophon.",
+ "_meta": {
+  "reel": "B 233/9",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 674,
+  "out_tok": 668
+ }
+}

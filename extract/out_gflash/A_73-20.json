@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmacaṃdra",
+   "name": "Rāmacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmacaṃdra godāvaris〈〈ā〉〉aṃnidhe likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "godāvaris〈〈ā〉〉aṃnidhe",
+  "normalized": "Godāvarī"
+ },
+ "purpose": "śrīsāṃbārpaṇam astuḥ",
+ "notes": "",
+ "_meta": {
+  "reel": "A 73/20",
+  "model": "gemini-flash-latest",
+  "secs": 2.6,
+  "in_tok": 663,
+  "out_tok": 542
+ }
+}

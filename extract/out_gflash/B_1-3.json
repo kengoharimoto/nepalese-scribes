@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sobhanākhyābhidhena",
+   "name": "Śobhana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhūsura"
+   ],
+   "affiliation": "vasuvaṃśa",
+   "residence": "",
+   "evidence": "sobhanākhyābhidhena bhūsureṇa likhitam idaṃ pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 1/3",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 913,
+  "out_tok": 1100
+ }
+}

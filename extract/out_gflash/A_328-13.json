@@ -1,0 +1,83 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "puruṣottamadeva",
+   "name": "Puruṣottamadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "śābdika"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "puruṣottamadevapraṇītā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gaṃgādharabhaṭa",
+   "name": "Gaṃgādhara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gaṃgādharabhaṭātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "goviṃdabhaṭakelakaropanāmnā",
+   "name": "Goviṃda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa",
+    "kelakara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "goviṃdabhaṭakelakaropanāmnā (!) likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "gaṃgādharabhaṭātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "śāke 1759[[ kilknāma (!) saṃvatsere (!) ]] āṣāḍhakṛṣṇatrayodaśī maṃdavārasa (!)",
+  "era": "ŚS",
+  "year": "1759",
+  "month": "Āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "maṃdavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1837"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe identifies himself with the surname (upanāman) Kelakara, a Maharashtrian Brahmin family name.",
+ "_meta": {
+  "reel": "A 328/13",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 800,
+  "out_tok": 1329
+ }
+}

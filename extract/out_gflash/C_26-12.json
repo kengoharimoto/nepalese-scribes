@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śāśvata",
+   "name": "Śāśvata",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śāśvataviracitaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "grahāgnipakṣasaṃjñe bde śrīlakṣmaṇamahīpateḥ",
+  "era": "LS",
+  "year": "239",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1358"
+ },
+ "place": {
+  "as_written": "śaktirāyapure",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The manuscript was copied by seven unnamed scribes (saptalekhakaiḥ) in Śaktirāyapura in LS 239 (chronogram: graha [9] + agni [3] + pakṣa [2] = 239).",
+ "_meta": {
+  "reel": "C 26/12",
+  "model": "gemini-flash-latest",
+  "secs": 7.3,
+  "in_tok": 717,
+  "out_tok": 1244
+ }
+}

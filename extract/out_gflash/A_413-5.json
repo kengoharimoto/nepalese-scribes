@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkṛṣṇalāla śarmmaṇā",
+   "name": "Kṛṣṇalāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ nepāladeśe śrīkṛṣṇalāla śarmmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1767 āśvinaśukla 6 some",
+  "era": "ŚS",
+  "year": "1767",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "6",
+  "weekday": "some",
+  "nakshatra_yoga": "",
+  "ce_approx": "1845"
+ },
+ "place": {
+  "as_written": "nepāladeśe",
+  "normalized": "Nepal"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 413/5",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 740,
+  "out_tok": 775
+ }
+}

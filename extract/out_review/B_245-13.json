@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Persons, roles, date and place are kept as in the first reading.",
+   "Notes expanded: the NS 806/807 entries are appended historical memoranda. If they are contemporary, they give c. 1686–87 CE as an approximate horizon for the copy. They are not a copying date.",
+   "Notes: 'vañayā' is probably a corruption of Newari 'yeñayā' (Kathmandu), and 'pārthipenda' is a corruption of Pārthivendra."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīharinārāyana",
+   "name": "Harinārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ mayā || yadi suddham asuddhaṃ vā mama doṣo na dīyate || śrīharinārāyana",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'śrīharinārāyana' comes straight after the scribal verse 'liṣitaṃ mayā … mama doṣo na dīyate'. It is most likely the scribe's signature, as the cataloguer assumes, but it could also be an invocation of Viṣṇu (Harinārāyaṇa), so confidence is medium. The following passage is in Newari. It gives two dated entries: 'saṃ 806 sāla jyeṣṭha vadi 12' (NS 806, about 1686 CE), which names Śrīnivāsa Malla, Yoganarendra Malla (king of Lalitapattana, i.e. Patan), Pārthivendra Malla and Ugra Malla; and 'saṃ 807 māgha śukla 11 roja 6' (NS 807, early 1687 CE), which records the death of Śrīnivāsa Malla. These read as historical memoranda added at the end of the chronicle, not as the copying date or as patrons of this copy. If the scribe wrote them as current events, the copy dates to about NS 806–807 (1686–87 CE), but this is not certain. The cataloguer says the folio range still needs checking. 'vañayā rājā' is probably a corruption of Newari 'yeñayā' (of Kathmandu). Pārthivendra Malla was king of Kathmandu at that time, so the epithet more likely belongs with him than with Ugra Malla. The royal names are not listed as persons because nothing ties them to the making of this copy.",
+ "_meta": {
+  "reel": "B 245/13",
+  "model": "opus",
+  "cost_usd": 0.09195800000000001,
+  "secs": 23.3
+ }
+}

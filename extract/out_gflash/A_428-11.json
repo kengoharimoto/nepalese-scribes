@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmadaivajña",
+   "name": "Rāma",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmadaivajñaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1674 mā 8 ti 30",
+  "era": "ŚS",
+  "year": "1674",
+  "month": "8",
+  "paksa": "",
+  "tithi": "30",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1752"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name following 'likhi///' is broken off/lost.",
+ "_meta": {
+  "reel": "A 428/11",
+  "model": "gemini-flash-latest",
+  "secs": 3.0,
+  "in_tok": 677,
+  "out_tok": 603
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrājadaivajñaśrīmanvādhavānandarāja",
+   "name": "Mādhavānandarāja",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "rājadaivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrājadaivajñaśrīmanvādhavānandarājakṛte",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chapter colophon (sarga 5). The author's name is spelled corruptly as -śrīmanvādhavānandarāja- for -śrīmad-mādhavānandarāja-.",
+ "_meta": {
+  "reel": "A 907/10a",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 700,
+  "out_tok": 843
+ }
+}

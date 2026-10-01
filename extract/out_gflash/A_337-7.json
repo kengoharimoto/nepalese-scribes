@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "harikeśa śarmaṇā",
+   "name": "Harikeśa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ harikeśa śarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1562 samaye phālgunavadi 5 guruvāsare hasta nakṣatre",
+  "era": "ŚS",
+  "year": "1562",
+  "month": "phālguna",
+  "paksa": "vadi",
+  "tithi": "5",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "hasta nakṣatra",
+  "ce_approx": "1641"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 337/7",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 764,
+  "out_tok": 775
+ }
+}

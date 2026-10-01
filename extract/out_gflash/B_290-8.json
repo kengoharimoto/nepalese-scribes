@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "hemanta mallo",
+   "name": "Hemantamalla",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "hemanta mallo alikhat || || śrī śrī hemantamallena thamacosyaṃ sidhayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke veda śaśāṃka kuṃjaramite nepālike mādhave, saptamyāṃ śanivāsare suvidite śukle hipuṣpe / samvat 814 vaiśākhaśudi 7",
+  "era": "NS",
+  "year": "814",
+  "month": "mādhava",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "śanivāsara",
+  "nakshatra_yoga": "puṣpa",
+  "ce_approx": "1694"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "tuṣṭyai rāghavapuṃgavasya / vudhamude / thamacosyaṃ (written by himself)",
+ "notes": "The chronogram 'veda śaśāṃka kuṃjara' gives 814 Nepāla Saṃvat, confirmed by 'samvat 814'. The Newari phrase 'thamacosyaṃ sidhayakā juroṃ' indicates that Hemantamalla completed copying the manuscript himself.",
+ "_meta": {
+  "reel": "B 290/8",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 872,
+  "out_tok": 932
+ }
+}

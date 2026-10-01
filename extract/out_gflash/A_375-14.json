@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhāravi",
+   "name": "Bhāravi",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāravikṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vaṃśīdharo",
+   "name": "Vaṃśīdhara",
+   "roles": [
+    "scribe",
+    "reader"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vaṃśīdharo dvijaḥ vyalikhat paṭhanārthaṃ vai",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 9(8)14 (!) phālguṇa śukla 4",
+  "era": "NS",
+  "year": "914",
+  "month": "phālguṇa",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1794"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "paṭhanārtham (for reading)",
+ "notes": "The digit for the hundreds in the year is noted as '9(8)14 (!)', interpreted in the catalogue as NS 914 (approx. 1794 CE).",
+ "_meta": {
+  "reel": "A 375/14",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 916,
+  "out_tok": 1225
+ }
+}

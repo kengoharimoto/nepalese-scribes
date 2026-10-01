@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkṛṣṇajośī",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "Rāmanagara",
+   "evidence": "pustakam idaṃ śrīkṛṣṇajośī rāmanagaravāle",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 1830 varṣe caitraśukla 14 bhaume",
+  "era": "VS",
+  "year": "1830",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "14",
+  "weekday": "bhaume",
+  "nakshatra_yoga": "",
+  "ce_approx": "1774"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe refers to himself anonymously with 'mayā'. The owner is designated as belonging to/residing in Ramanagar ('rāmanagaravāle').",
+ "_meta": {
+  "reel": "B 54/3",
+  "model": "gemini-flash-latest",
+  "secs": 6.7,
+  "in_tok": 794,
+  "out_tok": 1274
+ }
+}

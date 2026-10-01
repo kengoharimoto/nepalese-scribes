@@ -1,0 +1,56 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīcaraṇaśaṃkara",
+   "name": "Śaṃkara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīcaraṇaśaṃkaraproktaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "māghavasya",
+   "name": "Mādhava",
+   "roles": [
+    "owner",
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ, māghavasyedaṃ pustakam",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1866 māghaśuklapratipadi sūrye dine",
+  "era": "VS",
+  "year": "1866",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "pratipad",
+  "weekday": "sūryadine",
+  "nakshatra_yoga": "",
+  "ce_approx": "1810"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon spells the name as 'māghavasya', but it is a misspelling for Mādhava, identified as owner ('idaṃ pustakam') and likely scribe ('likhitaṃ') as noted by the cataloguer.",
+ "_meta": {
+  "reel": "A 1101/24",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 735,
+  "out_tok": 1236
+ }
+}

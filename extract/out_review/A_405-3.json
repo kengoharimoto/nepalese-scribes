@@ -1,0 +1,80 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Month: 'māºº' read as Māgha (most likely expansion; Mārgaśīrṣa is possible but normally abbreviated 'mārga').",
+   "ce_approx: Māgha of VS 1921 (caitrādi) falls in Jan–Feb 1865 CE; changed to '1864–65' (VS−57 gives 1864).",
+   "Added the scribe Raṅganātha and the donor Kṛṣṇa Jośī of Rāmanagara from the catalogue fields, both at low confidence because the quoted colophon does not name them.",
+   "Author Nārāyaṇa (Bhaṭṭa Nārāyaṇa) kept as in the first reading."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭanārāyaṇena",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kirttituṃ bhaṭṭanārāyaṇena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "Raṅganātha",
+   "name": "Raṅganātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "(catalogue field only: Scribe: Raṅganātha)",
+   "confidence": "low"
+  },
+  {
+   "pid": "p3",
+   "as_written": "Śrīkṛṣṇajośī, Rāmanagaravāle",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "Rāmanagara",
+   "evidence": "(catalogue field only: Donor: Śrīkṛṣṇajośī, Rāmanagaravāle)",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1921 māºº. kṛºº 5–",
+  "era": "VS",
+  "year": "1921",
+  "month": "Māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1864–65"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The quoted colophon names only the author, Bhaṭṭa Nārāyaṇa. The catalogue gives a scribe, Raṅganātha, and a donor, Śrīkṛṣṇajośī 'Rāmanagaravāle' (of Rāmanagara). These probably come from another part of the manuscript, such as an endleaf or cover, and are recorded here only at low confidence. The era is not stated. It is taken as VS: the script is Devanagari, NS or ŚS 1921 is impossible, and the catalogue also says VS. 'māºº' is most likely Māgha (Jan–Feb 1865 CE). If it means Mārgaśīrṣa, the date would be Nov–Dec 1864. The dash after the tithi '5' may mean the date line goes on or is damaged. The verse text is corrupt ('pravaktu++cātye').",
+ "_meta": {
+  "reel": "A 405/3",
+  "model": "opus",
+  "cost_usd": 0.068939,
+  "secs": 19.8
+ }
+}

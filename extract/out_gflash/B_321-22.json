@@ -1,0 +1,87 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkavirājapaṇḍita",
+   "name": "Kavirāja",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkavirājapaṇḍitaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīhaladharṇī (!)",
+   "name": "Haladharṇī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīhaladharṇī (!) prasūta",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "cakravartti vīraśrīkāmadeva",
+   "name": "Kāmadeva",
+   "roles": [
+    "king",
+    "other"
+   ],
+   "titles": [
+    "cakravartin",
+    "vīra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "cakravartti vīraśrīkāmadevaprotsāhita",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīhaladharṇī (!) prasūta"
+  },
+  {
+   "from": "p1",
+   "type": "other",
+   "to": "p3",
+   "evidence": "cakravartti vīraśrīkāmadevaprotsāhita"
+  }
+ ],
+ "date": {
+  "as_written": "saṃ 844 māghavaddi 15 miti",
+  "era": "NS",
+  "year": "844",
+  "month": "māgha",
+  "paksa": "vaddi",
+  "tithi": "15",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1724"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The persons mentioned belong to the text colophon (author Kavirāja, his parent Haladhara/Haladharṇī, and his royal patron Kāmadeva). No scribe or donor is named for the manuscript copying dated NS 844.",
+ "_meta": {
+  "reel": "B 321/22",
+  "model": "gemini-flash-latest",
+  "secs": 9.7,
+  "in_tok": 754,
+  "out_tok": 2168
+ }
+}

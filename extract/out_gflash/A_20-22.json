@@ -1,0 +1,84 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīyakṣamallanṛpater",
+   "name": "Yakṣamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīyakṣamallanṛpater vvijaye ca rājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "varakīrttirāmaḥ",
+   "name": "Kīrtirāma",
+   "roles": [
+    "commissioner",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Bhaktāpurī",
+   "evidence": "bhaktāpurīnivasito varakīrttirāmaḥ | tatkaṇṭhabhūṣaṇakṛto pi hitopadeśaślokaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "ajayena",
+   "name": "Ajaya",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhyate pustakaṃ bhadraṃ, ajayena ca dhīmatā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "tatkaṇṭhabhūṣaṇakṛto pi hitopadeśaślokaḥ ... likhyate pustakaṃ bhadraṃ, ajayena"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīyakṣamallanṛpater vvijaye ca rājye ... likhyate pustakaṃ bhadraṃ, ajayena"
+  }
+ ],
+ "date": {
+  "as_written": "samvad vedagrahabāṇe, jyeṣṭhaśukle hares tithau",
+  "era": "NS",
+  "year": "594",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1474"
+ },
+ "place": {
+  "as_written": "bhaktāpurī",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "tatkaṇṭhabhūṣaṇakṛtaḥ (to serve as an ornament for Kīrtirāma's neck/recitation)",
+ "notes": "The chronogram 'vedagrahabāṇa' represents 594 (veda = 4, graha = 9, bāṇa = 5). 'Hares tithi' corresponds to ekādaśī (11th tithi).",
+ "_meta": {
+  "reel": "A 20/22",
+  "model": "gemini-flash-latest",
+  "secs": 7.6,
+  "in_tok": 802,
+  "out_tok": 1995
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pantopanāmakajayadevaśarmaṇaḥ",
+   "name": "Jayadeva",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "śarman",
+    "panta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pantopanāmakajayadevaśarmaṇaḥ | svārtham parārthañ ca",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1793 subhānunāmasaṃvatsare uttarāyaṇe vasantaṛtau caitrakṛṣṇapratipadāyāṃ bhaumavāre madhyāhnakāle",
+  "era": "ŚS",
+  "year": "1793",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "1",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1871"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtham parārthañ ca",
+ "notes": "",
+ "_meta": {
+  "reel": "A 554/17",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 750,
+  "out_tok": 812
+ }
+}

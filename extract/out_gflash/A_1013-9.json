@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmavarmaṇaḥ",
+   "name": "Rāmavarman",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "himmativarmaṇaḥ pu(15)trasya śrīrāmavarmaṇaḥ kṛtāvadhyātmarāmāyaṇasetau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "himmativarmaṇaḥ",
+   "name": "Himmativarman",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "himmativarmaṇaḥ pu(15)trasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "himmativarmaṇaḥ pu(15)trasya śrīrāmavarmaṇaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1958 sālamiti bhādraśukla 1 roja 6",
+  "era": "VS",
+  "year": "1958",
+  "month": "bhādra",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "roja 6",
+  "nakshatra_yoga": "",
+  "ce_approx": "1901"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīrāmārpaṇam astu",
+ "notes": "The catalogue lists Tīrthanātha as the scribe, but his name does not appear in the quoted colophon text. Rāmavarman, son of Himmativarman, is the author of the commentary Adhyātmarāmāyaṇasetu.",
+ "_meta": {
+  "reel": "A 1013/9",
+  "model": "gemini-flash-latest",
+  "secs": 6.2,
+  "in_tok": 872,
+  "out_tok": 1760
+ }
+}

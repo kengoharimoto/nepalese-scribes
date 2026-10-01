@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīviṣṇudevana",
+   "name": "Viṣṇudeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhaka śrīviṣṇudevana coyā julo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 829 caitraśuklayā daśami(ṣpa)kṣa nakhetra, atigaṃdhayoga, bṛhaspati vāla",
+  "era": "NS",
+  "year": "829",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "(ṣpa)kṣa nakhetra, atigaṃdhayoga",
+  "ce_approx": "1709"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 205/2",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 826,
+  "out_tok": 888
+ }
+}

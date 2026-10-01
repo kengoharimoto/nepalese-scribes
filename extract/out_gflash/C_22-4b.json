@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "raghunāthasārvabhauma",
+   "name": "Raghunātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "sārvabhauma"
+   ],
+   "affiliation": "",
+   "residence": "Gauḍadeśa",
+   "evidence": "gauḍadeśīya raghunāthasārvabhaumaviracito",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "somara",
+   "name": "Somara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Gauḍadeśa",
+   "evidence": "ena somaradeṣyā somaralīṣyā",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke || 1700 || || śrīsaṃvat || 18 || 35 ||| miti dutīā āṣānhavaditerasī",
+  "era": "ŚS",
+  "year": "1700",
+  "month": "dutīā āṣānha",
+  "paksa": "vadi",
+  "tithi": "terasī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1778"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The manuscript is double-dated to Śāka 1700 and Vikrama Saṃvat 1835 (corresponding to 1778 CE). The scribal remark is vernacular and corrupt (†ke prasataka puraṇa bhaye ena somaradeṣyā somaralīṣyā ||†); 'somara' might represent the scribe's personal name (Somara) or possibly a corruption involving the weekday somavāra (Monday) or a phrase like 'somavāre likhitam'.",
+ "_meta": {
+  "reel": "C 22/4b",
+  "model": "gemini-flash-latest",
+  "secs": 11.4,
+  "in_tok": 741,
+  "out_tok": 2897
+ }
+}

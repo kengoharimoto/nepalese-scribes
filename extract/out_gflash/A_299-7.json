@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśvanāthasya",
+   "name": "Viśvanātha",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viśvanāthasya viduṣo jagaj jānātu pustakaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ānaṃta",
+   "name": "Ananta",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ānaṃtapautraputrasya",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "other",
+   "to": "p2",
+   "evidence": "ānaṃtapautraputrasya"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue tentatively identifies a scribe as 'Rāmagupta?', but the verse is an ownership statement ('jagaj jānātu pustakaṃ viśvanāthasya viduṣo') naming Viśvanātha as owner. 'rāma(vvupto)panāmaka' appears to be an upanāma (surname/alias) modifying Ananta or his descendant, not a scribe.",
+ "_meta": {
+  "reel": "A 299/7",
+  "model": "gemini-flash-latest",
+  "secs": 41.5,
+  "in_tok": 780,
+  "out_tok": 8923
+ }
+}

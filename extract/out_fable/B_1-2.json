@@ -1,0 +1,41 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdāmodareṇa",
+   "name": "Dāmodara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "samāptaṃ śrīdāmodareṇa",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "general benediction (śubham astu sarvajagatāṃ ...); no specific beneficiary",
+ "notes": "Instrumental 'śrīdāmodareṇa' with 'samāptaṃ' most naturally marks Dāmodara as the scribe who finished the copy, though the phrasing does not exclude a commissioner; hence confidence medium. No date, place or king in the colophon; catalogue fields are empty, so no conflict. 'śantiṃ' marked (!) by cataloguer for śāntiṃ.",
+ "_meta": {
+  "reel": "B 1/2",
+  "model": "fable",
+  "cost_usd": 0.127637,
+  "secs": 15.1
+ }
+}

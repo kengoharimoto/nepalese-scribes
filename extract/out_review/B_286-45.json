@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Chronogram re-read: 'vasv-iṣv-aṅgendu-yute śāke' = vasu 8, iṣu 5, aṅga 6, indu 1; read right to left this gives ŚS 1658 (≈1736 CE), not the catalogue's 1758 (≈1836 CE). Year and ce_approx changed, and the conflict with the catalogue is noted.",
+   "Month normalised to Āṣāḍha (śuci); pakṣa śukla is implied by pūrṇimā.",
+   "Scribe evidence string shortened. Scribe's confidence lowered to medium because the name sits in a corrupt verse."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "giridharākho",
+   "name": "Giridhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "giridharākho likhanoṣu dakṣo hyalī likhad",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vaśviṣu ṣvaṃgeṃducyute ca śāke māse śucau saṃsthita paurṇimāsu",
+  "era": "ŚS",
+  "year": "1658",
+  "month": "Āṣāḍha (śuci)",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1736"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The verse is corrupt. The intended text is probably 'vasv-iṣv-aṅgendu-yute ca śāke māse śucau saṃsthita-paurṇamāsyām giridharākhyo likhaneṣu dakṣo hy alīlikhad ādarataḥ suvegāt'. The chronogram words are vasu (8), iṣu (5), aṅga (6) and indu (1). Read right to left (aṅkānāṃ vāmato gatiḥ), they give ŚS 1658 = c. 1736 CE. The catalogue's ŚS 1758 would need a 7 in the hundreds place, for example aśva/muni instead of aṅga, which the text as quoted does not support. Either the catalogue is wrong or the cataloguer read the manuscript differently, so check the original if possible. Śuci is normally Āṣāḍha (sometimes Jyeṣṭha). 'hyalī likhad' = hy alīlikhat ('wrote').",
+ "_meta": {
+  "reel": "B 286/45",
+  "model": "opus",
+  "cost_usd": 0.081166,
+  "secs": 19.0
+ }
+}

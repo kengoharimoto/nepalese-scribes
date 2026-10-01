@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgoviṃda",
+   "name": "Govinda",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgoviṃdaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhojarā[[ja]] kāesta",
+   "name": "Bhojarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ bhojarā[[ja]] kāesta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1738 śamaye nāma phālguna māṃśe (!) kṛṣṇapakṣe prathmādīnāṃ śubhavāśare",
+  "era": "VS",
+  "year": "1738",
+  "month": "phālguna",
+  "paksa": "kṛṣṇapakṣa",
+  "tithi": "prathamā",
+  "weekday": "śubhavāśare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1681"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The title 'mahomahopādhyāya' in the colophon is a corrupt form of 'mahopādhyāya'. 'kāesta' stands for Kāyastha. The weekday is generically given as 'śubhavāsara'.",
+ "_meta": {
+  "reel": "A 369/6",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 812,
+  "out_tok": 1164
+ }
+}

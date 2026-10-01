@@ -1,0 +1,35 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Normalized paksa 'śudi' → 'śukla' and weekday 'roja 4' → 'budhavāra (Wednesday; roja 4)'.",
+   "Set era to VS (was 'unspecified'): verified by computation, see notes.",
+   "Narrowed ce_approx to 1840 (2 Sept 1840)."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1897 sāla miti bhādraśudi 6 roja 4",
+  "era": "VS",
+  "year": "1897",
+  "month": "bhādra",
+  "paksa": "śukla",
+  "tithi": "6",
+  "weekday": "budhavāra (Wednesday; roja 4)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1840"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives no era name, and the catalogue's '[ŚS]' is the cataloguer's addition. A weekday check supports VS. In VS 1897 (1840 CE), Bhādrapada śukla 6 fell on Wednesday, 2 Sept 1840: the new moon was on 28 Aug 1840 with the sun in Siṃha, and tithi 6 was current at sunrise on 2 Sept. That matches roja 4 = Wednesday. Under ŚS 1897 (1975 CE), the same tithi falls around Thursday, 11 Sept 1975, which does not match. So: VS 1897 = 2 Sept 1840 CE. The colophon names no scribe, owner or other person. 'graṃthasaṃkhyā … 1080' is the text's length in ślokas, not a date.",
+ "_meta": {
+  "reel": "B 114/16",
+  "model": "opus",
+  "cost_usd": 0.08973400000000001,
+  "secs": 25.4
+ }
+}

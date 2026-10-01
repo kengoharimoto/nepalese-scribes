@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vaidyavācaspati",
+   "name": "Vācaspati",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvaidyavāca(8)spativiracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃºº 1913 māºº 9",
+  "era": "VS",
+  "year": "1913",
+  "month": "mā",
+  "paksa": "",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1856"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "māºº in the date likely stands for Māgha or Mārgaśīrṣa.",
+ "_meta": {
+  "reel": "A 954/5",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 708,
+  "out_tok": 753
+ }
+}

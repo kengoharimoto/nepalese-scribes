@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāśīnāthena",
+   "name": "Kāśīnātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījayarāmabhaṭṭabhaṭṭātmajakāśīnāthena viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrījayarāmabhaṭṭa",
+   "name": "Jayarāma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījayarāmabhaṭṭabhaṭṭātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrījayarāmabhaṭṭabhaṭṭātmajakāśīnāthena"
+  }
+ ],
+ "date": {
+  "as_written": "candrāṅke nandavarṣe nepāle pakṣa śukle tṛtīyāṃ parato maśleṣā yoga vajre āṣāḍhe saumyavāreṣu",
+  "era": "NS",
+  "year": "991",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "tṛtīyā",
+  "weekday": "saumyavāra",
+  "nakshatra_yoga": "maśleṣā, yoga vajre",
+  "ce_approx": "1871"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'candrāṅke nandavarṣe nepāle' corresponds by aṅkānāṃ vāmato gatiḥ to candra (1), aṅka (9), nanda (9) = NS 991. The scribe's name is not preserved or recognizable in the corrupt closing scribal verses.",
+ "_meta": {
+  "reel": "A 177/18",
+  "model": "gemini-flash-latest",
+  "secs": 9.5,
+  "in_tok": 928,
+  "out_tok": 2080
+ }
+}

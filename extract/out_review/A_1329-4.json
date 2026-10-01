@@ -1,0 +1,89 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Śuddhānanda: role changed from 'teacher' to 'other'. He is the commentator's teacher, not a teacher connected with this copy; the pupil_of relation keeps the link.",
+   "Notes: added that Ānandajñāna is the same person as Ānandagiri, and that the catalogue's scribe entry 'Bhāgavānaṃdajñāna' wrongly treats the commentator as the scribe.",
+   "Everything else confirmed: names, titles, the pupil_of relation, and no date or place."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīparamahaṃṣaparivrājakācārya śrīśuddhānaṃdapujyapāda(!)",
+   "name": "Śuddhānanda",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya",
+    "pūjyapāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīparamahaṃṣaparivrājakācārya śrīśuddhānaṃdapujyapāda(!)śiṣya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhagvadānaṇdajñāna",
+   "name": "Ānandajñāna",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhagavat"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhagvadānaṇdajñānakṛtāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīśaṃkarabhagavat",
+   "name": "Śaṅkara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhagavat"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśaṃkarabhagavatkṛta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śrīśuddhānaṃdapujyapāda(!)śiṣya bhagvadānaṇdajñāna"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "This is only the ṭīkā's closing colophon: a commentary on Śaṅkara's Chāndogyopaniṣadbhāṣya by Ānandajñāna (= Ānandagiri), pupil of Śuddhānanda; it ends with chapter 6 ('ṣaṣṭhodhyāyaḥ … samāptaḥ'). There is no scribal colophon, so the scribe, date and place are unknown. The catalogue's scribe field 'Bhāgavānaṃdajñāna' is a misreading of 'bhagvadānaṇdajñāna' ('the revered Ānandajñāna'), who is the commentator, not the scribe. Śuddhānanda is recorded only as the commentator's teacher. The closing invocation 'śrīrāmakṛṣṇaparamātmane namaḥ' is addressed to a deity, so it adds no person.",
+ "_meta": {
+  "reel": "A 1329/4",
+  "model": "opus",
+  "cost_usd": 0.07988200000000001,
+  "secs": 14.8
+ }
+}

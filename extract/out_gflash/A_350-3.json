@@ -1,0 +1,117 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṛṇā nevāra",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "nevāra"
+   ],
+   "affiliation": "",
+   "residence": "bandīpuragrāme",
+   "evidence": "likhitam idaṃ saṭīkaṃ mudrārākṣasanāṭakam kṛṇā nevāra bandīpuragrāme vasataṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīviśākhadata",
+   "name": "Viśākhadatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahākavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīviśākhadatamahākavinā viracite mudrārākṣasanāṭake",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "pṛthoḥ",
+   "name": "Pṛthu",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājapadabhājaḥ pṛthoḥ sūnunā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "ḍhuṃdḍirājayajvanā",
+   "name": "Ḍhuṇḍhirāja",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "yajvan"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ḍhuṃdḍirājayajvanā viracite mudrārākṣasanāṭakavyākhyāne",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrītryaṃbakaprabhuvaryāśritena",
+   "name": "Tryambaka",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "prabhuvarya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrītryaṃbakaprabhuvaryāśritena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "pṛthoḥ sūnunā"
+  },
+  {
+   "from": "p4",
+   "type": "other",
+   "to": "p5",
+   "evidence": "śrītryaṃbakaprabhuvaryāśritena"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1691 māse mārgaśilaṃ",
+  "era": "ŚS",
+  "year": "1691",
+  "month": "mārgaśīrṣa",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1769"
+ },
+ "place": {
+  "as_written": "bandīpuragrāme",
+  "normalized": "Bandipur"
+ },
+ "purpose": "",
+ "notes": "The scribe identifies himself as a Newar residing in Bandipur (bandīpuragrāme vasataṃ).",
+ "_meta": {
+  "reel": "A 350/3",
+  "model": "gemini-flash-latest",
+  "secs": 10.2,
+  "in_tok": 924,
+  "out_tok": 2861
+ }
+}

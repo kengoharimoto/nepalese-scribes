@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "date.month normalized from 'āsvi(!)' to 'Āśvina'",
+   "date.weekday normalized to 'Sunday (bhāskaravāsara)'",
+   "notes revised: 'āditya(!)śuṃ(!)nu' probably reads ādityasūnu (= Śani, Saturn), which conflicts with bhāskaravāsare (Sunday); not simply a corrupt word for Sunday"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pratāpakeśaranātham(!)",
+   "name": "Pratāpakeśaranātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam pratāpakeśaranātham(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1917 sāla āsvi(!)kṛṣṇa aṣṭamyā (!) tithau āditya(!)śuṃ(!)nu bhāskaravāsare",
+  "era": "VS",
+  "year": "1917",
+  "month": "Āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "Sunday (bhāskaravāsara)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1860"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is given only as 'saṃvat … sāla'. The year 1917 fits VS (= 1860 CE). With Śaka or Nepal Saṃvat it would be implausible, so VS is assumed. 'āditya(!)śuṃ(!)nu' probably stands for ādityasūnu, 'son of the Sun', i.e. Śani (Saturday). That contradicts the following 'bhāskaravāsare' (Sunday). The weekday is recorded as Sunday from the explicit vāra word, but the date is internally inconsistent or corrupt. The final '-nātha' of the scribe's name may point to a Nātha (yogi) affiliation, but that is not stated. The name is in the accusative form (-nātham(!)) where nominative or instrumental is expected.",
+ "_meta": {
+  "reel": "A 1001/21",
+  "model": "opus",
+  "cost_usd": 0.072222,
+  "secs": 13.7
+ }
+}

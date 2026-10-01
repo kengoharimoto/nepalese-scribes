@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "1818 samvat 1953 ā (!) śvinavadi 2 oja 1",
+  "era": "VS",
+  "year": "1953",
+  "month": "āśvina",
+  "paksa": "vadi",
+  "tithi": "2",
+  "weekday": "oja 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1896"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons are named in the colophon. The catalogue mentions 'King: Udyotacandra of Kūrmāñcala', but he does not appear in the quoted text. The two years (1818 and 1953) correspond to Śaka Saṃvat 1818 and Vikrama Saṃvat 1953 (1896 CE).",
+ "_meta": {
+  "reel": "A 1002/3",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 692,
+  "out_tok": 1073
+ }
+}

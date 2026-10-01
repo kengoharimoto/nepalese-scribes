@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadrājakumāraśrīśrīśrīupeṃdravikramasāhadevasya",
+   "name": "Upendravikramasāhadeva",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "rājakumāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadrājakumāraśrīśrīśrīupeṃdravikramasāhadevasya saṃgrahaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīvikrama samvat 1917 sālam iti vaiśāṣavadi 12 roja3",
+  "era": "VS",
+  "year": "1917",
+  "month": "vaiśāṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "12",
+  "weekday": "roja3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1860"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records Upendra Vikrama Sāhadeva as King, but the colophon specifies him as prince (rājakumāra); he was the brother of King Surendra Bikram Shah of Nepal.",
+ "_meta": {
+  "reel": "B 138/2a",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 774,
+  "out_tok": 1030
+ }
+}

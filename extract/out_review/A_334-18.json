@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes; added note on the Māgha/CE year conversion, the stray '4', and why 'svārthaṃ parārthaṃ ca' does not make the scribe the owner"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vireśvarajottirvidena",
+   "name": "Vīreśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ vireśvarajottirvidena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1869 māghamāse śuddhapakṣe 10 ghṛguvāsare",
+  "era": "VS",
+  "year": "1869",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1813"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthaṃ ca",
+ "notes": "'ghṛguvāsare' is a scribal corruption of bhṛguvāsare (Friday). 'jottirvidena' is a corruption of jyotirvidena; 'vireśvara' is read as Vīreśvara. The era is taken to be VS because the colophon says only 'saṃvat'. VS 1869 −57 gives 1812, but Māgha śukla 10 of that year falls in January/February 1813 CE. The '4' after 'svārthaṃ parārthaṃ ca' is unclear and may be a punctuation or filler mark. 'svārthaṃ parārthaṃ ca' is a stock formula, so the scribe is not also recorded as owner.",
+ "_meta": {
+  "reel": "A 334/18",
+  "model": "opus",
+  "cost_usd": 0.06563,
+  "secs": 11.0
+ }
+}

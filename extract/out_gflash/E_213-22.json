@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dvijo rāmādiḥ śaṃkara iti",
+   "name": "Rāmaśaṃkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhad ... dvijo rāmādiḥ śaṃkara iti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepālabdi himakara samudrāṃka milite dale patraṃ mārgeʼsitimani maheśasya tithau || ... amareśejya divase",
+  "era": "NS",
+  "year": "941",
+  "month": "Mārgaśīrṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1820"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'himakara-samudrāṅka' denotes 941 (himakara = 1, samudra = 4, aṅka = 9), though the catalogue record reads NS 940. Maheśatithi is typically the 11th (Ekādaśī / Rudra) or 14th (Caturdaśī / Śiva) tithi; amareśejyadivasa designates Thursday (Bṛhaspativāra).",
+ "_meta": {
+  "reel": "E 213/22",
+  "model": "gemini-flash-latest",
+  "secs": 8.3,
+  "in_tok": 801,
+  "out_tok": 1823
+ }
+}

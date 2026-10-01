@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgadādharabhaṭṭācārya",
+   "name": "Gadādhara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgadādharabhaṭṭācāryaviracitaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvata(!) 1782 samaināma(!) aṣāḍa〈〈su〉〉vadī(!) || 14 ||",
+  "era": "VS",
+  "year": "1782",
+  "month": "aṣāḍha",
+  "paksa": "vadī",
+  "tithi": "14",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1725"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date contains an insertion/correction '〈〈su〉〉vadī'.",
+ "_meta": {
+  "reel": "B 56/16",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 716,
+  "out_tok": 820
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgaṇeśvarānandanaṃ",
+   "name": "Gaṇeśvarānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "lalitāpura śrīmahābuddha",
+   "evidence": "lalitāpura śrīmahābuddhayā paṃḍitātmaja śrīgaṇeśvarānandanaṃ śrīsvasthānīvratakathā siddhanaṃ coyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1939 nepālasaṃvat 1003 miti pauṣakṛṣna 3 śukravāra",
+  "era": "VS",
+  "year": "1939",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "3",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1883"
+ },
+ "place": {
+  "as_written": "lalitāpura śrīmahābuddhayā",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "Double date given in VS (1939) and NS (1003). The catalogue entry mentions King Bhūpatīndramalla, but no king is named in the quoted colophon text.",
+ "_meta": {
+  "reel": "B 273/22",
+  "model": "gemini-flash-latest",
+  "secs": 8.3,
+  "in_tok": 821,
+  "out_tok": 1946
+ }
+}

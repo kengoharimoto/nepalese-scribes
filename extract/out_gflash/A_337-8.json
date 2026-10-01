@@ -1,0 +1,87 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsvāmīpuruṣottamaḥ / śrīpuruṣottamamāśrameṇa yatinā",
+   "name": "Puruṣottamāśrama",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "svāmin",
+    "yati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svāminā śrīpuruṣottamamāśrameṇa yatināni yuktena ... tasyai(4)va niyoktur idaṃ pustakam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śivalāla",
+   "name": "Śivalāla",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śivalālātmajena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rāmajīdāsaśa(8)rmaṇā",
+   "name": "Rāmajīdāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "Vilāsapura",
+   "evidence": "rāmajīdāsaśa(8)rmaṇā vilikhya pūrtikṛtam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śivalālātmajena"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "svāminā śrīpuruṣottamamāśrameṇa yatināni yuktena ... rāmajīdāsaśa(8)rmaṇā vilikhya pūrtikṛtam ... tasyaiva niyoktur idaṃ pustakam"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1938 bhādrapadakṛṣṇāṣṭamyāṃ guruvāsarānvitāyāṃ",
+  "era": "VS",
+  "year": "1938",
+  "month": "bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1881"
+ },
+ "place": {
+  "as_written": "vilāsapura",
+  "normalized": ""
+ },
+ "purpose": "parārtha (for the employer/commissioner Svāmī Puruṣottamāśrama)",
+ "notes": "The catalogue lists the date as ŚS 1838, but the colophon clearly reads 'saṃvat 1938' (VS). An earlier verse gives the chronogram rasavahnyaṅkacandrābde (1936) for Puruṣottama's discovery or revelation of the text.",
+ "_meta": {
+  "reel": "A 337/8",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 887,
+  "out_tok": 1979
+ }
+}

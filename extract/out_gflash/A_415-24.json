@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śāvaladāsakāyestha",
+   "name": "Śāvaladāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "Rāmāpura",
+   "evidence": "likheka śāvaladāsakāyestha",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhāu daivajñasyedaṃ",
+   "name": "Bhāu",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāu daivajñasyedaṃ pustakam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "likheka śāvaladāsakāyestha ... bhāu daivajñasyedaṃ pustakam"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1750 sāke",
+  "era": "ŚS",
+  "year": "1750",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1828"
+ },
+ "place": {
+  "as_written": "rāmāpuramaḥ",
+  "normalized": "Rāmapura"
+ },
+ "purpose": "",
+ "notes": "Cataloguer lists Bhāu Daivajña as donor, but the colophon text marks him as the owner ('bhāu daivajñasyedaṃ pustakam'). Hindi/vernacular phrasing in the colophon ('likheka', 'vāsīṃdā').",
+ "_meta": {
+  "reel": "A 415/24",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 755,
+  "out_tok": 1210
+ }
+}

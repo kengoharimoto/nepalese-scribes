@@ -1,0 +1,70 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 name corrected from 'Mukuṭānandana' to 'Mukuṭānanda': the final -na in 'mukuṭānamdana' is the Newari ergative ending ('by Mukuṭānanda'), not part of the name.",
+   "p2 evidence shortened to the passage that shows the role.",
+   "p1 confidence lowered to medium: the name is badly corrupted ('paṇḍitāvavṛtaśrīmaṅkagadarppaṇa'). Reading it as avadhūta + Jagaddarpaṇa is a reconstruction.",
+   "Notes expanded: the phrase 'ṣūnūsakaumūlabdeyā' is unclear (possibly a locality or a mangled date or nakṣatra element), and 'sabhūla coya' is glossed."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmaṇḍalācāryyapaṇḍitāvavṛtaśrīmaṅkagadarppaṇasya",
+   "name": "Jagaddarpaṇa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmaṇḍalācārya",
+    "paṇḍita",
+    "avadhūta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kritir iyaṃ ... mahāmaṇḍalācāryyapaṇḍitāvavṛtaśrīmaṅkagadarppaṇasyeti",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvajrācāryyamukuṭānamdana",
+   "name": "Mukuṭānanda",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svavaṃśe putrapautrādipaṭhanārthe likhitaṃ mayā ... śrīvajrācāryyamukuṭānamdana thva kriyāsamuccaya sabhūlacoya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 988 āṣāḍhaśuklayā paṃcamī bṛhaspativāra",
+  "era": "NS",
+  "year": "988",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1868"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svavaṃśe putrapautrādipaṭhanārthe (for reading by his own lineage: sons, grandsons, etc.)",
+ "notes": "The author's name is corrupt. 'paṇḍitāvavṛtaśrīmaṅkagadarppaṇa' is taken as paṇḍita-avadhūta śrī Jagaddarpaṇa, the known author of the (Ācārya)Kriyāsamuccaya. In 'śrīvajrācāryyamukuṭānamdana', the final -na is the Newari ergative ending, so the name is Mukuṭānanda. 'sabhūla coya' probably means 'wrote it in full', and 'siddhaya kāgu dina' means 'the day of completion'. The phrase 'ṣūnūsakaumūlabdeyā' before the scribe's name is unclear. It may be a locality or residence (a genitive -yā), or a garbled date element; it has not been interpreted. The catalogue gives the scribe as Vajrācārya Dhanasāgara, which conflicts with the colophon (Mukuṭānanda). Dhanasāgara may come from another part of the manuscript, or the catalogue may be wrong. The date was not checked against an ephemeris: NS 988 = 1868 CE, Āṣāḍha śukla 5, Thursday.",
+ "_meta": {
+  "reel": "B 103/11",
+  "model": "opus",
+  "cost_usd": 0.096222,
+  "secs": 20.6
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīharakumārajāra",
+   "name": "Harakumāra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "Bhaktapur",
+   "evidence": "śrīharakumārajāra dvijātmaja",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīāśvinīkumārarāja vipraṇa",
+   "name": "Āśvinīkumārarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "Bhaktapur",
+   "evidence": "leṣaka. Śahara mṃktāpurai pācheyā śrīharakumārajāra dvijātmaja śrīāśvinīkumārarāja vipraṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīharakumārajāra dvijātmaja śrīāśvinīkumārarāja"
+  }
+ ],
+ "date": {
+  "as_written": "śrīvikramasamvat 1949 sāla śrīnepālasamvat 1012 miti āṣāḍhaśukla 4 aśleṣā valiyān joga maṃgalavāra",
+  "era": "VS",
+  "year": "1949",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "maṃgalavāra",
+  "nakshatra_yoga": "aśleṣā, valiyān joga",
+  "ce_approx": "1892"
+ },
+ "place": {
+  "as_written": "Śahara mṃktāpurai",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "Colophon is bilingual/mixed Nepali. The father's name reading 'śrīharakumārajāra' is slightly garbled, possibly intended for Harakumārarāja or Harakumāraśarman.",
+ "_meta": {
+  "reel": "A 203/9",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 820,
+  "out_tok": 1664
+ }
+}

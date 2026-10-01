@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "preḥ || maḥ || candraḥ",
+   "name": "Premacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "preḥ || maḥ || candraḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1889 sālamiti bhādraśudi 30 roja",
+  "era": "VS",
+  "year": "1889",
+  "month": "bhādra",
+  "paksa": "śudi",
+  "tithi": "30",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1832"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The name Premacandra is written syllable-by-syllable with visarga-like signs ('preḥ || maḥ || candraḥ'), tentatively interpreted by the cataloguer as the scribe.",
+ "_meta": {
+  "reel": "A 1112/10",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 747,
+  "out_tok": 890
+ }
+}

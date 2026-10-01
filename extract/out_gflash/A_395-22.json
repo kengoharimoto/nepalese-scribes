@@ -1,0 +1,63 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaṃgārāmasya",
+   "name": "Gaṅgārāma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gaṃgārāmasya sūnunā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sūnunā",
+   "name": "Gaṅgārāmasūnu",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ svārthe gaṃgārāmasya sūnunā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "gaṃgārāmasya sūnunā"
+  }
+ ],
+ "date": {
+  "as_written": "munigrahanagair yukte māsirādhe site ravau | saptamyāṃ",
+  "era": "NS",
+  "year": "797",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1677"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthe",
+ "notes": "The scribe refers to himself anonymously as the son of Gaṅgārāma (gaṃgārāmasya sūnunā). The year is given in chronogram (bhūtasaṃkhyā): muni (7), graha (9), naga (7) = NS 797. Month 'rādha' stands for Vaiśākha.",
+ "_meta": {
+  "reel": "A 395/22",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 701,
+  "out_tok": 1298
+ }
+}

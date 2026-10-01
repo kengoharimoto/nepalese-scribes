@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1871 [...] śāke 1793 bhādravadi 11 roja 7",
+  "era": "ŚS",
+  "year": "1793",
+  "month": "bhādra",
+  "paksa": "vadi",
+  "tithi": "11",
+  "weekday": "roja 7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1871"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons are mentioned in the colophon. The date at the very end gives Śaka 1793 (= 1871 CE), which likely explains the curious earlier appearance of 'saṃvat 1871' (matching the CE year).",
+ "_meta": {
+  "reel": "B 340/20",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 835,
+  "out_tok": 1132
+ }
+}

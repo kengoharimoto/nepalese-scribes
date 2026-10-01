@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumati jaya jitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumati jaya jitāmitramalladevasana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 814 bhādrapada śudi 12 thvaku(3)hnu",
+  "era": "NS",
+  "year": "814",
+  "month": "bhādrapada",
+  "paksa": "śuklapakṣa",
+  "tithi": "12",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1694"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The Newari expression 'dayakā juroṃ' indicates King Jayajitāmitramalladeva commissioned/caused the manuscript to be prepared. Bhaktapur is given in the catalogue based on the king's seat.",
+ "_meta": {
+  "reel": "A 1250/13c",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 706,
+  "out_tok": 911
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Weekday: kept 'maṃdadina' and added its meaning (Saturday).",
+   "Purpose: shortened to 'svārtha and parārtha', meaning for the scribe's own use and for others.",
+   "Notes: added that VS 1906 Phālguna śukla 4 falls in about Feb–Mar 1850 CE. Everything else in the first reading is confirmed."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devadattaśarmaṇā",
+   "name": "Devadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devadattaśarmaṇā likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1906 phālgunaśuklacaturthyāṃ maṃdadine",
+  "era": "VS",
+  "year": "1906",
+  "month": "phālguna",
+  "paksa": "śukla",
+  "tithi": "caturthī",
+  "weekday": "maṃdadina (Saturday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1850"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtha and parārtha (svārthaṃ parārthaṃ ca)",
+ "notes": "The catalogue gives the scribe as 'Devanaṃdaśarmā', but the colophon as quoted reads 'devadattaśarmaṇā'. The two may be a misreading of the same name. This record follows the colophon. Era: the colophon says only 'saṃvat'. VS is assumed, which agrees with the catalogue. VS 1906 Phālguna śukla 4 is about Feb–Mar 1850 CE. The weekday was not checked against an ephemeris. 'svārthaṃ parārthaṃ ca' is a stock phrase, so Devadatta was not also given the owner role.",
+ "_meta": {
+  "reel": "A 419/19",
+  "model": "opus",
+  "cost_usd": 0.06733800000000001,
+  "secs": 12.8
+ }
+}

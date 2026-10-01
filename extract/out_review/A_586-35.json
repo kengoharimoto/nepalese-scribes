@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. I made the notes more precise: 'gaṃgānikaṭe' means 'near the Gaṅgā'. It does not name a specific town, so the normalized place is left empty."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ācāryavararuci",
+   "name": "Vararuci",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ācāryavararuciviracita",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "gaṃgānikaṭe",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The copy was made 'near the Gaṅgā' (gaṃgānikaṭe likhitam). The place is not identified more closely. The colophon names no scribe, owner or date. '(saṃśrī)' is unclear. It may be the cataloguer marking a cancelled or doubtful 'saṃ' followed by 'śrī', possibly the start of a date (saṃvat) that was never written.",
+ "_meta": {
+  "reel": "A 586/35",
+  "model": "opus",
+  "cost_usd": 0.058154,
+  "secs": 9.1
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājarṣi bhaṭṭa",
+   "name": "Rājarṣibhaṭṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājarṣi bhaṭṭaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīcakrapāṇir",
+   "name": "Cakrapāṇi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvijakulatilaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīcakrapāṇir ... cālikhavad",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "narapatinṛpa pṛthvīpūrva nārāyaṇākhyaḥ",
+   "name": "Pṛthvīnārāyaṇa",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "narapati",
+    "nṛpa"
+   ],
+   "affiliation": "",
+   "residence": "navakoṭe",
+   "evidence": "narapatinṛpa pṛthvīpūrva nārāyaṇākhyaḥ | nivasati navakoṭe",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "tasya pūjyo rasādri nṛpamitaśakakāle cālikhavad"
+  }
+ ],
+ "date": {
+  "as_written": "rasādri nṛpamitaśakakāle",
+  "era": "ŚS",
+  "year": "1676",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1754"
+ },
+ "place": {
+  "as_written": "navakoṭe",
+  "normalized": "Nuwakot"
+ },
+ "purpose": "rāmorpaṇam astu",
+ "notes": "The chronogram 'rasādrinṛpamita' corresponds to Śaka 1676 (rasa = 6, adri = 7, nṛpa = 16). King Pṛthvīnārāyaṇa Shah was based in Nuwakot during this period.",
+ "_meta": {
+  "reel": "B 326/36",
+  "model": "gemini-flash-latest",
+  "secs": 10.5,
+  "in_tok": 807,
+  "out_tok": 2400
+ }
+}

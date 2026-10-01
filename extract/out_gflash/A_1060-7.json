@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ācāryavālamukaṃdena",
+   "name": "Vālamukunda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lipīkṛtaṃ ācāryavālamukaṃdena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1825 varṣaśāke 1690 varttamāne mahāmāṅgalyaprade māsottamaprathamaśrāvaṇamāse śuklapakṣe tithau ṣaṣṭyāṃ vudhavāsare",
+  "era": "VS",
+  "year": "1825 (Śāke 1690)",
+  "month": "prathamaśrāvaṇa",
+  "paksa": "śuklapakṣa",
+  "tithi": "ṣaṣṭhī",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1768"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1060/7",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 843,
+  "out_tok": 1217
+ }
+}

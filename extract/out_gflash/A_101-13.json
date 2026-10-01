@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bharata bharata dvijena",
+   "name": "Bharata",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ bharata bharata dvijena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1780 śrī śāke 1645 || jyeṣṭha śuklidaśamyāṃ tithau ravivāsare",
+  "era": "VS",
+  "year": "1780 (ŚS 1645)",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1723"
+ },
+ "place": {
+  "as_written": "kāṃtipura sthāne",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The name Bharata is repeated ('bharata bharata dvijena'), likely as a scribal dittography. The date is given in both Vikrama Saṃvat (1780) and Śaka Saṃvat (1645).",
+ "_meta": {
+  "reel": "A 101/13",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 796,
+  "out_tok": 1004
+ }
+}

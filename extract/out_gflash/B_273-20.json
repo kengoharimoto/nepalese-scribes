@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayabhūpatīndradevasana",
+   "name": "Jayabhūpatīndradeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "śrī śrī śrīmūlacuka",
+   "evidence": "śrīśrījayabhūpatīndradevasana, śrī śrī śrīmūlacukaya ... syamantakopākhyāna dayaka sa vijyāṅā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 826 jyeṣṭha vadi 5",
+  "era": "NS",
+  "year": "826",
+  "month": "jyeṣṭha",
+  "paksa": "vadi",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1706"
+ },
+ "place": {
+  "as_written": "śrī śrī śrīmūlacukaya",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "The text was caused to be made (dayaka sa vijyāṅā) by King Bhūpatīndradeva (Bhūpatīndramalla) of Bhaktapur at the Mūlacowk of the royal palace.",
+ "_meta": {
+  "reel": "B 273/20",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 708,
+  "out_tok": 1078
+ }
+}

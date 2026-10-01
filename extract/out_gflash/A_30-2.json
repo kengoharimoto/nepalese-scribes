@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayaśīha(!)mallavarmmaṇaiḥ",
+   "name": "Jayaśīhamallavarman",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "kuṭumbaja",
+    "pradhānāṅga",
+    "mahāpātra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svahastena likhitaṃ || pustakañ ca śrījayaśīhamallavarmmaṇasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīśrībhojadevanṛpa",
+   "name": "Bhojadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "nṛpa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrībhojadevanṛpasarvvasāra〇saṅgraha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 475 kārttikakṛṣṇapañcamīparaṣaṣṭhamyān (!) tithau || 〇 puṣyanakṣatre || brahmayoge || budhavāsare",
+  "era": "NS",
+  "year": "475",
+  "month": "kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "pañcamīparaṣaṣṭhī",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "puṣya, brahma",
+  "ce_approx": "1355"
+ },
+ "place": {
+  "as_written": "śrīlalitapattane śrīmānīgalottaravihāre śrīhnolavihāre",
+  "normalized": "Patan"
+ },
+ "purpose": "svārthaparārthahetunā",
+ "notes": "Copied in the presence of the deity Bugmāryāvalokeśvara (Bungama Avalokiteśvara / Rato Machhindranath) at Hnolavihāra in northern Mānīgala (Lalitapattana).",
+ "_meta": {
+  "reel": "A 30/2",
+  "model": "gemini-flash-latest",
+  "secs": 16.3,
+  "in_tok": 1214,
+  "out_tok": 3874
+ }
+}

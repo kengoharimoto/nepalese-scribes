@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1785 samaināma śrāvana(!) vadi 9 śukravāsare",
+  "era": "VS",
+  "year": "1785",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "śukravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1728"
+ },
+ "place": {
+  "as_written": "kāśyāṃ madhye maṇikarṇikā samīpe",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "No scribe or patron is mentioned by name. The catalogue entry confused the date (VS 1785) with the scribe field.",
+ "_meta": {
+  "reel": "B 337/17",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 742,
+  "out_tok": 747
+ }
+}

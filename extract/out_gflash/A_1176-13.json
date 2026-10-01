@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pūrṇṇarājadivjasya",
+   "name": "Pūrṇarāja",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pūrṇṇarājadivjasyājñāṃ dhṛtvā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kutu",
+   "name": "Kutu",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña",
+    "josī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kutu lilekha daivajñaḥ pustakaṃ ca kulārṇṇavaṃ || || samvat 782 māghakṛṣṇa ekādaśyāṃ tithau kutujosina saṃpūrṇṇa coyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "pūrṇṇarājadivjasyājñāṃ dhṛtvāśirapico(?) kutulilekha"
+  }
+ ],
+ "date": {
+  "as_written": "dvitīyanāgābdhiyute gate nepālavatsare | māghamāsya site pakṣe ekādaśāttithau (!) ... samvat 782 māghakṛṣṇa ekādaśyāṃ tithau",
+  "era": "NS",
+  "year": "782",
+  "month": "Māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1662"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrībhavānīśaṃkaraprītaye",
+ "notes": "The chronogram in verse reads 'dvitīyanāgābdhi' (abdhi = 4? likely a corruption of adri = 7, since the prose confirms NS 782). The verse gives the pakṣa as sita, whereas the prose colophon specifies māghakṛṣṇa. 'divjasya' in the verse is likely an error for daivajñasya or dvijasya. The scribe is called 'kutu ... daivajñaḥ' in Sanskrit and 'kutujosi' (Josi = Jyotiṣī/Daivajña) in Newari.",
+ "_meta": {
+  "reel": "A 1176/13",
+  "model": "gemini-flash-latest",
+  "secs": 9.3,
+  "in_tok": 819,
+  "out_tok": 1937
+ }
+}

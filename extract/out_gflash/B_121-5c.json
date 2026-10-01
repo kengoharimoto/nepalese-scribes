@@ -1,0 +1,68 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvatsarudreṇa",
+   "name": "Śrīvatsarudra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvatsarudreṇa svaparārthahetor likhitam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmadgururājahemarājapaṇḍitmahodayasya",
+   "name": "Hemarāja",
+   "roles": [
+    "commissioner",
+    "owner",
+    "beneficiary"
+   ],
+   "titles": [
+    "gururāja",
+    "paṇḍita",
+    "mahodaya"
+   ],
+   "affiliation": "Bhāratībhavana",
+   "residence": "",
+   "evidence": "śrīmadgururājahemarājapaṇḍitmahodayasya bhāratībhavanārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "other",
+   "to": "p2",
+   "evidence": "śrīmadgururājahemarājapaṇḍitmahodayasya bhāratībhavanārthaṃ tāḍapatrapustakāl likhitam"
+  }
+ ],
+ "date": {
+  "as_written": "vikrama saṃvat 1985 jyeṣṭhaśuklāṣṭamyāṃ ravau",
+  "era": "VS",
+  "year": "1985",
+  "month": "Jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "8",
+  "weekday": "ravau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1928"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīmadgururājahemarājapaṇḍitmahodayasya bhāratībhavanārthaṃ (and svaparārthahetor in exemplar)",
+ "notes": "This Devanagari manuscript was copied in VS 1985 (1928 CE) from an older palm-leaf exemplar for the Bhāratībhavana collection of Hemarāja Śarmā (Paṇḍitarāja). The name Śrīvatsarudra and the earlier date (samvat 280 pauṣakṛṣṇa ekādaśyāṃ, likely NS 280 / 1160 CE) belong to the exemplar's scribe and colophon, which was faithfully reproduced by the modern scribe.",
+ "_meta": {
+  "reel": "B 121/5c",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 860,
+  "out_tok": 1538
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāyastha caṃda",
+   "name": "Caṃda",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāyastha caṃdakṛte",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chapter colophon (adhyāya 3) naming the author Kāyastha Caṃda (Candra).",
+ "_meta": {
+  "reel": "A 222/3",
+  "model": "gemini-flash-latest",
+  "secs": 2.5,
+  "in_tok": 661,
+  "out_tok": 466
+ }
+}

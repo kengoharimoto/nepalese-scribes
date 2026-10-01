@@ -1,0 +1,103 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "narabhūpāla",
+   "name": "Narabhūpāla",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "gorṣādhīśvara",
+    "bhūpāla"
+   ],
+   "affiliation": "",
+   "residence": "Gorṣā",
+   "evidence": "gorṣādhīśvarabhūpālanarabhūpālapautra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kṛṣṇasāha",
+   "name": "Kṛṣṇasāha",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "kumāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kumāraśrīmacchrīkṛṣṇasāhakāritā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rāmahṛdaya",
+   "name": "Rāmahṛdaya",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paṇḍitaśiromaṇi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmahṛdayapaṇḍitaśiromaṇisūnu",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "vāṇīvilāsa",
+   "name": "Vāṇīvilāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vāṇīvilāsakaviviracirā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "grandson_of",
+   "to": "p1",
+   "evidence": "narabhūpālapautraśrīmanmahoddāmakī(3)rttikumāraśrīmacchrīkṛṣṇasāha"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "rāmahṛdayapaṇḍitaśiromaṇisūnuvāṇīvilāsa"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1706",
+  "era": "ŚS",
+  "year": "1706",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1784"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon marks the composition of the text (viracirā/viracitā) by poet Vāṇīvilāsa under the patronage (kāritā) of Prince (kumāra) Kṛṣṇasāha, grandson of Narabhūpāla Sāha of Gorkha.",
+ "_meta": {
+  "reel": "A 386/21",
+  "model": "gemini-flash-latest",
+  "secs": 8.7,
+  "in_tok": 788,
+  "out_tok": 2317
+ }
+}

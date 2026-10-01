@@ -1,0 +1,116 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p3: name normalized to 'Jitāmitramalladeva' (regnal name); 'sumatijaya' is the standard Bhaktapur royal epithet prefixed to the name, so it now goes in titles and is not part of the name",
+   "p4 Bhāgirāma: role changed from 'other' to 'minister' (medium confidence). 'pradhānāṅga' is the Bhaktapur office title of the chief minister, and '-yā velaśa' means 'in the time/tenure of'",
+   "Added relation p2 under_reign_of p3 and p4 servant_of p3; kept p2 wrote_for p3",
+   "Notes expanded: catalogue scribe field, the Nevārī reading of 'cocakā', the place, and the eulogistic verse"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadvallālasenadeva-",
+   "name": "Vallālasenadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "niḥśaṅkaśaṅkara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahārājādhirājaniḥśaṅkaśaṅka(4)raśrīmadvallālasenadevaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīratnākareṇa",
+   "name": "Ratnākara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīratnākareṇa likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīśrīsumatijayajitāmitramalladevasana",
+   "name": "Jitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumatijaya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumatijayajitāmitramalladevasana ... adbhutasāgara cocakā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "bhāgirāmapradhānāṅgayā",
+   "name": "Bhāgirāma",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "pradhānāṅga"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgirāmapradhānāṅgayā velaśa",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "śrīratnākareṇa likhitaṃ ... jitāmitramalladevasana ... cocakā"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "śrīśrīsumatijayajitāmitramalladevasana"
+  },
+  {
+   "from": "p4",
+   "type": "servant_of",
+   "to": "p3",
+   "evidence": "jitāmitramalladevasana, bhāgirāmapradhānāṅgayā velaśa"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 803 māghavadi, ṣaṣṭhī",
+  "era": "NS",
+  "year": "803",
+  "month": "Māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "6",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1683"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "royal commission by Jitāmitramalla",
+ "notes": "The era is not named, but year 803 under Jitāmitra Malla of Bhaktapur (r. c. 1673–1696) fits NS, so NS 803 Māgha = c. January 1683 CE. The catalogue lists Bhāgirāma Pradhānāṅga as a scribe, but the colophon names only Ratnākara as scribe ('śrīratnākareṇa likhitaṃ'). The Nevārī says the king had the book written ('cocakā' = causative of 'co-', to write) 'bhāgirāmapradhānāṅgayā velaśa', i.e. in the time or under the supervision of Bhāgirāma Pradhānāṅga. 'Pradhānāṅga' is a ministerial title, so Bhāgirāma is taken as the minister in charge, possibly the overseer of the copying. No place is stated; Bhaktapur is likely because of the king, but this is not certain. The bhujaṅgaprayāta verse praising Jitāmitramalla is eulogistic and names no further persons. The final sentence is a request to others to look after the book carefully.",
+ "_meta": {
+  "reel": "B 324/6",
+  "model": "opus",
+  "cost_usd": 0.102282,
+  "secs": 24.0
+ }
+}

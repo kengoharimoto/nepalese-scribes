@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name normalised to Kānhajī: the -ka in 'kānhajīkena' is a suffix added to the name, and the catalogue gives Kānhajī. Confidence lowered to medium.",
+   "Removed p2 'Someśvara' as a separate scribe. 'vā someśvareṇa' most likely gives the scribe's place (the catalogue treats it as the place of copying) or another name for him. It is unlikely to be a second scribe. The doubt is recorded in notes and under place.",
+   "Place: entered 'someśvareṇa' as the possible place of copying (the catalogue gives Someśvara). Left the modern identification empty.",
+   "Weekday: kavi- is a name of Śukra (Venus), so kavivāsara means Friday. The (!) is probably unnecessary.",
+   "Purpose stays empty; the closing blessing on scribe and reader names no one."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dvivedinā kānhajīkena",
+   "name": "Kānhajī",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvivedin"
+   ],
+   "affiliation": "",
+   "residence": "Someśvara (?)",
+   "evidence": "likhitam idaṃ pustaka bhavatyāṃ(!) dvivedinā kānhajīkena",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1775 varṣe bhādrapadamāse śuklapakṣe paurṇimāsyāṃ kavi(!)vāsare",
+  "era": "VS",
+  "year": "1775",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā (15)",
+  "weekday": "Friday (kavivāsara = śukravāra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1718"
+ },
+ "place": {
+  "as_written": "someśvareṇa (?)",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The text reads 'dvivedinā kānhajīkena vā someśvareṇa'. 'someśvareṇa' is in the instrumental case like the scribe's name. That allows three readings: (a) a second name for the scribe ('Kānhajī alias Someśvara'); (b) a corrupt place reference such as 'vā(stavyena) someśvare', meaning 'resident of Someśvara', which is what the catalogue's place field suggests; (c) a second scribe, which is least likely. I recorded one scribe and gave Someśvara as a possible residence or place. The word 'bhavatyāṃ(!)' is corrupt and unclear. 'Kavi' is a standard name for Śukra, so the weekday is Friday. I did not check that weekday against VS 1775 Bhādrapada pūrṇimā (about August/September 1718 CE). The date is in Vikrama saṃvat, which fits a Devanagari manuscript from outside Nepal; the name 'Kānhajī' and the Gujarati/Rajasthani title 'dvivedī' point the same way.",
+ "_meta": {
+  "reel": "A 297/3",
+  "model": "opus",
+  "cost_usd": 0.488522,
+  "secs": 29.5
+ }
+}

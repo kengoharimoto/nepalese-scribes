@@ -1,0 +1,36 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Year reinterpreted: 'sataddevatsare pūrṇṇa paścāvaśām ekādhike' is most likely a corrupt 'śatadve vatsare pūrṇe pañcāśad ekādhike' = 200 + 51 = 251, not 200 as the catalogue says. ce_approx changed from 1080 to 1131 accordingly; marked uncertain.",
+   "Era set to NS (assumed; not stated in the colophon) instead of 'unspecified', so that ce_approx can be given.",
+   "Month normalised to Āṣāḍha; tithi to daśamī; nakṣatra to Viśākhā. Viśākhā on Āṣāḍha śukla 10 is astronomically plausible.",
+   "as_written extended to the end of the date verse; notes expanded."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "sataddevatsare pūrṇṇa paścāvaśām ekādhike tadā āśāmāśe śukladaśaṃyāṃ tithim uttamaṃ viśākhaṛkṣaṃ nāme tu",
+  "era": "NS",
+  "year": "251 (?; catalogue: 200)",
+  "month": "Āṣāḍha (āśāmāśe)",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "",
+  "nakshatra_yoga": "Viśākhā",
+  "ce_approx": "1131"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names no persons: no scribe, patron, owner or king. The date verse is corrupt. 'sataddevatsare pūrṇṇa paścāvaśām ekādhike' most likely stands for 'śatadve vatsare pūrṇe pañcāśad ekādhike', meaning 'when 200 years were complete, plus fifty-one', i.e. year 251. The catalogue gives [NS] 200, which apparently ignores 'pañcāśad ekādhike'. The year should be checked against the manuscript image. The era is not written; NS is assumed from the Newari script and the Nepalese provenance. If the year is 251, NS 251 is about 1131 CE; if 200, about 1080 CE. 'āśāmāśe' = āṣāḍhamāse. Moon in Viśākhā on Āṣāḍha śukla 10 is astronomically plausible. The closing words 'likhitaṃ sārasaṃgrahakubjikā' give a title for the text ('Sārasaṃgraha-Kubjikā'), not a person.",
+ "_meta": {
+  "reel": "B 25/21",
+  "model": "opus",
+  "cost_usd": 0.082782,
+  "secs": 18.8
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmahopādhyāyabhaṭṭācārya",
+   "name": "Bhaṭṭācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāyabhaṭṭācāryakṛta",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 816",
+  "era": "NS",
+  "year": "816",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1696"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Catalogue gives the date as NS 814, but the colophon transcription clearly states 'samvat 816'. The author is referred to only by the titles mahāmahopādhyāya and bhaṭṭācārya.",
+ "_meta": {
+  "reel": "A 1280/15",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 666,
+  "out_tok": 1252
+ }
+}

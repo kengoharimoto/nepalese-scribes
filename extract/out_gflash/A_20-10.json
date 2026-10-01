@@ -1,0 +1,60 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "maithilaśrīsadupādhyāyapadaprasiddhaśrīramāpati",
+   "name": "Ramāpati",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "sadupādhyāya",
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "Mithilā",
+   "evidence": "śrīramāpativiracito vṛttasāraḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vaṃśamaṇiḥ",
+   "name": "Vaṃśamaṇi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhati sma nabhasi vṛttatrantam(!) 〇saṃpūrṇṇaśaśini vaṃśamaṇiḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śakabhūpatimate guṇite candrādhikapavanatithyaṅkaiḥ ... nabhasi ... saṃpūrṇṇaśaśini",
+  "era": "ŚS",
+  "year": "candrādhikapavanatithyaṅkaiḥ",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is expressed via a chronogram in the Śaka era (śakabhūpatimate ... candrādhikapavanatithyaṅkaiḥ). Month is given as nabhasi (Śrāvaṇa) on the full moon day (saṃpūrṇṇaśaśini). Two final verses are attributed to the scribe: 'śrīvaṃśamaṇiśarmmaṇaṣ padye'.",
+ "_meta": {
+  "reel": "A 20/10",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 925,
+  "out_tok": 1572
+ }
+}

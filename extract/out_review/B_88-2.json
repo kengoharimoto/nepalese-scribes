@@ -1,0 +1,139 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name: removed the Newari honorific -ju, so 'Dhaṃsi' (kept as a variant in notes); titles now bhāju and ju",
+   "p3: name read as 'Jio Dhaṃ' (Newari honorific -ju removed) and confidence lowered to medium; the split of 'jio dhaṃju' is uncertain",
+   "All five persons get the role 'beneficiary' because of 'thuti sayāṃ maṅgala juya māra' (may all these be blessed); p1 stays donor (dānapati)",
+   "place: emptied. 'hataṣāde onani' is given as the donor's residence, not as the place of copying; it stays in p1's residence field",
+   "purpose: changed from a fragment of the Newari to its meaning",
+   "date: tithi stays ṣaṣṭhī; added yathākaraṇa muhūrta, Sun in Makara and Moon in Meṣa; notes on the CE year and the conflict with the catalogue's 910"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhāju dhaṃsiju",
+   "name": "Dhaṃsi",
+   "roles": [
+    "donor",
+    "beneficiary"
+   ],
+   "titles": [
+    "bhāju",
+    "ju"
+   ],
+   "affiliation": "",
+   "residence": "hataṣāde onani",
+   "evidence": "dānapati hataṣāde onani, śrībhāju dhaṃsiju",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vilalakṣmi",
+   "name": "Vilalakṣmī",
+   "roles": [
+    "relative_only",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasya bhāryyā vilalakṣmi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "jio dhaṃju",
+   "name": "Jio Dhaṃ",
+   "roles": [
+    "relative_only",
+    "beneficiary"
+   ],
+   "titles": [
+    "ju"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "putra jio dhaṃju",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "jñānalakṣmi",
+   "name": "Jñānalakṣmī",
+   "roles": [
+    "relative_only",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasya bhāryyā jñānalakṣmi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "munirāja",
+   "name": "Munirāja",
+   "roles": [
+    "relative_only",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "putra munirāja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wife_of",
+   "to": "p1",
+   "evidence": "dhaṃsiju tasya bhāryyā vilalakṣmi"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "vilalakṣmi putra jio dhaṃju"
+  },
+  {
+   "from": "p4",
+   "type": "wife_of",
+   "to": "p3",
+   "evidence": "dhaṃju tasya bhāryyā jñānalakṣmi"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "jñānalakṣmi putra munirāja"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 950 mti māghamāsya śuklapakṣe ṣaṣṭammītithau aśuṇinakṣatre, śubhayogya yathākarṇṇamahātre, ādityavāsare, makrarāsigate śavitre meṣarāsigate candraṃmasi",
+  "era": "NS",
+  "year": "950",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "ṣaṣṭhī (6)",
+  "weekday": "ādityavāra (Sunday)",
+  "nakshatra_yoga": "aśvinī nakṣatra, śubha yoga; yathākaraṇa muhūrta; Sun in Makara, Moon in Meṣa",
+  "ce_approx": "1830"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "Pious gift (dānapati) by Dhaṃsi and family; ends with Newari 'thuti sayāṃ maṅgala juya māra' = may all these (the named family) be blessed",
+ "notes": "The catalogue gives the year as NS 910, but the quoted colophon reads 'samvat 950'. The colophon reading has been followed, though the catalogue figure may be the correct one. NS 950 + 880 = 1830. However, Māgha falls in January–February, so the actual date is probably early 1831 CE. Sun in Makara with Moon in Meṣa/Aśvinī on śukla 6 fits Māgha. 'hataṣāde onani' is unclear: perhaps a locality (tole) followed by a Newari locative or verb form. It is recorded as the donor's residence, not as the place of copying. 'bhāju' and '-ju' are Newari honorifics, so the stems are Dhaṃsi (also possible: Dhaṃsiju) and Jio Dhaṃ. The split of 'jio dhaṃju' is uncertain; it might be a single name, Jiodhaṃ. 'vilalakṣmi' might be a corruption of Vilāsalakṣmī. No scribe is named.",
+ "_meta": {
+  "reel": "B 88/2",
+  "model": "opus",
+  "cost_usd": 0.112794,
+  "secs": 28.8
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkṛṣṇapaṃḍitātmaja",
+   "name": "Śrīkṛṣṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "vaidyakula",
+   "residence": "",
+   "evidence": "śrīkṛṣṇapaṃḍitātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhiṣaṅnārāyaṇa paṃḍita",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhiṣaj",
+    "paṇḍita"
+   ],
+   "affiliation": "vaidyakula",
+   "residence": "",
+   "evidence": "bhiṣaṅnārāyaṇa paṃḍita praṇītaṃ jvaranirṇaya vivaraṇaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "nāgeśasya",
+   "name": "Nāgeśa",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "guruṃ ca nāgeśayā namya",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "mādhavena",
+   "name": "Mādhava",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhiṣaj"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "alekhi mādhavenedaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīkṛṣṇapaṃḍitātmaja bhiṣaṅnārāyaṇa paṃḍita"
+  },
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p3",
+   "evidence": "guruṃ ca nāgeśayā namya ... nārāyaṇena racito nāgeśasya prasādataḥ"
+  }
+ ],
+ "date": {
+  "as_written": "vasvagniṣaṭ caṃdramite ca caṇake kuje ʼsite śrāvaṇike daśamyāṃ",
+  "era": "ŚS",
+  "year": "1638",
+  "month": "Śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1716"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram vasu (8) - agni (3) - ṣaṭ (6) - candra (1) yields 1638 Śāke. One verse gives 'śrāvaṇasya sitepakṣe daśamyāṃ kujavāsare', while the following chronogram verse has 'kuje ʼsite śrāvaṇike daśamyāṃ'. At the very end of the extract, '1744' is written.",
+ "_meta": {
+  "reel": "A 211/9",
+  "model": "gemini-flash-latest",
+  "secs": 7.8,
+  "in_tok": 980,
+  "out_tok": 2050
+ }
+}

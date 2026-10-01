@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gauḍapādācārya",
+   "name": "Gauḍapāda",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgauḍapādācāryaviravcitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "caiºº vaºº 3ºº śaºº hemalaṃbi saṃ 1942",
+  "era": "VS",
+  "year": "1942",
+  "month": "Caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "3",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1885"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The string of abbreviations 'haºº āºº svāºº maºº duºº bāºº kṣeºº kāºº miºº' before the date likely represents a mnemonic, formula, or owners/witnesses, but cannot be safely reconstructed as personal names. Hemalamba corresponds to the Jovian year.",
+ "_meta": {
+  "reel": "B 72/3",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 792,
+  "out_tok": 1173
+ }
+}

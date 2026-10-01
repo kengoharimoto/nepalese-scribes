@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dvijavaraśrīvāṇīdharaśarmmaṇā",
+   "name": "Vāṇīdhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvijavara",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvijavaraśrīvāṇīdharaśarmmaṇā likhitam idaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1904 || caitra śuklapaurṇimāyāṃ budhavāsare",
+  "era": "VS",
+  "year": "1904",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "paurṇimā",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1847"
+ },
+ "place": {
+  "as_written": "pālpā deśe ṭānsenagrāme",
+  "normalized": "Tansen"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 294/14",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 865,
+  "out_tok": 1232
+ }
+}

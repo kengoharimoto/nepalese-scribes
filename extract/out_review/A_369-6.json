@@ -1,0 +1,68 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Author's title: 'mahomahopādhyāya' read as mahāmahopādhyāya (not mahopādhyāya)",
+   "Weekday emptied: 'śubhavāśare' is a formula, not a weekday",
+   "Date era: 'saṃvat' is unqualified; VS is inferred, and this is now noted",
+   "ce_approx: Phālguna of VS 1738 falls in early 1682 CE (VS−57 gives 1681), now noted",
+   "Notes rewritten"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgoviṃda",
+   "name": "Govinda",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahomahopādhyāya (!) śrīgoviṃdaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhojarā[[ja]] kāesta",
+   "name": "Bhojarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ bhojarā[[ja]] kāesta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1738 śamaye nāma phālguna māṃśe (!) kṛṣṇapakṣe prathmādīnāṃ śubhavāśare",
+  "era": "VS",
+  "year": "1738",
+  "month": "phālguna",
+  "paksa": "kṛṣṇa",
+  "tithi": "prathamā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1682"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names no era, only 'saṃvat 1738'. I read it as Vikrama because of the Devanagari script, the Kāyastha scribe, and the year itself. NS 1738 is impossible, and ŚS 1738 (1816 CE) is possible but less likely. VS 1738 minus 57 gives 1681, but Phālguna kṛṣṇa of that year falls around February–March 1682 CE. 'mahomahopādhyāya' is a corrupt spelling of mahāmahopādhyāya. The author is Govinda (Ṭhakkura), who wrote the Kāvyapradīpa. 'śubhavāśare' (= śubhavāsare, 'on an auspicious day') is a formula and names no weekday. 'kāesta' = kāyastha, 'maā' = mayā, and 'prathmādīnāṃ' = prathamā tithi. The 'ja' of Bhojarāja is a cataloguer's addition, but the reading is secure.",
+ "_meta": {
+  "reel": "A 369/6",
+  "model": "opus",
+  "cost_usd": 0.07597000000000001,
+  "secs": 15.1
+ }
+}

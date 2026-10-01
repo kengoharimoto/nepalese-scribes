@@ -1,0 +1,55 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "harṣaratnena",
+   "name": "Harṣaratna",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ harṣaratnena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "devadevadattasya",
+   "name": "Devadevadatta",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devadevadattasya pustakāt",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "1966 pauṣa 3 gate 6 mā.",
+  "era": "VS",
+  "year": "1966",
+  "month": "pauṣa",
+  "paksa": "",
+  "tithi": "3",
+  "weekday": "mā.",
+  "nakshatra_yoga": "",
+  "ce_approx": "1909"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Copied from the exemplar belonging to Devadevadatta (devadevadattasya pustakāt). Date includes solar gate (gate 6) and weekday abbreviation mā. (maṅgalavāra).",
+ "_meta": {
+  "reel": "A 1072/15",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 678,
+  "out_tok": 1175
+ }
+}

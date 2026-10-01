@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "karmmācāryyanārāyaṇana",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhita (!) karmmācāryyanārāyaṇana",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nārāyaṇasiṃhana",
+   "name": "Nārāyaṇasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "thvayā putra nārāyaṇasiṃhana saṃpūrṇṇaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "thvayā putra"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 812 pauṣakṛṣṇa 8",
+  "era": "NS",
+  "year": "812",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1692"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 241/12b",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 776,
+  "out_tok": 1225
+ }
+}

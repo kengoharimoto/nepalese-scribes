@@ -1,0 +1,77 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñanṛsiṃha",
+   "name": "Nṛsiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñanṛsiṃhasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "divākara",
+   "name": "Divākara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "divākaraviracitaṃ makarandavivaraṇaṃ samāptam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "lālaratnākaravi dvide",
+   "name": "Lālaratnākara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "paśupeśadeśa",
+   "evidence": "lālaratnākaravi dvide ’likhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "daivajñanṛsiṃhasuta"
+  }
+ ],
+ "date": {
+  "as_written": "śaileṣu śailendu samāsame śake[1757] raṣasya (!) śubhrārddha†padākahā† ravau | strībhe gate rke",
+  "era": "ŚS",
+  "year": "1757",
+  "month": "",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "strībhe gate rke",
+  "ce_approx": "1835"
+ },
+ "place": {
+  "as_written": "paśupeśadeśe",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The date chronogram śaileṣu śailendu (7-5-7-1) gives Śaka 1757 (ca. 1835 CE). Paśupeśadeśa likely refers to the realm of Paśupati (Kathmandu Valley). The scribe name appears as lālaratnākara... 'likhat; the catalogue standardises it as Ratnākaralāla.",
+ "_meta": {
+  "reel": "A 419/2",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 766,
+  "out_tok": 1757
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkālidāsana",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkālidāsana saṃcaya yāṅā || umeśaprītaye tantraṃ kālīdāsena saṃcitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 738 thvadaṃ",
+  "era": "NS",
+  "year": "738",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1618"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrī3bhavānīśaṃkaraprītina / umeśaprītaye",
+ "notes": "Kālidāsa is the compiler (saṃcaya yāṅā / saṃcitaṃ) of this collection of Tantra chapters. Bhavānīśaṅkara / Umeśa refers to the deity Śiva/Bhavānīśaṅkara to whom the compilation was dedicated.",
+ "_meta": {
+  "reel": "B 173/22",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 739,
+  "out_tok": 1452
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahādevā",
+   "name": "Mahādeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahādevā likhatilalitaṃ padmasaṃjñaṃ purāṇaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "gate varṣē śrutiśaragaje māsi ceṣebjatithyāṃ, kaver vvāre ... saṃvat 854 āśvinapūrṇṇimā, śukravāra",
+  "era": "NS",
+  "year": "854",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "turagavarabhe",
+  "ce_approx": "1734"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "guror arthaṃ",
+ "notes": "The chronogram 'śruti-śara-gaje' yields 854, corroborated by the Newari gloss 'saṃvat 854'. 'ceṣe' in the verse represents 'iṣe' (Āśvina), also confirmed by the gloss.",
+ "_meta": {
+  "reel": "A 264/8",
+  "model": "gemini-flash-latest",
+  "secs": 7.3,
+  "in_tok": 780,
+  "out_tok": 1711
+ }
+}

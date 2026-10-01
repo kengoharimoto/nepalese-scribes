@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dhirjavīrasiṃha",
+   "name": "Dhirjavīrasiṃha",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "kāladhālā",
+   "evidence": "thosaphu dhirjavīrasiṃha yāgu",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1914 sāla miti mārgavadi 11 roja 4",
+  "era": "VS",
+  "year": "1914",
+  "month": "mārga",
+  "paksa": "vadi",
+  "tithi": "11",
+  "weekday": "roja 4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1857"
+ },
+ "place": {
+  "as_written": "kāladhālā",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Dhīrjavīrasiṃha as scribe, but the Newari phrase 'thosaphu dhirjavīrasiṃha yāgu' marks him as the owner of the book (or possibly scribe-owner).",
+ "_meta": {
+  "reel": "B 164/23",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 741,
+  "out_tok": 961
+ }
+}

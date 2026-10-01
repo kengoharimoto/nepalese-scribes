@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīudayajusa",
+   "name": "Udaya",
+   "roles": [
+    "commissioner",
+    "beneficiary"
+   ],
+   "titles": [
+    "ju"
+   ],
+   "affiliation": "",
+   "residence": "śrīpasalache",
+   "evidence": "śrīpasalache śrīudayajusa, vivāhinī śrītejanamayisa eādaśīvrataudyāpanayātaṃ coyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrītejanamayisa",
+   "name": "Tejanamayī",
+   "roles": [
+    "commissioner",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "śrīpasalache",
+   "evidence": "vivāhinī śrītejanamayisa eādaśīvrataudyāpanayātaṃ coyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wife_of",
+   "to": "p1",
+   "evidence": "vivāhinī śrītejanamayisa"
+  }
+ ],
+ "date": {
+  "as_written": "samvt 571 kārttikaśukladvādaśyāṃ",
+  "era": "NS",
+  "year": "571",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1450"
+ },
+ "place": {
+  "as_written": "śrīpasalache",
+  "normalized": ""
+ },
+ "purpose": "eādaśīvrataudyāpanayātaṃ",
+ "notes": "Copied on the occasion of the Ekādaśīvrata-udyāpana of Udayaju and his wife Tejanamayī.",
+ "_meta": {
+  "reel": "A 1156/15b",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 694,
+  "out_tok": 1417
+ }
+}

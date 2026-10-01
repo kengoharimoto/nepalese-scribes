@@ -1,0 +1,123 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmadāsaḥ",
+   "name": "Rāmadāsa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "nepālāvanipālamaṇḍalaguru"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nepālāvanipālamaṇḍalaguruḥ śrīrāmadāsaḥ sudhīḥ | ... sūnūḥ ... śrīdharmmaguptaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīdharmmaguptaḥ",
+   "name": "Dharmagupta",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sūnūḥ śuddhaguṇaughaharṣitajanaḥ śrīdharmmaguptaḥ kṛtī | pitrā putrakṛpāpareṇa nipuṇaṃ śāstrānvayaṃ śikṣita tretāsauvarasāṅkalāñ ca kṛtavān rāmāṅkitān nāṭikāḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīśrījaya..na devasya",
+   "name": "Jayārjunadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājādhirājaparameśvaraparamabhaṭṭārakaḥ śrīśrījaya..na devasyavijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "mahāpātraśrījayasīṃhamallavarmaṇasya",
+   "name": "Jayasiṃhamallavarman",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "mahāpātra"
+   ],
+   "affiliation": "śrīthaulavihāra",
+   "residence": "śrī māṇīgaṇaka, śrīubharavihāra",
+   "evidence": "mahāpātraśrījayasīṃhamallavarmaṇasya pustakam idaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "vajrācāryya śrīdukujakena",
+   "name": "Dukujaka",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "śrīyā..cchaṃ vihāra",
+   "residence": "",
+   "evidence": "vajrācāryya śrīdukujakena likhitam idaṃ svahastena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "tasyāsti vidyānidheḥ sūnūḥ ... śrīdharmmaguptaḥ"
+  },
+  {
+   "from": "p5",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "mahāpātraśrījayasīṃhamallavarmaṇasya pustakam idaṃ ... vajrācāryya śrīdukujakena likhitam idaṃ"
+  },
+  {
+   "from": "p5",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "śrīśrījaya..na devasyavijayarājye ... vajrācāryya śrīdukujakena likhitam idaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 496 mārggaśire kṛṣṇaaṣṭamyān tithau || hastanakṣatre || śobhanayoge || ādityavāsare",
+  "era": "NS",
+  "year": "496",
+  "month": "mārggaśira",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "ādityavāsara",
+  "nakshatra_yoga": "hasta, śobhana",
+  "ce_approx": "1375"
+ },
+ "place": {
+  "as_written": "śrīlaliturīnāmanagare",
+  "normalized": "Patan"
+ },
+ "purpose": "svaparārthahetunā",
+ "notes": "The catalogue wrongly records the king as 'Jayasiṃha Malla (mahāpātra)', confusing the owner Jayasiṃhamalla with the reigning king 'śrīśrījaya[rju]nadeva' (Jayārjunadeva, r. 1361–1382 CE).",
+ "_meta": {
+  "reel": "C 6/9",
+  "model": "gemini-flash-latest",
+  "secs": 11.9,
+  "in_tok": 1446,
+  "out_tok": 2857
+ }
+}

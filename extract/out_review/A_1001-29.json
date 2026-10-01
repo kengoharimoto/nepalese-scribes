@@ -1,0 +1,110 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Moved Tīrabhukti/Māṇḍaragrāma from 'affiliation' to 'residence' for Narasiṃha and Narahari (it is a place of origin, not an institution); it formally qualifies the father's compound, so it is marked as the family's home",
+   "Scribe: affiliation set to 'Kāśyapa gotra' (kāśyapīya); residence normalized to 'Tārakagrāma, near Karbudā'",
+   "Place of copying cleared: the colophon gives only the scribe's residence (-vāsī), not where the copy was made",
+   "Ratnadevī: confidence lowered to medium; the wife_of relation is inferred from the compound",
+   "Paksa normalized to 'śukla'",
+   "Notes expanded"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "miśraśrīnarahari",
+   "name": "Narahari",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "Māṇḍaragrāma, Tīrabhukti (Tirhut)",
+   "evidence": "miśraśrīnaraharikṛta ... svarodayaṭīkā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mahāmahopādhyāyanarasiṃha",
+   "name": "Narasiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "Māṇḍaragrāma, Tīrabhukti (Tirhut)",
+   "evidence": "tīrabhuktideśīyamāṇḍaragrāmīṇa...mahāmahopādhyāyanarasiṃhātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "ratnadevī",
+   "name": "Ratnadevī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "agnipraveśāntapativrataśīlaratnadevī〈ta〉mahita",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "kāśyapīyajayanārāyaṇaśarmmaṇā",
+   "name": "Jayanārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "Kāśyapa gotra",
+   "residence": "Tārakagrāma, near Karbudā",
+   "evidence": "likhitam idaṃ pustakaṃ kāśyapīyajayanārāyaṇaśarmmaṇā karbudānikaṭe tārakagrāmavāsī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "narasiṃhātmajamiśraśrīnarahari"
+  },
+  {
+   "from": "p3",
+   "type": "wife_of",
+   "to": "p2",
+   "evidence": "agnipraveśāntapativrataśīlaratnadevī〈ta〉mahitamahāmahopādhyāyanarasiṃha"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1694 jyeṣṭha śudi24(!)",
+  "era": "ŚS",
+  "year": "1694",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "24(!)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1772"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The tithi 'śudi 24' cannot be right (the cataloguer marks it with (!)). It may be a misreading of 2, 4 or 14. The Sanskrit compound describing Narahari's lineage is hard to parse. Ratnadevī, a faithful wife who died by entering the fire (agnipraveśānta-pativrata), is most likely Narasiṃha's wife and possibly Narahari's mother; 'mahita' (honoured) is uncertain because of the cataloguer's 〈ta〉. Tīrabhukti = Tirhut (Mithilā). The colophon gives only the scribe's residence, 'living in Tārakagrāma near Karbudā' (not identified). It does not say where the copy was made. The text title in the colophon is spelled 'narapaticayacaryyā' (for -jaya-). The cataloguer recorded the scribe's name as 'Jayanārāyaṇa Śarmā', which agrees with the colophon. The final verse is the standard scribe's request for pardon for errors.",
+ "_meta": {
+  "reel": "A 1001/29",
+  "model": "opus",
+  "cost_usd": 0.098638,
+  "secs": 21.9
+ }
+}

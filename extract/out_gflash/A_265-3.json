@@ -1,0 +1,63 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jagannāthadāsana(!)",
+   "name": "Jagannāthadāsa",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jagannāthadāsana(!) svārthaṃ likhitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "viṣṇudāsa",
+   "name": "Viṣṇudāsa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viṣṇudāsātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "viṣṇudāsātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 698 jyeṣṭhakṛṣṇadvitīyā mūlanakṣatre, śuddhiyoge, guruvāsare",
+  "era": "NS",
+  "year": "698",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvitīyā",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "mūlanakṣatre, śuddhiyoge",
+  "ce_approx": "1578"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ",
+ "notes": "",
+ "_meta": {
+  "reel": "A 265/3",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 774,
+  "out_tok": 1161
+ }
+}

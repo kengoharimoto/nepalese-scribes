@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmajajagddhara (!) paṃtebhyo",
+   "name": "Jagaddhara",
+   "roles": [
+    "beneficiary",
+    "owner"
+   ],
+   "titles": [
+    "paṃta"
+   ],
+   "affiliation": "",
+   "residence": "kurmāṃcala",
+   "evidence": "śrīmajajagddhara (!) paṃtebhyo kurmāṃcalasthe[[bhyo]] ... samrpiteti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "smvt vedābhrāṅkabhūmimite pau[[ṣe]] māsi śukla[[pa]]kṣe trayodaśyāṃ somo",
+  "era": "VS",
+  "year": "1904",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "trayodaśī",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1847"
+ },
+ "place": {
+  "as_written": "kurmāṃcala",
+  "normalized": "Kumaon"
+ },
+ "purpose": "parārtha",
+ "notes": "The chronogram 'vedābhrāṅkabhūmi' represents veda (4), abhra (0), aṅka (9), bhūmi (1) = VS 1904. The cataloguer identifies Jagaddhara Paṃta as scribe, but the text states: '...jagddharapaṃtebhyo kurmāṃcalasthebhyo... svahastena saṃpūrṇīkṛtya... samarpitā' (dedicated/given to Jagaddhara Paṃta of Kurmācala, having been completed with one's own hand).",
+ "_meta": {
+  "reel": "B 273/16",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 767,
+  "out_tok": 487
+ }
+}

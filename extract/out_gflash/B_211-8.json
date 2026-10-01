@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhānudevena",
+   "name": "Bhānudeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhānudevena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke navādrirasabhūyukte māsy adhike tithau | aṣṭamyāṃ budhavāsare",
+  "era": "ŚS",
+  "year": "1679",
+  "month": "adhika māsa",
+  "paksa": "",
+  "tithi": "8",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1757"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīrāmārppaṇam astu",
+ "notes": "The chronogram navādrirasabhū gives 9-7-6-1 in reversed order: Śaka 1679. The specific intercalary month is not specified beyond 'māsy adhike'.",
+ "_meta": {
+  "reel": "B 211/8",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 815,
+  "out_tok": 816
+ }
+}

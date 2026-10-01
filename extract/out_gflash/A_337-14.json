@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayajitāmitra malladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śrī jayajitāmitra malladevasana thva pustaka dayakā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhāgimāna",
+   "name": "Bhāgimāna",
+   "roles": [
+    "governor"
+   ],
+   "titles": [
+    "paramāne"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgimāna paramāneya velasa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrī śrī jayajitāmitra malladevasana thva pustaka dayakā bhāgimāna paramāneya velasa"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 810 kārttika śudi 9",
+  "era": "NS",
+  "year": "810",
+  "month": "kārttika",
+  "paksa": "śudi",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1690"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "King Jayajitāmitra Malla of Bhaktapur had the manuscript made ('thva pustaka dayakā') during the tenure of the administrative officer (paramāne/pramāṇa) Bhāgimāna.",
+ "_meta": {
+  "reel": "A 337/14",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 711,
+  "out_tok": 1535
+ }
+}

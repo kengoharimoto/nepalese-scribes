@@ -1,0 +1,70 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "King: confidence lowered from high to medium. The name is corrupt, and Jagajjyotirmalla of Bhaktapur is usually dated to c. 1613/14–1637, after NS 730 (1609/10). Added a note on the conflict.",
+   "Weekday normalized to ādityavāra (Sunday).",
+   "ce_approx given as 1609–1610. Pauṣa of NS 730 falls in Dec 1609 or Jan 1610.",
+   "Notes expanded with the reign/date problem and the standard scribal formula."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jaggatrayeti malla deva",
+   "name": "Jagajjyotimalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī 2 jaggatrayeti malla deva vijayarāje",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gopāla siṃha",
+   "name": "Gopālasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gopāla siṃharīkhita(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrī 2 jaggatrayeti malla deva vijayarāje"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 730 paukhakṛṣṇa ekādaśyāyā tithau ādita(!)vāsare",
+  "era": "NS",
+  "year": "730",
+  "month": "Pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī",
+  "weekday": "ādityavāra (Sunday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1609–1610"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The king's name 'jaggatrayeti malla deva' is corrupt. The most likely reading is Jagajjyotirmalla of Bhaktapur, but his reign is usually dated c. 1613/14–1637, a few years after NS 730 (1609/10), when Trailokyamalla was still ruling Bhaktapur. Jagattraya ('three worlds') means the same as trailokya, so a garbled 'Trailokyamalla' cannot be ruled out. Either the date is misread, the colophon names Jagajjyotirmalla while he was a co-ruler or crown prince, or the name stands for another king. 'jatra(!)ditvā(!) tatra rīkhita(!) mama ṣo(!)na diyate(!)' is the standard scribal formula 'yādṛśaṃ pustakaṃ dṛṣṭvā tādṛśaṃ likhitaṃ mayā / mama doṣo na dīyate'. 'riṅgaṃ(!)purāṇe' stands for Liṅgapurāṇe. 'siṃha' is kept as part of the scribe's name.",
+ "_meta": {
+  "reel": "A 1030/24",
+  "model": "opus",
+  "cost_usd": 0.084758,
+  "secs": 19.4
+ }
+}

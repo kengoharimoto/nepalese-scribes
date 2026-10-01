@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kā śrīsūpaṭādityena",
+   "name": "Sūpaṭāditya",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ kā śrīsūpaṭādityeneti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śakanṛpater atītābdāḥ | 1189 phālgunavadi 12 gurau",
+  "era": "ŚS",
+  "year": "1189",
+  "month": "phālguna",
+  "paksa": "vadi",
+  "tithi": "12",
+  "weekday": "gurau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1268"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The abbreviation 'kā' before the scribe's name stands for kāyastha.",
+ "_meta": {
+  "reel": "A 48/10",
+  "model": "gemini-flash-latest",
+  "secs": 3.0,
+  "in_tok": 686,
+  "out_tok": 706
+ }
+}

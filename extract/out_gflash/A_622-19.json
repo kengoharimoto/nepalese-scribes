@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrībhūpatīndramallade[[va]]sa",
+   "name": "Bhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrībhūpatīndramallade[[va]]sa (2) khaḍgasiddhirastuḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "khaḍgasiddhirastu",
+ "notes": "No date, place, or scribe is mentioned in the quoted colophon. The king Bhūpatīndramalladeva of Bhaktapur is blessed with the wish for khaḍgasiddhi.",
+ "_meta": {
+  "reel": "A 622/19",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 721,
+  "out_tok": 747
+ }
+}

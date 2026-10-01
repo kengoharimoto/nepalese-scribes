@@ -1,0 +1,90 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayathitīrā〇jamaladevasya",
+   "name": "Jayasthitirājamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rāja",
+    "deva"
+   ],
+   "affiliation": "",
+   "residence": "Bhaktagrāma",
+   "evidence": "śrīśrījayathitīrā〇jamaladevasya vijayarājo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kramācārjya",
+   "name": "Karmācārya",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmācārya"
+   ],
+   "affiliation": "Bhogeśvarakuṭumba",
+   "residence": "",
+   "evidence": "śrībhogeśvarakuṭuṃbajakramācārjyaliṣitā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "〈〈bhāju〉〉 jogarāmabhāsya",
+   "name": "Jogarāma",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "bhāju",
+    "bhāro"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitā 〈〈bhāju〉〉 jogarāmabhāsya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "śrībhogeśvarakuṭuṃbajakramācārjyaliṣitā 〈〈bhāju〉〉 jogarāmabhāsya"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīśrījayathitīrā〇jamaladevasya vijayarājo, śrībhogeśvarakuṭuṃbajakramācārjyaliṣitā"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 514 durāṣāḍhamā[[se]] śuklapaṣe, pañcamīya, khaṣṭyāyā tithau, parīghajoge, śa〇nyaścaravāsare",
+  "era": "NS",
+  "year": "514",
+  "month": "durāṣāḍha",
+  "paksa": "śukla",
+  "tithi": "5/6",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "parīghayoga",
+  "ce_approx": "1394"
+ },
+ "place": {
+  "as_written": "śrīśrī bhaktagrāme",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "The scribe is identified only by his lineage/caste title as 'kramācārjya' born in the Bhogeśvarakuṭumba (likely connected to the Bhogeśvara shrine in Bhaktapur). 'durāṣāḍha' denotes dvir-āṣāḍha (intercalary Āṣāḍha). 'bhā' in 'jogarāmabhāsya' is an abbreviation for the Newar title bhāro.",
+ "_meta": {
+  "reel": "A 40/19",
+  "model": "gemini-flash-latest",
+  "secs": 10.1,
+  "in_tok": 868,
+  "out_tok": 2548
+ }
+}

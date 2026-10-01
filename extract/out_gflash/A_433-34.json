@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bṛhaspati",
+   "name": "Bṛhaspati",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bṛhaspatikṛtaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke1699 māse3 tithau12 vāre3",
+  "era": "ŚS",
+  "year": "1699",
+  "month": "3",
+  "paksa": "",
+  "tithi": "12",
+  "weekday": "3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1777"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 433/34",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 676,
+  "out_tok": 876
+ }
+}

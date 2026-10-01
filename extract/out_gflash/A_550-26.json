@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mannūrāmeṇa",
+   "name": "Mannūrāma",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mannūrāmeṇa dhīmatā arthavatsūtravākyārtho nirṇīto yaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1888 miti mārgaśirase kṛṣṇapakṣe dvitīyāyāṃ caṃdravāsare",
+  "era": "VS",
+  "year": "1888",
+  "month": "mārgaśirasa",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvitīyā",
+  "weekday": "caṃdravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1831"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Mannūrāma is identified as the author/composer of the work Arthavatsūtravākyārtha based on the concluding verse: 'smāraṃ smāraṃ guror vāco mannūrāmeṇa dhīmatā arthavatsūtravākyārtho nirṇīto yaṃ yathāmati'.",
+ "_meta": {
+  "reel": "A 550/26",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 781,
+  "out_tok": 836
+ }
+}

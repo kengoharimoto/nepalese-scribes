@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭa śrīlakṣmaṇācārya",
+   "name": "Lakṣmaṇācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa",
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭa śrīlakṣmaṇācāryaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "sāla saṃvat 1860 phālguṇavadī 1 ravivāra",
+  "era": "VS",
+  "year": "1860",
+  "month": "phālguṇa",
+  "paksa": "vadī",
+  "tithi": "1",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1804"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 404/3",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 718,
+  "out_tok": 935
+ }
+}

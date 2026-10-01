@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1954 sāla(!) mitiphālguṇavadi 5 roja 6 śubham saṃvat 956 mitiśrāvaṇamāse kṛṣṇapakṣa astamiyā(!) tithau rohiṇīnakṣatre vayoge(!) śaniścaravāsare siṃharāśigate śavitare(!) vṛṣarāśigate candramasi stu(!)",
+  "era": "VS",
+  "year": "1954",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "roja 6",
+  "nakshatra_yoga": "rohiṇī",
+  "ce_approx": "1898"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Two dates are recorded in the colophon: the first is VS 1954 Phālguna vadi 5 roja 6 (c. 1898 CE), likely the copying date of this Devanagari manuscript; the second is NS 956 Śrāvaṇa kṛṣṇa 8 Śaniścaravāsara (c. 1836 CE), presumably copied from the exemplar. The corrupt verse reading '†yaṃ hīśvarācārya†purvvam idāṇi prakāsitaṃ' may obscure an editorial note or reference to an ācārya, but no specific human scribe, patron, or commissioner is clearly named.",
+ "_meta": {
+  "reel": "B 101/20",
+  "model": "gemini-flash-latest",
+  "secs": 27.4,
+  "in_tok": 849,
+  "out_tok": 6242
+ }
+}

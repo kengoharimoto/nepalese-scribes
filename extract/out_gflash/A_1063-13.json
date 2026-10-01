@@ -1,0 +1,78 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nṛsiṃhadaivajñasya",
+   "name": "Nṛsiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "sakalagaṇakasārvabhauma",
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsakala[[gaṇa]]kasārvabhumaśrīmannṛsiṃhadaivajñasya sutena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "raṃganāthena",
+   "name": "Raṅganātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "raṃganāthena kṛtaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "goviṃdena",
+   "name": "Govinda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitam idaṃ goviṃdena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīsakala[[gaṇa]]kasārvabhumaśrīmannṛsiṃhadaivajñasya sutena"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1708 samaye bhādrapadī vadī āmāvāsyāyām",
+  "era": "VS",
+  "year": "1708",
+  "month": "bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "amāvāsyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1651"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The astronomer Raṅganātha (son of Nṛsiṃha Daivajña) authored the work refuting Munīśvara's Grahabhaṅgī.",
+ "_meta": {
+  "reel": "A 1063/13",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 811,
+  "out_tok": 1555
+ }
+}

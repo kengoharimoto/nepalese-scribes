@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmaddharivyāsadevaju",
+   "name": "Harivyāsadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahādivyamahārājeśvarapravara",
+    "paramahaṃsavamśācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmaddharivyāsadevaju kṛtā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrībhaṭa",
+   "name": "Bhaṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhaṭakathita",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1940",
+  "era": "VS",
+  "year": "1940",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1883"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both named individuals are authors of works within the Nimbārka sampradāya collection: Harivyāsadeva (author of the Mahāvāṇī) and Śrībhaṭṭa / Bhaṭa (author of the Yugalaśataka). No scribe or commissioner is mentioned.",
+ "_meta": {
+  "reel": "B 286/30",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 768,
+  "out_tok": 1475
+ }
+}

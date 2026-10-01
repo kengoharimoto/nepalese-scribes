@@ -1,0 +1,78 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmagovindatīrtha",
+   "name": "Rāmagovindatīrtha",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmagovindatīrthaśiṣya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nārāyaṇatīrtha",
+   "name": "Nārāyaṇatīrtha",
+   "roles": [
+    "author",
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nārāyaṇatīrthakṛtā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "padmanidhisudhīvaraḥ",
+   "name": "Padmanidhi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sudhīvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhivān (!) (10) padmanidhisudhīvaraḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "rāmagovindatīrthaśiṣya"
+  }
+ ],
+ "date": {
+  "as_written": "manvakendumita varṣaśrāvaṇe śuklavāṇa ravisaṃjñavāsare",
+  "era": "unspecified",
+  "year": "manvakendumita",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "5 (vāṇa)",
+  "weekday": "ravisañjña (Sunday)",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'manvakendumita' likely represents a year (possibly manu=14, aṅka=9, indu=1 -> VS 1914 / 1857 CE, or similar, depending on resolution). The era is not explicitly stated.",
+ "_meta": {
+  "reel": "A 1332/6",
+  "model": "gemini-flash-latest",
+  "secs": 6.8,
+  "in_tok": 792,
+  "out_tok": 1733
+ }
+}

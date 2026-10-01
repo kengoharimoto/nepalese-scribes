@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācārya śrījagaḍānandaneti",
+   "name": "Jagadānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekharyad vajrācārya śrījagaḍānandaneti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "lekharyad is a corrupt form for lekhita/likhita/lekhaka. The name is written with retroflex ḍ (jagaḍānanda).",
+ "_meta": {
+  "reel": "B 279/41",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 665,
+  "out_tok": 506
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhūpatīndramallo / bhūpatīndraḥ",
+   "name": "Bhūpatīndramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "nṛpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī 2 bhūpatīndramallo jayati ... proccaiḥ prālekhayet tāṃ nayanakulamaṇiḥ sādaraṃ bhūpatīndraḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepālaśāke rasaśaśibhujagaiḥ sanvite(!) pauṣamāse , yoge kṛṣṇadaśamyāṃ dinakaradivase maitrabhe ca dhruvākhye",
+  "era": "NS",
+  "year": "816",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī",
+  "weekday": "dinakaradivasa",
+  "nakshatra_yoga": "maitrabhe ca dhruvākhye yoge",
+  "ce_approx": "1696"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "sveṣṭeśyāḥ prītikarmā",
+ "notes": "Bhūpatīndramalla, King of Bhaktapur, is stated to have commissioned the manuscript (prālekhayet). The year is given via chronogram: rasa (6), śaśi (1), bhujaga (8) = NS 816.",
+ "_meta": {
+  "reel": "B 161/7",
+  "model": "gemini-flash-latest",
+  "secs": 8.5,
+  "in_tok": 804,
+  "out_tok": 1741
+ }
+}

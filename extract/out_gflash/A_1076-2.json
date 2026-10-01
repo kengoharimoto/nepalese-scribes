@@ -1,0 +1,94 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmagupto",
+   "name": "Rāmagupta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "so yaṃ śrīrāmagupto likhitadṛḍhamatiḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jagajjyotimalladeva",
+   "name": "Jagajjyotirmalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājādhirāja-śrīśrīmajjagajjyotimalladevavijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "mahāmātraśrīrājasiṃhadevaḥ",
+   "name": "Rājasiṃhadeva",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "mahāmātra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmātraśrīrājasiṃhadevaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "mahāmātraśrīnāthasiṃhadeva",
+   "name": "Nāthasiṃhadeva",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "mahāmātra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmātraśrīnāthasiṃhadeva",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "jagajjyotimalladevavijayarājye ... likhitaṃ saṃpūrṇṇaṃ kṛtam"
+  }
+ ],
+ "date": {
+  "as_written": "śrīmannepālavarṣe viśiṣayugaśare phālguṇe māsakṛṣṇe pañcamyāḥ ... gurusvadine vajrayoge",
+  "era": "NS",
+  "year": "viśiṣayugaśare",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "vajra",
+  "ce_approx": "1625"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'viśiṣayugaśare' was interpreted by the cataloguer as NS 545, but King Jagajjyotirmalla reigned in Bhaktapur NS 734–757 (ca. 1614–1637 CE). 'viśiṣa' is likely a corruption of viśikha (5) or ṛṣi (7), yielding NS 745 (ca. 1625 CE).",
+ "_meta": {
+  "reel": "A 1076/2",
+  "model": "gemini-flash-latest",
+  "secs": 9.5,
+  "in_tok": 944,
+  "out_tok": 2371
+ }
+}

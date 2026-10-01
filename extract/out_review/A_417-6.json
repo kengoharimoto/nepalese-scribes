@@ -1,0 +1,91 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "The abbreviation jyoºº belongs to the dative śrīrāmāya, not to Kṛṣṇa. Removed 'jyotiṣī' from Kṛṣṇa's titles; Kṛṣṇa keeps only śāstrī.",
+   "Added p2 Rāma (śrīrāmāya jyoºº) as a probable human recipient (beneficiary, title jyotiṣī, low confidence) instead of treating him only as the deity in the notes. Renumbered Kṛṣṇa as p3.",
+   "Lowered Kṛṣṇa's scribe confidence to low, because no verb of writing is given.",
+   "Added a low-confidence relation: Kṛṣṇa wrote_for Rāma.",
+   "Added purpose and notes on corrupt words (pati(9)ṣṭhaś for pratiṣṭhaḥ, cakrāra for cakāra) and on the alternative invocation reading.",
+   "Weekday given as 'Sunday (ravau)'."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mallārināmā",
+   "name": "Mallāri",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mallārināmā gaṇite pati(9)ṣṭhaś (!) cakrāra parvadvayasādhanaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīrāmāya jyoºº",
+   "name": "Rāma",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [
+    "jyotiṣī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmāya jyoºº",
+   "confidence": "low"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīkṛṣṇa śāºº",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śāstrī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkṛṣṇa śāºº",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "śrīrāmāya jyoºº śrīkṛṣṇa śāºº"
+  }
+ ],
+ "date": {
+  "as_written": "śake 1657 mārgaśīrṣa śuddha 6 ravau",
+  "era": "ŚS",
+  "year": "1657",
+  "month": "mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "6",
+  "weekday": "Sunday (ravau)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1735"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "possibly for Rāma jyotiṣī (dative śrīrāmāya)",
+ "notes": "The verse names Mallāri as the author: 'pati(9)ṣṭhaś (!)' should read pratiṣṭhaḥ and 'cakrāra' should read cakāra. The verse also describes him as daivajñavara, but the referent of that phrase is uncertain. The final line 'śrīrāmāya jyoºº śrīkṛṣṇa śāºº' is abbreviated and its meaning is unclear. Most likely reading: given to Rāma Jyotiṣī (dative) by Kṛṣṇa Śāstrī, the probable scribe. Alternatively, śrīrāmāya is an invocation to the deity Rāma, and the two abbreviated names are owners or scribes. Because of this, all roles here have low confidence. The date is Śaka 1657, Mārgaśīrṣa śukla 6, a Sunday, which corresponds to about November–December 1735 CE. The weekday has not been verified. The colophon gives no place, and the script is Devanagari, so the manuscript may not be of Nepalese origin.",
+ "_meta": {
+  "reel": "A 417/6",
+  "model": "opus",
+  "cost_usd": 0.09097,
+  "secs": 21.9
+ }
+}

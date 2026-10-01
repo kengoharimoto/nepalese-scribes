@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pāṭhakopanāma rāmabhaṭṭena",
+   "name": "Rāmabhaṭṭa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "pāṭhaka",
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhetpāṭhakopanāma rāmabhaṭṭena dhīmatā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vaiśāṣasyāsitepakṣa paṃcamyāṃ maṃda vāsare",
+  "era": "none",
+  "year": "",
+  "month": "vaiśāṣa",
+  "paksa": "asitepakṣa",
+  "tithi": "paṃcamyāṃ",
+  "weekday": "maṃda vāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No year is specified in the colophon.",
+ "_meta": {
+  "reel": "B 354/12",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 722,
+  "out_tok": 763
+ }
+}

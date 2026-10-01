@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vṛhasyapati",
+   "name": "Bṛhaspati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vṛhasyapati (!) || kaṣṭasuṃ likhitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat || 1689 || liṣyataṃ kārttika vadi paṃcami (!) || guruvāre",
+  "era": "VS",
+  "year": "1689",
+  "month": "kārttika",
+  "paksa": "vadi",
+  "tithi": "paṃcamī",
+  "weekday": "guruvāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1632"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The phrase 'kaṣṭasuṃ likhitaṃ' is likely a corruption of 'kaṣṭena likhitaṃ'. 'vṛhasyapati' is treated by the cataloguer as the scribe's name Bṛhaspati.",
+ "_meta": {
+  "reel": "A 1029/16",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 742,
+  "out_tok": 1105
+ }
+}

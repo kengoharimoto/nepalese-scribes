@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: the name is incomplete. Only '⁅de⁆vācārya' survives after a lacuna, so the honest stem is a broken name '…deva' with 'ācārya' as a title. Listing 'Devācārya' as the name and also 'ācārya' as a title counted the title twice. Confidence lowered to low.",
+   "date.paksa: the colophon gives no pakṣa. Śukla is only inferred from pūrṇimā, so the field is now empty and the inference is in notes.",
+   "date.month: kept as written. The reading 'intercalary Āṣāḍha' was guesswork; notes now give the Newari month name dilā (= Āṣāḍha) as a possible reading instead.",
+   "purpose: added the merit wish for the yajamāna and rebirth in Sukhāvatī. Added the note that the book was placed in the house (gṛhasthāpitā)."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "/// ⁅de⁆vācāryeṇa",
+   "name": "…deva",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "⁅de⁆vācāryeṇa svārthaputrapautrādiśikṣāya (!) hetunārthaṃ likhitaṃ kṛtaṃ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 813 dita rāthoke pūrṇṇamāśi kunhu",
+  "era": "NS",
+  "year": "813",
+  "month": "dita rāthoke (unclear)",
+  "paksa": "",
+  "tithi": "pūrṇimā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1693"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "Written for the instruction of the scribe himself and of his sons, grandsons and later descendants (svārthaputrapautrādiśikṣā). The merit is wished for the yajamāna: long life, health, people, wealth, a house and prosperity, and rebirth in Sukhāvatī.",
+ "notes": "Scribe's name: a lacuna (///) comes before '⁅de⁆vācāryeṇa', so the full name is lost. It probably ended in -deva and was followed by the title ācārya, possibly vajrācārya. Month: 'dita rāthoke' is unclear. It may be a corruption involving the Newari month dilā (= Āṣāḍha), but this is uncertain. Pakṣa: pūrṇimā implies śuklapakṣa, but the colophon does not say so. 'jajamānasya' (= yajamāna) refers to an unnamed patron, probably the scribe himself or his household. 'gṛhasthāpitā bhavanti' says the book was installed in the house. The date NS 813 matches the catalogue (NS 813 = c. 1693 CE).",
+ "_meta": {
+  "reel": "A 923/4",
+  "model": "opus",
+  "cost_usd": 0.082586,
+  "secs": 18.3
+ }
+}

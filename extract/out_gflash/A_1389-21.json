@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bālakṛṣṇaśarmaṇā arjyālapadavācyena",
+   "name": "Bālakṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman",
+    "arjyāla"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ bālakṛṣṇaśarmaṇā arjyālapadavācyena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1915 caitraśukla 2 vāsare 3",
+  "era": "VS",
+  "year": "1915",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "2",
+  "weekday": "vāsare 3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1858"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1389/21",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 744,
+  "out_tok": 1084
+ }
+}

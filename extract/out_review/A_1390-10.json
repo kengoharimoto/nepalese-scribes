@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe's name re-read: 'pada (!) nāmabhidho' is most likely a corruption of 'padmanābhābhidho' ('named Padmanābha'); name set to Padmanābha (medium confidence) instead of 'Pada'.",
+   "Gotra corrected to Kauṇḍinya (the colophon has 'kauḍinya') and recorded as a gotra affiliation.",
+   "Title normalized: 'dvijendo' is read as dvijendra, an epithet for a brahmin, not an office.",
+   "Purpose rendered as copying for the study of his son(s) ('ātmajādeḥ pāṭhāya').",
+   "Date: the month is solar (the sun in Meṣa). The chronogram is still unresolved and is not converted to CE. Notes explain the ambiguous segmentation of 'pāṭhāyamedhābde'."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pada (!) nāmabhidho",
+   "name": "Padmanābha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvijendra"
+   ],
+   "affiliation": "Kauṇḍinya gotra (kauḍinya vaṃśodbhava)",
+   "residence": "Nepal (nepāladeśe)",
+   "evidence": "kauḍinya vaṃśodbhava pada (!) nāmabhidho dvijendo likhyad",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "pāṭhāyamedhābde mite (!) śakābde nepāladeśe meṣarāṣisthite ’rke",
+  "era": "ŚS",
+  "year": "",
+  "month": "Meṣa (solar; sun in Aries)",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "nepāladeśe",
+  "normalized": "Nepal"
+ },
+ "purpose": "for the study of his son(s) etc. (ātmajādeḥ pāṭhāya)",
+ "notes": "The colophon is a corrupt metrical verse, roughly: kauṇḍinyavaṃśodbhava-padmanābhābhidho dvijendro 'likhad ātmajādeḥ pāṭhāya ... śakābde nepāladeśe meṣarāśisthite 'rke. 'pada (!) nāmabhidho' is taken as padmanābhābhidho, but this reading is conjectural. The Śaka year is given as a word-numeral chronogram that is corrupt: 'pāṭhāyamedhābde mite (!)' is ambiguous. It could be pāṭhāya + medhā-abde, or it could hide number words (e.g. yama = 2), so no year is given and ce_approx is left blank. 'Meṣarāśisthite 'rke' means the sun was in Aries (solar Vaiśākha). The son (ātmaja) for whom the copy was made is not named.",
+ "_meta": {
+  "reel": "A 1390/10",
+  "model": "opus",
+  "cost_usd": 0.084002,
+  "secs": 20.3
+ }
+}

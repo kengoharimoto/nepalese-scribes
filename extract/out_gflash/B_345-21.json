@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gopīnāthaśarmaṇā",
+   "name": "Gopīnātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gopīnāthaśarmaṇā likhitam idaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1870 miti pauṣakṛṣṇa navamyāṃ gurau",
+  "era": "VS",
+  "year": "1870",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "navamī",
+  "weekday": "gurau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1813"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 345/21",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 752,
+  "out_tok": 674
+ }
+}

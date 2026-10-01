@@ -1,0 +1,78 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 (Somadatta): confidence lowered to medium, because 'jota' could be a title (jośī / jyotiṣa) or part of the name (e.g. Jyotisomadatta).",
+   "p2 residence written as 'yoyakāgraha' (from yoyakāgrahādhivāsinā); added a note that 'agraha' may stand for agrahāra.",
+   "Place: added a note that the colophon gives Yoyakāgraha as the scribe's residence, not explicitly as the place of copying.",
+   "Date checked: NS 416 + 880 = 1296 CE. Caitra falls in spring 1296, within Anantamalla's reign (c. 1274–1310). No change."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīanantamalladevasya",
+   "name": "Anantamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka",
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīanantamalladevasya vijarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jotasomadattasya",
+   "name": "Somadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña",
+    "jota"
+   ],
+   "affiliation": "",
+   "residence": "Yoyakāgraha",
+   "evidence": "yoyakāgrahādhivāsinā || devajña| jotasomadattasya likhitam",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīśrīanantamalladevasya vijarājye|| yoyakāgrahādhivāsinā || devajña| jotasomadattasya likhitam"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 416 caitraśukladittīyāyāṃ titho",
+  "era": "NS",
+  "year": "416",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1296"
+ },
+ "place": {
+  "as_written": "yoyakāgraha",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'devajña' is a corrupt form of daivajña. 'jota' is unclear. It may be a vernacular title (jośī / jyotiṣa, which would fit daivajña) or part of the name (Jyotisomadatta?). The catalogue gives the name as Somadatta. The 'yoyakāgrahādhivāsinā' (instrumental) does not agree grammatically with 'somadattasya' (genitive), but both clearly refer to the scribe. Yoyakāgraha is given as his residence ('agraha' possibly = agrahāra). It is not stated as the place of copying; the catalogue's 'Yoyakāgṛha' is taken from this phrase. 'paramabhaṭṭārika' is read as paramabhaṭṭāraka. The colophon also states the text length as 3500 (ślokas) and the chapter as 25th paṭala. NS 416 = 1296 CE, which fits Anantamalla's reign.",
+ "_meta": {
+  "reel": "A 40/15",
+  "model": "opus",
+  "cost_usd": 0.085082,
+  "secs": 18.6
+ }
+}

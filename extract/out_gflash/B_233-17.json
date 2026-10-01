@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgaṇapatiśarmmaṇā",
+   "name": "Gaṇapatiśarman",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgaṇapatiśarmmaṇā viracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 793 māghakṛṣṇadvitīyā śukavārakunhudhunakā dinajuro",
+  "era": "NS",
+  "year": "793",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvitīyā",
+  "weekday": "śukavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1673"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon text notes three scribes ('lekhakānāṃ trayāṇāṃ') in a benedictory passage, but specific scribe names are lost or unclear in the lacuna.",
+ "_meta": {
+  "reel": "B 233/17",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 724,
+  "out_tok": 985
+ }
+}

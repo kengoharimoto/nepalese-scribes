@@ -1,0 +1,35 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Normalized date fields: tithi 'pūrṇimā' (as written pūrnnamāsyā), weekday 'budha', nakshatra_yoga 'Svāti nakṣatra; Vyatīpāta yoga'.",
+   "Confirmed: no persons named; era NS 538 = c. 1418 CE (NS+880).",
+   "Notes expanded (text title chāyāśāstra, corrupt formulae)."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 538 vaiśākhaśuklapūrnnamāsyā (!) titho (!) | svātinakṣatre | vyatipātajoge (!) | budhavāsare",
+  "era": "NS",
+  "year": "538",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "budha (Wednesday)",
+  "nakshatra_yoga": "Svāti nakṣatra; Vyatīpāta yoga",
+  "ce_approx": "1418"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The colophon names no persons: no scribe, commissioner or king. The era is not stated but is taken to be Nepāla Saṃvat, since the script is Newari and the catalogue gives NS 538. 538 + 880 gives c. 1418 CE (Vaiśākha pūrṇimā, so about April/May 1418). I have not verified the weekday, nakṣatra or yoga. 'yogacakrahorāṣṭakaṃ cchāyasāstra' should be read as Yogacakra-Horāṣṭaka, a chāyāśāstra. 'tadā dinalitasiddhaṃ' is probably a corruption of 'tadā dine likhitaṃ siddham' ('copying completed on that day'). 'sūdhaṃ vā masuvā kṣemasi' is a corrupt form of the usual 'śuddhaṃ vā aśuddhaṃ vā kṣantavyam' formula. It is not a personal name.",
+ "_meta": {
+  "reel": "A 30/13",
+  "model": "opus",
+  "cost_usd": 0.06805,
+  "secs": 12.4
+ }
+}

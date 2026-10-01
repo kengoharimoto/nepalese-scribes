@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāśināthaśarmaṇaḥ",
+   "name": "Kāśinātha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāśināthaśarmaṇaḥ kaneṣṭha putra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rudralālaśarmaṇaḥ",
+   "name": "Rudralāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "kāntipuranagare śrīpāśupatakṣetre śrīkaṃkeśvarī samipe mukum hel ṭole",
+   "evidence": "likhitamidaṃ pustakam kāśināthaśarmaṇaḥ kaneṣṭha putra rudralālaśarmaṇaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "kāśināthaśarmaṇaḥ kaneṣṭha putra rudralālaśarmaṇaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1767 samvat 1901 māse 12 pakṣe 1 tithau 11 vāre 5 nakṣatre 14",
+  "era": "ŚS",
+  "year": "1767 (ŚS) / 1901 (VS)",
+  "month": "12",
+  "paksa": "1",
+  "tithi": "11",
+  "weekday": "5",
+  "nakshatra_yoga": "14",
+  "ce_approx": "1845"
+ },
+ "place": {
+  "as_written": "kāntipuranagare śrīpāśupatakṣetre śrīkaṃkeśvarī samipe mukum hel ṭole",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "Both Śāka 1767 and Vikrama Saṃvat 1901 are mentioned. Genitive rudralālaśarmaṇaḥ is used with likhitamidaṃ pustakam.",
+ "_meta": {
+  "reel": "A 414/26",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 835,
+  "out_tok": 1553
+ }
+}

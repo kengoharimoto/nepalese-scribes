@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Name normalised to Gadādhara (Gajādhara is almost certainly a mistake for the common name Gadādhara; ja/da confusion). Confidence lowered to medium.",
+   "Title changed from 'dvijanman' to 'dvija (brahmin)'.",
+   "Place normalised to the village of Jñādi (jñādigrāmābhidhāne). Residence set to the same, but this is uncertain.",
+   "Purpose rephrased.",
+   "Notes expanded: the corrupt passage and the lacuna."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgajādharadvijanmanā",
+   "name": "Gadādhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "Jñādigrāma",
+   "evidence": "likhitaṃ ... jñādigrāmābhidhānaṃ śrīgajādharadvijanmanā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "jñādigrāmābhidhānaṃ",
+  "normalized": ""
+ },
+ "purpose": "For Viṣṇu's satisfaction (viṣṇututyartham = tuṣṭyartham) and to destroy bad thinking (kubuddhināśāya).",
+ "notes": "The colophon is a corrupt verse. It probably reads: śrīviṣṇutuṣṭyartham idaṃ purāṇaṃ kubuddhināśāya ... likhitaṃ phaladaṃ puṃsāṃ jñānamuktyabhivāñchatām / jñādigrāmābhidhāne śrīgadādharadvijanmanā. 'Gajādhara' is most likely Gadādhara. The as-written form is kept. 'śubhaphaṇabhṛmithautra' follows the lacuna (///) and is corrupt. It contains phaṇabhṛt ('serpent', which can stand for 8 in a chronogram) and may hide a date such as a year name or a chronogram. However, no reading can be made with confidence, so no date is recorded. 'gṛhavrata nāma' is unclear. It could be a corrupt epithet, or part of the place or person description. It is not treated as a person. The place-name Jñādigrāma is not identified.",
+ "_meta": {
+  "reel": "A 1386/1",
+  "model": "opus",
+  "cost_usd": 0.074446,
+  "secs": 15.9
+ }
+}

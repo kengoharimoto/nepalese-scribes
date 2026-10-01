@@ -1,0 +1,72 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kavi kālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkavi kālidāsakṛtau ṛtusaṃhārakāvye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "maṇirāma śarmaṇā",
+   "name": "Maṇirāma",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "bhāradvāja",
+   "residence": "",
+   "evidence": "bhāradvāja maṇirāma viracitāyā ṛtusaṃhāra caṃdrikābhiṣāyāṃ ṭīkāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "tejānaṃdena",
+   "name": "Tejānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ tejānaṃdeneti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vedacaṃdravasubūmi vatsare māgha(sūrya)sita paṃcamītithau",
+  "era": "VS",
+  "year": "1814",
+  "month": "māgha",
+  "paksa": "sita",
+  "tithi": "paṃcamī",
+  "weekday": "sūrya",
+  "nakshatra_yoga": "",
+  "ce_approx": "1757"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Year given in bhūtasaṃkhyā: veda (4), candra (1), vasu (8), bhūmi (1) = 1814 VS.",
+ "_meta": {
+  "reel": "B 310/15",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 839,
+  "out_tok": 1363
+ }
+}

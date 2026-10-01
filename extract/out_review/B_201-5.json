@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Persons, roles, date fields and ce_approx kept as in the first reading.",
+   "Notes expanded: the chronogram 'dyocāraṇavikalite' is corrupt and could not be checked against 906; 'śuddhanepālaśāke' means the era is NS, so the catalogue's 'ŚS ?' is wrong; 'lekhayāmāsa kena' is odd; Cakrarāja might be the scribe after all."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "cakrarājaḥ",
+   "name": "Cakrarāja",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "dharaṇivibudha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dharaṇi,vibudhaś cakrarājaḥ sudhīraḥ ... lekhayāmāsa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "kāle dyocāraṇavikalite, śuddhanepālaśāke, māghe māse śaśadharadine ... śrīpañcamyāṃ ... śukle pakṣe",
+  "era": "NS",
+  "year": "906",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "5 (śrīpañcamī)",
+  "weekday": "Monday (śaśadharadine)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1786"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The year is written as a chronogram, 'kāle dyocāraṇavikalite', which is corrupt as quoted. The only clear element is dyo/dyu (sky = 0). I could not reconstruct 906 from it, so the year rests on the catalogue. 'śuddhanepālaśāke' means the era is Nepāla Saṃvat; the catalogue's 'ŚS ?' comes from the word 'śāke' and is wrong. NS 906 Māgha falls in Jan/Feb 1786 CE. I did not verify the weekday (Monday) against the tithi. The catalogue lists Cakrarāja as scribe, but 'lekhayāmāsa' is causative, so he is taken as commissioner. Newar verse colophons sometimes use lekhayāmāsa loosely, and the trailing 'kena' is odd (perhaps a corruption), so he may in fact be the scribe. 'dharaṇivibudha' (= bhūsura) marks him as a Brahmin; 'sudhīraḥ' is a plain epithet.",
+ "_meta": {
+  "reel": "B 201/5",
+  "model": "opus",
+  "cost_usd": 0.080982,
+  "secs": 18.4
+ }
+}

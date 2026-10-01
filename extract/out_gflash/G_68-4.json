@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "yogānandena",
+   "name": "Yogānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ mudāḥ || yogānandena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "amātyamānasiṃhasya",
+   "name": "Mānasiṃha",
+   "roles": [
+    "commissioner",
+    "beneficiary"
+   ],
+   "titles": [
+    "amātya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "amātyamānasiṃhasya prītyarthaṃ likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "amātyamānasiṃhasya prītyarthaṃ likhitaṃ mudāḥ || yogānandena"
+  }
+ ],
+ "date": {
+  "as_written": "vasuyugmagajasaṃkhyagate nepālavatsare sahāmāse tu kṛṣṇāyāṃ daśamyāṃ bhānuvāsare",
+  "era": "NS",
+  "year": "888",
+  "month": "sahā",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī",
+  "weekday": "bhānuvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1767"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "amātyamānasiṃhasya prītyarthaṃ",
+ "notes": "vasu-yugma-gaja chronogram corresponds to 888 NS (pair of vasus + gaja). Sahā refers to Sahas/Mārgaśīrṣa.",
+ "_meta": {
+  "reel": "G 68/4",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 742,
+  "out_tok": 1487
+ }
+}

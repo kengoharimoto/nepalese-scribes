@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Kālidāsa: removed 'owner' (the colophon never calls the book his); kept 'commissioner' for saṃcaya yāṅā / saṃcitam, lowered confidence to medium because saṃcita could also mean he copied or compiled it himself, which would make him the scribe as the catalogue says",
+   "Shortened the evidence to the minimal substring",
+   "Notes: added the short-a spelling kālidasana, the probable reading layo for ra(!)yo, and that the merit is for Kālidāsa himself"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkālidasana / kālidāsena",
+   "name": "Kālidāsa",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pustaṃ, kālidāsena saṃcitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 758",
+  "era": "NS",
+  "year": "758",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1638"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for the pleasure of Bhavānī-Śaṅkara / Umeśa (śrī3bhavānīśaṃkaraprītina; umeśaprītaye); merit sought for Kālidāsa himself",
+ "notes": "The era isn't named, but 'saṃvat 758' with a Newari phrase (thvadaṃ ... yāṅā) is clearly Nepāla Saṃvat (NS 758 ≈ 1638 CE). The catalogue gives Kālidāsa as scribe. The colophon says he 'brought together / had made' the book (saṃcaya yāṅā, saṃcitam). This most likely means he had it made (commissioner), but he may also have copied it himself, so he could be the scribe too. 'kālidasana' has a short a (Newari ergative of Kālidāsa). 'ra(!)yo ʼstu' is probably meant to read 'layo ʼstu' ('may absorption into the two of them be at the end'), so the merit is for the commissioner himself.",
+ "_meta": {
+  "reel": "B 202/3",
+  "model": "opus",
+  "cost_usd": 0.073446,
+  "secs": 16.3
+ }
+}

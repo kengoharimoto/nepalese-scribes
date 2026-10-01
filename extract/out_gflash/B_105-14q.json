@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācāryya śrīhemā〇krana",
+   "name": "Hemākara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Tarumuramahāvihāra, Raraṃkṛtavihāra",
+   "residence": "sayava tola",
+   "evidence": "vajrācāryya śrīhemā〇krana likhyate",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 892 āśviṇakṛṣṇa tṛtīyā buddhavāra",
+  "era": "NS",
+  "year": "892",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "tṛtīyā",
+  "weekday": "buddhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1772"
+ },
+ "place": {
+  "as_written": "sayava tolake (tarumura)mahāvihārāvasthita raraṃkṛtavihārasya dakṣanadisagṛha",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name contains a lacuna/unclear character: 'śrīhemā〇krana', likely representing Hemākara.",
+ "_meta": {
+  "reel": "B 105/14q",
+  "model": "gemini-flash-latest",
+  "secs": 8.5,
+  "in_tok": 839,
+  "out_tok": 1933
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmacchaṃkarācārya",
+   "name": "Śaṅkara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmacchaṃkarācāryaviracitātmabodhaprakaraṇam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "goviṃnda(!)",
+   "name": "Govinda",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya",
+    "bhagavatpūjyapāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatparamahaṃsaparivrājakācāryagoviṃnda(!)bhagavatpūjyapādaśrīmacchaṃkarācārya",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rāmacaṃdra upāya",
+   "name": "Rāmacaṃdra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmacaṃdra upāya liṣitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "goviṃnda(!)bhagavatpūjyapādaśrīmacchaṃkarācārya"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsaṃvat 1846 mārgaśirṣavadi 2 roja 5",
+  "era": "VS",
+  "year": "1846",
+  "month": "mārgaśīrṣa",
+  "paksa": "vadi",
+  "tithi": "2",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1789"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's title upāya in 'rāmacaṃdra upāya' is likely an abbreviation or scribal error for upādhyāya (as given in the catalogue). In the text's attribution, Govindabhagavatpūjyapāda is traditionally the guru of Śaṅkarācārya, though 'śiṣya' is omitted in the compound.",
+ "_meta": {
+  "reel": "A 84/23",
+  "model": "gemini-flash-latest",
+  "secs": 9.9,
+  "in_tok": 774,
+  "out_tok": 2328
+ }
+}

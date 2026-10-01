@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vāsudevabhārona",
+   "name": "Vāsudeva",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "bhāro"
+   ],
+   "affiliation": "Kāśyapagotra",
+   "residence": "Ipalācchaṭola",
+   "evidence": "vāsudevabhārona ... duṃtā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 813 phālguṇakrṣṇacaturddaśi (!) utrabhadranakṣatre (!) aindrayoge śaniścalavāsare (!)",
+  "era": "NS",
+  "year": "813",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturdaśī",
+  "weekday": "śaniścalavāsare",
+  "nakshatra_yoga": "utrabhadranakṣatre (!) aindrayoge",
+  "ce_approx": "1693"
+ },
+ "place": {
+  "as_written": "ipalācchaṭola",
+  "normalized": ""
+ },
+ "purpose": "śrī3indrāyaṇīprītina śrī3paśupatiska (!) duṃtā (donated to Lord Paśupati for the pleasure of Indrāyaṇī)",
+ "notes": "Indrāyaṇī and Paśupati are deities and therefore excluded from persons.",
+ "_meta": {
+  "reel": "A 102/7",
+  "model": "gemini-flash-latest",
+  "secs": 6.2,
+  "in_tok": 800,
+  "out_tok": 1561
+ }
+}

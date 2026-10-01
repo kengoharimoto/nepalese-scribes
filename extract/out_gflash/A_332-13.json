@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "parśurāmo",
+   "name": "Parśurāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekho 'yaṃ parśurāmo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "devidāsa",
+   "name": "Devidāsa",
+   "roles": [
+    "commissioner",
+    "beneficiary"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vyākhyārthaṃ devidāsa dvijakulasumaṇeḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "vyākhyārthaṃ devidāsa dvijakulasumaṇeḥ ... lekho 'yaṃ parśurāmo"
+  }
+ ],
+ "date": {
+  "as_written": "śākābde siṃdhubājīdharaṇi ca dharayute, (!) kārttike kṛṣṇapakṣe, paṃcamyāṃ sādhyajoge, (!) ruruśira ca ravau",
+  "era": "ŚS",
+  "year": "siṃdhubājīdharaṇi ca dharayute",
+  "month": "kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "pañcamī",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "sādhyayoga, ruruśiras (mṛgaśiras)",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "girijālaye",
+  "normalized": ""
+ },
+ "purpose": "dharmahetoḥ; vyākhyārthaṃ Devidāsasya",
+ "notes": "The chronogram 'siṃdhubājīdharaṇi ca dharayute' is interpreted variously; the catalogue reads ŚS 1874 [NS 874], but chronogram values (siṃdhu = 4/7, vājī = 7, dharaṇi = 1, dharā = 1) do not straightforwardly yield 1874 without corruption. The manuscript was deposited in Girijālaya on the banks of the Vāgmatī.",
+ "_meta": {
+  "reel": "A 332/13",
+  "model": "gemini-flash-latest",
+  "secs": 13.4,
+  "in_tok": 864,
+  "out_tok": 3155
+ }
+}

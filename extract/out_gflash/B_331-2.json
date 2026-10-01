@@ -1,0 +1,82 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "harivaṃśapāṭhaka",
+   "name": "Harivaṃśa",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "pāṭhaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "harivaṃśapāṭhakaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mahāpaṃḍita gaṃgārāmapaṃtha",
+   "name": "Gaṃgārāma",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "mahāpaṇḍita",
+    "paṃtha"
+   ],
+   "affiliation": "",
+   "residence": "kurmāṃcaladeśe gaṃgolīdeśāṃtargata kuṃḍalatagrāma",
+   "evidence": "kuṃḍalatagrāmanivāsī mahāpaṃḍita gaṃgārāmapaṃthahastān maulvena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "jyotirviccharmaṇā",
+   "name": "Jyotirviccharman",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jyotirviccharmaṇā svaputrapautrādīnāṃ pāṭhārtham idaṃ jayalakṣmīṭīkāpustakaṃ gṛhītaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "other",
+   "to": "p2",
+   "evidence": "gaṃgārāmapaṃthahastān maulvena ... jyotirviccharmaṇā ... gṛhītaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1711 caitre kamṛya///",
+  "era": "ŚS",
+  "year": "1711",
+  "month": "caitre",
+  "paksa": "kamṛya///",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1789"
+ },
+ "place": {
+  "as_written": "kurmāṃcaladeśe gaṃgolīdeśāṃtargata kuṃḍalatagrāma",
+  "normalized": "Kumaon"
+ },
+ "purpose": "svaputrapautrādīnāṃ pāṭhārtham",
+ "notes": "The colophon records the purchase of the manuscript by an astrologer (name preceding jyotirviccharman is lost in a lacuna) from Mahāpaṇḍita Gaṅgārāma Pantha of Kundalata village in Gangoli, Kumaon (Kurmāñcala), for 4 1/2 Pharkāvāda coins.",
+ "_meta": {
+  "reel": "B 331/2",
+  "model": "gemini-flash-latest",
+  "secs": 11.2,
+  "in_tok": 857,
+  "out_tok": 2828
+ }
+}

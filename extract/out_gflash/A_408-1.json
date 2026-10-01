@@ -1,0 +1,60 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgaṇeśadaivajña-",
+   "name": "Gaṇeśa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgaṇeśadaivajñaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rāmadayāluśarmā",
+   "name": "Rāmadayālu",
+   "roles": [
+    "scribe",
+    "commissioner"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "alīlikhad rāmadayāluśarmā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śākaḥ",
+  "era": "ŚS",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The verb alīlikhat is causative ('caused to be written'), suggesting Rāmadayālu was the commissioner/patron, but scribes frequently used this form for themselves; the cataloguer records him as scribe. The date ends abruptly with 'śākaḥ' without numerals.",
+ "_meta": {
+  "reel": "A 408/1",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 786,
+  "out_tok": 1191
+ }
+}

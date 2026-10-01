@@ -1,0 +1,65 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Prītikara: confidence lowered to medium (name flagged (!) by cataloguer; prītikara/pṛthvīkara-type corruption possible); evidence shortened; noted that 'sūnunā' makes him the son of someone, probably the brahmin astrologer (vipra… jyotiṣī) named just before, who is unnamed and so not added as a person",
+   "Bhojadeva kept as author (Vidvajjanavallabha, which is the praśna text here); not the reigning king of this copy",
+   "Date: kept ŚS 1413 as quoted, but noted that the catalogue has ŚS 1513 and the second colophon has ŚS 1514. A 1413 → 1513 slip in the quotation is plausible, which would give c. 1591 CE. Month 10 counted from Caitra = Pauṣa; vāra 5 = Thursday",
+   "Notes expanded: possible ownership statement (jyotiṣī idaṃ pustakaṃ) and second dated colophon"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "priti(!)kareṇa",
+   "name": "Prītikara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sūnunā priti(!)kareṇa … likhitaṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmahārājabhojadeva",
+   "name": "Bhojadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahārājabhojadevaveracitāyā vidvijjana(!)va///",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1413 māse 10 vāre 5 tithu 7",
+  "era": "ŚS",
+  "year": "1413",
+  "month": "10 (Pauṣa, if counted from Caitra)",
+  "paksa": "",
+  "tithi": "7",
+  "weekday": "5 (Thursday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1491"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Date conflict: the quoted colophon (exp. 161b) reads śrīśāke 1413 (≈1491/92 CE), but the catalogue field gives ŚS 1513 and ŚS 1514. The second colophon (exp. 173b, after Bhoja's Vidvajjanavallabha) reads śrīśāke 1514 idaṃ postakaṃ liṣi(tam) (≈1592 CE). Since 1513 and 1514 are consecutive years, '1413' may be a slip in the cataloguer's quotation and the first part may date to ŚS 1513 (≈1591 CE). The image should be checked. 'vipraḥja (!) jyotiṣI odaṃ postakaṃ || sūnunā prītikareṇa …' is corrupt. It probably means 'this book of the brahmin astrologer (jyotiṣī), written by his son Prītikara', so the father would be an unnamed astrologer and possibly the owner. Prītikara may be identical with the jyotiṣī himself. 'kalaguṇālaṃkṛta' after a lacuna is probably part of a lost epithet. The scribe of the ŚS 1514 colophon is not named; the lacuna (liṣi///) may hide the name.",
+ "_meta": {
+  "reel": "A 1063/6",
+  "model": "opus",
+  "cost_usd": 0.090062,
+  "secs": 21.9
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdayārāma",
+   "name": "Dayārāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "litaṃ [[śrī]]tutlārāmaṣakurālaputr śrīdayārāma",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "tutlārāmaṣakurāla",
+   "name": "Tutlārāma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "ṣakurāla"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tutlārāmaṣakurālaputr",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "tutlārāmaṣakurālaputr śrīdayārāma"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsāke 1712 samvat 1847 naipāla samvat 913 vaiśāṣmase (!) dinagatā 20 guruvāsare",
+  "era": "ŚS",
+  "year": "1712",
+  "month": "vaiśākha",
+  "paksa": "",
+  "tithi": "dinagatā 20",
+  "weekday": "guruvāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1790"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "āyu bhūyāt",
+ "notes": "Three eras are mentioned: Śāke 1712, Samvat (VS) 1847, and Naipāla Samvat (NS) 913 (catalogue reads 910; 913 is likely a scribal slip for 910 to match ŚS 1712 / VS 1847 = 1790 CE). 'dṛghaṃ (!) āyu [[bhū]]yāt' represents 'dīrgham āyur bhūyāt'.",
+ "_meta": {
+  "reel": "B 326/14",
+  "model": "gemini-flash-latest",
+  "secs": 12.5,
+  "in_tok": 785,
+  "out_tok": 2613
+ }
+}

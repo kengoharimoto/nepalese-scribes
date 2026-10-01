@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīratināthacakravartī",
+   "name": "Ratinātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "cakravartin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīratināthacakravartīkṛtā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vipraviśveśvareṇa",
+   "name": "Viśveśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vipraviśveśvareṇaivaṃ likhiteyaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "guṇadvīpasvare varṣe māsīṣe [[pakṣa]]mecake | maṅgalāyaṃ tithau (ghasre) jīve tulāgate ravau || ... samvat 776 aśvinamāse (!) kṛṣṇapakṣe navamyāṃ tithau bṛhaspativāsare",
+  "era": "NS",
+  "year": "776",
+  "month": "Āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "navamī",
+  "weekday": "bṛhaspativāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1656"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date is stated both in a chronogram verse (where māsīṣe refers to the month of Iṣa/Āśvina, mecaka to the dark fortnight, maṅgalā to navamī, jīve to Thursday) and in numerical figures (samvat 776).",
+ "_meta": {
+  "reel": "B 304/3",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 839,
+  "out_tok": 1420
+ }
+}

@@ -1,0 +1,151 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhīmamiśrājñayā",
+   "name": "Bhīma",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhīmamiśrājñayā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīamarapatimiśreṇā",
+   "name": "Amarapati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pūrvvārddhaṃ śrīamarapatimiśreṇā... likhitam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīmukundaśarmma",
+   "name": "Mukunda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmukundaśarmma... likhitam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīanantaśarmma",
+   "name": "Ananta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīanantaśarmma... likhitam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "miśraśrīdhanapatiśarmma",
+   "name": "Dhanapati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "miśra",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "miśraśrīdhanapatiśarmma... likhitam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "śrīhariśarmmabhir",
+   "name": "Hari",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīhariśarmmabhir likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "śrībhīmamiśrājñayā pūrvvārddhaṃ śrīamarapatimiśreṇā... likhitam"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "śrībhīmamiśrājñayā... aparārddhaṃ śrīmukundaśarmma... likhitam"
+  },
+  {
+   "from": "p4",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "śrībhīmamiśrājñayā... aparārddhaṃ... śrīanantaśarmma... likhitam"
+  },
+  {
+   "from": "p5",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "śrībhīmamiśrājñayā... aparārddhaṃ... miśraśrīdhanapatiśarmma... likhitam"
+  },
+  {
+   "from": "p6",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "śrībhīmamiśrājñayā... aparārddhaṃ... śrīhariśarmmabhir likhitam"
+  }
+ ],
+ "date": {
+  "as_written": "lakṣmaṇabhūpasamvatvi(!) trayastriṃśadadhikaśatacatuṣṭayābde 〈〈kārttikakṛṣṇa〉〉 dvitīyāśvivaśuklaikādaśyāṃ budhe",
+  "era": "LS",
+  "year": "433",
+  "month": "dvitīyāśvina",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1552"
+ },
+ "place": {
+  "as_written": "navautugrāme",
+  "normalized": ""
+ },
+ "purpose": "śrībhīmamiśrājñayā",
+ "notes": "Amarapatimiśra copied the first half (pūrvārdha) and Mukundaśarman, Anantaśarman, Dhanapatiśarman, and Hariśarman copied the second half (aparārdha).",
+ "_meta": {
+  "reel": "A 1079/2",
+  "model": "gemini-flash-latest",
+  "secs": 7.9,
+  "in_tok": 903,
+  "out_tok": 2386
+ }
+}

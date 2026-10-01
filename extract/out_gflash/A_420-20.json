@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nārāya(5)daivajña",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nārāya(5)daivajñakṛto",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1905 sāla śrāvaṇa vadi 9 roja 2",
+  "era": "VS",
+  "year": "1905",
+  "month": "śrāvaṇa",
+  "paksa": "vadi",
+  "tithi": "9",
+  "weekday": "roja 2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1848"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The name nārāya(5)daivajña refers to the author Nārāyaṇa Daivajña.",
+ "_meta": {
+  "reel": "A 420/20",
+  "model": "gemini-flash-latest",
+  "secs": 3.1,
+  "in_tok": 699,
+  "out_tok": 676
+ }
+}

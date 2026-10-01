@@ -1,0 +1,48 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 confidence lowered from high to medium: the colophon reads mānaratnedaṃ, but the catalogue gives Ratnamāna. Kept the colophon's order, Mānaratna.",
+   "Notes expanded: the reading as Mānaratnena idaṃ, the catalogue conflict, and the absence of date, place and purpose."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mānaratnedaṃ",
+   "name": "Mānaratna",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mānaratnedaṃ (!) puṣṭa(!)kaṃ likhitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon has 'mānaratnedaṃ (!) puṣṭa(!)kaṃ likhitaṃ'. This is most likely a sandhi or scribal error for 'mānaratnena idaṃ pustakaṃ likhitam', meaning 'this book was written by Mānaratna'. The catalogue gives the scribe as Ratnamāna, with the name elements in the opposite order. Both forms are plausible Newar names. The colophon's order is kept here, but the catalogue may reflect a check against the manuscript. The colophon is for the Dīpaṃkaravastu section only (fol. 73v). It gives no date, place or purpose.",
+ "_meta": {
+  "reel": "A 135/2",
+  "model": "opus",
+  "cost_usd": 0.06373799999999999,
+  "secs": 11.2
+ }
+}

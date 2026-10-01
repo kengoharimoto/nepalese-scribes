@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ācāryaśrīmadudayana",
+   "name": "Udayana",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ityācāryaśrīmadudayanaviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gaṃgādattaśarmaṇā",
+   "name": "Gaṅgādatta",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "naiyāyika",
+    "vidvadvara",
+    "śarman"
+   ],
+   "affiliation": "atrigotra",
+   "residence": "",
+   "evidence": "samāpitam atrigotreṇa naiyāyikena didvadvareṇa gaṃgādattaśarmaṇā ’dhyayanārtham",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1803 saṃvat 1937 miti caitrakṛṣṇadvādaśyāṃ ravau",
+  "era": "ŚS",
+  "year": "1803",
+  "month": "Caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādaśī",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1881"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "adhyayanārtham",
+ "notes": "Both Śāke 1803 and Saṃvat 1937 are given in the date line. The scribe Gaṅgādatta copied the text for his own study (adhyayanārtham).",
+ "_meta": {
+  "reel": "A 910/5",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 781,
+  "out_tok": 1782
+ }
+}

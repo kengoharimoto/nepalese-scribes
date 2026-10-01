@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sadānaṃda",
+   "name": "Sadānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramahaṃsa",
+    "parivrājakācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sadānaṃdakṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Text colophon only; mentions the author Sadānanda (Sadānanda Yogīndra). No scribal colophon or date.",
+ "_meta": {
+  "reel": "B 76/13",
+  "model": "gemini-flash-latest",
+  "secs": 2.5,
+  "in_tok": 655,
+  "out_tok": 437
+ }
+}

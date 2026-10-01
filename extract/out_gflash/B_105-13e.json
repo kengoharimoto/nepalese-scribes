@@ -1,0 +1,47 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kitamānsiṃhayā",
+   "name": "Kitamānsiṃha",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "dānapate",
+    "jajomāna",
+    "tulādhra"
+   ],
+   "affiliation": "",
+   "residence": "asaṃtore cibāhānani",
+   "evidence": "dānapate jajomāna nepāramaṇḍare asaṃtore cibāhānani gṛhevāsthita tulādhraṃ jajomāna kitamānsiṃhayā dharmacitta utpati juyāo thva gātilā yāyagu kaṇṭha coyāo tayā jula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śubha samvat 1034 sālamti bhādra kṛṣṇayā caturdaśiṣunu",
+  "era": "NS",
+  "year": "1034",
+  "month": "bhādra",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturdaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1914"
+ },
+ "place": {
+  "as_written": "nepāramaṇḍare asaṃtore cibāhānani",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "dharmacitta utpati juyāo",
+ "notes": "Kitamānsiṃha is a vernacular form of Kīrtimānsiṃha, of the Tulādhara caste residing in Asan, Ciba Bahal Nani, Kathmandu.",
+ "_meta": {
+  "reel": "B 105/13e",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 821,
+  "out_tok": 1088
+ }
+}

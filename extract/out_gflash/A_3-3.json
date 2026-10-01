@@ -1,0 +1,126 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "arimalladevasya",
+   "name": "Arimalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramamāheśvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmat arimalladevasya vijayarāje",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīharidharaśiṃhasya",
+   "name": "Haridharaśiṃha",
+   "roles": [
+    "governor"
+   ],
+   "titles": [
+    "viṣayādhipati",
+    "rāṇaka"
+   ],
+   "affiliation": "",
+   "residence": "Pañcāvanadeśa",
+   "evidence": "śrīpañcāvanadeśīyaviṣayādhipatirāṇakaśrīharidharaśiṃhasya varttamāne",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "dvijaśrīpathamodharasomadevasya",
+   "name": "Somadeva",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvijaśrīpathamodharasomadevasya putrītanayaśirīkasya mātāpitāgurusaputrapautrādi, svargakāmārthamokṣārthinaḥ ... likhitam",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śirīkasya",
+   "name": "Śirīka",
+   "roles": [
+    "commissioner",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "putrītanayaśirīkasya mātāpitāgurusaputrapautrādi, svargakāmārthamokṣārthinaḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p5",
+   "as_written": "kulācārjjaśrīharicandrena",
+   "name": "Haricandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kulācārya"
+   ],
+   "affiliation": "",
+   "residence": "Paścimatāmvāgāra",
+   "evidence": "śrīpaścimatāmvāgarādhivāsino, kulācārjjaśrīharicandrena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p5",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīmat arimalladevasya vijayarāje"
+  },
+  {
+   "from": "p4",
+   "type": "grandson_of",
+   "to": "p3",
+   "evidence": "dvijaśrīpathamodharasomadevasya putrītanayaśirīkasya"
+  },
+  {
+   "from": "p5",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "dvijaśrīpathamodharasomadevasya ... likhitam iti || likhika śrīpaścimatāmvāgarādhivāsino, kulācārjjaśrīharicandrena likhitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "samvatsaraśatatraya ekonaviṃśatyadhike pauṣakṛṣṇatrayodaśyāyāṃ gurudine mūlanakṣatre, vyāghātayoge",
+  "era": "NS",
+  "year": "319",
+  "month": "Pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "gurudina",
+  "nakshatra_yoga": "mūlanakṣatre, vyāghātayoge",
+  "ce_approx": "1199"
+ },
+ "place": {
+  "as_written": "śrīpaścimatāmvāgara",
+  "normalized": ""
+ },
+ "purpose": "mātāpitāgurusaputrapautrādi, svargakāmārthamokṣārthinaḥ",
+ "notes": "The catalogue records the date as NS 321, but the text reads 'samvatsaraśatatraya ekonaviṃśatyadhike' (300 + 19 = 319). The exact relationship between dvija Somadeva and Śirīka is maternal grandfather to daughter's son ('putrītanaya'). The prefix 'pathamodhara' before Somadeva might be an epithet (Prathamadhara/Prathamoddhāra) or a toponymic/family designation.",
+ "_meta": {
+  "reel": "A 3/3",
+  "model": "gemini-flash-latest",
+  "secs": 16.5,
+  "in_tok": 940,
+  "out_tok": 4430
+ }
+}

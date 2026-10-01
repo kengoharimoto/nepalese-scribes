@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvāṇivilāsaśavārmma///-na",
+   "name": "Vāṇīvilāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "varmā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitam śrīvāṇivilāsaśavārmma///(!)(5) -na",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1875 sāla miti vaiśākhaśuklatṛtiyāyā (!) tithau mṛga/// (bh)ṛguvāsare",
+  "era": "VS",
+  "year": "1875",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "tṛtiyā",
+  "weekday": "bhṛguvāsare",
+  "nakshatra_yoga": "mṛga///",
+  "ce_approx": "1818"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1116/1",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 850,
+  "out_tok": 1520
+ }
+}

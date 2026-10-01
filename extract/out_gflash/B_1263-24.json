@@ -1,0 +1,103 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṛṣṇānanda sarmanaḥ",
+   "name": "Kṛṣṇānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "kāṣṭhamaṃḍapasthāne",
+   "evidence": "liṣitaṃ kṛṣṇānanda sarmanaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmahāerājādhirājapratāparūdradeva gajapati",
+   "name": "Pratāparudradeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "gajapati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahāerājādhirājapratāparūdradeva gajapati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "viśveśva(10)ramahāprasādi",
+   "name": "Viśveśvara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mahāprasādin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viśveśva(10)ramahāprasādisutena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "kadambeśvarāddhanyāsyānamahāprasādena",
+   "name": "Kadambeśvarāddhanyāsyānamahāprasāda",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāprasāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kadambeśvarāddhanyāsyānamahāprasādena sunṛtavādināviracite kautukacintāma(1) ṇīgraṃthe",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "viśveśva(10)ramahāprasādisutena"
+  },
+  {
+   "from": "p4",
+   "type": "servant_of",
+   "to": "p2",
+   "evidence": "pratāparūdradeva gajapatipādāravindaṣaṭpadāyammānasena"
+  }
+ ],
+ "date": {
+  "as_written": "śrīvikramādityasaṃvat 1865 sāla vaiśāṣa śukla 13 ravivāsare",
+  "era": "VS",
+  "year": "1865",
+  "month": "vaiśāṣa",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1808"
+ },
+ "place": {
+  "as_written": "kāṣṭhamaṃḍapasthāne",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The colophon contains an authorial pushpikā naming Gajapati Pratāparudradeva of Orissa as the patron, along with the author and his father Viśveśvara Mahāprasādin. The author's personal name before the title Mahāprasāda is obscure and possibly corrupt (kadambeśvarāddhanyāsyānamahāprasāda).",
+ "_meta": {
+  "reel": "B 1263/24",
+  "model": "gemini-flash-latest",
+  "secs": 15.7,
+  "in_tok": 929,
+  "out_tok": 3862
+ }
+}

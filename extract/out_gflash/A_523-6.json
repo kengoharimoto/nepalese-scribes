@@ -1,0 +1,68 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadrājaguruhemarājavidvadvareṇa",
+   "name": "Hemarāja",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "rājaguru",
+    "vidvadvara"
+   ],
+   "affiliation": "Bhāratībhavana",
+   "residence": "",
+   "evidence": "svakīyabhāratibhavanārthaṃ śrīmadrājaguruhemarājavidvadvareṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "pūrṇaprasādaśarmadvārā",
+   "name": "Pūrṇaprasāda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarmā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pūrṇaprasādaśarmadvārā ... likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "svakīyabhāratibhavanārthaṃ śrīmadrājaguruhemarājavidvadvareṇa pūrṇaprasādaśarmadvārā ... likhitam"
+  }
+ ],
+ "date": {
+  "as_written": "vaikramābda 85 āṣāḍhaśuklapañcamyāṃ śukravāsare",
+  "era": "VS",
+  "year": "85",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "śukravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1928"
+ },
+ "place": {
+  "as_written": "bhaktyāpurīnagaryā",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "svakīyabhāratibhavanārtham (for his own library, Bhāratī Bhavana)",
+ "notes": "The manuscript quotes an earlier palm-leaf exemplar colophon mentioning the joint reign of the three brothers Jayadharmamalla, Jayajyotirmalla, and Jayakīrtimalla in Bhaktapur ('bhaktyāpurīnagaryā ca trayorājā virājate || dharmajyotiś ca kīrtiś ca jyeṣṭhamadhya kaniṣṭhayoḥ'). The cataloguer recorded Bhaktapur as place of copying based on this exemplar colophon. The present paper copy was prepared in VS [19]85 (1928 CE) by Pūrṇaprasāda Śarmā for Rājaguru Hemarāja Śarmā's collection (Bhāratī Bhavana).",
+ "_meta": {
+  "reel": "A 523/6",
+  "model": "gemini-flash-latest",
+  "secs": 23.2,
+  "in_tok": 868,
+  "out_tok": 5852
+ }
+}

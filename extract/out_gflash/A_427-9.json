@@ -1,0 +1,100 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kamalākara",
+   "name": "Kamalākara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kamalākara viracitaḥ siddhāṃtatattvavivekaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nṛsiṃha",
+   "name": "Nṛsiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "sakalagaṇakasārvabhauma",
+    "vidvat"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sakalagaṇakasārvabhaumavidvannṛsiṃhātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "harinṛsiṃho",
+   "name": "Harinṛsiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "harinṛsiṃhopyalikhac",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "tārānātha śarmaṇe",
+   "name": "Tārānātha",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "harinṛsiṃhopyalikhacchrī tārānātha śarmaṇe",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "nṛsiṃhātmaja"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "harinṛsiṃhopyalikhacchrī tārānātha śarmaṇe"
+  }
+ ],
+ "date": {
+  "as_written": "vileṣu munibhū śāke śuklāṣāḍhe guheravau",
+  "era": "ŚS",
+  "year": "1759",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "6",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1837"
+ },
+ "place": {
+  "as_written": "nepāladeśāṃtare",
+  "normalized": "Nepal"
+ },
+ "purpose": "parārtha (written for Tārānātha Śarman)",
+ "notes": "The catalogue mistakenly identifies Tārānāthaśarmā as the scribe; the text clearly reads 'harinṛsiṃho 'py alikhat śrī-tārānātha-śarmaṇe' (Harinṛsiṃha wrote [this] for Tārānātha Śarman). The chronogram vila (9) - iṣu (5) - muni (7) - bhū (1) yields Śaka 1759, tithi guha (6) on a Sunday (ravau), which corresponds to 9 July 1837 CE.",
+ "_meta": {
+  "reel": "A 427/9",
+  "model": "gemini-flash-latest",
+  "secs": 9.7,
+  "in_tok": 798,
+  "out_tok": 2149
+ }
+}

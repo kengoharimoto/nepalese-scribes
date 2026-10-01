@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nīlakaṇṭhasya",
+   "name": "Nīlakaṇṭha",
+   "roles": [
+    "commentator",
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "cāturdhara vaṃśa",
+   "residence": "kāśī",
+   "evidence": "nīlakaṇṭhasya kṛtau gaṇēśagītāṭīkāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "goviṃdasūri",
+   "name": "Govinda",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "cāturdhara vaṃśa",
+   "residence": "",
+   "evidence": "goviṃdasūrisūnor",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "goviṃdasūrisūnor nīlakaṇṭhasya"
+  }
+ ],
+ "date": {
+  "as_written": "gagana śaragirindai vikramārkasya śāke ... bhādraśukle caturthyāṃ || suragurudivase",
+  "era": "VS",
+  "year": "1750",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "caturthī",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1693"
+ },
+ "place": {
+  "as_written": "puraharapuri kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "gaṇapatipadapadme cārpitotīva bhaktyā",
+ "notes": "The date (VS 1750 Bhādrapada śukla 4, Thursday = Gaṇeśacaturthī) and place (Kāśī) record the completion of the commentary (prabandha) by Nīlakaṇṭha Caturdhara, rather than the copying of this specific manuscript, though the catalogue records it as 'Date of Copying: ŚS 1750 ?'.",
+ "_meta": {
+  "reel": "A 88/5",
+  "model": "gemini-flash-latest",
+  "secs": 8.5,
+  "in_tok": 887,
+  "out_tok": 2334
+ }
+}

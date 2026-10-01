@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvāsude〈〈va〉〉venā(!)",
+   "name": "Vāsudeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvāsude〈〈va〉〉venā(!)likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "lasaṃ 343 budhe edine",
+  "era": "LS",
+  "year": "343",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "budhe",
+  "nakshatra_yoga": "",
+  "ce_approx": "1462"
+ },
+ "place": {
+  "as_written": "vai hāṇṇale",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "lasaṃ represents the Lakṣmaṇasena era (LS 343 ≈ 1462 CE). 'vai hāṇṇale' could indicate the location (in locative) or an unverified Maithila mūla/lineage.",
+ "_meta": {
+  "reel": "C 44/7",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 654,
+  "out_tok": 1169
+ }
+}

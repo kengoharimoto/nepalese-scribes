@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahākavisubandhu",
+   "name": "Subandhu",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahākavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahākavisubandhuviracitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1845",
+  "era": "VS",
+  "year": "1845",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1788"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "śrīrāma is an auspicious invocation, not a human agent.",
+ "_meta": {
+  "reel": "B 322/15",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 694,
+  "out_tok": 606
+ }
+}

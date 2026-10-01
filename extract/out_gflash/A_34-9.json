@@ -1,0 +1,127 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgovindabhagavatpādapūjyaśiṣyasya",
+   "name": "Govindabhagavatpāda",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "bhagavatpāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgovindabhagavatpādapūjyaśiṣyasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "paramahaṃsaparivrājakācāryaśrīśaṅkarabhagavataḥ",
+   "name": "Śaṅkara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "paramahaṃsa",
+    "parivrājakācārya",
+    "bhagavat"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paramahaṃsaparivrājakācāryaśrīśaṅkarabhagavataḥ kṛ〇tau bhaga(vadgītā)bhāṣye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "mahārājādhirājaśra(!)śrī-amaramandadevasya",
+   "name": "Amaramandadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "kāṣṭhamaṇḍape nagare",
+   "evidence": "mahārājādhirājaśra(!)śrī-amaramandadevasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "pradhānaśrī..mijana(mobha)sya",
+   "name": "..mijana(mobha)",
+   "roles": [
+    "commissioner",
+    "minister"
+   ],
+   "titles": [
+    "pradhāna"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pradhānaśrī..mijana(mobha)syājñayā",
+   "confidence": "low"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrīmukundapāṭhakaśarmmabhir",
+   "name": "Mukunda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "pāṭhaka",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śrīmukundapāṭhakaśarmmabhir",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śrīgovindabhagavatpādapūjyaśiṣyasya"
+  },
+  {
+   "from": "p5",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "pradhānaśrī..mijana(mobha)syājñayā ... likhitaṃ śrīmukundapāṭhakaśarmmabhir"
+  },
+  {
+   "from": "p5",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "mahārājādhirājaśra(!)śrī-amaramandadevasya ... likhitaṃ śrīmukundapāṭhakaśarmmabhir"
+  }
+ ],
+ "date": {
+  "as_written": "la saṃ 422 bhādraśudi 7 śanau",
+  "era": "LS",
+  "year": "422",
+  "month": "bhādra",
+  "paksa": "śudi",
+  "tithi": "7",
+  "weekday": "śanau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1541"
+ },
+ "place": {
+  "as_written": "nepāladeśānta(re) kāṣṭhamaṇḍape nagare",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "pradhānasya ājñayā",
+ "notes": "Amaramandadeva is a variant/corrupt spelling for King Amaramalla of Kathmandu (r. c. 1530–1560 CE). The scribe Mukunda describes himself as reciting the Mahābhārata near the king (rājñā pārśve mahābhāratapaṭhatā).",
+ "_meta": {
+  "reel": "A 34/9",
+  "model": "gemini-flash-latest",
+  "secs": 8.5,
+  "in_tok": 1140,
+  "out_tok": 2638
+ }
+}

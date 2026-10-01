@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśvanātha",
+   "name": "Viśvanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viśvanāthaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīdivākaradaivajña",
+   "name": "Divākara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdivākaradaivajñātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "dīkṣitaraṃganāthena",
+   "name": "Raṅganātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dīkṣita",
+    "gaṇakottama"
+   ],
+   "affiliation": "āgastyagotra",
+   "residence": "",
+   "evidence": "dīkṣitaraṃganāthena likhi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīdivākaradaivajñātmajaviśvanātha"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśālivāhanaśake dvirasartucaṃdre tulye pramodinitayā sitabhūtatithyāṃ ... saºº 1797 śake 1662 māghakṛṣṇa 14 caṃdre",
+  "era": "VS",
+  "year": "1797",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "14",
+  "weekday": "caṃdra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1741"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Vikrama Saṃvat 1797 and Śaka Saṃvat 1662 (chronogram: dvi-rasa-ṛtu-candra = 1662) are specified. The scribe is also referred to as śrīraṅgavidvas.",
+ "_meta": {
+  "reel": "A 1065/18",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 835,
+  "out_tok": 2067
+ }
+}

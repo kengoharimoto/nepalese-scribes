@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "subhagānandanātha",
+   "name": "Subhagānandanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "subhagānandanāthamate",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1928",
+  "era": "VS",
+  "year": "1928",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1871"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Subhagānandanātha is cited as an authority commenting on the provenance of the 18th ullāsa.",
+ "_meta": {
+  "reel": "A 1275/12",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 741,
+  "out_tok": 973
+ }
+}

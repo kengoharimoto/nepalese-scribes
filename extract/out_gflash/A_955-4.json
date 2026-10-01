@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhavanāthadvījaṃ kasya",
+   "name": "Bhavanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhavanāthadvījaṃ kasya (!) likhito yaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "iśvaripraśāda upādhyāya",
+   "name": "Īśvarīprasāda",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "iśvaripraśāda upādhyāya pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "dviṃcakṣūṣṭādaśaśākābde māsasya phālguṇātha caitra kṛṣṇa paṃcaṃmyāṃ dvidaibhaṃ ca yoga vyāgraṃ ravidine",
+  "era": "ŚS",
+  "year": "1822",
+  "month": "Caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "dvidaibha, vyāghāta (vyāgra)",
+  "ce_approx": "1900"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "phalasādhanahetave",
+ "notes": "The chronogram 'dviṃcakṣūṣṭādaśa' corresponds to 2-2-18, i.e., Śaka 1822 (ca. 1900 CE). Īśvarīprasāda Upādhyāya is marked in the catalogue as 'Donor', but 'pustakaṃ' indicates an owner inscription.",
+ "_meta": {
+  "reel": "A 955/4",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 874,
+  "out_tok": 1223
+ }
+}

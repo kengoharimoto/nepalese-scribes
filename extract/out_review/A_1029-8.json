@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. Ownership reading kept: 'idaṃ pustakaṃ … jyotirvidāṃ' is the usual ownership formula, with the honorific genitive plural."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "goviṃda jyotirvidāṃ",
+   "name": "Govinda",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ goviṃda jyotirvidāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The catalogue lists Govinda as the scribe. However, the formula 'idaṃ pustakaṃ goviṃda jyotirvidāṃ' (genitive plural, honorific, of jyotirvid, 'astrologer') marks ownership: 'this book belongs to the astrologer Govinda'. The colophon does not say who copied it, though the owner may also have been the scribe. The colophon gives no date.",
+ "_meta": {
+  "reel": "A 1029/8",
+  "model": "opus",
+  "cost_usd": 0.059994,
+  "secs": 9.6
+ }
+}

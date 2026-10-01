@@ -1,0 +1,75 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhāravi",
+   "name": "Bhāravi",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāravikṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīnepālasureti",
+   "name": "Nepālasura",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "(śrīnepālasureti) khyātitarabhūt (!) tannandano",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "tannandano naiṣṭhikī",
+   "name": "Naiṣṭhika",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tannandano naiṣṭhikī ... [ʼ]lekhīt kirātārjjunīṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "tannandano"
+  }
+ ],
+ "date": {
+  "as_written": "jīvāhnau girijātmajas tithimaṇāvīṣesudhāṃsukṣaye varṣe randhrabhujanphaṇīndragaṇete",
+  "era": "NS",
+  "year": "829",
+  "month": "Āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "4",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1708"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram 'randhra-bhuja-phaṇīndra' yields 9-2-8 = NS 829. 'Īṣa' stands for Āśvina; 'sudhāṃsukṣaya' for kṛṣṇapakṣa; 'girijātmajatithi' refers to Gaṇeśacaturthī (4); 'jīvāhna' indicates Thursday. The scribe's name may be Naiṣṭhika, or 'naiṣṭhikī' (for naiṣṭhikaḥ) may merely be an adjective (perpetual student / brahmacārin) qualifying an unnamed son of Nepālasura.",
+ "_meta": {
+  "reel": "A 1346/6",
+  "model": "gemini-flash-latest",
+  "secs": 10.3,
+  "in_tok": 913,
+  "out_tok": 2329
+ }
+}

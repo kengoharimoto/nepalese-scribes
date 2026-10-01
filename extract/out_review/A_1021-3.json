@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: 'rājadaivajña' means 'royal astrologer', an office title, not a personal name. The scribe is unnamed, so the name field is left empty, 'rājadaivajña' and 'daivajña' are kept as titles, and confidence is lowered to low.",
+   "Date: weekday normalised to bṛhaspativāra (Thursday). The nakṣatra and the yoga are now labelled separately.",
+   "Notes expanded: the catalogue's king and date conflict with the colophon, and the colophon has a completion formula in Newari."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājadaivajña",
+   "name": "",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "rājadaivajña",
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "li[[khi]]ta rājadaivajña",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 883, jyeṣṭhamāsa śuklapakṣa, trayodaśī, anurāḍha (!) nakṣatra, sādhyayā bṛhaṃvāra",
+  "era": "NS",
+  "year": "883",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "trayodaśī (13)",
+  "weekday": "bṛhaspativāra (Thursday; written bṛhaṃvāra)",
+  "nakshatra_yoga": "nakṣatra anurādhā; yoga sādhya",
+  "ce_approx": "1763"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe gives only the office title 'rājadaivajña' (royal astrologer), not a personal name. The catalogue's 'Daivajñarāja' seems to be a reversed reading of the same word. 'thva kanhu siddhayāṅādina julo' is Newari for 'this day was the day of completion'. The colophon is dated NS 883 (1763 CE), but the catalogue gives [NS] 896 (1776 CE). The catalogue also names king Siddhinarasiṃhamalla, who does not appear in the colophon. Siddhinarasiṃha reigned in Patan in the 17th century (c. 1619–1661), so he cannot be the reigning king for either date. His name is probably a catalogue error or taken from another part of the manuscript, so he is not entered as a person.",
+ "_meta": {
+  "reel": "A 1021/3",
+  "model": "opus",
+  "cost_usd": 0.062623,
+  "secs": 17.3
+ }
+}

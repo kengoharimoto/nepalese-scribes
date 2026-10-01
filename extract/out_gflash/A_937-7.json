@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "meghanāthaśarmaṇaḥ",
+   "name": "Meghanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ meghanāthaśarmaṇaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1942 || sāla || miti adhika jyeṣṭavadi || 30 || || roja || 5",
+  "era": "VS",
+  "year": "1942",
+  "month": "adhika jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "30",
+  "weekday": "5 (Thursday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1885"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 937/7",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 789,
+  "out_tok": 715
+ }
+}

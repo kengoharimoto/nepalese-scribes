@@ -1,0 +1,92 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Era changed from VS to ŚS: the samvatsara name Vyaya fits ŚS 1628 = 1706/07 CE exactly (Vyaya, 20th Jovian year), whereas VS 1628 (1571/72 CE) would fall in Prajāpati/Aṅgiras. ce_approx changed from 1572 to 1707 (Māgha kṛṣṇa ≈ Jan/Feb 1707).",
+   "Removed the wrote_for relation Murāri→Sadānanda. The colophon only says Murāri wrote the copy and Sadānanda owns it; it does not say the copy was made for him, and the ownership note could be later.",
+   "Lowered Kṛṣṇa Jośī to low confidence and expanded the note on his unclear role."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgauḍapādācārya",
+   "name": "Gauḍapāda",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgauḍapādācāryaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "murarīna",
+   "name": "Murāri",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "murarīna likhita",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "sadānanda",
+   "name": "Sadānanda",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sadānanda pustakamadaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīkṛṣṇa jośī",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkṛṣṇa jośī",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1628 vyayasamvatsare māghavadya paṃcamī somavāra",
+  "era": "ŚS",
+  "year": "1628",
+  "month": "Māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1707"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The colophon says only 'samvat', which normally means VS. However, the samvatsara name Vyaya matches ŚS 1628 (1706/07 CE) and does not match VS 1628 (1571/72 CE), so I read the era as Śaka. The weekday has not been checked. 'pustakamadaḥ' = pustakam adaḥ, meaning 'this book is Sadānanda's'. 'śrīkṛṣṇa jośī' follows the ownership phrase with no syntax linking it, so his role is unclear. He could be a second owner, Sadānanda's father or family name (Sadānanda [son of] Kṛṣṇa Jośī), or someone who added a later note. Ascribing the Uttaragītā to Gauḍapāda is traditional. The catalogue gives the scribe's name as Murārī; the manuscript has 'murarīna', which I normalised to Murāri.",
+ "_meta": {
+  "reel": "B 60/28",
+  "model": "opus",
+  "cost_usd": 0.09692200000000001,
+  "secs": 23.9
+ }
+}

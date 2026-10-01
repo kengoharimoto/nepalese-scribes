@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñapītāmbale(!)na",
+   "name": "Pītāmbara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ daivajñapītāmbale(!)na",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 810 ākhā(!)dha(!)kṛṣṇa||caturthyān tithau || sva(!)mavāsare",
+  "era": "NS",
+  "year": "810",
+  "month": "Āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturthī",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1690"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Scribe's name is written with an l/r alternation as pītāmbale(!); month written corruptly as ākhādha for āṣāḍha; weekday written as svamavāsare for somavāsare.",
+ "_meta": {
+  "reel": "B 151/1",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 769,
+  "out_tok": 847
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayabhūpatīndramalla mahārājādhirājasana",
+   "name": "Jayabhūpatīndramalla",
+   "roles": [
+    "commissioner",
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayabhūpatīndramalla mahārājādhirājasana thva paddhati dayakase vijyāka juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 834 mārggaśira śudi 6",
+  "era": "NS",
+  "year": "834",
+  "month": "mārggaśira",
+  "paksa": "śukla",
+  "tithi": "6",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1713"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrī 3 īśvarīprītirastu",
+ "notes": "King Jayabhūpatīndramalla of Bhaktapur caused this manual (paddhati) to be prepared/written ('thva paddhati dayakase vijyāka juro').",
+ "_meta": {
+  "reel": "B 286/16",
+  "model": "gemini-flash-latest",
+  "secs": 2.0,
+  "in_tok": 786,
+  "out_tok": 365
+ }
+}

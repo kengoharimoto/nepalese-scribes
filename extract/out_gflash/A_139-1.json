@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "munināmadheyo",
+   "name": "Muni",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "munināmadheyo, vārāhi(!)kalpāṃ(!) vipulāṃ(!) lilekha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "naipālikābde ṛṣilokavāhair, yukte nabhau pūrṇṇahimāṃśu(muttau) | śukle dine",
+  "era": "NS",
+  "year": "737",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "15 (pūrṇimā)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1617"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'ṛṣi-loka-vāhaiḥ' gives 737 NS (ṛṣi = 7, loka = 3, vāha = 7). 'nabhau' refers to the month of Śrāvaṇa, and 'pūrṇṇa-himāṃśu... śukle dine' indicates the full moon day (Śukla Pūrṇimā). The scribe's name is given as 'munināmadheyaḥ' ('named Muni').",
+ "_meta": {
+  "reel": "A 139/1",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 851,
+  "out_tok": 1112
+ }
+}

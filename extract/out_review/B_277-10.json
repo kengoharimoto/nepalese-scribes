@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed p2 'Sadananta': in 'pūrṇṇatāṃ samanayet sadanantaḥ' the optative makes it a benediction ('may the good Ananta [Viṣṇu] bring it to completion'). It is a deity, not a scribe.",
+   "Verified the chronogram: bāṇa (5), nanda (9), parvata (7) read right to left give 795, which agrees with 'nepāla samvat 795'. mecakapakṣa means the dark fortnight and agrees with 'vadi'.",
+   "Expanded the notes: why the catalogue king is wrong, and that the date is consistent."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīghanaśyāma",
+   "name": "Ghanaśyāma",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīghanaśyāmaviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vānanandaparvvatavarṣe(!) cāgrahāminikhau vihite ca | dvādaśī lalita mecakapakṣe ... nepāla samvat 795 agrahaṇa vadi dvādaśī ādityavāra",
+  "era": "NS",
+  "year": "795",
+  "month": "Agrahāyaṇa (Mārgaśīrṣa)",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādaśī",
+  "weekday": "ādityavāra (Sunday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1674"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram bāṇa-nanda-parvata (5-9-7, read right to left) gives 795, which matches NS 795 (about December 1674 CE). The chronogram verse is corrupt ('cāgrahāminikhau', 'lalita'), but it clearly refers to Agrahāyaṇa, the dark fortnight (mecakapakṣa) and the 12th tithi. 'sadanantaḥ' ('may the good Ananta bring it to completion') is a benediction to a deity, not a scribe's name, so the colophon names no scribe. The catalogue's king Jagajjyoti Malla is not mentioned in the colophon, and his reign (c. NS 733–757) is decades before NS 795. The attribution is probably a catalogue error, so no reigning king is recorded.",
+ "_meta": {
+  "reel": "B 277/10",
+  "model": "opus",
+  "cost_usd": 0.06675500000000001,
+  "secs": 17.6
+ }
+}

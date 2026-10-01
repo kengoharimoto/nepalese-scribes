@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "āryavarāhamahirasya",
+   "name": "Varāhamihira",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "āryavarāhamahirasya (!) kṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat ā la 2 kārttikaśuklāt",
+  "era": "NS",
+  "year": "232",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1111"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is written using letter-numerals (akṣaras): ā (200) la (30) 2 (2) = NS 232. A standard scribal verse ('mama kaṣṭena lekhitaṃ') is present, but no scribe's name is recorded.",
+ "_meta": {
+  "reel": "A 31/2",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 755,
+  "out_tok": 920
+ }
+}

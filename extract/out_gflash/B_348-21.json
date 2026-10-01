@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "padmanābhopādhyāyena",
+   "name": "Padmanābha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ †laṃtarjuge† padmanābhopādhyāyena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrībhāskarīye",
+   "name": "Bhāskara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "iti śrībhāskarīye siddhāntaśiromaṇau līlāvatīsaṃjñā pāṭī samāptā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1699 saṃvat 1834",
+  "era": "ŚS",
+  "year": "1699",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1777"
+ },
+ "place": {
+  "as_written": "laṃtarjuge",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date gives both Śaka 1699 and Vikrama Saṃvat 1834 (both correspond to 1777 CE). The corrupt word '†laṃtarjuge†' may indicate the place of copying (possibly Lamjung).",
+ "_meta": {
+  "reel": "B 348/21",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 862,
+  "out_tok": 1099
+ }
+}

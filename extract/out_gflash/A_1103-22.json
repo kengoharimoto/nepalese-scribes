@@ -1,0 +1,75 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivanṛsiṃhena",
+   "name": "Śivanṛsiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śivanṛsiṃhena likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmādhavanāmne",
+   "name": "Mādhava",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmādhavanāmne dattaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "ramānāthasya",
+   "name": "Ramānātha",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakam ramānāthasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "śivanṛsiṃhena likhitaṃ śrīmādhavanāmne dattaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsamvat 1863 sāla āṣāḍa śudi 15 ro 2",
+  "era": "VS",
+  "year": "1863",
+  "month": "āṣāḍha",
+  "paksa": "śuklapakṣa",
+  "tithi": "15",
+  "weekday": "ro 2 (Monday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1806"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīmādhavanāmne dattaṃ",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1103/22",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 752,
+  "out_tok": 1396
+ }
+}

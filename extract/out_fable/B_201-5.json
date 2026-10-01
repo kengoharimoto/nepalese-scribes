@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "cakrarājaḥ",
+   "name": "Cakrarāja",
+   "roles": [
+    "scribe",
+    "commissioner"
+   ],
+   "titles": [
+    "dharaṇivibudha (brāhmaṇa)"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dharaṇi,vibudhaś cakrarājaḥ sudhīraḥ ... lekhayāmāsa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "kāle dyocāraṇavikalite, śuddhanepālaśāke, māghe māse śaśadharadine ... śrīpañcamyāṃ ... śukle pakṣe",
+  "era": "NS",
+  "year": "906 (chronogram dyocāraṇavikalite; value per catalogue)",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "5 (śrīpañcamī)",
+  "weekday": "Monday (śaśadharadina)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1786"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Year given only as a chronogram 'dyocāraṇavikalite' in the 'pure Nepal era' (śuddhanepālaśāke = NS); the word-numerals are not fully transparent (dyo = 0 clear; 'cāraṇa' possibly corrupt), so the value 906 is taken from the catalogue and not independently verifiable. The verb is causative 'lekhayāmāsa' (caused to be written), so Cakrarāja may be the commissioner rather than the actual copyist; the catalogue treats him as scribe. 'dharaṇi,vibudha' (earth-god) = brāhmaṇa, treated as a caste designation. Final 'kena' is odd (perhaps for 'svena' or a corruption). Māgha śukla 5 is Vasantapañcamī (śrīpañcamī), about Jan/Feb 1786 CE.",
+ "_meta": {
+  "reel": "B 201/5",
+  "model": "fable",
+  "cost_usd": 0.26482,
+  "secs": 23.3
+ }
+}

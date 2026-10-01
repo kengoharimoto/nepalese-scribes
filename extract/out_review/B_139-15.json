@@ -1,0 +1,37 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Year field set to the tentative reading (859?), not the raw chronogram word.",
+   "ce_approx filled in as a tentative 1739 (NS 859 + 880).",
+   "Weekday normalized: gurūdine = Thursday.",
+   "as_written date string completed with the full passage.",
+   "Notes expanded: chronogram analysis, the uncertain 'aṣaṃ bhaveti' and 'sahamādayaṃti', and the title-section 'ājñakhaṇḍa'."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "nepālavatsaragatagrahavāṇanāme pauṣasya śuklatithisatrayodśī ca | aṣaṃ bhaveti, gurūdine",
+  "era": "NS",
+  "year": "859?",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "trayodaśī (13)",
+  "weekday": "Thursday (gurudina)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1739?"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names no persons: no scribe, commissioner, owner or king. The year is a bhūtasaṃkhyā chronogram in 'nepālavatsaragata-graha-vāṇa-nāme'. graha = 9 and vāṇa (bāṇa) = 5 are clear. 'nāme' is probably a corruption of 'nāga' (8). Read right to left, that gives NS 859, about 1738/39 CE; Pauṣa śukla falls around Dec 1738–Jan 1739. If 'nāme' is only 'nāmni' ('in the year named'), the year would be just '59', which is incomplete. The year and CE date are therefore tentative. 'aṣaṃ bhaveti' (perhaps a corrupt nakṣatra or yoga name, or 'akṣaṃ'?) and 'sahamādayaṃti' are unclear. 'ājñākhaṇḍa' names the section of the text that was completed; it is not a person. The scribe's stanza 'yādṛśaṃ pustakaṃ dṛṣṭvā...' is partly lost.",
+ "_meta": {
+  "reel": "B 139/15",
+  "model": "opus",
+  "cost_usd": 0.062251,
+  "secs": 18.6
+ }
+}

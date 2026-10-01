@@ -1,0 +1,65 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Month normalized to Āśvina (as written 'āsune', Nepali form) instead of 'āsuna'",
+   "Weekday given in stem form 'maṅgala (Tuesday)'",
+   "Place normalization emptied: 'syupurī' read as Śivapurī follows the catalogue but the modern identification is uncertain",
+   "Purpose phrased more fully; notes expanded (Sena name, era assumption, catalogue king)"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāyastha cāmuṇḍakṛte",
+   "name": "Cāmuṇḍa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāyastha cāmuṇḍakṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmaṃga[[la]]sena",
+   "name": "Maṅgalasena",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmaṃga[[la]]sena pāṭhā arthe",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1748 kā āsune māse śukle pakṣe śukli (!) dvitīyā tīthau (!) maṃgalavāsare",
+  "era": "VS",
+  "year": "1748",
+  "month": "Āśvina",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "maṅgala (Tuesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1691"
+ },
+ "place": {
+  "as_written": "syupurī",
+  "normalized": ""
+ },
+ "purpose": "for the reading (pāṭhārtha) of Maṅgalasena",
+ "notes": "The era is not named ('saṃvat'). VS is assumed because the colophon uses Nepali forms (āsune, kā), giving c. 1691 CE (Āśvina śukla 2). The weekday has not been checked. The catalogue gives Place 'Śivapurī' for 'syupurī'. That reading is plausible, but the identification is uncertain, so the normalized place is left empty. The catalogue's King 'Rājamalla / yoginīpattana' does not appear in the quoted colophon and is not included as a person. In the name, 'la' was inserted by the cataloguer ([[la]]). Maṅgalasena carries the Sena name, which may suggest a link to a Sena ruling house (Makwanpur/Palpa), but the colophon gives no title. His role is beneficiary (copied for his reading). The scribe is not named.",
+ "_meta": {
+  "reel": "A 225/13",
+  "model": "opus",
+  "cost_usd": 0.077762,
+  "secs": 15.3
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe's name read as Dhairyanārāyaṇa; 'vatāsa' moved to titles as an unclear prefix (possibly a corruption of a title such as khavāsa), and confidence lowered to medium",
+   "Weekday normalised: roja 5 = Thursday",
+   "Purpose added: the copy was made for Prince Upendravikrama Śāha",
+   "Notes expanded: King Rājendra is not named in the colophon; the reigning king in VS 1906 was Surendra"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīśrīrājakumāraupendravikramasāhadevasya",
+   "name": "Upendravikramaśāhadeva",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "rājakumāra"
+   ],
+   "affiliation": "Śāha dynasty",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ śrīśrīśrīrājakumāraupendravikramasāhadevasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vatāsadhairyyanārāyaṇena",
+   "name": "Dhairyanārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vatāsa (?)"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vatāsadhairyyanārāyaṇena likhitā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "idaṃ pustakaṃ śrīśrīśrīrājakumāraupendravikramasāhadevasya || vatāsadhairyyanārāyaṇena likhitā"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsamvat 1906 sāla miti. āṣāḍha śudi 8 roja 5",
+  "era": "VS",
+  "year": "1906",
+  "month": "āṣāḍha",
+  "paksa": "śukla (śudi)",
+  "tithi": "8",
+  "weekday": "Thursday (roja 5)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1849"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for (owned by) Prince Upendravikrama Śāha",
+ "notes": "The era is not named ('samvat ... sāla miti ... roja'), but the Nepali formula and the Śāha prince point to VS 1906, about 1849 CE. 'vatāsa' is unclear. It may be a family or office designation, or a corruption (perhaps of khavāsa, 'attendant'). The catalogue gives the scribe only as 'Nārāyana'. Upendravikrama Śāha was a son of King Rājendravikrama Śāha. Rājendra is not named in the colophon, so he is not recorded as a person. The reigning king in VS 1906 was Surendravikrama Śāha (from 1847), but he is not named either. The closing verse ('merau śivapraṇīte…') belongs to the text, not to the scribe.",
+ "_meta": {
+  "reel": "B 140/3",
+  "model": "opus",
+  "cost_usd": 0.069583,
+  "secs": 18.3
+ }
+}

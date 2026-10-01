@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe confidence lowered from high to medium: the name is marked (!), and it is followed by the crux †rāmana†, which may belong to the name.",
+   "Notes expanded to cover the crux, the Newari dating phrase and the date conversion."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñapurandarasi(!)ha",
+   "name": "Purandarasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "re(!)khaka daivajñapurandarasi(!)ha",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 882 ākhā(!)ḍakṛṣṇa(!) aṣṭami(!) kuhna coyā dina javo",
+  "era": "NS",
+  "year": "882",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1762"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is not named ('samvat 882'). It is taken as NS because the dating phrase is in Newari ('kuhna coyā dina javo' = 'written on that day'), and the catalogue says NS. NS 882 Āṣāḍha kṛṣṇa aṣṭamī falls in about mid-1762 CE. 'ākhāḍa' stands for āṣāḍha and 'rekhaka' for lekhaka. 'purandarasi(!)ha' is read as Purandarasiṃha. The name is directly followed by the crux †rāmana†, and the cataloguer notes that the line runs on to the right-hand margin. This crux may be the end of a longer name (e.g. Purandarasiṃha + Rāma…) or a separate damaged word, so the name is uncertain.",
+ "_meta": {
+  "reel": "A 470/36",
+  "model": "opus",
+  "cost_usd": 0.066998,
+  "secs": 13.4
+ }
+}

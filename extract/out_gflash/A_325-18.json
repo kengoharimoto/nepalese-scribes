@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṣaṃ[paṇa]karācāryya",
+   "name": "Kṣapaṇaka",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṣaṃ[paṇa]karācāryya viracītaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 840 jyeṣṭha kṛṣṇa triyodasyāṃ (!) budhadine",
+  "era": "NS",
+  "year": "840",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "triyodasyāṃ",
+  "weekday": "budhadine",
+  "nakshatra_yoga": "",
+  "ce_approx": "1720"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Includes the standard scribal formula 'jādṛṣṭi… mama doṣo na dīyate' (yādṛśaṃ pustakaṃ dṛṣṭvā...), but the scribe's name is not mentioned.",
+ "_meta": {
+  "reel": "A 325/18",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 812,
+  "out_tok": 939
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daśarathaśarmmaṇēna",
+   "name": "Daśaratha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "litaṃ (!) daśarathaśarmmaṇēna",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śākeṃduśasisaptabhūḥ māse śrāvaṇakṛṣṇāṣṭamiṣu vāsare saśiputraś ca",
+  "era": "ŚS",
+  "year": "1711",
+  "month": "Śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "saśiputra (Budhavāsara / Wednesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1789"
+ },
+ "place": {
+  "as_written": "mokāṃ brāhmaṇagrāme",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is expressed via bhūtasaṃkhyā: indu (1), śasi (1), sapta (7), bhū (1) = Śāke 1711.",
+ "_meta": {
+  "reel": "B 294/9",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 857,
+  "out_tok": 987
+ }
+}

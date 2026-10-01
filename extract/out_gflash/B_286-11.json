@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śṛīmadhusūdanapaṃḍita",
+   "name": "Madhusūdana",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śṛīmadhusūdanapaṃḍitaviracitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "aśvākāśavasukṣapākaramite samvatsare pūṣaṇe tūlāsthe sita pakṣake śanidine",
+  "era": "unspecified",
+  "year": "1807",
+  "month": "tūlā (solar)",
+  "paksa": "sita",
+  "tithi": "",
+  "weekday": "śanivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1750"
+ },
+ "place": {
+  "as_written": "trituṃge",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram aśva (7) - ākāśa (0) - vasu (8) - kṣapākara (1) yields 1807 (likely Vikrama Saṃvat = c. 1750 CE). Tritunghe could refer to the location of copying.",
+ "_meta": {
+  "reel": "B 286/11",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 705,
+  "out_tok": 1242
+ }
+}

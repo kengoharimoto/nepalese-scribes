@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsubbāviṣṇuprasādena",
+   "name": "Viṣṇuprasāda",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "subbā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsubbāviṣṇuprasādena sikṣita (!)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nausiṃdāprabhāmunivajrācāryyena",
+   "name": "Prabhāmuni",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "nausiṃdā",
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nausiṃdāprabhāmunivajrācāryyena (!) likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "śrīsubbāviṣṇuprasādena sikṣita (!) nausiṃdāprabhāmunivajrācāryyena (!) likhitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1958 sālamiti māghavadi 12 roja 4",
+  "era": "VS",
+  "year": "1958",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "12",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1902"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The clerk (nausiṃdā) Prabhāmuni Vajrācārya copied the manuscript under the instruction/commission (śikṣita) of Subbā Viṣṇuprasāda.",
+ "_meta": {
+  "reel": "A 149/5",
+  "model": "gemini-flash-latest",
+  "secs": 6.2,
+  "in_tok": 766,
+  "out_tok": 1341
+ }
+}

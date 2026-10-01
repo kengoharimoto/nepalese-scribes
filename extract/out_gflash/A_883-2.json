@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhairaviśaraṇena",
+   "name": "Bhairavīśaraṇa",
+   "roles": [
+    "scribe",
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhairaviśaraṇena (!) lipikṛtaṃ (8) svapaṭhanārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "kāśyāṃ madhye śrīsaṃkaṭādevyā (!) prasādāt śrīvidyeśvarasaṃnidho (!)",
+  "normalized": "Varanasi"
+ },
+ "purpose": "svapaṭhanārtham",
+ "notes": "",
+ "_meta": {
+  "reel": "A 883/2",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 751,
+  "out_tok": 730
+ }
+}

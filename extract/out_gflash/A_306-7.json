@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "lekhakalokamaniśarmaṇā",
+   "name": "Lokamaṇi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhakalokamaniśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1778 || jyeṣṭa va || 30 || roja || 2 ||",
+  "era": "ŚS",
+  "year": "1778",
+  "month": "jyeṣṭa",
+  "paksa": "va",
+  "tithi": "30",
+  "weekday": "roja 2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1856"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 306/7",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 809,
+  "out_tok": 1121
+ }
+}

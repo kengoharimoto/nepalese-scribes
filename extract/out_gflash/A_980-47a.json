@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 982",
+  "era": "NS",
+  "year": "982",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1862"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon contains lacunae after 'samvat 982'; no persons are mentioned.",
+ "_meta": {
+  "reel": "A 980/47a",
+  "model": "gemini-flash-latest",
+  "secs": 2.8,
+  "in_tok": 713,
+  "out_tok": 425
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śaṃkarabhagavataḥ",
+   "name": "Śaṅkara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya",
+    "bhagavat"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śaṃkarabhagavataḥ (!) kṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "govinda(3)bhagavatapūjyapāda",
+   "name": "Govindabhagavatpūjyapāda",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya",
+    "bhagavatpūjyapāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "govinda(3)bhagavatapūjyapādaśiṣya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "govinda(3)bhagavatapūjyapādaśiṣya"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1954 sāla miti caitraśudi 7 roja 3",
+  "era": "VS",
+  "year": "1954",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "roja 3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1897"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "jīrṇoddhāra",
+ "notes": "No scribe name is preserved; the text notes it was copied as a restoration of an old manuscript (jirṇṇa uddhāra liṣitam).",
+ "_meta": {
+  "reel": "A 972/9",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 785,
+  "out_tok": 1200
+ }
+}

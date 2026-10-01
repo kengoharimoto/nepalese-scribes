@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jānakīrāme",
+   "name": "Jānakīrāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jānakīrāme (!) likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīkṛṣṇa jośī",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pustakamidaṃ śrīkṛṣṇa jośī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "jānakīrāme (!) likhitaṃ ... pustakamidaṃ śrīkṛṣṇa jośī"
+  }
+ ],
+ "date": {
+  "as_written": "mārgaśirṣa śukla 3 bhṛgudine saṃvat 1927",
+  "era": "VS",
+  "year": "1927",
+  "month": "mārgaśirṣa",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "bhṛgudine",
+  "nakshatra_yoga": "",
+  "ce_approx": "1870"
+ },
+ "place": {
+  "as_written": "mīrajāpura viṃdhakṣetre gaṃgātīre",
+  "normalized": "Mirzapur"
+ },
+ "purpose": "śrīrāmaprītyarthaṃ",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1173/32",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 799,
+  "out_tok": 1393
+ }
+}

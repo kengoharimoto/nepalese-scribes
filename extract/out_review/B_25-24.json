@@ -1,0 +1,74 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 roles: dropped 'commissioner' because the verb is 'likhitam' (written), not 'likhāpitam'. The instrumental agent ('…vāsinā … puṇyārthinā … likhitam') is the writer. Read Vajābhāvoka as that agent (genitive -kasya for instrumental -kena), giving roles scribe + beneficiary ('pūjārthaṃ'). Confidence lowered to low.",
+   "p2 residence normalised to 'Hallapiṅga viṣaya, Kāthadhuṭollaka' (kāpicāsinā read as -ka-vāsinā).",
+   "p1 confidence lowered to low: no king 'Mandaratha' is known for Nepal c. 1092 (Harṣadeva or Śivadeva). He may be a local ruler of Hallapiṅga, or the name may be corrupt.",
+   "date.weekday given as 'Friday (śukradine)'; nakṣatra normalised to Aśvinī.",
+   "notes rewritten."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmandarathasya rāja",
+   "name": "Mandaratha",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmandarathasya rāja",
+   "confidence": "low"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kulaputravajābhāvokasya",
+   "name": "Vajābhāvoka",
+   "roles": [
+    "scribe",
+    "beneficiary"
+   ],
+   "titles": [
+    "kulaputra"
+   ],
+   "affiliation": "",
+   "residence": "Hallapiṅga viṣaya, Kāthadhuṭollaka",
+   "evidence": "kāthadhuṭōllakāpicāsinā kulaputravajābhāvokasya pūjārthas puṇyārthinā … khitam",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīmandarathasya rāja (śrīhallapiṅgaviṣaye … kulaputravajābhāvokasya"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 212 phālguṇaśuklaaśvanī(!) nakṣatre śukradine",
+  "era": "NS",
+  "year": "212",
+  "month": "phālguṇa",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "Friday (śukradine)",
+  "nakshatra_yoga": "Aśvinī",
+  "ce_approx": "1092"
+ },
+ "place": {
+  "as_written": "śrīhallapiṅgaviṣaye kāthadhuṭōllakāpicāsinā",
+  "normalized": ""
+ },
+ "purpose": "pūjārtha, puṇyārtha (for Vajābhāvoka's worship and merit)",
+ "notes": "'rāja' probably stands for 'rājye' (under the reign of). No king named 'Mandaratha' is known in Nepal around NS 212 (1092 CE), when Harṣadeva or Śivadeva ruled. He may be a local ruler of the Hallapiṅga viṣaya, or the name may be corrupt (e.g. for 'śrīmad-…'). 'kāthadhuṭōllakāpicāsinā' is probably an error for 'kāthadhuṭollaka-vāsinā' (resident of Kāthadhuṭollaka). The colophon has an instrumental agent ('…vāsinā … puṇyārthinā … [li]khitam') alongside the genitive 'kulaputravajābhāvokasya pūjārtha[ṃ]'. There are two readings: (a) the genitive is a case error for the instrumental, so Vajābhāvoka is the scribe and wrote the copy for his own worship (adopted here); (b) the writer is unnamed and Vajābhāvoka is only the beneficiary. Nothing supports 'commissioner', since the verb is likhitam, not likhāpitam. 'khitam(!)' = likhitam. The name may be a corruption of 'Vajrābhāvoka' or similar. The tithi is not stated.",
+ "_meta": {
+  "reel": "B 25/24",
+  "model": "opus",
+  "cost_usd": 0.10350999999999999,
+  "secs": 28.4
+ }
+}

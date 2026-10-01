@@ -1,0 +1,68 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 as_written trimmed to 'rāmacaṃdreṇa'; 'kavī ityupanāmakaṃ' explained as a surname (upanāma), kept in titles as 'kavi'",
+   "p1: added role 'owner' because the copy was made svārtha (for himself) as well as paropakārārtham (for others); confidence medium for that role",
+   "Added p2 'Vārāmatīkara' (low confidence): the householder in whose house the copy was finished. Probably a Marathi surname, Bārāmatīkar ('man from Baramati')",
+   "Notes: the Vāṅmatī-tīre emendation dropped as unlikely. Marathi features ('kavī' upanāma, -kara surname, Saṅkaṭādevī) point to a Maharashtrian scribe",
+   "weekday normalised to Thursday (guruvāsara)",
+   "purpose rephrased"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmacaṃdreṇa",
+   "name": "Rāmacandra",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitvā rāmacaṃdreṇa kavī ityupanāmakaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vārāmatīkaragṛhe",
+   "name": "Vārāmatīkara",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vārāmatīkaragṛhe samāptaḥ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "kārtike sitapakṣe tu pratipat (!) guruvāsare || ... saṃvat 1926",
+  "era": "VS",
+  "year": "1926",
+  "month": "Kārttika",
+  "paksa": "śukla (sita)",
+  "tithi": "pratipad (1)",
+  "weekday": "Thursday (guruvāsara)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1869"
+ },
+ "place": {
+  "as_written": "vārāmatīkaragṛhe",
+  "normalized": ""
+ },
+ "purpose": "svārtha and paropakārārtham (for himself and for the benefit of others); offered to Saṅkaṭādevī (śrīsaṃkaṭādevyarpaṇam astu)",
+ "notes": "The era is given only as 'saṃvat'. VS is assumed (VS 1926 = 1869 CE), which fits the Devanagari script and the catalogue's 'SAM 1926'. The weekday was not checked. 'kavī ityupanāmakaṃ' means the scribe's surname (upanāma) was Kavi. 'vārāmatīkaragṛhe' most likely means 'in the house of Vārāmatīkara', a Marathi-style surname (Bārāmatīkar, i.e. a family from Baramati). It could also be read as a place, the house at Bārāmatī. Together with the dedication to Saṅkaṭādevī, this suggests the manuscript was copied in Maharashtra rather than Nepal. That is not certain, so 'normalized' is left empty.",
+ "_meta": {
+  "reel": "B 157/7c",
+  "model": "opus",
+  "cost_usd": 0.08335800000000002,
+  "secs": 19.2
+ }
+}

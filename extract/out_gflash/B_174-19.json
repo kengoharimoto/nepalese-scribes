@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "premanidhiśarma",
+   "name": "Premanidhi",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "bhāradvājakula",
+   "residence": "Kūrmācala",
+   "evidence": "premanidhiśarmanirmitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1816 mī kārtīkamāse kṛṣna pakṣa ekādaśyāvāramaṃgarakelī",
+  "era": "VS",
+  "year": "1816",
+  "month": "kārtīka",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī",
+  "weekday": "maṃgara (Tuesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1759"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author is the well-known 18th-century tantric scholar Premanidhi Pantha (Premanidhi Śarman) of Kūrmācala (Kumaon), designated here as 'bhāradvājakulaprasūta yaṃtokanāmaka kūrmācalāśrita'. Scribe is unnamed ('ye deṣasi līṣā mama doṣo na dīyate').",
+ "_meta": {
+  "reel": "B 174/19",
+  "model": "gemini-flash-latest",
+  "secs": 7.3,
+  "in_tok": 760,
+  "out_tok": 1431
+ }
+}

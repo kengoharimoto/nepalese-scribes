@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgaṃgādharaśarmmaṇā",
+   "name": "Gaṅgādhara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "iti śrīgaṃgādharaśarmmaṇā viracitā gaṅgādharī ṭīkā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīdevaśaṅkaraśarmmā",
+   "name": "Devaśaṅkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman",
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "svanimhavantāgṛha (Svanimhavantā house)",
+   "evidence": "svanimhavantāgṛhanivāsito viprakulodbhavaḥ śrīgaṇapatiśarmmaṇaḥ putraḥ śrīdevaśaṅkaraśarmmāmūṃ gaṅgādharīṭīkām alīlikhat",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīgaṇapatiśarmmaṇaḥ",
+   "name": "Gaṇapati",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgaṇapatiśarmmaṇaḥ putraḥ śrīdevaśaṅkaraśarmmā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "śrīgaṇapatiśarmmaṇaḥ putraḥ śrīdevaśaṅkaraśarmmā"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 823 āśvinamāse kṛṣṇapakṣe daśamyāṃ tithāv ādityavāre",
+  "era": "NS",
+  "year": "823",
+  "month": "Āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "Sunday (ādityavāra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1703"
+ },
+ "place": {
+  "as_written": "svanimhavantāgṛha",
+  "normalized": ""
+ },
+ "purpose": "\"\" ",
+ "notes": "Catalogue scribe Devaśaṅkara Śarmā agrees with the colophon. Gaṅgādhara is the author of the Gaṅgādharī ṭīkā (listed only for filtering). \"svanimhavantāgṛha\" is probably a Newar house or quarter name (the form is uncertain) and is recorded as residence, not as a normalized place. No king or commissioner is named.",
+ "_meta": {
+  "reel": "A 999/23",
+  "model": "sonnet",
+  "cost_usd": 0.0334392,
+  "secs": 7.8
+ }
+}

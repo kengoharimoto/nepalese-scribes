@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvāgīśabhaṭṭācārya",
+   "name": "Vāgīśa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvāgīśabhaṭṭā(10)cāryaviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "lālaratnāka(11)reṇa",
+   "name": "Lālaratnākara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lālaratnāka(11)reṇa likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nigamajaladhibhūbhṛtkṣmāśake caitramāsi dhavaladalakṛtāṃtasyāhni vāgīśavāre",
+  "era": "ŚS",
+  "year": "1744",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "kṛtāntasyāhan (caturdaśī?)",
+  "weekday": "guruvara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1822"
+ },
+ "place": {
+  "as_written": "tripuraharanagaryyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "sajjanālokanārtham",
+ "notes": "Chronogram: nigama (4) + jaladhi (4) + bhūbhṛt (7) + kṣmā (1) = ŚS 1744. Place is designated by the epithet Tripuraharanagarī (city of Śiva, i.e. Vārāṇasī/Kāśī). Vāgīśavāra is Thursday (Bṛhaspativāra).",
+ "_meta": {
+  "reel": "B 75/18",
+  "model": "gemini-flash-latest",
+  "secs": 7.7,
+  "in_tok": 769,
+  "out_tok": 1507
+ }
+}

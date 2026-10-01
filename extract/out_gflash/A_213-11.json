@@ -1,0 +1,68 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāśirāja",
+   "name": "Kāśirāja",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāśirājaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sukirtidattaś",
+   "name": "Sukīrtidatta",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sukirtidattaś caraṇa sadāsarvadā śubham bhūyāt",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "sukradattena",
+   "name": "Śukradatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "alikhat sukradattena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "āṣāḍhike śite pakṣe bhūrāmāṅkenduvatsare ... daśami bhaumavāsare",
+  "era": "VS",
+  "year": "1931",
+  "month": "Āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "bhaumavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1874"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is expressed via the chronogram bhūrāmāṅkendu (bhū = 1, rāma = 3, aṅka = 9, indu = 1 -> 1931 VS). Sukīrtidatta is invoked alongside Rāma and Sītā (śrīrāma śitājikā caraṇa o sukirtidattaś caraṇa), possibly as the guru or father of scribe Śukradatta.",
+ "_meta": {
+  "reel": "A 213/11",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 757,
+  "out_tok": 1304
+ }
+}

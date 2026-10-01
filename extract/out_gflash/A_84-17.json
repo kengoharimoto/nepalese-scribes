@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mamāmahopādhyāyaśaṃkaramiśra",
+   "name": "Śaṅkaramiśra",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mamāmahopādhyāyaśaṃkaramiśrakṛtātmatattvavivekakalpalatā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrībhavanātha",
+   "name": "Bhavanātha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhavanāthātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrībhavanāthātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1955 āṣāḍhasita pratipadi",
+  "era": "VS",
+  "year": "1955",
+  "month": "āṣāḍha",
+  "paksa": "sita",
+  "tithi": "pratipad",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1898"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue wrongly records Bhavanātha as scribe; he is mentioned as the father of the commentator Śaṅkaramiśra (śrībhavanāthātmaja mamāmahopādhyāyaśaṃkaramiśra...).",
+ "_meta": {
+  "reel": "A 84/17",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 703,
+  "out_tok": 1358
+ }
+}

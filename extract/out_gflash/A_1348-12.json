@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭadāmodara",
+   "name": "Dāmodara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "cittapāvana",
+   "residence": "",
+   "evidence": "cittapāvanajānīya jānakīraghunāthātmaja bhaṭṭadāmodaraviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jānakīraghunāthātmaja",
+   "name": "Jānakīraghunātha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jānakīraghunāthātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rājadaivajñapūrṇānaṃdena",
+   "name": "Pūrṇānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "rājadaivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājadaivajñapūrṇānaṃdena ... likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "jānakīraghunāthātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "kaśe(!) 1607 mārgaśiravadi, aṣṭamīmaghānakṣetre, somadine ... nepalsaṃvat 806 kārttikavadi, aṣṭamī, maghānakṣetre, somadine",
+  "era": "ŚS",
+  "year": "1607 (NS 806)",
+  "month": "Mārgaśira / Kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "maghā",
+  "ce_approx": "1685"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svapaṭhanārthaṃ paropakārārthaṃ ca",
+ "notes": "Both Śaka era 1607 (written kaśe) with pūrṇimānta Mārgaśīrṣa and Nepāla Saṃvat 806 with amānta Kārttika refer to the identical date in November 1685 CE. The catalogue lists the scribe as 'Pūrṇānandarāja Daivajña', but 'rājadaivajña' is an official title ('court astrologer') followed by the personal name Pūrṇānanda.",
+ "_meta": {
+  "reel": "A 1348/12",
+  "model": "gemini-flash-latest",
+  "secs": 8.5,
+  "in_tok": 830,
+  "out_tok": 2144
+ }
+}

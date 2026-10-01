@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vaṃśīdhara",
+   "name": "Vaṃśīdhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmācārya"
+   ],
+   "affiliation": "",
+   "residence": "Vidyāpīṭha",
+   "evidence": "likhiti (!) vidyāpīṭhayā krarmmācārya (!), vaṃśīdhara",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 806 vaiśāṣamāse (!) kṛṣṇapakṣe navamī bṛhaspativāre",
+  "era": "NS",
+  "year": "806",
+  "month": "Vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "navamī",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1686"
+ },
+ "place": {
+  "as_written": "vidyāpīṭhayā",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "G 68/8c",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 898,
+  "out_tok": 1105
+ }
+}

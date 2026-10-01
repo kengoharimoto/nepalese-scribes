@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vaidya kṛṣṇadevasya",
+   "name": "Kṛṣṇadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lipir vaidya kṛṣṇadevasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 780",
+  "era": "NS",
+  "year": "780",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1660"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "śrīsadāśiva kṛpā bhūyāt is an invocation to Lord Sadāśiva.",
+ "_meta": {
+  "reel": "B 282/13",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 702,
+  "out_tok": 628
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "miśra laṭakana",
+   "name": "Laṭakana",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "miśra laṭakanatanaya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmadbhāva",
+   "name": "Bhāva",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadbhāva viracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "miśra laṭakanatanaya śrīmadbhāva"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 957 śrāvaṇa śudi 7",
+  "era": "NS",
+  "year": "957",
+  "month": "śrāvaṇa",
+  "paksa": "śudi",
+  "tithi": "7",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1837"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "yathā śāstrokta phala prāptavān bhūyāt",
+ "notes": "The cataloguer recorded the place of copying as 'lalitāpurimahānagare cyāsalatola, cikaṃvvahīra', which was omitted with ellipses (… ) in the transcribed colophon text.",
+ "_meta": {
+  "reel": "B 168/3",
+  "model": "gemini-flash-latest",
+  "secs": 7.7,
+  "in_tok": 786,
+  "out_tok": 1386
+ }
+}

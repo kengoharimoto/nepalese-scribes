@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsaccidānaṃdanātha",
+   "name": "Saccidānandanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "nātha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsaccidānaṃdanāthaviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chapter/text colophon mentioning only the author Saccidānandanātha.",
+ "_meta": {
+  "reel": "A 185/16",
+  "model": "gemini-flash-latest",
+  "secs": 2.4,
+  "in_tok": 686,
+  "out_tok": 412
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayanareśamalladevaprabhunā(!)",
+   "name": "Jayanareśamalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "prabhu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayanareśamalladevaprabhunā(!) likhāpitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "daivajñasumeruṇā",
+   "name": "Sumeru",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñasumeruṇā likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "śrīśrījayanareśamalladevaprabhunā(!) likhāpitaṃ (!) daivajñasumeruṇā likhitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 749 śrāvaṇakṛṣṇāṣṭamyāṃ, rohiṇī somavāsare",
+  "era": "NS",
+  "year": "749",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "somavāsara",
+  "nakshatra_yoga": "rohiṇī",
+  "ce_approx": "1629"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 393/32",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 796,
+  "out_tok": 1528
+ }
+}

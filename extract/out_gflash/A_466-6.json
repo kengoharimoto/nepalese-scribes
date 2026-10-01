@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "tīrthadatto / tirthadataśarmaṇā",
+   "name": "Tīrthadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvijendra",
+    "śarman",
+    "viprottama"
+   ],
+   "affiliation": "Bhāradvāja gotra",
+   "residence": "Kāntipurī",
+   "evidence": "tirthadatto dvijendra || samalikhadati ... likhitam bhāradvāja gotrotpannena tirtha(8)dataśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vidhunagaghana śāke jñeśive ... tapasi ca śitipakṣe ... samvat 1950 sāla miti māghaśudi 8 roja 3",
+  "era": "VS",
+  "year": "1950",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "8",
+  "weekday": "roja 3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1894"
+ },
+ "place": {
+  "as_written": "kāntipuryā",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "Both the chronogram in Śāka era (ŚS 1815) and the numerical Vikram era date (VS 1950) are given in the colophon.",
+ "_meta": {
+  "reel": "A 466/6",
+  "model": "gemini-flash-latest",
+  "secs": 8.1,
+  "in_tok": 841,
+  "out_tok": 1840
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Maṇiratnadhara: roles reduced to 'owner' (he is the recipient of the gift, 'yātā biyā'; 'beneficiary' not supported)",
+   "Title normalized to 'vidyācārya' (as_written vidyācājya kept in evidence); Vidyāpīṭha kept as affiliation only, residence emptied (yā = genitive 'of', more likely an institution than a stated residence)",
+   "Notes expanded: 〈〈 〉〉 around the name, Newari reading of the formula, the curse formula, donor not named"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "maṇiratnadhara",
+   "name": "Maṇiratnadhara",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "vidyācārya"
+   ],
+   "affiliation": "Vidyāpīṭha",
+   "residence": "",
+   "evidence": "vidyāpīthayā vidyācājya 〈〈 maṇiratnadhara〉〉 (5) yatā biyā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 871 āṣāḍha śudi 12",
+  "era": "NS",
+  "year": "871",
+  "month": "āṣāḍha",
+  "paksa": "śudi",
+  "tithi": "12",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1751"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "gift: given to Vidyācārya Maṇiratnadhara of Vidyāpīṭha (yātā biyā)",
+ "notes": "Newari: 'sidhayakāva' = siddha yānāva ('having completed'); '... yatā (= yātā) biyā' = '(it was) given to ...'; 'thva saṃphula sunānaṃ lobha yātasā pañcamahāpātaka julo' = 'whoever covets this book incurs the five great sins'. The person giving the book (donor, perhaps also the scribe) is not named. The cataloguer puts the name in 〈〈 〉〉, which may mean it was inserted or rewritten, so the recipient's name could be a later addition. vidyācājya = Newari spelling of vidyācārya; a garbled vajrācārya is also possible. 'vidyāpītha' = Vidyāpīṭha, possibly a vihāra or tantric seat; I could not identify it for certain. The date may be the date of completing the copy or the date of the gift. NS 871 + 880 = 1751 CE.",
+ "_meta": {
+  "reel": "A 622/8b",
+  "model": "opus",
+  "cost_usd": 0.07675399999999999,
+  "secs": 18.4
+ }
+}

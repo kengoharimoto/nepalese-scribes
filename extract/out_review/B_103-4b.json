@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Confidence for Bhūpakamalla lowered from medium to low: the whole passage is in the cataloguer's parentheses and is garbled. The name and the authorship are uncertain.",
+   "Notes expanded with other possible readings: the name may be a Malla king (for example a corruption of Bhūpatīndramalla); 'tapavana vimocano' may be 'tapovanavimocana'; and 'munīndra' might belong with the following name rather than being an epithet of the Buddha.",
+   "Recorded in the notes that the colophon gives no scribe, date or place."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhupakamalla",
+   "name": "Bhūpakamalla",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhupakamalla virita",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The only personal name is in the cataloguer's parenthetical '(bhupakamalla virita tapavana vimocano)'. This passage looks garbled or tentative. 'virita' probably stands for 'viracita' ('composed by'), so the person is an author or compiler, not the scribe. 'bhupakamalla' may be a corrupt form of a Malla king's name (for example Bhūpatīndramalla of Bhaktapur, 1696–1722), or 'bhūpa' may be a royal epithet. 'śrīmaṃmunīndra' (= śrīman munīndra) most likely refers to the Buddha, though it could also be read with the following name. 'tapavana vimocano' may be 'tapovanavimocana', part of the title. The colophon gives no scribe, date or place.",
+ "_meta": {
+  "reel": "B 103/4b",
+  "model": "opus",
+  "cost_usd": 0.06778999999999999,
+  "secs": 13.3
+ }
+}

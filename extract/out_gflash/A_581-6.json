@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭojidīkṣita",
+   "name": "Bhaṭṭoji",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭojidīkṣitaviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1668 māse 3 pakṣe 1 vāre 4",
+  "era": "ŚS",
+  "year": "1668",
+  "month": "3",
+  "paksa": "1",
+  "tithi": "",
+  "weekday": "vāre 4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1746"
+ },
+ "place": {
+  "as_written": "vārāṇasyām",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 581/6",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 742,
+  "out_tok": 896
+ }
+}

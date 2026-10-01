@@ -1,0 +1,60 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmattarkālaṃkārajagadīśabhaṭṭācārya",
+   "name": "Jagadīśa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "tarkālaṃkāra",
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmattarkālaṃkārajagadīśabhaṭṭācāryaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vibudhalālaratnanidhiśarmavipro",
+   "name": "Ratnanidhi Śarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vibudhalālaratnanidhiśarmavipro ʼlikhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "khapañcaturagadvijādhipasame śake māsake śucau sitadale tithau śivamite budhe śakrabhe",
+  "era": "ŚS",
+  "year": "1750",
+  "month": "Āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "Jyeṣṭhā",
+  "ce_approx": "1828"
+ },
+ "place": {
+  "as_written": "pure acalasute (śiturṣuvamude)",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram: kha (0) + pañca (5) + turaga (7) + dvijādhipa (1) = Śaka 1750. Month śuci = Āṣāḍha; tithi śivamita = 11; śakrabha = Jyeṣṭhā. The place may refer to Kāśī/Vārāṇasī (acalasuteśituḥ pure, 'in the city of the lord of Pārvatī'). The scribe's name may be Vibudhalāla Ratnanidhi Śarman, or Ratnanidhi Śarman described with the epithet vibudha-lāla.",
+ "_meta": {
+  "reel": "B 59/20",
+  "model": "gemini-flash-latest",
+  "secs": 10.7,
+  "in_tok": 791,
+  "out_tok": 2357
+ }
+}

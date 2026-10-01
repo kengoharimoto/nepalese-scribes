@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Residence normalized to Lamjung (was raw 'lamajum').",
+   "Added note: Lamjung is given as the scribe's residence (lamajum vasnyā), so it is only inferred as the place of copying; the name is normalized from 'pitāmvara' (v for b, short i).",
+   "Date, era (VS 1902 = c. 1845 CE), scribe role and title confirmed."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pitāmvara upādhyāle",
+   "name": "Pītāmbara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "Lamjung (lamajum)",
+   "evidence": "lamajum vasnyā pitāmvara upādhyāle lekhyāko",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1902 sālamā",
+  "era": "VS",
+  "year": "1902",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1845"
+ },
+ "place": {
+  "as_written": "lamajum",
+  "normalized": "Lamjung"
+ },
+ "purpose": "",
+ "notes": "The era is not named ('śrīsaṃvat … sālamā'). A Nepali colophon with year 1902 points to Vikrama Saṃvat, which matches the catalogue: 1902 − 57 = 1845 CE, possibly 1845/46. 'lamajum vasnyā' (residing in Lamjung) gives the scribe's residence, not explicitly the place of copying. The catalogue's 'Place of Copying: Lamajuṅ' is therefore an inference. The name is written 'pitāmvara' (Pitāmbara with v for b) and normalized to Pītāmbara. The phrase 'lekhyāko pustaka' only means 'book written by', so no owner or commissioner is stated.",
+ "_meta": {
+  "reel": "A 413/23",
+  "model": "opus",
+  "cost_usd": 0.066098,
+  "secs": 12.8
+ }
+}

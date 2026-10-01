@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jagadīśa tarkālaṃkāra bhaṭṭācārya",
+   "name": "Jagadīśa",
+   "roles": [
+    "author",
+    "commentator"
+   ],
+   "titles": [
+    "tarkālaṃkāra",
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī jagadīśa tarkālaṃkāra bhaṭṭācārya viracitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī saṃvat 1953 miti phālguna vadi 7",
+  "era": "VS",
+  "year": "1953",
+  "month": "phālguna",
+  "paksa": "vadi",
+  "tithi": "7",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1897"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribe or owner is named; the colophon concludes simply with 'likhitam'.",
+ "_meta": {
+  "reel": "B 45/3",
+  "model": "gemini-flash-latest",
+  "secs": 6.8,
+  "in_tok": 723,
+  "out_tok": 1246
+ }
+}

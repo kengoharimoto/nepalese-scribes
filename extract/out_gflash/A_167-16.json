@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmanmahārājādhirājatrivikramasenasya",
+   "name": "Trivikramasena",
+   "roles": [
+    "owner",
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ śrīmanmahārājādhirājatrivikramasenasyedam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1761 samaye nāma mārgasīrasudi chaṭivāra maṃgara vadi",
+  "era": "VS",
+  "year": "1761",
+  "month": "mārgasīra",
+  "paksa": "sudi",
+  "tithi": "chaṭi",
+  "weekday": "maṃgara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1704"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists the king as Vikramasena, but the text reads śrīmanmahārājādhirājatrivikramasenasya (Trivikramasena).",
+ "_meta": {
+  "reel": "A 167/16",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 715,
+  "out_tok": 855
+ }
+}

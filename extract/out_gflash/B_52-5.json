@@ -1,0 +1,83 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dīkṣitaviśvanātha",
+   "name": "Viśvanātha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdīkṣitaviśvanāthātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dīkṣita śrīkaṃṭhaśarma",
+   "name": "Śrīkaṇṭha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "dīkṣita",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dīkṣita śrīkaṃṭhaśarmaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "paṃḍita śukadevaśarmaṇā",
+   "name": "Śukadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paṇḍita",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "kāṣṭhamaṃḍapanārāyaṇahīṭīpradeśe",
+   "evidence": "likhitam idaṃ paṃḍita śukadevaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīdīkṣitaviśvanāthātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1797",
+  "era": "unspecified",
+  "year": "1797",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "kāṣṭhamaṃḍapanārāyaṇahīṭīpradeśe",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The catalogue suggests ŚS 1797 (= 1875 CE), but the text only gives 'samvat 1797', which could also refer to VS 1797 (= 1740 CE).",
+ "_meta": {
+  "reel": "B 52/5",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 822,
+  "out_tok": 1477
+ }
+}

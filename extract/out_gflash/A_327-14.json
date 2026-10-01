@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāśābdikaśrīpuruṣotta(4)madeva",
+   "name": "Puruṣottamadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāśābdika"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāśābdikaśrīpuruṣotta(4)madevaviracito",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 930 bhādra śudi 14 ro 4",
+  "era": "NS",
+  "year": "930",
+  "month": "bhādra",
+  "paksa": "śudi",
+  "tithi": "14",
+  "weekday": "ro 4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1810"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Weekday abbreviation 'ro 4' corresponds to the 4th day of the week (Wednesday, Budhavāra).",
+ "_meta": {
+  "reel": "A 327/14",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 688,
+  "out_tok": 767
+ }
+}

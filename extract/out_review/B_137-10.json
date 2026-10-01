@@ -1,0 +1,77 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 Jayakalyāṇa: removed 'commissioner' — the colophon gives only a genitive ('jayakalyāṇaviprasya ... tanmerutantraṃ'), which shows ownership, not that he had the copy made; kept 'owner', confidence lowered to medium; added the note that he was honoured by kings",
+   "p2 titles: kept dvijavara/vipra (brahmin descriptors)",
+   "p1: confidence lowered to medium; 'paḍmanārāyaṇakhaḥ' is probably a corruption of 'padmanārāyaṇākhyaḥ' ('named Padmanārāyaṇa')",
+   "date.nakshatra_yoga: vittarkṣa identified as Dhaniṣṭhā (vitta = dhana); 'nav saṃyute' left unexplained",
+   "date.year: still unresolved; added a note on a possible 'vyoma-bhūpa' reading",
+   "purpose: cleared — 'mokṣadaṃ' describes the text, not the purpose of copying"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paḍmanārāyaṇakhaḥ",
+   "name": "Padmanārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "gaṇaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhati hi gaṇakaḥ paḍmanārāyaṇakhaḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīdvijavarajayakalyāṇaviprasya",
+   "name": "Jayakalyāṇa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "dvijavara",
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdvijavarajayakalyāṇaviprasya nṛṇā || rājāṃ saṃmānitasya ... tanmerutantraṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "jayakalyāṇaviprasya ... tanmerutantraṃ ... likhati hi gaṇakaḥ paḍmanārāyaṇakhaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "śāke vjo bhūpagate vatsare taiṣaśuklake || caturthyām indudivase vittarkṣa nav saṃyute",
+  "era": "ŚS",
+  "year": "vjo bhūpa (corrupt)",
+  "month": "Pauṣa (Taiṣa)",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "Monday",
+  "nakshatra_yoga": "Dhaniṣṭhā (vittarkṣa)",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "śrīman nepāladeśe paśupatinikaṭe vāṅmatīnimnagāyās tīre kāntipure",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "\"copied for (or as the property of) the brahmin Jayakalyāṇa\"",
+ "notes": "\"The Śaka year chronogram 'vjo bhūpa' is corrupt. 'vjo' might stand for vyoma (0) and 'bhūpa' is 16. But read right to left that gives an impossible Śaka 160, so a word is probably missing. No CE year is given for that reason. Taiṣa = Pauṣa. Moon in Dhaniṣṭhā on Pauṣa śukla 4 is astronomically plausible. 'nav saṃyute' is unclear: it may hide a yoga name or a number. The scribe's name 'paḍmanārāyaṇakhaḥ' (!) is probably 'padmanārāyaṇākhyaḥ'. Jayakalyāṇa is described as a brahmin honoured by kings ('nṛṇāṃ rājñāṃ saṃmānitasya'). The genitive marks the copy as his, but the colophon does not say outright that he commissioned it. Place: Kāntipura (Kathmandu), on the Bāgmatī near Paśupati.\"",
+ "_meta": {
+  "reel": "B 137/10",
+  "model": "opus",
+  "cost_usd": 0.10179,
+  "secs": 25.9
+ }
+}

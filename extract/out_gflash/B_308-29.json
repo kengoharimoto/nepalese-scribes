@@ -1,0 +1,94 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhānudatta miśra",
+   "name": "Bhānudatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhānudatta miśra viracitā rasamaṃjarī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "tāta śrī harivaṃśa bhaṭṭa",
+   "name": "Harivaṃśa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tāta śrī harivaṃśa bhaṭṭaika caraṇaśaraṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "gopāla bhṭṭa",
+   "name": "Gopāla",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gopāla bhṭṭakṛtā rasika raṃjanī ṭīkā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "viṣṇu vallabhena",
+   "name": "Viṣṇuvallabha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Śrīnagara",
+   "evidence": "likhatsvayama 1693 śubhaṃ likhitā viṣṇu vallabhena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "tāta śrī harivaṃśa bhaṭṭaika caraṇaśaraṇa gopāla bhṭṭakṛtā"
+  }
+ ],
+ "date": {
+  "as_written": "netrāṃkabhūpa pramite śāke māghe gurau dvikegatyā(!) ... 1693",
+  "era": "ŚS",
+  "year": "1693",
+  "month": "māgha",
+  "paksa": "",
+  "tithi": "2",
+  "weekday": "gurau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1772"
+ },
+ "place": {
+  "as_written": "śrīnagarabhye",
+  "normalized": "Śrīnagara"
+ },
+ "purpose": "svārtha (likhat svayam)",
+ "notes": "Chronogram netrāṅkabhūpa yields 1692 (netra=2, aṅka=9, bhūpa=16), while the numerical figure written is 1693 Śāke. 'śrīnagarabhye' appears to be an error for 'śrīnagarākhye' or 'śrīnagara-madhye'.",
+ "_meta": {
+  "reel": "B 308/29",
+  "model": "gemini-flash-latest",
+  "secs": 8.9,
+  "in_tok": 811,
+  "out_tok": 2211
+ }
+}

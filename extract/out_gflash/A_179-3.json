@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñakṛṣṇena",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñakṛṣṇena likhitam idaṃ pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśakarāje 1695 vikaramābde 1830 caitramāse kṛṣṇapakṣe paṃcamyān tithau viśāṣā(!) nakṣatre vṛhaspativāsare",
+  "era": "ŚS",
+  "year": "1695 (ŚS) / 1830 (VS)",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "viśāṣā",
+  "ce_approx": "1773"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śaka and Vikrama eras are given: ŚS 1695 and VS 1830.",
+ "_meta": {
+  "reel": "A 179/3",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 791,
+  "out_tok": 1173
+ }
+}

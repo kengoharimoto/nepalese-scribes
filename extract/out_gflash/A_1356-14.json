@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭanārāyaṇa",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭanārāyaṇa viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kṣamādevena",
+   "name": "Kṣamādeva",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṣamādevena satvaram || lekhāyitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vanhi durgādribhū śāke ... śuklapakṣe śrāvaṇarudrake tithau",
+  "era": "ŚS",
+  "year": "1793",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1871"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'vanhi-durgādri-bhū' indicates Śāka 1793 (vanhi = 3, durgā = 9, adri = 7, bhū = 1). Rudra indicates the 11th tithi.",
+ "_meta": {
+  "reel": "A 1356/14",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 721,
+  "out_tok": 1048
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sukṛtirāmabhadraḥ",
+   "name": "Rāmabhadra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "dvijakula",
+   "residence": "",
+   "evidence": "kavirāmabhadrakṛtaṃ kaviprītidaṃ praśasti ratnākhyaṃ kāvyaṃ samāptim agamat",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "karuṇākaropādhyāya",
+   "name": "Karuṇākara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "dvijakula",
+   "residence": "",
+   "evidence": "śrīmaddvijakulatilakakaruṇākaropādhyāyasuta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "karuṇākaropādhyāyasuta"
+  }
+ ],
+ "date": {
+  "as_written": "śakedharaṇikhāgabhūparimite 1701 śucau māsibhe samīraṇasuresite haritithi jyavārānvite",
+  "era": "ŚS",
+  "year": "1701",
+  "month": "śuci",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "samīraṇa",
+  "ce_approx": "1779"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date records the composition of the text (or copying): Śaka 1701, month Śuci (Āṣāḍha), bright fortnight (site), 11th tithi (haritithi), Thursday (jīva/jyavāra).",
+ "_meta": {
+  "reel": "A 386/13",
+  "model": "gemini-flash-latest",
+  "secs": 6.2,
+  "in_tok": 775,
+  "out_tok": 1464
+ }
+}

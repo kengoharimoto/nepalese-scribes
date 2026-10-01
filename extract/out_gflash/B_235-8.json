@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkṛpārāmavipra",
+   "name": "Kṛpārāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkṛpārāmaviprajīrṇu(!)ddārayāṅa coyā julo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "naipālikasamvat 929 kārtikaśudi 10 dhane(!)ṣṭhanakṣatre gaṃḍayoge vṛhaspativāraḥ",
+  "era": "NS",
+  "year": "929",
+  "month": "kārtika",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "vṛhaspativāra",
+  "nakshatra_yoga": "dhaneṣṭhā, gaṇḍa",
+  "ce_approx": "1808"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "jīrṇoddhāra",
+ "notes": "The manuscript was copied as a restoration/repair (jīrṇoddhāra yāṅā coyā julo) of an old manuscript.",
+ "_meta": {
+  "reel": "B 235/8",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 807,
+  "out_tok": 902
+ }
+}

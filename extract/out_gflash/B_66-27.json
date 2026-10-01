@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "tulasiṃhakārkirvarmaṇaḥ",
+   "name": "Tulasiṃha",
+   "roles": [
+    "scribe",
+    "beneficiary"
+   ],
+   "titles": [
+    "kārkivarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitamidaṃ tulasiṃhakārkirvarmaṇaḥ kṛteḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1882 pauṣaśukla 7 ravau",
+  "era": "VS",
+  "year": "1882",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "ravau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1825"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "tulasiṃhakārkirvarmaṇaḥ kṛteḥ",
+ "notes": "The phrase 'likhitamidaṃ tulasiṃhakārkirvarmaṇaḥ kṛteḥ' could either mean 'written for the sake of Tulasiṃha Kārkivarman' (beneficiary/commissioner) or represent an ungrammatical 'by the work/hand of Tulasiṃha Kārkivarman' (scribe, as read by the cataloguer).",
+ "_meta": {
+  "reel": "B 66/27",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 712,
+  "out_tok": 1115
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhaṭṭarāghava",
+   "name": "Rāghava",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhaṭṭarāghavaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1954 sāla miti pauṣa vadi 10 roja 1",
+  "era": "VS",
+  "year": "1954",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "roja 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1897"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "jīrṇoddhāra (restoration/copying of a dilapidated manuscript)",
+ "notes": "The colophon records two dates: the earlier date from the exemplar (samvat 1719 varṣe śāke 1585 Vaiśākha śukla 11 roja 5) and the completion date of the restoration/copying (VS 1954 Pauṣa vadi 10 roja 1).",
+ "_meta": {
+  "reel": "B 158/2",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 775,
+  "out_tok": 1207
+ }
+}

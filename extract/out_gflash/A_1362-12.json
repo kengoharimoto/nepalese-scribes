@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "suṃjādityena",
+   "name": "Suñjāditya",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "suṃjādityena viracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jaikaraṇadāsa",
+   "name": "Jaikaraṇadāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṭhanārthaṃ jaikaraṇadāsa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "lālārāma kṛṣṇadāsa kṣatriyā",
+   "name": "Rāmakṛṣṇadāsa",
+   "roles": [
+    "commissioner",
+    "reader"
+   ],
+   "titles": [
+    "lālā",
+    "kṣatriya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lālārāma kṛṣṇadāsa kṣatriyādvāra paṭhanārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "lālārāma kṛṣṇadāsa kṣatriyādvāra paṭhanārthaṃ jaikaraṇadāsa"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 18||52|| māśotamāse(!) aśvana(!) māse kṛṣṇapakṣe caturdaśyāṃvāra ādityām",
+  "era": "VS",
+  "year": "1852",
+  "month": "Āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturdaśī",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1795"
+ },
+ "place": {
+  "as_written": "jaikaradāśaśadṛśraṇapuramadhye",
+  "normalized": "Saharanpur"
+ },
+ "purpose": "paṭhanārtham",
+ "notes": "The place name is corrupted in the colophon text as 'śadṛśraṇapuramadhye' which the cataloguer identified as Saharanpur (Śāharanapura).",
+ "_meta": {
+  "reel": "A 1362/12",
+  "model": "gemini-flash-latest",
+  "secs": 8.7,
+  "in_tok": 831,
+  "out_tok": 2462
+ }
+}

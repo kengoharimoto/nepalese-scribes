@@ -1,0 +1,92 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 (Hṛṣīkeśasuta): confidence lowered high→medium. 'Hṛṣīkeśasuta' only describes him as Hṛṣīkeśa's son and is not a personal name. He is identified as scribe only by inference: the vipra living at Gorkhā plus the formulaic 'likhitaṃ mayā'.",
+   "p1 evidence shortened to the core substring.",
+   "p3 (Pṛthvīpati): the as-yet-unresolved Pṛthvīpati Shah question is now flagged in the notes. The Gorkha king Pṛthvīpati Shah (r. c. 1669–1716 CE) would conflict with VS 1604 = 1547 CE, which is before Dravya Shah founded Gorkha (1559). The word is probably the common noun 'king'.",
+   "Date: added a note on reading the chronogram. Strict right-to-left reading (aṅkānāṃ vāmato gatiḥ) gives an impossible 4016, so 1604 (left-to-right, as in the catalogue) is kept. 'aśite' read as asite = kṛṣṇa pakṣa, 'nabhas' = Śrāvaṇa.",
+   "Place: noted that 'gorṣādurgetyadhaḥ' probably means 'below Gorkhā fort' and that it is the vipra's residence, taken as the place of copying."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "hṛṣīkeśasuto",
+   "name": "Hṛṣīkeśasuta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "śrīgorṣādurga (Gorkhā)",
+   "evidence": "tadvipro hṛṣīkeśasuto nivaśate śrīgorṣādurgetyadhaḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "hṛṣīkeśa",
+   "name": "Hṛṣīkeśa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "hṛṣīkeśasuto",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "pṛthvīpate",
+   "name": "Pṛthvīpati",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "pārakoṭikula",
+   "residence": "",
+   "evidence": "pṛthvīpate śāsati pārakoṭi-kulaje",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "hṛṣīkeśasuto"
+  },
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "pṛthvīpate śāsati pārakoṭi-kulaje rājye"
+  }
+ ],
+ "date": {
+  "as_written": "samāgate vikramabhūpate syāt nṛpābhravedaś ca gatetha māse || nabho triyodaśyāṃ (!) aśite ca tithye (!) mārttaṃdavāre parighe ca yoge",
+  "era": "VS",
+  "year": "1604",
+  "month": "Śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "parigha",
+  "ce_approx": "1547"
+ },
+ "place": {
+  "as_written": "śrīgorṣādurgetyadhaḥ",
+  "normalized": "Gorkha"
+ },
+ "purpose": "",
+ "notes": "The chronogram is nṛpa (16), abhra (0), veda (4). Read right to left, it gives 4016, which is impossible. So the left-to-right reading VS 1604 (= 1547 CE, matching the catalogue's 'SAM 1604 ?') is adopted, but it is uncertain. 'nabho' = Nabhas = Śrāvaṇa. 'aśite' = asite, i.e. the dark fortnight. 'mārttaṇḍavāra' = Sunday.\n\n'pṛthvīpate' (an error for pṛthvīpatau) is most likely the common noun 'king': '(the) king born of the Pārakoṭi family ruling'. If it were the Gorkha king Pṛthvīpati Shah (r. c. 1669–1716), the date would have to be about VS 1726–1773, which conflicts with 1604. This conflict is unresolved, so the king's name and identity have low confidence. 'pārakoṭi' is obscure and possibly corrupt.\n\nThe scribe is not named. He is described only as a vipra, son of Hṛṣīkeśa, living 'below Gorkhā fort' (gorṣā = Gorkhā, with ṣ for kh). That he is the scribe is inferred from 'likhitaṃ mayā'.",
+ "_meta": {
+  "reel": "A 422/15",
+  "model": "opus",
+  "cost_usd": 0.108518,
+  "secs": 28.1
+ }
+}

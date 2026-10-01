@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "haladharasvayam",
+   "name": "Haladhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra",
+    "vidvat"
+   ],
+   "affiliation": "",
+   "residence": "Bhaktapattana",
+   "evidence": "likhitaṃ purāṇam 1 śrīmannepālabhūmistho bhaktapattanasaṃjñakavāṇīrājātmajo vidvān vipro haladharasvayam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vāṇīrāja",
+   "name": "Vāṇīrāja",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vāṇīrājātmajo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "vāṇīrājātmajo"
+  }
+ ],
+ "date": {
+  "as_written": "naipālavarṣe rasanāganaṃde jyeṣṭhe site śrīpuruṣottamākhye sūrye tithau bhaumadine vṛṣe rke",
+  "era": "NS",
+  "year": "986",
+  "month": "Jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "12",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "vṛṣe 'rke",
+  "ce_approx": "1866"
+ },
+ "place": {
+  "as_written": "bhaktapattanasaṃjñaka",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "The chronogram 'rasa-nāga-nanda' gives 6-8-9, inverted as NS 986. Sūrye tithau indicates the 12th tithi (dvādaśī).",
+ "_meta": {
+  "reel": "B 217/2",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 798,
+  "out_tok": 1599
+ }
+}

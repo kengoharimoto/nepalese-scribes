@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījaśodhareṇa",
+   "name": "Yaśodhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījaśodhareṇa likhitam idaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 842 śrāvaṇa vaddhi 10 ravi dine",
+  "era": "NS",
+  "year": "842",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "ravi dine",
+  "nakshatra_yoga": "",
+  "ce_approx": "1722"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 276/10b",
+  "model": "gemini-flash-latest",
+  "secs": 2.8,
+  "in_tok": 706,
+  "out_tok": 611
+ }
+}

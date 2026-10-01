@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñaviṣṇu",
+   "name": "Viṣṇu",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñaviṣṇuracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śākonakhāgnīṣu bhuvaḥ1530",
+  "era": "ŚS",
+  "year": "1530",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1608"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date Śaka 1530 (khāgnīṣubhuvaḥ = 1530) is the epoch or composition date embedded in the astronomical verse, catalogued as the date of copying.",
+ "_meta": {
+  "reel": "B 356/4",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 749,
+  "out_tok": 1138
+ }
+}

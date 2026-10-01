@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sītārāmabhaṭṭasya",
+   "name": "Sītārāma",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sītārāmabhaṭṭasya pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1833",
+  "era": "VS",
+  "year": "1833",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1776"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Sītārāma Bhaṭṭa as donor, but 'sītārāmabhaṭṭasya pustakaṃ' indicates he is the owner of the manuscript.",
+ "_meta": {
+  "reel": "A 179/2",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 704,
+  "out_tok": 689
+ }
+}

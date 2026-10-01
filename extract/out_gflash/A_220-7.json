@@ -1,0 +1,47 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "hemarāja",
+   "name": "Hemarāja",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "mahodaya",
+    "gururāja",
+    "paṇḍita"
+   ],
+   "affiliation": "Bhāratībhavana",
+   "residence": "",
+   "evidence": "śrīmanmahodayagururāja[[plaṇḍita]]hemarājānujñayā tadīya bhāratībhavanārthaṃ likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vikrama saṃvat 1986 bhādraśukladaśamyāṃ śukravāre",
+  "era": "VS",
+  "year": "1986",
+  "month": "Bhādra",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1929"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "tadīya bhāratībhavanārthaṃ",
+ "notes": "The manuscript was copied from an old exemplar dated 'samvat 28 kārtikakṛṣṇadivāṣṭamyāṃ' by order of Gururāja Paṇḍita Hemarāja for his library/institution Bhāratībhavana.",
+ "_meta": {
+  "reel": "A 220/7",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 807,
+  "out_tok": 1197
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajña bhāju",
+   "name": "Bhāju",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vyaledhitam pustakad vidam daivajña bhāju nāmāvai",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "muniṃdunavabhūsaṃkhye śāke vikrama bhūpateḥ jyaiṣṭaśukla dvitīyāyāṃ",
+  "era": "VS",
+  "year": "1917",
+  "month": "jyaiṣṭha",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1860"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is expressed as a chronogram: muni (7), indu (1), nava (9), bhū (1) = VS 1917.",
+ "_meta": {
+  "reel": "B 540/8",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 733,
+  "out_tok": 895
+ }
+}

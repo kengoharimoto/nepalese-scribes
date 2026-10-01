@@ -1,0 +1,68 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2: residence 'Savāī Jaipura' removed — 'savāī jaipuramadhye' gives the place of copying, not the scribe's stated residence",
+   "p2: titles changed to brāhmaṇa + Gauḍa; 'jñāti gauḍā' gives his caste (Gauḍa brahmin), and the affiliation now reads 'Gauḍa jñāti'",
+   "p2: confidence lowered to medium; 'prīyāga' is read as Prayāga, as the cataloguer does, but Priyāga is possible",
+   "Notes expanded: the month is pūrṇimānta, and the reading of 'jñāti' is explained"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "narapatikavi",
+   "name": "Narapati",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "narapatikaviviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "brāmhaṇaprīyāga",
+   "name": "Prayāga",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa",
+    "Gauḍa"
+   ],
+   "affiliation": "Gauḍa jñāti",
+   "residence": "",
+   "evidence": "likhitaṃ brāmhaṇaprīyāgajñāti gauḍā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 18 | 63 varṣe mitī asojakṛṣṇa9 soma",
+  "era": "VS",
+  "year": "1863",
+  "month": "Āśvina (asoja)",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "Monday (soma)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1806"
+ },
+ "place": {
+  "as_written": "savāī jaipuramadhye",
+  "normalized": "Jaipur"
+ },
+ "purpose": "",
+ "notes": "The colophon writes 'prīyāga'. This is read as Prayāga, as the cataloguer does, but Priyāga is possible. 'jñāti gauḍā' gives the scribe's caste: he was a Gauḍa brahmin. The date is VS 1863, Āsoj kṛṣṇa 9, a Monday, about September/October 1806. Jaipur uses the pūrṇimānta month reckoning, so Āśvina kṛṣṇa falls before Āśvina śukla. The catalogue gives King Ajayapāla, but the colophon names no king, so he is left out. Savāī Jaipura is Sawai Jaipur, i.e. Jaipur in Rajasthan, so this manuscript was copied outside Nepal.",
+ "_meta": {
+  "reel": "A 413/38",
+  "model": "opus",
+  "cost_usd": 0.07507,
+  "secs": 14.7
+ }
+}

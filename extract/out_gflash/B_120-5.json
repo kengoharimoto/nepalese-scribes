@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmacchrīkṛsṇsāhasya",
+   "name": "Śrīkṛṣṇaśāha",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmacchrīkṛsṇsāhasyājñayā likhitapustakam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bauddhomṛtānandanāmā",
+   "name": "Amṛtānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bauddha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bauddhomṛtānandanāmā śrīkulārṇavam ālikhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "śrīmacchrīkṛsṇsāhasyājñayā likhitapustakam || ... bauddhomṛtānandanāmā śrīkulārṇavam ālikhat"
+  }
+ ],
+ "date": {
+  "as_written": "abdhīlādrīndu 1714 yuk śāke jyeṣṭha āditithau site",
+  "era": "ŚS",
+  "year": "1714",
+  "month": "Jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1792"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīmacchrīkṛṣṇaśāhasyājñayā (by order of Śrīkṛṣṇa Śāha)",
+ "notes": "Chronogram: abdhi (4), ilā (1), adri (7), indu (1) = Śāka 1714. Āditithi denotes the first tithi (pratipad).",
+ "_meta": {
+  "reel": "B 120/5",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 906,
+  "out_tok": 1357
+ }
+}

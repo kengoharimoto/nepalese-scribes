@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśivadāsasya",
+   "name": "Śivadāsa",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśivadāsasyadhanena saṃpāditam idaṃ pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1881 māse śrāvaṇaśuklapañcamī utraphālguṇinakṣātra (!) śivayoge śukravāre",
+  "era": "VS",
+  "year": "1881",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "utraphālguṇinakṣātra śivayoge",
+  "ce_approx": "1824"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Cost of copying noted: 'śloka 3075 ke rupaiyā 6 ='",
+ "_meta": {
+  "reel": "A 101/4",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 832,
+  "out_tok": 1179
+ }
+}

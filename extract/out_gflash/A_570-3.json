@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "koṃḍabhaṭṭa",
+   "name": "Koṇḍabhaṭṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "koṃḍabhaṭṭakṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "raṃgojibhaṭṭa",
+   "name": "Raṅgojibhaṭṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "raṃgojibhaṭṭātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīkṛṣṇajośīrāma",
+   "name": "Kṛṣṇajośīrāma",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pustakam adaḥ śrīkṛṣṇajośīrāma",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "raṃgojibhaṭṭātmaja-koṃḍabhaṭṭakṛte"
+  }
+ ],
+ "date": {
+  "as_written": "śake 1599 samaye jyaiṣṭhaśudi 5 saume",
+  "era": "ŚS",
+  "year": "1599",
+  "month": "jyaiṣṭha",
+  "paksa": "śudi",
+  "tithi": "5",
+  "weekday": "saume",
+  "nakshatra_yoga": "",
+  "ce_approx": "1677"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The ownership statement appears truncated at the end of fol. 174r ('pustakam adaḥ śrīkṛṣṇajośīrāma...'). Śrīrāmakṛṣṇa occurring before the date formula may be an invocation or related to the scribe/owner.",
+ "_meta": {
+  "reel": "A 570/3",
+  "model": "gemini-flash-latest",
+  "secs": 11.8,
+  "in_tok": 785,
+  "out_tok": 2524
+ }
+}

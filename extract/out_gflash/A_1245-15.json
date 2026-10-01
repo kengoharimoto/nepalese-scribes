@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumati jaya jitāmitramalladevasana",
+   "name": "Jitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati",
+    "jaya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumati jaya jitāmitramalladevasana dayayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 812 pauṣavadi 8 thvakuhnu",
+  "era": "NS",
+  "year": "812",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1692"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bhaktapur is recorded in catalogue fields based on the reign of King Jitāmitra Malla, but is not explicitly named in the colophon text. Newari 'dayayakā juroṃ' indicates he caused the manuscript to be made.",
+ "_meta": {
+  "reel": "A 1245/15",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 719,
+  "out_tok": 956
+ }
+}

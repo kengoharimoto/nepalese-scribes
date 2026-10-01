@@ -1,0 +1,91 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "varāhamihira",
+   "name": "Varāhamihira",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "varāhamihirakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaṭṭotpala",
+   "name": "Bhaṭṭotpala",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī bhaṭṭotpala viracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "lakṣmīnātha",
+   "name": "Lakṣmīnātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija",
+    "dvijottama"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃkṣarodvijoyaṃ ... lakṣmīnāthadvijottamena siddhiṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "durgāsoma",
+   "name": "Durgāsoma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "durgāsoma sutaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "durgāsoma sutaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "pārāvārādyanābdavikramerke ... kalāvihīne",
+  "era": "VS",
+  "year": "pārāvārādyanābda",
+  "month": "",
+  "paksa": "",
+  "tithi": "kalāvihīne",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date is expressed in a corrupt or non-standard chronogram in the Vikrama era ('vikramerke'). 'kalāvihīne' likely refers to amāvāsyā.",
+ "_meta": {
+  "reel": "A 1394/5",
+  "model": "gemini-flash-latest",
+  "secs": 9.0,
+  "in_tok": 847,
+  "out_tok": 2097
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgaṃgādharabrahmasya(!)",
+   "name": "Gaṅgādharabrahma",
+   "roles": [
+    "owner",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgaṃgādharabrahmasya(!), śrīmatottaraśa(!)ṃcayaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "daivajñamano†holasyaṃ†",
+   "name": "Manohara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñamano†holasyaṃ†, lekhyate",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "śrīgaṃgādharabrahmasya(!), śrīmatottaraśa(!)ṃcayaṃ ... daivajñamano†holasyaṃ†, lekhyate"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 826 mārgavadi 8 pū(!)vvaphālguṇa aṃ(!)gāradina",
+  "era": "NS",
+  "year": "826",
+  "month": "mārgaśira",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "pūrvaphālguṇī",
+  "ce_approx": "1706"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name is corrupted as manoholasyaṃ for manohareṇa / manoharasya.",
+ "_meta": {
+  "reel": "A 194/3",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 898,
+  "out_tok": 1534
+ }
+}

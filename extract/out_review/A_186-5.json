@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe name: removed the invented capitalised stem 'Ma...veratharīyā'. The name is given as a lacuna-marked fragment '[ma]...vera Tharīyā', and 'tharīyā' may be a family or caste name. Confidence stays low.",
+   "Scribe evidence extended to include 'tādṛśaṃ likhitaṃ mayā'.",
+   "Date fields normalised: month Āśvina (written aśvini), pakṣa śukla, tithi 15 (pūrṇimā), weekday Tuesday (bhaumavāsara). VS 1869 = c. 1812 CE confirmed.",
+   "Notes expanded: the colophon names a Rudrayāmala Gāyatrītattvasāra stava, not Merutantra; 'Upendravikama' does not appear in the colophon and is not a known Nepalese ruler for VS 1869 (Girvāṇayuddha Vikrama Śāha reigned then), so no king was added."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ma///veratharīyā",
+   "name": "[Ma]...vera Tharīyā",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pratiliṣi(!)taṃ ma///veratharīyā || ... tādṛśaṃ likhitaṃ mayā",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat || 1869 || aśvini(!)māse śuklapakṣe tithau || 15 || bhaumavāsare",
+  "era": "VS",
+  "year": "1869",
+  "month": "Āśvina",
+  "paksa": "śukla",
+  "tithi": "15 (pūrṇimā)",
+  "weekday": "Tuesday (bhaumavāsara)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1812"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The scribe's name is damaged ('ma///veratharīyā'). The opening 'ma' could even be the start of 'mayā', so the personal name may be lost entirely. 'Tharīyā' looks like a family, clan or caste designation (cf. Nep. Tharī), but this is uncertain. The era is not stated explicitly; VS is assumed from the year 1869 and the catalogue. The weekday was not checked against the tithi. The quoted colophon closes a 'Gāyatrītattvasāra stava' attributed to the Rudrayāmala, not the Merutantra of the catalogue title; it may be an appended text, or the title may be wrong. The catalogue's 'King: Upendravikama' is not in the colophon. Girvāṇayuddha Vikrama Śāha ruled Nepal in VS 1869, so the catalogue field is doubtful and no reigning king is recorded. 'śrīmate rāmacaṃdrāya' is an invocation of the deity Rāma. 'yad aśuddham(!) aśuddhaṃ vā' is a corruption of the stock verse 'yad (a)śuddham śuddhaṃ vā'.",
+ "_meta": {
+  "reel": "A 186/5",
+  "model": "opus",
+  "cost_usd": 0.080646,
+  "secs": 19.5
+ }
+}

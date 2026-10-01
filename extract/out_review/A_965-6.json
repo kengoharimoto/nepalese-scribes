@@ -1,0 +1,84 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe Mukuṭānanda: confidence lowered high→medium (form 'mukuṭa ānandanena' is corrupt, probably for mukuṭānandena; the catalogue reads Ānandamukuṭa)",
+   "Date: era NS kept, but it is not stated in the colophon; notes now say it was inferred from the weekday check (Jyeṣṭha śukla 11 ≈ Fri 15 June 1883) and the late Devanāgarī script",
+   "Notes: added the stray '3' after jyeṣṭhe and why the era was chosen"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī ḍaṇḍapāṇI (!)",
+   "name": "Daṇḍapāṇi",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī ḍaṇḍapāṇI (!) putra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "devānanda vaidyeṇa (!)",
+   "name": "Devānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devānanda vaidyeṇa (!) viracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "mukuṭa ānandanena (!)",
+   "name": "Mukuṭānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lipistviyaṃ mukuṭa ānandanena (!)",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "ḍaṇḍapāṇI (!) putra devānanda"
+  }
+ ],
+ "date": {
+  "as_written": "triambaraṃ śūnyamekagatābde jyeṣṭhe 3 site haritithau bhṛguvāsare ca",
+  "era": "NS",
+  "year": "1003",
+  "month": "Jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "ekādaśī",
+  "weekday": "bhṛguvāsara (Friday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1883"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram tri (3) ambara (0) śūnya (0) eka (1), read right to left, gives 1003. The colophon names no era; the catalogue gives 'SAM 1003'. NS is inferred: Jyeṣṭha śukla ekādaśī of NS 1003 falls around 15 June 1883, which my rough calculation makes a Friday (bhṛguvāsara), so it fits. VS 1003 (946 CE) is implausible for a Devanāgarī paper manuscript. The '3' after 'jyeṣṭhe' is unclear: it may be a solar day, or a misread punctuation mark or abbreviation. 'site' = śukla pakṣa; 'haritithi' = ekādaśī. The scribe's name is corrupt: 'mukuṭa ānandanena' probably stands for mukuṭānandena (Mukuṭānanda), but the catalogue gives Ānandamukuṭa ('Ānaṇdamukuṭa'). Devānanda, son of Daṇḍapāṇi, is the author of the text, not someone involved in this copy.",
+ "_meta": {
+  "reel": "A 965/6",
+  "model": "opus",
+  "cost_usd": 0.09409799999999999,
+  "secs": 22.3
+ }
+}

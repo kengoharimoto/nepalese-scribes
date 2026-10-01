@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayabhūpatīndramalla mahārājāna",
+   "name": "Jayabhūpatīndramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayabhūpatīndramalla mahārājāna, dayakase bijyāṅā dina julo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 814 vaiśāṣamāse kṛṣṇapakṣe dvādaśyāntithau, revatīnakṣetre āyuṣmānayoge, bṛhaspativāsare",
+  "era": "NS",
+  "year": "814",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādaśī",
+  "weekday": "bṛhaspativāsara",
+  "nakshatra_yoga": "revatī, āyuṣmāna",
+  "ce_approx": "1694"
+ },
+ "place": {
+  "as_written": "gośṛṅgapūrasa",
+  "normalized": "Sāṅgā"
+ },
+ "purpose": "bhadrāyu upākhyāna pyākhanayā mūlasiddhiyātā",
+ "notes": "Gośṛṅgapura corresponds to modern Sāṅgā (near Bhaktapur).",
+ "_meta": {
+  "reel": "A 1240/8",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 919,
+  "out_tok": 1096
+ }
+}

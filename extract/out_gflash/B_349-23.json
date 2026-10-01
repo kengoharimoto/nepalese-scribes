@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "giridharaduja",
+   "name": "Giridhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣi(!)taṃ giridharaduja(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1598 margasi(!)rṣamāse dinagatā 17 guruvāsare",
+  "era": "ŚS",
+  "year": "1598",
+  "month": "mārgaśīrṣa",
+  "paksa": "",
+  "tithi": "dinagatā 17",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1676"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date specifies the 17th elapsed day (dinagatā 17) of the month of Mārgaśīrṣa.",
+ "_meta": {
+  "reel": "B 349/23",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 754,
+  "out_tok": 652
+ }
+}

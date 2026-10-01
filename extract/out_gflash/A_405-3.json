@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭanārāyaṇena",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "camatkāraciṃtāmaṇau yat svagā(11)nāṃ phalaṃ kirttituṃ bhaṭṭanārāyaṇena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1921 māºº. kṛºº 5–",
+  "era": "VS",
+  "year": "1921",
+  "month": "māºº",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1864"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records scribe Raṅganātha and donor Śrīkṛṣṇajośī (of Ramanagar), but these do not appear in the quoted colophon text (likely found on an endleaf or cover page).",
+ "_meta": {
+  "reel": "A 405/3",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 762,
+  "out_tok": 1057
+ }
+}

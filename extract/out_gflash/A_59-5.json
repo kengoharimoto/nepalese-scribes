@@ -1,0 +1,61 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmahopādhyāyasanmiśraśrīvācaspati",
+   "name": "Vācaspati",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "sanmiśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāyasanmiśraśrīvācaspativiracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "karaṇaṭhakkuraśrīhariśaṅkareṇa",
+   "name": "Hariśaṅkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karaṇa",
+    "ṭhakkura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīhariśaṅkarasya lipiḥ ... karaṇaṭhakkuraśrīhariśaṅkareṇa likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "lasaṃ 507 vaiśākhaśudipūrṇṇimāyāṃ candre edine",
+  "era": "LS",
+  "year": "507",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "candravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1626"
+ },
+ "place": {
+  "as_written": "cīcīgrāme",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records the place of copying as Bhīṭhīgrāma, but the colophon text as cited reads 'cīcīgrāme'.",
+ "_meta": {
+  "reel": "A 59/5",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 789,
+  "out_tok": 1002
+ }
+}

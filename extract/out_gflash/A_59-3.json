@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "miśraśrīvācaspati",
+   "name": "Vācaspati",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "miśraśrīvācaspatikṛtā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "lasaṃ 424 vaiśākhaśuditrayodaśyāṃ",
+  "era": "LS",
+  "year": "424",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "trayodaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1543"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Vācaspati Miśra is the author/commentator of the Nyāyavārttikatātparyaṭīkā.",
+ "_meta": {
+  "reel": "A 59/3",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 685,
+  "out_tok": 607
+ }
+}

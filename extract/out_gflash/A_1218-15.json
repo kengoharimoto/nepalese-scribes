@@ -1,0 +1,55 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jaya Bhūpatīndramalla devasana",
+   "name": "Bhūpatīndramalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jaya Bhūpatīndramalla devasana",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ñalāyā śrīśrīI(32v1)ndramalladevasake",
+   "name": "Indramalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "ñalā",
+   "evidence": "ñalāyā śrīśrīI(32v1)ndramalladevasake",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records date NS 827 pauṣa śukla tṛtīyā śukravāra and place Bhaktapur, but these details are not present in the quoted colophon line. The text records the staging of the play Gaurīvivāha by King Bhūpatīndramalla of Bhaktapur for King Indramalla of Patan (Ñalā).",
+ "_meta": {
+  "reel": "A 1218/15",
+  "model": "gemini-flash-latest",
+  "secs": 10.2,
+  "in_tok": 739,
+  "out_tok": 2522
+ }
+}

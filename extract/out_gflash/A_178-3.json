@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "surās siṃhena",
+   "name": "Surāssiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiti surās siṃhena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 847 śrāvaṇa kṛṣṇa caturddaśi kunhuṃ coyadhuṅdina",
+  "era": "NS",
+  "year": "847",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturddaśi",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1727"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "īśvarī pītir astu",
+ "notes": "The date formula includes Newari: 'coyadhuṅdina' (the day copying was finished). 'īśvarī pītir astu' stands for 'īśvarīprītir astu'.",
+ "_meta": {
+  "reel": "A 178/3",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 773,
+  "out_tok": 1009
+ }
+}

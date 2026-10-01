@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dhaja nac oyā",
+   "name": "Dhaja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "amātya"
+   ],
+   "affiliation": "",
+   "residence": "Nakavihāra",
+   "evidence": "amātya, dhaja nac oyā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sādhalhayā",
+   "name": "Sādhalha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sādhalhayā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "other",
+   "to": "p2",
+   "evidence": "sādhalhayā, amātya, dhaja"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 899 māghakṛṣṇadaśamyāṃ(!)tithau, vṛhaspativāradine",
+  "era": "NS",
+  "year": "899",
+  "month": "Māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī",
+  "weekday": "vṛhaspativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1779"
+ },
+ "place": {
+  "as_written": "nakavihāri",
+  "normalized": "Patan"
+ },
+ "purpose": "śrīśrīśrīsureśvaraprīti",
+ "notes": "The phrase 'dhaja nac oyā juro' is clearly a scribal/cataloguer spacing error for 'dhajana coyā juro' (written by Dhaja). Sādhalha is an Old Newari personal name in the genitive (-yā), likely the father or senior relative of Amātya Dhaja. Nakavihāra (Naka Bahī / Lokakīrti Mahāvihāra) is in Patan.",
+ "_meta": {
+  "reel": "B 249/7",
+  "model": "gemini-flash-latest",
+  "secs": 23.8,
+  "in_tok": 795,
+  "out_tok": 4435
+ }
+}

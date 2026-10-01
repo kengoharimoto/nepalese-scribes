@@ -1,0 +1,66 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Weekday normalized from 'vṛhaspativāsara' to 'bṛhaspativāra (Thursday)'; as_written left unchanged",
+   "Nakṣatra spelling normalized to Rohiṇī, yoga to Viṣkambha",
+   "Notes expanded: explains the varman title, the CE reckoning for Phālguna, the Newari completion formula, and why the Revanta invocation is excluded"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāsāmanta śrījayadatta",
+   "name": "Jayadatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāsāmanta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāsāmanta śrījayadatta kṛtam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī śrīhemantamalla varmanā",
+   "name": "Hemantamalla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "varman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śrīhemantamalla varmanā svakarena likhitam",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 807 phālguṇa māse śuklapakṣe navamyāṃ thithau rohinī (!) nakṣatre viskambhayoge vṛhaspativāsare",
+  "era": "NS",
+  "year": "807",
+  "month": "phālguṇa",
+  "paksa": "śukla",
+  "tithi": "navamī",
+  "weekday": "bṛhaspativāra (Thursday)",
+  "nakshatra_yoga": "Rohiṇī nakṣatra, Viṣkambha yoga",
+  "ce_approx": "1687"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is not named in the colophon ('samvat 807'), but the Newari script and Newari text make Nepal Saṃvat certain. Phālguna of NS 807 falls in about February–March 1687 CE. In the colophon the scribe's name is 'śrī śrīhemantamalla varmanā', which the catalogue gives as 'Hemanatalāla varmmā'. I follow the colophon text and read the name as Hemantamalla, with varman as a surname or title. The name could also be split as Hemanta Malla Varmā, so confidence is medium. 'jayadattanāma pustakaṃ' means the book is called after its author Jayadatta; it does not name an owner. The Newari line 'thva kuhnu saṃpūrṇa yāṅādi juroṃ' says the copy was completed on that day. Revanta, named in the closing invocation, is a deity and is left out. Rohiṇī on śukla navamī of Phālguna is a little early for that tithi (Mṛgaśiras or Ārdrā would be more usual), so the nakṣatra may be slightly off. I have not checked it by calculation.",
+ "_meta": {
+  "reel": "A 226/3",
+  "model": "opus",
+  "cost_usd": 0.08623,
+  "secs": 19.8
+ }
+}

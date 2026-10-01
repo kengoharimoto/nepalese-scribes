@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "lakṣmīnāthena",
+   "name": "Lakṣmīnātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lakṣmīnāthena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat || 18 || 21 || kārtikakṛṣna || 4 || śaniḥ",
+  "era": "VS",
+  "year": "1821",
+  "month": "kārtika",
+  "paksa": "kṛṣṇa",
+  "tithi": "4",
+  "weekday": "śaniḥ",
+  "nakshatra_yoga": "",
+  "ce_approx": "1764"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue notes 'Śrīkṛṣnajośī' as donor, but this name does not appear in the quoted colophon portion.",
+ "_meta": {
+  "reel": "B 273/19",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 698,
+  "out_tok": 828
+ }
+}

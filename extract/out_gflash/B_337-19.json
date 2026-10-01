@@ -1,0 +1,92 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śatānanda",
+   "name": "Śatānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śatānanda viracitāyāṃ bhāsvatyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vasaṃta",
+   "name": "Vasanta",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vasaṃtātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "valabhadra daivajña",
+   "name": "Balabhadra",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vasaṃtātmaja valabhadra daivajña viracitāyāṃ bhāsvatī ṭīkāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "gurubhakta dvijena",
+   "name": "Gurubhakta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitamidaṃ gurubhakta dvijena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "vasaṃtātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1784 śrī samvat 1919 māgha śudi 7 roja 2 dinagate 22",
+  "era": "ŚS",
+  "year": "1784",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "roja 2 (Monday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1863"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śāka era 1784 and Vikrama Samvat 1919 are given.",
+ "_meta": {
+  "reel": "B 337/19",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 819,
+  "out_tok": 1578
+ }
+}

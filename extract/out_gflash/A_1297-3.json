@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jaya bhūpatīndramalladevasana",
+   "name": "Bhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījaya bhūpatīndramalladevasana cukacāsa devapratiṣṭhā siddhāgni aitāhuti yajña yāṅāyā thva sāphuri",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 825 bhādra pade śukla daśamī, mūla śaniścaravārakuhnuḥ",
+  "era": "NS",
+  "year": "825",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "śaniścaravāra",
+  "nakshatra_yoga": "mūla",
+  "ce_approx": "1705"
+ },
+ "place": {
+  "as_written": "cukacāsa",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "devapratiṣṭhā siddhāgni aitāhuti yajña yāṅāyā",
+ "notes": "The manuscript was copied/used for the installation ritual and sacrifice (devapratiṣṭhā siddhāgni aitāhuti yajña) performed by King Bhūpatīndra Malla of Bhaktapur in Cukacā (a courtyard in the palace compound).",
+ "_meta": {
+  "reel": "A 1297/3",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 785,
+  "out_tok": 1144
+ }
+}

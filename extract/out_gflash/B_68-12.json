@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dave(!) sabhācandreṇa",
+   "name": "Sabhācandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dave"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ dave(!) sabhācandreṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "dave(!) represents the title/caste Dūve (Dube).",
+ "_meta": {
+  "reel": "B 68/12",
+  "model": "gemini-flash-latest",
+  "secs": 3.3,
+  "in_tok": 653,
+  "out_tok": 577
+ }
+}

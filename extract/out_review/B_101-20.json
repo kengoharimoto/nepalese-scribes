@@ -1,0 +1,37 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday: 'roja 6' interpreted as Friday (6th day of the week) instead of copying the raw phrase",
+   "month normalized to Phālguna (vadi = kṛṣṇapakṣa)",
+   "nakshatra_yoga: added the corrupt yoga name 'vayoge(!)'",
+   "notes: added that the NS 956 Śrāvaṇa kṛṣṇa 8 date is internally consistent (Rohiṇī + kṛṣṇāṣṭamī = Janmāṣṭamī, sun in Siṃha, so about Aug/Sept 1836); the two eras are 62 years apart, so they are two separate events, not a conflict",
+   "persons left empty: the corrupt '†yaṃ hīśvarācārya†' is not clearly a person connected with this copy"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1954 sāla(!) mitiphālguṇavadi 5 roja 6 śubham saṃvat 956 mitiśrāvaṇamāse kṛṣṇapakṣa astamiyā(!) tithau rohiṇīnakṣatre vayoge(!) śaniścaravāsare siṃharāśigate śavitare(!) vṛṣarāśigate candramasi",
+  "era": "VS",
+  "year": "1954",
+  "month": "Phālguna",
+  "paksa": "kṛṣṇa (vadi)",
+  "tithi": "5",
+  "weekday": "Friday (roja 6)",
+  "nakshatra_yoga": "(for the NS date) Rohiṇī nakṣatra; yoga 'vayoge(!)', corrupt",
+  "ce_approx": "1898"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives two dates. (1) VS 1954 Phālguna vadi 5, roja 6 (Friday), about Feb/Mar 1898 CE. This is probably the copying date of this Devanagari manuscript. (2) NS 956 Śrāvaṇa kṛṣṇa 8, Saturday, Rohiṇī nakṣatra, sun in Siṃha, moon in Vṛṣa, about Aug/Sept 1836 CE (NS+880). This is internally consistent (Janmāṣṭamī conjunction, amānta month) and is probably the date of the exemplar, carried over from it. The two dates are 62 years apart, so they refer to different events rather than conflicting. The passage '†yaṃ hīśvarācārya† purvvam idāṇi prakāsitaṃ' is corrupt. It may hide the name of an ācārya (e.g. '…īśvara-ācārya') who 'formerly' produced or published the text, but it cannot be securely read as a person connected with this copy, so no person is recorded. 'stu' = astu. No scribe, patron or place is named.",
+ "_meta": {
+  "reel": "B 101/20",
+  "model": "opus",
+  "cost_usd": 0.08307,
+  "secs": 19.3
+ }
+}

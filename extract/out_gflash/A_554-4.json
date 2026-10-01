@@ -1,0 +1,60 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīcaṃdradattasaṃjñāvatā",
+   "name": "Candradatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "Videhanagara",
+   "evidence": "śrīmadupādhyāyopanāmadheyavidehanagarādhivāsinā śrīcaṃdradattasaṃjñāvatā viracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bālakṛṣṇaśarmaṇā arjyālapadavācyena",
+   "name": "Bālakṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman",
+    "arjyāla"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ bālakṛṣṇaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1918 jyeṣṭa(!)śukla 10 vāsare 3",
+  "era": "VS",
+  "year": "1918",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1861"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records Videhanagara as the place of copying, but the colophon text associates Videhanagara with the residence of the author Candradatta (videhanagarādhivāsinā).",
+ "_meta": {
+  "reel": "A 554/4",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 767,
+  "out_tok": 1376
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "manmathātmajaḥ",
+   "name": "Manmatha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "naravaidya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "naravaidya manmathātmajaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kṣemaśarmmavinirmmite",
+   "name": "Kṣemaśarman",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṣemaśarmmavinirmmite kṣemakutūhala granthe",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "viśvakānta śarmāḥ",
+   "name": "Viśvakānta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ viśvakānta śarmāḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "manmathātmajaḥ kṣemaśarmma"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1751 āṣāḍhaśukladvādasyāṃ somavāsare",
+  "era": "ŚS",
+  "year": "1751",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "somavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1829"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 170/5",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 803,
+  "out_tok": 1130
+ }
+}

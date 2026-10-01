@@ -1,0 +1,82 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "puruṣottama bhrāmhana paṃḍītasya",
+   "name": "Puruṣottama",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa",
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiṃ[[ta]] puruṣottama bhrāmhana (!) paṃḍītasya (!) chaganajīvrane pustakalītaṃ (!) pustakaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "manohara",
+   "name": "Manohara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "śrīman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīman manohara sūnunā gosvāminā harinātha",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "harinātha",
+   "name": "Harinātha",
+   "roles": [
+    "author",
+    "commentator"
+   ],
+   "titles": [
+    "gosvāmin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gosvāminā harinātha kṛtāyāṃ vaidyajīvanaṭīkāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīman manohara sūnunā gosvāminā harinātha"
+  }
+ ],
+ "date": {
+  "as_written": "miti āsvī dvitīyāṃ 2 maṃgalavāsare || saṃvat || 1890 || vṛṣe śākha || 17 || 14",
+  "era": "VS",
+  "year": "1890",
+  "month": "Āśvina",
+  "paksa": "",
+  "tithi": "dvitīyā 2",
+  "weekday": "maṅgalavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1833"
+ },
+ "place": {
+  "as_written": "chaganajīvrane (?)",
+  "normalized": ""
+ },
+ "purpose": "\"\" ",
+ "notes": "The colophon has two dates. The first, \"khaṃ vahni sindhu\" (0-3-7 read in reverse = 1730 VS), Jyeṣṭha kṛṣṇa 7, bhṛguvāra, belongs to the original composition/tīkā and is not the copy date. The copy date is Āśvina dvitīyā 2, Tuesday, saṃvat 1890. The catalogue gives śāke 1714, which equals CE 1792 and would be VS 1849, so it does not match 1890. If 1890 is VS, the CE year is about 1833. The era is not stated and is inferred from the tīkā date. \"chaganajīvrane\" is corrupt and may name a place or a patron; it is not recorded as a person. \"śrī mutharaśa (!)\" is unclear (perhaps a name or a corrupt auspicious phrase) and is not listed. \"śrīnātha gosvāmibhīr\" probably refers to the commentator group, not a distinct person. Harinātha, author of the tīkā, is identified as son of Manohara.",
+ "_meta": {
+  "reel": "B 166/1",
+  "model": "sonnet",
+  "cost_usd": 0.036107200000000006,
+  "secs": 9.2
+ }
+}

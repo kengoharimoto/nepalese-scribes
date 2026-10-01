@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mānākina",
+   "name": "Mānāka",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mānākina viracitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 800 āṣādḥa śukla",
+  "era": "NS",
+  "year": "800",
+  "month": "āṣādha",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1680"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author name is written 'mānākina' (probably for Mānāṅka / Mānāṅkīna). Scribe is unnamed (lekhakasya śubhaṃ bhūyāt).",
+ "_meta": {
+  "reel": "A 394/20",
+  "model": "gemini-flash-latest",
+  "secs": 2.0,
+  "in_tok": 705,
+  "out_tok": 303
+ }
+}

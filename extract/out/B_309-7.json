@@ -1,0 +1,73 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhānudattamiśra",
+   "name": "Bhānudatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhānudattamiśraprakāśitā rasamañjarī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "karmmācāryajayasiṃha",
+   "name": "Jayasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmācārya"
+   ],
+   "affiliation": "",
+   "residence": "Vidyāpīṭha",
+   "evidence": "liṣitiṃ vidyāpīṭhayā karmmācāryajayasiṃha",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vipraśrīgaṃgā[dha]rarājasya",
+   "name": "Gaṅgādhararāja",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vipraśrīgaṃgā[dha]rarājasya (!) pustakam idaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 799 mārggaśilakṛṣṇapaṃcamī, śukravāra kunhu",
+  "era": "NS",
+  "year": "799",
+  "month": "Mārgaśira",
+  "paksa": "kṛṣṇa",
+  "tithi": "5 (pañcamī)",
+  "weekday": "Friday (śukravāra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1679"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "ownership note: book of vipra Gaṅgādhararāja",
+ "notes": "The scribe is from Vidyāpīṭha (\"vidyāpīṭhayā\", Newari genitive). This is a place name (a locality in the Kathmandu Valley), not necessarily where the copy was made, so place of copying is left empty. The ownership statement (\"eyācchayā (?) vipraśrīgaṃgā[dha]rarājasya pustakam idaṃ\") comes after the scribal colophon and may be a later owner's note. Because of that, no wrote_for relation is asserted. \"eyācchayā\" is unclear: it may be a corrupt word or part of a name. The letters \"dha\" in Gaṅgādhara are supplied by the cataloguer. The scribe's name agrees with the catalogue field \"Jayasiṃkarmmācārya\" once normalized to Jayasiṃha with the title karmācārya. Date NS 799 = c. 1679 CE.",
+ "_meta": {
+  "reel": "B 309/7",
+  "model": "opus",
+  "cost_usd": 0.48825080000000004,
+  "secs": 20.6
+ }
+}

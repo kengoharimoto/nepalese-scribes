@@ -1,0 +1,72 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Nīlakaṇṭha: removed role 'author' — he is only the commentator (ṭīkā Gaṇapatibhāvadīpikā); the Gaṇeśagītā itself is part of the Gaṇeśapurāṇa",
+   "p1/p2 affiliation normalized to 'Caturdhara vaṃśa' (as written cāturdhara)",
+   "purpose emptied: 'gaṇapatipadapadme cārpito ... bhaktyā' is the commentator's dedication of his work, not the purpose of this copy",
+   "notes expanded: chronogram verification, ŚS/VS conflict with catalogue, date/place refer to the composition of the commentary"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nīlakaṇṭhasya",
+   "name": "Nīlakaṇṭha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "Caturdhara vaṃśa",
+   "residence": "Kāśī",
+   "evidence": "goviṃdasūrisūnor nīlakaṇṭhasya kṛtau gaṇēśagītāṭīkāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "goviṃdasūri",
+   "name": "Govinda",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "Caturdhara vaṃśa",
+   "residence": "",
+   "evidence": "goviṃdasūrisūnor",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "goviṃdasūrisūnor nīlakaṇṭhasya"
+  }
+ ],
+ "date": {
+  "as_written": "gagana śaragirindai vikramārkasya śāke puraharapuri kāśyāṃ bhādraśukle caturthyāṃ || suragurudivase",
+  "era": "VS",
+  "year": "1750",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "caturthī",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1693"
+ },
+ "place": {
+  "as_written": "puraharapuri kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "Chronogram: gagana (sky) = 0, śara (arrow) = 5, giri (mountain) = 7, indu (moon) = 1. Read right to left this gives 1750. 'vikramārkasya śāke' means the Vikrama era, so the year is VS 1750 = c. 1693 CE. The catalogue's 'ŚS 1750 ?' is therefore probably wrong: 'śāka' is used here loosely for 'era'. The weekday (Thursday, suragurudivasa) was not checked against an ephemeris. The day, Bhādrapada śukla 4, is Gaṇeśacaturthī. The verse 'pūrṇa eṣaḥ prabandho gaṇapatipadapadme cārpito' records when and where Nīlakaṇṭha Caturdhara finished his commentary (prabandha), at Kāśī, which fits his known activity in Vārāṇasī in the late 17th century. It does not record when or where this manuscript was copied. The copy may be a later apograph. No scribe, owner or commissioner of this copy is named.",
+ "_meta": {
+  "reel": "A 88/5",
+  "model": "opus",
+  "cost_usd": 0.092418,
+  "secs": 22.2
+ }
+}

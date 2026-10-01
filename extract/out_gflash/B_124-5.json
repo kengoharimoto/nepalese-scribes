@@ -1,0 +1,71 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmalladevakamateśvaranaranārāyaṇa",
+   "name": "Malladeva Naranārāyaṇa",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "samastakṛpayādhirājamaṇi",
+    "kamateśvara"
+   ],
+   "affiliation": "",
+   "residence": "Kamata",
+   "evidence": "śrīmalladevakamateśvaranaranārāyaṇakāritāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīdevanātha",
+   "name": "Devanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "tarkapañcānana",
+    "ṭhakkura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāya tarkapañcānanaṭhakkura śrīdevanāthakṛtāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "śrīmalladevakamateśvaranaranārāyaṇakāritāyāṃ mahāmahopādhyāya tarkapañcānanaṭhakkura śrīdevanāthakṛtāyāṃ"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon represents the text's composition colophon (author colophon) of the Tantrakaumudī, recording that the text was composed by Devanātha Ṭhakkura under the patronage of King Malladeva Naranārāyaṇa of Kamatā (Koch Bihar, 16th century). No scribe or manuscript copy date is recorded.",
+ "_meta": {
+  "reel": "B 124/5",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 726,
+  "out_tok": 1899
+ }
+}

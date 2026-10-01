@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāma(7)prasāda",
+   "name": "Rāmaprasāda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ rāma(7)prasāda",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat || 1765 || samaya nāma phālgu vadi 5(6) vāre atavārake",
+  "era": "VS",
+  "year": "1765",
+  "month": "phālgu",
+  "paksa": "vadi",
+  "tithi": "5",
+  "weekday": "atavārake",
+  "nakshatra_yoga": "",
+  "ce_approx": "1708"
+ },
+ "place": {
+  "as_written": "kāsma madhomani kanikā samīpe",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The place string 'kāsma madhomani kanikā samīpe' corruptly represents Kāśyāṃ madhye Maṇikarṇikā-samīpe (at Maṇikarṇikā in Varanasi). The catalogue suggests Śaka era [ŚS] 1765 (= 1843 CE), but a 4-digit 'saṃvat' in North Indian Devanagari manuscripts generally denotes Vikrama Saṃvat (= 1708 CE).",
+ "_meta": {
+  "reel": "A 95/15",
+  "model": "gemini-flash-latest",
+  "secs": 7.7,
+  "in_tok": 805,
+  "out_tok": 1816
+ }
+}

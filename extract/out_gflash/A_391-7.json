@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kālidāsakṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1696 māse 4",
+  "era": "ŚS",
+  "year": "1696",
+  "month": "4",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1774"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Colophon of canto 3 (tṛtīyaḥ sargaḥ).",
+ "_meta": {
+  "reel": "A 391/7",
+  "model": "gemini-flash-latest",
+  "secs": 2.4,
+  "in_tok": 687,
+  "out_tok": 498
+ }
+}

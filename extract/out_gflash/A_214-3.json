@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "trimallabhaṭṭa",
+   "name": "Trimallabhaṭṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "trimallabhaṭṭa///",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat padmapayodhiśailavasudhābhiḥ saṃmite ... miti vaiśākhaśukla 3",
+  "era": "VS",
+  "year": "padmapayodhiśailavasudhā (1746?)",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1689"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records scribe Bālakṛṣṇa and place Kāśī, but these are absent from the quoted colophon excerpt (likely located in the lacuna śrī–/// or on another folio).",
+ "_meta": {
+  "reel": "A 214/3",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 784,
+  "out_tok": 1466
+ }
+}

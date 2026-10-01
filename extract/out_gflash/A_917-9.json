@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paṃḍitaśrībhuvanānandana",
+   "name": "Bhuvanānanda",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "Mahābauddha (mahābuddha)",
+   "evidence": "mahābuddhayā paṃḍitaśrībhuvanānandana okulībahilisa conahma1 viyājula || thva pustaka dayakā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1030 pauṣamāsaśuklapakṣe pūrṇṇamāsi maṃgalavārasa",
+  "era": "NS",
+  "year": "1030",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "15 (pūrṇamāsī)",
+  "weekday": "Tuesday (maṃgalavāra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1910"
+ },
+ "place": {
+  "as_written": "mahābuddhayā ... okulībahilisa",
+  "normalized": "Patan"
+ },
+ "purpose": "parivāracchiyāṃ saptavṛdhiṃ pūrṇṇa juya māla (for the fulfillment of sevenfold prosperity of the family through making and reciting this book)",
+ "notes": "The recipient of the book is referred to only as 'the resident of Okulībahī' (okulībahilisa conahma).",
+ "_meta": {
+  "reel": "A 917/9",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 840,
+  "out_tok": 1156
+ }
+}

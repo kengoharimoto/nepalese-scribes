@@ -1,0 +1,72 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Purpose normalised to 'svapāṭhārtham: for the scribe's own study'. The scribe is not named in the colophon.",
+   "Notes expanded: the subject of 'lilekha' is unexpressed. Devarāma may be both compiler and copyist, but this is unproven. Rādhākṛṣṇa (from the catalogue) is not in the quoted text. Śivalāla is Devarāma's teacher, not the teacher of the scribe of this copy. Place = a Rāmacandra temple (ālaya) in Kāśī. The stray '1' before 'samvat' is noted."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivalāla pāṭhaka",
+   "name": "Śivalāla",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "pāṭhaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śivalāla pāṭhaka pādānuyāyi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaṭṭadevarāma",
+   "name": "Devarāma",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭadevarāma saṃgṛhīte śrīmadrāmāyaṇīya viṣamapadavyākhyāne",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śivalāla pāṭhaka pādānuyāyi bhaṭṭadevarāma"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1900 kārttika vadi 2",
+  "era": "VS",
+  "year": "1900",
+  "month": "kārttika",
+  "paksa": "vadi",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1843"
+ },
+ "place": {
+  "as_written": "kāśikāṃ madhye śrī rāmacaṃdra āleye",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "svapāṭhārtham: for the (unnamed) scribe's own study",
+ "notes": "The verb 'lilekha' has no expressed subject, so the scribe is not named in this colophon. Devarāma may have copied his own commentary with the text, but the wording does not show this. The catalogue's scribe, Rādhākṛṣṇa, is absent from the quoted colophon and may be named on another folio. Śivalāla Pāṭhaka is described as devoted to the feet of Jānakīramaṇa (Rāma). He is Devarāma's teacher ('pādānuyāyi'), so he is linked to the commentary, not to the act of copying. The commentary is the Rāmāyaṇīya Viṣamapadavyākhyāna. 'āleye' should be read 'ālaye': the copy was made at a Śrī Rāmacandra temple or house in Kāśī. The '1' before 'samvat' is probably a punctuation mark or a stray numeral. Saṃvat 1900 Kārttika vadi 2 is taken as VS, giving about October/November 1843 CE.",
+ "_meta": {
+  "reel": "A 362/3",
+  "model": "opus",
+  "cost_usd": 0.08457,
+  "secs": 17.2
+ }
+}

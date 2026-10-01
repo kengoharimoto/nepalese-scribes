@@ -1,0 +1,83 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkeśavasāṃvatsara",
+   "name": "Keśava",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "sāṃvatsara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkeśavasāṃvatsarātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī gaṇeśa daivajña",
+   "name": "Gaṇeśa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "sakalāgamācārya",
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī gaṇeśa daivajña viracito",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "viśveśvareṇa jyotirvidasya",
+   "name": "Viśveśvara",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ viśveśvareṇa jyotirvidasya pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīkeśavasāṃvatsarātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat || 1869 śake 1734 || pauṣamāsekṛṣṇapakṣe | 1 || maṃdavāsare",
+  "era": "VS",
+  "year": "1869",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "1",
+  "weekday": "maṃdavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1812"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthaṃ ca",
+ "notes": "Both Vikrama Saṃvat (1869) and Śaka Era (1734) are provided.",
+ "_meta": {
+  "reel": "B 326/40",
+  "model": "gemini-flash-latest",
+  "secs": 8.0,
+  "in_tok": 867,
+  "out_tok": 1775
+ }
+}

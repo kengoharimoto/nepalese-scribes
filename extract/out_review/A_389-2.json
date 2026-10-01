@@ -1,0 +1,66 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 roles: removed 'reader', added 'owner' (svayaṃ paṭhanārtha = copied for his own study → scribe + owner)",
+   "p1 residence: recorded 'mustāvāda' tentatively, because it follows the scribe's name directly; confidence lowered to medium",
+   "place: as_written trimmed to the Kāśī/raṃdhanagara phrase, and the Ramnagar reading is flagged as uncertain in notes",
+   "date verified: VS 1763 Māgha → CE 1707 (January–February)"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "manasārāma svāmi",
+   "name": "Manasārāma",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "svāmin"
+   ],
+   "affiliation": "",
+   "residence": "mustāvāda (?)",
+   "evidence": "liṣataṃ(!) manasārāma svāmi mustāvāda ... svayaṃ paṭhanārtha(!)",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "māgha",
+   "name": "Māgha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "māghakṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1763 varṣe maghamāse śuklapakṣe tritīyāyāṃ śanivāre",
+  "era": "VS",
+  "year": "1763",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "śanivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1707"
+ },
+ "place": {
+  "as_written": "kāsiṃraṃdhanagararmadhye",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "svārtha (svayaṃ paṭhanārtha)",
+ "notes": "The era is assumed to be Vikrama because it is written as 'saṃvat' and the copy was made at Kāśī. 'mustāvāda' comes right after the scribe's name. It may be his home town or part of the place of copying, perhaps Mustafabad. 'kāsiṃraṃdhanagara' is corrupt. The catalogue reads it as 'raṃdhanagara samīpa' near Kāśī. It might mean Rāmnagar opposite Vārāṇasī, but that is uncertain. 'liṣataṃ' stands for likhitaṃ. The catalogue's 'Manasārāmasvāmī' is read here as Manasārāma with the title svāmin.",
+ "_meta": {
+  "reel": "A 389/2",
+  "model": "opus",
+  "cost_usd": 0.076154,
+  "secs": 14.3
+ }
+}

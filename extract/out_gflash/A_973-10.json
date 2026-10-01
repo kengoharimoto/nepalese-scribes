@@ -1,0 +1,143 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhāsurānaṃdanātha",
+   "name": "Bhāsurānandanātha",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhāsurānaṃdanāthacaraṇāraviṃdamiliṃdāyamānamānasenomānaṃdanāthena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "omānaṃdanāthena",
+   "name": "Umānandanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "omānaṃdanāthena viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "dhuṃḍhirāja",
+   "name": "Dhuṇḍhirāja",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "Devasthalī",
+   "residence": "",
+   "evidence": "dhuṃḍhirājātmakagaṇeśasūriṇā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "gaṇeśasūriṇā",
+   "name": "Gaṇeśa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "Devasthalī",
+   "residence": "",
+   "evidence": "devasthalyupanāmakadhuṃḍhirājātmakagaṇeśasūriṇā ... likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "kṛṣṇabhaṭṭa",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛṣṇabhaṭṭasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "lakṣmīnārāyaṇena",
+   "name": "Lakṣmīnārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛṣṇabhaṭṭasutalakṣmīnārāyaṇena likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "rājābhāu",
+   "name": "Rājābhāū",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "Kive",
+   "residence": "Induragrāma",
+   "evidence": "kive ity umanāmakasya(!) rājābhāu yasya gṛheṃduragrāmamadhye likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śrībhāsurānaṃdanāthacaraṇāraviṃdamiliṃdāyamānamānasenomānaṃdanāthena"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "dhuṃḍhirājātmakagaṇeśasūriṇā"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p5",
+   "evidence": "kṛṣṇabhaṭṭasutalakṣmīnārāyaṇena"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "iṃduragrāmamadhye",
+  "normalized": "Indore"
+ },
+ "purpose": "svārthaṃ ca parārthaṃ ca",
+ "notes": "Induragrāma refers to Indore (Madhya Pradesh). Surnames Devasthalī and Kive (Kibe) and personal name Rājābhāū point to Maharashtra Brahmins settled in Indore. 'dhuṃḍhirājātmakagaṇeśasūriṇā' appears corrupt for -ātmaja-.",
+ "_meta": {
+  "reel": "A 973/10",
+  "model": "gemini-flash-latest",
+  "secs": 15.2,
+  "in_tok": 809,
+  "out_tok": 4348
+ }
+}

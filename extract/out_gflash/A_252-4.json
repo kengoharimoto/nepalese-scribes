@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīharivaṃśanāthavatacocaka",
+   "name": "Harivaṃśanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīharivaṃśanāthavatacocaka",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 786 caitrakṛ trayodaśī pra caturdaśyān tithau revatī pra aśvinī nakṣatra ādityavāra",
+  "era": "NS",
+  "year": "786",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī pra caturdaśī",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "revatī pra aśvinī",
+  "ce_approx": "1666"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The name and role are bracketed in the catalogue transcription: '[[śrīharivaṃśanāthavatacocaka || ]]'. 'cocaka' is likely derived from Newari coya ('to write'), indicating the scribe; '-vata' might represent 'bhaṭa' (bhata) or a scribal corruption/inflection.",
+ "_meta": {
+  "reel": "A 252/4",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 690,
+  "out_tok": 1651
+ }
+}

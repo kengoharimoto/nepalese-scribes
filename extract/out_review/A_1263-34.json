@@ -1,0 +1,72 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Goviṃda: dropped 'commissioner'. 'goviṃdanāmārthaṃ' only says the copy was made for someone named Goviṃda, so the role is beneficiary. Confidence lowered to medium.",
+   "Place: as_written changed to the attested form 'bhaktāpuranivāsinā'. This phrase gives the scribe's residence; copying in Bhaktapur is only inferred from it.",
+   "Date: year field now gives the number reading. ce_approx is a tentative range. Weekday normalised to Thursday, month glossed as Phālguna. The tithi is given as a possible reading of 'harau'.",
+   "Purpose: changed to 'for Goviṃda'. 'durggā prītri astu' is a closing blessing, not a statement of purpose."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñaviṣṇusiṃhena",
+   "name": "Viṣṇusiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "Bhaktapur (bhaktāpura)",
+   "evidence": "daivajñaviṣṇusiṃhena bhaktāpuranivāsinā (!) ... saṃpūrṇṇalikhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "goviṃdanāmārthaṃ",
+   "name": "Govinda",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "goviṃdanāmārthaṃ saṃpūrṇṇalikhitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "daivajñaviṣṇusiṃhena ... goviṃdanāmārthaṃ saṃpūrṇṇalikhitaṃ tvidaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "nepāle hāyane jāte dhaneśe nayanārṇṇave | site tapasya sutithau harauvāre vṛspatau",
+  "era": "NS",
+  "year": "dhaneśe nayanārṇṇave = NS [arṇava][nayana=2][dhaneśa] (units-first chronogram); probably 72x, uncertain",
+  "month": "Tapasya (Phālguna)",
+  "paksa": "śukla",
+  "tithi": "harau = Hari's tithi, i.e. ekādaśī (or dvādaśī)?; uncertain",
+  "weekday": "Thursday (vṛhaspati)",
+  "nakshatra_yoga": "",
+  "ce_approx": "c. 1600–1610 (NS 72x, if arṇava=7); if arṇava=4, c. 1300–1310"
+ },
+ "place": {
+  "as_written": "bhaktāpuranivāsinā",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "for Goviṃda (goviṃdanāmārthaṃ)",
+ "notes": "The catalogue names Goviṃda as the scribe, but the colophon names daivajña Viṣṇusiṃha of Bhaktapur as the scribe. He copied the text for someone named Goviṃda. Chronogram: read units first, the words give units = dhaneśa, tens = nayana (2), hundreds = arṇava. Arṇava is 4 or 7. NS 72x is more likely for a Newari manuscript of this kind. Dhaneśa (Kubera) is not a standard number word, so the units digit is uncertain; the year cannot be pinned down without checking the tithi and weekday. 'harau' may name the tithi (ekādaśī/dvādaśī) or stand for the nakṣatra Śravaṇa (ruled by Hari). 'sastaṃ' is probably for 'śastaṃ'. 'durggā prītri (!) astu' stands for 'durgā prītir astu'.",
+ "_meta": {
+  "reel": "A 1263/34",
+  "model": "opus",
+  "cost_usd": 0.10636999999999999,
+  "secs": 29.5
+ }
+}

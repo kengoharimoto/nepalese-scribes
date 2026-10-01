@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śarvarīramaṇa śarmaṇā",
+   "name": "Śarvarīramaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitamidaṃ pustakaṃ śarvarīramaṇa śarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "navajaladhimahībhṛdavanimite 1749 śālivāhanaśake bhādrakṛṣṇa paṃcamyāṃ ravivāsare",
+  "era": "ŚS",
+  "year": "1749",
+  "month": "bhādra",
+  "paksa": "kṛṣṇa",
+  "tithi": "paṃcamī",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1827"
+ },
+ "place": {
+  "as_written": "kāntipuryām",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1173/33",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 828,
+  "out_tok": 832
+ }
+}

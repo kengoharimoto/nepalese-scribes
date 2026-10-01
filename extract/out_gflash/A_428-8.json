@@ -1,0 +1,77 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "lālaratnapṛthivī suro",
+   "name": "Lālaratna",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "pṛthivīsura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lālaratnapṛthivī suro hy alam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "viśvanātha",
+   "name": "Viśvanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdivākarātmajaviśvanāthaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "divākara",
+   "name": "Divākara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "divākarātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "divākarātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "saptapañcaturagendusammitaśākamāne sitapakṣa...",
+  "era": "ŚS",
+  "year": "1757",
+  "month": "",
+  "paksa": "sita",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1835"
+ },
+ "place": {
+  "as_written": "nepāladeśa",
+  "normalized": "Nepal"
+ },
+ "purpose": "",
+ "notes": "The chronogram 'saptapañcaturagendu' gives 1757 Śaka era (sapta = 7, pañca = 5, turaga = 7, indu = 1).",
+ "_meta": {
+  "reel": "A 428/8",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 766,
+  "out_tok": 1165
+ }
+}

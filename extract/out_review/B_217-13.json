@@ -1,0 +1,48 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. I rewrote the notes to explain that the bare genitive 'gaurīdattasya' is ambiguous and to give the readings for '(!)'."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaurīdattasya",
+   "name": "Gaurīdatta",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jyeṣṭhakṛṣṇa(!)māyāṃ gaurīdattasya",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śālivāhanaśāke 1715 jyeṣṭhakṛṣṇa(!)māyāṃ",
+  "era": "ŚS",
+  "year": "1715",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "amāvāsyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1793"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon ends with the bare genitive 'gaurīdattasya', with no 'pustakam' and no 'likhitam'. It may be a shortened owner statement ('[this book] is Gaurīdatta's') or a cut-off scribal formula. The catalogue makes him the scribe, so both roles are kept at medium confidence. 'jyeṣṭhakṛṣṇa(!)māyāṃ' probably stands for 'jyeṣṭhakṛṣṇāmāyāṃ', i.e. the new moon (amāvāsyā) of the dark fortnight of Jyeṣṭha. Śālivāhana-śaka 1715 + 78 gives about 1793 CE (roughly June). 'ṣaṣṭheśe(!)' stands for 'ṣaṣṭhe 'ṃśe'. The title also names a Vaiṣṇavākūṭacandrikāṭīkā, but the colophon quoted here covers only the Viṣṇupurāṇa.",
+ "_meta": {
+  "reel": "B 217/13",
+  "model": "opus",
+  "cost_usd": 0.058523,
+  "secs": 14.7
+ }
+}

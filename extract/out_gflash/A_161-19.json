@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "amarasiṃha",
+   "name": "Amarasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "amarasiṃhāksaraṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 977 śālamiti caitraśudi 4 roja 3",
+  "era": "NS",
+  "year": "977",
+  "month": "caitra",
+  "paksa": "śudi",
+  "tithi": "4",
+  "weekday": "roja 3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1857"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svarggavāsa lāyu",
+ "notes": "The catalogue records King Bhūpālendra, but no king is mentioned in the quoted colophon text.",
+ "_meta": {
+  "reel": "A 161/19",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 789,
+  "out_tok": 1306
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Notes expanded: the era is not named in the colophon (only 'saṃ') and is taken as NS from the Newari script and the catalogue field; also noted the colophon's text name differs from the catalogue title."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 981 bhādravaddhi (!) 4 śukravāre",
+  "era": "NS",
+  "year": "981",
+  "month": "bhādra",
+  "paksa": "kṛṣṇa",
+  "tithi": "4",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1861"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon says only 'saṃ 981'. NS is assumed from the Newari script and the catalogue's (NS) reading, which gives 981 + 880 = c. 1861 CE. 'vaddhi' stands for vadi (kṛṣṇapakṣa). The catalogue field gives (NS) 891 (c. 1771 CE), but the quoted colophon reads 981. One of the two is probably a transposition error, and the colophon reading is preferred. The colophon names the text 'padmapurāṇīyatarppaṇavidhiḥ', not Guhyakālyayutākṣarī as in the catalogue title. This may be a closing section or another text in the same manuscript. No persons are named.",
+ "_meta": {
+  "reel": "B 157/13",
+  "model": "opus",
+  "cost_usd": 0.060398,
+  "secs": 11.6
+ }
+}

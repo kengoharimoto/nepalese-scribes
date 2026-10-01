@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daṃḍinaḥ",
+   "name": "Daṇḍin",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daṃḍinaḥ kṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1836 mītīkuāravadī(!) 8 vāra atavara(!)",
+  "era": "VS",
+  "year": "1836",
+  "month": "kuāra",
+  "paksa": "vadī",
+  "tithi": "8",
+  "weekday": "atavara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1779"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The invocation/mention †śrīrāmacandra † at the very end is taken as an invocation to the deity Rāmacandra and thus excluded from persons.",
+ "_meta": {
+  "reel": "B 317/5",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 706,
+  "out_tok": 1105
+ }
+}

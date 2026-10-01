@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhūpatīndramalladena",
+   "name": "Bhūpatīndramalla",
+   "roles": [
+    "commissioner",
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhūpatīndramalladena dayakā dina",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 812 vaiśāṣavadi 4 thva kunhu",
+  "era": "NS",
+  "year": "812",
+  "month": "vaiśākha",
+  "paksa": "vadi",
+  "tithi": "4",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1692"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The Newari phrase 'śrībhūpatīndramalladena dayakā dina' indicates the manuscript was caused to be made/prepared by King Bhūpatīndramalla of Bhaktapur.",
+ "_meta": {
+  "reel": "B 280/6",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 724,
+  "out_tok": 790
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rupanārāṃyanā",
+   "name": "Rūpanārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhītaṃ rupanārāṃyanā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The phrase 'vrāhmanatayānā dachīnāvijaḥ' likely indicates the scribe's caste (brāhmaṇa) and mentions receipt of a fee (dakṣiṇā).",
+ "_meta": {
+  "reel": "A 273/5",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 667,
+  "out_tok": 959
+ }
+}

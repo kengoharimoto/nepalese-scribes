@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhimakhyāreṇa",
+   "name": "Bhimakhyāra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitā bhimakhyāreṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vahnināgavasuś cai(3)va, gate nepālavatsare || māghe kṛṣṇacaturthyāṃ ca, vāre budhaśubhe dine [...] samvat 883 māgha kṛṣṇa catuthī(5)tithisa",
+  "era": "NS",
+  "year": "883",
+  "month": "Māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturthī",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1763"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "hitāya putrapautrāya, yaśāya dhanāya ca",
+ "notes": "The catalogue gives the scribe's name as Bhīmakhvāra, reflecting the common Newari variant/spelling of -khyāra / -khvāra.",
+ "_meta": {
+  "reel": "B 278/5",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 801,
+  "out_tok": 924
+ }
+}

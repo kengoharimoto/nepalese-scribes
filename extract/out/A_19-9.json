@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnārā〇yaṇaśarmmā",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "Visapīgrāma",
+   "evidence": "visapīgrāme śrīnārā〇yaṇaśarmmālikhad idaṃ pustakam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "lasaṃ 507 āśvinaśuklaikādaśyāṃ śukre",
+  "era": "LS",
+  "year": "507",
+  "month": "Āśvina",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "Friday (śukra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1626"
+ },
+ "place": {
+  "as_written": "visapīgrāme",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name is written 'nārāyaṇaśarmmā'. The catalogue gives it as Nārāyaṇaśarman; here 'śarman' is treated as a Brahmin name-suffix title. Visapī is probably Bisapī (Bisfi) in Mithila, the village associated with Vidyāpati, but this is not certain, so the place is left unnormalized. The final invocations name deities only: Gopāla, Vaidyanātha, Rāmacandra and Harihara. The ce_approx of 1626 uses the conventional LS+1119; some reckonings of the Lakṣmaṇasena era give a year about 1 to 3 years off. The author of Karpūramañjarī (Rājaśekhara) is not named in the colophon.",
+ "_meta": {
+  "reel": "A 19/9",
+  "model": "opus",
+  "cost_usd": 0.0559538,
+  "secs": 8.5
+ }
+}

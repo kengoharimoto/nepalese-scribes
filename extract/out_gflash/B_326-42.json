@@ -1,0 +1,100 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśvanātha",
+   "name": "Viśvanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajñavarya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñavarya divākarātmaja viśvanātha viracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "divākara",
+   "name": "Divākara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "divākarātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "goviṃda rāmena",
+   "name": "Govindarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "avadikṣya jñāti",
+   "residence": "",
+   "evidence": "lipikṛtoyaṃ vrāhmaṇa(!) avadikṣya jñāti goviṃda rāmena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "kṛṣṇajīkasya",
+   "name": "Kṛṣṇajīka",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "satipura jñāti",
+   "residence": "",
+   "evidence": "satipura jñāti vrāhmaṇa(!) kṛṣṇajīkasyedaṃ pustakaṃ grahitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "divākarātmaja"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "lipikṛtoyaṃ vrāhmaṇa(!) avadikṣya jñāti goviṃda rāmena || pavanārthaṃ satipura jñāti vrāhmaṇa(!) kṛṣṇajīkasyedaṃ pustakaṃ grahitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1830 śāke 1695 dakṣIṇāyane || śaradarutau(!) māsottama āśvina māse śuklapakṣe tithau 13 bhaumavāsare",
+  "era": "VS",
+  "year": "1830",
+  "month": "āśvina",
+  "paksa": "śuklapakṣe",
+  "tithi": "13",
+  "weekday": "bhaumavāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1773"
+ },
+ "place": {
+  "as_written": "avaṃtimadhye",
+  "normalized": "Ujjain"
+ },
+ "purpose": "pavanārthaṃ",
+ "notes": "The catalogue records the place of copying as Satipura, but the colophon specifies 'avaṃtimadhye' (in Avantī/Ujjain), whereas 'satipura' qualifies the community/caste of Kṛṣṇajīka (satipura jñāti).",
+ "_meta": {
+  "reel": "B 326/42",
+  "model": "gemini-flash-latest",
+  "secs": 11.3,
+  "in_tok": 911,
+  "out_tok": 3290
+ }
+}

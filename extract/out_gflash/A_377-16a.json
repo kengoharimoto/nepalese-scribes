@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kaviśrībhāravi",
+   "name": "Bhāravi",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kaviśrībhāravikṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vyāsajayaśaṃkareṇa",
+   "name": "Jayaśaṅkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vyāsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ vyāsajayaśaṃkareṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1805 varṣe āśvina ba 3 tṛtīyā bhaumavāsare",
+  "era": "VS",
+  "year": "1805",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "3",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1748"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 377/16a",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 771,
+  "out_tok": 951
+ }
+}

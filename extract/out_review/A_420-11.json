@@ -1,0 +1,66 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "date.month: 'tviṣe' is 'tv iṣe' (tu + iṣe), i.e. month Iṣa = Āśvina; 'śuci' moved to notes as ambiguous",
+   "date.tithi: the tithi number is not given ('kṛṣṇatithau' gives only the pakṣa), so it is now empty; 'tviṣ' was not a tithi",
+   "date.weekday normalized to Thursday (guror dine)",
+   "date.year: kept as the uncertain chronogram; the reasoning is in notes",
+   "notes expanded: chronogram problems, the composition date 1493 possibly mistaken for the copy date, and the metre check"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnārāya(8)ṇadaivajña",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnārāya(8)ṇadaivajñaviracito",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīlālaratnākaranāmako",
+   "name": "Lālaratnākara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "tridṛkpura",
+   "evidence": "tridṛkpure śrīlālaratnākaranāmako ʼlikhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke kalaṃbāmvubhinīradair (!) mite tviṣe śucau kṛṣṇatithau guror ddine",
+  "era": "ŚS",
+  "year": "kalaṃbāmvubhinīradaiḥ (chronogram, unresolved)",
+  "month": "Iṣa (Āśvina)",
+  "paksa": "kṛṣṇa",
+  "tithi": "",
+  "weekday": "Thursday (guror dine)",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "tridṛkpure",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'kalaṃbāmvubhinīradaiḥ' (marked ! by the cataloguer) is corrupt. kalamba (arrow) = 5 and ambu (water/ocean) = 4, but 'bhi' and 'nīrada' have no clear number value, so the year cannot be read safely. The line scans as Indravajrā/Indravaṃśā as written, so the corruption is probably a word substitution and not a dropped syllable. The catalogue gives '1493/174?'. Note that ŚS 1493 (1571 CE) is the usual composition date of Nārāyaṇa's Muhūrtamārtaṇḍa itself, so 1493 may be a confusion with the composition date and not the copy date. ce_approx is left empty. 'tviṣe' should be read 'tv iṣe' = in the month Iṣa (Āśvina). 'śucau' is ambiguous: as a month name, Śuci normally means Āṣāḍha (sometimes Jyeṣṭha), which would conflict with Iṣa. Here it may be just an epithet ('pure, auspicious'). Pakṣa is kṛṣṇa; no tithi number is given; the weekday is Thursday. The place Tridṛkpura is not identified. Benediction: 'śubham astu lekhakapāṭhayoḥ (read pāṭhakayoḥ)'.",
+ "_meta": {
+  "reel": "A 420/11",
+  "model": "opus",
+  "cost_usd": 0.10768999999999998,
+  "secs": 32.8
+ }
+}

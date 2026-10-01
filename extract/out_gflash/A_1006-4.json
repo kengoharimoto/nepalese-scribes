@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "padmānāthadvijāṃ",
+   "name": "Padmanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "kāṃtipuryāṃ",
+   "evidence": "kāṃtipuryāṃ ya(!) padmānāthadvijāṃ likhat(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1723 || jeṣṭā(!)dhikavāre 4 ... śāke guṇe jaladair mite jyeṣṭā(!)dhike budhe tithau śaṃbhoḥ",
+  "era": "ŚS",
+  "year": "1723",
+  "month": "jyeṣṭha adhika",
+  "paksa": "",
+  "tithi": "śaṃbhoḥ",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1801"
+ },
+ "place": {
+  "as_written": "kāṃtipuryāṃ",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The chronogram in the verse is slightly corrupt/abbreviated ('śāke guṇe jaladair mite...'), but the numeral 1723 is explicitly stated. 'tithau śaṃbhoḥ' designates the 11th, 13th, or 14th tithi.",
+ "_meta": {
+  "reel": "A 1006/4",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 807,
+  "out_tok": 1130
+ }
+}

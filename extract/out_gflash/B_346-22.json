@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "miśralakṣmīnārāyaṇa",
+   "name": "Lakṣmīnārāyaṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "bhāradvājagotra, kauthumīśākhā",
+   "residence": "gurjadeśa",
+   "evidence": "miśralakṣmīnārāyaṇātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "miśrakṛpārāmadaivajña",
+   "name": "Kṛpārāma",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra",
+    "daivajña"
+   ],
+   "affiliation": "bhāradvājagotra, kauthumīśākhā",
+   "residence": "gurjadeśa",
+   "evidence": "miśrakṛpārāmadaivajñaviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "viśvānaṃdo",
+   "name": "Viśvānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viśvānaṃdo ʼlikhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "miśralakṣmīnārāyaṇātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "kvagnyśvābje mite śāke phālguṇe śyāmale dale || gajānanatithāvarke",
+  "era": "ŚS",
+  "year": "1731",
+  "month": "phālguna",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturthī",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1810"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram reads 'kvagny-aśv-ābje' (ku=1, agni=3, aśva=7, abja=1 => ŚS 1731). 'gajānanatithi' denotes the 4th tithi (caturthī); 'arka' is Sunday.",
+ "_meta": {
+  "reel": "B 346/22",
+  "model": "gemini-flash-latest",
+  "secs": 6.8,
+  "in_tok": 833,
+  "out_tok": 1702
+ }
+}

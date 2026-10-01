@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījayadevakavīndra",
+   "name": "Jayadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavīndra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījayadevakavīndraviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The excerpt is a chapter colophon (sarga 11) of the Gītagovinda, mentioning only the author Jayadeva.",
+ "_meta": {
+  "reel": "A 1364/9",
+  "model": "gemini-flash-latest",
+  "secs": 2.7,
+  "in_tok": 671,
+  "out_tok": 561
+ }
+}

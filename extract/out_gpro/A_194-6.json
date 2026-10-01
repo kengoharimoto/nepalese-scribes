@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmaheśvarānaṃdena",
+   "name": "Maheśvarānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upāsaka"
+   ],
+   "affiliation": "Mahābuddha",
+   "residence": "Lalitapura",
+   "evidence": "śrīlalitāpurasya śrīmahāvuddhopāśakaśrīmaheśvarānaṃdena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 959 sāla miti pauṣavadi 5 śukravāa",
+  "era": "NS",
+  "year": "959",
+  "month": "pauṣa",
+  "paksa": "vadi",
+  "tithi": "5",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1839"
+ },
+ "place": {
+  "as_written": "śrīlalitāpurasya",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The name Śrīkaṇṭhanātha in 'śrīkaṇṭhanāthāvatārite' refers to the deity Śiva revealing the tantra, not a human author.",
+ "_meta": {
+  "reel": "A 194/6",
+  "model": "gemini-pro-latest",
+  "secs": 10.7,
+  "in_tok": 820,
+  "out_tok": 1279
+ }
+}

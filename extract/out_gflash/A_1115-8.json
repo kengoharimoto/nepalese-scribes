@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kamalākāntaśarmaṇaḥ",
+   "name": "Kamalākānta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ idaṃ pustakaṃ kamalākāntaśarmaṇaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1743 saṃvat 1878 jyeṣṭhakṛṣṇa9tithau śukravāsare",
+  "era": "ŚS",
+  "year": "1743 (ŚS) / 1878 (VS)",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "śukravāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1821"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Double-dated in Śaka Era 1743 and Vikrama Saṃvat 1878.",
+ "_meta": {
+  "reel": "A 1115/8",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 731,
+  "out_tok": 978
+ }
+}

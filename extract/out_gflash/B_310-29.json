@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmudgalabhatta",
+   "name": "Mudgala",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmudgalabhattaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "goviṃda†naheraṃ† bhumaṃḍanetyupanāmakena",
+   "name": "Govinda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "goviṃda†naheraṃ† bhumaṃḍanetyupanāmakenālekhi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "āśvīnaśuklanavamī (!) ravivāsare [...] hemalambanāmābde",
+  "era": "unspecified",
+  "year": "hemalamba",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "navamī",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "śrīkāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "śrīkālabhairavārpaṇam astu",
+ "notes": "The year is specified only by the jovian cycle name (hemalambanāmābda). The scribe Govinda bears the surname/nickname (upanāma) Bhūmaṇḍana; 'naheraṃ' is corrupt/unclear.",
+ "_meta": {
+  "reel": "B 310/29",
+  "model": "gemini-flash-latest",
+  "secs": 8.0,
+  "in_tok": 814,
+  "out_tok": 2003
+ }
+}

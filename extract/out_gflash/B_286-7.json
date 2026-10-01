@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījagaccandra",
+   "name": "Jagaccandra",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījagaccandrakṛtaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrījitāmitramalla varmanā",
+   "name": "Jitāmitramalla",
+   "roles": [
+    "king",
+    "scribe"
+   ],
+   "titles": [
+    "sumati",
+    "varman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumati jayati śrījitāmitramalla varmanā (!) likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 798 āśvinaśukla mahāṣṭamī",
+  "era": "NS",
+  "year": "798",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "mahāṣṭamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1678"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "propitiation of Bhavānī (śrī 3 bhavānye prīnātu)",
+ "notes": "King Sumati Jitāmitramalla of Bhaktapur copied the text himself.",
+ "_meta": {
+  "reel": "B 286/7",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 806,
+  "out_tok": 1338
+ }
+}

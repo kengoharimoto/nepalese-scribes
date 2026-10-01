@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkavirāja śṃkoddhāra",
+   "name": "Śaṅkoddhāra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkavirāja śṃkoddhāraviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "saktivallabhena",
+   "name": "Śaktivallabha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "saktivallabhena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1664",
+  "era": "ŚS",
+  "year": "1664",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1742"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 310/33",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 695,
+  "out_tok": 744
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vīrabhadreṇa",
+   "name": "Vīrabhadra",
+   "roles": [
+    "scribe",
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "naipāle paṭṭane",
+   "evidence": "vīrabhadreṇa viduṣā naipāle paṭṭane śubhe || likhitam upakārārtham ātmārthapaṭhanaṃ ca hi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śālivāhanaśāke ʼsmin naṃdavāṇakalāṃkite || caitramāsi site pakṣe daśamyāṃ ravivāsare",
+  "era": "ŚS",
+  "year": "1659",
+  "month": "Caitra",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1737"
+ },
+ "place": {
+  "as_written": "naipāle paṭṭane",
+  "normalized": "Patan"
+ },
+ "purpose": "upakārārtham ātmārthapaṭhanaṃ ca hi (for the benefit of others and for one's own reading)",
+ "notes": "Year given in chronogram: naṃda (9) - vāṇa (5) - kalā (16) = 1659 Śaka.",
+ "_meta": {
+  "reel": "B 245/14",
+  "model": "gemini-flash-latest",
+  "secs": 8.3,
+  "in_tok": 937,
+  "out_tok": 1812
+ }
+}

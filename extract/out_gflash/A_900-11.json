@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvedāṃtavāgīśabhaṭṭācārya",
+   "name": "Vedāntavāgīśa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvedāṃtavāgīśabhaṭṭācāryaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "krṣṇārāmaśarmmaṇā",
+   "name": "Kṛṣṇārāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idam pustakaṃ krṣṇārāmaśarmmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1778 samvat 1913 sāla miti āśvina vadi 30 roja 1",
+  "era": "VS",
+  "year": "1913",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "30",
+  "weekday": "Sunday (roja 1)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1856"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śāke 1778 and Samvat 1913 are recorded in the date, corresponding to 1856 CE.",
+ "_meta": {
+  "reel": "A 900/11",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 755,
+  "out_tok": 1133
+ }
+}

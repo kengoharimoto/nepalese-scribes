@@ -1,0 +1,84 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "munīśvarā para nāmakavi viśvarupa gaṇaka",
+   "name": "Munīśvara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi",
+    "gaṇaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "munīśvarā para nāmakavi viśvarupa gaṇakavi racitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sakalagaṇaka sārvabhaumaraṃganāthagaṇaka",
+   "name": "Raṅganātha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "sakalagaṇakasārvabhauma",
+    "gaṇaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sakalagaṇaka sārvabhaumaraṃganāthagaṇakātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "dīkṣitākhya śrīraṃganātha",
+   "name": "Raṅganātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "gaṇakottama",
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dīkṣitākhya śrīraṃganātha likhitena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "raṃganāthagaṇakātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "jagataḥ sukhaputrādi saṃpadartha susiddhidaṃ",
+ "notes": "The author Munīśvara is also named Viśvarūpa ('munīśvarāparanāmaka viśvarūpa'). The scribe Raṅganātha bears the title/family name Dīkṣita ('dīkṣitākhya').",
+ "_meta": {
+  "reel": "B 325/16",
+  "model": "gemini-flash-latest",
+  "secs": 8.3,
+  "in_tok": 807,
+  "out_tok": 2238
+ }
+}

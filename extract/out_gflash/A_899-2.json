@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viṣṇupurī",
+   "name": "Viṣṇupurī",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramahaṃsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paramahaṃsa viṣṇupurīgrathītāyāṃ(!)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "goviṃdadāsa vaiśnava",
+   "name": "Goviṃdadāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vaiṣṇava"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣyataṃ(!) goviṃdadāsa vaiśnava",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1673 varaṣe āsauja sudhi 12",
+  "era": "VS",
+  "year": "1673",
+  "month": "āsauja",
+  "paksa": "śukla",
+  "tithi": "12",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1616"
+ },
+ "place": {
+  "as_written": "āmāvatīmadhye devasthalaṃ",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author Viṣṇupurī is described with the epithet tairabhakta- (corrupt for tairabhukta, i.e. of Tirhut). Puruṣottama in the opening epithet refers to the deity.",
+ "_meta": {
+  "reel": "A 899/2",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 850,
+  "out_tok": 1337
+ }
+}

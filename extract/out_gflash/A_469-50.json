@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vālmīkī(!)",
+   "name": "Vālmīki",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vālmīkī(!)ye",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1897 sālam iti kārttikaśudi 10 roja 4",
+  "era": "VS",
+  "year": "1897",
+  "month": "kārttika",
+  "paksa": "śudi",
+  "tithi": "10",
+  "weekday": "roja 4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1840"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 469/50",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 705,
+  "out_tok": 1003
+ }
+}

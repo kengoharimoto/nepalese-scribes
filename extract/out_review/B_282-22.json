@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Title normalized from 'kāyasya' to 'kāyastha'; the reading as written is recorded in notes",
+   "Scribe confidence lowered to low: the name is probably corrupt and is surrounded by lacunae",
+   "Month normalized to āṣāḍha, with the as-written form kept in date.as_written",
+   "Notes expanded: the era is inferred, not stated, and the role of the fragment 'nājo' is unclear"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devarobhena",
+   "name": "Devarobha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ ------ kāyasya devarobhena",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 780 ākhāḍha śuklanavamyāntithau",
+  "era": "NS",
+  "year": "780",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "navamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1660"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon does not name an era. I read 'samvat 780' as Nepāla Saṃvat because the script is Newari, which gives about 1660 CE. Read as Vikrama Saṃvat, the year would be about 723 CE, which is implausible for this script. 'kāyasya' is probably an error for 'kāyastha'. 'devarobhena' is probably a corrupt name; possible readings are Devaśobha or Devarāma. There is a lacuna before the name, so a fuller name or more titles may be missing. 'nājo ----- midaṃ' is broken off and unclear. 'nājo' could be a title or Newari word (cf. nāyo), or part of a phrase like 'pustakam idaṃ', so a possible owner or commissioner may be lost there. The ending 'caturthaḥ kathā samāptaḥ' has grammatical errors as quoted.",
+ "_meta": {
+  "reel": "B 282/22",
+  "model": "opus",
+  "cost_usd": 0.066398,
+  "secs": 12.4
+ }
+}

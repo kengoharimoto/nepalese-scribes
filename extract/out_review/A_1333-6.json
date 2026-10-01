@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 confidence lowered to medium: 'naṃdaya' is an unusual form (possibly Nanda + corrupt ending, or a dative 'śarmaṇe' construction); stem kept as Nandaya",
+   "p1 residence emptied: the colophon gives Vārāhakṣetra/Tanahuḥ only as the place of copying, not explicitly as the scribe's residence",
+   "date: weekday glossed (4 = Wednesday if counted from Sunday), nakṣatra 13 glossed as Hasta, month glossed as the 4th month in varṣā ṛtu, dakṣiṇāyana; paksa 'śukra' read as śukla",
+   "place: as_written normalized spelling noted (varāhakṣatre = Vārāhakṣetra); normalized 'Tanahun' kept",
+   "notes rewritten: catalogue ŚS 1863 vs colophon śāke 1683 (likely digit transposition by cataloguer); removed speculative 'Śrīnandaśarman'"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnaṃdaya śarmaṇe",
+   "name": "Nandaya",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "Kāśyapa gotra",
+   "residence": "",
+   "evidence": "likhitaṃ kāśyapagotre nāmaṃ śrīnaṃdaya śarmaṇe",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1683 dakṣiṇāyaṇe ṛtau varṣāmāse 4 pakṣe śukratithau 5 nakṣetre 13 vāre 4",
+  "era": "ŚS",
+  "year": "1683",
+  "month": "4 (varṣā ṛtu, dakṣiṇāyana)",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "4 (Wednesday?)",
+  "nakshatra_yoga": "nakṣatra 13 (Hasta)",
+  "ce_approx": "1761"
+ },
+ "place": {
+  "as_written": "varāhakṣatre grāme tanahuḥ",
+  "normalized": "Tanahun"
+ },
+ "purpose": "",
+ "notes": "The catalogue gives ŚS 1863, but the colophon as quoted reads śāke 1683 (= c. 1761 CE). This is probably a digit transposition, by the cataloguer or in the quotation; with dakṣiṇāyana, a varṣā month and Wednesday it could be checked against the calendar. 'varāhakṣatre' = Vārāhakṣetra (cf. catalogue 'Vārākṣetre'), a village in Tanahuṃ; normalizing to Tanahun district is probable but not certain. 'śrīnaṃdaya śarmaṇe' is odd: the dative/locative-like endings follow 'kāśyapagotre', and the stem may be Nanda/Nandaya/Nandarāya. 'śukra' for śukla and 'nakṣetre' for nakṣatre are scribal errors.",
+ "_meta": {
+  "reel": "A 1333/6",
+  "model": "opus",
+  "cost_usd": 0.08059,
+  "secs": 18.2
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmaprasādeṇa",
+   "name": "Rāmaprasāda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "tivārī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmaprasādeṇa (!) likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "āsārāma",
+   "name": "Āsārāma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "tivārī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "āsārāmasuta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "āsārāmasuta rāmaprasādeṇa"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsamvat 1844 || || śrīśa(4)ke || || 16 || hemalambīsamvatsare || bhādrapadaśuddha phālguṇaśuddha 14 mamde",
+  "era": "VS",
+  "year": "1844",
+  "month": "phālguṇa",
+  "paksa": "śuddha",
+  "tithi": "14",
+  "weekday": "mamde",
+  "nakshatra_yoga": "",
+  "ce_approx": "1788"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthaṃ",
+ "notes": "The abbreviation 'tivā○' before 'āsārāmasuta' stands for Tivārī (Tiwari). Both Bhādrapada-śuddha and Phālguṇa-śuddha are written, likely correcting or intending Phālguṇa. The Śaka year is left incomplete at '16' (Śaka 1709 Hemalamba = VS 1844).",
+ "_meta": {
+  "reel": "B 329/24c",
+  "model": "gemini-flash-latest",
+  "secs": 8.7,
+  "in_tok": 791,
+  "out_tok": 1931
+ }
+}

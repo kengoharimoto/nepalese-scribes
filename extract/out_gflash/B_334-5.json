@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vallāladaivajña",
+   "name": "Vallāla",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "sakalagaṇakasārvabhauma",
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsakalagaṇakasārvabhaumaśrīvallāladaivajña tatsuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kṛṣṇavāṇaka",
+   "name": "Kṛṣṇavāṇaka",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tatsuta kṛṣṇavāṇakaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "tatsuta"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "This is a chapter colophon (karaṇiṣaḍvidhavivaraṇa) naming the commentator Kṛṣṇa Daivajña (corruptly written kṛṣṇavāṇaka, likely for kṛṣṇagaṇaka), son of Vallāla Daivajña.",
+ "_meta": {
+  "reel": "B 334/5",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 699,
+  "out_tok": 1027
+ }
+}

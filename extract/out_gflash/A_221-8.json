@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsiddhanāgārjuna",
+   "name": "Nāgārjuna",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "siddha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsiddhanāgārjunaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhavānīśaṃkara bhaṭena",
+   "name": "Bhavānīśaṃkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭa"
+   ],
+   "affiliation": "",
+   "residence": "nepāladeśe",
+   "evidence": "bhavānīśaṃkara bhaṭena likhītaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 17(8)1 nesa 905 kārtikamāse śuklapakṣe dvādaśī ravīvāsare (!) anunakṣatre",
+  "era": "NS",
+  "year": "905",
+  "month": "kārtika",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "anunakṣatre",
+  "ce_approx": "1784"
+ },
+ "place": {
+  "as_written": "nepāladeśe",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Two dates appear: 'samvat 17(8)1' and 'nesa 905' (Nepāla Saṃvat 905). The catalogue reads 'SS 1721 NS 905', but the text has '17(8)1'.",
+ "_meta": {
+  "reel": "A 221/8",
+  "model": "gemini-flash-latest",
+  "secs": 8.0,
+  "in_tok": 854,
+  "out_tok": 1883
+ }
+}

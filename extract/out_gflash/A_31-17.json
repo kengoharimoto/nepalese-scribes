@@ -1,0 +1,74 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahārājaśrīśrīmajjagajjyotirmmalla / mahārājaśrīśrījagajjyotir-mmalla",
+   "name": "Jagajjyotirmalla",
+   "roles": [
+    "author",
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājaśrīśrīmajjagajjyotirmmallaviracitā ... mahārājaśrīśrījagajjyotir-mmallanideśam āsādya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvaṃśamaṇiśarmmā",
+   "name": "Vaṃśamaṇi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvaṃśamaṇiśarmmā vyalekhīd idaṃ pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "mahārājaśrīśrījagajjyotir-mmallanideśam āsādya śrīvaṃśamaṇiśarmmā vyalekhīd idaṃ pustakaṃ"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "mahārājaśrīśrījagajjyotir-mmallanideśam āsādya"
+  }
+ ],
+ "date": {
+  "as_written": "śāke 1539 la saṃ 494 jyaiṣṭhaśuklacaturddaśīśanau",
+  "era": "ŚS",
+  "year": "1539 (ŚS) / 494 (LS)",
+  "month": "Jyaiṣṭha",
+  "paksa": "śukla",
+  "tithi": "14",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1617"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "mahārājaśrīśrījagajjyotir-mmallanideśam āsādya (by order of King Jagajjyotirmalla)",
+ "notes": "Both Śaka Saṃvat 1539 and Lakṣmaṇasena Saṃvat 494 are recorded.",
+ "_meta": {
+  "reel": "A 31/17",
+  "model": "gemini-flash-latest",
+  "secs": 6.2,
+  "in_tok": 956,
+  "out_tok": 1714
+ }
+}

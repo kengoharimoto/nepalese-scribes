@@ -1,0 +1,85 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Haladhara: removed 'scribe'. 'lekhitaṃ' (causative participle, 'caused to be written') supports only 'commissioner'. Confidence lowered to medium because 'viprottamarājako' is unclear. Title normalised to 'vipra' (with 'viprottama' kept as written).",
+   "Date: proposed reading of the corrupt chronogram 'vanaṃ danaṃ damilite' as bāṇa(5)-nanda(9)-danti(8) → NS 895, giving ce_approx 1775 (tentative; the year field shows it as a reading, not a certainty).",
+   "Purpose normalised to 'for the pleasure of Śrī Rāma (śrīrāmasuprītaye)'.",
+   "Notes updated: the earlier 'NS 99x' guess is replaced and the uncertainties are listed."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "himmativarmaṇaḥ",
+   "name": "Himmativarman",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "himmativarmaṇaḥ putrasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī rāma varmaṇa",
+   "name": "Rāmavarman",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "putrasya śrī rāma varmaṇa kṛtāvadhyātma rāmāyaṇe setau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "haladharo",
+   "name": "Haladhara",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viprottamarājako haladharo ... ṭīkā pustaka lekhitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "himmativarmaṇaḥ putrasya śrī rāma varmaṇa"
+  }
+ ],
+ "date": {
+  "as_written": "nepālena vanaṃ danaṃ damilite pauṣesite pūrṇimā nakṣatre ca punarvasu vudha dine yoge tathā eiṃdrake",
+  "era": "NS",
+  "year": "895? (bāṇa-nanda-danti, corrupt)",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "Punarvasu, Aindra",
+  "ce_approx": "1775"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for the pleasure of Śrī Rāma (śrīrāmasuprītaye)",
+ "notes": "The catalogue lists Śrīrāma Varmā as the scribe. The colophon shows he is the commentator: he wrote the Setu commentary and is the son of Himmativarman. He is not the copyist. Haladhara had the copy made ('lekhitaṃ', causative). It is possible he also wrote it himself, but the colophon does not say so. 'viprottamarājako' is unclear. It could be viprottama ('excellent brahmin') plus a word ending in -rājaka (a surname or place?), or a corruption. The year chronogram is corrupt. It might read 'nepāle bāṇa-nanda-danti-milite', i.e. 5, 9, 8 read right to left, giving NS 895 ≈ 1775 CE. This reading is tentative and has not been checked against the weekday or nakṣatra. A full moon in Pauṣa normally falls in Puṣya, not Punarvasu. 'adhyātmottara kāṇḍe ------------ tvārthataḥ' is a lacuna in the cataloguer's transcription.",
+ "_meta": {
+  "reel": "B 291/2",
+  "model": "opus",
+  "cost_usd": 0.101354,
+  "secs": 25.1
+ }
+}

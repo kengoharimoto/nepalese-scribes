@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "saṃtadāsa",
+   "name": "Saṃtadāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "saṃtadāsaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1716 māghavadi 13 trayodaśyāṃ śanivāsare",
+  "era": "VS",
+  "year": "1716",
+  "month": "māgha",
+  "paksa": "vadi",
+  "tithi": "13 trayodaśī",
+  "weekday": "śanivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1660"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name appears to have been lost or erased in the lacuna preceding likhitaṃ (〈〈...〉〉 likhitaṃ).",
+ "_meta": {
+  "reel": "A 411/3",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 756,
+  "out_tok": 762
+ }
+}

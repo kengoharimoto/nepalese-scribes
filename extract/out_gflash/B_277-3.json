@@ -1,0 +1,72 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījagadīśvara-",
+   "name": "Jagadīśvara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījagadīśvarakṛtaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīkāśīnāthaśarmmaṇa",
+   "name": "Kāśīnātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svākṣaram idaṃ śrīkāśīnāthaśarmmaṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīkṛṣnajośī",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "rāmanagara",
+   "evidence": "śrīkṛṣnajośī rāmanagara",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śakābdā 1727 samvat 1862 māghī śuklā varadācaturthī",
+  "era": "VS",
+  "year": "1862",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "varadācaturthī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1806"
+ },
+ "place": {
+  "as_written": "rāmanagara",
+  "normalized": "Ramnagar"
+ },
+ "purpose": "",
+ "notes": "The catalogue records ŚS 1720, but the colophon clearly gives Śakābdā 1727 alongside Saṃvat 1862 (which consistently yield early 1806 CE). Mentions of Annapūrṇā and Viśveśvara suggest the Varanasi region, matching the place name Rāmanagara. 'heramba' at the end is likely an invocation to Gaṇeśa.",
+ "_meta": {
+  "reel": "B 277/3",
+  "model": "gemini-flash-latest",
+  "secs": 9.9,
+  "in_tok": 812,
+  "out_tok": 2187
+ }
+}

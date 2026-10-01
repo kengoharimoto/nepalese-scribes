@@ -1,0 +1,64 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes; expanded the notes on the corrupt place name and the stray fragment 'ṇyāṃ śeṣaḥ'."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ciraṃjīva bhaṭṭācāryya",
+   "name": "Cirañjīva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ciraṃjīva bhaṭṭācāryyakṛttāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "miśra sītārāmeṇa",
+   "name": "Sītārāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "miśra sītārāmeṇa lekhīd",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "amāyamagaḍhe",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The place phrase 'lekhīd amāyamagaḍhe (!) 1' is corrupt. 'lekhīd' is probably a garbled 'alekhīt/likhitam'. The place could be read as '(a)māya-magaḍhe' (perhaps a 'gaḍh' or fort name, or a reference to Magadha), but no identification is certain. The trailing '1' is unexplained. The catalogue's Place field just repeats the corrupt string. 'ceti ṇyāṃ śeṣaḥ' looks like a stray fragment (perhaps from '...taraṅgiṇyāṃ śeṣaḥ'). The colophon gives no date.",
+ "_meta": {
+  "reel": "A 391/10",
+  "model": "opus",
+  "cost_usd": 0.068454,
+  "secs": 12.6
+ }
+}

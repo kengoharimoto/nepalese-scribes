@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājadaivajñavṛṣadhvajena",
+   "name": "Vṛṣadhvaja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "rājadaivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājadaivajñavṛṣadhvajena saṃpūrṇṇayāṅā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 812 kārttikaśuklatrayodaśī revatī nakṣatre vajrayoge śanaiścaravāra",
+  "era": "NS",
+  "year": "812",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "trayodaśī",
+  "weekday": "śanaiścaravāra",
+  "nakshatra_yoga": "revatī nakṣatre vajrayoge",
+  "ce_approx": "1691"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrī 3 parameśvarī prītir astu",
+ "notes": "",
+ "_meta": {
+  "reel": "A 987/18",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 781,
+  "out_tok": 924
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhairavācārya",
+   "name": "Bhairavācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhairavācāryaviracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1779 śrīsaṃvat 1914 sāla miti śrāvaṇavadi 1 roja 3",
+  "era": "ŚS",
+  "year": "1779",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "1",
+  "weekday": "roja 3 (Tuesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1857"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists the scribe as Jitānanda, but this name does not appear in the quoted colophon extract.",
+ "_meta": {
+  "reel": "A 166/4",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 782,
+  "out_tok": 1145
+ }
+}

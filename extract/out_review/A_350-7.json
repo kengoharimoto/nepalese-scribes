@@ -1,0 +1,67 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 Sūryamaṇi: added role 'owner' (copied 'ātmanaḥ pāṭhārthaṃ', i.e. for his own study), also 'paropakārārthaṃ'",
+   "Evidence for p2 tightened",
+   "Notes expanded: catalogue's 'ŚS 1790 [1709]' is unsupported by the colophon; 'saṃvat 1730' copied in Kāśī is most naturally VS (= 1674 CE for Māgha); weekday not verified"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīhariharapāṭhaka",
+   "name": "Harihara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "pāṭhaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīhariharapāṭhakakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sūryamaṇidīkṣīta(!)",
+   "name": "Sūryamaṇi",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "Kāśī",
+   "evidence": "ilitaṃ (!) pūstakaṃ kāśyāṃ sūryamaṇidīkṣīta(!) ātmanaḥ pāṭhārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1730 māghasudi 2 buddhavāra",
+  "era": "VS",
+  "year": "1730",
+  "month": "Māgha",
+  "paksa": "śukla (sudi)",
+  "tithi": "2",
+  "weekday": "Wednesday (buddhavāra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1674"
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "svārtha and parārtha: ātmanaḥ pāṭhārthaṃ paropakārārthaṃ",
+ "notes": "'ilitaṃ' is an error for 'likhitaṃ'. The colophon has only 'saṃvat 1730'. Because it was copied in Kāśī, this is taken as VS 1730, which puts Māgha śukla 2 in about Jan/Feb 1674 CE. The weekday (Wednesday) was not checked. The catalogue field 'ŚS 1790 [1709] 1730' does not match the colophon, which has no Śaka date; the reading ŚS 1730 (= 1808 CE) is possible but less likely. 'prākṛtav prābamdhavyākhyāne' is corrupt and probably reads 'prākṛta-/prabandha-vyākhyāne'. Harihara is the commentator, not the scribe; 'pāṭhaka' is treated as a family or office title.",
+ "_meta": {
+  "reel": "A 350/7",
+  "model": "opus",
+  "cost_usd": 0.07763400000000001,
+  "secs": 15.7
+ }
+}

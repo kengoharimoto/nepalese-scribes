@@ -1,0 +1,72 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Varddhamāna: kept as scribe and owner (svapāṭhārthaṃ). The catalogue lists him as Donor, but the colophon does not support that, so donor is not added.",
+   "p1 evidence shortened to the exact substring 'śrīvarddhamānena svapāṭhārthaṃ'.",
+   "p2 'ṭhakuke': role changed from definite 'scribe' to 'other' and confidence lowered to low. The form is ambiguous: it may be a corrupt personal name, or a vernacular or Maithili form of the title ṭhakkura ('with the Ṭhākura'). 'sārddhaṃ' marks association but does not show that this person was a co-scribe.",
+   "Purpose rendered in normalized form with a gloss.",
+   "Notes expanded on the reading of 'pāṇḍavagrāmīyapaṭhatā', the stock verse, and the discrepancy with the catalogue's donor field."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvarddhamānena",
+   "name": "Varddhamāna",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Pāṇḍavagrāma",
+   "evidence": "pāṇḍavagrāmīyapaṭhatā śrīvarddhamānena svapāṭhārthaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ṭhakuke",
+   "name": "Ṭhakuka",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ṭhakuke sārddhaṃ likhitaiṣā",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "other",
+   "to": "p2",
+   "evidence": "ṭhakuke sārddhaṃ likhitaiṣā pustīti"
+  }
+ ],
+ "date": {
+  "as_written": "lasaṃ 374 śrāvaṇabadi 13 ravau",
+  "era": "LS",
+  "year": "374",
+  "month": "Śrāvaṇa",
+  "paksa": "kṛṣṇa (badi)",
+  "tithi": "13",
+  "weekday": "Sunday (ravau)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1493"
+ },
+ "place": {
+  "as_written": "cāuṇṇitapāsaṃlagnadalakaulīgrāme",
+  "normalized": ""
+ },
+ "purpose": "svapāṭhārtham (for the scribe's own study)",
+ "notes": "The copy was made in Dalakaulī village, which belongs to Cāuṇṇi tappā (Mithilā region; the modern location is not identified). 'pāṇḍavagrāmīyapaṭhatā' probably means 'pāṇḍavagrāmīya' (from Pāṇḍavagrāma) + 'paṭhatā' (a present participle in the instrumental, 'studying', which agrees with varddhamānena). 'ṭhakuke sārddhaṃ' is unclear. It may be a corrupt or vernacular form, with a Maithili postposition -ke. It could refer to a person named Ṭhakuka, or to an unnamed ṭhakkura (Ṭhākura) with whom, or with whose help, the copy was made. It is not clear whether this person was a co-scribe. The catalogue gives Varddhamāna as Donor, but the colophon says only that he copied it for his own study. The closing verse (pustakalikhanapariśramavettā … hanūmān ekaḥ paraṃ veda) is a stock scribal verse, and 'vidyuj(!)jano' stands for 'vidvajjano'. ce_approx: LS 374 + 1119 = 1493.",
+ "_meta": {
+  "reel": "A 1311/19",
+  "model": "opus",
+  "cost_usd": 0.09339800000000001,
+  "secs": 22.2
+ }
+}

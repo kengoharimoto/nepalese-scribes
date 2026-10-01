@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nityanātha",
+   "name": "Nityanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nityanāthakṛtaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1849 mītī(!) jeṭha sudī 15",
+  "era": "VS",
+  "year": "1849",
+  "month": "jeṭha",
+  "paksa": "sudī",
+  "tithi": "15",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1792"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 169/4",
+  "model": "gemini-flash-latest",
+  "secs": 2.7,
+  "in_tok": 700,
+  "out_tok": 534
+ }
+}

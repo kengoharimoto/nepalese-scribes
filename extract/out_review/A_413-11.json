@@ -1,0 +1,91 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2: father's name read as Raghunātha: 'raghoḥ … nāthānta' means 'Raghu with -nātha at the end'. The first reading had Raghu.",
+   "p2: removed the 'jośī' title. 'jyautiṣI jo(!)' is more likely a garbled compound '-jyautiṣijo' ('born of the astrologer'). Kept 'jyautiṣī' as his title.",
+   "p3: 'dvijavarya' moved out of titles; it is a praise epithet ('best of brahmins'). Title given as 'dvija'.",
+   "p3: confidence lowered to medium because 'bhairavacaṇo' is unclear. It may be Bhairava + the suffix -caṇa ('famed'), or a corruption such as Bhairavagaṇa.",
+   "p3: owner role not added. The colophon only says 'ālekhi' (wrote).",
+   "Notes rewritten. They now mention the wrong catalogue Place field and the date reading."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "keśavadaivajña",
+   "name": "Keśava",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkeśavadaivajñaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "raghoḥ … nāthāṃta",
+   "name": "Raghunātha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "jyautiṣī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jyautiṣI jo(!) raghoḥ sutanayo nāthāṃta",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bhairavacaṇo",
+   "name": "Bhairava",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ālekhi dvijavarya bhairavacaṇo",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "raghoḥ sutanayo nāthāṃta"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1949 miºº mārgaśīrṣakṛ 7 gurau",
+  "era": "VS",
+  "year": "1949",
+  "month": "Mārgaśīrṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "7",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1892"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The verse colophon is corrupt. 'śrīmajjyautiṣI jo(!) raghoḥ sutanayo nāthāṃta' most likely means 'the good son of the illustrious astrologer Raghu-nātha', with 'nāthānta' meaning 'ending in -nātha'. That makes the father Raghunātha, though 'jo(!)' could also be read as an abbreviation of Jośī. The scribe's name 'bhairavacaṇo' is unclear. It could be Bhairava + -caṇa ('renowned'), or a mistake for Bhairavagaṇa or a similar form. Bhairava agrees with the catalogue's Scribe field. The catalogue's 'Place of Copying: VS 1949' is a field error: no place is named in the colophon, and 1949 is the date. 'miºº' = miti. VS 1949 Mārgaśīrṣa falls in November–December 1892 CE. The Thursday weekday has not been checked.",
+ "_meta": {
+  "reel": "A 413/11",
+  "model": "opus",
+  "cost_usd": 0.094414,
+  "secs": 21.7
+ }
+}

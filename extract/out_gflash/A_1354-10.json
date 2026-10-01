@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "candrākaraśarmaṇā",
+   "name": "Candrākara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ candrākaraśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1863 || miti phālguna (!) śukla15 roja 2",
+  "era": "VS",
+  "year": "1863",
+  "month": "phālguna",
+  "paksa": "śukla",
+  "tithi": "15",
+  "weekday": "roja 2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1807"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1354/10",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 776,
+  "out_tok": 753
+ }
+}

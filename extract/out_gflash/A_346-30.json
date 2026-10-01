@@ -1,0 +1,47 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmatā śrījagajjyotirmmalla bhūpatisūriṇā",
+   "name": "Jagajjyotirmalla",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "bhūpati",
+    "sūri",
+    "īśa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatā śrījagajjyotirmmalla bhūpatisūriṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "khaśaraharamukhendu 1550 vyañjite śākavarṣe, smaratithi budhamaitreṣvarjune jyaiṣṭapakṣe || budhavarakṛtasaṅgaiḥ",
+  "era": "ŚS",
+  "year": "1550",
+  "month": "Jyaiṣṭha",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "Maitra (Anurādhā)",
+  "ce_approx": "1628"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date recorded is the composition date of the play by King Jagajjyotirmalla in Bhūta/Śāṅkha chronogram: kha (0) - śara (5) - haramukha (5) - indu (1) = Śaka 1550. No separate copyist or copying date is preserved in the excerpt.",
+ "_meta": {
+  "reel": "A 346/30",
+  "model": "gemini-flash-latest",
+  "secs": 6.7,
+  "in_tok": 810,
+  "out_tok": 1572
+ }
+}

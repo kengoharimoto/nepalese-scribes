@@ -1,0 +1,108 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaṇeśadaivajña",
+   "name": "Gaṇeśa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "guru",
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīguruvarṣagaṇeśadaivajñakṛtatithiciṃtāmaṇiḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śaṃkarabhaṭṭa",
+   "name": "Śaṅkara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śaṃkarabhaṭṭātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "kaceśvareṇa",
+   "name": "Kaceśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "maṇuragrāme janakeśvarasannidhau",
+   "evidence": "kaceśvareṇedaṃ likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "mahepatarāvasya",
+   "name": "Mahepata",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "rāva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahepatarāvasyedaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "badalādataṃ",
+   "name": "Badalādatta",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "badalādataṃ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śaṃkarabhaṭṭātmajakaceśvareṇa"
+  }
+ ],
+ "date": {
+  "as_written": "śake 1713 phālguṇaśuddha 1",
+  "era": "ŚS",
+  "year": "1713",
+  "month": "phālguṇa",
+  "paksa": "śuddha",
+  "tithi": "1",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1791"
+ },
+ "place": {
+  "as_written": "maṇuragrāme janakeśvarasannidhau",
+  "normalized": ""
+ },
+ "purpose": "svārthe vā parārthe",
+ "notes": "The catalogue lists the donor as 'Badalādattamahepat Rāva'. However, 'badalādataṃ' may instead represent the phrase 'badalā dattam' ('given in exchange') qualifying the manuscript owned by Mahepatarāva.",
+ "_meta": {
+  "reel": "A 414/4",
+  "model": "gemini-flash-latest",
+  "secs": 19.9,
+  "in_tok": 853,
+  "out_tok": 4929
+ }
+}

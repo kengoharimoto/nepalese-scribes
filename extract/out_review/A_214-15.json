@@ -1,0 +1,65 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "date.year: gave numeric reading (1621?, with the chronogram quoted) instead of only the raw chronogram",
+   "date.month/paksa/weekday: normalized to Caitra (madhu) / śukla (śita) / Friday (kaver dine = Śukravāra)",
+   "date.tithi: 14 kept; noted that maheśasya tithi is read as caturdaśī",
+   "notes: expanded on why the chronogram is unclear; ce_approx 1699 is tentative (1700 if the year is ŚS 1622)",
+   "purpose: normalized wording"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "madanapā[la]",
+   "name": "Madanapāla",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadanapā[la]viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nārānidhi",
+   "name": "Nārānidhi",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nārānidhisvasya vilokanārthaṃ saṃprālikhat",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "dṛṅnetracārvāha śake madhauśitau pakṣe maheśasyatithau kaver dine",
+  "era": "ŚS",
+  "year": "1621? (chronogram dṛṅnetracārvāha, partly corrupt)",
+  "month": "Caitra (madhu)",
+  "paksa": "śukla",
+  "tithi": "14 (maheśasya tithi)",
+  "weekday": "Friday (kaver dine)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1699"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svavilokanārtham (copied by the scribe for his own study)",
+ "notes": "The chronogram 'dṛṅnetracārvāha' is corrupt. Dṛk = 2 and netra = 2. The rest ('cārvāha') cannot be resolved with confidence; read right to left, the year ends in ..22. The cataloguer's Śāke 1621 is marked with a query and does not fit a reading of dṛk = 2 as the units digit. ŚS 1622 (CE c. 1700) is equally possible, and ce_approx 1699 is only approximate. Maheśa's tithi is taken as caturdaśī (Śiva's tithi), as the cataloguer does. Kavi = Śukra, so the weekday is Friday. The scribe's name 'Nārānidhi' may be a corrupt form, for example of Nārāyaṇa or Nārāṇidhi. The Āyurvedic recipe (trikaṭuka...) after the colophon is a later addition and names no persons. The author Madanapāla is the king of Kāṣṭhā who composed the text, not a reigning king at the time of copying.",
+ "_meta": {
+  "reel": "A 214/15",
+  "model": "opus",
+  "cost_usd": 0.08541000000000001,
+  "secs": 21.5
+ }
+}

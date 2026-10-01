@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhojadeva",
+   "name": "Bhojadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhojadevasabhāviracita",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jagajjyotirmallakṣitiparivṛḍhena",
+   "name": "Jagajjyotirmalla",
+   "roles": [
+    "king",
+    "corrector"
+   ],
+   "titles": [
+    "kṣitiparivṛḍha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jagajjyotirmallakṣitiparivṛḍhenātikṛtinā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vaṃśamaṇinā",
+   "name": "Vaṃśamaṇi",
+   "roles": [
+    "corrector",
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "samantād ālekhyaprakaṭaguṇinā vaṃśamaṇinā ... śodhitam api",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "jagajjyotirmallakṣitiparivṛḍhenātikṛtinā | samantād ālekhyaprakaṭaguṇinā vaṃśamaṇinā"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "pramode dhīrāṇām",
+ "notes": "Vaṃśamaṇi (Jhā) was a renowned scholar-poet active at the court of King Jagajjyotirmalla of Bhaktapur. Both are named in the instrumental as having corrected (śodhitam) the work; Vaṃśamaṇi is qualified by ālekhyaprakaṭaguṇī (manifestly skilled in writing/copying).",
+ "_meta": {
+  "reel": "A 422/2",
+  "model": "gemini-flash-latest",
+  "secs": 8.1,
+  "in_tok": 794,
+  "out_tok": 2278
+ }
+}

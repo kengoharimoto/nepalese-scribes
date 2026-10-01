@@ -1,0 +1,104 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībuddha bhaṭṭācārya",
+   "name": "Buddhabhaṭṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībuddha bhaṭṭācāryakṛtā ratnaparikṣā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīpāthivendramarlladeva",
+   "name": "Pārthivendramalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "deva"
+   ],
+   "affiliation": "",
+   "residence": "kāṣṭamaṇḍapapūre",
+   "evidence": "kāṣṭamaṇḍapapūre ... śrīpāthivendramarlladeva",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vajrācārya, jagaḍānandena",
+   "name": "Jagaḍānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ vajrācārya, jagaḍānandena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "dānapati, jhorache, capāścati cyatādīgārapa dhamaruci bhīkṣu śrīratnatkena",
+   "name": "Ratnatka",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "dānapati",
+    "bhikṣu"
+   ],
+   "affiliation": "",
+   "residence": "jhorache",
+   "evidence": "līkhāpitaṃ || || dānapati, jhorache, capāścati cyatādīgārapa dhamaruci bhīkṣu śrīratnatkena, cocakā juro",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "likhitaṃ vajrācārya, jagaḍānandena, līkhāpitaṃ || || dānapati ... śrīratnatkena, cocakā juro"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "kāṣṭamaṇḍapapūre ... śrīpāthivendramarlladeva ... likhitaṃ vajrācārya, jagaḍānandena"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat aṣṭa graha mūṇīryukte, śrīcandrasekharatithi jukte, kraṃjavāsare",
+  "era": "NS",
+  "year": "798",
+  "month": "",
+  "paksa": "",
+  "tithi": "śrīcandrasekharatithi",
+  "weekday": "kraṃjavāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1678"
+ },
+ "place": {
+  "as_written": "kāṣṭamaṇḍapapūre",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The chronogram 'aṣṭa (8) graha (9) mūṇī (7)' gives NS 798. Note that the catalogue swapped the date and place fields in its summary header.",
+ "_meta": {
+  "reel": "B 41/14",
+  "model": "gemini-flash-latest",
+  "secs": 7.9,
+  "in_tok": 1075,
+  "out_tok": 2116
+ }
+}

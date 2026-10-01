@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vidābhūṣaṇabhaṭṭārya",
+   "name": "Vidyābhūṣaṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "bhaṭṭārya"
+   ],
+   "affiliation": "",
+   "residence": "Gauḍadeśa",
+   "evidence": "gauḍadeśīyamahāmahopādhyāyavidābhūṣaṇabhaṭṭāryātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "yadunāthacakravartti",
+   "name": "Yadunātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "cakravartin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yadunāthacakravarttiviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "anantasiṃho",
+   "name": "Anantasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "anantasiṃho vyalikhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "vidābhūṣaṇabhaṭṭāryātmajaśrīyadunāthacakravartti"
+  }
+ ],
+ "date": {
+  "as_written": "gate 'ṅkarandhrāśvamite śucau cā 'ṣṭamītithau svātiyute 'rkkavāre",
+  "era": "NS",
+  "year": "799",
+  "month": "śuci",
+  "paksa": "",
+  "tithi": "8",
+  "weekday": "arkkavāra",
+  "nakshatra_yoga": "svātī",
+  "ce_approx": "1679"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is expressed via the chronogram aṅka-randhra-aśva (9-9-7 = 799 NS). Śuci designates the month of Āṣāḍha.",
+ "_meta": {
+  "reel": "A 178/5",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 802,
+  "out_tok": 1443
+ }
+}

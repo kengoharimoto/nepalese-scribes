@@ -1,0 +1,92 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīānaṃdadeva-",
+   "name": "Ānandadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīānaṃdadevasūnunā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "āpadevena",
+   "name": "Āpadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "āpadevena kṛtaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rāmacaṃdropādhyāyena",
+   "name": "Rāmacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmacaṃdropādhyāyena likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīkṛṣṇaśarmaṇaḥ",
+   "name": "Kṛṣṇaśarman",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jotirvid"
+   ],
+   "affiliation": "Rāmanagaravāle (upākhyā)",
+   "residence": "",
+   "evidence": "śrīkṛṣṇaśarmaṇaḥ pustakam idam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīānaṃdadevasūnunā āpadevena"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśake 1771 āṣāḍhaśukla 3",
+  "era": "ŚS",
+  "year": "1771",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1849"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives 'SAM 1771', but the colophon text specifies 'śrīśake 1771' (Śaka Saṃvat). The ownership record of Kṛṣṇaśarman ('Rāmanagaravāle') was added in a different hand.",
+ "_meta": {
+  "reel": "B 42/17",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 769,
+  "out_tok": 1860
+ }
+}

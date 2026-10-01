@@ -1,0 +1,165 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayanarendramalladevasya",
+   "name": "Jayanarendramalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayanarendramalladevasya vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "madhanasiṃha bhāro",
+   "name": "Madhanasiṃha",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "bhāro"
+   ],
+   "affiliation": "",
+   "residence": "śrīyebubrumā, śrīgāṅgulaṃga, śrīkisirogla tole",
+   "evidence": "jvajamāna śrīyebubrumāyāṃ, śrīgāṅgulaṃge śrīkisiroglatolake vaṃthanihmagṛhāddhivāśīna madhanasiṃha bhāro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "amṛtasiṃha bhāro",
+   "name": "Amṛtasiṃha",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "bhāro"
+   ],
+   "affiliation": "",
+   "residence": "śrīyebubrumā, śrīgāṅgulaṃga, śrīkisirogla tole",
+   "evidence": "bhrātṛ amṛtasiṃha bhāro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "paṃḍu bhāro",
+   "name": "Paṇḍu",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "bhāro"
+   ],
+   "affiliation": "",
+   "residence": "śrīyebubrumā, śrīgāṅgulaṃga, śrīkisirogla tole",
+   "evidence": "bhrātṛ paṃḍu bhāro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "sajubhārosana",
+   "name": "Saju",
+   "roles": [
+    "relative_only",
+    "beneficiary"
+   ],
+   "titles": [
+    "bhāro"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pitā divaṃgata sajubhārosana lihālatā thāsa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "devajña jagatarājavadhanasya",
+   "name": "Jagatarājavadhana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "devajña"
+   ],
+   "affiliation": "",
+   "residence": "vaṃkato thaṃthu duthaṃnihmaṃ",
+   "evidence": "likhita vaṃkato thaṃthu duthaṃnihmaṃ devajña jagatarājavadhanasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīśrījayanarendramalladevasya vijayarājye || jvajamāna ... madhanasiṃha bhāro"
+  },
+  {
+   "from": "p3",
+   "type": "brother_of",
+   "to": "p2",
+   "evidence": "madhanasiṃha bhāro bhrātṛ amṛtasiṃha bhāro"
+  },
+  {
+   "from": "p4",
+   "type": "brother_of",
+   "to": "p2",
+   "evidence": "amṛtasiṃha bhāro bhrātṛ paṃḍu bhāro"
+  },
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p5",
+   "evidence": "tṛbhayasana pitā divaṃgata sajubhārosana"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p5",
+   "evidence": "tṛbhayasana pitā divaṃgata sajubhārosana"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p5",
+   "evidence": "tṛbhayasana pitā divaṃgata sajubhārosana"
+  },
+  {
+   "from": "p6",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "likhita vaṃkato thaṃthu duthaṃnihmaṃ devajña jagatarājavadhanasya"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 675 aśvīnimāse || kṛṣṇapakṣe || sptamīpra,aṣṭamyāyān tithau || puṇavasupra,pukhenakṣatreḥ siddhiprasādhyayoge || jathākuhnumūhurtte 〇 somavāsare",
+  "era": "NS",
+  "year": "675",
+  "month": "Āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "7/8",
+  "weekday": "somavāsara",
+  "nakshatra_yoga": "punarvasu/puṣya, siddhi/sādhya",
+  "ce_approx": "1555"
+ },
+ "place": {
+  "as_written": "śrīyebubrumāyāṃ, śrīgāṅgulaṃge śrīkisiroglatolake",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "tena punyena sāntiāyulakṣmīsantativradhanaṃ bhavati; in memory of their late father Saju Bhāro (pitā divaṃgata sajubhārosana lihālatā thāsa)",
+ "notes": "Yebubrumā refers to Yambu (northern Kathmandu). Scribe's name Jagatarājavadhana likely represents Jagadrājavardhana.",
+ "_meta": {
+  "reel": "A 43/10",
+  "model": "gemini-flash-latest",
+  "secs": 12.4,
+  "in_tok": 1076,
+  "out_tok": 3476
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sādhurāmaviduṣā",
+   "name": "Sādhurāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vidvas"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sādhurāmaviduṣā likhito yam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jaṅgavahāduravamarṇo (!) nṛpasya",
+   "name": "Jaṅgabahādura",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpa",
+    "varman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jaṅgavahāduravamarṇo (!) nṛpasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "jaṅgavahāduravamarṇo (!) nṛpasya janmatithau sādhurāmaviduṣā likhito yam"
+  }
+ ],
+ "date": {
+  "as_written": "guṇānalakhagaikasaṃmite bde [...] janmatithau",
+  "era": "VS",
+  "year": "1936",
+  "month": "",
+  "paksa": "",
+  "tithi": "janmatithi",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1879"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'guṇānalakhagaika' encodes the year, interpreted by the cataloguer as VS 1936 (or possibly 1933). The text was copied on the birthday (janmatithi) of Prime Minister/Maharaja Jang Bahadur Rana ('jaṅgavahāduravamarṇo (!) nṛpasya').",
+ "_meta": {
+  "reel": "A 900/3",
+  "model": "gemini-flash-latest",
+  "secs": 8.3,
+  "in_tok": 729,
+  "out_tok": 1860
+ }
+}

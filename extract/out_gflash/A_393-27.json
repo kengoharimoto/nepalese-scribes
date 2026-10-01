@@ -1,0 +1,61 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñapaṃḍitasūryakavi",
+   "name": "Sūryakavi",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña",
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmaddaivajñapaṃḍitasūryakaviviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "abhīrāmo",
+   "name": "Abhirāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "budha",
+    "tāropākhya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "prālikhad budhaḥ tāropākhyam abhīrāmo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "dravyavedavasuśvadre saṃvati ... 1849 caturthyāṃ śrāvaṇe māsi kṛṣṇapakṣe śanaiścare",
+  "era": "VS",
+  "year": "1849",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "4",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1792"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe is named Abhīrāma with the surname/epithet Tāropākhya (tāropākhyaḥ). Copied in the presence of deities and brahmins (devabrāhmaṇasannidhau).",
+ "_meta": {
+  "reel": "A 393/27",
+  "model": "gemini-flash-latest",
+  "secs": 6.8,
+  "in_tok": 827,
+  "out_tok": 1542
+ }
+}

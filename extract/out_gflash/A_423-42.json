@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaṇapati",
+   "name": "Gaṇapati",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gaṇapatikṛte",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1722 śāke 1587 śrāvaṇe māsi śuklapakṣe (3) dvādaśī 12 (!) guruvāsare[[ṇa]]",
+  "era": "VS",
+  "year": "1722",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "12",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1665"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "ātmapaṭhanārthaṃ paropakārārthaṃ ca",
+ "notes": "The name of the scribe/owner following 'liṣitam idaṃ pustakaṃ' is lost in a lacuna 〈〈…〉〉. Both VS 1722 and Śaka 1587 are given.",
+ "_meta": {
+  "reel": "A 423/42",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 779,
+  "out_tok": 928
+ }
+}

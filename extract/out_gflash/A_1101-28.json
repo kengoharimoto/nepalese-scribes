@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "padmalālaśarmaṇo",
+   "name": "Padmalāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ padmalālaśarmaṇo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1911 sāla miti caitra śudi 10 roja 4 māse 12 pakṣe 2 nakṣetre(!) 8 śubha daivata śukarmayoge purṇātithau(!)",
+  "era": "VS",
+  "year": "1911",
+  "month": "caitra",
+  "paksa": "śudi",
+  "tithi": "10",
+  "weekday": "roja 4",
+  "nakshatra_yoga": "nakṣetre 8, śukarmayoge",
+  "ce_approx": "1854"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1101/28",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 893,
+  "out_tok": 994
+ }
+}

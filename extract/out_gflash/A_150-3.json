@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vimalaprabodhapāda",
+   "name": "Vimalaprabodha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramahaṃsa",
+    "parivrājakācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paramahaṃsaparivrājakācāryaśrīvimalaprabodhapāda(2)viracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat (3) 781 kārttikamāse kṛṣṇapakṣe dvādasyāṃ tithau svātinakṣatre sobhanajoge (!) śomavāsare",
+  "era": "NS",
+  "year": "781",
+  "month": "kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādaśī",
+  "weekday": "somavāsara",
+  "nakshatra_yoga": "svātī, śobhana",
+  "ce_approx": "1661"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe refers to himself anonymously via the standard scribal verse ('mayā').",
+ "_meta": {
+  "reel": "A 150/3",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 797,
+  "out_tok": 985
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvajradatta",
+   "name": "Vajradatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvajradattaviracita",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvajrācārya śrīratnabhadra",
+   "name": "Ratnabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "mūla śrīmahāvihāra, piṃvāhācārya vaṃśa",
+   "residence": "kāṃtīpuramahānagara tutaula",
+   "evidence": "śrīvajrācārya śrīratnabhadra ... coyājula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 991miti māghaśukla ekādasi mṛgasirānakṣatravaidhṛtiyogabudhavāraṣunu",
+  "era": "NS",
+  "year": "991",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "ekādaśī",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "mṛgasirā nakṣatra vaidhṛti yoga",
+  "ce_approx": "1871"
+ },
+ "place": {
+  "as_written": "kāṃtīpuramahānagarao (tutaula) mūla śrīmahāvihārayā",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 132/23",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 788,
+  "out_tok": 1406
+ }
+}

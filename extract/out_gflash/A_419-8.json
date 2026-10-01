@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "drāṅnārāyaṇasiṃha",
+   "name": "Nārāyaṇasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "drāṅnārāyaṇasiṃha eṣa nikhilaprajñāvatāṃ prītaye, lokānandakaraṃ mukundavijayaṃ puṣṭaṃ (!) samastaṃ vyadhāt",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīnepālamate gate śrutiśikṣikṣooṇīdharair aṃkite, some paṃcadaśītithau sitarucāvāṣāḍhamāse punaḥ",
+  "era": "NS",
+  "year": "724",
+  "month": "Āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "15",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1604"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "nikhilaprajñāvatāṃ prītaye",
+ "notes": "The chronogram śruti (4), [a]kṣi (2), kṣoṇīdhara (7) yields NS 724. In the name 'drāṅnārāyaṇasiṃha', 'drāṅ' represents the adverb drāk ('swiftly'). The catalogue mentions King Jagajjyotirmalla, but he is not mentioned in the provided colophon excerpt.",
+ "_meta": {
+  "reel": "A 419/8",
+  "model": "gemini-flash-latest",
+  "secs": 8.0,
+  "in_tok": 746,
+  "out_tok": 1943
+ }
+}

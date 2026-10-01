@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahārājāʼdhirājakumāraśrīmadbahādurasāhasya",
+   "name": "Bahādurasāha",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "mahārājādhirājakumāra",
+    "girirājacacracūḍāmaṇi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājāʼdhirājakumāraśrīmadbahādurasāhasyājñayā likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1843 māghakṛṣṇadvādaśyāṃ tithau, bhaumavāsare",
+  "era": "VS",
+  "year": "1843",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādaśī",
+  "weekday": "bhaumavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1787"
+ },
+ "place": {
+  "as_written": "śrīmadbhaktapaṭṭane",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "Ādinātha is mentioned as the composer/revealer of the text (śrīmad ādināthaviracitāyāṃ), but omitted as a divine/mythical figure. The manuscript was written by order (ājñayā) of regent prince Bahādur Śāh.",
+ "_meta": {
+  "reel": "A 175/2",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 898,
+  "out_tok": 1234
+ }
+}

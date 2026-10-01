@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The quoted colophon only contains the chapter closing formula and śloka count. The cataloguer identifies the scribe as Vālakṛṣṇa Aryāla and the date as ŚS 1779 / VS 1914, but these details are not present in the quoted passage.",
+ "_meta": {
+  "reel": "A 1370/9",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 739,
+  "out_tok": 772
+ }
+}

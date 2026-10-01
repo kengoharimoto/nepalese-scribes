@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhājunārāyanale",
+   "name": "Bhājunārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "bhādagāṃu bhulā cheṭola",
+   "evidence": "bhājunārāyanale leṣyāko ho",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1894 sālamiti śrāvaṇa vadi || 2 || roja || 4 ||",
+  "era": "VS",
+  "year": "1894",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "2",
+  "weekday": "4 (Wednesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1837"
+ },
+ "place": {
+  "as_written": "bhādagāṃuako bhulā cheṭolako",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "The four-digit year 1894 sāla in a Nepali-language colophon indicates Vikrama Saṃvat (1837 CE).",
+ "_meta": {
+  "reel": "B 254/10",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 801,
+  "out_tok": 1342
+ }
+}

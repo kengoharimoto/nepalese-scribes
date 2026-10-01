@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe's name normalized from 'Nahākula' to 'Nakula': 'nahākula' is a phonetic spelling of Nakula, as the catalogue also reads it. Confidence lowered to medium.",
+   "Guruṅ kept in titles as an ethnic or clan name. Its spelling as 'guruṃ' is noted.",
+   "Date: VS 1867 matches Śaka 1732 (the colophon's Śāke 173 is truncated). Śrāvaṇa vadi falls in about July–August 1810. ce_approx 1810 is confirmed.",
+   "Notes expanded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nahākula guruṃ",
+   "name": "Nakula",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "guruṅ"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "leṣitaṃ nahākula guruṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 173 samvat 1867 sāla miti śrāvaṇa vadi vāre caṃdra",
+  "era": "VS",
+  "year": "1867",
+  "month": "śrāvaṇa",
+  "paksa": "vadi",
+  "tithi": "",
+  "weekday": "caṃdra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1810"
+ },
+ "place": {
+  "as_written": "śrīvakmati gaṃgā nikaṭe śrīpasupati chetreḥ kāṃtipurāgrāmasthāneḥ",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The Śaka year is written as 173, probably a slip for Śāke 1732, which matches VS 1867 (CE 1810). So the two eras agree once this is corrected. The tithi is missing; only 'śrāvaṇa vadi' and the weekday Monday (vāre caṃdra) are given. The scribe's name 'nahākula guruṃ' is read as Nakula Guruṅ, as in the catalogue; Guruṅ is an ethnic or clan name. The place is near the Bagmati at Paśupatikṣetra, Kāntipura (Kathmandu). The scribe's closing lines are a standard apology formula: they copied what was in the exemplar and are not to blame for errors.",
+ "_meta": {
+  "reel": "A 1019/22",
+  "model": "opus",
+  "cost_usd": 0.07039400000000001,
+  "secs": 12.7
+ }
+}

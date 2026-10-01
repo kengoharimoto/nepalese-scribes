@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkālidāsana",
+   "name": "Kālidāsa",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkālidāsana saṃcaya yāṅā || umeśaprītaye tantraṃ kālidāsena saṃcitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 740 thvadaṃ",
+  "era": "NS",
+  "year": "740",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1620"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrī3bhavānīśaṃkaraprītina / umeśaprītaye",
+ "notes": "Bhavānīśaṃkara / Umeśa refers to the divine couple Bhavānī and Śaṅkara (Umā and Īśa) for whose pleasure the manuscript was collected (saṃcita).",
+ "_meta": {
+  "reel": "B 112/3",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 792,
+  "out_tok": 1230
+ }
+}

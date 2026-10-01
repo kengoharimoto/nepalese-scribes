@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Normalised weekday: 'roja 1' = Sunday (kept original in as_written)",
+   "Normalised pakṣa: śudi = śukla",
+   "Date as_written trimmed to the date itself",
+   "Notes: era is not named in the colophon ('samvat'); NS inferred; tithi '(10) 8' is ambiguous",
+   "Scribe confidence lowered to low because the first akṣara is uncertain and the name is unusual"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "(jñ)ogarasiṃhena",
+   "name": "Jñogarasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "(jñ)ogarasiṃhena likhim",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 963 vaiśākha śudi (10) 8 roja 1",
+  "era": "NS",
+  "year": "963",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "8",
+  "weekday": "Sunday (roja 1)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1843"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The colophon gives only 'samvat 963' and does not name the era. I inferred Nepāla Saṃvat (= c. 1843 CE) from the Devanagari script and the 'roja' weekday formula. VS 963 (c. 906 CE) is not plausible for this kind of manuscript. The tithi is written 'śudi (10) 8'. The cataloguer's parenthesised '(10)' may be an uncertain or corrected numeral, so the tithi could be 10 or 8. I took 8 as written. The first akṣara of the scribe's name is uncertain ('(jñ)ogarasiṃha'). It may stand for Jogarasiṃha or a similar name. The cataloguer also queries it ('Jñogarasiṃha ?').",
+ "_meta": {
+  "reel": "A 167/21",
+  "model": "opus",
+  "cost_usd": 0.057239000000000005,
+  "secs": 15.2
+ }
+}

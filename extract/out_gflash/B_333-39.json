@@ -1,0 +1,55 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "cakrapāṇi",
+   "name": "Cakrapāṇi",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "cakrapāṇiracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmaheśvararājena",
+   "name": "Maheśvararāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmaheśvararājena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 949 pauṣavadī 2 roja 5",
+  "era": "NS",
+  "year": "949",
+  "month": "pauṣa",
+  "paksa": "vadī",
+  "tithi": "2",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1829"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 333/39",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 740,
+  "out_tok": 807
+ }
+}

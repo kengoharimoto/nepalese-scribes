@@ -1,0 +1,97 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kavirājarājapaṃḍita",
+   "name": "Kavirāja",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "rājapaṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kavirājarājapaṃḍita viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vīraśrīkāmadeva",
+   "name": "Kāmadeva",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "cakravartin",
+    "vīra"
+   ],
+   "affiliation": "Kādambakula",
+   "residence": "",
+   "evidence": "kādaṃbakulatilaka cakravartti vīraśrīkāmadevaprotsāhita",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīrāmasāhasya",
+   "name": "Rāma Śāha",
+   "roles": [
+    "commissioner",
+    "owner",
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Gorakhā",
+   "evidence": "śrīrāmasāhasya pustakam idaṃ pāthārtha lekāpitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "miśramādhava",
+   "name": "Mādhava",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "Gorakhā",
+   "evidence": "lekhaka miśramādhava",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p4",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "śrīrāmasāhasya pustakam idaṃ pāthārtha lekāpitaṃ (!) tathā paropakārāya || ○ || || himālaikadeśe goraṣāsthāṇe (!) lekhaka miśramādhava"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1544 śrāvanamāse (!) śuklapakṣe paṃcamī budhavāsare",
+  "era": "ŚS",
+  "year": "1544",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1622"
+ },
+ "place": {
+  "as_written": "himālaikadeśe goraṣāsthāṇe (!)",
+  "normalized": "Gorkha"
+ },
+ "purpose": "pāṭhārtha tathā paropakārāya",
+ "notes": "Rāma Śāha was the king of Gorkha (r. ca. 1606–1636 CE). Kāmadeva is the patron of the original poet Kavirāja mentioned in the work's final colophon.",
+ "_meta": {
+  "reel": "B 321/21",
+  "model": "gemini-flash-latest",
+  "secs": 8.5,
+  "in_tok": 887,
+  "out_tok": 2239
+ }
+}

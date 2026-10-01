@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "tripāṭhiballabharāmeṇa",
+   "name": "Ballabharāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "tripāṭhī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ tripāṭhiballabharāmeṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "mīti(!) pauṣakṛṣṇa 9 gurau saṃ 1897",
+  "era": "VS",
+  "year": "1897",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "gurau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1840"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 386/12",
+  "model": "gemini-flash-latest",
+  "secs": 3.0,
+  "in_tok": 698,
+  "out_tok": 749
+ }
+}

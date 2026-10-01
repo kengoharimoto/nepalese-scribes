@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bharathari hari śāhasya",
+   "name": "Bharathari Hari",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "śāha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idam postakaṃ (!) bharathari hari śāhasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śamvat 1857 śāke 1722",
+  "era": "VS",
+  "year": "1857",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1800"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date gives both Vikrama Saṃvat 1857 and Śaka 1722, which correspond to 1800 CE. The name is written as 'bharathari hari śāha', likely a member of the Shah nobility/royal family.",
+ "_meta": {
+  "reel": "A 1022/10",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 728,
+  "out_tok": 1044
+ }
+}

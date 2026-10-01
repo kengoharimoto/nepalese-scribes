@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhavānīśaṅkareṇa",
+   "name": "Bhavānīśaṅkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhavānīśaṅkareṇālikhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vaiśākhyā",
+  "era": "none",
+  "year": "",
+  "month": "vaiśākhyā",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "vaiśākhyā likely indicates the month of Vaiśākha or the full moon day (Vaiśākhī) of Vaiśākha.",
+ "_meta": {
+  "reel": "E 1685/9",
+  "model": "gemini-flash-latest",
+  "secs": 2.8,
+  "in_tok": 690,
+  "out_tok": 634
+ }
+}

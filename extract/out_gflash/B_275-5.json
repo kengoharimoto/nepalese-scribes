@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śṛīśrījaya bhūpatīndramalladeva",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "nepālamahīmaṇḍalaramaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīman nepālamahīmaṇḍala ramaṇa śṛīśrījaya bhūpatīndramalladeva viracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The quoted colophon text is only an act-ending formula naming king Jayabhūpatīndramalla as the author. The copying date (NS 826 phālguṇa kṛṣṇa 13) and place (Bhaktapur) listed in the catalogue fields are absent from this excerpt.",
+ "_meta": {
+  "reel": "B 275/5",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 714,
+  "out_tok": 890
+ }
+}

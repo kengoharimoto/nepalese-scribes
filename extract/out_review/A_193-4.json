@@ -1,0 +1,99 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: name normalized to stem 'Lakṣmaṇa' (ācārya moved to titles only)",
+   "p3: added role 'owner' (book described as the king's 'supustakaṃ'; unnamed 'yasyedaṃ pustakaṃ' blessing presumably refers to him); kept king + commissioner on the basis of 'nṛpavarājñā' (king's command)",
+   "date: tithi clarified as dvitīyā (first bhadrā tithi); solar position (Sun in Karka) recorded; chronogram verified",
+   "purpose rephrased",
+   "notes expanded: catalogue's Kāmāridatta Sena is not in the colophon; Vyāsa/Vināyaka in stock verse are not persons"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "lakṣmaṇācārya",
+   "name": "Lakṣmaṇa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīlakṣmaṇācāryaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dvījo- gaṃgāviṣṇur",
+   "name": "Gaṅgāviṣṇu",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvījo- gaṃgāviṣṇur alīlikhan",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "trivikramasya / trivikramaḥ",
+   "name": "Trivikrama",
+   "roles": [
+    "king",
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "rājā",
+    "nṛpavara"
+   ],
+   "affiliation": "uttamavaṃśaja",
+   "residence": "",
+   "evidence": "nṛpavarājñāgauravas tatparaḥ | trivikramasyottamavaṃśajasya rājño manorañjanakaṃ supustakaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "alīlikhan nṛpavarājñāgauravas tatparaḥ | trivikramasyottamavaṃśajasya rājño manorañjanakaṃ supustakaṃ"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "nṛpavaro jayatāṃ vai trivikramaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke dvijarājasaptarasabhūyukte nabhomāsya ha kṛṣṇe karkagate ravau prathamabhadrāyāṃ tithau gīḥ(!)patau",
+  "era": "ŚS",
+  "year": "1671",
+  "month": "Śrāvaṇa (Nabhas)",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvitīyā (prathamā bhadrā)",
+  "weekday": "Thursday (gīṣpati)",
+  "nakshatra_yoga": "Sun in Karka (karkagate ravau)",
+  "ce_approx": "1749"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for King Trivikrama's delight (rājño manorañjanakaṃ supustakaṃ), at his command",
+ "notes": "Chronogram read right to left: bhū 1, rasa 6, sapta 7, dvijarāja (moon) 1 = ŚS 1671 = 1749 CE; agrees with the catalogue. 'prathamabhadrā' = the first bhadrā tithi, i.e. dvitīyā. The catalogue gives Trivikrama Sena; the colophon names only 'Trivikrama' of an excellent lineage (uttamavaṃśaja), so the Sena identification and the catalogue's Kāmāridatta Sena come from outside the colophon. Owner role for Trivikrama is inferred from 'rājño ... supustakaṃ'; the closing 'yasyedaṃ pustakaṃ' is an unnamed blessing formula. Vyāsa and Vināyaka in the stock verse (kāvyakarttā svayaṃ vyāsaḥ lekhakosti vināyakaḥ) are not persons connected with this copy.",
+ "_meta": {
+  "reel": "A 193/4",
+  "model": "opus",
+  "cost_usd": 0.099298,
+  "secs": 21.8
+ }
+}

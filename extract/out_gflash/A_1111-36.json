@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṛṣṇalālaśarmaṇaḥ",
+   "name": "Kṛṣṇalāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "vakṣagotra",
+   "residence": "",
+   "evidence": "likhitaṃ pusta(8)kaṃ vakṣagotrāya (!) kṛṣṇalālaśarmaṇaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāli(7)vāhanaśāke 1806 vasantaṛtau vaisākhamāśe (!) kṛṣṇatrayodaśyāṃ tithau budhavāsare",
+  "era": "ŚS",
+  "year": "1806",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1884"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "vakṣagotrāya is probably corrupt for vatsagotrāya. The phrase 'likhitaṃ pustakaṃ vakṣagotrāya kṛṣṇalālaśarmaṇaḥ' mixes dative and genitive, likely indicating Kṛṣṇalāla as the scribe or owner.",
+ "_meta": {
+  "reel": "A 1111/36",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 816,
+  "out_tok": 1164
+ }
+}

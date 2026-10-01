@@ -1,0 +1,60 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīaṣṭāvakramuniviracite",
+   "name": "Aṣṭāvakra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "muni"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīaṣṭāvakramuniviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vīrabhadrasādhaka mumukṣuṇe",
+   "name": "Vīrabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sādhaka",
+    "mumukṣu"
+   ],
+   "affiliation": "",
+   "residence": "galkoṭadaśruśaile rāmadilamuṇyāśrame",
+   "evidence": "vīrabhadrasādhaka mumukṣuṇe(!) idaṃ pustakaṃ litaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1887 || miti āśvina vadi 30 || roja 5",
+  "era": "VS",
+  "year": "1887",
+  "month": "āśvina",
+  "paksa": "vadi",
+  "tithi": "30",
+  "weekday": "5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1830"
+ },
+ "place": {
+  "as_written": "galkoṭadaśruśaile rāmadilamuṇyāśrame",
+  "normalized": "Galkot"
+ },
+ "purpose": "",
+ "notes": "The catalogue reads 'rāmadilapuṇyāśrama' while the colophon text has 'rāmadilamuṇyāśrame'. 'litaṃ' is a corruption of 'likhitaṃ'.",
+ "_meta": {
+  "reel": "B 60/7",
+  "model": "gemini-pro-latest",
+  "secs": 14.5,
+  "in_tok": 791,
+  "out_tok": 1807
+ }
+}

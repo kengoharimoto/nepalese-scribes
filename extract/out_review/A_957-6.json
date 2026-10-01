@@ -1,0 +1,63 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Purpose expanded: the colophon also dedicates the merit to the world ('tasmād yat sukṛtaṃ śubham astu paraṃ tato jagataḥ').",
+   "Dhīreśvara's confidence lowered to medium. His name is certain, but his role is uncertain: the colophon reads as written for his study, while the catalogue calls him the scribe.",
+   "Notes now give the reading of 'śataślikī' as Śataślokī and of 'paṭhanādya' as paṭhanāya, and say that Vopadeva's commentary is presumably his own."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vopadeva",
+   "name": "Vopadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vopadeva viracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dhīreśvarasya",
+   "name": "Dhīreśvara",
+   "roles": [
+    "reader",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāśyāṃ dhīreśvarasya paṭhanādya",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "for Dhīreśvara's reading/study (paṭhanāya); merit dedicated to the welfare of the world",
+ "notes": "'śataślikī' should read śataślokī. 'paṭhanādya' is probably a corruption of paṭhanāya ('for the reading of'). In 'likhitam idaṃ ślokaśataṃ kāśyāṃ dhīreśvarasya paṭhanāya', Dhīreśvara is the person the copy was made for. The catalogue lists him as the scribe. That is only right if he copied it for his own study, and the colophon does not name a separate scribe. The copy is undated. The commentary (ṭīkā) is presumably Vopadeva's own commentary on the Śataślokī.",
+ "_meta": {
+  "reel": "A 957/6",
+  "model": "opus",
+  "cost_usd": 0.062323,
+  "secs": 17.2
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śaṃkarād enaṃ",
+   "name": "Śaṅkarānanda",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śaṃkarād enaṃ viracitā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1868",
+  "era": "VS",
+  "year": "1868",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1811"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The reading 'śaṃkarād enaṃ' is a scribal corruption for 'śaṃkarānaṃdena' (Śaṅkarānanda, the author of the Kaivalyopaniṣaddīpikā).",
+ "_meta": {
+  "reel": "A 1333/2",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 677,
+  "out_tok": 1006
+ }
+}

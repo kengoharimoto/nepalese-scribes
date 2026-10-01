@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vālmīkīye",
+   "name": "Vālmīki",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vālmīkīye",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat || 18 || 47 || miti mārgaśīrṣemāsi || kṛṣṇepakṣe || 12 ||",
+  "era": "VS",
+  "year": "1847",
+  "month": "mārgaśīrṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "12",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1790"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon only mentions the author Vālmīki and the date. No scribe, commissioner, or other persons are named. The year 1847 is assumed to be Vikrama Samvat (VS) based on the Devanagari script and typical dating practices.",
+ "_meta": {
+  "reel": "A 1051/7",
+  "model": "gemini-pro-latest",
+  "secs": 12.0,
+  "in_tok": 807,
+  "out_tok": 1388
+ }
+}

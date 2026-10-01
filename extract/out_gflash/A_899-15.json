@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "puruṣottamaśarmaṇāḥ",
+   "name": "Puruṣottama",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ puru(7)ṣottamaśarmaṇāḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1790 saṃvat 1925 māghakṛṣṇacaturthyāṃ śanau",
+  "era": "ŚS",
+  "year": "1790",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturthī",
+  "weekday": "śanau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1869"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīkṛṣṇārpaṇam astu",
+ "notes": "Both Śaka era 1790 and Vikrama Saṃvat 1925 are given.",
+ "_meta": {
+  "reel": "A 899/15",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 843,
+  "out_tok": 1181
+ }
+}

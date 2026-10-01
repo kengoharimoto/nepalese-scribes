@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmanmahārājaśrīpratāpasiṃhasāhadeva",
+   "name": "Pratāpasiṃhasāhadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "girirājacakracūḍāmaṇi",
+    "naranārāyaṇa",
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanmahārājaśrīpratāpasiṃhasāhadevaviracite puraścaryārṇave",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "navābdhiraṃdhrenduvatse āgrahāmāsaśubhrake || bhagavāntithyāṃ saumyavāre",
+  "era": "VS",
+  "year": "1949",
+  "month": "Āgrahāyaṇa",
+  "paksa": "śukla",
+  "tithi": "bhagavān (ekādaśī?)",
+  "weekday": "saumyavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1892"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Year 1949 is expressed in chronogram (nava-abdhi-randhra-indu = 9-4-9-1). Scribe is anonymous ('mama doṣo na dīyatām').",
+ "_meta": {
+  "reel": "A 164/1",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 843,
+  "out_tok": 1225
+ }
+}

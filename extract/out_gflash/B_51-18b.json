@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīṭoḍarāndenā",
+   "name": "Ṭoḍarānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīṭoḍarāndenālikhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śaradi nayanadhanvaṃṅkenduge (!) madhumāsāvadātpatre gnitithu saumyaghasre",
+  "era": "VS",
+  "year": "1952",
+  "month": "madhumāsa",
+  "paksa": "avadāta",
+  "tithi": "agni (3)",
+  "weekday": "saumya",
+  "nakshatra_yoga": "",
+  "ce_approx": "1895"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'nayana-dhanva-aṅka-indu' yields 1952 (nayana = 2, dhanva [dhanus] = 5, aṅka = 9, indu = 1) in VS. The scribe's name is written corruptly as śrīṭoḍarāndenā for śrīṭoḍarānandena.",
+ "_meta": {
+  "reel": "B 51/18b",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 704,
+  "out_tok": 779
+ }
+}

@@ -1,0 +1,111 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "upādhyāyapārthasārathi",
+   "name": "Pārthasārathimiśra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "upādhyāya",
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ity upādhyāyapārthasārathiviracitāyāṃ śāstradīpikāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "somanāthasarvatomukhayājina",
+   "name": "Somanātha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "sarvatomukhayājin"
+   ],
+   "affiliation": "Nidala kula",
+   "residence": "",
+   "evidence": "somanāthasarvatomukhayājinakṛtau śastradīpikāvyākhyāyāṃ mayūkhasaṃjñitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "sūrubhaṭṭamahopādhyāya",
+   "name": "Sūrubhaṭṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa",
+    "mahopādhyāya"
+   ],
+   "affiliation": "Nidala kula",
+   "residence": "",
+   "evidence": "śrīnidalakulatilakasūrubhaṭṭamahopādhyāyatanūbhavasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "veṃkatādri",
+   "name": "Veṅkaṭādri",
+   "roles": [
+    "teacher",
+    "relative_only"
+   ],
+   "titles": [
+    "guru"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "veṃkatādriyatva gurucaranānujasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "śrīnidalakulatilakasūrubhaṭṭamahopādhyāyatanūbhavasya"
+  },
+  {
+   "from": "p2",
+   "type": "brother_of",
+   "to": "p4",
+   "evidence": "veṃkatādriyatva gurucaranānujasya"
+  },
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p4",
+   "evidence": "gurucaranānujasya"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribal colophon is preserved; the quoted passages are chapter colophons of Pārthasārathimiśra's Śāstradīpikā and Somanātha's commentary Mayūkhamālikā.",
+ "_meta": {
+  "reel": "B 110/9",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 1026,
+  "out_tok": 1831
+ }
+}

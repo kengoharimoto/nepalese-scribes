@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mānaratnedaṃ",
+   "name": "Mānaratna",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mānaratnedaṃ (!) puṣṭa(!)kaṃ likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives the scribe's name as Ratnamāna, but the colophon reads mānaratnedaṃ (likely a sandhi or scribal error for Mānaratnena idaṃ).",
+ "_meta": {
+  "reel": "A 135/2",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 790,
+  "out_tok": 778
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vijñānātmamuni",
+   "name": "Vijñānātman",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya",
+    "muni",
+    "bhagavat"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadvijñānātmamunibhagavataḥ kṛtau śvetāśvataropaniṣadvivaraṇe",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jñānottama",
+   "name": "Jñānottama",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "pūjyapāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmat jñānottamapūjyapādaśiṣya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīkṛṣnajośī",
+   "name": "Kṛṣṇa Jośī",
+   "roles": [
+    "owner",
+    "author"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "Rāmanagara",
+   "evidence": "putakamadaḥ śrīkṛṣnajośī rāmanagaravāle",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrībhaūnāmā",
+   "name": "Bhaū",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "vipra",
+    "dvijavara"
+   ],
+   "affiliation": "Agastya gotra (agastyakula)",
+   "residence": "",
+   "evidence": "viprogastyakulodbhavo dvijavaraḥ śrībhaūnāmā svayaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "jñānottamapūjyapādaśiṣya"
+  }
+ ],
+ "date": {
+  "as_written": "saṃ 941 phālguna śukla 5 bhaume divā tṛtīyaprahare",
+  "era": "VS",
+  "year": "1941",
+  "month": "Phālguna",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1884"
+ },
+ "place": {
+  "as_written": "rāmanagara",
+  "normalized": "Ramnagar"
+ },
+ "purpose": "",
+ "notes": "The book belongs to Kṛṣṇa Jośī of Ramnagar ('putakamadaḥ' for pustakam adaḥ). He composed a verse commemorating the death or pious deed of Bhaū in Pauṣa. The composition date of the verse is given as 'saṃ 941' (likely abbreviated for VS 1941, though the catalogue records VS 1949).",
+ "_meta": {
+  "reel": "A 102/26",
+  "model": "gemini-flash-latest",
+  "secs": 8.5,
+  "in_tok": 928,
+  "out_tok": 2233
+ }
+}

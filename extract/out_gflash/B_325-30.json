@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vo rājamanā (!) rāmeṇa",
+   "name": "Rājamanārāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ vo rāja(10)manā (!) rāmeṇa",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1885 miºº. kaºº kaºº khaºº jeṣṭhavadī 14 caṃḍe",
+  "era": "VS",
+  "year": "1885",
+  "month": "jeṣṭha",
+  "paksa": "vadī",
+  "tithi": "14",
+  "weekday": "caṃḍe",
+  "nakshatra_yoga": "",
+  "ce_approx": "1828"
+ },
+ "place": {
+  "as_written": "kāśyāṃ paraśurāmeśvarasaṃnidhau",
+  "normalized": "Varanasi"
+ },
+ "purpose": "brāhmanārpaṇaṃ",
+ "notes": "The scribe's name contains a catalogue note (!); 'vo' preceding the name might be an abbreviation. The weekday 'caṃḍe' likely represents candravāre (Monday). Paraśurāmeśvara is a temple/linga in Kāśī near which the copying took place.",
+ "_meta": {
+  "reel": "B 325/30",
+  "model": "gemini-flash-latest",
+  "secs": 8.3,
+  "in_tok": 753,
+  "out_tok": 1588
+ }
+}

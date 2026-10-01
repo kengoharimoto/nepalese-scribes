@@ -1,0 +1,68 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācāryyadharmmarājena",
+   "name": "Dharmarāja",
+   "roles": [
+    "scribe",
+    "donor"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Cakramahāvihāra",
+   "residence": "Cakramahāvihāra",
+   "evidence": "cakramahāvihārasthavajrācāryyadharmmarājena likhitvā ... dattam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "divyadevaśarmaṇāya",
+   "name": "Divyadeva",
+   "roles": [
+    "owner",
+    "beneficiary"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "divyadevaśarmaṇāya dattam idaṃ pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "dharmmarājena likhitvā divyadevaśarmaṇāya dattam"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1971 āśvinakṛṣṇasya dvitīyāyāṃ ādityavāre",
+  "era": "VS",
+  "year": "1971",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvitīyā",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1914"
+ },
+ "place": {
+  "as_written": "cakramahāvihāra",
+  "normalized": "Patan"
+ },
+ "purpose": "divyadevaśarmaṇāya dattam",
+ "notes": "The catalogue lists Divyadeva Śarman as 'Donor', but the colophon clearly states that Vajrācārya Dharmarāja wrote the manuscript and gave/donated it to Divyadeva Śarman (divyadevaśarmaṇāya dattam).",
+ "_meta": {
+  "reel": "A 114/3",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 780,
+  "out_tok": 1477
+ }
+}

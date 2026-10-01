@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "padmasaṃjñakaḥ",
+   "name": "Padma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "alikhajjīve pañcamyāṃ padmasaṃjñakaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "khāṅgeṅkendumite ʼbde hi vaikrame māsi pauṣake pakṣe śubhe ʼlikhajjīve pañcamyāṃ",
+  "era": "VS",
+  "year": "1960",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1903"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'khāṅgeṅkendu' corresponds to kha (0), aṅga (6), aṅka (9), indu (1) = VS 1960.",
+ "_meta": {
+  "reel": "A 74/27",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 692,
+  "out_tok": 797
+ }
+}

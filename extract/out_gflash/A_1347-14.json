@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdhvakahnathākurajusannam",
+   "name": "Dhvakahna",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "ṭhākura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śrīdhvakahnathākurajusannam",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 794 || māghamāse kṛṣṇapakṣe dvādaśyāṃ tithau śukravāsare",
+  "era": "NS",
+  "year": "794",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādaśī",
+  "weekday": "śukravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1674"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists 'Scribe: ?'. The string 'śrīdhvakahnathākurajusannam' could represent Newari 'śrī thva kahnu thākurajusanaṃ' ('written on this day by the Ṭhākura'), with the personal name omitted or corrupted.",
+ "_meta": {
+  "reel": "A 1347/14",
+  "model": "gemini-flash-latest",
+  "secs": 9.6,
+  "in_tok": 815,
+  "out_tok": 2202
+ }
+}

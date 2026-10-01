@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "date.weekday: 'roja' is not a weekday (Nep./Pers. roja 'day'); set to empty",
+   "date.paksa normalized 'sudi' → śukla (sudi)",
+   "date.month normalized to Mārgaśīrṣa",
+   "p1 confidence lowered to medium: the form 'caṃdravīrasurya' has no genitive marker and 'surya' may be a family name, so the name split is uncertain",
+   "notes expanded: translation of the ownership formula; catalogue scribe not found in the colophon"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "caṃdravīrasurya",
+   "name": "Candravīrasūrya",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "thva suphu caṃdravīrasurya jula",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1932 sāla mārgasudi 7 roja",
+  "era": "VS",
+  "year": "1932",
+  "month": "Mārgaśīrṣa",
+  "paksa": "śukla (sudi)",
+  "tithi": "7",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1875"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is not named, but saṃvat 1932 with 'sāla'/'roja' is Vikrama, which the catalogue also has (VS 1932). Mārga śukla 7 VS 1932 falls about Dec. 1875. The Newari ownership note 'thva suphu caṃdravīrasurya jula, sunānaṃ lobha yāya madū' means 'this book has become Candravīrasūrya's; nobody may covet it.' The form 'caṃdravīrasurya' has no genitive ending. 'Surya' may be a surname (Candravīra Sūrya), so the stem form is uncertain. The catalogue gives the scribe as 'Suddhiratna' (probably Śuddharatna), but that name does not appear in the quoted colophon; it may come from elsewhere in the MS, so it is not entered here. The catalogue puts 'SAM (VS) 1932' in the place-of-copying field; this is a date, not a place.",
+ "_meta": {
+  "reel": "A 1002/32",
+  "model": "opus",
+  "cost_usd": 0.06963,
+  "secs": 13.6
+ }
+}

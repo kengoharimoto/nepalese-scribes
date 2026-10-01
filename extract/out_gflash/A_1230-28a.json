@@ -1,0 +1,94 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mukundadvivedinā",
+   "name": "Mukunda",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "dvivedin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mukundadvivedinā yoginītantrādi kaṃtroddhṛto",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīratnabhadradvivedena",
+   "name": "Ratnabhadra",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "dvivedin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīratnabhadradvivedena śrīrāmakṛṣṇa nimityarthaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīrāmakṛṣṇa",
+   "name": "Rāmakṛṣṇa",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmakṛṣṇa nimityarthaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "paraśurāmavaidyena",
+   "name": "Paraśurāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paraśurāmavaidyena likhyatāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p4",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "śrīratnabhadradvivedena ... paraśurāmavaidyena likhyatāṃ"
+  }
+ ],
+ "date": {
+  "as_written": "samvata 757 kārttika śukla caturthyāyāṃ mūlanakṣatre, śuddhayoge, ādityavāsale",
+  "era": "NS",
+  "year": "757",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "caturthī",
+  "weekday": "ādityavāsara",
+  "nakshatra_yoga": "mūlanakṣatre, śuddhayoge",
+  "ce_approx": "1637"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīrāmakṛṣṇa nimityarthaṃ, gurorājñāṃ",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1230/28a",
+  "model": "gemini-flash-latest",
+  "secs": 10.3,
+  "in_tok": 1320,
+  "out_tok": 2106
+ }
+}

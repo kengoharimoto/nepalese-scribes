@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsiddhirājapādhyāna",
+   "name": "Siddhi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "rājopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsiddhirājapādhyāna coyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 963 śrāvaṇaśu 14 śukaravāra",
+  "era": "NS",
+  "year": "963",
+  "month": "śrāvaṇa",
+  "paksa": "śu",
+  "tithi": "14",
+  "weekday": "śukaravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1843"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "śrīsiddhirājapādhyāna coyā in Newari indicates the scribe. The name could be Siddhi with the caste title Rājopādhyāya (written dialectally as rājapādhya), or Siddhirāja with title Upādhyāya.",
+ "_meta": {
+  "reel": "E 169/8",
+  "model": "gemini-flash-latest",
+  "secs": 11.9,
+  "in_tok": 735,
+  "out_tok": 2471
+ }
+}

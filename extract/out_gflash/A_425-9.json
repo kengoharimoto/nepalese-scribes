@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībrahmadāsa",
+   "name": "Brahmadāsa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībrahmadāsaputra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīnārāyaṇadāsasiddha",
+   "name": "Nārāyaṇadāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "siddha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnārāyaṇadāsasiddhaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrībrahmadāsaputraśrīnārāyaṇadāsa"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1957 sāla miti vaiśākha śukla 7 roja 5",
+  "era": "VS",
+  "year": "1957",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1900"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 425/9",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 745,
+  "out_tok": 1227
+ }
+}

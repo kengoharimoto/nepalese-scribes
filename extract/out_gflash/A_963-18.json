@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "līlābmareṇa",
+   "name": "Līlāmbara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ līlābmareṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1686 jyeṣṭhaśukladaśaharāyāṃ",
+  "era": "ŚS",
+  "year": "1686",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "daśaharā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1764"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name is written as līlābmareṇa, a clerical typo/metathesis for līlāmbareṇa (Līlāmbara). Jyeṣṭha śukla daśaharā corresponds to Jyeṣṭha śukla daśamī. The invocations rāmaḥ, sītā, lakṣmaṇaḥ are deities and therefore excluded.",
+ "_meta": {
+  "reel": "A 963/18",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 717,
+  "out_tok": 775
+ }
+}

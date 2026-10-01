@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "samarasiṃhakumāra",
+   "name": "Samarasiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kumāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kumārasiṃhātmajasamarasiṃhakumāraviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kumārasiṃha",
+   "name": "Kumārasiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kumārasiṃhātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "kumārasiṃhātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "saṃ 1897 āśvina śudi 6 roºº 5",
+  "era": "VS",
+  "year": "1897",
+  "month": "āśvina",
+  "paksa": "śudi",
+  "tithi": "6",
+  "weekday": "5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1840"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The weekday is given in the Persian loanword form ro[ja] 5 (Thursday).",
+ "_meta": {
+  "reel": "A 419/25",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 730,
+  "out_tok": 1107
+ }
+}

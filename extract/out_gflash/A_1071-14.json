@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkeśavajña",
+   "name": "Keśavajña",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkeśavajñaviracate",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīharṣaratnavajrācāryenā",
+   "name": "Harṣaratna",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svaṃ paṭhanārthe śrīharṣaratnavajrācāryenālikhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśākye 1909 śrīnepāli 1007 adhikacaitraśukla 12 raja 1",
+  "era": "NS",
+  "year": "1007",
+  "month": "Adhikacaitra",
+  "paksa": "śukla",
+  "tithi": "12",
+  "weekday": "Sunday (raja 1)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1887"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svaṃ paṭhanārthe (for one's own reading/study)",
+ "notes": "The colophon gives Śāke 1909 along with Nepāla Saṃvat 1007; Śāke 1909 is an error for 1809, which correctly corresponds to NS 1007 (ca. 1887 CE).",
+ "_meta": {
+  "reel": "A 1071/14",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 741,
+  "out_tok": 1450
+ }
+}

@@ -1,0 +1,118 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 Kṛṣṇasāha: role changed from 'commissioner' to 'other'. 'kāritā' refers to his commissioning the composition of the Praśastiratnāvalī, not this copy.",
+   "Notes: added that the catalogue's 'King: Kṛṣṇasāha' is doubtful. He is called kumāra (prince), not a reigning king, and the colophon names no reigning king.",
+   "p1 Narabhūpāla: residence normalised as Gorkhā (gorṣā = gorkhā); 'bhūpāla' dropped from titles since it is part of the name and an epithet already captured by gorṣādhīśvara.",
+   "p3 Rāmahṛdaya: added epithet 'rājakulaśiromaṇipravilasatpādāravindadvandva' to titles.",
+   "Date: ce_approx given as 1784/85 (ŚS 1706 spans 1784–85)."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "narabhūpāla",
+   "name": "Narabhūpāla",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "gorṣādhīśvara"
+   ],
+   "affiliation": "",
+   "residence": "Gorkhā",
+   "evidence": "gorṣādhīśvarabhūpālanarabhūpālapautra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kṛṣṇasāha",
+   "name": "Kṛṣṇasāha",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "kumāra"
+   ],
+   "affiliation": "Śāha dynasty of Gorkhā",
+   "residence": "",
+   "evidence": "kumāraśrīmacchrīkṛṣṇasāhakāritā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rāmahṛdaya",
+   "name": "Rāmahṛdaya",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paṇḍitaśiromaṇi",
+    "rājakulaśiromaṇipravilasatpādāravindadvandva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmahṛdayapaṇḍitaśiromaṇisūnu",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "vāṇīvilāsa",
+   "name": "Vāṇīvilāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vāṇīvilāsakaviviracirā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "grandson_of",
+   "to": "p1",
+   "evidence": "narabhūpālapautra...kumāraśrīmacchrīkṛṣṇasāha"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "rāmahṛdayapaṇḍitaśiromaṇisūnuvāṇīvilāsa"
+  },
+  {
+   "from": "p4",
+   "type": "other",
+   "to": "p2",
+   "evidence": "kṛṣṇasāhakāritā ... vāṇīvilāsakaviviracirā (composed at his behest)"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1706",
+  "era": "ŚS",
+  "year": "1706",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1784/85"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon concerns the composition of the text: the poet Vāṇīvilāsa, son of Rāmahṛdaya, composed it (viracirā, read viracitā) at the behest of Prince Kṛṣṇasāha (kāritā), grandson of Narabhūpāla (Śāha) of Gorkhā. 'kāritā' is marked (!) by the cataloguer. No scribe, commissioner or reigning king of this copy is named. The catalogue's 'King: Kṛṣṇasāha' is doubtful: he is called kumāra, and in ŚS 1706 (1784/85 CE) the reigning Śāha king was Raṇabahādura. The date ŚS 1706 may be the date of copying (as the catalogue says) or carried over from the exemplar.",
+ "_meta": {
+  "reel": "A 386/21",
+  "model": "opus",
+  "cost_usd": 0.09310200000000002,
+  "secs": 21.0
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: name corrected from 'Jayajitāmitramalla' to 'Sumatijayajitāmitramalla'. 'sumati' is part of the regnal name (Sumati Jitāmitra Malla of Bhaktapur), not a title, so titles is now empty. as_written no longer includes the Newari ergative '-sana'.",
+   "p1: evidence shortened to the minimal substring that supports the roles.",
+   "Date: confirmed NS 814, about 1693 CE (Kārttika = October–November 1693). Added a note on the conflicting catalogue year (818) and how it fits the reign.",
+   "Purpose rephrased: 'viṣṇuprītir astu' is a benediction, recorded as 'for the pleasure of Viṣṇu'.",
+   "Notes expanded: no scribe is named in the quoted colophon, and the catalogue's 'Bhāgīmāna Pradhāna' as scribe is not supported."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumatijayajitāmitramalladevasana",
+   "name": "Sumatijayajitāmitramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sumatijayajitāmitramalladevasana ... viṣṇupurāṇamahāyatnanadayakā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhāgirāmapradhānāṅgayā",
+   "name": "Bhāgirāma",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "pradhānāṅga"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgirāmapradhānāṅgayā velasa",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "sumatijayajitāmitramalladevasana bhāgirāmapradhānāṅgayā velasa"
+  }
+ ],
+ "date": {
+  "as_written": "saṃ 814 kārttikaśukla 9 thvakunhu",
+  "era": "NS",
+  "year": "814",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1693"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for the pleasure of Viṣṇu (viṣṇuprītir astu)",
+ "notes": "The catalogue gives the date as SAM 818, but the quoted colophon reads 'saṃ 814' (NS 814 = 1693 CE). The year 814 fits the reign of Jitāmitra Malla of Bhaktapur, who ruled until about NS 816 (1696). By NS 818 the king was Bhūpatīndra Malla, so 818 is probably a catalogue error. The catalogue also names the scribe as 'Bhāgīmāna Pradhāna', which looks like a garbled form of 'Bhāgirāma Pradhān(āṅga)'. In the colophon, Bhāgirāma appears only in a time phrase: 'pradhānāṅgayā velasa' means 'in the time of (minister) Bhāgirāma'. Nothing marks him as the scribe, and no scribe is named in the quoted text. The king is in the ergative case ('-sana') and is the agent of 'mahāyatnana dayakā' ('had it made with great effort'), so he is the commissioner. The phrase 'ana helāya yamateva ... yāya māla' is unclear and has a lacuna.",
+ "_meta": {
+  "reel": "B 249/2",
+  "model": "opus",
+  "cost_usd": 0.095258,
+  "secs": 22.7
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date: the first reading put ŚS together with ce_approx 1752, which is inconsistent. The Śaka chronogram 'taponiṣṭha śarāṃgacandre', read right to left, gives candra=1, aṅga=6, śara=5 and an uncertain unit (taponiṣṭha), so Śaka 165x (c. 1728–1737 CE). It does not give Śaka 1674 (=1752 CE). The main date is now the explicit numeral date 'saṃvat 1809 āṣāḍha kṛṣṇapakṣe 11', taken as VS 1809 = c. 1752 CE. The Śaka date is moved to notes.",
+   "Date fields (month, pakṣa, tithi, weekday) now follow the VS date: Āṣāḍha, kṛṣṇa, 11, weekday not stated. The Jyeṣṭha kṛṣṇa 5, Thursday (surejya) date from the verse is recorded in notes.",
+   "Notes: added that the two dates conflict, that the verse may have been carried over from the exemplar, and that the catalogue's VS 1806 differs from the 1809 in the colophon."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śaṃkara bhagavatpāda",
+   "name": "Śaṅkara",
+   "roles": [
+    "author",
+    "commentator"
+   ],
+   "titles": [
+    "bhagavatpāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmat śaṃkara bhagavatpāda kṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "paṃca saṃvat 1809 āṣāḍha kṛṣṇapakṣe 11 (also: śāke taponiṣṭha śarāṃgacandre jyeṣṭhāsite paṃcātithau surejye)",
+  "era": "VS",
+  "year": "1809",
+  "month": "Āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1752"
+ },
+ "place": {
+  "as_written": "ayodhyāṃ samīpe",
+  "normalized": "Ayodhyā"
+ },
+ "purpose": "",
+ "notes": "The scribe is not named. 'matimadvijena(!)' = matimad-dvijena, 'by a wise brahmin', copied 'ayodhyāṃ samīpe' (near Ayodhyā). The colophon gives two dates that do not agree. (1) A verse with a Śaka chronogram, 'śāke taponiṣṭha-śarāṅga-candre jyeṣṭhāsite pañcatithau surejye'. Read right to left, candra=1, aṅga=6, śara=5 and taponiṣṭha is an uncertain unit digit, so the year is Śaka 165x (c. 1728–1737 CE). The day is Jyeṣṭha kṛṣṇa 5, Thursday (surejya = Bṛhaspati). (2) A numeral date, 'saṃvat 1809 āṣāḍha kṛṣṇapakṣe 11', i.e. VS 1809 = c. 1752 CE (= Śaka 1674). The two cannot both be right. One possibility is that the verse was carried over from the exemplar and the numeral saṃvat date belongs to this copy. The meaning of the word 'paṃca' before 'saṃvat' is unclear. The catalogue gives VS 1806, which differs from the 1809 in the quoted colophon.",
+ "_meta": {
+  "reel": "A 105/2",
+  "model": "opus",
+  "cost_usd": 0.096094,
+  "secs": 24.4
+ }
+}

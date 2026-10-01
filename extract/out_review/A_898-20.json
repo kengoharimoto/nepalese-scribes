@@ -1,0 +1,134 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: removed residence Tīrabhukti (not in colophon)",
+   "p5: Śrīvāstava moved from affiliation to titles; dropped leṣaka from titles",
+   "p4: titles split into paramavaiṣṇava + pradhāna",
+   "p3: name normalized to Campā",
+   "notes: saṃvat 164 problem; possible royal ownership; catalogue donor unsupported"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paramahaṃsaviṣṇupurī",
+   "name": "Viṣṇupurī",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramahaṃsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paramahaṃsaviṣṇupurīgraṃthitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīsaṃgrāmasāhirāje",
+   "name": "Saṃgrāmasāhi",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "rājā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājādhirāja rājā śrīsaṃgrāmasāhirāje",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "caṃpā",
+   "name": "Campā",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "mahārānī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahārānī caṃpā tasya pustakaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "makaraṃda",
+   "name": "Makaranda",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paramavaiṣṇava",
+    "pradhāna"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paramavaiṣṇavapradhāna makaraṃda tasya putra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "mohanadāsa śrīvāstavya",
+   "name": "Mohanadāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śrīvāstava"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "leṣakaḥ (!) | mohanadāsa śrīvāstavya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "makaraṃda tasya putra leṣakaḥ (!) | mohanadāsa"
+  },
+  {
+   "from": "p5",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "caṃpā tasya pustakaṃ || liṣyate"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "śrīsaṃgrāmasāhirāje || śrīmahārānī caṃpā"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 164 || 1652 varṣe caitra vadi || 1 || sanivāsare",
+  "era": "VS",
+  "year": "1652",
+  "month": "caitra",
+  "paksa": "vadi",
+  "tithi": "1",
+  "weekday": "śanivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1595"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for Queen Campā (her book)",
+ "notes": "The date reads 'saṃvat 164 || 1652'. 164 is unexplained: it may be a miswritten or truncated year, or a year in another reckoning. It does not match 1652 under any standard era. 1652 is taken as VS. Caitra vadi 1 under the pūrṇimānta scheme falls in March 1595 or 1596; the weekday has not been verified. 'idaṃ pustakaṃ mahārājādhirāja rājā śrīsaṃgrāmasāhirāje' could mean 'in the reign (rājye) of Saṃgrāmasāhi'. It could also mean the book belonged to the king. Campā is probably his queen, but the colophon does not say so. 'pradhāna' applied to Makaranda may mean that he was a minister. The catalogue's 'Donor: Queen Caṃpā' is not supported: the colophon only says the book is hers. The catalogue gives Vārāṇasī as the place of copying, but it is not in the quoted colophon.",
+ "_meta": {
+  "reel": "A 898/20",
+  "model": "opus",
+  "cost_usd": 0.6162719999999999,
+  "secs": 62.0
+ }
+}

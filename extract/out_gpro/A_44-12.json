@@ -1,0 +1,93 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śākyabhikṣuśrīmadanabhadrena",
+   "name": "Madanabhadra",
+   "roles": [
+    "commissioner",
+    "owner",
+    "reader"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "",
+   "residence": "Cāvihāra",
+   "evidence": "śrīmancāvihāre śākyabhikṣuśrīmadanabhadrena svayaṃ pāṭhārthahetunā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rāmadattena",
+   "name": "Rāmadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ rāmadattena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīśrījayajyotimalladevasya",
+   "name": "Jayajyotimalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "Nepālamaṇḍala",
+   "evidence": "rājādhirājaśrīśrījayajyotimalladevasya vijayarājye śrīnepālamaṇḍale",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "śākyabhikṣuśrīmadanabhadrena svayaṃ pāṭhārthahetunā likhitam idaṃ rāmadattena"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "rājādhirājaśrīśrījayajyotimalladevasya vijayarājye"
+  },
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "rājādhirājaśrīśrījayajyotimalladevasya vijayarājye"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 538 māghakṛṣṇaaṣṭaṃmyāyāṃ viśāṣapraarādhanakṣatre || dhruvayoge || śanaiścaravāsare",
+  "era": "NS",
+  "year": "538",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "viśāṣapraarādhanakṣatre dhruvayoge",
+  "ce_approx": "1418"
+ },
+ "place": {
+  "as_written": "śrīmancāvihāre",
+  "normalized": "Cāvihāra"
+ },
+ "purpose": "svayaṃ pāṭhārthahetunā",
+ "notes": "The catalogue lists Madanabhadra as donor, but the colophon states he had it copied for his own reading (svayaṃ pāṭhārthahetunā), making him the commissioner, owner, and reader.",
+ "_meta": {
+  "reel": "A 44/12",
+  "model": "gemini-pro-latest",
+  "secs": 21.1,
+  "in_tok": 899,
+  "out_tok": 2403
+ }
+}

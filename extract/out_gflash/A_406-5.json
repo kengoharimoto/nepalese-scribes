@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīpatibhaṭṭa",
+   "name": "Śrīpati",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīpatibhaṭṭaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīkumārako",
+   "name": "Kumāra",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "pakanājol",
+   "evidence": "śrīkumārako 156 nambara",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśākaḥ 1743 śrīsaṃvat 1878 sālamiti vaiśākhavadi 9 roja 5",
+  "era": "ŚS",
+  "year": "1743",
+  "month": "vaiśākha",
+  "paksa": "vadi",
+  "tithi": "9",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1821"
+ },
+ "place": {
+  "as_written": "pakanājol",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "Lines 8–9 contain a later accession/ownership note in Nepali: '1776 śāke pakanājol nambara [[vā.]] 153 (9) śrīkumārako 156 nambara' dating to Śaka 1776 (c. 1854 CE).",
+ "_meta": {
+  "reel": "A 406/5",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 759,
+  "out_tok": 1336
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmanāthena",
+   "name": "Rāmanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liºº rāmanāthena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1735 bhādrapada sudi 11 ravau",
+  "era": "unspecified",
+  "year": "1735",
+  "month": "bhādrapada",
+  "paksa": "sudi",
+  "tithi": "11",
+  "weekday": "ravau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1678"
+ },
+ "place": {
+  "as_written": "muºº Jalālāvāda",
+  "normalized": "Jalalabad"
+ },
+ "purpose": "",
+ "notes": "The catalogue identifies the date as ŚS 1735, but Bhādrapada śukla 11 on a Sunday (ravau) matches VS 1735 (18 August 1678 CE). 'muºº' abbreviates mukāma.",
+ "_meta": {
+  "reel": "A 338/7",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 718,
+  "out_tok": 1007
+ }
+}

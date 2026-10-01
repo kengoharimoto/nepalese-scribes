@@ -1,0 +1,48 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "purpose cleared: 'śubham astu jagataḥ' is a general benediction, not a statement of purpose",
+   "notes expanded: the length of the lacuna is unknown, so 'Abhayānanda' is only a conjecture; no date or place given"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "(‥)bhayānandena",
+   "name": "(..)bhayānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī(‥)bhayā|nandena likhitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The start of the scribe's name is lost or illegible ('(‥)bhayānanda'). Abhayānanda is the most likely reading, but the lacuna may hold more than one akṣara, so this is a guess. The colophon gives no date, place or commissioner. It closes the 'parārddha' (the Uttaratantra part, chapter 15) of the Guhyasamāja.",
+ "_meta": {
+  "reel": "A 136/9",
+  "model": "opus",
+  "cost_usd": 0.058238,
+  "secs": 10.4
+ }
+}

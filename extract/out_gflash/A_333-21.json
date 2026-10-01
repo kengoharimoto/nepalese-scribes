@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmahaṃtasvāmī śivagirajikauṃ",
+   "name": "Śivagiri",
+   "roles": [
+    "beneficiary",
+    "owner"
+   ],
+   "titles": [
+    "mahaṃta",
+    "svāmī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahaṃtasvāmī śivagirajikauṃ gaṇeśagirajine (8) likhake cahrāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gaṇeśagirajine",
+   "name": "Gaṇeśagiri",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gaṇeśagirajine (8) likhake cahrāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "śrīmahaṃtasvāmī śivagirajikauṃ gaṇeśagirajine (8) likhake cahrāyāṃ"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsamvat 19(7)48 sāla miti kārttika śukla 14 roja 1",
+  "era": "VS",
+  "year": "1948",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "14",
+  "weekday": "roja 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1891"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīmahaṃtasvāmī śivagirajikauṃ ... likhake cahrāyāṃ",
+ "notes": "The scribe Gaṇeśagiri copied the text and presented/offered it (likhake caṛhāyā) to Mahanta Svāmī Śivagiri.",
+ "_meta": {
+  "reel": "A 333/21",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 875,
+  "out_tok": 1465
+ }
+}

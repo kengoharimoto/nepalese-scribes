@@ -1,0 +1,77 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "divākarātmaja",
+   "name": "Divākara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajñavarya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdaivajñavaryyā(!)divākarātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "viśvanātha",
+   "name": "Viśvanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "divākarātmajaviśvanāthaviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "dhanaṃjayasya(!)",
+   "name": "Dhanaṃjaya",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "hastākṣarāṇi dhanaṃjayasya(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "divākarātmajaviśvanātha"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 876 phālguṇakṛṣṇadvādaśī(!) śaniścaravāre",
+  "era": "NS",
+  "year": "876",
+  "month": "Phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādaśī",
+  "weekday": "śaniścaravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1756"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 352/2",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 760,
+  "out_tok": 1122
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. I expanded the notes on the author's surname and epithet, on the absence of copy data, and on 'likhidisva'."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭopanāmaka〈〈||〉〉śrīdakṣiṇāmūrttiśīvārādhakakāśīnātha",
+   "name": "Kāśīnātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭopanāmaka〈〈||〉〉śrīdakṣiṇāmūrttiśīvārā (2) dhakakāśīnāthaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The only person named is the author. The colophon calls him Kāśīnātha 'bhaṭṭopanāmaka', meaning his surname (upanāma) is Bhaṭṭa, and gives him the epithet 'dakṣiṇāmūrti-śivārādhaka' (worshipper of Śiva as Dakṣiṇāmūrti; 'śīva' is a slip for 'śiva'). He is probably Kāśīnātha Bhaṭṭa (Śivānandanātha), the late Tantric compiler, but the colophon does not say so. Bhaṭṭa is recorded as a surname-title. The colophon closes the uttarārdha with the stock 'ādarśadoṣā...' and '...kṣamasva' formulas but names no scribe, patron, date or place. 'likhidisva' is corrupt, probably for likhitvā or likhitam.",
+ "_meta": {
+  "reel": "A 171/5",
+  "model": "opus",
+  "cost_usd": 0.06904199999999999,
+  "secs": 12.1
+ }
+}

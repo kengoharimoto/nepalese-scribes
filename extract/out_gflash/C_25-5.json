@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "siddhanāgārjuna",
+   "name": "Nāgārjuna",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "siddha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsiddhanāgārjunaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śaṃkarapurī",
+   "name": "Śaṃkarapurī",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "purī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śaṃkarapurī",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvatsa 1734 śrī śāke 1599 || bhādau sudi paṃcamībudhavāsare śuklapakṣe",
+  "era": "VS",
+  "year": "1734",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1677"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both VS 1734 and ŚS 1599 are given, corresponding to 1677 CE. Śaṃkarapurī is likely a Daśanāmī saṃnyāsī scribe, though grammatically it could alternatively denote a place (Śaṃkarapurī).",
+ "_meta": {
+  "reel": "C 25/5",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 1124,
+  "out_tok": 1489
+ }
+}

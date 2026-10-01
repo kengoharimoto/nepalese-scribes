@@ -1,0 +1,54 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "place.normalized cleared: 'Rāmanagara' is a common toponym (e.g. Ramnagar opposite Vārāṇasī, or several in Nepal/Tarai), so the identification is not certain; possibilities noted in notes",
+   "purpose changed from 'svārtha' (not stated) to a description of the ownership statement",
+   "evidence shortened; weekday normalized to 'Sunday (ravivāsara)'",
+   "notes expanded on 'mamaḥ' and the place"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīhariharapaṃḍito; hariharasarmaṇoḥ (!)",
+   "name": "Harihara",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "paṇḍita",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ ... śrīhariharapaṃḍito mamaḥ (!) ... pustakīyaṃ (!) hariharasarmaṇoḥ (!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1711 kārttikaśukle saptamyāṃ ravivāsare",
+  "era": "ŚS",
+  "year": "1711",
+  "month": "Kārttika",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "Sunday (ravivāsara)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1789"
+ },
+ "place": {
+  "as_written": "mukāma rāmanagara",
+  "normalized": ""
+ },
+ "purpose": "ownership: pustakam idaṃ hariharaśarmaṇaḥ (scribe's own copy)",
+ "notes": "'śrīhariharapaṃḍito mamaḥ (!)' is probably a corruption of 'śrīhariharapaṇḍitena mama' ('[written] by me, Harihara Paṇḍita') or contains a stray 'namaḥ'. 'pustakīyaṃ (!) hariharasarmaṇoḥ (!)' should be read as 'pustakam idaṃ hariharaśarmaṇaḥ', so the same Harihara is both scribe and owner. 'mukāma' (Hindi/Persian for 'halting place, residence') points to a North Indian or Tarai setting. Rāmanagara could be Ramnagar near Vārāṇasī or one of several places of that name, so it is left unnormalized. ŚS 1711 + 78 = CE 1789 (Kārttika ≈ Oct/Nov 1789). The weekday has not been verified. Nothing conflicts with the catalogue fields.",
+ "_meta": {
+  "reel": "A 430/15",
+  "model": "opus",
+  "cost_usd": 0.076686,
+  "secs": 15.4
+ }
+}

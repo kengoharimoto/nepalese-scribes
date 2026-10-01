@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgaṃgādhararājena",
+   "name": "Gaṃgādhararāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhita (!) vipra śrīgaṃgādhararājena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 798 māghaśukla pūrṇṇamasyāṃ(!) tithau",
+  "era": "NS",
+  "year": "798",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1678"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 336/17",
+  "model": "gemini-flash-latest",
+  "secs": 2.7,
+  "in_tok": 726,
+  "out_tok": 604
+ }
+}

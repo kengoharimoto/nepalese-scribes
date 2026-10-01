@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mādhavamalladevasyaṃ",
+   "name": "Mādhavamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī 3 mādhavamalladevasyaṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "pradhānāṅga jayasiṃhena",
+   "name": "Jayasiṃha",
+   "roles": [
+    "author",
+    "scribe"
+   ],
+   "titles": [
+    "pradhānāṅga"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pradhānāṅga jayasiṃhena saṃgrītāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrī 3 mādhavamalladevasyaṃ jñaṃ sa pradhānāṅga jayasiṃhena"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1803 ? caitr śudi 8 roja 7",
+  "era": "unspecified",
+  "year": "1803 ?",
+  "month": "caitr",
+  "paksa": "śudi",
+  "tithi": "8",
+  "weekday": "roja 7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1746"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue mistakenly enters Mādjavamalladeva as the place of copying, but it clearly refers to king/patron Mādhavamalladeva (śrī 3 mādhavamalladevasya... ājñayā?). Jayasiṃha compiled (saṃgṛhītāyāṃ) the text and presumably copied it. If the year 1803 is in Vikrama Saṃvat, it corresponds to c. 1746 CE.",
+ "_meta": {
+  "reel": "A 1002/35",
+  "model": "gemini-flash-latest",
+  "secs": 11.7,
+  "in_tok": 790,
+  "out_tok": 2721
+ }
+}

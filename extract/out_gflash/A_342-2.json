@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvīrabhadraśarmmaṇā",
+   "name": "Vīrabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śrīvīrabhadraśarmmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vaiśākhamāse kṛṣṇāpakṣe paṃcamyāṃ tithau ... śrīśāke 1628",
+  "era": "ŚS",
+  "year": "1628",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "pañcamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1706"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīkṛṣṇārpaṇam astu",
+ "notes": "",
+ "_meta": {
+  "reel": "A 342/2",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 749,
+  "out_tok": 820
+ }
+}

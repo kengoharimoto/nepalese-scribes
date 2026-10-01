@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bālakṛṣṇaśarmaṇā",
+   "name": "Bālakṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitamidaṃ pustakaṃ bālakṛṣṇaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1921 śrīśāke 1786 kārttikakṛṣṇa 12 vāsare 5",
+  "era": "VS",
+  "year": "1921",
+  "month": "kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "12",
+  "weekday": "vāsare 5 (bṛhaspativāra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1864"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 69/12",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 751,
+  "out_tok": 1035
+ }
+}

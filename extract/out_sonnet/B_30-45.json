@@ -1,0 +1,90 @@
+{
+ "date": {
+  "as_written": "samvat a 0((8))2 bhādrapadakṛṣṇa trayodaśyāṃ; samvat a 0[(8)] 3†5†jya///? (second colophon); verse: trayo dhikesītisate gate abde māse ‥ jyeṣṭe kṛtakṛṣṇapakṣake aikādaśī somaprasasyasaṃjñake",
+  "era": "NS",
+  "year": "182 (first colophon); 183 (second; 5 doubtful); verse: 183",
+  "month": "Bhādrapada (first); Jyeṣṭha (verse)",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī (first); ekādaśī (verse)",
+  "weekday": "soma (Monday, in verse)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1062–1063"
+ },
+ "notes": "Composite colophon with several parts: (1) Mahāmāyūrī/Mahādaṇḍapāṇi section dated NS 182; (2) a Sanskrit verse (dated 183 = 'trayo dhikesītisate', i.e. 80+3+100) recording a consecration (pratiṣṭhā) of a book, images, vajra and bell, Pañcarakṣā and Cakrasaṃvara at Mānadeva-vihāra under King Śaṅkaradeva, by Ācārya Bhikṣu Ravendradeva (ācāryasya dhiyottamaḥ) — the name is 'bhikṣuravendradeva'; (3) NS 183(5?) dated entry under king '(pajuna)kāmadeva' = Pradyumnakāmadeva per catalogue, mentioning Ācārya Sthavira Ravendradeva of a mahāvihāra, with merit going to parents and all beings. The scribe is not named. The king in the verse is Śaṅkaradeva (a different, earlier-style reference, possibly quoted from the exemplar or a pratiṣṭhā record), while the NS 183 entry names Pradyumnakāmadeva (reading '(pajuna)1kāmadeva' is corrupt). The name 'Ravendradeva' may be a corruption of 'Ravīndradeva'/'Bhikṣu Ravendra'. 'Mānadeva-vihāra' is a vihāra name, not a person. Catalogue date NS 182, 183 and king Pradyumnakāmadeva are consistent with the colophon. The gaps hide the names of the guru/parents.",
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsaṅkaradevasya",
+   "name": "Śaṅkaradeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Nepāla-maṇḍala",
+   "evidence": "śrīsaṅkaradevasya vijaye nepālamaṇḍale vijite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhikṣuravendradeveti ācāryasya",
+   "name": "Ravendradeva",
+   "roles": [
+    "donor",
+    "other"
+   ],
+   "titles": [
+    "bhikṣu",
+    "ācārya",
+    "sthavira",
+    "mahāśramaṇa"
+   ],
+   "affiliation": "Mānadeva-vihāra",
+   "residence": "Mānadeva-vihāra",
+   "evidence": "śrīmanmānadevasya vihāre pravare mate bhikṣuravendradeveti ācāryasya dhiyottamaḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "(pajuna)1kāmadevasya",
+   "name": "Pradyumnakāmadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dhirājaparamabhaṭṭāraka śrī(pajuna)1kāmadevasya vijayarāje",
+   "confidence": "medium"
+  }
+ ],
+ "place": {
+  "as_written": "devamahāvihāra (adhivāsinaḥ); Mānadeva-vihāra, Nepālamaṇḍala",
+  "normalized": ""
+ },
+ "purpose": "Merit for parents and all beings (mātāpitṛṇāṃ sarvasatvānāṃ); pratiṣṭhā of book, images, vajra and bell",
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīsaṅkaradevasya vijaye nepālamaṇḍale ... bhikṣuravendradeveti ācāryasya"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "kāmadevasya vijayarāje... devamahāvihāre dhivāsinaḥ ācārya sthavira ravendradevasya"
+  }
+ ],
+ "_meta": {
+  "reel": "B 30/45",
+  "model": "sonnet",
+  "cost_usd": 0.042877200000000004,
+  "secs": 13.5
+ }
+}

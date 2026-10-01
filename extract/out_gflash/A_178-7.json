@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmahīdāsa°",
+   "name": "Mahīdāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahīdāsaviracito",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "coviśānaṃda śameṇa",
+   "name": "Coviśānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ coviśānaṃda śameṇa",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ. 1911 caitra vidī 1",
+  "era": "VS",
+  "year": "1911",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "1",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1854"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name 'coviśānaṃda śameṇa' is likely corrupt for 'Caube Viśānanda Śarmaṇā' (or Caturvedī Viśānanda Śarman); the cataloguer noted with '?'.",
+ "_meta": {
+  "reel": "A 178/7",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 681,
+  "out_tok": 1235
+ }
+}

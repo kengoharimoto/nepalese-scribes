@@ -1,0 +1,63 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 Indrasiṃha: confidence lowered to medium; noted that 'ma' before his name may be a corrupt 'mayā' (by me), which would make him the scribe copying for his own study, as the catalogue lists him",
+   "place.normalized cleared: 'Śivapurī' cannot be securely identified with a modern place (it may be Shivapuri north of Kathmandu, but this is uncertain); as_written kept",
+   "purpose wording tightened; date fields kept (VS 1842 → c. 1785 CE, Mārgaśira kṛṣṇa 9, Friday)"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "amarasiṃhakṛtau",
+   "name": "Amarasiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ity amarasiṃhakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "indrasīha",
+   "name": "Indrasiṃha",
+   "roles": [
+    "reader",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ma indrasīhapāthārthaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1842 kā mārgaśiramāse kṛṣnapakṣe kṛṣṇai navamyā (!) tithau śukravāre",
+  "era": "VS",
+  "year": "1842",
+  "month": "Mārgaśira",
+  "paksa": "kṛṣṇa",
+  "tithi": "navamī",
+  "weekday": "śukravāra (Friday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1785"
+ },
+ "place": {
+  "as_written": "śīvapūri subhathāne(!)",
+  "normalized": ""
+ },
+ "purpose": "pāṭhārtham: copied for Indrasiṃha's reading/study",
+ "notes": "'indrasīha' = Indrasiṃha (the anusvāra is dropped, Nepali-style spelling). The catalogue gives Indrasiṃha as the scribe. The colophon itself only says the copy is for his reading ('indrasīhapāthārthaṃ' = pāṭhārthaṃ). The preceding 'ma' may be a corrupt 'mayā' ('by me'); in that case he is the scribe and copied for his own study, so his roles would be scribe + owner. The 'saṃvat' era is not named. It is taken as VS, which fits a Nepalese Devanagari manuscript dated 1842, so the date falls in Nov/Dec 1785 CE. 'navamyā' stands for navamyāṃ. 'subhathāne' = śubhasthāne. 'Śivapurī' is not securely identified; it may be Shivapuri near Kathmandu. '46' after the section colophon is probably a verse count.",
+ "_meta": {
+  "reel": "A 964/27",
+  "model": "opus",
+  "cost_usd": 0.07078300000000001,
+  "secs": 20.3
+ }
+}

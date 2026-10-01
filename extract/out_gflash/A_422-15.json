@@ -1,0 +1,83 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "hṛṣīkeśasuto",
+   "name": "Hṛṣīkeśasuta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "śrīgorṣādurga",
+   "evidence": "tadvipro hṛṣīkeśasuto nivaśate (!) śrīgorṣādurgetyadhaḥ (!) || || ... likhitaṃ mayā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "hṛṣīkeśa",
+   "name": "Hṛṣīkeśa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "hṛṣīkeśasuto",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "pṛthvīpate",
+   "name": "Pṛthvīpati",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "pārakoṭikula",
+   "residence": "",
+   "evidence": "pṛthvīpate śāsati pārakoṭi-kulaje",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "hṛṣīkeśasuto"
+  },
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "pṛthvīpate śāsati pārakoṭi-kulaje"
+  }
+ ],
+ "date": {
+  "as_written": "samāgate vikramabhūpate syāt nṛpābhravedaś ca gatetha māse || nabho triyodaśyāṃ (!) aśite ca tithye (!) mārttaṃdavāre parighe ca yoge",
+  "era": "VS",
+  "year": "1604",
+  "month": "Śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "parigha",
+  "ce_approx": "1547"
+ },
+ "place": {
+  "as_written": "śrīgorṣādurgetyadhaḥ",
+  "normalized": "Gorkha"
+ },
+ "purpose": "",
+ "notes": "Year given as chronogram nṛpa (16) + abhra (0) + veda (4) = VS 1604 (or possibly vāmato gatiḥ 4016, but 1604 is standardly interpreted here). 'pṛthvīpate' may be a proper name (King Pṛthvīpati) or simply the common noun pṛthvīpati ('king') in an ungrammatical locative absolute (for pṛthvīpatau) governing pārakoṭikulaje. The scribe's personal name is not explicitly given beyond 'the son of Hṛṣīkeśa' (hṛṣīkeśasuta).",
+ "_meta": {
+  "reel": "A 422/15",
+  "model": "gemini-flash-latest",
+  "secs": 13.6,
+  "in_tok": 897,
+  "out_tok": 3109
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmahidāsa",
+   "name": "Mahidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahidāsakṛtaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1810 śāke 1675 pauṣamāsi śuddha pakṣe 14 | vāre caṃdra 2",
+  "era": "VS",
+  "year": "1810",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "14",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1753"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The manuscript is dated doubly in Vikrama Saṃvat 1810 and Śaka Saṃvat 1675.",
+ "_meta": {
+  "reel": "B 348/10",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 707,
+  "out_tok": 909
+ }
+}

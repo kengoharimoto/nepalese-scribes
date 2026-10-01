@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmaheśvarasya",
+   "name": "Maheśvara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "sakalavaidyarājacakramuktāśekhara",
+    "kavirājaparameśvara",
+    "gadyavidyānidhi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmaheśvarasya kṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kusumarāja",
+   "name": "Kusumarāja",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "mauhūrttika"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svārthena saṃlikhati saṃprati viśvakoṣaṃ mauhūrttikaḥ kusumarāja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat(!)nagāgnirasage timire sataiṣe vahnau tithāv uḍu gurau 〇surapūjyavāre",
+  "era": "NS",
+  "year": "nagāgnirasa (637 or 638)",
+  "month": "taiṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "vahni (3)",
+  "weekday": "surapūjyavāra (guruvāra)",
+  "nakshatra_yoga": "guru (puṣya)",
+  "ce_approx": "1518"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthena",
+ "notes": "The chronogram nagāgnirasa gives 637 (naga = 7) or 638 (if read as nāga = 8, as given by the cataloguer [NS] 638). Taiṣa refers to the month of Pauṣa, timire to the kṛṣṇa pakṣa, and vahni to the 3rd tithi.",
+ "_meta": {
+  "reel": "A 18/5",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 928,
+  "out_tok": 1315
+ }
+}

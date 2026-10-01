@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdevāpi",
+   "name": "Devāpi",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdevāpavirate (!)",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dharmadhoja (!) śarma brāhmanaḥ (!)",
+   "name": "Dharmadhvaja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman",
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "Kalhyārigrāma",
+   "evidence": "likhitaṃm (!) idaṃ (4) kalhyārigrāme lekhā dharmadhoja (!) śarma brāhmanaḥ (!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1833 || śāke 1699 mīti yeṣṭa(!)sudi3 roja5",
+  "era": "VS",
+  "year": "1833",
+  "month": "yeṣṭa",
+  "paksa": "sudi",
+  "tithi": "3",
+  "weekday": "roja5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1777"
+ },
+ "place": {
+  "as_written": "kalhyārigrāme",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Vikrama Samvat 1833 and Śaka Samvat 1699 are mentioned. The text is attributed to Devāpi (śrīdevāpavirate).",
+ "_meta": {
+  "reel": "A 433/28",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 784,
+  "out_tok": 1505
+ }
+}

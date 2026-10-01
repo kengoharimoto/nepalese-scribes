@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed p2 'Trivikrama' as king: Bhādra śukla dvādaśī is Vāmana-dvādaśī, the festival of Trivikrama (Viṣṇu), so 'trivikrame rājake' most likely refers to that day (perhaps a corruption of 'rājati'), not to a ruler. The relation under_reign_of was removed too.",
+   "nakshatra_yoga: Puṣya refers to Jupiter (gate gīṣpatau puṣye), not to the moon; the moon is said to be 'raudre' (Ārdrā?). Field rewritten.",
+   "Notes: the VS 1784 alternative was dropped as unlikely. In 1919 Jupiter stood in sidereal Cancer (Puṣya); in 1784 it did not. ŚS 1841 = 1919 CE is kept.",
+   "Place is now marked as doubtful: 'bhoraṣṭāreka' is corrupt and may not be a place name at all."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaurīdattadvijo",
+   "name": "Gaurīdatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gaurīdattadvijo lilekha matimān",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke rūpayugāṣṭabhūparimite bhādre siterke harau dvādaśyāṃ bhṛguvāsare śaśadhare raudre gate gīṣpatau || puṣye",
+  "era": "ŚS",
+  "year": "1841",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "Friday (bhṛguvāsara)",
+  "nakshatra_yoga": "sun in Siṃha (arke harau); moon in raudra (Ārdrā?); Jupiter in Puṣya",
+  "ce_approx": "1919"
+ },
+ "place": {
+  "as_written": "bhoraṣṭāreka (?)",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The chronogram is rūpa 1, yuga 4, aṣṭa 8, bhū 1. Read right to left this gives 1841, and the era is stated as śāke: ŚS 1841 = 1919 CE. 'siterke harau' is read as sita (= śukla) + arke harau (sun in Siṃha), which fits Bhādra. In 1919 Jupiter was in sidereal Cancer (Puṣya), which supports the ŚS reading. 'śaśadhare raudre' would put the moon in Ārdrā, which is astronomically odd for śukla dvādaśī; the cataloguer may have quoted it wrongly. 'trivikrame rājake' is taken as a reference to Vāmana/Trivikrama-dvādaśī (Bhādra śukla 12), not to a reigning king. If it did name a ruler (e.g. a Trivikrama Sen), the year would have to be VS (1784 CE), but Jupiter's position argues against that. The catalogue's scribe field 'Gaurīdatta Trivikramarāja' is a misreading of this phrase. 'bhoraṣṭāreka (!)' is corrupt, so its meaning is uncertain (a place name, or the end of a verse).",
+ "_meta": {
+  "reel": "A 1113/18m",
+  "model": "opus",
+  "cost_usd": 0.103702,
+  "secs": 27.4
+ }
+}

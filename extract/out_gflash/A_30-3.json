@@ -1,0 +1,121 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devajñagajarājena",
+   "name": "Gajarāja",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devajñagajarājena svayam etata pustakā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dharma",
+   "name": "Dharma",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājā"
+   ],
+   "affiliation": "",
+   "residence": "Bhaktāpurī",
+   "evidence": "bhaktāpurīnagaryāṃ ca trayo rājā virājate | dharma",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "jotiś",
+   "name": "Jyoti",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājā"
+   ],
+   "affiliation": "",
+   "residence": "Bhaktāpurī",
+   "evidence": "jotiś ca",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "kīrttiś",
+   "name": "Kīrti",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājā"
+   ],
+   "affiliation": "",
+   "residence": "Bhaktāpurī",
+   "evidence": "kīrttiś ca",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "bhaktāpurīnagaryāṃ ca trayo rājā virājate | dharma"
+  },
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "trayo rājā virājate | dharma jotiś ca"
+  },
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p4",
+   "evidence": "trayo rājā virājate | dharma jotiś ca kīrttiś ca"
+  },
+  {
+   "from": "p3",
+   "type": "brother_of",
+   "to": "p2",
+   "evidence": "dharma jotiś ca kīrttiś ca jeṣṭamadhyakaniṣṭake"
+  },
+  {
+   "from": "p4",
+   "type": "brother_of",
+   "to": "p2",
+   "evidence": "dharma jotiś ca kīrttiś ca jeṣṭamadhyakaniṣṭake"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 522 bhādrapadaśukladvādaśī śravanapradhaniṣṭanakṣetre || śukramapradhṛtiyoge || śukravāsare",
+  "era": "NS",
+  "year": "522",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "śukravāsara",
+  "nakshatra_yoga": "śravaṇā/dhaniṣṭhā nakṣatra, sudhṛti yoga",
+  "ce_approx": "1402"
+ },
+ "place": {
+  "as_written": "bhaktāpurīnagaryāṃ",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "svārtha (svayam etata pustakā)",
+ "notes": "The three kings mentioned (Dharma, Joti, Kīrtti) are the three sons of Jayasthitimalla (Dharmamalla, Jyotirmalla, and Kīrtimalla) who ruled jointly following their father's death.",
+ "_meta": {
+  "reel": "A 30/3",
+  "model": "gemini-flash-latest",
+  "secs": 13.1,
+  "in_tok": 1066,
+  "out_tok": 3373
+ }
+}

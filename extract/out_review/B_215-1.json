@@ -1,0 +1,68 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Machindravīranātha: role changed from commissioner to scribe. Newari 'coyā' means 'wrote' (the causative would be 'coyakā'), and 'machindraviranātha-na tho śāstra coyā julo' means 'Machindravīranātha wrote this śāstra'. Confidence lowered to medium.",
+   "p2 Haladhara: kept as scribe, following the catalogue, but confidence lowered to medium. The phrase 'haladhāyāna coyā vaviyā' is corrupt, and Haladhara could instead be the person it was written for. Residence normalized to Tamadhi ṭol, Maganāpura.",
+   "Removed the wrote_for relation. The colophon gives no clear basis for saying p2 wrote for p1.",
+   "Date: pakṣa normalized to śukla and weekday to Tuesday (roa 3 = roja 3). NS 1010 = c. 1890 CE confirmed.",
+   "Place: kept, but the notes now say it is stated as Haladhara's locality, not explicitly as the place of copying."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvajrācāryye machindraviranāthanatho",
+   "name": "Machindravīranātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "machindraviranāthanatho śāstra coyā julo",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīupādhyāyahaladhāyāna",
+   "name": "Haladhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "Tamadhi ṭol, Maganāpura",
+   "evidence": "maganāpuratamadhitolayā śrīupādhyāyahaladhāyānacoyā vaviyā julaḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1010 miti āśvinaśudi 1 roa 3",
+  "era": "NS",
+  "year": "1010",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "Tuesday (roa 3)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1890"
+ },
+ "place": {
+  "as_written": "maganāpuratamadhitolayā",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon contains two Newari statements about writing. (1) 'śrīvajrācāryye machindraviranātha-na tho śāstra coyā julo' means 'Vajrācārya Machindravīranātha wrote this śāstra'. The verb is 'coyā' (wrote), not the causative 'coyakā', so he is the scribe, not the commissioner. (2) 'maganāpura tamadhi tola-yā śrī upādhyāya haladhāyāna coyā vaviyā julaḥ': 'haladhāyāna' is probably Haladhara-na (ergative), and 'vaviyā' is probably biyā ('gave' / 'wrote for someone'). The catalogue takes Haladhara as the scribe. If the ending is really -yāta, the sentence would mean the book was written and given TO Haladhara, making him the recipient or owner. So the relationship between the two men is unclear: they may be two scribes, or one may be the scribe and the other the recipient. The opening 'liṣitaṃ tat tu kṣeyā(!)' is corrupt. Maganāpura with Tamadhi ṭol is given as Haladhara's locality; it is not identified, and it is not stated as the place of copying. The era is read as NS: 1010 VS would be impossible for a Newari-language Devanagari colophon of this kind. That gives NS 1010 = c. 1890 CE. 'sasaṃpūrṇadhikādina' = the day of completion.",
+ "_meta": {
+  "reel": "B 215/1",
+  "model": "opus",
+  "cost_usd": 0.10951,
+  "secs": 30.7
+ }
+}

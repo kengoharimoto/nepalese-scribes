@@ -1,0 +1,64 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Place normalized to 'Vārāṇasī' (schema form) instead of 'Varanasi'.",
+   "Scribe name confidence lowered to low; notes expanded with a possible segmentation (the final element looks like the common western-Indian name Mīṭhālāla, with miṭhālahena possibly a corruption of miṭhālālena).",
+   "Date year field clarified as Kṣaya, the 60th year of the 60-year Jovian cycle. Possible CE dates are listed in notes; ce_approx is left empty because no era is given.",
+   "Persons (author Śārṅgadhara; scribe+owner from svārthaṃ), relations (none), tithi/month/pakṣa confirmed."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśārṅgadhara",
+   "name": "Śārṅgadhara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśārṅgadharacikitsā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mohanajibhahālajamiṭhālahena",
+   "name": "Mohanajibhahālajamiṭhālaha",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mohanajibhahālajamiṭhālahena svārthaṃ paropakārārthaṃ ... pustakaṃ yal likhitaṃ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "kṣayasavatsare pauṣamāsi śuklapakṣe trītiyāyāṃ(!)",
+  "era": "unspecified",
+  "year": "Kṣaya (Jovian saṃvatsara no. 60)",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "śrīmatkāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "svārtha and parārtha (svārthaṃ paropakārārthaṃ)",
+ "notes": "The scribe's name is a single instrumental compound (-ena) and is probably corrupt or a vernacular (Hindi/Gujarati/Marwari) name. One possible segmentation is Mohanajī + bhahā(?) + lālaja (born of Lāla?) + Miṭhālā(la), with miṭhālahena perhaps an error for miṭhālālena. This would make the scribe one Mīṭhālāla, possibly identified through Mohanajī or Lāla(jī), but the segmentation is uncertain, so the full string is kept as the name. The year is given only as the Jovian saṃvatsara Kṣaya, without a numbered era. Under southern reckoning, Pauṣa of a Kṣaya year falls around Dec–Jan 1866/67, 1926/27, and so on (1986/87 is too late for this collection), so ce_approx is left empty. The book was copied at Kāśī, not in Nepal. Both svārthaṃ and paropakārārthaṃ are stated, so the scribe is treated as both scribe and owner.",
+ "_meta": {
+  "reel": "A 215/11",
+  "model": "opus",
+  "cost_usd": 0.092542,
+  "secs": 23.7
+ }
+}

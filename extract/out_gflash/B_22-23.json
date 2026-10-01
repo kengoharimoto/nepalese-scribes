@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhikṣu valokita(!)śiṃhena",
+   "name": "Avalokitasiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhikṣu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhikṣu valokita(!)śiṃhenoddhṛta iti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rājñaḥ śrīmadrudradevasya",
+   "name": "Rudradeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājan"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājñaḥ śrīmadrudradevasya vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīmaccitravihārāvasthitabhikṣusujitaśrījñānena",
+   "name": "Sujitaśrījñāna",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhikṣu"
+   ],
+   "affiliation": "Citravihāra",
+   "residence": "Citravihāra",
+   "evidence": "bhikṣusujitaśrījñānena svayam evālekhi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "rājñaḥ śrīmadrudradevasya vijayarājye ... bhikṣusujitaśrījñānena svayam evālekhi"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 293 vaiśākhaṣuklacaturthyāṃ",
+  "era": "NS",
+  "year": "293",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1173"
+ },
+ "place": {
+  "as_written": "śrīmaccitravihāra",
+  "normalized": ""
+ },
+ "purpose": "svaparārthahetoḥ",
+ "notes": "Avalokitasiṃha is the compiler/excerptor of the Dharmasamuccaya from the Saddharmasmṛtyupasthānasūtra.",
+ "_meta": {
+  "reel": "B 22/23",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 869,
+  "out_tok": 1458
+ }
+}

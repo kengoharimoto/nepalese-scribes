@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "iṃdrasarmaṇā",
+   "name": "Indraśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "iṃdrasarmaṇā || likhitedā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śaravāṇarṣibhūvarṣe || 1755 || bhādre śukle ... caturthyāṃ ... saṃ 1755 bhādra śu 4 caṃdre",
+  "era": "ŚS",
+  "year": "1755",
+  "month": "bhādra",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "caṃdre",
+  "nakshatra_yoga": "",
+  "ce_approx": "1833"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram śara (5) - vāṇa (5) - ṛṣi (7) - bhū (1) yields 1755, confirmed by the numeric notation 1755 and catalogued under the Śaka era (ŚS 1755). The abbreviation 'li.i.' at the end likely stands for 'likhitaṃ indreṇa'.",
+ "_meta": {
+  "reel": "B 274/9",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 795,
+  "out_tok": 1164
+ }
+}

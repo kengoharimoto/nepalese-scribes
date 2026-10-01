@@ -1,0 +1,71 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday: 'ro +++++' is not a weekday; 'ro' is probably the start of Nepali roja ('day', i.e. weekday number) followed by a lacuna, so the field is left empty",
+   "era: kept as NS (inferred, not stated); explained in notes why VS/ŚS are ruled out and confidence lowered",
+   "notes: added that ṣ stands for kh (Lāḍa Khān = Lāḍ Khān Lodī) and that no scribe or owner is named"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkalyāṇa malla",
+   "name": "Kalyāṇamalla",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahākavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkalyāṇa malla mahākavi viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmallāḍa ṣāna",
+   "name": "Lāḍaṣāna",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmallāḍa ṣāna vinodāya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "other",
+   "to": "p2",
+   "evidence": "śrīmallāḍa ṣāna vinodāya śrīkalyāṇa malla mahākavi viracite"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1005 miti bhādra śudi 9 ro +++++",
+  "era": "NS",
+  "year": "1005",
+  "month": "bhādra",
+  "paksa": "śudi",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1885"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'śrīmallāḍa ṣāna' = śrīmat + Lāḍa Ṣāna, with ṣ written for kh: Lāḍa Khān (Lāḍ Khān Lodī), the patron for whose entertainment (vinodāya) Kalyāṇamalla wrote the Anaṅgaraṅga in the 16th century. He is the patron of the original text, not of this copy. The colophon names no scribe, commissioner or owner. Date: the era is only given as 'saṃvat'. VS 1005 (= 948 CE) and ŚS 1005 (= 1083 CE) are impossible for a 16th-century text with a Nepali commentary, so NS 1005 = 1885 CE is the most likely reading. This is inferred, though, and a scribal error in the year (e.g. for VS 19xx) can't be ruled out. After 'śudi 9', 'ro +++++' is probably Nepali 'roja' (weekday number) followed by a lacuna, so the weekday can't be read.",
+ "_meta": {
+  "reel": "A 1024/8",
+  "model": "opus",
+  "cost_usd": 0.079598,
+  "secs": 15.9
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmatśaṃkarācāryya",
+   "name": "Śaṅkarācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatśaṃkarācāryyaviracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1819 miti kā[r]tikamāse śuklā(!)pakṣye(!) dviti(!)yam(!)yāṃ bho(!)mavāsare",
+  "era": "VS",
+  "year": "1819",
+  "month": "kārtika",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1762"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe remains anonymous, copying standard scribal apology verses in vernacular Brajbhasha/Hindi ('jo deṣā so likhā...').",
+ "_meta": {
+  "reel": "A 1115/28",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 852,
+  "out_tok": 1238
+ }
+}

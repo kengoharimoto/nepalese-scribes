@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībābāju sāheba jīvanadāsaju",
+   "name": "Jīvanadāsa",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "bābāju",
+    "sāheba"
+   ],
+   "affiliation": "gumaṭī",
+   "residence": "",
+   "evidence": "śrībābāju sāheba jīvanadāsajukī gumaṭīmeṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "paṃ śrīpureta lalanajunai",
+   "name": "Lalana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paṃ",
+    "pureta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣyate paṃ śrīpureta lalanajunai",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīdhanavāī",
+   "name": "Dhanavāī",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdhanavāī kaunai hai",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "liṣyate paṃ śrīpureta lalanajunai śrīdhanavāī kaunai"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvatu 1909 || kuvāra vadi 8 budhe",
+  "era": "VS",
+  "year": "1909",
+  "month": "kuvāra",
+  "paksa": "vadi",
+  "tithi": "8",
+  "weekday": "budhe",
+  "nakshatra_yoga": "",
+  "ce_approx": "1852"
+ },
+ "place": {
+  "as_written": "muḥ sāhigaḍha",
+  "normalized": "Shahgarh"
+ },
+ "purpose": "",
+ "notes": "The catalogue lists the scribe as Aṃjīradāsa, but the colophon clearly reads: liṣyate paṃ śrīpureta lalanajunai.",
+ "_meta": {
+  "reel": "A 938/8",
+  "model": "gemini-flash-latest",
+  "secs": 11.8,
+  "in_tok": 801,
+  "out_tok": 2819
+ }
+}

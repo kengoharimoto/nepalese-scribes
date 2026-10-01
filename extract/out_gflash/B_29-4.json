@@ -1,0 +1,68 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadvijayakāmadevasya",
+   "name": "Vijayakāmadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājādhirājaparameśvaraparamabhaṭṭārakaḥ | śrīmadvijayakāmadevasya vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vipraśrījayabrahmaśarmaṇa",
+   "name": "Jayabrahmaśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vipraśrījayabrahmaśarmaṇa likhitam idaṃ pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīmadvijayakāmadevasya vijayarājye || vipraśrījayabrahmaśarmaṇa likhitam"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 315 caitraśuklapūrṇṇamāsyāṃ somavāsare || citranakṣatre || harṣanayoge",
+  "era": "NS",
+  "year": "315",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "somavāsara",
+  "nakshatra_yoga": "citranakṣatra, harṣanayoga",
+  "ce_approx": "1195"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 29/4",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 706,
+  "out_tok": 1077
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmanmahīdhara-",
+   "name": "Mahīdhara",
+   "roles": [
+    "commentator",
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanmahīdharaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śaktivallabha-",
+   "name": "Śaktivallabha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śaktivallabhasatā ''gamaṭīkā- līpitaḥ khalu samāptim avāpaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vahnibhūdharanṛpair mitaśāke jñe śucau śivatithau sitapakṣe",
+  "era": "ŚS",
+  "year": "1673",
+  "month": "Āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1751"
+ },
+ "place": {
+  "as_written": "navākoṭarājadhānyāṃ",
+  "normalized": "Nuwakot"
+ },
+ "purpose": "",
+ "notes": "Year 1673 ŚS is expressed by chronogram: vahni (3), bhūdhara (7), nṛpa (16). Śucau = Āṣāḍha; jñe = Wednesday; śivatithau = 11th tithi (or 14th).",
+ "_meta": {
+  "reel": "B 134/16",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 804,
+  "out_tok": 1450
+ }
+}

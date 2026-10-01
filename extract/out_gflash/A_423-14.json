@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñakīrttinārāyanana",
+   "name": "Kīrtinārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñakīrttinārāyanana, coya dhunakā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 920 māghamāse śuklapakṣe || dvitīyāparatṛtīyāyāṃn tithau || śatabhiṣānakṣatre || valiyānayoge (!) || somavāsare",
+  "era": "NS",
+  "year": "920",
+  "month": "māgha",
+  "paksa": "śuklapakṣa",
+  "tithi": "dvitīyāparatṛtīyā",
+  "weekday": "somavāsara",
+  "nakshatra_yoga": "śatabhiṣā, valiyāna",
+  "ce_approx": "1800"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The phrase preceding the scribe's name ('iti sa(‥)yā') is fragmentary/uncertain.",
+ "_meta": {
+  "reel": "A 423/14",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 830,
+  "out_tok": 939
+ }
+}

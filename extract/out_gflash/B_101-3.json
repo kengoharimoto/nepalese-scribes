@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācāryya tejaratna",
+   "name": "Tejaratna",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "svālavāhala",
+   "evidence": "svālavāhalayā vajrācāryya tejaratna naṃ (...) dakṣaṇā viyāo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1012 miti jyaṣṭhakṛṣṇasaptami śukravāra",
+  "era": "NS",
+  "year": "1012",
+  "month": "jyaṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "saptamī",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1892"
+ },
+ "place": {
+  "as_written": "svālavāhala",
+  "normalized": ""
+ },
+ "purpose": "anūttarapadalokajuyāya",
+ "notes": "The catalogue lists Tejaratna as scribe and queries era VS for 1012. However, the Newari phrasing 'dakṣaṇā viyāo' shows he gave dakṣiṇā to the paṇḍitas (commissioner/donor), and 1012 is Nepal Samvat (1892 CE).",
+ "_meta": {
+  "reel": "B 101/3",
+  "model": "gemini-flash-latest",
+  "secs": 11.1,
+  "in_tok": 1105,
+  "out_tok": 2120
+ }
+}

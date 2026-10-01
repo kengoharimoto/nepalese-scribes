@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Place removed: 'kāladhālā' is not a toponym but part of the Newari curse formula 'robhayānā kāladhālā' = lobha yānā kāla dhāla(sā) 'if anyone takes [it] out of greed'; the catalogue's Place of Copying 'kāladhārā' and the normalization 'Kathmandu' are both wrong",
+   "Residence of Dhirjavīrasiṃha cleared (it came from the same misreading)",
+   "Weekday rendered as Wednesday (roja 4)",
+   "Notes rewritten: the curse formula is explained, owner-only role kept, colophon title Herambārcanavidhi noted"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dhirjavīrasiṃha",
+   "name": "Dhirjavīrasiṃha",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "thosaphu dhirjavīrasiṃha yāgu",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1914 sāla miti mārgavadi 11 roja 4",
+  "era": "VS",
+  "year": "1914",
+  "month": "mārga(śīrṣa)",
+  "paksa": "vadi (kṛṣṇa)",
+  "tithi": "11",
+  "weekday": "Wednesday (roja 4)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1857"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The phrase 'robhayānā kāladhālā paṃcamahāpāpa' is a Newari curse against theft. It reads as lobha yānā kāla dhāla(sā) pañcamahāpāpa(ka), 'if anyone takes [this book] out of greed, [may he incur] the five great sins'. So 'kāladhālā' is not a place of copying, and the catalogue's 'kāladhārā' is a misreading. 'thosaphu dhirjavīrasiṃha yāgu' means 'this book belongs to Dhirjavīrasiṃha'. He is the owner, and nothing in the colophon says he copied it, so the catalogue's 'Scribe' label is unsupported (he may be scribe-owner, but that cannot be shown). The name may stand for Dhīrajavīrasiṃha / Dhīra-Javīra Siṃha. The colophon's title is 'śrīherambāecanavidhi' (= Herambārcanavidhi), not Nānauṣadhakalpa, so this colophon may close a sub-text in a composite MS. '(aṭala)' after 'huṃ' is unclear (possibly a seal or a closing word). VS 1914 Mārgaśīrṣa ≈ Nov/Dec 1857 CE.",
+ "_meta": {
+  "reel": "B 164/23",
+  "model": "opus",
+  "cost_usd": 0.08061,
+  "secs": 18.5
+ }
+}

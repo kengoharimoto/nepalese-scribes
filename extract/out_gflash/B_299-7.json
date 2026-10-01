@@ -1,0 +1,55 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vālmīkinā",
+   "name": "Vālmīki",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vālmīkinā viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "narabhūpāla sāha",
+   "name": "Narabhūpāla Śāha",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "narabhūpāla sāha rājye bhojyamāne",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 17(83) samaya kārttika saptamyāṃ śukravāsare",
+  "era": "VS",
+  "year": "1783",
+  "month": "kārttika",
+  "paksa": "",
+  "tithi": "saptamī",
+  "weekday": "śukravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1726"
+ },
+ "place": {
+  "as_written": "gorṣāgrāme",
+  "normalized": "Gorkha"
+ },
+ "purpose": "",
+ "notes": "Scribe is left unnamed (liṣitaṃ).",
+ "_meta": {
+  "reel": "B 299/7",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 790,
+  "out_tok": 1089
+ }
+}

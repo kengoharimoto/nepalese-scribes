@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sthitirājamallaḥ",
+   "name": "Sthitirājamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpeśa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yasmin nṛpeśa (!) sthitirājamallaḥ samastasāmantabhuvaṃ bhunakti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vīrādisiṃho",
+   "name": "Vīrādisiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasmin samālikhya vīrādisiṃho",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "yasmin nṛpeśa (!) sthitirājamallaḥ ... tasmin samālikhya vīrādisiṃho"
+  }
+ ],
+ "date": {
+  "as_written": "samvatsare bhūtakhapañcaseṣe māse site śrāvaṇajīvavāre | pūrvvādiṣāḍhe ṛkṣa kāmatithau",
+  "era": "NS",
+  "year": "505",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "Pūrvāṣāḍhā",
+  "ce_approx": "1385"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is given in chronogram 'bhūtakhapañcaseṣe' (5-0-5). 'kāmatithau' refers to the 13th tithi (Trayodaśī). The scribe's name 'vīrādisiṃho' is likely a metrical expansion of Vīrasiṃha, as noted in the catalogue.",
+ "_meta": {
+  "reel": "B 13/4",
+  "model": "gemini-pro-latest",
+  "secs": 11.7,
+  "in_tok": 791,
+  "out_tok": 1536
+ }
+}

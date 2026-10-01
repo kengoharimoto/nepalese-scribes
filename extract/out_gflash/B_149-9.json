@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "amṛtānandanātha",
+   "name": "Amṛtānandanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "parivrājakācārya",
+    "paramahaṃsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "amṛtānandanāthaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 871 bhādraśudi 1",
+  "era": "NS",
+  "year": "871",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1751"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 149/9",
+  "model": "gemini-flash-latest",
+  "secs": 2.9,
+  "in_tok": 704,
+  "out_tok": 575
+ }
+}

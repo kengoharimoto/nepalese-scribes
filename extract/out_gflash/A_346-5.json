@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "govinda dvijaś",
+   "name": "Govinda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lilekha ... govinda dvijaśca[tū]rṇṇaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "karānala bhe[ra?]ṅkayutesu māse, śucau'site visvatithau kujesmin [...] saṃ 832 jye, kṛ, 10, aṃ",
+  "era": "NS",
+  "year": "832",
+  "month": "Jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1712"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records Lalitpur as the place of copying, but no place name is present in the cited colophon text. 'aṃ' in the date stands for aṅgāravāra (Tuesday), matching 'kuje'.",
+ "_meta": {
+  "reel": "A 346/5",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 782,
+  "out_tok": 1424
+ }
+}

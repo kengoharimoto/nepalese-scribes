@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date era set to VS (inferred; colophon says only 'samvat'), ce_approx 1678 kept",
+   "Note clarified: weekday check gives Sunday 28 Aug 1678 (Gregorian) = 18 Aug 1678 (Julian); catalogue's ŚS 1735 rejected",
+   "place.normalized emptied: several towns are called Jalalabad, so the identification is not certain"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmanāthena",
+   "name": "Rāmanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liºº rāmanāthena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1735 bhādrapada sudi 11 ravau",
+  "era": "VS",
+  "year": "1735",
+  "month": "bhādrapada",
+  "paksa": "sudi",
+  "tithi": "11",
+  "weekday": "ravau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1678"
+ },
+ "place": {
+  "as_written": "muºº Jalālāvāda",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon says only 'samvat'. The catalogue gives ŚS 1735, but VS fits: Bhādrapada śukla 11 of VS 1735 falls on about 28 Aug 1678 (Gregorian), which is 18 Aug 1678 (Julian), and that day is a Sunday, matching 'ravau'. The era is inferred from this check. 'muºº' abbreviates mukāma ('halting place, camp'). 'liºº' = likhitam. Jalālāvāda = Jalālābād, but several towns have this name (e.g. in Shahjahanpur, Afghanistan, Punjab), so the place is not identified. Also note the grammar error 'samāptaḥ (!)' in the colophon.",
+ "_meta": {
+  "reel": "A 338/7",
+  "model": "opus",
+  "cost_usd": 0.08287800000000001,
+  "secs": 20.6
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "varāha mihirācārya",
+   "name": "Varāhamihira",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī varāha mihirācārya racitelaghujātake",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "raṃganātha",
+   "name": "Raṅganātha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "raṃganātha tanūjaneḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vālakṛṣṇasya",
+   "name": "Bālakṛṣṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajña vālakṛṣṇasya sūnunā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "bhānu śarmaṇā",
+   "name": "Bhānuśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhānu śarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "vālakṛṣṇasya sūnunā bhānu śarmaṇā"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "raṃganātha tanūjaneḥ(!) || daivajña vālakṛṣṇasya"
+  }
+ ],
+ "date": {
+  "as_written": "nabho gajadhṛti miteśake vikrama bhūpateḥ || māghe māsi site pakṣe pakṣatyāṃ ravi vāsare",
+  "era": "VS",
+  "year": "1880",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "pakṣatī (pratipad)",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1824"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'nabho-gaja-dhṛti' yields 1880 (nabhas = 0, gaja = 8, dhṛti = 18). Although the catalogue notes the date as 'ŚS 1880', the text clearly states 'śake vikrama bhūpateḥ', indicating Vikrama Saṃvat 1880.",
+ "_meta": {
+  "reel": "A 1067/12",
+  "model": "gemini-flash-latest",
+  "secs": 7.8,
+  "in_tok": 796,
+  "out_tok": 2047
+ }
+}

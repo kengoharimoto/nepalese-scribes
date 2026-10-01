@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vaṃśīdharaśarmmaṇā",
+   "name": "Vaṃśīdhara",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "Bhaktagrāma",
+   "evidence": "bhaktagrāme śrī vaṃśīdharaśarmmaṇā likhitam adaḥ pustakam iti svārthena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "abde svādaśudhāṃśukuṃjaramite naipālike maṃjule, mārge māsi site raveś ca divase ṣaṣṭhyāṃ tithau",
+  "era": "NS",
+  "year": "816",
+  "month": "Mārga",
+  "paksa": "śukla",
+  "tithi": "6",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1696"
+ },
+ "place": {
+  "as_written": "bhaktagrāme",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "svārtha",
+ "notes": "Chronogram: svāda (6), sudhāṃśu (1), kuñjara (8) = NS 816.",
+ "_meta": {
+  "reel": "A 1012/5",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 1067,
+  "out_tok": 1180
+ }
+}

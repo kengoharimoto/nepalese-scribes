@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsivadattapādhyā nepāla",
+   "name": "Śivadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "Nepāla",
+   "residence": "śrīvisaṃṣu",
+   "evidence": "śrīsivadattapādhyā nepāla haste midaṃ (!) pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat || 1917 sāla miti āṣāḍa vadi || 14 || roja 2",
+  "era": "VS",
+  "year": "1917",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "14",
+  "weekday": "roja 2 (Monday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1860"
+ },
+ "place": {
+  "as_written": "śrīvisaṃṣu",
+  "normalized": "Bishankhu"
+ },
+ "purpose": "",
+ "notes": "The Nepali phrase 'śrīvisaṃṣu vasnyā' indicates residence in Bishankhu. 'Nepāla' is a Khas Brahmin clan/surname (thar).",
+ "_meta": {
+  "reel": "A 898/14",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 749,
+  "out_tok": 1051
+ }
+}

@@ -1,0 +1,133 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīpadmarāja",
+   "name": "Padmarāja",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "bhikṣu"
+   ],
+   "affiliation": "Kīrttipuṇyamahāvihāra",
+   "residence": "Yolācche, Kāṣṭhamaṇḍapa",
+   "evidence": "śrīkīrttipuṇyamahāvihārāvasthitayolāccheśrīpadmarājacandrasābhāryāsahena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "candrasā",
+   "name": "Candrasā",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Yolācche, Kāṣṭhamaṇḍapa",
+   "evidence": "candrasābhāryāsahena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīśrījayaratnamalladeva",
+   "name": "Jayaratnamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka",
+    "ṭhākura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayaratnamalladevaśrīśrījayaarimalladeva uvaye ṭhākureṇa vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīśrījayaarimalladeva",
+   "name": "Jayārimalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka",
+    "ṭhākura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayaratnamalladevaśrīśrījayaarimalladeva uvaye ṭhākureṇa vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrīrūparājena",
+   "name": "Rūparāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Maṇisaṃghavihāra",
+   "residence": "Maṇisaṃghavihāra",
+   "evidence": "likhite 'yam maṇisaṃghavihāravāsitavajrācāryaśrīrūparājena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wife_of",
+   "to": "p1",
+   "evidence": "candrasābhāryāsahena"
+  },
+  {
+   "from": "p5",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "likhite 'yam maṇisaṃghavihāravāsitavajrācāryaśrīrūparājena ... bhikṣuśrīvarapadmarājasagaṇān devī ciraṃ rakṣatuḥ"
+  },
+  {
+   "from": "p5",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "śrīśrījayaratnamalladevaśrīśrījayaarimalladeva uvaye ṭhākureṇa vijayarājye || likhite 'yam"
+  },
+  {
+   "from": "p5",
+   "type": "under_reign_of",
+   "to": "p4",
+   "evidence": "śrīśrījayaratnamalladevaśrīśrījayaarimalladeva uvaye ṭhākureṇa vijayarājye || likhite 'yam"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 609 bhādrapadamāse śuklapakṣe pañcamyān tithau svāti nakṣatre saubhāgnya(!) yoge ādītyavatsare 〈〈asya〉〉dine ... grahāmvararase śukle tithau pañcamī",
+  "era": "NS",
+  "year": "609",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "ādityavāsara",
+  "nakshatra_yoga": "svāti nakṣatra, saubhāgya yoga",
+  "ce_approx": "1489"
+ },
+ "place": {
+  "as_written": "śrīkāṣṭhamaṇḍapamahānagarī śrīkīrttipuṇyamahāvihāra",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "yad atra puṇyaṃ tad bhavatv ācāryopadhyāyamātāpitṛpūrvvaṅgamasakalasavarāśer anuttarajñānaphala prāpnuvantu",
+ "notes": "The catalogue gives the date as NS 509, but the manuscript clearly states 'samvat 609' in digits and confirms it in verse with the chronogram 'grahāmvararase' (graha = 9, ambara = 0, rasa = 6, yielding 609 NS, which accurately aligns with the reign of Ratnamalla). The weekday 'ādītyavatsare' is a scribal error for ādityavāsare (Sunday).",
+ "_meta": {
+  "reel": "A 47/5",
+  "model": "gemini-flash-latest",
+  "secs": 14.8,
+  "in_tok": 1109,
+  "out_tok": 3939
+ }
+}

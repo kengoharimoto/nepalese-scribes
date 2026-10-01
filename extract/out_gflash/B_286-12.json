@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahārāja śrīmahārāja jagatprakāśamakka",
+   "name": "Jagatprakāśamalla",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārāja śrīmahārāja jagatprakāśamakkaviracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 790 śāvana vadi 9",
+  "era": "NS",
+  "year": "790",
+  "month": "śāvana",
+  "paksa": "vadi",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1670"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The name Jagatprakāśamalla is written with a scribal error as 'jagatprakāśamakka'.",
+ "_meta": {
+  "reel": "B 286/12",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 730,
+  "out_tok": 608
+ }
+}
