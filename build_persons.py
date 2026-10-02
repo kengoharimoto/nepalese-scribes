@@ -108,6 +108,19 @@ UNUSABLE = re.compile(r'…|‥|\.\.|unnamed|illegible|lacuna|unknown|anonymous|
 SAME_PERSON = {
     'ratnakaralala': 'lalaratnakara',      # catalogue reverses the parts; Kāśī 1820-1837
     'yadolalaratnakara': 'lalaratnakara',  # B 38/11, Kāśī ŚS 1747: yadolālalaratnākarākhyaḥ
+    # Licchavi inscr. 110 and 111: the ācārya Pranarddana (Prāṇakauśika) of the Chaṇḍeśvara shrine under Jiṣṇugupta
+    'lic:pranardanapranakausika': 'lic:pranardana',
+}
+
+# words read as names that are not names: (label, name as read) -> reason
+NOT_A_NAME = {
+    ('Licchavi inscr. 194', 'Dhārmarājika'): "śrī-dhārmarājik-āmātya: 'the minister of the Dharmarājikā' "
+                                            "(a vṛddhi derivative); the edition's 'amātya Dharmarājika' has a query",
+    ('Licchavi inscr. 50', 'Svāmin'): "svāmi-vārttaḥ is a title; the donor's name is not preserved",
+}
+# readings kept, but at low confidence: (label) -> reason
+LOW_CONFIDENCE = {
+    'Licchavi inscr. 161': "a fragment without context ('... sānyaḥ krakaśāriḥ somomvacaḥ dataniti ...')",
 }
 
 # epithets read as names: key -> (person's key, name, epithet kept as a title)
@@ -384,7 +397,7 @@ def main():
         inscription = r.get('_source') == 'Licchavi inscriptions'
         for p in (o or {}).get('persons', []):
             roles = [x for x in p['roles'] if x not in ('author', 'commentator')]
-            if not roles or not usable_name(p['name']):
+            if not roles or not usable_name(p['name']) or (k, p['name']) in NOT_A_NAME:
                 continue
             if inscription and set(roles) <= {'relative_only'}:
                 continue  # genealogies name remote ancestors: the inscription's date is not theirs
@@ -403,7 +416,7 @@ def main():
                 continue
             a = {'ms': ms['id'], 'name': name, 'roles': roles, 'titles': titles,
                  'residence': p['residence'], 'affiliation': p['affiliation'], 'evidence': p['evidence'],
-                 'conf': p['confidence'], 'src': o['_src'], 'aid': len(local)}
+                 'conf': 'low' if k in LOW_CONFIDENCE else p['confidence'], 'src': o['_src'], 'aid': len(local)}
             att[(kind, key)].append(a)
             local[(ms['id'], p['pid'])] = a['aid']
             found.append((kind, key))
