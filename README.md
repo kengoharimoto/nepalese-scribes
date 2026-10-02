@@ -24,6 +24,7 @@ a mirror of its files is published under CC0 at https://github.com/INDOLOGY/NGMC
 | second reading by Opus (`claude -p`), given the colophon and the first reading | `extract/review.py` | `extract/out_review/` |
 | merge readings and catalogue fields, group persons, convert dates | `build_persons.py` | `data/manuscripts.json`, `data/persons.json`, `data/relations.json` |
 | chart | `export_chart.py` + `chart_template.html` | `out/nepalese_scribes.html` |
+| catalogue + title-list database (merges the HTML entries with `data/ngmcpdb_production.sql.bz2`; see `db/README.md`) | `db/build_db.py` | `db/ngmcp.sqlite` |
 
 `extract/extract.py` is the `claude -p` version of the first reading. It was used for the
 model comparison on 30 colophons (`extract/pilot.jsonl`; outputs in `extract/out` (Opus),
