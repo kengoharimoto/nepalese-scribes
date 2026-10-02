@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed Jīvavarman: he appears only inside the name of a monastery used as a boundary mark (jīvavarmma-vihārasya). The inscription names no living person and gives him no role, so the name is recorded in the notes instead.",
+   "Vottarin: changed the role from commissioner to other. The conduit (praṇālī) he had made is an earlier structure used as a boundary mark; he did not commission this inscription. The reading of the name is doubtful.",
+   "Place: added the find-spot detail and the present location (National Museum).",
+   "Notes: added the lost dūtaka and date, the unnamed officials, and the doubtful readings."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vottarino",
+   "name": "Vottarin",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vottarino-kārita-praṇāly-āgrataḥ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Nārāyaṇa Chaur, Naksal (water conduit); now in the National Museum",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "Edict, probably royal (the issuer says pātayiṣyāmaḥ, 'we shall impose'). It sets out jurisdiction (adhikaraṇas, dauvārikas, pāñcālikas), a schedule of fines and dues, and draṅga status for the villages Tāmrakuṭṭaśālā, Māneśvara, Śāmbhapura, Hmapriṃga, Puṭhampriṅga, Jamayambī and Puṃdaṭṭa. It ends with an imprecatory verse and a long list of boundaries.",
+ "notes": "Lines 1–9 are worn away and lines 10–18 are almost unreadable, so the issuing king is lost. The roughly 9–10 lines after line 73, which would have held the dūtaka and the date, are also illegible. The date is lost entirely. Offices are mentioned without personal names: dauvārika (roga-mācau-, sindrira-, vetra-, sthāna-dauvārika), mahāpratīhāra (whose house compound is a boundary mark), and pāñcālikas. Jīvavarman is not listed as a person because he occurs only in the monastery name jīvavarmma-vihāra (l. 60), a boundary mark. The name 'vottarino' (l. 58), read as Vottarin, the maker of a water conduit, is uncertain and may be a corrupt reading. 'śrī-tukāṇa...' (l. 67) may be a damaged personal or place name and is not listed. Concordance: L 21; Gn LXXXIII; DV 149; HJ 157; R. 143.",
+ "_meta": {
+  "reel": "Licchavi inscr. 178",
+  "model": "opus",
+  "cost_usd": 0.131149,
+  "secs": 19.2
+ }
+}

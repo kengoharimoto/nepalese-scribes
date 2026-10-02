@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "manudebe",
+   "name": "Manudeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhaṭṭāraka",
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭāraka-mahārāja-śrī-manudebe rājyam-praśāsāta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Gaihrīgāuṃ",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "installation of an image of Śambhu (Śiva) and provision for kāraṇapūjā and bali-bhojana",
+ "notes": "The king's name is written as Manudeva (L1: manudebe, L3: manudeva-nāmnaḥ), though modern summaries sometimes equate or confuse this with Mānadeva. The date symbols and the donor's name are lost in the lacunae.",
+ "_meta": {
+  "reel": "Licchavi inscr. 20",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 1879,
+  "out_tok": 1303
+ }
+}

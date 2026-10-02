@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Cobhār",
+  "normalized": "Chobar"
+ },
+ "purpose": "royal edict forbidding the entry of officials from the śolla and liṅgvala offices into a pañcālī",
+ "notes": "The inscription is heavily damaged and fragmentary (R. 114; HJ 105). The issuing king's name is broken and lost in lacunae (only fragments such as '...rmana... kulaketunā ... rājā' in line 4 and '...śrīvarmareva' in line 9 survive), leaving no identifiable individuals or date.",
+ "_meta": {
+  "reel": "Licchavi inscr. 155",
+  "model": "gemini-flash-latest",
+  "secs": 9.4,
+  "in_tok": 1866,
+  "out_tok": 2385
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pradyumna-prāṇasya",
+   "name": "Pradyumnaprāṇa",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pradyumna-prāṇasya kīrti",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Deupāṭana, Paśupatinath",
+  "normalized": "Deupatan"
+ },
+ "purpose": "foundation of a pious work (kīrti)",
+ "notes": "Highly fragmentary inscription containing only the phrase 'pradyumna-prāṇasya kīrti[...]'. Pradyumnaprāṇa is likely the personal name of the donor/founder of the pious monument (kīrti).",
+ "_meta": {
+  "reel": "Licchavi inscr. 159",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 1404,
+  "out_tok": 998
+ }
+}

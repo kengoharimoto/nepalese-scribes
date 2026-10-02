@@ -1,0 +1,87 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭāraka-mahārāja-śrī-bhīmārjuna-devas",
+   "name": "Bhīmārjunadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhaṭṭāraka",
+    "mahārāja",
+    "licchavikulaketu"
+   ],
+   "affiliation": "",
+   "residence": "Mānagṛha",
+   "evidence": "mānagṛhāt-sakalajana-nirupadrav-opāyasaṃ-vidhān-aika-citta-santāno licchavikulaketur-bhaṭṭāraka-mahārāja-śrī-bhīmārjuna-devas-tatsahitaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī-jiṣṇuguptaḥ",
+   "name": "Jiṣṇugupta",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Kailāsakūṭabhavana",
+   "evidence": "śrīmat-kailāsakūṭa-bhavanād ... śrī-jiṣṇuguptaḥ kuśalī bhaviṣyato nepāla-bhūbhujo yathārham-pratimāny-ānudarśayati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrī-yuvarāja-śrī-dharaguptaḥ",
+   "name": "Dharagupta",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "yuvarāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-ātra śrī-yuvarāja-śrī-dharaguptaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "other",
+   "to": "p1",
+   "evidence": "bhaṭṭāraka-mahārāja-śrī-bhīmārjuna-devas-tatsahitaḥ"
+  },
+  {
+   "from": "p3",
+   "type": "servant_of",
+   "to": "p2",
+   "evidence": "dūtakaś-c-ātra śrī-yuvarāja-śrī-dharaguptaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 64 phālguna-śukla-dvitīyāyām",
+  "era": "unspecified",
+  "year": "64",
+  "month": "Phālguna",
+  "paksa": "śukla",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "mānagṛhāt ... kailāsakūṭa-bhavanād ... dakṣiṇakolī-grāmasya",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "Royal edict granting ornament privileges and legal/property protections to the residents of Dakṣiṇakolī-grāma, who dragged a large stone for the reclining image of Viṣṇu (Jalaśayana).",
+ "notes": "Line 8 reads 'śrī-jiṣṇuguptaḥ', but the editor notes that Gnoli reads 'śrīviṣṇuguptaḥ' and the catalogue header identifies the ruler as Viṣṇugupta, which is chronologically consistent with Saṃvat 64. Dharagupta is often treated as Śrīdharagupta.",
+ "_meta": {
+  "reel": "Licchavi inscr. 107",
+  "model": "gemini-flash-latest",
+  "secs": 16.0,
+  "in_tok": 2885,
+  "out_tok": 4298
+ }
+}

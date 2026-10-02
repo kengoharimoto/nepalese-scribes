@@ -1,0 +1,85 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī-mānadevasya",
+   "name": "Mānadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhartṛ"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bharttuḥ śrī-mānadevasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "guṇavatyā",
+   "name": "Guṇavatī",
+   "roles": [
+    "donor",
+    "queen"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sthāpitaṃ liga[ṅga]ṅ-guṇavatyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "kinnara-varmmaṇaḥ",
+   "name": "Kinnaravarman",
+   "roles": [
+    "beneficiary",
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pituḥ kinnara-varmmaṇaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wife_of",
+   "to": "p1",
+   "evidence": "bharttuḥ śrī-mānadevasya"
+  },
+  {
+   "from": "p2",
+   "type": "daughter_of",
+   "to": "p3",
+   "evidence": "pituḥ kinnara-varmmaṇaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 419 jyeṣṭha-śukla-divā 13",
+  "era": "unspecified",
+  "year": "419",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Lājiṃ-pāṭa",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "installation of a Śivaliṅga for the spiritual merit of her deceased father Kinnaravarman",
+ "notes": "",
+ "_meta": {
+  "reel": "Licchavi inscr. 13",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 1675,
+  "out_tok": 1596
+ }
+}

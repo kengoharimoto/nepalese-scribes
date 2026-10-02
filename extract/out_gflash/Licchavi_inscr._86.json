@@ -1,0 +1,149 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śry-aṃśuvarmā",
+   "name": "Aṃśuvarman",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "kailāsakūṭabhavana",
+   "evidence": "śry-aṃśuvarmākuśalī ... samājñāpayati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhogadevyā",
+   "name": "Bhogadevī",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhogadevyā svabhartū rāja-putra-sūrasenasya puṇy-opacayāya pratiṣṭhāpito",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrī-bhogavarma-",
+   "name": "Bhogavarman",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī-bhogavarma-jananyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "rāja-putra-sūrasenasya",
+   "name": "Śūrasena",
+   "roles": [
+    "beneficiary",
+    "relative_only"
+   ],
+   "titles": [
+    "rājaputra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svabhartū rāja-putra-sūrasenasya puṇy-opacayāya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "bhāgya-devyā",
+   "name": "Bhāgyadevī",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgya-devyā pratiṣṭhāpito",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "yuvarāj-odayadevaḥ",
+   "name": "Udayadeva",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "yuvarāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-ātra yuvarāj-odayadevaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "other",
+   "to": "p1",
+   "evidence": "asmad-bhaginyā"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrī-bhogavarma-jananyā"
+  },
+  {
+   "from": "p2",
+   "type": "wife_of",
+   "to": "p4",
+   "evidence": "svabhartū rāja-putra-sūrasenasya"
+  },
+  {
+   "from": "p5",
+   "type": "daughter_of",
+   "to": "p2",
+   "evidence": "tad-duhitr-"
+  },
+  {
+   "from": "p5",
+   "type": "other",
+   "to": "p1",
+   "evidence": "āsmad-bhāgineyyā"
+  },
+  {
+   "from": "p6",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "dūtakaś-c-ātra yuvarāj-odayadevaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 30 9 vaiśākha-śukla-divā daśamyām",
+  "era": "unspecified",
+  "year": "39",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "paśupatau",
+  "normalized": "Deupatan"
+ },
+ "purpose": "edict confirming the transfer of three liṅgas (Śūrabhogeśvara, Laḍitamaheśvara, and Dakṣiṇeśvara) to the Adhaḥśālā-pāñcālikas, granting exemption from the jurisdiction of the paścimādhikaraṇa",
+ "notes": "",
+ "_meta": {
+  "reel": "Licchavi inscr. 86",
+  "model": "gemini-flash-latest",
+  "secs": 11.1,
+  "in_tok": 2385,
+  "out_tok": 3833
+ }
+}

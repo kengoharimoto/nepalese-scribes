@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭāraka-mahārāja-śrī-śivadevaḥ",
+   "name": "Śivadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhaṭṭāraka",
+    "mahārāja",
+    "licchavikulaketu"
+   ],
+   "affiliation": "Licchavi",
+   "residence": "Mānagṛha",
+   "evidence": "mānagṛhād ... licchavikula]ketur bhaṭṭāraka-mahārāja-śrī-śivadevaḥ ... samājñāpayati",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vaiśākha-śukla-pañcamyām",
+  "era": "unspecified",
+  "year": "",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "mānagṛhād / stharu-draṅge",
+  "normalized": "Chapagaon"
+ },
+ "purpose": "Royal edict granting reduction of excise duties on loads of different varieties of fish in Stharu-draṅga",
+ "notes": "The name of the dūtaka in line 20 and the year of the date are effaced due to damage to the stone slab.",
+ "_meta": {
+  "reel": "Licchavi inscr. 72",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 2451,
+  "out_tok": 748
+ }
+}

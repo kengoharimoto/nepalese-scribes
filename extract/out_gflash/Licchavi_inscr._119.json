@@ -1,0 +1,89 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "narendradevaḥ",
+   "name": "Narendradeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "paramabhaṭṭāraka",
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "kailāsakūṭabhavana",
+   "evidence": "paramabhaṭṭāraka-mahārājādhirāja-śrī-narendradevaḥ kuśalī ... samājñāpayati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "candravarma-",
+   "name": "Candravarman",
+   "roles": [
+    "official"
+   ],
+   "titles": [
+    "mahāpratīhāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāpratihāra-candravarma-vijñāpitair-asmābhis",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "skandadevaḥ",
+   "name": "Skandadeva",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "bhaṭṭāraka",
+    "yuvarāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-ātra bhaṭṭāraka-śrī-yuvarāja-skandadevaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "mahāpratihāra-candravarma-vijñāpitair-asmābhis-tat-pratimānya"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "svayam-ājñā dūtakaś-c-ātra bhaṭṭāraka-śrī-yuvarāja-skandadevaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 83 bhādrapada-śukla-divā [ṣa]ṣṭhyām",
+  "era": "unspecified",
+  "year": "83",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "6",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Lalitpur, Tyāgala-ṭola",
+  "normalized": "Patan"
+ },
+ "purpose": "Royal edict granting revenue and autonomy to the Vajreśvara-maṇḍalī on the eastern bank of the Bāgmatī for ritual worship and feeding Pāśupatas and Brāhmaṇas, following a petition by Mahāpratīhāra Candravarman.",
+ "notes": "The year is read as 82 by Gnoli and 83 by Dhanavajra Vajrācārya.",
+ "_meta": {
+  "reel": "Licchavi inscr. 119",
+  "model": "gemini-flash-latest",
+  "secs": 7.3,
+  "in_tok": 3254,
+  "out_tok": 2302
+ }
+}

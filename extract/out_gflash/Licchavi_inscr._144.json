@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "candreśvara",
+   "name": "Candreśvara",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "candreśvarakāritaḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 194",
+  "era": "unspecified",
+  "year": "194",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Sītā-paila",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "installation of an image of Paśupati bhaṭṭāraka",
+ "notes": "Regmi reads the year as 184. Gnoli reads line 3 as 'candreśvarakārikamitiḥ ṇāp(y?)akaḥ'.",
+ "_meta": {
+  "reel": "Licchavi inscr. 144",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 1492,
+  "out_tok": 1285
+ }
+}

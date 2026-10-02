@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Deupāṭana, Paśupatinath, Paṃcadevala temple",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "Extremely fragmentary inscription on a śivaliṅga near Paśupatinath (DV 188). The few surviving syllables ('. . . . . . vadeva - pala ya') are insufficient to securely identify any human person, date, or purpose; 'vadeva' could represent part of a royal name (e.g., ending in -deva) or a divine epithet such as devadeva.",
+ "_meta": {
+  "reel": "Licchavi inscr. 162",
+  "model": "gemini-flash-latest",
+  "secs": 11.5,
+  "in_tok": 1383,
+  "out_tok": 2543
+ }
+}

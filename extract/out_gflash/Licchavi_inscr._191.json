@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Tyāgala-ṭola",
+  "normalized": "Patan"
+ },
+ "purpose": "Hymn of praise (stotra) to various Buddhas and Bodhisattvas engraved on the four sides of a chaitya",
+ "notes": "No historical human persons (donors, kings, or scribes) are mentioned in this preserved portion of the inscription; it consists entirely of devotional verses dedicated to Akṣobhya, Samantabhadra, Śākyamuni, Vajradhara, Buddha Samantakusuma, Mañjuśrī, Susthitamati, Amitābha, Lokeśa, and Mahāsthāmaprāpta.",
+ "_meta": {
+  "reel": "Licchavi inscr. 191",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 1894,
+  "out_tok": 929
+ }
+}

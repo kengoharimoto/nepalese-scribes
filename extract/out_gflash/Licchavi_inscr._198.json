@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kedumbāṭo",
+   "name": "Kedumbāṭa",
+   "roles": [
+    "official"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śailastambhakriyārambhe kedumbāṭo niyojitaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Viṣṇupādukā hill",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "construction of a stone column (śailastambha)",
+ "notes": "Fragmentary inscription (DV 8). Mentions Kedumbāṭa being appointed (niyojitaḥ) by royal authority (śrīpādaiḥ) for the erection/construction of a stone pillar (śailastambha), possibly out of duty to the queen (devyāḥ) or a goddess.",
+ "_meta": {
+  "reel": "Licchavi inscr. 198",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 1387,
+  "out_tok": 1222
+ }
+}

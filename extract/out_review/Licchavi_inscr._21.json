@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Mānadeva's titles: replaced 'mahārājaparameśvara', which is not in the text, with 'mahārājādhirāja' and 'parameśvara'. Only '-rājaparameśvara' survives; the editor restores '[Mahārājādhi]'",
+   "Place: added the find-spot details (Tānābahā, Makhantol quarter) from the editor's header",
+   "Purpose: reworded as the fragmentary record of a donor's pious deeds on the pedestal of a Nārāyaṇa image",
+   "Notes: added that the date is partly lost and that DV reads only up to the daṇḍa in line 2"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājaparameśvaraśrīmānadevarājye",
+   "name": "Mānadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "parameśvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājaparameśvaraśrīmānadevarājye",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "āṣāḍhakṛṣṇasaptamyām",
+  "era": "unspecified",
+  "year": "",
+  "month": "Āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "saptamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Tānā-bahāla (Tānābahā, Makhantol quarter)",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "fragmentary record of a donor's pious deeds (puṇya svasmṛti kṛtyaye) on the pedestal of a Nārāyaṇa image, under Mānadeva",
+ "notes": "The inscription is a fragment. The start of line 1 is lost, so the year (saṃvat) is missing and only the month and tithi survive. Of Mānadeva's titles only '-rājaparameśvara' remains; '[Mahārājādhi]' is the editor's restoration. Lines 2–5 are corrupt ('yata paramya nihijita', 'mayaṃ saṃgrāma śatro sukha mocanāya', 'caraṇarājña'), and the donor's name cannot be made out, so no donor is listed. DV reads only up to the daṇḍa in line 2. Concordance: DV 173; HJ 165; R. 155.",
+ "_meta": {
+  "reel": "Licchavi inscr. 21",
+  "model": "opus",
+  "cost_usd": 0.5583146,
+  "secs": 42.5
+ }
+}

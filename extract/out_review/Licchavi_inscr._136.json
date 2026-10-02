@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Dūtaka entry kept, but the notes now say the surviving 'rā' may begin a title such as rājaputra or rājakula rather than a personal name.",
+   "Purpose changed from 'grant (damaged)' to 'probably a grant (badly damaged)', following the editor.",
+   "Notes now say line 2 'sarvadā...' may be the start of an address formula or an office title (e.g. sarvadaṇḍanāyaka); no person is added for it.",
+   "Date fields confirmed. The era is left unspecified and the CE date blank, as instructed."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rā . . . . . .",
+   "name": "Rā...",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaścātra rā . . . . . .",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 144",
+  "era": "unspecified",
+  "year": "144",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Lalitpur, Maṅgal-bajāra",
+  "normalized": "Patan"
+ },
+ "purpose": "probably a grant (badly damaged)",
+ "notes": "The inscription is badly damaged; the editor says it is 'probably the grant'. Only the first syllable 'rā' of the dūtaka survives. It may be the start of a personal name, or of a title such as rājaputra or rājakula, which often come before the dūtaka's name in Licchavi grants. So the name is uncertain. Line 2 'sarvadā...' is too fragmentary to identify; it could be part of an address formula or an office title (e.g. sarvadaṇḍanāyaka). No issuing king survives. The month, fortnight and lunar day after 'saṃvat 144' are lost. Concordance: DV 183.",
+ "_meta": {
+  "reel": "Licchavi inscr. 136",
+  "model": "opus",
+  "cost_usd": 0.075101,
+  "secs": 12.4
+ }
+}

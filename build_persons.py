@@ -22,7 +22,7 @@ def reel_key(r):
 
 
 # ---------------------------------------------------------------- dates
-ERA_OFFSET = {'NS': 880, 'VS': -57, 'ŚS': 78, 'LS': 1119, 'AS': 577}  # AS: Aṃśuvarman ('Mānadeva') saṃvat
+ERA_OFFSET = {'NS': 880, 'VS': -57, 'ŚS': 78, 'LS': 1119, 'AS': 577, 'LIC': 77}  # AS: Aṃśuvarman ('Mānadeva') saṃvat
 ERA_PATTERNS = [  # order matters only for ties; the earliest match in the string wins
     ('NS', r'\bN\s?[SŚ]\b|Nepāla\s*[Ss]aṃvat'),
     ('VS', r'\bV\s?S|Vikra?ma'),
@@ -120,7 +120,8 @@ def usable_name(n):
     return bool(n.strip(' .…[]/()')) and not UNUSABLE.search(n)
 
 
-def name_key(n, role=''):
+def name_key(n, role='', keep_suffix=False):
+    """keep_suffix: -varman, -śarman etc. are part of the name (Licchavi inscriptions: Aṃśuvarman, Bhogavarman)."""
     k = fold(HONORIFIC.sub('', n.strip()))
     if role == 'king':  # regnal epithets: śrīśrīsumatijayajitāmitramalladeva = Jitāmitra Malla
         k = re.sub(r'^(?:sri|\s)+', '', k)
@@ -138,7 +139,7 @@ def name_key(n, role=''):
     k = re.sub(r'(rr)', 'r', k)
     k = re.sub(r'([kgcjtdpb])\1', r'\1', k)  # gemination after r
     k = re.sub(r'm(?=[kgcjtdpb])', 'n', k)    # anusvāra for nasal
-    if role != 'king':  # caste / office suffixes are titles, not part of the name
+    if role != 'king' and not keep_suffix:  # caste / office suffixes are titles, not part of the name
         k2 = re.sub(r'(?:sarm(?:a|an|ma|mana)?|misra|upadhyay[a]?|vajracary[a]?|karmacary[a]?|josi|joshi|'
                     r'daivajna|thakura?|varma|varman)$', '', k)
         k = k2 if len(k2) >= 4 else k
@@ -169,7 +170,8 @@ def norm_place(p):
 # ---------------------------------------------------------------- colophon readings
 EXTRACT = os.path.join(HERE, 'extract')
 ROLE_GROUP = {'scribe': 'scribe', 'commissioner': 'patron', 'donor': 'patron', 'owner': 'patron',
-              'beneficiary': 'patron', 'king': 'king', 'queen': 'king', 'relative_only': 'kin'}
+              'beneficiary': 'patron', 'king': 'king', 'queen': 'king', 'relative_only': 'kin',
+              'engraver': 'scribe', 'recipient': 'patron'}  # dūtaka, official, composer: 'other'
 GROUP_ORDER = ['scribe', 'patron', 'king', 'other', 'kin']
 
 
@@ -280,6 +282,26 @@ def extra_records():
                      '_source': 'NGMCP title list'}
 
 
+def licchavi_records():
+    """Licchavi inscriptions (E-texts/1_sanskr/7_inscriptions/licchavi; extract/make_licchavi_worklist.py), dated
+    afresh with the pañcāṅga (calendar/licchavi_dates.py); persons from the reading of each inscription."""
+    sys.path.insert(0, EXTRACT)
+    import make_licchavi_worklist as W
+    dates = json.load(open(D('licchavi_dates.json'))) if os.path.exists(D('licchavi_dates.json')) else {}
+    for e in W.entries():
+        label = W.label(e['no'])
+        r = dates.get(label)
+        date, note = pancanga_date(r) if r else (None, '')
+        if r and r['given']['era'] == 'LIC':
+            note += '; earlier Licchavi saṃvat read as the Kārttikādi current Śaka (Malla 2005)'
+        conc = ', '.join(f'{k} {v}' for k, v in e['conc'].items())
+        text = e['text'].split('TEXT', 1)[-1].strip(' .\n')
+        yield label, {'Title': e['head'], 'Subject': 'inscription', 'Script': 'Licchavi', 'Material': 'stone',
+                      'Date of Copying': ('saṃvat ' + e['samvat']) if e['samvat'] else '', 'colophon': text[:1500],
+                      'files': [e['file'] + (f' ({conc})' if conc else '')], '_date': date, '_date_note': note,
+                      '_date_src': 'pañcāṅga', '_source': 'Licchavi inscriptions'}
+
+
 # ---------------------------------------------------------------- build
 def main():
     recs = [json.loads(l) for l in open(D('records.jsonl'))]
@@ -299,6 +321,8 @@ def main():
     for k, r in bendall_records():
         byreel[k] = r
     for k, r in extra_records():
+        byreel[k] = r
+    for k, r in licchavi_records():
         byreel[k] = r
 
     ngmcp_dates = json.load(open(D('ngmcp_dates.json'))) if os.path.exists(D('ngmcp_dates.json')) else {}
@@ -350,12 +374,17 @@ def main():
         mss.append(ms)
 
         found = []  # name keys from the colophon reading, to skip duplicate catalogue-field persons
+        inscription = r.get('_source') == 'Licchavi inscriptions'
         for p in (o or {}).get('persons', []):
             roles = [x for x in p['roles'] if x not in ('author', 'commentator')]
             if not roles or not usable_name(p['name']):
                 continue
+            if inscription and set(roles) <= {'relative_only'}:
+                continue  # genealogies name remote ancestors: the inscription's date is not theirs
             kind = 'king' if set(roles) & {'king', 'queen'} else 'person'
-            key = name_key(p['name'], 'king' if kind == 'king' else '')
+            key = name_key(p['name'], 'king' if kind == 'king' else '', keep_suffix=inscription)
+            if inscription:  # Licchavi persons are not grouped with the (later) persons of manuscripts
+                key = 'lic:' + key
             if any(fold(t) == 'lala' for t in p['titles']) and not key.startswith('lala'):
                 key = 'lala' + key  # Opus puts lāla in titles: (lāla) Ratnākara = Lālaratnākara
             key = SAME_PERSON.get(key, key)
@@ -389,8 +418,8 @@ def main():
     for (kind, key) in [k for k in att if k[0] == 'person']:
         keep = []
         for a in att[(kind, key)]:
-            kk = name_key(a['name'], 'king')
-            if ('king', kk) in att and re.search(r'(malla|deva|[sś]āha|sāha)$', a['name'].lower().replace(' ', '')):
+            kk = ('lic:' if key.startswith('lic:') else '') + name_key(a['name'], 'king', keep_suffix=key.startswith('lic:'))
+            if ('king', kk) in att and re.search(r'(malla|deva|[sś]āha|sāha|varm[aā]n?|gupta)$', a['name'].lower().replace(' ', '')):
                 att[('king', kk)].append(a)
             else:
                 keep.append(a)

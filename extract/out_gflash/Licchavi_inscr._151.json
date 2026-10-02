@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Bhaktapur, Kuhmāle-ṭola",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "Royal edict granting privileges or favour to the residents of Mākhoduluṃ village",
+ "notes": "The stone is severely damaged. The name of the issuing king (bearing the standard epithet licchavīkulaketu, usually Śivadeva I) and the date portion are completely lost in lacunae.",
+ "_meta": {
+  "reel": "Licchavi inscr. 151",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 2326,
+  "out_tok": 1375
+ }
+}

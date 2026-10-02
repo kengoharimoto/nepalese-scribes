@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vāmanadevasya",
+   "name": "Vāmanadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhaṭṭāraka",
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭāraka-mahārāja-śrī-vāmanadevasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 460 jyeṣṭha-śukla-div-āṣṭamyām",
+  "era": "unspecified",
+  "year": "460",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "aṣṭamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Sāṃkhu",
+  "normalized": "Sankhu"
+ },
+ "purpose": "land grant for the temple/deity Vāmanasvāmin",
+ "notes": "",
+ "_meta": {
+  "reel": "Licchavi inscr. 36",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 1714,
+  "out_tok": 1349
+ }
+}

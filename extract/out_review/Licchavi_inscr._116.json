@@ -1,0 +1,95 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 Madhusūdanasvāmin: role 'beneficiary' removed (the text declares him equal to a pāñcālika, i.e. it gives him a status; it does not make him the grantee). Role kept as 'other'. 'svāmin' removed from titles because it is part of the personal name.",
+   "date.tithi given as 'dvitīyā' (2).",
+   "place: Navagṛha, the settlement that receives the privileges, added; find-spot kept as Deupāṭana, Kasaiṃ-ṭole.",
+   "notes expanded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paramabhaṭṭāraka-mahārājādhirāja-śrī-narendradevaḥ",
+   "name": "Narendradeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "paramabhaṭṭāraka",
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paramabhaṭṭāraka-mahārājādhirāja-śrī-narendradevaḥ kuśali ... samājñāpayati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "madhusūdana-svāmī",
+   "name": "Madhusūdanasvāmin",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Vṛjikarathyā",
+   "evidence": "vṛjikarathyā-nivāsī madhusūdana-svāmī pāñcālika-sāmānya iti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "daṇḍanāyaka-nṛpadevaḥ",
+   "name": "Nṛpadeva",
+   "roles": [
+    "dutaka",
+    "official"
+   ],
+   "titles": [
+    "daṇḍanāyaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "[dūta]kaśca daṇḍanāyaka-nṛpadevaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "[dūta]kaśca daṇḍanāyaka-nṛpadevaḥ"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "madhusūdana-svāmī pāñcālika-sāmānya iti"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 70 1 kārtika-śukla-dvitīy-āyām",
+  "era": "unspecified",
+  "year": "71",
+  "month": "Kārtika",
+  "paksa": "śukla",
+  "tithi": "dvitīyā (2)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Deupāṭana, Kasaiṃ-ṭole (find-spot); navagṛha (settlement granted the privileges)",
+  "normalized": "Deopatan"
+ },
+ "purpose": "Royal edict of Narendradeva granting Navagṛha its customary status (sthitimaryādā) and freedom from entry by cāṭabhaṭas. Serious matters that the pāñcālikas cannot settle are to be referred to the antarāsana. The edict also declares Madhusūdanasvāmin of Vṛjikarathyā equal to a pāñcālika, and confirms an earlier settlement recorded on a copper plate.",
+ "notes": "Lines 1–10 are worn away. Gnoli's readings of lines 13–28 differ considerably from this edition. The year is written with numerals '70 1' = 71 (Mānadeva era). Navagṛha is a settlement, not a person. 'Antarāsana' looks like an institution or body, not a person. Concordance: Gn LXVIII; DV 126; HJ 125; R. 119.",
+ "_meta": {
+  "reel": "Licchavi inscr. 116",
+  "model": "opus",
+  "cost_usd": 0.10530900000000001,
+  "secs": 15.8
+ }
+}

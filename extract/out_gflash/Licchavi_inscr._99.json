@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "licchavi[kula]ketur-bhaṭṭāraka-mahārāja-śrīdhruvadeva",
+   "name": "Dhruvadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "licchavikulaketu",
+    "bhaṭṭāraka",
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "Mānagṛha",
+   "evidence": "mānagṛhā - - - - - - - - - - - - - - - - - licchavi[kula]ketur-bhaṭṭāraka-mahārāja-śrīdhruvadeva",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "[śrījiṣṇuguptaḥ kuśalī]",
+   "name": "Jiṣṇugupta",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Kailāsakūṭabhavana",
+   "evidence": "[kailāsakūṭabha]vanād ... [śrījiṣṇuguptaḥ kuśalī]",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "yuvarāja-śrīviṣṇugupta",
+   "name": "Viṣṇugupta",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "yuvarāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtaka - - - - - yuvarāja-śrīviṣṇugupta iti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "mānagṛhā - - - - licchavi[kula]ketur-bhaṭṭāraka-mahārāja-śrīdhruvadeva - - - - yā sanniveśa vi- - - - - yitasu - sadanuvi - - - - - - [kailāsakūṭabha]vanād ... [śrījiṣṇuguptaḥ kuśalī]"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 40 9 [mā]gha-kṛṣṇa-dvādaśyām",
+  "era": "unspecified",
+  "year": "49",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "12",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Mālaṭāra",
+  "normalized": "Malitar"
+ },
+ "purpose": "Grant or favor concerning a water-conduit (prāṇālī) to the pāñcālī of Maggola village (maggolagrāmapāñcālikānām)",
+ "notes": "The stone inscription is severely damaged; the name of Jiṣṇugupta is restored from standard formulas of his joint edicts with Licchavi king Dhruvadeva. Gnoli reads the tithi as daśamyām instead of dvādaśyām.",
+ "_meta": {
+  "reel": "Licchavi inscr. 99",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 2335,
+  "out_tok": 1999
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Svayambhūnath",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "land grant for provisions (dhūpa, dīpa, upalepana, etc.) and transfer of merit (bauddhaṃ padam avāpnuyāt)",
+ "notes": "Donor's personal name is lost in the broken text (only 'mayā' preserved in line 2). No date survives.",
+ "_meta": {
+  "reel": "Licchavi inscr. 195",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 1528,
+  "out_tok": 872
+ }
+}

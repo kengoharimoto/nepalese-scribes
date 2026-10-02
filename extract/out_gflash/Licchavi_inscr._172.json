@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Kathmandu, Hanumānḍhoka",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "repair of a palace or shrine built by an earlier Licchavi king",
+ "notes": "Highly fragmentary inscription; mentions a structure or foundation made long ago by an ancient Licchavi king (cirantanaṃ licchavirāja-kāritaṃ) and neglected by previous retainers/guards (purātanair vvṛttibhaṭair upekṣitaṃ). No individual personal names or dates are preserved.",
+ "_meta": {
+  "reel": "Licchavi inscr. 172",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 1622,
+  "out_tok": 1728
+ }
+}

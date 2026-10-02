@@ -39,6 +39,7 @@ data = {'mss': mss, 'persons': persons, 'rels': rels, 'hist': [[d, e, n] for (d,
         'stats': {'files': sum(len(m['files']) for m in M if m.get('source', 'NGMCP') == 'NGMCP'),
                   'reels': sum(1 for m in M if m.get('source', 'NGMCP') == 'NGMCP'),
                   'bendall': sum(1 for m in M if m.get('source') == 'Bendall 1883'),
+                  'licchavi': sum(1 for m in M if m.get('source') == 'Licchavi inscriptions'),
                   'dated': sum(1 for m in M if m['date']),
                   'flash': nread['flash'] + nread['opus'], 'opus': nread['opus'], 'estimated': len(E),
                   'undated_named': sum(1 for m in M if not m['date'] and m['persons'])}}

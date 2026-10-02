@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Second reading: Opus checks and corrects the Gemini Flash extraction of a colophon (via `claude -p`).
-Usage: review.py review_list.jsonl firstdir outdir [--model opus] [--jobs 4] [--limit N] [--preamble FILE]"""
+Usage: review.py review_list.jsonl firstdir outdir [--model opus] [--jobs 4] [--limit N] [--preamble FILE] [--schema FILE]"""
 import json, subprocess, pathlib, argparse, concurrent.futures as cf, time, re, threading, datetime
 from zoneinfo import ZoneInfo
 
@@ -9,13 +9,14 @@ ap = argparse.ArgumentParser()
 ap.add_argument('records'); ap.add_argument('firstdir'); ap.add_argument('outdir')
 ap.add_argument('--model', default='opus'); ap.add_argument('--jobs', type=int, default=4)
 ap.add_argument('--limit', type=int, default=0)
+ap.add_argument('--schema', default='', help='JSON schema file (default: the colophon schema)')
 ap.add_argument('--preamble', default='', help='file whose text goes before the prompt (e.g. bendall_preamble.txt)')
 a = ap.parse_args()
 out = pathlib.Path(a.outdir); out.mkdir(parents=True, exist_ok=True)
 prompt = (HERE / 'review_prompt.txt').read_text()
 if a.preamble:
     prompt = pathlib.Path(a.preamble).read_text() + prompt
-schema = (HERE / 'review_schema.json').read_text()
+schema = (pathlib.Path(a.schema) if a.schema else HERE / 'review_schema.json').read_text()
 first = pathlib.Path(a.firstdir)
 
 

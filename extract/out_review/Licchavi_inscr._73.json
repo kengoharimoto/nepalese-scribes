@@ -1,0 +1,91 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date as_written now gives the surviving text of the last line: 'saṃvat - - - ... vārtta iti'.",
+   "Added p3 Bhāravi with low confidence: 'bhāravi-śramaṇa-sthāna' in the boundary description (l. 20) may name the place of a monk called Bhāravi.",
+   "Removed the non-standard title 'licchavikula-ketu' from Śivadeva; it is an epithet, and the dynasty is kept in affiliation.",
+   "Purpose and notes made more specific: Guṅdimaka village, the regulations of the koṭṭa, and the unnamed royal ancestors ('asmadgurubhiḥ').",
+   "Place: the find-spot is Changu Narayan; the village of the grant, Guṅdimaka, is noted separately."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "licchavikulaketur-bhaṭṭāraka-mahā-rāja-śrīśivadevaḥ",
+   "name": "Śivadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhaṭṭāraka",
+    "mahārāja"
+   ],
+   "affiliation": "Licchavi dynasty (licchavikulaketu)",
+   "residence": "Mānagṛha",
+   "evidence": "mānagṛhāt ... bhaṭṭāraka-mahārāja-śrīśivadevaḥ kuśalī ... samājñāpayati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī-sāmant-āṃśuvarmmaṇā",
+   "name": "Aṃśuvarman",
+   "roles": [
+    "official"
+   ],
+   "titles": [
+    "sāmanta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī-sāmant-āṃśuvarmmaṇā vijñāpitena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bhāravi-śramaṇa-sthāna",
+   "name": "Bhāravi",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "śramaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāravi-śramaṇa-sthāna-pūrvvato",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrī-sāmant-āṃśuvarmmaṇā vijñāpitena mayaitad"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat - - - (illegible) ... vārtta iti",
+  "era": "unspecified",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Chāṅgu Nārāyaṇa (find-spot); grant to Guṅdimaka-grāma",
+  "normalized": "Changu Narayan"
+ },
+ "purpose": "Royal edict (śilāpaṭṭakaśāsana) to the residents of Guṅdimaka village. It confirms their koṭṭa with full koṭṭa rights and exemption from cāṭas and bhaṭas, adds land exchanged near the Dakṣiṇa-rājakula and the Puṇḍi-rājakula, grants rights over charcoal, cakra and pine wood, and defines the boundaries. It was issued on the petition of Sāmanta Aṃśuvarman.",
+ "notes": "The edict was issued from Mānagṛha in the reign of Śivadeva I. The date line (l. 31) and any dūtaka are lost. The earlier kings who first granted the koṭṭa are referred to only as 'asmadgurubhiḥ' and are not named. 'bhāravi-śramaṇa-sthāna' is a boundary landmark: Bhāravi may be a monk's name, but the reading is uncertain (R. reads bhāravī-). The reading puṇḍi-/puṇḍri-/muṇḍri-rājakula is doubtful.",
+ "_meta": {
+  "reel": "Licchavi inscr. 73",
+  "model": "opus",
+  "cost_usd": 0.11923700000000001,
+  "secs": 17.4
+ }
+}

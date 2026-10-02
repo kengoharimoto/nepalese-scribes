@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī-mahāsāmant-āṃśuvarmā",
+   "name": "Aṃśuvarman",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahāsāmanta"
+   ],
+   "affiliation": "",
+   "residence": "Kailāsakūṭabhavana",
+   "evidence": "śrī-mahāsāmant-āṃśuvarmā-kuśalī joñjondiṅ-grāma-nivāsinaḥ ... samājñāpayati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "yuvarāj-odayadevaḥ",
+   "name": "Udayadeva",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "yuvarāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-ātra yuvarāj-odayadevaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "dūtakaś-c-ātra yuvarāj-odayadevaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "[saṃvat] - - - - - - - . āṣṭamyām",
+  "era": "unspecified",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "aṣṭamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "joñjondiṅ-grāma",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "edict granting relief (prohibition of the Liṅgval office entering and requisitioning draft animals) to the inhabitants of Joñjondiṅ village who worked on the Nīlīśālā canal",
+ "notes": "The date portion is damaged; only the tithi (āṣṭamyām) is preserved. Findspot is Gaihrīdhārā (Bhānsāhiti), north-eastern suburb of Kathmandu.",
+ "_meta": {
+  "reel": "Licchavi inscr. 93",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 2061,
+  "out_tok": 1746
+ }
+}

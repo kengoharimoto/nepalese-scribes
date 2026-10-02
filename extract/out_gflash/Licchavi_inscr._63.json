@@ -1,0 +1,89 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "[śiva]devaḥ",
+   "name": "Śivadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "licchaviketu",
+    "bhaṭṭāraka",
+    "mahārāja"
+   ],
+   "affiliation": "Licchavi",
+   "residence": "Mānagṛha",
+   "evidence": "bhaṭṭāraka-mahārāja-[śrī]-[śiva]devaḥ kuśalī ... samājñāpayati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī-mahāsā[ma]nt-āṃ[śu]varmmaṇā",
+   "name": "Aṃśuvarman",
+   "roles": [
+    "official"
+   ],
+   "titles": [
+    "mahāsāmanta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī-mahāsā[ma]nt-āṃ[śu]varmmaṇā vijñāpitena satā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vārtta-puttra-guṇa-candraḥ",
+   "name": "Guṇacandra",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "vārttāputra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-ātra vārtta-puttra-guṇa-candraḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrī-mahāsā[ma]nt-āṃ[śu]varmmaṇā vijñāpitena satā mayaitad-gauravād"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "dūtakaś-c-ātra vārtta-puttra-guṇa-candraḥ"
+  }
+ ],
+ "date": {
+  "as_written": "[saṃvat] 500 10 9 prathama-pauṣa-śukla-divā-dvādaśyām",
+  "era": "unspecified",
+  "year": "519",
+  "month": "prathama-pauṣa",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Satuṅgal",
+  "normalized": "Satungal"
+ },
+ "purpose": "Royal edict granting privileges (gathering wood, grass, and leaves) to the residents of Kāduṅ village on the request of Mahāsāmanta Aṃśuvarman",
+ "notes": "Issued from Mānagṛha to the residents of Kāduṅ-grāma, protecting them from harassment by the inhabitants of Pheraṅ-koṭṭa.",
+ "_meta": {
+  "reel": "Licchavi inscr. 63",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 2338,
+  "out_tok": 1936
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Kathmandu, Koṃbahāla Naghala śrīgha vihāra",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "land grant / allotment of piṇḍaka",
+ "notes": "Severely damaged fragmentary Licchavi inscription (DV 94). No royal names, officers, or personal names survive in the readable portion. Mentions Māthaṅgrāma (māthaṅ=grāma).",
+ "_meta": {
+  "reel": "Licchavi inscr. 174",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 1646,
+  "out_tok": 690
+ }
+}

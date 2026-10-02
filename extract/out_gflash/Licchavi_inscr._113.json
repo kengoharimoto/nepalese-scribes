@@ -1,0 +1,68 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭāraka-mahārāj-ādhirāja-śrī-narendradevaḥ",
+   "name": "Narendradeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhaṭṭāraka",
+    "mahārājādhirāja"
+   ],
+   "affiliation": "Licchavi",
+   "residence": "Kailāsakūṭabhavana",
+   "evidence": "bhaṭṭāraka-mahārāj-ādhirāja-śrī-narendradevaḥ kuśalī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "[kumārā]mātya-priyajīvah",
+   "name": "Priyajīva",
+   "roles": [
+    "dutaka",
+    "official"
+   ],
+   "titles": [
+    "kumārāmātya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-ātra [kumārā]mātya-priyajīvah",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "svayam-ājñā dūtakaś-c-ātra [kumārā]mātya-priyajīvah"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 67 pauṣa-śukla-pañcamyām",
+  "era": "unspecified",
+  "year": "67",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Lalitpur, old palace Luñjhya (Patan Palace)",
+  "normalized": "Patan"
+ },
+ "purpose": "Royal edict granting administrative and jurisdictional exemptions (non-entry of bhaṭṭa-adhikāra and māpcok-adhikāra, remission of pīṭaljādhikāra) to the inhabitants of Yūpagrāma-draṅga together with all its talas",
+ "notes": "Gnoli reads the date numerals as 60 9 (saṃvat 69).",
+ "_meta": {
+  "reel": "Licchavi inscr. 113",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 2927,
+  "out_tok": 1479
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī-yuvarāja-śrī-dharaguptaḥ",
+   "name": "Śrīdharagupta",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "yuvarāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-ātra śrī-yuvarāja-śrī-dharaguptaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 57 phālguna-śukla-saptamyāṃ",
+  "era": "unspecified",
+  "year": "57",
+  "month": "phālguna",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "kailāsakūṭabhavana",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "Royal edict (vyavasthā) regarding the legal status and property rights of remarried women administered by the Māpcoka office",
+ "notes": "The name of the issuing ruler in lines 1–8 is completely lost. Yuvarāja Śrīdharagupta acts as dūtaka.",
+ "_meta": {
+  "reel": "Licchavi inscr. 106",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 2724,
+  "out_tok": 1165
+ }
+}

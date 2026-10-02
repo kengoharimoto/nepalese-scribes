@@ -1,0 +1,100 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 Aṃśuvarman: role 'official' changed to 'other' (he is consulted, 'sākaṃ sampradhārya tadanumatena', and holds no office in the grant); added 'mahāsāmanta' to his titles; noted that 'mahā[rāj-ā]dhirāja' is an editorial restoration and doubtful",
+   "p3 dūtaka: name changed from 'Gomin' to '[…]gomin'. Gomin is the honorific element here, and the personal name is lost",
+   "p1: dropped the restored epithet 'licchavikulaketu' from titles (bracketed restoration)",
+   "relation p2→p1 changed from under_reign_of to other (consultation)",
+   "date: added Regmi's reading 'saṃvat 500 … śukla pakṣe' as a doubtful year and pakṣa",
+   "notes expanded"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "[ma]hārāja-śrī-śivadevaḥ",
+   "name": "Śivadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhaṭṭāraka",
+    "mahārāja"
+   ],
+   "affiliation": "Licchavi dynasty",
+   "residence": "Mānagṛha",
+   "evidence": "[ma]hārāja-śrī-śivadevaḥ kuśa[lī]",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mahā[rāj-ā]dhirāja-śrī-sāmant-ā[ṃśuvarmmaṇā]",
+   "name": "Aṃśuvarman",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "mahāsāmanta",
+    "sāmanta",
+    "mahārājādhirāja (restored, doubtful)"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī-sāmant-ā[ṃśuvarmmaṇā] sākaṃ sampradhārya-tadanumatena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "- - - - gomī",
+   "name": "[…]gomin",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "gomin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "[dūtaka]ś-c-ātra - - - - gomī",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "other",
+   "to": "p1",
+   "evidence": "sāmant-ā[ṃśuvarmmaṇā] sākaṃ sampradhārya-tadanumatena"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "[dūtaka]ś-c-ātra - - - - gomī"
+  }
+ ],
+ "date": {
+  "as_written": "[saṃvat] . . śrāvaṇa-māse - - - (R.: [saṃvat] 500 . . . śrāvaṇa-māse śukla pakṣe . . .)",
+  "era": "unspecified",
+  "year": "5[..] (R. only; doubtful)",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla (R. only)",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Banepā",
+  "normalized": "Banepa"
+ },
+ "purpose": "Edict of Śivadeva, issued after consulting Aṃśuvarman, that makes a village with koṭṭamaryādā (exempt from entry by cāṭa-bhaṭa) over to Dolāśikharasvāmin (Chāṅgu Nārāyaṇa), with its boundaries described",
+ "notes": "The year is damaged. Only Regmi reads '500' and 'śukla pakṣe', so treat both as doubtful. Aṃśuvarman's title 'mahārājādhirāja' rests on a bracketed restoration; in Śivadeva's edicts he is normally styled mahāsāmanta (the header gives 'Mahārājādhirāja-śrī-Sāmanta'). The dūtaka's personal name is lost: only the element 'gomī' (gomin) survives, and 'dūtaka' itself is restored. Dolāśikharasvāmin is a deity (Chāṅgu Nārāyaṇa, cf. No. 58) and is not listed as a person. The epithets bappapādānuddhyāta and licchavikulaketu in l. 2 are editorial restorations. The boundary places named are Candreśvara, Dakṣiṇeśvara, the Dhelantī river, Tekhuṃdul stream and the Goṭana field. Find-spot: Banepā.",
+ "_meta": {
+  "reel": "Licchavi inscr. 74",
+  "model": "opus",
+  "cost_usd": 0.18137999999999999,
+  "secs": 34.3
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījiṣṇugupte",
+   "name": "Jiṣṇugupta",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījiṣṇugupte mahīm",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ācāryo bhagavat pranardana",
+   "name": "Pranardana",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "ācārya",
+    "bhagavat"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ācāryo bhagavat pranardana iha śraddh-ānvitocīkarat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrījiṣṇugupte mahīm"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Deupāṭana",
+  "normalized": "Deupatan"
+ },
+ "purpose": "construction of an enclosure (āvaraṇa) for Śambhu (Śiva / Chaṇḍeśvara)",
+ "notes": "Undated two-line inscription in śārdūlavikrīḍita metre on the pedestal of the Chaṇḍeśvara image at Paśupatinath, dating to the reign of Jiṣṇugupta.",
+ "_meta": {
+  "reel": "Licchavi inscr. 111",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 1726,
+  "out_tok": 1182
+ }
+}

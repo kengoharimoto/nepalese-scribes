@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed p2 '[- -]ṭṭahavṛddhi': the editor reports only one name (Guhasoma); the genitive fragment '- - ṭṭahavṛddhiṣya' is too broken to count as a separate person and may be part of an epithet or patronymic of Guhasoma. It is now mentioned in the notes.",
+   "Guhasoma: roles reduced to 'donor', with confidence low–medium. 'kṛtiḥ' could also mean the work of the sculptor who made the image, so the commissioner role is not secure. The ambiguity is in the notes.",
+   "Place: as_written reduced to the find-spot, and the image is named in the notes.",
+   "Purpose rephrased."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "guhasoma",
+   "name": "Guhasoma",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "guhasoma - - ṭṭahavṛddhiṣya kṛtiḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Deupāṭana",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "dedication/making of an image (Jayavāgīśvarī image base): 'kṛtiḥ' of Guhasoma",
+ "notes": "A small fragment on the base of the Jayavāgīśvarī image, inside the temple at Deupāṭana (Deopatan, Kathmandu). Published in Kailash 1973, v. 1, p. 124, and as DV 156. The editor names only Guhasoma. The broken genitive '- - ṭṭahavṛddhiṣya' (perhaps for -vṛddhasya, or containing bhaṭṭa-?) cannot be resolved. It may be an epithet or kin term of Guhasoma, or a second name. 'kṛtiḥ' ('work of') could mean either the pious foundation by a donor or the work of the sculptor, so Guhasoma's role is uncertain. No date survives.",
+ "_meta": {
+  "reel": "Licchavi inscr. 157",
+  "model": "opus",
+  "cost_usd": 0.082789,
+  "secs": 17.4
+ }
+}

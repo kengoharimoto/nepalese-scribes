@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī-[mahāsāmant-āṃśuvarmā]",
+   "name": "Aṃśuvarman",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahāsāmanta"
+   ],
+   "affiliation": "",
+   "residence": "kailāsakūṭa-bhavana",
+   "evidence": "śrī-[mahāsāmant-āṃśuvarmā] kuśalī ... samājñāpayati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mahābalādhyakṣa-vindusvāmī",
+   "name": "Vindusvāmin",
+   "roles": [
+    "dutaka",
+    "official"
+   ],
+   "titles": [
+    "mahābalādhyakṣa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "[dū]tako’tra mahābalādhyakṣa-vindusvāmī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "[dū]tako’tra mahābalādhyakṣa-vindusvāmī"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 30 4 prathama-pauṣa-śukla-dvitīyāyām",
+  "era": "unspecified",
+  "year": "34",
+  "month": "prathama-pauṣa",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Sundhara, Patan",
+  "normalized": "Patan"
+ },
+ "purpose": "Grant of fields as an akṣayanīvī to the pāñcālikas of Māṭiṅgrāma for the repair and maintenance of the Māṭin temple (māṭin-devakula).",
+ "notes": "Issued from Kailāsakūṭabhavana. The stone inscription was discovered at Sundhara in Patan (Lalitpur) and later preserved in the National Museum.",
+ "_meta": {
+  "reel": "Licchavi inscr. 83",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 2526,
+  "out_tok": 1648
+ }
+}

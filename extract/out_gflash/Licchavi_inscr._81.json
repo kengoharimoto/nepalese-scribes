@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī-mahāsāmant-āṃśuvarm-ā",
+   "name": "Aṃśuvarman",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahāsāmanta",
+    "kalahābhimānin"
+   ],
+   "affiliation": "",
+   "residence": "kailāsakūṭabhavana",
+   "evidence": "śrī-mahāsāmant-āṃśuvarm-āku[śalī]",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 30 2 āṣāḍha-śukla-trayodaśyām",
+  "era": "unspecified",
+  "year": "32",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "kailāsakūṭa-bhavanād",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "maryādābandha fixing payments/donations (śrāvaṇikā) to deities, monasteries, and individuals",
+ "notes": "Edict issued by Mahāsāmanta Aṃśuvarman from Kailāsakūṭabhavana; he bears the epithet śrī-Kalahābhimānin in line 21.",
+ "_meta": {
+  "reel": "Licchavi inscr. 81",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 2606,
+  "out_tok": 1331
+ }
+}

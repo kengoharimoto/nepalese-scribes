@@ -1,0 +1,103 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭāraka-śrī-bhīmā[rjju]nadevas",
+   "name": "Bhīmārjunadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhaṭṭāraka",
+    "kulaketu"
+   ],
+   "affiliation": "",
+   "residence": "Mānagṛha",
+   "evidence": "mānagṛhāt-siṅghāsan-ādhyāsi-kulaketu-bhaṭṭāraka-śrī-bhīmā[rjju]nadevas",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī-jiṣṇuguptadevaḥ",
+   "name": "Jiṣṇugupta",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "deva"
+   ],
+   "affiliation": "somānvaya",
+   "residence": "Kailāsakūṭabhavana",
+   "evidence": "kailāsakūṭabhavanāt-somānvaya-bhūṣaṇo ... śrī-jiṣṇuguptadevaḥ kuśalī ... samājñāpayati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "mānagupta-gomi",
+   "name": "Mānaguptagomin",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "gomin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "asmajyeṣṭha-prapitāmaha-mānagupta-gomi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrī-viṣṇuguptaḥ",
+   "name": "Viṣṇugupta",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "yuvarāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaśc-ātra yuvarājaḥ śrī-viṣṇuguptaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "tatpuraḥsaraḥ"
+  },
+  {
+   "from": "p2",
+   "type": "other",
+   "to": "p3",
+   "evidence": "asmajyeṣṭha-prapitāmaha-mānagupta-gomi"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 50 7 kārti[ka] śukla-divādvitīyāyām",
+  "era": "unspecified",
+  "year": "57",
+  "month": "Kārtika",
+  "paksa": "śukla",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "theñco-grāma",
+  "normalized": "Thankot"
+ },
+ "purpose": "Renewal of land grant and tax relief (cailakara, mallakara, etc.) for the pond constructed by Jiṣṇugupta's great-grandfather Mānagupta Gomin",
+ "notes": "The inscription dates to Saṃvat 57 (Gnoli reads 59 in some places, but notes confirm Saṃvat 57). Bhīmārjunadeva resides at Mānagṛha, while de facto ruler Jiṣṇugupta issues the order from Kailāsakūṭabhavana.",
+ "_meta": {
+  "reel": "Licchavi inscr. 105",
+  "model": "gemini-flash-latest",
+  "secs": 6.8,
+  "in_tok": 3609,
+  "out_tok": 2210
+ }
+}

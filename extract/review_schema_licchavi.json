@@ -1,0 +1,250 @@
+{
+ "type": "object",
+ "additionalProperties": false,
+ "required": [
+  "review",
+  "persons",
+  "relations",
+  "date",
+  "place",
+  "purpose",
+  "notes"
+ ],
+ "properties": {
+  "review": {
+   "type": "object",
+   "additionalProperties": false,
+   "required": [
+    "verdict",
+    "changes"
+   ],
+   "properties": {
+    "verdict": {
+     "type": "string",
+     "enum": [
+      "confirmed",
+      "corrected"
+     ]
+    },
+    "changes": {
+     "type": "array",
+     "items": {
+      "type": "string"
+     }
+    }
+   }
+  },
+  "persons": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+     "pid",
+     "as_written",
+     "name",
+     "roles",
+     "titles",
+     "affiliation",
+     "residence",
+     "evidence",
+     "confidence"
+    ],
+    "properties": {
+     "pid": {
+      "type": "string",
+      "description": "local id: p1, p2, ..."
+     },
+     "as_written": {
+      "type": "string",
+      "description": "the name exactly as in the colophon, inflected form allowed"
+     },
+     "name": {
+      "type": "string",
+      "description": "the personal name in stem form, IAST, without honorifics (śrī, śrīśrī) and without caste/office titles; e.g. 'Ānandakara'"
+     },
+     "roles": {
+      "type": "array",
+      "items": {
+       "type": "string",
+       "enum": [
+        "scribe",
+        "commissioner",
+        "donor",
+        "owner",
+        "beneficiary",
+        "king",
+        "queen",
+        "minister",
+        "governor",
+        "teacher",
+        "pupil",
+        "relative_only",
+        "author",
+        "commentator",
+        "corrector",
+        "reader",
+        "dutaka",
+        "official",
+        "engraver",
+        "composer",
+        "recipient",
+        "other"
+       ]
+      },
+      "description": "role(s) of the person in this inscription (or colophon); relative_only = named only as kin of another person"
+     },
+     "titles": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      },
+      "description": "titles, caste or office names attached to the person: ṭhakkura, vajrācārya, śākyabhikṣu, daivajña, upādhyāya, karmācārya, rājopādhyāya, bhāro, paṇḍita, kāyastha, mahāpātra, etc."
+     },
+     "affiliation": {
+      "type": "string",
+      "description": "vihāra, monastery, guṭhi, lineage, gotra, sampradāya, if stated"
+     },
+     "residence": {
+      "type": "string",
+      "description": "where the person lives/belongs, if stated"
+     },
+     "evidence": {
+      "type": "string",
+      "description": "the shortest colophon substring supporting the roles"
+     },
+     "confidence": {
+      "type": "string",
+      "enum": [
+       "high",
+       "medium",
+       "low"
+      ]
+     }
+    }
+   }
+  },
+  "relations": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+     "from",
+     "type",
+     "to",
+     "evidence"
+    ],
+    "properties": {
+     "from": {
+      "type": "string"
+     },
+     "type": {
+      "type": "string",
+      "enum": [
+       "son_of",
+       "daughter_of",
+       "grandson_of",
+       "brother_of",
+       "wife_of",
+       "husband_of",
+       "pupil_of",
+       "servant_of",
+       "wrote_for",
+       "commissioned_from",
+       "under_reign_of",
+       "other"
+      ]
+     },
+     "to": {
+      "type": "string"
+     },
+     "evidence": {
+      "type": "string"
+     }
+    }
+   }
+  },
+  "date": {
+   "type": "object",
+   "additionalProperties": false,
+   "required": [
+    "as_written",
+    "era",
+    "year",
+    "month",
+    "paksa",
+    "tithi",
+    "weekday",
+    "nakshatra_yoga",
+    "ce_approx"
+   ],
+   "properties": {
+    "as_written": {
+     "type": "string"
+    },
+    "era": {
+     "type": "string",
+     "enum": [
+      "NS",
+      "VS",
+      "ŚS",
+      "LS",
+      "Kali",
+      "regnal",
+      "unspecified",
+      "none"
+     ]
+    },
+    "year": {
+     "type": "string"
+    },
+    "month": {
+     "type": "string"
+    },
+    "paksa": {
+     "type": "string"
+    },
+    "tithi": {
+     "type": "string"
+    },
+    "weekday": {
+     "type": "string"
+    },
+    "nakshatra_yoga": {
+     "type": "string"
+    },
+    "ce_approx": {
+     "type": "string",
+     "description": "approximate CE year; empty if the era cannot be determined"
+    }
+   }
+  },
+  "place": {
+   "type": "object",
+   "additionalProperties": false,
+   "required": [
+    "as_written",
+    "normalized"
+   ],
+   "properties": {
+    "as_written": {
+     "type": "string",
+     "description": "place of copying as written, empty if none"
+    },
+    "normalized": {
+     "type": "string",
+     "description": "modern identification if certain: Kathmandu, Patan, Bhaktapur, Vārāṇasī, ...; else empty"
+    }
+   }
+  },
+  "purpose": {
+   "type": "string",
+   "description": "svārtha / parārtha / for so-and-so / merit transfer etc., short; empty if none"
+  },
+  "notes": {
+   "type": "string",
+   "description": "anything doubtful: corrupt names, conflicts with the catalogue fields, etc."
+  }
+ }
+}

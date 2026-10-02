@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "brāhmaṇapuṇyagominā",
+   "name": "Puṇyagomin",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "brāhmaṇapuṇyagominā svapuṇy-āpyāyanāya pārthiva-śilā sthāpitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 452",
+  "era": "unspecified",
+  "year": "452",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Deupāṭana, ārya-ghāṭa",
+  "normalized": "Deopatan"
+ },
+ "purpose": "erection of a pārthiva-śilā with an endowment of grain for the increase of one's own merit (svapuṇyāpyāyanāya)",
+ "notes": "The name of the sarvadaṇḍanāyaka whose feet Puṇyagomin meditated upon is lost in the lacuna preceding the title.",
+ "_meta": {
+  "reel": "Licchavi inscr. 29",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 1679,
+  "out_tok": 1402
+ }
+}

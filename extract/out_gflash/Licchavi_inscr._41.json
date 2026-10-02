@@ -1,0 +1,47 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāpratihāra-sarvvadaṇḍanāyaka-[bhauma guptena",
+   "name": "Bhaumagupta",
+   "roles": [
+    "official",
+    "dutaka"
+   ],
+   "titles": [
+    "mahāpratihāra",
+    "sarvvadaṇḍanāyaka",
+    "mahāsarvvadaṇḍanāyaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāpratihāra-sarvvadaṇḍanāyaka-[bhauma guptena vijñāpitena mayā ... [mahā]pratihāra-mahāsarvvadaṇḍanāya[ka] [bhau]maguptaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 479 vaiśākh-māsa-kṛṣṇa-pakṣe tithau dvādaśyām",
+  "era": "unspecified",
+  "year": "479",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Pharping Kochhutol",
+  "normalized": "Pharping"
+ },
+ "purpose": "Land grant/edict (prasādaśilāpaṭṭaka-śāsana)",
+ "notes": "The issuing king's name is lost in the lacuna of the beginning lines ('mayā' refers to the king). Bhaumagupta is mentioned first as petitioner (vijñāpitena) and at the end probably as dūtaka.",
+ "_meta": {
+  "reel": "Licchavi inscr. 41",
+  "model": "gemini-flash-latest",
+  "secs": 2.2,
+  "in_tok": 2198,
+  "out_tok": 473
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīpaṃkeśa-",
+   "name": "Paṃkeśa",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpaṃkeśa-",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 187 māghaśukladivā 5",
+  "era": "unspecified",
+  "year": "187",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Su-bahāla",
+  "normalized": "Patan"
+ },
+ "purpose": "foundation of a water conduit or merit reservoir (puṇyādhāra)",
+ "notes": "Fragmentary inscription. It is uncertain whether śrīpaṃkeśa is a personal name (e.g. donor) or refers to a deity/religious installation.",
+ "_meta": {
+  "reel": "Licchavi inscr. 143",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 1409,
+  "out_tok": 1347
+ }
+}

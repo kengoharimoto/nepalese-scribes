@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rā . . . . . .",
+   "name": "Rā...",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaścātra rā . . . . . .",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 144",
+  "era": "unspecified",
+  "year": "144",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Lalitpur, Maṅgal-bajāra",
+  "normalized": "Patan"
+ },
+ "purpose": "grant (damaged)",
+ "notes": "Severely damaged inscription; the name/title of the dūtaka is lost except for the initial syllable 'rā'.",
+ "_meta": {
+  "reel": "Licchavi inscr. 136",
+  "model": "gemini-flash-latest",
+  "secs": 3.0,
+  "in_tok": 1456,
+  "out_tok": 650
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "-na-gomī",
+   "name": "…nagomin",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "gomin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "na-gomīti",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "savat 500 10 5 phālguna-śukla-divā-tra[yodaśyām]",
+  "era": "unspecified",
+  "year": "515",
+  "month": "phālguna",
+  "paksa": "śukla",
+  "tithi": "divā-tra[yodaśī]",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Cyāsala-ṭola",
+  "normalized": "Patan"
+ },
+ "purpose": "land grant",
+ "notes": "Severely damaged inscription. The name ending in '-na-gomīti' right before the date formula likely preserves the dūtaka's name with the title gomin. Regarding the tithi, the main text reconstructs 'divā-tra[yodaśyām]' whereas Gnoli read 'paṃ[camyām]'.",
+ "_meta": {
+  "reel": "Licchavi inscr. 57",
+  "model": "gemini-flash-latest",
+  "secs": 6.7,
+  "in_tok": 2176,
+  "out_tok": 1521
+ }
+}

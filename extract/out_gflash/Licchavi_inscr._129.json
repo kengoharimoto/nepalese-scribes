@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paramabhaṭṭāraka-mahārājādhirāja-śrī-śivadevaḥ",
+   "name": "Śivadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "paramabhaṭṭāraka",
+    "mahārājādhirāja",
+    "licchavikula-ketu"
+   ],
+   "affiliation": "Licchavi",
+   "residence": "Kailāsakūṭabhavana",
+   "evidence": "paramabhaṭṭāraka-mahārājādhirāja-śrī-śivadevaḥ kuśalī nepāl-āntarvarttinaḥ sarvādhikaraṇānām-asmat-pāda-prasād-opajīvino’nyāṃś-ca yathārhaṅ-kuśalam-abhidhāya-samājñāpayati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kṣemajīvena",
+   "name": "Kṣemajīva",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṣemajīvena-vijñāpitair-asmābhiḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rājaputra-jayadevaḥ",
+   "name": "Jayadeva",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "rājaputra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-ātra rājaputra-jayadevaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "svayam-ājñā dūtakaś-c-ātra rājaputra-jayadevaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 121 bhādrapada-śukla-pañcamyām",
+  "era": "unspecified",
+  "year": "121",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "bhṛṅgāreśvaradevakula",
+  "normalized": "Lalitpur"
+ },
+ "purpose": "Royal edict granting water tank (jalāśaya) and canal/irrigation conduit (tilamaka, praṇālī) to the Bhṛṅgāreśvara temple and the local pāñcālikas upon petition by Kṣemajīva",
+ "notes": "Gnoli reads the date as Saṃvat 125, while Dhanavajra Vajrācārya reads 121. Issued from Kailāsakūṭabhavana.",
+ "_meta": {
+  "reel": "Licchavi inscr. 129",
+  "model": "gemini-flash-latest",
+  "secs": 7.6,
+  "in_tok": 3312,
+  "out_tok": 2090
+ }
+}

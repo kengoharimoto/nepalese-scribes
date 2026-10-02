@@ -1,0 +1,90 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭāraka-mahārāja-śrī-bhīmārjunadevas",
+   "name": "Bhīmārjunadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "licchavikulaketu",
+    "bhaṭṭāraka",
+    "mahārāja"
+   ],
+   "affiliation": "Licchavi",
+   "residence": "Mānagṛha",
+   "evidence": "bhaṭṭāraka-mahārāja-śrī-bhīmārjunadevas-tatsahitaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī-viṣṇuguptaḥ",
+   "name": "Viṣṇugupta",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhagavatpaśupatibhaṭṭārakapādānugṛhīta",
+    "bappapādānudhyāta"
+   ],
+   "affiliation": "",
+   "residence": "Kailāsakūṭabhavana",
+   "evidence": "śrī-viṣṇuguptaḥ kuśalī bhaviṣyato nepāla-[bhūbhu]jo yathārhaṃ pratimāny-ānudarśayaty",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrī-yuvarāja-śrī-dharaguptaḥ",
+   "name": "Śrīdharagupta",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "yuvarāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-ātra śrī-yuvarāja-śrī-dharaguptaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "dūtakaś-c-ātra śrī-yuvarāja-śrī-dharaguptaḥ"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "dūtakaś-c-ātra śrī-yuvarāja-śrī-dharaguptaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 60 5 phālguna-śukla-dvitīyāyām",
+  "era": "unspecified",
+  "year": "65",
+  "month": "phālguna",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "bhṛṅgāra-grāma",
+  "normalized": "Sunaguthi, Lalitpur"
+ },
+ "purpose": "Grant of privileges and exemptions from forced labor (viṣṭi) to the pāñcālikas of Bhṛṅgāragrāma for dragging a stone for an image",
+ "notes": "Jointly issued by Bhaṭṭāraka Mahārāja Bhīmārjunadeva residing at Mānagṛha and the de facto ruler Viṣṇugupta residing at Kailāsakūṭabhavana.",
+ "_meta": {
+  "reel": "Licchavi inscr. 108",
+  "model": "gemini-flash-latest",
+  "secs": 7.9,
+  "in_tok": 2932,
+  "out_tok": 2126
+ }
+}

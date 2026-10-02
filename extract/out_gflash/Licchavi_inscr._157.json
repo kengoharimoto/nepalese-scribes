@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "guhasoma",
+   "name": "Guhasoma",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "guhasoma - - ṭṭahavṛddhiṣya kṛtiḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "- - ṭṭahavṛddhiṣya",
+   "name": "Ṭṭahavṛddhi",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ṭṭahavṛddhiṣya kṛtiḥ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Deupāṭana, Jayavāgīśvarī",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "making/dedication of an image (kṛtiḥ)",
+ "notes": "Fragmentary inscription on the base of an image inside the Jayavāgīśvarī temple. Due to the lacuna, it is uncertain whether Guhasoma and [- -]ṭṭahavṛddhi are two separate individuals (e.g. father and son) or parts of a single person's name and title.",
+ "_meta": {
+  "reel": "Licchavi inscr. 157",
+  "model": "gemini-flash-latest",
+  "secs": 11.5,
+  "in_tok": 1412,
+  "out_tok": 2785
+ }
+}

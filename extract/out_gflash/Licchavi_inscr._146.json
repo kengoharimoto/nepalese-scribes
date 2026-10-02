@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhāgyacandreṇa",
+   "name": "Bhāgyacandra",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgyacandreṇa sthāpitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 242 caitraśukladivāsaptamyām",
+  "era": "unspecified",
+  "year": "242",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Hāṃḍigāuṃ",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "sthāpitam (foundation/installation by Bhāgyacandra)",
+ "notes": "",
+ "_meta": {
+  "reel": "Licchavi inscr. 146",
+  "model": "gemini-flash-latest",
+  "secs": 2.8,
+  "in_tok": 1427,
+  "out_tok": 652
+ }
+}

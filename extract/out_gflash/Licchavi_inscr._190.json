@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Tyāgala-ṭola",
+  "normalized": "Patan"
+ },
+ "purpose": "Buddhist creed (Pratītyasamutpāda-gāthā) inscribed on a stūpa",
+ "notes": "The fragmentary inscription contains only the Buddhist Pratītyasamutpāda formula ('[ye dharmā hetu]prabhavā hetu[ṃ] teṣāṃ tathāgato hy ava[dat / ... ] evaṃvādī mahāśramaṇaḥ'). No historical persons or dates are preserved.",
+ "_meta": {
+  "reel": "Licchavi inscr. 190",
+  "model": "gemini-flash-latest",
+  "secs": 2.9,
+  "in_tok": 1434,
+  "out_tok": 506
+ }
+}

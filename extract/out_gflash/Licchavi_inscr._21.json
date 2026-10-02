@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājaparameśvaraśrīmānadeva",
+   "name": "Mānadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājaparameśvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājaparameśvaraśrīmānadevarājye",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "āṣāḍhakṛṣṇasaptamyām",
+  "era": "unspecified",
+  "year": "",
+  "month": "Āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "saptamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Tānā-bahāla",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "pious act/merit (puṇya svasmṛti kṛtyaye) recorded on a Nārāyaṇa image pedestal",
+ "notes": "The inscription is fragmentary; the year is missing. The donor's name in lines 2–3 is illegible or broken.",
+ "_meta": {
+  "reel": "Licchavi inscr. 21",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 1531,
+  "out_tok": 950
+ }
+}

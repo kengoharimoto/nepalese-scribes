@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmānadeva-nṛpateś",
+   "name": "Mānadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmānadeva-nṛpateś=caraṇa-prasādāt",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jayalambha-nāmnā",
+   "name": "Jayalambha",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jayalambha-nāmnā | liṅgañ-jayeśvaram-iti prathitaṃ nṛloke saṃsthāpitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīmānadeva-nṛpateś=caraṇa-prasādāt"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 413 ... jyaiṣṭhaśukla-divā 11",
+  "era": "unspecified",
+  "year": "413",
+  "month": "jyaiṣṭha",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Deupāṭana, Paśupati-nath",
+  "normalized": "Deopatan"
+ },
+ "purpose": "installation of a liṅga named Jayeśvara and endowment of land for its worship for the welfare of the world including the king and for increasing the donor's own merit",
+ "notes": "Jayalambha was read as Jayavarmma by Gnoli and earlier scholars due to damage on the stone.",
+ "_meta": {
+  "reel": "Licchavi inscr. 12",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 2013,
+  "out_tok": 1179
+ }
+}

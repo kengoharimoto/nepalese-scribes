@@ -1,0 +1,47 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "narendradevaḥ",
+   "name": "Narendradeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "paramamāheśvara",
+    "paramabhaṭṭāraka",
+    "mahārājādhirāja",
+    "licchavikulaketu"
+   ],
+   "affiliation": "",
+   "residence": "bhadrādhivāsa-bhavana",
+   "evidence": "paramabhaṭṭāraka-mahārājādhirāja- [śrī] narendradevaḥ kuśalī ... samājñāpayati",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat [10]3 jyaiṣṭha-[śu]kla-saptamyām",
+  "era": "unspecified",
+  "year": "103",
+  "month": "jyaiṣṭha",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Lalitpur, Yāṅga-bahāla",
+  "normalized": "Patan"
+ },
+ "purpose": "Grant of Gullaṃtaṅga village as an agrahāra with immunities (including labor service for conduit maintenance and transfer of fines) to the āryabhikṣusaṅgha of Śivadeva-vihāra for the upkeep of water conduits (mahāpraṇālī)",
+ "notes": "Issued from the Bhadrādhivāsa palace. No dūtaka is named before the date line. Vihāra names mentioned in defining boundary markers (Śrī-Mānadeva-vihāra, Kharjūrikā-vihāra, Madhyama-vihāra, Abhayaruci-vihāra, Vārta-Kalyāṇagupta-vihāra, Caturbhālaṭasana-vihāra, Śrīrāja-vihāra) and the beneficiary Śivadeva-vihāra are institutions/monasteries and not listed as individual persons.",
+ "_meta": {
+  "reel": "Licchavi inscr. 124",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 3614,
+  "out_tok": 1614
+ }
+}

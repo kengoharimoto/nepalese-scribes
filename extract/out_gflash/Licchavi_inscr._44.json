@@ -1,0 +1,102 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭā[raka-mahārāja]-śrī-gaṇadevaḥ",
+   "name": "Gaṇadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhaṭṭāraka",
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "Mānagṛha",
+   "evidence": "bhaṭṭā[raka-mahārāja]-śrī-gaṇadevaḥ kuśalī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sarvvadaṇḍanāyaka-mahāpratihāra-śrī-bhaumagupta-",
+   "name": "Bhaumagupta",
+   "roles": [
+    "official"
+   ],
+   "titles": [
+    "sarvadaṇḍanāyaka",
+    "mahāpratīhāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sarvvadaṇḍanāyaka-mahāpratihāra-śrī-bhaumagupta-vijñāpitena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "babbhruvarmā",
+   "name": "Babbhruvarman",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-āttra babbhruvarmā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "prasāda-gupta-vārtte",
+   "name": "Prasādagupta",
+   "roles": [
+    "official"
+   ],
+   "titles": [
+    "vārtta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "brahmuṅ prasāda-gupta-vārtte vyavaharat-īti",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrī-bhaumagupta-vijñāpitena"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "dūtakaś-c-āttra babbhruvarmā"
+  }
+ ],
+ "date": {
+  "as_written": "śrāvaṇa-śukla-pratipadi 1 saṃvat 482",
+  "era": "unspecified",
+  "year": "482",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "pratipad 1",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "śītāṭikā-tale bu - - ṅ-grāme",
+  "normalized": "Balambu"
+ },
+ "purpose": "Royal edict (sthiti-paṭṭaka) issued at the petition of Mahāpratīhāra Bhaumagupta granting the villagers exemption from entry by four adhikaraṇas (Kūthera, Śullya, Liṅgvala, and Māpcoka) even for five crimes (pañcāparādha).",
+ "notes": "Gnoli reads the dūtaka's name as Vastravarmā; here read as Babbhruvarmā.",
+ "_meta": {
+  "reel": "Licchavi inscr. 44",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 2159,
+  "out_tok": 2157
+ }
+}

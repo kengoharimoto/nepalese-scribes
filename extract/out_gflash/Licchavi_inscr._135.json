@@ -1,0 +1,60 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahārājādhirāja-parameśvara-śrī-jayadevaḥ",
+   "name": "Jayadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "parameśvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājādhirāja-parameśvara-śrī-jayadevaḥ kuśalī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaṭṭāraka-śrī-vijayadevaḥ",
+   "name": "Vijayadeva",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "bhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtako ’py-atra bhaṭṭāraka-śrī-vijayadevaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 137 jyeṣṭha-śukla-pañcamyām",
+  "era": "unspecified",
+  "year": "137",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Cyāsala-ṭola",
+  "normalized": "Patan"
+ },
+ "purpose": "Royal edict granting koṭṭamaryādā within the prāsāda-maṇḍala",
+ "notes": "Found at the courtyard of the Nayohiti water conduit in Chyasaltol, Patan. Lines 1–11 are largely lost.",
+ "_meta": {
+  "reel": "Licchavi inscr. 135",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 3075,
+  "out_tok": 1404
+ }
+}

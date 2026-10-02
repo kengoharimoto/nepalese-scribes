@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vipravarmma-gomī",
+   "name": "Vipravarman",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "gomin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś cātra vipravarmma-gomī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 500 10 9 - - śukla-divā daśamyām",
+  "era": "unspecified",
+  "year": "519",
+  "month": "",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Tokha",
+  "normalized": "Tokha"
+ },
+ "purpose": "royal edict / land grant detailing boundaries (tilamaka)",
+ "notes": "Lines 1–6 are worn away and illegible; the issuing king (likely Śivadeva I from Mānagṛha) is lost. The date preserves year 519, śuklapakṣa, tithi daśamī (10), though the header notes śukla 12 and prathama pauṣa based on a parallel inscription.",
+ "_meta": {
+  "reel": "Licchavi inscr. 64",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 3271,
+  "out_tok": 1523
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājaputra-jayadevaḥ",
+   "name": "Jayadeva",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "rājaputra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-ātra rājaputra-jayadevaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ[vat] - - - āśvayuje kṛṣṇa-ṣaṣṭhyāṃ",
+  "era": "unspecified",
+  "year": "",
+  "month": "āśvayuja",
+  "paksa": "kṛṣṇa",
+  "tithi": "ṣaṣṭhī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Thimi",
+  "normalized": "Thimi"
+ },
+ "purpose": "Royal edict granting exemptions and regulating taxes and forced labor (viṣṭi)",
+ "notes": "The upper part of the inscription containing the king's name and the year of the date is broken away. The editor and Gnoli attribute it to the reign of Śivadeva II because Rājaputra Jayadeva (later Jayadeva II) acts as dūtaka.",
+ "_meta": {
+  "reel": "Licchavi inscr. 132",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 2442,
+  "out_tok": 997
+ }
+}

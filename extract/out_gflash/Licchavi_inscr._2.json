@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "naravarmmanāmnā",
+   "name": "Naravarman",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "bhṛtya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhṛtyena bhaktimahatā naravarmmanāmnā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 388 jyeṣṭhamāse śukladiva 14",
+  "era": "unspecified",
+  "year": "388",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "14",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Lājiṃ-pāṭa",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "installation of a Śiva liṅga (Śubhavṛddhiliṅga)",
+ "notes": "The inscription records the foundation of a liṅga by Naravarman by the order of his sovereign (tasyājñayā), who is identified historically as Mānadeva I, though the king's personal name is not preserved in the surviving text.",
+ "_meta": {
+  "reel": "Licchavi inscr. 2",
+  "model": "gemini-flash-latest",
+  "secs": 8.3,
+  "in_tok": 1767,
+  "out_tok": 1250
+ }
+}

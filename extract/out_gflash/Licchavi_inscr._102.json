@@ -1,0 +1,140 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdhruvadeva",
+   "name": "Dhruvadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "licchavikulaketu",
+    "bhaṭṭāraka",
+    "mahārāja"
+   ],
+   "affiliation": "Licchavi dynasty",
+   "residence": "Mānagṛha",
+   "evidence": "licchavikulaketu-bhaṭṭāraka-mahārāja-śrīdhruvadeva-purassaraḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī-jiṣṇuguptaḥ",
+   "name": "Jiṣṇugupta",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Kailāsakūṭabhavana",
+   "evidence": "kailāsakuṭabhavanād ... śrī-jiṣṇuguptaḥ kuśalī ... samājñāpayati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrī-vasurāja",
+   "name": "Vasurāja",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭāraka",
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭāraka-mahārāja-śrī-vasurāja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrī-mahīdeva",
+   "name": "Mahīdeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī-mahīdeva",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrī-mānadeva",
+   "name": "Mānadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī-mānadeva",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "śrī-gaṇadeva",
+   "name": "Gaṇadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī-gaṇadeva",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "śrī-bhūmagupta",
+   "name": "Bhūmagupta",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "asmat-pitāmaha-śrī-bhūmagupta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīdhruvadeva-purassaraḥ"
+  },
+  {
+   "from": "p2",
+   "type": "grandson_of",
+   "to": "p7",
+   "evidence": "asmat-pitāmaha-śrī-bhūmagupta"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "nuppunna-draṅga",
+  "normalized": "Kevalpur, Dhading"
+ },
+ "purpose": "Confirmation charter (anumati-śāsana) of previous royal grants and tax remissions for the inhabitants of Nuppunna-draṅga, and funds for the kāraṇapūjā of Nārāyaṇasvāmin",
+ "notes": "The lower portion containing the date and dūtaka is completely broken and lost.",
+ "_meta": {
+  "reel": "Licchavi inscr. 102",
+  "model": "gemini-flash-latest",
+  "secs": 9.5,
+  "in_tok": 2818,
+  "out_tok": 2809
+ }
+}

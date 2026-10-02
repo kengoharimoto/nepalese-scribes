@@ -1,0 +1,92 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "[bhaṭṭāraka-mahā]rāja-śrī-śivadevaḥ",
+   "name": "Śivadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhaṭṭāraka",
+    "mahārāja",
+    "licchavikulaketu"
+   ],
+   "affiliation": "Licchavi",
+   "residence": "Mānagṛha",
+   "evidence": "licchavikulaketu-r-[bhaṭṭāraka-mahā]rāja-śrī-śivadevaḥ kuśalī thaṃtuṃrī-draṅge",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaumagupta-",
+   "name": "Bhaumagupta",
+   "roles": [
+    "official",
+    "minister"
+   ],
+   "titles": [
+    "sarvadaṇḍanāyaka",
+    "mahāpratīhāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sarvvadaṇḍanāyaka-mahāpratīhāra-bhaumagupta-vijñāpitena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "kula-pravīra",
+   "name": "Kulapravīra",
+   "roles": [
+    "dutaka",
+    "official"
+   ],
+   "titles": [
+    "mahābalādhyakṣa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-ātra mahābalāddhyakṣa kula-pravīra iti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "sarvvadaṇḍanāyaka-mahāpratīhāra-bhaumagupta-vijñāpitena mayā śilāpaṭṭakena prasādaḥ kṛta"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "dūtakaś-c-ātra mahābalāddhyakṣa kula-pravīra iti"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 512 jyeṣṭha-śukla-daśamyām",
+  "era": "unspecified",
+  "year": "512",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "mānagṛhād",
+  "normalized": "Mānagṛha"
+ },
+ "purpose": "Royal charter confirming and fixing the Mallakara tax limit (not exceeding one kārṣāpaṇa) for the inhabitants of Thaṃtuṃrī-draṅga at the petition of Bhaumagupta.",
+ "notes": "Found at Viṣṇupādukā hill near Budhanilakantha. The inscription is dated in the unspecified Licchavi era 512.",
+ "_meta": {
+  "reel": "Licchavi inscr. 56",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 2519,
+  "out_tok": 1842
+ }
+}

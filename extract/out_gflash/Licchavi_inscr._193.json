@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Phuṭuṅ",
+  "normalized": "Phutung"
+ },
+ "purpose": "",
+ "notes": "Extremely fragmentary inscription preserving only the single word 'dharmagurubhi[ḥ]', with no personal names, dates, or context.",
+ "_meta": {
+  "reel": "Licchavi inscr. 193",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 1331,
+  "out_tok": 704
+ }
+}

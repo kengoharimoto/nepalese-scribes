@@ -1,0 +1,72 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Persons and relation confirmed: the king's name is lost ([...]deva, low confidence); Nālavarman is the donor, at medium confidence.",
+   "Date: kept dvitīyā as the tithi of 'vaiśākha-śukla-diva(ā) ... dvitīyā'. The notes now say that 'saptamyām' before the royal title probably belongs to a lost earlier clause and is not this date's tithi.",
+   "Notes now record the doubtful year symbol (DV reads 109), R.'s variant readings, and that 'mahārājādhirāja' is partly restored."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭāraka-mahārā[jādhirāja] . . . devasya",
+   "name": "[...]deva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhaṭṭāraka",
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭāraka-mahārā[jādhirāja] . . . devasya rājyam",
+   "confidence": "low"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nāla-varmaṇā",
+   "name": "Nālavarman",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nāla-varmaṇā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "bhaṭṭāraka-mahārā[jādhirāja] . . . devasya rājyam ... nāla-varmaṇā"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 109 vaiśākha-śukla-diva . . . dvitīyā",
+  "era": "unspecified",
+  "year": "109",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Lalitpur, Rātā Machindra-nātha temple",
+  "normalized": "Patan"
+ },
+ "purpose": "Records a construction (object lost) and a land grant by Nālavarman",
+ "notes": "The stone is badly damaged. The king's name, ending in -deva, is lost, and 'mahārājādhirāja' is partly restored. The year symbol is unclear: DV reads 109. 'saptamyām' at the start of line 1 comes before the royal formula and probably belongs to a lost clause. The tithi of the dated formula is taken as dvitīyā ('diva...' = divā/divasa). R. does not read '-diva'. Where this edition reads 'nāla-varmaṇā', R. reads 'saṃsṛṣṭvā nāla-varmaṇā', and in line 3 R. has 'grāma pradeśa', which suggests a land grant in a village. The amounts in mānikā (9 ... mānikātrayam) are probably grain measures from the grant.",
+ "_meta": {
+  "reel": "Licchavi inscr. 126",
+  "model": "opus",
+  "cost_usd": 0.095153,
+  "secs": 18.3
+ }
+}

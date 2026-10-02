@@ -1,0 +1,98 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Jayasundarī: roles changed from beneficiary+relative_only to recipient. The editor describes the grant as made in her favour, and she acts in the inscription, so relative_only does not apply. Her name stands in the instrumental, so she was probably also the petitioner; this is now in the notes.",
+   "Ravigupta: as_written now gives Regmi's reading 'mahāpratihāra-ravi[guptaḥ]', with a note that the main text breaks off before the name.",
+   "Relation p2→p1 evidence narrowed to her role as the king's sister ('priya-bhaginyā').",
+   "Place: normalized changed from Kathmandu to Sitapaila (Kathmandu); the find-spot is a village about 2 miles west of the city.",
+   "Notes: the unexplained 'Bhatt.' is no longer expanded to Bhattasali; the conflicting year readings are recorded; the unnamed father 'bappa-bhaṭṭāraka' is left out as a person."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "[ma]hārāja-śrī-vasantadevaḥ",
+   "name": "Vasantadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "[ma]hārāja-śrī-vasantadevaḥ kuśalī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jayasundaryā",
+   "name": "Jayasundarī",
+   "roles": [
+    "recipient"
+   ],
+   "titles": [
+    "āyuṣmatī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "[āyuṣma]tyā priya-bhaginyā . . . jayasundaryā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "mahāpratihāra-ravi[guptaḥ] (R.)",
+   "name": "Ravigupta",
+   "roles": [
+    "dutaka",
+    "official"
+   ],
+   "titles": [
+    "sarvadaṇḍanāyaka",
+    "mahāpratīhāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-ātra sarvadaṇḍanāyaka-mahāpratihāra",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "other",
+   "to": "p1",
+   "evidence": "priya-bhaginyā"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "dūtakaś-c-ātra sarvadaṇḍanāyaka-mahāpratihāra"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 400, 30",
+  "era": "unspecified",
+  "year": "430",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Sītāpāila",
+  "normalized": "Sitapaila (Kathmandu)"
+ },
+ "purpose": "Royal charter (land grant) of Vasantadeva, apparently for the repair of a broken water channel (praṇālī), made for the king's sister Jayasundarī and for the merit of his father (bappa-bhaṭṭāraka) and himself",
+ "notes": "The inscription is badly damaged. The year reads 'saṃvat 400, 30' (430) in this edition. Regmi and the title's 'Bhatt.' give 435, and the editor's header also says 435. The dūtaka's name is lost in the text and comes only from Regmi's reading 'mahāpratihāra-ravi[guptaḥ]' at line 18. Jayasundarī is the king's 'priya-bhaginī' (dear sister). Her name is in the instrumental, so she probably petitioned for the grant or carried out the work, but the editor calls the grant 'in favour of' her. The king's unnamed father ('bappa-bhaṭṭāraka') is invoked but not listed as a person. Boundary names in lines 10 and 16, 'hārāguṅ-śikhara' and 'dulusiḍa' (R. 'dulusiñju-'), are toponyms, not persons.",
+ "_meta": {
+  "reel": "Licchavi inscr. 23",
+  "model": "opus",
+  "cost_usd": 0.5718222,
+  "secs": 34.9
+ }
+}

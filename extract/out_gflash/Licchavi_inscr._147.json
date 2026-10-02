@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "balīrājñā",
+   "name": "Balīrāja",
+   "roles": [
+    "king",
+    "donor"
+   ],
+   "titles": [
+    "rājā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "balīrājñā rājñā puṇy-ābhivṛddhaye",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "pañcāśatā samadhike samvatsaraśatadvaye pratham-āṣāḍha-māsasya dvitīyāvivase",
+  "era": "unspecified",
+  "year": "250",
+  "month": "prathamāṣāḍha",
+  "paksa": "",
+  "tithi": "dvitīyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Lalitpur, Motīṭāra",
+  "normalized": "Patan"
+ },
+ "purpose": "construction of a stone water conduit (jaladroṇi) for the enhancement of the king's own merit",
+ "notes": "dvitīyāvivase is a scribal error for dvitīyādivase.",
+ "_meta": {
+  "reel": "Licchavi inscr. 147",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 1550,
+  "out_tok": 918
+ }
+}

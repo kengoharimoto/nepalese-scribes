@@ -1,0 +1,108 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgaṇadevaḥ",
+   "name": "Gaṇadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhaṭṭāraka",
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "Mānagṛha",
+   "evidence": "bhaṭṭāraka-mahārāja-śrīgaṇadevaḥ kuśalī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī-bhaumagupta-",
+   "name": "Bhaumagupta",
+   "roles": [
+    "official"
+   ],
+   "titles": [
+    "sarvadaṇḍanāyaka",
+    "mahāpratīhāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sarvvadaṇḍanāyaka-mahāpratihāra-śrī-bhaumagupta-vijñāpitena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "babhruvarmmā",
+   "name": "Babhruvarman",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-ātra babhruvarmmā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "prasāda-gupta-vārtte",
+   "name": "Prasādagupta",
+   "roles": [
+    "official"
+   ],
+   "titles": [
+    "vārtta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "prasāda-gupta-vārtte vyavaharat-īti",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "sarvvadaṇḍanāyaka-mahāpratihāra-śrī-bhaumagupta-vijñāpitena"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "dūtakaś-c-ātra babhruvarmmā"
+  },
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "brahmuṃ prasāda-gupta-vārtte vyavaharat-īti"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 482 śrāvaṇa-śukla-pratipadi",
+  "era": "unspecified",
+  "year": "482",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "pratipad",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Kisipiṃḍī, Kulāṃchhe-thol",
+  "normalized": "Kisipidi"
+ },
+ "purpose": "Royal edict granting immunity to the inhabitants of Kicapriciṅ village from the entry of the four adhikaraṇas (Kuthera, Śulla, Liṅgvala, Māpcoka) even regarding the five crimes (pañcāparādha).",
+ "notes": "Issued from Mānagṛha to the villagers of Kicapriciṅ in Śītāṭikātala. Gnoli reads the dūtaka's name as Vastravarmā instead of Babhruvarmā.",
+ "_meta": {
+  "reel": "Licchavi inscr. 47",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 2135,
+  "out_tok": 1634
+ }
+}

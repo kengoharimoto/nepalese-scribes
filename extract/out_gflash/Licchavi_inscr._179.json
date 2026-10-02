@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Kathmandu, Sītāpāila",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "Extremely fragmentary inscription preserving only a few isolated akṣaras (kā ya ra na ya); no names or dates survive.",
+ "_meta": {
+  "reel": "Licchavi inscr. 179",
+  "model": "gemini-flash-latest",
+  "secs": 2.3,
+  "in_tok": 1342,
+  "out_tok": 338
+ }
+}

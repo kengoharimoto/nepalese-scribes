@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "[vasantadevaḥ]",
+   "name": "Vasantadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhaṭṭāraka",
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "Mānagṛha",
+   "evidence": "bhaṭṭārakamahārāja-śrī [vasantadevaḥ ku]śalī ... samājñāpayati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jayasundaryyai",
+   "name": "Jayasundarī",
+   "roles": [
+    "recipient"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "may-āyuṣmatyai priya-bhaginyai jayasundaryyai ... yaṃ grāmo ’tisṛṣṭo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "virocanaguptaḥ",
+   "name": "Virocanagupta",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "yājñika"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtako yājñika-virocanaguptaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "brother_of",
+   "to": "p2",
+   "evidence": "priya-bhaginyai jayasundaryyai"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 428 mārggaśīrṣaśukladiva 1",
+  "era": "unspecified",
+  "year": "428",
+  "month": "Mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Thankot",
+  "normalized": "Thankot"
+ },
+ "purpose": "grant of Jayapallikā village to the king's sister Jayasundarī",
+ "notes": "Issued from Mānagṛha. The king's name in line 4 is partially reconstructed as [vasantadevaḥ].",
+ "_meta": {
+  "reel": "Licchavi inscr. 22",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 2913,
+  "out_tok": 1741
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāpratihāra-vārtta-sujāta-prabha",
+   "name": "Sujātaprabha",
+   "roles": [
+    "official",
+    "donor"
+   ],
+   "titles": [
+    "mahāpratihāra",
+    "vārtta"
+   ],
+   "affiliation": "Sujātaprabhavihāra",
+   "residence": "",
+   "evidence": "mahāpratihāra-vārtta-sujāta-prabha-vihārasya",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Yampibahi",
+  "normalized": "Patan"
+ },
+ "purpose": "Ownership/dedication inscription of a water conduit slab / reservoir belonging to Sujātaprabhavihāra",
+ "notes": "Gnoli read -prabhu instead of -prabha. Sujātaprabha appears to be the Mahāpratihāra and Vārtta who founded or is associated with the vihāra.",
+ "_meta": {
+  "reel": "Licchavi inscr. 192",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 1508,
+  "out_tok": 960
+ }
+}

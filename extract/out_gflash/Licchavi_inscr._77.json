@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī-mahāsāmant-āṃśuvarmā",
+   "name": "Aṃśuvarman",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahāsāmanta"
+   ],
+   "affiliation": "",
+   "residence": "kailāsakūṭabhavana",
+   "evidence": "śrī-mahāsāmant-āṃśuvarmā kuśalī ... samājñāpayati",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 30 jyeṣṭha-śukla-ṣaṣṭhyām",
+  "era": "unspecified",
+  "year": "30",
+  "month": "Jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "ṣaṣṭhī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Hāṃḍigāuṃ",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "edict specifying traditional allocations and customary payments (maryādā) on occasions of royal favor (rājaprasāda) to shrines, officials, gates, and attendants",
+ "notes": "Issued from Kailāsakūṭabhavana by Mahāsāmanta Aṃśuvarman with svayam-ājñā (no separate dūtaka). The inscription lists amounts in paṇa and purāṇa due to deities, royal emblems, and numerous offices/attendants (mahābalādhyakṣa, prasādādhikṛta, bhāṇḍanāyaka, etc.), none of whom are named individually.",
+ "_meta": {
+  "reel": "Licchavi inscr. 77",
+  "model": "gemini-flash-latest",
+  "secs": 10.1,
+  "in_tok": 3090,
+  "out_tok": 2597
+ }
+}

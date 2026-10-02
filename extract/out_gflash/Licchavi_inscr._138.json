@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "atītalambhasya",
+   "name": "Atītalambha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "atītalambhasya bhāryayā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhojamatyā",
+   "name": "Bhojamatī",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhojamatyā dattam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wife_of",
+   "to": "p1",
+   "evidence": "atītalambhasya bhāryayā"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 151 vaiśākha-śukla-dvitīyāyām",
+  "era": "unspecified",
+  "year": "151",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Kathmandu, Jaisī-devala (Lañjagval)",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "donation of a water conduit (jaladroṇa) along with two mā(?) for perpetual use by the pāñcālikas of Lañjagval",
+ "notes": "",
+ "_meta": {
+  "reel": "Licchavi inscr. 138",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 1631,
+  "out_tok": 1401
+ }
+}

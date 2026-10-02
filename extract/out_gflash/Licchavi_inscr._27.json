@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sarvvadaṇḍanāyaka-mahāpratihāra-ravigupta",
+   "name": "Ravigupta",
+   "roles": [
+    "dutaka",
+    "official"
+   ],
+   "titles": [
+    "sarvvadaṇḍanāyaka",
+    "mahāpratihāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-ātra sarvvadaṇḍanāyaka-mahāpratihāra-ravigupta iti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 449 pratham-āṣā[ḍha]-śukla-daśamyām",
+  "era": "unspecified",
+  "year": "449",
+  "month": "prathamāṣāḍha",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Kisipiṃḍī",
+  "normalized": "Kisipidi"
+ },
+ "purpose": "edict regarding tax relief and restricting interference by the kūthera office",
+ "notes": "The opening lines containing the king's name are worn away and illegible.",
+ "_meta": {
+  "reel": "Licchavi inscr. 27",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 1833,
+  "out_tok": 875
+ }
+}

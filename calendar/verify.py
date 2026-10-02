@@ -14,6 +14,10 @@ Standard reading per era (Śaka years expired; CE ≈ Śaka + 78):
       It fits the only two Licchavi-period dates with a weekday: saṃvat 31 Māgha śukla 13, Sunday, Puṣya
       (Aṃśuvarman's repoussé at Cāṅgu) = Sunday 4 Feb 608, and saṃvat 301 Vaiśākha śukla 7, Sunday, Puṣya
       (Suśrutasaṃhitā, NGMCP C 80/7) = Sunday 13 Apr 878; and NS 1 = AS 304, the traditional reckoning.
+  LIC the earlier Licchavi saṃvat (inscriptions of saṃvat 386–535, Mānadeva to Śivadeva I): by Malla's
+      account the same Kārttikādi current Śaka with the hundreds kept (Aṃśuvarman's year 29 = 529), so
+      Śaka = LIC − 2 (Kārttika–Phālguna), − 1 (Caitra–Āśvina); CE = LIC + 76 / + 77. (The usual reading,
+      expired Caitrādi Śaka, CE = year + 78, is a year later.)
   LS  Śaka = LS + 1041 (Kielhorn, CE ≈ LS + 1119)                   not verified (see below)
   HS  Harṣa: Śaka = HS + 528; KS Kali: Śaka = KS − 3179              amānta
 The month systems and year conventions were checked on the NGMCP dates themselves: with them, the stated
@@ -65,7 +69,7 @@ NAK_PAT = [r'asvin|aśvin', r'bhara', r'kr?tti|kṛtti', r'rohi', r'mr?ga|mṛga
            r'sv[aā]t', r'vi[sś][aā]kh|bisakh', r'anur', r'jye[sṣ][tṭ]h|jyes', r'm[uū]l', r'p(?:urva|ūrva)\W*[aā][sṣ][aā]',
            r'u(?:ttara)?\W*[aā][sṣ][aā]', r'[sś]rava|abhij', r'dhani|[sś]ravi[sṣ]', r'[sś]atabh|satabh|[sś]ata[bv]',
            r'p(?:urva|ūrva)\W*bh', r'u(?:ttara)?\W*bh', r'rev']
-WEEK = [('Sunday', r'sun|ravi|[aā]ditya|arka|bh[aā]nu|s[uū]rya'), ('Monday', r'mon|soma|candra|indu'),
+WEEK = [('Sunday', r'sun|ravi|[aā]ditya|arka|bh[aā]nu|s[uū]rya|savit|dinakar|bh[aā]skar'), ('Monday', r'mon|soma|candra|indu'),
         ('Tuesday', r'tue|ma[nṅṃ]gal|kuja|bhauma|a[nṅ]g[aā]rak'), ('Wednesday', r'wed|budha|saumya'),
         ('Thursday', r'thu|br?hasp|bṛhasp|guru|j[iī]va|vrhasp'), ('Friday', r'fri|[sś]ukra|bhr?gu|bhṛgu|bh[aā]rgava'),
         ('Saturday', r'sat|[sś]ani|[sś]anai|sauri|manda')]
@@ -76,11 +80,12 @@ WEEK_DEV = [('Sunday', r'(?:रवि|आदित्य|अर्क|भान�
 TITHI = [r'prati?pa|prathama|parev', r'dvit[iī]y|dvit', r'tr?t[iī]y|tṛt', r'caturth|cauth', r'pa[nñ]cam',
          r'[sṣ]a[sṣ][tṭ]h', r'saptam', r'a[sṣ][tṭ]am', r'navam', r'da[sś]am', r'ek[aā]da[sś]', r'dv[aā]da[sś]',
          r'trayoda[sś]|teras', r'caturda[sś]|cauda', r'p[uū]r[nṇ]im|p[uū]r[nṇ]am|am[aā]v[aā]s|amāvas|darsa|darśa']
-OFFSET = {'NS': None, 'VS': -135, 'ŚS': 0, 'LS': 1041, 'HS': 528, 'KS': -3179, 'AS': None}
+OFFSET = {'NS': None, 'VS': -135, 'ŚS': 0, 'LS': 1041, 'HS': 528, 'KS': -3179, 'AS': None, 'LIC': None}
 # alternative year readings: Śaka-year shift, name
 ALT = {'NS': [(-1, 'current year'), (1, 'year + 1')], 'VS': [(1, 'Kārttikādi'), (-1, 'current year')],
        'ŚS': [(-1, 'current year'), (1, 'year + 1')], 'LS': [], 'HS': [(1, 'year + 1'), (-1, 'year − 1')],
-       'KS': [(1, 'year + 1'), (-1, 'year − 1')], 'AS': [(1, 'year + 1'), (-1, 'year − 1')]}
+       'KS': [(1, 'year + 1'), (-1, 'year − 1')], 'AS': [(1, 'year + 1'), (-1, 'year − 1')],
+       'LIC': [(1, 'year + 1'), (-1, 'year − 1')]}
 PURNIMANTA = {'VS', 'ŚS'}  # standard month system for the dark fortnight
 UNVERIFIABLE = {'LS'}
 
@@ -97,7 +102,7 @@ def fold(s):
 
 def norm_era(s):
     f = fold(s).replace(' ', '')
-    for era, pat in (('AS', r'^as$|^ms$|a[mṃ][sś]uvarma|m[aā]nadeva|licchavi'), ('NS', r'^ns|nepal|newar'), ('VS', r'^vs|vikram|samvat$'), ('ŚS', r'^ss|^śs|saka|sake'),
+    for era, pat in (('LIC', r'^lic$'), ('AS', r'^as$|^ms$|a[mṃ][sś]uvarma|m[aā]nadeva'), ('NS', r'^ns|nepal|newar'), ('VS', r'^vs|vikram|samvat$'), ('ŚS', r'^ss|^śs|saka|sake'),
                      ('LS', r'^ls|laks'), ('HS', r'^hs|harsa|harṣa'), ('KS', r'^ks|kali')):
         if re.search(pat, f):
             return era
@@ -195,8 +200,8 @@ def pancanga():
 
 
 def saka_years(era, year, masa):
-    if era in ('NS', 'AS'):  # Kārttikādi: Kārttika–Phālguna in one Śaka year, Caitra–Āśvina in the next
-        base = year + {'NS': 801, 'AS': 498}[era] + (0 if masa is None or masa >= 7 else 1)
+    if era in ('NS', 'AS', 'LIC'):  # Kārttikādi: Kārttika–Phālguna in one Śaka year, Caitra–Āśvina in the next
+        base = year + {'NS': 801, 'AS': 498, 'LIC': -2}[era] + (0 if masa is None or masa >= 7 else 1)
     else:
         base = year + OFFSET[era]
     return [(base, 0, 'standard')] + [(base + d, 1, why) for d, why in ALT.get(era, [])]
@@ -339,6 +344,7 @@ if __name__ == '__main__':
              ('VS', 2080, 'Kārttika', 'kṛṣṇa', 'amāvāsyā', 'Monday', ''),        # 13 Nov 2023 (VS: pūrṇimānta)
              ('ŚS', 1945, 'Āśvina', 'kṛṣṇa', '15', 'Monday', ''),               # same day, amānta
              ('AS', 31, 'Māgha', 'śukla', '13', 'Sunday', 'Puṣya'),             # Cāṅgu repoussé: 4 Feb 608
-             ('AS', 301, 'Vaiśākha', 'śukla', '7', 'Sunday', 'Puṣya')]          # Suśrutasaṃhitā: 13 Apr 878
+             ('AS', 301, 'Vaiśākha', 'śukla', '7', 'Sunday', 'Puṣya'),          # Suśrutasaṃhitā: 13 Apr 878
+             ('LIC', 386, 'Jyeṣṭha', 'śukla', '1', '', 'Rohiṇī')]               # Cāṅgu pillar of Mānadeva
     for t in tests:
         print(t, '->', verify(*t))

@@ -1,0 +1,112 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vasantadevaḥ",
+   "name": "Vasantadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhaṭṭāraka",
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "Mānagṛha",
+   "evidence": "bhaṭṭāraka-mahārāja-śrī-vasantadevaḥ kuśalī ... samājñāpayati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "raviguptena",
+   "name": "Ravigupta",
+   "roles": [
+    "official",
+    "dutaka"
+   ],
+   "titles": [
+    "sarvadaṇḍanāyaka",
+    "mahāpratīhāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sarvvadaṇḍanāyaka-mahāpratihāra-raviguptena vijñāpite[na] ... dūtakaś-c-ātra sarvvadaṇḍanāyaka-mahāpratihāra-raviguptaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "kramalīlena",
+   "name": "Kramalīla",
+   "roles": [
+    "official"
+   ],
+   "titles": [
+    "mahārāja",
+    "mahāsāmanta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārāja-mahāsāmanta-śrī-kramalīlena ca sākaṃ samavāyya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "bhavagupte",
+   "name": "Bhavagupta",
+   "roles": [
+    "official"
+   ],
+   "titles": [
+    "pratīhāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "brahmaṅi ca pratihāra-bhavagupte vyavaharat-īti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "tad-ittham-prati yadi kaścid-asmat-pādopajīvya-"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "bhaṭṭāraka-mahārāja-śrī-vasantadevaḥ kuśalī ... samājñāpayati"
+  },
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "bhaṭṭāraka-mahārāja-śrī-vasantadevaḥ kuśalī ... samājñāpayati"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 454 jyaiṣṭha-śukla-divā 6",
+  "era": "unspecified",
+  "year": "454",
+  "month": "Jyaiṣṭha",
+  "paksa": "śukla",
+  "tithi": "6",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "mānagṛhāt",
+  "normalized": "Kathmandu Valley"
+ },
+ "purpose": "Royal edict granting land/administrative exemption (prasāda) to the śollādhikaraṇa and kūtherādhikaraṇa",
+ "notes": "Found at Caukiṭāra, Dahachok ridge in Thankot. The tithi is read as divā 6 in the main text, but Gnoli reads divā 7.",
+ "_meta": {
+  "reel": "Licchavi inscr. 30",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 2275,
+  "out_tok": 1644
+ }
+}

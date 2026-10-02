@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī-mānadevanṛpater",
+   "name": "Mānadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "nṛpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī-mānadevanṛpater-dduhitus-sutena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhāravinā",
+   "name": "Bhāravi",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kīrttiḥ kṛteyam-iha bhāravinā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "grandson_of",
+   "to": "p1",
+   "evidence": "mānadevanṛpater-dduhitus-sutena"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 472 phalguṇa śukla-di[va] 12",
+  "era": "unspecified",
+  "year": "472",
+  "month": "phalguṇa",
+  "paksa": "śukla",
+  "tithi": "12",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Hāṃḍigāuṃ",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "excavation of a water conduit (kīrtti)",
+ "notes": "Bhāravi is stated to be the daughter's son (duhitus-suta) of King Mānadeva.",
+ "_meta": {
+  "reel": "Licchavi inscr. 39",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 1734,
+  "out_tok": 1458
+ }
+}

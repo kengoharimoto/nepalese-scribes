@@ -83,6 +83,9 @@ University Library, Cambridge*, 1883; `bendall.py`, from the Chandra OCR in `dat
   the catalogue's, the colophon reading's, or a bare saṃvat read as NS or VS), weak readings that would
   also fit (`possible`) and the other candidates tried (`alternatives`). See `calendar/verify.py` for the
   rules and how they were tested.
+- `licchavi_inscription`: the 198 Licchavi inscriptions of the e-text edition (number, header, concordance
+  to Gnoli, D. Vajracarya, HJ and Regmi, full text) with the date calculated afresh (`calendar/licchavi_dates.py`).
+  Their persons are in `person` / `attestation` (labels "Licchavi inscr. N", keys starting `lic:`).
 - `bendall_ngmcp_title`: NGMCP title-list texts with the same title (Bendall's ç, sh, ṛi read as ś, ṣ, ṛ):
   the same work, not the same manuscript.
 

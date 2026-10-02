@@ -1,0 +1,88 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭāraka-mahārāja-śrī śivadevaḥ",
+   "name": "Śivadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhaṭṭāraka",
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "Mānagṛha",
+   "evidence": "bhaṭṭāraka-mahārāja-śrī śivadevaḥ kuśalī ... samājñāpayati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī-sāmant-āṃśuvarmmaṇā",
+   "name": "Aṃśuvarman",
+   "roles": [
+    "official"
+   ],
+   "titles": [
+    "sāmanta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī-sāmant-āṃśuvarmmaṇā vijñāpitena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rāmaśīla vārttaḥ",
+   "name": "Rāmaśīla",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "vārtta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-ātra rāmaśīla vārttaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrī-sāmant-āṃśuvarmmaṇā vijñāpitena may-aitad-gauravād"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "dūtakaś-c-ātra rāmaśīla vārttaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 500 10 6 vaiśākhamāse śukla-divā-daśamyām",
+  "era": "unspecified",
+  "year": "516",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Mānagṛha",
+  "normalized": "Patan"
+ },
+ "purpose": "Royal edict granting tax exemption (on garlic and onions) and restricting the entry of Liṅgval and Śullī offices into the draṅga, issued at the request of Sāmanta Aṃśuvarman.",
+ "notes": "Found at Bhimsen Temple, Mangal Bazar, Patan (now in the National Museum). Raniero Gnoli read the year as 517.",
+ "_meta": {
+  "reel": "Licchavi inscr. 58",
+  "model": "gemini-flash-latest",
+  "secs": 6.7,
+  "in_tok": 2415,
+  "out_tok": 1683
+ }
+}

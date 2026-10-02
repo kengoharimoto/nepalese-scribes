@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkalahābhimānī",
+   "name": "Kalahābhimānin",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkalahābhimānī nṛpaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "[saṃ]vata. . . .",
+  "era": "unspecified",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Dumjā",
+  "normalized": "Dumja"
+ },
+ "purpose": "records a grant",
+ "notes": "Severely damaged inscription. Kalahābhimānin is a known biruda of King Aṃśuvarman. The name of the dūtaka and the year digits following [saṃ]vata are lost in lacunae.",
+ "_meta": {
+  "reel": "Licchavi inscr. 90",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 1640,
+  "out_tok": 1116
+ }
+}

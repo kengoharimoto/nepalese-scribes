@@ -1,0 +1,71 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: the fragment '-radevo' is most likely [Śaṅka]radeva. Rajavamsi's reading of line 6 has 'śaṅkara-iti', and Śaṅkaradeva is the son of Vṛṣadeva in the Licchavi genealogy. Name given as Śaṅkaradeva (low confidence).",
+   "p2: 'devasuta' gives only the end of the father's name. Read as [Vṛṣa]deva (Vṛṣadeva), low confidence.",
+   "p1 roles: changed from king/donor to relative_only. Śaṅkaradeva appears in a genealogical eulogy as an ancestor. The donor and reigning king are not preserved by name.",
+   "Removed 'narendra' as a title of p1. It stands separately in a broken context and may refer to someone else.",
+   "Notes expanded: the possible link of Mānavihāra with Mānadeva, and that line 27 is not a date."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "radevo",
+   "name": "Śaṅkaradeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "Licchavi dynasty",
+   "residence": "",
+   "evidence": "devasuta radevo",
+   "confidence": "low"
+  },
+  {
+   "pid": "p2",
+   "as_written": "devasuta",
+   "name": "Vṛṣadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "Licchavi dynasty",
+   "residence": "",
+   "evidence": "devasuta",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "devasuta radevo"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Svayambhū (Svayambhunath) temple, Northwest part; [śrī]mānavihāre",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "perpetual land grant (kṣetraṃ akṣayaṃ dattaṃ) to the Mānavihāra, with a eulogy of the royal line",
+ "notes": "The inscription is badly damaged.\n\nLine 2: '. . . devasuta radevo' keeps only the endings of two names. Reading them as [Vṛṣa]devasuta [Śaṅka]radeva is a conjecture. It rests on Rajavamsi's reading 'śaṅkara-iti' in line 6 and on the known genealogy (Vṛṣadeva → Śaṅkaradeva → Dharmadeva → Mānadeva). Mānadeva is traditionally credited with founding the Mānavihāra, so the inscription may come from his reign or later. However, no reigning king, donor or recipient survives by name: 'rājā' appears only in line 13 and 'narendra' only in line 2.\n\nLine 27, 'sāgraṃ śataṃ varṣāṇām', is part of the eulogy ('more than a hundred years'), not a date formula. No date survives.",
+ "_meta": {
+  "reel": "Licchavi inscr. 18",
+  "model": "opus",
+  "cost_usd": 0.119256,
+  "secs": 19.8
+ }
+}

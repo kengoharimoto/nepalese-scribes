@@ -1,0 +1,90 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaṇa[devaḥ]",
+   "name": "Gaṇadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhaṭṭāraka",
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "Mānagṛha",
+   "evidence": "bhaṭṭāraka-mahārāja-śrī-gaṇa[devaḥ kuśalī] . . . . . brāhmaṇa-purassarān-grāma-kuṭumbinaḥ kuśalam-ābhāṣya- samājñāpayati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaumagupto",
+   "name": "Bhaumagupta",
+   "roles": [
+    "dutaka",
+    "official"
+   ],
+   "titles": [
+    "sarvvadaṇḍanāyaka",
+    "mahāpratihāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-ātra sarvvadaṇḍanāyaka-mahāpratihāra-śrī-bhaumagupto varīvartti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bandhujīve",
+   "name": "Bandhujīva",
+   "roles": [
+    "official"
+   ],
+   "titles": [
+    "rājaputra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājaputra-bandhujīve vyavaharat-īti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "bhaṭṭāraka-mahārāja-śrī-gaṇa[devaḥ kuśalī] ... dūtakaś-c-ātra sarvvadaṇḍanāyaka-mahāpratihāra-śrī-bhaumagupto"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "bhaṭṭāraka-mahārāja-śrī-gaṇa[devaḥ kuśalī] ... rājaputra-bandhujīve vyavaharat-īti"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 400 80 5 kārttikamāse śukla divā dvādaśyām 12",
+  "era": "unspecified",
+  "year": "485",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "12",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "mānagṛhād",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "Royal edict (śilāpaṭṭakaśāsana) issued by King Gaṇadeva granting administrative/judicial exemption barring certain government offices (liṅgval, māpcoka) from entering.",
+ "notes": "Found in Sherapat valley below Nuwakot ridge, near the confluence of the Trishuli and Tadi rivers. Issued from the royal seat of Mānagṛha.",
+ "_meta": {
+  "reel": "Licchavi inscr. 49",
+  "model": "gemini-flash-latest",
+  "secs": 10.1,
+  "in_tok": 1984,
+  "out_tok": 2590
+ }
+}

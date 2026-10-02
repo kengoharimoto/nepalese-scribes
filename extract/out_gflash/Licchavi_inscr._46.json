@@ -1,0 +1,108 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭāraka-mahārāja-śrī-gaṇadevaḥ",
+   "name": "Gaṇadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhaṭṭāraka",
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "mānagṛha",
+   "evidence": "bhaṭṭāraka-mahārāja-śrī-gaṇadevaḥ kuśalī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sarvvadaṇḍanāyaka-mahāpratihāra-śrī-bhau[ma]gupta",
+   "name": "Bhaumagupta",
+   "roles": [
+    "official"
+   ],
+   "titles": [
+    "sarvvadaṇḍanāyaka",
+    "mahāpratihāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sarvvadaṇḍanāyaka-mahāpratihāra-śrī-bhau[ma]gupta-vijñāpitena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "babbhruvarmā",
+   "name": "Babbhruvarman",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-āttra babbhruvarmā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "prasāda-gupta-vārtte",
+   "name": "Prasādagupta",
+   "roles": [
+    "official"
+   ],
+   "titles": [
+    "vārtta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "brahmuṅ prasāda-gupta-vārtte vyavaharat-īti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "servant_of",
+   "to": "p1",
+   "evidence": "sarvvadaṇḍanāyaka-mahāpratihāra-śrī-bhau[ma]gupta-vijñāpitena"
+  },
+  {
+   "from": "p3",
+   "type": "servant_of",
+   "to": "p1",
+   "evidence": "dūtakaś-c-āttra babbhruvarmā"
+  },
+  {
+   "from": "p4",
+   "type": "servant_of",
+   "to": "p1",
+   "evidence": "brahmuṅ prasāda-gupta-vārtte vyavaharat-īti"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 482 śrāvaṇa-śukla-pratipadi 1",
+  "era": "unspecified",
+  "year": "482",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "pratipad 1",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "śītāṭikātale kicapricaṅ-grāme",
+  "normalized": "Kisipiṃḍī, Thankot"
+ },
+ "purpose": "Grant of sthitipaṭṭaka exempting the village Kicapricaṅ from the entry of the Liṅgval and Māpcoka adhikaraṇas (in addition to Kūther and Śulli) even for pañcāparādha cases.",
+ "notes": "Issued from Mānagṛha by Bhaṭṭāraka Mahārāja Gaṇadeva upon the petition (vijñāpita) of Sarvadaṇḍanāyaka Mahāpratīhāra Bhaumagupta.",
+ "_meta": {
+  "reel": "Licchavi inscr. 46",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 2162,
+  "out_tok": 1046
+ }
+}

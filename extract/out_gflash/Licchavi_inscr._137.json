@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "yuvarāja-śrī vijayadevaḥ",
+   "name": "Vijayadeva",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "yuvarāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-ātra yuvarāja-śrī vijayadevaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 145 pauṣa-śukla-divā-tṛtīyasyām",
+  "era": "unspecified",
+  "year": "145",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "yūpagrāme",
+  "normalized": "Patan"
+ },
+ "purpose": "royal edict concerning the division and use of water from an irrigation canal (tilamaka) among local pāñcālikas",
+ "notes": "The beginning of the inscription is damaged and the name of the issuing king is lost. The date numeral is read as 145 by Gnoli and 148 by Dhanavajra Vajrācārya.",
+ "_meta": {
+  "reel": "Licchavi inscr. 137",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 3083,
+  "out_tok": 1090
+ }
+}

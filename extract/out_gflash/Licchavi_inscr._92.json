@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śry-aṃśuvarmā",
+   "name": "Aṃśuvarman",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śry-aṃśuvarmā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śuvalapañcamyām",
+  "era": "unspecified",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "pañcamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "ṭugrāma",
+  "normalized": "Gokarṇa"
+ },
+ "purpose": "Royal edict addressed to the villagers regarding an annual observance (prativarṣa ... pañcamyām)",
+ "notes": "The stone is damaged and fragmented. The date formula has no surviving year; only the recurring day (śuvalapañcamyām, likely for śuklapañcamyām) is mentioned in connection with an annual ritual.",
+ "_meta": {
+  "reel": "Licchavi inscr. 92",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 1734,
+  "out_tok": 1249
+ }
+}

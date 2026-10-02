@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājaputra-janārdanavarmā",
+   "name": "Janārdanavarman",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "rājaputra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś cātra rājaputra-janārdanavarmā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 80 9 - - - - - - - - trayodaśyām",
+  "era": "unspecified",
+  "year": "89",
+  "month": "",
+  "paksa": "",
+  "tithi": "trayodaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "bhadrādhivāsa",
+  "normalized": "Patan"
+ },
+ "purpose": "royal edict / grant",
+ "notes": "Severely damaged Licchavi inscription. Found in the courtyard of the Vaṭuka Bhairava temple in Lagankhel, Patan. Lines 18–19 refer to earlier royal charters (śāsanaṃ pūrvanṛpateḥ) and a king (mahīpatiḥ).",
+ "_meta": {
+  "reel": "Licchavi inscr. 121",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 2172,
+  "out_tok": 1244
+ }
+}

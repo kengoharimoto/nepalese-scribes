@@ -1,0 +1,89 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śi/vadevaḥ",
+   "name": "Śivadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "licchavikulaketu",
+    "bhaṭṭāraka",
+    "mahārāja"
+   ],
+   "affiliation": "licchavikula",
+   "residence": "Mānagṛha",
+   "evidence": "licchavi-kulaketur-bhaṭṭāraka-mahārāja-śrī-śi/vadevaḥ kuśalī ... samājñāpayati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī-mahāsāmant-āṃśuvarmmaṇā",
+   "name": "Aṃśuvarman",
+   "roles": [
+    "official"
+   ],
+   "titles": [
+    "mahāsāmanta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī-mahāsāmant-āṃśuvarmmaṇā yuṣmad-dhita-vidhānāya vijñāpitena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vipravarmma-gomī",
+   "name": "Vipravarman",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "gomin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-ātra vipravarmma-gomī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrī-mahāsāmant-āṃśuvarmmaṇā yuṣmad-dhita-vidhānāya vijñāpitena mayai"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "dūtakaś-c-ātra vipravarmma-gomī"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 517 pratham-āṣāḍha-śukla-dvādaśyām",
+  "era": "unspecified",
+  "year": "517",
+  "month": "prathamāṣāḍha",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Būḍhānīlakaṇṭha",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "Royal edict limiting the jurisdiction of Kūther tax officials in the dual settlements (ubhaya-pāñcālī) of Āṅlābaka and Narasiṃha",
+ "notes": "Gnoli reads the year as 518; Vajrācārya and Regmi read 517. The edict was issued from Mānagṛha by King Śivadeva I upon the petition (vijñāpanā) of Mahāsāmanta Aṃśuvarman.",
+ "_meta": {
+  "reel": "Licchavi inscr. 62",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 2655,
+  "out_tok": 1837
+ }
+}

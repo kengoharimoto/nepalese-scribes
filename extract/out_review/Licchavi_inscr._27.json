@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Ravigupta: dropped the redundant role 'official'. In this inscription his only function is dūtaka, and his offices are already listed in titles.",
+   "Purpose reworded closer to the text: an edict telling the residents to pay the proper tax, obey orders and live without anxiety, with the kūthera office's interference limited.",
+   "Notes expanded: the lacunae, Regmi's readings, and the fact that the issuing ruler cannot be identified."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sarvvadaṇḍanāyaka-mahāpratihāra-ravigupta",
+   "name": "Ravigupta",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "sarvvadaṇḍanāyaka",
+    "mahāpratihāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-ātra sarvvadaṇḍanāyaka-mahāpratihāra-ravigupta iti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 449 pratham-āṣā[ḍha]-śukla-daśamyām",
+  "era": "unspecified",
+  "year": "449",
+  "month": "prathamāṣāḍha",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Kisipiṃḍī (Kisipidi near Thankot)",
+  "normalized": "Kisipidi"
+ },
+ "purpose": "An edict for the residents. The kūthera office's interference is limited, and the residents are to pay the proper tax (samucita-kara), obey orders and live without anxiety.",
+ "notes": "The first lines are worn away, so the issuing king or feudatory cannot be identified. Only the dūtaka Ravigupta is legible. Regmi reads 'raviguptaḥ' in line 7, and 'prativa[stavyamiti]' in line 5 where this edition reads 'prativa[sateti]'. The year is not converted here; that is done later.",
+ "_meta": {
+  "reel": "Licchavi inscr. 27",
+  "model": "opus",
+  "cost_usd": 0.10176,
+  "secs": 16.1
+ }
+}

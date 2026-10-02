@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhāravir",
+   "name": "Bhāravi",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [
+    "bhiṣaj"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāravir-ity-avekṣya mānuṣyakaṃ ... mātā-pitṛ-svakṛta-puṇya-vivarddhan-ārtham-etāṃ bhiṣag - ṣa - - - cakāra kī[rttim]",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 492 vaiśākhaśukladivā 13",
+  "era": "unspecified",
+  "year": "492",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "yūpa-grāmasya dakṣiṇa-paścimena",
+  "normalized": "Patan"
+ },
+ "purpose": "construction of a water conduit (kīrti) and land grant for the merit of the donor and his parents (mātāpitṛsvakṛtapuṇyavivarddhanārtham)",
+ "notes": "The inscription records the foundation of a water conduit and an endowment of land south-west of Yūpagrāma (in modern Patan) by Bhāravi, who appears to have held the title or profession of physician (bhiṣaj).",
+ "_meta": {
+  "reel": "Licchavi inscr. 52",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 2091,
+  "out_tok": 1019
+ }
+}

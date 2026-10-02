@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "amṛtavarmaṇā",
+   "name": "Amṛtavarman",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dattaṃ amṛtavarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "āṣāḍha-kṛṣṇa-saptamyām ... saṃvat 207",
+  "era": "unspecified",
+  "year": "207",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "7",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Kathmandu, Hanūmānḍhokā. Royal Palace Nasalchok",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "donation dedicated to Viṣṇu",
+ "notes": "",
+ "_meta": {
+  "reel": "Licchavi inscr. 145",
+  "model": "gemini-flash-latest",
+  "secs": 3.1,
+  "in_tok": 1522,
+  "out_tok": 677
+ }
+}

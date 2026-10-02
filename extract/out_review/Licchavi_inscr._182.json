@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Kept the nun as the only person (donor), but the name is uncertain: Dayā, or possibly Sadyobhogā if dayā stands for dayayā ('out of compassion'). Explained in notes.",
+   "Removed 'pauna pānyāṃ' as residence (unclear; may be a locative place name or a corrupt word); recorded in notes.",
+   "Normalised the purpose wording; added a note that the find-spot is unknown and Bahilīṭola is the heading given by the edition.",
+   "Added a metrical note: an irregular śloka whose first quarter-verse has only 7 syllables."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dayā",
+   "name": "Dayā",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "bhikṣuṇī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhikṣuṇī sadyobhoga dayā svayam dattā",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Lalitpur (Patan), Bahilīṭola (on a stone reservoir at an unknown site in Patan)",
+  "normalized": "Patan"
+ },
+ "purpose": "gift of a stone water basin (śilādroṇī) by a nun for the welfare of beings (sattvānāṃ hitahetave)",
+ "notes": "Fragment, badly damaged; R. 154. Undated. The verse is an irregular śloka: 'pauna pānyāṃ bhikṣuṇī | sadyobhoga dayā svayam | dattā eṣā(ṃ) śilādroṇī | sattvānāṃ hitahetave'. The first quarter-verse has only 7 syllables, so something may be lost. The donor is a bhikṣuṇī, but her name is uncertain: either 'Dayā', or 'dayā' = dayayā ('out of compassion') with the name hidden in 'sadyobhoga' (Sadyobhogā?). 'pauna pānyāṃ' may be a locative place name (the site of the gift) or a corrupt word, possibly part of a name. It is not used as a residence.",
+ "_meta": {
+  "reel": "Licchavi inscr. 182",
+  "model": "opus",
+  "cost_usd": 0.093273,
+  "secs": 21.9
+ }
+}

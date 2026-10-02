@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Pulacoka",
+  "normalized": "Patan"
+ },
+ "purpose": "Buddhist mangala / aspiration to Buddhahood",
+ "notes": "Extremely fragmentary inscription consisting only of the beginning of an opening Buddhist verse (svajñānakiraṇāpāstasakalakleśasaṃhatim buddhaḥ syāmiti vandeham...). No personal names or date are preserved.",
+ "_meta": {
+  "reel": "Licchavi inscr. 189",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 1395,
+  "out_tok": 394
+ }
+}

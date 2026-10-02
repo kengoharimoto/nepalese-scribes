@@ -1,0 +1,372 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī-jayadeva",
+   "name": "Jayadeva",
+   "roles": [
+    "king",
+    "composer",
+    "donor"
+   ],
+   "titles": [
+    "rājā",
+    "kṣmābhuj"
+   ],
+   "affiliation": "Licchavi",
+   "residence": "",
+   "evidence": "rājā śrī-jayadeva ity-avagataḥ śrī-vatsadevy-ātmajaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī-vatsadevī",
+   "name": "Vatsadevī",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [
+    "devī"
+   ],
+   "affiliation": "Maukhari",
+   "residence": "",
+   "evidence": "śrī-vatsadevyā nṛpater-jananyā samaṃ samantāt-parivāra-padmaiḥ | raupyaṃ harasy-opari puṇḍarīkaṃ tadādaraiḥ kāritam-atyudāraṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrī-śivadeva",
+   "name": "Śivadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "Licchavi",
+   "residence": "",
+   "evidence": "tato jātaḥ śrī-śivadeva ity-abhimato lokasya bharttā bhuvaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrī-bhogavarmm-",
+   "name": "Bhogavarman",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "Maukhari",
+   "residence": "",
+   "evidence": "maukharikulā-śrī-varmma-cūḍāmaṇi-khyāti-hrepita-vairi-bhūpati-gaṇa-śrī-bhogavarmm-odbhavā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śry-ādityasenasya",
+   "name": "Ādityasena",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "magadhādhipa"
+   ],
+   "affiliation": "",
+   "residence": "Magadha",
+   "evidence": "dauhitrī magadhādhipasya mahataḥ-śry-ādityasenasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "śrī-harṣadev-",
+   "name": "Harṣadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "gauḍoḍrādikaliṅgakośalapati"
+   ],
+   "affiliation": "Bhagadatta",
+   "residence": "",
+   "evidence": "gauḍ-oḍrādi-kaliṅga-kośala-pati-śrī-harṣadev-ātmajā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "devī rājyamatī",
+   "name": "Rājyamatī",
+   "roles": [
+    "queen"
+   ],
+   "titles": [
+    "devī"
+   ],
+   "affiliation": "Bhagadatta",
+   "residence": "",
+   "evidence": "devī rājyamatī kulocitaguṇair-yuktā ... en-oḍhā ... lakṣmīr-iva kṣmābhujā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p8",
+   "as_written": "buddhakīrttir",
+   "name": "Buddhakīrti",
+   "roles": [
+    "composer"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sneh-ādbhūbhuji buddhakīrttir-akarot-pūrvām-apūrvām-imāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p9",
+   "as_written": "supuṣpas",
+   "name": "Supuṣpa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "kṣitipati"
+   ],
+   "affiliation": "Licchavi",
+   "residence": "",
+   "evidence": "kṣitipatir-jjātaḥ supuṣpas-tataḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p10",
+   "as_written": "śrī-jayadevanāma-nṛpatiḥ",
+   "name": "Jayadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "nṛpati"
+   ],
+   "affiliation": "Licchavi",
+   "residence": "",
+   "evidence": "khyātaḥ śrī-jayadevanāma-nṛpatiḥ prādurbbabhūvāparaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p11",
+   "as_written": "vrṣadeva",
+   "name": "Vṛṣadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "rājottama"
+   ],
+   "affiliation": "Licchavi",
+   "residence": "",
+   "evidence": "śrīmān-babhūva vrṣadeva iti pratīto rāj-ottamaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p12",
+   "as_written": "śaṅkaradeva-nāmā",
+   "name": "Śaṅkaradeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "Licchavi",
+   "residence": "",
+   "evidence": "abhūttataḥ śaṅkaradeva-nāmā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p13",
+   "as_written": "śrī-dharmmadevo",
+   "name": "Dharmadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "Licchavi",
+   "residence": "",
+   "evidence": "śrī-dharmmadevo ’py-udapādi tasmāt",
+   "confidence": "high"
+  },
+  {
+   "pid": "p14",
+   "as_written": "śrīmānadevo",
+   "name": "Mānadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "nṛpati"
+   ],
+   "affiliation": "Licchavi",
+   "residence": "",
+   "evidence": "śrīmānadevo nṛpatis-tato bhūt",
+   "confidence": "high"
+  },
+  {
+   "pid": "p15",
+   "as_written": "mahīdeva",
+   "name": "Mahīdeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "Licchavi",
+   "residence": "",
+   "evidence": "tato mahīdeva iti prasiddhaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p16",
+   "as_written": "vasantadevo",
+   "name": "Vasantadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "Licchavi",
+   "residence": "",
+   "evidence": "āsīd-vasantadevo ’smād",
+   "confidence": "high"
+  },
+  {
+   "pid": "p17",
+   "as_written": "udayadeva",
+   "name": "Udayadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "kṣitīśa"
+   ],
+   "affiliation": "Licchavi",
+   "residence": "",
+   "evidence": "asyāntare ’py-udayadeva iti kṣitīśāj",
+   "confidence": "high"
+  },
+  {
+   "pid": "p18",
+   "as_written": "narendradevaḥ",
+   "name": "Narendradeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "Licchavi",
+   "residence": "",
+   "evidence": "itaś-ca narendradevaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrī-vatsadevy-ātmajaḥ"
+  },
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "tasmād bhūmibhujo ’py-ajāyata ... rājā śrī-jayadeva"
+  },
+  {
+   "from": "p2",
+   "type": "wife_of",
+   "to": "p3",
+   "evidence": "vyūḍhā śrīr-iva tena sā kṣitibhujā śrī-vatsadevy-ādarāt"
+  },
+  {
+   "from": "p2",
+   "type": "daughter_of",
+   "to": "p4",
+   "evidence": "śrī-bhogavarmm-odbhavā"
+  },
+  {
+   "from": "p2",
+   "type": "grandson_of",
+   "to": "p5",
+   "evidence": "dauhitrī magadhādhipasya mahataḥ-śry-ādityasenasya"
+  },
+  {
+   "from": "p7",
+   "type": "wife_of",
+   "to": "p1",
+   "evidence": "devī rājyamatī ... en-oḍhā ... lakṣmīr-iva kṣmābhujā"
+  },
+  {
+   "from": "p7",
+   "type": "daughter_of",
+   "to": "p6",
+   "evidence": "śrī-harṣadev-ātmajā"
+  },
+  {
+   "from": "p8",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "sneh-ādbhūbhuji buddhakīrttir-akarot-pūrvām-apūrvām-imāṃ"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p18",
+   "evidence": "narendradevaḥ ... tato jātaḥ śrī-śivadeva"
+  },
+  {
+   "from": "p16",
+   "type": "son_of",
+   "to": "p15",
+   "evidence": "mahīdeva ... āsīd-vasantadevo ’smād"
+  },
+  {
+   "from": "p15",
+   "type": "son_of",
+   "to": "p14",
+   "evidence": "śrīmānadevo nṛpatis-tato bhūt-tato mahīdeva"
+  },
+  {
+   "from": "p14",
+   "type": "son_of",
+   "to": "p13",
+   "evidence": "śrī-dharmmadevo ’py-udapādi tasmāt | śrīmānadevo nṛpatis-tato bhūt"
+  },
+  {
+   "from": "p13",
+   "type": "son_of",
+   "to": "p12",
+   "evidence": "śaṅkaradeva-nāmā śrī-dharmmadevo ’py-udapādi tasmāt"
+  },
+  {
+   "from": "p12",
+   "type": "son_of",
+   "to": "p11",
+   "evidence": "vrṣadeva ... abhūttataḥ śaṅkaradeva-nāmā"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 157 kārttika-śukla-navamyām",
+  "era": "unspecified",
+  "year": "157",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "paśupateḥ",
+  "normalized": "Deupatan"
+ },
+ "purpose": "Installation of a silver lotus over the liṅga of Paśupati by Queen-Mother Vatsadevī for the spiritual merit of her late husband King Śivadeva II, with verses composed by King Jayadeva II and Buddhakīrti",
+ "notes": "Gnoli reads the date as saṃvat 159, while Dhanavajra Vajrācārya reads 157 and Bhagwanlal Indraji read 153. Five stanzas (21, 26, 27, 28, 29) are specified as composed by King Jayadeva II himself ('rājñaḥ'), and the remaining praśasti was authored by Buddhakīrti.",
+ "_meta": {
+  "reel": "Licchavi inscr. 139",
+  "model": "gemini-flash-latest",
+  "secs": 26.2,
+  "in_tok": 6665,
+  "out_tok": 7608
+ }
+}

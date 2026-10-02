@@ -1,0 +1,108 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭāraka-mahārāja-śrī-gaṇadevaḥ",
+   "name": "Gaṇadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhaṭṭāraka",
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "Mānagṛha",
+   "evidence": "bhaṭṭāraka-mahārāja-śrī-gaṇadevaḥ kuśalī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sarvvadaṇḍanāyaka-mahāpratihāra-śrī-bhaumagupta-",
+   "name": "Bhaumagupta",
+   "roles": [
+    "official"
+   ],
+   "titles": [
+    "sarvadaṇḍanāyaka",
+    "mahāpratīhāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sarvvadaṇḍanāyaka-mahāpratihāra-śrī-bhaumagupta-vijñāpitena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "babhruvarmmā",
+   "name": "Babhruvarman",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-ātra babhruvarmmā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "prasāda[-gupta-vārtte]",
+   "name": "Prasādagupta",
+   "roles": [
+    "official"
+   ],
+   "titles": [
+    "vārtta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "prasāda[-gupta-vārtte vyavahara]t-īti",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "sarvvadaṇḍanāyaka-mahāpratihāra-śrī-bhaumagupta-vijñāpitena"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "dūtakaś-c-ātra babhruvarmmā"
+  },
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "prasāda[-gupta-vārtte vyavahara]t-īti"
+  }
+ ],
+ "date": {
+  "as_written": "śrāvaṇa-śukla-pratipadi [saṃ 482]",
+  "era": "unspecified",
+  "year": "482",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "pratipad",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "mānagṛhād; śītāṭikā-tale; Hiṭigā of Balambu",
+  "normalized": "Balambu"
+ },
+ "purpose": "Royal edict granting exemption to the village inhabitants in Śītāṭikātala from entry by the Liṅgvala and Māpcoka offices, alongside the previously exempt Kuthera and Śolla offices.",
+ "notes": "Issued from Mānagṛha by King Gaṇadeva upon the representation of Sarvadaṇḍanāyaka Mahāpratīhāra Bhaumagupta. Dūtaka Babhruvarman is alternatively read as Vastravarmman by Gnoli.",
+ "_meta": {
+  "reel": "Licchavi inscr. 45",
+  "model": "gemini-flash-latest",
+  "secs": 7.9,
+  "in_tok": 2131,
+  "out_tok": 2485
+ }
+}

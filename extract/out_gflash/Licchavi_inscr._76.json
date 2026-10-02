@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī-mahāsāmant-āṃśuvarmā",
+   "name": "Aṃśuvarman",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahāsāmanta"
+   ],
+   "affiliation": "",
+   "residence": "kailāsakūṭa-bhavana",
+   "evidence": "śrī-mahāsāmant-āṃśuvarmā kuśalī ... samājñāpayati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mahāsarva[daṇḍa]nāyaka vikra[masenaḥ]",
+   "name": "Vikramasena",
+   "roles": [
+    "dutaka",
+    "official"
+   ],
+   "titles": [
+    "mahāsarvadaṇḍanāyaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-ātra-mahāsarva[daṇḍa]nāyaka vikra[masenaḥ]",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "svayam-ājñā dūtakaś-c-ātra-mahāsarva[daṇḍa]nāyaka vikra[masenaḥ]"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 29 jyeṣṭha-śukla-daśamyām",
+  "era": "unspecified",
+  "year": "29",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "bugāyūmī-grāma",
+  "normalized": "Bungmati"
+ },
+ "purpose": "Royal edict granting privilege/tax exemption (bhaṭṭādhikaraṇāpraveśa) to the villagers of Bugāyūmī",
+ "notes": "The inscription was found near the village of Bungmati. Year read as 29 by Dhanavajra Vajrācārya, earlier misread as 34 by Gnoli.",
+ "_meta": {
+  "reel": "Licchavi inscr. 76",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 2328,
+  "out_tok": 1297
+ }
+}

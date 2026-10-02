@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī-mānadevo[nṛpaḥ]",
+   "name": "Mānadeva",
+   "roles": [
+    "king",
+    "donor"
+   ],
+   "titles": [
+    "nṛpa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī-mānadevo[nṛpaḥ] ... [tene]daṃ ... dharmakriyāṅ-kurvvatā lokānāṃ sukha-kāmyayā suvimalam=pānīya-mānāyya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Kelā-ṭola",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "construction of a drinking water channel for the public",
+ "notes": "Fragmentary inscription without a date; describes King Mānadeva (I) performing a pious act by bringing clean drinking water for the welfare of the people.",
+ "_meta": {
+  "reel": "Licchavi inscr. 19",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 1649,
+  "out_tok": 1043
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī-mahāsāmant-āṃśuvarmā",
+   "name": "Aṃśuvarman",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahāsāmanta"
+   ],
+   "affiliation": "",
+   "residence": "Kailāsakūṭabhavana",
+   "evidence": "śrī-mahāsāmant-āṃśuvarmā kuśalī ... samājñāpayati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "yuvarāj-odayadevaḥ",
+   "name": "Udayadeva",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "yuvarāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-ātra yuvarāj-odayadevaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "dūtakaś-c-ātra yuvarāj-odayadevaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 37 phālguna-śukla-divā-pañcamyām",
+  "era": "unspecified",
+  "year": "37",
+  "month": "phālguna",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "custuṅ-grāma",
+  "normalized": "Tistung"
+ },
+ "purpose": "edict granting land to the villagers of Custuṅ to relocate and avoid buffalo damage (mahiṣīpīḍā)",
+ "notes": "Issued from Kailāsakūṭabhavana (kailāsakūṭa-bhavanād).",
+ "_meta": {
+  "reel": "Licchavi inscr. 85",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 2069,
+  "out_tok": 1591
+ }
+}

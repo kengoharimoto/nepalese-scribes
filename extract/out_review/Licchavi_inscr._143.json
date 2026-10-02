@@ -1,0 +1,36 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed Paṃkeśa from persons. A Licchavi name ending in -īśa/-eśa (Paṃka + īśa) is almost certainly a Śiva liṅga named after its founder, so it is a deity, not a person; the founder's name may be Paṃka, but the text does not say so.",
+   "Changed purpose from 'water conduit' to 'fragmentary; probably concerns the liṅga Paṃkeśa'. Puṇyādhāre most likely means 'on an auspicious occasion', not a reservoir, and nothing in the text points to a water conduit.",
+   "place.as_written now gives the full find-spot: 'Lalitpur, Su-bahāla'.",
+   "Date: as_written now keeps the full wording 'saṃvat 187 māghaśukladivā 5'."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 187 māghaśukladivā 5",
+  "era": "unspecified",
+  "year": "187",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Lalitpur, Su-bahāla",
+  "normalized": "Patan"
+ },
+ "purpose": "Fragment; probably records a pious act (perhaps an endowment) for the liṅga Paṃkeśa. The text breaks off.",
+ "notes": "Only line 1 survives, and it breaks off. The editor says only 'mentioned śrī-Paṃkeśa' (DV 175). Paṃkeśa looks like the name of a Śiva liṅga (founder's name + īśa, as in Licchavi usage), so it is not listed as a person. The founder (Paṃka?) is not named outright. 'jareṃ' is unclear, possibly corrupt or the start of a lost word. 'puṇyādhāre' is read as 'on an auspicious occasion'. The year is in the Licchavi saṃvat, left unconverted as instructed.",
+ "_meta": {
+  "reel": "Licchavi inscr. 143",
+  "model": "opus",
+  "cost_usd": 0.4016,
+  "secs": 17.0
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī-jayadevaḥ",
+   "name": "Jayadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "paramabhaṭṭāraka",
+    "mahārājādhirāja",
+    "parameśvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "parama[bha]ṭṭāraka - - - - - - - - - - - -mahārājādhirāja-parameśvara-śrī-jayadevaḥ kuśalī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Taṅgabahāhiti",
+  "normalized": "Patan"
+ },
+ "purpose": "Royal edict (contents mostly lost)",
+ "notes": "Jayadeva II. The inscription is badly damaged and fragmentary; the date portion and details of the order are completely lost.",
+ "_meta": {
+  "reel": "Licchavi inscr. 150",
+  "model": "gemini-flash-latest",
+  "secs": 2.7,
+  "in_tok": 1965,
+  "out_tok": 545
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī-śivadevaḥ",
+   "name": "Śivadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhaṭṭāraka",
+    "mahārāja",
+    "licchavikulaketu"
+   ],
+   "affiliation": "Licchavi dynasty",
+   "residence": "Mānagṛha",
+   "evidence": "mānagṛhād ... [bappapādānuddhyāto licchavikulaketur-bhaṭṭāraka]- [ma]hārāja-śrī-śivadevaḥ kuśa[lī] ... samājñāpayati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mahā[rāj-ā]dhirāja-śrī-sāmant-ā[ṃśuvarmmaṇā]",
+   "name": "Aṃśuvarman",
+   "roles": [
+    "official"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "sāmanta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahā[rāj-ā]dhirāja-śrī-sāmant-ā[ṃśuvarmmaṇā] sākaṃ sampradhārya-tadanumatena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "- - - - gomī",
+   "name": "Gomin",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "gomin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "[dūtaka]ś-c-ātra - - - - gomī",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "mahā[rāj-ā]dhirāja-śrī-sāmant-ā[ṃśuvarmmaṇā] sākaṃ sampradhārya-tadanumatena"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "[dūtaka]ś-c-ātra - - - - gomī"
+  }
+ ],
+ "date": {
+  "as_written": "[saṃvat]- śrāvaṇa-māse - - - - - - - - -",
+  "era": "unspecified",
+  "year": "",
+  "month": "śrāvaṇa",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Banepā",
+  "normalized": "Banepa"
+ },
+ "purpose": "Royal decree issued by King Śivadeva in consultation with Mahāsāmanta Aṃśuvarman granting a village with koṭṭamaryādā and cāṭabhaṭa exemption for the temple of Dolāśikharasvāmin",
+ "notes": "The dūtaka's personal name is broken, ending in the title/name element -gomī (gomin). Dolāśikharasvāmin is a deity (Chāṅgu Nārāyaṇa) and is therefore not listed as a human person.",
+ "_meta": {
+  "reel": "Licchavi inscr. 74",
+  "model": "gemini-flash-latest",
+  "secs": 7.6,
+  "in_tok": 2859,
+  "out_tok": 1994
+ }
+}

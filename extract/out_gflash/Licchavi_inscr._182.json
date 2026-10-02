@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dayā",
+   "name": "Dayā",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "bhikṣuṇī"
+   ],
+   "affiliation": "",
+   "residence": "pauna pānyāṃ",
+   "evidence": "bhikṣuṇī sadyobhoga dayā svayam dattā",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Lalitpur (Patan), Bahilīṭola",
+  "normalized": "Patan"
+ },
+ "purpose": "dedication of a stone water conduit/reservoir (śilādroṇī) for the benefit of all sentient beings",
+ "notes": "The inscription is damaged and metrically/grammatically irregular. It records the donation of a śilādroṇī by a nun (bhikṣuṇī). It is uncertain whether 'dayā' is the personal name Dayā or refers to compassion (dayā/dayayā), and whether 'pauna pānyāṃ' represents a toponym in the locative or a corrupt name.",
+ "_meta": {
+  "reel": "Licchavi inscr. 182",
+  "model": "gemini-flash-latest",
+  "secs": 16.2,
+  "in_tok": 1408,
+  "out_tok": 3589
+ }
+}

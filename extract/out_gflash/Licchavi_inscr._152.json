@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "[sā]manta-candravarma-go[mi]",
+   "name": "Candravarmagomin",
+   "roles": [
+    "official"
+   ],
+   "titles": [
+    "sāmanta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "[sā]manta-candravarma-go[mi]",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "hasvimavillī-grāmasya",
+  "normalized": "Balambū"
+ },
+ "purpose": "land grant (agrahāra) with specification of its boundaries",
+ "notes": "Severely damaged inscription. The date is completely lost. Mentions Sāmanta Candravarmagomin and the village Hasvimavillī.",
+ "_meta": {
+  "reel": "Licchavi inscr. 152",
+  "model": "gemini-flash-latest",
+  "secs": 6.8,
+  "in_tok": 1815,
+  "out_tok": 1703
+ }
+}

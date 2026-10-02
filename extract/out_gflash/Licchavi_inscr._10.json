@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmānadevasya",
+   "name": "Mānadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājan"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājñaḥ śrīmānadevasya samyak-pālayato mahīm",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "guhamitreṇa",
+   "name": "Guhamitra",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "sārtthavāha"
+   ],
+   "affiliation": "vanijām",
+   "residence": "",
+   "evidence": "vanijāṃ sārtthavāhena guhamitreṇa bhaktitaḥ saṃsthāpito ’tra bhagavānindro nāma divākaraḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "rājñaḥ śrīmānadevasya samyak-pālayato mahīm ... guhamitreṇa"
+  }
+ ],
+ "date": {
+  "as_written": "[saṃva]t 402 ... āṣāḍhaśuklasya tithau pañcadaśyāṃ",
+  "era": "unspecified",
+  "year": "402",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "15",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Kathmandu, “e-bāhala",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "installation of an image of the Sun God named Indra and grant of land",
+ "notes": "",
+ "_meta": {
+  "reel": "Licchavi inscr. 10",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 1871,
+  "out_tok": 1276
+ }
+}

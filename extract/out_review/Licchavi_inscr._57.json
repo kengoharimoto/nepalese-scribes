@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "tithi: removed 'divā' ('by day', not part of the tithi name); tithi given as 'tra[yodaśī] (restored)'",
+   "notes: added that the editor's header and Gnoli's reading (paṃ[camyām]) give śukla 5, which conflicts with the restored trayodaśī",
+   "notes: said that the dūtaka role is inferred from where the phrase stands, because no 'dūtaka' word survives",
+   "place: as_written now includes the water-conduit find-spot in Patan"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "-na-gomī",
+   "name": "…nagomin",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "gomin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "na-gomīti savat 500 10 5",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "savat 500 10 5 phālguna-śukla-divā-tra[yodaśyām]",
+  "era": "unspecified",
+  "year": "515",
+  "month": "phālguna",
+  "paksa": "śukla",
+  "tithi": "tra[yodaśī] (restored; Gnoli and the header give pañcamī)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Cyāsala-ṭola (water conduit), Lalitpur",
+  "normalized": "Patan"
+ },
+ "purpose": "land grant",
+ "notes": "The inscription is badly damaged: the top dozen or so lines are lost, so the issuing king's name and the grant details are gone. What survives is mostly the closing imprecatory verses and the date. The name before the date ends in '-na-gomī' (followed by 'iti'). This is where the dūtaka is normally named, and gomin is a known title, but the word 'dūtaka' itself is lost, so the role is inferred. The tithi is uncertain. The edition reads 'divā-tra[yodaśyām]', i.e. trayodaśī, with the second half restored. Gnoli reads 'paṃ[camyām]', and the editor's header gives 'Phālguṇa śukla 5'. So the day is either 13 or 5.",
+ "_meta": {
+  "reel": "Licchavi inscr. 57",
+  "model": "opus",
+  "cost_usd": 0.433444,
+  "secs": 13.7
+ }
+}

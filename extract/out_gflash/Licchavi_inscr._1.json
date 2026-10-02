@@ -1,0 +1,141 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vṛṣadeva",
+   "name": "Vṛṣadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "rājā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājābhūd-vṛṣadeva ity-anupamaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śaṅkaradeva",
+   "name": "Śaṅkaradeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "rājā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasyābhūt-tanayaḥ ... rājā-śaṅkaradeva ity-anupamo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīdharmmadevo",
+   "name": "Dharmadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "nṛpa",
+    "pārtthiva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasy-āpy-uttama dharmma-karmma-yaśasaḥ puttro’rtthaviddhārmmikaḥ ... śrīdharmmadevo nṛpaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrī-rājyavaty",
+   "name": "Rājyavatī",
+   "roles": [
+    "queen",
+    "donor"
+   ],
+   "titles": [
+    "devī",
+    "rājñī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "patnī tasya viśuddha-vaṃśa-vibhavā śrī-rājyavaty-uttamā ... rājñī rājyavatī ca ... dānam prayaccha",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrī-mānadevo",
+   "name": "Mānadeva",
+   "roles": [
+    "king",
+    "donor"
+   ],
+   "titles": [
+    "nṛpa",
+    "narapati",
+    "rājā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yasyāñ-jāta ih-ānavadya-caritaḥ śrī-mānadevo nṛpaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "tasyābhūt-tanayaḥ ... rājā-śaṅkaradeva"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "tasy-āpy-uttama dharmma-karmma-yaśasaḥ puttro’rtthaviddhārmmikaḥ ... śrīdharmmadevo"
+  },
+  {
+   "from": "p4",
+   "type": "wife_of",
+   "to": "p3",
+   "evidence": "patnī tasya viśuddha-vaṃśa-vibhavā śrī-rājyavaty-uttamā"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "yasyāñ-jāta ih-ānavadya-caritaḥ śrī-mānadevo nṛpaḥ"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "yātaḥ pitā te divam"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 300 80 6 jyeṣṭhamāse śuklapakśe pratipadi 1 rohiṇī-nakṣattra-yukte candramasi muhūrtte praśaste-’bhijiti",
+  "era": "unspecified",
+  "year": "386",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "",
+  "nakshatra_yoga": "rohiṇī",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "dolādrau",
+  "normalized": "Changu Narayan"
+ },
+ "purpose": "Eulogy of King Mānadeva's lineage, commemoration of King Dharmadeva, victorious campaign, and religious donations/endowments on Dolādri hill",
+ "notes": "Pillar inscription at Chāṅgu Nārāyaṇa. Mānadeva's unnamed maternal uncle is addressed in III.21 (priya mātula). The lower part dealing with land/grain allocations in Khakampriṅ-grāma is broken/fragmentary.",
+ "_meta": {
+  "reel": "Licchavi inscr. 1",
+  "model": "gemini-flash-latest",
+  "secs": 14.3,
+  "in_tok": 5060,
+  "out_tok": 2798
+ }
+}

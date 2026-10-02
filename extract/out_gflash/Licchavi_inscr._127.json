@@ -1,0 +1,87 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājādhirāja-śrī-śivadevasya",
+   "name": "Śivadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājādhirāja-śrī-śivadevasya rājyam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "hūṃ-dhruvaśīlasya",
+   "name": "Dhruvaśīla",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "hūṃ"
+   ],
+   "affiliation": "",
+   "residence": "uparimanālaṅga-grāma",
+   "evidence": "grām-ādhivāsī hūṃ-dhruvaśīlasya ... puṇyādhikāra-praṇālī kṛtā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "hūṃ-aṇaṅgaśola",
+   "name": "Aṇaṅgaśola",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "hūṃ"
+   ],
+   "affiliation": "",
+   "residence": "uparimanālaṅga-grāma",
+   "evidence": "tad-bhrātā hūṃ-aṇaṅgaśola-sahitena puṇyādhikāra-praṇālī kṛtā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "brother_of",
+   "to": "p2",
+   "evidence": "tad-bhrātā"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "rājādhirāja-śrī-śivadevasya rājyam"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 118 jyeṣṭha-śukla-daśamyām",
+  "era": "unspecified",
+  "year": "118",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "uparimanālaṅga-grāma",
+  "normalized": "Nala"
+ },
+ "purpose": "construction of a water conduit (puṇyādhikārapraṇālī) for the use of the village Uparimanālaṅga",
+ "notes": "",
+ "_meta": {
+  "reel": "Licchavi inscr. 127",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 1631,
+  "out_tok": 1878
+ }
+}

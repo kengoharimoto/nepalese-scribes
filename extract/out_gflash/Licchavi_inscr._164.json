@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śākyabhikṣorbandhubhadrasya",
+   "name": "Bandhubhadra",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "deyadharmoyaṃ śākyabhikṣorbandhubhadrasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Cābahila",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "deyadharma (pious gift) for the benefit of parents and all sentient beings",
+ "notes": "Fragmentary inscription on a round stone at the Cābahila stūpa.",
+ "_meta": {
+  "reel": "Licchavi inscr. 164",
+  "model": "gemini-flash-latest",
+  "secs": 2.9,
+  "in_tok": 1393,
+  "out_tok": 675
+ }
+}

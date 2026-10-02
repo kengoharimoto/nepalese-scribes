@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "aṃśuvarmā",
+   "name": "Aṃśuvarman",
+   "roles": [
+    "king",
+    "donor"
+   ],
+   "titles": [
+    "narapati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sañcas-kṛtavān-narapatiḥ punar-aṃśuvarmā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "ekatriṃśattame varṣe vartamāne svasaṃsthayā māgha-śukla-trayodaśyām-puṣyeṇa savitur-dine",
+  "era": "unspecified",
+  "year": "31",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "savitur-dina",
+  "nakshatra_yoga": "puṣya",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Chāṅgu Nārāyaṇa",
+  "normalized": "Changu Narayan"
+ },
+ "purpose": "Restoration of the worn-out golden coat/armour (haimaṃ kavacam) of Hari/Nārāyaṇa for the benefit of the world (jagaddhitārtham)",
+ "notes": "",
+ "_meta": {
+  "reel": "Licchavi inscr. 80",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 1697,
+  "out_tok": 932
+ }
+}

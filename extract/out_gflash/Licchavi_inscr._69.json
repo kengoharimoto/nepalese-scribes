@@ -1,0 +1,70 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājaputra-vikramasenaḥ",
+   "name": "Vikramasena",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "rājaputra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūta[kaś-c-ā]tra rājaputra-vikramasenaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ādityaguptasya",
+   "name": "Ādityagupta",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ādityaguptasya kṣetram",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "maṅgalasya",
+   "name": "Maṅgala",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "maṅgalasya kṣetram",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 535 śrā[va][ṇa]-śukladivā-saptamyām",
+  "era": "unspecified",
+  "year": "535",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Kathmandu, Jyā-bahāla",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "land grant (prasādīkṛta)",
+ "notes": "The beginning of the inscription is damaged; scholars have often attributed it to King Śivadeva I on the basis of the era and the dūtaka Vikramasena, but the royal name itself is not preserved in the extant text. Maṅgala and Ādityagupta are named as adjoining plot owners.",
+ "_meta": {
+  "reel": "Licchavi inscr. 69",
+  "model": "gemini-flash-latest",
+  "secs": 10.2,
+  "in_tok": 2443,
+  "out_tok": 2940
+ }
+}

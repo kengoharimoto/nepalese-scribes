@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "[śrīmānadeva]nṛpatiḥ",
+   "name": "Mānadeva",
+   "roles": [
+    "king",
+    "donor"
+   ],
+   "titles": [
+    "nṛpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "[śrīmānadeva]nṛpatiḥ praṇato jagād tvat-sthāpanājanitam-asti yad-atra puṇyam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "[saṃvat 300] 90 8 prathamāṣāḍhe śukladiva 12",
+  "era": "unspecified",
+  "year": "398",
+  "month": "prathamāṣāḍha",
+  "paksa": "śukla",
+  "tithi": "12",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Būḍhānīlkaṇṭha",
+  "normalized": "Budhanilkantha"
+ },
+ "purpose": "Installation of a Śivaliṅga by King Mānadeva",
+ "notes": "The year is given as [300] 90 8 (398) in line 4; Regmi read 395 and Dhanavajra Vajrācārya read 396.",
+ "_meta": {
+  "reel": "Licchavi inscr. 7",
+  "model": "gemini-flash-latest",
+  "secs": 8.3,
+  "in_tok": 1907,
+  "out_tok": 1058
+ }
+}

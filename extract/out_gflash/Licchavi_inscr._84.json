@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī-mahāsāmant-āṃśuvarmā",
+   "name": "Aṃśuvarman",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahāsāmanta"
+   ],
+   "affiliation": "",
+   "residence": "kailāsakūṭabhavana",
+   "evidence": "śrī-mahāsāmant-āṃśuvarmā-ku[śalī] ... samājñāpaya[ti]",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "yuvarāja [udayadevaḥ]",
+   "name": "Udayadeva",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "yuvarāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-ātra yuvarāja [udayadevaḥ]",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "[saṃvat] 36 āṣāḍhaśukladivāpañcamyām",
+  "era": "unspecified",
+  "year": "36",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Vaṭu-ṭola (Otutol)",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "Edict regarding tax exemptions relating to water conduit/workshop work (śālā-praṇālī-karma).",
+ "notes": "L. 15: Regmi has 38 in the preface and 36 in translation. The restored name of the dūtaka is Yuvarāja Udayadeva.",
+ "_meta": {
+  "reel": "Licchavi inscr. 84",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 2164,
+  "out_tok": 1264
+ }
+}

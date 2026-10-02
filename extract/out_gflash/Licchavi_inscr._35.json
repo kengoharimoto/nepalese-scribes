@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "anuparameṇa",
+   "name": "Anuparama",
+   "roles": [
+    "composer",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "stotraṅ-kṛtam anuparameṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Hāṃḍigāuṃ",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "Eulogy (stotra) composed in honor of Dvaipāyana Vyāsa to obtain prosperity for the author's father",
+ "notes": "Pillar inscription containing a 34-stanza hymn to Dvaipāyana (Vyāsa). The date portion is missing/lost; paleographically assigned to the reign of Mānadeva I or Vasantadeva. The author's father is referred to anonymously (pitari me).",
+ "_meta": {
+  "reel": "Licchavi inscr. 35",
+  "model": "gemini-flash-latest",
+  "secs": 9.8,
+  "in_tok": 6052,
+  "out_tok": 1642
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Place: added the find-spot (stone slab at the entrance of the Gorakhnāth cave) to as_written",
+   "Residence of Śivadeva given as the place of issue in the form written (Kailāsakūṭabhavana)",
+   "Notes: Śivadeva II identification marked as inferred from the date; doubtful reading of the year and R.'s different line numbering recorded; no dūtaka, officials or recipients survive in the damaged text",
+   "Purpose made more precise (royal charter/grant, bhogadatta, vāditra, paṇa/mānikā payments)"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "[śrī-śi]vadevaḥ",
+   "name": "Śivadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "paramabhaṭṭāraka",
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "Kailāsakūṭabhavana",
+   "evidence": "kailāsakūṭa[bhavanād] ... parama[bha]ṭṭāraka-mahārājādhirāja-[śrī-śi]vadevaḥ ku[śalī] ... samājñāpayati",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 122",
+  "era": "unspecified",
+  "year": "122",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Gorkhā, slab at the entrance of the cave of Gorakhnath",
+  "normalized": "Gorkha"
+ },
+ "purpose": "Royal charter (edict) of Śivadeva granting land/money (bhogadatta, payments in paṇa and mānikā, music) for the kāraṇapūjā of Vajrabhairava-bhaṭṭāraka",
+ "notes": "The inscription is badly damaged, so only the issuing king survives. Any dūtaka, officials or recipients are lost. Śivadeva is probably Śivadeva II, but this rests only on the year 122, and Regmi says the reading of that year is doubtful. The date has no month, pakṣa or tithi. The '34' in line 14 is unclear. Regmi leaves out line 14 and numbers line 15 as 14, and so on. Concordance: DV 141; HJ 143; R. 134.",
+ "_meta": {
+  "reel": "Licchavi inscr. 130",
+  "model": "opus",
+  "cost_usd": 0.08674899999999999,
+  "secs": 13.4
+ }
+}

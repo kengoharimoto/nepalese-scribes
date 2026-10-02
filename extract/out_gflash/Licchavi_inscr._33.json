@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pratīhāra-dhruvasaṅgha-vārttena",
+   "name": "Dhruvasaṅgha",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "pratīhāra",
+    "vārtta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pratīhāra-dhruvasaṅgha-vārttena ... dattaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 455 caittra-śukladivā 10",
+  "era": "unspecified",
+  "year": "455",
+  "month": "caittra",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "bhagavataḥ paśupateḥ kṣettre",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "land grant for the kāraṇapūjā and repairs of five śivaliṅgas installed by himself, for his own merit and the welfare of his parents",
+ "notes": "Land located to the south of Yūpagrāma (yūpagrāmasya dakṣiṇena).",
+ "_meta": {
+  "reel": "Licchavi inscr. 33",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 1790,
+  "out_tok": 1189
+ }
+}

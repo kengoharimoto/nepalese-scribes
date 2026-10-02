@@ -1,0 +1,102 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭāraka-mahārāja-śrī-gaṇadevaḥ",
+   "name": "Gaṇadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhaṭṭāraka",
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "Mānagṛha",
+   "evidence": "mānagṛhād-bappa-pādā[nuddhyāto bhaṭṭāraka ma]hārāja-śrī-gaṇadevaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sarvva-daṇḍanāyaka-mahāpratihāra-śrī-bhaumagupta",
+   "name": "Bhaumagupta",
+   "roles": [
+    "official"
+   ],
+   "titles": [
+    "sarvadaṇḍanāyaka",
+    "mahāpratīhāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sarvva-[daṇḍa]nāyaka-mahāpratihāra-śrī-bhaumagupta-[vijñāpi]tena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "babbhru-varmā",
+   "name": "Babbhruvarman",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-ā[tra babbhru-varmā]",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "prasāda-gupta-vārtte",
+   "name": "Prasādagupta",
+   "roles": [
+    "official"
+   ],
+   "titles": [
+    "vārtta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "[brahmuṅ prasāda-gupta-vārtte vyavaharat-īti]",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "[mayā sarvva-daṇḍa]nāyaka-mahāpratihāra-śrī-bhaumagupta-[vijñāpi]tena"
+  },
+  {
+   "from": "p3",
+   "type": "servant_of",
+   "to": "p1",
+   "evidence": "dūtakaś-c-ā[tra babbhru-varmā]"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 482 śrāvaṇa-śukla-pratipadi",
+  "era": "unspecified",
+  "year": "482",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "pratipad",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "kāduṅ-grāme",
+  "normalized": "Kisipidi"
+ },
+ "purpose": "Royal edict granting exemption to the inhabitants of Kāduṅ village from the entry of Liṅgvala and Māpcoka offices for investigating the five crimes",
+ "notes": "Lines 14–16 containing the names of the dūtaka Babbhruvarman, the vārtta Prasādagupta, and the date are restored from parallel edicts of King Gaṇadeva in the Śītāṭikā area.",
+ "_meta": {
+  "reel": "Licchavi inscr. 48",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 2350,
+  "out_tok": 2394
+ }
+}

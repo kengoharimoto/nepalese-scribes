@@ -111,6 +111,10 @@ CREATE TABLE ngmcp_date (          -- NGMCP dates recalculated with the pañcā�
   era TEXT, era_year INTEGER, month TEXT, paksa TEXT, tithi INTEGER, weekday TEXT, naksatra TEXT,
   computed_weekday TEXT, computed_tithi INTEGER, computed_naksatra TEXT, saka INTEGER, ambiguous INTEGER,
   flat_ce INTEGER, flat_era TEXT, basis TEXT, possible TEXT, alternatives TEXT, as_written TEXT);
+CREATE TABLE licchavi_inscription (  -- E-texts/1_sanskr/7_inscriptions/licchavi, one row per inscription
+  no INTEGER PRIMARY KEY, label TEXT, file TEXT, header TEXT, samvat TEXT, gnoli TEXT, dv TEXT, hj TEXT, regmi TEXT,
+  era TEXT, era_year INTEGER, date TEXT, year_ce INTEGER, status TEXT, rule TEXT, month TEXT, paksa TEXT, tithi INTEGER,
+  weekday TEXT, naksatra TEXT, computed_weekday TEXT, computed_naksatra TEXT, as_written TEXT, text TEXT);
 CREATE TABLE bendall_ngmcp_title ( -- NGMCP texts with the same title (the same work, not the same MS)
   add_no TEXT, part INTEGER, bendall_title TEXT, title_id INTEGER, ngmcp_title TEXT);
 
@@ -470,6 +474,25 @@ def build():
                       r.get('basis'), ', '.join(r.get('possible', [])) or None,
                       ' | '.join(r.get('alternatives', [])) or None, r.get('as_written')))
     con.executemany('INSERT INTO ngmcp_date VALUES (' + ','.join('?' * 24) + ')', nrows)
+
+    # ------------------------------------------------------------ Licchavi inscriptions
+    sys.path.insert(0, os.path.join(HERE, '..', 'extract'))
+    try:
+        import make_licchavi_worklist as LW
+        lent = LW.entries()
+    except Exception:
+        lent = []
+    lpath = os.path.join(DATA, 'licchavi_dates.json')
+    ldates = json.load(open(lpath)) if os.path.exists(lpath) else {}
+    lrows = []
+    for e in lent:
+        r = ldates.get(LW.label(e['no']), {})
+        g, c = r.get('given', {}), r.get('computed', {})
+        lrows.append((e['no'], LW.label(e['no']), e['file'], e['head'], e['samvat'], e['conc'].get('Gn'), e['conc'].get('DV'),
+                      e['conc'].get('HJ'), e['conc'].get('R'), g.get('era'), g.get('year'), r.get('date'), r.get('ce'),
+                      r.get('status'), r.get('rule'), g.get('masa'), g.get('paksa'), g.get('tithi'), g.get('weekday'),
+                      g.get('naksatra'), c.get('weekday'), c.get('naksatra'), r.get('as_written'), e['text']))
+    con.executemany('INSERT INTO licchavi_inscription VALUES (' + ','.join('?' * 24) + ')', lrows)
 
     # ------------------------------------------------------------ person register (build_persons.py)
     try:

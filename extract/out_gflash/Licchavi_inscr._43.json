@@ -1,0 +1,102 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaṇadevaḥ",
+   "name": "Gaṇadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhaṭṭāraka",
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "Mānagṛha",
+   "evidence": "bhaṭṭāraka-ma-hārāja-śrī-gaṇadevaḥ kuśalī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaumagupta",
+   "name": "Bhaumagupta",
+   "roles": [
+    "official"
+   ],
+   "titles": [
+    "sarvadaṇḍanāyaka",
+    "mahāpratīhāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sarvvadaṇḍanāyaka-mahāpratihāra-śrī-bhaumagupt-ānujñāpitena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "babbhruvarmā",
+   "name": "Babbhruvarman",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-āttra babbhruvarmā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "prasāda-gupta-vārtte",
+   "name": "Prasādagupta",
+   "roles": [
+    "official"
+   ],
+   "titles": [
+    "vārtta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "prasāda-gupta-vārtte vyavaharat-īti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "sarvvadaṇḍanāyaka-mahāpratihāra-śrī-bhaumagupt-ānujñāpitena"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "dūtakaś-c-āttra babbhruvarmā"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 482 śrāvaṇa-śukla-pratipadi",
+  "era": "unspecified",
+  "year": "482",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "pratipad",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "śītāṭikā-tale tegval-grāme",
+  "normalized": "Chowkitar"
+ },
+ "purpose": "sthitipaṭṭaka grant exempting Tegvalagrāma from the entry of the Liṅgvala and Māpcoka adhikaraṇas",
+ "notes": "The English introduction mistakenly mentions the month as Āśvina, but the inscription text in line 17 clearly reads śrāvaṇa-śukla-pratipadi. Gnoli alternatively read the dūtaka's name as Vastravarmā.",
+ "_meta": {
+  "reel": "Licchavi inscr. 43",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 2484,
+  "out_tok": 1890
+ }
+}

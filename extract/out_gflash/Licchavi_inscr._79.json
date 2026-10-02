@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājaputra-sthitivarmā",
+   "name": "Sthitivarman",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "rājaputra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtako’tra rājaputra-sthitivarmā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 31 dvitīya-pauṣa-śukl-āṣṭamyām",
+  "era": "unspecified",
+  "year": "31",
+  "month": "dvitīya-pauṣa",
+  "paksa": "śukla",
+  "tithi": "aṣṭamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Ināya-ṭola",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "edict",
+ "notes": "The upper portion containing the ruler's name is completely damaged; 'svayam-ājñā' indicates a royal decree, attributed to Aṃśuvarman by date.",
+ "_meta": {
+  "reel": "Licchavi inscr. 79",
+  "model": "gemini-flash-latest",
+  "secs": 7.2,
+  "in_tok": 1700,
+  "out_tok": 1012
+ }
+}

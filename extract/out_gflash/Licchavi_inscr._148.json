@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāja-śrī-baladeva",
+   "name": "Baladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāja-śrī-baladevarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kumārasvāmi",
+   "name": "Kumārasvāmin",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [
+    "devasthāpaka"
+   ],
+   "affiliation": "",
+   "residence": "laṅkhā-grāma",
+   "evidence": "devasthāpaka-kumārasvāmi - - prada bhukti - - - ma huṃhāralambheṇa kāritakamiti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "rāja-śrī-baladevarājye"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 271 vaiśākhaśukla-divapañcamyāṃ",
+  "era": "unspecified",
+  "year": "271",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Chāṅgu Nārāyaṇa",
+  "normalized": "Changu Narayan"
+ },
+ "purpose": "installation of an image of Lord Pratilasvāmin (Śivaliṅga)",
+ "notes": "Gnoli reads the year as 172 and the king as Śivadeva; Regmi reads 272 and Baradeva.",
+ "_meta": {
+  "reel": "Licchavi inscr. 148",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 1912,
+  "out_tok": 1370
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭāraka-mahārāja-śrī-bhīmārjuna[devas]",
+   "name": "Bhīmārjunadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "licchavikula-ketu",
+    "bhaṭṭāraka",
+    "mahārāja"
+   ],
+   "affiliation": "licchavikula",
+   "residence": "Mānagṛha",
+   "evidence": "licchavikulaketur-bhaṭṭāraka-mahārāja-śrī-bhīmārjuna[devas]",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī-jiṣṇuguptaḥ",
+   "name": "Jiṣṇugupta",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhagavat-paśupati-bhaṭṭārakapādānugṛhīta",
+    "bappapādānudhyāta"
+   ],
+   "affiliation": "",
+   "residence": "Kailāsakūṭabhavana",
+   "evidence": "kailāsakūṭabhavanād ... śrī-jiṣṇuguptaḥ kuśalī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "yuvarāja-śrī-viṣṇuguptaḥ",
+   "name": "Viṣṇugupta",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "yuvarāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-ātra yuvarāja-śrī-viṣṇuguptaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "other",
+   "to": "p1",
+   "evidence": "tat-purassaraḥ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 50 5 āśvayuja-śukla-pañcamyām",
+  "era": "unspecified",
+  "year": "55",
+  "month": "āśvayuja",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Balambū",
+  "normalized": "Balambu"
+ },
+ "purpose": "edict granting land and cailakara exemption to the pāñcālikas of Jolpriṅ village for maintenance of a water conduit (praṇālī)",
+ "notes": "Jiṣṇugupta rules de facto from Kailāsakūṭabhavana, placing Licchavi king Bhīmārjunadeva in front (tat-puraḥsaraḥ) at Mānagṛha.",
+ "_meta": {
+  "reel": "Licchavi inscr. 104",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 2626,
+  "out_tok": 1551
+ }
+}

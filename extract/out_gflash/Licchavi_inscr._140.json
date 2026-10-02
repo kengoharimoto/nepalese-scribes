@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "hivākarana",
+   "name": "Divākara",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "hivākarana dattam",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 170 kārtika . . . divā daśamyām",
+  "era": "unspecified",
+  "year": "170",
+  "month": "kārtika",
+  "paksa": "",
+  "tithi": "daśamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Lalitpur, Maṅgala-bajāra",
+  "normalized": "Patan"
+ },
+ "purpose": "donation of land/conduit to the pāñcālikas of Kalopigrāma",
+ "notes": "The reading 'hivākarana dattam' is emended to 'divākarena dattam'. The recipient is the collective body of the pāñcālikas of Kalopigrāma.",
+ "_meta": {
+  "reel": "Licchavi inscr. 140",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 1729,
+  "out_tok": 1237
+ }
+}

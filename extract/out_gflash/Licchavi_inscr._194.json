@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdhārmarājik-āmātya",
+   "name": "Dhārmarājika",
+   "roles": [
+    "official",
+    "donor"
+   ],
+   "titles": [
+    "amātya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdhārmarājik-āmātya",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Saṃkhu",
+  "normalized": "Sankhu"
+ },
+ "purpose": "pious donation to the bhikṣusaṃgha",
+ "notes": "Fragmentary inscription. Line 1 has 'śrīdhārmarājik-āmātyasu - - - -', which could either be an amātya named Dhārmarājika or the son of the amātya Dhārmarājika (reading su[ta]...).",
+ "_meta": {
+  "reel": "Licchavi inscr. 194",
+  "model": "gemini-flash-latest",
+  "secs": 7.6,
+  "in_tok": 1485,
+  "out_tok": 1717
+ }
+}

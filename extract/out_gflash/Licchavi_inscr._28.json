@@ -1,0 +1,130 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭāraka-mahārāja-śrī-vasantadeve",
+   "name": "Vasantadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhaṭṭāraka",
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭāraka-mahārāja-śrī-vasantadeve samyag-rājyam-praśāsati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "yājñika-viprasenena",
+   "name": "Viprasena",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "yājñika"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yājñika-viprasenena vedakṛt-āmnāya-bhagavate kāraṇapūj-ārttham",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "brāhmaṇa-dhruvasenena",
+   "name": "Dhruvasena",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "brāhmaṇa-dhruvasenena dattan",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "brāhmaṇa-vṛddhiṣeṇena",
+   "name": "Vṛddhiṣeṇa",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "brāhmaṇa-vṛddhiṣeṇena pikaṅkūlaka-pradeśe mālārtthaṃ piṇḍaka-māni 7",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "yājñika-vedabhaṭṭena",
+   "name": "Vedabhaṭṭa",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "yājñika"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yājñika-vedabhaṭṭena dattaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "bhaṭṭāraka-mahārāja-śrī-vasantadeve samyag-rājyam-praśāsati"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "bhaṭṭāraka-mahārāja-śrī-vasantadeve samyag-rājyam-praśāsati"
+  },
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "bhaṭṭāraka-mahārāja-śrī-vasantadeve samyag-rājyam-praśāsati"
+  },
+  {
+   "from": "p5",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "bhaṭṭāraka-mahārāja-śrī-vasantadeve samyag-rājyam-praśāsati"
+  }
+ ],
+ "date": {
+  "as_written": "[saṃvat] 452 pauṣaśukla-tithau tṛtīyasyām",
+  "era": "unspecified",
+  "year": "452",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "tṛtīyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Lalitpur, (Patan) Khapiṃche-tole",
+  "normalized": "Patan"
+ },
+ "purpose": "endowment of land and grain for the worship (kāraṇapūjā) and garlands for Maharṣi Vaiśampāyana",
+ "notes": "Maharṣi Vaiśampāyana is excluded as a mythical/divine figure receiving worship.",
+ "_meta": {
+  "reel": "Licchavi inscr. 28",
+  "model": "gemini-flash-latest",
+  "secs": 7.7,
+  "in_tok": 1759,
+  "out_tok": 2565
+ }
+}

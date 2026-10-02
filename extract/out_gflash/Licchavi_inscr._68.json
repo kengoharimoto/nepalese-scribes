@@ -1,0 +1,91 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "licchavikulaketur-bhaṭṭāraka-mahārāja-śrī-śivadevaḥ",
+   "name": "Śivadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "licchavikulaketu",
+    "bhaṭṭāraka",
+    "mahārāja"
+   ],
+   "affiliation": "Licchavi dynasty",
+   "residence": "Mānagṛha",
+   "evidence": "bhaṭṭāraka-mahārāja-śrī-śivadevaḥ-kuśalī lembaṭī-draṅga-nivāsinaḥ ... samājñāpayati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī-mahāsāmant-āṃśuvarmmā",
+   "name": "Aṃśuvarman",
+   "roles": [
+    "official",
+    "donor"
+   ],
+   "titles": [
+    "mahāsāmanta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī-mahāsāmant-āṃśuvarmm-āsmad-anumodanayā śilāpaṭṭaśāsanam-idan-dattavān",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "pratihāra-lacchāgomī",
+   "name": "Lacchāgomin",
+   "roles": [
+    "dutaka",
+    "official"
+   ],
+   "titles": [
+    "pratihāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-ātra pratihāra-lacchāgomī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "āsmad-anumodanayā"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "dūtakaś-c-ātra pratihāra-lacchāgomī"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 526 āśvayuja-śukladivā",
+  "era": "unspecified",
+  "year": "526",
+  "month": "āśvayuja",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "lembaṭī-draṅga",
+  "normalized": "Lele"
+ },
+ "purpose": "edict confirming land endowments to numerous goṣṭhīs, śālās, and communal facilities in Lembaṭī draṅga",
+ "notes": "The stone stele records that Mahāsāmanta Aṃśuvarman granted this stone edict with King Śivadeva's approval. The date gives divā without a specific tithi number.",
+ "_meta": {
+  "reel": "Licchavi inscr. 68",
+  "model": "gemini-flash-latest",
+  "secs": 13.0,
+  "in_tok": 2836,
+  "out_tok": 2120
+ }
+}

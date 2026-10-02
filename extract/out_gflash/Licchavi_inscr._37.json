@@ -1,0 +1,111 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ābhīrī-khyāta-guṇ-ābhāryyā / ābhīrī-gominyā",
+   "name": "Ābhīrī",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [
+    "gominī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ābhīrī-khyāta-guṇ-ābhāryyā param-ābhimāninaḥ sūnoḥ ... cakāra saṃsthāpanam-śambhoḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "param-ābhimāninaḥ sūnoḥ / bharttur / pataye tridivasthāya",
+   "name": "Anuparama",
+   "roles": [
+    "relative_only",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "param-ābhimāninaḥ sūnoḥ | puṇya-vivṛddhyai bharttur-devatvām-itaḥ prayātasya",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "param-ābhimāninaḥ",
+   "name": "Paramābhimānin",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "param-ābhimāninaḥ sūnoḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "bhaumaguptādīnām",
+   "name": "Bhaumagupta",
+   "roles": [
+    "relative_only",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "putreṇ-ānujñātā ... apatyānām-bhaumaguptādīnām-bhog-ārogy-āyur-ānanty-āvāptaye",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wife_of",
+   "to": "p2",
+   "evidence": "bhāryyā param-ābhimāninaḥ sūnoḥ | puṇya-vivṛddhyai bharttur"
+  },
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "param-ābhimāninaḥ sūnoḥ"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "putreṇ-ānujñātā ... apatyānām-bhaumaguptādīnām"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "apatyānām-bhaumaguptādīnām"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 462 jyeṣṭha-māse tithau dvitīyāyām",
+  "era": "unspecified",
+  "year": "462",
+  "month": "jyeṣṭha",
+  "paksa": "",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "vempāgrāme",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "Installation of the Anuparameśvara Śivaliṅga and endowment of land in Vempāgrāma for worship, repair, and merit of deceased husband and sons headed by Bhaumagupta",
+ "notes": "The husband is unnamed explicitly except through the linga name 'Anuparameśvara' (referring to Anuparama) and the phrase 'son of Paramābhimānin'. Regmi reads year 402 in intro, text has 462.",
+ "_meta": {
+  "reel": "Licchavi inscr. 37",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 2163,
+  "out_tok": 1049
+ }
+}

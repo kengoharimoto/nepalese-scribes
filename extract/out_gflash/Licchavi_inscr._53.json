@@ -1,0 +1,99 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājaputtra-vajrarathanāmno",
+   "name": "Vajraratha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "rājaputra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājaputtra-vajrarathanāmno",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "babhruvarmma-nāmnā",
+   "name": "Babhruvarman",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kālagatasya babhruvarmmaṇaḥ svarggānantyāya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "deśavarmmanāmno",
+   "name": "Deśavarman",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paramabhāgavata"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tad-bhrātuṣputrasya nitya-dharmābhiratacetaskasya paramabhāgavatasya deśavarmmanāmno",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "deśabhaṭṭārikayā",
+   "name": "Deśabhaṭṭārikā",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "deśavarmmanāmno māttrā pativratayā dharmmiṣṭhayā deśabhaṭṭārikayā ... devyo mātaraḥ śailyāḥ kāritā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "deśavarmmanāmno māttrā ... deśabhaṭṭārikayā"
+  },
+  {
+   "from": "p3",
+   "type": "other",
+   "to": "p2",
+   "evidence": "tad-bhrātuṣputrasya ... deśavarmmanāmno"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat varṣaśata 495",
+  "era": "unspecified",
+  "year": "495",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "vāgvatyā maṇimatyāś-ca sandhideśe",
+  "normalized": "Lalitpur"
+ },
+ "purpose": "Restoration in stone of the previously clay images of the Mothers (mātaraḥ) for the spiritual merit of the deceased Babhruvarman, the donor's parents, husband, and herself",
+ "notes": "The original clay images were installed by a member of the gotra of prince (rājaputra) Vajraratha at the confluence of the Bāgmatī and Maṇimatī (Manoharā).",
+ "_meta": {
+  "reel": "Licchavi inscr. 53",
+  "model": "gemini-flash-latest",
+  "secs": 7.9,
+  "in_tok": 2008,
+  "out_tok": 2455
+ }
+}

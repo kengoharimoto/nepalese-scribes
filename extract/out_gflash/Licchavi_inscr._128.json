@@ -1,0 +1,68 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paramabhaṭṭāraka-mahārājādhirāja-śrī-śivadevaḥ",
+   "name": "Śivadeva",
+   "roles": [
+    "king",
+    "donor"
+   ],
+   "titles": [
+    "paramabhaṭṭāraka",
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "Kailāsakūṭabhavana",
+   "evidence": "paramabhaṭṭāraka-mahārājādhirāja-śrī-śivadevaḥ kuśalī ... samājñāpayati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rājaputra-jayadevaḥ",
+   "name": "Jayadeva",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "rājaputra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-ātra rājaputra-jayadevaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "dūtakaś-c-ātra rājaputra-jayadevaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 119 phālguna-śukla-divā-daśamyām",
+  "era": "unspecified",
+  "year": "119",
+  "month": "Phālguna",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Lagan tol, Kathmandu",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "Grant of Vaidyagrāma as an agrahāra to Pāśupata teachers for the maintenance and repair of the Śivadeveśvara temple",
+ "notes": "Issued from Kailāsakūṭabhavana by King Śivadeva (II); the dūtaka is Prince Jayadeva (later Jayadeva II).",
+ "_meta": {
+  "reel": "Licchavi inscr. 128",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 2828,
+  "out_tok": 1529
+ }
+}

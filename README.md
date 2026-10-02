@@ -28,6 +28,7 @@ a mirror of its files is published under CC0 at https://github.com/INDOLOGY/NGMC
 | chart | `export_chart.py` + `chart_template.html` | `out/nepalese_scribes.html` |
 | Bendall's Cambridge catalogue (1883): Chandra OCR of the 1992 reprint scan | `chandra-ocr.sh` (in `/mnt2/kengo`) | `data/bendall1883_ocr.md` |
 | recalculate dates from the colophons with the pañcāṅga (Yano & Fushimi, `pancanga313_ns_test.pl`, not in the repository: Michio Yano and Makoto Fushimi's *Pancanga* 3.13 Perl program, placed in the project root; rules and their test in `calendar/verify.py`) | `calendar/ngmcp_dates.py`, `calendar/bendall_dates.py` (run after a first `build_persons.py`, then rebuild) | `data/ngmcp_dates.json`, `data/bendall_dates.json` |
+| Licchavi inscriptions (E-texts `1_sanskr/7_inscriptions/licchavi`, 198): worklist, reading (Gemini Flash; Opus for 20), dates afresh | `extract/make_licchavi_worklist.py`; `extract_gemini.py` / `review.py` with `--preamble preamble_licchavi.txt --schema schema_licchavi.json`; `calendar/licchavi_dates.py` | `extract/out_gflash/Licchavi_*`, `extract/out_review/Licchavi_*`, `data/licchavi_dates.json` |
 | catalogue + title-list database (merges the HTML entries with `data/ngmcpdb_production.sql.bz2`; see `db/README.md`) | `db/build_db.py` | `db/ngmcp.sqlite` |
 
 `extract/extract.py` is the `claude -p` version of the first reading. It was used for the
@@ -37,6 +38,10 @@ reset time and skip reels already done, so they can simply be restarted.
 
 ## Decisions
 
+- Licchavi inscriptions: persons named only as ancestors in genealogies are left out, and Licchavi persons
+  are grouped separately from the persons of manuscripts (keys `lic:`); -varman stays part of a name there.
+  Both Licchavi series (saṃvat 386–535, and Aṃśuvarman's from 29) are read as the Kārttikādi current Śaka
+  (Malla 2005), the second with 500 dropped (`calendar/verify.py`, eras LIC and AS).
 - Paper manuscripts dated before 1300 are treated as undated (`date_doubtful`); the Aṃśuvarman ("Mānadeva")
   saṃvat is the Kārttikādi Śaka − 500 (K. P. Malla 2005; `calendar/verify.py`); B 11/4 and C 80/7, AS-dated
   and only in the title list, are added from `data/extra_manuscripts.json`.

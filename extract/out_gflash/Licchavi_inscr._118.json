@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭāraka-mahārāj-ādhirāja-śrī-narendradevaḥ",
+   "name": "Narendradeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhaṭṭāraka",
+    "mahārājādhirāja"
+   ],
+   "affiliation": "licchavi-vaṃśa",
+   "residence": "kailāsakūṭabhavana",
+   "evidence": "bhaṭṭāraka-mahārāj-ādhirāja-śrī-narendradevaḥ kuśalī ... samājñāpayati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī-yuvarāja - - dev-eti",
+   "name": "[...]deva",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "yuvarāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-ātra śrī-yuvarāja - - dev-eti",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "dūtakaś-c-ātra śrī-yuvarāja - - dev-eti"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 80 . . . kṛṣṇa-divā-daśamyām",
+  "era": "unspecified",
+  "year": "80",
+  "month": "",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "kailāsakūṭabhavanāt",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "Restoration and confirmation of an earlier royal grant (prasāda-śāsanapaṭṭaka) concerning Haṃsagṛha draṅga with Paścimako-grāma, with detailed regulations and ritual allotments for Lokapālasvāmin",
+ "notes": "Issued from Kailāsakūṭabhavana; find-spot is near the Anantaliṅgeśvara temple south of Bhaktapur. The month name is lost in the lacuna after year 80. The personal name of the yuvarāja (dūtaka) is mostly broken, ending in -deva (likely Skandadeva).",
+ "_meta": {
+  "reel": "Licchavi inscr. 118",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 3293,
+  "out_tok": 1610
+ }
+}

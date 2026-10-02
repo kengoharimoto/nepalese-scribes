@@ -1,0 +1,148 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīhetujīvapati",
+   "name": "Hetujīva",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "pati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīhetujīvapati ... prabhṛtibhiḥ-svapuṇyābhivṛddhaye śrībhagavad-nārāyaṇadevaḥ [pra]ti[ṣṭhā] pi[taḥ]",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvastramitra",
+   "name": "Vastramitra",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvastramitra ... prabhṛtibhiḥ-svapuṇyābhivṛddhaye śrībhagavad-nārāyaṇadevaḥ [pra]ti[ṣṭhā] pi[taḥ]",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīdevasvāmi",
+   "name": "Devasvāmin",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdevasvāmi ... prabhṛtibhiḥ-svapuṇyābhivṛddhaye śrībhagavad-nārāyaṇadevaḥ [pra]ti[ṣṭhā] pi[taḥ]",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīdharamittra",
+   "name": "Dharamitra",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdharamittra ... prabhṛtibhiḥ-svapuṇyābhivṛddhaye śrībhagavad-nārāyaṇadevaḥ [pra]ti[ṣṭhā] pi[taḥ]",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrīdhuvamittra",
+   "name": "Dhuvamitra",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdhuvamittra ... prabhṛtibhiḥ-svapuṇyābhivṛddhaye śrībhagavad-nārāyaṇadevaḥ [pra]ti[ṣṭhā] pi[taḥ]",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "śrīsomamitra",
+   "name": "Somamitra",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsomamitra ... prabhṛtibhiḥ-svapuṇyābhivṛddhaye śrībhagavad-nārāyaṇadevaḥ [pra]ti[ṣṭhā] pi[taḥ]",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "śrīmittra",
+   "name": "Mitra",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmittra ... prabhṛtibhiḥ-svapuṇyābhivṛddhaye śrībhagavad-nārāyaṇadevaḥ [pra]ti[ṣṭhā] pi[taḥ]",
+   "confidence": "high"
+  },
+  {
+   "pid": "p8",
+   "as_written": "śrījayadeva",
+   "name": "Jayadeva",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījayadeva ... prabhṛtibhiḥ-svapuṇyābhivṛddhaye śrībhagavad-nārāyaṇadevaḥ [pra]ti[ṣṭhā] pi[taḥ]",
+   "confidence": "high"
+  },
+  {
+   "pid": "p9",
+   "as_written": "śrīnārāyaṇa",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnārāyaṇa-prabhṛtibhiḥ-svapuṇyābhivṛddhaye śrībhagavad-nārāyaṇadevaḥ [pra]ti[ṣṭhā] pi[taḥ]",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 172 āṣāḍhaśukladivādvādaśy",
+  "era": "unspecified",
+  "year": "172",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "āṅkādalakagrāme",
+  "normalized": ""
+ },
+ "purpose": "installation of an image of Nārāyaṇa (Viṣṇu) for the enhancement of merit",
+ "notes": "Original find-place unknown. A group of individuals installed an image of Nārāyaṇa in the village of Aṅkādalaka.",
+ "_meta": {
+  "reel": "Licchavi inscr. 141",
+  "model": "gemini-flash-latest",
+  "secs": 8.6,
+  "in_tok": 1593,
+  "out_tok": 2761
+ }
+}

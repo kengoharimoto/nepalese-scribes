@@ -1,0 +1,86 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭāraka-mahārāja-śrī-mānadevasya",
+   "name": "Mānadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhaṭṭāraka",
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭāraka-mahārāja-śrī-mānadevasya sāgraṃ varṣa-śatam-ājñāpayataḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "samrāḍ-gṛhapates",
+   "name": "Gṛhapati",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "samrāṭ"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "samrāḍ-gṛhapates-patnyā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vijayasvāminyā",
+   "name": "Vijayasvāminī",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vijayasvāminyā pratiṣṭhāpitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wife_of",
+   "to": "p2",
+   "evidence": "samrāḍ-gṛhapates-patnyā vijayasvāminyā"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "bhaṭṭāraka-mahārāja-śrī-mānadevasya sāgraṃ varṣa-śatam-ājñāpayataḥ ... vijayasvāminyā pratiṣṭhāpitā"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 425 māgha-śukla-paurṇṇamāsyām",
+  "era": "unspecified",
+  "year": "425",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "paurṇṇamāsī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Palāṃcoka",
+  "normalized": "Palanchok"
+ },
+ "purpose": "Installation of the image of Goddess Bhagavatī Vijayeśvarī (devī bhagavatī vijayeśvarī pratiṣṭhāpitā)",
+ "notes": "Whether 'samrāḍ-gṛhapati' is a compound of title + proper name or title + designation (e.g. householder) has been debated; interpreted here as the husband named Gṛhapati with title Samrāṭ following Regmi's edition.",
+ "_meta": {
+  "reel": "Licchavi inscr. 14",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 1606,
+  "out_tok": 1597
+ }
+}

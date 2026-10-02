@@ -1,0 +1,47 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījayadevaḥ",
+   "name": "Jayadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "licchavikulāmbaracandra",
+    "bhagavatpaśupatibhaṭṭārakapādānugṛhīta",
+    "mahārājādhirāja",
+    "parameśvara"
+   ],
+   "affiliation": "Licchavi dynasty",
+   "residence": "Kailāsakūṭabhavana",
+   "evidence": "mahārājādhirājaparameśvara śrījayadevaḥ kuśalī ... samājñāpayati",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Gorakhā",
+  "normalized": "Gorkha"
+ },
+ "purpose": "edict / land grant",
+ "notes": "Issued from Kailāsakūṭabhavana. Heavily fragmented inscription; text breaks off before the date and dūtaka portions. Isolated words like 'sarvadeva' (line 5) and 'karṇa' (line 7) are too fragmentary to identify securely as personal names.",
+ "_meta": {
+  "reel": "Licchavi inscr. 149",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 1791,
+  "out_tok": 1312
+ }
+}

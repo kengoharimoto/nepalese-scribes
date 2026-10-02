@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vasantade[vaḥ]",
+   "name": "Vasantadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "paramadaivata",
+    "bhaṭṭāraka",
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭāraka-mahārāja-śrī-vasantade[vaḥ]",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 434",
+  "era": "unspecified",
+  "year": "434",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": ". . . ṅgagrāme",
+  "normalized": "Tistung"
+ },
+ "purpose": "royal edict",
+ "notes": "Line 10 mentions an unnamed or broken title 'sarvadaṇḍanāyaka'. The place is identified as Teṣṭhuṅga / modern Tistung.",
+ "_meta": {
+  "reel": "Licchavi inscr. 24",
+  "model": "gemini-flash-latest",
+  "secs": 2.6,
+  "in_tok": 1806,
+  "out_tok": 496
+ }
+}

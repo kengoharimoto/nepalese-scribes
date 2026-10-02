@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭāraka-mahārā[jādhirāja] . . . devasya",
+   "name": "[...]deva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhaṭṭāraka",
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭāraka-mahārā[jādhirāja] . . . devasya rājyam",
+   "confidence": "low"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nāla-varmaṇā",
+   "name": "Nālavarman",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nāla-varmaṇā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "bhaṭṭāraka-mahārā[jādhirāja] . . . devasya rājyam ... nāla-varmaṇā"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 109 vaiśākha-śukla-diva . . . dvitīyā",
+  "era": "unspecified",
+  "year": "109",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Lalitpur, Rātā Machindra-nātha temple",
+  "normalized": "Patan"
+ },
+ "purpose": "Grant of land and construction by Nālavarman",
+ "notes": "The stone is badly damaged. The king's name ending in -deva is broken away. Line 1 has 'saptamyām' followed by the royal title and later 'saṃvat 109 vaiśākha-śukla-diva . . . dvitīyā'.",
+ "_meta": {
+  "reel": "Licchavi inscr. 126",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 1813,
+  "out_tok": 1590
+ }
+}

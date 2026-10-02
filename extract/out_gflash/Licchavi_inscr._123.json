@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī-yuvarāja-śauryadevaḥ",
+   "name": "Śauryadeva",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "yuvarāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtakaś-c-ātra śrī-yuvarāja-śauryadevaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 90 5 pauṣa-śukla-divā-daśamyām",
+  "era": "unspecified",
+  "year": "95",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Cyāsala-ṭola, Lalitpur",
+  "normalized": "Patan"
+ },
+ "purpose": "Royal edict granting privileges/protection (prasāda) prohibiting entry of cāṭas and bhaṭas to Gaṇigulma",
+ "notes": "Issued from Bhadrādhivāsa-bhavana. The name and titles of the issuing ruler in lines 1–8 are lost due to damage to the stone.",
+ "_meta": {
+  "reel": "Licchavi inscr. 123",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 2168,
+  "out_tok": 1402
+ }
+}

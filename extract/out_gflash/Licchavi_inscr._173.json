@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Henākaravihāra",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "Pedestal inscription of the Pratītyasamutpādagāthā (ye dharmā hetuprabhavā...)",
+ "notes": "Contains only the Buddhist creed (Pratītyasamutpāda verse) inscribed on the pedestal of a Buddha image on a chaitya of Dvākhābahā. No human historical individuals are named.",
+ "_meta": {
+  "reel": "Licchavi inscr. 173",
+  "model": "gemini-flash-latest",
+  "secs": 2.3,
+  "in_tok": 1435,
+  "out_tok": 448
+ }
+}

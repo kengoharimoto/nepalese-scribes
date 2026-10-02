@@ -1,0 +1,154 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paramabhaṭṭāraka-śrī-narendradevasya",
+   "name": "Narendradeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paramabhaṭṭāraka-śrī-narendradevasya s-āgraṃ varṣaśataṃ samājñāpayataḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "brāhmaṇa-viśvasenasya",
+   "name": "Viśvasena",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "Śālaṅkā",
+   "evidence": "śālaṅkā vāstavya-brāhmaṇa-viśvasenasya patnyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "suvarṇa-gominyā",
+   "name": "Suvarṇagominī",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "gominī"
+   ],
+   "affiliation": "",
+   "residence": "Śālaṅkā",
+   "evidence": "śālaṅkā vāstavya-brāhmaṇa-viśvasenasya patnyā suvarṇa-gominyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "rāmasvāminā",
+   "name": "Rāmasvāmin",
+   "roles": [
+    "dutaka",
+    "official"
+   ],
+   "titles": [
+    "mahābalādhyakṣa",
+    "dūtaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahābalāddhya-prasāda-lekhyaṃ-rāmasvāminā dūtakena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "āmātya-bhagavacandra",
+   "name": "Bhagavacandra",
+   "roles": [
+    "official",
+    "other"
+   ],
+   "titles": [
+    "āmātya"
+   ],
+   "affiliation": "",
+   "residence": "Sārikā",
+   "evidence": "sārikāvāstavya āmātya-bhagavacandra ... atra sākṣikā jñeyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "candakasya",
+   "name": "Candaka",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Sārikā",
+   "evidence": "tattr-aiva-nivāsina candakasya atra sākṣikā jñeyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "dhanavṛddhi",
+   "name": "Dhanavṛddhi",
+   "roles": [
+    "official"
+   ],
+   "titles": [
+    "niyukta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "cuhuṃ-peḍā-niyuktasya-dhanavṛddhi-sahitena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wife_of",
+   "to": "p2",
+   "evidence": "brāhmaṇa-viśvasenasya patnyā suvarṇa-gominyā"
+  },
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "paramabhaṭṭāraka-śrī-narendradevasya s-āgraṃ varṣaśataṃ samājñāpayataḥ ... rāmasvāminā dūtakena"
+  },
+  {
+   "from": "p5",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "paramabhaṭṭāraka-śrī-narendradevasya ... āmātya-bhagavacandra"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 60 9 jyeṣṭha-kṛṣṇa-divāsaptamyāṃ",
+  "era": "unspecified",
+  "year": "69",
+  "month": "Jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "7",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Deupāṭana, near Ratneśvara temple",
+  "normalized": "Deopatan"
+ },
+ "purpose": "Land and grain grant for medicines for sick Pāśupatas (glānabhaiṣajyārthaṃ)",
+ "notes": "Gnoli reads 'mahābalāddhyakṣa' and 'candanasya' instead of 'mahābalāddhya' and 'candakasya'.",
+ "_meta": {
+  "reel": "Licchavi inscr. 115",
+  "model": "gemini-flash-latest",
+  "secs": 7.7,
+  "in_tok": 2221,
+  "out_tok": 2552
+ }
+}

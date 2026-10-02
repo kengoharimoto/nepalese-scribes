@@ -1,0 +1,84 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "narendradevaḥ",
+   "name": "Narendradeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "paramabhaṭṭāraka",
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paramabhaṭṭāraka-mahārājādhirāja-śrī-narendradevaḥ kuśali ... samājñāpayati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "madhusūdana-svāmī",
+   "name": "Madhusūdanasvāmin",
+   "roles": [
+    "beneficiary",
+    "other"
+   ],
+   "titles": [
+    "svāmin"
+   ],
+   "affiliation": "",
+   "residence": "Vṛjikarathyā",
+   "evidence": "vṛjikarathyā-nivāsī madhusūdana-svāmī pāñcālika-sāmānya iti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "daṇḍanāyaka-nṛpadevaḥ",
+   "name": "Nṛpadeva",
+   "roles": [
+    "dutaka",
+    "official"
+   ],
+   "titles": [
+    "daṇḍanāyaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "[dūta]kaśca daṇḍanāyaka-nṛpadevaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "[dūta]kaśca daṇḍanāyaka-nṛpadevaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 70 1 kārtika-śukla-dvitīy-āyām",
+  "era": "unspecified",
+  "year": "71",
+  "month": "Kārtika",
+  "paksa": "śukla",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Deupāṭana, Kasaiṃ-ṭole",
+  "normalized": "Deopatan"
+ },
+ "purpose": "Royal edict granting privileges and exemption from entry of royal agents (cāṭabhaṭānām apraveśaḥ) to Navagṛha, and specifying the status of Madhusūdanasvāmin as equal to the pāñcālikas.",
+ "notes": "Lines 1-10 are worn away and illegible. The inscription mentions an earlier settlement recorded on a copper plate (tāmraśāsane likhitā).",
+ "_meta": {
+  "reel": "Licchavi inscr. 116",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 2854,
+  "out_tok": 1527
+ }
+}

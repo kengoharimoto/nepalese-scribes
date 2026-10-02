@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Dhumvārāhi",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "Buddhist creed formula (ye dharmā hetuprabhavā...)",
+ "notes": "The editor's header notes that according to Regmi (R. 112), the seal records a gift by the Śākya monk Bandhubhadra in the name of his parents, but the transcribed text preserves only the Pratītyasamutpāda verse (dharmā hetuprabhavā...). Since no human persons are named in the text, persons and relations are left empty.",
+ "_meta": {
+  "reel": "Licchavi inscr. 168",
+  "model": "gemini-flash-latest",
+  "secs": 9.5,
+  "in_tok": 1468,
+  "out_tok": 2365
+ }
+}

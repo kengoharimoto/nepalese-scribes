@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: as_written now has the fuller line as R. reads it, 'paunapānyā bhikṣuṇī'. Name changed from the placeholder 'Unknown' to the tentative reading 'Paunapānī', based on R.'s 'paunapānyā'. Confidence stays low.",
+   "p1 evidence now quotes the donation formula 'bhikṣuṇī ... svayam dattā eṣā śilādroṇī'.",
+   "Place as_written now names the full find-spot, 'Lalitpur (Patan), Bhwanginani-tole Water-reservoir'.",
+   "Notes expanded: they now give both editors' readings, the metre problem, and that no date is visible."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paunapānyā bhikṣuṇī (R.); ḥ paun - - mbhikṣuṇī (DV)",
+   "name": "Paunapānī",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "bhikṣuṇī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhikṣuṇī ... svayam dattā eṣā śilādroṇī",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Lalitpur (Patan), Bhwanginani-tole Water-reservoir",
+  "normalized": "Patan"
+ },
+ "purpose": "Records that a Buddhist nun (bhikṣuṇī) donated a stone water conduit or basin (śilādroṇī) for the welfare of all living beings (sattvānāṃ hitahetave)",
+ "notes": "The donor's name is damaged. R. reads 'paunapānyā bhikṣuṇī', which may be an oblique form of a personal name such as Paunapānī. DV reads only 'ḥ paun - - mbhikṣuṇī su--kyā', and their 'su--kyā' could be part of the name or an epithet. The verse is an anuṣṭubh, but R.'s first pāda has only 7 syllables, so R.'s text is probably corrupt there too. The name is therefore uncertain and should not be relied on. The editor reports that no date is visible. Concordance: DV 181; Gn LXXXVI; HJ 158; R. 153. The site lies at the eastern edge of Patan.",
+ "_meta": {
+  "reel": "Licchavi inscr. 183",
+  "model": "opus",
+  "cost_usd": 0.08656900000000001,
+  "secs": 16.9
+ }
+}

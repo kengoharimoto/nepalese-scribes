@@ -90,7 +90,7 @@ footer { color: var(--muted); font-size: 12px; max-width: 95ch; display: grid; g
 
 <div class="wrap">
   <header>
-    <span class="eyebrow">NGMCP catalogue · Bendall’s Cambridge catalogue · prosopography</span>
+    <span class="eyebrow">NGMCP catalogue · Bendall’s Cambridge catalogue · Licchavi inscriptions · prosopography</span>
     <h1>Nepalese Scribes and Patrons</h1>
     <p id="intro"></p>
   </header>
@@ -102,7 +102,7 @@ footer { color: var(--muted); font-size: 12px; max-width: 95ch; display: grid; g
       <span><i class="sw" style="background:var(--era-vs)"></i>Vikrama Saṃvat</span>
       <span><i class="sw" style="background:var(--era-ss)"></i>Śaka</span>
       <span><i class="sw" style="background:var(--era-ls)"></i>Lakṣmaṇasena</span>
-      <span><i class="sw" style="background:var(--era-as)"></i>Aṃśuvarman (Mānadeva) saṃvat</span>
+      <span><i class="sw" style="background:var(--era-as)"></i>Licchavi saṃvat (Śaka; Aṃśuvarman’s without the 500)</span>
       <span><i class="sw" style="background:var(--era-x)"></i>other or unnamed</span>
     </div>
     <div class="tl-scroll"><svg id="hist" height="110" role="img" aria-label="Histogram of dated manuscripts"></svg></div>
@@ -117,7 +117,7 @@ footer { color: var(--muted); font-size: 12px; max-width: 95ch; display: grid; g
     <label><input type="checkbox" id="r-r"><span class="role-dot" style="background:var(--kin)"></span>Kin</label>
     <label>Min. MSS <select id="min"><option value="1">1</option><option value="2" selected>2</option><option value="3">3</option><option value="5">5</option></select></label>
     <label>Place <select id="place"><option value="">any</option></select></label>
-    <label>Source <select id="src"><option value="">any</option><option value="NGMCP">NGMCP</option><option value="Bendall 1883">Bendall: Cambridge MSS</option></select></label>
+    <label>Source <select id="src"><option value="">any</option><option value="NGMCP">NGMCP</option><option value="Bendall 1883">Bendall: Cambridge MSS</option><option value="Licchavi inscriptions">Licchavi inscriptions</option></select></label>
     <label>Sort <select id="sort"><option value="from">earliest date</option><option value="n">number of MSS</option><option value="name">name</option></select></label>
   </div>
 
@@ -150,6 +150,7 @@ footer { color: var(--muted); font-size: 12px; max-width: 95ch; display: grid; g
   <footer>
     <p>Sources: NGMCP catalogue entries (Nepal-German Manuscript Cataloguing Project), and Cecil Bendall, <i>Catalogue of the Buddhist Sanskrit Manuscripts in the University Library, Cambridge</i> (1883), whose manuscripts appear as “Cambridge Add. …” (parts of composite numbers as “Add. 1691 (II)”). For Bendall’s manuscripts the date is recalculated from the colophon (era, year, month, pakṣa, tithi, weekday, nakṣatra) with the <i>Pañcāṅga</i> program of M. Yano and M. Fushimi, not taken from Bendall’s A.D. conversions, made when the Nepalese calendar was little understood: where the colophon states a weekday the day is verified (the standard reading first, then a current year, a Kārttikādi or pūrṇimānta month, a tithi current after sunrise), and the reading used is named with the date. Bendall’s Harṣa-era date (Add. 1049) is read in the Aṃśuvarman (“Mānadeva”) saṃvat, which K. P. Malla (<i>CNAS Journal</i> 32.1, 2005) showed to be the Kārttikādi Śaka with 500 dropped: CE = year + 576 from Kārttika to December, + 577 from January (it fits the only two Licchavi-period dates with a weekday, Aṃśuvarman’s repoussé at Cāṅgu, 4 Feb 608, and the Suśrutasaṃhitā, C 80/7, 13 Apr 878). Bendall’s A.D. is kept, and marked, only where the colophon gives no era. Persons in Bendall’s manuscripts come from a reading of his whole description, English notes and quoted colophons together. Persons come from two places: the NGMCP catalogue fields Scribe, Donor and King, and a reading of each quoted colophon by Gemini Flash, with a second reading by Claude Opus wherever the first was uncertain or disagreed with the catalogue. Each attestation is marked with its source: <span class="src">cat</span> catalogue field, <span class="src">flash</span> Gemini reading, <span class="src">opus</span> checked by Opus.</p>
     <p>Dates are recalculated from the colophon with the <i>Pañcāṅga</i> program of M. Yano and M. Fushimi (Kathmandu sunrise): era and year from the catalogue and the colophon reading, month, pakṣa, tithi, weekday and nakṣatra from the colophon reading (or the catalogue’s date field). Where a weekday is stated the day is checked: “verified” means the standard reading fits (NS with amānta months; VS and Śaka with pūrṇimānta months for the dark fortnight); “verified with one departure” means a tithi current later that day or expired, or the other month system, fits. Tested against the same dates with deliberately wrong weekdays, about 1 in 20 “verified” and 1 in 5 “verified with one departure” dates would fit by chance. Readings that fit wrong dates about as often as right ones (a current year, year + 1, Kārttikādi) are only mentioned. Lakṣmaṇasena dates agree with their weekdays only at chance level under any fixed epoch, so they are converted (LS + 1119) but not verified. Without a month, the year is converted as before (NS + 880, VS − 57, ŚS + 78), ± 1. A paper manuscript dated before 1300 is treated as undated (the date is given as doubtful): such dates are abbreviated or misread years, or the exemplar’s date copied with its colophon. Two of the oldest dated manuscripts, the Skandapurāṇa (B 11/4) and the Suśrutasaṃhitā (C 80/7), have no catalogue entry and come from the NGMCP title list.</p>
+    <p>Licchavi inscriptions (5th–9th century) come from the e-text edition with its concordance to Gnoli (Gn.), D. Vajracarya (DV), HJ and Regmi (R.), labelled “Licchavi inscr. N” by the edition’s number. Each was read by Gemini Flash (Opus where uncertain) for the persons it names: kings, dūtakas, officials, donors, recipients, composers and engravers (“other” covers dūtakas and officials); ancestors named only in genealogies are left out, since the inscription’s date is not theirs, and Licchavi persons are not grouped with the persons of manuscripts. Their dates are calculated afresh from the year, month, pakṣa and tithi of the inscription, not taken from the editors: following K. P. Malla (2005), both the earlier saṃvat (386–535) and Aṃśuvarman’s (from 29) are the Kārttikādi current Śaka, the latter with 500 dropped (CE = year + 76/77 and + 576/577). Only Aṃśuvarman’s gold repoussé at Cāṅgu (inscr. 80) names a weekday; it verifies as Sunday 4 Feb 608. The others are computed, not verified.</p>
     <p>Undated manuscripts get an estimated date (hollow dots and circles) from the people and places they name: a king attested in at least two dated manuscripts (the king's attested span ± 5 years), two persons named together in a dated manuscript (± 25), a person's dated span (± 20; graded by whether a title or residence also matches), or a specific locality whose dated manuscripts fall within 150 years. The evidence is listed with each estimate.</p>
     <p>Persons are grouped by normalized name (without śrī and without titles such as śarman, vajrācārya, upādhyāya). A name whose dated manuscripts are more than 60 years apart is split into separate persons, so homonyms are separated only by date.</p>
   </footer>
@@ -160,7 +161,7 @@ footer { color: var(--muted); font-size: 12px; max-width: 95ch; display: grid; g
 const DATA = /*DATA*/null;
 const ROLE = { s: 'Scribe', p: 'Patron / owner', k: 'King', o: 'Other role', r: 'Kin' };
 const RCOL = { s: 'var(--scribe)', p: 'var(--patron)', k: 'var(--king)', o: 'var(--other)', r: 'var(--kin)' };
-const ECOL = { NS: 'var(--era-ns)', VS: 'var(--era-vs)', 'ŚS': 'var(--era-ss)', LS: 'var(--era-ls)', AS: 'var(--era-as)', other: 'var(--era-x)', '': 'var(--era-x)' };
+const ECOL = { NS: 'var(--era-ns)', VS: 'var(--era-vs)', 'ŚS': 'var(--era-ss)', LS: 'var(--era-ls)', AS: 'var(--era-as)', LIC: 'var(--era-as)', other: 'var(--era-x)', '': 'var(--era-x)' };
 const GROUP = { scribe: 's', commissioner: 'p', donor: 'p', owner: 'p', beneficiary: 'p', king: 'k', queen: 'k', relative_only: 'r' };
 const RELTXT = { son_of: 'son of', daughter_of: 'daughter of', grandson_of: 'grandson of', brother_of: 'brother of', wife_of: 'wife of', husband_of: 'husband of', pupil_of: 'pupil of', servant_of: 'servant of', wrote_for: 'wrote for', commissioned_from: 'commissioned from', under_reign_of: 'under the reign of', other: 'linked to' };
 const INV = { son_of: 'parent of', daughter_of: 'parent of', grandson_of: 'grandparent of', brother_of: 'brother of', wife_of: 'husband of', husband_of: 'wife of', pupil_of: 'teacher of', servant_of: 'master of', wrote_for: 'had a copy written by', commissioned_from: 'was commissioned by', under_reign_of: 'reigned over', other: 'linked to' };
@@ -180,14 +181,14 @@ const SVGNS = 'http://www.w3.org/2000/svg';
 const $ = id => document.getElementById(id);
 
 const st = DATA.stats, cnt = r => PS.filter(p => p.role === r).length.toLocaleString();
-$('intro').textContent = `${st.files.toLocaleString()} NGMCP catalogue entries for ${st.reels.toLocaleString()} microfilmed manuscripts, and ${st.bendall.toLocaleString()} Cambridge manuscripts described by Bendall (1883); ${st.dated.toLocaleString()} carry a usable date. `
+$('intro').textContent = `${st.files.toLocaleString()} NGMCP catalogue entries for ${st.reels.toLocaleString()} microfilmed manuscripts, ${st.bendall.toLocaleString()} Cambridge manuscripts described by Bendall (1883), and ${st.licchavi.toLocaleString()} Licchavi inscriptions; ${st.dated.toLocaleString()} carry a usable date. `
   + `${st.flash.toLocaleString()} colophons were read for names (${st.opus.toLocaleString()} of them checked a second time). Of ${st.undated_named.toLocaleString()} undated manuscripts that name someone, ${st.estimated.toLocaleString()} have an estimated date. `
   + `The register holds ${cnt('s')} scribes, ${cnt('p')} patrons and owners, ${cnt('k')} kings, ${cnt('o')} teachers, ministers and others, and ${cnt('r')} relatives named only as kin. Select a row to see the manuscripts and the people named with them.`;
 
 const pc = {}; MS.forEach(m => m.place && (pc[m.place] = (pc[m.place] || 0) + 1));
 Object.entries(pc).filter(e => e[1] >= 3).sort((a, b) => b[1] - a[1]).forEach(([p, n]) => $('place').insertAdjacentHTML('beforeend', `<option value="${esc(p)}">${esc(p)} (${n})</option>`));
 
-const X0 = 800, X1 = 1960;  // the oldest dated MS: Bendall's Add. 1049, AS 252 = 828
+const X0 = 450, X1 = 1960;  // the oldest dated item: Licchavi inscription 1 (Cāṅgu), saṃvat 386 = 463
 function el(tag, attrs, parent) { const e = document.createElementNS(SVGNS, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); parent && parent.appendChild(e); return e; }
 
 (function hist() {
@@ -203,7 +204,7 @@ function el(tag, attrs, parent) { const e = document.createElementNS(SVGNS, tag)
   for (let v = step; v <= max; v += step) { const t = el('text', { x: L - 6, y: H - B - v / max * (H - T - B) + 4, 'text-anchor': 'end' }, ax); t.textContent = v; }
   Object.keys(by).forEach(d => {
     let y = H - B; d = +d;
-    ['AS', 'NS', 'VS', 'ŚS', 'LS', 'other'].forEach(e => { const n = by[d][e]; if (!n) return; const h = n / max * (H - T - B);
+    ['LIC', 'AS', 'NS', 'VS', 'ŚS', 'LS', 'other'].forEach(e => { const n = by[d][e]; if (!n) return; const h = n / max * (H - T - B);
       const r = el('rect', { x: sx(d), y: y - h, width: Math.max(bw, 1), height: h, fill: ECOL[e] }, svg); y -= h;
       r.addEventListener('mousemove', ev => tip(ev, `${d}s: ${n} MSS dated in ${e === 'other' ? 'another or unnamed era' : e}`)); r.addEventListener('mouseleave', untip); });
   });

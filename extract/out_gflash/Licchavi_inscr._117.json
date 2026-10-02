@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "narendradeva-nṛpatau",
+   "name": "Narendradeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pṛthvīṃ pāti narendradeva-nṛpatau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "viṣṇudevaḥ",
+   "name": "Viṣṇudeva",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viṣṇudevaḥ ... pāṣāṇa-droṇametaṃ suvihita-salil-oddhārayantr-odapānaṃ kṛtvā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "pṛthvīṃ pāti narendradeva-nṛpatau ... tat-pādābja-prasādād-upanata-vibhavo viṣṇudevaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 78 kārttika-śukla-navamyām prayugādau",
+  "era": "unspecified",
+  "year": "78",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "navamī",
+  "weekday": "",
+  "nakshatra_yoga": "prayugādau",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Naksāla",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "Construction of a stone water basin (pāṣāṇa-droṇa) and a well equipped with a water-drawing mechanism (saliloddhārayantrodapāna) for ablutions by brāhmaṇas and others",
+ "notes": "Inscription carved on a water conduit tank at Naksal Bhagavatī-bahāl.",
+ "_meta": {
+  "reel": "Licchavi inscr. 117",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 1936,
+  "out_tok": 1562
+ }
+}

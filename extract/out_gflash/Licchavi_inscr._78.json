@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī-mahāsāmant-āṃśuvarmmā",
+   "name": "Aṃśuvarman",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahāsāmanta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī-mahāsāmant-āṃśuvarmmā kuśalī ... samājñāpayati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mahārāja vipravarmmā",
+   "name": "Vipravarman",
+   "roles": [
+    "dutaka"
+   ],
+   "titles": [
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtako’tra mahārāja vipravarmmā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "servant_of",
+   "to": "p1",
+   "evidence": "dūtako’tra mahārāja vipravarmmā"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 31 prathama[pauṣa]. . . pañcamyām",
+  "era": "unspecified",
+  "year": "31",
+  "month": "prathama[pauṣa]",
+  "paksa": "",
+  "tithi": "pañcamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Bhaṭuvāla",
+  "normalized": "Bhatuwal"
+ },
+ "purpose": "edict granting exemption from custom duties (śulka-tāpana) on certain commodities",
+ "notes": "The month is partially lost and restored as prathama[pauṣa] by editors.",
+ "_meta": {
+  "reel": "Licchavi inscr. 78",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 2123,
+  "out_tok": 797
+ }
+}

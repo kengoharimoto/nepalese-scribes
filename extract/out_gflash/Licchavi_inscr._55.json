@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī-mānadeve",
+   "name": "Mānadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājan"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājñi śrī-mānadeve",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vaidya-vasuvarmaṇaḥ",
+   "name": "Vasuvarman",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "Gvalaka",
+   "evidence": "prālikhat-suśrut-ākhyam || śrīgaṇadeva-devakula-dūrī gvalaka-nivāsino vaidya-vasuvarmaṇaḥ pustakamidaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrī-harṣacandrā-n",
+   "name": "Harṣacandra",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasmāc-chrī-harṣacandrā-n",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "rājñi śrī-mānadeve ... vaidya-vasuvarmaṇaḥ pustakamidaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "varṣe caik-ottarasmiṃs-tritayaśatagate mādhave māsi śukle saptamyāṃ puṣyaṛkṣe daśa[śa]takiraṇe vāsare siddhayoye",
+  "era": "unspecified",
+  "year": "301",
+  "month": "mādhava",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "daśaśatakiraṇa (Sunday)",
+  "nakshatra_yoga": "puṣya nakṣatra, siddha yoga",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "gvalaka",
+  "normalized": "Deopatan"
+ },
+ "purpose": "sarvasatvānām-upadeśaṃ vidhātuṃ",
+ "notes": "Colophon of a manuscript of the Sahottaratantra / Suśruta copied in the reign of Mānadeva (Mānadeva IV / post-Aṃśuvarman era 301).",
+ "_meta": {
+  "reel": "Licchavi inscr. 55",
+  "model": "gemini-flash-latest",
+  "secs": 8.0,
+  "in_tok": 1813,
+  "out_tok": 2127
+ }
+}

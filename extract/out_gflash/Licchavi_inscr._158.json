@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "Deupāṭana, Paśupatinath",
+  "normalized": "Deupatan"
+ },
+ "purpose": "image base inscription (fragmentary)",
+ "notes": "Extremely fragmentary inscription on the base of an Umā-Maheśvara image near the Ram Chandra temple at Pashupatinath; text preserves only a few disconnected syllables (. . . . . . ma rā . . .), so no names or details can be recovered.",
+ "_meta": {
+  "reel": "Licchavi inscr. 158",
+  "model": "gemini-flash-latest",
+  "secs": 1.8,
+  "in_tok": 1394,
+  "out_tok": 286
+ }
+}
