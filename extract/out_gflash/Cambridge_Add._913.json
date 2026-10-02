@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "चेमेन्द्रस्य",
+   "name": "Kṣemendra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahākavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "कृतिरियं महाकवेः चेमेन्द्रस्य",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "सोमेन्द्र",
+   "name": "Somendra",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "तदात्मजसोमेन्द्रकृतं",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "तदात्मज"
+  }
+ ],
+ "date": {
+  "as_written": "संवत्सरे सप्तविंशे वैशाखस्य सितोदये",
+  "era": "unspecified",
+  "year": "27",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1052"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date recorded is the original composition date (year 27 of the Saptarṣi era, 1052 CE) during the reign of King Ananta of Kashmir. The composition colophon also refers to the author's Buddhist friend Nakka, his advisor Vīryabhadra, and the original scribe Ācārya Sūryaśrī; no copyist, patron, or date is given for this modern manuscript itself.",
+ "_meta": {
+  "reel": "Cambridge Add. 913",
+  "model": "gemini-flash-latest",
+  "secs": 25.0,
+  "in_tok": 2858,
+  "out_tok": 7269
+ }
+}

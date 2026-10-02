@@ -1,0 +1,94 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीश्रीरत्नज्योतिर्देवस्य",
+   "name": "Ratnajyotideva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka",
+    "vīranārāyaṇāvataṃśa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "श्रीश्रीरत्नज्योतिर्देवस्य विजयराजे",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "वीरसिंहनामधेयस्य",
+   "name": "Vīrasiṃha",
+   "roles": [
+    "scribe",
+    "teacher"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "नवकोष्ट महापटने",
+   "evidence": "नवकोष्ट (?) महापटने समवस्थितेन वीरसिंहनामधेयस्य स्वच्छात्ररत्नचन्द्रेन (sic) सहितेन लिखितं स्वयं व्याख्यानार्थकांक्षिणा समभिलिखितं श्रुतं",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "रत्नचन्द्रेन",
+   "name": "Ratnacandra",
+   "roles": [
+    "scribe",
+    "pupil"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "स्वच्छात्ररत्नचन्द्रेन (sic) सहितेन लिखितं",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "वीरसिंहनामधेयस्य स्वच्छात्ररत्नचन्द्रेन"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "श्रीश्रीरत्नज्योतिर्देवस्य विजयराजे"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "श्रीश्रीरत्नज्योतिर्देवस्य विजयराजे"
+  }
+ ],
+ "date": {
+  "as_written": "दादशीत्तरपञ्चशतं प्रयाते विहायसे(?) । पौषशुक्ले नवम्याच्च संपूर्णगुरुवासरे",
+  "era": "NS",
+  "year": "512",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1392"
+ },
+ "place": {
+  "as_written": "नवकोष्ट (?) महापटने",
+  "normalized": "Nuwakot"
+ },
+ "purpose": "व्याख्यानार्थकांक्षिणा",
+ "notes": "The genitive 'vīrasiṃhanāmadheyasya' is used where an instrumental is syntactically required with 'samavasthitena' and 'vyākhyānārthakāṅkṣiṇā', indicating Vīrasiṃha copied and/or studied the text together with his pupil Ratnacandra. The text mentions having come from Panarīnagara (śrīmatpanarīnagarītaḥ samāgatā?). Bendall identifies the place as Navakoṣṭha (Nuwakot) and notes Ratnajyoti was likely a local ruler.",
+ "_meta": {
+  "reel": "Cambridge Add. 1108",
+  "model": "gemini-flash-latest",
+  "secs": 13.2,
+  "in_tok": 1819,
+  "out_tok": 3652
+ }
+}

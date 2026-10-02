@@ -1,0 +1,82 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Place: cleared. Lalitāpura (ललितापुरम्) is named in the prologue as the place where the play is staged or produced. It is not given as the place of copying, so it is now only mentioned in notes.",
+   "Notes expanded: the catalogue title is garbled by OCR, the month is missing, and the era is assumed.",
+   "Persons, relations and date confirmed, with evidence strings tightened."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीधर्मगुप्तेन / धर्मगुप्तेन श्रीमता रामदासिना / बालवागीश्वरेण",
+   "name": "Dharmagupta",
+   "roles": [
+    "author",
+    "scribe"
+   ],
+   "titles": [
+    "kavi",
+    "bālavāgīśvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "तेनैव धर्मगुप्तेन श्रीमता रामदासिना। बालवागीश्वरेणैयं लिखिता रामाङ्गनाटिका॥",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "श्रीरामदासः / पित्रा",
+   "name": "Rāmadāsa",
+   "roles": [
+    "relative_only",
+    "teacher"
+   ],
+   "titles": [
+    "nepālāvanapālamaṇḍalaguru"
+   ],
+   "affiliation": "",
+   "residence": "Nepal",
+   "evidence": "नेपालावनपालमण्डलगुरुः श्रीरामदासः",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "पित्रा पुत्रकृपापरेण ... रामदासिना"
+  },
+  {
+   "from": "p1",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "पित्रा पुत्रकृपापरेण निपुणं शास्त्रान्वयं शिचित्"
+  }
+ ],
+ "date": {
+  "as_written": "सम्वत् ४८० शुक्लिकदशम्यां रवि वासो",
+  "era": "NS",
+  "year": "480",
+  "month": "",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1360"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bendall describes the manuscript as the author's own copy (autograph). Dharmagupta, called Bālavāgīśvara and son of Rāmadāsa, both wrote and copied the Rāmāṅka-nāṭikā. The catalogue heading 'RĀMĀṆKA-NĀṢIKĀ' is an OCR garbling of Rāmāṅka-nāṭikā; the text itself also writes रामाङ्ग-. The era is not named in the text (just 'सम्वत् ४८०'); Bendall reads it as N.S. 480 = A.D. 1360 (480+880). No month is named: 'शुक्लिकदशम्यां' is corrupt, perhaps 'शुक्ल-दशम्यां' with the month dropped, or a garbling of a month name. Bendall calls Rāmadāsa 'a magistrate of Nepal', rendering नेपालावनपालमण्डलगुरुः. The prologue mentions Lalitāpura (Patan) as the place where the play is produced. That makes copying in Patan likely, but it is not stated as the place of copying.",
+ "_meta": {
+  "reel": "Cambridge Add. 1409",
+  "model": "opus",
+  "cost_usd": 0.1032966,
+  "secs": 23.3
+ }
+}

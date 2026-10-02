@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्री डंखाचोकवज्राचार्य श्री पंडजसः",
+   "name": "Paṇḍajasa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "Ḍaṃkhācoka",
+   "evidence": "लिखित श्री डंखाचोकवज्राचार्य श्री पंडजसः",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "स° ५४७ अष्टुनि कृष्ण १°",
+  "era": "NS",
+  "year": "547",
+  "month": "Aṣṭuni (Āśvina)",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1427"
+ },
+ "place": {
+  "as_written": "डंखाचोक",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name is read with doubt by Bendall ('पंडजसः (?)', perhaps corrupt for Padmajasa, Padmarāja, or similar). The month 'अष्टुनि' is likely corrupt for Āśvina. Ḍaṃkhācoka represents a locality or vihāra / bāhā quadrangle.",
+ "_meta": {
+  "reel": "Cambridge Add. 1580",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 1149,
+  "out_tok": 857
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "Niramuni",
+   "name": "Niramuni",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Yampivihāra",
+   "residence": "Lalitapur",
+   "evidence": "written by Niramuni and his son Jinendra, at the Yampivihāra in Lalitapur",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "Jinendra",
+   "name": "Jinendra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Yampivihāra",
+   "residence": "Lalitapur",
+   "evidence": "written by Niramuni and his son Jinendra, at the Yampivihāra in Lalitapur",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "his son Jinendra"
+  }
+ ],
+ "date": {
+  "as_written": "N. s. 952",
+  "era": "NS",
+  "year": "952",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1832"
+ },
+ "place": {
+  "as_written": "Yampivihāra in Lalitapur",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The original Sanskrit and vernacular colophons are not quoted verbatim by Bendall; details are extracted from his English description.",
+ "_meta": {
+  "reel": "Cambridge Add. 1411",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 2994,
+  "out_tok": 846
+ }
+}

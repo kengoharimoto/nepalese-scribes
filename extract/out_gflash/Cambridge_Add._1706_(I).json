@@ -1,0 +1,68 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्री [?] ह मालदेव",
+   "name": "[..]hamalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "राजादिराजप्रमेश्चर (sic) श्री [?] ह मालदेवकारित",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "देवमना",
+   "name": "Devamanā",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhikṣu"
+   ],
+   "affiliation": "Śake-vaihāra",
+   "residence": "",
+   "evidence": "शके वैहारश्रीभिचु देवमना लिखित",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "श्री [?] ह मालदेवकारित । शके वैहारश्रीभिचु देवमना लिखित"
+  }
+ ],
+ "date": {
+  "as_written": "३८१ (?) अश्विनि [? द]शम्यां तिथौ अञ्जार (?) दिने",
+  "era": "NS",
+  "year": "381 (?)",
+  "month": "āśvina",
+  "paksa": "",
+  "tithi": "10",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1261"
+ },
+ "place": {
+  "as_written": "शके वैहार",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bendall notes: 'dated N. s. 381, middle figure doubtful (A. D. 1261)'. The king's name is partially illegible: 'श्री [?] ह मालदेव' (perhaps Jayabhīmamalladeva or another Malla king). 'अञ्जार दिने' likely represents aṅgāradine (Tuesday). 'शके वैहार' appears to represent Śākya-vihāra.",
+ "_meta": {
+  "reel": "Cambridge Add. 1706 (I)",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 1235,
+  "out_tok": 1610
+ }
+}

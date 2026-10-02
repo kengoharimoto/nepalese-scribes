@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribe, date, patron, or place mentioned in the colophon; manuscript is noted by Bendall as modern.",
+ "_meta": {
+  "reel": "Cambridge Add. 1164.2 (II)",
+  "model": "gemini-flash-latest",
+  "secs": 2.5,
+  "in_tok": 1037,
+  "out_tok": 362
+ }
+}

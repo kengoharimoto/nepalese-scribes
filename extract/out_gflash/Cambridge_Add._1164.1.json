@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The end of the manuscript is torn and the colophon is entirely obliterated; no date, place, or persons are preserved.",
+ "_meta": {
+  "reel": "Cambridge Add. 1164.1",
+  "model": "gemini-flash-latest",
+  "secs": 2.7,
+  "in_tok": 997,
+  "out_tok": 451
+ }
+}

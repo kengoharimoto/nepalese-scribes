@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Place of copying cleared: डंखाचोक is given only as the scribe's residence or affiliation in a 'written by' phrase. It is not stated as the place of copying, so it is kept under the person's residence.",
+   "Notes expanded: the tithi reading '१°' is ambiguous, and the month and name readings are doubtful.",
+   "Person, date (NS 547 = 1427 CE) and roles confirmed."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्री डंखाचोकवज्राचार्य श्री पंडजसः",
+   "name": "Paṇḍajasa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "Ḍaṃkhācoka",
+   "evidence": "लिखित श्री डंखाचोकवज्राचार्य श्री पंडजसः",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "स° ५४७ अष्टुनि कृष्ण १°",
+  "era": "NS",
+  "year": "547",
+  "month": "Aṣṭuni (prob. = Āśvina)",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1427"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bendall marks the scribe's name with a query ('पंडजसः (?)'). The reading Paṇḍajasa is uncertain. It may be corrupt, for example for Paṇḍita Jasa(rāja), Padmajasa or a similar name. Ḍaṃkhācoka (डंखाचोक) is probably a locality or quadrangle (cuka/coka) in the Kathmandu Valley that the vajrācārya scribe belonged to. It is recorded as his residence, not as the stated place of copying. The month 'अष्टुनि' is likely a misreading or corruption of Āśvina. The tithi '१°' is taken as 10, but the ° could also be Bendall's abbreviation mark (compare 'स°'), in which case the tithi would be 1. NS 547 + 880 = 1427 CE, which agrees with Bendall's date. If the month is Āśvina, the date falls in about September/October 1427.",
+ "_meta": {
+  "reel": "Cambridge Add. 1580",
+  "model": "opus",
+  "cost_usd": 0.0805926,
+  "secs": 16.0
+ }
+}

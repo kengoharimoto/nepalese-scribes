@@ -1,0 +1,89 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 Govindapāladeva: removed 'deva' from titles (kept as part of the regnal name).",
+   "p1 Ghanadeva: evidence also covers 'भिक्षुश्रीघनदेवेन विवृतिः क्रियते' for the bhikṣu title. Kept roles author/commentator because he wrote the vivṛti on Daṇḍīpāda's work.",
+   "Date: month normalised to IAST 'āmaṇa (sic)'. Day 11 entered in the tithi field as 'dine 11'.",
+   "Notes: 'Kācṛīgayākara' in Bendall's English is explained as an OCR mangling of 'Kāçīgayākara' (= Kāśīgayākara), so the two do not conflict. Added a note on the regnal reckoning.",
+   "Shortened the evidence for under_reign_of."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "पण्डितस्थविरश्रीघनदेवस्य",
+   "name": "Ghanadeva",
+   "roles": [
+    "author",
+    "commentator"
+   ],
+   "titles": [
+    "paṇḍita",
+    "sthavira",
+    "bhikṣu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "विवृतिः पण्डितस्थविरश्रीघनदेवस्य",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "गोविन्दपालदेवानां",
+   "name": "Govindapāladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "गोविन्दपालदेवानां सं ३७",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "काशीगयाकरेणति",
+   "name": "Kāśīgayākara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "लिखितमिदं पुस्तकं काशीगयाकरेणति",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "गोविन्दपालदेवानां सं ३७ ... लिखितमिदं पुस्तकं काशीगयाकरेण"
+  }
+ ],
+ "date": {
+  "as_written": "गोविन्दपालदेवानां सं ३७ आमण(*sic*)दिने ११",
+  "era": "regnal",
+  "year": "37",
+  "month": "āmaṇa (sic)",
+  "paksa": "",
+  "tithi": "dine 11",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1198"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The year is the 37th of Govindapāla. Bendall converts it to A.D. 1198, which fits the usual reckoning of this era from c. 1161. The same scribe copied the other works in Add. 1699 over three successive years (1198–1200) in Bengali script. The month 'āmaṇa' is marked (sic) by Bendall and is corrupt; the intended month is uncertain. 'dine 11' is probably a day of the month rather than a lunar tithi. Bendall's English general note gives the scribe as 'Kācṛīgayākara'. This is almost certainly an OCR corruption of 'Kāçīgayākara' (= Kāśīgayākara), which matches the Devanāgarī 'काशीगयाकरेणति' (= -kareṇeti). Ghanadeva calls himself 'bhikṣu' in the opening verses and 'paṇḍita sthavira' in the colophon. Daṇḍīpāda, whose method (krama) the vivṛti follows, is the author of the root text, not a person connected with this copy, so he is left out.",
+ "_meta": {
+  "reel": "Cambridge Add. 1699 (II)",
+  "model": "opus",
+  "cost_usd": 0.1030926,
+  "secs": 20.5
+ }
+}

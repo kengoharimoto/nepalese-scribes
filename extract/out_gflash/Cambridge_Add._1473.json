@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribal colophon or date preserved in the manuscript; contains only the text conclusion (iti aśajātakāvadānaṃ samāptaṃ).",
+ "_meta": {
+  "reel": "Cambridge Add. 1473",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 1411,
+  "out_tok": 428
+ }
+}

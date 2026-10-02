@@ -1,0 +1,86 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "महीपालदेव",
+   "name": "Mahīpāladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "parameśvara",
+    "paramabhaṭṭāraka",
+    "paramasaugata",
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "महाराजाधिराजश्रीमन्- महीपालदेव प्रवर्द्धमानविजयराज्ये",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "लाडाका",
+   "name": "Lāḍākā",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "देयधर्मोऽयं, the name mentioned also bears some resemblance, बज्रभूतिदुहित-लाडाका",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "बज्रभूति",
+   "name": "Vajrabhūti",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "बज्रभूतिदुहित",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "daughter_of",
+   "to": "p3",
+   "evidence": "बज्रभूतिदुहित"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "महीपालदेव प्रवर्द्धमानविजयराज्ये"
+  }
+ ],
+ "date": {
+  "as_written": "सप्तत् ज अश्विनिकृष्णे",
+  "era": "regnal",
+  "year": "5",
+  "month": "Āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1020"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "देयधर्मोऽयं",
+ "notes": "Bendall identifies the ruler as Mahīpāla I of Bengal and interprets the regnal year as the 5th (c. 1020 CE), despite the transcription 'सप्तत् ज'. The leaf is noted as being much obliterated.",
+ "_meta": {
+  "reel": "Cambridge Add. 1464",
+  "model": "gemini-flash-latest",
+  "secs": 8.2,
+  "in_tok": 1226,
+  "out_tok": 2112
+ }
+}

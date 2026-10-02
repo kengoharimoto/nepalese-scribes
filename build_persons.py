@@ -1,10 +1,10 @@
 """Build a prosopographical dataset from parsed NGMCP records.
 
-Input:  data/records.jsonl (parse_ngmcp.py)
+Input:  data/records.jsonl (parse_ngmcp.py); Bendall's Cambridge catalogue (db/bendall.py, extract/make_bendall_worklist.py)
 Output: data/manuscripts.json  one row per microfilm reel (deduplicated)
         data/persons.json      one row per person (scribe / donor / king), with links to MSS
 """
-import json, re, os, unicodedata, collections
+import json, re, os, sys, unicodedata, collections
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 D = lambda *p: os.path.join(HERE, 'data', *p)
@@ -22,7 +22,7 @@ def reel_key(r):
 
 
 # ---------------------------------------------------------------- dates
-ERA_OFFSET = {'NS': 880, 'VS': -57, 'ŚS': 78, 'LS': 1119}
+ERA_OFFSET = {'NS': 880, 'VS': -57, 'ŚS': 78, 'LS': 1119, 'AS': 577}  # AS: Aṃśuvarman ('Mānadeva') saṃvat
 ERA_PATTERNS = [  # order matters only for ties; the earliest match in the string wins
     ('NS', r'\bN\s?[SŚ]\b|Nepāla\s*[Ss]aṃvat'),
     ('VS', r'\bV\s?S|Vikra?ma'),
@@ -190,6 +190,96 @@ def ce_of(o):
     return int(m.group(1)) if m and 500 <= int(m.group(1)) <= 2030 else None
 
 
+MONTHS = 'Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec'.split()
+
+
+def pancanga_date(r):
+    """A date recalculated by calendar/verify.py -> (date dict, note shown with the date)."""
+    g = r['given']
+    date = {'era': g['era'] if g['era'] in ERA_OFFSET else '', 'year': g['year'], 'ce': r['ce'], 'inferred': False}
+    day = r.get('date', '')
+    if len(day) == 10:
+        y, mo, dd = map(int, day.split('-'))
+        day = f"{r.get('computed', {}).get('weekday', '')} {dd} {MONTHS[mo - 1]} {y}".strip()
+    elif len(day) == 7:
+        day = f"{MONTHS[int(day[5:]) - 1]} {day[:4]}"
+    rule = r.get('rule', '')
+    note = {'verified': 'verified by the pañcāṅga', 'verified-weekday': 'weekday verified, nakṣatra not',
+            'verified-alt': 'verified by the pañcāṅga with one departure from the standard reading',
+            'unverified': 'not verified: the stated weekday does not fit',
+            'computed': 'computed; nothing stated to verify it by', 'year-only': 'year only (± 1)'}[r['status']]
+    if rule and rule != 'standard':
+        note += ': ' + rule.replace('current year', 'year read as current').replace('standard, ', '') \
+            if r['status'] == 'verified-alt' else '; ' + rule.replace('standard, ', '')
+    if r.get('possible'):
+        note += ' (it would fit with: ' + ', '.join(r['possible']) + ', which fits wrong dates about as often)'
+    if r.get('basis', '').startswith("bare 'saṃvat'"):
+        note += '; ' + r['basis'].replace("bare 'saṃvat' read as", "era not named: the date fits") 
+    if r.get('era_note'):
+        note += '; ' + r['era_note']
+    if r.get('emended'):
+        note += '; emended: ' + '; '.join(r['emended'].values())
+    return date, (f'= {day}, ' if day else f'≈ {r["ce"]} CE, ') + note
+
+
+def bendall_records():
+    """Cambridge manuscripts from Bendall's catalogue (1883), shaped like catalogue records; their date is
+    Bendall's reading (his A.D. conversion), their persons come from the colophon reading only."""
+    sys.path.insert(0, os.path.join(EXTRACT))
+    sys.path.insert(0, os.path.join(HERE, 'db'))
+    import make_bendall_worklist as W
+    recalc = json.load(open(D('bendall_dates.json'))) if os.path.exists(D('bendall_dates.json')) else {}
+    for e, p, title, text in W.units():
+        label = W.label(e['add_no'], p and p['part'])
+        d = p or e
+        cols = [x['text'] for x in (p or e)['excerpts'] if x['kind'] == 'colophon'] or \
+            [x['text'] for x in (p or e)['excerpts']][-1:]
+        r = recalc.get(label)
+        if r:  # recalculated from the colophon with the pañcāṅga (calendar/bendall_dates.py)
+            date, date_note = pancanga_date(r)
+            date_src = 'pañcāṅga'
+        elif d.get('year_ce'):
+            date = {'era': d['era'] if d['era'] in ERA_OFFSET else '', 'year': d['era_year'] or '', 'ce': d['year_ce'],
+                    'inferred': False}
+            date_note, date_src = f"≈ {d['year_ce']} CE, Bendall's own conversion (no era-dated colophon to recalculate)", 'Bendall'
+        else:
+            date, date_note, date_src = None, '', ''
+        yield label, {
+            'Title': title or '', 'Subject': '', 'Script': d.get('hand') or '', 'Material': d.get('material') or e['material'] or '',
+            'Date of Copying': d.get('date_text') or '', 'colophon': ' ‖ '.join(cols),
+            'files': [f"Bendall 1883, Add. {e['add_no']} (scan p. {e['pdf_page']})"], '_date': date,
+            '_date_note': date_note, '_date_src': date_src,
+            '_source': 'Bendall 1883'}
+
+
+PAPER_FROM = 1300
+
+
+def is_paper(material):
+    m = material.lower()
+    return bool(re.search(r'paper|pape|thy|thas|tyas|nīla|nila|leporel', m)) and 'palm' not in m
+
+
+def extra_records():
+    """Manuscripts known only from the NGMCP title list (data/extra_manuscripts.json), dated with the pañcāṅga."""
+    path = D('extra_manuscripts.json')
+    if not os.path.exists(path):
+        return
+    sys.path.insert(0, os.path.join(HERE, 'calendar'))
+    import verify as V
+    for reel, x in json.load(open(path)).items():
+        if reel.startswith('_'):
+            continue
+        g = x['date']
+        r = V.verify(g['era'], g['year'], g.get('month', ''), g.get('paksa', ''), g.get('tithi', ''),
+                     g.get('weekday', ''), g.get('naksatra', ''))
+        date, note = pancanga_date(r) if r.get('ce') else (None, '')
+        yield reel, {'Title': x['title'], 'Subject': x.get('subject', ''), 'Script': x.get('script', ''),
+                     'Material': x.get('material', ''), 'Date of Copying': x.get('date_raw', ''), 'colophon': '',
+                     'files': [x['source']], '_date': date, '_date_note': note, '_date_src': 'pañcāṅga',
+                     '_source': 'NGMCP title list'}
+
+
 # ---------------------------------------------------------------- build
 def main():
     recs = [json.loads(l) for l in open(D('records.jsonl'))]
@@ -206,13 +296,19 @@ def main():
             r['files'] = [r['file']]
             byreel[k] = r
 
+    for k, r in bendall_records():
+        byreel[k] = r
+    for k, r in extra_records():
+        byreel[k] = r
+
+    ngmcp_dates = json.load(open(D('ngmcp_dates.json'))) if os.path.exists(D('ngmcp_dates.json')) else {}
     mss = []
     att = collections.defaultdict(list)  # (kind, key) -> attestations
     local = {}                           # (ms id, local pid) -> attestation id
     rels = []                            # (ms id, from pid, type, to pid, evidence)
     for k, r in byreel.items():
         script = r.get('Script', '')
-        cat_date = parse_date(r.get('Date of Copying', ''), script)
+        cat_date = r['_date'] if '_source' in r else parse_date(r.get('Date of Copying', ''), script)
         o = reading(k)
         date, date_src = cat_date, 'catalogue'
         if (not cat_date or cat_date['inferred']) and ce_of(o):
@@ -223,13 +319,28 @@ def main():
         elif cat_date and cat_date['inferred'] and (o or {}).get('date', {}).get('era') in ERA_OFFSET \
                 and o['date']['era'] != cat_date['era']:  # guessed era contradicted by the colophon: undated
             date, date_src = None, ''
+        date_flat, date_note = date, ''
+        if '_source' not in r and k in ngmcp_dates:  # recalculated with the pañcāṅga (calendar/ngmcp_dates.py)
+            date, date_note = pancanga_date(ngmcp_dates[k])
+            date_src = 'pañcāṅga'
+        # paper came into use in Nepal late (Bendall: general by the end of the XIVth century); a paper MS
+        # dated before 1300 has an abbreviated or misread year ('Śāke 788' for 1788, 'SAM 48?') or carries
+        # its exemplar's colophon: keep the reading in the note, but treat the MS as undated
+        doubtful = ''
+        if date and date['ce'] < PAPER_FROM and is_paper(r.get('Material', '')):
+            doubtful = (f"doubtful: {date_note.lstrip('= ').split(',')[0] if date_note else '≈ ' + str(date['ce']) + ' CE'} "
+                        f"is too early for a paper manuscript (an abbreviated or misread year, or the exemplar's date)")
+            date, date_src, date_note = None, '', doubtful
         place = r.get('Place of Copying', '') or (o or {}).get('place', {}).get('normalized', '') \
             or (o or {}).get('place', {}).get('as_written', '')
         ms = {
-            'id': len(mss), 'reel': k, 'title': r.get('Title', ''), 'subject': r.get('Subject', ''),
+            'id': len(mss), 'reel': k, 'source': r.get('_source', 'NGMCP'), 'title': r.get('Title', ''),
+            'subject': r.get('Subject', ''),
             'script': script, 'material': r.get('Material', ''),
             'date_raw': r.get('Date of Copying', '') or (o or {}).get('date', {}).get('as_written', ''),
-            'date': date, 'date_src': date_src,
+            'date': date, 'date_src': r.get('_date_src') or date_src if '_source' in r and r.get('_date') else date_src,
+            'date_note': r.get('_date_note', '') if '_source' in r and date is r.get('_date') else date_note,
+            'date_flat': date_flat, 'date_doubtful': doubtful,
             'place_raw': place, 'place': norm_place(place),
             'colophon': (r.get('colophon') or '')[:1500], 'files': r['files'],
             'reading': (o or {}).get('_src', ''), 'purpose': (o or {}).get('purpose', ''),

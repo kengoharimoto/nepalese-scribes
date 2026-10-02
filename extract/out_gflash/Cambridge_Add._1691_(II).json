@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्री राण-ठक[रस्य]",
+   "name": "Rāṇa",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "pravaramahāyānayāyin",
+    "paramopāsaka",
+    "ṭhakkura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "देयधर्मोऽयं प्रवरमहायानयायिनः परमोपासकश्री राण-ठक[रस्य]",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "श्या[नन्ददेवस्य]",
+   "name": "Ānandadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "श्या[नन्ददेवस्य] प्रवर्धमानविजयराज्ये",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "श्या[नन्ददेवस्य] प्रवर्धमानविजयराज्ये लिखितमिति"
+  }
+ ],
+ "date": {
+  "as_written": "सम्बत् २.... कार्तिकशुक्लपञ्चम्यां शनिश्वरदिने",
+  "era": "NS",
+  "year": "299",
+  "month": "Kārttika",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1179"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "merit transfer (yad atra puṇyaṃ)",
+ "notes": "Bendall notes that the date NS 299 was read earlier by Dr. Daniel Wright, but only the initial numeral 2 was preserved by the time Bendall examined it. Bendall also notes that the king's name was torn away except for the first akṣara, restored by him as Ānandadeva (reigned ca. NS 287–321).",
+ "_meta": {
+  "reel": "Cambridge Add. 1691 (II)",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 1426,
+  "out_tok": 1566
+ }
+}

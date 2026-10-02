@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed role 'commissioner' from p1: the colophon only says the book is his (पुस्तको ऽयं) and that it was written (लिखितम्), with no causative likhāpitam; role is owner only",
+   "Lowered confidence for p1 to low because the name's form and division are uncertain (Bendall prints 'चिन्मिश्र पाकस्य' with a space)",
+   "Shortened the evidence and expanded the notes"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "उपासक चिन्मिश्र पाकस्य",
+   "name": "Cinmiśrapāka",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "upāsaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "उपासक चिन्मिश्र पाकस्य पुस्तको ऽयं",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "संवत् १८८ भाद्रपद शुक्ल पौर्णमास्याः शुक्रदिने",
+  "era": "NS",
+  "year": "188",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1068"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "This is one item of Bendall's composite number Add. 1680 (XXIV): a Bhadracarīpraṇidhānarāja on 6 palm leaves. Bendall reads the date as N.S. 188 = A.D. 1068, which agrees with NS+880. The colophon does not name a scribe. The owner's name is uncertain. Bendall prints 'चिन्मिश्र पाकस्य' with a space, so it may be one compound name, Cinmiśrapāka, or 'Cinmiśra' followed by some other element. It could also be a garbled form of a Newar name. Because he is called upāsaka, '-miśra' here is probably not the brahmin suffix. He is listed only as owner: the text says the book is his ('pustako 'yaṃ') and that it was written ('likhitam'), but nothing shows he commissioned it.",
+ "_meta": {
+  "reel": "Cambridge Add. 1680 (XXIV)",
+  "model": "opus",
+  "cost_usd": 0.0763726,
+  "secs": 14.2
+ }
+}

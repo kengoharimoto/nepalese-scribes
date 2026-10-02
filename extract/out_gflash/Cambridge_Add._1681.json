@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "PAṆḌIT GUṆĀNAND",
+   "name": "Guṇānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "compiled by PAṆḌIT GUṆĀNAND",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for use in deciphering the MSS. of the present collection",
+ "notes": "Modern compilation of alphabets prepared by Paṇḍit Guṇānanda (who assisted Daniel Wright in collecting manuscripts in Nepal).",
+ "_meta": {
+  "reel": "Cambridge Add. 1681",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 896,
+  "out_tok": 736
+ }
+}

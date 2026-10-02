@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीकुनूशर्मेना",
+   "name": "Kunūśarman",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "श्रीकुनूशर्मेना विरचिता कीर्तिपताका समाप्ता",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "नयनमुनिसगैलेरङ्गितातीतसङ्ख्ये",
+  "era": "NS",
+  "year": "772",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1652"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'nayana-muni-sailaiḥ' stands for 772 (nayana = 2, muni = 7, śaila = 7), converted to 1652 CE by Bendall.",
+ "_meta": {
+  "reel": "Cambridge Add. 1634",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 1252,
+  "out_tok": 975
+ }
+}

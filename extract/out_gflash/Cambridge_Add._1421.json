@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribal colophon, date, or personal names are preserved; the text simply concludes with इति वज्रसूची समाप्तमिति ॥.",
+ "_meta": {
+  "reel": "Cambridge Add. 1421",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 1023,
+  "out_tok": 510
+ }
+}

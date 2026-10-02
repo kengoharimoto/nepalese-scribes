@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "Ṣrīvajrācārya Bhājudhanamṛcay-āviyā (?)",
+   "name": "Bhājudhanamṛcayāviyā",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "Kāntipur",
+   "evidence": "written in the year given above by Ṣrīvajrācārya Bhājudhanamṛcay-āviyā (?) at Kāntipur",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "N. s. 905",
+  "era": "NS",
+  "year": "905",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1785"
+ },
+ "place": {
+  "as_written": "Kāntipur",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "Bendall read the vernacular colophon without quoting it in full: 'From the vernacular colophon it appears that the MS. was written in the year given above by Ṣrīvajrācārya Bhājudhanamṛcay-āviyā (?) at Kāntipur (Kathmandu).' The ending -āviyā or -yā biyā may be a Newar verb/case marker rather than part of the personal name.",
+ "_meta": {
+  "reel": "Cambridge Add. 1379",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 1213,
+  "out_tok": 1351
+ }
+}

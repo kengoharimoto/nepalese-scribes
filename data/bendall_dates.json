@@ -1,0 +1,2462 @@
+{
+ "Cambridge Add. 866": {
+  "status": "verified-alt",
+  "rule": "year + 1",
+  "date": "1009-01-31",
+  "ce": 1009,
+  "given": {
+   "era": "NS",
+   "year": 128,
+   "masa": "Phālguna",
+   "paksa": "s",
+   "tithi": null,
+   "weekday": "Monday",
+   "naksatra": "U-bhadrapada"
+  },
+  "fits": [
+   "year + 1"
+  ],
+  "ambiguous": false,
+  "computed": {
+   "weekday": "Monday",
+   "tithi": 2,
+   "naksatra": "P-bhadrapada",
+   "saka": 930
+  },
+  "basis": "colophon",
+  "reading": "out_review",
+  "bendall_ce": 1008,
+  "bendall_date": "dated Nepal Saṃvat 128 (A.D. 1008)",
+  "as_written": "अब्दे शते साष्टकविंशयुते मासे शुभे फाल्गुणाशुक्लपञ्चे सोमवारे नचचरस्योत्तरभद्रसंज्ञे"
+ },
+ "Cambridge Add. 867.2": {
+  "status": "verified",
+  "rule": "standard",
+  "date": "1752-11-04",
+  "ce": 1752,
+  "given": {
+   "era": "NS",
+   "year": 872,
+   "masa": "Āśvina",
+   "paksa": "k",
+   "tithi": 13,
+   "weekday": "Saturday",
+   "naksatra": "Citra"
+  },
+  "fits": [
+   "standard",
+   "tithi current later that day or expired"
+  ],
+  "ambiguous": false,
+  "computed": {
+   "weekday": "Saturday",
+   "tithi": 29,
+   "naksatra": "Citra",
+   "saka": 1674
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1752,
+  "bendall_date": "Dated N. s. 872 (A. D. 1752)",
+  "as_written": "नैपालिकाब्दे भुजपर्वतवसुसंयुते । मासे अश्विनिऽशिते । त्रयोदशे अमिततिथौ । ताराचित्राप्रतिथौ .... भास्करपुत्रवासरे"
+ },
+ "Cambridge Add. 870": {
+  "status": "year-only",
+  "ce": 1854,
+  "given": {
+   "era": "NS",
+   "year": 974,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1854,
+  "bendall_date": "dated N.S. 974 (A. D. 1854)",
+  "as_written": "N.S. 974"
+ },
+ "Cambridge Add. 874": {
+  "status": "year-only",
+  "ce": 1793,
+  "given": {
+   "era": "NS",
+   "year": 913,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1793,
+  "bendall_date": "dated N. S. 913 (A.D. 1793)",
+  "as_written": "N. S. 913"
+ },
+ "Cambridge Add. 875": {
+  "status": "year-only",
+  "ce": 1794,
+  "given": {
+   "era": "NS",
+   "year": 914,
+   "masa": null,
+   "paksa": "s",
+   "tithi": 13,
+   "weekday": "Wednesday",
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_review",
+  "bendall_ce": 1794,
+  "bendall_date": "dated N. s. 914 (A.D. 1794) reign of Rāṇa-bahādura",
+  "as_written": "युतीन्दुनन्द युत हायने स्मिन्तयावदाते (?) तिशिरामचन्द्रे तिथ्याडुवायां (?) बुधवासरे च सुरे च कुम्भशशिकर्कदेशे (sic)"
+ },
+ "Cambridge Add. 914": {
+  "status": "year-only",
+  "ce": 1759,
+  "given": {
+   "era": "NS",
+   "year": 879,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": null,
+  "bendall_date": null,
+  "as_written": "N. s. 879"
+ },
+ "Cambridge Add. 915": {
+  "status": "year-only",
+  "ce": 1796,
+  "given": {
+   "era": "NS",
+   "year": 916,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1796,
+  "bendall_date": "dated N. s. 916 (A.D. 1796)",
+  "as_written": "N. s. 916"
+ },
+ "Cambridge Add. 916": {
+  "status": "year-only",
+  "ce": 1796,
+  "given": {
+   "era": "NS",
+   "year": 916,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1796,
+  "bendall_date": "dated N. S. 916 (A.D. 1796)",
+  "as_written": "N. S. 916"
+ },
+ "Cambridge Add. 1041": {
+  "status": "year-only",
+  "ce": 1551,
+  "given": {
+   "era": "NS",
+   "year": 671,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": null,
+  "bendall_date": "dated (see below)",
+  "as_written": "शशिमुनिरसाब्दे"
+ },
+ "Cambridge Add. 1049": {
+  "status": "computed",
+  "rule": "standard",
+  "ce": 829,
+  "date": "0829-09-16",
+  "given": {
+   "era": "AS",
+   "year": 252,
+   "masa": "Āśvina",
+   "paksa": "s",
+   "tithi": 15,
+   "weekday": null,
+   "naksatra": null
+  },
+  "computed": {
+   "weekday": "Thursday",
+   "tithi": 15,
+   "naksatra": "U-bhadrapada",
+   "saka": 751
+  },
+  "basis": "Bendall's year, era reattributed",
+  "reading": "out_gflash",
+  "bendall_ce": 859,
+  "bendall_date": "dated (Ṣriharsha) saṃvat 252 (A.D. 859)",
+  "as_written": "अश्वयुज शृङ्गपूरणिमलिलित संवत् २५२",
+  "era_note": "Bendall's Harṣa era read as the Aṃśuvarman ('Mānadeva') saṃvat, i.e. the Kārttikādi Śaka with 500 dropped (Malla 2005)"
+ },
+ "Cambridge Add. 1108": {
+  "status": "verified",
+  "rule": "standard",
+  "date": "1392-01-04",
+  "ce": 1392,
+  "given": {
+   "era": "NS",
+   "year": 512,
+   "masa": "Pauṣa",
+   "paksa": "s",
+   "tithi": 9,
+   "weekday": "Thursday",
+   "naksatra": null
+  },
+  "fits": [
+   "standard",
+   "tithi current later that day or expired"
+  ],
+  "ambiguous": false,
+  "computed": {
+   "weekday": "Thursday",
+   "tithi": 9,
+   "naksatra": "Bharani",
+   "saka": 1313
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1392,
+  "bendall_date": "dated N. s. 512 (A.D. 1392)",
+  "as_written": "दादशीत्तरपञ्चशतं प्रयाते विहायसे(?) । पौषशुक्ले नवम्याच्च संपूर्णगुरुवासरे"
+ },
+ "Cambridge Add. 1161": {
+  "status": "verified-alt",
+  "rule": "tithi current later that day or expired",
+  "date": "1084-04-15",
+  "ce": 1084,
+  "given": {
+   "era": "NS",
+   "year": 204,
+   "masa": "Vaiśākha",
+   "paksa": "s",
+   "tithi": 8,
+   "weekday": "Monday",
+   "naksatra": null
+  },
+  "fits": [
+   "tithi current later that day or expired"
+  ],
+  "ambiguous": false,
+  "computed": {
+   "weekday": "Monday",
+   "tithi": 7,
+   "naksatra": "Pusya",
+   "saka": 1006
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1084,
+  "bendall_date": "dated N. s. 204 (A.D. 1084)",
+  "as_written": "सम्वत् [२०४]* वैशाखशुक्लाष्टम्यां। सोमदिने"
+ },
+ "Cambridge Add. 1272": {
+  "status": "year-only",
+  "ce": 1784,
+  "given": {
+   "era": "NS",
+   "year": 904,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1784,
+  "bendall_date": "dated N. s. 904 (A.D. 1784)",
+  "as_written": "N. s. 904"
+ },
+ "Cambridge Add. 1278": {
+  "status": "year-only",
+  "ce": 1866,
+  "given": {
+   "era": "NS",
+   "year": 986,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1866,
+  "bendall_date": "dated N.S. 986 (A.D. 1866)",
+  "as_written": "N.S. 986"
+ },
+ "Cambridge Add. 1279": {
+  "status": "verified",
+  "rule": "standard",
+  "date": "1875-05-22",
+  "ce": 1875,
+  "given": {
+   "era": "NS",
+   "year": 995,
+   "masa": "Vaiśākha",
+   "paksa": "k",
+   "tithi": 2,
+   "weekday": "Saturday",
+   "naksatra": null
+  },
+  "fits": [
+   "standard",
+   "tithi current later that day or expired"
+  ],
+  "ambiguous": false,
+  "computed": {
+   "weekday": "Saturday",
+   "tithi": 17,
+   "naksatra": "Jyestha",
+   "saka": 1797
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1875,
+  "bendall_date": "dated N.S. 995 (A.D. 1875)",
+  "as_written": "सप्त ६६५ मिति वैशाख कृष्ण २ शनीश्वरवार०"
+ },
+ "Cambridge Add. 1306": {
+  "status": "year-only",
+  "ce": 1302,
+  "given": {
+   "era": "NS",
+   "year": 422,
+   "masa": null,
+   "paksa": null,
+   "tithi": 10,
+   "weekday": "Sunday",
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1302,
+  "bendall_date": "dated N. S. 422 (A.D. 1302)",
+  "as_written": "नेत्राद्यश्चिद्युताब्दके च समये राधे श्रिते पञ्चके। आशायाश्च तिथौ दिवाकरदिने"
+ },
+ "Cambridge Add. 1319": {
+  "status": "year-only",
+  "ce": 1824,
+  "given": {
+   "era": "NS",
+   "year": 944,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1824,
+  "bendall_date": "dated N. s. 944 (A. D. 1824)",
+  "as_written": "N. s. 944"
+ },
+ "Cambridge Add. 1320": {
+  "status": "year-only",
+  "ce": 1838,
+  "given": {
+   "era": "NS",
+   "year": 958,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": null,
+  "bendall_date": "dated (see below)",
+  "as_written": "N. s. 958"
+ },
+ "Cambridge Add. 1321": {
+  "status": "year-only",
+  "ce": 1811,
+  "given": {
+   "era": "NS",
+   "year": 931,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1811,
+  "bendall_date": "dated N. s. 931 (A.D. 1811)",
+  "as_written": "N. s. 931"
+ },
+ "Cambridge Add. 1323": {
+  "status": "year-only",
+  "ce": 1859,
+  "given": {
+   "era": "NS",
+   "year": 979,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1859,
+  "bendall_date": "dated N. s. 979 (A.D. 1859)",
+  "as_written": "सखत् ६७६ मिति"
+ },
+ "Cambridge Add. 1325": {
+  "status": "year-only",
+  "ce": 1819,
+  "given": {
+   "era": "NS",
+   "year": 939,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1819,
+  "bendall_date": "dated N. S. 939 (A.D. 1819)",
+  "as_written": "N. S. 939"
+ },
+ "Cambridge Add. 1326": {
+  "status": "computed",
+  "rule": "standard",
+  "ce": 1719,
+  "date": "1719-08",
+  "given": {
+   "era": "NS",
+   "year": 839,
+   "masa": "Bhādrapada",
+   "paksa": "s",
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "computed": {
+   "weekday": "Wednesday",
+   "tithi": 1,
+   "naksatra": "Magha",
+   "saka": 1641
+  },
+  "basis": "Bendall's era and year",
+  "reading": "out_gflash",
+  "bendall_ce": 1719,
+  "bendall_date": "dated N. S. 839 (A.D. 1719)",
+  "as_written": "सम्बत् ८३६ भाद्रवपदमास शुक्लपक्षे",
+  "year_conflict": {
+   "Bendall's era and year": "NS 839",
+   "colophon": "NS 836"
+  }
+ },
+ "Cambridge Add. 1330": {
+  "status": "year-only",
+  "ce": 1641,
+  "given": {
+   "era": "NS",
+   "year": 761,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1641,
+  "bendall_date": "dated N. S. 761 (A.D. 1641)",
+  "as_written": "N. S. 761"
+ },
+ "Cambridge Add. 1333": {
+  "status": "computed",
+  "rule": "standard",
+  "ce": 1797,
+  "date": "1797-08-09",
+  "given": {
+   "era": "NS",
+   "year": 917,
+   "masa": "Śrāvaṇa",
+   "paksa": "k",
+   "tithi": 2,
+   "weekday": null,
+   "naksatra": null
+  },
+  "computed": {
+   "weekday": "Wednesday",
+   "tithi": 17,
+   "naksatra": "Satabhisaj",
+   "saka": 1719
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1797,
+  "bendall_date": "dated N. S. 917 (A.D. 1797)",
+  "as_written": "सन्वत् ९१७ श्रावन वदि २"
+ },
+ "Cambridge Add. 1340": {
+  "status": "computed",
+  "rule": "standard",
+  "ce": 1842,
+  "date": "1842-05-10",
+  "given": {
+   "era": "NS",
+   "year": 962,
+   "masa": "Caitra",
+   "paksa": "k",
+   "tithi": 15,
+   "weekday": null,
+   "naksatra": null
+  },
+  "computed": {
+   "weekday": "Tuesday",
+   "tithi": 30,
+   "naksatra": "Bharani",
+   "saka": 1764
+  },
+  "basis": "Bendall's era and year",
+  "reading": "out_gflash",
+  "bendall_ce": 1842,
+  "bendall_date": "dated N. S. 962 (A.D. 1842)",
+  "as_written": "श्रीसम्बत् ६६२ मिति चैत्र शुद्धि ३०",
+  "year_conflict": {
+   "Bendall's era and year": "NS 962",
+   "colophon": "NS 662"
+  }
+ },
+ "Cambridge Add. 1341": {
+  "status": "computed",
+  "rule": "standard",
+  "ce": 1843,
+  "date": "1843-05",
+  "given": {
+   "era": "NS",
+   "year": 963,
+   "masa": "Jyeṣṭha",
+   "paksa": "s",
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "computed": {
+   "weekday": "Tuesday",
+   "tithi": 1,
+   "naksatra": "Mrgasira",
+   "saka": 1765
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1843,
+  "bendall_date": "dated N. s. 963 (A.D. 1843)",
+  "as_written": "वक्त्रिरसग्रहैर्विषे ज्येष्ठमासे श्रितेदले"
+ },
+ "Cambridge Add. 1348": {
+  "status": "computed",
+  "rule": "standard",
+  "ce": 1817,
+  "date": "1817-06-04",
+  "given": {
+   "era": "NS",
+   "year": 937,
+   "masa": "Jyeṣṭha",
+   "paksa": "k",
+   "tithi": 5,
+   "weekday": null,
+   "naksatra": null
+  },
+  "computed": {
+   "weekday": "Wednesday",
+   "tithi": 20,
+   "naksatra": "Sravana",
+   "saka": 1739
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1807,
+  "bendall_date": "dated N. s. 937 (A.D. 1807)",
+  "as_written": "सम्बत् ९३७ मि ज्येष्ठवदि ५"
+ },
+ "Cambridge Add. 1351": {
+  "status": "year-only",
+  "ce": 1862,
+  "given": {
+   "era": "NS",
+   "year": 982,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1862,
+  "bendall_date": "dated N. s. 982 (A.D. 1862)",
+  "as_written": "N. s. 982"
+ },
+ "Cambridge Add. 1352": {
+  "status": "year-only",
+  "ce": 1865,
+  "given": {
+   "era": "NS",
+   "year": 985,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1865,
+  "bendall_date": "dated N. s. 985 (A.D. 1865)",
+  "as_written": "N. s. 985"
+ },
+ "Cambridge Add. 1355": {
+  "status": "year-only",
+  "ce": 1576,
+  "given": {
+   "era": "NS",
+   "year": 696,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1576,
+  "bendall_date": "dated N. s. 696 (A.D. 1576)",
+  "as_written": "सन्वत् ९७९ etc."
+ },
+ "Cambridge Add. 1356": {
+  "status": "year-only",
+  "ce": 1740,
+  "given": {
+   "era": "NS",
+   "year": 860,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1740,
+  "bendall_date": "dated N. s. 860 (A.D. 1740)",
+  "as_written": "N. s. 860"
+ },
+ "Cambridge Add. 1357": {
+  "status": "year-only",
+  "ce": 1853,
+  "given": {
+   "era": "NS",
+   "year": 973,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1853,
+  "bendall_date": "dated N. s. 973 (A.D. 1853)",
+  "as_written": "N. s. 973"
+ },
+ "Cambridge Add. 1361": {
+  "status": "year-only",
+  "ce": 1857,
+  "given": {
+   "era": "NS",
+   "year": 977,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1857,
+  "bendall_date": "dated N. s. 977 (A.D. 1857)",
+  "as_written": "N. s. 977"
+ },
+ "Cambridge Add. 1362": {
+  "status": "year-only",
+  "ce": 1846,
+  "given": {
+   "era": "NS",
+   "year": 966,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1846,
+  "bendall_date": "dated N. s. 966 (A.D. 1846)",
+  "as_written": "N. s. 966"
+ },
+ "Cambridge Add. 1364": {
+  "status": "computed",
+  "rule": "standard",
+  "ce": 1446,
+  "date": "1446-08-20",
+  "given": {
+   "era": "VS",
+   "year": 1503,
+   "masa": "Bhādrapada",
+   "paksa": "k",
+   "tithi": 13,
+   "weekday": null,
+   "naksatra": null
+  },
+  "computed": {
+   "weekday": "Saturday",
+   "tithi": 28,
+   "naksatra": "Aslesa",
+   "saka": 1368
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1446,
+  "bendall_date": "dated Vikramāditya Samvat 1503 (A.D. 1446)",
+  "as_written": "श्रीमद्विक्रमादित्यदेवपादानामतीतराज्ये सं° १५°३ भाद्रवदि १३ बुधे"
+ },
+ "Cambridge Add. 1365": {
+  "status": "year-only",
+  "ce": 1866,
+  "given": {
+   "era": "NS",
+   "year": 986,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "Bendall's era and year",
+  "reading": "out_gflash",
+  "bendall_ce": 1866,
+  "bendall_date": "dated N. s. 986 (A.D. 1866)",
+  "as_written": "संवत् ७८३",
+  "year_conflict": {
+   "Bendall's era and year": "NS 986",
+   "colophon": "NS 783"
+  }
+ },
+ "Cambridge Add. 1369": {
+  "status": "year-only",
+  "ce": 1843,
+  "given": {
+   "era": "NS",
+   "year": 963,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": "Monday",
+   "naksatra": "U-bhadrapada"
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1843,
+  "bendall_date": "dated N. s. 963 (A.D. 1843)",
+  "as_written": "N. s. 963 ... शुभयोग सोमवार"
+ },
+ "Cambridge Add. 1370": {
+  "status": "year-only",
+  "ce": 1847,
+  "given": {
+   "era": "NS",
+   "year": 967,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1847,
+  "bendall_date": "dated N. s. 967 (A.D. 1847)",
+  "as_written": "N. s. 967"
+ },
+ "Cambridge Add. 1374": {
+  "status": "year-only",
+  "ce": 1873,
+  "given": {
+   "era": "NS",
+   "year": 993,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1873,
+  "bendall_date": "dated N. s. 993 (A.D. 1873)",
+  "as_written": "N. s. 993"
+ },
+ "Cambridge Add. 1379": {
+  "status": "year-only",
+  "ce": 1785,
+  "given": {
+   "era": "NS",
+   "year": 905,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_review",
+  "bendall_ce": 1785,
+  "bendall_date": "dated N. s. 905 (A.D. 1785)",
+  "as_written": "N. s. 905"
+ },
+ "Cambridge Add. 1385": {
+  "status": "year-only",
+  "ce": 1659,
+  "given": {
+   "era": "NS",
+   "year": 779,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1659,
+  "bendall_date": "dated N. s. 779 (A.D. 1659)",
+  "as_written": "N. s. 779"
+ },
+ "Cambridge Add. 1387": {
+  "status": "computed",
+  "rule": "standard",
+  "ce": 1829,
+  "date": "1829-12-23",
+  "given": {
+   "era": "NS",
+   "year": 950,
+   "masa": "Mārgaśīrṣa",
+   "paksa": "k",
+   "tithi": 13,
+   "weekday": null,
+   "naksatra": null
+  },
+  "computed": {
+   "weekday": "Wednesday",
+   "tithi": 28,
+   "naksatra": "Anuradha",
+   "saka": 1751
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1830,
+  "bendall_date": "dated (in words) N. S. 950 (A.D. 1830)",
+  "as_written": "भृगुन्याणांकयुग्मर्षे मर्गि मासे ऽसिते स्मरे"
+ },
+ "Cambridge Add. 1395": {
+  "status": "verified",
+  "rule": "standard",
+  "date": "1384-10-22",
+  "ce": 1384,
+  "given": {
+   "era": "NS",
+   "year": 505,
+   "masa": "Kārttika",
+   "paksa": "s",
+   "tithi": 8,
+   "weekday": "Saturday",
+   "naksatra": null
+  },
+  "fits": [
+   "standard",
+   "tithi current later that day or expired"
+  ],
+  "ambiguous": false,
+  "computed": {
+   "weekday": "Saturday",
+   "tithi": 8,
+   "naksatra": "Sravana",
+   "saka": 1306
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1385,
+  "bendall_date": "dated N. s. 505 (A.D. 1385)",
+  "as_written": "सप्तत् ५०५ कार्तिक शुक्ल अष्टम्यां तित्यौ सनिम्बरवासरे"
+ },
+ "Cambridge Add. 1400": {
+  "status": "year-only",
+  "ce": 1768,
+  "given": {
+   "era": "NS",
+   "year": 888,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1768,
+  "bendall_date": "dated N. s. 888 (A.D. 1768)",
+  "as_written": "N. s. 888"
+ },
+ "Cambridge Add. 1401": {
+  "status": "year-only",
+  "ce": 1806,
+  "given": {
+   "era": "NS",
+   "year": 926,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1806,
+  "bendall_date": "dated N. S. 926 (A.D. 1806)",
+  "as_written": "N. S. 926"
+ },
+ "Cambridge Add. 1405": {
+  "status": "year-only",
+  "ce": 1614,
+  "given": {
+   "era": "NS",
+   "year": 734,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1614,
+  "bendall_date": "dated N. s. 734 (A.D. 1614)",
+  "as_written": "सं ७३४"
+ },
+ "Cambridge Add. 1409": {
+  "status": "year-only",
+  "ce": 1360,
+  "given": {
+   "era": "NS",
+   "year": 480,
+   "masa": null,
+   "paksa": "s",
+   "tithi": 10,
+   "weekday": "Sunday",
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_review",
+  "bendall_ce": 1360,
+  "bendall_date": "dated N. s. 480 (A.D. 1360)",
+  "as_written": "सम्वत् ४८० शुक्लिकदशम्यां रवि वासो"
+ },
+ "Cambridge Add. 1411": {
+  "status": "year-only",
+  "ce": 1832,
+  "given": {
+   "era": "NS",
+   "year": 952,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1832,
+  "bendall_date": "dated N. s. 952 (A.D. 1832)",
+  "as_written": "N. s. 952"
+ },
+ "Cambridge Add. 1415": {
+  "status": "year-only",
+  "ce": 1637,
+  "given": {
+   "era": "NS",
+   "year": 757,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1637,
+  "bendall_date": "dated N. s. 757 (A.D. 1637)",
+  "as_written": "सप्तैषुमुनिवत्सरिति"
+ },
+ "Cambridge Add. 1454": {
+  "status": "year-only",
+  "ce": 1807,
+  "given": {
+   "era": "NS",
+   "year": 927,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1807,
+  "bendall_date": "dated N. s. 927 (A.D. 1807)",
+  "as_written": "N. s. 927"
+ },
+ "Cambridge Add. 1460": {
+  "status": "year-only",
+  "ce": 1672,
+  "given": {
+   "era": "NS",
+   "year": 792,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1672,
+  "bendall_date": "dated N. s. 792 (A.D. 1672)",
+  "as_written": "खस्मिसम्बत*७८१ (exact day, etc.)"
+ },
+ "Cambridge Add. 1465": {
+  "status": "verified-alt",
+  "rule": "tithi current later that day or expired",
+  "date": "1263-10-07",
+  "ce": 1263,
+  "given": {
+   "era": "NS",
+   "year": 384,
+   "masa": "Kārttika",
+   "paksa": "s",
+   "tithi": 2,
+   "weekday": "Sunday",
+   "naksatra": null
+  },
+  "fits": [
+   "tithi current later that day or expired"
+  ],
+  "ambiguous": false,
+  "computed": {
+   "weekday": "Sunday",
+   "tithi": 3,
+   "naksatra": "Anuradha",
+   "saka": 1185
+  },
+  "basis": "colophon",
+  "reading": "out_review",
+  "bendall_ce": 1264,
+  "bendall_date": "dated N. s. 384 (?) (A.D. 1264)",
+  "as_written": "सम्मतं चिह्नं फ्राकार्त्तिकशुक्लादतीयाया आदित्यवासरे"
+ },
+ "Cambridge Add. 1470": {
+  "status": "year-only",
+  "ce": 1842,
+  "given": {
+   "era": "NS",
+   "year": 962,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_review",
+  "bendall_ce": 1842,
+  "bendall_date": "dated N. S. 962 (A.D. 1842)",
+  "as_written": "N. S. 962 (date ut supra, after the mantra)"
+ },
+ "Cambridge Add. 1475": {
+  "status": "year-only",
+  "ce": 1682,
+  "given": {
+   "era": "NS",
+   "year": 802,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_review",
+  "bendall_ce": null,
+  "bendall_date": null,
+  "as_written": "खस्सुसंस्वत् ८°२"
+ },
+ "Cambridge Add. 1481": {
+  "status": "year-only",
+  "ce": 1795,
+  "given": {
+   "era": "NS",
+   "year": 915,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1795,
+  "bendall_date": "dated N. s. 915 (A.D. 1795)",
+  "as_written": "N. s. 915"
+ },
+ "Cambridge Add. 1483": {
+  "status": "year-only",
+  "ce": 1781,
+  "given": {
+   "era": "NS",
+   "year": 901,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1781,
+  "bendall_date": "dated N. s. 901 (A.D. 1781); good Devanāgari hand",
+  "as_written": "सम्ब° ७°१"
+ },
+ "Cambridge Add. 1485": {
+  "status": "year-only",
+  "ce": 1677,
+  "given": {
+   "era": "NS",
+   "year": 797,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": "Monday",
+   "naksatra": null
+  },
+  "basis": "Bendall's era and year",
+  "reading": "out_review",
+  "bendall_ce": 1677,
+  "bendall_date": "dated N. S. 797 (A.D. 1677)",
+  "as_written": "संवत् ७८७ (month, nakshatra, day etc.)",
+  "year_conflict": {
+   "Bendall's era and year": "NS 797",
+   "colophon": "NS 787"
+  }
+ },
+ "Cambridge Add. 1486": {
+  "status": "year-only",
+  "ce": 1721,
+  "given": {
+   "era": "NS",
+   "year": 841,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1721,
+  "bendall_date": "dated N. s. 841 (A.D. 1721)",
+  "as_written": "संवत् ८४१"
+ },
+ "Cambridge Add. 1487": {
+  "status": "year-only",
+  "ce": 1808,
+  "given": {
+   "era": "NS",
+   "year": 928,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1808,
+  "bendall_date": "dated N. s. 928 (A.D. 1808)",
+  "as_written": "N. s. 928"
+ },
+ "Cambridge Add. 1488": {
+  "status": "unverified",
+  "rule": "standard",
+  "ce": 1379,
+  "date": "1379-11-15",
+  "given": {
+   "era": "NS",
+   "year": 500,
+   "masa": "Mārgaśīrṣa",
+   "paksa": "s",
+   "tithi": 5,
+   "weekday": "Monday",
+   "naksatra": "Revati"
+  },
+  "computed": {
+   "weekday": "Tuesday",
+   "tithi": 5,
+   "naksatra": "Sravana",
+   "saka": 1301
+  },
+  "basis": "colophon",
+  "reading": "out_review",
+  "bendall_ce": null,
+  "bendall_date": null,
+  "as_written": "श्रीमन्नेपालिकसम्बन्धरे। सम्बत ५०० मार्गः शुद्ध श्रीपञ्चम्या तिथौ रैवतिनक्षत्रे साध्ययोगे सोमवासरे"
+ },
+ "Cambridge Add. 1534": {
+  "status": "year-only",
+  "ce": 1691,
+  "given": {
+   "era": "NS",
+   "year": 811,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1691,
+  "bendall_date": "dated N. S. 811 (A.D. 1691)",
+  "as_written": "N. S. 811"
+ },
+ "Cambridge Add. 1536": {
+  "status": "year-only",
+  "ce": 1683,
+  "given": {
+   "era": "NS",
+   "year": 803,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1683,
+  "bendall_date": "dated N. s. 803 (A. D. 1683)",
+  "as_written": "N. s. 803"
+ },
+ "Cambridge Add. 1538": {
+  "status": "year-only",
+  "ce": 1844,
+  "given": {
+   "era": "NS",
+   "year": 964,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1844,
+  "bendall_date": "dated N. S. 964 (A.D. 1844)",
+  "as_written": "N. S. 964"
+ },
+ "Cambridge Add. 1544": {
+  "status": "year-only",
+  "ce": 1372,
+  "given": {
+   "era": "NS",
+   "year": 492,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": null,
+  "bendall_date": null,
+  "as_written": "नेपाल समा दिनन्द जलघौ"
+ },
+ "Cambridge Add. 1549": {
+  "status": "year-only",
+  "ce": 1801,
+  "given": {
+   "era": "NS",
+   "year": 921,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1801,
+  "bendall_date": "dated N. s. 921 (A.D. 1801)",
+  "as_written": "N. s. 921"
+ },
+ "Cambridge Add. 1580": {
+  "status": "computed",
+  "rule": "standard",
+  "ce": 1427,
+  "date": "1427-10-15",
+  "given": {
+   "era": "NS",
+   "year": 547,
+   "masa": "Āśvina",
+   "paksa": "k",
+   "tithi": 10,
+   "weekday": null,
+   "naksatra": null
+  },
+  "computed": {
+   "weekday": "Wednesday",
+   "tithi": 25,
+   "naksatra": "Magha",
+   "saka": 1349
+  },
+  "basis": "colophon",
+  "reading": "out_review",
+  "bendall_ce": 1427,
+  "bendall_date": "dated N. S. 547 (A.D. 1427)",
+  "as_written": "स° ५४७ अष्टुनि कृष्ण १°"
+ },
+ "Cambridge Add. 1586": {
+  "status": "year-only",
+  "ce": 1661,
+  "given": {
+   "era": "NS",
+   "year": 781,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1661,
+  "bendall_date": "dated N. s. 781 (A.D. 1661)",
+  "as_written": "N. s. 781"
+ },
+ "Cambridge Add. 1589": {
+  "status": "year-only",
+  "ce": 1874,
+  "given": {
+   "era": "NS",
+   "year": 994,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1874,
+  "bendall_date": "dated N. s. 994 (A.D. 1874)",
+  "as_written": "N. s. 994"
+ },
+ "Cambridge Add. 1593": {
+  "status": "computed",
+  "rule": "standard",
+  "ce": 1819,
+  "date": "1819-07-27",
+  "given": {
+   "era": "NS",
+   "year": 939,
+   "masa": "Śrāvaṇa",
+   "paksa": "s",
+   "tithi": 5,
+   "weekday": null,
+   "naksatra": null
+  },
+  "computed": {
+   "weekday": "Tuesday",
+   "tithi": 5,
+   "naksatra": "U-phalguni",
+   "saka": 1741
+  },
+  "basis": "Bendall's era and year",
+  "reading": "out_gflash",
+  "bendall_ce": 1819,
+  "bendall_date": null,
+  "as_written": "संवत् ८३८ श्रावण शुक्ल पञ्चमी",
+  "year_conflict": {
+   "Bendall's era and year": "NS 939",
+   "colophon": "NS 838"
+  }
+ },
+ "Cambridge Add. 1596": {
+  "status": "year-only",
+  "ce": 1830,
+  "given": {
+   "era": "NS",
+   "year": 950,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_review",
+  "bendall_ce": 1830,
+  "bendall_date": "dated N. s. 950 (A.D. 1830)",
+  "as_written": "N. s. 950 (A.D. 1830)"
+ },
+ "Cambridge Add. 1603": {
+  "status": "year-only",
+  "ce": 1799,
+  "given": {
+   "era": "NS",
+   "year": 919,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1799,
+  "bendall_date": "dated N. S. 919 (A.D. 1799)",
+  "as_written": "N. S. 919"
+ },
+ "Cambridge Add. 1607": {
+  "status": "year-only",
+  "ce": 1782,
+  "given": {
+   "era": "NS",
+   "year": 902,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1782,
+  "bendall_date": "dated N. s. 902 (A.D. 1782)",
+  "as_written": "N. s. 902"
+ },
+ "Cambridge Add. 1611": {
+  "status": "year-only",
+  "ce": 1645,
+  "given": {
+   "era": "NS",
+   "year": 765,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1645,
+  "bendall_date": "dated N. s. 765 (A.D. 1645)",
+  "as_written": "N. s. 765"
+ },
+ "Cambridge Add. 1615": {
+  "status": "computed",
+  "rule": "standard",
+  "ce": 1803,
+  "date": "1803-05",
+  "given": {
+   "era": "NS",
+   "year": 923,
+   "masa": "Vaiśākha",
+   "paksa": "k",
+   "tithi": null,
+   "weekday": "Monday",
+   "naksatra": null
+  },
+  "computed": {
+   "weekday": "Saturday",
+   "tithi": 16,
+   "naksatra": "Visakha",
+   "saka": 1725
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1803,
+  "bendall_date": "dated in words N. S. 923 (A.D. 1803); large modern Nepalese hand, often sloping to the right",
+  "as_written": "अब्दे नैपालिके याते वक्रियमग्रहयुते । मासे कृष्णे माधवे च इन्दुवारे समन्विते"
+ },
+ "Cambridge Add. 1617": {
+  "status": "year-only",
+  "ce": 1825,
+  "given": {
+   "era": "NS",
+   "year": 945,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_review",
+  "bendall_ce": 1825,
+  "bendall_date": null,
+  "as_written": "संवत् ७४५"
+ },
+ "Cambridge Add. 1623": {
+  "status": "verified",
+  "rule": "standard",
+  "date": "1699-11-05",
+  "ce": 1699,
+  "given": {
+   "era": "NS",
+   "year": 820,
+   "masa": "Kārttika",
+   "paksa": "s",
+   "tithi": 13,
+   "weekday": "Thursday",
+   "naksatra": "Revati"
+  },
+  "fits": [
+   "standard",
+   "tithi current later that day or expired"
+  ],
+  "ambiguous": false,
+  "computed": {
+   "weekday": "Thursday",
+   "tithi": 13,
+   "naksatra": "Revati",
+   "saka": 1621
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1700,
+  "bendall_date": "dated N. s. 820 (A.D. 1700)",
+  "as_written": "सम्बत् ८२० कार्तिकमास्य शुक्लपक्षे त्रयोदश्यां तिथौ रेवतीनक्षत्रे वज्रयोगे यथाकर्णमुहूर्ते वृहस्पतिवासरे तुलेरासिगते सवितरि मितरासिगते चन्द्रमसि"
+ },
+ "Cambridge Add. 1625": {
+  "status": "year-only",
+  "ce": 1828,
+  "given": {
+   "era": "NS",
+   "year": 948,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1828,
+  "bendall_date": "dated N. S. 948 (A.D. 1828)",
+  "as_written": "N. S. 948"
+ },
+ "Cambridge Add. 1629": {
+  "status": "year-only",
+  "ce": 889,
+  "given": {
+   "era": "NS",
+   "year": 9,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": null,
+  "bendall_date": "dated in words [N. s.] 9..5",
+  "as_written": "dated in words [N. s.] 9..5"
+ },
+ "Cambridge Add. 1631": {
+  "status": "year-only",
+  "ce": 1863,
+  "given": {
+   "era": "NS",
+   "year": 983,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_review",
+  "bendall_ce": 1863,
+  "bendall_date": "dated in words N. S. 983 (A.D. 1863)",
+  "as_written": "dated in words N. S. 983 (A.D. 1863)"
+ },
+ "Cambridge Add. 1632": {
+  "status": "verified",
+  "rule": "standard",
+  "date": "1802-12-19",
+  "ce": 1802,
+  "given": {
+   "era": "NS",
+   "year": 923,
+   "masa": "Mārgaśīrṣa",
+   "paksa": "k",
+   "tithi": 10,
+   "weekday": "Sunday",
+   "naksatra": null
+  },
+  "fits": [
+   "standard",
+   "tithi current later that day or expired"
+  ],
+  "ambiguous": false,
+  "computed": {
+   "weekday": "Sunday",
+   "tithi": 25,
+   "naksatra": "Citra",
+   "saka": 1724
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1803,
+  "bendall_date": "dated N. S. 923 (A.D. 1803)",
+  "as_written": "याते नैपालिकवर्षे त्रियुग्मरन्ध्रसंयुते। मार्गशीर्षे ऽश्विनपक्षे दशम्यां रविवाररे",
+  "emended": {
+   "paksa": "'ऽश्विनपक्षे' (OCR) read as असितपक्षे, the dark fortnight; with it the date verifies"
+  }
+ },
+ "Cambridge Add. 1633": {
+  "status": "verified",
+  "rule": "standard",
+  "date": "1806-05-01",
+  "ce": 1806,
+  "given": {
+   "era": "NS",
+   "year": 926,
+   "masa": "Vaiśākha",
+   "paksa": "s",
+   "tithi": 14,
+   "weekday": "Thursday",
+   "naksatra": "Citra"
+  },
+  "fits": [
+   "standard",
+   "tithi current later that day or expired"
+  ],
+  "ambiguous": false,
+  "computed": {
+   "weekday": "Thursday",
+   "tithi": 14,
+   "naksatra": "Citra",
+   "saka": 1728
+  },
+  "basis": "Bendall's era and year",
+  "reading": "out_review",
+  "bendall_ce": 1806,
+  "bendall_date": "dated N. s. 926 (A.D. 1806)",
+  "as_written": "समत् ५२७ वैशाषमास्य गुरुकूपचे चतुर्दश्यांतिथौ चिन्तानचत्रे वजयोगे ... बृहस्पति – वार",
+  "year_conflict": {
+   "Bendall's era and year": "NS 926",
+   "colophon": "NS 527"
+  }
+ },
+ "Cambridge Add. 1634": {
+  "status": "year-only",
+  "ce": 1652,
+  "given": {
+   "era": "NS",
+   "year": 772,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1652,
+  "bendall_date": "dated in words N. s. 772 (A.D. 1652)",
+  "as_written": "नयनमुनिसगैलेरङ्गितातीतसङ्ख्ये"
+ },
+ "Cambridge Add. 1635": {
+  "status": "year-only",
+  "ce": 1685,
+  "given": {
+   "era": "NS",
+   "year": 805,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1685,
+  "bendall_date": "dated (in words) N. s. 805 (A.D. 1685)",
+  "as_written": "N. s. 805"
+ },
+ "Cambridge Add. 1641": {
+  "status": "year-only",
+  "ce": 1663,
+  "given": {
+   "era": "NS",
+   "year": 783,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": "Sunday",
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": null,
+  "bendall_date": null,
+  "as_written": "संवत ७८३"
+ },
+ "Cambridge Add. 1643": {
+  "status": "verified-alt",
+  "rule": "tithi current later that day or expired",
+  "date": "1015-03-31",
+  "ce": 1015,
+  "given": {
+   "era": "NS",
+   "year": 135,
+   "masa": "Caitra",
+   "paksa": "s",
+   "tithi": 10,
+   "weekday": "Thursday",
+   "naksatra": null
+  },
+  "fits": [
+   "tithi current later that day or expired"
+  ],
+  "ambiguous": false,
+  "computed": {
+   "weekday": "Thursday",
+   "tithi": 9,
+   "naksatra": "Pusya",
+   "saka": 937
+  },
+  "basis": "colophon",
+  "reading": "out_review",
+  "bendall_ce": 1015,
+  "bendall_date": "dated N. s. 135 (A.D. 1015)",
+  "as_written": "पञ्चचिंसाधिके ऽब्दे शततमप्रशते चैत्रमासे हिमाभा । विख्याते ऽस्मिन् दशम्यान्दनिंजरिपुगुरौ वासरे"
+ },
+ "Cambridge Add. 1644": {
+  "status": "unverified",
+  "rule": "standard",
+  "ce": 1204,
+  "date": "1204-11-09",
+  "given": {
+   "era": "NS",
+   "year": 325,
+   "masa": "Kārttika",
+   "paksa": "s",
+   "tithi": 15,
+   "weekday": "Thursday",
+   "naksatra": null
+  },
+  "computed": {
+   "weekday": "Tuesday",
+   "tithi": 15,
+   "naksatra": "Krttika",
+   "saka": 1126
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1205,
+  "bendall_date": "dated N. s. 325 (A.D. 1205, see below)",
+  "as_written": "३२५ कार्तिक शुक्ल पूर्णमास वृहस्पतेर्दिनं [:] / शुभसंवत् ३२५ का शु पूर्ण वृ"
+ },
+ "Cambridge Add. 1648": {
+  "status": "verified",
+  "rule": "standard",
+  "date": "1216-01-14",
+  "ce": 1216,
+  "given": {
+   "era": "NS",
+   "year": 336,
+   "masa": "Pauṣa",
+   "paksa": "k",
+   "tithi": 8,
+   "weekday": "Thursday",
+   "naksatra": "Visakha"
+  },
+  "fits": [
+   "standard",
+   "tithi current later that day or expired"
+  ],
+  "ambiguous": false,
+  "computed": {
+   "weekday": "Thursday",
+   "tithi": 23,
+   "naksatra": "Visakha",
+   "saka": 1137
+  },
+  "basis": "colophon",
+  "reading": "out_review",
+  "bendall_ce": null,
+  "bendall_date": null,
+  "as_written": "सवत् [३३६] पौषकृष्णाष्टम्यां षट्हसतिवासरे वैशाखनक्षत्रे"
+ },
+ "Cambridge Add. 1649": {
+  "status": "verified",
+  "rule": "standard",
+  "date": "1411-11-22",
+  "ce": 1411,
+  "given": {
+   "era": "NS",
+   "year": 532,
+   "masa": "Mārgaśīrṣa",
+   "paksa": "s",
+   "tithi": 7,
+   "weekday": "Sunday",
+   "naksatra": null
+  },
+  "fits": [
+   "standard",
+   "tithi current later that day or expired"
+  ],
+  "ambiguous": false,
+  "computed": {
+   "weekday": "Sunday",
+   "tithi": 7,
+   "naksatra": "Satabhisaj",
+   "saka": 1333
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1412,
+  "bendall_date": "dated N. S. 532 (A.D. 1412)",
+  "as_written": "सवत् ५३२ मागशिरगुक्त । सप्तम्यां तिथौ शतषष्ठनक्षत्रे । हरषणप्रवज्योग । आदित्यवासरे"
+ },
+ "Cambridge Add. 1656": {
+  "status": "year-only",
+  "ce": 1398,
+  "given": {
+   "era": "NS",
+   "year": 518,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": null,
+  "bendall_date": null,
+  "as_written": "N. s. 518"
+ },
+ "Cambridge Add. 1657.2": {
+  "status": "computed",
+  "rule": "standard",
+  "ce": 1199,
+  "date": "1199-06-25",
+  "given": {
+   "era": "NS",
+   "year": 319,
+   "masa": "Jyeṣṭha",
+   "paksa": "k",
+   "tithi": 15,
+   "weekday": null,
+   "naksatra": null
+  },
+  "computed": {
+   "weekday": "Friday",
+   "tithi": 30,
+   "naksatra": "Punarvasu",
+   "saka": 1121
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1199,
+  "bendall_date": "dated N. s. 319 (A.D. 1199)",
+  "as_written": "सप्तम् आ उ उ जैष्ठकृष्ण अमावास्यां"
+ },
+ "Cambridge Add. 1661": {
+  "status": "computed",
+  "rule": "standard",
+  "ce": 1424,
+  "date": "1424-11",
+  "given": {
+   "era": "NS",
+   "year": 545,
+   "masa": "Mārgaśīrṣa",
+   "paksa": "s",
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "computed": {
+   "weekday": "Wednesday",
+   "tithi": 1,
+   "naksatra": "Mula",
+   "saka": 1346
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1425,
+  "bendall_date": "dated N. s. 545 (A.D. 1425), but see below",
+  "as_written": "नेगत्राब्द (?) – कलंब* – कूप – विषयं मार्गे सिते सतिथौ"
+ },
+ "Cambridge Add. 1662": {
+  "status": "year-only",
+  "ce": 1619,
+  "given": {
+   "era": "NS",
+   "year": 739,
+   "masa": null,
+   "paksa": "k",
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1619,
+  "bendall_date": "dated N. s. 739 (A.D. 1619), the rest is of the XII—XIIIth cent",
+  "as_written": "सवत् ७३९ आवननष्टमासे कृष्णपक्षे ** (hiatus) तिथौ..."
+ },
+ "Cambridge Add. 1680 (XXIV)": {
+  "status": "verified-alt",
+  "rule": "tithi current later that day or expired",
+  "date": "1068-08-15",
+  "ce": 1068,
+  "given": {
+   "era": "NS",
+   "year": 188,
+   "masa": "Bhādrapada",
+   "paksa": "s",
+   "tithi": 15,
+   "weekday": "Friday",
+   "naksatra": null
+  },
+  "fits": [
+   "tithi current later that day or expired"
+  ],
+  "ambiguous": false,
+  "computed": {
+   "weekday": "Friday",
+   "tithi": 14,
+   "naksatra": "Dhanistha",
+   "saka": 990
+  },
+  "basis": "colophon",
+  "reading": "out_review",
+  "bendall_ce": null,
+  "bendall_date": null,
+  "as_written": "संवत् १८८ भाद्रपद शुक्ल पौर्णमास्याः शुक्रदिने"
+ },
+ "Cambridge Add. 1683": {
+  "status": "computed",
+  "rule": "standard",
+  "ce": 1039,
+  "date": "1039-03-30",
+  "given": {
+   "era": "NS",
+   "year": 159,
+   "masa": "Vaiśākha",
+   "paksa": "s",
+   "tithi": 3,
+   "weekday": null,
+   "naksatra": null
+  },
+  "computed": {
+   "weekday": "Friday",
+   "tithi": 3,
+   "naksatra": "Krttika",
+   "saka": 961
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1039,
+  "bendall_date": "dated N. s. 159 (A.D. 1039)",
+  "as_written": "सम्वत् १५० वैशाख शुक्ल दतीयायां शुक्लदिने"
+ },
+ "Cambridge Add. 1684": {
+  "status": "computed",
+  "rule": "standard",
+  "ce": 1065,
+  "date": "1065-04-20",
+  "given": {
+   "era": "NS",
+   "year": 185,
+   "masa": "Vaiśākha",
+   "paksa": "s",
+   "tithi": 12,
+   "weekday": null,
+   "naksatra": null
+  },
+  "computed": {
+   "weekday": "Wednesday",
+   "tithi": 12,
+   "naksatra": "Hasta",
+   "saka": 987
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1065,
+  "bendall_date": "dated N. S. 185 (A.D. 1065)",
+  "as_written": "सम्बत् १८५ वैशाखशुक्लदादशम्यां"
+ },
+ "Cambridge Add. 1685": {
+  "status": "year-only",
+  "ce": 1380,
+  "given": {
+   "era": "NS",
+   "year": 500,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_review",
+  "bendall_ce": 1380,
+  "bendall_date": "dated N. S. 500 (A.D. 1380)",
+  "as_written": "N. S. 500 (A.D. 1380) [Bendall's description; date portion of colophon not reproduced]"
+ },
+ "Cambridge Add. 1686": {
+  "status": "computed",
+  "rule": "standard",
+  "ce": 1166,
+  "date": "1166-12",
+  "given": {
+   "era": "NS",
+   "year": 287,
+   "masa": "Pauṣa",
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "computed": {
+   "weekday": "Sunday",
+   "tithi": 1,
+   "naksatra": "U-asadha",
+   "saka": 1088
+  },
+  "basis": "Bendall's era and year",
+  "reading": "out_gflash",
+  "bendall_ce": 1167,
+  "bendall_date": "dated N. s. 287 (A. D. 1167)",
+  "as_written": "सं २८५ पौष्यमाषि ति",
+  "year_conflict": {
+   "Bendall's era and year": "NS 287",
+   "colophon": "NS 285"
+  }
+ },
+ "Cambridge Add. 1687": {
+  "status": "year-only",
+  "ce": 1633,
+  "given": {
+   "era": "NS",
+   "year": 753,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_review",
+  "bendall_ce": 1633,
+  "bendall_date": "dated N. s. 753 (A. D. 1633)",
+  "as_written": "N. s. 753 (Bendall; the colophon's date line is omitted as 'date v. supra')"
+ },
+ "Cambridge Add. 1689": {
+  "status": "year-only",
+  "ce": 1374,
+  "given": {
+   "era": "NS",
+   "year": 494,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1374,
+  "bendall_date": "dated N. S. 494 (A.D. 1374)",
+  "as_written": "N. S. 494"
+ },
+ "Cambridge Add. 1691 (I)": {
+  "status": "unverified",
+  "rule": "standard",
+  "ce": 1190,
+  "date": "1190-10-05",
+  "given": {
+   "era": "NS",
+   "year": 311,
+   "masa": "Kārttika",
+   "paksa": null,
+   "tithi": 5,
+   "weekday": "Wednesday",
+   "naksatra": null
+  },
+  "computed": {
+   "weekday": "Friday",
+   "tithi": 5,
+   "naksatra": "Jyestha",
+   "saka": 1112
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1191,
+  "bendall_date": "apparently dated N. S. 311 (A.D. 1191)",
+  "as_written": "सप्तत् ३११ (1?) कात्तिक द्वाष्य पम्यां (? पं [च]म्यां) बुधवासरे"
+ },
+ "Cambridge Add. 1691 (II)": {
+  "status": "unverified",
+  "rule": "standard",
+  "ce": 1178,
+  "date": "1178-10-17",
+  "given": {
+   "era": "NS",
+   "year": 299,
+   "masa": "Kārttika",
+   "paksa": "s",
+   "tithi": 5,
+   "weekday": "Saturday",
+   "naksatra": null
+  },
+  "computed": {
+   "weekday": "Tuesday",
+   "tithi": 5,
+   "naksatra": "Mula",
+   "saka": 1100
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1179,
+  "bendall_date": null,
+  "as_written": "सम्बत् २.... कार्तिकशुक्लपञ्चम्यां शनिश्वरदिने"
+ },
+ "Cambridge Add. 1691 (III)": {
+  "status": "year-only",
+  "ce": 1440,
+  "given": {
+   "era": "NS",
+   "year": 560,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1440,
+  "bendall_date": "dated N. S. 560 (A.D. 1440)",
+  "as_written": "N. S. 560"
+ },
+ "Cambridge Add. 1693": {
+  "status": "verified",
+  "rule": "standard",
+  "date": "1165-07-18",
+  "ce": 1165,
+  "given": {
+   "era": "NS",
+   "year": 285,
+   "masa": "Śrāvaṇa",
+   "paksa": "s",
+   "tithi": 8,
+   "weekday": "Sunday",
+   "naksatra": null
+  },
+  "fits": [
+   "standard",
+   "tithi current later that day or expired"
+  ],
+  "ambiguous": false,
+  "computed": {
+   "weekday": "Sunday",
+   "tithi": 8,
+   "naksatra": "Visakha",
+   "saka": 1087
+  },
+  "basis": "colophon",
+  "reading": "out_review",
+  "bendall_ce": 1165,
+  "bendall_date": "dated N. S. 285 (A.D. 1165)",
+  "as_written": "संवत् २८५ आवण गुरुत्ताष्टम्यामादित्यदिने"
+ },
+ "Cambridge Add. 1695": {
+  "status": "computed",
+  "rule": "standard",
+  "ce": 1629,
+  "date": "1629-06-21",
+  "given": {
+   "era": "NS",
+   "year": 749,
+   "masa": "Jyeṣṭha",
+   "paksa": "k",
+   "tithi": 15,
+   "weekday": null,
+   "naksatra": null
+  },
+  "computed": {
+   "weekday": "Thursday",
+   "tithi": 30,
+   "naksatra": "Ardra",
+   "saka": 1551
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1629,
+  "bendall_date": "dated N. S. 749 (A.D. 1629), month of Jyeshṭha, at an eclipse of the sun",
+  "as_written": "सप्तत् ७४६ ज्येष्ठकृष्ण अमावास्या सूर्ययासस"
+ },
+ "Cambridge Add. 1697 (IV)": {
+  "status": "computed",
+  "rule": "standard",
+  "ce": 1463,
+  "date": "1463-05-30",
+  "given": {
+   "era": "NS",
+   "year": 583,
+   "masa": "Jyeṣṭha",
+   "paksa": null,
+   "tithi": 13,
+   "weekday": null,
+   "naksatra": null
+  },
+  "computed": {
+   "weekday": "Monday",
+   "tithi": 13,
+   "naksatra": "Visakha",
+   "saka": 1385
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1463,
+  "bendall_date": "dated N. S. 583 (A.D. 1463)",
+  "as_written": "सम्बत् ५८३ जेष्ठ बधि १३"
+ },
+ "Cambridge Add. 1697 (VIII)": {
+  "status": "year-only",
+  "ce": 1355,
+  "given": {
+   "era": "NS",
+   "year": 475,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1355,
+  "bendall_date": "dated N. S. 475 (A.D. 1355)",
+  "as_written": "N. S. 475"
+ },
+ "Cambridge Add. 1698": {
+  "status": "computed",
+  "rule": "standard",
+  "ce": 1386,
+  "date": "1386-03",
+  "given": {
+   "era": "NS",
+   "year": 506,
+   "masa": "Caitra",
+   "paksa": "k",
+   "tithi": null,
+   "weekday": "Wednesday",
+   "naksatra": null
+  },
+  "computed": {
+   "weekday": "Saturday",
+   "tithi": 16,
+   "naksatra": "Citra",
+   "saka": 1308
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": 1386,
+  "bendall_date": "dated N. s. 506 (A.D. 1386)",
+  "as_written": "श्रीमन्नेपालिकसम्बत्सरे ५०६ चैत्रकृष्णत्रयोदश्यां बुधवासरे"
+ },
+ "Cambridge Add. 1701 (I)": {
+  "status": "verified",
+  "rule": "standard",
+  "date": "1389-06-04",
+  "ce": 1389,
+  "given": {
+   "era": "NS",
+   "year": 509,
+   "masa": "Jyeṣṭha",
+   "paksa": "s",
+   "tithi": 10,
+   "weekday": "Friday",
+   "naksatra": null
+  },
+  "fits": [
+   "standard",
+   "tithi current later that day or expired"
+  ],
+  "ambiguous": false,
+  "computed": {
+   "weekday": "Friday",
+   "tithi": 10,
+   "naksatra": "Citra",
+   "saka": 1311
+  },
+  "basis": "colophon",
+  "reading": "out_review",
+  "bendall_ce": 1389,
+  "bendall_date": "dated N. s. 509 (A.D. 1389), see below",
+  "as_written": "सम्वत ५०६ ज्येष्ठशुक्ल दशम्याया तिथौ शुक्रवासरे (Bendall: N. s. 509)"
+ },
+ "Cambridge Add. 1701 (III)": {
+  "status": "year-only",
+  "ce": 1389,
+  "given": {
+   "era": "NS",
+   "year": 509,
+   "masa": null,
+   "paksa": null,
+   "tithi": null,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": null,
+  "bendall_date": null,
+  "as_written": "N. s. 509"
+ },
+ "Cambridge Add. 1703": {
+  "status": "verified",
+  "rule": "standard",
+  "date": "1429-09-03",
+  "ce": 1429,
+  "given": {
+   "era": "NS",
+   "year": 549,
+   "masa": "Bhādrapada",
+   "paksa": "s",
+   "tithi": 5,
+   "weekday": "Saturday",
+   "naksatra": "Visakha"
+  },
+  "fits": [
+   "standard",
+   "tithi current later that day or expired"
+  ],
+  "ambiguous": false,
+  "computed": {
+   "weekday": "Saturday",
+   "tithi": 5,
+   "naksatra": "Visakha",
+   "saka": 1351
+  },
+  "basis": "colophon",
+  "reading": "out_review",
+  "bendall_ce": 1429,
+  "bendall_date": "dated N. s. 549 (A.D. 1429)",
+  "as_written": "सं ५४७ भाद्रपद शुक्लः पञ्चम्याया तित्यौ विश्राषणचत्रे शणिचर वासरे"
+ },
+ "Cambridge Add. 1706 (I)": {
+  "status": "verified-alt",
+  "rule": "tithi current later that day or expired",
+  "date": "1261-10-04",
+  "ce": 1261,
+  "given": {
+   "era": "NS",
+   "year": 381,
+   "masa": "Āśvina",
+   "paksa": null,
+   "tithi": 10,
+   "weekday": "Tuesday",
+   "naksatra": null
+  },
+  "fits": [
+   "tithi current later that day or expired"
+  ],
+  "ambiguous": false,
+  "computed": {
+   "weekday": "Tuesday",
+   "tithi": 9,
+   "naksatra": "Sravana",
+   "saka": 1183
+  },
+  "basis": "colophon",
+  "reading": "out_review",
+  "bendall_ce": 1261,
+  "bendall_date": "dated N. s. 381, middle figure doubtful (A. D. 1261)",
+  "as_written": "समाप्तः ३८१ (?) अश्विनि [? द]शम्यां तिथौ अञ्जार (?) दिने"
+ },
+ "Cambridge Add. 1708 (I)": {
+  "status": "year-only",
+  "ce": 1457,
+  "given": {
+   "era": "NS",
+   "year": 577,
+   "masa": null,
+   "paksa": "s",
+   "tithi": 10,
+   "weekday": null,
+   "naksatra": null
+  },
+  "basis": "colophon",
+  "reading": "out_gflash",
+  "bendall_ce": null,
+  "bendall_date": null,
+  "as_written": "....।स्व (?) महीधरेषुगणिते समत्सरे शौचिके शृङ्गे वा दशमी तिथौ"
+ }
+}

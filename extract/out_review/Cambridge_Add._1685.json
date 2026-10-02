@@ -1,0 +1,71 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Place of copying cleared: the colophon names only the scribe's vihāra, not where the copy was made; the vihāra stays as p1's affiliation/residence",
+   "p2 title 'mahāyātra' recorded as probably mahāpātra (य/प confusion); the doubtful 'श्रीव निज्य' discussed in notes",
+   "Date, scribe and owner roles, and wrote_for relation confirmed"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीवंपि विहारि राम-दत्तेन",
+   "name": "Rāmadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Vaṃpi-vihāra (?)",
+   "residence": "Vaṃpi-vihāra (?)",
+   "evidence": "लेखक- श्रीवंपि विहारि राम-दत्तेन परार्थहेतुना लिखितमिदं शास्त्रं",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "श्रीमजभाराकस्य (?)",
+   "name": "Majabhārāka",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "mahāpātra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "महा-यात्र श्रीमजभाराकस्य (?) पुस्तकं",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "परार्थहेतुना लिखितमिदं शास्त्रं ॥ ... श्रीमजभाराकस्य (?) पुस्तकं"
+  }
+ ],
+ "date": {
+  "as_written": "N. S. 500 (A.D. 1380) [Bendall's description; date portion of colophon not reproduced]",
+  "era": "NS",
+  "year": "500",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1380"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "parārtha (for the owner, mahāpātra Majabhārāka?)",
+ "notes": "Bendall left out the date clause and the scribe's verses, which are partly faded. The date NS 500 = A.D. 1380 comes from his physical description. 'श्रीवंपि विहारि' is the scribe's vihāra. The name is uncertain (Vaṃpi/Vampi-vihāra). It is not given as the place of copying. The owner's line is corrupt, and Bendall marked it (?) himself: 'श्रीव निज्य (?) महायात्र श्रीमजभाराकस्य (?) पुस्तकं'. 'महायात्र' is very probably mahāpātra. 'श्रीव निज्य' could hide vaṇij- ('merchant') or a place name. The personal name 'मजभाराक' is a very low-confidence reading: it might be 'śrīmaj-' + a name, or a garbled -bhāraka/bhāro title.",
+ "_meta": {
+  "reel": "Cambridge Add. 1685",
+  "model": "opus",
+  "cost_usd": 0.08464859999999999,
+  "secs": 17.1
+ }
+}

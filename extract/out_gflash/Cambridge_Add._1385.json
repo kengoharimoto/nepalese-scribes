@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "महाराज... जयप्रतापमल्लदेव",
+   "name": "Jayapratāpamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārāja",
+    "prabhu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "महाराज... जयप्रतापमल्लदेव प्रभुयाकुलस्य विजयराज्ये",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "वज्राचार्यजिनीदेवेन",
+   "name": "Jinīdeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "मैचीपूरीमहाविहार",
+   "residence": "सौवर्णप्रणारिमहानगर",
+   "evidence": "लिखितेयं सौवर्णप्रणारिमहानगरे मैचीपूरीमहाविहारावस्थित वज्राचार्यजिनीदेवेनेति",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "महाराज... जयप्रतापमल्लदेव प्रभुयाकुलस्य विजयराज्ये"
+  }
+ ],
+ "date": {
+  "as_written": "N. s. 779",
+  "era": "NS",
+  "year": "779",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1659"
+ },
+ "place": {
+  "as_written": "सौवर्णप्रणारिमहानगरे मैचीपूरीमहाविहार",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bendall notes that the full date precedes the quoted excerpt on fol. 69b; the date year is taken from his description header.",
+ "_meta": {
+  "reel": "Cambridge Add. 1385",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 1146,
+  "out_tok": 1834
+ }
+}

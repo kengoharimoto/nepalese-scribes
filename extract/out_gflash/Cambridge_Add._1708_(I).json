@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "आचार्य विलासवज्रस्य",
+   "name": "Vilāsavajra",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "कतिराचार्य विलासवज्रस्य",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "श्रीसर्वमित्रेण",
+   "name": "Sarvamitra",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "श्रीनामसङ्गीतिका टीका लेखनतो (*sic*) सुविपुलं श्रीसर्वमित्रेण तु",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "....।स्व (?) महीधरेषुगणिते समत्सरे शौचिके शृङ्गे वा दशमी तिथौ",
+  "era": "NS",
+  "year": "577",
+  "month": "śaucika",
+  "paksa": "śṛṅge (śukla?)",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1457"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "merit transfer (ṭīkā-lekhanataḥ ... su-vipulaṃ ... arjitaṃ ca nikhilo loko 'stu buddhasutaḥ)",
+ "notes": "Bendall reconstructs the mutilated chronogram as *aśva* (7), *mahīdhara* (7), *iṣu* (5), yielding NS 577 (c. 1457 CE).",
+ "_meta": {
+  "reel": "Cambridge Add. 1708 (I)",
+  "model": "gemini-flash-latest",
+  "secs": 7.9,
+  "in_tok": 1947,
+  "out_tok": 1743
+ }
+}

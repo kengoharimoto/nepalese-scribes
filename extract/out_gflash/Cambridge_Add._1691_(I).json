@@ -1,0 +1,55 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "अहिगुप्तस्य",
+   "name": "Ahigupta",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "अहिगुप्तस्य पुस्तकी ५यं",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "Yakshamalla",
+   "name": "Yakṣamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "twice mentions Yakshamalla",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "सप्तत् ३११ (1?) कात्तिक द्वाष्य पम्यां (? पं [च]म्यां) बुधवासरे",
+  "era": "NS",
+  "year": "311",
+  "month": "kāttika",
+  "paksa": "",
+  "tithi": "pañcamī",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1191"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "merit transfer",
+ "notes": "The primary writing/ownership colophon is in a second hand, recording the date NS 311 (c. 1191 CE) and Ahigupta as owner. A subsequent vernacular subscription (not fully transcribed by Bendall) mentions King Yakṣamalla twice and dates to NS 574 (1454 CE).",
+ "_meta": {
+  "reel": "Cambridge Add. 1691 (I)",
+  "model": "gemini-flash-latest",
+  "secs": 9.0,
+  "in_tok": 1633,
+  "out_tok": 2267
+ }
+}

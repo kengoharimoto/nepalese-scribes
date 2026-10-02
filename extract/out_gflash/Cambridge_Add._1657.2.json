@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "आनन्ददत्त",
+   "name": "Ānandadatta",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "mahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "महोपाध्यायश्री आनन्ददत्त विरचितायां",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "सप्तम् आ उ उ जैष्ठकृष्ण अमावास्यां",
+  "era": "NS",
+  "year": "319",
+  "month": "Jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "amāvāsyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1199"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bendall reads the year as NS 319 (1199 CE) from the letter-numerals following the chapter colophon (सप्तम् आ उ उ).",
+ "_meta": {
+  "reel": "Cambridge Add. 1657.2",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 1189,
+  "out_tok": 865
+ }
+}

@@ -33,7 +33,9 @@ One SQLite database combining the NGMCP descriptive catalogue (13,382 HTML entri
 - `tl_*`: the original tables unchanged (`tl_titles`, `tl_manuscripts`, `tl_catalogs`, `tl_ktm_scans`,
   `tl_tbt_titles`, ...).
 - `title`: `tl_titles` decoded into the same columns as the catalogue (material, completeness, script and
-  language codes, size, era/year/CE, accession number).
+  language codes, size, era/year/CE, accession number). The title list's "Mānadeva saṃvat" (calendar 7)
+  becomes era `AS` with CE = year + 577 (± 1; the title list added 575); D 41/7, "MS 901", is not an AS
+  year and is left without a CE year.
 
 **Combined**
 
@@ -58,6 +60,31 @@ One SQLite database combining the NGMCP descriptive catalogue (13,382 HTML entri
   in the sources (A 1/2 is said to be "= A 3/1" as well as "= A 3/2").
 - `person`, `attestation`, `person_relation`: the scribe and patron register from `build_persons.py`,
   attached to manuscripts.
+
+**Bendall's Cambridge catalogue** (C. Bendall, *Catalogue of the Buddhist Sanskrit Manuscripts in the
+University Library, Cambridge*, 1883; `bendall.py`, from the Chandra OCR in `data/bendall1883_ocr.md`)
+
+- `bendall_entry`: one row per Add. number (248, Add. 865–1952): title, Bendall's physical description and
+  its parts (material, leaves, lines, size in inches and cm, hand), the date as printed (`date_text`) and
+  read (`era`, `era_year`, `year_ce`; Bendall's own A.D. conversion is used where he gives one; `century`
+  from "xviith cent." or the year; "modern" = 19), and the full text of the entry. Sizes are as printed
+  (Add. 1644 has "2 × 21 in.").
+- `bendall_part`: the numbered works of the composite entries (Add. 1679, 1680, 1690, 1691, 1697, 1699, 1701,
+  1706, 1708, 1164. 2), each with its own description and date.
+- `bendall_excerpt`: the Sanskrit passages in order, with the English line before them as `label` and a
+  `kind` (begins, ends, colophon, other).
+- `bendall_date`: the dates recalculated from the colophons with Yano & Fushimi's *Pañcāṅga*
+  (`calendar/bendall_dates.py`, `calendar/verify.py`): the elements stated (era, year, month, pakṣa,
+  tithi, weekday, nakṣatra), the day found and its computed pañcāṅga, `status` (verified,
+  verified-weekday, unverified, computed, year-only), the reading that made it fit (`rule`), Bendall's
+  own A.D. for comparison, and any year conflict or emendation. The register and chart use these dates.
+- `ngmcp_date`: the same recalculation for the NGMCP manuscripts (`calendar/ngmcp_dates.py`), with the
+  flat conversion it replaces (`flat_ce`: NS + 880, VS − 57, ...), which era and year were used (`basis`:
+  the catalogue's, the colophon reading's, or a bare saṃvat read as NS or VS), weak readings that would
+  also fit (`possible`) and the other candidates tried (`alternatives`). See `calendar/verify.py` for the
+  rules and how they were tested.
+- `bendall_ngmcp_title`: NGMCP title-list texts with the same title (Bendall's ç, sh, ṛi read as ś, ṣ, ṛ):
+  the same work, not the same manuscript.
 
 **Vocabularies**: `script`, `language`, `material`, `subject`, `calendar`. Codes follow the title list
 (script D Devanagari, W Newari, M Maithili ...; material P palm-leaf, T Thyāsaphu ...). Additions:
@@ -92,6 +119,10 @@ JOIN catalogue_entry c ON c.id = d.entry_id WHERE d.field = 'date';
 -- retakes: every filming after the first of a manuscript
 SELECT g.label, first.label AS first_filmed FROM filming_group g
 JOIN filming_group first ON first.group_id = g.group_id AND first.seq = 1 WHERE g.seq > 1;
+
+-- Bendall's dated manuscripts, with the parts of composite entries
+SELECT add_no, NULL AS part, title, year_ce FROM bendall_entry WHERE year_ce IS NOT NULL AND n_parts = 0
+UNION ALL SELECT add_no, part, title, year_ce FROM bendall_part WHERE year_ce IS NOT NULL ORDER BY year_ce;
 
 -- everything one scribe copied
 SELECT a.label, c.title, c.year_ce, a.roles FROM person p JOIN attestation a ON a.person_id = p.id

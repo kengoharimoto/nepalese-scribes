@@ -1,0 +1,157 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Commissioner reassigned: the subject of 'likhāpitaḥ' is most plausibly the person resident in Lalitapur introduced by '…sitaḥ puṣā nāma', so Puṣā is now the commissioner (low confidence). Tyaguṇamasiṃha is now a beneficiary, as the genitive plural '-devānām adhyayanārthaṃ' covers more than one person.",
+   "'mahāpātra' is now treated as a title that comes before each name ('maḍāpātra śrī … tyaguṇama siṃha', 'mahāpātra śrīRaghusiṃhadeva').",
+   "Lalitāpurī residence moved from the scribe Jasacandra to the commissioner. The colophon does not say where the scribe lived.",
+   "Relations rebuilt: the commissioner commissioned the copy from the scribe; the scribe wrote it for the commissioner; both mahāpātras are linked to the commissioner as beneficiaries ('other').",
+   "King Jayārjunadeva's epithets reduced to titles. The reign relation is kept at medium confidence because the king is named only in the note on the back of the leaf.",
+   "Notes expanded to cover the retouched date: the colophon has 500, the note on the back has 504."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "अमरसिंहकृतो",
+   "name": "Amarasiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "इत्यमरसिंहकृतो नामलिङ्गानुशासने अमरकोषः परिसमाप्तः",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "वज्राचार्यश्री जसचन्द्रेण",
+   "name": "Jasacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "वज्राचार्यश्री जसचन्द्रेण लिखितमिति",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "पुषा नाम",
+   "name": "Puṣā",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Lalitāpurī (Patan)",
+   "evidence": "श्रीमत ललितापुरि निवासित... सितः। पुषा नाम",
+   "confidence": "low"
+  },
+  {
+   "pid": "p4",
+   "as_written": "मडापात्र श्री (erasure) त्यगुणम सिंह",
+   "name": "Tyaguṇamasiṃha",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [
+    "mahāpātra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "मडापात्र श्री (erasure) त्यगुणम सिंह",
+   "confidence": "low"
+  },
+  {
+   "pid": "p5",
+   "as_written": "महापात्र श्रीरघुसिंहदेवानाम",
+   "name": "Raghusiṃhadeva",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [
+    "mahāpātra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "महापात्र श्रीरघुसिंहदेवानामध्यनार्थं",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "देवश्रीजयार्जुनो",
+   "name": "Jayārjunadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhūmaṇḍaleśvara",
+    "bhūpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "नेपालाभुवमण्डलेश्वर प्रभूपते...। देवश्रीजयार्जुनो",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "commissioned_from",
+   "to": "p2",
+   "evidence": "पृष्ठकममरसिंह लिखापितः। वज्राचार्यश्री जसचन्द्रेण लिखितमिति"
+  },
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "लिखापितः। वज्राचार्यश्री जसचन्द्रेण लिखितमिति"
+  },
+  {
+   "from": "p4",
+   "type": "other",
+   "to": "p3",
+   "evidence": "त्यगुणम सिंह महापात्र श्रीरघुसिंहदेवानामध्यनार्थं (beneficiary of the commission)"
+  },
+  {
+   "from": "p5",
+   "type": "other",
+   "to": "p3",
+   "evidence": "श्रीरघुसिंहदेवानामध्यनार्थं पृष्ठकममरसिंह लिखापितः (beneficiary of the commission)"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p6",
+   "evidence": "नेपालाभुवमण्डलेश्वर प्रभूपते...। देवश्रीजयार्जुनो"
+  }
+ ],
+ "date": {
+  "as_written": "श्रीमन्नेपालिकसम्बन्धरे। सम्बत ५०० मार्गः शुद्ध श्रीपञ्चम्या तिथौ रैवतिनक्षत्रे साध्ययोगे सोमवासरे",
+  "era": "NS",
+  "year": "500",
+  "month": "Mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "Monday",
+  "nakshatra_yoga": "Revatī nakṣatra, Sādhya yoga",
+  "ce_approx": "1379"
+ },
+ "place": {
+  "as_written": "श्रीमत ललितापुरि",
+  "normalized": "Patan"
+ },
+ "purpose": "for the study (adhyayanārtham) of Mahāpātra …tyaguṇamasiṃha and Mahāpātra Raghusiṃhadeva",
+ "notes": "The year in the colophon ('सम्बत ५००') is in the retouched, modern-ink passage, so it is not reliable. NS 500 Mārgaśīrṣa = late 1379 CE. Bendall dates the manuscript from the note on the back of the leaf, which is probably in a contemporary hand: 'abdhi-vindu-viṣaye' = NS 504, Māgha kṛṣṇa 5 = A.D. 1384. That note also names King Jayārjunadeva (reigned c. 1361–1382). This conflicts with Bendall's 1384, since by 1384 Jayasthiti was ruling according to Add. 1395. Erasures in the colophon make the names hard to read. 'puṣā nāma maḍāpātra' may be a personal name (Puṣā) followed by the title mahāpātra, or a corruption; reading Puṣā as commissioner and resident of Lalitapur is conjectural. 'त्यगुणम सिंह' is preceded by an erasure, so the name is incomplete. The plural '-devānām' suggests more than one beneficiary.",
+ "_meta": {
+  "reel": "Cambridge Add. 1488",
+  "model": "opus",
+  "cost_usd": 0.15202459999999998,
+  "secs": 39.4
+ }
+}

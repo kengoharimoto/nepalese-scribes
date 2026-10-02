@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "श्रीसम्बत् ६६२ मिति चैत्र शुद्धि ३०",
+  "era": "NS",
+  "year": "662",
+  "month": "चैत्र",
+  "paksa": "शुक्ल",
+  "tithi": "३०",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1842"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bendall reads the date as N.S. 962 (A.D. 1842), though the printed Devanāgarī transcription has 'श्रीसम्बत् ६६२' (which would correspond to c. 1542 CE). The tithi is written as 'शुद्धि ३०'. No persons are mentioned in the colophon.",
+ "_meta": {
+  "reel": "Cambridge Add. 1340",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 1737,
+  "out_tok": 1014
+ }
+}

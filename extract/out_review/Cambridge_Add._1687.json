@@ -1,0 +1,145 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name read as Vīrasiṃhadeva (Vīla- for Vīra-, r/l interchange as in the rest of the colophon); confidence lowered to medium for the spelling, role scribe kept",
+   "p2 Hṛvadeva: stem without the Newari honorific + dative -jū-yāta ('Hṛvadevajayāta' = Hṛvadeva-jū-yāta, 'to Hṛvadeva'); role beneficiary dropped, kept owner (book given to him) and added 'other' (he wrote a Kriyāsaṃgraha for the Bhaktapur king); confidence low because the name is corrupt",
+   "p3 Jagajjyotirmalla: role changed from king to other; he is king of Bhaktapur, named only because the Kriyāsaṃgraha was written for him, while this copy was made in Lalitapur under the Patan kings",
+   "Relation p1 wrote_for p3 removed. It was Hṛvadeva who wrote the Kriyāsaṃgraha for Jagajjyotirmalla, so this is now recorded as p2 –other→ p3",
+   "Added relation p1 wrote_for p2 (the copy went to Hṛvadeva)",
+   "Purpose reworded",
+   "Notes: Bendall's 'Written at Bhatgāon in the reign of Jagajjyotir Malla' is contradicted by the colophon"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीवज्राचार्य- वीलसिंहदेवेन",
+   "name": "Vīrasiṃhadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "श्रीवज्राचार्य- वीलसिंहदेवेन चौया",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "श्रीहृवदेवजयात",
+   "name": "Hṛvadeva",
+   "roles": [
+    "owner",
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "Thacuka vāhāra (vihāra)",
+   "residence": "",
+   "evidence": "थचुक वाहाराया-श्रीहृवदेवजयात ... क्रियासंग्रह चौयाया ज्याला विया पुस्तक",
+   "confidence": "low"
+  },
+  {
+   "pid": "p3",
+   "as_written": "राजाधिरानश्री* ३ जगज्ज्योतिर्मलदेवयाति",
+   "name": "Jagajjyotirmalla",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "rājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "Bhaktapur",
+   "evidence": "श्री भक्तापुरीमहानगरया राजाधिरानश्री* ३ जगज्ज्योतिर्मलदेवयाति क्रियासंग्रह चौयाया",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "सिद्धिनलसिंहमल्लदेव",
+   "name": "Siddhinarasiṃhamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "garuḍadhvajāvatāra"
+   ],
+   "affiliation": "",
+   "residence": "Lalitpur",
+   "evidence": "ररितापुरिमहानगर्थां गुरुद्धवावतारे श्रीरं सिद्धिनलसिंहमल्लदेव",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "श्रीशनिदास्सल्ल",
+   "name": "Śrīnivāsamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "vṛṣabhadhvajāvatāra"
+   ],
+   "affiliation": "",
+   "residence": "Lalitpur",
+   "evidence": "तस्य पुत्र वृषधवावतारं श्रीशनिदास्सल्ल* तस्य उभयराज्ये",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "तस्य पुत्र वृषधवावतारं श्रीशनिदास्सल्ल"
+  },
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "वीलसिंहदेवेन चौया थचुक वाहाराया-श्रीहृवदेवजयात"
+  },
+  {
+   "from": "p2",
+   "type": "other",
+   "to": "p3",
+   "evidence": "जगज्ज्योतिर्मलदेवयाति क्रियासंग्रह चौयाया ज्याला विया पुस्तक"
+  },
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p4",
+   "evidence": "तस्य उभयराज्ये"
+  },
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p5",
+   "evidence": "तस्य उभयराज्ये"
+  }
+ ],
+ "date": {
+  "as_written": "N. s. 753 (Bendall; the colophon's date line is omitted as 'date v. supra')",
+  "era": "NS",
+  "year": "753",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1633"
+ },
+ "place": {
+  "as_written": "ररितापुरिमहानगर्थां",
+  "normalized": "Patan"
+ },
+ "purpose": "The book was given to Hṛvadeva as wages (jyālā biyā) for his writing a Kriyāsaṃgraha for King Jagajjyotirmalla of Bhaktapur",
+ "notes": "Bendall printed the date only in his description (NS 753 = AD 1633) and replaced the colophon's date line with 'date v. supra', so the year cannot be checked against the colophon. Bendall says the manuscript was written at Bhatgāon under Jagajjyotir Malla, but the colophon does not support this. Jagajjyotirmalla of Bhaktapur appears only as the king for whom Hṛvadeva wrote a Kriyāsaṃgraha. The Kāraṇḍavyūha copy itself is placed in Lalitapurī (ररितापुरि, i.e. Patan) during the joint reign (ubhayarājye) of Siddhinarasiṃhamalla and his son Śrīnivāsamalla. A joint reign with Śrīnivāsa as early as 1633 is unusually early and is worth checking. Jagajjyotirmalla (r. c. 1614–1637) fits 1633. The Newari is heavily corrupt: वीलसिंह probably stands for Vīrasiṃha; हृवदेवजयात is read as Hṛvadeva-jū-yāta ('to Hṛvadeva'), and the true name may be different. थचुक वाहार is the name of a vihāra and has not been identified. Other corrupt spellings: सिद्धिनलसिंह = Siddhinarasiṃha, श्रीशनिदास्सल्ल = Śrīnivāsamalla, गुरुद्धवावतार = garuḍadhvajāvatāra. The colophon does not say who paid the wages (perhaps the king), so no donor is assigned.",
+ "_meta": {
+  "reel": "Cambridge Add. 1687",
+  "model": "opus",
+  "cost_usd": 0.1590606,
+  "secs": 44.4
+ }
+}

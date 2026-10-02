@@ -1,0 +1,63 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "अमृतानन्देन",
+   "name": "Amṛtānanda",
+   "roles": [
+    "scribe",
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "अमृतानन्देन लिखितं बुद्धकाव्यं सुदुर्लभं ॥ ... चतुःसर्गं च निर्मितं",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "Rājendra Vikrama",
+   "name": "Rājendravikrama",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "reigning monarch (Rājendra Vikrama)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "reigning monarch (Rājendra Vikrama)"
+  }
+ ],
+ "date": {
+  "as_written": "भृगुन्याणांकयुग्मर्षे मर्गि मासे ऽसिते स्मरे",
+  "era": "NS",
+  "year": "950",
+  "month": "Mārgaśīrṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1830"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Cecil Bendall reads the chronogram as N.S. 950 (A.D. 1830). The colophon records that Amṛtānanda searched everywhere for the complete text, but unable to find it, composed cantos 14–17 himself (चतुःसर्गं च निर्मितं).",
+ "_meta": {
+  "reel": "Cambridge Add. 1387",
+  "model": "gemini-flash-latest",
+  "secs": 8.1,
+  "in_tok": 1815,
+  "out_tok": 2359
+ }
+}

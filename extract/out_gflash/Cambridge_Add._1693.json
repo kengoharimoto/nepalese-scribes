@@ -1,0 +1,84 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीमदानन्ददेवस्य",
+   "name": "Ānandadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "श्रीमदानन्ददेवस्य विजयराज्ये",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "शाक्यभिद्युमञ्जुश्रियेण",
+   "name": "Mañjuśrī",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "Śrī-Dharmacakra-mahāvihāra",
+   "residence": "Vantāṇḍullaka (?)",
+   "evidence": "लिखितेदं (?) श्रीमस्वक्रयां (?) वन्ताण्डुल्लके (?) श्रीधर्मचक्रमहाविहाराधिवासिन शाक्यभिद्युमञ्जुश्रियेणेति",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "बुद्धौभावे (?)",
+   "name": "Buddhābhāva",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Dhānapiṅga-viṣaya",
+   "evidence": "श्रीधानपिङ्गविषयाधिवासिन बुद्धौभावे (?) नामधेयस्य यदत्र पुण्यं",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "श्रीमदानन्ददेवस्य विजयराज्ये ॥ लिखितेदं (?) ... शाक्यभिद्युमञ्जुश्रियेणेति"
+  },
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "लिखितेदं (?) ... शाक्यभिद्युमञ्जुश्रियेणेति ॥ श्रीधानपिङ्गविषयाधिवासिन बुद्धौभावे (?) नामधेयस्य"
+  }
+ ],
+ "date": {
+  "as_written": "संवत् २८५ आवण गुरुत्ताष्टम्यामादित्यदिने",
+  "era": "NS",
+  "year": "285",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "8",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1165"
+ },
+ "place": {
+  "as_written": "श्रीमस्वक्रयां (?) वन्ताण्डुल्लके (?) श्रीधर्मचक्रमहाविहाराधिवासिन",
+  "normalized": ""
+ },
+ "purpose": "yad atra puṇyaṃ tad bhavatv ācāryopādhyāya-mātāpitṛ-pūrvvaṅgamaṃ kṛtvā sakalasattvarāśer anuttarajñānāvāptaye",
+ "notes": "The scribe's title 'śākyabhidyu' is clearly an error or scribal variant for 'śākyabhikṣu'. The name of the donor/commissioner is read doubtfully as 'Buddhobhāve / Buddhābhāve' by Bendall; the month 'āvaṇa' is an error for 'śrāvaṇa', and 'guruttāṣṭamyām' likely stands for 'śuklāṣṭamyām'.",
+ "_meta": {
+  "reel": "Cambridge Add. 1693",
+  "model": "gemini-flash-latest",
+  "secs": 6.2,
+  "in_tok": 1220,
+  "out_tok": 1769
+ }
+}

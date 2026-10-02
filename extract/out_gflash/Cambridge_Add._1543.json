@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribal colophon with human names, date, or place is preserved; only the text title and chapter endings are recorded. Bendall dates the manuscript paleographically to the 11th century.",
+ "_meta": {
+  "reel": "Cambridge Add. 1543",
+  "model": "gemini-flash-latest",
+  "secs": 1.7,
+  "in_tok": 1765,
+  "out_tok": 166
+ }
+}

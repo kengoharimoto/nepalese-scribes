@@ -1,0 +1,75 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date year changed from 506 to 509 (ce 1386 → 1389): Bendall's description states N.s. 509 (A.D. 1389). The '५०६' in the transcription is probably an OCR misreading of ५०९, since ६ and ९ are easily confused. 509 also falls within Jayasthitimalla's reign.",
+   "Donor name confidence lowered to low (corrupt). Added the title paramasaugata, the probable reading of 'परसीगत'. Separated affiliation (vihāra) from residence.",
+   "Purpose reworded as a pious gift (deyadharma) for merit, in place of the quoted formula.",
+   "Place: kept the normalization to Patan (Lalitakrama = Lalitapattana; Māṇigala = the Patan palace quarter). The vihāra name was removed from the place string."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीमलेचजजकस्य",
+   "name": "Malecajajaka",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "śākyaputra",
+    "paramasaugata"
+   ],
+   "affiliation": "Vacchavihāra (Vatsavihāra?)",
+   "residence": "Māṇigalaka, Lalitakrama (Patan)",
+   "evidence": "देयधर्मो ऽयं ... श्रीवच्चविहाराधिवांत-शाक्यपुत्र परसीगत-संध श्रीमलेचजजकस्य",
+   "confidence": "low"
+  },
+  {
+   "pid": "p2",
+   "as_written": "जयस्थितिराजमखराजे",
+   "name": "Jayasthitirājamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "राजाधिराजश्री२ जयस्थितिराजमखराजेशुभः",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "राजाधिराजश्री२ जयस्थितिराजमखराजे"
+  }
+ ],
+ "date": {
+  "as_written": "सम्वत ५०६ ज्येष्ठशुक्ल दशम्याया तिथौ शुक्रवासरे (Bendall: N. s. 509)",
+  "era": "NS",
+  "year": "509",
+  "month": "Jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1389"
+ },
+ "place": {
+  "as_written": "श्रीललितक्रमाया श्रीमाणिगलके",
+  "normalized": "Patan"
+ },
+ "purpose": "deyadharma (pious gift) of the donor, merit formula yad atra puṇyaṃ",
+ "notes": "The transcribed Devanāgarī prints ५०६, but Bendall's description gives N.s. 509 = A.D. 1389. I followed Bendall and took ५०६ as a probable OCR confusion of ९ with ६. Bendall notes that the date and the king's name are in a different, apparently contemporary hand. There is another date inside the cover, probably of a recitation, but it is nearly obliterated. 'मखराजे' stands for 'मल्लराज्ये'. The donor's name 'मलेचजजक' is corrupt, either in the manuscript or in the OCR. 'परसीगत-संध' probably stands for 'paramasaugata-saṃgha'/'paramasaugata'. 'प्रवरमहायानयाचिन' stands for 'pravaramahāyānayāyin'. 'वच्चविहार' may stand for Vatsavihāra; the name is uncertain.",
+ "_meta": {
+  "reel": "Cambridge Add. 1701 (I)",
+  "model": "opus",
+  "cost_usd": 0.0926766,
+  "secs": 19.1
+ }
+}

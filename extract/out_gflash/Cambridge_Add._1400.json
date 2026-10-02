@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीश्राक्यमुनिन",
+   "name": "Śākyamuni",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "रत्नकेतुमहाविहार",
+   "residence": "सुवर्णप्राणिमहानगर",
+   "evidence": "रत्नकेतुमहाविहारवस्थित (sic) श्रीश्राक्यमुनिन लिपापितामिति",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "N. s. 888",
+  "era": "NS",
+  "year": "888",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1768"
+ },
+ "place": {
+  "as_written": "सुवर्णप्राणिमहानगरे",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bendall notes that the date N.S. 888 (A.D. 1768) was added in a later hand; the exact wording of the date inscription is not reproduced in the catalogue's text excerpt.",
+ "_meta": {
+  "reel": "Cambridge Add. 1400",
+  "model": "gemini-flash-latest",
+  "secs": 7.9,
+  "in_tok": 1231,
+  "out_tok": 2028
+ }
+}

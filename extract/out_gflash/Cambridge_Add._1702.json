@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribal colophon preserved; the manuscript ends with the textual closing formula (समाप्ता च बोधिस्त्वभूमिः). Cecil Bendall assigns the manuscript to the 9th century CE purely on palaeographical grounds.",
+ "_meta": {
+  "reel": "Cambridge Add. 1702",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 3951,
+  "out_tok": 692
+ }
+}

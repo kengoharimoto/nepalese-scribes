@@ -1,0 +1,88 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "वज्राचार्यश्रीचतुरानन्द",
+   "name": "Caturānanda",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "vajrācārya",
+    "paramopāsaka",
+    "paramadhārmika",
+    "dharmātman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "देव-धर्मोऽयं प्रवरमहायानयामिन-परमोपाशकपरमधा-र्मिक-धर्मात्मा-वज्राचार्यश्रीचतुरानन्दप्रमुखदि-सुगतानां",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "Bhūpatindra Malla",
+   "name": "Bhūpatīndramalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mention of the reigning king, Bhūpatindra Malla",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "आचार्यश्रीरविपतिदेवेन",
+   "name": "Ravipatideva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "Śrī Tarumura-mahāvihāra",
+   "residence": "Śrī Kāṣṭhamaṇḍapa-mahānagara, Khaṇḍacuka",
+   "evidence": "आचार्यश्रीरविपतिदेवेन लिखितं संपूर्णमिति",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "देव-धर्मोऽयं ... वज्राचार्यश्रीचतुरानन्दप्रमुखदि-सुगतानां ... रविपतिदेवेन लिखितं"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "mention of the reigning king, Bhūpatindra Malla"
+  }
+ ],
+ "date": {
+  "as_written": "सम्बत् ८२० कार्तिकमास्य शुक्लपक्षे त्रयोदश्यां तिथौ रेवतीनक्षत्रे वज्रयोगे यथाकर्णमुहूर्ते वृहस्पतिवासरे तुलेरासिगते सवितरि मितरासिगते चन्द्रमसि",
+  "era": "NS",
+  "year": "820",
+  "month": "Kārtika",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "Bṛhaspativāsara",
+  "nakshatra_yoga": "Revatī, Vajra",
+  "ce_approx": "1700"
+ },
+ "place": {
+  "as_written": "श्री काष्टामण्डप-महानगरे श्री तरु-मुर*-महाविहारे वत्तावाहारनिनयता (?) खण्डचुक गृहातयं",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "deya-dharma (merit transfer)",
+ "notes": "The manuscript was copied in Kathmandu (Kāṣṭhamaṇḍapa), Tarumula/Tarumura Mahāvihāra (Sikhamū Bāhā). Bendall reports a mention of King Bhūpatīndra Malla (king of Bhaktapur), though King Bhūpālendra Malla ruled Kathmandu in NS 820.",
+ "_meta": {
+  "reel": "Cambridge Add. 1623",
+  "model": "gemini-flash-latest",
+  "secs": 8.7,
+  "in_tok": 1595,
+  "out_tok": 2420
+ }
+}

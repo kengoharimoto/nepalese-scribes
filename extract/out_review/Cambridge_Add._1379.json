@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Name re-read as 'Bhājudhana'. The rest of Bendall's '-mṛcay-āviyā' is probably a misreading of the Newari ergative plus verb 'na coyāviyā' ('written by'), not part of the name. Confidence stays low.",
+   "Residence removed: Kāntipur is given as the place of writing, not as the scribe's residence.",
+   "Notes expanded with the reasoning for the name."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "Ṣrīvajrācārya Bhājudhanamṛcay-āviyā (?)",
+   "name": "Bhājudhana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "written in the year given above by Ṣrīvajrācārya Bhājudhanamṛcay-āviyā (?) at Kāntipur",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "N. s. 905",
+  "era": "NS",
+  "year": "905",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1785"
+ },
+ "place": {
+  "as_written": "Kāntipur",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "Bendall does not quote the vernacular (Newari) colophon. He only paraphrases it: 'written in the year given above by Ṣrīvajrācārya Bhājudhanamṛcay-āviyā (?) at Kāntipur (Kathmandu).' He marks the name as doubtful. The ending '-mṛcay-āviyā' is very likely a misreading of Newari '-na coyāviyā' (ergative -na + coyā biyā, 'written by'). On that reading the name is Bhājudhana ('Bhāju' may be the Newari honorific 'Bhāju' + Dhana). The date NS 905 = 1785 CE (NS+880) matches Bendall's conversion. No month or tithi is reported.",
+ "_meta": {
+  "reel": "Cambridge Add. 1379",
+  "model": "opus",
+  "cost_usd": 0.0800406,
+  "secs": 15.2
+ }
+}

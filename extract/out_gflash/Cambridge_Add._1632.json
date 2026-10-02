@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "रत्नानन्देन",
+   "name": "Ratnānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "रत्नानन्देन लिख्यते",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "Gīrvāṇa-yuddha",
+   "name": "Gīrvāṇayuddha",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "reigning monarch (Gīrvāṇa-yuddha)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "reigning monarch (Gīrvāṇa-yuddha)"
+  }
+ ],
+ "date": {
+  "as_written": "याते नैपालिकवर्षे त्रियुग्मरन्ध्रसंयुते। मार्गशीर्षे ऽश्विनपक्षे दशम्यां रविवाररे",
+  "era": "NS",
+  "year": "923",
+  "month": "Mārgaśīrṣa",
+  "paksa": "aśvina",
+  "tithi": "10",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1803"
+ },
+ "place": {
+  "as_written": "Lalitā-pura",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The year is expressed by the chronogram tri (3) - yugma (2) - randhra (9) = NS 923. Bendall notes that the manuscript also mentions Lalitāpura as the place of copying and Gīrvāṇayuddha as the reigning king, without quoting those exact Sanskrit lines in full.",
+ "_meta": {
+  "reel": "Cambridge Add. 1632",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 1603,
+  "out_tok": 1590
+ }
+}

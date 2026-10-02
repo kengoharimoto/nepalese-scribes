@@ -1,0 +1,47 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Kept the scribe and the date as given; expanded the notes on the corrupt words in the colophon"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "वज्रश्री ...प...कस्य",
+   "name": "Vajraśrī...p...ka",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "वज्रश्री ...प...कस्य हस्ताकरणस्य लिखितं",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "N. S. 962 (date ut supra, after the mantra)",
+  "era": "NS",
+  "year": "962",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1842"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bendall does not print the date in Devanāgarī. He says only 'date ut supra', which points to N. S. 962 = A.D. 1842 (962+880=1842, which agrees). The scribe's name has gaps in Bendall's text ('वज्रश्री ...प...कस्य'). 'हस्ताकरणस्य' is probably a corrupt form of hastākṣareṇa ('in the handwriting of'). 'चरणस्य कैवे [? एकस्विव]' is corrupt. It may stand for '…caraṇasevaka', describing the scribe as a devotee at the feet of Āryāvalokiteśvara. Āryāvalokiteśvara is a deity, so he is not listed as a person.",
+ "_meta": {
+  "reel": "Cambridge Add. 1470",
+  "model": "opus",
+  "cost_usd": 0.0688086,
+  "secs": 12.9
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No personal names, date, or place are recorded in the text; only chapter colophons and an incomplete generic scribal verse (ye dharmaśāstraṃ ca likhāpayanti...) are cited.",
+ "_meta": {
+  "reel": "Cambridge Add. 1345",
+  "model": "gemini-flash-latest",
+  "secs": 3.0,
+  "in_tok": 1250,
+  "out_tok": 530
+ }
+}

@@ -1,0 +1,177 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Main dānapati/commissioner changed from Jayapratāpasiṃha to Bālamukunda. He is named first after the residence formula and the list then gives his relatives (brother, son, grandmother, mother, wife), all joined by 'एते सहानुमतेन'.",
+   "Jayapratāpasiṃha is now read as Bālamukunda's son ('पुत्र'), not as the son of Bhājudhaṃ. Bhājudhaṃ is read as Bālamukunda's brother ('सहोदर-भाह' ≈ sahodara bhrātā), with 'bhāju' perhaps the Newari honorific.",
+   "Kinship terms are now tied to Bālamukunda: pitāmahī Jayalakṣmī, mātā Ratnavatī and dārā Jagalakṣmī.",
+   "King's name normalized to IAST stem 'Raṇa Bahādura Śāha', with titles given in IAST. Shah kings do not take a -deva regnal name; 'devānāṃ' is an honorific plural.",
+   "Titles are now given in IAST instead of Devanāgarī. Inappropriate 'relative_only'+'commissioner' mixing removed.",
+   "Date: the paksa is now marked as an inference from 'अवदाते'. A possible tithi 13 (rāma=3, candra=1, read right to left) is recorded as uncertain. Notes added on the sun in Kumbha / moon in Karka.",
+   "Notes added on the unnamed scribe and the possible name 'Navala' in 'नवलाचार्योपाध्यायमाता'."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "रण बहादूर साह बहादूर समसेर (?) जंग देवानां",
+   "name": "Raṇa Bahādura Śāha",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nepāleśvara",
+    "mahārāja",
+    "hindupati",
+    "bātsāha",
+    "bahādura śamasera jaṅga"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "नेपालेश्वर श्रीमन्महाराज हिन्दुपति बात्साह श्रीश्रीश्री रण बहादूर साह ... विजयराज्ये",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "बालमुकुन्द",
+   "name": "Bālamukunda",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "dānapati"
+   ],
+   "affiliation": "",
+   "residence": "Kāntipura, Kamilācchi tol, house called Dhālasikā",
+   "evidence": "दानपति कान्तिपूरे ... बालमुकुन्द ... एते सहानुमतेन ... लिखापथिला प्रतिष्ठापितमभूत",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "भाजुधं",
+   "name": "Bhājudhaṃ",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "बालमुकुन्द सहोदर-भाह भाजुधं",
+   "confidence": "low"
+  },
+  {
+   "pid": "p4",
+   "as_written": "जयप्रतापसिं",
+   "name": "Jayapratāpasiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "पुत्र जयप्रतापसिं",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p5",
+   "as_written": "महिजयलक्ष्मिता",
+   "name": "Jayalakṣmī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "पिता महिजयलक्ष्मिता",
+   "confidence": "low"
+  },
+  {
+   "pid": "p6",
+   "as_written": "रत्न-वति",
+   "name": "Ratnavatī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ता रत्न-वति",
+   "confidence": "low"
+  },
+  {
+   "pid": "p7",
+   "as_written": "जगलक्ष्मी",
+   "name": "Jagalakṣmī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "दारा जगलक्ष्मी",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "रण बहादूर साह ... विजयराज्ये"
+  },
+  {
+   "from": "p3",
+   "type": "brother_of",
+   "to": "p2",
+   "evidence": "बालमुकुन्द सहोदर-भाह भाजुधं"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "पुत्र जयप्रतापसिं"
+  },
+  {
+   "from": "p2",
+   "type": "grandson_of",
+   "to": "p5",
+   "evidence": "पिता महिजयलक्ष्मि"
+  },
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p6",
+   "evidence": "ता रत्न-वति"
+  },
+  {
+   "from": "p7",
+   "type": "wife_of",
+   "to": "p2",
+   "evidence": "दारा जगलक्ष्मी"
+  }
+ ],
+ "date": {
+  "as_written": "युतीन्दुनन्द युत हायने स्मिन्तयावदाते (?) तिशिरामचन्द्रे तिथ्याडुवायां (?) बुधवासरे च सुरे च कुम्भशशिकर्कदेशे (sic)",
+  "era": "NS",
+  "year": "914",
+  "month": "",
+  "paksa": "śukla (?)",
+  "tithi": "13 (?)",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1794"
+ },
+ "place": {
+  "as_written": "कान्तिपूरे महानगरे कमिलाच्छितोल धालसिका नामगृह",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "merit (यदत्र पुण्यं); the dānapati and his family had the book written in gold and consecrated",
+ "notes": "The text comes from Bendall 1883 (Cambridge Add. 875). He warns that the gold-on-black readings are unreliable.\n\n**Date.** The chronogram युतीन्दुनन्द is read right to left as 4-1-9 = 914, which agrees with Bendall's N.S. 914 = A.D. 1794. This falls within the reign of Raṇa Bahādura Śāha (1777–1799). The month is not stated. The sun in Kumbha (कुम्भ) points to about Phālguna. 'अवदाते' probably means the bright fortnight. 'रामचन्द्रे' may encode tithi 13. All three are uncertain.\n\n**Family list.** The donor passage is corrupt. I take Bālamukunda as the dānapati, with brother Bhājudhaṃ ('भाजु' may be a Newari honorific), son Jayapratāpasiṃha, pitāmahī Jayalakṣmī ('पिता महि' = pitāmahī), mother Ratnavatī ('ता' = [mā]tā) and wife Jagalakṣmī. 'एते सहानुमतेन' makes them joint sponsors. An alternative reading, used by the first reader, makes Jayapratāpasiṃha the son of Bhājudhaṃ. 'पुण्यात्मानुराधेन (?)' is unclear and may hide another name.\n\n**Scribe.** The scribe is not named. Bendall mentions invocations on the scribe's Ācārya parents, and 'नवलाचार्योपाध्यायमाता' may contain a personal name (Navala?), but this is too uncertain to record as a person.",
+ "_meta": {
+  "reel": "Cambridge Add. 875",
+  "model": "opus",
+  "cost_usd": 0.18114,
+  "secs": 43.2
+ }
+}

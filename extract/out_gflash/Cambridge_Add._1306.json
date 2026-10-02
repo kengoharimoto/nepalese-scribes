@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "चेमेन्द्रस्य",
+   "name": "Kṣemendra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahākavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "क्षतिरियं महाकवेः चेमेन्द्रस्य",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "श्रीमदनन्तमल्लनृपतेर्",
+   "name": "Anantamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpati"
+   ],
+   "affiliation": "",
+   "residence": "Nepāla",
+   "evidence": "राज्ये श्रीमदनन्तमल्लनृपतेर्",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "मञ्जुभद्रसुधिना",
+   "name": "Mañjubhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sudhī"
+   ],
+   "affiliation": "",
+   "residence": "Nepāla",
+   "evidence": "नेपाले भुवि मञ्जुभद्रसुधिना यत्पुण्यमासादितं",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "राज्ये श्रीमदनन्तमल्लनृपतेर्लक्ष्म्या वल्लेखि स्वयं॥ ... नेपाले भुवि मञ्जुभद्रसुधिना"
+  }
+ ],
+ "date": {
+  "as_written": "नेत्राद्यश्चिद्युताब्दके च समये राधे श्रिते पञ्चके। आशायाश्च तिथौ दिवाकरदिने",
+  "era": "NS",
+  "year": "422",
+  "month": "Rādha",
+  "paksa": "",
+  "tithi": "10",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1302"
+ },
+ "place": {
+  "as_written": "नेपाले भुवि",
+  "normalized": ""
+ },
+ "purpose": "यत्पुण्यमासादितं। स्त्वास्तेन भवाद्धि (?) मध्यपतिता बुद्धा भवन्तु स्फुटं",
+ "notes": "Bendall reads the year chronogram as NS 422 (A.D. 1302). 'Rādha' is the month of Vaiśākha, and 'āśā' corresponds to the 10th tithi.",
+ "_meta": {
+  "reel": "Cambridge Add. 1306",
+  "model": "gemini-flash-latest",
+  "secs": 6.8,
+  "in_tok": 3532,
+  "out_tok": 1894
+ }
+}

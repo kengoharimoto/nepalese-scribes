@@ -1,0 +1,246 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीशजयमहीन्द्रसिंहमल्लदेव",
+   "name": "Jayamahīndrasiṃhamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nepāleśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "नेपालेश्वर...श्रीशजयमहीन्द्रसिंहमल्लदेव परमभट्टारकदेवानां .. विजयराज्ये",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "श्रीचैलीकर",
+   "name": "Cailīkara",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "Śrī-Bhāskaradeva-saṃskārita Śrī-Kiśavacandra-kṛta-Pārāvarta-mahāvihāra",
+   "residence": "Kāntipūrī mahānagarī, Kasmirapadī",
+   "evidence": "दानपति श्रीकान्तिपूरी महानगरी...धर्मात्मा श्रीचैलीकर",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "पूर्णवती लक्ष्मी",
+   "name": "Pūrṇavatīlakṣmī",
+   "roles": [
+    "donor",
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "अत्रिलीकर-स्त्री पूर्णावती द्वयो प्रमुखादिसगणपरिवाराणां",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "धर्मचन्द्र",
+   "name": "Dharmacandra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "चैलीकरस्य प्रथमभार्यायाः। प्रथमपुत्र शाक्य° धर्मात्मा धर्मचन्द्र",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "विष्णुमती",
+   "name": "Viṣṇumatī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "तस्य कान्ता विष्णुमती",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "बुद्धशरण",
+   "name": "Buddhaśaraṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "चैलीकरस्य द्वितीयभार्याया। प्र° पु° पुष्पात्मा शाक्य° बुद्धशरण",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "करुणामय",
+   "name": "Karuṇāmaya",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "दि° पु° गणात्मा शा° करुणामय",
+   "confidence": "high"
+  },
+  {
+   "pid": "p8",
+   "as_written": "श्रीधर्मचरण",
+   "name": "Dharmacaraṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "धर्मचन्द्रकस्यात्मज वाचकुमार श्रीधर्मचरण",
+   "confidence": "high"
+  },
+  {
+   "pid": "p9",
+   "as_written": "पुण्यवती लक्ष्मी",
+   "name": "Puṇyavatīlakṣmī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "चैलीकरस्य पुत्री-कन्यप्रदान पुण्यवती लक्ष्मी",
+   "confidence": "high"
+  },
+  {
+   "pid": "p10",
+   "as_written": "चक्रवती लक्ष्मी",
+   "name": "Cakravatīlakṣmī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "दि° चक्रवती लक्ष्मी",
+   "confidence": "high"
+  },
+  {
+   "pid": "p11",
+   "as_written": "श्रीपतिदेवेन",
+   "name": "Śrīpatideva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya",
+    "mahāpātra"
+   ],
+   "affiliation": "Talamūra-mahāvihāra",
+   "residence": "Kāṣṭhamaṇḍapa mahānagara",
+   "evidence": "लेखकस्य काष्ठमण्डप महानगले तलमूर महाविहारे...महापात्रकुलश्रीवज्राचार्य श्रीपतिदेवेन लिखितसम्पुर्णं करोमि",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "नेपालेश्वर...श्रीशजयमहीन्द्रसिंहमल्लदेव परमभट्टारकदेवानां .. विजयराज्ये"
+  },
+  {
+   "from": "p3",
+   "type": "wife_of",
+   "to": "p2",
+   "evidence": "तस्य भार्या पूर्णवती लक्ष्मी"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "चैलीकरस्य प्रथमभार्यायाः। प्रथमपुत्र शाक्य° धर्मात्मा धर्मचन्द्र"
+  },
+  {
+   "from": "p5",
+   "type": "wife_of",
+   "to": "p4",
+   "evidence": "तस्य कान्ता विष्णुमती"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "चैलीकरस्य द्वितीयभार्याया। प्र° पु° पुष्पात्मा शाक्य° बुद्धशरण"
+  },
+  {
+   "from": "p7",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "दि° पु° गणात्मा शा° करुणामय"
+  },
+  {
+   "from": "p8",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "धर्मचन्द्रकस्यात्मज वाचकुमार श्रीधर्मचरण"
+  },
+  {
+   "from": "p9",
+   "type": "daughter_of",
+   "to": "p2",
+   "evidence": "चैलीकरस्य पुत्री-कन्यप्रदान पुण्यवती लक्ष्मी"
+  },
+  {
+   "from": "p10",
+   "type": "daughter_of",
+   "to": "p2",
+   "evidence": "दि° चक्रवती लक्ष्मी"
+  },
+  {
+   "from": "p11",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "एते सहानुमतेन द्वादशभगवती श्री ३ धारणीसंग्रहपुस्तक...लिखितं कृत्वा गृहे द्वापिता भवन्ति"
+  }
+ ],
+ "date": {
+  "as_written": "सम्बत् ८३६ भाद्रवपदमास शुक्लपक्षे",
+  "era": "NS",
+  "year": "836",
+  "month": "Bhādrapada",
+  "paksa": "śuklapakṣa",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1719"
+ },
+ "place": {
+  "as_written": "श्रीकान्तिपूरी महानगरी / काष्ठमण्डप महानगले तलमूर महाविहारे",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "गृहे द्वापिता भवन्ति",
+ "notes": "Bendall reads the date in his English header as N.S. 839 (A.D. 1719), but prints सम्बत् ८३६ in the Devanāgarī colophon text. N.S. 839 corresponds to 1719 CE, while N.S. 836 would be 1716 CE. Pārāvarta-mahāvihāra is Itum-bāhā in Kathmandu.",
+ "_meta": {
+  "reel": "Cambridge Add. 1326",
+  "model": "gemini-flash-latest",
+  "secs": 12.6,
+  "in_tok": 1712,
+  "out_tok": 4475
+ }
+}

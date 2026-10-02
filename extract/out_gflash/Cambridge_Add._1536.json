@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "वज्राचार्यचक्रदेवेन",
+   "name": "Cakradeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "लिखितं वज्राचार्यचक्रदेवेन",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "N. s. 803",
+  "era": "NS",
+  "year": "803",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1683"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bendall notes the date in his description ('dated N. s. 803 (A. D. 1683)'), but only quotes the concluding words naming the scribe in Devanāgarī.",
+ "_meta": {
+  "reel": "Cambridge Add. 1536",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 1010,
+  "out_tok": 818
+ }
+}

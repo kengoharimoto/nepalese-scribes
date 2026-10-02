@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "आर्यचन्द्रकीर्ति",
+   "name": "Candrakīrti",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "ārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "आर्यचन्द्रकीर्तिपादोपरचितायां",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "सम्ब° ७°१",
+  "era": "NS",
+  "year": "901",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1781"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bendall reads the date as N.S. 901 (1781 CE), though the printed Devanāgarī text reproduces the numerals as 'सम्ब° ७°१' (probably representing 901).",
+ "_meta": {
+  "reel": "Cambridge Add. 1483",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 2533,
+  "out_tok": 1374
+ }
+}

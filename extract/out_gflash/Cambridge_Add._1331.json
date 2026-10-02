@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Incomplete manuscript ending abruptly in the bhūmi-varga without a colophon; no persons, date, or place are mentioned.",
+ "_meta": {
+  "reel": "Cambridge Add. 1331",
+  "model": "gemini-flash-latest",
+  "secs": 2.3,
+  "in_tok": 967,
+  "out_tok": 419
+ }
+}

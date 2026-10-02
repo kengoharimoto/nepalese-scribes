@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "सं २८५ पौष्यमाषि ति",
+  "era": "NS",
+  "year": "285",
+  "month": "Pauṣa",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1165"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue heading gives the date as N.S. 287 (A.D. 1167), but the transcribed Devanāgarī text reads 'सं २८५' (NS 285 = ca. 1165 CE). The text breaks off incomplete after 'ति'.",
+ "_meta": {
+  "reel": "Cambridge Add. 1686",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 1459,
+  "out_tok": 959
+ }
+}

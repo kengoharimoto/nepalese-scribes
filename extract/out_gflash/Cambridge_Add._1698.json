@@ -1,0 +1,96 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्री२ जयस्थितिराजमल्लदेवस्य",
+   "name": "Jayasthitirājamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhūpati",
+    "rāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "श्री२ जयस्थितिराजमल्लदेवस्य विजयराज्ये",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "अमात्य श्रीजय[ ]द्रुह्ला",
+   "name": "Jayadruhlā",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "amātya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "अमात्य श्रीजय[ ]द्रुह्ला ... स स्वपुत्राय विधिद्विमां टीकामचीकरत्",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "माणिक्येन",
+   "name": "Māṇikya",
+   "roles": [
+    "author",
+    "commentator",
+    "scribe"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "Ātreyakula",
+   "residence": "",
+   "evidence": "माणिक्यनामा पण्डितसन्तमः ॥ कृतैषा ऽमरकोषस्य तेन नेपालभाषया ... माणिक्येन ग्रथित्वा लिखितेयं",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "श्री२ जयस्थितिराजमल्लदेवस्य विजयराज्ये"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "श्रीश्रीजयस्थितीशस्य मन्त्रदेवस्य भूपतेः । अमात्य श्रीजय[ ]द्रुह्ला"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "स स्वपुत्राय विधिद्विमां टीकामचीकरत् ... माणिक्यनामा पण्डितसन्तमः ॥ कृतैषा ऽमरकोषस्य तेन"
+  }
+ ],
+ "date": {
+  "as_written": "श्रीमन्नेपालिकसम्बत्सरे ५०६ चैत्रकृष्णत्रयोदश्यां बुधवासरे",
+  "era": "NS",
+  "year": "506",
+  "month": "चैत्र",
+  "paksa": "कृष्ण",
+  "tithi": "त्रयोदशी",
+  "weekday": "बुधवासर",
+  "nakshatra_yoga": "",
+  "ce_approx": "1386"
+ },
+ "place": {
+  "as_written": "श्रीमद्रूपरे देशे",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "for the commissioner's son (svaputrāya)",
+ "notes": "Bendall notes: 'Written at Bhatgāon in the reign of Jayasthiti Malla.' The verse colophon has 'षट्त्तरे पञ्चशते गते ऽब्दे नेपालिके मासि च चैत्रसंज्ञे । कृष्णपक्षे मदनभिधायान् तिथौ शशाङ्कात्मजवासरे च' and 'श्रीमद्रूपरे देशे'. The minister's name has a lacuna: 'श्रीजय[ ]द्रुह्ला'.",
+ "_meta": {
+  "reel": "Cambridge Add. 1698",
+  "model": "gemini-flash-latest",
+  "secs": 12.6,
+  "in_tok": 1372,
+  "out_tok": 3396
+ }
+}

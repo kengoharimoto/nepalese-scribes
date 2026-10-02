@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीपद्युक्तामदेवस्य",
+   "name": "Pradyumnakāmadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "परमभट्टारकश्रीपद्युक्तामदेवस्य (*sic*, v. *Introd.*) राज्ये",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "लक्ष्मामया",
+   "name": "Lakṣmā",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "पीखी (?)",
+   "evidence": "निवासिन्यामनकराणिकायासंभारदयलक्ष्मामया सद्धर्मपण्डरीकमिदं वरेण्यं सूत्रनायकं लिखापिवा प्रतिष्ठापितं",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "परमभट्टारकश्रीपद्युक्तामदेवस्य (*sic*, v. *Introd.*) राज्ये विशुद्धचन्द्राशुनिर्मल ** (hiatus) शु (?) पीखी (?) निवासिन्यामनकराणिकायासंभारदयलक्ष्मामया ... लिखापिवा प्रतिष्ठापितं"
+  }
+ ],
+ "date": {
+  "as_written": "सम्बत् १८५ वैशाखशुक्लदादशम्यां",
+  "era": "NS",
+  "year": "185",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1065"
+ },
+ "place": {
+  "as_written": "पीखी (?)",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bendall notes that 'श्रीपद्युक्तामदेवस्य' is a scribal error for King Pradyumnakāmadeva. The commissioner is a woman, Lakṣmā ('... nivāsinyā manakarāṇikāyā ... Lakṣmā mayā ... likhāpivā pratiṣṭhāpitaṃ').",
+ "_meta": {
+  "reel": "Cambridge Add. 1684",
+  "model": "gemini-flash-latest",
+  "secs": 11.6,
+  "in_tok": 1274,
+  "out_tok": 2872
+ }
+}

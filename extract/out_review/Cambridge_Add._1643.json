@@ -1,0 +1,148 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p4 Sujatabhadra: removed 'khudhīḥ' from titles (= सुधीः 'the wise', an epithet, not a title); name noted as probably Sujātabhadra",
+   "p6: the name 'कर्तुणपूर्वण वज्रिण' read as karuṇāpūrveṇa vajriṇā, a poetic periphrasis for Karuṇāvajra; name changed from 'Vajrin' to 'Karuṇāvajra'",
+   "p6 roles: 'reader' removed; roles are now owner + other, because he redeemed (uddhṛtā) the book from a faithless person ([śra]ddhāhīnajanasya hastapatitā)",
+   "p1: removed the title 'rājñi', which is only the locative of rājan; used 'rājan' instead",
+   "Purpose added: merit transfer to parents and all beings, from the second colophon",
+   "Pakṣa: 'himābhā' gives śukla only tentatively, so this is flagged in notes",
+   "Notes expanded with the 259 NS = 1139 CE reading of the second colophon"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीभोजदेवे",
+   "name": "Bhojadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājan"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "राज्ञि श्रीभोजदेवे",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "श्रीरुद्रदेवे",
+   "name": "Rudradeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "श्रीरुद्रदेवे",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "श्रीलक्ष्मीकामदेवैर्",
+   "name": "Lakṣmīkāmadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "श्रीलक्ष्मीकामदेवैर...र्द्धराज्ये ऽपभुक्ते",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "सुजतभद्रः",
+   "name": "Sujatabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Śrī-Lhaṃ-vihāra",
+   "residence": "Śrī-Lhaṃ-vihāra, Nepālamaṇḍala",
+   "evidence": "तस्मिन् विहारे ... सुजतभद्रः समलिखत्खुधीः",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p5",
+   "as_written": "श्रीमानदेव",
+   "name": "Mānadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "श्रीमानदेव नृपतेर्विजये च राज्ये",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "कर्तुणपूर्वण वज्रिण",
+   "name": "Karuṇāvajra",
+   "roles": [
+    "owner",
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "अद्वाहीनजनस्य हस्तपतिता ... मयात्र कर्तुणपूर्वण वज्रिण ... प्रणम्योद्धृता",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "राज्ञि श्रीभोजदेवे"
+  },
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "श्रीरुद्रदेवे"
+  },
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "श्रीलक्ष्मीकामदेवैर...र्द्धराज्ये ऽपभुक्ते"
+  },
+  {
+   "from": "p6",
+   "type": "under_reign_of",
+   "to": "p5",
+   "evidence": "श्रीमानदेव नृपतेर्विजये च राज्ये"
+  }
+ ],
+ "date": {
+  "as_written": "पञ्चचिंसाधिके ऽब्दे शततमप्रशते चैत्रमासे हिमाभा । विख्याते ऽस्मिन् दशम्यान्दनिंजरिपुगुरौ वासरे",
+  "era": "NS",
+  "year": "135",
+  "month": "Caitra",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1015"
+ },
+ "place": {
+  "as_written": "नेपालमण्डल ... श्रील्हंविहार",
+  "normalized": ""
+ },
+ "purpose": "Merit of the redemption transferred to his mother, father and all beings (second colophon)",
+ "notes": "Main colophon (verse): the year is NS 135 = 1015 CE, as Bendall gives it. Caitra, daśamī. 'danujaripuguru' means Bṛhaspati, i.e. Thursday. Śukla pakṣa is inferred from 'himābhā' ('moon-bright') and is tentative. The colophon was written during the joint rule of Bhojadeva and Rudradeva, with Lakṣmīkāmadeva holding half the kingdom. The scribe Sujatabhadra (probably Sujātabhadra) copied it in the Śrī-Lhaṃ-vihāra of Nepālamaṇḍala. 'तपसीरखुसागरे' is corrupt; 'खुधीः' is probably सुधीः. Second colophon, added in a later hooked hand: dvitīye śatasya gatavati + pañcāsatā navamāñcitena = NS 259 (= c. 1139 CE), Kārtika (probably śukla) 5, under Mānadeva. In it someone redeemed the book from a faithless person ([śra]ddhāhīna-jana). The name 'कर्तुणपूर्वण वज्रिण' is taken as karuṇāpūrveṇa vajriṇā = Karuṇāvajra; this reading is uncertain. Only the original date is entered in the date fields.",
+ "_meta": {
+  "reel": "Cambridge Add. 1643",
+  "model": "opus",
+  "cost_usd": 0.13644859999999998,
+  "secs": 31.8
+ }
+}

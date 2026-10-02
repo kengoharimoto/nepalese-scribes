@@ -22,8 +22,12 @@ a mirror of its files is published under CC0 at https://github.com/INDOLOGY/NGMC
 | first reading of every colophon (Gemini Flash, key as in `indology-genealogy/pipeline/llm.py`) | `extract/extract_gemini.py` | `extract/out_gflash/` |
 | pick uncertain readings: low confidence, doubt in notes, catalogue Scribe/King not found, date off by > 2 years | `extract/select_review.py` | `extract/review_list.jsonl` |
 | second reading by Opus (`claude -p`), given the colophon and the first reading | `extract/review.py` | `extract/out_review/` |
+| Bendall's Cambridge manuscripts (1883): one record per Add. number or part of a composite number | `extract/make_bendall_worklist.py` | `extract/worklist_bendall.jsonl` (319) |
+| their first reading (Bendall's English notes and Devanāgarī excerpts together) and Opus second reading | `extract_gemini.py` / `select_review.py` / `review.py` with `--preamble bendall_preamble.txt` | `extract/out_gflash/Cambridge_*`, `extract/out_review/Cambridge_*` (30) |
 | merge readings and catalogue fields, group persons, convert dates | `build_persons.py` | `data/manuscripts.json`, `data/persons.json`, `data/relations.json` |
 | chart | `export_chart.py` + `chart_template.html` | `out/nepalese_scribes.html` |
+| Bendall's Cambridge catalogue (1883): Chandra OCR of the 1992 reprint scan | `chandra-ocr.sh` (in `/mnt2/kengo`) | `data/bendall1883_ocr.md` |
+| recalculate dates from the colophons with the pañcāṅga (Yano & Fushimi, `pancanga313_ns_test.pl`, not in the repository: Michio Yano and Makoto Fushimi's *Pancanga* 3.13 Perl program, placed in the project root; rules and their test in `calendar/verify.py`) | `calendar/ngmcp_dates.py`, `calendar/bendall_dates.py` (run after a first `build_persons.py`, then rebuild) | `data/ngmcp_dates.json`, `data/bendall_dates.json` |
 | catalogue + title-list database (merges the HTML entries with `data/ngmcpdb_production.sql.bz2`; see `db/README.md`) | `db/build_db.py` | `db/ngmcp.sqlite` |
 
 `extract/extract.py` is the `claude -p` version of the first reading. It was used for the
@@ -33,7 +37,12 @@ reset time and skip reels already done, so they can simply be restarted.
 
 ## Decisions
 
-- Dates: the catalogue date is used where it names the era; otherwise the colophon reading.
+- Paper manuscripts dated before 1300 are treated as undated (`date_doubtful`); the Aṃśuvarman ("Mānadeva")
+  saṃvat is the Kārttikādi Śaka − 500 (K. P. Malla 2005; `calendar/verify.py`); B 11/4 and C 80/7, AS-dated
+  and only in the title list, are added from `data/extra_manuscripts.json`.
+- Dates: recalculated from the colophons with the pañcāṅga and checked against the stated weekday
+  (`calendar/verify.py`); the flat conversion below is kept as `date_flat` and used for year-only dates.
+- Flat conversion (before the pañcāṅga): the catalogue date where it names the era; otherwise the colophon reading.
   NS + 880, VS − 57, ŚS + 78, LS + 1119. A bare "SAM" in the catalogue is read as NS for years up
   to 1150 in Newari script or below 1000, otherwise VS, and is marked as inferred.
 - Names are grouped by a folded key without śrī and without titles (śarman, miśra, upādhyāya,

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "भाजधनकस्य",
+   "name": "Bhājadhanaka",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "kāśyapagotra, pasupatimahāvihāra uttarādigṛha",
+   "residence": "nepālamaṇḍale bhaktāpuramahānagare kathanduṭola",
+   "evidence": "दानपति नेपालमण्डले भक्तापुरमहानगरे कथन्दुटोल पसुपतिमहाविहार उत्तरादिगृहे स्वस्थित काश्यपगोत्र वज्राचार्यश्री भाजधनकस्य",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "N. s. 927",
+  "era": "NS",
+  "year": "927",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1807"
+ },
+ "place": {
+  "as_written": "नेपालमण्डले भक्तापुरमहानगरे कथन्दुटोल पसुपतिमहाविहार उत्तरादिगृहे",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "The date portion is described by Bendall as N.S. 927 (A.D. 1807) but omitted from his printed Devanāgarī excerpt.",
+ "_meta": {
+  "reel": "Cambridge Add. 1454",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 1045,
+  "out_tok": 865
+ }
+}

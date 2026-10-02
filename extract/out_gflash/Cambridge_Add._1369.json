@@ -1,0 +1,82 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "अमृतपण्डित",
+   "name": "Amṛta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "अमृतपण्डितविरचितायां",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "श्री सुनय श्रीमित्रया",
+   "name": "Sunayaśrīmitra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "brahmacaryabhikṣu"
+   ],
+   "affiliation": "यंपि विहार",
+   "residence": "",
+   "evidence": "यंपि विहारया ब्रह्मचर्यभिचु श्री सुनय श्रीमित्रया वंश",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "श्रीजनेन्द्र मुनिन",
+   "name": "Janendramuni",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brahmacaryabhikṣu",
+    "muni"
+   ],
+   "affiliation": "यंपि विहार",
+   "residence": "",
+   "evidence": "लिखित यंपि विहारया ब्रह्मचर्यभिचु श्री सुनय श्रीमित्रया वंश ब्रह्मचर्यभिचु-श्रीजनेन्द्र मुनिन",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "other",
+   "to": "p2",
+   "evidence": "श्री सुनय श्रीमित्रया वंश ब्रह्मचर्यभिचु-श्रीजनेन्द्र मुनिन"
+  }
+ ],
+ "date": {
+  "as_written": "N. s. 963 ... शुभयोग सोमवार",
+  "era": "NS",
+  "year": "963",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "śubhayoga",
+  "ce_approx": "1843"
+ },
+ "place": {
+  "as_written": "यंपि विहार",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "Bendall notes that the year N.S. 963 is given before the final Newari colophon phrase. Yampi Vihāra corresponds to I Bahi in Patan.",
+ "_meta": {
+  "reel": "Cambridge Add. 1369",
+  "model": "gemini-flash-latest",
+  "secs": 8.8,
+  "in_tok": 1328,
+  "out_tok": 2434
+ }
+}

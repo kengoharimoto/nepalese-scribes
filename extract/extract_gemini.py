@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Same extraction as extract.py, through the Gemini API (key as in indology-genealogy/pipeline/llm.py).
-Usage: extract_gemini.py worklist.jsonl outdir [--model gemini-pro-latest] [--jobs 8] [--limit N]"""
+Usage: extract_gemini.py worklist.jsonl outdir [--model gemini-pro-latest] [--jobs 8] [--limit N] [--preamble FILE]"""
 import json, os, pathlib, argparse, time, concurrent.futures as cf
 from google import genai
 from google.genai import types
@@ -10,9 +10,12 @@ ap = argparse.ArgumentParser()
 ap.add_argument('records'); ap.add_argument('outdir')
 ap.add_argument('--model', default='gemini-pro-latest'); ap.add_argument('--jobs', type=int, default=8)
 ap.add_argument('--limit', type=int, default=0)
+ap.add_argument('--preamble', default='', help='file whose text goes before the prompt (e.g. bendall_preamble.txt)')
 a = ap.parse_args()
 out = pathlib.Path(a.outdir); out.mkdir(parents=True, exist_ok=True)
 prompt = (HERE / 'prompt.txt').read_text()
+if a.preamble:
+    prompt = pathlib.Path(a.preamble).read_text() + prompt
 schema = json.loads((HERE / 'schema.json').read_text())
 
 

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribal colophon, date, or human persons mentioned. Bendall estimates the manuscript to the 18th century based on script.",
+ "_meta": {
+  "reel": "Cambridge Add. 1547",
+  "model": "gemini-flash-latest",
+  "secs": 2.3,
+  "in_tok": 1021,
+  "out_tok": 355
+ }
+}

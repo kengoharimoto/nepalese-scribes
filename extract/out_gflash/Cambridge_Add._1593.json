@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीवज्राचार्ये अमृतानन्द",
+   "name": "Amṛtānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "कुट्टुयहितिकाथवाहालय (विहार)",
+   "residence": "",
+   "evidence": "श्रीवज्राचार्ये अमृतानन्दनायजुली",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "संवत् ८३८ श्रावण शुक्ल पञ्चमी",
+  "era": "NS",
+  "year": "838",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1819"
+ },
+ "place": {
+  "as_written": "कुट्टुयहितिकाथवाहालय",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bendall's description reads 'N. s. 939 (A.D. 1819)', whereas the printed Devanāgarī excerpt reads 'संवत् ८३८'; given that Vajrācārya Amṛtānanda flourished in the early 19th century, 939 (1819 CE) is almost certainly the intended year.",
+ "_meta": {
+  "reel": "Cambridge Add. 1593",
+  "model": "gemini-flash-latest",
+  "secs": 6.2,
+  "in_tok": 1205,
+  "out_tok": 1479
+ }
+}

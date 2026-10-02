@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Place: removed the modern identification (Cuka Bāhā / Kathmandu). Which vihāra 'Mānadeva-saṃskārita Cakra Mahāvihāra' refers to today is not certain, and the colophon names it as the scribe's vihāra, not explicitly as the place of copying.",
+   "Date: read the OCR-garbled 'गुरुकूपचे' as 'शुक्लपक्षे' and recorded this. Kept NS 527 = 1407 CE, but the notes now explain the conflict with Bendall's header (NS 926 = 1806) and why 527 is preferred.",
+   "Nakshatra spelling normalized to citrā.",
+   "Notes expanded: OCR problems, unclear Newari phrases, the title OCR error (ĀTASĀHASRĪ for ŚATASĀHASRĪ)."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीवज्राचार्य ज्ञाजणग्लन (?)",
+   "name": "Jñājaṇaglana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Mānadevasaṃskārita Cakramahāvihāra",
+   "residence": "Mānadevasaṃskārita Cakramahāvihāra",
+   "evidence": "लिखित श्रीमानदेवसंस्कारितचक्रमहाविहाराधिष्ठितः श्रीवज्राचार्य ज्ञाजणग्लन (?)",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "समत् ५२७ वैशाषमास्य गुरुकूपचे चतुर्दश्यांतिथौ चिन्तानचत्रे वजयोगे ... बृहस्पति – वार",
+  "era": "NS",
+  "year": "527",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "caturdaśī (14)",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "Citrā nakṣatra, Vajra yoga",
+  "ce_approx": "1407"
+ },
+ "place": {
+  "as_written": "श्रीमानदेवसंस्कारितचक्रमहाविहार",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date fields conflict. Bendall's header reads 'N. s. 926 (A.D. 1806)', but the Devanāgarī colophon as transcribed reads 'समत् ५२७', i.e. NS 527 = c. 1407 CE. The Devanāgarī comes from OCR and is heavily garbled (च for क्ष throughout, e.g. भिचु, नचत्र), and OCR can confuse ५ and ९, or ६ and ७. So the transcribed figure is not fully reliable either. NS 527 is preferred here because a palm-leaf manuscript of 494 leaves fits the early 15th century much better than 1806. This should still be checked against the printed catalogue or the manuscript. 'गुरुकूपचे' is taken as an OCR corruption of 'शुक्लपक्षे'. 'चिन्ता' = Citrā; 'वज' = Vajra yoga. The phrases 'यथाकर्ममहीन्तक (?) … शकुह – श्रीरचभगवतिः … चौपधुनकादिनजरो' (Newari, apparently 'the writing was completed …') are unclear and contain no secure personal name. Bendall himself marks the scribe's name 'ज्ञाजणग्लन' (?) as doubtful; it may be a garbled Newar name. The title header 'ĀTASĀHASRĪ' is an OCR error for ŚATASĀHASRĪ (the colophon reads शतसाहस्र्या).",
+ "_meta": {
+  "reel": "Cambridge Add. 1633",
+  "model": "opus",
+  "cost_usd": 0.11167660000000001,
+  "secs": 27.6
+ }
+}

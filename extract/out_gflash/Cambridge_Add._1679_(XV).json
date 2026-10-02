@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Fragment consisting of only the first leaf of a lexicon or glossary; no colophon, dates, or persons mentioned.",
+ "_meta": {
+  "reel": "Cambridge Add. 1679 (XV)",
+  "model": "gemini-flash-latest",
+  "secs": 2.2,
+  "in_tok": 1007,
+  "out_tok": 219
+ }
+}

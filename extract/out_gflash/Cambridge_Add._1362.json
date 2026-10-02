@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "आचार्यपण्डितसर्वज्ञमित्रपादानां",
+   "name": "Sarvajñamitra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya",
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "Kāśmīra",
+   "evidence": "कृतिराचार्यपण्डितसर्वज्ञमित्रपादानां काश्मीरकानां",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "N. s. 966",
+  "era": "NS",
+  "year": "966",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1846"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The vernacular postscript containing the full date is not transcribed by Bendall in the catalogue entry; date information taken from Bendall's header description.",
+ "_meta": {
+  "reel": "Cambridge Add. 1362",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 1046,
+  "out_tok": 936
+ }
+}

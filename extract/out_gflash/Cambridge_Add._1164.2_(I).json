@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No human persons, dates, or places are named. The phrase 'śrīdajasavakāyastha' in the ending is a corrupt scribal error for 'śrīvajrasattvakāyastha' (referring to Vajrasattva, cf. 'namaḥ śrīvajrasavāya vajrasavavācaḥ' at the opening), not a kāyastha scribe.",
+ "_meta": {
+  "reel": "Cambridge Add. 1164.2 (I)",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 1008,
+  "out_tok": 911
+ }
+}

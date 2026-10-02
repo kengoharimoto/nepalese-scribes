@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "भिचुश्रीज्ञानदेह्रोहरो",
+   "name": "Jñānadehara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhikṣu"
+   ],
+   "affiliation": "इत्सलंयुमहावेहार (Itsalaṃyu-mahāvihāra)",
+   "residence": "",
+   "evidence": "रिखितं (*sic*) इत्सलंयुमहावेहारे स्वस्थितभिचुश्रीज्ञानदेह्रोहरो (?)",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "N. s. 860",
+  "era": "NS",
+  "year": "860",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1740"
+ },
+ "place": {
+  "as_written": "इत्सलंयुमहावेहारे",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bendall notes: 'Then follow the scribe's verse and the date as above' (N.S. 860 / A.D. 1740). The reading of the scribe's name is queried by Bendall as 'ज्ञानदेह्रोहरो (?)'.",
+ "_meta": {
+  "reel": "Cambridge Add. 1356",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 1304,
+  "out_tok": 1333
+ }
+}

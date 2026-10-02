@@ -1,0 +1,83 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "King's name: confidence lowered to low; noted possible reading Jayasīhamalladeva (NS 391–394), which would fit if Bendall's doubtful middle figure is 9 rather than 8",
+   "Scribe's name normalized to the stem 'Devamana' (देवमना read as a nominative); confidence lowered to low",
+   "Scribe's affiliation given as a corrupt vihāra name (perhaps Śākya-vihāra) rather than 'Śake-vaihāra'; place of copying left empty because the colophon does not say where the copy was made",
+   "Added an under_reign_of relation from the scribe to the king",
+   "Notes expanded: the date and the king may not match, and several readings are uncertain"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्री [?] ह मालदेव",
+   "name": "[..]hamalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "राजादिराजप्रमेश्चर (sic) श्री [?] ह मालदेवकारित",
+   "confidence": "low"
+  },
+  {
+   "pid": "p2",
+   "as_written": "देवमना",
+   "name": "Devamana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhikṣu"
+   ],
+   "affiliation": "शके वैहार (corrupt; perhaps Śākya-vihāra)",
+   "residence": "",
+   "evidence": "शके वैहारश्रीभिचु देवमना लिखित",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "श्री [?] ह मालदेवकारित । शके वैहारश्रीभिचु देवमना लिखित"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "राजादिराजप्रमेश्चर (sic) श्री [?] ह मालदेवकारित"
+  }
+ ],
+ "date": {
+  "as_written": "समाप्तः ३८१ (?) अश्विनि [? द]शम्यां तिथौ अञ्जार (?) दिने",
+  "era": "NS",
+  "year": "381 (?)",
+  "month": "Āśvina",
+  "paksa": "",
+  "tithi": "10 (daśamī, partly conjectural)",
+  "weekday": "Tuesday (aṅgāra, if अञ्जार is read so)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1261"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "Made for the king (kārita)",
+ "notes": "Bendall reads the date as N.S. 381, with the middle figure doubtful (A.D. 1261). The colophon does not name the era, but N.S. is implied. Bendall's conversion is kept for ce_approx. The king's name is damaged: 'श्री [?] ह मालदेव'. One possible reading is Jayasīhamalladeva, who reigned about N.S. 391–394 (1271–1274 CE). If so, the doubtful middle figure could be 9, giving N.S. 391 (1271 CE). In 1261 the reigning king was Jayabhīmadeva, and his name does not fit '…ha malladeva'. This is unresolved. 'कारित' is taken to mean that the king commissioned the copy, but it could be only a formula of royal patronage. अञ्जार is probably aṅgāra (Tuesday). The scribe's name and his vihāra ('शके वैहारश्रीभिचु', perhaps Śākya-vihāra śrī-bhikṣu, or a corrupt 'śākyabhikṣu') are corrupt. The name could also be read Devamaṇi or Devamati.",
+ "_meta": {
+  "reel": "Cambridge Add. 1706 (I)",
+  "model": "opus",
+  "cost_usd": 0.5113452,
+  "secs": 32.4
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "Siddhinrisimha",
+   "name": "Siddhinarasiṃha",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "Siddhinrisimha is mentioned at 61a l. 7",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bendall notes that Siddhinṛsiṃha (King Siddhinarasiṃha Malla of Patan, r. 1620–1661) is mentioned at fol. 61a l. 7. Govinda-candra mentioned at 1b is the dramatic character of the play and is excluded. The manuscript is heavily damaged at the end and no explicit colophon date is transcribed.",
+ "_meta": {
+  "reel": "Cambridge Add. 1389",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 1073,
+  "out_tok": 1398
+ }
+}

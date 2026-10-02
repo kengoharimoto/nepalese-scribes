@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीनील मुनि",
+   "name": "Nīlamuni",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "श्रीनील मुनिनामैन (*sic*) त्यलिखत्युष्टकमिदं",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "Rāja Vikramasāh",
+   "name": "Vikramasāha",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "name of Rāja Vikramasāh is appended",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "त्यलिखत्युष्टकमिदं... Rāja Vikramasāh is appended"
+  }
+ ],
+ "date": {
+  "as_written": "वक्त्रिरसग्रहैर्विषे ज्येष्ठमासे श्रितेदले",
+  "era": "NS",
+  "year": "963",
+  "month": "Jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1843"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'vaktri-rasa-grahaiḥ' gives 3-6-9, i.e. NS 963 (1843 CE). Bendall notes that the date is also given in figures and the name of Rājā Vikramasāh (reigning king Rājendra Vikrama Śāha, r. 1816–1847) is appended at the end. 'śrite dale' stands for 'śite dale' (śuklapakṣa).",
+ "_meta": {
+  "reel": "Cambridge Add. 1341",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 1303,
+  "out_tok": 1435
+ }
+}

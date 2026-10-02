@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "पद्याकलिासंहिन",
+   "name": "Padmākalisimha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Kāya-bahāra",
+   "residence": "Kāya-bahāra",
+   "evidence": "रिषितेयं (i.e. लिखि०) काय-वाहारया श्रीवजवाक्ष्य पद्या- कलिासंहिन",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "N. s. 950",
+  "era": "NS",
+  "year": "950",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1830"
+ },
+ "place": {
+  "as_written": "काय-वाहारया",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The manuscript text is described by Bendall as extremely corrupt ('barbarously incorrect character of the MS'). 'रिषितेयं' stands for likhiteyam; 'श्रीवजवाक्ष्य' likely stands for śrī-vajrācārya; 'पद्या- कलिासंहिन' appears to be an error for Padmākarasiṃha or Padmākalīsiṃha; 'काय-वाहारया' indicates the vihāra of the scribe (possibly Kwa Bahāl / Kāya-bahāla).",
+ "_meta": {
+  "reel": "Cambridge Add. 1596",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 1340,
+  "out_tok": 1037
+ }
+}

@@ -1,0 +1,161 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "रण बहादूर साह बहादूर समसेर (?) जंग देवानां",
+   "name": "Raṇabahādurasāha Bahādura Śamaserajaṅgadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "नेपालेश्वर",
+    "श्रीमन्महाराज",
+    "हिन्दुपति",
+    "बात्साह",
+    "देव"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "नेपालेश्वर श्रीमन्महाराज हिन्दुपति बात्साह श्रीश्रीश्री रण बहादूर साह बहादूर समसेर (?) जंग देवानां सदा समरविजयिनां विजयराज्ये",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "जयप्रतापसिं",
+   "name": "Jayapratāpasiṃha",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "दानपति"
+   ],
+   "affiliation": "",
+   "residence": "कान्तिपूरे महानगरे कमिलाच्छितोल धालसिकानामगृह",
+   "evidence": "दानपति कान्तिपूरे महानगरे कमिलाच्छितोल धालसिका नामगृहाधिवासित ... जयप्रतापसिं ... पुस्तकम जम्बूनन्देन चूर्णेन लिखापथिला प्रतिष्ठापितमभूत",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "भाजुधं",
+   "name": "Bhājudhaṃ",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "भाजुधंपुत्र जयप्रतापसिं",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "बालमुकुन्द",
+   "name": "Bālamukunda",
+   "roles": [
+    "commissioner",
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "बालमुकुन्द सहोदर-भाह भाजुधंपुत्र जयप्रतापसिं",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "महिजयलक्ष्मिता",
+   "name": "Jayalakṣmī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "पिता महिजयलक्ष्मिता",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p6",
+   "as_written": "रत्न-वति",
+   "name": "Ratnavatī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "रत्न-वति",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p7",
+   "as_written": "जगलक्ष्मी",
+   "name": "Jagallakṣmī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "दारा जगलक्ष्मी",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "नेपालेश्वर श्रीमन्महाराज हिन्दुपति बात्साह श्रीश्रीश्री रण बहादूर साह बहादूर समसेर (?) जंग देवानां सदा समरविजयिनां विजयराज्ये"
+  },
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "भाजुधंपुत्र जयप्रतापसिं"
+  },
+  {
+   "from": "p4",
+   "type": "brother_of",
+   "to": "p2",
+   "evidence": "बालमुकुन्द सहोदर-भाह भाजुधंपुत्र जयप्रतापसिं"
+  },
+  {
+   "from": "p2",
+   "type": "grandson_of",
+   "to": "p5",
+   "evidence": "पिता महिजयलक्ष्मिता"
+  },
+  {
+   "from": "p7",
+   "type": "wife_of",
+   "to": "p2",
+   "evidence": "दारा जगलक्ष्मी"
+  }
+ ],
+ "date": {
+  "as_written": "युतीन्दुनन्द युत हायने स्मिन्तयावदाते (?) तिशिरामचन्द्रे तिथ्याडुवायां (?) बुधवासरे च सुरे च कुम्भशशिकर्कदेशे (sic)",
+  "era": "NS",
+  "year": "914",
+  "month": "",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1794"
+ },
+ "place": {
+  "as_written": "कान्तिपूरे महानगरे कमिलाच्छितोल धालसिकानामगृह",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "having caused the manuscript to be written in gold dust and consecrated",
+ "notes": "The chronogram युतीन्दुनन्द represents 914 (yuti=4, indu=1, nanda=9 in ankalakṣaṇā). The family list appears somewhat corrupt: 'पिता महिजयलक्ष्मिता रत्न-वति' likely reflects pitāmahī Jayalakṣmī and mātā Ratnavatī.",
+ "_meta": {
+  "reel": "Cambridge Add. 875",
+  "model": "gemini-flash-latest",
+  "secs": 14.9,
+  "in_tok": 1936,
+  "out_tok": 4405
+ }
+}

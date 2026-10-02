@@ -1,0 +1,76 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date as_written now includes the year letter-numerals (चि-ह(?)-फ्रा) and the date words; tithi normalized to dvitīyā (दतीयाया = dvitīyāyāṃ); weekday normalized to Sunday (ādityavāra).",
+   "Donor titles normalized: paramopāsaka (written परमोपाश्रिक); the Mahāyāna epithet is kept as an epithet.",
+   "Purpose expanded to deyadharma with a merit-transfer formula.",
+   "Notes: added the conflict between N.S. 384 and the modern chronology of Abhayamalla's reign, and the corrupt donor name."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीरामपासिडख (?)",
+   "name": "Rāmapāsiḍakha",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "paramopāsaka",
+    "pravaramahāyānayāyin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "देयधर्मी ऽयं प्रवरमहायानयायिनः परमोपाश्रिक-श्रीरामपासिडख (?)",
+   "confidence": "low"
+  },
+  {
+   "pid": "p2",
+   "as_written": "राजाधिराजपरमेश्वरश्रीमदभयमल्लदेवस्य",
+   "name": "Abhayamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "राजाधिराजपरमेश्वरश्रीमदभयमल्लदेवस्य राज्ये",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "श्रीमदभयमल्लदेवस्य राज्ये लिखितमिति"
+  }
+ ],
+ "date": {
+  "as_written": "सम्मतं चिह्नं फ्राकार्त्तिकशुक्लादतीयाया आदित्यवासरे",
+  "era": "NS",
+  "year": "384 (?) (letter-numerals ci-ha(?)-phrā; middle figure doubtful, possibly 354)",
+  "month": "Kārttika",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "Sunday (ādityavāra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1264"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "deyadharma (pious gift) by the donor; merit-transfer formula (yad atra puṇyaṃ ...)",
+ "notes": "The year is written in letter-numerals, one digit per sign: ci = 3, a doubtful middle sign, and phrā = 4. Bendall reads the middle sign as 8 (ह/ङ) rather than 5 (ट), \"on chronological grounds\" because the colophon names king Abhayamalla, which gives N.S. 384 = A.D. 1264. ce_approx follows Bendall. However, the modern chronology (Petech) places Abhayamalla's reign at about N.S. 336–375 (A.D. 1216–1255). On that chronology, N.S. 354 (A.D. 1234) would fit the reign better, and 384 would fall after it. The date therefore needs checking. The donor's name is corrupt and Bendall marks it (?). The reading Rāmapāsiḍakha is mechanical; the first element is probably Rāma-. The title written परमोपाश्रिक is taken as paramopāsaka (lay devotee). No scribe is named. Bendall prints the beginning of the colophon only in part (\"etc.\"), so the 1883 transliteration has been converted.",
+ "_meta": {
+  "reel": "Cambridge Add. 1465",
+  "model": "opus",
+  "cost_usd": 0.0958166,
+  "secs": 19.1
+ }
+}

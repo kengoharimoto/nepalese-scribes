@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "Rāṇa Bahādura",
+   "name": "Raṇabahādura",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "in the reign of Rāṇa Bahādura",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "Viṣvabhadra",
+   "name": "Viśvabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Gophalatora-vihāra",
+   "residence": "",
+   "evidence": "written ... by Viṣvabhadra",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "written at Kāṭmandu in the reign of Rāṇa Bahādura, in the year above mentioned, at Gophalatora-vihāra by Viṣvabhadra"
+  }
+ ],
+ "date": {
+  "as_written": "N. S. 913",
+  "era": "NS",
+  "year": "913",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1793"
+ },
+ "place": {
+  "as_written": "Kāṭmandu, Gophalatora-vihāra",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The colophon text after 'इति श्रीमणिचूडावदानं समाप्तं 76' is summarized in English by Cecil Bendall rather than directly quoted.",
+ "_meta": {
+  "reel": "Cambridge Add. 874",
+  "model": "gemini-flash-latest",
+  "secs": 3.7,
+  "in_tok": 1409,
+  "out_tok": 887
+ }
+}

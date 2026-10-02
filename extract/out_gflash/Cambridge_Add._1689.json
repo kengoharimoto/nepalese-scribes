@@ -1,0 +1,86 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्री तेजचन्द्रस्थविर",
+   "name": "Tejacandra",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "śākyabhikṣu",
+    "sthavira"
+   ],
+   "affiliation": "Śrīścin-mahāvihāra (श्रीश्चिन्महाविहारीय)",
+   "residence": "",
+   "evidence": "देयधर्मी ऽयम्वरमहायानयायिनपरसौगतपरमकारुणिक-  श्रीश्चिन्महाविहारीयशाक्यभिक्षु श्री तेजचन्द्रस्थविर",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "Jayārajunadeva",
+   "name": "Jayārjunadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "reign of Jayārajunadeva",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "तुमश्री नक्षेत्र",
+   "name": "Tumaśrī",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "वज्राचार्य-श्री-तुमश्री नक्षेत्र (*sic*) लिखितमिदं",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "देयधर्मी ऽयम्वर... श्री तेजचन्द्रस्थविर ... लिखितमिदं"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "reign of Jayārajunadeva"
+  }
+ ],
+ "date": {
+  "as_written": "N. S. 494",
+  "era": "NS",
+  "year": "494",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1374"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "deyadharma",
+ "notes": "Bendall summarizes the middle part of the colophon in English, mentioning day, month, and 'reign of Jayārajunadeva'. The scribe's name has the odd addition 'नक्षेत्र (*sic*)'.",
+ "_meta": {
+  "reel": "Cambridge Add. 1689",
+  "model": "gemini-flash-latest",
+  "secs": 7.3,
+  "in_tok": 1259,
+  "out_tok": 2080
+ }
+}

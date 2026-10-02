@@ -1,0 +1,85 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीपूर्णजोति",
+   "name": "Pūrṇajyoti",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "शाक्यवंशीद्भव"
+   ],
+   "affiliation": "पद्मावती-महाविहार",
+   "residence": "पद्मावती-महाविहार",
+   "evidence": "शाक्यवंशीद्भव-श्रीपूर्णजोतिज-तिरिचं-द्रलक्ष्मि-यतियामनसहर्षचित्त उत्पन्तिजयाडी",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "तिरिचं-द्रलक्ष्मि",
+   "name": "Candralakṣmī",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "तिरिचं-द्रलक्ष्मि-यतियामनसहर्षचित्त",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "श्रीजीवानन्दज",
+   "name": "Jīvānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "श्रीजीवानन्दज नचौचकं",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wife_of",
+   "to": "p1",
+   "evidence": "श्रीपूर्णजोतिज-तिरिचं-द्रलक्ष्मि"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "श्रीजीवानन्दज नचौचकं"
+  }
+ ],
+ "date": {
+  "as_written": "N. S. 948",
+  "era": "NS",
+  "year": "948",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1828"
+ },
+ "place": {
+  "as_written": "पद्मावती-महाविहार",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bendall omitted the preceding date details from the transcription, noting only N. S. 948 (A.D. 1828). In Newari, 'tiri' signifies wife; 'Jīvānanda-ju-na covakā' indicates that Jīvānanda was the scribe.",
+ "_meta": {
+  "reel": "Cambridge Add. 1625",
+  "model": "gemini-flash-latest",
+  "secs": 14.3,
+  "in_tok": 1145,
+  "out_tok": 3684
+ }
+}

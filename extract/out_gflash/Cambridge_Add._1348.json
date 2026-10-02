@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "सम्बत् ९३७ मि ज्येष्ठवदि ५",
+  "era": "NS",
+  "year": "937",
+  "month": "ज्येष्ठ",
+  "paksa": "vadi",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1807"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bendall converts NS 937 to A.D. 1807, though standard NS conversion (NS + 879/880) corresponds to 1817 CE.",
+ "_meta": {
+  "reel": "Cambridge Add. 1348",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 1144,
+  "out_tok": 833
+ }
+}

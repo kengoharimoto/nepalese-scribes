@@ -1,0 +1,61 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ज्योतिराजेन मलपार्थेन",
+   "name": "Jyotirājamalla",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mallapārtha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "क्रियते ज्योतिराजेन मलपार्थेन धीमता",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "श्रीश्रीजयद्योतिमल्लदेवस्य",
+   "name": "Jayajyotimalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "श्रीराजद्विराजपरमेश्वरपरमपरमभट्टारक + श्रीश्रीजयद्योतिमल्लदेवस्य विजयराज्ये",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "सवत् ५३२ मागशिरगुक्त । सप्तम्यां तिथौ शतषष्ठनक्षत्रे । हरषणप्रवज्योग । आदित्यवासरे",
+  "era": "NS",
+  "year": "532",
+  "month": "Mārgaśira",
+  "paksa": "śukla",
+  "tithi": "saptamī",
+  "weekday": "ādityavāsara",
+  "nakshatra_yoga": "śataṣaṣṭha, harṣaṇa",
+  "ce_approx": "1412"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author Jyotirāja Malla mentioned in the opening verse is King Jayajyotimalla (Jyotirmalla of Kathmandu Valley). Bendall notes that the letters of the king's name in the colophon were retraced, but confirmed by the opening verse.",
+ "_meta": {
+  "reel": "Cambridge Add. 1649",
+  "model": "gemini-flash-latest",
+  "secs": 13.9,
+  "in_tok": 1274,
+  "out_tok": 3634
+ }
+}

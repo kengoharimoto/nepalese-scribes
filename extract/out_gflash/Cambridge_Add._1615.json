@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "चित्रानन्देन",
+   "name": "Citrānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "लिखितं चित्रानन्देन",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "अब्दे नैपालिके याते वक्रियमग्रहयुते । मासे कृष्णे माधवे च इन्दुवारे समन्विते",
+  "era": "NS",
+  "year": "923",
+  "month": "Vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1803"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'vakri-yama-graha' gives 923 (graha = 9, yama = 2, vakri probably for vahni = 3, read in reverse).",
+ "_meta": {
+  "reel": "Cambridge Add. 1615",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 1810,
+  "out_tok": 845
+ }
+}

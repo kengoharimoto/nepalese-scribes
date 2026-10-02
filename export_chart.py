@@ -13,7 +13,8 @@ for i in used:
                 ((d['era'] or '') + ('?' if d['inferred'] else '')) if d else '', m['place'] or m['place_raw'][:50],
                 m['script'], m['subject'], m['colophon'][:600], m['reading'], m['date_src'],
                 m['notes'][:400], m['review'][:6], m['purpose'][:120],
-                (lambda e: [e['from'], e['to'], e['conf'], e['basis'][:5]] if e else None)(E.get(str(i)))])
+                (lambda e: [e['from'], e['to'], e['conf'], e['basis'][:5]] if e else None)(E.get(str(i))),
+                m.get('source', 'NGMCP'), m.get('date_note', '')])
 ROLE = {'scribe': 's', 'patron': 'p', 'king': 'k', 'other': 'o', 'kin': 'r'}
 persons = []
 for p in P:
@@ -35,7 +36,10 @@ rels = [[r['from'], r['type'], r['to'], remap[r['ms']]] for r in R]
 hist = collections.Counter((m['date']['ce'] // 10 * 10, m['date']['era'] or 'other') for m in M if m['date'])
 nread = collections.Counter(m['reading'] for m in M if m['reading'])
 data = {'mss': mss, 'persons': persons, 'rels': rels, 'hist': [[d, e, n] for (d, e), n in sorted(hist.items())],
-        'stats': {'files': 13382, 'reels': len(M), 'dated': sum(1 for m in M if m['date']),
+        'stats': {'files': sum(len(m['files']) for m in M if m.get('source', 'NGMCP') == 'NGMCP'),
+                  'reels': sum(1 for m in M if m.get('source', 'NGMCP') == 'NGMCP'),
+                  'bendall': sum(1 for m in M if m.get('source') == 'Bendall 1883'),
+                  'dated': sum(1 for m in M if m['date']),
                   'flash': nread['flash'] + nread['opus'], 'opus': nread['opus'], 'estimated': len(E),
                   'undated_named': sum(1 for m in M if not m['date'] and m['persons'])}}
 tpl = open(os.path.join(HERE, 'chart_template.html')).read()

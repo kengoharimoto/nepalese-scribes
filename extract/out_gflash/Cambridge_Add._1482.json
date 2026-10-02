@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribal colophon is preserved, only chapter colophons and the concluding title subscription (iti śrī aśokāvadānamālā samāptā).",
+ "_meta": {
+  "reel": "Cambridge Add. 1482",
+  "model": "gemini-flash-latest",
+  "secs": 2.5,
+  "in_tok": 3243,
+  "out_tok": 479
+ }
+}

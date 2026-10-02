@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1770"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No colophon text is preserved. Bendall notes a pencilled note by Dr Daniel Wright on the cover stating the manuscript was 105 years old (i.e., written in 1770 CE), but the leaf containing the date appears to have been lost.",
+ "_meta": {
+  "reel": "Cambridge Add. 1270",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 1002,
+  "out_tok": 681
+ }
+}

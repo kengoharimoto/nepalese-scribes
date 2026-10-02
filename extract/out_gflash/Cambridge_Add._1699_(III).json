@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "पण्डिताचार्यश्रीकाङ्कपादानाम्",
+   "name": "Kāṅka",
+   "roles": [
+    "commentator",
+    "author"
+   ],
+   "titles": [
+    "paṇḍita",
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "कृतिरियं पण्डिताचार्यश्रीकाङ्कपादानामिति",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "श्रीमद्गोविन्दपालदेवानां",
+   "name": "Govindapāladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "श्रीमद्गोविन्दपालदेवानां सं ३६",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "काशीगयाकरेण",
+   "name": "Kāśīgayākara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "लिखितमिदं पुस्तकं काशीगयाकरेणिति",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "श्रीमद्गोविन्दपालदेवानां सं ३६ भाद्रदिने १४ लिखितमिदं पुस्तकं काशीगयाकरेणिति"
+  }
+ ],
+ "date": {
+  "as_written": "सं ३६ भाद्रदिने १४",
+  "era": "regnal",
+  "year": "36",
+  "month": "Bhādra",
+  "paksa": "",
+  "tithi": "14",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1200"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Add. 1699 (III) was copied in the 36th year associated with Govindapāla (atīta-rājya era / post-regnal count), dated by Bendall to 1200 CE. Scribe's name is read as 'Kācṛīgayākara' in Bendall's English note, but the colophon reads 'Kāśīgayākara'. The author/commentator Kāhṇa / Kṛṣṇa is named as Kāṅkapāda in the final colophon.",
+ "_meta": {
+  "reel": "Cambridge Add. 1699 (III)",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 1416,
+  "out_tok": 1746
+ }
+}

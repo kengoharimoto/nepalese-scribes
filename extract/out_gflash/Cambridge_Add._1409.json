@@ -1,0 +1,75 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीधर्मगुप्तेन / बालवागीश्वरेण / रामदासिना",
+   "name": "Dharmagupta",
+   "roles": [
+    "author",
+    "scribe"
+   ],
+   "titles": [
+    "bālavāgīśvara",
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "तेन श्रीधर्मगुप्तेन कृता रामाङ्कनाटिका ... तेनैव धर्मगुप्तेन श्रीमता रामदासिना। बालवागीश्वरेणैयं लिखिता रामाङ्गनाटिका॥",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "श्रीरामदासः / पित्रा",
+   "name": "Rāmadāsa",
+   "roles": [
+    "relative_only",
+    "teacher"
+   ],
+   "titles": [
+    "nepālāvanapālamaṇḍalaguru"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "नेपालावनपालमण्डलगुरुः श्रीरामदासः। ... पित्रा पुत्रकृपापरेण निपुणं शास्त्रान्वयं शिचित्",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "पित्रा पुत्रकृपापरेण ... रामदासिना"
+  },
+  {
+   "from": "p1",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "पित्रा पुत्रकृपापरेण निपुणं शास्त्रान्वयं शिचित्"
+  }
+ ],
+ "date": {
+  "as_written": "सम्वत् ४८० शुक्लिकदशम्यां रवि वासो",
+  "era": "NS",
+  "year": "480",
+  "month": "",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1360"
+ },
+ "place": {
+  "as_written": "ललितापुरम्",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "Autograph manuscript of the play Rāmāṅka-nāṭikā composed and copied by Dharmagupta. The month name is omitted or corrupt in 'शुक्लिकदशम्यां'.",
+ "_meta": {
+  "reel": "Cambridge Add. 1409",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 1841,
+  "out_tok": 1828
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीवज्राचार्य कुलवजनं",
+   "name": "Kulavajana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "काथ बहाल",
+   "residence": "यदिति तोल",
+   "evidence": "लिखितं यदिति तोल काथ बहालया श्रीवज्राचार्य कुलवजनं",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "आदिनकुल गुरुभं",
+   "name": "Ādinakula",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "kulaguru"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "लिखापितादिनकुल गुरुभं",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "लिखितं यदिति तोल काथ बहालया श्रीवज्राचार्य कुलवजनं लिखापितादिनकुल गुरुभं"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "यदिति तोल काथ बहालया",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The commissioner's name 'likhāpitādinakula guru-bhaṃ' is ambiguous: it may represent 'Ādinakula' titled guru, or 'Ādi' with Newari ergative -na titled kulaguru (family priest), or 'Dinakula'. The scribe's name 'Kulavajana' is likely Newari vernacular for 'Kulavajra'. The number ३३५ at the very end is likely a grantha count (śloka-saṅkhyā), not a date, consistent with Bendall's classification of the manuscript as 'modern'.",
+ "_meta": {
+  "reel": "Cambridge Add. 1353",
+  "model": "gemini-flash-latest",
+  "secs": 23.3,
+  "in_tok": 1266,
+  "out_tok": 4997
+ }
+}

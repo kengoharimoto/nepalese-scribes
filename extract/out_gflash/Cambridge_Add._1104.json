@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीसर्वज्ञमित्रपादानां",
+   "name": "Sarvajñamitra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya",
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "Kashmir",
+   "evidence": "कतिरा- चार्यपण्डित श्रीसर्वज्ञमित्रपादानां कश्मीरिकानां",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No date or scribal colophon is preserved in the excerpt; only the author's colophon for the Sragdharāstotra (kṛtir ācārya-paṇḍita-śrī-Sarvajñamitra-pādānāṃ kāśmīrikāṇāṃ) is given. Bendall assigns the manuscript to the 18th–19th century based on script.",
+ "_meta": {
+  "reel": "Cambridge Add. 1104",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 1160,
+  "out_tok": 1177
+ }
+}

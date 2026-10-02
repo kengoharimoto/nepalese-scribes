@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीनिर्भयस्य",
+   "name": "Nirbhaya",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "श्रीनिर्भयस्य नृपतेः",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "श्री रुद्रदेव",
+   "name": "Rudradeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "vasudhādhipati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "श्री रुद्रदेव वसुधाधिपतेश्च",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "अब्दे शते साष्टकविंशयुते मासे शुभे फाल्गुणाशुक्लपञ्चे सोमवारे नचचरस्योत्तरभद्रसंज्ञे",
+  "era": "NS",
+  "year": "128",
+  "month": "Phālguna",
+  "paksa": "śuklapakṣa",
+  "tithi": "5",
+  "weekday": "Somavāra",
+  "nakshatra_yoga": "Uttarabhādrapadā",
+  "ce_approx": "1008"
+ },
+ "place": {
+  "as_written": "श्रील्लुम्बिहार (?) ... नेपाल",
+  "normalized": ""
+ },
+ "purpose": "sattvahetoḥ (for the benefit of all sentient beings)",
+ "notes": "The manuscript was copied during a joint regency (dvirājyaka) of Nirbhaya and Rudradeva in Nepal Saṃvat 128 (A.D. 1008). No distinct scribe or donor name is clearly identifiable in the damaged/corrupt concluding lines.",
+ "_meta": {
+  "reel": "Cambridge Add. 866",
+  "model": "gemini-flash-latest",
+  "secs": 9.3,
+  "in_tok": 2697,
+  "out_tok": 1780
+ }
+}

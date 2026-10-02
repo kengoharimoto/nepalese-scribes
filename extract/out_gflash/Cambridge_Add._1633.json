@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीवज्राचार्य ज्ञाजणग्लन (?)",
+   "name": "Jñājaṇaglana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "śrīmānadevasaṃskāritacakramahāvihāra",
+   "residence": "śrīmānadevasaṃskāritacakramahāvihāra",
+   "evidence": "लिखित श्रीमानदेवसंस्कारितचक्रमहाविहाराधिष्ठितः श्रीवज्राचार्य ज्ञाजणग्लन (?) संपूर्णमिति",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "समत् ५२७ वैशाषमास्य गुरुकूपचे चतुर्दश्यांतिथौ चिन्तानचत्रे वजयोगे ... बृहस्पति – वार",
+  "era": "NS",
+  "year": "527",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "caturdaśī",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "cintrā (citrā) nakṣatra, vajra yoga",
+  "ce_approx": "1407"
+ },
+ "place": {
+  "as_written": "श्रीमानदेवसंस्कारितचक्रमहाविहार",
+  "normalized": "Kathmandu, Mānadeva-saṃskārita Cakra Mahāvihāra (Cuka Bāhā / Cakra-vihāra)"
+ },
+ "purpose": "",
+ "notes": "Bendall's catalogue header misreads or misprints the date as 'N. s. 926 (A.D. 1806)', whereas the text itself reads 'समत् ५२७' (samvat 527 = c. 1407 CE). The scribe's name 'ज्ञाजणग्लन' is marked as doubtful with (?) by Bendall.",
+ "_meta": {
+  "reel": "Cambridge Add. 1633",
+  "model": "gemini-flash-latest",
+  "secs": 2.9,
+  "in_tok": 1453,
+  "out_tok": 508
+ }
+}

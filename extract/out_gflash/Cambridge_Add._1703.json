@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "महापन्दिता (*sic*) अभयाकरगुप्त-",
+   "name": "Abhayākaragupta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāpaṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "महापन्दिता (*sic*) अभयाकरगुप्त-विरचिता",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "राजं जयजन्मलदेवस्य",
+   "name": "Jayajanmaladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājan"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "राजं जयजन्मलदेवस्य विजयराज्ये",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "श्रीजिवयीभट्टेण",
+   "name": "Jivayibhaṭṭa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhikṣu"
+   ],
+   "affiliation": "Śrī-Harṣavarṇa-mahāvihāra",
+   "residence": "",
+   "evidence": "श्रीजिवयीभट्टेण स्वहस्तेन लिखितं",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "राजं जयजन्मलदेवस्य विजयराज्ये लिखित श्री माणिकलकेः उत्रविहारे श्रीहर्षवर्णमहाविहारावस्थितमिचु श्रीजिवयीभट्टेण स्वहस्तेन लिखितं"
+  }
+ ],
+ "date": {
+  "as_written": "सं ५४७ भाद्रपद शुक्लः पञ्चम्याया तित्यौ विश्राषणचत्रे शणिचर वासरे",
+  "era": "NS",
+  "year": "547",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "viśrāṣanacatre",
+  "ce_approx": "1427"
+ },
+ "place": {
+  "as_written": "श्री माणिकलकेः उत्रविहारे",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "Bendall's description gives NS 549 (1429 CE), but the colophon text clearly reads saṃ 547 (1427 CE). The scribe's name is given as Jivayibhadra in Bendall's English note, but appears as Śrī-Jivayibhaṭṭa (श्रीजिवयीभट्टेण) preceded by bhikṣu (मिचु) in the Devanāgarī transcript. The king's name Jayajanmaladeva is an irregular/corrupt spelling for Jayajyotirmalladeva. Māṇigala designates Patan.",
+ "_meta": {
+  "reel": "Cambridge Add. 1703",
+  "model": "gemini-flash-latest",
+  "secs": 10.2,
+  "in_tok": 1273,
+  "out_tok": 2956
+ }
+}

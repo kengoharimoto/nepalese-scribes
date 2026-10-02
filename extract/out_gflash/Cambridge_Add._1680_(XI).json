@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No colophon preserved. The text fragment consists of generic ritual instructions mentioning pupils (śiṣya).",
+ "_meta": {
+  "reel": "Cambridge Add. 1680 (XI)",
+  "model": "gemini-flash-latest",
+  "secs": 2.4,
+  "in_tok": 1017,
+  "out_tok": 348
+ }
+}

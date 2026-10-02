@@ -1,6 +1,7 @@
 """Pick colophons whose Flash reading needs a second (Opus) reading -> extract/review_list.jsonl
 Criteria: a person at low confidence; doubt expressed in notes; the catalogue's Scribe/King not found among
-the extracted persons; or the extracted CE date differing from the catalogue date by more than 2 years."""
+the extracted persons; or the extracted CE date differing from the catalogue date by more than 2 years.
+Usage: select_review.py [worklist.jsonl review_list.jsonl]   (default: worklist.jsonl -> review_list.jsonl)"""
 import json, os, re, sys, collections, difflib
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(HERE, '..'))
@@ -21,8 +22,10 @@ def match(catname, ks, role=''):
                for x in ks if x)
 
 
+WORK, OUT = (sys.argv[1], sys.argv[2]) if len(sys.argv) > 2 else \
+    (os.path.join(HERE, 'worklist.jsonl'), os.path.join(HERE, 'review_list.jsonl'))
 reasons, out = collections.Counter(), []
-for l in open(os.path.join(HERE, 'worklist.jsonl')):
+for l in open(WORK):
     r = json.loads(l)
     fid = r['reel'].replace(' ', '_').replace('/', '-')
     p = os.path.join(FIRST, fid + '.json')
@@ -35,11 +38,11 @@ for l in open(os.path.join(HERE, 'worklist.jsonl')):
     if DOUBT.search(o.get('notes', '')):
         why.append('doubt_in_notes')
     f = r['fields']
-    if any(not match(n, keys(o, {'scribe'})) for n in split_names(f['Scribe'])):
+    if any(not match(n, keys(o, {'scribe'})) for n in split_names(f.get('Scribe', ''))):
         why.append('scribe_mismatch')
-    if any(not match(n, keys(o, {'king', 'queen'}), 'king') for n in split_names(f['King'])):
+    if any(not match(n, keys(o, {'king', 'queen'}), 'king') for n in split_names(f.get('King', ''))):
         why.append('king_mismatch')
-    cd = parse_date(f['Date of Copying'], r['script'])
+    cd = {'ce': r['ce']} if r.get('ce') else None if 'ce' in r else parse_date(f['Date of Copying'], r['script'])
     m = re.match(r'\s*(\d{3,4})', o['date'].get('ce_approx') or '')
     if cd and m and abs(int(m.group(1)) - cd['ce']) > 2:
         why.append('date_mismatch')
@@ -47,7 +50,7 @@ for l in open(os.path.join(HERE, 'worklist.jsonl')):
         reasons.update(why)
         r['review_reasons'] = why
         out.append(r)
-with open(os.path.join(HERE, 'review_list.jsonl'), 'w') as o:
+with open(OUT, 'w') as o:
     o.writelines(json.dumps(r, ensure_ascii=False) + '\n' for r in out)
-n = len(os.listdir(FIRST))
+n = sum(1 for _ in open(WORK))
 print(f'{len(out)} of {n} selected for review', dict(reasons))

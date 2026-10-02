@@ -1,0 +1,89 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Year: Bendall reads N.S. 549 (A.D. 1429). The OCR '५४७' is most likely a misreading of ५४९, so year 549 and ce_approx 1429 are used, with the discrepancy noted.",
+   "King: the name was read as Jayayakṣamalladeva, with medium confidence. 'जयजन्मलदेवस्य' is corrupt, and in NS 549 Yakṣamalla was reigning, not Jyotirmalla, who died c. 1428. The title 'rājan' was dropped.",
+   "Scribe: the name was corrected to Jivayibhadra, following Bendall's English note. 'भट्टेण' is an OCR corruption of 'भद्रेण'.",
+   "Nakshatra: 'विश्राषणचत्रे' is normalised to Viśākhā (विशाखानक्षत्रे).",
+   "Affiliation: the vihāra name is flagged as uncertain in the notes.",
+   "Relation evidence shortened."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "अभयाकरगुप्त-",
+   "name": "Abhayākaragupta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāpaṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "महापन्दिता (*sic*) अभयाकरगुप्त-विरचिता",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "जयजन्मलदेवस्य",
+   "name": "Jayayakṣamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "राजं जयजन्मलदेवस्य विजयराज्ये",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "श्रीजिवयीभट्टेण",
+   "name": "Jivayibhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhikṣu"
+   ],
+   "affiliation": "Śrī-Harṣavarṇa-mahāvihāra (?)",
+   "residence": "Māṇigala (Patan)",
+   "evidence": "श्रीहर्षवर्णमहाविहारावस्थितमिचु श्रीजिवयीभट्टेण स्वहस्तेन लिखितं",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "राजं जयजन्मलदेवस्य विजयराज्ये लिखित"
+  }
+ ],
+ "date": {
+  "as_written": "सं ५४७ भाद्रपद शुक्लः पञ्चम्याया तित्यौ विश्राषणचत्रे शणिचर वासरे",
+  "era": "NS",
+  "year": "549",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "Viśākhā",
+  "ce_approx": "1429"
+ },
+ "place": {
+  "as_written": "श्री माणिकलकेः उत्रविहारे",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The Devanāgarī transcript reads सं ५४७, but Bendall's description gives N.S. 549 (A.D. 1429). The OCR probably confused ९ with ७, so 549 is followed here. The king's name 'जयजन्मलदेवस्य' is corrupt. It is read as Jayayakṣamalladeva because he reigned in NS 549, after Jayajyotirmalla, who died c. 1428. If the year were really 547, the king would be Jayajyotirmalla. Either way the identification is uncertain. Bendall names the scribe 'Jivayibhadra' in his English note, and the transcript's 'भट्टेण' is taken as a corruption of 'भद्रेण'. 'मिचु' = भिक्षु. 'विश्राषणचत्रे' = विशाखानक्षत्रे. 'माणिकलकेः' = Māṇigala, i.e. Patan. 'उत्रविहारे' and 'हर्षवर्णमहाविहार' are probably corrupt. They might stand for Rudravarṇa-mahāvihāra (Uku Bahal, Patan), but this is uncertain.",
+ "_meta": {
+  "reel": "Cambridge Add. 1703",
+  "model": "opus",
+  "cost_usd": 0.09756980000000001,
+  "secs": 25.4
+ }
+}

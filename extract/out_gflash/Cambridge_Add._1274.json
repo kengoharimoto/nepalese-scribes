@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribal colophon, date, or human names are preserved in this description; the manuscript only concludes with the work's closing formula.",
+ "_meta": {
+  "reel": "Cambridge Add. 1274",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 1799,
+  "out_tok": 444
+ }
+}

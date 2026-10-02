@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No colophon containing human names, dates, or places is preserved in this section (fragment VIII of Add. 1706).",
+ "_meta": {
+  "reel": "Cambridge Add. 1706 (VIII)",
+  "model": "gemini-flash-latest",
+  "secs": 2.8,
+  "in_tok": 1067,
+  "out_tok": 457
+ }
+}

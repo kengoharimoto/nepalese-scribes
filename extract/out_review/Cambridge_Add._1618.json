@@ -1,0 +1,35 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Month 'तपस्थ' read as Tapasya (= Phālguna) and normalized; pakṣa 'सित' normalized to śukla",
+   "Year field left as the corrupt chronogram string, with a tentative analysis added in notes; still not resolved",
+   "Notes expanded"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "वर्षषण्मुगलाच्छ्रन यद् गते मासे तपस्थसिते",
+  "era": "unspecified",
+  "year": "षण्मुगलाच्छ्रन (corrupt chronogram, unresolved)",
+  "month": "Tapasya (Phālguna)",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names no persons. The date line is a corrupt verse chronogram. It probably reads 'varṣe ṣaḍ-yugala-abhra-... gate māse tapasya-site'. Possible number words: ṣaṭ = 6, yugala = 2, abhra (for 'acchra') = 0. Read right to left, these give …026, and the last element ('nayad'?) cannot be identified, so the year and era are left unresolved. 'tapastha' is taken as Tapasya (Phālguna); 'site' = śukla pakṣa. Bendall gives no date conversion and calls the manuscript 'modern', so it is probably Nepāla Saṃvat, 19th century CE. This is not confirmed.",
+ "_meta": {
+  "reel": "Cambridge Add. 1618",
+  "model": "opus",
+  "cost_usd": 0.0583898,
+  "secs": 16.3
+ }
+}

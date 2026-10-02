@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीज्ञानश्रीकैः",
+   "name": "Jñānaśrīka",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "bhikṣu"
+   ],
+   "affiliation": "mahāyāna",
+   "residence": "",
+   "evidence": "देयधर्मो ऽयं प्रवरमहायानानुयायिनां । श्रीमत्शुश्रुतभिक्षुश्रीज्ञानश्रीकानां ... लिख्यापितेयं श्रीमत् भिक्षु श्रीज्ञानश्रीकैः",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "श्रीजयरामदत्तेन",
+   "name": "Jayarāmadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karaṇakāyastha"
+   ],
+   "affiliation": "मगधदेशीयकञ्चरग्रामसामनिक",
+   "residence": "केरकीग्राम",
+   "evidence": "लिखितेयं मगधदेशीयकञ्चरग्रामसामनिककरणकायस्थश्रीजयरामदत्तेनेति । केरकीग्रामावस्थितेन",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "लिख्यापितेयं श्रीमत् भिक्षु श्रीज्ञानश्रीकैः । लिखितेयं ... श्रीजयरामदत्तेनेति"
+  }
+ ],
+ "date": {
+  "as_written": "श्रीमद्विक्रमादित्यदेवपादानामतीतराज्ये सं° १५°३ भाद्रवदि १३ बुधे",
+  "era": "VS",
+  "year": "1503",
+  "month": "भाद्र",
+  "paksa": "वदि",
+  "tithi": "13",
+  "weekday": "बुधे",
+  "nakshatra_yoga": "",
+  "ce_approx": "1446"
+ },
+ "place": {
+  "as_written": "केरकीग्राम",
+  "normalized": ""
+ },
+ "purpose": "सकलसत्वराशैरनुत्तरासम्यक्संबोधिज्ञानफललाभायेति",
+ "notes": "The era is given in the 'atītarājye' formula ('in the expired reign of King Vikramāditya'), equating to Vikrama Samvat 1503 (1446 CE). Scribe Jayarāmadatta was originally a karaṇa-kāyastha from Kañcaragrāma in Magadha, residing in Kerakīgrāma when copying.",
+ "_meta": {
+  "reel": "Cambridge Add. 1364",
+  "model": "gemini-flash-latest",
+  "secs": 9.1,
+  "in_tok": 1504,
+  "out_tok": 2560
+ }
+}

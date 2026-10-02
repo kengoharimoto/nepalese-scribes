@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribal colophon or date preserved; the manuscript ends abruptly.",
+ "_meta": {
+  "reel": "Cambridge Add. 1585",
+  "model": "gemini-flash-latest",
+  "secs": 2.5,
+  "in_tok": 1150,
+  "out_tok": 412
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "अमृतानन्द",
+   "name": "Amṛtānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "अमृतानन्दविरचिता",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Composite manuscript containing four texts; only text I names an author (Amṛtānanda, the prominent 19th-century Newar Buddhist scholar). No scribe or date information is provided.",
+ "_meta": {
+  "reel": "Cambridge Add. 899",
+  "model": "gemini-flash-latest",
+  "secs": 3.0,
+  "in_tok": 1511,
+  "out_tok": 590
+ }
+}

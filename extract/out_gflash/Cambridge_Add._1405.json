@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीवज्राचार्यसूर्यदे[वेन]",
+   "name": "Sūryadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "लिखित श्रीवज्राचार्यसूर्यदे[वेन]",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "सं ७३४",
+  "era": "NS",
+  "year": "734",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1614"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bendall notes: 'The full name of the scribe and some 'scribe's verses' are added in a much smaller hand.' The dialogue interlocutors Indrapriṣṭha and Vasubandhu belong to the frame narrative and are excluded.",
+ "_meta": {
+  "reel": "Cambridge Add. 1405",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 1384,
+  "out_tok": 838
+ }
+}

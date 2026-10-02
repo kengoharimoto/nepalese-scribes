@@ -1,0 +1,139 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीभोजदेवे",
+   "name": "Bhojadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājñi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "राज्ञि श्रीभोजदेवे",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "श्रीरुद्रदेवे",
+   "name": "Rudradeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "श्रीरुद्रदेवे",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "श्रीलक्ष्मीकामदेवैर्",
+   "name": "Lakṣmīkāmadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "श्रीलक्ष्मीकामदेवैररिजग[-त]कुलिसैरर्द्धराज्ये ऽपभुक्ते",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "सुजतभद्रः",
+   "name": "Sujatabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "khudhīḥ"
+   ],
+   "affiliation": "Śrī-Lhaṃ-vihāra",
+   "residence": "",
+   "evidence": "सुजतभद्रः समलिखत्खुधीः",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "श्रीमानदेव",
+   "name": "Mānadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "श्रीमानदेव नृपतेर्विजये च राज्ये",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "मयात्र कर्तुणपूर्वण वज्रिण",
+   "name": "Vajrin",
+   "roles": [
+    "owner",
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "प्रज्ञापारमिता मयात्र कर्तुणपूर्वण वज्रिण सा अद्वाबन्धुरकन्धरेण शिरसा भक्त्या प्रणम्योद्धृता",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "राज्ञि श्रीभोजदेवे ... समलिखत्"
+  },
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "श्रीरुद्रदेवे ... समलिखत्"
+  },
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "श्रीलक्ष्मीकामदेवैररिजग[-त]कुलिसैरर्द्धराज्ये ऽपभुक्ते ... समलिखत्"
+  },
+  {
+   "from": "p6",
+   "type": "under_reign_of",
+   "to": "p5",
+   "evidence": "श्रीमानदेव नृपतेर्विजये च राज्ये ... मयात्र ... प्रणम्योद्धृता"
+  }
+ ],
+ "date": {
+  "as_written": "पञ्चचिंसाधिके ऽब्दे शततमप्रशते चैत्रमासे हिमाभा । विख्याते ऽस्मिन् दशम्यान्दनिंजरिपुगुरौ वासरे",
+  "era": "NS",
+  "year": "135",
+  "month": "Caitra",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1015"
+ },
+ "place": {
+  "as_written": "नेपालमण्डल ... श्रील्हंविहार",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The manuscript contains two dates and reigns: the main colophon dates to NS 135 (Caitra śukla 10, Thursday = danuja-ripu-gurau/guru-vāsara) during the joint/divided rule of Bhojadeva, Rudradeva, and Lakṣmīkāmadeva in Nepālamaṇḍala at Śrī-Lhaṃ-vihāra copied by Sujatabhadra (probably Sujātabhadra). A later addition in hooked Nepalese hand records a restoration/rescue of the manuscript in year 259 (śatasya dvitīye pañcāsatā parigate navamāñcitena = 259 NS) Kārtika śukla 5 under king Mānadeva (Mānadeva IV / Mānadeva of NS 259 / c. 1139 CE) by someone mentioning 'vajriṇa' (or a Vajrayāna practitioner).",
+ "_meta": {
+  "reel": "Cambridge Add. 1643",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 1616,
+  "out_tok": 1285
+ }
+}

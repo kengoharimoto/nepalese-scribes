@@ -6,7 +6,7 @@
 :root {
   --bg: #eef0ee; --panel: #f8f9f7; --ink: #1c2322; --muted: #5d6965; --rule: #cfd5d1;
   --scribe: #2f4f9a; --patron: #a8740a; --king: #9c3328; --other: #2e7a5c; --kin: #7d8582;
-  --era-ns: #5f8f84; --era-vs: #9a86a8; --era-ss: #c3a26a; --era-ls: #8aa3bd; --era-x: #b5bcb8;
+  --era-ns: #5f8f84; --era-vs: #9a86a8; --era-ss: #c3a26a; --era-ls: #8aa3bd; --era-as: #b4705a; --era-x: #b5bcb8;
   --hl: #e7d47a;
   --serif: "Gentium Book Plus", "Noto Serif", Georgia, serif;
   --sans: "Noto Sans", "Segoe UI", system-ui, sans-serif;
@@ -14,11 +14,11 @@
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
   --bg: #131716; --panel: #1b201f; --ink: #e2e6e3; --muted: #9aa5a0; --rule: #313936;
   --scribe: #8ea6ec; --patron: #e0b14d; --king: #e3877b; --other: #6cc49e; --kin: #9aa29f;
-  --era-ns: #6fa99b; --era-vs: #a995bb; --era-ss: #cfae74; --era-ls: #8fadcb; --era-x: #555d5a; --hl: #6b5d1c; color-scheme: dark } }
+  --era-ns: #6fa99b; --era-vs: #a995bb; --era-ss: #cfae74; --era-ls: #8fadcb; --era-as: #cc8c74; --era-x: #555d5a; --hl: #6b5d1c; color-scheme: dark } }
 :root[data-theme="dark"] {
   --bg: #131716; --panel: #1b201f; --ink: #e2e6e3; --muted: #9aa5a0; --rule: #313936;
   --scribe: #8ea6ec; --patron: #e0b14d; --king: #e3877b; --other: #6cc49e; --kin: #9aa29f;
-  --era-ns: #6fa99b; --era-vs: #a995bb; --era-ss: #cfae74; --era-ls: #8fadcb; --era-x: #555d5a; --hl: #6b5d1c; color-scheme: dark }
+  --era-ns: #6fa99b; --era-vs: #a995bb; --era-ss: #cfae74; --era-ls: #8fadcb; --era-as: #cc8c74; --era-x: #555d5a; --hl: #6b5d1c; color-scheme: dark }
 [hidden] { display: none !important; }
 body { background: var(--bg); color: var(--ink); font: 14px/1.5 var(--sans); }
 .wrap { padding-inline: 20px; padding-block: 24px 48px; max-width: 1500px; margin: 0 auto; display: grid; gap: 20px; }
@@ -90,7 +90,7 @@ footer { color: var(--muted); font-size: 12px; max-width: 95ch; display: grid; g
 
 <div class="wrap">
   <header>
-    <span class="eyebrow">NGMCP catalogue · prosopography</span>
+    <span class="eyebrow">NGMCP catalogue · Bendall’s Cambridge catalogue · prosopography</span>
     <h1>Nepalese Scribes and Patrons</h1>
     <p id="intro"></p>
   </header>
@@ -102,6 +102,7 @@ footer { color: var(--muted); font-size: 12px; max-width: 95ch; display: grid; g
       <span><i class="sw" style="background:var(--era-vs)"></i>Vikrama Saṃvat</span>
       <span><i class="sw" style="background:var(--era-ss)"></i>Śaka</span>
       <span><i class="sw" style="background:var(--era-ls)"></i>Lakṣmaṇasena</span>
+      <span><i class="sw" style="background:var(--era-as)"></i>Aṃśuvarman (Mānadeva) saṃvat</span>
       <span><i class="sw" style="background:var(--era-x)"></i>other or unnamed</span>
     </div>
     <div class="tl-scroll"><svg id="hist" height="110" role="img" aria-label="Histogram of dated manuscripts"></svg></div>
@@ -116,6 +117,7 @@ footer { color: var(--muted); font-size: 12px; max-width: 95ch; display: grid; g
     <label><input type="checkbox" id="r-r"><span class="role-dot" style="background:var(--kin)"></span>Kin</label>
     <label>Min. MSS <select id="min"><option value="1">1</option><option value="2" selected>2</option><option value="3">3</option><option value="5">5</option></select></label>
     <label>Place <select id="place"><option value="">any</option></select></label>
+    <label>Source <select id="src"><option value="">any</option><option value="NGMCP">NGMCP</option><option value="Bendall 1883">Bendall: Cambridge MSS</option></select></label>
     <label>Sort <select id="sort"><option value="from">earliest date</option><option value="n">number of MSS</option><option value="name">name</option></select></label>
   </div>
 
@@ -146,8 +148,8 @@ footer { color: var(--muted); font-size: 12px; max-width: 95ch; display: grid; g
   </div>
 
   <footer>
-    <p>Sources: NGMCP catalogue entries (Nepal-German Manuscript Cataloguing Project). Persons come from two places: the catalogue fields Scribe, Donor and King, and a reading of each quoted colophon by Gemini Flash, with a second reading by Claude Opus wherever the first was uncertain or disagreed with the catalogue. Each attestation is marked with its source: <span class="src">cat</span> catalogue field, <span class="src">flash</span> Gemini reading, <span class="src">opus</span> checked by Opus.</p>
-    <p>Dates follow the catalogue where it names the era; otherwise the era and year come from the colophon reading. Conversion: NS + 880, VS − 57, ŚS + 78, LS + 1119, approximate to a year. A “?” marks an inferred era.</p>
+    <p>Sources: NGMCP catalogue entries (Nepal-German Manuscript Cataloguing Project), and Cecil Bendall, <i>Catalogue of the Buddhist Sanskrit Manuscripts in the University Library, Cambridge</i> (1883), whose manuscripts appear as “Cambridge Add. …” (parts of composite numbers as “Add. 1691 (II)”). For Bendall’s manuscripts the date is recalculated from the colophon (era, year, month, pakṣa, tithi, weekday, nakṣatra) with the <i>Pañcāṅga</i> program of M. Yano and M. Fushimi, not taken from Bendall’s A.D. conversions, made when the Nepalese calendar was little understood: where the colophon states a weekday the day is verified (the standard reading first, then a current year, a Kārttikādi or pūrṇimānta month, a tithi current after sunrise), and the reading used is named with the date. Bendall’s Harṣa-era date (Add. 1049) is read in the Aṃśuvarman (“Mānadeva”) saṃvat, which K. P. Malla (<i>CNAS Journal</i> 32.1, 2005) showed to be the Kārttikādi Śaka with 500 dropped: CE = year + 576 from Kārttika to December, + 577 from January (it fits the only two Licchavi-period dates with a weekday, Aṃśuvarman’s repoussé at Cāṅgu, 4 Feb 608, and the Suśrutasaṃhitā, C 80/7, 13 Apr 878). Bendall’s A.D. is kept, and marked, only where the colophon gives no era. Persons in Bendall’s manuscripts come from a reading of his whole description, English notes and quoted colophons together. Persons come from two places: the NGMCP catalogue fields Scribe, Donor and King, and a reading of each quoted colophon by Gemini Flash, with a second reading by Claude Opus wherever the first was uncertain or disagreed with the catalogue. Each attestation is marked with its source: <span class="src">cat</span> catalogue field, <span class="src">flash</span> Gemini reading, <span class="src">opus</span> checked by Opus.</p>
+    <p>Dates are recalculated from the colophon with the <i>Pañcāṅga</i> program of M. Yano and M. Fushimi (Kathmandu sunrise): era and year from the catalogue and the colophon reading, month, pakṣa, tithi, weekday and nakṣatra from the colophon reading (or the catalogue’s date field). Where a weekday is stated the day is checked: “verified” means the standard reading fits (NS with amānta months; VS and Śaka with pūrṇimānta months for the dark fortnight); “verified with one departure” means a tithi current later that day or expired, or the other month system, fits. Tested against the same dates with deliberately wrong weekdays, about 1 in 20 “verified” and 1 in 5 “verified with one departure” dates would fit by chance. Readings that fit wrong dates about as often as right ones (a current year, year + 1, Kārttikādi) are only mentioned. Lakṣmaṇasena dates agree with their weekdays only at chance level under any fixed epoch, so they are converted (LS + 1119) but not verified. Without a month, the year is converted as before (NS + 880, VS − 57, ŚS + 78), ± 1. A paper manuscript dated before 1300 is treated as undated (the date is given as doubtful): such dates are abbreviated or misread years, or the exemplar’s date copied with its colophon. Two of the oldest dated manuscripts, the Skandapurāṇa (B 11/4) and the Suśrutasaṃhitā (C 80/7), have no catalogue entry and come from the NGMCP title list.</p>
     <p>Undated manuscripts get an estimated date (hollow dots and circles) from the people and places they name: a king attested in at least two dated manuscripts (the king's attested span ± 5 years), two persons named together in a dated manuscript (± 25), a person's dated span (± 20; graded by whether a title or residence also matches), or a specific locality whose dated manuscripts fall within 150 years. The evidence is listed with each estimate.</p>
     <p>Persons are grouped by normalized name (without śrī and without titles such as śarman, vajrācārya, upādhyāya). A name whose dated manuscripts are more than 60 years apart is split into separate persons, so homonyms are separated only by date.</p>
   </footer>
@@ -158,12 +160,12 @@ footer { color: var(--muted); font-size: 12px; max-width: 95ch; display: grid; g
 const DATA = /*DATA*/null;
 const ROLE = { s: 'Scribe', p: 'Patron / owner', k: 'King', o: 'Other role', r: 'Kin' };
 const RCOL = { s: 'var(--scribe)', p: 'var(--patron)', k: 'var(--king)', o: 'var(--other)', r: 'var(--kin)' };
-const ECOL = { NS: 'var(--era-ns)', VS: 'var(--era-vs)', 'ŚS': 'var(--era-ss)', LS: 'var(--era-ls)', other: 'var(--era-x)', '': 'var(--era-x)' };
+const ECOL = { NS: 'var(--era-ns)', VS: 'var(--era-vs)', 'ŚS': 'var(--era-ss)', LS: 'var(--era-ls)', AS: 'var(--era-as)', other: 'var(--era-x)', '': 'var(--era-x)' };
 const GROUP = { scribe: 's', commissioner: 'p', donor: 'p', owner: 'p', beneficiary: 'p', king: 'k', queen: 'k', relative_only: 'r' };
 const RELTXT = { son_of: 'son of', daughter_of: 'daughter of', grandson_of: 'grandson of', brother_of: 'brother of', wife_of: 'wife of', husband_of: 'husband of', pupil_of: 'pupil of', servant_of: 'servant of', wrote_for: 'wrote for', commissioned_from: 'commissioned from', under_reign_of: 'under the reign of', other: 'linked to' };
 const INV = { son_of: 'parent of', daughter_of: 'parent of', grandson_of: 'grandparent of', brother_of: 'brother of', wife_of: 'husband of', husband_of: 'wife of', pupil_of: 'teacher of', servant_of: 'master of', wrote_for: 'had a copy written by', commissioned_from: 'was commissioned by', under_reign_of: 'reigned over', other: 'linked to' };
 const SRC = { c: 'cat', f: 'flash', o: 'opus' };
-const MS = DATA.mss.map(a => ({ reel: a[0], title: a[1], raw: a[2], ce: a[3], era: a[4], place: a[5], script: a[6], subject: a[7], col: a[8], reading: a[9], dsrc: a[10], notes: a[11], review: a[12], purpose: a[13], est: a[14] }));
+const MS = DATA.mss.map(a => ({ reel: a[0], title: a[1], raw: a[2], ce: a[3], era: a[4], place: a[5], script: a[6], subject: a[7], col: a[8], reading: a[9], dsrc: a[10], notes: a[11], review: a[12], purpose: a[13], est: a[14], src: a[15], dnote: a[16] }));
 const PS = DATA.persons.map((a, i) => ({ id: i, role: a[0], name: a[1], ms: a[2], from: a[3], to: a[4], split: a[5], variants: a[6], titles: a[7],
   att: a[8].map(x => ({ ms: x[0], roles: x[1], titles: x[2], res: x[3], ev: x[4], conf: x[5], src: x[6] })), est: a[9] }));
 const span = p => p.from ? [p.from, p.to, false] : p.est ? [p.est[0], p.est[1], true] : null;
@@ -178,14 +180,14 @@ const SVGNS = 'http://www.w3.org/2000/svg';
 const $ = id => document.getElementById(id);
 
 const st = DATA.stats, cnt = r => PS.filter(p => p.role === r).length.toLocaleString();
-$('intro').textContent = `${st.files.toLocaleString()} catalogue entries for ${st.reels.toLocaleString()} microfilmed manuscripts; ${st.dated.toLocaleString()} carry a usable date. `
+$('intro').textContent = `${st.files.toLocaleString()} NGMCP catalogue entries for ${st.reels.toLocaleString()} microfilmed manuscripts, and ${st.bendall.toLocaleString()} Cambridge manuscripts described by Bendall (1883); ${st.dated.toLocaleString()} carry a usable date. `
   + `${st.flash.toLocaleString()} colophons were read for names (${st.opus.toLocaleString()} of them checked a second time). Of ${st.undated_named.toLocaleString()} undated manuscripts that name someone, ${st.estimated.toLocaleString()} have an estimated date. `
   + `The register holds ${cnt('s')} scribes, ${cnt('p')} patrons and owners, ${cnt('k')} kings, ${cnt('o')} teachers, ministers and others, and ${cnt('r')} relatives named only as kin. Select a row to see the manuscripts and the people named with them.`;
 
 const pc = {}; MS.forEach(m => m.place && (pc[m.place] = (pc[m.place] || 0) + 1));
 Object.entries(pc).filter(e => e[1] >= 3).sort((a, b) => b[1] - a[1]).forEach(([p, n]) => $('place').insertAdjacentHTML('beforeend', `<option value="${esc(p)}">${esc(p)} (${n})</option>`));
 
-const X0 = 1000, X1 = 1960;
+const X0 = 800, X1 = 1960;  // the oldest dated MS: Bendall's Add. 1049, AS 252 = 828
 function el(tag, attrs, parent) { const e = document.createElementNS(SVGNS, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); parent && parent.appendChild(e); return e; }
 
 (function hist() {
@@ -201,7 +203,7 @@ function el(tag, attrs, parent) { const e = document.createElementNS(SVGNS, tag)
   for (let v = step; v <= max; v += step) { const t = el('text', { x: L - 6, y: H - B - v / max * (H - T - B) + 4, 'text-anchor': 'end' }, ax); t.textContent = v; }
   Object.keys(by).forEach(d => {
     let y = H - B; d = +d;
-    ['NS', 'VS', 'ŚS', 'LS', 'other'].forEach(e => { const n = by[d][e]; if (!n) return; const h = n / max * (H - T - B);
+    ['AS', 'NS', 'VS', 'ŚS', 'LS', 'other'].forEach(e => { const n = by[d][e]; if (!n) return; const h = n / max * (H - T - B);
       const r = el('rect', { x: sx(d), y: y - h, width: Math.max(bw, 1), height: h, fill: ECOL[e] }, svg); y -= h;
       r.addEventListener('mousemove', ev => tip(ev, `${d}s: ${n} MSS dated in ${e === 'other' ? 'another or unnamed era' : e}`)); r.addEventListener('mouseleave', untip); });
   });
@@ -209,9 +211,9 @@ function el(tag, attrs, parent) { const e = document.createElementNS(SVGNS, tag)
 
 let shown = 300, selected = null;
 function filtered() {
-  const q = fold($('q').value.trim()), min = +$('min').value, place = $('place').value;
+  const q = fold($('q').value.trim()), min = +$('min').value, place = $('place').value, src = $('src').value;
   const roles = { s: $('r-s').checked, p: $('r-p').checked, k: $('r-k').checked, o: $('r-o').checked, r: $('r-r').checked };
-  let list = PS.filter(p => roles[p.role] && (q ? (p.key.includes(q) || p.ms.some(i => fold(MS[i].title).includes(q))) : (span(p) && p.ms.length >= min)) && (!place || p.places.includes(place)));
+  let list = PS.filter(p => roles[p.role] && (q ? (p.key.includes(q) || p.ms.some(i => fold(MS[i].title).includes(q))) : (span(p) && p.ms.length >= min)) && (!place || p.places.includes(place)) && (!src || p.ms.some(i => MS[i].src === src)));
   const s = $('sort').value;
   list.sort(s === 'n' ? (a, b) => b.ms.length - a.ms.length || (span(a)?.[0] ?? 9999) - (span(b)?.[0] ?? 9999)
     : s === 'name' ? (a, b) => fold(a.name).localeCompare(fold(b.name))
@@ -269,7 +271,8 @@ function select(id) {
   h += '<ol class="mslist">';
   ms.forEach(mi => { const m = MS[mi], a = p.att.find(x => x.ms === mi) || {};
     const co = m.persons.filter(x => x !== id).map(pbtn).join('');
-    const date = m.raw ? esc(m.raw) + (m.ce ? ` ≈ ${m.ce} CE` + (m.era.endsWith('?') ? ' (era inferred)' : '') : '') : (m.ce ? `≈ ${m.ce} CE` : 'undated');
+    const date = m.dnote ? (m.raw ? esc(m.raw) + ' ' : '') + esc(m.dnote)
+      : m.raw ? esc(m.raw) + (m.ce ? ` ≈ ${m.ce} CE` + (m.era.endsWith('?') ? ' (era inferred)' : '') : '') : (m.ce ? `≈ ${m.ce} CE` : 'undated');
     const estH = !m.ce && m.est ? `<details><summary class="est">Estimated ${m.est[0]}–${m.est[1]} CE (${m.est[2]} confidence)</summary><ul>${m.est[3].map(b => `<li>${esc(b)}</li>`).join('')}</ul></details>` : '';
     h += `<li><span class="ms-t">${esc(m.title || '(untitled)')}</span>
       <span class="ms-m num"><b>${esc(m.reel)}</b> · ${date}${m.place ? ' · ' + esc(m.place) : ''}</span>
@@ -415,7 +418,7 @@ addEventListener('resize', netSchedule);
 matchMedia('(prefers-color-scheme: dark)').addEventListener('change', netSchedule);
 new MutationObserver(netSchedule).observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
 
-['q', 'r-s', 'r-p', 'r-k', 'r-o', 'r-r', 'min', 'place', 'sort'].forEach(id => $(id).addEventListener('input', () => { shown = 300; draw(); }));
+['q', 'r-s', 'r-p', 'r-k', 'r-o', 'r-r', 'min', 'place', 'src', 'sort'].forEach(id => $(id).addEventListener('input', () => { shown = 300; draw(); }));
 draw();
 const first = PS.filter(p => p.role === 's' && p.from && (REL[p.id] || []).length).sort((a, b) => b.ms.length - a.ms.length)[0] || PS[0];
 select(first.id);

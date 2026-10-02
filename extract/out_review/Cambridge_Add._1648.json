@@ -1,0 +1,73 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Added Ānandajīvabhadra (later user who performed an ārādhana with the MS in NS 458 at the Ārinaka-vihāra, per Bendall's note on the cover) with role 'other'",
+   "Year marked as uncertain because it was retouched; ce_approx refined to 1215/1216 (Pauṣa NS 336 falls in Dec 1215–Jan 1216)",
+   "Era NS is inferred: the colophon has only 'saṃvat', but Arimalla's reign confirms it",
+   "Notes expanded: weekday misprint, 'vijarājye' (sic), second-hand restoration of the bracketed words, Bendall's suggestion that the figures may be 2s"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीमदरिमल्ल दे [वस्य",
+   "name": "Arimalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "राजाधिराजपरमेश्वर श्रीमदरिमल्ल दे [वस्य विजराज्ये",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "Ānandajīvabhadra",
+   "name": "Ānandajīvabhadra",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "Ārinaka-vihāra",
+   "residence": "",
+   "evidence": "an आराधनं ... N. s. 458 (A.D. 1338), by one Ānandajīvabhadra, at the Ārinaka-vihāra",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "other",
+   "to": "p1",
+   "evidence": "(none: p2 is a later user of the MS, NS 458; no relation to the king)"
+  }
+ ],
+ "date": {
+  "as_written": "सवत् [३३६] पौषकृष्णाष्टम्यां षट्हसतिवासरे वैशाखनक्षत्रे",
+  "era": "NS",
+  "year": "336 (retouched; uncertain)",
+  "month": "Pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "bṛhaspativāra (printed षट्हसति-)",
+  "nakshatra_yoga": "Viśākhā",
+  "ce_approx": "1216"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"Ārādhana (liturgical use) at a later date\"",
+ "notes": "The scribe is not named. Bendall says the year figures [336] have clearly been retouched, possibly by a later hand. He suggests they may originally have been 2s, and says that, according to Prof. Adams, the weekday and month do not tally for 336, so the restoration is probably wrong. NS 336 would fall within Arimalla's reign (c. NS 320–336), so ce_approx 1215/16 stands only provisionally. 'षट्हसतिवासरे' is presumably a printing or scribal error for बृहस्पतिवासरे (Thursday). 'विजराज्ये' (sic) stands for vijayarājye. The bracketed words 'वस्य विजराज्ये ... पुस्तकं' were rewritten by a second hand. Ānandajīvabhadra is known only from the cover note (ārādhana in NS 458 = 1338 CE at the Ārinaka-vihāra). He is a later user, not part of the original production. The relation entry for him is a placeholder and can be dropped. Kumudākara and Ratnākaragupta are authors of individual sādhanas named in the index and are not included as persons of this copy.",
+ "_meta": {
+  "reel": "Cambridge Add. 1648",
+  "model": "opus",
+  "cost_usd": 0.09316860000000002,
+  "secs": 19.4
+ }
+}

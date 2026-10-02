@@ -1,0 +1,70 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "राज्जी उद्वाकाया",
+   "name": "Udvākā",
+   "roles": [
+    "donor",
+    "queen"
+   ],
+   "titles": [
+    "paramopāsikā",
+    "rājñī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "देयधर्मोऽयम्वरमहायानयाचिन्याः परमोपासिकाराज्जी उद्वाकाया",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "श्रीमन् नयपालदेव",
+   "name": "Nayapāladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "paramasaugata",
+    "mahārājādhirāja",
+    "parameśvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "परेमसौगत- महाराजधिराजपरमेश्वरश्रीमन् नयपालदेव प्रवर्द्धमानविजयराज्ये",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "श्रीमन् नयपालदेव प्रवर्द्धमानविजयराज्ये सम्वत् १४ चैत्र दिने २७ लिखितेयं"
+  }
+ ],
+ "date": {
+  "as_written": "सम्वत् १४ चैत्र दिने २७",
+  "era": "regnal",
+  "year": "14",
+  "month": "Caitra",
+  "paksa": "",
+  "tithi": "27",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1054"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "yad atra puṇyaṃ tad bhavatvācāryopādhyāyamātāpitṛpūrvvaṅgamaṃ kṛtvā sakalasattvarāśer anuttarajñānāvāptaye",
+ "notes": "Dated in the 14th regnal year of King Nayapāla of the Pāla dynasty of Bengal/Bihar. Cecil Bendall dates this to circa 1054 CE. The donatrix is Queen (rājñī) Udvākā.",
+ "_meta": {
+  "reel": "Cambridge Add. 1688",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 1268,
+  "out_tok": 1262
+ }
+}

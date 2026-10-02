@@ -1,0 +1,90 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Lowered confidence for all four scribe names from medium to low, because the name string is visibly corrupt and the split into separate names is uncertain",
+   "p1: noted that Candrantadeva may be a corruption of Candrakāntadeva",
+   "p2/p3: noted that 'रत्नविलासदेवाकुलां' and 'विलासदेव' may overlap or be split differently (e.g. Ratnavilāsa + Devākula), so the list may hold fewer or other persons",
+   "Added a purpose: joint copying by the named persons with mutual consent",
+   "Expanded notes on the date: Bendall gives the year only, in his English description"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्री चन्द्रन्तदेवः",
+   "name": "Candrantadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "श्री चन्द्रन्तदेवः ... एते सहानुमतेन स्वस्वहस्तौ लिखिता",
+   "confidence": "low"
+  },
+  {
+   "pid": "p2",
+   "as_written": "रत्नविलासदेवाकुलां",
+   "name": "Ratnavilāsadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "रत्नविलासदेवाकुलां ... एते सहानुमतेन स्वस्वहस्तौ लिखिता",
+   "confidence": "low"
+  },
+  {
+   "pid": "p3",
+   "as_written": "विलासदेव",
+   "name": "Vilāsadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "विलासदेव-रत्नचूडामणिस्तथा । एते सहानुमतेन स्वस्वहस्तौ लिखिता",
+   "confidence": "low"
+  },
+  {
+   "pid": "p4",
+   "as_written": "रत्नचूडामणिस्तथा",
+   "name": "Ratnacūḍāmaṇi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "रत्नचूडामणिस्तथा । एते सहानुमतेन स्वस्वहस्तौ लिखिता",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "dated in words N. S. 983 (A.D. 1863)",
+  "era": "NS",
+  "year": "983",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1863"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "copied jointly by the named persons, each in his own hand, by mutual agreement (sahānumatena svasvahastau likhitā)",
+ "notes": "Bendall leaves out the Sanskrit date ('Then follows the date (see above)'). He gives only the year, in his description: N.S. 983 in words = A.D. 1863 (983+880). Month, tithi and weekday are not available. The name string 'श्री चन्द्रन्तदेवः रत्नविलासदेवाकुलां विलासदेव-रत्नचूडामणिस्तथा' is corrupt. Possible readings: Candrantadeva may stand for Candrakāntadeva. 'रत्नविलासदेवाकुलां' might be Ratnavilāsadeva or Ratnavilāsa + Devākula. Vilāsadeva-Ratnacūḍāmaṇi might be two persons or one compound. The number of scribes, between three and five, is uncertain. The -deva endings are personal names, not regnal names. No king is named. This is Part 3 of a multi-volume Śatasāhasrikā set (see Add. 1627); the other parts may give the same scribes.",
+ "_meta": {
+  "reel": "Cambridge Add. 1631",
+  "model": "opus",
+  "cost_usd": 0.0956766,
+  "secs": 22.3
+ }
+}

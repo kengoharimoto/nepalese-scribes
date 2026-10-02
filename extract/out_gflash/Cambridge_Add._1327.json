@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribal colophon, date, or human names are preserved; the manuscript ends with only the final chapter subscription.",
+ "_meta": {
+  "reel": "Cambridge Add. 1327",
+  "model": "gemini-flash-latest",
+  "secs": 2.2,
+  "in_tok": 1065,
+  "out_tok": 422
+ }
+}

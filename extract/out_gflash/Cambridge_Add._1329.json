@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "Dr D. Wright",
+   "name": "D. Wright",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "Dr"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "copy made for Dr D. Wright",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "copy made for Dr D. Wright",
+ "notes": "Modern transcript made for Dr Daniel Wright, copied from the same exemplar as Add. 901. No formal Sanskrit colophon or date recorded in Bendall's entry.",
+ "_meta": {
+  "reel": "Cambridge Add. 1329",
+  "model": "gemini-flash-latest",
+  "secs": 2.9,
+  "in_tok": 1114,
+  "out_tok": 533
+ }
+}

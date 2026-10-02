@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "जागन्दलपण्डितविभूतिचन्द्रस्य",
+   "name": "Vibhūticandra",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "Jāgandala",
+   "residence": "",
+   "evidence": "देयधर्मोऽयं प्रवरमहायानयायिनो जागन्दलपण्डितविभूतिचन्द्रस्य",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "श्रीशुन्यश्रीमित्रस्य",
+   "name": "Śūnyaśrīmitra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "brahmacaryabhikṣu"
+   ],
+   "affiliation": "Yaṃpi-mahāvihāra",
+   "residence": "Lalitāpura",
+   "evidence": "ललितापुरमहानगरे यंपिमहाविहारे ब्रह्मचर्यभिन्नश्रीशुन्यश्रीमित्रस्य वंश",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "श्रीनिरमुनिकस्य",
+   "name": "Niramunika",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "brahmacaryabhikṣu"
+   ],
+   "affiliation": "Yaṃpi-mahāvihāra",
+   "residence": "Lalitāpura",
+   "evidence": "ब्रह्मचर्यभिन्नश्रीनिरमुनिकस्य पोस्तकं",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "other",
+   "to": "p2",
+   "evidence": "श्रीशुन्यश्रीमित्रस्य वंश ब्रह्मचर्यभिन्नश्रीनिरमुनिकस्य"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "ललितापुरमहानगरे यंपिमहाविहारे",
+  "normalized": "Patan"
+ },
+ "purpose": "देयधर्म",
+ "notes": "The original donor was the famous scholar Vibhūticandra of Jagaddala monastery in Bengal. Later ownership note in a modern Nepalese hand records the book as belonging to Niramunika (?) of the lineage of Śūnyaśrīmitra at the Yaṃpi Mahāvihāra in Lalitpur (Patan). The title 'brahmacaryabhinna' is an error for 'brahmacaryabhikṣu'.",
+ "_meta": {
+  "reel": "Cambridge Add. 1478",
+  "model": "gemini-flash-latest",
+  "secs": 9.0,
+  "in_tok": 3785,
+  "out_tok": 2266
+ }
+}

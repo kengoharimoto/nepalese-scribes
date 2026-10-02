@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "Sundara",
+   "name": "Sundara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gives the scribe's name, Sundara",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "N. s. 916",
+  "era": "NS",
+  "year": "916",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1796"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bendall does not transcribe the full colophon text, but notes that it provides the date N.S. 916 (A.D. 1796) and names the scribe Sundara.",
+ "_meta": {
+  "reel": "Cambridge Add. 915",
+  "model": "gemini-flash-latest",
+  "secs": 3.2,
+  "in_tok": 1674,
+  "out_tok": 695
+ }
+}

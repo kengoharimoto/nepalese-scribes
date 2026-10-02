@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "Karnajoti",
+   "name": "Karṇajyoti",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Kathmandu",
+   "evidence": "by Karnajoti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "Raṇa-Bahādura",
+   "name": "Raṇabahādura",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "in the reign of Raṇa-Bahādura",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "in the reign of Raṇa-Bahādura (Wright, pp. 282, sqq.), at Kathmandu, by Karnajoti"
+  }
+ ],
+ "date": {
+  "as_written": "N. s. 915",
+  "era": "NS",
+  "year": "915",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1795"
+ },
+ "place": {
+  "as_written": "Kathmandu",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "Bendall summarizes the postscript rather than providing a full transcription; he mentions that names of the scribe's relatives are also given in the MS.",
+ "_meta": {
+  "reel": "Cambridge Add. 1481",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 1134,
+  "out_tok": 1106
+ }
+}

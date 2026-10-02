@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "वज्रश्री ...प...कस्य",
+   "name": "Vajraśrī...p...ka",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "वज्रश्री ...प...कस्य हस्ताकरणस्य लिखितं",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "N. S. 962",
+  "era": "NS",
+  "year": "962",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1842"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bendall notes: 'after which date ut supra' referring to 'dated N. S. 962 (A.D. 1842)'. The scribe's name is lacunose ('वज्रश्री ...प...कस्य'). Āryāvalokiteśvara is a deity and excluded.",
+ "_meta": {
+  "reel": "Cambridge Add. 1470",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 1120,
+  "out_tok": 1257
+ }
+}

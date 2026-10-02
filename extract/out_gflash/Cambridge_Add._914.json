@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "Dr D. Wright",
+   "name": "D. Wright",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "Dr"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "This copy was made by a paṇḍit for Dr D. Wright",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "N. s. 879",
+  "era": "NS",
+  "year": "879",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1759"
+ },
+ "place": {
+  "as_written": "Sambhunāth",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "copy of an inscription",
+ "notes": "Modern roll copy made for Dr Daniel Wright by an unnamed paṇḍit of an inscription at Svayambhūnātha dated NS 879 (1759 CE).",
+ "_meta": {
+  "reel": "Cambridge Add. 914",
+  "model": "gemini-flash-latest",
+  "secs": 7.7,
+  "in_tok": 973,
+  "out_tok": 2030
+ }
+}

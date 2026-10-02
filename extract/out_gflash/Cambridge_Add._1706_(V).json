@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribal colophon, date, or names of persons preserved in this fragmentary manuscript.",
+ "_meta": {
+  "reel": "Cambridge Add. 1706 (V)",
+  "model": "gemini-flash-latest",
+  "secs": 1.8,
+  "in_tok": 1183,
+  "out_tok": 370
+ }
+}

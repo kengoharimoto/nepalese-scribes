@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "Dr D. Wright",
+   "name": "D. Wright",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "Dr"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "Copied to order for the University Library, through Dr D. Wright",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "1873",
+  "era": "none",
+  "year": "1873",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1873"
+ },
+ "place": {
+  "as_written": "Kāṭmaṇḍū",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "Copied to order for the University Library",
+ "notes": "No Sanskrit colophon transcribed by Bendall. The manuscript was copied in 1873 in Kathmandu on commission for the Cambridge University Library through Dr Daniel Wright.",
+ "_meta": {
+  "reel": "Cambridge Add. 865",
+  "model": "gemini-flash-latest",
+  "secs": 9.0,
+  "in_tok": 1091,
+  "out_tok": 1683
+ }
+}

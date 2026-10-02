@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "जयमुनि",
+   "name": "Jayamuni",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "mahābuddhōpādhika"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "श्रीमहावुद्धोपाधिक श्री जयमुनि लिखितं",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "N. s. 781",
+  "era": "NS",
+  "year": "781",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1661"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bendall condenses the exact date text in his transcript of the colophon as 'date (see above)', which corresponds to his description: 'N. s. 781 (A.D. 1661)'.",
+ "_meta": {
+  "reel": "Cambridge Add. 1586",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 1245,
+  "out_tok": 810
+ }
+}

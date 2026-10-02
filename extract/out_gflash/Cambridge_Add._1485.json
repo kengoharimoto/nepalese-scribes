@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीरत्नवज्रिण",
+   "name": "Ratnavajrin",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "लिखितं... श्रीरत्नवज्रिण (?)",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "संवत् ७८७ (month, nakshatra, day etc.)",
+  "era": "NS",
+  "year": "787",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1667"
+ },
+ "place": {
+  "as_written": "काष्टमण्डपनगरे",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "Bendall's description heading states 'N. S. 797 (A.D. 1677)', but his transcription of the colophon prints 'संवत् ७८७' (NS 787 = 1667 CE). The reading of the scribe's name 'श्रीरत्नवज्रिण (?)' is marked with a question mark by Bendall.",
+ "_meta": {
+  "reel": "Cambridge Add. 1485",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 1535,
+  "out_tok": 1048
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No manuscript colophon is quoted for Add. 1952 (only the incipit is given, followed by an unrelated supplementary note to Add. 1586).",
+ "_meta": {
+  "reel": "Cambridge Add. 1952",
+  "model": "gemini-flash-latest",
+  "secs": 3.3,
+  "in_tok": 2159,
+  "out_tok": 704
+ }
+}

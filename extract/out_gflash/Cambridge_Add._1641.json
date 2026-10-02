@@ -1,0 +1,116 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीमत्प्रतापचक्रवर्ति श्रीजगदेकमर्क्ष",
+   "name": "Pratāpamalla",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "cakravartin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "श्रीमत्प्रतापचक्रवर्ति श्रीजगदेकमर्क्षविरचिते",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "Pūrṇacandra",
+   "name": "Pūrṇacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Dharmakīrti-vihāra",
+   "residence": "",
+   "evidence": "the scribe's name as Pūrṇacandra, resident at the Dharmakīrti-vihāra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "Jayakalyāṇa",
+   "name": "Jayakalyāṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "father of 3 sons, Jayakalyāṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "Jayakuṭala",
+   "name": "Jayakuṭala",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "Jayakuṭala",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "Jayadh[ra]rama",
+   "name": "Jayadharma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "Jayadh[ra]rama",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "father of 3 sons, Jayakalyāṇa"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "father of 3 sons, Jayakalyāṇa, Jayakuṭala"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "father of 3 sons, Jayakalyāṇa, Jayakuṭala, and Jayadh[ra]rama"
+  }
+ ],
+ "date": {
+  "as_written": "संवत ७८३",
+  "era": "NS",
+  "year": "783",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1663"
+ },
+ "place": {
+  "as_written": "Dharmakīrti-vihāra",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bendall summarizes the vernacular colophon subscription rather than quoting it verbatim. The author Pratāpacakravartin is King Pratāpamalla of Kathmandu.",
+ "_meta": {
+  "reel": "Cambridge Add. 1641",
+  "model": "gemini-flash-latest",
+  "secs": 7.2,
+  "in_tok": 1545,
+  "out_tok": 2051
+ }
+}

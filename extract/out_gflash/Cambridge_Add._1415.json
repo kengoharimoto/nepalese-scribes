@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "आर्थशूरपादानां",
+   "name": "Āryaśūra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "pāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "कतिरियमार्थशूरपादानां",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "सप्तैषुमुनिवत्सरिति",
+  "era": "NS",
+  "year": "757",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1637"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram: sapta (7) + iṣu (5) + muni (7) = NS 757 (1637 CE). Bendall notes part of the concluding colophon was added vertically in the margin in a somewhat more recent hand.",
+ "_meta": {
+  "reel": "Cambridge Add. 1415",
+  "model": "gemini-flash-latest",
+  "secs": 2.6,
+  "in_tok": 2180,
+  "out_tok": 577
+ }
+}

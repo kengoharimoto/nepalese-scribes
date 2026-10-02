@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: name read as Kulavajra (कुलवजनं = Kulavaja[ra] + Newari ergative -na); role changed from scribe to commissioner, because the ergative agent goes with लिखापित 'caused to be written'; the initial लिखितं does not name a separate scribe",
+   "p1: Kāṭha Bahāl kept as affiliation and Yadi tol as residence, transliterated to IAST",
+   "p2 'Ādinakula' removed: दिनकुल गुरुभं most likely continues the Newari sentence (dina 'day' … guru, possibly the weekday Thursday, guruvāra), not a personal name",
+   "wrote_for relation removed (no separate scribe or commissioner pair can be established)",
+   "place transliterated to IAST"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीवज्राचार्य कुलवजनं",
+   "name": "Kulavajra",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Kāṭha Bahāl (काथ बहाल)",
+   "residence": "Yadi tol (यदिति तोल)",
+   "evidence": "काथ बहालया श्रीवज्राचार्य कुलवजनं लिखापित",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "यदिति तोल काथ बहालया",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon is in corrupt Newari: 'likhitaṃ yaditi tola kātha bahālayā śrīvajrācārya kulavaja-naṃ likhāpita dina kula gurubhaṃ'. I take कुलवजनं as Kulavajra plus the ergative -na, the agent of likhāpita ('caused to be written'). That makes him the commissioner. It is also possible that he copied the text himself, since the colophon begins with likhitaṃ. 'dina kula gurubhaṃ' is unclear. It may say the day of writing, perhaps a Thursday (guru), with the weekday garbled. It may also contain 'kulaguru' (family priest). I do not record it as a person. 'Kātha Bahāl' could be Kāṭhe Bahāl and 'Yadi tol' could be Yaṭkhā tol, both in Kathmandu, but neither identification is certain. The number ३३५ at the end is probably a verse or grantha count, not a date. There is no date: Bendall classes the manuscript only as 'modern'.",
+ "_meta": {
+  "reel": "Cambridge Add. 1353",
+  "model": "opus",
+  "cost_usd": 0.442336,
+  "secs": 21.5
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No colophon containing historical persons, date, or place is preserved; Bendall notes hands mostly of the 18th century.",
+ "_meta": {
+  "reel": "Cambridge Add. 1343",
+  "model": "gemini-flash-latest",
+  "secs": 2.2,
+  "in_tok": 1059,
+  "out_tok": 342
+ }
+}

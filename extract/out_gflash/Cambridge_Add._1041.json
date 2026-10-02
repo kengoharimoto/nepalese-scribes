@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "आचार्ययशोमित्र",
+   "name": "Yaśomitra",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "आचार्ययशोमित्रकृतायां स्फुटायामभिधर्मकीशव्याख्यायाम्",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "Siddhasena",
+   "name": "Siddhasena",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "The MS. was copied by Paṇḍita Siddhasena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "शशिमुनिरसाब्दे",
+  "era": "NS",
+  "year": "671",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1551"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bendall notes that the MS was copied by Paṇḍita Siddhasena in the chronogram year 'शशिमुनिरसाब्दे' (671 NS = 1551 CE), but observes that the date line has been retouched and the handwriting resembles another manuscript dated 1661 CE.",
+ "_meta": {
+  "reel": "Cambridge Add. 1041",
+  "model": "gemini-flash-latest",
+  "secs": 6.2,
+  "in_tok": 1760,
+  "out_tok": 1491
+ }
+}

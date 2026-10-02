@@ -1,0 +1,67 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "tithi: '5' removed; 'शुक्लपञ्चे' is most likely an OCR or reading slip for 'शुक्लपक्षे' (the same क्ष→च confusion as in 'नचचरस्य' for 'नक्षत्रस्य'), so no tithi is stated",
+   "place: as_written cut down to the vihāra phrase; Nepal is noted separately",
+   "purpose: marked as coming from the later added line about consecration and donation, not from the original copying",
+   "notes expanded: the era is not named in the colophon; dvirājya; unclear passages"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीनिर्भयस्य",
+   "name": "Nirbhaya",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "श्रीनिर्भयस्य नृपतेः",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "श्री रुद्रदेव",
+   "name": "Rudradeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "vasudhādhipati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "श्री रुद्रदेव वसुधाधिपतेश्च",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "अब्दे शते साष्टकविंशयुते मासे शुभे फाल्गुणाशुक्लपञ्चे सोमवारे नचचरस्योत्तरभद्रसंज्ञे",
+  "era": "NS",
+  "year": "128",
+  "month": "Phālguna",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "Somavāra (Monday)",
+  "nakshatra_yoga": "Uttarabhādrapadā",
+  "ce_approx": "1008"
+ },
+ "place": {
+  "as_written": "श्रील्लुम्बिहार (?) इति कीर्तितकीर्तिपंज । नेपाल...",
+  "normalized": ""
+ },
+ "purpose": "sattvahetoḥ (for the benefit of beings): this is in the later line about consecration and donation, not in the copying colophon",
+ "notes": "The year is written in words: 'śate sāṣṭakaviṃśayute' = 100 + 28 = 128. The colophon does not name the era. Bendall takes it as Nepal Saṃvat, which gives 128 + 880 = A.D. 1008, matching his conversion. The text says 'dvirājyaka': a joint rule of Nirbhaya and Rudradeva. 'शुक्लपञ्चे' is probably 'शुक्लपक्षे' (compare 'नचचरस्य' = नक्षत्रस्य), so the day of the month is not given. The phrase 'राज्ये परि... कवितवौरि संघे' is corrupt. The vihāra name 'श्रील्लुम्बिहार' is uncertain: it is marked (?) by Bendall and could not be identified. No scribe or donor is named in the part that can be read. The later line in fresher ink ('प्रणम्य प्रतिष्ठापनञ्चैवमस्या ... कारयन् सत्त्वहेतोः') records a later consecration of the book with gifts and feasts for monks. It mentions a 'वराचार्य' but gives no personal name.",
+ "_meta": {
+  "reel": "Cambridge Add. 866",
+  "model": "opus",
+  "cost_usd": 0.12547999999999998,
+  "secs": 21.2
+ }
+}

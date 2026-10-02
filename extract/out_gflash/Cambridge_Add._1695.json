@@ -1,0 +1,49 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीमहाराजाधिराजश्रीरजगज्योतिर्मल्ल",
+   "name": "Jagajjyotirmalla",
+   "roles": [
+    "author",
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "deva",
+    "prabhu",
+    "ṭhākura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "श्रीमहाराजाधिराजश्रीरजगज्योतिर्मल्लकंतं [...] श्रीश्रीजगज्योतिर्मल्लदेवप्रभुठाकुरसन",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "सप्तत् ७४६ ज्येष्ठकृष्ण अमावास्या सूर्ययासस",
+  "era": "NS",
+  "year": "749",
+  "month": "Jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "amāvāsyā",
+  "weekday": "",
+  "nakshatra_yoga": "sūryagrāsa",
+  "ce_approx": "1629"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bendall reads the year as N.S. 749 (confirmed by calculation of a solar eclipse on 21 June 1629 A.D.), though the Devanāgarī print shows ७४६. The colophon mentions the performance/creation of the play on the occasion of a tulādāna by King Jagajjyotirmalla.",
+ "_meta": {
+  "reel": "Cambridge Add. 1695",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 1410,
+  "out_tok": 1421
+ }
+}

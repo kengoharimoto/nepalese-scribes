@@ -1,0 +1,33 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "The first reading's year, era and date are kept. The notes now say that the Devanāgarī ७४५ is probably an OCR misreading of ९४५ (९/७ confusion), or that the digit itself was retouched. Read literally, NS 745 would be about 1625 CE."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "संवत् ७४५",
+  "era": "NS",
+  "year": "945",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1825"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bendall's description gives the date as N.S. 945 (A.D. 1825) and remarks: 'The date is retouched, but it cannot be far wrong.' The Devanāgarī in the text as it stands reads संवत् ७४५. This is most likely an OCR confusion of ९ and ७, or it reflects the retouched digit. Read literally, NS 745 would be about 1625 CE. Bendall's 945/1825 is kept. The era is not written in the colophon; NS is Bendall's interpretation. No persons, place or purpose are named.",
+ "_meta": {
+  "reel": "Cambridge Add. 1617",
+  "model": "opus",
+  "cost_usd": 0.06760859999999999,
+  "secs": 9.6
+ }
+}

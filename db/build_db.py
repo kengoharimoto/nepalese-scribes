@@ -6,6 +6,7 @@ Sources
   /mnt2/kengo/E-texts/NGMCP/*.html        descriptive catalogue entries (parse_html.py, normalize.py)
   data/ngmcpdb_production.sql.bz2         title list database (load_sql.py), tables kept as tl_*
   data/persons.json, data/relations.json  the person register built by build_persons.py
+  data/bendall1883_ocr.md                 Bendall's Cambridge catalogue (1883), OCR (bendall.py)
 
 See db/README.md for the tables.
 """
@@ -13,7 +14,7 @@ import collections, difflib, json, os, re, sqlite3, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
-import load_sql, parse_html as P, normalize as N  # noqa: E402
+import bendall, load_sql, parse_html as P, normalize as N  # noqa: E402
 
 OUT = os.path.join(HERE, 'ngmcp.sqlite')
 DATA = os.path.join(HERE, '..', 'data')
@@ -88,6 +89,30 @@ CREATE TABLE filming_group (       -- all positions of one manuscript filmed mor
   group_id INTEGER, manuscript_id INTEGER, label TEXT, date_of_filming TEXT, seq INTEGER, order_basis TEXT,
   suspect INTEGER,   -- the group puts two positions of one reel together: some link is probably wrong
   PRIMARY KEY (group_id, manuscript_id));
+
+CREATE TABLE bendall_entry (       -- Bendall 1883, Cambridge University Library Add. MSS
+  add_no TEXT PRIMARY KEY, add_num INTEGER, pdf_page INTEGER, title TEXT, description TEXT,
+  material TEXT, leaves INTEGER, lines_min INTEGER, lines_max INTEGER, width_in REAL, height_in REAL,
+  width_cm REAL, height_cm REAL, hand TEXT, date_text TEXT, era TEXT, era_year INTEGER, year_ce INTEGER,
+  century INTEGER, n_parts INTEGER, pages_out_of_order INTEGER, text TEXT);
+CREATE TABLE bendall_part (        -- the numbered works of a composite entry (Add. 1680 I-XXX ...)
+  add_no TEXT, part INTEGER, part_to INTEGER, title TEXT, description TEXT, material TEXT, leaves INTEGER,
+  lines_min INTEGER, lines_max INTEGER, width_in REAL, height_in REAL, hand TEXT, date_text TEXT, era TEXT,
+  era_year INTEGER, year_ce INTEGER, century INTEGER, text TEXT, PRIMARY KEY (add_no, part));
+CREATE TABLE bendall_excerpt (add_no TEXT, part INTEGER, seq INTEGER, kind TEXT, label TEXT, text TEXT);
+CREATE TABLE bendall_date (        -- dates recalculated from the colophons (calendar/bendall_dates.py)
+  label TEXT PRIMARY KEY, add_no TEXT, part INTEGER, status TEXT, rule TEXT, date TEXT, year_ce INTEGER,
+  era TEXT, era_year INTEGER, month TEXT, paksa TEXT, tithi INTEGER, weekday TEXT, naksatra TEXT,
+  computed_weekday TEXT, computed_tithi INTEGER, computed_naksatra TEXT, saka INTEGER, ambiguous INTEGER,
+  bendall_ce INTEGER, bendall_date TEXT, basis TEXT, year_conflict TEXT, emended TEXT,  -- emendations, era reattributions
+  as_written TEXT);
+CREATE TABLE ngmcp_date (          -- NGMCP dates recalculated with the pañcāṅga (calendar/ngmcp_dates.py)
+  label TEXT PRIMARY KEY, manuscript_id INTEGER, status TEXT, rule TEXT, date TEXT, year_ce INTEGER,
+  era TEXT, era_year INTEGER, month TEXT, paksa TEXT, tithi INTEGER, weekday TEXT, naksatra TEXT,
+  computed_weekday TEXT, computed_tithi INTEGER, computed_naksatra TEXT, saka INTEGER, ambiguous INTEGER,
+  flat_ce INTEGER, flat_era TEXT, basis TEXT, possible TEXT, alternatives TEXT, as_written TEXT);
+CREATE TABLE bendall_ngmcp_title ( -- NGMCP texts with the same title (the same work, not the same MS)
+  add_no TEXT, part INTEGER, bendall_title TEXT, title_id INTEGER, ngmcp_title TEXT);
 
 CREATE TABLE person (id INTEGER PRIMARY KEY, kind TEXT, key TEXT, name TEXT, role TEXT, variants TEXT,
                      titles TEXT, residence TEXT, first_ce INTEGER, last_ce INTEGER);
@@ -251,9 +276,9 @@ def build():
     titles = []
     for row in con.execute('''select id, title, material, state, script, language, microfilm_series, microfilm_reel,
             microfilm_entry, folio_count, size_x, size_y, _calendar, year, common_era, date_uncertain, acc1, acc2,
-            mtm, identical_with, catalogued, remarks, material_uncertain, era_conjectured from tl_titles'''):
+            mtm, identical_with, catalogued, remarks, material_uncertain, era_conjectured, calendar_id from tl_titles'''):
         (tid, title, mat, state, script, lang, se, re_, en, fc, sx, sy, calname, year, ce, du, a1, a2, mtm, ident,
-         catd, rem, mu, conj) = row
+         catd, rem, mu, conj, cal_id) = row
         t = {'id': tid, 'title': title, 'manuscript_id': ms_id(se, re_, en) if se and se not in '0?' else None}
         m = (mat or '').strip()
         t['material_code'] = 'paper' if not m else m.rstrip('?') if m.rstrip('?') in N.MATERIALS or m.rstrip('?') in 'LXCS' else m
@@ -271,6 +296,10 @@ def build():
         t['era_year'] = year
         t['year_ce'] = ce or (year + cal[era] if year and cal.get(era) is not None else None)
         t['date_uncertain'] = int(bool(du) or bool(conj) or (calname or '').upper().endswith(('X', 'Y')))
+        if cal_id == 7 or era == 'MS':  # 'Mānadeva saṃvat' = Aṃśuvarman's Kārttikādi Śaka − 500 (calendar/verify.py)
+            t['era'] = 'AS'
+            t['year_ce'] = year + 577 if year and year <= 320 else None  # NS 1 = AS 304; D 41/7 'MS 901' is not AS
+            t['date_uncertain'] = 1
         t.update(acc1=a1, acc2=a2, mtm=mtm or None, identical_with=ident, catalogued=catd, remarks=rem)
         titles.append(t)
     tcols = [c[1] for c in con.execute('PRAGMA table_info(title)')]
@@ -374,6 +403,73 @@ def build():
         if sc < 0.5:
             disc.append((eid, tid, 'title', e['title'], t['title']))
     con.executemany('INSERT INTO discrepancy VALUES (?,?,?,?,?)', disc)
+
+    # ------------------------------------------------------------ Bendall's Cambridge catalogue (1883)
+    if os.path.exists(bendall.SRC):
+        bes = bendall.parse()
+        cm = lambda v: round(v * 2.54, 1) if v else None
+        con.executemany('INSERT INTO bendall_entry VALUES (' + ','.join('?' * 22) + ')', [
+            (e['add_no'], e['add_num'], e['pdf_page'], e['title'], e['description'], e['material'], e['leaves'],
+             e['lines_min'], e['lines_max'], e['width_in'], e['height_in'], cm(e['width_in']), cm(e['height_in']),
+             e['hand'], e['date_text'], e['era'], e['era_year'], e['year_ce'], e['century'], len(e['parts']),
+             e['pages_out_of_order'], e['text']) for e in bes])
+        con.executemany('INSERT INTO bendall_part VALUES (' + ','.join('?' * 18) + ')', [
+            (e['add_no'], p['part'], p['part_to'], p['title'], p['description'], p['material'], p['leaves'],
+             p['lines_min'], p['lines_max'], p['width_in'], p['height_in'], p['hand'], p['date_text'], p['era'],
+             p['era_year'], p['year_ce'], p['century'], p['text']) for e in bes for p in e['parts']])
+        con.executemany('INSERT INTO bendall_excerpt VALUES (?,?,?,?,?,?)', [
+            (e['add_no'], x['part'], i, x['kind'], x['label'], x['text'])
+            for e in bes for i, x in enumerate(e['excerpts'], 1)])
+        # same work in the NGMCP title list, by a folded title key (Bendall writes ç, sh, ṛi for ś, ṣ, ṛ)
+        def tkey(t):
+            t = re.sub(r'^(?:fragments? of (?:the |an? )?|leaf of (?:the |an? )?|first .*? of the |part of (?:the |an? )?)',
+                       '', (t or '').strip(), flags=re.I)
+            t = re.split(r'\s+by\s+|,|\(|;|\bwith\b', t)[0]
+            t = t.replace('Ç', 'Ś').replace('ç', 'ś').replace('SH', 'Ṣ').replace('sh', 'ṣ').replace('Sh', 'Ṣ')
+            t = re.sub(r'ṚI|ṛi', 'ṛ', t)
+            return re.sub(r'[^a-z]', '', N.fold(t))
+        tl_by_key = collections.defaultdict(list)
+        for t in titles:
+            k = tkey(t['title'])
+            if len(k) >= 5:
+                tl_by_key[k].append(t)
+        rows = []
+        for e in bes:
+            for part, ttl in ([(None, e['title'])] if not e['parts'] else [(p['part'], p['title']) for p in e['parts']]):
+                for one in (ttl or '').split(' | '):
+                    for t in tl_by_key.get(tkey(one), []):
+                        rows.append((e['add_no'], part, one, t['id'], t['title']))
+        con.executemany('INSERT INTO bendall_ngmcp_title VALUES (?,?,?,?,?)', rows)
+        dpath = os.path.join(DATA, 'bendall_dates.json')
+        roman = {v: i for i, v in enumerate(['', 'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII',
+                                              'XIII', 'XIV', 'XV', 'XVI', 'XVII', 'XVIII', 'XIX', 'XX', 'XXI', 'XXII',
+                                              'XXIII', 'XXIV', 'XXV', 'XXVI', 'XXVII', 'XXVIII', 'XXIX', 'XXX'])}
+        drows = []
+        for label, r in (json.load(open(dpath)).items() if os.path.exists(dpath) else []):
+            m = re.match(r'Cambridge Add\. (\S+)(?: \((\w+)\))?', label)
+            g, c = r.get('given', {}), r.get('computed', {})
+            drows.append((label, m.group(1), roman.get(m.group(2)) if m.group(2) else None, r['status'], r.get('rule'),
+                          r.get('date'), r['ce'], g.get('era'), g.get('year'), g.get('masa'), g.get('paksa'), g.get('tithi'),
+                          g.get('weekday'), g.get('naksatra'), c.get('weekday'), c.get('tithi'), c.get('naksatra'),
+                          c.get('saka'), int(bool(r.get('ambiguous'))), r.get('bendall_ce'), r.get('bendall_date'),
+                          r.get('basis'), json.dumps(r['year_conflict'], ensure_ascii=False) if r.get('year_conflict') else None,
+                          '; '.join(x for x in (json.dumps(r['emended'], ensure_ascii=False) if r.get('emended') else '',
+                                                r.get('era_note', '')) if x) or None, r.get('as_written')))
+        con.executemany('INSERT INTO bendall_date VALUES (' + ','.join('?' * 25) + ')', drows)
+
+    # ------------------------------------------------------------ NGMCP dates recalculated with the pañcāṅga
+    npath = os.path.join(DATA, 'ngmcp_dates.json')
+    nrows = []
+    for label, r in (json.load(open(npath)).items() if os.path.exists(npath) else []):
+        rr = N.reels(label)
+        g, c = r.get('given', {}), r.get('computed', {})
+        nrows.append((label, ms_id(rr[0]['series'], rr[0]['reel'], rr[0]['entry']) if rr else None, r['status'],
+                      r.get('rule'), r.get('date'), r['ce'], g.get('era'), g.get('year'), g.get('masa'), g.get('paksa'),
+                      g.get('tithi'), g.get('weekday'), g.get('naksatra'), c.get('weekday'), c.get('tithi'),
+                      c.get('naksatra'), c.get('saka'), int(bool(r.get('ambiguous'))), r.get('flat_ce'), r.get('flat_era'),
+                      r.get('basis'), ', '.join(r.get('possible', [])) or None,
+                      ' | '.join(r.get('alternatives', [])) or None, r.get('as_written')))
+    con.executemany('INSERT INTO ngmcp_date VALUES (' + ','.join('?' * 24) + ')', nrows)
 
     # ------------------------------------------------------------ person register (build_persons.py)
     try:
@@ -490,7 +586,7 @@ def build():
     for ix in ('catalogue_entry(manuscript_id)', 'catalogue_entry(label)', 'catalogue_reel(entry_id)',
                'catalogue_reel(series, reel, entry)', 'excerpt(entry_id)', 'issue(entry_id)', 'title(manuscript_id)',
                'entry_title(title_id)', 'discrepancy(entry_id)', 'attestation(person_id)',
-               'attestation(manuscript_id)', 'same_manuscript(manuscript_a)', 'same_manuscript(manuscript_b)', 'filming_group(manuscript_id)', 'title_subject(subject_id)', 'catalogue_subject(subject_id)'):
+               'attestation(manuscript_id)', 'same_manuscript(manuscript_a)', 'same_manuscript(manuscript_b)', 'filming_group(manuscript_id)', 'bendall_excerpt(add_no)', 'ngmcp_date(manuscript_id)', 'bendall_ngmcp_title(add_no)', 'bendall_ngmcp_title(title_id)', 'title_subject(subject_id)', 'catalogue_subject(subject_id)'):
         con.execute(f'CREATE INDEX "ix_{re.sub(r"[^a-z]+", "_", ix)}" ON {ix}')
     con.commit()
     con.execute('VACUUM')
@@ -554,3 +650,6 @@ if __name__ == '__main__':
     print('same-manuscript links', q('select count(*) from same_manuscript'), '| groups',
           q('select count(distinct group_id) from filming_group'), '| retakes',
           q('select count(*) - count(distinct group_id) from filming_group'))
+    print('Bendall entries', q('select count(*) from bendall_entry'), '| parts', q('select count(*) from bendall_part'),
+          '| excerpts', q('select count(*) from bendall_excerpt'), '| entries with an NGMCP title match',
+          q('select count(distinct add_no) from bendall_ngmcp_title'))

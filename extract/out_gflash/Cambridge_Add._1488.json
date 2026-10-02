@@ -1,0 +1,123 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "अमरसिंहकृतो",
+   "name": "Amarasiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "इत्यमरसिंहकृतो नामलिङ्गानुशासने अमरकोषः परिसमाप्तः",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "वज्राचार्यश्री जसचन्द्रेण",
+   "name": "Jasacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "Lalitāpurī",
+   "evidence": "वज्राचार्यश्री जसचन्द्रेण लिखितमिति",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "श्रीरघुसिंहदेवानाम",
+   "name": "Raghusiṃhadeva",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [
+    "mahāpātra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "महापात्र श्रीरघुसिंहदेवानामध्यनार्थं पृष्ठकममरसिंह लिखापितः",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "त्यगुणम सिंह",
+   "name": "Tyaguṇamasiṃha",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "mahāpātra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "त्यगुणम सिंह महापात्र श्रीरघुसिंहदेवानामध्यनार्थं पृष्ठकममरसिंह लिखापितः",
+   "confidence": "low"
+  },
+  {
+   "pid": "p5",
+   "as_written": "देवश्रीजयार्जुनो",
+   "name": "Jayārjunadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "bhūvamaṇḍaleśvara",
+    "prabhūpati",
+    "bhūpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "नेपालाभुवमण्डलेश्वर प्रभूपते...। देवश्रीजयार्जुनो",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "श्रीरघुसिंहदेवानामध्यनार्थं पृष्ठकममरसिंह लिखापितः। वज्राचार्यश्री जसचन्द्रेण लिखितमिति"
+  },
+  {
+   "from": "p4",
+   "type": "commissioned_from",
+   "to": "p2",
+   "evidence": "त्यगुणम सिंह महापात्र श्रीरघुसिंहदेवानामध्यनार्थं पृष्ठकममरसिंह लिखापितः। वज्राचार्यश्री जसचन्द्रेण लिखितमिति"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p5",
+   "evidence": "नेपालाभुवमण्डलेश्वर प्रभूपते...। देवश्रीजयार्जुनो"
+  }
+ ],
+ "date": {
+  "as_written": "सम्बत ५०० मार्गः शुद्ध श्रीपञ्चम्या तिथौ रैवतिनक्षत्रे साध्ययोगे सोमवासरे",
+  "era": "NS",
+  "year": "500",
+  "month": "Mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "Monday",
+  "nakshatra_yoga": "revatī nakṣatra, sādhya yoga",
+  "ce_approx": "1379"
+ },
+ "place": {
+  "as_written": "श्रीमत ललितापुरि",
+  "normalized": "Patan"
+ },
+ "purpose": "श्रीरघुसिंहदेवानामध्यनार्थं (for the study of Raghusiṃhadeva)",
+ "notes": "Bendall notes that the date on fol. 127b was retraced with modern ink as '500 Mārgaśuddha 5'. On the back of the leaf is another contemporary note with chronogram 'abdhi-vindu-viṣaye' (= 504 NS, Māgha kṛṣṇa 5, ca. 1384 CE) mentioning King Jayārjuna. Before '...tyaguṇamasiṃha' there is an erasure and the corrupt phrase 'puṣā nāma maḍāpātra'.",
+ "_meta": {
+  "reel": "Cambridge Add. 1488",
+  "model": "gemini-flash-latest",
+  "secs": 20.1,
+  "in_tok": 1442,
+  "out_tok": 5508
+ }
+}

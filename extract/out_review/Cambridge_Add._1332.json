@@ -1,0 +1,47 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes; notes expanded slightly (Anantanāgarāja excluded as a mythical nāga king, the 'Caryutiyā' reading is uncertain)"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "चर्युतिया",
+   "name": "Caryutiyā",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "चर्युतिया (?) विरचितस्तवतोचं परिसमाप्त",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bendall quotes no scribal colophon or date. He assigns the manuscript to the 18th century with a query, on the evidence of the script alone. The excerpts are only the subscriptions of the stotras. The Lokanātha stotra is attributed to Anantanāgarāja, a mythical nāga king, so he is not listed as a person. One stavatotra is attributed to 'चर्युतिया'. Bendall marks this reading (?), so it is probably corrupt and may not be a personal name at all. It is kept as an author with low confidence.",
+ "_meta": {
+  "reel": "Cambridge Add. 1332",
+  "model": "opus",
+  "cost_usd": 0.416052,
+  "secs": 9.7
+ }
+}

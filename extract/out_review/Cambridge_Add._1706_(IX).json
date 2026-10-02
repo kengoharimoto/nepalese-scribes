@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Sarvajñamitra: dropped role 'teacher' (no teacher–pupil link to the scribe or owner of this copy is stated; he is named as the head of a guru lineage in the text's closing verse). Kept 'author' at low confidence.",
+   "Removed 'pāda' from titles: it is an honorific plural (-pādānām), not a caste or office title.",
+   "Purpose cleared: 'समादि सर्वसत्त्वराम्...' is a corrupt part of the work's closing verse, not a statement of why this copy was made.",
+   "Notes expanded: no scribe, donor, date or place is given."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "सर्वज्ञमित्रपादानां",
+   "name": "Sarvajñamitra",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "सर्वज्ञमित्रपादानां य (?) गुरु परंपरा",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "This is part IX of Bendall's composite entry Add. 1706: 7 palm leaves of a Śambara-pañjikā, a manual of Śambara worship. The ending is corrupt ('स्ववरा (sic) पञ्चिकेयं समाप्तं' presumably stands for शम्बरपञ्जिकेयं). The verse after it names the guru lineage (गुरुपरंपरा) of Sarvajñamitra. He may be the author of the manual or only the head of the teaching lineage it comes from; his link to this copy is uncertain. He is possibly the Kashmiri Sarvajñamitra, author of the Sragdharāstotra, but that is not certain. No scribe, donor, owner, king, date or place of copying is given. Bendall gives no date for this part; he says only that the writing is similar to that of No. I.",
+ "_meta": {
+  "reel": "Cambridge Add. 1706 (IX)",
+  "model": "opus",
+  "cost_usd": 0.07515659999999999,
+  "secs": 14.5
+ }
+}

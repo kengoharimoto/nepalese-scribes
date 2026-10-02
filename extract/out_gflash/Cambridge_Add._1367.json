@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribal colophon or date is preserved in the excerpt; only the text closing formula and Pratītyasamutpāda verse are recorded.",
+ "_meta": {
+  "reel": "Cambridge Add. 1367",
+  "model": "gemini-flash-latest",
+  "secs": 2.4,
+  "in_tok": 1180,
+  "out_tok": 357
+ }
+}

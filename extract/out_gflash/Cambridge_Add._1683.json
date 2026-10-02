@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "हर्षगुप्तस्य",
+   "name": "Harṣagupta",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "देयधर्मो ऽयं... निवासिनः शाय्यभिन्नः (sic) हर्षगुप्तस्य",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "श्रीलक्ष्मीकामदेवस्य",
+   "name": "Lakṣmīkāmadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "श्रीलक्ष्मीकामदेवस्य विजयराज्ये",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "श्रीलक्ष्मीकामदेवस्य विजयराज्ये लिखितमिति"
+  }
+ ],
+ "date": {
+  "as_written": "सम्वत् १५० वैशाख शुक्ल दतीयायां शुक्लदिने",
+  "era": "NS",
+  "year": "159",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "śukladina",
+  "nakshatra_yoga": "",
+  "ce_approx": "1039"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "anuttarajñānaphalaprāptaye",
+ "notes": "Bendall reads the letter-numerals as 159 (N.S. 159 = 1039 CE), though his Devanāgarī transcript prints '१५० (in letter-numerals)'. The donor title 'शाय्यभिन्नः' is noted by Bendall as a scribal error for śākyabhikṣoḥ. Residence before निवासिनः is lost in lacuna.",
+ "_meta": {
+  "reel": "Cambridge Add. 1683",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 1265,
+  "out_tok": 1410
+ }
+}

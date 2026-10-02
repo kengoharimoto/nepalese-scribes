@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "सर्वज्ञमित्रपादानां",
+   "name": "Sarvajñamitra",
+   "roles": [
+    "author",
+    "teacher"
+   ],
+   "titles": [
+    "pāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "सर्वज्ञमित्रपादानां य (?) गुरु परंपरा",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for the benefit of all sentient beings (समादि सर्वसत्त्वराम्...)",
+ "notes": "The colophon text is fragmentary and corrupt ('स्ववरा (*sic*) पञ्चिकेयं समाप्तं। सर्वज्ञमित्रपादानां य (?) गुरु परंपरा .... ता।'). Sarvajñamitra is mentioned, apparently in the guru-lineage or as author of the manual/work.",
+ "_meta": {
+  "reel": "Cambridge Add. 1706 (IX)",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 1071,
+  "out_tok": 1071
+ }
+}

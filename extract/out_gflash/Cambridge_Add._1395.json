@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीश्री जयस्थिति राजमल्लदेवस्य",
+   "name": "Jayasthitirājamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "श्रीश्री जयस्थिति राजमल्लदेवस्य विजयराज्ये",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "सप्तत् ५०५ कार्तिक शुक्ल अष्टम्यां तित्यौ सनिम्बरवासरे",
+  "era": "NS",
+  "year": "505",
+  "month": "Kārtika",
+  "paksa": "śukla",
+  "tithi": "8",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1385"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "सप्तत् is a scribal error for संवत्. A later hand on the cover records the date NS 572, month Jyeṣṭha.",
+ "_meta": {
+  "reel": "Cambridge Add. 1395",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 1095,
+  "out_tok": 782
+ }
+}

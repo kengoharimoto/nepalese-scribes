@@ -1,0 +1,13 @@
+{
+ "_about": "Manuscripts dated in the Aṃśuvarman ('Mānadeva') saṃvat that are in the NGMCP title list (data/ngmcpdb_production.sql.bz2, calendar 'MS') but have no descriptive catalogue entry. Date elements beyond era and year are cited from the literature. D 41/7 (Aṣṭasāhasrikā, Newari script, title list 'MS 901') is left out: 901 is impossible in this era and is most likely an NS year (c. 1781).",
+ "B 11/4": {"title": "Skandapurāṇa", "title_id": 67034, "script": "Transitional Gupta", "material": "palm-leaf",
+            "subject": "Purāṇa", "folios": 229, "size": "53.0 x 4.5 cm",
+            "date": {"era": "AS", "year": 234}, "date_raw": "saṃvat 234 (title list)",
+            "source": "NGMCP title list (title 67034); no descriptive catalogue entry"},
+ "C 80/7": {"title": "Suśrutasaṃhitā", "title_id": 73269, "script": "Transitional Gupta", "material": "palm-leaf",
+            "subject": "Āyurveda", "folios": 127, "size": "53.5 x 4.4 cm",
+            "date": {"era": "AS", "year": 301, "month": "Vaiśākha", "paksa": "śukla", "tithi": "7",
+                     "weekday": "Sunday", "naksatra": "Puṣya"},
+            "date_raw": "saṃvat 301 Vaiśākha śukla 7, Sunday, Puṣya, Siddha yoga",
+            "source": "NGMCP title list (title 73269); date elements from K. P. Malla, CNAS Journal 32.1 (2005): 7, after L. Petech, Mediaeval History of Nepal (1984): 29"}
+}

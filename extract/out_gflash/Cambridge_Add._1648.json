@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीमदरिमल्ल दे [वस्य",
+   "name": "Arimalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "राजाधिराजपरमेश्वर  श्रीमदरिमल्ल दे [वस्य विजराज्ये",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "सवत् [३३६] पौषकृष्णाष्टम्यां षट्हसतिवासरे वैशाखनक्षत्रे",
+  "era": "NS",
+  "year": "336",
+  "month": "Pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "bṛhaspativāsara",
+  "nakshatra_yoga": "viśākhā",
+  "ce_approx": "1216"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bendall notes that the date figures [336] have clearly been retouched/incorrectly restored. The day of the week ('षट्हसतिवासरे', presumably corrupt for bṛhaspativāsare) does not verify for NS 336. A later inscription on the cover mentions an ārādhana in NS 458 (1338 CE) by Ānandajīvabhadra at Ārinaka-vihāra.",
+ "_meta": {
+  "reel": "Cambridge Add. 1648",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 1437,
+  "out_tok": 1513
+ }
+}

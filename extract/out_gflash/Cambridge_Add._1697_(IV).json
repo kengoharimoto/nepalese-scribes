@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "योगिता-ज्ञस्य",
+   "name": "Yogitājña",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Śrī Viṣṇunicchaṃ Vihāra",
+   "residence": "",
+   "evidence": "योगिता-ज्ञस्यचोता",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "सम्बत् ५८३ जेष्ठ बधि १३",
+  "era": "NS",
+  "year": "583",
+  "month": "Jyeṣṭha",
+  "paksa": "vadhi",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1463"
+ },
+ "place": {
+  "as_written": "श्री विष्णुनिच्छं वाहारे",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The name Yogitājña is unusual; cotā is Newari for 'written [by]'.",
+ "_meta": {
+  "reel": "Cambridge Add. 1697 (IV)",
+  "model": "gemini-flash-latest",
+  "secs": 7.3,
+  "in_tok": 1332,
+  "out_tok": 1505
+ }
+}

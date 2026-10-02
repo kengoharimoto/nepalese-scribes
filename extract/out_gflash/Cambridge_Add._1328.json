@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribal colophon, date, patron, or scribe is mentioned; the manuscript only repeats the chapter colophon of the 34th jātaka.",
+ "_meta": {
+  "reel": "Cambridge Add. 1328",
+  "model": "gemini-flash-latest",
+  "secs": 2.0,
+  "in_tok": 1123,
+  "out_tok": 284
+ }
+}

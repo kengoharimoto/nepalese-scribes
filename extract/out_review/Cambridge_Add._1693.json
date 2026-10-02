@@ -1,0 +1,87 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 (Mañjuśrī): affiliation normalized to Dharmacakra-mahāvihāra. Bendall gives this as the scribe's residence, so it is also entered as residence. The place 'वन्ताण्डुल्लके (?)' is too doubtful to stand alone as residence.",
+   "p3: name reading lowered to low confidence (Buddhabhāva?). Roles changed from commissioner+donor to beneficiary: the colophon only assigns him the merit ('नामधेयस्य यदत्र पुण्यं'). It has no likhāpita or deyadharma.",
+   "Removed the p2→p3 wrote_for relation because the colophon gives no explicit commissioning.",
+   "Purpose rewritten to follow the colophon wording. The first reading had added words ('kṛtvā', 'upādhyāya') that are not in the text.",
+   "Place: as_written shortened to the actual locative. Normalized left empty.",
+   "Notes expanded: the OCR/typographical corruptions are explained and the date is checked."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "श्रीमदानन्ददेवस्य",
+   "name": "Ānandadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "श्रीमदानन्ददेवस्य विजयराज्ये",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "शाक्यभिद्युमञ्जुश्रियेण",
+   "name": "Mañjuśrī",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "Dharmacakra-mahāvihāra",
+   "residence": "Dharmacakra-mahāvihāra (in/at वन्ताण्डुल्लके (?))",
+   "evidence": "श्रीधर्मचक्रमहाविहाराधिवासिन शाक्यभिद्युमञ्जुश्रियेणेति",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "बुद्धौभावे (?) नामधेयस्य",
+   "name": "Buddhabhāva",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Dhānapiṅga-viṣaya",
+   "evidence": "श्रीधानपिङ्गविषयाधिवासिन बुद्धौभावे (?) नामधेयस्य यदत्र पुण्यं",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "श्रीमदानन्ददेवस्य विजयराज्ये ॥ लिखितेदं"
+  }
+ ],
+ "date": {
+  "as_written": "संवत् २८५ आवण गुरुत्ताष्टम्यामादित्यदिने",
+  "era": "NS",
+  "year": "285",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "8",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1165"
+ },
+ "place": {
+  "as_written": "वन्ताण्डुल्लके (?) श्रीधर्मचक्रमहाविहार",
+  "normalized": ""
+ },
+ "purpose": "Merit transfer: the merit goes to the person from Dhānapiṅga-viṣaya, to be shared with teachers and parents and given to all beings for supreme knowledge (यदत्र पुण्यं तद्भवत्वाचार्य...सकलसत्त्वराशेरनुत्तरज्ञानावाप्तये).",
+ "notes": "This is Bendall's catalogue (1883), and his Devanāgarī shows OCR or typographical corruption. Bendall also says the latter part of the colophon is partly obliterated. 'आवण' is read as श्रावण. 'गुरुत्ताष्टम्याम्' is probably शुक्लाष्टम्याम्, so the pakṣa is inferred. 'शाक्यभिद्यु' stands for शाक्यभिक्षु. 'श्रीमस्वक्रयां (?)' cannot be read. 'वन्ताण्डुल्लके (?)' looks like a locality name but is uncertain. Date: NS 285 + 880 = 1165 CE, which agrees with Bendall's 'A.D. 1165'; the weekday (Sunday) has not been verified. The king is Ānandadeva, as Bendall says. The third person's name is very doubtful: Bendall gives 'बुद्धौभावे (?)', which could be a corruption of something like Buddhabhāva or Buddhadeva. The person resides in Dhānapiṅga-viṣaya. The colophon assigns this person the merit, which suggests they were the donor or commissioner, but the colophon does not state that role.",
+ "_meta": {
+  "reel": "Cambridge Add. 1693",
+  "model": "opus",
+  "cost_usd": 0.11345260000000001,
+  "secs": 26.6
+ }
+}

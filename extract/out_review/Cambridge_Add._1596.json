@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe's name normalised from 'Padmākalisimha' to the likelier reading 'Padmākarasiṃha' (पद्याकलिासंहिन read as Padmākarasiṃhena, instrumental). Confidence lowered to low.",
+   "Kāya-bahāra kept as the scribe's affiliation and residence. It was removed from 'place', because the colophon does not say the copy was made there.",
+   "Notes expanded: the vajrācārya reading is conjectural, and the year is about 1829/30."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "पद्याकलिासंहिन",
+   "name": "Padmākarasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Kāya-bahāra (vihāra)",
+   "residence": "Kāya-bahāra",
+   "evidence": "रिषितेयं (i.e. लिखि०) काय-वाहारया श्रीवजवाक्ष्य पद्याकलिासंहिन",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "N. s. 950 (A.D. 1830)",
+  "era": "NS",
+  "year": "950",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1830"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bendall says the MS is 'barbarously incorrect'. He does not quote the date line in Devanāgarī; he gives only 'N. s. 950 (A.D. 1830)'. NS 950 = 1829/30 CE. रिषितेयं = likhiteyam. श्रीवजवाक्ष्य is probably a garbled śrī-vajrācāryeṇa/-sya, so the title vajrācārya is conjectural. पद्याकलिासंहिन is most likely Padmākarasiṃhena; Padmākalisiṃha is also possible. काय-वाहारया looks like a Newari genitive, 'of Kāya-bahāra/bahāl'. This is a vihāra name that cannot be identified for certain (perhaps Kwā Bahā). It is taken as the scribe's affiliation, not as the stated place of copying. The leaves carry a second numbering (71–96), so the MS was probably part of a larger series.",
+ "_meta": {
+  "reel": "Cambridge Add. 1596",
+  "model": "opus",
+  "cost_usd": 0.0846326,
+  "secs": 19.5
+ }
+}

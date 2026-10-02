@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Fragment containing only the first two leaves of the Dharmasaṅgraha; no colophon, persons, or date preserved.",
+ "_meta": {
+  "reel": "Cambridge Add. 1701 (II)",
+  "model": "gemini-flash-latest",
+  "secs": 2.9,
+  "in_tok": 1055,
+  "out_tok": 514
+ }
+}

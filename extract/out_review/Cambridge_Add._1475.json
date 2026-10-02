@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Normalized the corrupt title 'māhārājadvirāja' to 'mahārājādhirāja (sic: māhārājadvirāja)' in the titles list, and dropped 'nṛpati' because it is a generic word rather than a title.",
+   "Set as_written to the name as it stands in the text, without the śrī prefixes.",
+   "Notes: added that the date is on a later supply leaf and probably repeats the date of the original, damaged final leaf. Also flagged the catalogue's 18th-century script dating, the reading ८°२ = 802, and the unclear phrases."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "प्रथितुन्द्रमल्लदेव",
+   "name": "Pārthivendramalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja (sic: māhārājadvirāja)",
+    "cakracūḍāmaṇi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "माहाराजद्विराज (sic) चक्रचूडामणि श्रीश्रीश्रीप्रथितुन्द्रमल्लदेव ... विजयराज्ये",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "खस्सुसंस्वत् ८°२",
+  "era": "NS",
+  "year": "802",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1682"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date and the king's name are on the last leaf only. This leaf is on different paper and in a slightly later hand. Bendall takes it to be a fresh copy of a damaged original leaf, so N.S. 802 (A.D. 1682) is probably the date of the original manuscript and was recopied onto the supply leaf. Bendall's physical description dates the hand to the 18th century, which does not quite fit 1682; the supply leaf itself is undated. Bendall prints the year as ८°२ and reads it as 802. 'खस्सुसंस्वत्' is a garbled form of the era word (saṃvat). The royal name 'प्रथितुन्द्रमल्लदेव' is a corrupt form of Pārthivendramalladeva, king of Kathmandu, who reigned c. N.S. 800–807 (1680–1687). The year 802 falls in his reign. 'मयूरच्छत्र-खड्गशीर्षिकामनाथं (?)' and 'याकूरधर्माचक्रविजयराज्ये' are corrupt epithets and reign formulas. No scribe, donor or place is named. The two cover leaves from a Tantric Sūtra are unrelated to this copy.",
+ "_meta": {
+  "reel": "Cambridge Add. 1475",
+  "model": "opus",
+  "cost_usd": 0.0836006,
+  "secs": 16.3
+ }
+}
