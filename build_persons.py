@@ -110,6 +110,13 @@ SAME_PERSON = {
     'yadolalaratnakara': 'lalaratnakara',  # B 38/11, Kāśī ŚS 1747: yadolālalaratnākarākhyaḥ
 }
 
+# epithets read as names: key -> (person's key, name, epithet kept as a title)
+EPITHET = {
+    # Licchavi inscr. 90, 91, 96, 103: 'śrī-Kalahābhimānī nṛpaḥ (Aṃśuvarmman)' in the edition's notes;
+    # inscr. 81 gives kalahābhimānin among Aṃśuvarman's titles
+    'lic:kalahabhimanin': ('lic:amsuvarman', 'Aṃśuvarman', 'kalahābhimānin'),
+}
+
 TITLE_ONLY = {'varma', 'varman', 'sarma', 'sarman', 'misra', 'upadhyaya', 'vajracarya', 'karmacarya',
               'josi', 'daivajna', 'thakura', 'bhata', 'bhatta'}  # a title with the name lost
 
@@ -388,9 +395,13 @@ def main():
             if any(fold(t) == 'lala' for t in p['titles']) and not key.startswith('lala'):
                 key = 'lala' + key  # Opus puts lāla in titles: (lāla) Ratnākara = Lālaratnākara
             key = SAME_PERSON.get(key, key)
+            name, titles = p['name'], p['titles']
+            if key in EPITHET:
+                key, name, epithet = EPITHET[key]
+                titles = titles + [epithet]
             if len(key) < 3 or key in TITLE_ONLY:
                 continue
-            a = {'ms': ms['id'], 'name': p['name'], 'roles': roles, 'titles': p['titles'],
+            a = {'ms': ms['id'], 'name': name, 'roles': roles, 'titles': titles,
                  'residence': p['residence'], 'affiliation': p['affiliation'], 'evidence': p['evidence'],
                  'conf': p['confidence'], 'src': o['_src'], 'aid': len(local)}
             att[(kind, key)].append(a)
