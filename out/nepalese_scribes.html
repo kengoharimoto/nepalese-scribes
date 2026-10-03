@@ -144,7 +144,7 @@ footer { color: var(--muted); font-size: 12px; max-width: 95ch; display: grid; g
       <div class="tl-scroll"><svg id="chart"></svg></div>
       <div class="more" id="more"></div>
     </section>
-    <aside class="detail" id="detail" aria-live="polite"></aside>
+    <aside class="detail" id="detail" aria-live="polite"><p class="note">Click a person in the timeline or network to see their manuscripts.</p></aside>
   </div>
 
   <footer>
@@ -421,7 +421,5 @@ new MutationObserver(netSchedule).observe(document.documentElement, { attributes
 
 ['q', 'r-s', 'r-p', 'r-k', 'r-o', 'r-r', 'min', 'place', 'src', 'sort'].forEach(id => $(id).addEventListener('input', () => { shown = 300; draw(); }));
 draw();
-const first = PS.filter(p => p.role === 's' && p.from && (REL[p.id] || []).length).sort((a, b) => b.ms.length - a.ms.length)[0] || PS[0];
-select(first.id);
 try { if (localStorage.getItem('ngmcp-view') === 'net') showView('net'); } catch (e) {}
 </script>
