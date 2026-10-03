@@ -331,10 +331,13 @@ function netLayout() {
 function netFinish() {
   const und = NN.filter(n => n.yr == null).sort((a, b) => a.y - b.y);
   und.forEach((n, i) => { n.x = NUND + (i % 4) * 22; n.y = 40 + (NH - 80) * (i + .5) / und.length; });
-  netIndex(); netFit(0);
-  $('netnote').innerHTML = `<span>${NN.length.toLocaleString()} persons with at least one link · x = date (decades widen where people are many) · hollow circle = date estimated · column at the right = undated · drag to pan, scroll to zoom</span>`;
+  netIndex(); netFit(0); netNote();
 }
-function netIndex() { nqt = d3.quadtree().x(d => d.x).y(d => d.y).addAll(NN); }
+function netNote() {
+  const ron = RON(), n = NN.filter(n => ron[n.p.role]).length;
+  $('netnote').innerHTML = `<span>${n.toLocaleString()} of ${NN.length.toLocaleString()} persons with at least one link shown · x = date (decades widen where people are many) · hollow circle = date estimated · column at the right = undated · drag to pan, scroll to zoom</span>`;
+}
+function netIndex() { const ron = RON(); nqt = d3.quadtree().x(d => d.x).y(d => d.y).addAll(NN.filter(n => ron[n.p.role])); }
 const nzoom = d3.zoom().scaleExtent([.15, 12]).on('zoom', ev => { NT = ev.transform; netSchedule(); });
 d3.select(canvas).call(nzoom).on('dblclick.zoom', null);
 const netSchedule = () => { if (!nraf) nraf = requestAnimationFrame(() => { nraf = 0; netDraw(); }); };
@@ -347,6 +350,8 @@ function netCentre(n) { const r = $('stage').getBoundingClientRect(), k = Math.m
 $('zin').onclick = () => d3.select(canvas).transition().call(nzoom.scaleBy, 1.6);
 $('zout').onclick = () => d3.select(canvas).transition().call(nzoom.scaleBy, 1 / 1.6);
 $('zfit').onclick = () => netFit();
+// the role checkboxes above the tabs filter the network as well as the timeline
+const RON = () => ({ s: $('r-s').checked, p: $('r-p').checked, k: $('r-k').checked, o: $('r-o').checked, r: $('r-r').checked });
 const ON = () => ({ kin: $('e-kin').checked, pupil: $('e-pupil').checked, work: $('e-work').checked, reign: $('e-reign').checked, co: $('e-co').checked });
 function netPick(ev) { if (!nqt) return null; const r = canvas.getBoundingClientRect(), [x, y] = NT.invert([ev.clientX - r.left, ev.clientY - r.top]);
   const d = nqt.find(x, y, 14 / NT.k); return d && Math.hypot(d.x - x, d.y - y) * NT.k <= d.r * Math.max(1, NT.k) + 6 ? d : null; }
@@ -355,6 +360,7 @@ canvas.addEventListener('pointermove', ev => { const d = netPick(ev); if (d !== 
 canvas.addEventListener('pointerleave', () => { nhover = null; untip(); netSchedule(); });
 canvas.addEventListener('click', ev => { const d = netPick(ev); if (d) select(d.id); });
 ['e-kin', 'e-pupil', 'e-work', 'e-reign', 'e-co'].forEach(id => $(id).addEventListener('input', () => { netSelect(nsel); }));
+['r-s', 'r-p', 'r-k', 'r-o', 'r-r'].forEach(id => $(id).addEventListener('input', () => { if (nxs) { netIndex(); netNote(); } nhover = null; netSchedule(); }));
 function netSelect(id) {
   nsel = id; nhl = null; nlit = null;
   if (id != null && NB.has(id)) {
@@ -381,9 +387,9 @@ function netDraw(msg) {
     c.strokeStyle = rule; c.globalAlpha = major ? 1 : .5; c.beginPath(); c.moveTo(x, 22); c.lineTo(x, vh); c.stroke();
     c.globalAlpha = 1; if (lab) { c.fillStyle = muted; c.fillText(y, x, 14); lastX = x; } }
   c.fillStyle = muted; c.font = 'italic 11px "Noto Sans", sans-serif'; c.fillText('undated', NT.applyX(NUND + 30), 14);
-  const on = ON(), onS = n => { const x = NT.applyX(n.x), y = NT.applyY(n.y); return x > -60 && x < vw + 60 && y > -40 && y < vh + 40; };
+  const on = ON(), ron = RON(), onS = n => { const x = NT.applyX(n.x), y = NT.applyY(n.y); return x > -60 && x < vw + 60 && y > -40 && y < vh + 40; };
   for (const pass of [0, 1]) for (const e of NE) {
-    if (!e.S || !e.T) continue; const lit = !!(nlit && nlit.has(e)); if (lit !== !!pass) continue;
+    if (!e.S || !e.T || !ron[e.S.p.role] || !ron[e.T.p.role]) continue; const lit = !!(nlit && nlit.has(e)); if (lit !== !!pass) continue;
     if (!on[e.type] || (!onS(e.S) && !onS(e.T))) continue;
     const dim = !!nhl && !lit; if (dim && e.type === 'co') continue;
     const x1 = NT.applyX(e.S.x), y1 = NT.applyY(e.S.y), x2 = NT.applyX(e.T.x), y2 = NT.applyY(e.T.y), dx = x2 - x1, dy = y2 - y1;
@@ -392,7 +398,7 @@ function netDraw(msg) {
     c.beginPath(); c.moveTo(x1, y1); c.quadraticCurveTo((x1 + x2) / 2 - dy * .12, (y1 + y2) / 2 + dx * .12, x2, y2); c.stroke();
   }
   c.setLineDash([]); c.globalAlpha = 1;
-  const vis = NN.filter(onS), rad = n => n.r * Math.min(Math.max(NT.k, .6), 2.2);
+  const vis = NN.filter(n => ron[n.p.role] && onS(n)), rad = n => n.r * Math.min(Math.max(NT.k, .6), 2.2);
   for (const n of vis) { const x = NT.applyX(n.x), y = NT.applyY(n.y), dim = nhl && !nhl.has(n.id), estd = !n.p.from;
     c.globalAlpha = dim ? .12 : 1; c.beginPath(); c.arc(x, y, rad(n), 0, 6.2832);
     if (estd) { c.fillStyle = panel; c.fill(); c.strokeStyle = RC[n.p.role]; c.lineWidth = 1.4; c.stroke(); }
