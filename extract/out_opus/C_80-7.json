@@ -1,0 +1,84 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī . ānadeve",
+   "name": "Mānadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājan"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "[[rājñi]] śrī . ānadeve pṛthusitayaśasi",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīharṣacandro",
+   "name": "Harṣacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasmāc chrīharṣacandro ... prākhilat(!) suśrutākhyam",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vaidyavasuvarmaṇaḥ",
+   "name": "Vasuvarman",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "Gaṇadevadevakula (Dūnīścalaka?)",
+   "evidence": "śrīgaṇadevadevakuladūnīścalakanivāsino vaidyavasuvarmaṇaḥ pustakam idaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "rājñi śrī . ānadeve ... prākhilat"
+  },
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "vaidyavasuvarmaṇaḥ pustakam idaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "varśe caikottare smiṃs tritayaśatagate mādhave māsi śukle| saptamyāṃ puṣya ṛkṣe da[..]śatakiraṇāvāsare siddhayoge",
+  "era": "unspecified",
+  "year": "301",
+  "month": "Mādhava (Vaiśākha)",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "Sunday (daśaśatakiraṇa = sun)",
+  "nakshatra_yoga": "Puṣya; Siddhi yoga",
+  "ce_approx": "878"
+ },
+ "place": {
+  "as_written": "śrīgaṇadevadevakula",
+  "normalized": ""
+ },
+ "purpose": "Copied out of compassion for the suffering world (moktukāmaḥ); Vasuvarman's book is to be used to instruct beings and not given to anyone else",
+ "notes": "The king's name is damaged ('śrī . ānadeve'); Mānadeva is the cataloguer's reading, and 'rājñi' is an editorial supplement. The year 301 is not given an era name in the colophon. The catalogue calls it 'Mānadeva Saṃvat' and gives 878 CE, so ce_approx follows the catalogue. The epoch is about 576/577 CE, the same as the Aṃśuvarman/Mānadeva era. Harṣacandra is called the scribe on the strength of 'prākhilat' ('wrote'). He could also have been the person who had the copy made, because the verse is damaged at the point where it might give his role. 'Gaṇadevadevakula' is where Vasuvarman lived. The catalogue lists it as the place of copying, but the colophon only states it as his residence. 'Dūnīścalaka' is unclear: it may be the name of a locality, or a corrupt reading. The text was compiled from folios of several manuscripts. The Nighaṇṭu colophon (fol. 219v) names nobody.",
+ "_meta": {
+  "reel": "C 80/7",
+  "model": "opus",
+  "cost_usd": 0.09604,
+  "secs": 20.0
+ }
+}

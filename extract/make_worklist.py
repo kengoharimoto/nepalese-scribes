@@ -6,7 +6,7 @@ from build_persons import reel_key, D
 KW = re.compile(r'likh|lekh|lipi|coy[aā]|sa[mṃ]vat|sambat|sa[mṃ]\.?\s*\d|\bsa\s\d|śreyo|dāna|yajamān|pustak|'
                 r'nepāla|rājye|bhūp|malla|kāyastha|ṭhakkur|vajrācār|daivajña|upādhyāy|śāke|varṣe', re.I)
 byreel = collections.OrderedDict()
-for l in open(D('records.jsonl')):
+for l in (l for f in ('records.jsonl', 'records_mirror.jsonl') if os.path.exists(D(f)) for l in open(D(f))):
     r = json.loads(l)
     k = reel_key(r)
     old = byreel.get(k)

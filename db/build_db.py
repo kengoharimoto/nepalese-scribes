@@ -3,7 +3,7 @@
   python3 db/build_db.py            (about a minute)
 
 Sources
-  /mnt2/kengo/E-texts/NGMCP/*.html        descriptive catalogue entries (parse_html.py, normalize.py)
+  /mnt2/kengo/E-texts/reference/ngmcp/*.html        descriptive catalogue entries (parse_html.py, normalize.py)
   data/ngmcpdb_production.sql.bz2         title list database (load_sql.py), tables kept as tl_*
   data/persons.json, data/relations.json  the person register built by build_persons.py
   data/bendall1883_ocr.md                 Bendall's Cambridge catalogue (1883), OCR (bendall.py)

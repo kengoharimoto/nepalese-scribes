@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmiśrakālidāsakṛtau",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmiśrakālidāsakṛtau śrutabodhaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saptāgnir munayaś candrabhaumāṣṭamyāṃ śubhe dine",
+  "era": "unspecified",
+  "year": "1737",
+  "month": "",
+  "paksa": "",
+  "tithi": "aṣṭamī",
+  "weekday": "Tuesday (bhauma)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1680"
+ },
+ "place": {
+  "as_written": "vārāṇasyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "\"\"",
+ "notes": "The year is a bhūtasaṃkhyā chronogram: sapta (7) agni (3) muni (7) candra (1), read right to left (aṅkānāṃ vāmato gatiḥ), gives 1737. The colophon names no era. Because the copy was made in Vārāṇasī, the era is most likely Vikrama: VS 1737 ≈ 1680 CE. If it were Śaka instead, the year would be ≈ 1815 CE. The month and pakṣa are not given; the date is only 'candra-bhauma-aṣṭamyām', which most naturally reads as aṣṭamī on a Tuesday (bhauma). The colophon names no scribe, commissioner or king. The only person named is the author, (Miśra) Kālidāsa, to whom the Śrutabodha is traditionally attributed. The catalogue fields are empty, so there are no conflicts.",
+ "_meta": {
+  "reel": "B 279/29",
+  "model": "opus",
+  "cost_usd": 0.049248,
+  "secs": 10.4
+ }
+}

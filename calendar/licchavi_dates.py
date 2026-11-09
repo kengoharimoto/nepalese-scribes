@@ -3,8 +3,8 @@
 The year is the editor's (the 'Saṃvat N' of the entry header), or the reading's where the header has none;
 the other elements (month, pakṣa, tithi, nakṣatra, weekday) come from the reading of the inscription
 (extract/out_review or out_gflash). The editors' CE equivalents are not used.
-Era by year: saṃvat 300 and above is the earlier Licchavi series (LIC, saṃvat 386–535), below 300 the
-Aṃśuvarman ('Mānadeva') saṃvat (AS); both are the Kārttikādi current Śaka (K. P. Malla, CNAS Journal 32.1,
+Era by year: saṃvat 386–535 is the earlier Licchavi series (LIC), any other year the Aṃśuvarman ('Mānadeva')
+saṃvat (AS); both are the Kārttikādi current Śaka (K. P. Malla, CNAS Journal 32.1,
 2005), the second with 500 dropped: see calendar/verify.py.
 """
 import json, os, re, sys
@@ -49,7 +49,7 @@ def main():
             year, basis = ry, 'reading'
         if not year:
             continue
-        era = 'LIC' if year >= 300 else 'AS'
+        era = 'LIC' if 386 <= year <= 535 else 'AS'
         r = V.verify(era, year, d.get('month', ''), d.get('paksa', ''), d.get('tithi', ''), d.get('weekday', ''),
                      d.get('nakshatra_yoga', ''))
         if not r.get('ce'):

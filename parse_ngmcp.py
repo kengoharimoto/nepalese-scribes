@@ -1,7 +1,7 @@
 """Parse NGMCP catalogue HTML entries into records.jsonl (one record per file)."""
 import re, html, os, json, sys, unicodedata
 
-SRC = '/mnt2/kengo/E-texts/NGMCP'
+SRC = '/mnt2/kengo/E-texts/reference/ngmcp'
 OUT = os.path.join(os.path.dirname(__file__), 'data', 'records.jsonl')
 
 FIELDS = ['Inventory No.', 'Reel No.', 'Title', 'Remarks', 'Author', 'Commentator', 'Subject',
@@ -34,7 +34,10 @@ def one_line(s):
 
 
 def parse(f):
-    t = clean(os.path.join(SRC, f))
+    return parse_text(clean(os.path.join(SRC, f)), f)
+
+
+def parse_text(t, f):
     rec = {'file': f}
     excerpt_start = None
     m = re.search(r'^\s*Excerpts\s*$', t, re.M)

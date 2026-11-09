@@ -2,7 +2,13 @@
 
 A register of the people named in Nepalese manuscripts (scribes, commissioners, owners, donors,
 reigning kings, teachers, and the kin named to identify them), built from the NGMCP catalogue
-entries in `/mnt2/kengo/E-texts/NGMCP` (13,382 HTML files, 11,861 microfilm reels).
+entries in `/mnt2/kengo/E-texts/reference/ngmcp` (17,041 HTML files, 11,866 reels), completed from the
+wiki mirror (6,211 further pages, 6,162 reels or bundle items that have no local card): 18,545
+manuscripts and inscriptions in all.
+
+Status: 1,847 of the 5,102 colophons in the worklist, nearly all from the cards added from the mirror
+and the later local cards, have not been read yet (the Gemini key ran out of credit). Until they are
+read, those manuscripts contribute only their catalogue fields (Scribe, King, Donor, Date of Copying).
 
 Chart: https://kengoharimoto.github.io/nepalese-scribes/ (built from `out/nepalese_scribes.html` by
 `.github/workflows/pages.yml` on every push that changes it; a private copy is also kept as a
@@ -18,10 +24,12 @@ a mirror of its files is published under CC0 at https://github.com/INDOLOGY/NGMC
 | step | script | output |
 |---|---|---|
 | parse catalogue HTML (fields + «Colophon» excerpt) | `parse_ngmcp.py` | `data/records.jsonl` |
-| select colophons that may name people or dates | `extract/make_worklist.py` | `extract/worklist.jsonl` (3,258 reels) |
+| parse the wiki mirror (clone into `E-texts/reference/ngmcp-mirror-src/repo`), keeping the pages whose reel has no local card (same reel, or same inventory number and a similar title); every Colophon block is kept, bundle items ('E 1774-3(30)') stay separate | `parse_mirror.py` | `data/records_mirror.jsonl` |
+| select colophons that may name people or dates | `extract/make_worklist.py` | `extract/worklist.jsonl` (5,102 reels) |
 | first reading of every colophon (Gemini Flash, key as in `indology-genealogy/pipeline/llm.py`) | `extract/extract_gemini.py` | `extract/out_gflash/` |
 | pick uncertain readings: low confidence, doubt in notes, catalogue Scribe/King not found, date off by > 2 years | `extract/select_review.py` | `extract/review_list.jsonl` |
 | second reading by Opus (`claude -p`), given the colophon and the first reading | `extract/review.py` | `extract/out_review/` |
+| first reading by Opus where Gemini was unavailable (so far C 80/7 and four reels whose colophon grew in a later card; their Flash readings are in `extract/out_superseded/`) | `extract/extract.py` | `extract/out_opus/` |
 | Bendall's Cambridge manuscripts (1883): one record per Add. number or part of a composite number | `extract/make_bendall_worklist.py` | `extract/worklist_bendall.jsonl` (319) |
 | their first reading (Bendall's English notes and Devanāgarī excerpts together) and Opus second reading | `extract_gemini.py` / `select_review.py` / `review.py` with `--preamble bendall_preamble.txt` | `extract/out_gflash/Cambridge_*`, `extract/out_review/Cambridge_*` (30) |
 | merge readings and catalogue fields, group persons, convert dates | `build_persons.py` | `data/manuscripts.json`, `data/persons.json`, `data/relations.json` |
@@ -41,10 +49,18 @@ reset time and skip reels already done, so they can simply be restarted.
 - Licchavi inscriptions: persons named only as ancestors in genealogies are left out, and Licchavi persons
   are grouped separately from the persons of manuscripts (keys `lic:`); -varman stays part of a name there.
   Both Licchavi series (saṃvat 386–535, and Aṃśuvarman's from 29) are read as the Kārttikādi current Śaka
-  (Malla 2005), the second with 500 dropped (`calendar/verify.py`, eras LIC and AS).
+  (Malla 2005), the second with 500 dropped (`calendar/verify.py`, eras LIC and AS). A year is LIC only
+  within 386–535, otherwise AS. Entry 55 of the edition is not an inscription but the colophon of the
+  Suśrutasaṃhitā, Kaiser Library 699 (C 80/7), and is left out (`NOT_INSCRIPTIONS` in
+  `extract/make_licchavi_worklist.py`); the manuscript is registered from its catalogue entry (by KH, in the
+  mirror). There Vasuvarman (vaidya, of Gaṇadevadevakula) is the owner, the book having been given to him;
+  Harṣacandra, subject of *prākhilat* (for *prālikhat*), is read as the scribe, but he may have had the copy
+  made (Acharya in Klebanov: causative; Suvedī & Tivārī read an ablative and a lost scribe's name): open.
 - Paper manuscripts dated before 1300 are treated as undated (`date_doubtful`); the Aṃśuvarman ("Mānadeva")
-  saṃvat is the Kārttikādi Śaka − 500 (K. P. Malla 2005; `calendar/verify.py`); B 11/4 and C 80/7, AS-dated
-  and only in the title list, are added from `data/extra_manuscripts.json`.
+  saṃvat is the Kārttikādi Śaka − 500 (K. P. Malla 2005; `calendar/verify.py`), recognised in the catalogue as
+  'Mānadeva Saṃvat'; B 11/4, AS-dated and only in the title list, is added from `data/extra_manuscripts.json`.
+- Month names: the poetic Mādhava is Vaiśākha, and the vṛddhi spelling jyaiṣṭha is Jyeṣṭha.
+- Places: Deopatan (Devapattana, by Paśupati) is kept apart from Patan (Lalitpur).
 - Dates: recalculated from the colophons with the pañcāṅga and checked against the stated weekday
   (`calendar/verify.py`); the flat conversion below is kept as `date_flat` and used for year-only dates.
 - Flat conversion (before the pañcāṅga): the catalogue date where it names the era; otherwise the colophon reading.

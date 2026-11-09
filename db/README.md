@@ -1,7 +1,7 @@
 # NGMCP database (`db/ngmcp.sqlite`)
 
 One SQLite database combining the NGMCP descriptive catalogue (13,382 HTML entries in
-`/mnt2/kengo/E-texts/NGMCP`) and the NGMCP title list (MySQL dump `data/ngmcpdb_production.sql.bz2`).
+`/mnt2/kengo/E-texts/reference/ngmcp`) and the NGMCP title list (MySQL dump `data/ngmcpdb_production.sql.bz2`).
 
     python3 db/build_db.py      # about 15 seconds; writes db/ngmcp.sqlite (not in git, ~90 MB)
 

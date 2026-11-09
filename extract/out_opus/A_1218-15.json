@@ -1,0 +1,63 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrī jaya Bhūpatīndramalla devasana",
+   "name": "Bhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Bhaktapur",
+   "evidence": "śrīśrī jaya Bhūpatīndramalla devasana",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ñalāyā śrīśrīIndramalladevasake",
+   "name": "Indramalladeva",
+   "roles": [
+    "king",
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Yala (Patan)?",
+   "evidence": "ñalāyā śrīśrīIndramalladevasake",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "other",
+   "to": "p2",
+   "evidence": "Bhūpatīndramalla devasana ñalāyā śrīśrīIndramalladevasake ... vāṅāyā dharota"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "Record (dharoṭa) of what Bhūpatīndra Malla sent to Indra Malla when the Gaurīvivāha dance-drama was performed",
+ "notes": "No scribe is named. The quoted colophon contains no date and no place. The catalogue gives NS 827 pauṣa śukla tṛtīyā śukravāra (≈1707 CE) and Bhaktapur, so those details probably come from elsewhere in the manuscript. The text reads as a record of goods 'sent' (vāṅāyā) by King Bhūpatīndra Malla of Bhaktapur (instrumental -sana) to Indra Malla (-sake 'to') on the occasion of the Gaurīvivāha pyākhan. 'ñalāyā' is probably a corruption or misreading of 'yalāyā' ('of Yala', i.e. Patan). That fits Indra Malla, who ruled Patan briefly around NS 826–829. Bhūpatīndra's role is a mix of king and sender/commissioner of the document; Indra Malla is the recipient, not the reigning king of the place where it was copied.",
+ "_meta": {
+  "reel": "A 1218/15",
+  "model": "opus",
+  "cost_usd": 0.05644,
+  "secs": 13.5
+ }
+}

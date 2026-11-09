@@ -1,6 +1,6 @@
 """Build a prosopographical dataset from parsed NGMCP records.
 
-Input:  data/records.jsonl (parse_ngmcp.py); Bendall's Cambridge catalogue (db/bendall.py, extract/make_bendall_worklist.py)
+Input:  data/records.jsonl (parse_ngmcp.py), data/records_mirror.jsonl (parse_mirror.py); Bendall's Cambridge catalogue (db/bendall.py, extract/make_bendall_worklist.py)
 Output: data/manuscripts.json  one row per microfilm reel (deduplicated)
         data/persons.json      one row per person (scribe / donor / king), with links to MSS
 """
@@ -11,7 +11,10 @@ D = lambda *p: os.path.join(HERE, 'data', *p)
 
 # ---------------------------------------------------------------- reels
 def reel_key(r):
-    """'A 1/1 = A 3/1' -> 'A 1/1'; falls back to the filename's reel number."""
+    """'A 1/1 = A 3/1' -> 'A 1/1'; falls back to the filename's reel number. Mirror records carry their own key
+    ('_reel', parse_mirror.py)."""
+    if r.get('_reel'):
+        return r['_reel']
     s = (r.get('Reel No.') or '').split('=')[0]
     m = re.search(r'([A-Z]{1,2})\s*(\d+)\s*[/-]\s*(\d+)\s*([a-z]?)', s)
     if not m:
@@ -28,6 +31,7 @@ ERA_PATTERNS = [  # order matters only for ties; the earliest match in the strin
     ('VS', r'\bV\s?S|Vikra?ma'),
     ('ŚS', r'ŚS|ŚŚ|\bSS\b|Śaka|[Śś]āke|[Śś]ake'),
     ('LS', r'\bL\.?\s?S\.?'),
+    ('AS', r'M[aā]nadeva\s*[Ss]a[mṃ]vat|A[mṃ][śs]uvarm[a-z]*\s*[Ss]a[mṃ]vat'),
     ('SAM', r'SAM|[Ss]a[mṃ]vat|[Ss]aṃ\.?|[Ss]a[mṃ]\b|Sambat|Sṃ|\bS\b'),
 ]
 YEAR = r'[\s.?:]*(?:(NS|VS|ŚS|ŚŚ|LS)[\s?]*)?(\d{2,4})\b'
@@ -170,6 +174,7 @@ def name_key(n, role='', keep_suffix=False):
 # ---------------------------------------------------------------- places
 PLACE_MAP = [
     ('Bhaktapur', r'bhakta|khvapa|khopa|bhatgaon'),
+    ('Deopatan', r'deopatan|devapat|deupatan'),  # by Paśupati, not Patan
     ('Patan (Lalitpur)', r'lalit|yala|patan|hnolavih|cukramah'),
     ('Kathmandu', r'kathmandu|kant[i]pur|kast[h]amand|yen\b|kathamand'),
     ('Vārāṇasī', r'kasi|varan|banaras|benares'),
@@ -196,9 +201,10 @@ GROUP_ORDER = ['scribe', 'patron', 'king', 'other', 'kin']
 
 
 def reading(reel):
-    """The Opus second reading if there is one, else the Gemini Flash reading, else None."""
+    """The Opus second reading if there is one, else an Opus first reading (extract.py -> out_opus, used when
+    Gemini was unavailable), else the Gemini Flash reading, else None."""
     fid = reel.replace(' ', '_').replace('/', '-') + '.json'
-    for d, src in (('out_review', 'opus'), ('out_gflash', 'flash')):
+    for d, src in (('out_review', 'opus'), ('out_opus', 'opus'), ('out_gflash', 'flash')):
         p = os.path.join(EXTRACT, d, fid)
         if os.path.exists(p):
             o = json.load(open(p))
@@ -324,7 +330,8 @@ def licchavi_records():
 
 # ---------------------------------------------------------------- build
 def main():
-    recs = [json.loads(l) for l in open(D('records.jsonl'))]
+    recs = [json.loads(l) for f in ('records.jsonl', 'records_mirror.jsonl') if os.path.exists(D(f))
+            for l in open(D(f))]
     byreel = collections.OrderedDict()
     for r in recs:
         k = reel_key(r)

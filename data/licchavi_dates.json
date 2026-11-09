@@ -328,16 +328,24 @@
   }
  },
  "Licchavi inscr. 12": {
-  "status": "year-only",
+  "status": "computed",
+  "rule": "standard",
   "ce": 490,
+  "date": "0490-05-16",
   "given": {
    "era": "LIC",
    "year": 413,
-   "masa": null,
+   "masa": "Jyeṣṭha",
    "paksa": "s",
    "tithi": 11,
    "weekday": null,
    "naksatra": null
+  },
+  "computed": {
+   "weekday": "Wednesday",
+   "tithi": 11,
+   "naksatra": "Citra",
+   "saka": 412
   },
   "basis": "editor",
   "reading": "out_gflash",
@@ -688,16 +696,24 @@
   }
  },
  "Licchavi inscr. 30": {
-  "status": "year-only",
+  "status": "computed",
+  "rule": "standard",
   "ce": 531,
+  "date": "0531-05-08",
   "given": {
    "era": "LIC",
    "year": 454,
-   "masa": null,
+   "masa": "Jyeṣṭha",
    "paksa": "s",
    "tithi": 6,
    "weekday": null,
    "naksatra": null
+  },
+  "computed": {
+   "weekday": "Thursday",
+   "tithi": 6,
+   "naksatra": "Aslesa",
+   "saka": 453
   },
   "basis": "editor",
   "reading": "out_gflash",
@@ -1302,27 +1318,6 @@
    "DV": "53",
    "HJ": "56",
    "R": "48"
-  }
- },
- "Licchavi inscr. 55": {
-  "status": "year-only",
-  "ce": 378,
-  "given": {
-   "era": "LIC",
-   "year": 301,
-   "masa": null,
-   "paksa": "s",
-   "tithi": 7,
-   "weekday": "Sunday",
-   "naksatra": "Pusya"
-  },
-  "basis": "reading",
-  "reading": "out_gflash",
-  "header": "\"Sahottara-tantra\" book",
-  "as_written": "varṣe caik-ottarasmiṃs-tritayaśatagate mādhave māsi śukle saptamyāṃ puṣyaṛkṣe daśa[śa]takiraṇe vāsare siddhayoye",
-  "concordance": {
-   "DV": "190",
-   "R": "161"
   }
  },
  "Licchavi inscr. 56": {
@@ -2792,16 +2787,24 @@
   }
  },
  "Licchavi inscr. 124": {
-  "status": "year-only",
+  "status": "computed",
+  "rule": "standard",
   "ce": 680,
+  "date": "0680-05-10",
   "given": {
    "era": "AS",
    "year": 103,
-   "masa": null,
+   "masa": "Jyeṣṭha",
    "paksa": "s",
    "tithi": 7,
    "weekday": null,
    "naksatra": null
+  },
+  "computed": {
+   "weekday": "Thursday",
+   "tithi": 7,
+   "naksatra": "Magha",
+   "saka": 602
   },
   "basis": "editor",
   "reading": "out_gflash",
@@ -2815,16 +2818,24 @@
   }
  },
  "Licchavi inscr. 125": {
-  "status": "year-only",
+  "status": "computed",
+  "rule": "standard",
   "ce": 680,
+  "date": "0680-05-17",
   "given": {
    "era": "AS",
    "year": 103,
-   "masa": null,
+   "masa": "Jyeṣṭha",
    "paksa": "s",
    "tithi": 13,
    "weekday": null,
    "naksatra": null
+  },
+  "computed": {
+   "weekday": "Thursday",
+   "tithi": 13,
+   "naksatra": "Visakha",
+   "saka": 602
   },
   "basis": "editor",
   "reading": "out_gflash",

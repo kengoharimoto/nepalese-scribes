@@ -7,7 +7,7 @@ inside labels, missing colons); values are kept verbatim apart from whitespace.
 """
 import html, os, re, unicodedata
 
-SRC = '/mnt2/kengo/E-texts/NGMCP'
+SRC = '/mnt2/kengo/E-texts/reference/ngmcp'
 
 # canonical field -> label spellings found in the files
 ALIASES = {

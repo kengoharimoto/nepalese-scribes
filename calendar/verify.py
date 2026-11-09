@@ -56,7 +56,8 @@ MASA = ['Caitra', 'Vaisakha', 'Jyaistha', 'Asadha', 'Sravana', 'Bhadrapada', 'As
         'Pausa', 'Magha', 'Phalguna']
 MASA_IAST = ['Caitra', 'Vaiśākha', 'Jyeṣṭha', 'Āṣāḍha', 'Śrāvaṇa', 'Bhādrapada', 'Āśvina', 'Kārttika',
              'Mārgaśīrṣa', 'Pauṣa', 'Māgha', 'Phālguna']
-MASA_PAT = [r'cait|चैत', r'vais|baisa|vaiś|वैशा|वैशा|बैशा|वैसा', r'jy?e[sṣ]?[tṭ]|jye|jeṭh|jeth|ज्ये|जेठ|जेष्ठ',
+# poetic names: Mādhava = Vaiśākha (Suśrutasaṃhitā C 80/7); the vṛddhi spelling jyaiṣṭha is common in inscriptions
+MASA_PAT = [r'cait|चैत', r'vais|baisa|vaiś|m[aā]dhav|वैशा|वैशा|बैशा|वैसा', r'jy?e[sṣ]?[tṭ]|jye|jyai|jeṭh|jeth|ज्ये|जेठ|जेष्ठ',
             r'a[sṣ]a[dḍ]h|asar|आषा|आसा|अषा|असा[ढर]', r'sr[aā]va|srav|saun|श्राव|श्रव|स्राव|सावन',
             r'bh[aā]dr|bhado|भाद्र|भाद्', r'asv[iī]n|asoj|asvay|asvi|आश्वि|अश्वि|आसो|असो|आश्व',
             r'kart|kārt|katti|कार्त|कात्ति|कार्ति|कातिक', r'marg|agrah|mangs|marga|मार्ग|मार्गशि|अग्रह|मंसि',

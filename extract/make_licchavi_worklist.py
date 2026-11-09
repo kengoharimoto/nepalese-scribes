@@ -26,6 +26,12 @@ def concordance(text):
     return out
 
 
+# entries of the edition that are not inscriptions and are registered from another source
+NOT_INSCRIPTIONS = {
+    55: 'colophon of the Suśrutasaṃhitā, Kaiser Library 699 (NGMCP C 80/7), registered from its catalogue entry',
+}
+
+
 def entries():
     out = {}
     for f in glob.glob(os.path.join(SRC, 'content*.txt')):
@@ -41,7 +47,7 @@ def entries():
         sm = re.search(r'Saṃvat\s*\[?(\d[\d\]\[]*)', head)
         out[n] = {'no': n, 'file': os.path.basename(f), 'head': head, 'text': t.strip(),
                   'samvat': re.sub(r'[\[\]]', '', sm.group(1)) if sm else '', 'conc': concordance(t)}
-    return [out[k] for k in sorted(out)]
+    return [out[k] for k in sorted(out) if k not in NOT_INSCRIPTIONS]
 
 
 def clip(t, n=14000):
