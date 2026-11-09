@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīlakṣmīdharasūreḥ",
+   "name": "Lakṣmīdhara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "padavākyapramāṇajña",
+    "sūri"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīlakṣmīdharasūreḥ sūnunā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bha(ṭṭo)jidīkṣitena",
+   "name": "Bhaṭṭojidīkṣita",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bha(ṭṭo)jidīkṣitena viracitāyāṃ śrīcaturviṃśatismṛtivyākhyāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīlakṣmīdharasūreḥ sūnunā"
+  }
+ ],
+ "date": {
+  "as_written": "śrāvaṇa vadi 6 roja 6 ... śrīśāke 1740 śrīsamvat 1875 sāla",
+  "era": "VS",
+  "year": "1875",
+  "month": "śrāvaṇa",
+  "paksa": "vadi",
+  "tithi": "6",
+  "weekday": "roja 6",
+  "nakshatra_yoga": "",
+  "ce_approx": "1818"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śaka era 1740 and Vikrama Samvat 1875 are recorded. Roja 6 corresponds to Friday (śukravāra).",
+ "_meta": {
+  "reel": "B 407/22",
+  "model": "gemini-flash-latest",
+  "secs": 12.1,
+  "in_tok": 805,
+  "out_tok": 1715
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "revatiramaṇasya",
+   "name": "Revatiramaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "revatiramaṇasya hastākṣara[ṃ]",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1773 saṃbat 1908 māse 1 tithau 11 vāre7 śuklapakṣe",
+  "era": "ŚS",
+  "year": "1773",
+  "month": "1",
+  "paksa": "śuklapakṣa",
+  "tithi": "11",
+  "weekday": "7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1851"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śāka era 1773 and Vikrama Saṃvat 1908 are recorded, corresponding to 1851 CE.",
+ "_meta": {
+  "reel": "E 1212/3",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 730,
+  "out_tok": 787
+ }
+}

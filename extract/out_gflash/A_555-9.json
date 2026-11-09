@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmacandrācāryya",
+   "name": "Rāmacandra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmacandrācāryyaviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "sambat 798 pauṣa kṛṣṇa pañcami",
+  "era": "NS",
+  "year": "798",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "pañcamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1678"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 555/9",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 694,
+  "out_tok": 553
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paṇḍitaśrīmahādevena",
+   "name": "Mahādeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṇḍitaśrīmahādevena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 28/15 (1)",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 741,
+  "out_tok": 499
+ }
+}

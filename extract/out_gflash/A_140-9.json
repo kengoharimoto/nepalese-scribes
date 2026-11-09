@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvajrācāryyaratnamuni",
+   "name": "Ratnamuni",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "tadamūramahāviṃhmara",
+   "residence": "pākopuṣulidyāmapūrvvagṛha",
+   "evidence": "śrīvajrācāryyaratnamuni ... dharmmacittajuyāṅo (dhva)śrī3hevajratantra coyāṅo tayā jula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śubhasamvat 1001 mti (!) jyeṣṭhakṛṣṇayā 9 sa",
+  "era": "NS",
+  "year": "1001",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1881"
+ },
+ "place": {
+  "as_written": "nepālakāṣṭhamaṇḍapa,mahānagare tadamūramahāviṃhmarayā,pākopuṣulidyāmapūrvvagṛhe",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "dharmacitta (dharmmacittajuyāṅo)",
+ "notes": "Vajradevī mentioned before Ratnamuni is likely the deity Vajrayoginī/Vajradevī, reading '(sevaka)' or similar in '(spavaka)'.",
+ "_meta": {
+  "reel": "A 140/9",
+  "model": "gemini-flash-latest",
+  "secs": 11.4,
+  "in_tok": 970,
+  "out_tok": 1694
+ }
+}

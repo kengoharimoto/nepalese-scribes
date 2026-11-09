@@ -1,0 +1,106 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīcakrarāja upādhyāna",
+   "name": "Cakrarāja",
+   "roles": [
+    "scribe",
+    "other"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīcakrarāja upādhyāna yātā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīravirājadeva upādhyāyāju",
+   "name": "Ravirājadeva",
+   "roles": [
+    "scribe",
+    "other"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "thva jagaṃnāthayā pūjā ādiṃ śrīravirājadeva upādhyāyāju julo",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīprāṇamallarājāna",
+   "name": "Prāṇamalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "rājā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīprāṇamallarājāna ... saṃkalpa yāka dina",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "bhāvasiṃhakāyaṣṭha",
+   "name": "Bhāvasiṃha",
+   "roles": [
+    "commissioner",
+    "other"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāvasiṃhakāyaṣṭha thva nyahmasana saṃkalpa yāka dina",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "samvat 663 jyeṣtha sudi 15 śrīprāṇamallarājāna"
+  },
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "śrīprāṇamallarājāna bhāvasiṃhakāyaṣṭha"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 663 jyeṣtha sudi 15",
+  "era": "NS",
+  "year": "663",
+  "month": "Jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "15",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1543"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The manuscript contains multiple ritual/scribal recording dates: NS 663 Jyeṣṭha sudi 15 during the reign of King Prāṇamalla, NS 822 Jyeṣṭha kṛṣṇa pañcamī with Cakrarāja Upādhyāya, and a later note from NS 1039. The catalogue lists Cakrarāja and Ravirājadeva as scribes.",
+ "_meta": {
+  "reel": "B 195/34",
+  "model": "gemini-flash-latest",
+  "secs": 20.6,
+  "in_tok": 1030,
+  "out_tok": 3312
+ }
+}

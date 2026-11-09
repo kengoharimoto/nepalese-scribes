@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayabhūpatindramalladevasana",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "commissioner",
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayabhūpatindramalladevasana trilohamudrikāpratiṣṭhāyāṅā yā thva saphuli dayakā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 837 bhādrapadavadi 15 somavāla kuhnu",
+  "era": "NS",
+  "year": "837",
+  "month": "bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "15",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1717"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "trilohamudrikāpratiṣṭhāyāṅā yā (for performing the consecration of the trilohamudrikā)",
+ "notes": "",
+ "_meta": {
+  "reel": "A 237/2",
+  "model": "gemini-flash-latest",
+  "secs": 7.3,
+  "in_tok": 744,
+  "out_tok": 1020
+ }
+}

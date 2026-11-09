@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayadha[[rmma]]maladevasya",
+   "name": "Jayadharmamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājāddhirājaparameśvaraparamabhaṭṭārakaśrīśrījayadha[[rmma]]maladevasya vijayarā⁅jyaṃ⁆",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 521 phalguṇaśukladaśamyāṃ pūrṇṇavvasunakṣatre gaṇḍaḥ budhavāsa",
+  "era": "NS",
+  "year": "521",
+  "month": "phālguṇa",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "punarvasu nakṣatra, gaṇḍa yoga",
+  "ce_approx": "1401"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No personal name is provided for the scribe, who is referred to generally in the closing formula (lekhakasya dośa parisodhanīyam).",
+ "_meta": {
+  "reel": "A 57/5 (1)",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 1187,
+  "out_tok": 1053
+ }
+}

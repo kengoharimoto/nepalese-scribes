@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumati jayajitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jayajitāmitramalladevasana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 803 caitra śudi 3",
+  "era": "NS",
+  "year": "803",
+  "month": "caitra",
+  "paksa": "śudi",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1683"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrī 3 siddhilakṣmī prīnātu",
+ "notes": "The place of copying (Bhaktapur) recorded in the catalogue is inferred from the reign of King Jitāmitra Malla, but is not explicitly named in the colophon.",
+ "_meta": {
+  "reel": "A 624/11 (4)",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 723,
+  "out_tok": 762
+ }
+}

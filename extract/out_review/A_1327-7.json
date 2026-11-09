@@ -1,0 +1,65 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Persons, roles, titles and date confirmed as they were",
+   "Notes expanded: the era is not stated in the colophon and why NS is still the right reading; ṣ may stand for kh in the author's name; kalparatikā is a slip for kalpalatikā; the lacuna before nakṣetra"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkavikairavenduśrījāṣarāja",
+   "name": "Jāṣarāja",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavikairavendu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkavikairavenduśrījāṣarājaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvakjrācārya hṛdayānandena",
+   "name": "Hṛdayānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvakjrācārya hṛdayānandena liṣita",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 891 śrāvan śuddhi tṛyā(!) (‥ ‥ ‥) nakṣetra(!) taddine",
+  "era": "NS",
+  "year": "891",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1771"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon says only 'saṃvat 891', with no era named. NS is the right reading: the scribe is a Newar vajrācārya, and VS 891 (c. 834 CE) or ŚS 891 (c. 969 CE) would be far too early for a Devanagari paper manuscript. The catalogue also gives NS 891, i.e. 1771 CE. The nakṣatra name is lost in the lacuna before 'nakṣetra(!)'. 'vakjrācārya' is a corrupt spelling of vajrācārya, 'liṣitam' stands for likhitam, 'tṛyā' for tṛtīyā, and 'kalparatikā' in the first colophon is a slip for kalpalatikā. In Newar Devanagari ṣ often stands for kh, so the author's name may really be Jākharāja. 'kavikairavendu' is an epithet ('moon to the lotus of poets'), not part of the name.",
+ "_meta": {
+  "reel": "A 1327/7",
+  "model": "opus",
+  "cost_usd": 0.0582868,
+  "secs": 13.4
+ }
+}

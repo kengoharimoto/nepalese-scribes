@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "karaṇa śrīkāśināthena",
+   "name": "Kāśinātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "karaṇa śrīkāśināthena ... pustakam alekhi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vaiṣṇavabāṇakadāsa",
+   "name": "Bāṇakadāsa",
+   "roles": [
+    "beneficiary",
+    "reader"
+   ],
+   "titles": [
+    "vaiṣṇava"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vaiṣṇavabāṇakadāsapaṭhanārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "karaṇa śrīkāśināthena vaiṣṇavabāṇakadāsapaṭhanārthaṃ yathā dṛṣṭaṃ pustakam alekhi"
+  }
+ ],
+ "date": {
+  "as_written": "la saṃ 447 śrāvaṇabadi 5 candravāsare",
+  "era": "LS",
+  "year": "447",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "candravāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1566"
+ },
+ "place": {
+  "as_written": "viarāgrāme",
+  "normalized": ""
+ },
+ "purpose": "vaiṣṇavabāṇakadāsapaṭhanārtham",
+ "notes": "",
+ "_meta": {
+  "reel": "B 12/12",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 941,
+  "out_tok": 985
+ }
+}

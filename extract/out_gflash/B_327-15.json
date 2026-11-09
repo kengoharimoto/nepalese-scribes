@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgaṇeśadaivajña",
+   "name": "Gaṇeśa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgaṇeśadaivajñakṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The excerpt is a section colophon (pañcāṅgānayanagrahāhaṇādhikāra) from the Grahalāghava composed by Gaṇeśa Daivajña; no scribal colophon or date is present.",
+ "_meta": {
+  "reel": "B 327/15",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 661,
+  "out_tok": 524
+ }
+}

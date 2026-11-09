@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dharmarāja tṛpāṭhīdvijena",
+   "name": "Dharmarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "tṛpāṭhī",
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitam idaṃ pustakaṃ dharmarāja tṛpāṭhīdvijena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1952 sāla miti jyeṣṭa vadi 14 roja 5",
+  "era": "VS",
+  "year": "1952",
+  "month": "jyeṣṭa",
+  "paksa": "vadi",
+  "tithi": "14",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1895"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthaṃ ca",
+ "notes": "",
+ "_meta": {
+  "reel": "B 194/10",
+  "model": "gemini-flash-latest",
+  "secs": 10.0,
+  "in_tok": 709,
+  "out_tok": 1325
+ }
+}

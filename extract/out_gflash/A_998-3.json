@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīyasorājacandrasya",
+   "name": "Yaśorājacandra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bālavāgīśvara",
+    "bālayogīśvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gopātmajaśrīyasorājaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gopa",
+   "name": "Gopa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gopātmaja",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "gopātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "la saṃ 144 āṣāḍhaśudi 11 ravivāre",
+  "era": "LS",
+  "year": "144",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1263"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 998/3",
+  "model": "gemini-flash-latest",
+  "secs": 10.3,
+  "in_tok": 1201,
+  "out_tok": 1373
+ }
+}

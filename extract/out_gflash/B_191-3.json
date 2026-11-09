@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīcandraśekharakavir",
+   "name": "Candraśekhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīcandraśekharakavir vvililekha sarvvaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "svarvvaidyanetravasubhir bbalite 'bdake vai pakṣe tapasy amaline ca gurau caturthyāṃ ... samvata 822 phālguna kṛṣṇa caturthī bṛhaspativāra",
+  "era": "NS",
+  "year": "822",
+  "month": "phālguna",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturthī",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1702"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīkaṇṭhaśaktipadapaṃkajapūjanārthaṃ",
+ "notes": "The chronogram in verse gives svarvaidya (2) - netra (2) - vasu (8) = 822, corresponding to the prose date Saṃvat 822.",
+ "_meta": {
+  "reel": "B 191/3",
+  "model": "gemini-flash-latest",
+  "secs": 10.2,
+  "in_tok": 821,
+  "out_tok": 1223
+ }
+}

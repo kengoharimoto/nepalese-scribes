@@ -1,0 +1,84 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "padmanābhabhūmīpati",
+   "name": "Padmanābha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhūmīpati"
+   ],
+   "affiliation": "nikhānvaya / vaṅgavaṃśa",
+   "residence": "",
+   "evidence": "padmanābhabhūmīpatitanūjanmano",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mahārājasya ... gajapativīraśrīnārāyaṇadevasya",
+   "name": "Nārāyaṇadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahārāja",
+    "gajapati",
+    "vīra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājasya sāhityasaṅgītārṇavakarṇadhārakamaṇer gajapativīraśrīnārāyaṇadevasya kṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīkaviratnapuruṣottamamiśra",
+   "name": "Puruṣottama",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kaviratna",
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkaviratnapuruṣottamamiśrakṛtiḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "padmanābhabhūmīpatitanūjanmano"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1857",
+  "era": "VS",
+  "year": "1857",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1800"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Gajapati Vīra Nārāyaṇadeva and Kaviratna Puruṣottama Miśra are credited as the authors of the Saṅgītanārāyaṇa in the colophon; Puruṣottama Miśra was the actual court scholar who composed it under the patronage/name of King Nārāyaṇadeva of Parlakhemundi.",
+ "_meta": {
+  "reel": "B 288/28",
+  "model": "gemini-flash-latest",
+  "secs": 15.7,
+  "in_tok": 913,
+  "out_tok": 2031
+ }
+}

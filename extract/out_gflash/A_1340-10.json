@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivarāma",
+   "name": "Śivarāma",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śivarāmakṛtir",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1709 māse jyeṣṭhakrṣṇadvādaśyāṃ caṃdra‥ ‥ ‥ ‥ ‥dine",
+  "era": "ŚS",
+  "year": "1709",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādaśī",
+  "weekday": "caṃdra‥dine",
+  "nakshatra_yoga": "",
+  "ce_approx": "1787"
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "No scribe is named; 'caṃdra‥ ‥ ‥ ‥ ‥dine' likely represents Monday (Candravāsara/Candradina).",
+ "_meta": {
+  "reel": "A 1340/10",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 720,
+  "out_tok": 852
+ }
+}

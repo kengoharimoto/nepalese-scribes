@@ -1,0 +1,72 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnāgārjuna",
+   "name": "Nāgārjuna",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnāgārjunaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śvetāṃbarapaṃḍitaśrīguṇākara",
+   "name": "Guṇākara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "śvetāmbarapaṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śvetāṃbarapaṃḍitaśrīguṇākaraviracitā ... ṭīkā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīgopīnāthaśarmaṇā",
+   "name": "Gopīnātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgopīnāthaśarmaṇā likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1879 śrīśāke 1744 caitrakṛṣṇāmāvāsyāyāṃ",
+  "era": "VS",
+  "year": "1879",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "amāvāsyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1822"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīgurave samarpitam astu",
+ "notes": "Both Vikrama Saṃvat 1879 and Śaka Saṃvat 1744 are specified in the date formula.",
+ "_meta": {
+  "reel": "B 90/14",
+  "model": "gemini-flash-latest",
+  "secs": 12.4,
+  "in_tok": 867,
+  "out_tok": 1529
+ }
+}

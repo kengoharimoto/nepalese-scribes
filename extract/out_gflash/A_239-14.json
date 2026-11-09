@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījagadānanda",
+   "name": "Jagadānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījagadānandavira(ci)taṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 720 pgālguṇa śuddhi paṃcamyāṃ",
+  "era": "NS",
+  "year": "720",
+  "month": "pgālguṇa",
+  "paksa": "śuddhi",
+  "tithi": "paṃcamyāṃ",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1600"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Jagadānanda is mentioned as the author of the appended Śrīmahātripurasundarīstotra. No scribe or patron is named.",
+ "_meta": {
+  "reel": "A 239/14",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 869,
+  "out_tok": 910
+ }
+}

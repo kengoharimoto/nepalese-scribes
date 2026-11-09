@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvajradhareṇa",
+   "name": "Vajradhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "jaśodhanākhya vihāra",
+   "residence": "lalitāpurī śrīmānigala",
+   "evidence": "lekhyaṃ śrīvajradhareṇa yā likhitapustaka saṃti tādṛṣṭa likhitaṃ mayā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīman nepālasambat caturanavanava māsakṛṣṇe ca āśvina tat kṛṣṇāyāṃ ṣaṣṭhitithau paridivaśivabhaṃ siddhiyogaś ca ghasro tat ghasro vāra śukre ravinivasa tulārāśi mithune candra",
+  "era": "NS",
+  "year": "994",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "ṣaṣṭhī",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "śivabha (ārdrā), siddhiyoga",
+  "ce_approx": "1874"
+ },
+ "place": {
+  "as_written": "suramye lalitāpuryyāṃ śrīmānigalasaṃjñake || jaśodhanākhyaṃ vihārāsya",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The year 'caturanavanava' is interpreted as 994 NS.",
+ "_meta": {
+  "reel": "A 939/20",
+  "model": "gemini-flash-latest",
+  "secs": 11.2,
+  "in_tok": 921,
+  "out_tok": 1371
+ }
+}

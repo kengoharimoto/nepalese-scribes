@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkṛṣṇajośī",
+   "name": "Śrīkṛṣṇa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pustakam idaṃ ⟪‥ ‥ ‥ ‥ ‥⟫ śrīkṛṣṇajośī",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "bhādraśukle caturthyāṃ tu śaśivāre ca vāyubhe",
+  "era": "none",
+  "year": "",
+  "month": "bhādra",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "śaśivāra",
+  "nakshatra_yoga": "vāyubha",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Following the manuscript ownership statement (pustakam idaṃ ... śrīkṛṣṇajośī), the colophon records the astrological birth details of a son: 'bhādraśukle caturthyāṃ tu śaśivāre ca vāyubhe || siṃhalagne paṃcaśubhagrahayukto bhavat sutaḥ'.",
+ "_meta": {
+  "reel": "A 474/38",
+  "model": "gemini-flash-latest",
+  "secs": 8.6,
+  "in_tok": 754,
+  "out_tok": 1251
+ }
+}

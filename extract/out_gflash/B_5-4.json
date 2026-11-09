@@ -1,0 +1,68 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīrāma",
+   "name": "Rāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "...puragrāma",
+   "evidence": "śrīśrīrāmaśrībrāhmaṇaśrībhīmair likhi(taṃ)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrībrāhmaṇa",
+   "name": "Brāhmaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "...puragrāma",
+   "evidence": "śrībrāhmaṇaśrībhīmair likhi(taṃ)",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrībhīmair",
+   "name": "Bhīma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "...puragrāma",
+   "evidence": "śrībhīmair likhi(taṃ)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "la saṃ 429 caitrakṛṣṇaṣaṣṭhyāṃ",
+  "era": "LS",
+  "year": "429",
+  "month": "Caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "6",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1548"
+ },
+ "place": {
+  "as_written": "... puragrāmīyai",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The three co-scribes are named in the dvandva compound śrīśrīrāmaśrībrāhmaṇaśrībhīmair; the cataloguer reads 'Brāhmaṇa' as a personal name alongside Rāma and Bhīma. They are qualified by the partially illegible residence ...puragrāmīyai[ḥ].",
+ "_meta": {
+  "reel": "B 5/4",
+  "model": "gemini-flash-latest",
+  "secs": 15.6,
+  "in_tok": 980,
+  "out_tok": 2016
+ }
+}

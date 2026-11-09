@@ -1,0 +1,90 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrudradāsena",
+   "name": "Rudradāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "śrīsohalanihmaṃ brahmapuromo(ḍhā) gṛha",
+   "evidence": "likhita ... dvijavara śrīrudradāsena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrītejarāmasomaśarmmanasya",
+   "name": "Tejarāmasomaśarman",
+   "roles": [
+    "owner",
+    "beneficiary"
+   ],
+   "titles": [
+    "dvijavarottama"
+   ],
+   "affiliation": "",
+   "residence": "śrīvidyāpīṭhi li(vī)ccheṃ",
+   "evidence": "śrītejarāmasomaśarmmanasya pustako 'ya pāṭhārthahetunā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīśrījayajyotimalladevasya",
+   "name": "Jayajyotimalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayajyotimalladevasya vijayarājye",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "likhita ... śrīrudradāsena 〇 parārthahetunā || ... śrītejarāmasomaśarmmanasya pustako 'ya"
+  },
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "śrīśrījayajyotimalladevasya vijayarājye"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 548 āṣāḍhaśuddhiḥ || tra〇yodaśyāṃ tithau || jyeṣṭ[h]anakṣatre || brahmayoge || śukravāsare",
+  "era": "NS",
+  "year": "548",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "trayodaśī",
+  "weekday": "śukravāsara",
+  "nakshatra_yoga": "jyeṣṭhā, brahma",
+  "ce_approx": "1428"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "parārthahetunā / pāṭhārthahetunā",
+ "notes": "",
+ "_meta": {
+  "reel": "C 4/13",
+  "model": "gemini-flash-latest",
+  "secs": 19.8,
+  "in_tok": 900,
+  "out_tok": 2835
+ }
+}

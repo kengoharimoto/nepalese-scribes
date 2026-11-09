@@ -1,0 +1,85 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2: name normalized to 'Kṛṣṇa'. The 'śrī' is an honorific and is now left out of the name, as the rules require. Confidence set to medium, because 'Śrīkṛṣṇa' as a full name cannot be ruled out.",
+   "p2: evidence now also cites the Newari 'śrīkṛṣṇa na coyā'.",
+   "date: month field now gives Vaiśākha, with mādhava, prathama and naṣṭavaiṣākha noted.",
+   "notes: the chronogram check is restated: read right to left, giri 7, gotra 7 (kulaparvata), netra 2 = 772. Also added a possible reading of 'svanihma' and a remark on '-yākāṃ'."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmahopādhyāyaśrījagaddhara",
+   "name": "Jagaddhara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāyaśrījagaddharaviracitā rasadīpinī meghaṭīkā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīkṛṣṇena",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkṛṣṇena likhitā mudā; śrīkṛṣṇa na coyā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīdevadāsadevayākāṃ",
+   "name": "Devadāsadeva",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdevadāsadevayākāṃ śrīkṛṣṇa na coyā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "śrīdevadāsadevayākāṃ śrīkṛṣṇa na coyā"
+  }
+ ],
+ "date": {
+  "as_written": "netragotragirau varṣe mādhave prathame site | dvādaśyāṃ śanivāre ... samva(!) 772 naṣṭavaiṣākhaśu(kla)dvādaśī",
+  "era": "NS",
+  "year": "772",
+  "month": "Vaiśākha (mādhava, prathama; naṣṭavaiṣākha)",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "śanivāra (Saturday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1652"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for Devadāsadeva",
+ "notes": "The chronogram 'netragotragirau' gives 772 when read right to left: giri = 7, gotra (the seven kulaparvatas) = 7, netra = 2. This matches the numerals 'samva 772' and the catalogue's NS 772, which works out to 1652 CE. The verse calls the month 'prathama mādhava' (first Vaiśākha), so this was probably a year with an intercalary Vaiśākha. The Newari colophon calls it 'naṣṭavaiṣākha', and the exact meaning of 'naṣṭa' there is unclear. The Newari passage 'kuhnu svanihma śrīdevadāsadevayākāṃ' is obscure. 'kuhnu' means 'on that day'. 'svanihma' might be a garbled 'svanigahma', meaning 'a person of Svanigaḥ (Kathmandu)', but this is uncertain, so it is not recorded as a residence. I read '-yākāṃ' as marking the person for whom the scribe wrote, which gives Devadāsadeva the role of commissioner or beneficiary with medium confidence. Jagaddhara is the author of the commentary Rasadīpinī on the Meghadūta, not of the Meghadūta itself.",
+ "_meta": {
+  "reel": "A 398/13",
+  "model": "opus",
+  "cost_usd": 0.0832628,
+  "secs": 24.8
+ }
+}

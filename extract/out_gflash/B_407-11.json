@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "phaḍakopanāmaka kṛṣṇena",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "phaḍakopanāmaka kṛṣṇena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthaṃ",
+ "notes": "The scribe is designated with the surname/alias Phaḍaka (phaḍakopanāmaka).",
+ "_meta": {
+  "reel": "B 407/11",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 723,
+  "out_tok": 637
+ }
+}

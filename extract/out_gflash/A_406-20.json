@@ -1,0 +1,84 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnīlakaṃṭhajyotirvid",
+   "name": "Nīlakaṇṭha",
+   "roles": [
+    "author",
+    "commentator"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnīlakaṃṭhajyotirvidviracitāyāṃ jaiminīyasutravyākhyāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīśrīmadraṇajinnṛpālakavare",
+   "name": "Raṇajit",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpālaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīmadraṇajinnṛpālakavare rājyaṃ prakurvaty asau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "regmī śrījayaśarma/// (10) kaṃṭho dvijaḥ",
+   "name": "Jayaśarman",
+   "roles": [
+    "scribe",
+    "commentator"
+   ],
+   "titles": [
+    "regmī",
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "regmī śrījayaśarma/// (10) kaṃṭho dvijaḥ śāstre jaiminīnā kṛte suvivṛttiṃ bhūpājñayā vyākarot",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "śrīśrīmadraṇajinnṛpālakavare rājyaṃ prakurvaty asau || regmī śrījayaśarma"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke rasasaptabhūpati 1676 mite",
+  "era": "ŚS",
+  "year": "1676",
+  "month": "śuci",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1754"
+ },
+ "place": {
+  "as_written": "nepālakhaṇḍe vare",
+  "normalized": "Nepal"
+ },
+ "purpose": "bhūpājñayā",
+ "notes": "The colophon text contains two dates: the reign and date of copying/explanation under King Raṇajit (Malla) in Śaka 1676 (rasa=6, sapta=7, bhūpati=16), and another Śaka chronogram 'kheṣvambuda...' with tithi śuci kṛṣṇāṣṭamī. Scribe Jayaśarman is designated with the Khas Brahmin title/clan name Regmī.",
+ "_meta": {
+  "reel": "A 406/20",
+  "model": "gemini-flash-latest",
+  "secs": 16.3,
+  "in_tok": 897,
+  "out_tok": 2525
+ }
+}

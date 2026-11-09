@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahādevena",
+   "name": "Mahādeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ ... mahādevena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rudradevasya",
+   "name": "Rudradeva",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rudradevasya pāṭhārtham",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "mahādevena rudradevasya pāṭhārtham"
+  }
+ ],
+ "date": {
+  "as_written": "śrī samvat 1877 kārttikakṛṣṇāṣṭamyāṃ",
+  "era": "VS",
+  "year": "1877",
+  "month": "Kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1820"
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "rudradevasya pāṭhārtham",
+ "notes": "",
+ "_meta": {
+  "reel": "A 321/20",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 690,
+  "out_tok": 916
+ }
+}

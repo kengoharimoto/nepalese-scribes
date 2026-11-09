@@ -1,0 +1,36 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday: 'roja 3' now glossed as Tuesday (counting roja 1 = Sunday)",
+   "month: still given as written; the notes now treat it as uncertain instead of 'likely Caitra'",
+   "notes: confirmed that ŚS 1808 (+78) and VS 1943 (−57) both give CE 1886, so the two eras agree",
+   "date.as_written now ends with 'śubham'"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1808 samvat 1943 traihā ā(!)cītatī(!)thi(!) vadī 8 roja 3 śubham",
+  "era": "VS",
+  "year": "1943",
+  "month": "traihā ā(!)cīta (corrupt; uncertain)",
+  "paksa": "vadī (kṛṣṇa)",
+  "tithi": "8",
+  "weekday": "roja 3 (Tuesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1886"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives two eras, ŚS 1808 and VS 1943. Both convert to CE 1886, so they agree, and they match the catalogue fields. The month is corrupt: 'traihā ā(!)cītatī(!)thi(!)' probably hides a month name followed by 'tithi'. Caitra or Āṣāḍha are possible, but no reading is secure. 'roja 3' (Persian rūz, day) is the third weekday, Tuesday. No human persons are named. The text is attributed to the Parameśvaratantra, and there is no author name.",
+ "_meta": {
+  "reel": "A 961/1",
+  "model": "opus",
+  "cost_usd": 0.047598800000000004,
+  "secs": 10.9
+ }
+}

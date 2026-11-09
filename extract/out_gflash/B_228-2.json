@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīdevakī ṭhakuriṇīsyaṃ",
+   "name": "Devakī",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "ṭhakuriṇī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīdevakī ṭhakuriṇīsyaṃ hlācakā thva khaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 625 mārggaśira śukla ekādaśī, (359 bhāga v3) aśvinī nakṣatra variyānyoga, somavāsare",
+  "era": "NS",
+  "year": "625",
+  "month": "mārggaśira",
+  "paksa": "śukla",
+  "tithi": "ekādaśī",
+  "weekday": "somavāsare",
+  "nakshatra_yoga": "aśvinī nakṣatra variyānyoga",
+  "ce_approx": "1504"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "bhāgavata saṃpūrṇṇana ṅeṅā dina (completion of listening to the recitation of the Bhāgavata)",
+ "notes": "The colophon notes that the hearing (ṅeṅā) of the entire Bhāgavata was completed on this day, caused to be recited/told (hlācakā) by Devakī Ṭhakuriṇī.",
+ "_meta": {
+  "reel": "B 228/2",
+  "model": "gemini-flash-latest",
+  "secs": 11.5,
+  "in_tok": 1821,
+  "out_tok": 1387
+ }
+}

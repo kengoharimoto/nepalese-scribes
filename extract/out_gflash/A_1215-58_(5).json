@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīpratā[pa]mallabhūpa",
+   "name": "Pratāpamalla",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "bhūpa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpratā[pa]mallabhūpaviracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1215/58 (5)",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 659,
+  "out_tok": 513
+ }
+}

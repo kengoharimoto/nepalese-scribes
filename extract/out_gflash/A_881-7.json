@@ -1,0 +1,94 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhānudattamiśra",
+   "name": "Bhānudatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhānudattamiśraciracitā rasamaṃjarī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīharivaṃśabhaṭṭa",
+   "name": "Harivaṃśa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tāta śrīharivaṃśabhaṭṭa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "gopālabhaṭṭa",
+   "name": "Gopālabhaṭṭa",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gopālabhaṭṭakṛtā rāsikaraṃjanī ṭīkā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "viṣṇuvallabhena",
+   "name": "Viṣṇuvallabha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ʼlikhat svam 1683 śubhaṃ likhitā viṣṇuvallabhena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "tāta śrīharivaṃśabhaṭṭaikacaraṇaśaraṇagopālabhaṭṭakṛtā"
+  }
+ ],
+ "date": {
+  "as_written": "netrāṃkapramite śāke māghe śukle gurau hi ke ... svam 1683",
+  "era": "VS",
+  "year": "1683",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "hi ke",
+  "weekday": "guruvāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1627"
+ },
+ "place": {
+  "as_written": "śrīnagare ramye",
+  "normalized": "Srinagar"
+ },
+ "purpose": "",
+ "notes": "The colophon refers both to a chronogram in Śaka ('netrāṃkapramite śāke...') and the numeral year 'svam 1683' (presumably for saṃvat 1683 VS, Srinagar in Garhwal).",
+ "_meta": {
+  "reel": "A 881/7",
+  "model": "gemini-flash-latest",
+  "secs": 15.1,
+  "in_tok": 804,
+  "out_tok": 2303
+ }
+}

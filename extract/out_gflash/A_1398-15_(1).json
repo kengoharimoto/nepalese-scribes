@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaktarāma",
+   "name": "Bhaktarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaktarāma liṣiti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 834 vaiśāṣa śudi 9 || bṛha<<>>ṣpativārakuhnu",
+  "era": "NS",
+  "year": "834",
+  "month": "vaiśāṣa",
+  "paksa": "śudi",
+  "tithi": "9",
+  "weekday": "bṛhaṣpativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1714"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrī 3 vārāhidevi pritir astu",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1398/15 (1)",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 989,
+  "out_tok": 578
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe: as_written extended to 'śarmagaṇgādharakaraḍiyādhīmāṃ'; 'Karaḍiyā' (probably the Karāḍa/Karhāḍā brahmin group or a family name) added to titles and affiliation; 'dhīmān' is an epithet, not part of the name; confidence lowered to medium because the compound is irregular",
+   "Date: tithi read as 'tithe ṛtu-divase' (ṛtu = 6), i.e. ṣaṣṭhī, instead of the raw corrupt string",
+   "Date: month normalised to Mārgaśīrṣa, pakṣa to kṛṣṇa (vadī), weekday to Wednesday (jñavāra = Budhavāra); 'ūrjjage sūrye' (sun in Ūrja/Kārttika) and lagna Kumbha (ghaṭa) added to nakshatra_yoga",
+   "Date: chronogram read right to left as rūpa = 1, (a)ga = 7, agni = 3, kha = 0, giving ŚS 1730 tentatively; ce_approx set to 1808?",
+   "Purpose rephrased: recitation for victory and for good sons and grandsons",
+   "Notes expanded"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śarmagaṇgādharakaraḍiyādhīmāṃ",
+   "name": "Gaṅgādhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman",
+    "Karaḍiyā"
+   ],
+   "affiliation": "Karaḍiyā (probably Karāḍa/Karhāḍā brahmin)",
+   "residence": "",
+   "evidence": "likhet śarmagaṇgādharakaraḍiyādhīmāṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke khāgnigarūpabheditiśubhe yoge jñavārorjjage sūrye mārgavadī tithert(!) tudivase lagne ghaṭa(!) saṃyute",
+  "era": "ŚS",
+  "year": "1730? (kha 0, agni 3, (a)ga 7?, rūpa 1; read right to left)",
+  "month": "Mārgaśīrṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "6 (ṛtu-divase?)",
+  "weekday": "Wednesday (jñavāra)",
+  "nakshatra_yoga": "śubha yoga (or simply 'auspicious'); sun in Ūrja (Kārttika); lagna Kumbha (ghaṭa)",
+  "ce_approx": "1808?"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for constant recitation, for victory and for good sons and grandsons (satputrapautrārthakaiḥ)",
+ "notes": "The chronogram 'khāgnigarūpa' is unclear. Kha = 0, agni = 3 and rūpa = 1 are secure. 'ga' is probably 'aga' (mountain = 7), which gives ŚS 1730 = c. 1808 CE. The catalogue gives only ŚS 1?30, so the middle digit and the CE date are tentative. 'bhediti' is probably a corruption of 'bhedite'. 'tithert(!) tudivase' is read as 'tithe ṛtu-divase' (6th tithi). 'ūrjjage sūrye' puts the sun in Ūrja (Kārttika), which sits oddly with lunar Mārga vadī unless the months are reckoned differently (amānta/pūrṇimānta). The verse is corrupt and pāda c is unmetrical (cataloguer's note). 'Karaḍiyā' is most likely the Karāḍa (Karhāḍā) brahmin group or a family name. 'dhīmān' is an epithet. 'paṭhet sarvadā' is a generic phala statement: it names no reader or owner.",
+ "_meta": {
+  "reel": "B 541/11",
+  "model": "opus",
+  "cost_usd": 0.5940656,
+  "secs": 37.9
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdharanidharana",
+   "name": "Dharaṇīdhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdharanidharana coyāḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 772 śrāvanakṛṣṇa 9 aṃgāravāsare",
+  "era": "NS",
+  "year": "772",
+  "month": "śrāvana",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "aṃgāravāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1652"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1227/12 (1)",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 778,
+  "out_tok": 952
+ }
+}

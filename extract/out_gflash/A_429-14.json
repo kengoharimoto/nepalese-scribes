@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdevadattaviduṣā",
+   "name": "Devadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vidvas"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śubham || śrīdevadattaviduṣā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "netrāṃkamu⟨ṃ⟩dire śāke caitrike",
+  "era": "ŚS",
+  "year": "1792",
+  "month": "Caitra",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1870"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram netrāṅka... yields Śāke 1792 (netra = 2, aṅka = 9; cataloguer resolves as ŚS 1792).",
+ "_meta": {
+  "reel": "A 429/14",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 694,
+  "out_tok": 755
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmasevaka",
+   "name": "Rāmasevaka",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmasevakakṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 18||96 || śāke 17||60",
+  "era": "VS",
+  "year": "1896",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1839"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives both Vikrama Saṃvat 1896 and Śaka Saṃvat 1760.",
+ "_meta": {
+  "reel": "A 503/8",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 702,
+  "out_tok": 908
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "tapodhanaśrīviśveśvareṇa",
+   "name": "Viśveśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "tapodhana"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam iti tapodhanaśrīviśveśvareṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "yuvarājaśrījayāryuṇadevasyārthena",
+   "name": "Jayārjunadeva",
+   "roles": [
+    "commissioner",
+    "beneficiary"
+   ],
+   "titles": [
+    "yuvarāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yuvarājaśrījayāryuṇadevasyārthena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "tapodhanaśrīviśveśvareṇa yuvarājaśrījayāryuṇadevasyārthena likhitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃ 479 śrāvaṇakṛṣṇadaśamī",
+  "era": "NS",
+  "year": "479",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1359"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "yuvarājaśrījayāryuṇadevasyārthena",
+ "notes": "Jayārjunadeva is written here phonetically as Jayāryuṇadeva. Scribe is also described with the epithet alpagranthakāra.",
+ "_meta": {
+  "reel": "B 28/27",
+  "model": "gemini-flash-latest",
+  "secs": 11.0,
+  "in_tok": 781,
+  "out_tok": 1360
+ }
+}

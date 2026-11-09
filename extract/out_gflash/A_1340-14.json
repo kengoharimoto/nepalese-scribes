@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kaceśavareṇa",
+   "name": "Kaceśvara",
+   "roles": [
+    "scribe",
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kaceśavareṇa svapaṭhanārthaṃ vā parārthaṃ likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śake 1711 saumyanāmābde bhādrapadaśuddha 5 bhaume",
+  "era": "ŚS",
+  "year": "1711",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "bhaumavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1789"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svapaṭhanārthaṃ vā parārthaṃ",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1340/14",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 739,
+  "out_tok": 821
+ }
+}

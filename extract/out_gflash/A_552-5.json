@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvarddhamānamiśra",
+   "name": "Vardhamāna",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvarddhamānamiśraviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmatkarṇadevopādhyāya",
+   "name": "Karṇadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatkarṇadevopādhyāya śrīvarddhamānamiśra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "miśra śrī .. .. .. .. .. ..",
+   "name": "Unknown",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "miśra śrī .. .. .. .. .. .. kapakarārthaṃ paropakārārthaṃ sūtrapustakaliṣāpitaṃ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīmatkarṇadevopādhyāya śrīvarddhamānamiśra"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1589 samae kārttikasudī tṛtīyā gurau",
+  "era": "VS",
+  "year": "1589",
+  "month": "kārttika",
+  "paksa": "sudī",
+  "tithi": "tṛtīyā",
+  "weekday": "gurau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1532"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "paropakārārthaṃ",
+ "notes": "The commissioner's personal name is lost in lacunae (miśra śrī ..). The date VS 1589 Kārttika śukla 3 matches Thursday, 31 October 1532 CE.",
+ "_meta": {
+  "reel": "A 552/5",
+  "model": "gemini-flash-latest",
+  "secs": 15.9,
+  "in_tok": 750,
+  "out_tok": 2282
+ }
+}

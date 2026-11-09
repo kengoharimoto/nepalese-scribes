@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viṣṇusiṃhasya",
+   "name": "Viṣṇusiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viṣṇusiṃhasya sūnunā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhārasiṃhasya",
+   "name": "Bhārasiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhārasiṃhasya",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "bhārasiṃhasya viṣṇusiṃhasya sūnunā"
+  }
+ ],
+ "date": {
+  "as_written": "rasadiggajavedābde māse nabhasi pāṇḍare ... ṣaḍbhir divasasaṃjñakaiḥ",
+  "era": "NS",
+  "year": "486",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "6",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1366"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthapāṭhāya",
+ "notes": "The chronogram 'rasa-diggaja-veda' yields NS 486 (rasa = 6, diggaja = 8, veda = 4). The phrase 'bhārasiṃhasya viṣṇusiṃhasya sūnunā' is grammatically ambiguous between 'by Viṣṇusiṃha, son of Bhārasiṃha' and 'by Bhārasiṃha, son of Viṣṇusiṃha'; the catalogue takes Viṣṇusiṃha as the scribe.",
+ "_meta": {
+  "reel": "B 16/10 (2)",
+  "model": "gemini-flash-latest",
+  "secs": 42.3,
+  "in_tok": 766,
+  "out_tok": 5242
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The quoted text contains only chapter colophons (adhyāya end-titles) of the Devīmāhātmya (chapters 1–7, 9–13). No scribal colophon or date is present in the quoted colophon text, though the catalogue records a scribe (Gaurīdatta Trivikramarāja?) and a date (SAM 1841).",
+ "_meta": {
+  "reel": "A 1113/18 (6)",
+  "model": "gemini-flash-latest",
+  "secs": 8.6,
+  "in_tok": 1308,
+  "out_tok": 1225
+ }
+}

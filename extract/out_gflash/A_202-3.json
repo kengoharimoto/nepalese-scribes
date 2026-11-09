@@ -1,0 +1,99 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī śrī vidyānaṃdanāthena",
+   "name": "Vidyānandanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vidyānaṃdanāthena kṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīsaccidānaṃdanātha",
+   "name": "Saccidānandanātha",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsaccidānaṃdanāthacaraṇāraviṃdadvaṃdvānte vā siro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "brāhmaṇa śrībhākuṃtuna",
+   "name": "Bhākuṃtu",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "brāhmaṇa śrībhākuṃtuna coyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrī upādhyā śrīviśvanāthaṃ",
+   "name": "Viśvanātha",
+   "roles": [
+    "beneficiary",
+    "owner"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī upādhyā śrīviśvanāthaṃ jūyāta viyā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "śrīsaccidānaṃdanāthacaraṇāraviṃdadvaṃdvānte vā siro"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "brāhmaṇa śrībhākuṃtuna coyā va śrī caravanihma śrī upādhyā śrīviśvanāthaṃ jūyāta viyā juro"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 782 śrīvaṇa śuklapratipadyān tīthau puṣyānakṣatre yakṣe yoge ādityadine",
+  "era": "NS",
+  "year": "782",
+  "month": "śrīvaṇa",
+  "paksa": "śukla",
+  "tithi": "pratipad",
+  "weekday": "ādityadina",
+  "nakshatra_yoga": "puṣyānakṣatre yakṣe yoge",
+  "ce_approx": "1662"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "puṇyaṃ thivaṃ tāyā ... viyā juro (given for merit)",
+ "notes": "The catalogue records Viśvanātha Upādhyāya as the scribe, but the colophon states that the manuscript was written by the Brahmin Bhākuṃtu and given to Upādhyāya Viśvanātha (brāhmaṇa śrībhākuṃtuna coyā va ... śrī upādhyā śrīviśvanāthaṃ jūyāta viyā juro).",
+ "_meta": {
+  "reel": "A 202/3",
+  "model": "gemini-flash-latest",
+  "secs": 14.0,
+  "in_tok": 830,
+  "out_tok": 2320
+ }
+}

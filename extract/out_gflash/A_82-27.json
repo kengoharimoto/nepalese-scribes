@@ -1,0 +1,75 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paṃcānanabhaṭṭācārya",
+   "name": "Pañcānana",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṃcānanabhaṭṭācāryaviracitaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "harīśarmā",
+   "name": "Hariśarman",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svasyāsyalekhanaṃ harīśarmā samāptiṃ nītavān",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīkṛṣṇajośī",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "Rāmanagara",
+   "evidence": "pustakam idaṃ śrīkṛṣṇajośīrāmanagaravāse",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śake 1768 ānaṃdanāma saṃvatsare || aśvina kṛṣṇatṛtīyāṃ guruvāsare",
+  "era": "ŚS",
+  "year": "1768",
+  "month": "aśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "tṛtīyā",
+  "weekday": "guruvāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1846"
+ },
+ "place": {
+  "as_written": "rāmanagaravāse",
+  "normalized": "Rāmanagara"
+ },
+ "purpose": "svārtha",
+ "notes": "Hariśarman wrote the manuscript for himself ('svasyāsya lekhanaṃ ... samāptiṃ nītavān'). The postscript records ownership by Śrīkṛṣṇa Jośī residing in Rāmanagara ('pustakam idaṃ śrīkṛṣṇajośīrāmanagaravāse').",
+ "_meta": {
+  "reel": "A 82/27",
+  "model": "gemini-flash-latest",
+  "secs": 13.8,
+  "in_tok": 889,
+  "out_tok": 2100
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayabhūpatīndra malladeva",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayabhūpatīndra malladevasanato gaṇache pratiṣṭhā yāṅā dina",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 835 māgha vadi 13",
+  "era": "NS",
+  "year": "835",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1715"
+ },
+ "place": {
+  "as_written": "gaṇache",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "pratiṣṭhā at Gaṇache",
+ "notes": "The colophon marks the occasion as the day of a pratiṣṭhā ritual performed at Gaṇache (a toll/locality in Bhaktapur) by or under King Bhūpatīndra Malla.",
+ "_meta": {
+  "reel": "A 615/10",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 767,
+  "out_tok": 858
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "talamuramahāvihāre, (jontā)vāhārakhalucuka",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The colophon text breaks off on fol. 18r with 'vajrā...' and the subsequent six lines on fol. 18v could not be deciphered due to dark and blurred exposure. Consequently, no scribe/donor names or date are preserved in the transcription. Vasubandhu mentioned on fol. 9v is a interlocutor/character in the vratakathā narrative.",
+ "_meta": {
+  "reel": "A 119/12",
+  "model": "gemini-flash-latest",
+  "secs": 9.9,
+  "in_tok": 1284,
+  "out_tok": 1319
+ }
+}

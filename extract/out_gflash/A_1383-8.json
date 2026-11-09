@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīśrībalabhadra-upādhyā luñiṃṭyālalaliṣaka⟨ṃ⟩m",
+   "name": "Balabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya",
+    "luñiṃṭyāla"
+   ],
+   "affiliation": "",
+   "residence": "kāṭhamāḍau ṭhahaṭi, kkāvāhālaṭolasannidhāna",
+   "evidence": "śrīśrīśrībalabhadra-upādhyā luñiṃṭyālalaliṣaka⟨ṃ⟩m",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1928 śrīśāke 1793 sālamiti śrāvaṇavadi 6 roja 7 mā",
+  "era": "VS",
+  "year": "1928",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "6",
+  "weekday": "7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1871"
+ },
+ "place": {
+  "as_written": "kāṭhamāḍau ṭhahaṭivasata kkāvāhālaṭolasannidhānaṃ",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "Both VS 1928 and Śaka 1793 are stated, which correspond to CE 1871. 'Luñiṃṭyāla' is the Nepali Brahmin surname/thar (Luitel).",
+ "_meta": {
+  "reel": "A 1383/8",
+  "model": "gemini-flash-latest",
+  "secs": 8.3,
+  "in_tok": 940,
+  "out_tok": 1242
+ }
+}

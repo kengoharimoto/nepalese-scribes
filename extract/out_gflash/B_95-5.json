@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṣemendrasya",
+   "name": "Kṣemendra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahākavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtir iyaṃ mahākaveḥ kṣemendrasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 833 śrāvaṇaśudi 15 roja 5",
+  "era": "NS",
+  "year": "833",
+  "month": "śrāvaṇa",
+  "paksa": "śudi",
+  "tithi": "15",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1713"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 95/5",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 691,
+  "out_tok": 607
+ }
+}

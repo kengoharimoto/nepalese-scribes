@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vāsudevo",
+   "name": "Vāsudeva",
+   "roles": [
+    "scribe",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "ravikula",
+   "residence": "",
+   "evidence": "vāsudevo lilekha || ... dātā dadau ravikulodbhavavāsudevaḥ, pustīmimāṃ kulamaṇidvijalakṣmaṇāya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "pūrṇasiṃhaś",
+   "name": "Pūrṇasiṃha",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svakulakamalabhānuḥ pūrṇasiṃhaś ca prītyā ... vāsudevo lilekha",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "kulamaṇidvijalakṣmaṇāya",
+   "name": "Lakṣmaṇaśarman",
+   "roles": [
+    "beneficiary",
+    "owner"
+   ],
+   "titles": [
+    "dvija",
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dātā dadau ravikulodbhavavāsudevaḥ, pustīmimāṃ kulamaṇidvijalakṣmaṇāya ... dvijalakṣmaṇākhyo, pādhyāya(śarmaṇa) idaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "dātā dadau ravikulodbhavavāsudevaḥ, pustīmimāṃ kulamaṇidvijalakṣmaṇāya"
+  }
+ ],
+ "date": {
+  "as_written": "nidhivasumunivarṣe māghamāse valakṣe śiśirakiraṇaṛkṣe bhānuvāre daśamyāṃ",
+  "era": "NS",
+  "year": "789",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "śiśirakiraṇaṛkṣa",
+  "ce_approx": "1669"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "kuladevatāyāḥ prītyai",
+ "notes": "Chronogram: nidhi (9), vasu (8), muni (7) = NS 789. The scribe Vāsudeva, claiming descent from the solar lineage (ravikulodbhava), gifted the manuscript to Upādhyāya Lakṣmaṇa.",
+ "_meta": {
+  "reel": "A 264/2",
+  "model": "gemini-flash-latest",
+  "secs": 19.0,
+  "in_tok": 1027,
+  "out_tok": 2952
+ }
+}

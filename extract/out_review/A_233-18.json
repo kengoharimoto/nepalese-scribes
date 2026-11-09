@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name: 'Sumati' is part of Jitāmitra Malla's regnal name (Sumati Jaya Jitāmitra Malla), not a title. Name is now Sumatijayajitāmitramalladeva and titles are empty",
+   "Place cleared: Īśānakoṭhā is the shrine/room whose Mahānavamī ritual the manual serves, not a stated place of copying. Moved to notes",
+   "Notes reworded; added the NS-to-CE month adjustment"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumatijayajitāmitramalladevasana",
+   "name": "Sumatijayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumatijayajitāmitramalladevasana ... gaṇakaumārārcana saṃphulī || dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 814 pauṣa kṛṣṇa 7 hastārkka",
+  "era": "NS",
+  "year": "814",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "7",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "hasta",
+  "ce_approx": "1694"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The king is Jitāmitra Malla of Bhaktapur, written here with his full regnal style Sumati Jaya Jitāmitra Malla. 'dayakā juroṃ' (Newari: 'was made') means he had the gaṇakaumārārcana saṃphulī (manual) made, so he is the commissioner. The manual is for the Mahānavamī rite of the Īśānakoṭhā. Īśānakoṭhā is a ritual room, probably in the Bhaktapur palace, but the colophon does not give it as the place of copying, so the place field is empty. The scribe is anonymous (only 'mayā' in the stock verse). 'upādhyā', 'ācā' and 'josi' are categories of officiants who must be consulted, not named persons. Date: NS 814 + 880 = 1693/94. Pauṣa kṛṣṇa falls around Dec 1693 / Jan 1694. 'hastārkka' = Hasta nakṣatra, Sunday.",
+ "_meta": {
+  "reel": "A 233/18",
+  "model": "opus",
+  "cost_usd": 0.5623576,
+  "secs": 24.6
+ }
+}

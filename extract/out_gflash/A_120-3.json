@@ -1,0 +1,89 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gīrvāṇayuddhavikramasāhabāhādūrassamsertajaṅgadevānāṃ",
+   "name": "Gīrvāṇayuddhavikramasāha",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nepāleśvara",
+    "mahārājādhirāja",
+    "hindūpativātsāha",
+    "bāhādūra",
+    "śamśerajaṅgadeva",
+    "prabhu",
+    "thākura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanmahārājādhirājahindūpativātsāhaśrīśrīśrīmadgīrvāṇayuddhavikramasāhabāhādūrassamsertajaṅgadevānāṃ sadāsamaravijayināṃ prabhu thākurasya akhaṇḍavijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvajrācāryanāmasaṃgatiyā",
+   "name": "Nāmasaṃgati",
+   "roles": [
+    "donor",
+    "scribe"
+   ],
+   "titles": [
+    "dānapati",
+    "vajrācārya"
+   ],
+   "affiliation": "Henākaramahāvihāra",
+   "residence": "Suvarṇapanārimahānagara, Śāntighaṭacaityasthāna",
+   "evidence": "dānapati nepālamaṇḍale suvarṇapanārimahānagare śāntighaṭacaityasthāne henākaramahāvihārayā śrīvajrācāryanāmasaṃgatiyā manasa puṇyacittotpatti jusyaṃ ... thamanaṃ coyā jula",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "jayomāna",
+   "name": "Jayamāna",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [
+    "jyeṣṭhapramukha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jayomāna jyeṣṭapramukhādi sagaṇaparivārāṇāṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "gīrvāṇayuddhavikramasāhabāhādūrassamsertajaṅgadevānāṃ sadāsamaravijayināṃ prabhu thākurasya akhaṇḍavijayarājye"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 931 kārrtika māse śukla pakṣe pūmāsyān(!) tithau bharuṇinakṣatre variyānayoge ravivāsare",
+  "era": "NS",
+  "year": "931",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "bharuṇī, variyāna",
+  "ce_approx": "1810"
+ },
+ "place": {
+  "as_written": "nepālamaṇḍale suvarṇapanārimahānagare śāntighaṭacaityasthāne henākaramahāvihāra",
+  "normalized": ""
+ },
+ "purpose": "svgādhyāyanimirttina (for self-study) and welfare/prosperity and ultimate liberation for the family",
+ "notes": "The catalogue reading NS 391 is a typographical error for NS 931, perfectly matching the reign of Gīrvāṇa Yuddha Vikrama Śāha (r. 1799–1816 CE).",
+ "_meta": {
+  "reel": "A 120/3",
+  "model": "gemini-flash-latest",
+  "secs": 22.6,
+  "in_tok": 1342,
+  "out_tok": 3551
+ }
+}

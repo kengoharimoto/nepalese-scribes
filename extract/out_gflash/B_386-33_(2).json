@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahīsena",
+   "name": "Mahīsena",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahīsenakāśyāṃ likhitāni",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat || 17 || 79 || samaināmamāghamāsakṛṣṇapachī(!) ekādaśī vāra(!) maṃgara(!)",
+  "era": "VS",
+  "year": "1779",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī",
+  "weekday": "maṃgara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1722"
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "pūjārthaṃ",
+ "notes": "The colophon shows Hindi/vernacular influence ('pachī', 'maṃgara'). The string 'mahīsenakāśyāṃ likhitāni' combines the scribe's name Mahīsena with the locative Kāśyāṃ ('written by Mahīsena in Kāśī'). The cataloguer erroneously copied the date 'SAM 1779' into the scribe field.",
+ "_meta": {
+  "reel": "B 386/33 (2)",
+  "model": "gemini-flash-latest",
+  "secs": 21.6,
+  "in_tok": 819,
+  "out_tok": 2657
+ }
+}

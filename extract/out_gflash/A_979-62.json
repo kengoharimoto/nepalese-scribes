@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śribuddhināthena",
+   "name": "Buddhinātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ śribuddhināthena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1679 prathamāśvinakṛṣṇapaṃcamyāṃ tithau",
+  "era": "ŚS",
+  "year": "1679",
+  "month": "prathamāśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "pañcamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1757"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīguror hitārtham",
+ "notes": "",
+ "_meta": {
+  "reel": "A 979/62",
+  "model": "gemini-flash-latest",
+  "secs": 7.2,
+  "in_tok": 775,
+  "out_tok": 887
+ }
+}

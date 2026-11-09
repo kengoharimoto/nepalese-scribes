@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvopadeva-",
+   "name": "Vopadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvopadevaviracitaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1861 samai caitra kṛṣṇādaudasyāḥ(!) 12 guruvāsare",
+  "era": "VS",
+  "year": "1861",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "12",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1804"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Sītārāma and Rādhākṛṣṇa mentioned at the end are deities invoked.",
+ "_meta": {
+  "reel": "A 588/1",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 728,
+  "out_tok": 793
+ }
+}

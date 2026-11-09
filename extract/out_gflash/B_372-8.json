@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viṣṇubhaṭṭena",
+   "name": "Viṣṇu",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viṣṇubhaṭṭena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1794 māghvadi 14 maṃḍavāsare",
+  "era": "VS",
+  "year": "1794",
+  "month": "māgha",
+  "paksa": "vadi",
+  "tithi": "14",
+  "weekday": "maṃḍavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1738"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 372/8",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 694,
+  "out_tok": 654
+ }
+}

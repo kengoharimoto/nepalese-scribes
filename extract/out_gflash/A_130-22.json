@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācārya jogapāla",
+   "name": "Jogapāla",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Maitrīpuramahāvihāra",
+   "residence": "ṭhahiṭiṭole, nepālamaṇḍala",
+   "evidence": "śrī vajrācārya jogapālavarṣa 55 gate idaṃ pustakaṃ likhāpitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1015 miti āśuna kṛṣṇa 11 somavāradine",
+  "era": "NS",
+  "year": "1015",
+  "month": "āśuna",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1895"
+ },
+ "place": {
+  "as_written": "nepālamaṇḍale ṭhahiṭiṭole maitrīpuramahāvihāre",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "varṣa 55 gate (on reaching age 55)",
+ "notes": "Jogapāla had the manuscript copied when he was 55 years old (varṣa 55 gate idaṃ pustakaṃ likhāpitaṃ).",
+ "_meta": {
+  "reel": "A 130/22",
+  "model": "gemini-flash-latest",
+  "secs": 7.6,
+  "in_tok": 852,
+  "out_tok": 1092
+ }
+}

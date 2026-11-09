@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pataṃjalimunīndreṇa",
+   "name": "Patañjali",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "munīndra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pataṃjalimunīndreṇa yena taṃ bhāvayāmyaham",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "padmadāsabhaktaḥ",
+   "name": "Padmadāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhakta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ padmadāsabhaktaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī samvat 1915 sāla mīti āśvina vadi 9 roja 6",
+  "era": "VS",
+  "year": "1915",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1858"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 61/13",
+  "model": "gemini-flash-latest",
+  "secs": 10.2,
+  "in_tok": 868,
+  "out_tok": 1575
+ }
+}

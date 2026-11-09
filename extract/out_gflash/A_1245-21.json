@@ -1,0 +1,47 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sumatijaya jitāmitramallavarmmanā",
+   "name": "Jayajitāmitramalla",
+   "roles": [
+    "scribe",
+    "king"
+   ],
+   "titles": [
+    "sumati",
+    "bhūpa",
+    "varman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrī sumatijaya jitāmitramallavarmmanā likhitaṃ saṃpūrṇṇaṃ || ... jitāmitrasya bhūpasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīnepālasamvat 807 || śrīśākesamvat 1609 śrīvikramādityasamvat 1744 || śrīkarigatasamvat 4788 || naṣta āṣāḍhe māse || śuklapakṣa || dvitīyā prara tṛtiyātithau punavaśunakṣate || dhruvayoge || yathākarana mūhutake || bṛhapativāśale",
+  "era": "NS",
+  "year": "807",
+  "month": "naṣta āṣāḍha",
+  "paksa": "śuklapakṣa",
+  "tithi": "dvitīyā / tṛtīyā",
+  "weekday": "bṛhaspativāsara",
+  "nakshatra_yoga": "punarvasu, dhruva",
+  "ce_approx": "1687"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "anena karmmaṇā seṣṭhādevī prīnātu siddhidā",
+ "notes": "King Jitāmitramalla of Bhaktapur personally copied this manuscript. Four eras are provided: NS 807, ŚS 1609, VS 1744, Kaliyuga 4788.",
+ "_meta": {
+  "reel": "A 1245/21",
+  "model": "gemini-flash-latest",
+  "secs": 11.7,
+  "in_tok": 1011,
+  "out_tok": 1863
+ }
+}

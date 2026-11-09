@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "padmalālena",
+   "name": "Padmalāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "kauḍiṃnyagotra",
+   "residence": "",
+   "evidence": "kauḍiṃnyagotra ‥ ‥ ‥ krena(!) padmalālena likhitaṃ pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1780 samvat 1915 phālguṇaśukla 28 nandā tithi ‥manakṣatre vaidhṛtiyoge guruvāśa(!)re",
+  "era": "VS",
+  "year": "1915",
+  "month": "phālguṇa",
+  "paksa": "śukla",
+  "tithi": "28 nandā tithi",
+  "weekday": "guruvāśara",
+  "nakshatra_yoga": "‥manakṣatre vaidhṛtiyoge",
+  "ce_approx": "1859"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śāka era 1780 and Vikrama era 1915 are provided. '28' may refer to a solar day or is a scribal error before 'nandā tithi'.",
+ "_meta": {
+  "reel": "A 961/15",
+  "model": "gemini-flash-latest",
+  "secs": 8.5,
+  "in_tok": 788,
+  "out_tok": 1060
+ }
+}

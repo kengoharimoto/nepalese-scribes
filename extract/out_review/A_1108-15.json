@@ -1,0 +1,75 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Lineage name: 'dhṛtakauśika' is very likely a scribal error for Ghṛtakauśika, a known Brahmin gotra. Affiliation changed to 'Ghṛtakauśika gotra' for both persons, with the error flagged in notes.",
+   "Moved the epithet 'akhaṇḍapaṇḍitamaṇḍalāgraṇī' from Śivaśarman to Makaranda. Grammatically it heads the chain of epithets ending in makarandasūri, so it describes the father.",
+   "Notes now say that the kings in the catalogue fields (Pratāpasiṃha r. 1775–77; Bahādura Śāha was regent c. 1785–94) do not fit a copy dated VS 1919 (1862 CE).",
+   "Noted that the colophon names no scribe, commissioner or owner."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "makarandasūri",
+   "name": "Makaranda",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "sūri",
+    "akhaṇḍapaṇḍitamaṇḍalāgraṇī"
+   ],
+   "affiliation": "Ghṛtakauśika gotra (written dhṛtakauśikavaṃśa)",
+   "residence": "",
+   "evidence": "dhṛtakauśikavaṃśāvataṃsamakarandasūrisuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śivaśarmaśarma",
+   "name": "Śivaśarman",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "Ghṛtakauśika gotra (written dhṛtakauśikavaṃśa)",
+   "residence": "",
+   "evidence": "śivaśarmaśarmakṛtasaṃskṛtamaṃjaryāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "makarandasūrisutaśivaśarmaśarma"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1919 bhādra va di 11 roja 5",
+  "era": "VS",
+  "year": "1919",
+  "month": "bhādra",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "5 (Thursday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1862"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives only the author's statement and the date. It names no scribe, commissioner or owner. 'dhṛtakauśika' is probably an error for the gotra Ghṛtakauśika. The epithet akhaṇḍapaṇḍitamaṇḍalāgraṇī most naturally describes the father Makaranda, but it could be meant for the author. 'samāptatām ahaiṣīt (!)' is the cataloguer's marked error. The era is written only as 'samvat'. VS is assumed because it matches the catalogue and the use of 'roja'. The weekday was not checked against an ephemeris. The kings in the catalogue fields, Pratāpasiṃha (r. 1775–77) and Bahādura Śāha (regent c. 1785–94), do not appear in the colophon and do not fit VS 1919 = 1862 CE (the reign of Surendra Vikrama Śāha). They may refer to the author's own time or be wrong.",
+ "_meta": {
+  "reel": "A 1108/15",
+  "model": "opus",
+  "cost_usd": 0.5834176,
+  "secs": 32.6
+ }
+}

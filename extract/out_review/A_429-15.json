@@ -1,0 +1,33 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No changes to persons, relations or date. Checked that VS 1820 and ŚS 1685 agree (both give 1763 CE). Expanded the notes."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1820 śaºº 1685 āṣāḍhakṛṣṇa30 ravau",
+  "era": "VS",
+  "year": "1820",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "30",
+  "weekday": "ravau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1763"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon is dated in two eras, saṃvat (VS) 1820 and Śaka 1685. They agree: 1820−57 = 1685+78 = 1763 CE. The date is the new-moon day (amāvāsyā, tithi 30) of the dark half of Āṣāḍha, a Sunday, which falls around mid-1763. The cataloguer marked the closing words '†śigipaṃ bhuṃjiṣāḍema†' as corrupt. They may be a scribe's name written in a letter-substitution code, which scribes sometimes used. I could not decode it, so I have recorded no person.",
+ "_meta": {
+  "reel": "A 429/15",
+  "model": "opus",
+  "cost_usd": 0.0426428,
+  "secs": 8.9
+ }
+}

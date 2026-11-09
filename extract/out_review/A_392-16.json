@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Vīrabhadra: role changed from commentator to scribe. 'vīrabhadrariṣitā' is best read as 'vīrabhadralikhitā': ri stands for li, and ṣ for kh, as often in Newari scripts. The dated verse is the copyist's colophon, and 'coyā' (wrote) in the Newari line goes with it.",
+   "Purpose emptied: 'mude vaḥ' is a blessing on readers, not a stated purpose of the copy.",
+   "Notes: chronogram explained (sindhu = 7 seas here), pakṣa inference explained, and corrupt spellings flagged."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vīrabhadrariṣitāstu",
+   "name": "Vīrabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "raghuṭīkā vīrabhadrariṣitāstu mude vaḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "sindhunāgamunināmayutābde mādhave himaruci(dyu)tiṣasṭhyāṃ sūryyaje ca divase ... sam 787 || vaiśā ṣaṣṭhi śanivāra kunhu coyā",
+  "era": "NS",
+  "year": "787",
+  "month": "Vaiśākha",
+  "paksa": "śuklapakṣa",
+  "tithi": "6",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1667"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram is read right to left: muni 7, nāga 8, sindhu 7 (the seven seas; sindhu can also mean 4). This gives 787, which matches 'sam 787' and the catalogue's NS 787 (about 1667 CE). Mādhava = Vaiśākha. Sūryaja (Saturn) = Saturday, which matches 'śanivāra'. The śukla pakṣa is only inferred from 'himaruci(dyu)ti' (the moon's brightness); the Newari line just says 'vaiśā ṣaṣṭhi'. 'vīrabhadrariṣitāstu' is probably corrupt for 'vīrabhadralikhitā astu' ('may the Raghu commentary written by Vīrabhadra be for your joy'). That makes Vīrabhadra the scribe, not the author of the ṭīkā. A reading 'racitā' would make him the commentator instead, but that is less likely in a dated copy colophon followed by 'coyā'. The ṭīkā itself is not attributed to anyone here. Other corrupt spellings: 'syonaviṃśati' stands for 'ekonaviṃśati' (19th sarga), and 'ṣasṭhyāṃ' stands for 'ṣaṣṭhyāṃ'.",
+ "_meta": {
+  "reel": "A 392/16",
+  "model": "opus",
+  "cost_usd": 0.5645656000000001,
+  "secs": 28.3
+ }
+}

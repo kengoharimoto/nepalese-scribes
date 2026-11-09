@@ -1,0 +1,47 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. Notes expanded: 'vāde' may be the scribe's family name or a place name; 'owner' role not added because the copy was made both for others and for himself (parārthaṃ svārthaṃ ca)."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivarāmeṇa",
+   "name": "Śivarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vāde śivarāmeṇa likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1809 vaiśākha va 13 . budhe",
+  "era": "VS",
+  "year": "1809",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1752"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "parārthaṃ svārthaṃ ca (for others and for himself)",
+ "notes": "The word 'vāde' just before 'śivarāmeṇa' is unclear. It may be the scribe's family name (compare the Marathi surname Vāḍe/Wade), a place name in the locative ('at Vāḍa/Vāde'), or a corruption. It is not taken as the place of copying here. The era is not named ('saṃvat'), but VS fits the Devanagari script and the catalogue: VS 1809 = 1752 CE (Vaiśākha falls in April–May). The 'owner' role is not given because the copy was made for others as well as for the scribe (parārthaṃ svārthaṃ ca).",
+ "_meta": {
+  "reel": "A 465/41",
+  "model": "opus",
+  "cost_usd": 0.0508108,
+  "secs": 11.6
+ }
+}

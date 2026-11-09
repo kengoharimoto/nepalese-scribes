@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paṇḍit tārādatta śarmā lohani",
+   "name": "Tārādatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paṇḍita",
+    "śarmā",
+    "lohanī"
+   ],
+   "affiliation": "",
+   "residence": "jñāneśvara naṃ. 14",
+   "evidence": "svahastapaṇḍit tārādatta śarmā lohani",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śṛīsamvat 1984 āṣāḍhaśukla 3 śanivāsare 7 tithu dina 18 gate",
+  "era": "VS",
+  "year": "1984",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "śanivāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1927"
+ },
+ "place": {
+  "as_written": "jñāneśvara naṃ. 14",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The date specifies 'dina 18 gate' (Nepali solar calendar day) alongside the tithi. Jñāneśvara (Gyaneshwar) is a locality in Kathmandu.",
+ "_meta": {
+  "reel": "A 1118/27",
+  "model": "gemini-flash-latest",
+  "secs": 11.0,
+  "in_tok": 861,
+  "out_tok": 1699
+ }
+}

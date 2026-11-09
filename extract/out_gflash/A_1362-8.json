@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadbhānudattamiśra",
+   "name": "Bhānudattamiśra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "Maithila",
+   "residence": "",
+   "evidence": "śrīmadbhānudattamiśraviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīgaṇanāthasanmiśra",
+   "name": "Gaṇanātha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "sanmiśra",
+    "kavikalāsanātha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgaṇanāthasanmiśratanaya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rā(ma cūrka)reṇa",
+   "name": "Rāmacūrkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rā(ma cūrka)reṇa ... likhitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīgaṇanāthasanmiśratanaya"
+  }
+ ],
+ "date": {
+  "as_written": "āṣāḍhamāse kṛṣṇapkṣe navamyāṃ guruvāsare ... saṃvat || 1859",
+  "era": "VS",
+  "year": "1859",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "navamī",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1802"
+ },
+ "place": {
+  "as_written": "udayapuramadhye",
+  "normalized": "Udaipur"
+ },
+ "purpose": "",
+ "notes": "The scribe's name 'rā(ma cūrka)reṇa' contains restored/uncertain reading in parentheses; 'saṃkaṭasmaraṇena' appears as an epithet or circumstance.",
+ "_meta": {
+  "reel": "A 1362/8",
+  "model": "gemini-flash-latest",
+  "secs": 9.0,
+  "in_tok": 891,
+  "out_tok": 1420
+ }
+}

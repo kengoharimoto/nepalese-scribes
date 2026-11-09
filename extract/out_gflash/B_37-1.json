@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīānandadeva",
+   "name": "Ānandadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanmahārājādhi(!)jarājaparameśvaraparamabhaṭṭārakaśrīānandadevavijayarājye",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 282 phālgunaśuklacaturthyāṃ | somavāre",
+  "era": "NS",
+  "year": "282",
+  "month": "phālguna",
+  "paksa": "śukla",
+  "tithi": "caturthī",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1162"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 37/1",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 731,
+  "out_tok": 730
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ciraṃjīviśarmaṇā",
+   "name": "Ciraṃjīvi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ ciraṃjīviśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1806 saṃvat 1942 sāle miti bhādrasudirarojaha",
+  "era": "VS",
+  "year": "1942",
+  "month": "bhādra",
+  "paksa": "sudi",
+  "tithi": "",
+  "weekday": "rarojaha",
+  "nakshatra_yoga": "",
+  "ce_approx": "1885"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śāka 1806 and Vikrama Saṃvat 1942 are mentioned. 'rarojaha' is likely a corruption of ravi-roje (Sunday).",
+ "_meta": {
+  "reel": "A 443/10",
+  "model": "gemini-flash-latest",
+  "secs": 9.1,
+  "in_tok": 728,
+  "out_tok": 1227
+ }
+}

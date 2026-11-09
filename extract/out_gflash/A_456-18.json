@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No manuscript colophon or historical persons; the quoted text is the conclusion of the ritual text with standard liturgical placeholders (amuka gotra, etc.).",
+ "_meta": {
+  "reel": "A 456/18",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 720,
+  "out_tok": 597
+ }
+}

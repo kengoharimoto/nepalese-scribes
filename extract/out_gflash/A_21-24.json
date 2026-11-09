@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmahopādhyāyaśrīmadbhānudatta",
+   "name": "Bhānudatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāyaśrīmadbhānudattaprakā(4)śitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kaviśrīyadunandanena",
+   "name": "Yadunandana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "alekhi pustī rasamañj〈〈ī〉〉arīyaṃ tūrṇṇaṃ kaviśrīyadunandanena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "yugāṅkavedāṅkitalakṣmaṇā〈〈bd〉〉bde mārgge ca jīve ca balakṣapakṣe",
+  "era": "LS",
+  "year": "494",
+  "month": "Mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1613"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram yugāṅkaveda: yuga (4), aṅka (9), veda (4) = LS 494 (or interpreted as 414 in the catalogue notes). LS 494 + 1119 ≈ 1613 CE.",
+ "_meta": {
+  "reel": "A 21/24",
+  "model": "gemini-flash-latest",
+  "secs": 12.1,
+  "in_tok": 753,
+  "out_tok": 1314
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayabhūpatīndramalladevasa",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrī jayabhūpatīndramalladevasa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 827 bhādraśudi 13",
+  "era": "NS",
+  "year": "827",
+  "month": "bhādra",
+  "paksa": "śudi",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1707"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon records the installation of a pinnacle (gajur/gajuli) for the temple of Kaumārī during the reign of King Jayabhūpatīndramalla of Bhaktapur.",
+ "_meta": {
+  "reel": "A 233/22",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 765,
+  "out_tok": 1006
+ }
+}

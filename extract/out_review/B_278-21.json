@@ -1,0 +1,33 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Notes expanded only: 'madhya' is more likely Madhu (= Caitra) or a slip for Māgha, and '1213' probably means tithi 12/13 (dvādaśī running into trayodaśī). No change to the data fields."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 955 madhyaśukla 1213",
+  "era": "NS",
+  "year": "955",
+  "month": "madhya",
+  "paksa": "śukla",
+  "tithi": "1213",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1835"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era isn't stated, but 'saṃ 955' in a Newari-script manuscript is Nepāla Saṃvat (the catalogue also has NS 955). NS 955 = 1834/35 CE. The month 'madhya' is probably corrupt: most likely Madhu (= Caitra, about March/April 1835) or a slip for Māgha (about January/February 1835). Either way the year is 1835 CE. The tithi '1213' most likely means 12/13, i.e. dvādaśī running into trayodaśī on the same day; it could also be a corrupt figure. The colophon names no persons.",
+ "_meta": {
+  "reel": "B 278/21",
+  "model": "opus",
+  "cost_usd": 0.045690800000000004,
+  "secs": 10.6
+ }
+}

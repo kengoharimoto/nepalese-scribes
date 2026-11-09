@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṛṣṇarāya",
+   "name": "Kṛṣṇarāya",
+   "roles": [
+    "author",
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛṣṇarāyaproktaṃ svakṛtaśrīgokuleśāṣṭakavivaraṇaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "mitī(!) sāvaṇakṛṣṇapakṣatithau 5 caṃdravāsare saṃvat 1880",
+  "era": "VS",
+  "year": "1880",
+  "month": "sāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "caṃdravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1823"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 490/11",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 766,
+  "out_tok": 785
+ }
+}

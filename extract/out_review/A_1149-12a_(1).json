@@ -1,0 +1,35 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday: removed 'roja'. Here roja (Persian rōz, 'day') belongs to the solar day count 'vaiśāṣa gate roja N', so it is not a weekday",
+   "month: written as vaiśāṣa; normalised in notes as Vaiśākha",
+   "notes: the colophon gives no era and no day number; the era was inferred"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "1988 vaiśāṣa gate roja taddine",
+  "era": "VS",
+  "year": "1988",
+  "month": "vaiśāṣa (Vaiśākha)",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1931"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names no era. VS is the only plausible reading of 1988: it is far too high for NS and lies in the future for ŚS. The 'gate roja' solar-day formula is also typical of VS dates, and the catalogue agrees. Vaiśākha VS 1988 falls in about April–May 1931 CE. The day number after 'gate roja' is missing: the text has only 'taddine', so the day of the solar month is not given. The catalogue lists Bhuvaneśvara as scribe, but no personal name appears in the quoted colophon. The name may come from elsewhere in the manuscript, perhaps another part of the composite reel A 1149/12. I have not added him as a person.",
+ "_meta": {
+  "reel": "A 1149/12a (1)",
+  "model": "opus",
+  "cost_usd": 0.0457828,
+  "secs": 11.0
+ }
+}

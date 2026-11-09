@@ -1,0 +1,207 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrītrayamuni",
+   "name": "Trayamuni",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [
+    "vajrācārya",
+    "paramopāsaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paramo yāśakava‥cāryyaśrītrayamuni",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "padmadharī",
+   "name": "Padmadharī",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "padmadharī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrījayacandra",
+   "name": "Jayacandra",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "madhyamabhrātāśrījayacandra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "manodharī",
+   "name": "Manodharī",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasya bhāryyā manodharī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "ratnadharī",
+   "name": "Ratnadharī",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ratnadharī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "śrījayadharmma",
+   "name": "Jayadharma",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kanīṣṭa(!)bhrātā śrījayadharmma",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "śrījayadharmmamuni",
+   "name": "Jayadharmamuni",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "putraśrījayadharmmamuni",
+   "confidence": "high"
+  },
+  {
+   "pid": "p8",
+   "as_written": "śrījayadharmmacandra",
+   "name": "Jayadharmacandra",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījayadharmmacandra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p9",
+   "as_written": "śrījñānacandra",
+   "name": "Jñānacandra",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījñānacandra pramukhānāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p10",
+   "as_written": "mukundarāja",
+   "name": "Mukundarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhatathaṃ mukundarāja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p11",
+   "as_written": "śrījayamuni",
+   "name": "Jayamuni",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījayamunijunadayakājuroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "brother_of",
+   "to": "p1",
+   "evidence": "madhyamabhrātāśrījayacandra"
+  },
+  {
+   "from": "p4",
+   "type": "wife_of",
+   "to": "p3",
+   "evidence": "tasya bhāryyā manodharī"
+  },
+  {
+   "from": "p6",
+   "type": "brother_of",
+   "to": "p1",
+   "evidence": "kanīṣṭa(!)bhrātā śrījayadharmma"
+  },
+  {
+   "from": "p7",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "putraśrījayadharmmamuni"
+  },
+  {
+   "from": "p10",
+   "type": "wrote_for",
+   "to": "p11",
+   "evidence": "likhatathaṃ mukundarāja śrījayamunijunadayakājuroṃ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 818 vaiśāṣa(!)śukla | trayodasī kuhnu",
+  "era": "NS",
+  "year": "818",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "trayodaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1698"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "śrītrayamuni (p1) is likely a cataloguer's misreading of śrījayamuni (p11), who is explicitly recorded as having commissioned the copy (dayakājuroṃ). A damaged female name ending in -yadharī preceded Padmadharī.",
+ "_meta": {
+  "reel": "E 1200/8",
+  "model": "gemini-flash-latest",
+  "secs": 27.8,
+  "in_tok": 912,
+  "out_tok": 3825
+ }
+}

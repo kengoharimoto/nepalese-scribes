@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsnubhūtisvarūpācāryyeṇa",
+   "name": "Anubhūtisvarūpa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsnubhūtisvarūpācāryyeṇa viracitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1958 sāla miti pauṣa śu di 11 roja 2",
+  "era": "VS",
+  "year": "1958",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "roja 2 (Monday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1902"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author's name is written as snubhūtisvarūpācāryyeṇa, an error for anubhūtisvarūpācāryeṇa. No scribe or patron is mentioned.",
+ "_meta": {
+  "reel": "A 587/5",
+  "model": "gemini-flash-latest",
+  "secs": 6.8,
+  "in_tok": 714,
+  "out_tok": 876
+ }
+}

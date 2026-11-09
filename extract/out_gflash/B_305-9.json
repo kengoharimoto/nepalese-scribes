@@ -1,0 +1,251 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sarasvatītīrthacaraṇa",
+   "name": "Sarasvatītīrtha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sarasvatītīrthacaraṇaviracitāy[āṃ kā]///vyaprakāśaṭīkāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rudrajyotirvit",
+   "name": "Rudra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rudrajyotirvitputra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "sadāśivajyotirvidā",
+   "name": "Sadāśiva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "khitaṃ pustakaṃ rudrajyotirvitputra sadāśivajyotirvidā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "bhairavabhaṭṭa",
+   "name": "Bhairava",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhairavabhaṭṭātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "dīkṣita⁅nā⁆///ganātha",
+   "name": "Nāganātha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dīkṣita⁅nā⁆///ganāthātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "maheśadīkṣita",
+   "name": "Maheśa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "maheśadīkṣitātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "paṃḍitārāyāpara nāma mādhavabhaṭṭa",
+   "name": "Mādhava",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paṇḍitarāya",
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṃḍitārāyāpara nāma mādhavabhaṭṭātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p8",
+   "as_written": "balabhadrabhaṭṭa",
+   "name": "Balabhadra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "balabhadrabhaṭṭātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p9",
+   "as_written": "harinārāyaṇabhaṭta",
+   "name": "Harinārāyaṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "harinārāyaṇabhaṭtātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p10",
+   "as_written": "kavipaṃḍitāpara nāma mohanabhaṭṭa",
+   "name": "Mohana",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "kavipaṇḍita",
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kavipaṃḍitāpara nāma mohanabhaṭṭātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p11",
+   "as_written": "śukadevabhaṭṭa",
+   "name": "Śukadeva",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śukadevabhaṭṭanimittaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "rudrajyotirvitputra sadāśivajyotirvidā"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p11",
+   "evidence": "khitaṃ pustakaṃ rudrajyotirvitputra sadāśivajyotirvidā || ... śukadevabhaṭṭanimittaṃ"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "bhairavabhaṭṭātmajadīkṣita⁅nā⁆///ganātha"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p5",
+   "evidence": "dīkṣita⁅nā⁆///ganāthātmaja maheśadīkṣita"
+  },
+  {
+   "from": "p7",
+   "type": "son_of",
+   "to": "p6",
+   "evidence": "maheśadīkṣitātmaja paṃḍitārāyāpara nāma mādhavabhaṭṭa"
+  },
+  {
+   "from": "p8",
+   "type": "son_of",
+   "to": "p7",
+   "evidence": "paṃḍitārāyāpara nāma mādhavabhaṭṭātmaja balabhadrabhaṭṭa"
+  },
+  {
+   "from": "p9",
+   "type": "son_of",
+   "to": "p8",
+   "evidence": "balabhadrabhaṭṭātmaja harinārāyaṇabhaṭta"
+  },
+  {
+   "from": "p10",
+   "type": "son_of",
+   "to": "p9",
+   "evidence": "harinārāyaṇabhaṭtātmaja kavipaṃḍitāpara nāma mohanabhaṭṭa"
+  },
+  {
+   "from": "p11",
+   "type": "son_of",
+   "to": "p10",
+   "evidence": "mohanabhaṭṭātmaja śukadevabhaṭṭanimittaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1738 vaiśākhaśuddha 9 śane",
+  "era": "VS",
+  "year": "1738",
+  "month": "vaiśākha",
+  "paksa": "śuddha",
+  "tithi": "9",
+  "weekday": "śani",
+  "nakshatra_yoga": "",
+  "ce_approx": "1681"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śukadevabhaṭṭanimittaṃ",
+ "notes": "The catalogue wrongly identifies Śukadevabhaṭṭa as the scribe. The colophon states that the manuscript was copied by Sadāśivajyotirvid, son of Rudrajyotirvid, for the sake of Śukadevabhaṭṭa (śukadevabhaṭṭanimittaṃ), son of Mohanabhaṭṭa.",
+ "_meta": {
+  "reel": "B 305/9",
+  "model": "gemini-flash-latest",
+  "secs": 23.9,
+  "in_tok": 874,
+  "out_tok": 3756
+ }
+}

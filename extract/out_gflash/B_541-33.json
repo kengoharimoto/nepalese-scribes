@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viṇīrāma",
+   "name": "Viṇīrāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lī(!)khitaṃ viṇīrāma",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1856 vaiśākhkṛṣṇa 4 ... śukravāra",
+  "era": "VS",
+  "year": "1856",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "4",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1799"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 541/33",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 702,
+  "out_tok": 575
+ }
+}

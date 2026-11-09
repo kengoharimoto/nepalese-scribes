@@ -1,0 +1,257 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayasiddhinarasiṃhasatvasya",
+   "name": "Jayasiddhinarasiṃha",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "śrīmadrājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadrājādhirāja‥ || || parameśvaraparamabhaṭṭārakaḥ śrī 2 jayasiddhinarasiṃhasatvasya vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīśākyavaṃśarugu(!)deva",
+   "name": "Rugudeva",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "śākyavaṃśa"
+   ],
+   "affiliation": "śrīrudravarṇṇamahāvihāra",
+   "residence": "śrījayatarddhanamahāvihāra",
+   "evidence": "śrīrudravarṇṇamahāvihāravatsa śrījayatarddhanamahāvihārāvasthitaṃ dānapati śrīśākyavaṃśarugu(!)deva",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrījayatasiṃha",
+   "name": "Jayatasiṃha",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rudrabhā(pre) śrījayatasiṃha",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "bhatu(!)",
+   "name": "Bhatu",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrugu(!)devasya bhāryyābhatu(!)",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p5",
+   "as_written": "hera",
+   "name": "Hera",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījayatasihasya(!) bhāryyāhera",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p6",
+   "as_written": "dhanadeva",
+   "name": "Dhanadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī‥devasya putra dhanadeva",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p7",
+   "as_written": "ratikara",
+   "name": "Ratikara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījayatasiṃhasya putra[[ratikara]]",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p8",
+   "as_written": "uhlāpanāmnā",
+   "name": "Uhlāpā",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mātā uhlāpanāmnā",
+   "confidence": "low"
+  },
+  {
+   "pid": "p9",
+   "as_written": "śrīdevasunda‥",
+   "name": "Devasundara",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "bhikṣu"
+   ],
+   "affiliation": "",
+   "residence": "śrīnakavihāra",
+   "evidence": "śrīnakavihārī nivasita bhikṣu śrīdevasunda‥yāke kāmyaṃ coyājuro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p10",
+   "as_written": "śrīvajrācāryyadevendra",
+   "name": "Devendra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "śrībuvāhāra",
+   "evidence": "lekhakaśrībuvāhārāvasthitaśrīvajrācāryyadevendrapramukhana",
+   "confidence": "high"
+  },
+  {
+   "pid": "p11",
+   "as_written": "śrīji[[na]]devena",
+   "name": "Jinadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "śrīrukravāhāra",
+   "evidence": "jyaṣṭha(!)śrīrukravāhārāvasthi[[ta]]vajrā[[cā]]ryyaśrīji[[na]]devena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p12",
+   "as_written": "śrīhnavanadevena",
+   "name": "Hnavanadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasya putrajyasta(!)śrīhnavanadevena",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p13",
+   "as_written": "śrīmaṇidevena",
+   "name": "Maṇideva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kaneṣṭhaputraśrīmaṇidevena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p4",
+   "type": "wife_of",
+   "to": "p2",
+   "evidence": "śrīrugu(!)devasya bhāryyābhatu(!)"
+  },
+  {
+   "from": "p5",
+   "type": "wife_of",
+   "to": "p3",
+   "evidence": "śrījayatasihasya(!) bhāryyāhera"
+  },
+  {
+   "from": "p7",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "śrījayatasiṃhasya putra[[ratikara]]"
+  },
+  {
+   "from": "p12",
+   "type": "son_of",
+   "to": "p11",
+   "evidence": "tasya putrajyasta(!)śrīhnavanadevena"
+  },
+  {
+   "from": "p13",
+   "type": "son_of",
+   "to": "p11",
+   "evidence": "kaneṣṭhaputraśrīmaṇidevena"
+  },
+  {
+   "from": "p10",
+   "type": "wrote_for",
+   "to": "p9",
+   "evidence": "bhikṣu śrīdevasunda‥yāke kāmyaṃ coyājuro"
+  },
+  {
+   "from": "p10",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "jayasiddhinarasiṃhasatvasya vijayarājye tasmin samaye liṣitam(!)"
+  }
+ ],
+ "date": {
+  "as_written": "nepāre ye mate yāte mandarudrānanagirau | āṣvinī śitapakṣāṃke tithau kroṃñca vidāraṇe || śubhe jyaṣṭha(!)samāgamye yogaśaubhamasaṃgate | grahānāpa sadvāre",
+  "era": "NS",
+  "year": "mandarudrānanagirau",
+  "month": "āṣvinī",
+  "paksa": "śita",
+  "tithi": "kroṃñca vidāraṇe",
+  "weekday": "sadvāre",
+  "nakshatra_yoga": "jyaṣṭha / śaubhama",
+  "ce_approx": "1732"
+ },
+ "place": {
+  "as_written": "śrīrudravarṇṇamahāvihāravatsa śrījayatarddhanamahāvihārāvasthitaṃ",
+  "normalized": "Patan"
+ },
+ "purpose": "Merit for family and attainment of anuttarajñāna (puṇyaprabhāvena ... anurttarajñānaphala prāpnuvantu)",
+ "notes": "The monasteries mentioned (Rudravarṇa Mahāvihāra/Uku Bahal, Buvāhāra/Bu Bahal, Naka Vihāra) are located in Patan. The king's name appears with the unusual title/epithet 'satva' (sattva): 'jayasiddhinarasiṃhasatvasya'.",
+ "_meta": {
+  "reel": "H 45/6",
+  "model": "gemini-flash-latest",
+  "secs": 36.8,
+  "in_tok": 1358,
+  "out_tok": 5455
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīragh⌠u⌡nandanabhaṭṭācāryya",
+   "name": "Raghunandana",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāya śrīragh⌠u⌡nandanabhaṭṭācāryyaviracitam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kulānandena",
+   "name": "Kulānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kulānandena lekhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "sūcahāṣṭa varṣeṣu cāravān asite phaṇi | tatra bhadrā",
+  "era": "unspecified",
+  "year": "sūcahāṣṭa",
+  "month": "cāravān",
+  "paksa": "kṛṣṇa",
+  "tithi": "phaṇi (5)",
+  "weekday": "",
+  "nakshatra_yoga": "bhadrā",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date verse is corrupt and obscure ('sūcahāṣṭa varṣeṣu cāravān asite phaṇi | tatra bhadrā'). Kulānanda is listed as scribe by the cataloguer, though 'lekhitaṃ' can also denote a commissioner.",
+ "_meta": {
+  "reel": "A 490/31",
+  "model": "gemini-flash-latest",
+  "secs": 11.1,
+  "in_tok": 787,
+  "out_tok": 1502
+ }
+}

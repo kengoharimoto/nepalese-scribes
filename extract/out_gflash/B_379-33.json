@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "maṇirāmeṇa",
+   "name": "Maṇirāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitā śivasaṃhitā śiviktā maṇirāmeṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "khagamadhyayutendu vatsare ((smin)) śuci kṛṣṇe smarayugdharājavāre",
+  "era": "unspecified",
+  "year": "khagamadhyayutendu",
+  "month": "śuci",
+  "paksa": "kṛṣṇa",
+  "tithi": "smara",
+  "weekday": "dharājavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1790"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrī[ś]ivaprītir astu",
+ "notes": "The catalogue interprets the chronogram khagamadhyayutendu as ŚS 1712. Dharājavāra designates Tuesday (Bhauma/Mars). Īśvara is omitted as a divine interlocutor.",
+ "_meta": {
+  "reel": "B 379/33",
+  "model": "gemini-flash-latest",
+  "secs": 11.9,
+  "in_tok": 732,
+  "out_tok": 1292
+ }
+}

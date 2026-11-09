@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devācāryena",
+   "name": "Devācārya",
+   "roles": [
+    "scribe",
+    "beneficiary"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devācāryena(!) lekhayet(!) sampūrṇa[ṃ] karomi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 809 āṣāḍhaśuklapañcamyāṃ tithau bhaumadine",
+  "era": "NS",
+  "year": "809",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "bhaumadina",
+  "nakshatra_yoga": "",
+  "ce_approx": "1689"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "etat puṇyānubhāvena mama saparivārāṇāṃ kalyāṇam astu",
+ "notes": "The phrase 'vidūyati devācāryena(!) lekhayet(!) sampūrṇa[ṃ] karomi' is grammatically corrupt; 'vidūyati' is unclear (possibly a corrupt place name or verbal form). 'lekhayet' is causative or a corruption for a past participle (e.g. lekhitam), but Devācārya writes in the first person ('sampūrṇaṃ karomi', 'mama saparivārāṇāṃ') and is identified as the scribe in the catalogue.",
+ "_meta": {
+  "reel": "A 135/10",
+  "model": "gemini-flash-latest",
+  "secs": 12.9,
+  "in_tok": 816,
+  "out_tok": 1877
+ }
+}

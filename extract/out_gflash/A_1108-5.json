@@ -1,0 +1,98 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "uvaṭakṛtau",
+   "name": "Uvaṭa",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Ānandapura",
+   "evidence": "ānaṃdapuravāstavyavajraṭaputra.. uvaṭakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vajraṭaputra",
+   "name": "Vajraṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Ānandapura",
+   "evidence": "ānaṃdapuravāstavyavajraṭaputra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "caturvveda de[va]datta",
+   "name": "Devadatta",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "caturveda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "caturvveda de[va]dattaputra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "caturvveda .. .. ..",
+   "name": "Unknown",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "caturveda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustaka liṣāpitaṃ caturvveda de[va]dattaputracaturvveda .. .. ..",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "vajraṭaputra"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "de[va]dattaputra"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1539 samaye śrāvaṇa sudi 12 śanivāsare",
+  "era": "VS",
+  "year": "1539",
+  "month": "śrāvaṇa",
+  "paksa": "sudi",
+  "tithi": "12",
+  "weekday": "śanivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1482"
+ },
+ "place": {
+  "as_written": "śrīkāśyāṃ viśveśvara rājadye (!)",
+  "normalized": "Varanasi"
+ },
+ "purpose": "",
+ "notes": "The commissioner's personal name following 'caturvveda de[va]dattaputracaturvveda' is lost in a lacuna.",
+ "_meta": {
+  "reel": "A 1108/5",
+  "model": "gemini-flash-latest",
+  "secs": 17.9,
+  "in_tok": 852,
+  "out_tok": 2770
+ }
+}

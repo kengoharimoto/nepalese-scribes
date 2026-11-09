@@ -1,0 +1,71 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kuladatta",
+   "name": "Kuladatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāpaṇḍita",
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kuladattaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrībhāskaladeoca(!)",
+   "name": "Bhāskaradeva",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhāskaladeoca(!) saṃskārita(!)",
+   "confidence": "low"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīcakrapatidevena",
+   "name": "Cakrapatideva",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "Pārāvata-mahāvihāra",
+   "residence": "Kāntipurī",
+   "evidence": "śrīcakrapatidevena likhāyitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 835 phāguṇa kṛṣṇa 4",
+  "era": "NS",
+  "year": "835",
+  "month": "phāguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "4",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1715"
+ },
+ "place": {
+  "as_written": "śrīkāntipuri(!)mahāgare pārāvatamahāvī(!)hāre",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "śrībhāskaladeoca saṃskārita refers to the standard epithet of the monastery (Itum Bāhā in Kathmandu: Bhāskaradeva-saṃskārita-Pārāvata-mahāvihāra), referring to the historical 11th-century king Bhāskaradeva who restored it, though it coincides with the reign of Bhāskara Malla (NS 821–835/842).",
+ "_meta": {
+  "reel": "A 127/13",
+  "model": "gemini-flash-latest",
+  "secs": 17.1,
+  "in_tok": 798,
+  "out_tok": 2494
+ }
+}

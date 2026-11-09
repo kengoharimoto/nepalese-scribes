@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "āvasathikamahādharmmādhikṛtaśrīhalāyudha",
+   "name": "Halāyudha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "āvasathika",
+    "mahādharmādhikṛta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "āvasathikamahādharmmādhikṛtaśrīhalāyudhakṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1941 āṣāḍha śukla 5 ravivāra",
+  "era": "VS",
+  "year": "1941",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1884"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "E 533/4",
+  "model": "gemini-flash-latest",
+  "secs": 9.0,
+  "in_tok": 707,
+  "out_tok": 1175
+ }
+}

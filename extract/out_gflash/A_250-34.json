@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvaṃśamaṇiśarmmaṇā",
+   "name": "Vaṃśamaṇi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvaṃśamaṇiśarmmaṇā vyalekhīyam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "māghaśuklatrayodaśī punarvvasu śaniścaramilite ‘bdhivasumunigaṇite ‘smin saṃvatsare [...] samvat 784",
+  "era": "NS",
+  "year": "784",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "trayodaśī",
+  "weekday": "śaniścara",
+  "nakshatra_yoga": "punarvvasu",
+  "ce_approx": "1664"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram ‘bdhi-vasu-muni (4-8-7) corresponds to year 784, which is additionally stated in numerals as 'samvat 784'.",
+ "_meta": {
+  "reel": "A 250/34",
+  "model": "gemini-flash-latest",
+  "secs": 9.0,
+  "in_tok": 872,
+  "out_tok": 1376
+ }
+}

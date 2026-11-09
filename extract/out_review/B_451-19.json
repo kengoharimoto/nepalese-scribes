@@ -1,0 +1,84 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Raghunātha: confidence lowered to low. The colophon gives only his name and surname, with no verb such as likhitam, so calling him the scribe is an inference.",
+   "Raghunātha: surname Ghaṇṭa added to titles.",
+   "Dropped the wrote_for relation Raghunātha → Gopīlāla. It is speculative because nothing says Raghunātha copied the book for Gopīlāla.",
+   "Gopīlāla: affiliation changed to Bharadvāja gotra (bharadvājamaharṣivaṃśodbhava); as_written and evidence now follow the cataloguer's text, including the break between gopī and lāla.",
+   "date.as_written now follows the cataloguer's spelling, including the editorial brackets.",
+   "Notes expanded: the role conflict with the catalogue, and why the year cannot be converted to CE."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭaśrīdhara",
+   "name": "Śrīdhara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭaśrīdhararacitāsāpiṃḍyadīpikā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ghaṃṭopanāmābhināmnā raghunāthaḥ",
+   "name": "Raghunātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "Ghaṇṭa (upanāman)"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ghaṃṭopanāmābhināmnā raghunāthaḥ",
+   "confidence": "low"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīmatpaṇḍitagopī || || || || lālasya",
+   "name": "Gopīlāla",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "Bharadvāja gotra",
+   "residence": "",
+   "evidence": "bharadvājamaharṣivaṃśodbhavaśrīmatpaṇḍitagopī || || || || lālasyedampustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "ana[[la]]nāṃasaṃvatsare udagayane śiśiraṛtau pauṣaśūkle",
+  "era": "unspecified",
+  "year": "Anala (year of the 60-year Bṛhaspati cycle)",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue names Paṇḍita Gopīlāla as scribe. The colophon only says the book is his ('gopīlālasyedampustakaṃ ... prāraṃbhāt samāptiparyantam'), so the role given here is owner. He may also have copied it, but the text does not say so. Raghunātha, whose surname is Ghaṇṭa, is named alone with no verb. He is probably the scribe, but this is uncertain. The year is given only by its name in the 60-year Bṛhaspati cycle (Anala), with no era, so it cannot be converted to CE; the cycle repeats every 60 years. 'pauṣaśūkle' stands for pauṣaśukle. The deity invocations (Śāntādurgā, Dhūtapāpeśvara) are not counted as persons.",
+ "_meta": {
+  "reel": "B 451/19",
+  "model": "opus",
+  "cost_usd": 0.5753056000000001,
+  "secs": 30.4
+ }
+}

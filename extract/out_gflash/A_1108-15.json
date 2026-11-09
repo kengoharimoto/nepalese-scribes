@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "makarandasūri",
+   "name": "Makaranda",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "Kauśikavaṃśa",
+   "residence": "",
+   "evidence": "makarandasūrisuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śivaśarmaśarma",
+   "name": "Śivaśarman",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paṇḍitamaṇḍalāgraṇī",
+    "śarman"
+   ],
+   "affiliation": "Kauśikavaṃśa",
+   "residence": "",
+   "evidence": "śivaśarmaśarmakṛta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "makarandasūrisutaśivaśarmaśarma"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1919 bhādra va di 11 roja 5",
+  "era": "VS",
+  "year": "1919",
+  "month": "bhādra",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "5 (Thursday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1862"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The kings Pratāpasiṃha and Bahādura Śāha listed in the catalogue fields do not appear in this colophon excerpt.",
+ "_meta": {
+  "reel": "A 1108/15",
+  "model": "gemini-flash-latest",
+  "secs": 8.5,
+  "in_tok": 784,
+  "out_tok": 1334
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. Note expanded: the 8-syllable pāda needs 'pālavatsare', so it is a deliberate short form of Nepālavatsara, not a scribal slip."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñakutunā",
+   "name": "Kutu",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñakutunā (!) pūrṇṇaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "bāṇāṣṭamunibhir yukte gate pālavatsare | bhādramāsy asite pakṣe | aṣṭamyāṃ bhārgave dine || ... samvat 785 bhādrapadakṛṣṇe | aṣṭamyāṃ dine",
+  "era": "NS",
+  "year": "785",
+  "month": "Bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1665"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name is written daivajñakutunā and the cataloguer marked it (!). It could be a corruption of Ketu, as the catalogue suggests, or of Kuṭu. Kutu is kept as written, with medium confidence. The chronogram bāṇa (5) aṣṭa (8) muni (7), read right to left, gives 785. 'samvat 785' in the same colophon confirms it. 'pālavatsare' stands for Nepālavatsara; the short form keeps the line at 8 syllables. So the era is NS, and NS 785 is about 1665 CE. bhārgave dine means Friday.",
+ "_meta": {
+  "reel": "A 17/5",
+  "model": "opus",
+  "cost_usd": 0.083364,
+  "secs": 10.6
+ }
+}

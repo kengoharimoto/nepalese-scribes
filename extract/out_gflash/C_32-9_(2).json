@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devīdharavatās",
+   "name": "Devīdhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "tacapālaṭola",
+   "evidence": "likhitaṃ tacapālaṭola basnyā devīdharavatās",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1942 sāla miti śrāvaṇa śu di 10 roja 5",
+  "era": "VS",
+  "year": "1942",
+  "month": "śrāvaṇa",
+  "paksa": "śuklapakṣa",
+  "tithi": "10",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1885"
+ },
+ "place": {
+  "as_written": "tacapālaṭola",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "Tacapāla ṭola (Tacapāl Ṭol) is a well-known locality in Bhaktapur. 'basnyā' is Nepali for 'residing in'.",
+ "_meta": {
+  "reel": "C 32/9 (2)",
+  "model": "gemini-flash-latest",
+  "secs": 7.3,
+  "in_tok": 758,
+  "out_tok": 771
+ }
+}

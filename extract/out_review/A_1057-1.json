@@ -1,0 +1,64 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe's title normalized from 'caturvedaḥ' to stem form 'caturvedin' (Caturvedī)",
+   "Scribe's evidence now includes the title",
+   "Notes: 'kuru' could be a corruption of 'guru' (Thursday); weekday left empty"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kālidasa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkālidasakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rāmakṛṣṇena caturvedaḥ",
+   "name": "Rāmakṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "caturvedin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitam idaṃ rāmakṛṣṇena caturvedaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1716 śāke 1581 [[āṣāḍhe masi kṛṣṇapakṣe kuru]]",
+  "era": "VS",
+  "year": "1716",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1659"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The two dates agree: VS 1716 − 57 = 1659 and ŚS 1581 + 78 = 1659 CE. The month details are in the cataloguer's double brackets, which may mean they are added or uncertain. 'kuru' after kṛṣṇapakṣe may be a corruption of 'guru' (= guruvāsare, Thursday). It could also be a garbled tithi. No tithi number is given. 'caturvedaḥ' is ungrammatical (it should agree with rāmakṛṣṇena) and is taken as the title Caturvedin/Caturvedī.",
+ "_meta": {
+  "reel": "A 1057/1",
+  "model": "opus",
+  "cost_usd": 0.051774799999999996,
+  "secs": 10.7
+ }
+}

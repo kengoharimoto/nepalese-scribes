@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śukadevaśarmmaṇaḥ",
+   "name": "Śukadeva",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃm(!) idaṃ pustakaṃ śukadevaśarmmaṇaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1695 vaiśāṣa(!)māse śuklapakṣe bhaumavāre trayodaśyāṃ tithau hastanakṣatre",
+  "era": "ŚS",
+  "year": "1695",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "trayodaśī",
+  "weekday": "bhaumavāra",
+  "nakshatra_yoga": "hasta",
+  "ce_approx": "1773"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The genitive 'śukadevaśarmmaṇaḥ' with 'likhitaṃm idaṃ pustakaṃ' may function either as an agentive genitive for the instrumental (scribe) or as a genitive of possession (owner).",
+ "_meta": {
+  "reel": "B 141/13",
+  "model": "gemini-flash-latest",
+  "secs": 9.5,
+  "in_tok": 831,
+  "out_tok": 1125
+ }
+}

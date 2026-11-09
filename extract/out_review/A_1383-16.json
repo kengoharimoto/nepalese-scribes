@@ -1,0 +1,72 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 name normalized to Ṭīkārāma: the cataloguer's (!) after 'ṭi' marks the short vowel as an error for ṭī",
+   "Purpose rewritten as a short gloss",
+   "Notes expanded: era conflict with the catalogue field and the scribe's name spelling"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "remeśvara(!)",
+   "name": "Rāmeśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "remeśvara(!) liṣitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ṭi(!)kārāmaśarmaṇe",
+   "name": "Ṭīkārāma",
+   "roles": [
+    "beneficiary",
+    "reader"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ṭi(!)kārāmaśarmaṇe paṭhanārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "remeśvara(!) liṣitaṃ || ṭi(!)kārāmaśarmaṇe paṭhanārthaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 16||97 kārtikavadi 5 tithau 5",
+  "era": "ŚS",
+  "year": "1697",
+  "month": "kārttika",
+  "paksa": "vadi (kṛṣṇa)",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1775"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for the reading (paṭhanārtham) of Ṭīkārāma Śarman",
+ "notes": "The catalogue gives the date as 'SAM 1697', which suggests Vikrama Saṃvat (= 1640 CE), but the colophon plainly reads 'śrīśāke 16||97', so it is Śaka 1697 (= 1775 CE, Kārttika kṛṣṇa 5, about October/November 1775). The scribe's name is written 'remeśvara(!)' and read as Rāmeśvara, as in the catalogue. The beneficiary's name is written 'ṭi(!)kārāma' and normalized to Ṭīkārāma. 'Reader' is kept for him because the colophon explicitly says the copy is for his reading.",
+ "_meta": {
+  "reel": "A 1383/16",
+  "model": "opus",
+  "cost_usd": 0.061458799999999994,
+  "secs": 15.0
+ }
+}

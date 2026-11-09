@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "haradevaśarmmeṇa(!)",
+   "name": "Haradeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ haradevaśarmmeṇa(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1895 śāke 1760 śrāvaṇakṛṣṇa 1 caṃdravāsare",
+  "era": "VS",
+  "year": "1895",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "1",
+  "weekday": "caṃdravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1838"
+ },
+ "place": {
+  "as_written": "someśvarasami(!)pe",
+  "normalized": "Someśvara"
+ },
+ "purpose": "",
+ "notes": "Double dated in Vikrama Saṃvat 1895 and Śaka 1760.",
+ "_meta": {
+  "reel": "A 247/21",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 722,
+  "out_tok": 723
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsaccidānaṃdanātha",
+   "name": "Saccidānandanātha",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsaccidānaṃdanāthacaraṇāraviṃdadvaṃdvāṃtevāsinā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīśrīvidyānaṃdanāthena",
+   "name": "Vidyānandanātha",
+   "roles": [
+    "author",
+    "pupil"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsaccidānaṃdanāthacaraṇāraviṃdadvaṃdvāṃtevāsinā śrīśrīvidyānaṃdanāthena kṛte",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śrīsaccidānaṃdanāthacaraṇāraviṃdadvaṃdvāṃtevāsinā śrīśrīvidyānaṃdanāthena"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chapter colophon (taraṅga 25) giving the author Vidyānandanātha and his guru Saccidānandanātha.",
+ "_meta": {
+  "reel": "A 465/15",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 686,
+  "out_tok": 1098
+ }
+}

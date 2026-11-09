@@ -1,0 +1,55 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "leṣānanda",
+   "name": "Leṣānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "leṣānanda abhayānandena likhitaṃ",
+   "confidence": "low"
+  },
+  {
+   "pid": "p2",
+   "as_written": "abhayānandena",
+   "name": "Abhayānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "abhayānandena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śubham astu sarvajagatāṃ sarvadā",
+ "notes": "The phrase 'leṣānanda abhayānandena likhitaṃ' is ambiguous: 'leṣānanda' may be a second scribe's name (Lekhānanda / Leṣānanda) or an uninflected/corrupt element.",
+ "_meta": {
+  "reel": "B 94/7",
+  "model": "gemini-flash-latest",
+  "secs": 9.1,
+  "in_tok": 765,
+  "out_tok": 1043
+ }
+}

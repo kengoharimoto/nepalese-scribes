@@ -1,0 +1,63 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayabhūpatīndra malladevasana",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayabhūpatīndra malladevasana dayakā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dhanasiṃha",
+   "name": "Dhanasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Vidyāpīṭha",
+   "evidence": "likhitaṃ vidyāpīṭhayā, dhanasiṃha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "śrīśrījayabhūpatīndra malladevasana dayakā juro [...] likhitaṃ vidyāpīṭhayā, dhanasiṃha"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 826 caitra, kṛṣṇa, ṣaṣṭhikunhu, ādityavārakuhnu",
+  "era": "NS",
+  "year": "826",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "ṣaṣṭhī",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1706"
+ },
+ "place": {
+  "as_written": "vidyāpīṭha",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "mahādīpa prajvālitayātaṃ",
+ "notes": "Vidyāpīṭha is a well-known locality/quarter in Bhaktapur. The Newari phrase 'dayakā juro' indicates that King Jayabhūpatīndra Malla commissioned/had the manuscript made for the lighting of the great lamp (mahādīpa prajvālita).",
+ "_meta": {
+  "reel": "A 975/20 (6)",
+  "model": "gemini-flash-latest",
+  "secs": 12.5,
+  "in_tok": 842,
+  "out_tok": 1728
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumati jayajitāmitramalladevasa",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "commissioner",
+    "king"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumati jayajitāmitramalladevasa mahāṣṭamī antalavāṅayā vidhi thva saṃphuli || dayakā juloṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 814 pauṣa śudi 8 revatīnakṣetra ādityavāra",
+  "era": "NS",
+  "year": "814",
+  "month": "pauṣa",
+  "paksa": "śudi",
+  "tithi": "8",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "revatīnakṣetra",
+  "ce_approx": "1694"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīśrīśrīsveṣṭadevatāprīti",
+ "notes": "The scribe refers to himself anonymously via the standard scribal śloka (yādṛśaṃ puṣṭakaṃ dṛṣṭvā...).",
+ "_meta": {
+  "reel": "B 199/8",
+  "model": "gemini-flash-latest",
+  "secs": 9.3,
+  "in_tok": 895,
+  "out_tok": 1154
+ }
+}

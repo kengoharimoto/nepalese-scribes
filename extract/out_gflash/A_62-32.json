@@ -1,0 +1,55 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pātañjala",
+   "name": "Patañjali",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pātañjalayogaśāstre",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vedavyāsa",
+   "name": "Vedavyāsa",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vedavyāsabhāsye",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "kāśipurāyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "svapaṭhanārthaṃ",
+ "notes": "The manuscript was copied for the unnamed scribe's own study (svapaṭhanārthaṃ).",
+ "_meta": {
+  "reel": "A 62/32",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 690,
+  "out_tok": 843
+ }
+}

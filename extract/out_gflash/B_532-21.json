@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "goviṃdasiṃhena",
+   "name": "Govindasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmācārya"
+   ],
+   "affiliation": "trividyāpīṭha",
+   "residence": "",
+   "evidence": "likhiti saṃpūrṇam idaṃ saṃphatrividyāpīḥa karmmācāya goviṃdasiṃhena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 390 āśvini māsyaśuklapakṣe caturthyān tithau anurodhanakṣatre aubhāgyayoge yathākaraṇamūhurtta aṃgāravāsare tularāśi gate davitari viccharāśi gate caṃdramasi",
+  "era": "NS",
+  "year": "390",
+  "month": "āśvina",
+  "paksa": "śuklapakṣa",
+  "tithi": "caturthī",
+  "weekday": "aṅgāravāsara",
+  "nakshatra_yoga": "anurodhanakṣatre aubhāgyayoge",
+  "ce_approx": "1270"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīdurggāprīrtir astu",
+ "notes": "In 'saṃphatrividyāpīḥa', 'saṃpha' likely stands for Newar saphu ('manuscript, book') and 'trividyāpīḥa' for Trividyāpīṭha. 'karmmācāya' is a scribal error for Karmācārya.",
+ "_meta": {
+  "reel": "B 532/21",
+  "model": "gemini-flash-latest",
+  "secs": 15.0,
+  "in_tok": 773,
+  "out_tok": 1815
+ }
+}

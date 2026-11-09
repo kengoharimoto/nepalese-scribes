@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paṃḍitarājajagannātha",
+   "name": "Jagannātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paṇḍitarāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpaṃḍitarājajagannāthaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1677 māse āṣāḍhaṃ śukla 4 vāre da(?)",
+  "era": "ŚS",
+  "year": "1677",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "da(?)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1755"
+ },
+ "place": {
+  "as_written": "trikuṭācalaparvatarājadhānyāṃ",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Copied at Trikuṭācala parvatarājadhānī. The weekday reading is uncertain ('da(?)').",
+ "_meta": {
+  "reel": "B 320/19",
+  "model": "gemini-flash-latest",
+  "secs": 8.3,
+  "in_tok": 855,
+  "out_tok": 981
+ }
+}

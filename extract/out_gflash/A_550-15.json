@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhaṭṭojidīkṣita",
+   "name": "Bhaṭṭoji",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhaṭṭojidīkṣitapraṇi(!)tas tithinirṇayaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1810 sāke sālīvāhana 1676 kā[r]ttikakṛṣṇapakṣe so[ma]vāsare ekādaśyāṃ",
+  "era": "VS",
+  "year": "1810 (VS) / 1676 (ŚS)",
+  "month": "kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī",
+  "weekday": "somavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1753"
+ },
+ "place": {
+  "as_written": "veni(!)sami(!)pe prayāgamadhyaṃ",
+  "normalized": "Prayāga"
+ },
+ "purpose": "",
+ "notes": "The scribe is unnamed (only 'līṣitvā' is written).",
+ "_meta": {
+  "reel": "A 550/15",
+  "model": "gemini-flash-latest",
+  "secs": 8.3,
+  "in_tok": 742,
+  "out_tok": 1072
+ }
+}

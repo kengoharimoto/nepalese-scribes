@@ -1,0 +1,183 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīvajrācāryya guṇasāgraju",
+   "name": "Guṇasāgara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Śrīmānadevasaṃskārita Cakramahāvihāra",
+   "residence": "",
+   "evidence": "śrīśrīvajrācāryya guṇasāgraju śrīvajrācārya kuladatta deva ju nihma sana coya dhuṃkā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvajrācārya kuladatta deva ju",
+   "name": "Kuladattadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Śrīmānadevasaṃskārita Cakramahāvihāra",
+   "residence": "",
+   "evidence": "śrīvajrācārya kuladatta deva ju nihma sana coya dhuṃkā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "sākyavaṃśaśrīdharmarājajuna",
+   "name": "Dharmarāja",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "śākyavaṃśa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dānapati ⟪...⟫ sākyavaṃśaśrīdharmarājajuna dayakā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīdhanasiṃju",
+   "name": "Dhanasiṃha",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdhanasiṃju ... dayakā juro",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p5",
+   "as_written": "dhanapati siṃju",
+   "name": "Dhanapatisiṃha",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dhanapati siṃju ... dayakā juro",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p6",
+   "as_written": "manohari",
+   "name": "Manoharī",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "manohari ... dayakā juro",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p7",
+   "as_written": "(rahnā)vatī",
+   "name": "Ratnāvatī",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "(rahnā)vatī ... dayakā juro",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p8",
+   "as_written": "dhananā nadhimayaju",
+   "name": "Dhananāndhī",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "mayaju"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dhananā nadhimayaju ... dayakā juro",
+   "confidence": "low"
+  },
+  {
+   "pid": "p9",
+   "as_written": "dhanamā++bhāju",
+   "name": "Dhanamā",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "bhāju"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dhanamā++bhāju ... dayakā juro",
+   "confidence": "low"
+  },
+  {
+   "pid": "p10",
+   "as_written": "manaharṣamānajuyā",
+   "name": "Manaharṣamāna",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "manaharṣamānajuyā va dayakā juro",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "nihma sana coya dhuṃkā juro || || dānapati ⟪...⟫ sākyavaṃśaśrīdharmarājajuna dayakā juro"
+  },
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "nihma sana coya dhuṃkā juro || || dānapati ⟪...⟫ sākyavaṃśaśrīdharmarājajuna dayakā juro"
+  }
+ ],
+ "date": {
+  "as_written": "nepārābde ratnamunidhātu jeṣṭavadi 7 śukravāla",
+  "era": "NS",
+  "year": "679",
+  "month": "jeṣṭa",
+  "paksa": "vadi",
+  "tithi": "7",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1559"
+ },
+ "place": {
+  "as_written": "śrīmānadevasaṃskārita cakramahārāvasthita",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "Chronogram ratna (9), muni (7), dhātu (6) yields NS 679. 'cakramahārāvasthita' is emended to cakramahāvihārāvasthita (Cakra Mahāvihāra, Ombahal, Patan). The final sentence names additional donors/family members who caused the copy to be made (dayakā juro) along with Manaharṣamāna.",
+ "_meta": {
+  "reel": "B 99/4",
+  "model": "gemini-flash-latest",
+  "secs": 28.1,
+  "in_tok": 1074,
+  "out_tok": 4104
+ }
+}

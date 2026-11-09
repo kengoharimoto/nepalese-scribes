@@ -1,0 +1,83 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhagavaṃtadevo(!)",
+   "name": "Bhagavantadeva",
+   "roles": [
+    "king",
+    "other"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "saṃgaravaṃśa",
+   "residence": "",
+   "evidence": "śrīsaṃgaravaṃśāvataṃsaśrīmahārājādhirājaśrībhagavaṃtadevo(!)yojita",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaṭṭaśaṃkarātmaja",
+   "name": "Śaṅkara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mīmāṃsaka",
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mīmāṃsaka-bhaṭṭaśaṃkarātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bhaṭṭanīlakaṃṭha",
+   "name": "Nīlakaṇṭha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭanīlakaṃṭhakṛte dānamayūkhe",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "bhaṭṭaśaṃkarātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The excerpt contains only the authorial concluding colophon of the Sahasradānavidhi section of the Dānamayūkha, identifying the patron of the composition (King Bhagavantadeva of the Saṅgara/Sengara dynasty) and the author Nīlakaṇṭha, son of Śaṅkara Bhaṭṭa. No copyist or manuscript production data is present.",
+ "_meta": {
+  "reel": "A 1326/11",
+  "model": "gemini-flash-latest",
+  "secs": 9.1,
+  "in_tok": 702,
+  "out_tok": 1372
+ }
+}

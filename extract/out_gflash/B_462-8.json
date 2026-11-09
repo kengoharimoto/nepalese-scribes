@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "taleśvareṇa",
+   "name": "Taleśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "mohajñātīya",
+   "residence": "guṇadīpikā",
+   "evidence": "taleśvareṇālekhi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaṭṭadīpanāmakanārāyaṇā(tmaja)",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nārāyaṇā(tmaja)",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "nārāyaṇā(tmaja)taleśvareṇa"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1852 māghamāse śuklapakṣe naumīyā budhavāsare",
+  "era": "VS",
+  "year": "1852",
+  "month": "māgha",
+  "paksa": "śuklapakṣa",
+  "tithi": "naumī",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1796"
+ },
+ "place": {
+  "as_written": "guṇadīpikā",
+  "normalized": ""
+ },
+ "purpose": "paropakārārtham",
+ "notes": "The scribe Taleśvara belongs to the Modh community (mohajñātīya) and resides at Guṇadīpikā (guṇadīpikākṛtaniketana). The text reads nārāyaṇā(tmaja)taleśvareṇa, where -tmaja- is a cataloguer's reconstruction.",
+ "_meta": {
+  "reel": "B 462/8",
+  "model": "gemini-flash-latest",
+  "secs": 26.2,
+  "in_tok": 841,
+  "out_tok": 3369
+ }
+}

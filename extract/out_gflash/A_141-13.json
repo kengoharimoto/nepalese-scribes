@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jugapati dhaṃ kasya",
+   "name": "Jugapati",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Maṇisaṃghamahāvihāra",
+   "residence": "",
+   "evidence": "maṇisaṃghamahāvihārāsthitaśrīvajrācāryya jugapati dhaṃ kasya putra",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "candrapatinaṃ",
+   "name": "Candrapati",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "Maṇisaṃghamahāvihāra",
+   "residence": "",
+   "evidence": "candrapatinaṃ tha otakāraṇe coyā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "jugapati dhaṃ kasya putra candrapatinaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "miti caitraśudi 8 nhusa",
+  "era": "none",
+  "year": "",
+  "month": "caitra",
+  "paksa": "śudi",
+  "tithi": "8",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "maṇisaṃghamahāvihārāsthita",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "tha otakāraṇe (svārtha, for his own use)",
+ "notes": "The father's name is read as 'jugapati dhaṃ kasya', possibly Jugapatidhaṃka or Jugapati; no year is recorded in the date formula.",
+ "_meta": {
+  "reel": "A 141/13",
+  "model": "gemini-flash-latest",
+  "secs": 8.7,
+  "in_tok": 757,
+  "out_tok": 1426
+ }
+}

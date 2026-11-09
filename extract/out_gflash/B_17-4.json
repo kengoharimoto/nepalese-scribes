@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bharttṛhari",
+   "name": "Bhartṛhari",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "iti śrībharttṛhariviracitaṃ bhaṭṭikāvyaṃ samāptaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 688 pauṣaśukla..........",
+  "era": "NS",
+  "year": "688",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1568"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon attributes the Bhaṭṭikāvya to Bhartṛhari. The scribe or owner's name is lost in the lacuna after 'likhitam idaṃ'.",
+ "_meta": {
+  "reel": "B 17/4",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 1098,
+  "out_tok": 778
+ }
+}

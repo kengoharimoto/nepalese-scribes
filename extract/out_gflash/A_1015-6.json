@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmabhakto",
+   "name": "Rāmabhakta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "alikhat ... rāmabhakto pi bhāratam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "yugmeṣunagabhūśāke paṃcāsyagṛhage ravau || gajāsyehnyalikhat sūrye",
+  "era": "ŚS",
+  "year": "1752",
+  "month": "Siṃha (paṃcāsyagṛhage ravau)",
+  "paksa": "",
+  "tithi": "caturthī (gajāsye)",
+  "weekday": "Sunday (sūrye)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1830"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Date given via chronogram: yugma (2), iṣu (5), naga (7), bhū (1) = Śāka 1752. 'paṃcāsya-gṛha-ge ravau' indicates the Sun in Leo (solar month of Bhādrapada / Siṃha). 'gajāsye ahni' likely refers to caturthī (Gaṇeśa's tithi), and 'sūrye' to Sunday.",
+ "_meta": {
+  "reel": "A 1015/6",
+  "model": "gemini-flash-latest",
+  "secs": 10.0,
+  "in_tok": 792,
+  "out_tok": 1397
+ }
+}

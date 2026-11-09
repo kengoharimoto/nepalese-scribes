@@ -1,0 +1,60 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmacchaṃkarācārya",
+   "name": "Śaṅkarācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya",
+    "bhagavatpūjyapāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmacchaṃkarācāryaviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "paṃcolī bhavānīśaṃkaragopīnāthajī",
+   "name": "Bhavānīśaṃkaragopīnātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "pañcolī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "li. paṃcolī bhavānīśaṃkaragopīnāthajī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "mī. phālguṇasudī 5 saṃvat 1878",
+  "era": "VS",
+  "year": "1878",
+  "month": "phālguṇa",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1821"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name may represent Bhavānīśaṃkara son of Gopīnātha, or a compound name. Pañcolī indicates a Kāyastha lineage typical of western/northern India.",
+ "_meta": {
+  "reel": "A 1118/24",
+  "model": "gemini-flash-latest",
+  "secs": 8.6,
+  "in_tok": 751,
+  "out_tok": 1292
+ }
+}

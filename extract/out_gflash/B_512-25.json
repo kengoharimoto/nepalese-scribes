@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vīreśvarabhaṭṭena",
+   "name": "Vīreśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vīreśvarabhaṭṭena lihitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1655 plavaṃganāmasamvatsare dakṣiṇyaṇe pauṣyamāse śuklapakṣe tithau 1 bhaumavāsare",
+  "era": "VS",
+  "year": "1655",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "bhaumavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1598"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Śaunaka mentioned in 'śaunakoktaduṣṭarajodarśanaśāṃtiṃ' is the traditional sage/author in the work's title and has been excluded.",
+ "_meta": {
+  "reel": "B 512/25",
+  "model": "gemini-flash-latest",
+  "secs": 13.3,
+  "in_tok": 795,
+  "out_tok": 1476
+ }
+}

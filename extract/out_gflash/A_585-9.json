@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnidhīdhireṇa",
+   "name": "Nidhīdhīra",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnidhīdhireṇa kṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dharmanidhidvijena",
+   "name": "Dharmanidhi",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dharmanidhidvijena likhitaṃ svārthāyeyaṃ pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke bājīcaṃdrasaptakṣitiś ca bhaumavāsare | māse kārttikaśuklaṃ ca vṛṣabhe bāhye tithau",
+  "era": "ŚS",
+  "year": "1717",
+  "month": "Kārttika",
+  "paksa": "śukla",
+  "tithi": "vṛṣabhe bāhye tithau",
+  "weekday": "bhaumavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1795"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthāya",
+ "notes": "The chronogram 'bājī-caṃdra-sapta-kṣiti' yields Śaka 1717 (bājī=7, candra=1, sapta=7, kṣiti=1). An earlier partial dating verse has 'māse kārtikapakṣakṛṣṇatithi ca vṛṣabhe vāhanasya śāke vācakaṃ haya kṣiti tathā vāro ca bhaume smṛtaṃ'.",
+ "_meta": {
+  "reel": "A 585/9",
+  "model": "gemini-flash-latest",
+  "secs": 13.3,
+  "in_tok": 808,
+  "out_tok": 1922
+ }
+}

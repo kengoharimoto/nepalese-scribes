@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The excerpt contains only the standard textual chapter colophon (Devīmāhātmya, ch. 13) and a common scribal apologia verse (yadakṣarapadabhraṣṭaṃ...); no historical persons, date, or place are mentioned.",
+ "_meta": {
+  "reel": "A 482/3",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 713,
+  "out_tok": 535
+ }
+}

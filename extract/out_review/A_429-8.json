@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday normalised to 'Thursday (gurau)'",
+   "notes: ⟪...⟫ in NGMCP usage usually marks erased or cancelled text, not just a lacuna. Era 'saṃvat' is taken as VS, which the date of the copy supports",
+   "notes: Pauṣa śukla 5 of VS 1821 falls around Dec 1764 or Jan 1765 CE"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "maheśvarācārya",
+   "name": "Maheśvara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahe(11)śvarācāryaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1821 pauṣaśuddha5 gurau",
+  "era": "VS",
+  "year": "1821",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "Thursday (gurau)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1764"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is given only as 'saṃvat'. VS is assumed because the script is Devanagari and the catalogue gives SAM 1821. Pauṣa śukla 5 of VS 1821 falls around Dec 1764 or Jan 1765 CE. The text after 'likhitaṃ' is shown as ⟪...............⟫. In NGMCP practice this usually means erased or cancelled text, so the scribe's name, and perhaps the place or purpose, was probably deliberately erased. It is not recoverable.",
+ "_meta": {
+  "reel": "A 429/8",
+  "model": "opus",
+  "cost_usd": 0.0473628,
+  "secs": 10.8
+ }
+}

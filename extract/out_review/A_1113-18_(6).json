@@ -1,0 +1,33 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Notes expanded: the 8th chapter colophon is missing from the quotation, and the catalogue's era is uncertain. No change to persons, relations, date or place."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The quoted text has only the chapter end-titles of the Devīmāhātmya (Mārkaṇḍeyapurāṇa): chapters 1–7 and 9–13. Chapter 8's colophon is not quoted. There is no scribal colophon, so no persons, date or place can be taken from it. The catalogue fields give the scribe as 'Gaurīdatta Trivikramarāja ?' and the date as 'SAM (ŚS) 1841', but this information is not in the quoted text and may come from elsewhere in the manuscript. The era is not certain: as ŚS 1841 it would be about 1919 CE, and as VS 1841 about 1784 CE. Check the manuscript or a fuller catalogue entry before recording a scribe or date.",
+ "_meta": {
+  "reel": "A 1113/18 (6)",
+  "model": "opus",
+  "cost_usd": 0.0485788,
+  "secs": 7.3
+ }
+}

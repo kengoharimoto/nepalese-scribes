@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkaṇṭhanātha",
+   "name": "Śrīkaṇṭha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "nātha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkaṇṭhanāthavila(!)cite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 764 śrāvaṇaśuklapratipadyā(!) budhavāla(!)",
+  "era": "NS",
+  "year": "764",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "pratipad",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1644"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "kubjikāprīti",
+ "notes": "The scribe remains anonymous, reciting standard scribal apologetic verses (jathā dṛṣṭaṃ tathā likhitaṃ...).",
+ "_meta": {
+  "reel": "B 180/35",
+  "model": "gemini-flash-latest",
+  "secs": 11.7,
+  "in_tok": 834,
+  "out_tok": 1334
+ }
+}

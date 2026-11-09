@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśaṃkara",
+   "name": "Śaṅkara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśaṃkarakṛtaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rāmanārā‥ sarmaṇā",
+   "name": "Rāmanārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ(!) rāmanārā‥ sarmaṇā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke || 1762 saṃvat 1897 sāla miti caitra vadi 1 roja 2",
+  "era": "ŚS",
+  "year": "1762",
+  "month": "caitra",
+  "paksa": "vadi",
+  "tithi": "1",
+  "weekday": "roja 2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1840"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śaka 1762 and Vikrama Saṃvat 1897 are given, corresponding to 1840 CE. Scribe name has a lacuna, likely Rāmanārāyaṇa Śarman.",
+ "_meta": {
+  "reel": "A 1118/25",
+  "model": "gemini-flash-latest",
+  "secs": 9.8,
+  "in_tok": 763,
+  "out_tok": 1446
+ }
+}

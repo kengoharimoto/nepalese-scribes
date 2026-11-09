@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat || || 1918 sālamiti kārttikavadi 9 roja 1",
+  "era": "VS",
+  "year": "1918",
+  "month": "kārttika",
+  "paksa": "vadi",
+  "tithi": "9",
+  "weekday": "roja 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1861"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons (scribe, commissioner, king, etc.) are named in the colophon.",
+ "_meta": {
+  "reel": "A 474/11",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 788,
+  "out_tok": 727
+ }
+}

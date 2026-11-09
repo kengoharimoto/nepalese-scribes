@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Notes refined: '-yati' is probably 'iti' ('Sarvānanda iti lekhakaḥ'), followed by a garbled form of the usual 'lekhako doṣo nāsti' formula; 'vasite' is unclear"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācāryyasarvvānando",
+   "name": "Sarvānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhite ʼyaṃ vasite śrī vajrācāryyasarvvānando-yati lekhako",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon is corrupt. 'likhite ʼyaṃ vasite śrī vajrācāryyasarvvānando-yati lekhako doṣa(!) nāsti' most likely means 'likhitam idaṃ ... śrīvajrācāryasarvānanda iti lekhakaḥ; lekhako doṣo nāsti'. 'vasite' is unclear: it could be a corrupt verb, or less likely a place name, so no place is recorded. There is no date. The scribe agrees with the catalogue field.",
+ "_meta": {
+  "reel": "A 918/4",
+  "model": "opus",
+  "cost_usd": 0.045774800000000004,
+  "secs": 8.8
+ }
+}

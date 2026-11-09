@@ -1,0 +1,72 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name normalized to Kamalekṣaṇa (cataloguer's 'kamalakṣaṇa' is most likely kamalekṣaṇa 'lotus-eyed', a usual personal name); confidence still low",
+   "p2 name read as Kṛṣṇasiṃha (saṃhakaḥ taken as a corrupt or diminutive form of siṃhakaḥ) instead of Kṛṣṇasaṃhaka; confidence low",
+   "paksa normalized to 'śukla'",
+   "date.as_written widened to include the year chronogram fragment",
+   "notes expanded: the chronogram is corrupt, the month is possibly Vaiśākha, and 'svahaste' marks this as an autograph copy"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī śrīkamala(kṣaṇasya",
+   "name": "Kamalekṣaṇa",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śrīkamala(kṣaṇasya sakalaṃ śiṣyālikhyaṃ)",
+   "confidence": "low"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kṛṣṇa| saṃhakaḥ",
+   "name": "Kṛṣṇasiṃha",
+   "roles": [
+    "scribe",
+    "pupil"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "(vai ki taṃ kṛṣṇa| saṃhakaḥ) prayogamukhyaṃ likhitaṃ pustakaṃ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śrīkamala(kṣaṇasya sakalaṃ śiṣyālikhyaṃ)"
+  }
+ ],
+ "date": {
+  "as_written": "(damūragraiḥ pramilite) māse ... viśāṣabhayuteśukrāvidhe vāsare ... milite bhavatsare, yukte site kāmatithau viśāṣabhe, bhṛgaur (!) ddine",
+  "era": "unspecified",
+  "year": "",
+  "month": "",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "Friday",
+  "nakshatra_yoga": "Viśākhā",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The colophon is a fragmentary verse, with many of the cataloguer's readings in parentheses. The year chronogram '(damūragraiḥ pramilite)' / '... milite bhavatsare' is corrupt and cannot be resolved, so no year or era is given. Kāmatithi is trayodaśī (13), site means the bright fortnight, bhṛgu-dina is Friday, and viśāṣabha is Viśākhā nakṣatra. A bright-13 day in Viśākhā suggests the month Vaiśākha, but the colophon does not name it, so the month is left empty. The teacher's name is read as Kamalekṣaṇa (written 'kamala(kṣaṇa)'). 'śiṣyālikhyaṃ' says a pupil of his wrote the copy, and 'svahaste' says it was written in the scribe's own hand. The scribe's name 'kṛṣṇa| saṃhakaḥ' is taken as Kṛṣṇasiṃha(ka), and the preceding 'vai ki taṃ' is unclear. That the named scribe is this same pupil is inferred, not stated outright. The 'śrīdevīcaraṇa...' phrase is a devotional epithet, not a person.",
+ "_meta": {
+  "reel": "A 557/2",
+  "model": "opus",
+  "cost_usd": 0.10539200000000001,
+  "secs": 19.6
+ }
+}

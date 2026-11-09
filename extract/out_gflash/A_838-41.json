@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhairavānda-ācārya(!)ṇa",
+   "name": "Bhairavānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "paśupatiśrīguhyaśvarīnīkaṭa, kāṣṭhapaṃḍapa",
+   "evidence": "bhairavānda-ācārya(!)ṇa liṣita⟨ṃ⟩m",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1854 phālguṇakṛṣṇa-aṣṭamī(!)",
+  "era": "VS",
+  "year": "1854",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1798"
+ },
+ "place": {
+  "as_written": "kāṣṭhapaṃḍapasthāna",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The scribe's title/lineage may also include 'vājapeyin' (indicated by ācāryavājappyayi(‥)). The name is written corruptly as bhairavānda for bhairavānanda.",
+ "_meta": {
+  "reel": "A 838/41",
+  "model": "gemini-flash-latest",
+  "secs": 12.5,
+  "in_tok": 767,
+  "out_tok": 1721
+ }
+}

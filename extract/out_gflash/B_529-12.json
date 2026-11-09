@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "valarāmena",
+   "name": "Balarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "alekhi valarāmena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 744 || bhādre rohiṇitārāyāṃ, kṛṣṇāyām aṣṭamī tithau",
+  "era": "NS",
+  "year": "744",
+  "month": "bhādra",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "",
+  "nakshatra_yoga": "rohiṇī",
+  "ce_approx": "1624"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīśrīcaṇḍikā prītir astu",
+ "notes": "",
+ "_meta": {
+  "reel": "B 529/12",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 836,
+  "out_tok": 821
+ }
+}

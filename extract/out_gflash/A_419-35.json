@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmacaṃdrārthaṃ",
+   "name": "Rāmacandra",
+   "roles": [
+    "beneficiary",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ rāmacaṃdrārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1725 śake 1589 āṣāḍha śuddha 11 śanau",
+  "era": "VS",
+  "year": "1725",
+  "month": "āṣāḍha",
+  "paksa": "śuddha",
+  "tithi": "11",
+  "weekday": "śanau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1668"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "rāmacaṃdrārthaṃ",
+ "notes": "The catalogue lists Rāmacandra as scribe, but the colophon states 'likhitaṃ rāmacaṃdrārthaṃ' ('written for Rāmacandra'), indicating he was the beneficiary or commissioner.",
+ "_meta": {
+  "reel": "A 419/35",
+  "model": "gemini-flash-latest",
+  "secs": 8.3,
+  "in_tok": 708,
+  "out_tok": 1035
+ }
+}

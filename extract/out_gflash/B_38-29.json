@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "yurarvva(6)ra",
+   "name": "Yurarvvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "(yurarvva(6)ra) na coyā",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ (865) aṣāḍha(śukla) a[[ṣṭamī]] ādityavāro",
+  "era": "NS",
+  "year": "865",
+  "month": "aṣāḍha",
+  "paksa": "śukla",
+  "tithi": "aṣṭamī",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1745"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The name of the scribe preceding the Newari agentive phrase 'na coyā' ('copied by ...') is highly corrupt or uncertainly read across the line break as '(yurarvva(6)ra)'. Gorakṣa in 'śrīgorakṣaśatakaṃ' is part of the text title and not listed.",
+ "_meta": {
+  "reel": "B 38/29",
+  "model": "gemini-flash-latest",
+  "secs": 26.8,
+  "in_tok": 701,
+  "out_tok": 3784
+ }
+}

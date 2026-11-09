@@ -1,0 +1,73 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 affiliation changed from the invented form 'vedagarbhatarkācāryānvavāyikula' to a plain description of the lineage",
+   "p2 (Vedagarbha) confidence lowered to medium because the passage naming him ('ācāryān navāpi kula-') is corrupt",
+   "Notes now say the Śaka 1468 date is when the text was composed, not when this copy was made, and flag the unclear 'dharmmadravīti re' and 'bhuvana'"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ramānāthaḥ / śrīramānāthaśarma-",
+   "name": "Ramānātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "lineage (kula) of Vedagarbha Tarkācārya",
+   "residence": "",
+   "evidence": "kātaṃtradhātuvṛttiṃ nirmitevān ramānāthaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vedagarbhatarkācāryān",
+   "name": "Vedagarbha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "tarkācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vedagarbhatarkācāryān navāpi kulaprasūta",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "other",
+   "to": "p2",
+   "evidence": "vedagarbhatarkācāryān navāpi kulaprasūta"
+  }
+ ],
+ "date": {
+  "as_written": "vasūrasabhuvanagaṇite śāke",
+  "era": "ŚS",
+  "year": "1468",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1546"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "This is the author's colophon, not a scribal one. The date, Śaka 1468 (about 1546 CE), is when Ramānātha composed the text; this manuscript is not dated, and no scribe or owner is named. The year comes from the chronogram read right to left: vasu = 8, rasa = 6, bhuvana = 14, giving 1468. If bhuvana is taken as 3, the year would be 368, which is not plausible. 'navāpi kulaprasūta' is probably a corruption of 'anvavāya/anvaye kulaprasūta', meaning 'born in the family line of Vedagarbha Tarkācārya'. That makes Vedagarbha an ancestor, though the exact relation is unclear. The phrase 'dharmmadravīti re' is corrupt; it may hide a name or epithet, but it cannot be read with confidence. The verse after it is also corrupt.",
+ "_meta": {
+  "reel": "A 552/3",
+  "model": "opus",
+  "cost_usd": 0.5633496,
+  "secs": 26.9
+ }
+}

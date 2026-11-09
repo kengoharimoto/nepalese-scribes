@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayabhūpatīndramalladevasana",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śrī jayabhūpatīndramalladevasana cūkacosadevapratiṣṭhāsiddhāgni aitā(!)hutiyajñayānāyā thva sāphuri",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 825 bhādrapadaśukla daśamī mūla śaniścaravāra kuhnuḥ",
+  "era": "NS",
+  "year": "825",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "śaniścaravāra",
+  "nakshatra_yoga": "mūla",
+  "ce_approx": "1705"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "cūkacosadevapratiṣṭhāsiddhāgni aitāhutiyajñayānāyā (for performing the ritual of Cūkacosadeva-pratiṣṭhā-siddhāgni-aitāhuti-yajña)",
+ "notes": "",
+ "_meta": {
+  "reel": "A 233/15",
+  "model": "gemini-flash-latest",
+  "secs": 8.7,
+  "in_tok": 760,
+  "out_tok": 1142
+ }
+}

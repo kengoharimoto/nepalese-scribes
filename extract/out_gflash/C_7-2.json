@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "harivaṃśa",
+   "name": "Harivaṃśa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "harivaṃśakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kuñjalasiṃhena",
+   "name": "Kuñjalasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajravidācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvajravidācāryyakuñjalasiṃhena śrīpraśnottarāvarī saṃpūrṇṇa siddha juyakaṃ coyā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "abdanaipālike varṣe haya-ṛtu-gajānvite | māse māghe site paṣpe(!) dvitīyāyāṃ tithau bhṛguḥ | dhaneṣṭhākṣe sukarmmaṇa yogānvite ... samvat 867 māghaśukla tṛtīyāyāṃ tithau dhaneṣṭhānakṣatre sukarmmayoge śukravāre",
+  "era": "NS",
+  "year": "867",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "dvitīyā / tṛtīyā",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "dhaniṣṭhā, sukarma",
+  "ce_approx": "1747"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "samyak-boddhāya jñāna harṣeṇa likhitaṃ mayā",
+ "notes": "The chronogram in the verse gives haya (7) - ṛtu (6) - gaja (8) = NS 867, which agrees with the prose date (samvat 867). The verse gives tithi dvitīyā, whereas the prose specifies tṛtīyā.",
+ "_meta": {
+  "reel": "C 7/2",
+  "model": "gemini-flash-latest",
+  "secs": 11.3,
+  "in_tok": 912,
+  "out_tok": 1397
+ }
+}

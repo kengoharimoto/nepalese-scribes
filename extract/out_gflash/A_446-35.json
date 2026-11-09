@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "cira[ñ]ji(!)viśarmaṇā",
+   "name": "Cirañjīvi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "cira[ñ]ji(!)viśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1949 phā[l]gunakṛṣṇanavamyāṃ śukre",
+  "era": "VS",
+  "year": "1949",
+  "month": "phālguna",
+  "paksa": "kṛṣṇa",
+  "tithi": "navamī",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1893"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 446/35",
+  "model": "gemini-flash-latest",
+  "secs": 7.6,
+  "in_tok": 713,
+  "out_tok": 999
+ }
+}

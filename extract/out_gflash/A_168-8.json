@@ -1,0 +1,82 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrucipatiśarmmātmaja",
+   "name": "Rucipatiśarman",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "muhāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "thau ālagrāma",
+   "evidence": "thau (9)ālagrāmīṇamuhāmahopādhyāya (!) śrīrucipatiśarmmātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "āgamācāryyaśrīharapatipaṇḍita",
+   "name": "Harapati",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "āgamācārya",
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "rajaulī saṃvatha",
+   "evidence": "āgamācāryyaśrīharapatipaṇḍitaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīmanarāmapratyārādhyesya (!)",
+   "name": "Manarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "pratyārādhya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiti (!) śrīmanarāmapratyārādhyesya (!)",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīrucipatiśarmmātmaja āgamācāryyaśrīharapatipaṇḍita"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 824 āṣāḍḥa śudi13",
+  "era": "NS",
+  "year": "824",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1704"
+ },
+ "place": {
+  "as_written": "thau ālagrāma",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The place 'thau ālagrāma' / 'rajaulīsaṃvatha' appears primarily as the residence of the author Harapati and his father Rucipati, though the catalogue records it with a question mark as the copying place. The reading 'śrīmanarāmapratyārādhyesya' might contain a family name/title 'Pratyārādhya' alongside the personal name 'Manarāma'.",
+ "_meta": {
+  "reel": "A 168/8",
+  "model": "gemini-flash-latest",
+  "secs": 14.5,
+  "in_tok": 877,
+  "out_tok": 2479
+ }
+}

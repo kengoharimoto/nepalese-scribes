@@ -1,0 +1,135 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīlakṣmī",
+   "name": "Lakṣmī",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīlakṣmīmukhakamalād viniḥsṛtā ... advayasiddhir nāma",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī-indrabhūtipādānām",
+   "name": "Indrabhūti",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "pāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtir iyaṃ śrī-indrabhūtipādānām",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "anaṅgavajrapādānām",
+   "name": "Anaṅgavajra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "pāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtir iyam anaṅgavajrapādānām",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīherukaḍombīpādā",
+   "name": "Herukaḍombī",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "pāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīherukaḍombīpādākṛtir",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "āryyaśāntarakṣitapādasya",
+   "name": "Śāntarakṣita",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ārya",
+    "pāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛti...āryyaśāntarakṣitapādasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "śrīkuddālapādānām",
+   "name": "Kuddāla",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "pāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtir iyaṃ mahāmudrāsiddhiśrīkuddālapādānām",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "śrīmatpi[[ṇḍi]]tā(!)vadhūtādvayavajrapādānām",
+   "name": "Advayavajra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paṇḍita",
+    "avadhūta",
+    "pāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtir iyaṃ śrīmatpi[[ṇḍi]]tā(!)vadhūtādvayavajrapādānām",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The quoted passages represent a compendium of tantric/Siddha works with individual author colophons (Advayasiddhi by Lakṣmī/Lakṣmīṅkarā, Jñānasiddhi by Indrabhūti, Prajñopāyaviniścayasiddhi by Anaṅgavajra, Sahajasiddhi by Ḍombī Heruka, Tattvasiddhi by Śāntarakṣita, Acintyādvayakramopadeśa by Kuddālapāda, and Sekanirṇaya by Advayavajra). No scribal colophon or date of manuscript copying is preserved in the excerpt.",
+ "_meta": {
+  "reel": "A 915/3",
+  "model": "gemini-flash-latest",
+  "secs": 21.8,
+  "in_tok": 1771,
+  "out_tok": 3365
+ }
+}

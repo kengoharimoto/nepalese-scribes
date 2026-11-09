@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pantopanāmakajayadevapaṇḍita śarmaṇā",
+   "name": "Jayadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paṇḍita",
+    "śarman",
+    "panta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pantopanāmakajayadevapaṇḍita śarmaṇā likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "1795 śāke 1930 sāla māghaśuklapūrṇimāyāṃ āditye",
+  "era": "ŚS",
+  "year": "1795",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "āditya",
+  "nakshatra_yoga": "",
+  "ce_approx": "1874"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Double-dated in Śaka 1795 and Vikrama Samvat (sāla) 1930, corresponding to early 1874 CE. The scribe's family name/nickname is Panta (pantopanāmaka).",
+ "_meta": {
+  "reel": "A 182/22",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 733,
+  "out_tok": 763
+ }
+}

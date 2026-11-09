@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayabhūpatīndra malladeva",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "Raghukula",
+   "residence": "",
+   "evidence": "śrīśrījayabhūpatīndra malladeva viracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 843 āśā śuddi 4 miti",
+  "era": "NS",
+  "year": "843",
+  "month": "āśā",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1723"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Place of copying (Bhaktapur) is mentioned in the catalogue record but does not appear in the quoted colophon. Jayabhūpatīndramalladeva is named as the author of the play.",
+ "_meta": {
+  "reel": "A 352/24",
+  "model": "gemini-flash-latest",
+  "secs": 8.4,
+  "in_tok": 737,
+  "out_tok": 1157
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmānandena",
+   "name": "Rāmānanda",
+   "roles": [
+    "scribe",
+    "donor",
+    "owner"
+   ],
+   "titles": [
+    "paramopāsaka",
+    "śākyavaṃśodbhava"
+   ],
+   "affiliation": "śrīmat-Rūdravarṇamahāvihāra",
+   "residence": "Patan",
+   "evidence": "śrīmatrūdravarṇṇamahāvihārāvasitaḥ paramopāsaka śrīśākyavaṃṣodbhavaḥ śrīrāmānandena likhitārggamat(!) saṃpūrṇṇaṃ ... śrīrā(m)ānandayā pustaka juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "naipāle hāyane yātaḥ nāgamuṇirasānvite cāṣāḍhe krīna(!)candre tuḥ(!) paṃcamyāñ ca tithau śubhe ... saṃvat 678 āṣāḍa kṛṣ(ṇa) pañcamāhuḥ",
+  "era": "NS",
+  "year": "678",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1558"
+ },
+ "place": {
+  "as_written": "śrīmatrūdravarṇṇamahāvihāra",
+  "normalized": "Patan"
+ },
+ "purpose": "deyadharmo yaṃ / śrīrāmānandayā pustaka juro",
+ "notes": "The catalogue gives NS 934 as date of copying, but NS 934 refers to a later note about an epidemic (upasarga / mahāmārī). The actual copying date is NS 678 (chronogram: nāga-muni-rasa = 678).",
+ "_meta": {
+  "reel": "A 923/3",
+  "model": "gemini-flash-latest",
+  "secs": 14.3,
+  "in_tok": 1067,
+  "out_tok": 2036
+ }
+}

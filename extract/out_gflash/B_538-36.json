@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmaddayānidhi",
+   "name": "Dayānidhi",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmaddayānidhiprītyai likhitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "khacarendughane (1719) śāke †enabhasthe† divaspatau || navamyāṃ candraje vāre",
+  "era": "ŚS",
+  "year": "1719",
+  "month": "",
+  "paksa": "",
+  "tithi": "navamī",
+  "weekday": "candraja (Wednesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1797"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīmaddayānidhiprītyai",
+ "notes": "Dayānidhi could either be a personal name (patron/guru as beneficiary) or an epithet of a deity (e.g. Śiva as 'ocean of mercy').",
+ "_meta": {
+  "reel": "B 538/36",
+  "model": "gemini-flash-latest",
+  "secs": 14.5,
+  "in_tok": 753,
+  "out_tok": 1641
+ }
+}

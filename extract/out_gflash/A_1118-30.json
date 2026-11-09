@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bālakṛṣnena(!)",
+   "name": "Bālakṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ bālakṛṣnena(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1932 phālguṇakrṣna(!)caturdas(!)yāṃ",
+  "era": "VS",
+  "year": "1932",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturdaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1876"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1118/30",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 850,
+  "out_tok": 750
+ }
+}

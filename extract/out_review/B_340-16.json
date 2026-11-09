@@ -1,0 +1,33 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Notes made more precise: the catalogue's VS 1591 (≈1534 CE) does not match ŚS 1759 (≈1837 CE), and the colophon itself gives only the Śaka date"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1759 bhādrapadaśuklapūrṇimāyāṃ gurau",
+  "era": "ŚS",
+  "year": "1759",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "guruvāra (Thursday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1837"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon dates the copy only in the Śaka era: ŚS 1759, Bhādrapada śukla pūrṇimā, Thursday, which works out to about August/September 1837 CE. The catalogue also gives 'VS 1591' (about 1534 CE). That figure is not in the quoted colophon and does not agree with the Śaka date. It may be a cataloguer's error, or it may come from somewhere else in the manuscript. The Thursday weekday was not checked against an ephemeris. The colophon names no scribe, patron, owner or author. It only gives the chapter-ending formula for the 8th adhyāya of the Mukundavijaya.",
+ "_meta": {
+  "reel": "B 340/16",
+  "model": "opus",
+  "cost_usd": 0.0452428,
+  "secs": 9.1
+ }
+}

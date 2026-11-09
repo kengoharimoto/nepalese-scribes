@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons or dates are mentioned; contains only the concluding title and a standard scribal verse (yādṛśaṃ pustakaṃ dṛṣṭvā...).",
+ "_meta": {
+  "reel": "B 538/47",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 719,
+  "out_tok": 336
+ }
+}

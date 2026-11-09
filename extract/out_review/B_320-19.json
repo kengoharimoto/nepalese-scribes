@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. Notes now mention the variant spelling 'paṇḍitarāya(!)', that the colophon breaks off at 'śrīma', and that no scribe is named."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paṃḍitarājajagannātha",
+   "name": "Jagannātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paṇḍitarāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpaṃḍitarājajagannāthaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1677 māse āṣāḍhaṃ śukla 4 vāre da(?)",
+  "era": "ŚS",
+  "year": "1677",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "da(?)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1755"
+ },
+ "place": {
+  "as_written": "trikuṭācalaparvatarājadhānyāṃ",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The copy was made at a royal seat called Trikuṭācala-parvata-rājadhānī. Where that is cannot be determined from the colophon. The weekday is unclear: the cataloguer gives 'da(?)'. ŚS 1677 is about 1755 CE, which matches the catalogue field. The colophon breaks off after 'śrīma', so a scribe's or owner's name may be missing. In the fourth colophon the author's title is spelled 'paṇḍitarāya(!)'.",
+ "_meta": {
+  "reel": "B 320/19",
+  "model": "opus",
+  "cost_usd": 0.0471108,
+  "secs": 8.7
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumatijayajitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumatijayajitāmitramalladevasana, thva pustaka dayakā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhāgirāma paramānayā",
+   "name": "Bhāgirāma",
+   "roles": [
+    "governor"
+   ],
+   "titles": [
+    "paramāna"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgirāma paramānayā velasa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīśrīsumatijayajitāmitramalladevasana, thva pustaka dayakā || bhāgirāma paramānayā velasa"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 810 kārttika śudi 9",
+  "era": "NS",
+  "year": "810",
+  "month": "kārttika",
+  "paksa": "śudi",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1690"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bhaktapur king Sumati Jayajitāmitra Malla had the manuscript made (dayakā) during the administrative tenure (velasa) of the pramāṇa (paramāna) Bhāgirāma.",
+ "_meta": {
+  "reel": "A 1313/27",
+  "model": "gemini-flash-latest",
+  "secs": 11.0,
+  "in_tok": 707,
+  "out_tok": 1307
+ }
+}

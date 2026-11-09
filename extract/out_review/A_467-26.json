@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Lowered the scribe's confidence from high to medium: the name may be a slip for Śivadatta, as the first reading's own note says.",
+   "Place: gave a tentative normalization of the reading and said in the notes that the place is unidentified."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivadantaśarmānā",
+   "name": "Śivadanta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "Devīvaragrāma",
+   "evidence": "alikhad itdaṃ śivadantaśarmānā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "devī varagrām eva",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon is ungrammatical: 'itdaṃ' stands for idaṃ and 'śarmānā' for śarmaṇā. The scribe's name could be Śivadanta as written, or a slip for Śivadatta. 'devī varagrām eva' is probably a broken locative, 'devīvaragrāme eva' ('in Devīvaragrāma itself'), naming where the scribe lived or copied the text. The place is not identified, and splitting it as 'Devī' plus 'Varagrāma' is also possible. The colophon gives no date.",
+ "_meta": {
+  "reel": "A 467/26",
+  "model": "opus",
+  "cost_usd": 0.0429788,
+  "secs": 8.9
+ }
+}

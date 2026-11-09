@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayabhūpatīndra malla mahārājādhirājana",
+   "name": "Jayabhūpatīndramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayabhūpatīndra malla mahārājā(5)dhirājana māghayā yāyayātā dayakase bijyāṅā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 826 māgha śukla śrīpañcamyāṃtithau maṃgaravāra",
+  "era": "NS",
+  "year": "826",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "śrīpañcamī",
+  "weekday": "maṃgaravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1706"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīśrībhavānī prītirastu / māghayā yāyayātā dayakase bijyāṅā",
+ "notes": "The scribe is unnamed; only the standard scribal excuse verse (yathā dṛṣṭaṃ tathā likhitaṃ...) is included. Bhaktapur as place of copying is given by the catalogue based on King Bhūpatīndra Malla's kingdom, but is not explicitly named in the colophon.",
+ "_meta": {
+  "reel": "A 249/7",
+  "model": "gemini-flash-latest",
+  "secs": 7.3,
+  "in_tok": 832,
+  "out_tok": 1112
+ }
+}

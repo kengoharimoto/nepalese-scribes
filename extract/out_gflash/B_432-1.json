@@ -1,0 +1,115 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "iṃdramaṇinṛpati",
+   "name": "Indramaṇi",
+   "roles": [
+    "king",
+    "relative_only"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "nṛpati"
+   ],
+   "affiliation": "kāśīśvara paṃcamagahiravāra",
+   "residence": "",
+   "evidence": "mahārājādhirājaśrīmadiṃdramaṇinṛpatinaṃdana",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kumārayaśavaṃtasiṃha",
+   "name": "Yaśavanta Siṃha",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "kumāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kumārayaśavaṃtasiṃhaprerita",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "āyājibhaṭṭa",
+   "name": "Āyājibhaṭṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "kāśyapānvaya, agnihotrikula",
+   "residence": "",
+   "evidence": "āyājibhaṭṭasūnu",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "bhāskara",
+   "name": "Bhāskara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "kāśyapānvaya, agnihotrikula",
+   "residence": "",
+   "evidence": "bhāskaraviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "ṣaḍabhijñānandena",
+   "name": "Ṣaḍabhijñānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ṣaḍabhijñānandena likhitam idaṃ pustakam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "iṃdramaṇinṛpatinaṃdana"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "āyājibhaṭṭasūnu"
+  }
+ ],
+ "date": {
+  "as_written": "pakṣaṛtudvāracandravarṣe jyeṣṭhamāse sitapakṣe pratipattithau ravivāsare",
+  "era": "VS",
+  "year": "1962",
+  "month": "jyeṣṭha",
+  "paksa": "sita",
+  "tithi": "pratipad",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1905"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram: pakṣa (2) + ṛtu (6) + dvāra (9) + candra (1) = VS 1962. Kumāra Yaśavanta Siṃha inspired/patronized the composition of the text by Bhāskara, son of Āyājibhaṭṭa.",
+ "_meta": {
+  "reel": "B 432/1",
+  "model": "gemini-flash-latest",
+  "secs": 14.8,
+  "in_tok": 897,
+  "out_tok": 2158
+ }
+}

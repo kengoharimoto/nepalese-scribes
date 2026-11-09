@@ -1,0 +1,171 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "matyaṅasamabhidhaḥ",
+   "name": "Matyaṅa",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Jasodharamahāvihāra",
+   "residence": "Lalitāpura, Oṃkuri Dundu Gṛha",
+   "evidence": "pustakaṃ yā'karoc chrīcaityarājaprabandhaṃ | matyaṅasamabhidhaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ānandajoti",
+   "name": "Ānandajyoti",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "Jasodharamahāvihāra",
+   "residence": "Lalitāpura, Oṃkuri Dundu Gṛha",
+   "evidence": "thva pustakayā dānapati ... matyaṅa putra śrīānandajoti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "jagajjyoti",
+   "name": "Jagajjyoti",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "Jasodharamahāvihāra",
+   "residence": "Lalitāpura, Oṃkuri Dundu Gṛha",
+   "evidence": "dvitīyaputra jagajjyoti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "lakṣmījyoti",
+   "name": "Lakṣmījyoti",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "Jasodharamahāvihāra",
+   "residence": "Lalitāpura, Oṃkuri Dundu Gṛha",
+   "evidence": "tṛtīyaputra lakṣmījyoti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrepateya",
+   "name": "Śrīpati",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Jasodharavihāra",
+   "residence": "Mūladvāla",
+   "evidence": "śrīvajrācāryya śrepateya bhājupatinā, bhājudevena ca",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p6",
+   "as_written": "bhājupatinā",
+   "name": "Bhājupati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Jasodharavihāra",
+   "residence": "Mūladvāla",
+   "evidence": "lekhaka ... bhājupatinā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "bhājudevena",
+   "name": "Bhājudeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Jasodharavihāra",
+   "residence": "Mūladvāla",
+   "evidence": "bhājudevena ca",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīmatyaṅa putra śrīānandajoti"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "dvitīyaputra jagajjyoti"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "tṛtīyaputra lakṣmījyoti"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p5",
+   "evidence": "śrepateya bhājupatinā"
+  },
+  {
+   "from": "p7",
+   "type": "son_of",
+   "to": "p5",
+   "evidence": "śrepateya ... bhājudevena ca"
+  },
+  {
+   "from": "p6",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "lekhaka ... bhājupatinā"
+  },
+  {
+   "from": "p7",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "lekhaka ... bhājudevena ca"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 920 śrāvaṇaśuklayā pratipadā puṣyanakṣatra vajrayoga aṃgāravāra",
+  "era": "NS",
+  "year": "920",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "pratipad",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "puṣya, vajra",
+  "ce_approx": "1800"
+ },
+ "place": {
+  "as_written": "śrīlalitāpulamahānagalayā śrījasodharamahāvihāra oṃkuri dundu gṛha",
+  "normalized": "Patan"
+ },
+ "purpose": "bodhi saṃlabdhahetoḥ / etat puṇyānubhāvena phalaṃ prāptotu sarvvadā",
+ "notes": "The cataloguer listed 'Vajrācārya Śripati, Bhājupati and Bhājudeva' as scribes; however, 'śrīvajrācāryya śrepateya bhājupatinā, bhājudevena ca' uses the Newari genitive -ya ('of Śrīpati'), indicating Bhājupati and Bhājudeva are likely the sons of Vajrācārya Śrīpati (Śrepati) and acted as the scribes.",
+ "_meta": {
+  "reel": "D 49/3",
+  "model": "gemini-flash-latest",
+  "secs": 21.5,
+  "in_tok": 1703,
+  "out_tok": 3243
+ }
+}

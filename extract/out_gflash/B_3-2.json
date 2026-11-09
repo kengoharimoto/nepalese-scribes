@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumatijayajitāmitramalladevaśana",
+   "name": "Jayajitāmitramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumatijayajitāmitramalladevaśana ... cocakādina juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhāgi nāma",
+   "name": "Bhāgināma",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "pradhānāṅga"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgi nāma pradhānāṅgayā balaśa",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīśrīsumatijayajitāmitramalladevaśanabhāgi nāma pradhānāṅgayā"
+  }
+ ],
+ "date": {
+  "as_written": "saṃ 805 kāvaṭa samvat 805 kārttikavadi ‥(thva)kuhnu",
+  "era": "NS",
+  "year": "805",
+  "month": "kārttika",
+  "paksa": "vadi",
+  "tithi": "‥",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1684"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bhāgināma Pradhānāṅga is likely a variant or scribal error for Bhāgīrāma Pradhānāṅga, the prominent minister under King Jayajitāmitramalla of Bhaktapur.",
+ "_meta": {
+  "reel": "B 3/2",
+  "model": "gemini-flash-latest",
+  "secs": 19.2,
+  "in_tok": 765,
+  "out_tok": 2805
+ }
+}

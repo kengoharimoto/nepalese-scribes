@@ -1,0 +1,66 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed residence Bhaktagrāma from Cakrarāja: 'bhaktagrāmanivāsinā' is instrumental, agreeing with 'kena puṃsā pāṃdunā'",
+   "Added p2 Pāṇḍu (pāṃdunā), low confidence",
+   "Titles of Cakrarāja reduced to paṇḍita",
+   "Place of copying emptied (Bhaktagrāma is only a residence)",
+   "Weekday normalized to Friday; notes revised"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "cakrarāja",
+   "name": "Cakrarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "cakrarāja dvijātīnām cakravarttisupaṇḍitaḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "pāṃdunā",
+   "name": "Pāṇḍu",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Bhaktagrāma",
+   "evidence": "kena puṃsā pāṃdunā vai bhaktagrāmanivāsinā",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "ṣaṣṭha .. .. bhaṃ mite śāke pañcamyāṃ śukravāsare | kārttike kṛṣṇapakṣe ... saṃ 805 kārttika va di 5",
+  "era": "NS",
+  "year": "805",
+  "month": "kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1684"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram before 'mite śāke' has a lacuna and cannot be read. NS 805 would be about Śaka 1606; 'śāke' may just mean 'year', so I can't tell whether the two dates conflict. The weekday has not been checked. The verse is corrupt ('marādayat' may stand for 'samāpayat'). Cakrarāja, in the nominative, seems to be the subject, so I keep him as scribe, as the catalogue does. The phrase 'kena puṃsā pāṃdunā ... bhaktagrāmanivāsinā' ('by a certain man, Pāṇḍu(?), living in Bhaktagrāma') may name the real copyist or a helper. 'pāṃdunā' might also not be a name at all. If Pāṇḍu was the copyist, Bhaktagrāma (Bhaktapur) was probably the place of copying.",
+ "_meta": {
+  "reel": "A 1108/6",
+  "model": "opus",
+  "cost_usd": 0.6402251999999999,
+  "secs": 46.2
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vāṣudevahariṇā",
+   "name": "Vāsudevahari",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vāṣudevahariṇā likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīgopālakṛṣṇārpaṇam astu",
+ "notes": "",
+ "_meta": {
+  "reel": "A 436/44",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 716,
+  "out_tok": 508
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dharmarājatṛ(!)pāthīdvijena",
+   "name": "Dharmarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "tripāṭhī",
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dharmarājatṛ(!)pāthīdvijena likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1952 sālamiti āṣāḍhavadi 30 roja 7",
+  "era": "VS",
+  "year": "1952",
+  "month": "āṣāḍha",
+  "paksa": "vadi",
+  "tithi": "30",
+  "weekday": "roja 7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1895"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthaṃ ca",
+ "notes": "",
+ "_meta": {
+  "reel": "B 360/26",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 837,
+  "out_tok": 869
+ }
+}

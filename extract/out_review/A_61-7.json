@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "place.normalized cleared: 'rajasthāne' (= rājasthāne) may mean 'at the royal seat/capital' and need not be the modern region of Rajasthan, so the identification is not certain",
+   "date.tithi: noted that 'parvan' in the dark fortnight is presumably the amāvāsyā",
+   "notes expanded: the ambiguity of rājasthāna, and the era judgement (VS over the catalogue's ŚS)"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmaśarmaṇā",
+   "name": "Rāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "rajasthāne",
+   "evidence": "rajasthāne ca vāstavyaṃ likhitaṃ rāmaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vaiśāṣe kṛṣṇapakṣe tu parvaṇi budhavāsare ... śrīsamvat 1756",
+  "era": "VS",
+  "year": "1756",
+  "month": "Vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "parvan (presumably amāvāsyā)",
+  "weekday": "budhavāsara (Wednesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1699"
+ },
+ "place": {
+  "as_written": "rajasthāne",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The catalogue gives '(ŚS) 1756'. The colophon says only 'śrīsamvat', and the script is Devanagari with a North Indian context, so Vikrama Saṃvat is more likely: VS 1756 ≈ 1699 CE. If it were ŚS, the year would be ≈ 1834 CE. 'rajasthāne' (for rājasthāne) is read as the place where the scribe lived/copied, 'rajasthāne ca vāstavyaṃ' (the neuter 'vāstavyaṃ' should be 'vāstavyena', agreeing with rāmaśarmaṇā). It may mean 'at the royal seat/capital' rather than the region of Rajasthan, so the place is not normalized. The scribe's name is given as Rāma, with -śarman moved to titles under the stem-form rule ('Rāmaśarman' in full). 'parvaṇi' in the kṛṣṇapakṣa points to the new-moon day; the weekday has not been checked.",
+ "_meta": {
+  "reel": "A 61/7",
+  "model": "opus",
+  "cost_usd": 0.0559508,
+  "secs": 15.3
+ }
+}

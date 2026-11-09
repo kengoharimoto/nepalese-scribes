@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācāryavajradhareṇa",
+   "name": "Vajradhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhyaṃ pūrṇṇaṃ ... vajrācāryavajradhareṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "netravyomākāśacandreṣu vatse(!) bhādre vāre bhau[[ma]] tithyau śivasya",
+  "era": "NS",
+  "year": "1002",
+  "month": "bhādra",
+  "paksa": "",
+  "tithi": "śiva",
+  "weekday": "bhauma",
+  "nakshatra_yoga": "",
+  "ce_approx": "1882"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Year given in chronogram: netra (2), vyoma (0), ākāśa (0), candra (1) = NS 1002. Śivatithi typically refers to caturdaśī (or ekādaśī). 'dhīmatyoddhāradevyau' refers to characters/subject matter of the narrative.",
+ "_meta": {
+  "reel": "A 126/3",
+  "model": "gemini-flash-latest",
+  "secs": 9.8,
+  "in_tok": 739,
+  "out_tok": 1412
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The excerpt contains only chapter colophons (adhyāyas 1–3) of the text; no scribal colophon, persons, or dates are present.",
+ "_meta": {
+  "reel": "B 100/21",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 823,
+  "out_tok": 486
+ }
+}

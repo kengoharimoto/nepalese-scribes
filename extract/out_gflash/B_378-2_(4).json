@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnāgabhaṭṭa",
+   "name": "Nāgabhaṭṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnāgabhaṭṭaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vaṃśarāmakarmmācāryeṇa",
+   "name": "Vaṃśarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vaṃśarāmakarmmācāryeṇa likhiti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 879 bhādrapada śuklayā daśamī pūrvāṣāḍhānakṣatre āyuṣmān yoge ādityavāra",
+  "era": "NS",
+  "year": "879",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "pūrvāṣāḍhānakṣatre āyuṣmān yoge",
+  "ce_approx": "1759"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon contains an injunction in Newari to keep the text secret (gvapya yāya māra).",
+ "_meta": {
+  "reel": "B 378/2 (4)",
+  "model": "gemini-flash-latest",
+  "secs": 11.8,
+  "in_tok": 859,
+  "out_tok": 1732
+ }
+}

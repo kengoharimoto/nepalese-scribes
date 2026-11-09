@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sumati jayajitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrī sumati jayajitāmitramalladevasana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 815 māgha vadi 9 thvakuhnu",
+  "era": "NS",
+  "year": "815",
+  "month": "māgha",
+  "paksa": "vadi",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1695"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bhaktapur is recorded in catalogue fields as place of copying based on the king's reign, though it is not explicitly mentioned in the colophon text.",
+ "_meta": {
+  "reel": "A 1235/19 (16)",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 715,
+  "out_tok": 783
+ }
+}

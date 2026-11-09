@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 roles: 'owner' removed because the colophon never calls the book his. 'beneficiary' added. 'reader' kept, since paṭhanārtha names him as the person who will read it.",
+   "p1 confidence lowered to medium: the title rests on the cataloguer's restored '(va)mā' (= varmā).",
+   "purpose rewritten as a short normalized phrase",
+   "notes revised: the scribe is not named, so Bālakṛṣṇa should not be treated as the scribe. This is paṭhanārtha, not svapaṭhanārtha."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībālakṛṣṇa(va)mā",
+   "name": "Bālakṛṣṇa",
+   "roles": [
+    "beneficiary",
+    "reader"
+   ],
+   "titles": [
+    "varmā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībālakṛṣṇa(va)mā paṭhanārthi(!)",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "śrīnepāladeśe bhagatapattane śrīśrīśrīgurudattātresaṃnidhāne",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "for the reading (paṭhanārtha) of Bālakṛṣṇa Varmā",
+ "notes": "The book was copied at Bhaktapur (bhagatapattane), near the Dattātreya shrine (gurudattātresaṃnidhāne). Dattātreya is a deity and is not counted as a person. The scribe is not named. 'paṭhanārthi(!)' stands for paṭhanārtham, so the copy was made for Bālakṛṣṇa to read. He may also have been the scribe or the owner, but the colophon does not say so. The '(va)' is the cataloguer's restoration, which suggests the reading 'Bālakṛṣṇa Varmā'. The colophon gives no date.",
+ "_meta": {
+  "reel": "B 69/14",
+  "model": "opus",
+  "cost_usd": 0.5459736000000001,
+  "secs": 21.4
+ }
+}

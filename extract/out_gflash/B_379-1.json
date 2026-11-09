@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sumati jayajitāmitramallana",
+   "name": "Jayajitāmitramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrī sumati jayajitāmitramallana ... dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 802 āṣādha śudi 5",
+  "era": "NS",
+  "year": "802",
+  "month": "āṣādha",
+  "paksa": "śudi",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1682"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "vaṃśīdhara tavake vāya pratiṣṭhā yāyātā",
+ "notes": "Vaṃśīdhara is understood as the deity (Kṛṣṇa/Viṣṇu) whose consecration (pratiṣṭhā) this ritual manual was prepared for, hence not recorded as a human person.",
+ "_meta": {
+  "reel": "B 379/1",
+  "model": "gemini-flash-latest",
+  "secs": 20.5,
+  "in_tok": 701,
+  "out_tok": 2485
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Vīrasiṃha: confidence lowered to medium. 'vīraśiṃhavidhānena likhitam' can mean 'written by arrangement of Vīrasiṃha', which would make him the person who had it done, not the scribe. Scribe role kept to follow the catalogue, with the alternative stated in notes.",
+   "Maṇika: confidence lowered to medium. 'pūritā' means he completed or restored the worm-eaten, incomplete copy, which may mean he did the actual writing. Corrector role kept.",
+   "Date checked: the chronogram vahni(3) śūnya(0) śara(5), read right to left, gives NS 503, so CE 1383. kāma = trayodaśī (13). bhṛgudina = Friday. No change.",
+   "Notes expanded: the unnamed dvija, the 'vidhānena' ambiguity, and the corrupt month."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "maṇikākhyena",
+   "name": "Maṇika",
+   "roles": [
+    "corrector"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "maṇikākhyena pūritā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vīraśiṃhāvidhānena",
+   "name": "Vīrasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vīraśiṃhāvidhānena likhitañ ca",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vahniśūnyaśare yāte nepālābdi vidhīyate | aśunyāś ca site pakṣe tithau kāma bhṛgudine",
+  "era": "NS",
+  "year": "503",
+  "month": "Āśvina",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1383"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"imparted to a dvija (dvijāya saṃprabodhitam)\"",
+ "notes": "The verses say a worm-eaten, badly written, incomplete pustī was examined and completed (pūritā) by someone named Maṇika. It was then 'written with faith by arrangement (vidhānena) of Vīrasiṃha'. The catalogue makes Vīrasiṃha the scribe. 'vidhāna' can also mean arranging or ordering, so he may be the commissioner, with Maṇika as the actual copyist. The chronogram vahni-śūnya-śara reads 503 NS (1383 CE). 'aśunyāś ca' is a corruption of āśvina/āśvayuja. 'kāma' stands for trayodaśī and bhṛgudina for Friday. The brahmin (dvija) to whom the vrata is imparted is not named.",
+ "_meta": {
+  "reel": "B 13/39",
+  "model": "opus",
+  "cost_usd": 0.0652228,
+  "secs": 17.3
+ }
+}

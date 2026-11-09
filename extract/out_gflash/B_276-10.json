@@ -1,0 +1,90 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivanārāyaṇācāryyana",
+   "name": "Śivanārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "ivāhāra",
+   "residence": "",
+   "evidence": "ivāhārayā śivanārāyaṇācāryyana thva ghaṃtha coya madhuṃko",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrījaśodharana",
+   "name": "Yaśodhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "vaṃlānihma gṛha",
+   "evidence": "vaṃlānihma gṛha nivāsita vipra śrījaśodharana saṃpūrṇa yāṅana coyā dina juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrī joganarendra malla thākura",
+   "name": "Yoganarendramalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "thākura"
+   ],
+   "affiliation": "",
+   "residence": "era",
+   "evidence": "erayā śrī joganarendra malla thākura esa bijyācakāva",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrī bhūpārendra malla thākulana",
+   "name": "Bhūpālendramalla",
+   "roles": [
+    "king",
+    "other"
+   ],
+   "titles": [
+    "thākula"
+   ],
+   "affiliation": "",
+   "residence": "yayā",
+   "evidence": "śrī bhūpārendra malla thākulana thva kāryya yāka juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 740 vaiśākha śuddhi 13 somavāra",
+  "era": "NS",
+  "year": "740",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1620"
+ },
+ "place": {
+  "as_written": "ivāhāra / vaṃlānihma gṛha",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon contains two dates: (1) NS 820 vaiśākha kṛṣṇa 13 Sunday, recording the staging of the play (pyākhana pidaṅa dina) by King Bhūpālendramalla of Kathmandu (Yayā) attended by King Yoganarendramalla of Patan (Erayā/Yelayā) and the king of Bhaktapur (Khwapa / ṣopo); and (2) NS 740 vaiśākha śukla 13 Monday, the actual date of completion of the copying by vipra Yaśodhara after Śivanārāyaṇācārya of Ivāhāra left it unfinished.",
+ "_meta": {
+  "reel": "B 276/10",
+  "model": "gemini-flash-latest",
+  "secs": 26.8,
+  "in_tok": 1039,
+  "out_tok": 3459
+ }
+}

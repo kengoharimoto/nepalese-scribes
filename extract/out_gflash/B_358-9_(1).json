@@ -1,0 +1,75 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sadāśivātmaja",
+   "name": "Sadāśiva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "Parāḍkara (parāḍkaropanāmaka)",
+   "residence": "",
+   "evidence": "parāḍkaropanāmaka sadāśivātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "viṭṭhalena",
+   "name": "Viṭṭhala",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Parāḍkara (parāḍkaropanāmaka)",
+   "residence": "",
+   "evidence": "viṭṭhalena likhitaṃ puskataṃ svahastaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śivarāmeṇa",
+   "name": "Śivarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śivarāmeṇa likhita",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "sadāśivātmaja sutasya(!) viṭṭhalena"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīkṛṣṇārpaṇa",
+ "notes": "The manuscript contains sections written by two scribes: Viṭṭhala (at exp. 19t) and Śivarāma (at exp. 24b). The expression 'sadāśivātmaja sutasya(!)' is redundant/corrupt for son or grandson of Sadāśiva Parāḍkara.",
+ "_meta": {
+  "reel": "B 358/9 (1)",
+  "model": "gemini-flash-latest",
+  "secs": 12.2,
+  "in_tok": 841,
+  "out_tok": 1516
+ }
+}

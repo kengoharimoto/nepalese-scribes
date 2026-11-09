@@ -1,0 +1,142 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nāgojibhaṭṭa",
+   "name": "Nāgoji",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nāgojibhaṭṭakṛtaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmadupādhyāyopanāmakaśivabhaṭṭa",
+   "name": "Śiva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "upādhyāya",
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śivabhaṭṭasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "satī",
+   "name": "Satī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "satīgarbhaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "vaidyanāthabhaṭṭa",
+   "name": "Vaidyanātha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhaṭṭa",
+    "pāyaguṇḍa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vaidyanāthabhaṭṭakṛtaparibhāṣeṃduśekharakāśikā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrī[ma]tpāyaguṃḍopākhyamahādeva",
+   "name": "Mahādeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "pāyaguṇḍa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahādevasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "veṇī",
+   "name": "Veṇī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "veṇīgarbhaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śivabhaṭṭasuta"
+  },
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "satīgarbhaja"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p5",
+   "evidence": "mahādevasuta"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p6",
+   "evidence": "veṇīgarbhaja"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon text contains author and commentator colophons only; no scribal copyist date or personal details are present.",
+ "_meta": {
+  "reel": "B 464/11",
+  "model": "gemini-flash-latest",
+  "secs": 15.9,
+  "in_tok": 788,
+  "out_tok": 2322
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "asanipāṇi-śrī(dha)nendravajreṇa",
+   "name": "Dhanendravajra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "aśanipāṇi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dhīmatā asanipāṇi-śrī(dha)nendravajreṇa mudā lekhayāmi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepālava[r]ṣa 905 jyeṣṭhakṛṣṇa aṣṭamī somavāra",
+  "era": "NS",
+  "year": "905",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1785"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Aśoka and Upagupta appear as framing interlocutors of the Maṇicūḍāvadāna and are excluded. The verb 'lekhayāmi' is formally causative 1st person ('I cause to write'), but combined with the instrumental 'dhīmatā asanipāṇi-śrī(dha)nendravajreṇa', he is treated by the catalogue as the scribe (or possibly commissioner).",
+ "_meta": {
+  "reel": "C 13/10",
+  "model": "gemini-flash-latest",
+  "secs": 17.0,
+  "in_tok": 806,
+  "out_tok": 2063
+ }
+}

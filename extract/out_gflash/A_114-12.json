@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnāgārjuṇa",
+   "name": "Nāgārjuna",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnāgārjuṇaviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvajrācāryya jñānandanaṃ",
+   "name": "Jñānanandana",
+   "roles": [
+    "scribe",
+    "commissioner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvajrācāryya jñānandanaṃ dayakā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 1013 jyeṣṭha śudi 4",
+  "era": "NS",
+  "year": "1013",
+  "month": "jyeṣṭha",
+  "paksa": "śudi",
+  "tithi": "4",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1893"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "thao saphalikhao niścaya",
+ "notes": "The phrase 'sakyebhi tiṣṭhage vātārayā' preceding the vajrācārya's name is unclear (possibly a corrupt place/locality name or monastic affiliation). 'dayakā thao saphalikhao' in Newari indicates he made or had it made for himself.",
+ "_meta": {
+  "reel": "A 114/12",
+  "model": "gemini-flash-latest",
+  "secs": 8.0,
+  "in_tok": 753,
+  "out_tok": 1359
+ }
+}

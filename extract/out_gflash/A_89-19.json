@@ -1,0 +1,156 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "māhādevasarasvatīmuni",
+   "name": "Mahādevasarasvatī",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "parivrājakācārya",
+    "muni"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatparamahaṃsapari(6)vrājakācāryaviracitaṃ śrīmatsvayaṃprakāśānandasarasvatīpūjapādaśiṣya bha(7)gavanmāhādevasarasvatīmuniviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmatsvayaṃprakāśānandasarasvatī",
+   "name": "Svayaṃprakāśānandasarasvatī",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatsvayaṃprakāśānandasarasvatīpūjapādaśiṣya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śaṃbhunāthe(2)na",
+   "name": "Śaṃbhunātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "Audīcya jñāti",
+   "residence": "",
+   "evidence": "audīcyajñānidaºº lakṣmīnāthasutadaºº śaṃbhunāthe(2)na likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "lakṣmīnātha",
+   "name": "Lakṣmīnātha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "Audīcya jñāti",
+   "residence": "",
+   "evidence": "lakṣmīnāthasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "tāṃtiyācitvalapaṃthasya",
+   "name": "Tāṃtiyā Citvalapantha",
+   "roles": [
+    "reader",
+    "beneficiary"
+   ],
+   "titles": [
+    "pantha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "(tāṃtiyācitvalapaṃthasya) paṭhanārthaṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p6",
+   "as_written": "viṭhalanāme",
+   "name": "Viṭhala",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Varāḍa (Berar), Āṣṭī grāma",
+   "evidence": "gaṇeśātmajaviṭhalanāme vāstavyavasiṣṭhātiraāṣṭī(5)nāme grāmaprāṃtavarāḍatena† ātmavicārārtha (!) dravyadvārā pūstakasaṃgraha (!) kartavyaḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p7",
+   "as_written": "gaṇeśa",
+   "name": "Gaṇeśa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gaṇeśātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "śrīmatsvayaṃprakāśānandasarasvatīpūjapādaśiṣya"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "lakṣmīnāthasuta"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p5",
+   "evidence": "likhitaṃ (tāṃtiyācitvalapaṃthasya) paṭhanārthaṃ"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p7",
+   "evidence": "gaṇeśātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsamvat 1872 varṣe śrāvaṇaśuddhī 10 vāra ravīvāsare",
+  "era": "VS",
+  "year": "1872",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1815"
+ },
+ "place": {
+  "as_written": "śrīavimuktavārāṇasīkṣetre śrīśrīviśveśvarasaṃnidhāne",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "paṭhanārthaṃ / ātmavicārārthaṃ",
+ "notes": "The abbreviation 'daº' after the caste name Audīcya probably stands for Daivajña or Dave. Tāṃtiyā Citvalapantha likely represents a Maratha Citpāvan Brahmin (e.g. Citaḷe Pant). Viṭhala, son of Gaṇeśa from Varāḍa (Berar), Āṣṭī, is recorded as funding the acquisition of the manuscript (dravyadvārā pustakasaṃgrahaḥ).",
+ "_meta": {
+  "reel": "A 89/19",
+  "model": "gemini-flash-latest",
+  "secs": 19.9,
+  "in_tok": 1067,
+  "out_tok": 3441
+ }
+}

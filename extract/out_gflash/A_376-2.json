@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi",
+    "kavivarāgraṇī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kālidāsakṛtā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "maṇirāma",
+   "name": "Maṇirāma",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "Bhāradvāja gotra",
+   "residence": "",
+   "evidence": "śrībhāradvājagotrotpannamaṇirāja(!)viracitāyāṃ ṛtusaṃhāravyākhyāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1925 sāla miti kārttikabadi 5 roja 3",
+  "era": "VS",
+  "year": "1925",
+  "month": "kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1868"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The commentator is named as Maṇirāja on fol. 15r7 and Maṇirāma on fols. 29r8 and 36r2. The scribe remains anonymous ('likhitam mayā').",
+ "_meta": {
+  "reel": "A 376/2",
+  "model": "gemini-flash-latest",
+  "secs": 9.2,
+  "in_tok": 1140,
+  "out_tok": 1552
+ }
+}

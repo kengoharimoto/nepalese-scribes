@@ -1,0 +1,63 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dhanaṃjayadevena",
+   "name": "Dhanañjayadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dhanaṃjayadevena ... likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dhanadattāya",
+   "name": "Dhanadatta",
+   "roles": [
+    "commissioner",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dhanadattāya likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "dhanaṃjayadevena dhanadattāya likhitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "śrīnepālasaṃvat 877 āśvinīkṛṣṇa 6 somasutavāsare",
+  "era": "NS",
+  "year": "877",
+  "month": "āśvinī",
+  "paksa": "kṛṣṇa",
+  "tithi": "6",
+  "weekday": "somasutavāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1757"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "parārtha (written for Dhanadatta); śrīdurgārppaṇam astu",
+ "notes": "",
+ "_meta": {
+  "reel": "B 542/22",
+  "model": "gemini-flash-latest",
+  "secs": 9.1,
+  "in_tok": 766,
+  "out_tok": 1130
+ }
+}

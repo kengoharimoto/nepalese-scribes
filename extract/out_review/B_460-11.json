@@ -1,0 +1,88 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 re-segmented as Mallāramiśrātmaja-Lālacandraśarmaṇā, so the name is Lālacandra, not Tājalālachandraśarman; titles reduced to śarman",
+   "Added p3 Mallāra (miśra), father of p2, relative_only",
+   "Added the relation p2 son_of p3",
+   "Scribe role for p2 marked as uncertain in the notes"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvaradabha ‥",
+   "name": "Varadabhaṭṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "iti śrīvaradabha ‥",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mallāramiśrītāja(lā)lacaṃdraśarmmaṇā",
+   "name": "Lālacandra",
+   "roles": [
+    "commissioner",
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhite yaṃ lekhāpitā ceti mallāramiśrītāja(lā)lacaṃdraśarmmaṇā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "mallāramiśrī",
+   "name": "Mallāra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mallāramiśrītāja(lā)lacaṃdra",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "mallāramiśrītāja(lā)lacaṃdra"
+  }
+ ],
+ "date": {
+  "as_written": "sa[m]vatsare 1774 phālguna",
+  "era": "VS",
+  "year": "1774",
+  "month": "phālguna",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1717"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author's name is cut short. It is probably Varadabhaṭṭa, i.e. Varadarāja. The patron's name is read as Mallāramiśrātmaja-Lālacandraśarmaṇā: 'tāja' would be a corruption of 'tmaja'. 'likhiteyaṃ lekhāpitā ca' suggests that Lālacandra both wrote and commissioned the copy, but a scribe's name may be lost in the lacuna before it. 'kṛṣṇa' is a maṅgala name and Paśupati a deity, so neither is a person. Phālguna of VS 1774 falls in about February–March 1718 CE.",
+ "_meta": {
+  "reel": "B 460/11",
+  "model": "opus",
+  "cost_usd": 0.6465296,
+  "secs": 50.9
+ }
+}

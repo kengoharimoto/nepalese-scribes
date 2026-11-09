@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrī sumati jayajitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrī sumati jayajitāmitramalladevasana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 815 phālguṇa śudi 9 thvakuhnu",
+  "era": "NS",
+  "year": "815",
+  "month": "phālguṇa",
+  "paksa": "śudi",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1695"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Bhaktapur as the place of copying based on King Jitāmitra Malla's kingdom, though the place name does not appear in the colophon text itself. 'dayakā juroṃ' indicates that the king caused the manuscript to be prepared.",
+ "_meta": {
+  "reel": "A 1235/19 (18)",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 736,
+  "out_tok": 828
+ }
+}

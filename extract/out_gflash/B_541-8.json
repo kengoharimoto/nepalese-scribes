@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1712 māse 6 pakṣe 1 vāre 5 nakṣatre 26 saṃvat 1847",
+  "era": "ŚS",
+  "year": "1712",
+  "month": "6",
+  "paksa": "1",
+  "tithi": "",
+  "weekday": "5",
+  "nakshatra_yoga": "nakṣatre 26",
+  "ce_approx": "1790"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No human persons are named in the colophon. The date is cited in both Śaka (1712) and Vikrama Saṃvat (1847), with month, pakṣa, weekday, and nakṣatra indicated numerically.",
+ "_meta": {
+  "reel": "B 541/8",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 777,
+  "out_tok": 752
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "tithi: 'dda' is not a tithi name; tithi left empty and the corrupt reading explained in notes",
+   "date.as_written extended to include 'saṃpūrṇa(!)'",
+   "notes expanded: era identification and ce_approx reasoning"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śubhasamvat 1048 miti jyeṣṭa(!)kṛṣṇadda(!) saṃpūrṇa(!)",
+  "era": "NS",
+  "year": "1048",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1928"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The colophon names no human persons. It gives the year as 'śubhasamvat 1048' with no era name. Reading it as Nepāla Saṃvat is the likely choice: this is a Buddhist text, the dating formula with 'miti' is a Newar one, and the catalogue also gives NS 1048. NS 1048 ran from about Oct/Nov 1927 to 1928, so Jyeṣṭha falls in May/June 1928 CE. The tithi 'dda(!)' after 'kṛṣṇa' is corrupt. It may be a slip for 'dvādaśī' (12th) or 'daśamī' (10th), or for a misread numeral. It cannot be fixed with confidence, so the tithi is left empty.",
+ "_meta": {
+  "reel": "B 95/8",
+  "model": "opus",
+  "cost_usd": 0.047278799999999996,
+  "secs": 11.4
+ }
+}

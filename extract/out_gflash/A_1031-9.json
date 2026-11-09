@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "amarasiṃha",
+   "name": "Amarasiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "amarasiṃhakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vīśvanāthabhaṭa loṭe",
+   "name": "Viśvanātha",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "bhaṭa",
+    "loṭe"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ vīśvanāthabhaṭa loṭe yāṃce ase",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śake 1740 vikramanāmasaṃvatsare vaiśākhaśukladvādaśi",
+  "era": "ŚS",
+  "year": "1740",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1818"
+ },
+ "place": {
+  "as_written": "śrīkāsyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The ownership statement is written in Marathi ('yāṃce ase'). Loṭe is a Maharashtrian Chitpavan Brahmin surname.",
+ "_meta": {
+  "reel": "A 1031/9",
+  "model": "gemini-flash-latest",
+  "secs": 10.5,
+  "in_tok": 765,
+  "out_tok": 1413
+ }
+}

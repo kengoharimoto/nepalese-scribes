@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayabhūpatīndramalladevasa",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayabhūpatīndramalladevasa jayapratāpavovalasa thva sāphuli dayakā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 820 naṣṭaāśvinaśudi 3 citranakṣatra brahmayoga budhavāra",
+  "era": "NS",
+  "year": "820",
+  "month": "naṣṭaāśvina",
+  "paksa": "śudi",
+  "tithi": "3",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "citranakṣatra brahmayoga",
+  "ce_approx": "1700"
+ },
+ "place": {
+  "as_written": "jayapratāpavovalasa",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "Jayapratāpa Vovala (Nevārī vovāla/bovāra = palace wing or courtyard) refers to a royal courtyard in the Bhaktapur palace of King Jayabhūpatīndra Malla where the manuscript was commissioned/produced.",
+ "_meta": {
+  "reel": "A 234/14",
+  "model": "gemini-flash-latest",
+  "secs": 28.7,
+  "in_tok": 772,
+  "out_tok": 4154
+ }
+}

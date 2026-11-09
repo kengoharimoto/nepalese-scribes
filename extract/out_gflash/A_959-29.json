@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mīrasubbārāmabhaktale",
+   "name": "Rāmabhakta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "mīrasubbā"
+   ],
+   "affiliation": "",
+   "residence": "nepāladu⟪ga⟫vahīṭola 7 nambarako gharamā",
+   "evidence": "mīrasubbārāmabhaktale nepāladu⟪ga⟫vahīṭola 7 nambarako gharamā lekheko",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1974 sāla vaiśākhavadī 3 roja 3 caitra 29 gate kā dina ... samvatsaraśuklanāma thiyo",
+  "era": "VS",
+  "year": "1974",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "3",
+  "weekday": "roja 3",
+  "nakshatra_yoga": "samvatsara śukla",
+  "ce_approx": "1917"
+ },
+ "place": {
+  "as_written": "nepāladu⟪ga⟫vahīṭola 7 nambarako gharamā",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The scribe notes he copied this at the age of 71 (71 varṣako umeramā).",
+ "_meta": {
+  "reel": "A 959/29",
+  "model": "gemini-flash-latest",
+  "secs": 8.2,
+  "in_tok": 999,
+  "out_tok": 1065
+ }
+}

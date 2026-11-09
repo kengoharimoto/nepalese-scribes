@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīuttamarājopādhyāyaśarmmaṇā",
+   "name": "Uttamarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣatim idaṃ śrīuttamarājopādhyāyaśarmmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vikramābdagate 1851 pauṣakṛṣṇacaturthyāṃ tithau ravivāsare",
+  "era": "VS",
+  "year": "1851",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturthī",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1794"
+ },
+ "place": {
+  "as_written": "gurupāśupatapatrālaye mudrita(!) kāṃtipūrato(!)la⟪ṭhaṃ⟫ hi(tprā)pano ..",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The place appears to specify Kāntipura (Kathmandu) and a tole or patrālaye/residence ('gurupāśupatapatrālaye mudrita kāṃtipūratola...').",
+ "_meta": {
+  "reel": "A 472/39",
+  "model": "gemini-flash-latest",
+  "secs": 9.6,
+  "in_tok": 811,
+  "out_tok": 1191
+ }
+}

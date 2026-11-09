@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdaivajñaḍhuṃḍhirāja-",
+   "name": "Ḍhuṇḍhirāja",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdaivajñaḍhuṃḍhi(2)rājaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "daivajñakṛṣṇeśena",
+   "name": "Kṛṣṇeśa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñakṛṣṇeśena (!) saṃpūrṇena (!) likhitam idaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīnepālasamvat 843 aśvina māse kṛṣṇapakṣe || mṛgaśiranakṣatre (!) || parighayoge || somavāsare ||",
+  "era": "NS",
+  "year": "843",
+  "month": "aśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "phaṇīndra",
+  "weekday": "somavāsare",
+  "nakshatra_yoga": "mṛgaśiranakṣatre, parighayoge",
+  "ce_approx": "1723"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svātmahetunā",
+ "notes": "The date is also versified: 'abde gnidhātāsya gajeśvine ’site, tithau phaṇīndre pi mṛgāṃkavāsare' with chronogram components, followed by explicit prose 'śrīnepālasamvat 843'.",
+ "_meta": {
+  "reel": "A 408/2",
+  "model": "gemini-flash-latest",
+  "secs": 9.1,
+  "in_tok": 960,
+  "out_tok": 1280
+ }
+}

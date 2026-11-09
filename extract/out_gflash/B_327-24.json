@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vaṇimādhavakeḍhe",
+   "name": "Veṇīmādhava",
+   "roles": [
+    "owner",
+    "scribe"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "Keḍhe",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ vaṇimādhavakeḍhe (!) jyotirvidāttasyajñeyaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1718 nalanāmābde bhādrapada vahula 9 ravivāre",
+  "era": "ŚS",
+  "year": "1718",
+  "month": "bhādrapada",
+  "paksa": "vahula",
+  "tithi": "9",
+  "weekday": "ravivāre",
+  "nakshatra_yoga": "",
+  "ce_approx": "1796"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrījagadamvārpaṇamastu",
+ "notes": "The catalogue lists Veṇīmādhava as scribe, though the phrase 'idaṃ pustakaṃ ... jñeyaṃ' primarily denotes ownership (ātmasyajñeyam / ātmasat?). 'Keḍhe' appears to be a family/lineage name (likely a Maharashtrian surname).",
+ "_meta": {
+  "reel": "B 327/24",
+  "model": "gemini-flash-latest",
+  "secs": 13.0,
+  "in_tok": 727,
+  "out_tok": 1537
+ }
+}

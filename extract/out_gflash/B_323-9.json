@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nīlakaṇṭha",
+   "name": "Nīlakaṇṭha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nīlakaṇṭhaviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "puruṣottamaśarmaṇā",
+   "name": "Puruṣottama",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakam || puruṣottamaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke || 1791 śrīsamvat 1926 sālamāghaśukla 8 budhavāsare",
+  "era": "ŚS",
+  "year": "1791 (VS 1926)",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "8",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1870"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīvāsayaṇārpaṇam astu",
+ "notes": "Both Śaka era 1791 and Vikrama Saṃvat 1926 are specified. 'śrīvāsayaṇārpaṇam astu' is probably a scribal corruption for śrīnārāyaṇārpaṇam astu.",
+ "_meta": {
+  "reel": "B 323/9",
+  "model": "gemini-flash-latest",
+  "secs": 8.4,
+  "in_tok": 840,
+  "out_tok": 1101
+ }
+}

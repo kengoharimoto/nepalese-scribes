@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsiddhirāmadevayā",
+   "name": "Siddhirāmadeva",
+   "roles": [
+    "owner",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsiddhirāmadevayā śubhaḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 803 phālhuguṇa kṛṣṇa",
+  "era": "NS",
+  "year": "803",
+  "month": "phālhuguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1683"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The exact role of Siddhirāmadeva is ambiguous due to the phrase 'śrīsiddhirāmadevayā śubhaḥ' (Nevārī genitive, wishing well/inauspiciousness warding or ownership statement).",
+ "_meta": {
+  "reel": "B 380/15",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 887,
+  "out_tok": 1051
+ }
+}

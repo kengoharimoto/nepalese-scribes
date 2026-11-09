@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayapratāpamalladevena",
+   "name": "Jayapratāpamalladeva",
+   "roles": [
+    "king",
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayapratāpamalladevena virāṭaparvapārāyaṇārambhaṣ(!) kṛtaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 767 kārttikaśukla-ekādaśyāṃ",
+  "era": "NS",
+  "year": "767",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "ekādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1646"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "virāṭaparvapārāyaṇa",
+ "notes": "The date and king reference record the commencement (and later conclusion) of a ritual recitation (pārāyaṇa) of the Virāṭaparvan by or for King Pratāpa Malla (Jayapratāpamalladeva) of Kathmandu.",
+ "_meta": {
+  "reel": "B 19/8",
+  "model": "gemini-flash-latest",
+  "secs": 10.7,
+  "in_tok": 755,
+  "out_tok": 1289
+ }
+}

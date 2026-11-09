@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Weekday changed from 'roja 6' to 'Friday (roja 6)'",
+   "Residence of Lakṣmīdāsa cleared: the colophon gives Siśauṃniñā as the place of copying, not as where he lives",
+   "Notes: checked that ŚS 1772 and VS 1907 agree (both give 1850/51). Māgha kṛṣṇa 7 falls in Jan/Feb 1851, so ce_approx stays 1851"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "lakṣmīdāsaupādhyāyaḥ",
+   "name": "Lakṣmīdāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ (!) lakṣmīdāsaupādhyāyaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke || 1772 || saṃvat 1907 || || māghakṛṣṇa || 7 || roja 6",
+  "era": "ŚS",
+  "year": "1772",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "7",
+  "weekday": "Friday (roja 6)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1851"
+ },
+ "place": {
+  "as_written": "grāma siśauṃniñā",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives ŚS 1732, but the colophon clearly reads Śāka 1772 together with VS 1907. The two eras agree: 1772+78 = 1850 and 1907−57 = 1850. Māgha kṛṣṇa 7 of that year falls in Jan/Feb 1851. The village Siśauṃniñā (the reading is uncertain) is the place of copying and has not been identified. In 'lakṣmīdāsaupādhyāyaḥ', 'upādhyāya' is taken as a title.",
+ "_meta": {
+  "reel": "A 429/17",
+  "model": "opus",
+  "cost_usd": 0.0526748,
+  "secs": 11.9
+ }
+}

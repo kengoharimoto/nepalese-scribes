@@ -1,0 +1,86 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2: name normalised to stem 'Virāṭa' (written virāt-, with t for ṭ); confidence lowered to medium",
+   "Notes: the claim that the weekday confirms the date is softened. 17 June 1597 (Julian) is a Friday, but I did not check the tithi. The era is a plain 'saṃvat' (most likely VS), not written as VS",
+   "Notes: kokhaḥ read as kośaḥ; catalogue ŚS 1654 (= 1732 CE) recorded as the other possibility"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdhanajayasya",
+   "name": "Dhanañjaya",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdhanajayasya kṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "virātbhaṭṭa",
+   "name": "Virāṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "virātbhaṭṭātmajeva",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "naraharibha<<>>ṭṭena",
+   "name": "Narahari",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitam idaṃ virātbhaṭṭātmajeva naraharibha<<>>ṭṭena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "virātbhaṭṭātmajeva naraharibha<<>>ṭṭena"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1654 || āṣā(4)ḍhaśudi 13 bhṛguvāsare",
+  "era": "VS",
+  "year": "1654",
+  "month": "Āṣāḍha",
+  "paksa": "śukla (śudi)",
+  "tithi": "13",
+  "weekday": "Friday (bhṛguvāsara)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1597"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'virātbhaṭṭātmajeva' is a miswriting of 'virāṭabhaṭṭātmajena', 'son of Virāṭa Bhaṭṭa'. 'kokhaḥ' stands for 'kośaḥ' (dhanaṃjayakośaḥ). The colophon says only 'saṃvat 1654'. In a Devanagari manuscript dated by śudi and a weekday this is most likely VS, which gives about 1597 CE. 17 June 1597 (Julian) is a Friday, which fits bhṛguvāsara, but I did not check that the tithi falls on that day. The catalogue gives ŚS 1654 (= 1732 CE), and that remains possible. The colophon has no internal evidence for Śaka, so I am keeping VS, but this should be checked with a calendar calculation.",
+ "_meta": {
+  "reel": "A 1371/5",
+  "model": "opus",
+  "cost_usd": 0.5779335999999999,
+  "secs": 29.1
+ }
+}

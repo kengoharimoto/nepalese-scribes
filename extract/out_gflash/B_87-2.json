@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācāryaśrīcittamuni",
+   "name": "Cittamuni",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "paramopāsaka",
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devadharmāyaṃ pravaramahāyānaparamopāśakaśrīvajradevyāsevitavajrācāryaśrīcittamuni",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1816 śrīsamvat 1951 nepāliyasamvat 1015 sālamiti pauṣa sudi 5",
+  "era": "VS",
+  "year": "1951",
+  "month": "pauṣa",
+  "paksa": "sudi",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1895"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "merit transfer to parents, teachers, and all sentient beings for the attainment of unsurpassed knowledge",
+ "notes": "Three eras are provided: Śaka 1816, Vikrama Saṃvat 1951, and Nepāla Saṃvat 1015. Cittamuni is qualified as 'vajradevy-āsevita' (devoted to the goddess Vajradevī).",
+ "_meta": {
+  "reel": "B 87/2",
+  "model": "gemini-flash-latest",
+  "secs": 22.2,
+  "in_tok": 1125,
+  "out_tok": 2744
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmedinikara",
+   "name": "Medinīkara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmedinikarakṛto ʼnekārthakoṣaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīśrīsumatijayajitāṃitramallasan[a]",
+   "name": "Jayajitāmitramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumatijayajitāṃitramallasanathvapuṣṭakadayakā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bhāgirāmaparamāna",
+   "name": "Bhāgirāma",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "paramāna"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgirāmaparamānavayāvalasa",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "śrīśrīsumatijayajitāṃitramallasanathvapuṣṭakadayakā || bhāgirāmaparamānavayāvalasa"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 810 kārttikaśudi 9",
+  "era": "NS",
+  "year": "810",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1690"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Newari: 'thva puṣṭaka dayakā' means 'caused this book to be made'; 'bhāgirāma paramāna vayā valasa' indicates during the turn/tenure (Newari 'bālasa') of Pramāṇa Bhāgirāma.",
+ "_meta": {
+  "reel": "A 1032/9",
+  "model": "gemini-flash-latest",
+  "secs": 14.4,
+  "in_tok": 712,
+  "out_tok": 2094
+ }
+}

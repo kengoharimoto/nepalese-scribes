@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīviśveśvaraṇa",
+   "name": "Viśveśvara",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "tiprakvache",
+   "evidence": "tiprakvacheyā, śrīviśveśvaraṇa thavataṃ coyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 789 māghaśukla saptamī kṛttikā, parigha, śukravāra, thvakuhnu",
+  "era": "NS",
+  "year": "789",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "saptamī",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "kṛttikā, parigha",
+  "ce_approx": "1669"
+ },
+ "place": {
+  "as_written": "tiprakvache",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "svārtha (thavataṃ coyā)",
+ "notes": "Tiprakvache (Tibukche) is a well-known locality (ṭola) in Bhaktapur.",
+ "_meta": {
+  "reel": "B 375/17",
+  "model": "gemini-flash-latest",
+  "secs": 8.3,
+  "in_tok": 824,
+  "out_tok": 904
+ }
+}

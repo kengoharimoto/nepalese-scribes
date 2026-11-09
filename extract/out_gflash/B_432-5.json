@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "davegadādharasuta",
+   "name": "Gadādhara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "dave"
+   ],
+   "affiliation": "Śrīmālajñāti",
+   "residence": "",
+   "evidence": "śrīmālajñātīyadavegadādharasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "davevidyādhara",
+   "name": "Vidyādhara",
+   "roles": [
+    "reader"
+   ],
+   "titles": [
+    "dave"
+   ],
+   "affiliation": "Śrīmālajñāti",
+   "residence": "",
+   "evidence": "davevidyādharapaṭhanārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "davegadādharasuta || davevidyādhara"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1574 varṣe pauṣavadi 12 śukre",
+  "era": "VS",
+  "year": "1574",
+  "month": "Pauṣa",
+  "paksa": "vadi",
+  "tithi": "12",
+  "weekday": "śukra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1517"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "davevidyādharapaṭhanārthaṃ",
+ "notes": "The phrase 'liṣitaṃ śrīmālajñātīyadavegadādharasuta || davevidyādharapaṭhanārthaṃ' indicates that the manuscript was copied for the study/reading of Dave Vidyādhara, son of Dave Gadādhara belonging to the Śrīmāla caste (Śrīmālī Brāhmaṇa); the scribe's own name is omitted.",
+ "_meta": {
+  "reel": "B 432/5",
+  "model": "gemini-flash-latest",
+  "secs": 31.8,
+  "in_tok": 886,
+  "out_tok": 4129
+ }
+}

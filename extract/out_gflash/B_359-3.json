@@ -1,0 +1,101 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "harihareṇa sūriṇā",
+   "name": "Harihara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "sūri",
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sutena bhānubhaṭtasya harihareṇa sūriṇā || granthān anekān ālokya kṛtā cāṃtyeṣṭipaddhatiḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhānubhaṭtasya",
+   "name": "Bhānubhaṭṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa",
+    "sūri"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sutena bhānubhaṭtasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bhaṇaṃgakeśavātmajena",
+   "name": "Bhaṇaṃgakeśavātmaja",
+   "roles": [
+    "scribe",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṇaṃgakeśavātmajeneyaṃ aṃtyeṣṭipaddhatir likhitā likhāpitā ca",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "bhaṇaṃgakeśava",
+   "name": "Bhaṇaṃgakeśava",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṇaṃgakeśavātmajena",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "sutena bhānubhaṭtasya"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "bhaṇaṃgakeśavātmajena"
+  }
+ ],
+ "date": {
+  "as_written": "śake 1552 pramodasaṃvatsare dakṣiṇagolāvalaṃbinyaṃśumālini āṣāḍhemāse bahulapakṣe caturddaśyāṃ guruvāsare",
+  "era": "ŚS",
+  "year": "1552",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturdaśī",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1630"
+ },
+ "place": {
+  "as_written": "vijayāpure",
+  "normalized": "Vijayāpura"
+ },
+ "purpose": "svārthaṃ parārthaṃ ca",
+ "notes": "The author is described both as the son of Bhānubhaṭṭa ('bhānubhaṭṭasya') and 'śrībhaṭṭabhāskarasūrisūnu' (Bhānu and Bhāskara being synonymous). The scribe/commissioner leaves himself unnamed except as the son of Bhaṇaṃgakeśava ('bhaṇaṃgakeśavātmajena').",
+ "_meta": {
+  "reel": "B 359/3",
+  "model": "gemini-flash-latest",
+  "secs": 28.8,
+  "in_tok": 1014,
+  "out_tok": 3636
+ }
+}

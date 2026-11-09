@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāyasthajayaharṣa",
+   "name": "Jayaharṣa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "śrīdavāraṇima",
+   "evidence": "kāyasthajayaharṣa (a ‥na) likhitapustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "svādadigābhūtābdāni phālguṇe sucidvādaśī | pujā(rkka)sobhano yogā",
+  "era": "unspecified",
+  "year": "svādadigābhūtābdāni",
+  "month": "phālguṇa",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "arka",
+  "nakshatra_yoga": "śobhana",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "śrīdavāraṇimaṃ",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram svādadigābhūtābdāni is corrupt and marked corrupt by the cataloguer (†); the cataloguer tentatively suggested the 15th century CE. The residence/place appears as śrīdavāraṇimaṃmadhivāśina (śrīdavāraṇimam adhivāsinā; catalogued as 'Khāraṇima???').",
+ "_meta": {
+  "reel": "B 36/9 (1)",
+  "model": "gemini-flash-latest",
+  "secs": 12.3,
+  "in_tok": 818,
+  "out_tok": 1414
+ }
+}

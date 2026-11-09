@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 781 || || || || samvat 1951 sāla māghavadi 9",
+  "era": "VS",
+  "year": "1951",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1895"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "sarvvasattvārthahetunā",
+ "notes": "Two dates are given: 'samvat 781' (likely NS 781 = 1661 CE, copied from the exemplar) and 'samvat 1951 sāla māghavadi 9' (VS 1951 = 1894/1895 CE, the date of copying). No human persons are named.",
+ "_meta": {
+  "reel": "A 140/16",
+  "model": "gemini-flash-latest",
+  "secs": 7.8,
+  "in_tok": 911,
+  "out_tok": 1156
+ }
+}

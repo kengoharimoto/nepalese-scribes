@@ -1,0 +1,85 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī . ānadeve",
+   "name": "Mānadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "[[rājñi]] śrī . ānadeve",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "chrīharṣacandro",
+   "name": "Harṣacandra",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "chrīharṣacandro nniratiśayaghṛṇābhāvito moktukāmaḥ ... pratipāditam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vaidyavasuvarmaṇaḥ",
+   "name": "Vasuvarman",
+   "roles": [
+    "beneficiary",
+    "owner"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "śrīgaṇadevadevakuladūnīścalaka",
+   "evidence": "vaidyavasuvarmaṇaḥ pustakam idaṃ paṭhitvārtham avagamya sarvaṃm satvānām upadeśaṃ vidhātuṃ pratipāditam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "[[rājñi]] śrī . ānadeve pṛthusitayaśasi ... chrīharṣacandro"
+  },
+  {
+   "from": "p2",
+   "type": "other",
+   "to": "p3",
+   "evidence": "chrīharṣacandro ... vaidyavasuvarmaṇaḥ pustakam idaṃ paṭhitvārtham avagamya sarvaṃm satvānām upadeśaṃ vidhātuṃ pratipāditam"
+  }
+ ],
+ "date": {
+  "as_written": "varśe caikottare smiṃs tritayaśatagate mādhave māsi śukle saptamyāṃ puṣya ṛkṣe da[..]śatakiraṇāvāsare siddhayoge",
+  "era": "unspecified",
+  "year": "301",
+  "month": "mādhava",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "puṣya, siddhayoga",
+  "ce_approx": "878"
+ },
+ "place": {
+  "as_written": "śrīgaṇadevadevakuladūnīścalaka",
+  "normalized": ""
+ },
+ "purpose": "paṭhitvārtham avagamya sarvaṃm satvānām upadeśaṃ vidhātuṃ",
+ "notes": "The era year 301 is dated by scholars to the post-Licchavi Mānadeva Saṃvat, corresponding to 878 CE. The manuscript contains folios from multiple manuscripts; the extracted colophon belongs to the Suśrutasaṃhitā on folio 209 (Devanagari 109).",
+ "_meta": {
+  "reel": "C 80/7",
+  "model": "gemini-flash-latest",
+  "secs": 17.8,
+  "in_tok": 1357,
+  "out_tok": 2474
+ }
+}

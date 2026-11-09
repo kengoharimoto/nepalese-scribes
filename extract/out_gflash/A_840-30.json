@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgurupurohitaḥ bharatarājaśarmaṇaḥ",
+   "name": "Bharatarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "gurupurohita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "alikhitam idaṃ śrīgurupurohitaḥ bharatarājaśarmaṇaḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīgopīkṛṣṇaśarmaṇo",
+   "name": "Gopīkṛṣṇa",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "adhṛtakauśika gotra",
+   "residence": "",
+   "evidence": "adhṛtakauśikagotrāya śrīgopīkṛṣṇaśarmaṇo likhitam",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "idaṃ pustakam adhṛtakauśikagotrāya śrīgopīkṛṣṇaśarmaṇo likhitam"
+  }
+ ],
+ "date": {
+  "as_written": "śrīvikramāditya samvat 1998 sāla vau(!)śākhakṛṣṇapañcamyāṃ tithau somyavāsare",
+  "era": "VS",
+  "year": "1998",
+  "month": "Vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "pañcamī",
+  "weekday": "saumyavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1941"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The manuscript contains multiple colophons: fol. 8v9 gives the date '1998 sāma vaiśākha 13 gate roja 6 mā'; fol. 13v gives 'alikhitam idaṃ śrīgurupurohitaḥ bharatarājaśarmaṇaḥ || śrīvikramādityasamvat 1998'; fol. 14v gives the final date and states 'adhṛtakauśikagotrāya śrīgopīkṛṣṇaśarmaṇo likhitam'.",
+ "_meta": {
+  "reel": "A 840/30",
+  "model": "gemini-flash-latest",
+  "secs": 28.7,
+  "in_tok": 1105,
+  "out_tok": 4134
+ }
+}

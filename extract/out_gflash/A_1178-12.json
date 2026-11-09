@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pantopapadajayadevaśarmaṇā",
+   "name": "Jayadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "panta",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pantopapadajayadevaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "1797 || 1932 sāla jyeṣṭhakṛṣṇa 14 roja 5 ... sarvajitsaṃvare",
+  "era": "VS",
+  "year": "1932",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "14",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1875"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthañ ca",
+ "notes": "The date gives both Śaka 1797 and VS 1932 (sāla), corresponding to 1875 CE.",
+ "_meta": {
+  "reel": "A 1178/12",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 714,
+  "out_tok": 951
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhārasiṃho",
+   "name": "Bhārasiṃha",
+   "roles": [
+    "scribe",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lipikaraḥ śrībhārasiṃho bhuvi⟪ḥ⟫ || sa dānaśau(ṇḍo) dharmmātmā bhaktibhāvanayā haraḥ | iha bhāgavataṃ puṇyaṃ lekhayām āsa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 654 āṣāḍhakṛṣṇadvādaśyān tithau mṛgaśiranakṣatre dhruvayoge budhavāsare",
+  "era": "NS",
+  "year": "654",
+  "month": "Āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādaśī",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "mṛgaśira nakṣatra, dhruva yoga",
+  "ce_approx": "1534"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "bhaktibhāvanayā ... śraddhayā",
+ "notes": "Bhārasiṃha is explicitly identified as the lipikara ('lipikaraḥ śrībhārasiṃho') and simultaneously as the commissioner ('lekhayām āsa').",
+ "_meta": {
+  "reel": "B 11/3",
+  "model": "gemini-flash-latest",
+  "secs": 14.3,
+  "in_tok": 2018,
+  "out_tok": 1627
+ }
+}

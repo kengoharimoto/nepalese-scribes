@@ -1,0 +1,36 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "purpose: the raw Newari string replaced with an interpretation: the play was performed (pyākhana dayakā) when the pinnacle (gajuli) of the Mūlacuka was installed",
+   "place: Mūlacuka is where the play was performed, not a stated place of copying. as_written is kept, but normalized is left empty because Kathmandu, Patan and Bhaktapur all have a Mūlcok. Bhaktapur is only the catalogue's identification",
+   "month normalized to jyeṣṭha (written jyeṣṭa)",
+   "notes expanded: no king or other person is named; Bhūpatīndra Malla comes from the catalogue only"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvata 826 jyeṣṭavadi 5",
+  "era": "NS",
+  "year": "826",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1706"
+ },
+ "place": {
+  "as_written": "mūlacuka",
+  "normalized": ""
+ },
+ "purpose": "for the performance (pyākhana) of the play when the gajuli (pinnacle) of the Mūlacuka was installed",
+ "notes": "The colophon names no person. The catalogue's king, Bhūpatīndra Malla (r. Bhaktapur c. 1696–1722), is an inference from the date and from Bhaktapur as the place. It fits NS 826 = 1706 CE but the colophon does not state it. 'śrīśrīśrīmūlacuka' is the royal palace courtyard (Mūlcok) where the play was performed when its gajuli (pinnacle) was installed ('gajuli chāna themisa'). It is not explicitly the place of copying, and Mūlcoks exist in all three Malla palaces, so it is not certain which one is meant. The end of the colophon is uncertain: 'daya(kāyāghāva)' is probably dayakā + some form like ghāva/jula, meaning 'performed'. The era is not stated, but 826 with Newari script points to NS.",
+ "_meta": {
+  "reel": "A 351/9",
+  "model": "opus",
+  "cost_usd": 0.052546800000000005,
+  "secs": 12.4
+ }
+}

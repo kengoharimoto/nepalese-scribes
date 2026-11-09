@@ -1,0 +1,103 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: name stem changed from 'Ramāpatiśarman' to 'Ramāpati'; 'śarman' moved to titles; 'maithila' moved from affiliation to residence (Mithilā). It describes where he came from, not an institution.",
+   "p1 as_written trimmed to the name itself.",
+   "p3: added a servant_of relation to p2 ('taccaraṇakamalaikāśrayeṇa' says Harideva depended on the king). wrote_for and under_reign_of kept.",
+   "date: weekday normalized to Monday (caṃndre); ce_approx filled from the stated era (LS 755 + 1119 = 1874), with the conflict explained in notes.",
+   "purpose rephrased as 'by order of King Jagajjyotirmalla'.",
+   "notes expanded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīramāpatiśarmma",
+   "name": "Ramāpati",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "upādhyāya",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "Mithilā (maithila)",
+   "evidence": "maithilaśrīmadupādhyāyapadaprasiddha-śrīramāpatiśarmmaviracito",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mahārājādhirāja-śrīmajjagajjyotirmmalla",
+   "name": "Jagajjyotirmalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājādhirāja-śrīmajjagajjyotirmmallanideśena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīharidevena",
+   "name": "Harideva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "taccaraṇakamalaikāśrayeṇa śrīharidevena likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "śrīmajjagajjyotirmmallanideśena ... śrīharidevena likhitam idaṃ pustakaṃ"
+  },
+  {
+   "from": "p3",
+   "type": "servant_of",
+   "to": "p2",
+   "evidence": "taccaraṇakamalaikāśrayeṇa śrīharidevena"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "mahārājādhirāja-śrīmajjagajjyotirmmallanideśena"
+  }
+ ],
+ "date": {
+  "as_written": "la saṃ 755 śrāvana vadi caṃndre – daśamyā tithau",
+  "era": "LS",
+  "year": "755",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī",
+  "weekday": "Monday (caṃndre)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1874"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "by order of King Jagajjyotirmalla",
+ "notes": "Date conflict: the colophon says 'la saṃ' (Lakṣmaṇa Saṃvat), and LS 755 + 1119 gives about 1874 CE, which is impossible for King Jagajjyotirmalla of Bhaktapur (r. c. 1613–1637). Read as Nepāla Saṃvat, 755 gives 1635 CE, which falls inside his reign. The era label is probably a scribal or cataloguer slip for 'ne saṃ', or a Maithila scribe used LS wrongly. NS 755 (c. 1635) is the likely real date; ce_approx 1874 follows the era as written and should not be relied on. Harideva calls himself a dependent of the king ('taccaraṇakamalaikāśrayeṇa') and copied the book on his order ('nideśena'), so he was probably a Maithila court scribe. No place is given; Bhaktapur is likely from the king, but the colophon does not say so. Ramāpati Upādhyāya is the author of the Vṛttasāra, not a person involved in this copy.",
+ "_meta": {
+  "reel": "B 15/33",
+  "model": "opus",
+  "cost_usd": 0.6012576000000001,
+  "secs": 37.2
+ }
+}

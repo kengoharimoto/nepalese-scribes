@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 883 māghakṛṣṇatṛtīyā ravivāsara",
+  "era": "NS",
+  "year": "883",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "tṛtīyā",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1763"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "rājñe dattam",
+ "notes": "No named persons appear in the colophon. The text notes that having written it on this day, it was given to the king (likhitvā rājñe dattam).",
+ "_meta": {
+  "reel": "A 958/35",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 714,
+  "out_tok": 804
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāśīnāthadvijahastena",
+   "name": "Kāśīnātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ kāśīnāthadvijahastena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśamvat 1907 sālamiti śrāvaṇakṛṣṇapaṃcamyāṃ śomavāsare",
+  "era": "VS",
+  "year": "1907",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1850"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1215/36",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 765,
+  "out_tok": 645
+ }
+}

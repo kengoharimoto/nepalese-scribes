@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṛṣṇalālaśarmmaṇaḥ",
+   "name": "Kṛṣṇalāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ kṛṣṇalālaśarmmaṇaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśālivāhanaśāke 1805 śaisira(!) ṛtau māghamāse śuklapakṣe dvādaśyāṃ tithau bhṛguvāsare",
+  "era": "ŚS",
+  "year": "1805",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "bhṛguvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1884"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 961/54",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 911,
+  "out_tok": 876
+ }
+}

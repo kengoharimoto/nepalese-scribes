@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "date.month: 'madhi' read as Madhu (= Caitra); 'madhisita' is most likely madhu-sita, i.e. Caitra śukla. Dropped the Māgha alternative.",
+   "date.weekday: vāsare 7 read as Saturday (Śanivāra).",
+   "notes: explained the readings and the attribution to Vyāsa."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vyāsa",
+   "name": "Vyāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vyāsakṛtam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī śāke 1783 madhisita 7 vāsare 7",
+  "era": "ŚS",
+  "year": "1783",
+  "month": "Madhu (Caitra) [written madhi]",
+  "paksa": "śukla (sita)",
+  "tithi": "7",
+  "weekday": "Saturday (vāsare 7)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1861"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'madhisita' is probably a corruption of madhu-sita (Madhu = Caitra, sita = śukla). Caitra śukla 7 of ŚS 1783 falls around March/April 1861 CE. The weekday number 7 is taken as Saturday. The colophon credits the text to Vyāsa (vyāsakṛtam), although the Śivamānasapūjā is usually attributed to Śaṅkarācārya. No scribe, owner or place is named. The date matches the catalogue field (Śāke 1783).",
+ "_meta": {
+  "reel": "A 1149/10",
+  "model": "opus",
+  "cost_usd": 0.04608280000000001,
+  "secs": 9.3
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭabhīravamajīvā",
+   "name": "Bhairava",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustaka bhaṭṭabhīravamajīvā āhe",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "lekhakabhaṭṭapuraśottama",
+   "name": "Puruṣottama",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhakabhaṭṭapuraśottamalikhyate",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "idaṃ pustaka bhaṭṭabhīravamajīvā āhe || lekhakabhaṭṭapuraśottamalikhyate"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1790 rudhiranāmasaṃvatsare phālguṇaśiddhatrayodasī budhavāsare",
+  "era": "VS",
+  "year": "1790",
+  "month": "phālguṇa",
+  "paksa": "śukla",
+  "tithi": "trayodaśī",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1734"
+ },
+ "place": {
+  "as_written": "kāśīkṣetramadhye",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The Marathi verb 'āhe' indicates the ownership statement ('idaṃ pustaka ... āhe'). The name 'bhaṭṭabhīravamajīvā' likely represents Bhaṭṭa Bhairava with Marathi/vernacular honorific/case markers.",
+ "_meta": {
+  "reel": "A 465/12",
+  "model": "gemini-flash-latest",
+  "secs": 12.3,
+  "in_tok": 782,
+  "out_tok": 1700
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Primary era changed from ŚS 1818 to VS 1951. VS 1951 and NS 1015 agree with each other; ŚS 1818 does not. Under ŚS+78, ŚS 1818 would give 1896, not the 1895 the first reading recorded.",
+   "ce_approx stays 1895: Pauṣa śukla 8 of VS 1951 / NS 1015 falls in January 1895.",
+   "Notes: the era conflict is now stated in full, and the stray 'śubhm' (for śubham) is recorded."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1818 śrīsamvat 1951 śrīnepāliyasaṃvat 1015 sāla miti pauṣa śukla 8 roja",
+  "era": "VS",
+  "year": "1951",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "8",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1895"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives three eras. VS 1951 and NS 1015 agree: Pauṣa śukla 8 falls in January 1895 CE, since NS 1015 begins in Kārttika 1894 and VS 1951 in Caitra 1894. ŚS 1818 conflicts with them, because the matching Śaka year would be ŚS 1816; ŚS 1818 by itself would point to about 1896. The ŚS figure is probably a slip by the scribe or the cataloguer, so VS 1951 is taken as the primary era. Śākyasiṃha is the Buddha, the speaker of the text, not a person connected with this copy. No scribe, commissioner or place is named. The final 'śubhm' is a slip for śubham.",
+ "_meta": {
+  "reel": "B 97/3",
+  "model": "opus",
+  "cost_usd": 0.0532788,
+  "secs": 13.1
+ }
+}

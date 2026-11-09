@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dharmarājaśarmaṇaḥ",
+   "name": "Dharmarāja",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dharmarājaśarmaṇaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 1958 jyṣṭha sudi 8 roja 7",
+  "era": "VS",
+  "year": "1958",
+  "month": "jyṣṭha",
+  "paksa": "sudi",
+  "tithi": "8",
+  "weekday": "roja 7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1901"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The genitive dharmarājaśarmaṇaḥ indicates ownership or the scribe (identified as scribe by the cataloguer).",
+ "_meta": {
+  "reel": "B 390/27",
+  "model": "gemini-flash-latest",
+  "secs": 8.1,
+  "in_tok": 681,
+  "out_tok": 846
+ }
+}

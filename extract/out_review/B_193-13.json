@@ -1,0 +1,56 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Name normalized to the regnal name 'Jitāmitramalla', which is how the colophon itself refers to him (jitāmitrasya bhūpasya). 'Sumatijaya' is an epithet prefixed to the full name and is now in titles. The first reading had split it oddly ('sumati' as a title, 'Jayajitāmitramalla' as the name).",
+   "Titles revised to: sumatijaya (epithet), varman, bhūpa.",
+   "Date: weekday normalized to ādityavāra (Sunday); added the sun in Vṛṣa and the moon in Meṣa. All four eras checked and they agree on 1687 CE.",
+   "Purpose rephrased: the king copied it with his own hand as an act of devotion, offering the merit to his chosen goddess (sveṣṭadevī).",
+   "Notes expanded: era check, first colophon for the Brahmāyaṇī pīṭha, and no place stated."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumatijayajitāmitramallavarmmanā",
+   "name": "Jitāmitramalla",
+   "roles": [
+    "scribe",
+    "king"
+   ],
+   "titles": [
+    "sumatijaya",
+    "varman",
+    "bhūpa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumatijayajitāmitramallavarmmanā svakarena likhitaṃ ... jitāmitrasya bhūpasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīnepālasamvat 807 || śrīkarigatasamvat 4788 || śriśākasamvat 1609 || śrīvikramādityasamvat 1744 || vaiśākhamāse || kṛṣṇapakṣe || amāvāsyātithau || bharanīparakṛtikānakṣatre || śobhanayoge || yathākaranamuhūtake || ādityavāśale || vṛṣarāśigate savitari || mekharāśigate candramasi",
+  "era": "NS",
+  "year": "807",
+  "month": "Vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "amāvāsyā",
+  "weekday": "Sunday (ādityavāra)",
+  "nakshatra_yoga": "Bharaṇī, then Kṛttikā; Śobhana yoga; sun in Vṛṣa, moon in Meṣa",
+  "ce_approx": "1687"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "Copied with the king's own hand as devotion; merit offered to his chosen goddess (sveṣṭadevī), Māheśvarī",
+ "notes": "The copy was made by King Jitāmitramalla himself (svakarena likhitaṃ), with a closing prayer in his name (jitāmitrasya bhūpasya). He is the Bhaktapur Malla king, though the colophon names no place. All four eras agree: NS 807+880, Kali 4788−3101, ŚS 1609+78 and VS 1744−57 all give 1687 CE (Vaiśākha amāvāsyā, about May 1687). An earlier colophon at fol. 14 closes a Brahmāyaṇīpīṭhapūjāpaddhati in the same manuscript. 'karigata' stands for kaligata, 'mekha' for meṣa and 'vāśale' for vāsare. The catalogue's 'Varmma' is the varman element of the royal name, not a separate surname.",
+ "_meta": {
+  "reel": "B 193/13",
+  "model": "opus",
+  "cost_usd": 0.07073879999999999,
+  "secs": 17.5
+ }
+}

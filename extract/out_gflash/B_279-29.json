@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmiśrakālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmiśrakālidāsakṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saptāgnir munayaś candrabhaumāṣṭamyāṃ",
+  "era": "unspecified",
+  "year": "1737",
+  "month": "",
+  "paksa": "",
+  "tithi": "aṣṭamī",
+  "weekday": "bhauma",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "vārāṇasyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "Chronogram 'saptāgnir munayaś candra' yields 1737 (VS 1737 ≈ 1680 CE or ŚS 1737 ≈ 1815 CE). The scribe's name may have been lost in the lacuna preceding 'likhitaṃ'.",
+ "_meta": {
+  "reel": "B 279/29",
+  "model": "gemini-flash-latest",
+  "secs": 9.7,
+  "in_tok": 710,
+  "out_tok": 1347
+ }
+}

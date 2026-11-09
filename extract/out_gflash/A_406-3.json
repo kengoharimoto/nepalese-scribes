@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "lekhakadhaṃjunāma",
+   "name": "Dhaṃju",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "lekhaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhakadhaṃjunāma",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "sakē sa(12)mvat 1669 vaiśākhakṛṣṇa 4 roja 5",
+  "era": "ŚS",
+  "year": "1669",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "4",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1747"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The phrase niryānavanācāryamataṃ likely reflects a section title / tradition (Yavanācāryamata).",
+ "_meta": {
+  "reel": "A 406/3",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 706,
+  "out_tok": 850
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "hemarājaguros",
+   "name": "Hemarāja",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [
+    "rājaguru",
+    "guru"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "hemarājaguros tuṣṭyai",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhālacandro",
+   "name": "Bhālacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhālacandro vyalīlikhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "hemarājaguros tuṣṭyai bhālacandro vyalīlikhat"
+  }
+ ],
+ "date": {
+  "as_written": "bāṇākṣigajabhūśāke rākṣasābde śvine site || bhaumavāre pratipadi",
+  "era": "ŚS",
+  "year": "1825",
+  "month": "Āśvina",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1903"
+ },
+ "place": {
+  "as_written": "śleṣamāṃtaka vane",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "hemarājaguros tuṣṭyai",
+ "notes": "Chronogram: bāṇa (5) - akṣi (2) - gaja (8) - bhū (1) = Śāke 1825. Śleṣmāntakavana is the forest surrounding the Paśupatinātha temple in Kathmandu.",
+ "_meta": {
+  "reel": "B 362/26",
+  "model": "gemini-flash-latest",
+  "secs": 8.6,
+  "in_tok": 768,
+  "out_tok": 1138
+ }
+}

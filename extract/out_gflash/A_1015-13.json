@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīhaladharavipreṇa",
+   "name": "Haladhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ śrīhaladharavipreṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1009 bhādra śudi13 roja 7",
+  "era": "NS",
+  "year": "1009",
+  "month": "bhādra",
+  "paksa": "śudi",
+  "tithi": "13",
+  "weekday": "roja 7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1889"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1015/13",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 756,
+  "out_tok": 722
+ }
+}

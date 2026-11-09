@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "harikṛṣṇaśarmaṇ〈〈o〉〉ā",
+   "name": "Harikṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "kāṣṭhamaṇḍapavāstavyaṃ",
+   "evidence": "likhitaṃ harikṛṣṇaśarmaṇ〈〈o〉〉ā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1875 śāke 1740 miti jyeṣṭaśudi 7 roja 5",
+  "era": "VS",
+  "year": "1875",
+  "month": "jyeṣṭa",
+  "paksa": "śudi",
+  "tithi": "7",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1818"
+ },
+ "place": {
+  "as_written": "kāṣṭhamaṇḍapavāstavyaṃ",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "Both Vikrama Saṃvat (1875) and Śaka Era (1740) are recorded.",
+ "_meta": {
+  "reel": "A 911/19",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 787,
+  "out_tok": 891
+ }
+}

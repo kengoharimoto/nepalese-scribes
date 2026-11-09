@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jagadānanda",
+   "name": "Jagadānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījagadānandaviracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrī 3 paradevatāpritiprabhu",
+ "notes": "",
+ "_meta": {
+  "reel": "A 980/62 (7)",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 767,
+  "out_tok": 788
+ }
+}

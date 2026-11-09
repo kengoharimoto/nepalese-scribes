@@ -1,0 +1,98 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paṇḍitācāryaśrīdharmadāsa",
+   "name": "Dharmadāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paṇḍitācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṇḍitācāryaśrīdharmadāsaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīluntabhadrena(!)",
+   "name": "Luntabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Kīrttipuṇyamahāvihāra",
+   "residence": "Kāṣṭhamaṇḍapa",
+   "evidence": "likhitam idaṃ śrīkāṣṭhamaṇḍape kīrttipuṇyamahāvihāra(!) śrīluntabhadrena(!)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "amātyaśrījaya(!)bramasya",
+   "name": "Jayabrama",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "amātya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "amātyaśrījaya(!)bramasya pusṭākaṃ(!)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīśrī jayasthitimallasya",
+   "name": "Jayasthitimalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrī jayasthitimallasya vi[ja]yarāje(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "likhitam idaṃ ... śrīluntabhadrena(!) | amātyaśrījaya(!)bramasya pusṭākaṃ(!)"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p4",
+   "evidence": "śrīśrī jayasthitimallasya vi[ja]yarāje(!)"
+  }
+ ],
+ "date": {
+  "as_written": "saṃ 501 poṣa śukla patipadyāyāṃ(!)",
+  "era": "NS",
+  "year": "501",
+  "month": "poṣa",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1380"
+ },
+ "place": {
+  "as_written": "śrīkāṣṭhamaṇḍape kīrttipuṇyamahāvihāra(!)",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 16/11",
+  "model": "gemini-flash-latest",
+  "secs": 13.7,
+  "in_tok": 798,
+  "out_tok": 1989
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsighavila gubhājuna",
+   "name": "Sighavila",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "varjācārya",
+    "gubhāju"
+   ],
+   "affiliation": "Viṣṇuche bāhāra",
+   "residence": "Paradṛte",
+   "evidence": "rikhita śrī 3 paradṛteyā śrī 3 viṣṇuchebāhārayā varjācāryya śrīsighavila gubhājuna",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dhijaviranaṃ",
+   "name": "Dhijavira",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Themi deśa, Thvavu tola",
+   "evidence": "themiddeśayā thvavu torayā dhijaviranaṃ thva puṣṭaka cokāo kayādina jura",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "rikhita śrī 3 paradṛteyā śrī 3 viṣṇuchebāhārayā varjācāryya śrīsighavila gubhājuna, themiddeśayā thvavu torayā dhijaviranaṃ thva puṣṭaka cokāo kayādina jura"
+  }
+ ],
+ "date": {
+  "as_written": "savata 979 mti vaiśrākha śudi roja 3",
+  "era": "NS",
+  "year": "979",
+  "month": "vaiśrākha",
+  "paksa": "śudi",
+  "tithi": "",
+  "weekday": "roja 3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1859"
+ },
+ "place": {
+  "as_written": "themiddeśayā thvavu torayā",
+  "normalized": "Thimi"
+ },
+ "purpose": "",
+ "notes": "Scribe is a Vajrācārya (Gubhāju) of Viṣṇuche(ṃ) Bāhāra in Paradṛte (perhaps Palānchok or a locality name). The patron who had it copied ('cokāo kayā') is Dhijavira of Thvavutola in Thimi.",
+ "_meta": {
+  "reel": "A 1020/5",
+  "model": "gemini-flash-latest",
+  "secs": 10.9,
+  "in_tok": 1485,
+  "out_tok": 1576
+ }
+}

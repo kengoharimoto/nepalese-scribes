@@ -1,0 +1,76 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Notes now say that the catalogue date (~1569 AD) does not match the stated conversion rule (LS 429 + 1119 = 1548). ce_approx stays 1548.",
+   "Residence changed to '...pura (village)'. The colophon says '...puragrāmīyai[ḥ]', meaning 'residents of the village ...pura'; the beginning of the name is lost.",
+   "Notes now say that 'puragrāmīya' gives where the scribes lived, which is not necessarily where the copy was made.",
+   "Notes now say that 'Brāhmaṇa' might be a caste word rather than a name. It is kept as a name because it has its own 'śrī'."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīrāma",
+   "name": "Rāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "...pura (village)",
+   "evidence": "śrīśrīrāmaśrībrāhmaṇaśrībhīmair likhi(taṃ)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrībrāhmaṇa",
+   "name": "Brāhmaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "...pura (village)",
+   "evidence": "śrībrāhmaṇaśrībhīmair likhi(taṃ)",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrībhīmair",
+   "name": "Bhīma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "...pura (village)",
+   "evidence": "śrībhīmair likhi(taṃ)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "la saṃ 429 caitrakṛṣṇaṣaṣṭhyāṃ",
+  "era": "LS",
+  "year": "429",
+  "month": "Caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "6",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1548"
+ },
+ "place": {
+  "as_written": "... puragrāmīyai",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The three co-scribes are named together in one compound: śrīśrīrāmaśrībrāhmaṇaśrībhīmair likhitaṃ. Each name has its own śrī. That supports reading 'Brāhmaṇa' as a personal name, as the cataloguer does, but it could be a caste word. The text before 'puragrāmīyai[ḥ]' is lost (lacuna), so the village name is incomplete. The word describes where the scribes lived and may not be the place of copying. Date: LS 429 + 1119 gives about 1548 CE. The catalogue's '~1569 AD' does not match that rule; it is probably a miscalculation in the catalogue.",
+ "_meta": {
+  "reel": "B 5/4",
+  "model": "opus",
+  "cost_usd": 0.5669856,
+  "secs": 25.7
+ }
+}

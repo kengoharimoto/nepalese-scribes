@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭakeśava",
+   "name": "Keśavabhaṭṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "Varanasi",
+   "evidence": "bhaṭṭakeśavaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nārāyaṇabhaṭṭa",
+   "name": "Nārāyaṇabhaṭṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nārāyaṇabhaṭṭātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "nārāyaṇabhaṭṭātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "śākebhūnigameṣu bhūparimite yā ṣāṣmāse site pakṣe saumyadine tithau vasumite",
+  "era": "ŚS",
+  "year": "1541",
+  "month": "yā ṣāṣmāse",
+  "paksa": "śukla",
+  "tithi": "8",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1619"
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Varanasi"
+ },
+ "purpose": "sādhumude",
+ "notes": "The date and place recorded are for the composition of the work by the author Keśava in Kāśī (chronogram: bhū-nigama-iṣu-bhū = 1541 Śāke). Month reading 'yā ṣāṣmāse' is corrupt (possibly for āṣāḍhamāse).",
+ "_meta": {
+  "reel": "A 447/25",
+  "model": "gemini-flash-latest",
+  "secs": 10.8,
+  "in_tok": 839,
+  "out_tok": 2013
+ }
+}

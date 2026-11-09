@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnāgārjunapādānāṃ",
+   "name": "Nāgārjuna",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "pāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtir iyaṃ śrīnāgārjunapādānāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "abhayaguptasya",
+   "name": "Abhayagupta",
+   "roles": [
+    "owner",
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "abhayaguptasya pustako ⌠ʼ⌡yam tena likhitam iti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 286 dvikeya? kṛṣṇapañcamyāṃ",
+  "era": "NS",
+  "year": "286",
+  "month": "dvikeya?",
+  "paksa": "kṛṣṇa",
+  "tithi": "pañcamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1166"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "tena puṇyena śubham astu sarvvajagatām",
+ "notes": "Month reading 'dvikeya?' is marked doubtful by the cataloguer.",
+ "_meta": {
+  "reel": "B 23/10 (2)",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 764,
+  "out_tok": 847
+ }
+}

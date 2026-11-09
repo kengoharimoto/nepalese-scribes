@@ -1,0 +1,82 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Persons, roles, date and era kept as in the first reading; the chronogram checks out: guṇa=3, vila (bila)=9, urvībhṛt=7, read right to left = NS 793.",
+   "Weekday normalised to Wednesday (budhavāsara).",
+   "Notes expanded: the astronomy fits, the ownership vs. svārtha question, why the catalogue date is wrong, and the reading of 'balena dharaṇīdevena'."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭarudraṭasya",
+   "name": "Rudraṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śāstraṃ kṛti (!) bhaṭṭarudraṭasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmanoharopādhyāyasya",
+   "name": "Manohara",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanoharopādhyāyasya pustakaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrībalabhadraśarmmanā",
+   "name": "Balabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman",
+    "dharaṇīdeva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śrībalabhadraśarmmanā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepāle varahāyane guṇavilorvvībhṛdbhir udyodite, māghe māsi site maheśvaratithau puṣyarkṣasaṃśobhite, | āyuṣmad budhavāsare makarage bhānau vidhau karkkaṭe",
+  "era": "NS",
+  "year": "793",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "caturdaśī (maheśvaratithi)",
+  "weekday": "Wednesday (budhavāsara)",
+  "nakshatra_yoga": "Puṣya nakṣatra; āyuṣmat yoga; sun in Makara, moon in Karkaṭa",
+  "ce_approx": "1673"
+ },
+ "place": {
+  "as_written": "nepāle",
+  "normalized": ""
+ },
+ "purpose": "svārthahetunā (the book is said to belong to Manohara Upādhyāya)",
+ "notes": "The chronogram 'guṇa (3) - vila/bila (9) - urvībhṛt (7)' read right to left gives Nepāla saṃvat 793. Māgha śukla of NS 793 falls in early 1673 CE. The astronomy fits: with the sun in Makara and the moon in Karkaṭa (Puṣya), the moon is close to full, which matches the bright fortnight near caturdaśī. 'Maheśvaratithi' most likely means caturdaśī (Śiva's tithi), though aṣṭamī cannot be fully ruled out. The catalogue date 'SAM 1693?' does not match: VS 1693 would be about 1636 CE. It is probably a misreading of the chronogram. 'balena dharaṇīdevena' means 'by Bala, the brāhmaṇa (dharaṇīdeva)'. This is the same scribe as Balabhadraśarman, named later in the colophon. The colophon calls the book Manohara Upādhyāya's, but also says the scribe copied it 'svārthahetunā' (for his own purpose). These pull in different directions: Balabhadra may have copied it for his own use while the book belonged to, or later passed to, Manohara. Balabhadra is therefore not marked as owner. 'Nepāle' marks the era (Nepāla saṃvat) and only loosely the region, so it is not given a normalized place.",
+ "_meta": {
+  "reel": "B 305/4",
+  "model": "opus",
+  "cost_usd": 0.0780388,
+  "secs": 21.1
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "///nalasiṃhammaladevasya(!)",
+   "name": "Siddhinarasiṃhamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "śrīnepālamaṇḍala",
+   "evidence": "śrīrājādhirājaparamyeśvara(!)parama bhaṭ///nalasiṃhammaladevasya(!) vijayarāje(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "sambat 759 jestamāsya(!) kṛṣṇapakṣa(!) amāvāsi pratyā du kuhnu || mṛgaśiranakṣatre || /// joge bṛhaspativāsale(!)",
+  "era": "NS",
+  "year": "759",
+  "month": "Jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "amāvāsī",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "Mṛgaśiras (nakṣatra)",
+  "ce_approx": "1639"
+ },
+ "place": {
+  "as_written": "śrīnepālamaṇḍale || śrīpaścamahāvihārasya",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The king's name is partially lost in a lacuna (bhaṭ///nalasiṃhammaladevasya), matching Siddhinarasiṃha Malla of Patan (r. 1620–1661 CE), consistent with NS 759 (1639 CE). The colophon also mentions a vihāra: śrīpaścamahāvihāra.",
+ "_meta": {
+  "reel": "A 127/12",
+  "model": "gemini-flash-latest",
+  "secs": 9.3,
+  "in_tok": 892,
+  "out_tok": 1342
+ }
+}

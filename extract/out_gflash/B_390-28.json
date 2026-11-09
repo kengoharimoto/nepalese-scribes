@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "cirañjīviśarmaṇā",
+   "name": "Cirañjīvi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ cirañjīviśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The sequence '46| 312 |13 |13' is not an identifiable calendar date (likely verse, grantha, or letter counts).",
+ "_meta": {
+  "reel": "B 390/28",
+  "model": "gemini-flash-latest",
+  "secs": 10.7,
+  "in_tok": 678,
+  "out_tok": 1329
+ }
+}

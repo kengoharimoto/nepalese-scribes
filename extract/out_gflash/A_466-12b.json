@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kusumavala",
+   "name": "Kusumavala",
+   "roles": [
+    "scribe",
+    "donor"
+   ],
+   "titles": [
+    "ṭhākura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhita[[śrī]] kusumavala svahastena thākurasya śrī 3 svasthāni sarmapitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrī 3 svasthāni sarmapitaṃ",
+ "notes": "The phrasing 'kusumavala svahastena thākurasya' indicates Kusumavala Ṭhākura wrote the manuscript with his own hand and dedicated it to Śrī Svasthānī.",
+ "_meta": {
+  "reel": "A 466/12b",
+  "model": "gemini-flash-latest",
+  "secs": 32.9,
+  "in_tok": 722,
+  "out_tok": 4902
+ }
+}

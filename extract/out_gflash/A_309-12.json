@@ -1,0 +1,77 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "tejadattena",
+   "name": "Tejadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tejadattena likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīnīlakaṃṭha",
+   "name": "Nīlakaṇṭha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "caturdhara",
+   "residence": "",
+   "evidence": "śrīnīlakaṃṭha viracite bhāratabhāvadīpe",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīgoviṃdasūri",
+   "name": "Govindasūri",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "caturdhara",
+   "residence": "",
+   "evidence": "śrīgoviṃdasūri sūnu",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "śrīgoviṃdasūri sūnu śrīnīlakaṃṭha"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsamvat 1912 sālamiti āśvinaśukla 11 ravivāsare",
+  "era": "VS",
+  "year": "1912",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1855"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records the era as ŚS 1912, but 'śrīsamvat 1912 sāl' designates Vikrama Saṃvat (1912 VS = 1855 CE); Śaka 1912 would correspond to 1990 CE, which is chronologically implausible for this manuscript.",
+ "_meta": {
+  "reel": "A 309/12",
+  "model": "gemini-flash-latest",
+  "secs": 10.8,
+  "in_tok": 909,
+  "out_tok": 1693
+ }
+}

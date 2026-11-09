@@ -1,0 +1,117 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mādhava",
+   "name": "Mādhava",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mādhavaviracito",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīyakṣamallo",
+   "name": "Yakṣamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpa"
+   ],
+   "affiliation": "Raghuvaṃśa (śrīraghuvaṅgapaṅjaraviḥ)",
+   "residence": "",
+   "evidence": "śrīyakṣamallo nṛpaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīrāyamallena",
+   "name": "Rāyamalla",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "putreśaiva sahānujena sahitaḥ śrīrāyamallena vai",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "ggayapateś",
+   "name": "Gayapati",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "guru"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "guror ggayapateś caraṇāravindaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śubharāja",
+   "name": "Śubharāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Bhaktapur",
+   "evidence": "bahktāpure nivasitaḥ śubharāja dhīro ... lilekha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "putreśaiva sahānujena sahitaḥ śrīrāyamallena vai"
+  },
+  {
+   "from": "p5",
+   "type": "pupil_of",
+   "to": "p4",
+   "evidence": "natvā guror ggayapateś caraṇāravindaṃ"
+  },
+  {
+   "from": "p5",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "śrīyakṣamallo nṛpaḥ ... saṃrājate ʼharniṣaṃ || bahktāpure nivasitaḥ śubharāja dhīro ... lilekha"
+  }
+ ],
+ "date": {
+  "as_written": "samvadyuge vasau vāṇe pañcamyāñ ca madhau śite",
+  "era": "NS",
+  "year": "584",
+  "month": "madhu",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1464"
+ },
+ "place": {
+  "as_written": "bahktāpure",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "Chronogram yuga (4), vasu (8), bāṇa (5) yields NS 584. Madhu corresponds to Caitra.",
+ "_meta": {
+  "reel": "A 992/5",
+  "model": "gemini-flash-latest",
+  "secs": 15.3,
+  "in_tok": 888,
+  "out_tok": 2044
+ }
+}

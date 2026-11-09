@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī-acalanāthasya",
+   "name": "Acalanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī-acalanāthasya kṛtir iyaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 566 phālguṇamāse",
+  "era": "NS",
+  "year": "566",
+  "month": "phālguṇa",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1446"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "sattvārthahetunā",
+ "notes": "",
+ "_meta": {
+  "reel": "A 936/11 (4)",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 701,
+  "out_tok": 655
+ }
+}

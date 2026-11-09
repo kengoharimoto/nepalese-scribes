@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmacaṃdrācārya",
+   "name": "Rāmacandra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadrāmacaṃdrācāryaviracitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1699 varṣe māsi pauṣe vāsare śani",
+  "era": "VS",
+  "year": "1699",
+  "month": "pauṣa",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "śani",
+  "nakshatra_yoga": "",
+  "ce_approx": "1642"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is given simply as 'saṃvat 1699', which corresponds to the Vikrama Era (VS 1699 ≈ 1642/1643 CE).",
+ "_meta": {
+  "reel": "A 587/7",
+  "model": "gemini-flash-latest",
+  "secs": 11.0,
+  "in_tok": 711,
+  "out_tok": 1381
+ }
+}

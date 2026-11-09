@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkavikairavenduśrījāṣarāja",
+   "name": "Jāṣarāja",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavikairavendu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkavikairavenduśrījāṣarājaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvakjrācārya hṛdayānandena",
+   "name": "Hṛdayānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvakjrācārya hṛdayānandena liṣita",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 891 śrāvan śuddhi tṛyā(!) (‥ ‥ ‥) nakṣetra(!) taddine",
+  "era": "NS",
+  "year": "891",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1771"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "vakjrācārya is a corrupt spelling of vajrācārya; liṣitam for likhitam; tṛyā for tṛtīyā.",
+ "_meta": {
+  "reel": "A 1327/7",
+  "model": "gemini-flash-latest",
+  "secs": 7.7,
+  "in_tok": 827,
+  "out_tok": 1171
+ }
+}

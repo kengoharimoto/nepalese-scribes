@@ -1,0 +1,249 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "surendravikramasāha",
+   "name": "Surendravikramasāha",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "nepāleśvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahārājādhirājaḥ, śrī 3 surendravikramasāha samarajaṅ, mahāsamaravijayīvijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhājuvīra",
+   "name": "Bhājuvīra",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "bhāskaradevasaskarita ke[śa]vacandrakṛtapārāvatamahāvihāra",
+   "residence": "kāntipuramahānagare āockacchenāmāgṛha",
+   "evidence": "dānapatinepāladeśe kāntipuramahānagare, bhāskaradevasaskarita ke[śa]vacandrakṛtapārāvatamahāvihāramāricidevyā caraṇasevaka āockacchenāmāgṛhavāsita śākyabhikṣu bhājuvīra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "candravīra",
+   "name": "Candravīra",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "bhāskaradevasaskarita ke[śa]vacandrakṛtapārāvatamahāvihāra",
+   "residence": "kāntipuramahānagare āockacchenāmāgṛha",
+   "evidence": "śākyabhikṣu bhājuvīrabhrātṛcandravīra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "ratnamati",
+   "name": "Ratnamati",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhājuvīrkasya bhāryāṃ ratnamati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "harṣavīra",
+   "name": "Harṣavīra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasya prathamaputra harṣavīra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "lakṣmivīra",
+   "name": "Lakṣmīvīra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dūtiyaputra lakṣmivīra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "śukhabhāja",
+   "name": "Sukhabhāja",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tṛtiyaputra śukhabhāja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p8",
+   "as_written": "mayajumati",
+   "name": "Mayajumati",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "candravīrkasya bhāryyā, mayajumati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p9",
+   "as_written": "tadhidhana",
+   "name": "Tadhidhana",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasya putra tadhidhana",
+   "confidence": "high"
+  },
+  {
+   "pid": "p10",
+   "as_written": "jñānamati",
+   "name": "Jñānamati",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmātā jñānamati māmayāta bhīmaratha sathasyaṃ karmakhanakāo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p11",
+   "as_written": "śrītejadattena",
+   "name": "Tejadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "śrīmānadevasaskārita cakramahāvihāra",
+   "residence": "lalitāpuramahānagare",
+   "evidence": "likhitaṃ lalitāpuramahānagare śrīmānadevasaskārita cakramahāvihārāvasthitavajrācāryya śrītejadattena saṃpūrṇṇa likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "brother_of",
+   "to": "p2",
+   "evidence": "śākyabhikṣu bhājuvīrabhrātṛcandravīra"
+  },
+  {
+   "from": "p4",
+   "type": "wife_of",
+   "to": "p2",
+   "evidence": "bhājuvīrkasya bhāryāṃ ratnamati"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "bhājuvīrkasya bhāryāṃ ratnamati tasya prathamaputra harṣavīra"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "dūtiyaputra lakṣmivīra"
+  },
+  {
+   "from": "p7",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "tṛtiyaputra śukhabhāja"
+  },
+  {
+   "from": "p8",
+   "type": "wife_of",
+   "to": "p3",
+   "evidence": "candravīrkasya bhāryyā, mayajumati"
+  },
+  {
+   "from": "p9",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "candravīrkasya bhāryyā, mayajumati tasya putra tadhidhana"
+  },
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p10",
+   "evidence": "śrīmātā jñānamati"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p10",
+   "evidence": "śrīmātā jñānamati"
+  },
+  {
+   "from": "p11",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "dānapatinepāladeśe kāntipuramahānagare ... śākyabhikṣu bhājuvīra ... likhitaṃ ... śrītejadattena"
+  },
+  {
+   "from": "p11",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrī 3 surendravikramasāha samarajaṅ, mahāsamaravijayīvijayarājye"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 972 miti māghamāse śuklapakṣe daśamyāṃ tithau kirttikāprarohinīnakṣatre, śaniścaravasare",
+  "era": "NS",
+  "year": "972",
+  "month": "māghamāsa",
+  "paksa": "śuklapakṣa",
+  "tithi": "daśamī",
+  "weekday": "śaniścaravāsara",
+  "nakshatra_yoga": "kṛttikā / rohiṇī",
+  "ce_approx": "1852"
+ },
+ "place": {
+  "as_written": "lalitāpuramahānagare śrīmānadevasaskārita cakramahāvihāra",
+  "normalized": "Patan"
+ },
+ "purpose": "bhīmaratha celebration of mother Jñānamati (śrīmātā jñānamati māmayāta bhīmaratha sathasyaṃ karmakhanakāo jātrāyāṅā dina julo)",
+ "notes": "Commissioned by the family of Bhājuvīra and Candravīra of Itum Bahal (Keśavacandra Mahāvihāra, Kathmandu) on the occasion of the Bhīmaratha ceremony of their mother Jñānamati, and copied in Patan (Cakra Mahāvihāra) by Vajrācārya Tejadatta.",
+ "_meta": {
+  "reel": "A 110/3",
+  "model": "gemini-flash-latest",
+  "secs": 16.6,
+  "in_tok": 1449,
+  "out_tok": 3118
+ }
+}

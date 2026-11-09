@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "janārdana. gaḍabole",
+   "name": "Janārdana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "gaḍabole"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ janārdana. gaḍabole",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1882 | cai. dya 7 guruḥ",
+  "era": "VS",
+  "year": "1882",
+  "month": "Caitra",
+  "paksa": "vadya",
+  "tithi": "7",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1825"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe bears the Maharashtrian surname Gaḍabole (Gadbole). The colophon ends with devotional invocations and a Marathi line: 'sadguṇavācā janma harī to mukti karī to'.",
+ "_meta": {
+  "reel": "A 467/34",
+  "model": "gemini-flash-latest",
+  "secs": 9.9,
+  "in_tok": 722,
+  "out_tok": 1313
+ }
+}

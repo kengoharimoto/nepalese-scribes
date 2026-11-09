@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1910 sāla miti kārtika vadi",
+  "era": "VS",
+  "year": "1910",
+  "month": "kārtika",
+  "paksa": "vadi",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1853"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date breaks off after 'vadi'; no day/tithi is recorded in the colophon citation.",
+ "_meta": {
+  "reel": "B 114/7",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 664,
+  "out_tok": 420
+ }
+}

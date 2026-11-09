@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīlakṣmīrājena",
+   "name": "Lakṣmīrāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīlakṣmīrājena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 832 caitra kṛṣṇa saptamībudhavāsare",
+  "era": "NS",
+  "year": "832",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "saptamī",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1712"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīkṛṣṇaprītir astu",
+ "notes": "",
+ "_meta": {
+  "reel": "A 285/3",
+  "model": "gemini-flash-latest",
+  "secs": 4.7,
+  "in_tok": 923,
+  "out_tok": 858
+ }
+}

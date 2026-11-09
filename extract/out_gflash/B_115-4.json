@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhūdevo ... gaṇapatir",
+   "name": "Gaṇapati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhūdeva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhūdevo likhati sma tāṃ gaṇapatir",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "yāte bde śrutidantighoṭakamite māse 'site phālguṇe, govindasya tithau di[[ne]] śaśadhare ... saṃ 784",
+  "era": "NS",
+  "year": "784",
+  "month": "Phālguna",
+  "paksa": "kṛṣṇa",
+  "tithi": "govindatithi",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1664"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records the scribe as Bhūdeva. In the metrical verse 'bhūdevo likhati sma tāṃ gaṇapatir ggovindasevārataḥ', bhūdeva ('brāhmaṇa') is an epithet/caste title in apposition to the scribe's personal name Gaṇapati.",
+ "_meta": {
+  "reel": "B 115/4",
+  "model": "gemini-flash-latest",
+  "secs": 39.3,
+  "in_tok": 1191,
+  "out_tok": 4465
+ }
+}

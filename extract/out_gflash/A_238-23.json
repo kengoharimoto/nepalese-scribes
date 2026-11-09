@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The excerpt contains only section/chapter colophons (iti dakṣiṇakālīpaṭalaḥ samāpta... iti vīrasādhanā) and procedural text with impersonal 'likhyate'; no scribal or historical person or date is mentioned.",
+ "_meta": {
+  "reel": "A 238/23",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 898,
+  "out_tok": 687
+ }
+}

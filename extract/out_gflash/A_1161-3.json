@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat a pta pta aśvinakṛṣṇapañcamyāṃ",
+  "era": "NS",
+  "year": "144",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "pañcamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1024"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date is expressed in akṣara numerals: a (= 100) pta (= 4) pta (= 4), yielding NS 144 (~1024 CE). No individual person (scribe or commissioner) is named in the colophon.",
+ "_meta": {
+  "reel": "A 1161/3",
+  "model": "gemini-flash-latest",
+  "secs": 6.2,
+  "in_tok": 691,
+  "out_tok": 757
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kavirāmabhadra-",
+   "name": "Rāmabhadra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "dvijakula",
+   "residence": "",
+   "evidence": "kavirāmabhadrakṛtaṃ kaviprītidaṃ praśastiratnākhyaṃ kāvyaṃ samāptim agamat",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": ".. .. karopādhyāya",
+   "name": "..kara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "dvijakula",
+   "residence": "",
+   "evidence": ".. .. karopādhyāyasute",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": ".. .. karopādhyāyasute"
+  }
+ ],
+ "date": {
+  "as_written": "śake dharaṇikhāgabhūparimite 1701 śucau māsi bhe samīraṇasure site haritithijyavārānvite",
+  "era": "ŚS",
+  "year": "1701",
+  "month": "śuci",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "samīraṇasura",
+  "ce_approx": "1779"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date verse (dharaṇi=1, kha=0, aga=7, bhū=1 = Śāke 1701, Āṣāḍha śukla ekādaśī, Thursday) marks the completion of the composition (kāvyaṃ samāptim agamat) by Kavirāmabhadra. The father's name is partially lost in lacuna (.. .. karopādhyāya).",
+ "_meta": {
+  "reel": "C 27/12",
+  "model": "gemini-flash-latest",
+  "secs": 12.3,
+  "in_tok": 791,
+  "out_tok": 1819
+ }
+}

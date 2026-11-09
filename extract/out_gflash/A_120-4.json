@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācāryya śrīvīrada⟨r⟩tta deva ju",
+   "name": "Vīradattadeva",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Śrī 3 Mānadevasaṃskārita (vihāra)",
+   "residence": "",
+   "evidence": "vajrācāryya śrīvīrada⟨r⟩tta deva ju(2)thavata dayakā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 920 kārttika kṛṣṇa 6 puṣyanakṣatra, svamavāra",
+  "era": "NS",
+  "year": "920",
+  "month": "kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "6",
+  "weekday": "svamavāra",
+  "nakshatra_yoga": "puṣyanakṣatra",
+  "ce_approx": "1800"
+ },
+ "place": {
+  "as_written": "śrī 3 māna devasaskārita",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Mānadevasaṃskārita refers to the Mānadeva-saṃskārita Buddhist vihāra to which Vajrācārya Vīradattadeva belonged; 'dayakā juro' indicates he had the manuscript copied/prepared.",
+ "_meta": {
+  "reel": "A 120/4",
+  "model": "gemini-flash-latest",
+  "secs": 14.2,
+  "in_tok": 1825,
+  "out_tok": 1962
+ }
+}

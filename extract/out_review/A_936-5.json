@@ -1,0 +1,62 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 as_written changed from 'riratna' to the full transmitted form '(pātu ha)riratna', keeping the cataloguer's bracketed restoration",
+   "purpose rewritten from the bare Sanskrit word to a short English gloss",
+   "notes expanded: what the bracketed syllables are, the possible title after the name, and why the scribe role is only medium confidence"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "āryadevapādānām",
+   "name": "Āryadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtir iyaṃ āryadevapādānām",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "(pātu ha)riratna",
+   "name": "Hariratna",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "(pātu ha)riratna .iṇḍa .. .. likhit.",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for his own and others' benefit (svaparārthahetunā)",
+ "notes": "The colophon is damaged. The syllables 'pātu ha' are the cataloguer's bracketed (uncertain or restored) reading, so the name Hariratna depends partly on that restoration. The 'pātu' part is probably a blessing formula, not part of the name. '.iṇḍa ..' after the name may be a title such as piṇḍapātika (a Buddhist monastic title) or part of a phrase, but it cannot be read safely. The scribe role comes from the damaged word 'likhit.' (probably likhitam). There is no date, place or commissioner.",
+ "_meta": {
+  "reel": "A 936/5",
+  "model": "opus",
+  "cost_usd": 0.049146800000000004,
+  "secs": 11.0
+ }
+}

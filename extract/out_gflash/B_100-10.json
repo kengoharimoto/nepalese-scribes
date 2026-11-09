@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Textual/chapter colophon only; Aśoka and Upagupta mentioned as narrative interlocutors (aśokopaguptabhāṣitāyām).",
+ "_meta": {
+  "reel": "B 100/10",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 684,
+  "out_tok": 519
+ }
+}

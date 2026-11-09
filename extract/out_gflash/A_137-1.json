@@ -1,0 +1,70 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sarvānandraneti",
+   "name": "Sarvānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Tetavāhāra",
+   "residence": "",
+   "evidence": "likhita tetavāhārayā śrīvajrācārya, sarvānandraneti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rājamānasiṃha",
+   "name": "Rājamānasiṃha",
+   "roles": [
+    "donor",
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "dānapati",
+    "jajomāna",
+    "śākyabhikṣu"
+   ],
+   "affiliation": "Kṛrttipunyavajradhātucaityamahāvihāra",
+   "residence": "Kāstapamaṇḍala, Nyapāramaṇḍala",
+   "evidence": "dānapati jajomāna nyapāramaṇḍale kāstapamaṇḍale kṛrttipunyavajradhātucaityamahāvihārayā śākyabhikṣu rājamānasiṃha jajomānayā ... thugurī puṣṭaka thao nitye 2 svādhyārtha yāyasta dayakāo tayā jura",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "likhita tetavāhārayā śrīvajrācārya, sarvānandraneti ... dānapati jajomāna ... rājamānasiṃha"
+  }
+ ],
+ "date": {
+  "as_written": "saṃmvat 982 mti paukhamāsa śukra 2 sa",
+  "era": "NS",
+  "year": "982",
+  "month": "paukha",
+  "paksa": "śukla",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1862"
+ },
+ "place": {
+  "as_written": "kāstapamaṇḍale",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "thao nitye 2 svādhyārtha yāyasta (for his own daily recitation/study)",
+ "notes": "The commissioner Rājamānasiṃha, a Śākyabhikṣu from Kīrtipuṇyavajradhātucaityamahāvihāra in Kathmandu, commissioned the manuscript for daily recitation while staying in Lhasa (Hlāsadeśa) engaged in trade. The scribe Sarvānanda Vajrācārya belongs to Te Bahal (Tetavāhāra) in Kathmandu.",
+ "_meta": {
+  "reel": "A 137/1",
+  "model": "gemini-flash-latest",
+  "secs": 25.9,
+  "in_tok": 1072,
+  "out_tok": 2290
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivarāmeṇa",
+   "name": "Śivarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śivarāmeṇa likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1809 vaiśākha va 13 . budhe",
+  "era": "VS",
+  "year": "1809",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1752"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "parārthaṃ svārthaṃ ca",
+ "notes": "The meaning or function of 'vāde' preceding 'śivarāmeṇa' is unclear; it may represent an abbreviation, surname, or scribal error.",
+ "_meta": {
+  "reel": "A 465/41",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 778,
+  "out_tok": 916
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Commentator identified: '(dhū)reśvaviracitāyāṃ' is a corruption of 'dhāreśvaraviracitāyāṃ'. Dhāreśvara ('lord of Dhārā') is the usual epithet of Bhoja, whose Yogasūtra commentary is the Rājamārtaṇḍa (a pātañjalayogaśāstravṛtti). Name changed from 'Dhūreśva' to 'Bhojadeva' and confidence raised to medium.",
+   "Weekday: 'roja 5' now glossed as Thursday.",
+   "Notes expanded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "(dhū)reśva",
+   "name": "Bhojadeva",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Dhārā",
+   "evidence": "(dhū)reśvaviracitāyāṃ pātañjalayogaśāstravṛttau",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1920 ... miti mārga śudi 7 roja 5",
+  "era": "VS",
+  "year": "1920",
+  "month": "mārga",
+  "paksa": "śudi",
+  "tithi": "7",
+  "weekday": "roja 5 (Thursday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1863"
+ },
+ "place": {
+  "as_written": "vanārasa",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The cataloguer's '(dhū)reśva' is almost certainly a mistake for 'dhāreśvara', the epithet of King Bhoja of Dhārā, author of the Rājamārtaṇḍa commentary on the Yogasūtra. He appears only as commentator, not as a person connected with this copy. No scribe, commissioner or owner is named. 'likhā vanārasa mai' is Hindi/Nepali for 'written in Banaras'. The era is not stated, but saṃvat 1920 with miti/roja fits VS, so the copy dates to Mārgaśīrṣa śukla 7, a Thursday, around November–December 1863 CE. The ❁ marks in the colophon are decorative.",
+ "_meta": {
+  "reel": "A 62/23",
+  "model": "opus",
+  "cost_usd": 0.0537068,
+  "secs": 12.9
+ }
+}

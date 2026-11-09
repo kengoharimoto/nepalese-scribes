@@ -1,0 +1,106 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p4: placeholder name 'Unknown' replaced with '[name lost]'; the lacuna is now explained in notes",
+   "place.normalized: 'Varanasi' changed to the IAST 'Vārāṇasī'; 'viśveśvara rājadye (!)' is read as 'viśveśvararājye', i.e. the city as the realm of Viśveśvara (Śiva), a deity rather than a reigning king, so no king entry was added",
+   "notes: added the Hindi note on the copying fee (dāma) and the length in granthas; noted that the scribe is not named",
+   "p1: as_written reduced to the name stem in the compound ('uvaṭa')"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "uvaṭa",
+   "name": "Uvaṭa",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Ānandapura",
+   "evidence": "ānaṃdapuravāstavyavajraṭaputra.. uvaṭakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vajraṭaputra",
+   "name": "Vajraṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Ānandapura",
+   "evidence": "ānaṃdapuravāstavyavajraṭaputra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "caturvveda de[va]datta",
+   "name": "Devadatta",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "caturveda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "caturvveda de[va]dattaputra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "caturvveda .. .. ..",
+   "name": "[name lost]",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "caturveda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustaka liṣāpitaṃ caturvveda de[va]dattaputracaturvveda .. .. ..",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "vajraṭaputra.. uvaṭakṛtau"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "de[va]dattaputracaturvveda .. .. .."
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1539 samaye śrāvaṇa sudi 12 śanivāsare",
+  "era": "VS",
+  "year": "1539",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla (sudi)",
+  "tithi": "12",
+  "weekday": "Saturday (śanivāsara)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1482"
+ },
+ "place": {
+  "as_written": "śrīkāśyāṃ viśveśvara rājadye (!)",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The colophon says 'saṃvat', and the copy was made in Kāśī, so the era is taken as VS (1539 = c. 1482 CE), matching the catalogue. 'viśveśvara rājadye (!)' probably stands for 'viśveśvararājye', 'in the realm of Viśveśvara', a deity, not a human ruler. The commissioner's own name, after 'caturvveda de[va]dattaputracaturvveda', is lost in the lacuna. The scribe is not named. The closing Hindi note ('graṃtha saṃkhyā śata 45 te kī liṣa | ugī dāma 130/// 44/// 129 kṣayā kṣinnakṣaye likhāī') seems to record the length (4500 granthas) and the writing fee (likhāī) in dāma (130, with figures 44 and 129 that are unclear). Its wording is corrupt.",
+ "_meta": {
+  "reel": "A 1108/5",
+  "model": "opus",
+  "cost_usd": 0.0723388,
+  "secs": 18.1
+ }
+}

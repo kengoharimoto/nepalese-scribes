@@ -1,0 +1,54 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Split the title 'prabhuthākura' into two titles, 'prabhu' and 'ṭhākura' (Newari thākura).",
+   "Shortened the evidence to the substring that supports both roles: the agentive -sana with 'sāphuli dayakā juro' means the book was made by him, so he is commissioner as well as king.",
+   "Reworded purpose: the book was made for the consecration (pratiṣṭhā) of a kvātha, i.e. a fort or citadel.",
+   "Added notes on his reign dates, the likely place, the rubric variant and the corrupt spellings."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayabhūpatīndramalladeva",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "prabhu",
+    "ṭhākura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayabhūpatīndramalladeva prabhuthākurasana ... sāphuli dayakā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "made by order of King Bhūpatīndra Malla for the consecration of a kvātha (fort/citadel)",
+ "notes": "The colophon gives no date and names no scribe: the copyist only says 'mayā' in the stock verse yādṛṣṭaṃ pustakaṃ dṛṣṭvā. Bhūpatīndra Malla was king of Bhaktapur, reigning about NS 816–842 (1696–1722 CE), so the copy probably dates from that period and comes from Bhaktapur. The colophon does not state the place, so the place field is left empty. In the Newari sentence the agentive -sana with 'sāphuli dayakā juro' ('the book was made') makes him the commissioner. The final rubric says 'gṛhe pratiṣṭhā' (consecration of a house), while the Newari sentence says 'kvātha pratiṣṭhā' (consecration of a fort). Corrupt spellings: puṣṭakaṃ for pustakaṃ, liṣitaṃ for likhitaṃ, śurddha maśubddhao for śuddham aśuddhaṃ, śānibalyarccana for śāntibalyarcana.",
+ "_meta": {
+  "reel": "A 239/20",
+  "model": "opus",
+  "cost_usd": 0.5565376,
+  "secs": 27.0
+ }
+}

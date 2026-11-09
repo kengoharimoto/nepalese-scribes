@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīviṣṇudharaśarmmā",
+   "name": "Viṣṇudhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "Kīrttipura",
+   "evidence": "kīrttipuri nivāsita śrīviṣṇudharaśarmmā likhad",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 805 kārttikakṛṣṇa cothāka ādrā nakṣatre sādhya sādhyayoge bṛhaspativāla",
+  "era": "NS",
+  "year": "805",
+  "month": "kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "cothāka",
+  "weekday": "bṛhaspativāla",
+  "nakshatra_yoga": "ādrā nakṣatre sādhya sādhyayoge",
+  "ce_approx": "1684"
+ },
+ "place": {
+  "as_written": "kīrttipuri",
+  "normalized": "Kirtipur"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 456/7",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 730,
+  "out_tok": 942
+ }
+}

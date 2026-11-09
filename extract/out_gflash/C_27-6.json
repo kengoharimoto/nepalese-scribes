@@ -1,0 +1,199 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayanarendramalladevasya",
+   "name": "Jayanarendramalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājādhirāja śrīśrījayanarendramalladevasya vijayarāje",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jagatarāja sāho",
+   "name": "Jagatarāja",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "sāho"
+   ],
+   "affiliation": "",
+   "residence": "śrīkāntipurīmahānagare māṣamaṇḍapaṭolake thaṃthocheṃgṛha",
+   "evidence": "jagatarāja sāho ... ete sahānumatena śrīpaṃcarakṣāpuṣṭaka lekhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "mavulakṣmī",
+   "name": "Mavulakṣmī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "śrīkāntipurīmahānagare māṣamaṇḍapaṭolake thaṃthocheṃgṛha",
+   "evidence": "bhāryā mavulakṣmī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śaktirāja sāho",
+   "name": "Śaktirāja",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [
+    "sāho"
+   ],
+   "affiliation": "",
+   "residence": "śrīkāntipurīmahānagare māṣamaṇḍapaṭolake thaṃthocheṃgṛha",
+   "evidence": "putra śaktirāja sāho ... ete sahānumatena śrīpaṃcarakṣāpuṣṭaka lekhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "duyinīlakṣmī",
+   "name": "Duyinīlakṣmī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "śrīkāntipurīmahānagare māṣamaṇḍapaṭolake thaṃthocheṃgṛha",
+   "evidence": "bhāryā duyinīlakṣmī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "padmarāja",
+   "name": "Padmarāja",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasya putra, padmarāja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "śaktimayi",
+   "name": "Śaktimayī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śaktimayi",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p8",
+   "as_written": "jagarāja",
+   "name": "Jagarāja",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "anuja, jagarāja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p9",
+   "as_written": "śrījinacaṃdreṇa",
+   "name": "Jinacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "śrīmaṇisaṃghavihāra",
+   "residence": "śrīyaṃgala laṃtale",
+   "evidence": "likhite yaṃ śrīyaṃgala, śrīmaṇisaṃghavihāra, laṃtale vajrācārya śrījinacaṃdreṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīśrījayanarendramalladevasya vijayarāje | deya dharmmo'yaṃ ... jagatarāja sāho"
+  },
+  {
+   "from": "p3",
+   "type": "wife_of",
+   "to": "p2",
+   "evidence": "jagatarāja sāho, bhāryā mavulakṣmī"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "bhāryā mavulakṣmī, putra śaktirāja sāho"
+  },
+  {
+   "from": "p5",
+   "type": "wife_of",
+   "to": "p4",
+   "evidence": "śaktirāja sāho, bhāryā duyinīlakṣmī"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "bhāryā duyinīlakṣmī tasya putra, padmarāja"
+  },
+  {
+   "from": "p8",
+   "type": "brother_of",
+   "to": "p6",
+   "evidence": "padmarāja śaktimayi anuja, jagarāja"
+  },
+  {
+   "from": "p9",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "jagatarāja sāho ... ete sahānumatena śrīpaṃcarakṣāpuṣṭaka lekhitaṃ ... likhite yaṃ ... vajrācārya śrījinacaṃdreṇa"
+  }
+ ],
+ "date": {
+  "as_written": "samvatsare 660 māghaśuklapaṃcaṃmyāṃ tithau, utrabhadranakṣatre, siddhiyoge, budhavāsare",
+  "era": "NS",
+  "year": "660",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "utrabhadranakṣatre, siddhiyoge",
+  "ce_approx": "1540"
+ },
+ "place": {
+  "as_written": "śrīkāntipurīmahānagare māṣamaṇḍapaṭolake thaṃthocheṃgṛhavāsinā / śrīyaṃgala, śrīmaṇisaṃghavihāra, laṃtale",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "deya dharmmo'yaṃ pravamahāyānaṃyāyinaḥ",
+ "notes": "The commissioner is Jagatarāja Sāho together with family members (Mavulakṣmī, Śaktirāja Sāho, Duyinīlakṣmī, Padmarāja, Śaktimayī, Jagarāja). The scribe Jinacandra Vajrācārya belonged to Śrīmaṇisaṅgha Vihāra in Yaṅgala, Kantipur (Kathmandu).",
+ "_meta": {
+  "reel": "C 27/6",
+  "model": "gemini-flash-latest",
+  "secs": 20.6,
+  "in_tok": 1139,
+  "out_tok": 3377
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhavānanda",
+   "name": "Bhavānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sudhī",
+    "dvijāgraṇī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhat bhavānanda sudhir dvijāgraṇī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "catur dvisaptaika bhubhe ca śāke kāvyedine mādhava māsayukte || kṛṣṇeṃtyabhe śaṃbhutithau suyoge",
+  "era": "ŚS",
+  "year": "1724",
+  "month": "Vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "śaṃbhu (11 or 14)",
+  "weekday": "Friday",
+  "nakshatra_yoga": "antyabha (Revatī?), suyoga",
+  "ce_approx": "1802"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram: catur (4), dvi (2), sapta (7), eka (1) = Śāke 1724. Mādhava corresponds to the month of Vaiśākha; kāvyadina is Friday.",
+ "_meta": {
+  "reel": "B 298/2",
+  "model": "gemini-flash-latest",
+  "secs": 8.5,
+  "in_tok": 883,
+  "out_tok": 1033
+ }
+}

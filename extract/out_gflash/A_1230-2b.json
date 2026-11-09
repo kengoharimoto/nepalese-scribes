@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīviśveśvaraṇa",
+   "name": "Viśveśvara",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "tiprakoche",
+   "evidence": "tiprakocheyā (5) śrīviśveśvaraṇa thavataṃ coyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "mārggaśira śukla tṛtīyā pūrvvabhadra, vṛddhiyoga budhavāla",
+  "era": "none",
+  "year": "",
+  "month": "mārggaśira",
+  "paksa": "śukla",
+  "tithi": "tṛtīyā",
+  "weekday": "budhavāla",
+  "nakshatra_yoga": "pūrvvabhadra, vṛddhiyoga",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "tiprakoche",
+  "normalized": ""
+ },
+ "purpose": "thavataṃ (svārtha, for oneself)",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1230/2b",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 691,
+  "out_tok": 767
+ }
+}

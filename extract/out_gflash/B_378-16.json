@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmanarāmadevana",
+   "name": "Manarāmadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "paśacche",
+   "evidence": "liṣiti śrīmanarāmadevana",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 826 kārttika śudi 1",
+  "era": "NS",
+  "year": "826",
+  "month": "kārttika",
+  "paksa": "śudi",
+  "tithi": "1",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1706"
+ },
+ "place": {
+  "as_written": "paśaccheyā",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The place/residence 'paśacche' likely refers to a locality/ṭola in the Kathmandu Valley.",
+ "_meta": {
+  "reel": "B 378/16",
+  "model": "gemini-flash-latest",
+  "secs": 9.7,
+  "in_tok": 704,
+  "out_tok": 1095
+ }
+}

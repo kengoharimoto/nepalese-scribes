@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ramānāthaḥ / śrīramānāthaśarma-",
+   "name": "Ramānātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "vedagarbhatarkācāryānvavāyikula",
+   "residence": "",
+   "evidence": "kātaṃtradhātuvṛttiṃ nirmitevān ramānāthaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vedagarbhatarkācāryān",
+   "name": "Vedagarbha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "tarkācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vedagarbhatarkācāryān navāpi kulaprasūta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "other",
+   "to": "p2",
+   "evidence": "vedagarbhatarkācāryān navāpi kulaprasūta"
+  }
+ ],
+ "date": {
+  "as_written": "vasūrasabhuvanagaṇite śāke",
+  "era": "ŚS",
+  "year": "1468",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1546"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The text provides the composition colophon of the author, Ramānātha Śarman, dated to Śaka 1468 (vasu = 8, rasa = 6, bhuvana = 14). 'navāpi kula' is likely a corruption of anvavāyakula/anvavāyikula ('born in the lineage of Vedagarbhatarkācārya'). No copyist or manuscript copy date is recorded.",
+ "_meta": {
+  "reel": "A 552/3",
+  "model": "gemini-flash-latest",
+  "secs": 13.0,
+  "in_tok": 791,
+  "out_tok": 1978
+ }
+}

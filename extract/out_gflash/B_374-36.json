@@ -1,0 +1,60 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dinakarabhaṭtena",
+   "name": "Dinakara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nirṇīyate śṃtisāre dinakarabhaṭtena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "upāsanī || baijanāthabhaṭṭasya",
+   "name": "Baijanātha",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "upāsanī",
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pustakam idaṃ upāsanī || baijanāthabhaṭṭasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Dinakarabhaṭṭa is named as the author of the Śāntisāra. The catalogue categorizes Baijanātha Bhaṭṭa as donor, but 'pustakam idaṃ ... baijanāthabhaṭṭasya' designates him as the book's owner. 'upāsanī' likely represents the surname Upāsanī.",
+ "_meta": {
+  "reel": "B 374/36",
+  "model": "gemini-flash-latest",
+  "secs": 24.6,
+  "in_tok": 684,
+  "out_tok": 992
+ }
+}

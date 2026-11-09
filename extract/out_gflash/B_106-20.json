@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "samundrana",
+   "name": "Samudra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Ratnaketu Mahāvihāra",
+   "residence": "",
+   "evidence": "vajrācārya, samundrana, svahastena likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "ratnakestu mahāvihārayā",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "ratnakestu is likely an error for Ratnaketu Mahāvihāra. The name samundrana has the Newari instrumental/ergative suffix -na.",
+ "_meta": {
+  "reel": "B 106/20",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 656,
+  "out_tok": 644
+ }
+}

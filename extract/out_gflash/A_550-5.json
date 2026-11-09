@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdatta",
+   "name": "Śrīdatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahāmahopādhyāyaśrīdattakṛtaācārādarśaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rathunāthakṣiṇīsura",
+   "name": "Raghunātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kṣoṇīsura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rathunāthakṣiṇīsuralikhito",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "aṣṭābdhinagabhūśāke pauṣe kṛṣṇe tathaiva ca || bhage(!)rkṣe jīvavāre ca saptavyāṃ",
+  "era": "ŚS",
+  "year": "1748",
+  "month": "Pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "7",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "bhaga (Pūrvaphalgunī)",
+  "ce_approx": "1827"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "kṛpālave gurave samarpitaḥ",
+ "notes": "The scribe's name is written as 'rathunātha' for Raghunātha, with 'kṣiṇīsura' for 'kṣoṇīsura' (brāhmaṇa). The work is dedicated to the scribe's guru ('kṛpālave gurave saparpito stu').",
+ "_meta": {
+  "reel": "A 550/5",
+  "model": "gemini-flash-latest",
+  "secs": 9.4,
+  "in_tok": 815,
+  "out_tok": 1234
+ }
+}

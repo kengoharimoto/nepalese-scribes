@@ -1,0 +1,158 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnārmadātmajena",
+   "name": "Nārmada",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnārmadātmajena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "padmanābha-",
+   "name": "Padmanābha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "padmanābharacitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vyāsagokula-",
+   "name": "Gokula",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "vyāsa"
+   ],
+   "affiliation": "satipurā",
+   "residence": "Sācorā",
+   "evidence": "vyāsagokulasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "trīkamavyāsa-",
+   "name": "Trikama",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "vyāsa"
+   ],
+   "affiliation": "satipurā",
+   "residence": "Sācorā",
+   "evidence": "trīkamavyāsasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "gopīvyāsa-",
+   "name": "Gopī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "vyāsa"
+   ],
+   "affiliation": "satipurā",
+   "residence": "Sācorā",
+   "evidence": "gopīvyāsasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "bhīmajī-",
+   "name": "Bhīma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "satipurā",
+   "residence": "Sācorā",
+   "evidence": "bhīmajīsuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "kīsanajī",
+   "name": "Kīsana",
+   "roles": [
+    "reader",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "satipurā",
+   "residence": "Sācorā",
+   "evidence": "śrīkīsanapaṭhanārthe",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīnārmadātmajena padmanābha-"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "vyāsagokulasuta trīkamavyāsa-"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "trīkamavyāsasuta gopīvyāsa-"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p5",
+   "evidence": "gopīvyāsasuta bhīmajī-"
+  },
+  {
+   "from": "p7",
+   "type": "son_of",
+   "to": "p6",
+   "evidence": "bhīmajīsuta kīsanajī"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1854 śake 1719 kārttaga (!) śukle 12 budhe",
+  "era": "VS",
+  "year": "1854",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "12",
+  "weekday": "budha",
+  "nakshatra_yoga": "",
+  "ce_approx": "1797"
+ },
+ "place": {
+  "as_written": "śrīdvāṃrakāṃdhīśaśrīraṇachoḍajīsamīpe",
+  "normalized": "Dwarka"
+ },
+ "purpose": "śrīkīsanapaṭhanārthe (for the reading/study of Kīsana)",
+ "notes": "The manuscript was copied at Dwarka near the temple of Raṇachoḍajī for Kīsana's study (śrīkīsanapaṭhanārthe). An unnamed son of Kīsanajī ('kīsanajī tasyātmajaḥ') may have been the scribe. The family's caste is given as satipurā and their village as Sācorā.",
+ "_meta": {
+  "reel": "A 421/23",
+  "model": "gemini-flash-latest",
+  "secs": 29.4,
+  "in_tok": 884,
+  "out_tok": 4680
+ }
+}

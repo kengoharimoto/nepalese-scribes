@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The excerpt contains only chapter colophons (adhyāyasamāpti) of the Kalpadrumāvadānamālā; the final scribal colophon is missing.",
+ "_meta": {
+  "reel": "A 117/13",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 1492,
+  "out_tok": 670
+ }
+}

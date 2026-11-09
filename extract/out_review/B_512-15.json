@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Name normalized to Moreśvara, following the catalogue. In Devanagari म and स are easily confused, and Moreśvara is a common Marathi name while Soreśvara is unattested. The written form is kept in as_written.",
+   "Changed as_written to the name alone. 'ity upanāmakena' is only the phrase that introduces the surname.",
+   "Kept the role as scribe at medium confidence. The sentence breaks off before its verb; the instrumental suggests something like 'likhitam' was meant, but it could also have recorded ownership.",
+   "Expanded the notes."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "soreśvarasāḍhe",
+   "name": "Moreśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "Sāḍhe (upanāman)"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ soreśvarasāḍhe ity upanāmakena",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon reads 'soreśvarasāḍhe', but the catalogue gives Moreśvara Sāḍhe. This is probably a ma/sa confusion, either in the manuscript or in the transcription. Moreśvara is the likely name. 'Sāḍhe' is a Marathi family name, perhaps a form of Sāṭhe, and the text itself calls it an upanāman. That points to a Maharashtrian brahmin scribe. The sentence 'idaṃ pustakaṃ ... ity upanāmakena' has no verb. The instrumental agent suggests 'likhitam' (copied) dropped out, which would make him the scribe, as the catalogue says. An ownership statement cannot be ruled out. The manuscript has no date and no place of copying.",
+ "_meta": {
+  "reel": "B 512/15",
+  "model": "opus",
+  "cost_usd": 0.05078680000000001,
+  "secs": 12.0
+ }
+}

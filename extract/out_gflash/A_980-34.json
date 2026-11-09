@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "amātyabharatalālasya",
+   "name": "Bharatalāla",
+   "roles": [
+    "owner",
+    "beneficiary"
+   ],
+   "titles": [
+    "amātya"
+   ],
+   "affiliation": "",
+   "residence": "hanumatapurapule",
+   "evidence": "idaṃ pustakaṃ likhitvā amātyabharatalālasya dadau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "hanumatapurapule",
+  "normalized": ""
+ },
+ "purpose": "parārtha",
+ "notes": "The scribe is anonymous ('likhitvā ... dadau'). The residence 'hanumatapurapule nivāsī' may refer either to the recipient Amātya Bharatalāla or to the unnamed scribe.",
+ "_meta": {
+  "reel": "A 980/34",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 699,
+  "out_tok": 975
+ }
+}

@@ -1,0 +1,216 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Matyaṅa: removed 'donor' (the Newari names his three sons as dānapati); kept 'commissioner' on the strength of the Sanskrit verse (pustakaṃ yā'karoc ... matyaṅasamabhidhaḥ), confidence lowered to medium; residence wording normalized",
+   "p2–p4: confirmed as donor (dānapati) + commissioner (dayakā julo)",
+   "wrote_for relations now also point to the dānapati sons p2–p4, not only to p1",
+   "son_of relations for the scribes (p6, p7 → p5): rest on the Newari genitive 'śrepateya'; flagged as an inference",
+   "Place as_written replaced by the scribes' location (Jasodharavihāra mūladvāla, Lalitapur); the donors' residence moved to the person records",
+   "Notes: added the conflicting weekday/month in the inserted verse <<...>>; verified both chronograms (=920) and the CE date"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "matyaṅasamabhidhaḥ / śrīmatyaṅa",
+   "name": "Matyaṅa",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Jasodharamahāvihāra",
+   "residence": "Lalitāpura, Oṃkuri Dundu",
+   "evidence": "pustakaṃ yā'karoc chrīcaityarājaprabandhaṃ | matyaṅasamabhidhaḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīānandajoti",
+   "name": "Ānandajyoti",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "Jasodharamahāvihāra",
+   "residence": "Lalitāpura, Oṃkuri Dundu",
+   "evidence": "thva pustakayā dānapati ... śrīmatyaṅa putra śrīānandajoti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "jagajjyoti",
+   "name": "Jagajjyoti",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "Jasodharamahāvihāra",
+   "residence": "Lalitāpura, Oṃkuri Dundu",
+   "evidence": "dvitīyaputra jagajjyoti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "lakṣmījyoti",
+   "name": "Lakṣmījyoti",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "Jasodharamahāvihāra",
+   "residence": "Lalitāpura, Oṃkuri Dundu",
+   "evidence": "tṛtīyaputra lakṣmījyoti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrepateya",
+   "name": "Śrīpati",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Jasodharavihāra",
+   "residence": "Mūladvāla, Jasodharavihāra, Lalitapur",
+   "evidence": "śrīvajrācāryya śrepateya bhājupatinā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p6",
+   "as_written": "bhājupatinā",
+   "name": "Bhājupati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Jasodharavihāra",
+   "residence": "Mūladvāla, Jasodharavihāra, Lalitapur",
+   "evidence": "lekhaka ... bhājupatinā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "bhājudevena",
+   "name": "Bhājudeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Jasodharavihāra",
+   "residence": "Mūladvāla, Jasodharavihāra, Lalitapur",
+   "evidence": "bhājudevena ca",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīmatyaṅa putra śrīānandajoti"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "dvitīyaputra jagajjyoti"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "tṛtīyaputra lakṣmījyoti"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p5",
+   "evidence": "śrepateya bhājupatinā"
+  },
+  {
+   "from": "p7",
+   "type": "son_of",
+   "to": "p5",
+   "evidence": "śrepateya ... bhājudevena ca"
+  },
+  {
+   "from": "p6",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "dānapati ... lekhaka ... bhājupatinā"
+  },
+  {
+   "from": "p6",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "dānapati ... lekhaka ... bhājupatinā"
+  },
+  {
+   "from": "p6",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "dānapati ... lekhaka ... bhājupatinā"
+  },
+  {
+   "from": "p7",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "dānapati ... lekhaka ... bhājudevena ca"
+  },
+  {
+   "from": "p7",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "dānapati ... lekhaka ... bhājudevena ca"
+  },
+  {
+   "from": "p7",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "dānapati ... lekhaka ... bhājudevena ca"
+  },
+  {
+   "from": "p6",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "pustakaṃ yā'karoc ... matyaṅasamabhidhaḥ"
+  },
+  {
+   "from": "p7",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "pustakaṃ yā'karoc ... matyaṅasamabhidhaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "nepāle abdayāte | nabhanayananava śrāvaṇe māsi śukle | pakṣe ... pratipadi sutithau vāsare bhumiputre | vajrayoge; samvat 920 śrāvaṇaśuklayā pratipadā puṣyanakṣatra vajrayoga aṃgāravāra",
+  "era": "NS",
+  "year": "920",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "pratipad",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "puṣya, vajra",
+  "ce_approx": "1800"
+ },
+ "place": {
+  "as_written": "śrījasodharavihāra mūladvāle (lalitāpulamahānagala)",
+  "normalized": "Patan"
+ },
+ "purpose": "for attaining bodhi (bodhi saṃlabdhahetoḥ); merit for the donors (etat puṇyānubhāvena phalaṃ prāptotu)",
+ "notes": "Chronograms: 'nabha-nayana-nava' = 0-2-9 → NS 920, which matches 'samvat 920'. The inserted verse <<...>> ('gagana ca nayana randhra') also gives 920. That verse, however, has 'śuke māse' (perhaps śuci, i.e. Āṣāḍha/Jyeṣṭha) and 'vāsare sūryyaputre' (Saturday), which conflict with the main colophon (Śrāvaṇa, bhumiputra/aṅgāravāra = Tuesday). It may be a rejected first draft. NS 920 Śrāvaṇa śukla 1 falls around 22 July 1800, which was a Tuesday, so it fits the main colophon. The catalogue lists 'Vajrācārya Śripati' as a third scribe. But 'śrepateya' carries the Newari genitive -ya, and only Bhājupati and Bhājudeva carry the Sanskrit instrumental of agency. So they are probably Śrīpati's sons and the actual scribes, though the son relation is inferred. The verse says Matyaṅa made the book, while the Newari prose names his three sons as dānapati. Matyaṅa is therefore marked commissioner with medium confidence.",
+ "_meta": {
+  "reel": "D 49/3",
+  "model": "opus",
+  "cost_usd": 0.13920280000000002,
+  "secs": 36.6
+ }
+}

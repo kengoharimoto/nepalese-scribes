@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījāṣarāja",
+   "name": "Jāṣarāja",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavikairavendu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkavikairavenduśrījāṣarājaviracitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1985 vaiśākhaśuklanavamyāṃ",
+  "era": "VS",
+  "year": "1985",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "navamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1928"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 96/5",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 686,
+  "out_tok": 623
+ }
+}

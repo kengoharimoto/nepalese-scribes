@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhūpatīndramalladevasana",
+   "name": "Bhūpatīndramalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhūpatīndramalladevasana",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 825 bhādrapadaśukladaśamīmūlaśanīśvararavārakuhnu",
+  "era": "NS",
+  "year": "825",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "śanīśvaravāra",
+  "nakshatra_yoga": "mūla",
+  "ce_approx": "1705"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon commemorates a devapratiṣṭhā and ayutāhuti yajña performed during or under the patronage of King Bhūpatīndra Malla of Bhaktapur.",
+ "_meta": {
+  "reel": "B 520/11",
+  "model": "gemini-flash-latest",
+  "secs": 9.8,
+  "in_tok": 768,
+  "out_tok": 1155
+ }
+}

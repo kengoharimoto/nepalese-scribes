@@ -1,0 +1,107 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāyastḥa naravirasiṃhayā",
+   "name": "Naravirasiṃha",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "kāśyapagotra",
+   "residence": "śrīlalitāpuramahānagarayā vakaṃvahāra",
+   "evidence": "dānavanti śrīlalitāpuramahānagarayā vakaṃvahārayā kāśyapagotra kāyastḥa naravirasiṃhayā dharmacitta utpatti juyā o",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dhanavirasiṃ",
+   "name": "Dhanavirasiṃha",
+   "roles": [
+    "relative_only",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pitā dhanavirasiṃ ... devaṃgata juyā o nimha sayā nāmana thva śrī2samādhirāja pustaka corakaṃ(!) tayā julo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "gaṃgālakṣmi",
+   "name": "Gaṅgālakṣmī",
+   "roles": [
+    "relative_only",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mātṛ gaṃgālakṣmi nimhaṃ devaṃgata juyā o nimha sayā nāmana thva śrī2samādhirāja pustaka corakaṃ(!) tayā julo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "vajrācāryaśrītejadattana",
+   "name": "Tejadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "mānadevasaṃskārita śrī(cukra)vāhāra",
+   "residence": "",
+   "evidence": "mānadevasaṃskārita śrī(cukra)vāhārayā vajrācāryaśrītejadattana coyā jula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "pitā dhanavirasiṃ"
+  },
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "mātṛ gaṃgālakṣmi"
+  },
+  {
+   "from": "p4",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "kāyastḥa naravirasiṃhayā ... vajrācāryaśrītejadattana coyā jula"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 964 miti vaiśākhamāsae [[śuklapaṅse]] pūrṇamāsyāṃ tithau svāti nakṣetre(!) śūra(!)yoge bṛhaspativāra",
+  "era": "NS",
+  "year": "964",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "pūrṇamāsyā",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "svāti nakṣatra, śūra yoga",
+  "ce_approx": "1844"
+ },
+ "place": {
+  "as_written": "śrīlalitāpuramahānagarayā vakaṃvahāra",
+  "normalized": "Patan"
+ },
+ "purpose": "for the posthumous merit of the donor's deceased parents Dhanavirasiṃha and Gaṅgālakṣmī (pitā dhanavirasiṃ mātṛ gaṃgālakṣmi nimhaṃ devaṃgata juyā o nimha sayā nāmana)",
+ "notes": "Mānadeva mentioned in 'mānadevasaṃskārita' is the legendary/historical founder of Cakra-vihāra and not a contemporary person.",
+ "_meta": {
+  "reel": "A 1328/3",
+  "model": "gemini-flash-latest",
+  "secs": 14.5,
+  "in_tok": 998,
+  "out_tok": 2607
+ }
+}

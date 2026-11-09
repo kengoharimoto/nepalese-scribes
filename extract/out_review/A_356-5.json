@@ -1,0 +1,114 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Added p4 Mahādeva (Bhaṭṭa) for the corrupt '†ma do bha†'. Dinakara Bhaṭṭa is known as the son of Mahādeva Bhaṭṭa and grandson of Bālakṛṣṇa Bhaṭṭa, of the Bharadvāja gotra; medium confidence",
+   "Relations: Dinakara is son_of Mahādeva, and Mahādeva is son_of Bālakṛṣṇa. Kept Dinakara grandson_of Bālakṛṣṇa",
+   "Owner's name given as 'Kṛṣṇa': 'śrī' is taken as the honorific (medium confidence, since it could be part of the name Śrīkṛṣṇa)",
+   "Gotra Bharadvāja kept as affiliation for the author's family; notes expanded"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bālakṛṣṇabhaṭṭātmaja",
+   "name": "Bālakṛṣṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "Bharadvāja",
+   "residence": "",
+   "evidence": "bharadvā(ja)bālakṛṣṇabhaṭṭātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "†ma do bha†",
+   "name": "Mahādeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "Bharadvāja",
+   "residence": "",
+   "evidence": "bālakṛṣṇabhaṭṭātmaja†ma do bha† sūnu",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dinakarakṛte",
+   "name": "Dinakara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "Bharadvāja",
+   "residence": "",
+   "evidence": "sūnudinakarakṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīkṛṣṇa jośī",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "Rāmanagara",
+   "evidence": "pustakam idaṃ śrīkṛṣṇa jośī || rāmanagaravāle",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "bālakṛṣṇabhaṭṭātmaja†ma do bha†"
+  },
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "†ma do bha† sūnudinakara"
+  },
+  {
+   "from": "p2",
+   "type": "grandson_of",
+   "to": "p1",
+   "evidence": "bālakṛṣṇabhaṭṭātmaja†ma do bha† sūnudinakarakṛte"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvata 1864 māse caitra sule pakṣe 11",
+  "era": "VS",
+  "year": "1864",
+  "month": "Caitra",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1807"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The father's name between 'bālakṛṣṇabhaṭṭātmaja' and 'sūnu' is corrupt (†ma do bha†). It is read as Mahādeva(bhaṭṭa) because the author Dinakara Bhaṭṭa is known to be the son of Mahādeva Bhaṭṭa. 'śrī †mā rṇa stu†' after 'samāptim aphāṇīt' is also corrupt, probably a benediction (e.g. śrīr astu); no name is recoverable from it. The scribe is not named. The owner may be called Śrīkṛṣṇa or Kṛṣṇa with the honorific śrī. 'rāmanagaravāle' (Hindi/Nepali 'of Rāmanagara') gives the owner's home, not the place of copying; this is probably Ramnagar near Vārāṇasī, but that is not certain. VS 1864 Caitra śukla 11 ≈ March/April 1807 CE, which matches the catalogue field.",
+ "_meta": {
+  "reel": "A 356/5",
+  "model": "opus",
+  "cost_usd": 0.0740748,
+  "secs": 18.6
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Amṛtānanda: roles scribe+commentator changed to reader. In Newari, 'jātakamālāvyākhyā … yāṅā … saṃpūrṇaṃ' records a ritual recitation and exposition (vyākhyāna) of the text that ran from Śrāvaṇa śu 1 to Bhādrapada kṛ 9. It does not record copying or writing a commentary.",
+   "Pūrṇānanda: roles scribe+other changed to reader, because the same vyākhyā formula is used. Amarāvatī moved out of residence: it is where the reading took place, not a stated home.",
+   "No scribe is named in the colophon. The catalogue's 'Scribe: Amṛtānanda? Pūrṇānanda?' is a misreading of the reading notes.",
+   "Date: kept NS 894 as the earliest dated entry. Noted that it dates a reading, so it is only a terminus ante quem for the copying. Added the second date to the notes.",
+   "Place emptied: Amarāvatī nagara is where the 927 reading took place, not where the copy was made.",
+   "Purpose cut back to the merit formula only."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī amṛtānanda ju(na)",
+   "name": "Amṛtānanda",
+   "roles": [
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī amṛtānanda ju(na), … (śrīmaha)jjātakamāl(āvy)ākhyā .. yāṅā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīdhanasiṃha",
+   "name": "Dhanasiṃha",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdhanasiṃha .. bhādrapada kṛ 9 saṃpūrṇaṃ",
+   "confidence": "low"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīpūrṇṇānaṃda juna",
+   "name": "Pūrṇānanda",
+   "roles": [
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpūrṇṇānaṃda juna, … śrījātakamālāvyākhyā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrījaga(jj)itānaṃda",
+   "name": "Jagajjitānanda",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījaga(jj)itānaṃda",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 894 śrāvaṇa śu 1 somavāra",
+  "era": "NS",
+  "year": "894",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1774"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "merit for the welfare of the world (jagaddhite)",
+ "notes": "The scribal colophon is badly damaged and names no scribe. The dated Newari entries after it are reading notes. (1) NS 894 (1774 CE): Amṛtānanda began a vyākhyā (recitation and exposition) of the Mahajjātakamālā on Śrāvaṇa śu 1, Monday, and finished it on Bhādrapada kṛ 9. Dhanasiṃha is named in a gap and his role is unclear; he may have been the patron or a listener. (2) NS 927 (1807 CE), Āśvina śu 15, Friday: Pūrṇānanda gave a Jātakamālā vyākhyā in the city called Amarāvatī (nugasa = 'in the centre'?). The place is not identified; Amarāvatī may be a poetic name for a Newar town. Jagajjitānanda's role is lost in a lacuna. The copy was therefore made in or before NS 894. The catalogue's scribe and date fields probably come from these notes. Amṛtānanda may be the well-known paṇḍita Amṛtānanda (fl. late 18th to early 19th century), but this is not certain.",
+ "_meta": {
+  "reel": "B 98/15",
+  "model": "opus",
+  "cost_usd": 0.0901068,
+  "secs": 24.1
+ }
+}

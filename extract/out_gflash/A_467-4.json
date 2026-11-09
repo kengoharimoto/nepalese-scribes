@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ajamvaradaivajña(!)na",
+   "name": "Ajamvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ajamvaradaivajña(!)na liṣitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīdurgāramakhmakhmā(!)ko",
+   "name": "Durgāramakhmakhmā",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdurgāramakhmakhmā(!)ko yo pustak",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "ajamvaradaivajña(!)na liṣitaṃ ... śrīdurgāramakhmakhmā(!)ko yo pustak"
+  }
+ ],
+ "date": {
+  "as_written": "śrīvikramādityasaṃmvat 1954 nepālasamvat 1018 sālam iti māghavadi 8 roja 7 ... śrīśāke samvat 1819 sāla",
+  "era": "VS",
+  "year": "1954",
+  "month": "māgha",
+  "paksa": "vadi",
+  "tithi": "8",
+  "weekday": "roja 7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1898"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date is given in three concordant eras: VS 1954, NS 1018, and Śāke 1819. The name Durgāramakhmakhmā is followed by the Nepali genitive marker '-ko' ('yo pustak yo śāstra'); 'khmakhmā' may be a garbled surname, caste title, or place of origin.",
+ "_meta": {
+  "reel": "A 467/4",
+  "model": "gemini-flash-latest",
+  "secs": 16.3,
+  "in_tok": 956,
+  "out_tok": 2506
+ }
+}

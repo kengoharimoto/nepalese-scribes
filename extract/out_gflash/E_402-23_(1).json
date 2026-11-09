@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkālidāsaviracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 928 vai śu 10",
+  "era": "NS",
+  "year": "928",
+  "month": "vaiśākha",
+  "paksa": "śuklapakṣa",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1808"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "E 402/23 (1)",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 682,
+  "out_tok": 390
+ }
+}

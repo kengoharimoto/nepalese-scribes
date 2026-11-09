@@ -1,0 +1,72 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīcandraśekharapaṃḍitena",
+   "name": "Candraśekhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ śrīcandraśekharapaṃḍitena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "tejonidhiko",
+   "name": "Tejonidhi",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yo pustaka tejonidhiko ho",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrībrahmavilāspaṃḍitako",
+   "name": "Brahmavilāsa",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībrahmavilāspaṃḍitako pustakasaṃga sāṭyāko ho",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1712 saṃvat 910 pauṣakṛṣṇāmāvāsyāṃ",
+  "era": "ŚS",
+  "year": "1712 / 910",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "amāvāsyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1790"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon contains an added Nepali ownership/exchange note: 'yo pustaka tejonidhiko ho śrībrahmavilāspaṃḍitako pustakasaṃga sāṭyāko ho niścaya' ('This book belongs to Tejonidhi; it was exchanged for the book of Śrī Brahmavilāsa Paṇḍita, for sure'). The catalogue lists Tejonidhi as donor.",
+ "_meta": {
+  "reel": "A 330/4",
+  "model": "gemini-flash-latest",
+  "secs": 9.8,
+  "in_tok": 785,
+  "out_tok": 1584
+ }
+}

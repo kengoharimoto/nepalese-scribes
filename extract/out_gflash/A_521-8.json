@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadanaṃtopādhyāya-",
+   "name": "Ananta",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadanaṃtopādhyāyasūnu",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kāśīnāthopādhyāya-",
+   "name": "Kāśīnātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāśīnāthopādhyāyaviracitaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīmadanaṃtopādhyāyasūnukāśīnāthopādhyāya"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat || 1899 || caitrakṛṣṇa 7",
+  "era": "VS",
+  "year": "1899",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "7",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1842"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "saṃkhyā 2000 refers to the grantha/śloka count of the text.",
+ "_meta": {
+  "reel": "A 521/8",
+  "model": "gemini-flash-latest",
+  "secs": 7.7,
+  "in_tok": 735,
+  "out_tok": 1110
+ }
+}

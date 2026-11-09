@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "harinidhir",
+   "name": "Harinidhi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "harinidhir ... vyalikhadāśu",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "bhujagajartuśaśipramite śake",
+  "era": "ŚS",
+  "year": "1672",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1750"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'bhujagajartuśaśipramite' (for bhuja-aga-ṛtu-śaśi) yields 1672 Śaka: bhuja (2), aga (7), ṛtu (6), śaśi (1).",
+ "_meta": {
+  "reel": "B 379/27",
+  "model": "gemini-flash-latest",
+  "secs": 10.5,
+  "in_tok": 825,
+  "out_tok": 1223
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Content of the first reading kept as it was; only the notes are longer.",
+   "Notes now give another way to read the name: one compound name (Padmānanda-rāma, or 'Padma Ānandarāma'). They also note that the son_of relation depends on the doubtful final 'ja?'.",
+   "Notes now say the era is assumed to be VS because the script is Devanagari and the era is not named."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "padmā",
+   "name": "Padmā",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣataṃ(!) padmā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ānandarāmaja?",
+   "name": "Ānandarāma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ānandarāmaja?",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "ānandarāmaja?"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1838 bhādrasudi 13",
+  "era": "VS",
+  "year": "1838",
+  "month": "bhādra",
+  "paksa": "sudi",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1781"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The phrase 'padmā ānandarāmaja?' most likely means Padmā, son of Ānandarāma (ānandarāma-ja, 'born of Ānandarāma'). The cataloguer marked the final syllable as doubtful, so the son_of relation is uncertain. It is also possible that the whole string is one person's name, as the catalogue field 'Padmā Anandarāma ?' suggests; in that case there is a single scribe and no relation. 'Padmā' looks feminine, but '-ja' is masculine, so the true form may be Padma. The colophon does not name the era. VS is assumed because the script is Devanagari and the year is 1838; this gives about 1781 CE. Mārkaṇḍeya is left out because he is the mythical speaker of the stotra.",
+ "_meta": {
+  "reel": "A 1118/29",
+  "model": "opus",
+  "cost_usd": 0.054538800000000005,
+  "secs": 13.6
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nīlakaṇḍhena",
+   "name": "Nīlakaṇṭha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nīlakaṇḍhenālekhi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "miśragosvādedāṃsa",
+   "name": "Gosvādedāṃsa",
+   "roles": [
+    "teacher",
+    "other"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "miśragosvādedāṃsaprasādāt",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "other",
+   "to": "p2",
+   "evidence": "miśragosvādedāṃsaprasādāt"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1674 samaye māghaśuklapratipadi ravivāsare",
+  "era": "unspecified",
+  "year": "1674",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "pratipad",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "gaṃḍahādeśe gaṅgāsamīpe",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is given simply as 'samvat'; if Vikrama Saṃvat, 1674 VS corresponds to ca. 1617 CE, whereas if Śaka (as queried in the catalogue), it would be ca. 1752 CE. The phrase 'miśragosvādedāṃsaprasādāt' is corrupt (marked with daggers by the cataloguer), possibly intending a name like Miśra Gosvāmī Devadāsa.",
+ "_meta": {
+  "reel": "A 353/11",
+  "model": "gemini-flash-latest",
+  "secs": 16.8,
+  "in_tok": 753,
+  "out_tok": 2626
+ }
+}

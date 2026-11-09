@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśaṃkarācārjya",
+   "name": "Śaṅkarācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśaṃkarācārjyaviracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1891 sāla miti māgha vadi 11 roja 1",
+  "era": "VS",
+  "year": "1891",
+  "month": "māgha",
+  "paksa": "vadi",
+  "tithi": "11",
+  "weekday": "roja 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1834"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Nepali colophon phrase: 'mā lekhyāko ho' ('was written on'). No scribe or patron is named.",
+ "_meta": {
+  "reel": "A 1172/17",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 727,
+  "out_tok": 1057
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "janakanāma(!)",
+   "name": "Janaka",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pustakaṃ janakanāma(!) prālikhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vāṇavāṇanavacandrasaṃyute vikrame ʼdhikasite ʼṣṭamītithu || āśvine śaradi bhārgave dine",
+  "era": "VS",
+  "year": "1955",
+  "month": "Āśvina (adhika)",
+  "paksa": "śukla",
+  "tithi": "8",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1898"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrītripurasandarīdevyārpaṇam astu / śrīmahātripurasundarī prītāstu",
+ "notes": "The chronogram 'vāṇavāṇanavacandra' corresponds to 5-5-9-1, i.e., VS 1955.",
+ "_meta": {
+  "reel": "A 959/16",
+  "model": "gemini-flash-latest",
+  "secs": 7.3,
+  "in_tok": 785,
+  "out_tok": 914
+ }
+}

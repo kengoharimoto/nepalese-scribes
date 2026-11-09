@@ -1,0 +1,86 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñaśaśidharavarmmanā(!)",
+   "name": "Śaśidharavarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhita(!) daivajñaśaśidharavarmmanā(!)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīśrīsumatijayajitāmitramalladesana",
+   "name": "Sumatijayajitāmitramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumatijayajitāmitramalladesana ... cocakā dina juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bhāgirāmapradhānāṅgayovelasa",
+   "name": "Bhāgirāma",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "pradhānāṅga"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgirāmapradhānāṅgayovelasa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "daivajñaśaśidharavarmmanā(!) ... śrīśrīsumatijayajitāmitramalladesana ... cocakā dina"
+  },
+  {
+   "from": "p3",
+   "type": "servant_of",
+   "to": "p2",
+   "evidence": "śrīśrīsumatijayajitāmitramalladesana, bhāgirāmapradhānāṅgayovelasa"
+  }
+ ],
+ "date": {
+  "as_written": "sa⟨ṃ⟩mvat 803 śrāvaṇamāse śuklapakṣe, paripadi thithau ādi[tya]vāre",
+  "era": "NS",
+  "year": "803",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "pratipad (paripadi)",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1683"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "King Sumati Jayajitāmitramalla of Bhaktapur had the manuscript written during the tenure of his minister (pradhānāṅga) Bhāgirāma. The colophon ends with instructions to preserve the book carefully with great effort without negligence.",
+ "_meta": {
+  "reel": "B 94/10",
+  "model": "gemini-flash-latest",
+  "secs": 18.9,
+  "in_tok": 920,
+  "out_tok": 2577
+ }
+}

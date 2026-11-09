@@ -1,0 +1,76 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Both persons: 'Abhayaṃkara' recorded as the family name (affiliation); it is probably the Marathi surname Abhyankar (śrīmad-abhayaṃkara-nārāyaṇabhaṭṭa)",
+   "p1: residence normalised to Vārāṇasī; evidence now includes 'kāśyāṃ kṛtī keśava'",
+   "Place emptied: Kāśī is where the author composed the work, not where this copy was made",
+   "Purpose emptied: 'sādhu mude' is the author's dedicatory phrase, not the purpose of this copy",
+   "Month given as a tentative reading 'Āṣāḍha (?)'",
+   "Chronogram checked: bhū(1) nigama(4) iṣu(5) bhū(1), read right to left = Śaka 1541 = c. 1619 CE; saumyadina = Wednesday; vasu = 8"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭakeśava",
+   "name": "Keśavabhaṭṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "Abhayaṃkara (family)",
+   "residence": "Vārāṇasī",
+   "evidence": "nārāyaṇabhaṭṭātmajabhaṭṭakeśavaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "abhayaṃkaranārāyaṇabhaṭṭa",
+   "name": "Nārāyaṇabhaṭṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "Abhayaṃkara (family)",
+   "residence": "",
+   "evidence": "abhayaṃkaranārāyaṇabhaṭṭātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "nārāyaṇabhaṭṭātmajabhaṭṭakeśava"
+  }
+ ],
+ "date": {
+  "as_written": "śākebhūnigameṣu bhūparimite yā ṣāṣmāse site pakṣe saumyadine tithau vasumite",
+  "era": "ŚS",
+  "year": "1541",
+  "month": "Āṣāḍha (?) (written 'yā ṣāṣmāse')",
+  "paksa": "śukla",
+  "tithi": "8",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1619"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The dated verse belongs to the author: Keśava composed (kṛtī) the work in Kāśī in Śaka 1541 (c. 1619 CE). It gives the date of composition, not the date of this copy. The colophon names no scribe, date of copying or place of copying. The month 'yā ṣāṣmāse' is corrupt, possibly for āṣāḍhamāse. 'madabhayaṃkara' in the first colophon is short for śrīmad-abhayaṃkara. '†dhamahin†' and 'prayogasu maṇiṃ' (prob. prayogamaṇiṃ) are corrupt and contain no names.",
+ "_meta": {
+  "reel": "A 447/25",
+  "model": "opus",
+  "cost_usd": 0.5837615999999999,
+  "secs": 31.9
+ }
+}

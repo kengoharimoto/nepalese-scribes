@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "samudāyakara",
+   "name": "Samudāyakara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "samudāyakara†kṛtā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "āśvinaśya te(!) pakṣe saptamyāṃ ravivāsane || śrīśāke 1683 śri(!)saṃvat 1818",
+  "era": "ŚS",
+  "year": "1683 (ŚS) / 1818 (VS)",
+  "month": "āśvina",
+  "paksa": "te(!)",
+  "tithi": "saptamī",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1761"
+ },
+ "place": {
+  "as_written": "tanahugrāma",
+  "normalized": "Tanahu"
+ },
+ "purpose": "",
+ "notes": "The author's name is marked corrupt (†samudāyakara†). Both Śaka era (1683) and Vikrama Saṃvat (1818) are given, matching 1761 CE. 'te(!) pakṣe' is likely corrupt for site pakṣe.",
+ "_meta": {
+  "reel": "A 448/18",
+  "model": "gemini-flash-latest",
+  "secs": 7.8,
+  "in_tok": 742,
+  "out_tok": 1102
+ }
+}

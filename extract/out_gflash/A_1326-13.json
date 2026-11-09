@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vāṇivilāsasarmaṇā⟨ḥ⟩",
+   "name": "Vāṇivilāsa",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakam vāṇivilāsasarmaṇā⟨ḥ⟩",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke ca vāṇanavasaptacandre pakṣendumāsaś ca khacandratithyam || †rudraś ca tārādri-induyoge khaṃ candravārāddhi ṛtau ca cakṣuḥ†",
+  "era": "ŚS",
+  "year": "1795",
+  "month": "",
+  "paksa": "",
+  "tithi": "khacandra (10)",
+  "weekday": "candravāra",
+  "nakshatra_yoga": "tārādri-indu",
+  "ce_approx": "1873"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram in Śaka: vāṇa (5) - nava (9) - sapta (7) - candra (1) = ŚS 1795. The phrasing 'idaṃ pustakam vāṇivilāsasarmaṇā⟨ḥ⟩' could mean 'by Vāṇivilāsa Śarman [written]' or 'this book [belongs to] Vāṇivilāsa Śarman'.",
+ "_meta": {
+  "reel": "A 1326/13",
+  "model": "gemini-flash-latest",
+  "secs": 7.3,
+  "in_tok": 930,
+  "out_tok": 974
+ }
+}

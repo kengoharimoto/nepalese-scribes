@@ -1,0 +1,34 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Tithi normalised: 'pādu' is the Newari word for pratipadā, the first tithi. The '(14)' after kṛṣṇa is most likely the cataloguer's line number (exp. 15t lines 13–14), not the tithi. This is now explained in notes.",
+   "Weekday glossed: śvamavāla is the Newari spelling of somavāra (Monday). It is a Newari form, not a scribal error."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 811 pauṣa kṛṣṇa(14) pādu śvamavāla",
+  "era": "NS",
+  "year": "811",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "pādu (pratipadā, 1)",
+  "weekday": "śvamavāla (somavāra, Monday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1691"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons are named. The era is not stated, but the Newari script, the Newari words and the catalogue field all point to Nepāla Saṃvat. NS 811 + 880 = 1690/91 CE. Pauṣa kṛṣṇa pratipadā most likely falls in Dec 1690 or Jan 1691, depending on how the month is reckoned. 'pādu' is the Newari for pratipadā. The '(14)' is most likely the cataloguer's line marker (exp. 15t, lines 13–14). If it were read as the tithi (caturdaśī), it would conflict with pādu. 'śvamavāla' is the Newari spelling of somavāra (Monday). The weekday has not been checked against the tithi.",
+ "_meta": {
+  "reel": "A 948/6",
+  "model": "opus",
+  "cost_usd": 0.0489228,
+  "secs": 12.3
+ }
+}

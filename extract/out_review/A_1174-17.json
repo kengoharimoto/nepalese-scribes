@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Viśveśvara: confidence lowered from high to medium, because the cataloguer put the middle syllables '(sveśva)' in parentheses as uncertain and marked the form with (!).",
+   "Place: kept the illegible reading but added a note that it sits inside a closing stuti verse ('...nivāsinaṃ ... īḍe'). It may describe where the praised deity lives, not where the copy was made.",
+   "Notes: added that 'kāśīnāthāya maṃgalaṃ' could also be a blessing for a person named Kāśīnātha, such as an owner or recipient. It is not recorded as a person because the reading is uncertain.",
+   "Owner role not added: 'svārthaṃ parārthaṃ ca' is a stock formula, and it does not say the scribe kept the book."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vi(sveśva)rena(!)",
+   "name": "Viśveśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vi(sveśva)rena(!) likhitam",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "(natrāṃsthata)(?)",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthaṃ ca",
+ "notes": "The colophon is undated. Viśveśvara is read with the cataloguer's reconstructed syllables 'vi(sveśva)rena(!)', standing for viśveśvareṇa. 'kāśīnāthāya maṃgalaṃ' most likely invokes Śiva as lord of Kāśī, but it could also be a blessing for a person named Kāśīnātha. That person is not recorded. The place name is illegible and unmetrical. It comes inside a closing verse of praise ('palāśapatrīkṛta... nivāsinaṃ tāṃ ... īḍe'), so it may name the deity's home, not the place of copying. The catalogue says 'Place of Copying: illegible'. The colophon calls the work 'śivāṣṭapatiḥ(!)', probably a corruption of śivāṣṭapadī, while the catalogue title is 'Śivagīta'.",
+ "_meta": {
+  "reel": "A 1174/17",
+  "model": "opus",
+  "cost_usd": 0.5513936,
+  "secs": 27.7
+ }
+}

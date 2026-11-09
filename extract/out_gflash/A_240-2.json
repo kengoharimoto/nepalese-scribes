@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrībhūpatīndramalla deva",
+   "name": "Bhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "deva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrībhūpatīndramalla deva asana śrīśrīśrītaleju ske gajuri jīrṇoddhāra yāṅā deśabaliviyāyā thva sāphula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 826 phārguṇaśukra ekādaśi aṃgāvāra",
+  "era": "NS",
+  "year": "826",
+  "month": "phārguṇa",
+  "paksa": "śukla",
+  "tithi": "ekādaśi",
+  "weekday": "aṃgāvāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1706"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīśrīśrītaleju ske gajuri jīrṇoddhāra yāṅā deśabaliviyāyā thva sāphula (for the ritual performance of the deśabali offering during the restoration of the finial of Taleju)",
+ "notes": "",
+ "_meta": {
+  "reel": "A 240/2",
+  "model": "gemini-flash-latest",
+  "secs": 8.2,
+  "in_tok": 773,
+  "out_tok": 1145
+ }
+}

@@ -1,0 +1,270 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "King: name normalised to Siddhinarasiṃhamalla. 'jaya' is an honorific prefix and 'satva' looks like a corruption of 'malla'. He is Siddhinarasiṃha Malla of Patan (r. c. 1619–1661).",
+   "Date: the chronogram is worked out as (n)anda 9, rudrānana 5, giri 7, read right to left, giving NS 759 (Āśvina 1639 CE). That fits his reign. The catalogue's 1732 does not, since Patan had a different king in 1732. ce_approx changed from 1732 to 1639.",
+   "Tithi: 'krauñcavidāraṇa' (Skanda) read as ṣaṣṭhī. Nakṣatra Jyeṣṭhā, yoga Śobhana. The weekday is unclear.",
+   "Devasundara: role changed from commissioner to other. 'X-yāke kāyāṃ coyā' most likely means the text was taken (copied) from his exemplar, not that he ordered the copy. The wrote_for relation is removed.",
+   "Family members in the donor list (Bhatu, Hera, Dhanadeva, Ratikara, Uhlāpā): role changed from relative_only to donor, because they are named as co-donors in the deyadharma formula.",
+   "Rugudeva: Rudravarṇa Mahāvihāra is now given as his residence/affiliation (vāstavya), and the second vihāra name is marked as corrupt.",
+   "Place: cleared. The colophon does not say where the copy was made; the vihāras named are the donors' and scribes' homes. Patan is only implied.",
+   "Scribe titles and residences checked; notes on Hnavanadeva (possibly Bhuvanadeva) and Jinadeva's 'jyeṣṭha' added.",
+   "under_reign_of now links the donor Rugudeva to the king, instead of the scribe."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī 2 jayasiddhinarasiṃhasatvasya",
+   "name": "Siddhinarasiṃhamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "parameśvaraparamabhaṭṭārakaḥ śrī 2 jayasiddhinarasiṃhasatvasya vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīśākyavaṃśarugu(!)deva",
+   "name": "Rugudeva",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "śākyavaṃśa"
+   ],
+   "affiliation": "Rudravarṇa Mahāvihāra",
+   "residence": "śrīrudravarṇṇamahāvihāra(vāstavya); śrījayatarddhanamahāvihārāvasthita",
+   "evidence": "deya(!) dharmmo yaṃ ... dānapati śrīśākyavaṃśarugu(!)deva",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrījayatasiṃha",
+   "name": "Jayatasiṃha",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rudrabhā(pre) śrījayatasiṃha",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "bhāryyābhatu(!)",
+   "name": "Bhatu",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrugu(!)devasya bhāryyābhatu(!)",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p5",
+   "as_written": "bhāryyāhera",
+   "name": "Hera",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījayatasihasya(!) bhāryyāhera",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p6",
+   "as_written": "dhanadeva",
+   "name": "Dhanadeva",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī‥devasya putra dhanadeva",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p7",
+   "as_written": "putra[[ratikara]]",
+   "name": "Ratikara",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījayatasiṃhasya putra[[ratikara]]",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p8",
+   "as_written": "uhlāpanāmnā",
+   "name": "Uhlāpā",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dhūtiyānapatiyā mātā uhlāpanāmnā",
+   "confidence": "low"
+  },
+  {
+   "pid": "p9",
+   "as_written": "śrīdevasunda‥",
+   "name": "Devasundara",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "bhikṣu"
+   ],
+   "affiliation": "",
+   "residence": "śrīnakavihāra",
+   "evidence": "śrīnakavihārī nivasita bhikṣu śrīdevasunda‥yāke kāmyaṃ coyājuro",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p10",
+   "as_written": "śrīvajrācāryyadevendrapramukhana",
+   "name": "Devendra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "śrībuvāhāra",
+   "evidence": "lekhakaśrībuvāhārāvasthitaśrīvajrācāryyadevendrapramukhana",
+   "confidence": "high"
+  },
+  {
+   "pid": "p11",
+   "as_written": "śrīji[[na]]devena",
+   "name": "Jinadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "śrīrukravāhāra",
+   "evidence": "śrīrukravāhārāvasthi[[ta]]vajrā[[cā]]ryyaśrīji[[na]]devena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p12",
+   "as_written": "śrīhnavanadevena",
+   "name": "Hnavanadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasya putrajyasta(!)śrīhnavanadevena",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p13",
+   "as_written": "śrīmaṇidevena",
+   "name": "Maṇideva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kaneṣṭhaputraśrīmaṇidevena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p4",
+   "type": "wife_of",
+   "to": "p2",
+   "evidence": "śrīrugu(!)devasya bhāryyābhatu(!)"
+  },
+  {
+   "from": "p5",
+   "type": "wife_of",
+   "to": "p3",
+   "evidence": "śrījayatasihasya(!) bhāryyāhera"
+  },
+  {
+   "from": "p7",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "śrījayatasiṃhasya putra[[ratikara]]"
+  },
+  {
+   "from": "p12",
+   "type": "son_of",
+   "to": "p11",
+   "evidence": "tasya putrajyasta(!)śrīhnavanadevena"
+  },
+  {
+   "from": "p13",
+   "type": "son_of",
+   "to": "p11",
+   "evidence": "kaneṣṭhaputraśrīmaṇidevena"
+  },
+  {
+   "from": "p12",
+   "type": "brother_of",
+   "to": "p13",
+   "evidence": "putrajyasta(!)śrīhnavanadevena kaneṣṭhaputraśrīmaṇidevena"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "jayasiddhinarasiṃhasatvasya vijayarājye tasmin samaye liṣitam(!)"
+  }
+ ],
+ "date": {
+  "as_written": "nepāre ye mate yāte mandarudrānanagirau | āṣvinī śitapakṣāṃke tithau kroṃñca vidāraṇe || śubhe jyaṣṭha(!)samāgamye yogaśaubhamasaṃgate | grahānāpa sadvāre",
+  "era": "NS",
+  "year": "759 (chronogram (n)anda 9, rudrānana 5, giri 7, read right to left)",
+  "month": "Āśvina",
+  "paksa": "śukla",
+  "tithi": "ṣaṣṭhī (krauñcavidāraṇa = Skanda)",
+  "weekday": "unclear (grahānāpa sadvāre)",
+  "nakshatra_yoga": "Jyeṣṭhā / Śobhana",
+  "ce_approx": "1639"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "Deyadharma (pious gift) by the family of Rugudeva and Jayatasiṃha: merit for children, wealth and health, protection from dangers, and attainment of anuttarajñāna. The copy was consecrated at a lakṣāhuti homa in Devadatta Mahāvihāra.",
+ "notes": "Date: the catalogue gives 25 Sept 1732, but that conflicts with the reign of Siddhinarasiṃha Malla of Patan (c. 1619–1661). Reading 'manda' as 'nanda' (9), with rudrānana 5 and giri 7, gives NS 759 = Āśvina 1639 CE. That fits the reign; the 1732 date is probably a cataloguer's error. The digit values are still tentative.\n\nKing's name: 'satva' is probably a corruption of 'malla'.\n\nDonors: 'rudrabhā(pre)' between Rugudeva and Jayatasiṃha is unclear. It may be a corrupt 'bhrātṛ', which would make them brothers. The second vihāra name, 'jayatarddhana' (perhaps Jayavardhana?), is corrupt. In 'śrī‥devasya putra dhanadeva' the father's name is lost; it may be Rugudeva. 'dhūtiyānapatiyā mātā uhlāpa' is obscure Newari: Uhlāpā is the mother of someone named there (Dhūti / Ānapati?).\n\nDevasundara: 'yāke kāmyaṃ (kāyāṃ?) coyā' probably means the text was copied from his exemplar, so he is not treated as commissioner.\n\nScribes: Devendra is named as head of the scribes. 'Hnavanadeva' may stand for Bhuvanadeva. 'jyaṣṭha' before Jinadeva probably means 'elder'. 'Rukravāhāra' may be a garbled Ukubāhāḥ (Rudravarṇa).\n\nPlace: Patan context (Uku Bahal, Bu Bahal, Naka Bahī), but the colophon does not say where the copy was made.",
+ "_meta": {
+  "reel": "H 45/6",
+  "model": "opus",
+  "cost_usd": 0.19247879999999998,
+  "secs": 59.9
+ }
+}

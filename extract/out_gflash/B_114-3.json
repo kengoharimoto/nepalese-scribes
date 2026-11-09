@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "tulasaīrāmaśarmaṇā",
+   "name": "Tulasīrāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ tulasaīrāmaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1688 śrīsaṃvat 1823 māse 1 tithau 2 vāre 6 nakṣatre 2 yoge 2 lagne 1",
+  "era": "ŚS",
+  "year": "1688",
+  "month": "1",
+  "paksa": "",
+  "tithi": "2",
+  "weekday": "6",
+  "nakshatra_yoga": "nakṣatre 2 yoge 2 lagne 1",
+  "ce_approx": "1766"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śāka era (1688) and Vikrama Saṃvat (1823) are recorded in the date.",
+ "_meta": {
+  "reel": "B 114/3",
+  "model": "gemini-flash-latest",
+  "secs": 8.0,
+  "in_tok": 751,
+  "out_tok": 927
+ }
+}

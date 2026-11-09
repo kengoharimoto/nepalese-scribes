@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī śrī sumati jaya jitāmitra malla dev asana",
+   "name": "Jayajitāmitramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śrī sumati jaya jitāmitra malla dev asana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 812 māgha śudi 5 thva kuhnu",
+  "era": "NS",
+  "year": "812",
+  "month": "māgha",
+  "paksa": "śudi",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1692"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 194/19",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 710,
+  "out_tok": 855
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kū(!)beraśarmaṇā",
+   "name": "Kubera",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "makavānīrājye śrīrāmanagara",
+   "evidence": "liṣī(!)taṃ kū(!)beraśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "sāke 1711 || māse āsvina vadī || 7 || roja || 6 ||",
+  "era": "ŚS",
+  "year": "1711",
+  "month": "āsvina",
+  "paksa": "vadī",
+  "tithi": "7",
+  "weekday": "6",
+  "nakshatra_yoga": "",
+  "ce_approx": "1789"
+ },
+ "place": {
+  "as_written": "makavānīrājye śrīrāmanagaravāstavyaṃ",
+  "normalized": "Rāmanagara"
+ },
+ "purpose": "",
+ "notes": "Śrīsomanātha and Śrīnārāyaṇī (followed by 'vice', i.e. mantra vicce) are divine invocations.",
+ "_meta": {
+  "reel": "A 483/12",
+  "model": "gemini-flash-latest",
+  "secs": 8.5,
+  "in_tok": 783,
+  "out_tok": 1290
+ }
+}

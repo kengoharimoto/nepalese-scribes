@@ -1,0 +1,61 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayabhūpatīndramallamahārājādhirājasana",
+   "name": "Jayabhūpatīndramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrī jayabhūpatīndramallamahārājādhirājasana vīrasiddhipyākhana lāja ṅūtakā yāva dayakā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jayaraṇajinmallavarmmāḥ",
+   "name": "Jayaraṇajinmalla",
+   "roles": [
+    "king",
+    "beneficiary"
+   ],
+   "titles": [
+    "varman"
+   ],
+   "affiliation": "mānavagotra",
+   "residence": "",
+   "evidence": "mānavagotraḥ śrīśrījayaraṇajinmallavarmmāḥ śrī3 sveṣṭadevatā prītyūtta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 820 aṇṭa āśvina vadi 10 puṣyanakṣatra bṛhaspativāra",
+  "era": "NS",
+  "year": "820",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "puṣyanakṣatra",
+  "ce_approx": "1700"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "vīrasiddhipyākhana dayakā / nṛtyeśvarapūjana",
+ "notes": "The manuscript records two dates for ceremonies/performances related to the Vīrasiddhi: the first under King Bhūpatīndra Malla in NS 820 (1700 CE), and an additional ritual entry under his son King Raṇajit Malla dated saṃ 841 phālguṇa sudi 4 (1721 CE).",
+ "_meta": {
+  "reel": "A 247/33",
+  "model": "gemini-flash-latest",
+  "secs": 12.2,
+  "in_tok": 963,
+  "out_tok": 1761
+ }
+}

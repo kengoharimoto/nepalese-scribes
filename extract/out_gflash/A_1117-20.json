@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajranāthena",
+   "name": "Vajranātha",
+   "roles": [
+    "scribe",
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vajranāthena likhitam ātmapaṭhanārtham",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "asāḍha sudi 5 candravāra saṃvat 1866?",
+  "era": "VS",
+  "year": "1866?",
+  "month": "asāḍha",
+  "paksa": "sudi",
+  "tithi": "5",
+  "weekday": "candravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1809"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "ātmapaṭhanārtham",
+ "notes": "Catalogue normalizes the scribe's name to Vrajanātha, but the colophon clearly reads vajranāthena.",
+ "_meta": {
+  "reel": "A 1117/20",
+  "model": "gemini-flash-latest",
+  "secs": 6.7,
+  "in_tok": 732,
+  "out_tok": 798
+ }
+}

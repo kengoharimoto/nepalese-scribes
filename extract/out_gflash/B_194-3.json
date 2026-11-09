@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumatijayajitāmitramallanā",
+   "name": "Jayajitāmitramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumatijayajitāmitramallanā thāku rājakurasa bhairavāgni yāyayā tādayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 802 māgha śudi 5",
+  "era": "NS",
+  "year": "802",
+  "month": "māgha",
+  "paksa": "śudi",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1682"
+ },
+ "place": {
+  "as_written": "rājakurasa",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "bhairavāgni yāyayā (for performing the Bhairavāgni ritual)",
+ "notes": "King Jayajitāmitramalla of Bhaktapur caused the text to be prepared (Newari: tādayakā juroṃ) for performing the Bhairavāgni ritual in the royal palace (rājakura).",
+ "_meta": {
+  "reel": "B 194/3",
+  "model": "gemini-flash-latest",
+  "secs": 11.9,
+  "in_tok": 716,
+  "out_tok": 1299
+ }
+}

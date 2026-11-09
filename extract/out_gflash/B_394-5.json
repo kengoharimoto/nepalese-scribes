@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭojībhaṭṭa",
+   "name": "Bhaṭṭoji",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭojībhaṭṭaracito",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1760 māse caitraśukla 3 roja 2",
+  "era": "ŚS",
+  "year": "1760",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "roja 2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1838"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 394/5",
+  "model": "gemini-flash-latest",
+  "secs": 8.4,
+  "in_tok": 765,
+  "out_tok": 1083
+ }
+}

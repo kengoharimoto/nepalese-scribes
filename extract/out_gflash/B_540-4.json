@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṛṣṇalālaśarmaṇaḥ",
+   "name": "Kṛṣṇalāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ kṛṣṇalālaśarmaṇaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1772 saṃvat 1902",
+  "era": "ŚS",
+  "year": "1772",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1850"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon provides two year counts: śāke 1772 (ca. 1850 CE) and saṃvat 1902 (if VS, ca. 1845 CE; or possibly an error for 1907/1908 VS).",
+ "_meta": {
+  "reel": "B 540/4",
+  "model": "gemini-flash-latest",
+  "secs": 8.4,
+  "in_tok": 712,
+  "out_tok": 925
+ }
+}

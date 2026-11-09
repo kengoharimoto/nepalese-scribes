@@ -1,0 +1,63 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhākutudājuyāke",
+   "name": "Bhākutudāju",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Maṇicche",
+   "evidence": "maṇiccheyā śrībhākutudājuyāke kāyāva coyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīviṣnudharana",
+   "name": "Viṣṇudhara",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Kīrttipura",
+   "evidence": "kīrttipurīyā śrīviṣnudharana cioyā va tayā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "other",
+   "to": "p1",
+   "evidence": "śrībhākutudājuyāke kāyāva coyā"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 792 pauṣaśukla pañcamī aṃgālavāla(!)",
+  "era": "NS",
+  "year": "792",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "aṃgālavāla",
+  "nakshatra_yoga": "",
+  "ce_approx": "1672"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtha",
+ "notes": "Viṣṇudhara of Kirtipur copied the manuscript having obtained/borrowed it from Bhākutudāju of Maṇicche, and kept it for himself (cioyā va tayā).",
+ "_meta": {
+  "reel": "B 191/19",
+  "model": "gemini-flash-latest",
+  "secs": 15.8,
+  "in_tok": 760,
+  "out_tok": 2004
+ }
+}

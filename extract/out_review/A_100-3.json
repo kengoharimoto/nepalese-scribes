@@ -1,0 +1,34 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "date.era changed from 'VS' to 'unspecified': the colophon gives only 'samvatsaraḥ 19 || 21' and names no era. VS is still the likely reading (see notes), so year 1921 and ce_approx 1864 are kept.",
+   "notes expanded to explain why VS is assumed and why the catalogue's king is not in the text."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvatsaraḥ || 19 || 21 ||",
+  "era": "unspecified",
+  "year": "1921",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1864"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names no era. The year is written in two parts, '19 || 21', which most likely means 1921. VS 1921 (c. 1864 CE) is the probable era: the catalogue gives 'VS 1921?', the script is Devanagari, and the catalogue links the copy to Jaṅgabahādura Rāṇā, who held power 1846–1877. ŚS 1921 would be 1999 CE and NS 1921 is impossible. Jaṅgabahādura Rāṇā is not named in the quoted colophon, so he is not listed as a person. No scribe, owner or place is given.",
+ "_meta": {
+  "reel": "A 100/3",
+  "model": "opus",
+  "cost_usd": 0.045942800000000006,
+  "secs": 10.2
+ }
+}

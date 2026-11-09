@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Siddhirāmadeva: dropped role 'owner'. The formula 'X-yā śubhaḥ' (Newari genitive plus a blessing) wishes auspiciousness on him but does not say the book is his; kept 'beneficiary' only",
+   "Month normalized to Phālguna (as written: phālhuguṇa)",
+   "Purpose filled in; notes rewritten"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsiddhirāmadevayā",
+   "name": "Siddhirāmadeva",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsiddhirāmadevayā śubhaḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 803 phālhuguṇa kṛṣṇa",
+  "era": "NS",
+  "year": "803",
+  "month": "Phālguna",
+  "paksa": "kṛṣṇa",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1683"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for the well-being (śubha) of Siddhirāmadeva",
+ "notes": "The era is not stated. NS is assumed from the Newari script, the Newari genitive -yā and the catalogue field (NS 803). Phālguna kṛṣṇa of NS 803 falls in early 1683 CE. The tithi was left out by the cataloguer (…). The '-deva' ending in Siddhirāmadeva does not make him a king: there is no royal epithet. 'Siddhirāmadevayā śubhaḥ' is a blessing on him. He could be the patron or owner, but the colophon does not say so. No scribe is named, and the cataloguer's ellipses may hide more text.",
+ "_meta": {
+  "reel": "B 380/15",
+  "model": "opus",
+  "cost_usd": 0.5484336000000001,
+  "secs": 23.0
+ }
+}

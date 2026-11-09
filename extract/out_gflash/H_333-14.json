@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmahālakṣmidevena",
+   "name": "Lakṣmīdeva",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahālakṣmidevena svārtha/// ... likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmatsendrapādāvatārite",
+   "name": "Matsyendra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "pāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatsendrapādāvatārite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "ś.iniśukladvitīyā hastanakṣatra brahmayogabṛhaspatidinaṃ",
+  "era": "unspecified",
+  "year": "",
+  "month": "Āśvina",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "bṛhaspatidina",
+  "nakshatra_yoga": "hastanakṣatra brahmayoga",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtha",
+ "notes": "The year is broken off in the lacuna preceding the date. The month 'ś.ini' is likely Āśvina. The scribe's name could be read as Mahālakṣmīdeva; the catalogue registers Lakṣmīdeva. Chapter colophons also mention Matsyendra under the names Macchaghna and Mīna.",
+ "_meta": {
+  "reel": "H 333/14",
+  "model": "gemini-flash-latest",
+  "secs": 21.6,
+  "in_tok": 2269,
+  "out_tok": 2737
+ }
+}

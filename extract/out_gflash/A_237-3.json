@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayabhūpatīndramalla devasanato",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayabhūpatīndramalla devasanato gaṇacche pratiṣṭhāyatādayakā va pratiṣṭhā yāṅā dina",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 835 māgha vadi 13",
+  "era": "NS",
+  "year": "835",
+  "month": "māgha",
+  "paksa": "vadi",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1715"
+ },
+ "place": {
+  "as_written": "gaṇacche",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "pratiṣṭhā",
+ "notes": "The colophon notes that this was the day of consecration (pratiṣṭhā yāṅā dina) established/made by King Jayabhūpatīndra Malla at Gaṇacche (a tole in Bhaktapur).",
+ "_meta": {
+  "reel": "A 237/3",
+  "model": "gemini-flash-latest",
+  "secs": 7.2,
+  "in_tok": 751,
+  "out_tok": 919
+ }
+}

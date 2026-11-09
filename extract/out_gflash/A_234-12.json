@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīharipatidevana",
+   "name": "Haripatideva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīharipatidevana coyā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 801 (2)? jyeṣṭha śukla navami",
+  "era": "NS",
+  "year": "801",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "navamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1681"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon is followed by a vernacular (Bhojpuri/Hindi-influenced) incantation/mantra invoking Kāmākhyā Devī (kāmarideśakaṃmacchādevi...). The cataloguer marks the last digit of the year as uncertain (801 or 802).",
+ "_meta": {
+  "reel": "A 234/12",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 784,
+  "out_tok": 1082
+ }
+}

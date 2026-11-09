@@ -1,0 +1,182 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vyakhādhaṃ",
+   "name": "Vyakhādhaṃ",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "treyemūlamahāvyūhāra",
+   "residence": "kāṣṭhamaṇḍapa",
+   "evidence": "cocakājo pratiṣṭhāyānādi na juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sujayati dhaṃkhu",
+   "name": "Sujayatidhaṃkhu",
+   "roles": [
+    "relative_only",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svapitādivaṃgatasujayati dhaṃkhu",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "dhanalakṣimi",
+   "name": "Dhanalakṣmī",
+   "roles": [
+    "relative_only",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mātādivaṃgatadhanalakṣimijuro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīvalakṣmi",
+   "name": "Śrīvalakṣmī",
+   "roles": [
+    "relative_only",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "‥bhṛbhāryyadivagataśrīvalakṣmi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "cithukuṃ",
+   "name": "Cithukuṃ",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvibhṛbhāryyāsajivacithukuṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "vikidhaṃ",
+   "name": "Vikidhaṃ",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svaputravikidhaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "jñānithukuṃ",
+   "name": "Jñānithukuṃ",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasya bhāryyājñānithukuṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p8",
+   "as_written": "rājamuni",
+   "name": "Rājamuni",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pautrarājamuni",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "svapitādivaṃgatasujayati dhaṃkhu"
+  },
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "mātādivaṃgatadhanalakṣimijuro"
+  },
+  {
+   "from": "p4",
+   "type": "wife_of",
+   "to": "p1",
+   "evidence": "‥bhṛbhāryyadivagataśrīvalakṣmi"
+  },
+  {
+   "from": "p5",
+   "type": "wife_of",
+   "to": "p1",
+   "evidence": "dvibhṛbhāryyāsajivacithukuṃ"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "svaputravikidhaṃ"
+  },
+  {
+   "from": "p7",
+   "type": "wife_of",
+   "to": "p6",
+   "evidence": "tasya bhāryyājñānithukuṃ"
+  },
+  {
+   "from": "p8",
+   "type": "grandson_of",
+   "to": "p1",
+   "evidence": "pautrarājamuni"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 9(8)1 śrāvaṇakṛṣṇayānavami śuklavāra",
+  "era": "NS",
+  "year": "981",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "navamī",
+  "weekday": "śuklavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1861"
+ },
+ "place": {
+  "as_written": "kāṣṭhamaṇḍapamahānagare tre[ye]mūlamahāvyūhāreyā",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "pratiṣṭhā / religious merit",
+ "notes": "The manuscript was copied by an unnamed scribe for the Śākyabhikṣu Vyakhādhaṃ of Treyemūla Mahāvihāra (Te Bahal) in Kathmandu and his family. A second date is mentioned for the consecration (pratiṣṭhā): samvat 98(1) sti mārga... pañcamī śukla.",
+ "_meta": {
+  "reel": "E 712/4",
+  "model": "gemini-flash-latest",
+  "secs": 51.4,
+  "in_tok": 1106,
+  "out_tok": 6902
+ }
+}

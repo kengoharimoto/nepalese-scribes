@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayabhūpatīndramalladevasana",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrī jayabhūpatīndramalladevasana || śrīśrīśrīcāmuṇḍādevīyāke viśvajātrāna mahādīpaprajvālita cchoya kāyā thva saṃphula dayakā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīśrīśrīcāmuṇḍādevīyāke viśvajātrāna mahādīpaprajvālita cchoya kāyā",
+ "notes": "",
+ "_meta": {
+  "reel": "A 237/1",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 759,
+  "out_tok": 721
+ }
+}

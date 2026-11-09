@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paṃḍitaśrībhuvanānandana",
+   "name": "Bhuvanānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paṃḍita"
+   ],
+   "affiliation": "Mahābuddha",
+   "residence": "Mahābuddha",
+   "evidence": "paṃḍitaśrībhuvanānandana ... coyā viyā jula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1030 pauṣamāse śuklapakkṣe pū(!)rṇamāsi maṃgalavārasa",
+  "era": "NS",
+  "year": "1030",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "pūrṇamāsī",
+  "weekday": "maṃgalavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1910"
+ },
+ "place": {
+  "as_written": "mahābuddhayā ... o kuli bahili sa",
+  "normalized": "Patan"
+ },
+ "purpose": "parivāra cchiyāṃ saptabṛddhiṃ pūrṇa juyamāla",
+ "notes": "The recipient/commissioner was apparently named in the lacuna ('o kuli bahili sa cona hma ⟪…⟫ coyā viyā jula'). Mahābauddha and Okubahil (Ukū Bāhāḥ) are well-known localities/vihāras in Patan.",
+ "_meta": {
+  "reel": "A 127/3",
+  "model": "gemini-flash-latest",
+  "secs": 9.6,
+  "in_tok": 863,
+  "out_tok": 1477
+ }
+}

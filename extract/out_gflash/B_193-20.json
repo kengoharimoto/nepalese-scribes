@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sāhebarāma tripāthī",
+   "name": "Sāhebarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "tripāthī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ sāhebarāma tripāthī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1837 miti mārgaśirṣa(!)kṛṣṇapakṣe tithau 4 caturthyāṃ guruvāsare",
+  "era": "VS",
+  "year": "1837",
+  "month": "mārgaśīrṣa",
+  "paksa": "kṛṣṇapakṣa",
+  "tithi": "4 caturthī",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1780"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 193/20",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 707,
+  "out_tok": 676
+ }
+}

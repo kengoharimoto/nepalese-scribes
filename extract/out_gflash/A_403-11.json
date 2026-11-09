@@ -1,0 +1,75 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahādeva",
+   "name": "Mahādeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahādevātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gaurīśvara",
+   "name": "Gaurīśvara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gaurīśvara⟨vira⟩viracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīghanasyāmena",
+   "name": "Ghanaśyāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīghanasyāmena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīmahādevātmajagaurīśvara"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1707 māse 5 śukra 6 vāsare 6",
+  "era": "ŚS",
+  "year": "1707",
+  "month": "5",
+  "paksa": "śukla",
+  "tithi": "6",
+  "weekday": "6",
+  "nakshatra_yoga": "",
+  "ce_approx": "1785"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthaṃ vā",
+ "notes": "śukra 6 likely represents śuklapakṣa tithi 6.",
+ "_meta": {
+  "reel": "A 403/11",
+  "model": "gemini-flash-latest",
+  "secs": 10.0,
+  "in_tok": 736,
+  "out_tok": 1451
+ }
+}

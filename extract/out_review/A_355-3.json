@@ -1,0 +1,155 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p4: name stem changed from 'Hemarāja Śarman' to 'Hemarāja'; 'śarman' moved to titles; 'owner' added to roles, because the copy is made for his own library (tadīyabhāratībhavanālaṅkaraṇāya)",
+   "p5: name stem changed from 'Pūrṇaprasāda Śarman' to 'Pūrṇaprasāda'; 'śarman' added to titles",
+   "p2: titles corrected: 'śrīpañca' changed to 'śrīpañcakālaṅkṛta'; 'varman' added; residence emptied (Nepāla belongs to his title, not his residence)",
+   "p3: titles corrected: 'śrītrika' changed to 'trikālaṅkṛta'; 'varman' added; noted that he is Candra Śamśera (Chandra Shumshere)",
+   "Relation added: p4 is the rājaguru of p2 (type other)",
+   "Relation added: p4 is supported by p3 (karāvalambita, type other)",
+   "Purpose shortened",
+   "Notes: added the source manuscript's date and where it was held, and checked the date"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīratnākaraśāntipādānāṃ",
+   "name": "Ratnākaraśānti",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "pāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtir iyaṃ śrīratnākaraśāntipādānāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "tribhuvanavīravikramasāhadevavarma",
+   "name": "Tribhuvanavīravikramasāhadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "śrīpañcakālaṅkṛta",
+    "varman"
+   ],
+   "affiliation": "Śāha dynasty",
+   "residence": "",
+   "evidence": "śrīmannepālamaṇḍalamahārājādhirāja śrīpañcakālaṅkṛtatribhuvanavīravikramasāhadevavarma",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "candraseravarma",
+   "name": "Candrasera",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "pradhānāmātya",
+    "trikālaṅkṛta",
+    "mahārāja",
+    "varman"
+   ],
+   "affiliation": "Rāṇā",
+   "residence": "",
+   "evidence": "tatpradhānāmātyaśrītrikālaṅkṛtamahārājacandraseravarma",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "hemarājaśarma",
+   "name": "Hemarāja",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "rājaguru",
+    "śarman",
+    "vidvadvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājaguruśrīhemarājaśarmavidvadvarāṇām ājñayā tadīyabhāratībhavanālaṅkaraṇāya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "pūrṇaprasādaśarmaṇā",
+   "name": "Pūrṇaprasāda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pūrṇaprasādaśarmaṇā vilikhya samāpitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p5",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "hemarājaśarmavidvadvarāṇām ājñayā tadīyabhāratībhavanālaṅkaraṇāya ... pūrṇaprasādaśarmaṇā vilikhya"
+  },
+  {
+   "from": "p5",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "mahārājādhirāja śrīpañcakālaṅkṛtatribhuvanavīravikramasāhadevavarma"
+  },
+  {
+   "from": "p3",
+   "type": "servant_of",
+   "to": "p2",
+   "evidence": "tatpradhānāmātyaśrītrikālaṅkṛtamahārājacandraseravarma"
+  },
+  {
+   "from": "p4",
+   "type": "other",
+   "to": "p2",
+   "evidence": "rājaguruśrīhemarājaśarma (rājaguru of the king)"
+  },
+  {
+   "from": "p4",
+   "type": "other",
+   "to": "p3",
+   "evidence": "candraseravarmakarāvalambitarājaguru (supported by the prime minister)"
+  }
+ ],
+ "date": {
+  "as_written": "1986 vaikramābde 1049 nepālābde bhādraśukladvādaśyām indradhvajotsavadine ravau",
+  "era": "VS",
+  "year": "1986 (= NS 1049)",
+  "month": "Bhādra",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "ravi (Sunday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1929"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for the library (Bhāratībhavana) of Rājaguru Hemarāja, on his order",
+ "notes": "The two eras agree: VS 1986 − 57 = 1929 and NS 1049 + 880 = 1929. Bhādra śukla 12 with Indra Jātrā on a Sunday fits about 15 September 1929. This copy was made line by line from an old palm-leaf manuscript in the Nepal Royal Library, written in Newar (Bhujimol) script. The cataloguer reads that manuscript's date as 'samvat acūḍa (178)', Māgha śukla pratipad; this is probably NS 178, about 1058 CE, but the word 'acūḍa' is unclear. 'candrasera' is a corrupt or abbreviated spelling of Candra Śamśera (Chandra Shumshere Rana), who was prime minister at the time; the stem is kept as written. No place is given in the colophon. Kathmandu is likely, since the source was in the Royal Library and Hemarāja's Bhāratībhavana was in Kathmandu, but this is not stated.",
+ "_meta": {
+  "reel": "A 355/3",
+  "model": "opus",
+  "cost_usd": 0.0963148,
+  "secs": 24.5
+ }
+}

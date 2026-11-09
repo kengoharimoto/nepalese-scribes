@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "candrapatina",
+   "name": "Candrapati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "maṇisaṃghamahāvihāra",
+   "residence": "hlugrabāhāra",
+   "evidence": "śrīvajrācāryya candrapatina thaota kāraṇaṃ taodaha oneta coyā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 930 kārttka śukla 12sa",
+  "era": "NS",
+  "year": "930",
+  "month": "kārttka",
+  "paksa": "śukla",
+  "tithi": "12",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1810"
+ },
+ "place": {
+  "as_written": "maṇisaṃghamahāvihāre laṃtale ... hlugrabāhārasa",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "thaota kāraṇaṃ taodaha oneta (for his own purpose, for going to Taudaha)",
+ "notes": "",
+ "_meta": {
+  "reel": "B 106/19",
+  "model": "gemini-flash-latest",
+  "secs": 9.8,
+  "in_tok": 771,
+  "out_tok": 1199
+ }
+}

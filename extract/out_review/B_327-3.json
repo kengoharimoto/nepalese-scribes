@@ -1,0 +1,72 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Added notes: 'sūta' stands for suta (son); the date could fall in 1718 or 1719 CE depending on amānta/pūrṇimānta month reckoning; the closing phrase reads as a vernacular completion formula; no scribe is named."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mallāridaivajña",
+   "name": "Mallāri",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mallāridaivajñaviracitāyāṃ grahalāghavaṭīkāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "divākaradaivajña",
+   "name": "Divākara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "gaṇakacūḍāmaṇi",
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gaṇakacūḍāmaṇidivākaradaivajñasūta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "divākaradaivajñasūtamallāri"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1775 samai caitavadī ekādaśī",
+  "era": "VS",
+  "year": "1775",
+  "month": "caitra",
+  "paksa": "kṛṣṇa (vadī)",
+  "tithi": "ekādaśī (11)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1718"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "'sūta' stands for suta, so Mallāri is the son of Divākara. Mallāri wrote the commentary on Gaṇeśa Daivajña's Grahalāghava. Gaṇeśa is not named in the colophon, so he is not listed. No scribe, commissioner or owner is named. The date, VS 1775 Caitra vadi 11, falls in early 1718 CE if the month runs full moon to full moon (pūrṇimānta) or in 1719 if it runs new moon to new moon (amānta). Taking simply VS−57 gives 1718. 'kaha sīdhama ’bhothī' (marked (!) by the cataloguer) looks like a corrupt Hindi/Nepali completion formula, roughly 'ko siddham bhayo/bhaī', meaning 'was completed'. It contains no personal name. The Hindi-style date formula ('samai', 'vadī') suggests the copy may have been made outside the Kathmandu Valley.",
+ "_meta": {
+  "reel": "B 327/3",
+  "model": "opus",
+  "cost_usd": 0.0585068,
+  "secs": 14.2
+ }
+}

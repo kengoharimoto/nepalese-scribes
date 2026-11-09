@@ -1,0 +1,81 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 (Dhijavira): removed role 'owner'. The colophon only says he had the copy made and took it ('cokāo kayādina'). It never calls the book his.",
+   "p1: title spelling normalized to 'vajrācārya' (the colophon has 'varjācāryya'). Confidence lowered to medium because the name 'Sighavila' looks garbled (possibly Siṃhavīra).",
+   "p2: name given as Dhijavīra, medium confidence, since the spelling is uncertain.",
+   "Added the reverse relation p2 commissioned_from p1.",
+   "date: pakṣa normalized to śukla, month to Vaiśākha, weekday read as roja 3 = Tuesday. The tithi number is missing.",
+   "notes: Thimi is the commissioner's stated residence, not an explicitly stated place of copying."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsighavila gubhājuna",
+   "name": "Sighavila",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya",
+    "gubhāju"
+   ],
+   "affiliation": "Viṣṇuche Bāhāra",
+   "residence": "Paradṛte",
+   "evidence": "rikhita śrī 3 paradṛteyā śrī 3 viṣṇuchebāhārayā varjācāryya śrīsighavila gubhājuna",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dhijaviranaṃ",
+   "name": "Dhijavīra",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Themi (Thimi), Thvavu tola",
+   "evidence": "themiddeśayā thvavu torayā dhijaviranaṃ thva puṣṭaka cokāo kayādina jura",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "rikhita ... śrīsighavila gubhājuna, themiddeśayā thvavu torayā dhijaviranaṃ thva puṣṭaka cokāo kayādina jura"
+  },
+  {
+   "from": "p2",
+   "type": "commissioned_from",
+   "to": "p1",
+   "evidence": "dhijaviranaṃ thva puṣṭaka cokāo kayādina jura"
+  }
+ ],
+ "date": {
+  "as_written": "savata 979 mti vaiśrākha śudi roja 3",
+  "era": "NS",
+  "year": "979",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "roja 3 (Tuesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1859"
+ },
+ "place": {
+  "as_written": "themiddeśayā thvavu torayā",
+  "normalized": "Thimi"
+ },
+ "purpose": "",
+ "notes": "The colophon does not name the era. NS is assumed from the catalogue (NS 979) and the Newari formula 'savata ... mti ... roja'. NS 979 + 880 = CE 1859. No tithi number follows 'śudi'. 'roja 3' is read as the weekday (Tuesday). The place of copying is not stated explicitly: Thimi (Themi deśa, Thvavu tola) is where the commissioner lives. The catalogue's 'Thimi' probably comes from this. The scribe belongs to Viṣṇuche Bāhāra in 'Paradṛte', a place I cannot identify, so it may be corrupt. 'śrī 3' before the place and vihāra names is honorific. The name readings Sighavila and Dhijavira are uncertain because of the scribe's non-standard orthography.",
+ "_meta": {
+  "reel": "A 1020/5",
+  "model": "opus",
+  "cost_usd": 0.5948576,
+  "secs": 32.0
+ }
+}

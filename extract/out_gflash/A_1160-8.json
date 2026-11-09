@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The quoted text contains only chapter colophons and the opening of a standard scribal verse (yādṛśaṃ pustakeḥ). No persons, dates, or locations are named.",
+ "_meta": {
+  "reel": "A 1160/8",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 839,
+  "out_tok": 594
+ }
+}

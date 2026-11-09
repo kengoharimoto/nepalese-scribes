@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "raṃhnamuni",
+   "name": "Ratnamuni",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "raṃhnamuni likhāpitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī saṃvaṭ 903 vaisākha śukra 3 dasābhīkhekra dina",
+  "era": "NS",
+  "year": "903",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1783"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "jajamānayā śubhamaṃgaraṃ bhavantu",
+ "notes": "raṃhnamuni is a Newari phonetic spelling of Ratnamuni. The day is designated as 'dasābhīkhekra dina' (daśābhiṣeka-dina).",
+ "_meta": {
+  "reel": "A 128/11",
+  "model": "gemini-flash-latest",
+  "secs": 6.7,
+  "in_tok": 706,
+  "out_tok": 893
+ }
+}

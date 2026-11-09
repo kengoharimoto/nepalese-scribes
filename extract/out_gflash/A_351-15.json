@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayaraṇajita malladeva",
+   "name": "Jayaraṇajitamalladeva",
+   "roles": [
+    "author",
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayaraṇajita malladevamahārājādhirāja viracite ... śrīśrījayaraṇajita malladevasana kārttika vrata saṃpūrṇṇa yāṅāva thva pyākhana huyakā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 881 kārtika śukla pūrṇṇimā kunhu",
+  "era": "NS",
+  "year": "881",
+  "month": "kārtika",
+  "paksa": "śukla",
+  "tithi": "pūrṇṇimā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1760"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "kārttika vrata saṃpūrṇṇa yāṅāva thva pyākhana huyakā (performed/staged on the completion of the Kārttika vrata)",
+ "notes": "The colophon records the staging/sponsoring of the play (thva pyākhana huyakā) by King Raṇajit Malla of Bhaktapur upon completing his Kārttika vrata. The manuscript itself does not explicitly record a scribe.",
+ "_meta": {
+  "reel": "A 351/15",
+  "model": "gemini-flash-latest",
+  "secs": 10.8,
+  "in_tok": 788,
+  "out_tok": 1489
+ }
+}

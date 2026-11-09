@@ -1,0 +1,78 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "māṇikabhaṭṭavaidya",
+   "name": "Māṇikabhaṭṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa",
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "Mahaṃmadānagara",
+   "evidence": "śrīmahaṃmadānagarasthitamāṇikabhaṭṭavaidyātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "moreśvara",
+   "name": "Moreśvara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Mahaṃmadānagara",
+   "evidence": "moreśvaraviracite vaidyāmṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vṛjanāthe ⟪sya⟫ n⟨e⟩ ⌠a⌡",
+   "name": "Vṛjanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vṛjanāthe ⟪sya⟫ n⟨e⟩ ⌠a⌡ kāśyāṃ likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "māṇikabhaṭṭavaidyātmajamoreśvara"
+  }
+ ],
+ "date": {
+  "as_written": "miti vaiśākha adhika śuddha 1 maṃdavāsare saṃ 1907",
+  "era": "VS",
+  "year": "1907",
+  "month": "Vaiśākha (adhika)",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1850"
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "ātmapaṭhanārthaṃ vā paropakārārthaṃ",
+ "notes": "",
+ "_meta": {
+  "reel": "A 286/9",
+  "model": "gemini-flash-latest",
+  "secs": 8.1,
+  "in_tok": 844,
+  "out_tok": 1405
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhavadatta",
+   "name": "Bhavadatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "grathitavān bhavadattadhīmān",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke caturbhujadharādharabhūmiyukte",
+  "era": "ŚS",
+  "year": "1724",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1802"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram caturbhuja (4) - dharādhara (7) - bhūmi (1) with bhuja (2) gives Śaka 1724 (catur-bhuja-dharādhara-bhūmi). Ratnasena is mentioned as the progenitor/subject of the genealogy (vaṃśāvalī) and is not a historical participant in the manuscript's copying.",
+ "_meta": {
+  "reel": "A 319/16",
+  "model": "gemini-flash-latest",
+  "secs": 8.7,
+  "in_tok": 716,
+  "out_tok": 1140
+ }
+}

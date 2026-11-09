@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayaraṇajinmalladeva",
+   "name": "Jayaraṇajinmalla",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jayaraṇajinmalladeva mahārājādhirājaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 874 āṣāḍha śudi 8",
+  "era": "NS",
+  "year": "874",
+  "month": "āṣāḍha",
+  "paksa": "śudi",
+  "tithi": "8",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1754"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names Jayaraṇajit Malla (Ranajit Malla of Bhaktapur) as the author (mahārājādhirājaviracite). The place of copying is not specified in the colophon text itself, though the catalogue records Bhaktapur based on the king's seat.",
+ "_meta": {
+  "reel": "A 344/13",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 746,
+  "out_tok": 971
+ }
+}

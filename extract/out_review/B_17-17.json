@@ -1,0 +1,129 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed p5 'Jayaprākagdeva' as commissioner. The genitive 'jayaprāk(?)devasya' goes with 'nidhuvanam udāraṃ' (the poem of Viṣṇu's love-play), so it almost certainly names the poet Jayadeva (perhaps a corruption, or 'the former Jayadeva'). It does not name a patron, and the colophon has no commissioning verb. Also removed the wrote_for relation that pointed to this person.",
+   "Tithi corrected from 1 to 4: 'vidhimukhe' means 'Brahmā's faces' = 4 (caturthī).",
+   "Added the scribe's alternative name forms ('vipaścidrūpākhyo', 'śrīrūpadevo'). Dropped 'vipaścit' from titles because it is an epithet.",
+   "Added a check of both chronograms to the notes."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayadevapaṇḍitakaveḥ",
+   "name": "Jayadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paṇḍita",
+    "kavi",
+    "kavirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kavirājaśrījayadevakṛtaṃ śrīgītagovindābhidhānaṃ kāvyam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrībhojadevaprabhavasya",
+   "name": "Bhojadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhojadevaprabhavasya rāmadevīsutaśrījayadevakasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rāmadevīsuta",
+   "name": "Rāmadevī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmadevīsutaśrījayadevakasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīrūpadevadvijaḥ; vipaścidrūpākhyo; śrīrūpadevo",
+   "name": "Rūpadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "prālikhat ... śrīrūpadevadvijaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrījayarāyamallanṛpateś",
+   "name": "Jayarāyamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājye śrījayarāyamallanṛpateś",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrībhojadevaprabhavasya ... śrījayadevakasya"
+  },
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "rāmadevīsutaśrījayadevakasya"
+  },
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p5",
+   "evidence": "rājye śrījayarāyamallanṛpateś ... prālikhat"
+  }
+ ],
+ "date": {
+  "as_written": "nepāle rasacandraṣaḍmukhamukhe samvatsare ... bhādre mā[[si]] site tithau vidhimukhe vāre suradviṭguror ... vasuvidhusamudrābdhijaśake(!)",
+  "era": "NS",
+  "year": "616",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1496"
+ },
+ "place": {
+  "as_written": "nepāle",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives two dates, and they agree. NS: rasa 6, candra 1, ṣaḍmukha 6, read right to left = 616, and 616 + 880 = 1496 CE. Śaka: vasu 8, vidhu 1, samudra 4, abdhija (the moon) 1, reversed = 1418, and 1418 + 78 = 1496 CE. Tithi 'vidhimukha' = the 4 faces of Brahmā = caturthī. Weekday 'suradviṭguru' = Śukra = Friday. The verse containing 'jayaprāk(?)devasya' is unmetrical (cataloguer's note). In context the genitive most likely refers to the author Jayadeva, not to a patron, so it is not entered as a separate person. 'cintāmaṇeḥ prārthināṃ' is an epithet of the king. Jayarāyamalla = Rāya Malla of Bhaktapur, which fits 1496. 'nepāle' only says the copy was made in Nepal; no town is named.",
+ "_meta": {
+  "reel": "B 17/17",
+  "model": "opus",
+  "cost_usd": 0.6413456,
+  "secs": 41.5
+ }
+}

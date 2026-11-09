@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhuvaneśvaraśarmaṇā",
+   "name": "Bhuvaneśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ bhuvaneśvaraśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "1993 | sāla vaiśākha gate 18 | 5",
+  "era": "VS",
+  "year": "1993",
+  "month": "vaiśākha",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1936"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Catalogue supplies the scribe's family name (Bhaṭṭarāī) and place of copying (Kathmandu), neither of which appears in the colophon text.",
+ "_meta": {
+  "reel": "A 1149/35",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 725,
+  "out_tok": 810
+ }
+}

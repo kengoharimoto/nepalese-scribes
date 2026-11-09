@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śaṃkrasiṃhasya",
+   "name": "Śaṃkarasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śaṃkrasiṃhasya lekhyaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 880 miti pauṣa kṛṣṇa tra(exp. 45t7)yodaśī",
+  "era": "NS",
+  "year": "880",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1760"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 190/36",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 706,
+  "out_tok": 694
+ }
+}

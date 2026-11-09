@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1761 pauṣakṛṣṇa daśamyāṃ ravau",
+  "era": "VS",
+  "year": "1761",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1704"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīrāmārpaṇam astu",
+ "notes": "ravāvalikhat resolves to ravau alikhat ('[someone] wrote on Sunday'); no individual scribe or patron is named.",
+ "_meta": {
+  "reel": "A 899/20",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 692,
+  "out_tok": 848
+ }
+}

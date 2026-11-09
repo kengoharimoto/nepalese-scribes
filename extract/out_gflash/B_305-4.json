@@ -1,0 +1,75 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭarudraṭasya",
+   "name": "Rudraṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śāstraṃ kṛti (!) bhaṭṭarudraṭasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmanoharopādhyāyasya",
+   "name": "Manohara",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanoharopādhyāyasya pustakaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrībalabhadraśarmmanā",
+   "name": "Balabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman",
+    "dharaṇīdeva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ balena dharaṇī devena ... likhitaṃ śrībalabhadraśarmmanā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepāle varahāyane guṇavilorvvībhṛdbhir udyodite, māghe māsi site maheśvaratithau puṣyarkṣasaṃśobhite, | āyuṣmad budhavāsare makarage bhānau vidhau karkkaṭe",
+  "era": "NS",
+  "year": "793",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "caturdaśī",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "puṣya nakṣatra, āyuṣmat yoga",
+  "ce_approx": "1673"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthahetunā",
+ "notes": "The chronogram 'guṇa-vila-urvībhṛt' yields 3-9-7, which in reverse order is NS 793 (1673 CE). The catalogue's suggested date 'SAM 1693?' is likely an erroneous conversion or misreading of the chronogram.",
+ "_meta": {
+  "reel": "B 305/4",
+  "model": "gemini-flash-latest",
+  "secs": 21.8,
+  "in_tok": 916,
+  "out_tok": 2525
+ }
+}

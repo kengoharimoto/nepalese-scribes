@@ -1,0 +1,83 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "munindrabhadra",
+   "name": "Munīndrabhadra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Brahmacakra Mahāvihāra",
+   "residence": "",
+   "evidence": "śrīvajrācāryya munindrabhadrakatmaja(!)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "purṇṇabhadramuni",
+   "name": "Pūrṇabhadramuni",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Brahmacakra Mahāvihāra",
+   "residence": "",
+   "evidence": "purṇṇabhadramuni coyā(8)coṃgu siddha majuyakaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "cakraratnamunina",
+   "name": "Cakraratnamuni",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Brahmacakra Mahāvihāra",
+   "residence": "",
+   "evidence": "tasyātmaja cakraratnamunina siddha yānā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "munindrabhadrakatmaja(!)"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "tasyātmaja cakraratnamunina"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1012 caitramāse śuklapakṣe dasami tiṣyanakṣatra dhṛtiyoga buddhavāraṣunu",
+  "era": "NS",
+  "year": "1012",
+  "month": "Caitra",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "tiṣyanakṣatra dhṛtiyoga",
+  "ce_approx": "1892"
+ },
+ "place": {
+  "as_written": "brahmacakra mahāvihāra",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "for his own sons and grandsons (thao putrapautrayāta coyā jula)",
+ "notes": "Pūrṇabhadramuni started writing the manuscript but died incomplete on NS 1011 Āṣāḍha kṛṣṇa amāvāsyā; his son Cakraratnamuni completed the remaining portion in NS 1012.",
+ "_meta": {
+  "reel": "A 1326/39",
+  "model": "gemini-flash-latest",
+  "secs": 11.2,
+  "in_tok": 1261,
+  "out_tok": 1900
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Notes expanded: the right-to-left chronogram reading, the unclear words giridāyāṃ / gauḍamadhya-, and the Gauḍa (amānta) month reckoning"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "govindaśarmmā",
+   "name": "Govinda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "govindaśarmmā vyalikhad",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "navanavatihutāśaiś cihnite lakṣmaṇābde gatavati giridāyāṃ gauḍamadhyāśvinasya (?) | iha timiradaśamyām",
+  "era": "LS",
+  "year": "399",
+  "month": "Āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1518"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The chronogram is navanavati (99) plus hutāśa (3 fires). Read right to left, it gives LS 399, which matches the catalogue. LS 399 + 1119 gives about 1518 CE. 'gatavati' means the year had elapsed. 'timiradaśamī' means the dark-fortnight 10th. 'gauḍamadhyāśvina' (marked ? by the cataloguer) seems to mean Āśvina by the Gauḍa reckoning, which is probably amānta. 'giridāyāṃ' is unclear. It may be corrupt, or it may be a place name in the locative, but it is not recorded as the place of copying.",
+ "_meta": {
+  "reel": "B 17/11",
+  "model": "opus",
+  "cost_usd": 0.0507508,
+  "secs": 11.6
+ }
+}

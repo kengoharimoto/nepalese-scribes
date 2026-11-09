@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivarāmeṃdrayatinā",
+   "name": "Śivarāmendra",
+   "roles": [
+    "author",
+    "commentator"
+   ],
+   "titles": [
+    "yati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śivarāmeṃdrayatinā kṛtaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke netrāṃbarādrīṃdau jayanāmani vatsare || māsi bhādrapade kṛṣṇadvādaśyāṃ śukravāsare",
+  "era": "ŚS",
+  "year": "1702",
+  "month": "bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādaśī",
+  "weekday": "śukravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1780"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram netra-ambara-adri-indu denotes Śaka 1702 (1780 CE), recording the date of composition by Śivarāmendra Yati. Pāṇini and Bhāṣyakāra (Patañjali) are cited as ancient authorities.",
+ "_meta": {
+  "reel": "B 460/23",
+  "model": "gemini-flash-latest",
+  "secs": 11.6,
+  "in_tok": 792,
+  "out_tok": 1502
+ }
+}

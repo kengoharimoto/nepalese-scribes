@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayabhūpātīndramalladevasana",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayabhūpātīndramalladevasana",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 827 pauṣa kṛṣṇa aṣṭamī budhavāla",
+  "era": "NS",
+  "year": "827",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "budhavāla",
+  "nakshatra_yoga": "",
+  "ce_approx": "1707"
+ },
+ "place": {
+  "as_written": "nāyakhāchesa",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "The colophon note records a historical event involving King Bhūpatīndra Malla at Nāyakhāche (a tole in Bhaktapur): 'śrīśrījayabhūpātīndramalladevasana nāyakhāchesa kvāṭha dāneyātā mita soṅā dina'.",
+ "_meta": {
+  "reel": "A 236/17",
+  "model": "gemini-flash-latest",
+  "secs": 8.2,
+  "in_tok": 763,
+  "out_tok": 966
+ }
+}

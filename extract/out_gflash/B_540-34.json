@@ -1,0 +1,55 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīcandrogra",
+   "name": "Candrogra",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīcandrograviracitaṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kṛṣṇapatiṃ",
+   "name": "Kṛṣṇapati",
+   "roles": [
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛṣṇapatiṃ ca pāṭhayat",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1738 ākhiv‥śukla…",
+  "era": "ŚS",
+  "year": "1738",
+  "month": "ākhiv‥",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1816"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The month is damaged (likely Āśvina). 'kṛṣṇapatiṃ ca pāṭhayat' indicates study/recitation by or for Kṛṣṇapati.",
+ "_meta": {
+  "reel": "B 540/34",
+  "model": "gemini-flash-latest",
+  "secs": 10.7,
+  "in_tok": 688,
+  "out_tok": 1278
+ }
+}

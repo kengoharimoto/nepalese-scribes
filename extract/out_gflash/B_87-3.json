@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācāryyanaumiloka",
+   "name": "Naumiloka",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ vajrācāryyanaumiloka",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sivikṣā ka ‥ ‥ ta",
+   "name": "Ka‥‥ta",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "",
+   "residence": "lakṣyā vāhāra",
+   "evidence": "pustakadayakā jura",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "liṣitaṃ ... pustakadayakā jura"
+  }
+ ],
+ "date": {
+  "as_written": "śubhasaṃvat 963 stiṣoṣasudi 13",
+  "era": "NS",
+  "year": "963",
+  "month": "stiṣoṣa",
+  "paksa": "sudi",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1843"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "thvate yā puṇyanaṃ dānapati yājana dhanasaṃtāna saptavṛddhiphala tvaritaṃ prāptanuyāt",
+ "notes": "The donor/commissioner's name is partially lost in a lacuna ('lakṣyā vāhāra sivikṣā ka ‥ ‥ ta', where sivikṣā likely represents śākyabhikṣu / śrībhikṣu of Lakṣyā Bāhā in Patan). 'ragaṃto' following 'dānapatijajomāna' probably represents the Newari phrase 'rogaṃto' (together with family/household). The scribe's string 'dralivāyijoḥ' may contain a toponym/residence (e.g. a ṭol/ḍval) or a verbal form.",
+ "_meta": {
+  "reel": "B 87/3",
+  "model": "gemini-flash-latest",
+  "secs": 54.0,
+  "in_tok": 999,
+  "out_tok": 7222
+ }
+}

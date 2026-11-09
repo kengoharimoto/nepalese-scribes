@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhavadattena",
+   "name": "Bhavadatta",
+   "roles": [
+    "commentator",
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nirmāya bhavadattena bhāṣāṭippaṇīsādaram || likhitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "lālaḥ",
+   "name": "Lāla",
+   "roles": [
+    "beneficiary",
+    "other"
+   ],
+   "titles": [
+    "prabhu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śramavettā tu bhūyāllālaḥ prabhuḥ param",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "śramavettā tu bhūyāllālaḥ prabhuḥ param"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bhavadatta composed (nirmāya) and wrote (likhitā) the bhāṣāṭippaṇī, wishing that his master/patron Lāla (prabhu) may appreciate the effort (śramavettā bhūyāt).",
+ "_meta": {
+  "reel": "A 235/16",
+  "model": "gemini-flash-latest",
+  "secs": 9.4,
+  "in_tok": 673,
+  "out_tok": 1312
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "tithi given as 6 (kumāra = Skanda's ṣaṣṭhī) instead of the bare word",
+   "weekday normalized to Wednesday (budha)",
+   "month normalized to Mārgaśīrṣa, pakṣa to śukla (sita)",
+   "notes: era NS is inferred, not stated in the colophon; chronogram read right to left is explained; Amṛtānanda still left out of persons"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "yugalaśū(ny)āṃkavarṣa mārga sita kumāra budhadine",
+  "era": "NS",
+  "year": "902",
+  "month": "Mārgaśīrṣa (mārga)",
+  "paksa": "śukla (sita)",
+  "tithi": "6 (kumāra)",
+  "weekday": "Wednesday (budha)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1782"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram is yugala (2), śūnya (0), aṅka (9). Read right to left, that gives 902. The colophon does not name the era. NS is inferred from the Newari script and the period of the Vratāvadānamālā literature, and the catalogue puts [NS] in brackets. On that basis the date is Mārgaśīrṣa śukla 6, a Wednesday, NS 902, which is about November/December 1782 CE. The weekday has not been checked. The catalogue names Amṛtānanda as scribe, but the quoted colophon fragments name nobody, only 'likhitaṃ'. So no person is extracted. The attribution may come from elsewhere in the manuscript, e.g. from the hand, and should be checked against the catalogue description.",
+ "_meta": {
+  "reel": "A 124/2",
+  "model": "opus",
+  "cost_usd": 0.0538748,
+  "secs": 13.4
+ }
+}

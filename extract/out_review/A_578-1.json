@@ -1,0 +1,88 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name: 'ācārya' removed from the name (it is already in titles), giving Anubhūtisvarūpa; the corrupt 'svrūpa' in the colophon is read as svarūpa",
+   "p3 name normalized to Rudramaṇi (the ū in 'rūdra' is a scribal or typing error)",
+   "date era changed from VS to unspecified and ce_approx left empty: the bare 'saṃvat 1739' could be VS (c. 1682) or ŚS (c. 1817), and the catalogue suggests ŚS",
+   "purpose made explicit: for the study of Rudramaṇi",
+   "notes rewritten"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī(!)anubhūtisvrūpācārya",
+   "name": "Anubhūtisvarūpa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "anubhūtisvrūpācāryaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gaṃgārāmeṇa",
+   "name": "Gaṅgārāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ gaṃgārāmeṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rūdramaṇi brāhmaṇa(!)",
+   "name": "Rudramaṇi",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṭhanārthaṃ rūdramaṇi brāhmaṇa(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "gaṃgārāmeṇa paṭhanārthaṃ rūdramaṇi brāhmaṇa(!)"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1739 samaye nāma pauṣamāse kṛṣṇapakṣe navamyāṃ tithau",
+  "era": "unspecified",
+  "year": "1739",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "navamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "paṭhanārtham: for the study of Rudramaṇi brāhmaṇa",
+ "notes": "The colophon gives only 'saṃvat 1739' without naming the era. If it is VS, the date is c. 1682 CE; if ŚS, as the catalogue suggests with a query, it is c. 1817 CE. The Nepali-style name Rudramaṇi brāhmaṇa fits the early 19th century somewhat better, which would favour ŚS, but this is not certain. The colophon is ungrammatical: 'rūdramaṇi brāhmaṇa(!)' is uninflected and probably stands for a genitive (rudramaṇibrāhmaṇasya paṭhanārtham). The colophon names the text 'sārasvatīprakriyā'. The author is Anubhūtisvarūpācārya, written with the corrupt spelling 'svrūpa'.",
+ "_meta": {
+  "reel": "A 578/1",
+  "model": "opus",
+  "cost_usd": 0.0665428,
+  "secs": 15.2
+ }
+}

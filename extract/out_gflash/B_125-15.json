@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnāgabhaṭṭa",
+   "name": "Nāgabhaṭṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnāgabhaṭṭaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 884 pauṣasudi1 sidhayakā gudāvaji16 ṣunhu dava kunhu",
+  "era": "NS",
+  "year": "884",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1764"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrī3tripurā prītri astu",
+ "notes": "The phrase 'mahākastana' corresponds to Newari/Sanskrit mahākaṣṭena ('with great difficulty'). No scribe or patron is explicitly named.",
+ "_meta": {
+  "reel": "B 125/15",
+  "model": "gemini-flash-latest",
+  "secs": 8.8,
+  "in_tok": 738,
+  "out_tok": 1041
+ }
+}

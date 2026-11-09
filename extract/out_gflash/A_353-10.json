@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayaraṇajitamalladeva mahārājādhirāja",
+   "name": "Jayaraṇajitamalladeva",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayaraṇajitamalladeva mahārājādhirāja viracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "This is an act colophon (prathamo 'ṅkaḥ) naming King Jayaraṇajitamalla as the author of the play. No scribe, copy date, or place is given in this extract.",
+ "_meta": {
+  "reel": "A 353/10",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 693,
+  "out_tok": 797
+ }
+}

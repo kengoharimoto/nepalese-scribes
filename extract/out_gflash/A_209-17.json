@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kamācādya mahidra śina",
+   "name": "Mahīndrasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likṣiti kamācādya mahidra śina coyāḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 854 āśunaśudi ekādaśi, śukobāla",
+  "era": "NS",
+  "year": "854",
+  "month": "āśuna",
+  "paksa": "śudi",
+  "tithi": "ekādaśi",
+  "weekday": "śukobāla",
+  "nakshatra_yoga": "",
+  "ce_approx": "1734"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The name is written 'kamācādya mahidra śina', where 'kamācādya' is Karmācārya, and 'mahidra śina' reflects Mahīndrasiṃha with the Newari agentive/ergative suffix -na (-śi for -siṃha, or simply Mahīndra if -śi was miscopied/intended as something else; the cataloguer read it as Mahīndra Karmācārya).",
+ "_meta": {
+  "reel": "A 209/17",
+  "model": "gemini-flash-latest",
+  "secs": 10.2,
+  "in_tok": 719,
+  "out_tok": 1250
+ }
+}

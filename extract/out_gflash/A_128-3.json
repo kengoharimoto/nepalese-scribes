@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "varjācāryya viśvaratnaṃ",
+   "name": "Viśvaratna",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Jhvālabāhāla",
+   "residence": "",
+   "evidence": "li(ṣi)taṃ jhvālabāhālayā śrī varjācāryya viśvaratnaṃ thva pustaka coyā jula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃbvat 996 mti kārttika śukra 4 hnusa maṃgalavāra",
+  "era": "NS",
+  "year": "996",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "maṃgalavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1876"
+ },
+ "place": {
+  "as_written": "jhvālabāhālaya",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 128/3",
+  "model": "gemini-flash-latest",
+  "secs": 10.4,
+  "in_tok": 804,
+  "out_tok": 1527
+ }
+}

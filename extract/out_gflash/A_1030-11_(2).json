@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "murṣa bekhāna",
+   "name": "Bekhā",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "murṣa bekhāna coyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 801 bhādrapadra śudi 10",
+  "era": "NS",
+  "year": "801",
+  "month": "bhādrapadra",
+  "paksa": "śudi",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1681"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "murṣa represents Skt. mūrkha ('ignorant/foolish'), a conventional self-deprecating adjective used here by the scribe Bekhā (Newari ergative: bekhāna coyā, 'written by Bekhā'). The catalogue identifies the scribe elsewhere as Bekhārāma Śivācārya.",
+ "_meta": {
+  "reel": "A 1030/11 (2)",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 712,
+  "out_tok": 761
+ }
+}

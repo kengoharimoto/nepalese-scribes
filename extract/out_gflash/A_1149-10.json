@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vyāsa",
+   "name": "Vyāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vyāsakṛtam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī śāke 1783 madhisita 7 vāsare 7",
+  "era": "ŚS",
+  "year": "1783",
+  "month": "madhi",
+  "paksa": "sita",
+  "tithi": "7",
+  "weekday": "7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1861"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "madhisita may be a corruption for madhau sita- (Caitra śukla) or māghe sita-.",
+ "_meta": {
+  "reel": "A 1149/10",
+  "model": "gemini-flash-latest",
+  "secs": 6.8,
+  "in_tok": 683,
+  "out_tok": 897
+ }
+}

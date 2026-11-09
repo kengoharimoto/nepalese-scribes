@@ -1,0 +1,117 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "trilocanadāsa",
+   "name": "Trilocanadāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrītrilocanadāsaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "m itā(!) nanda",
+   "name": "Mitānanda",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "pāṭhaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pāṭhakam itā(!) nandasuta",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "padmanābha",
+   "name": "Padmanābha",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "padmanābhaliṣyāpitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "madana",
+   "name": "Madana",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "pāṃḍe"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pāṃḍe madanaputra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "gosāi dāsena",
+   "name": "Gosāidāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Śrīvāstavya",
+   "residence": "",
+   "evidence": "liṣitaṃ pustaka(!) śrīvāstavyaṃ pāṃḍe madanaputra gosāi dāsena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "pāṭhakam itā(!) nandasutapadmanābha"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "madanaputra gosāi dāsena"
+  },
+  {
+   "from": "p5",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "pāṭhārthaṃ liṣāpitaṃ pāṭhakam itā(!) nandasutapadmanābhaliṣyāpitaṃ pāṭhārthaṃ liṣitaṃ pustaka(!) śrīvāstavyaṃ pāṃḍe madanaputra gosāi dāsena"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1632 samaye vaiśāṣa śudi 6 sanivāsare",
+  "era": "VS",
+  "year": "1632",
+  "month": "vaiśāṣa",
+  "paksa": "śudi",
+  "tithi": "6",
+  "weekday": "sanivāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1575"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "pāṭhārthaṃ",
+ "notes": "The father's name of Padmanābha is transcribed as 'pāṭhakam itā(!) nanda', likely intending Pāṭhaka-Mitānanda. 'śrīvāstavyaṃ' might denote the Śrīvāstava caste or origin.",
+ "_meta": {
+  "reel": "A 552/7",
+  "model": "gemini-flash-latest",
+  "secs": 15.7,
+  "in_tok": 822,
+  "out_tok": 2464
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "burddhacana",
+   "name": "Buddhaca",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Makhanabāhāra",
+   "residence": "Makhanabāhāra",
+   "evidence": "makhanabāhārayā vajrācājye burddhaca(6)na thavata thamana coyā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 852",
+  "era": "NS",
+  "year": "852",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1732"
+ },
+ "place": {
+  "as_written": "makhanabāhāra",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "svārtha (thavata thamana coyā)",
+ "notes": "The name burddhacana is inflected with the Newari ergative suffix -na (Buddhaca-na), where -ca is a hypocoristic suffix. The catalogue normalizes this to Buddha Vajrācārya.",
+ "_meta": {
+  "reel": "A 124/7",
+  "model": "gemini-flash-latest",
+  "secs": 9.2,
+  "in_tok": 728,
+  "out_tok": 1188
+ }
+}

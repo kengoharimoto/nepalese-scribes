@@ -1,0 +1,99 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmanśaṅkarācārya",
+   "name": "Śaṅkarācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanśaṅkarācāryaviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmahārājarājendra",
+   "name": "Rājendra",
+   "roles": [
+    "king",
+    "beneficiary"
+   ],
+   "titles": [
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahārājarājendramanaḥsantosasiddhaye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrībalabhadrasya",
+   "name": "Balabhadra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pautraḥ śrībalabhadrasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "vaṭuknātho(!)",
+   "name": "Vaṭukanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vaṭuknātho(!) likhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p4",
+   "type": "grandson_of",
+   "to": "p3",
+   "evidence": "pautraḥ śrībalabhadrasya vaṭuknātho(!)"
+  },
+  {
+   "from": "p4",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "śrīmahārājarājendramanaḥsantosasiddhaye || pautraḥ śrībalabhadrasya vaṭuknātho(!) likhat"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīmahārājarājendramanaḥsantosasiddhaye",
+ "notes": "The catalogue wrongly lists Balabhadra as the scribe; the text clearly states that Vaṭukanātha, grandson of Balabhadra, was the scribe (pautraḥ śrībalabhadrasya vaṭuknātho likhat). Mahārāja Rājendra likely refers to King Rājendra Vikrama Śāha of Nepal (r. 1816–1847 CE).",
+ "_meta": {
+  "reel": "B 386/62",
+  "model": "gemini-flash-latest",
+  "secs": 9.9,
+  "in_tok": 702,
+  "out_tok": 1479
+ }
+}

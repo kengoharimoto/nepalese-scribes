@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mādhavarāvasāvājīviṃsa",
+   "name": "Mādhavarāva",
+   "roles": [
+    "owner",
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "haḥ mādhavarāvasāvājīviṃsapustaka",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ || 1901 || mārgisīrṣa śu(ddha) 15",
+  "era": "VS",
+  "year": "1901",
+  "month": "mārgisīrṣa",
+  "paksa": "śukla",
+  "tithi": "15",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1844"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "rāmārpaṇam astuḥ",
+ "notes": "The phrase 'haḥ mādhavarāvasāvājīviṃsapustaka' likely opens with 'haḥ' for 'hastaḥ' (scribe) and indicates ownership ('pustaka'). The exact parsing of 'mādhavarāvasāvājīviṃsa' may reflect a Marathi name/patronymic construction (e.g. Mādhavarāva son of Sāvājī, Marathi vin/walad, or a surname).",
+ "_meta": {
+  "reel": "B 541/4",
+  "model": "gemini-flash-latest",
+  "secs": 34.5,
+  "in_tok": 722,
+  "out_tok": 4242
+ }
+}

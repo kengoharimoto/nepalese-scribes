@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmatprakāśamallena",
+   "name": "Prakāśamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Bhaktapur",
+   "evidence": "śrīmatprakāśamallena pālite bhaktapaṭṭane",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mohanaḥ",
+   "name": "Mohana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "alikhan mohanaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīmatprakāśamallena pālite bhaktapaṭṭane | alikhan mohanaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "(rasa)śaile ca gate nepālavatsare | śukle kṛṣṇāṣṭamī bhaume",
+  "era": "NS",
+  "year": "76?",
+  "month": "",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "bhauma",
+  "nakshatra_yoga": "",
+  "ce_approx": "1645"
+ },
+ "place": {
+  "as_written": "bhaktapaṭṭane",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "Prakāśamalla refers to King Jagatprakāśamalla of Bhaktapur (reigned NS 764–792 / 1644–1672 CE). The year chronogram has 'rasa' (6) and 'śaila' (7) preserving the tens and hundreds digits (76x).",
+ "_meta": {
+  "reel": "B 250/6",
+  "model": "gemini-flash-latest",
+  "secs": 12.0,
+  "in_tok": 922,
+  "out_tok": 1502
+ }
+}

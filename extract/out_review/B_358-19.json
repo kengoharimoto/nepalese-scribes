@@ -1,0 +1,65 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 (paṃḍā rāmujī): changed role from 'commissioner' to 'other' and lowered confidence to low. The name stands uninflected, with no genitive, dative or likhāpita, so nothing shows the copy was made for him.",
+   "Removed the wrote_for relation p1→p2 because the colophon does not support it.",
+   "p2 name: kept 'Rāmu' and treated -jī as an honorific. Noted that the string could instead be one person (the scribe Paṇḍā Rāmujī Ātmārāma) or a father plus son.",
+   "Notes expanded: the varappe reading, the date conflict with the catalogue, and the incomplete-text remark."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ātmerāmeṇa",
+   "name": "Ātmārāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ātmerāmeṇa likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "paṃḍā rāmujī",
+   "name": "Rāmu",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "paṃḍā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṃḍā rāmujī ātmerāmeṇa likhitaṃ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1790 varappe",
+  "era": "VS",
+  "year": "1790",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1733"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives Saṃ 1780 but the colophon reads 'saṃvat 1790'. The era is taken as VS (a Devanagari paddhati dated 'saṃvat'), giving about 1733 CE. 'varappe' is probably a corruption of 'varṣe'. 'paṃḍā rāmujī' stands uninflected right before 'ātmerāmeṇa likhitaṃ', so its link to the scribe is unclear. It may be (a) part of the scribe's own name or title (Paṇḍā Rāmujī Ātmārāma), (b) the scribe's father, or (c) the person the copy was made for. Nothing in the text marks him as commissioner or owner. 'patragranthe na pūritāni likhitā' seems to say the copy is incomplete, i.e. some leaves or parts were not filled in.",
+ "_meta": {
+  "reel": "B 358/19",
+  "model": "opus",
+  "cost_usd": 0.5617136,
+  "secs": 24.6
+ }
+}

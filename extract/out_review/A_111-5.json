@@ -1,0 +1,202 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed p5 'Kṛṇamānasiṃha'. It is a dittography: the scribe wrote 'tṛtīyaputra' plus a garbled repeat of the second son's name, then 'tṛtīyaputra kulamānasiṃ'. Its son_of relation is removed with it.",
+   "Tejalakṣmī is the dānapati. The phrase 'naravīrasiṃhabhāryyā tejalakṣmī' names her as the wife of Naravīrasiṃha, and the sons follow her. Naravīrasiṃha is changed to relative_only (medium confidence). He is named to identify her, and he may have been dead.",
+   "Added 'jyeṣṭha' to Naravīrasiṃha's titles next to kāyastha.",
+   "Added son_of relations from each son to Tejalakṣmī and kept son_of to Naravīrasiṃha.",
+   "Changed the scribe's wrote_for target from Naravīrasiṃha to Tejalakṣmī.",
+   "Moved Ekuṣe Vakaṃ Vahāla to residence (a tole/locality in Lalitapur) and cleared affiliation for the donor family. Normalized the scribe's affiliation to Cakravāhāla (Cakra Mahāvihāra, Patan).",
+   "Cleared place of copying. The colophon names only where the donor lives, not where the copy was made.",
+   "Normalized the date: weekday as Sunday, yoga as Śobhana. Checked NS 967 + 880 = 1847 CE.",
+   "Shortened purpose."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "naravīrasiṃha",
+   "name": "Naravīrasiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "kāyastha",
+    "jyeṣṭha"
+   ],
+   "affiliation": "",
+   "residence": "Lalitāpura, Ekuṣe Vakaṃ Vahāla",
+   "evidence": "kāyaṣṭa jyeṣṭa naravīrasiṃhabhāryyā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "tejalakṣmī",
+   "name": "Tejalakṣmī",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Lalitāpura, Ekuṣe Vakaṃ Vahāla",
+   "evidence": "dānapati ... naravīrasiṃhabhāryyā tejalakṣmī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "mānavīrasiṃ",
+   "name": "Mānavīrasiṃha",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Lalitāpura",
+   "evidence": "jyeṣṭaputra mānavīrasiṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "kṛṣṇamānasiṃ",
+   "name": "Kṛṣṇamānasiṃha",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Lalitāpura",
+   "evidence": "dvitīyaputra kṛṣṇamānasiṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "kulamānasiṃ",
+   "name": "Kulamānasiṃha",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Lalitāpura",
+   "evidence": "tṛtīyaputra kulamānasiṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "gajamānasiṃ",
+   "name": "Gajamānasiṃha",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Lalitāpura",
+   "evidence": "caturthaputra gajamānasiṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p8",
+   "as_written": "śrītejadattena",
+   "name": "Tejadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Cakravāhāla (Cakra Mahāvihāra)",
+   "residence": "",
+   "evidence": "lekhaka śrī cakravāhālayā śrītejadattena coyā jula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wife_of",
+   "to": "p1",
+   "evidence": "naravīrasiṃhabhāryyā tejalakṣmī"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "tejalakṣmījyeṣṭaputra mānavīrasiṃ"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "naravīrasiṃhabhāryyā tejalakṣmījyeṣṭaputra"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "dvitīyaputra kṛṣṇamānasiṃ"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "dvitīyaputra kṛṣṇamānasiṃ"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "tṛtīyaputra kulamānasiṃ"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "tṛtīyaputra kulamānasiṃ"
+  },
+  {
+   "from": "p7",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "caturthaputra gajamānasiṃ"
+  },
+  {
+   "from": "p7",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "caturthaputra gajamānasiṃ"
+  },
+  {
+   "from": "p8",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "thva pustaka dayakā jula ... śrītejadattena coyā jula"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 967 adya vaiśāṣamāse śuklapakṣe tṛtīyāyāṃ mahāpuṇyatithau rohiṇīnakṣatre śau(!)bhana yoge yathākarṇṇam udgate ādityavāsare meṣarāsigate savitare vṛṣarāsigate candramasi",
+  "era": "NS",
+  "year": "967",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "3 (tṛtīyā; mahāpuṇyatithi, i.e. Akṣayatṛtīyā)",
+  "weekday": "Sunday (ādityavāsara)",
+  "nakshatra_yoga": "Rohiṇī; Śobhana yoga",
+  "ce_approx": "1847"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "Pious donation by Tejalakṣmī and her sons (dharmacitta utpatti juyāo thva pustaka dayakā jula)",
+ "notes": "'tṛtīyaputrakṛṇamānasiṃ' is a dittography of the second son's name and is not a separate person. The real third son is Kulamānasiṃ. The dānapati is Tejalakṣmī, named as the wife of the senior kāyastha Naravīrasiṃha, together with her four sons ('thvati sakala parivāra'). Naravīrasiṃha may also count as part of the donating family, but the syntax makes him an identifying relative. The donor family lives at Ekuṣe Vakaṃ Vahāla, Lalitāpura (Patan). The scribe belongs to Cakravāhāla, which is probably Cakra Mahāvihāra in Patan. Neither is stated as the place of copying, so it was probably Patan, but that is not certain. The date details agree with each other: Sun in Meṣa, Moon in Vṛṣabha with Rohiṇī, Vaiśākha śukla 3. NS 967 is about April/May 1847 CE.",
+ "_meta": {
+  "reel": "A 111/5",
+  "model": "opus",
+  "cost_usd": 0.1215948,
+  "secs": 31.4
+ }
+}

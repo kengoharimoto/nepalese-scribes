@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaṇeśadāsa",
+   "name": "Gaṇeśadāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāetha"
+   ],
+   "affiliation": "",
+   "residence": "rāmāpuranikaṭa",
+   "evidence": "likhittvā gaṇeśadāsa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vijayākhye vatsara (!) māsi mārgaśīrṣe ravau tithau || 1 || dvitīyāyāṃ",
+  "era": "unspecified",
+  "year": "vijaya",
+  "month": "mārgaśīrṣa",
+  "paksa": "",
+  "tithi": "dvitīyā",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "kāverītīrasaṃyutye(!) tathā śrīraṃgapadane(!)",
+  "normalized": "Śrīraṅgam"
+ },
+ "purpose": "",
+ "notes": "The year is specified by the 60-year Jovian cycle name (vijaya). The scribe Gaṇeśadāsa bears the caste title kāetha (Kāyastha) and is recorded as residing near Rāmāpura (vāsi rāmāpuranikaṭa).",
+ "_meta": {
+  "reel": "A 1118/3",
+  "model": "gemini-flash-latest",
+  "secs": 8.0,
+  "in_tok": 805,
+  "out_tok": 1193
+ }
+}

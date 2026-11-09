@@ -1,0 +1,98 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahādeva",
+   "name": "Mahādeva",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahādevakṛte ratnamālāvivaraṇe",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "daivajñakhaḍganarasiṃhanaṃ",
+   "name": "Khaḍganarasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "śrībhaktapure nagare, sukudhvakā",
+   "evidence": "daivajñakhaḍganarasiṃhanaṃ coyā siddhayāṅāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "daivajñadurgānaṃdasiṃ",
+   "name": "Durgānandasiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "śrībhaktapure nagare, sukudhvakā",
+   "evidence": "pitā daivajñadurgānaṃdasiṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "aṃbāsujogalakṣmī",
+   "name": "Sujogalakṣmī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jananīaṃbāsujogalakṣmīsūtaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "daivajñadurgānandasiṃ yākāya daivajñakhaḍganarasiṃhanaṃ"
+  },
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "jananīaṃbāsujogalakṣmīsūtaḥ daivajñakhaḍganarasiṃ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 829 vaiśāṣakṛṣṇāyā tṛtīyā jyeṣṭhānakṣatra parighayoga maṃgalavāra",
+  "era": "NS",
+  "year": "829",
+  "month": "vaiśāṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "tṛtīyā",
+  "weekday": "maṃgalavāra",
+  "nakshatra_yoga": "jyeṣṭhānakṣatra parighayoga",
+  "ce_approx": "1709"
+ },
+ "place": {
+  "as_written": "śrībhaktapure nagare ... sukudhvakāyā",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Durgānanda Siṃha as the scribe, but the colophon clearly states that Durgānandasiṃha is the father and Khaḍganarasiṃha is the son who wrote the manuscript (daivajñadurgānandasiṃ yākāya daivajñakhaḍganarasiṃhanaṃ coyā). Suku-dhvakā is Sukuldhoka tole in Bhaktapur.",
+ "_meta": {
+  "reel": "B 327/28",
+  "model": "gemini-flash-latest",
+  "secs": 21.3,
+  "in_tok": 1022,
+  "out_tok": 3020
+ }
+}

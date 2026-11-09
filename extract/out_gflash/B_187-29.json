@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumatijayajitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumatijayajitāmitramalladevasana damanārohana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 814 caitramāse kṛṣṇapakṣe, trayodasyāntithau, revatīnakṣete, viskambhayoge, yathākaraṇa muhurtta bṛhaspativāsare, mekharāsigate savitarī, mīnarāsigate candramasi",
+  "era": "NS",
+  "year": "814",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "bṛhaspativāsara",
+  "nakshatra_yoga": "revatī, viṣkambha",
+  "ce_approx": "1694"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīśrīśrīsveṣṭhadevatā prīṇātu",
+ "notes": "The place Bhaktapur is provided by the catalogue record based on King Jitāmitra Malla's realm, but it is not stated explicitly in the colophon text itself. The phrasing 'damanārohana dayakā juroṃ' indicates the king had the work/manuscript prepared.",
+ "_meta": {
+  "reel": "B 187/29",
+  "model": "gemini-flash-latest",
+  "secs": 13.7,
+  "in_tok": 872,
+  "out_tok": 1563
+ }
+}

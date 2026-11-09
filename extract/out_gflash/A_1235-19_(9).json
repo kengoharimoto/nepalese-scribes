@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīśrī sumati jayajitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīśrī sumati jayajitāmitramalladevasana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 815 mārggaśira vadi 15 thvakuhnu",
+  "era": "NS",
+  "year": "815",
+  "month": "mārggaśira",
+  "paksa": "vadi",
+  "tithi": "15",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1694"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "King Sumati Jayajitāmitramalla of Bhaktapur caused the manuscript to be made (dayakā juroṃ). Place not specified in colophon.",
+ "_meta": {
+  "reel": "A 1235/19 (9)",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 724,
+  "out_tok": 945
+ }
+}

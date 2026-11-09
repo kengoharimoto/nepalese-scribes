@@ -1,0 +1,258 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p5 Nāganātha: confidence lowered to medium; the name runs across a lacuna (nā///ganātha), so the 'ga' syllable is reconstructed",
+   "purpose rephrased as a short description instead of quoting the Sanskrit",
+   "notes expanded: the era is assumed VS, the date has lacunae, and the weekday is unchecked"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sarasvatītīrthacaraṇa",
+   "name": "Sarasvatītīrtha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sarasvatītīrthacaraṇaviracitāy[āṃ kā]///vyaprakāśaṭīkāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rudrajyotirvit",
+   "name": "Rudra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rudrajyotirvitputra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "sadāśivajyotirvidā",
+   "name": "Sadāśiva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "khitaṃ pustakaṃ rudrajyotirvitputra sadāśivajyotirvidā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "bhairavabhaṭṭa",
+   "name": "Bhairava",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhairavabhaṭṭātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "dīkṣita⁅nā⁆///ganātha",
+   "name": "Nāganātha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dīkṣita⁅nā⁆///ganāthātmaja",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p6",
+   "as_written": "maheśadīkṣita",
+   "name": "Maheśa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "maheśadīkṣitātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "paṃḍitārāyāpara nāma mādhavabhaṭṭa",
+   "name": "Mādhava",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paṇḍitarāya",
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṃḍitārāyāpara nāma mādhavabhaṭṭātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p8",
+   "as_written": "balabhadrabhaṭṭa",
+   "name": "Balabhadra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "balabhadrabhaṭṭātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p9",
+   "as_written": "harinārāyaṇabhaṭta",
+   "name": "Harinārāyaṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "harinārāyaṇabhaṭtātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p10",
+   "as_written": "kavipaṃḍitāpara nāma mohanabhaṭṭa",
+   "name": "Mohana",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "kavipaṇḍita",
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kavipaṃḍitāpara nāma mohanabhaṭṭātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p11",
+   "as_written": "śukadevabha(10)ṭṭa",
+   "name": "Śukadeva",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śukadevabha(10)ṭṭanimittaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "rudrajyotirvitputra sadāśivajyotirvidā"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p11",
+   "evidence": "khitaṃ pustakaṃ ... sadāśivajyotirvidā || ... śukadevabhaṭṭanimittaṃ"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "bhairavabhaṭṭātmajadīkṣita⁅nā⁆///ganātha"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p5",
+   "evidence": "ganāthātmaja maheśadīkṣita"
+  },
+  {
+   "from": "p7",
+   "type": "son_of",
+   "to": "p6",
+   "evidence": "maheśadīkṣitātmaja paṃḍitārāyāpara nāma mādhavabhaṭṭa"
+  },
+  {
+   "from": "p8",
+   "type": "son_of",
+   "to": "p7",
+   "evidence": "mādhavabhaṭṭātmaja balabhadrabhaṭṭa"
+  },
+  {
+   "from": "p9",
+   "type": "son_of",
+   "to": "p8",
+   "evidence": "balabhadrabhaṭṭātmaja harinārāyaṇabhaṭta"
+  },
+  {
+   "from": "p10",
+   "type": "son_of",
+   "to": "p9",
+   "evidence": "harinārāyaṇabhaṭtātmaja kavipaṃḍitāpara nāma mohanabhaṭṭa"
+  },
+  {
+   "from": "p11",
+   "type": "son_of",
+   "to": "p10",
+   "evidence": "mohanabhaṭṭātmaja śukadevabhaṭṭanimittaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1738 vaiśākhaśuddha 9 śane",
+  "era": "VS",
+  "year": "1738",
+  "month": "vaiśākha",
+  "paksa": "śuddha",
+  "tithi": "9",
+  "weekday": "śani",
+  "nakshatra_yoga": "",
+  "ce_approx": "1681"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "copied for (nimitta) Śukadevabhaṭṭa",
+ "notes": "The catalogue names Śukadevabhaṭṭa as the scribe, which is wrong. The colophon says Sadāśiva jyotirvid, son of Rudra jyotirvid, copied the book ([li]khitaṃ … sadāśivajyotirvidā) for Śukadevabhaṭṭa (śukadevabhaṭṭanimittaṃ). Śukadevabhaṭṭa's lineage is traced back eight generations to Bhairavabhaṭṭa. 'Nāganātha' fills a lacuna (nā///ganātha), and the gap may have held more text. The era is not named ('saṃvat'). VS is assumed for a Devanagari North Indian manuscript, giving 1681 CE. The weekday was not checked. There is also a lacuna right after 'śane', which may have hidden more date or place details before '[li]khitaṃ'.",
+ "_meta": {
+  "reel": "B 305/9",
+  "model": "opus",
+  "cost_usd": 0.11470280000000001,
+  "secs": 26.7
+ }
+}

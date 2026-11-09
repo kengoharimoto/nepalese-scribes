@@ -1,0 +1,69 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Added a note that '-tanayo' should be the instrumental '-tanayena' to agree with naṃdikeśvarasūriṇā; this is the error the cataloguer marked (!). No change to content."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "naṃdikeśvarasūriṇā",
+   "name": "Nandikeśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaḥ ... naṃdikeśvarasūriṇā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīdharmāṃgadatanayo(!)",
+   "name": "Dharmāṅgada",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dharmāṃgadatanayo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīdharmāṃgadatanayo(!) naṃdikeśvarasūriṇā"
+  }
+ ],
+ "date": {
+  "as_written": "śaragajartuceṃ[[du]]śāke ... kuṃbhamāse",
+  "era": "ŚS",
+  "year": "1685",
+  "month": "Kumbha",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1764"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram is śara (5), gaja (8), ṛtu (6), indu (1). Read right to left, this gives Śaka 1685, which matches the catalogue. ŚS 1685 + 78 = 1763. Śaka 1685 began in spring 1763, so the solar month Kumbha (Feb–Mar) falls early in 1764 CE. 'dharmāṃgadatanayo(!)' should be instrumental ('-tanayena') to agree with 'naṃdikeśvarasūriṇā', and the meaning is still clearly that Nandikeśvara is the son of Dharmāṅgada. 'sūri' is treated as an honorific or learned title.",
+ "_meta": {
+  "reel": "A 1301/5",
+  "model": "opus",
+  "cost_usd": 0.0531668,
+  "secs": 10.7
+ }
+}

@@ -1,0 +1,118 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "madiṃdramaṇinṛpati",
+   "name": "Indramaṇi",
+   "roles": [
+    "king",
+    "relative_only"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "nṛpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājādhirājaśrīmadiṃdramaṇinṛpatinaṃdana",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kumārayaśavaṃtasiṃha",
+   "name": "Yaśavanta Siṃha",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "kumāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatkumārayaśavaṃtasiṃhaprerita",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "āyājibhaṭṭa",
+   "name": "Āyājibhaṭṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "kāśyapānvaya, agnihotrikula",
+   "residence": "",
+   "evidence": "śrīmadāyājibhaṭṭasūnu",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "bhāskara",
+   "name": "Bhāskara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "kāśyapānvaya, agnihotrikula",
+   "residence": "",
+   "evidence": "bhāskaraviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "gamoḍhacāturvedītrīpāṭhi /// śvarapuruṣottama",
+   "name": "Puruṣottama",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "cāturvedī",
+    "tripāṭhī"
+   ],
+   "affiliation": "Gamoḍha Cāturvedī",
+   "residence": "",
+   "evidence": "likhitaṃ gamoḍhacāturvedītrīpāṭhi /// śvarapuruṣottama",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "iṃdramaṇinṛpatinaṃdana"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "āyājibhaṭṭasūnu"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1813 varṣe jyeṣṭhamāse śuklapakṣe dvitīyā guruvāsare",
+  "era": "VS",
+  "year": "1813",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1756"
+ },
+ "place": {
+  "as_written": "śīkāśīviśveśvarasaṃnidhau",
+  "normalized": "Varanasi"
+ },
+ "purpose": "",
+ "notes": "The catalogue identified the scribe as 'Gamoḍha Cāturvedī Trīpāṭhī', taking the subcaste and titles for the personal name; after the lacuna the personal name ends with ...śvara-puruṣottama.",
+ "_meta": {
+  "reel": "B 432/2",
+  "model": "gemini-flash-latest",
+  "secs": 23.3,
+  "in_tok": 961,
+  "out_tok": 3303
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ada | bhaimalladeva",
+   "name": "Abhayamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājādhirājaparameśvara⟪ma⟫ śrīmada | bhaimalladevavijayarājye",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 338 mārggaśirakṛṣṇa navamyāṃ śukra///",
+  "era": "NS",
+  "year": "338",
+  "month": "mārggaśira",
+  "paksa": "kṛṣṇa",
+  "tithi": "navamī",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1217"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The king's name is written with a lacuna/stroke as 'ada | bhaimalladeva', representing King Abhayamalladeva. The abbreviation or syllables 'ābha' at the very end might be a scribal mark or an abbreviated name, but is too uncertain to record as an independent person.",
+ "_meta": {
+  "reel": "A 936/9",
+  "model": "gemini-flash-latest",
+  "secs": 8.8,
+  "in_tok": 740,
+  "out_tok": 1079
+ }
+}

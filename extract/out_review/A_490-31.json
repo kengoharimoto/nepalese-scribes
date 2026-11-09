@@ -1,0 +1,66 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Tithi: 'phaṇi' as a word-numeral stands for nāga/sarpa = 8 (aṣṭamī), not 5. Changed to '8 (phaṇi), uncertain'.",
+   "nakshatra_yoga: bhadrā is the karaṇa Viṣṭi (Bhadrā), not a nakṣatra. Labelled as a karaṇa.",
+   "Month: 'cāravān' cannot be identified as a month name. Marked as unidentified; it may be a corrupt month or weekday.",
+   "Notes: added a tentative decoding of the year chronogram; the commissioner doubt is resolved in favour of scribe because of the 'likhitaṃ mayā' verse."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīragh⌠u⌡nandanabhaṭṭācāryya",
+   "name": "Raghunandana",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāya śrīragh⌠u⌡nandanabhaṭṭācāryyaviracitam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kulānandena",
+   "name": "Kulānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kulānandena lekhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "sūcahāṣṭa varṣeṣu cāravān asite phaṇi | tatra bhadrā",
+  "era": "unspecified",
+  "year": "sūcahāṣṭa (corrupt chronogram; possibly 810)",
+  "month": "cāravān (unidentified)",
+  "paksa": "kṛṣṇa",
+  "tithi": "8 (phaṇi = nāga), uncertain",
+  "weekday": "",
+  "nakshatra_yoga": "karaṇa Bhadrā (Viṣṭi)",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date verse is corrupt. 'sūcahāṣṭa' may be a word-numeral chronogram read right to left, e.g. sū(nya)=0, ca(ndra)=1, aṣṭa=8, giving 810. If the era is NS, that would be c. 1690 CE. This fits a Newari-script copy of Raghunandana, who wrote in the 16th century, but the reading is speculative, so ce_approx is left empty. 'cāravān' is unidentified: it may be a garbled month name or weekday (vāra). 'asite' = dark fortnight. 'phaṇi' (snake) = 8 by bhūtasaṃkhyā convention; the Nāgapañcamī association (5) is less likely in a numeral context. 'Bhadrā' is the karaṇa Viṣṭi. The colophon line 'vajraghaṭīha ///ryyātma' is damaged and probably held the author's family and lineage epithets. Kulānanda is taken as scribe: 'lekhitaṃ' is used loosely in Nepalese colophons, and the 'likhitaṃ mayā' verse supports scribal agency.",
+ "_meta": {
+  "reel": "A 490/31",
+  "model": "opus",
+  "cost_usd": 0.0723428,
+  "secs": 20.5
+ }
+}

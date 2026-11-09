@@ -1,0 +1,166 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jyeṣṭanaravīrasiṃha",
+   "name": "Naravīrasiṃha",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [
+    "kāyastha",
+    "jyeṣṭha"
+   ],
+   "affiliation": "",
+   "residence": "śrīlalitāpūramahānagara, ekakṣe vakaṃbāhāla",
+   "evidence": "dānapati śrīlalitāpūramahānagarayā ekakṣe vakaṃbāhālayā kāyaṣṭa(!) jyeṣṭanaravīrasiṃha ... pustaka cocakaṃ dayakā julo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "tejalakṣmī",
+   "name": "Tejalakṣmī",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "śrīlalitāpūramahānagara, ekakṣe vakaṃbāhāla",
+   "evidence": "bhāryyātejalakṣmī ... thuti sakalaparivārayāṃ ... pustaka cocakaṃ dayakā julo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "mānavīrasiṃ",
+   "name": "Mānavīrasiṃha",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "śrīlalitāpūramahānagara, ekakṣe vakaṃbāhāla",
+   "evidence": "jyeṣṭaputra mānavīrasiṃ ... thuti sakalaparivārayāṃ ... pustaka cocakaṃ dayakā julo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "kṛṣṇṇamānasiṃ",
+   "name": "Kṛṣṇamānasiṃha",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "śrīlalitāpūramahānagara, ekakṣe vakaṃbāhāla",
+   "evidence": "dvitīyaputra kṛṣṇṇamānasiṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "kulamānasiṃ",
+   "name": "Kulamānasiṃha",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "śrīlalitāpūramahānagara, ekakṣe vakaṃbāhāla",
+   "evidence": "tṛtīyaputra kulamānasiṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "gajamānasi",
+   "name": "Gajamānasiṃha",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "śrīlalitāpūramahānagara, ekakṣe vakaṃbāhāla",
+   "evidence": "caturthaputra gajamānasi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "tejadattana",
+   "name": "Tejadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "śrīcakravāhālaya",
+   "residence": "",
+   "evidence": "lekhaka śrīcakravāhālayā śrītejadattana coyā jula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wife_of",
+   "to": "p1",
+   "evidence": "bhāryyātejalakṣmī"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "jyeṣṭaputra mānavīrasiṃ"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "dvitīyaputra kṛṣṇṇamānasiṃ"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "tṛtīyaputra kulamānasiṃ"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "caturthaputra gajamānasi"
+  },
+  {
+   "from": "p7",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "lekhaka śrīcakravāhālayā śrītejadattana coyā jula"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 967 adya vaiśāṣamāse śuklapakṣe tṛtīyāyāṃ mahāpuṇyatithau rohiṇīnakṣatre saubhagayoge yathākarṇṇamuhutre ādityavāsare",
+  "era": "NS",
+  "year": "967",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "tṛtīyā",
+  "weekday": "ādityavāsara",
+  "nakshatra_yoga": "rohiṇī, saubhāgya",
+  "ce_approx": "1847"
+ },
+ "place": {
+  "as_written": "śrīlalitāpūramahānagarayā ekakṣe vakaṃbāhālaya",
+  "normalized": "Patan"
+ },
+ "purpose": "dharmacitta-utpatti juyā o thva śrīguhyāsamādhipustaka cocakaṃ dayakā julo || thvaguyā puṇyaṃ dānapatiyā saptavṛhiṃ paripūrṇṇajuyamāla",
+ "notes": "p1's name could be read either as Naravīrasiṃha (with title/status jyeṣṭha) or Jyeṣṭhanaravīrasiṃha.",
+ "_meta": {
+  "reel": "A 139/4",
+  "model": "gemini-flash-latest",
+  "secs": 25.5,
+  "in_tok": 1239,
+  "out_tok": 4457
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday: 'atavāra' read as aitavāra / ādityavāra, i.e. Sunday, and marked tentative",
+   "month normalized to Pauṣa (pusa)",
+   "notes expanded: the era is assumed to be VS, Pauṣa śukla VS 1737 falls around Dec 1680 to Jan 1681, and the corrupt tithi is discussed"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1737 samae(!) pu(!)sasudī †(ui)jīvāra atavāra†",
+  "era": "VS",
+  "year": "1737",
+  "month": "Pauṣa (pusa)",
+  "paksa": "śukla (sudī)",
+  "tithi": "",
+  "weekday": "Sunday (atavāra = aitavāra?)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1680"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names no person. The era is given only as 'saṃvat'. VS is assumed because the date uses north-Indian/Nepali month notation (pusa sudī) and the manuscript is in Devanagari. NS 1737 is impossible. Pauṣa śukla VS 1737 falls around Dec 1680 to Jan 1681 CE. The passage †(ui)jīvāra atavāra† is marked corrupt. 'atavāra' most likely stands for aitavāra (Sunday). '(ui)jīvāra' may hide a tithi (e.g. dvitīyā/duja?), but no tithi can be read with confidence.",
+ "_meta": {
+  "reel": "B 432/9",
+  "model": "opus",
+  "cost_usd": 0.0469188,
+  "secs": 11.4
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "amṛtānaṃda(!)",
+   "name": "Amṛtānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "amṛtānaṃda(!) likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvatsare 929 pauṣe śukle 12",
+  "era": "NS",
+  "year": "929",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "12",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1809"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 460/4",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 687,
+  "out_tok": 594
+ }
+}

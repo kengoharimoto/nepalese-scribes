@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhavanāthaśarmaṇā",
+   "name": "Bhavanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "kaśyapānvaya",
+   "residence": "",
+   "evidence": "likhitam idaṃ kaśyapānvayasambhūtena bhavanāthaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "pañcarasaghanayute śālivāhanīyaśake mārgaśīrṣāśuklatrayodaśyām some",
+  "era": "ŚS",
+  "year": "pañcarasaghanayute",
+  "month": "mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "trayodaśī",
+  "weekday": "soma",
+  "nakshatra_yoga": "",
+  "ce_approx": "1843"
+ },
+ "place": {
+  "as_written": "kāntipuryāṃ",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "asmat prabhor ājñayā",
+ "notes": "The scribe states he copied by the order of his master/lord (asmat-prabhor ājñayā), but the master is not explicitly named. The catalogue resolves the chronogram pañcarasaghana(?) into ŚS 1765.",
+ "_meta": {
+  "reel": "B 437/3",
+  "model": "gemini-flash-latest",
+  "secs": 11.7,
+  "in_tok": 867,
+  "out_tok": 1402
+ }
+}

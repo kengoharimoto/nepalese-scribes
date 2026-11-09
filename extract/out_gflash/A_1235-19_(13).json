@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayajitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrī sumati jayajitāmitramalladevasana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 815 pauṣavadi 12 thvakuhnu",
+  "era": "NS",
+  "year": "815",
+  "month": "pauṣa",
+  "paksa": "vadi",
+  "tithi": "12",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1695"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The place Bhaktapur noted in the catalogue is inferred from King Jayajitāmitra Malla's seat of rule.",
+ "_meta": {
+  "reel": "A 1235/19 (13)",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 713,
+  "out_tok": 715
+ }
+}

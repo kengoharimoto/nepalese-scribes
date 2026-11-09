@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācāryyaśrīdhanavṛnāmnena",
+   "name": "Dhanavṛ",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mama vajrācāryyaśrīdhanavṛnāmnena(!) idaṃ vasudhārā, kalpanāmadhāraṇī, likhitaṃ saṃpūrṇṇam",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The name 'Dhanavṛ' is likely an abbreviation or incomplete/corrupt form of a name such as Dhanavṛddhi or Dhanavajra.",
+ "_meta": {
+  "reel": "E 1774/3 (3)",
+  "model": "gemini-flash-latest",
+  "secs": 9.0,
+  "in_tok": 896,
+  "out_tok": 1103
+ }
+}

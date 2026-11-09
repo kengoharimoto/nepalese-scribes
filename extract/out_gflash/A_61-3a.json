@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgovindāna(nda)bhagavatpūjyapāda",
+   "name": "Govindānanda",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "paramahaṃsa",
+    "parivrājakācārya",
+    "bhagavatpūjyapāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadparamahaṃsaparivrājakācāryaśrīgovindāna(nda)bhagavatpūjyapādaśiṣya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīrāmanandasarasvatī",
+   "name": "Rāmānandasarasvatī",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmanandasarasvatī kṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śrīgovindāna(nda)bhagavatpūjyapādaśiṣya śrīrāmanandasarasvatī"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Text colophon only; no scribal colophon or date recorded.",
+ "_meta": {
+  "reel": "A 61/3a",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 703,
+  "out_tok": 946
+ }
+}

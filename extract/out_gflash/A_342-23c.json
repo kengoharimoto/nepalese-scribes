@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī rahnamunī vajrācājena",
+   "name": "Ratnamuni",
+   "roles": [
+    "scribe",
+    "commissioner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "jamarāmayā mahālasa",
+   "evidence": "thama svādhyāya nīyītīna cocakā juro, śrī rahnamunī vajrācājena thva saphurī sīdhayakā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jamarāmayā",
+   "name": "Jamarāma",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jamarāmayā mahālasa",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃmvata 769 sāona gurāthavaka kṛnapakṣa ṣunusa",
+  "era": "NS",
+  "year": "769",
+  "month": "Śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "6",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1649"
+ },
+ "place": {
+  "as_written": "jamarāmayā mahālasa",
+  "normalized": ""
+ },
+ "purpose": "thama svādhyāya nīyītīna (for one's own recitation/study)",
+ "notes": "The scribe Ratnamuni Vajrācārya copied the manuscript for his own study (thama svādhyāya nīyītīna) while residing at the mansion/estate of Jamarāma (jamarāmayā mahālasa). The Newari date specifies 'ṣunusa' (on the 6th day) of the dark fortnight.",
+ "_meta": {
+  "reel": "A 342/23c",
+  "model": "gemini-flash-latest",
+  "secs": 23.5,
+  "in_tok": 842,
+  "out_tok": 3363
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrśrīsumati jayajitāmitramalladevasana",
+   "name": "Sumati Jayajitāmitramalla",
+   "roles": [
+    "king",
+    "commissioner",
+    "author"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "nṛpa",
+    "sūryavaṃśodbhava",
+    "sakararājacakrādhīśvaracūḍāmaṇi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jayajitāmitro nṛpālekhayat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke candraśaśāṅkakuñjaramite naipālike kārttike || kṛṣṇaikādaśi sattithau ravidine haste ... saṃvat 811 kārttika kṛṣṇa ekādaśī hasta nakṣatre āyuṣmāṃ yoge ādityavāra",
+  "era": "NS",
+  "year": "811",
+  "month": "kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "hasta nakṣatre āyuṣmāṃ yoge",
+  "ce_approx": "1690"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "sveṣṭadevatāprītikāmanāna, kubjeśyāḥ parituṣṭaye",
+ "notes": "The text refers to the date chronogram 'candra-śaśāṅka-kuñjara' (811) in the Nepal era ('naipālike'). King Jayajitāmitra Malla of Bhaktapur is credited both with causing the manuscript to be written (ālekhayat) and compiling/preparing the work (dayakā juroṃ).",
+ "_meta": {
+  "reel": "A 241/21",
+  "model": "gemini-flash-latest",
+  "secs": 12.9,
+  "in_tok": 1059,
+  "out_tok": 2086
+ }
+}

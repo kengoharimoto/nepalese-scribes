@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1915 pauṣavadi 4 roja 1 mā śubham || samvat 1015 maṃgaśilavadi 4 ro 1 sasaṃpūṇa yānā",
+  "era": "unspecified",
+  "year": "1915 / 1015",
+  "month": "pauṣa / maṃgaśila",
+  "paksa": "vadi",
+  "tithi": "4",
+  "weekday": "roja 1 (Sunday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1858 / 1894"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Two dates are given: saṃvat 1915 (VS) and saṃvat 1015 (NS), which do not correspond to the same CE year (~1858 CE vs. ~1894 CE). One may be the date of the exemplar and the other of the present copy, or an error by the scribe in calculating eras. No human person is named.",
+ "_meta": {
+  "reel": "B 269/19",
+  "model": "gemini-flash-latest",
+  "secs": 12.0,
+  "in_tok": 748,
+  "out_tok": 1619
+ }
+}

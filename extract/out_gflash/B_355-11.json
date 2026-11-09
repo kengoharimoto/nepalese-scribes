@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajña kīrtimādhavena",
+   "name": "Kīrtimādhava",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajña kīrtimādhavena dayakā coyā tayā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 984 kārttika śukla daśamī śukravāra",
+  "era": "NS",
+  "year": "984",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1864"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 355/11",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 716,
+  "out_tok": 732
+ }
+}

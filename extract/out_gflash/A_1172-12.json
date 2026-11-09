@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vidyādhara upādhyā sarmaṇam",
+   "name": "Vidyādhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitamidaṃ navagrahapustakaṃ vidyādhara upādhyā sarmaṇam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī śāke 1720 saṃvat ... miti jyeṣṭha kṛṣṇa 2 roja 4",
+  "era": "ŚS",
+  "year": "1720",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "2",
+  "weekday": "roja 4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1798"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1172/12",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 746,
+  "out_tok": 716
+ }
+}

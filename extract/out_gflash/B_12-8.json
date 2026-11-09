@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījayayakṣamallanṛpati",
+   "name": "Jayayakṣamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpati",
+    "nepālarājyeśvara"
+   ],
+   "affiliation": "",
+   "residence": "Bhaktapur",
+   "evidence": "śrījayayakṣamallanṛpatinepālarājyeśvaras tasyāsmin vijayapracārasamaye bhaktapurīrājyake",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepālavatsara harekṣaṇabāṇabhūte vaiśāṣapakṣaśita viśva tithau ca haste | yoge 'śanau divasi(!) devaguroḥ",
+  "era": "NS",
+  "year": "553",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "Hasta",
+  "ce_approx": "1433"
+ },
+ "place": {
+  "as_written": "bhaktapurīrājyake",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "Chronogram: harekṣaṇa (3), bāṇa (5), bhūta (5) = NS 553. The descriptive verses describe King Jayayakṣamalla; no scribe or patron is mentioned in the quoted colophon.",
+ "_meta": {
+  "reel": "B 12/8",
+  "model": "gemini-flash-latest",
+  "secs": 13.7,
+  "in_tok": 885,
+  "out_tok": 1549
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmahopādhyāyaśrīmāccitradhara",
+   "name": "Citradhara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāyaśrīmāccitradharaviraciteyaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "karamvahākulodbhūtaśrījīvanāthena",
+   "name": "Jīvanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "karamvahākula",
+   "residence": "",
+   "evidence": "karamvahākulodbhūtaśrījīvanāthenālekhi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1669 māghadhavalacaturthyāṃ śukre",
+  "era": "ŚS",
+  "year": "1669",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "caturthī",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1748"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe Jīvanātha belongs to the Karamvahā / Karamahā kula (a known Maithil Brahmin lineage/mūla).",
+ "_meta": {
+  "reel": "A 400/17",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 740,
+  "out_tok": 997
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmacandrajubrāhmaṇaṇa",
+   "name": "Rāmacandra",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmacandrajubrāhmaṇaṇadayakā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 799 mārggaśirakṛṣṇadaśamī 10 hastanakṣatre saubhanayoge | bṛhaspativāla",
+  "era": "NS",
+  "year": "799",
+  "month": "mārggaśira",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī 10",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "hasta, saubhana (śobhana)",
+  "ce_approx": "1678"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Newari: 'śrīrāmacandraju brāhmaṇaṇa dayakā' indicates Rāmacandra, a Brahmin, commissioned/had the book made.",
+ "_meta": {
+  "reel": "B 193/17",
+  "model": "gemini-flash-latest",
+  "secs": 9.7,
+  "in_tok": 736,
+  "out_tok": 1120
+ }
+}

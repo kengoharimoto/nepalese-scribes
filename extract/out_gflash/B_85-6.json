@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ācaryayaśomitra",
+   "name": "Yaśomitra",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ācaryayaśomitrakṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "lekhāpanāt puṇyam upārjitaṃ yat tenāstu loko khilakośapūrṇo buddho yathādhīdhanakośapūrṇaḥ (merit transfer for the enlightenment of all beings, including mother and teachers)",
+ "notes": "The commissioner is anonymous (referred to only as 'mama' in the verse describing the commissioning of the copy: 'kośasya ṭīkāṃ vimalāṃ sphuṭārthāṃ lekhāpanāt puṇyam upārjitaṃ yat').",
+ "_meta": {
+  "reel": "B 85/6",
+  "model": "gemini-flash-latest",
+  "secs": 11.6,
+  "in_tok": 916,
+  "out_tok": 1649
+ }
+}

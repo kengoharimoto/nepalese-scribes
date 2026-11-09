@@ -1,0 +1,82 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Author name normalized to stem 'Śaṅkara'; 'ācārya' moved to titles.",
+   "Prahlāda: 'Sarasvatī' recorded as the Daśanāmī order (affiliation) as well as a title; evidence substring adjusted.",
+   "Mahādeva: left at low confidence and kept as 'other', with notes on other possible readings (part of the scribe's name, a co-scribe, or 'hand of Mahādeva').",
+   "Date: paksa glossed (vadya = kṛṣṇa), tithi given as aṣṭamī (8); notes explain why ce_approx stays empty for a Jovian-cycle year.",
+   "Purpose reworded as a dedication."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmacchaṃkarācārya",
+   "name": "Śaṅkara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya",
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmacchaṃkarācāryaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "prahlādasarasvatī",
+   "name": "Prahlāda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sarasvatī"
+   ],
+   "affiliation": "Sarasvatī (Daśanāmī order)",
+   "residence": "",
+   "evidence": "hastākṣaraprahlādasarasvatī",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "mahādevakara",
+   "name": "Mahādeva",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "prahlādasarasvatīmahādevakara",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvatsara īśvaranāmasaṃvatsare phālgunavadya8myāṃ",
+  "era": "unspecified",
+  "year": "Īśvara (Jovian cycle year)",
+  "month": "Phālguna",
+  "paksa": "kṛṣṇa (vadya)",
+  "tithi": "8 (aṣṭamī)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "dedication: śrīrājarājeśvaryarpaṇam astu (offered to Rājarājeśvarī)",
+ "notes": "Only a 60-year Jovian year is given: Īśvara, the 11th year of the cycle. No era year appears, so the CE date can't be fixed. In the southern reckoning, Phālguna of Īśvara would fall in early 1818, 1878, 1938 and so on, 60 years apart. Devanagari script and the Jovian-year dating may point to a South Indian or Daśanāmī context. The scribal phrase 'hastākṣaraprahlādasarasvatīmahādevakara' is unclear. It most likely means 'handwriting of Prahlāda Sarasvatī', a Daśanāmī renunciant of the Sarasvatī order. 'mahādevakara' could be: part of the same person's name or an epithet; a second person, Mahādeva, possibly a co-writer; or 'kara' (hand) repeating 'hastākṣara'. For that reason Mahādeva is kept at low confidence with role 'other'. The catalogue fields are empty.",
+ "_meta": {
+  "reel": "A 838/35",
+  "model": "opus",
+  "cost_usd": 0.0736268,
+  "secs": 19.6
+ }
+}

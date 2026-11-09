@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsomanātha",
+   "name": "Somanātha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsomanāthadvijasūnunā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "1975 vaikramīye māghyāṃ bhṛgau",
+  "era": "VS",
+  "year": "1975",
+  "month": "māgha",
+  "paksa": "",
+  "tithi": "māghī",
+  "weekday": "bhṛgu",
+  "nakshatra_yoga": "",
+  "ce_approx": "1919"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists VS 1974, but the text specifies 1975 vaikramīye. The text was composed (nyabandhi) by the unnamed son of dvija Somanātha (śrīsomanāthadvijasūnu).",
+ "_meta": {
+  "reel": "B 378/25",
+  "model": "gemini-flash-latest",
+  "secs": 13.2,
+  "in_tok": 729,
+  "out_tok": 1528
+ }
+}

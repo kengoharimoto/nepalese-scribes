@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumatijayajitāmitramalladevasana",
+   "name": "Jayajitāmitramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati",
+    "deva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumatijayajitāmitramalladevasana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 812 kārttika vadi 5 thvakuhnu",
+  "era": "NS",
+  "year": "812",
+  "month": "kārttika",
+  "paksa": "vadi",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1691"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue fields for 'Date of Copying' and 'Place of Copying' were inadvertently swapped. Place of copying (Bhaktapur) is implicit from the reign of King Jitāmitra Malla but not explicitly mentioned in the colophon text.",
+ "_meta": {
+  "reel": "A 247/29",
+  "model": "gemini-flash-latest",
+  "secs": 7.7,
+  "in_tok": 740,
+  "out_tok": 1119
+ }
+}

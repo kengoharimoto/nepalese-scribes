@@ -1,0 +1,74 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Re-read 'śrīmatkarṇadevopādhyāya śrīvarddhamānamiśraviracita' as a single epithet compound: Vardhamāna is 'the upādhyāya (teacher) of the illustrious Karṇadeva'. The colophon does not say Karṇadeva was his father, so the son_of relation is removed.",
+   "Moved the title 'upādhyāya' from Karṇadeva to Vardhamāna.",
+   "Karṇadeva: role changed from relative_only to other (a king or patron the author taught; not the reigning king of this copy), confidence set to low.",
+   "Replaced the son_of relation with Karṇadeva pupil_of Vardhamāna (medium).",
+   "Purpose cleared: 'bhavānyai prītir astu' is a blessing, not a statement of why the copy was made. It is now recorded in notes."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvarddhamānamiśra",
+   "name": "Vardhamāna",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra",
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatkarṇadevopādhyāya śrīvarddhamānamiśraviracita",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmatkarṇadevopādhyāya",
+   "name": "Karṇadeva",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatkarṇadevopādhyāya",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śrīmatkarṇadevopādhyāya śrīvarddhamānamiśra"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'karṇadevopādhyāya' is most naturally read as an epithet of Vardhamāna ('teacher of Karṇadeva', probably a king). It could also be a separate name, but nothing in the colophon supports the first reading's 'son of'. The end of the colophon has only invocations (śāradāyai namaḥ; bhavānyai prītir astu) and a corrupt formula 'kṛtohaṃ yas teno bhūyāḥ'. The copy names no scribe, owner, date or place. The work's title is damaged ('.. vistare', i.e. Kātantravistara). This colophon ends the third pāda.",
+ "_meta": {
+  "reel": "A 552/6",
+  "model": "opus",
+  "cost_usd": 0.0647028,
+  "secs": 17.1
+ }
+}

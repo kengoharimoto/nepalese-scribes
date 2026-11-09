@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 as_written narrowed to the name segment 'caviṭikaṃṭivaradarāhabhaṭṭā' (without the honorific śrī)",
+   "p1 affiliation cleared: 'caviṭikaṃṭi' is an unexplained, probably corrupt prefix and does not clearly name a place or lineage; moved to notes",
+   "p1 confidence lowered to medium because the colophon reads 'varadarāha' for Varadarāja",
+   "notes expanded"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "caviṭikaṃṭivaradarāhabhaṭṭā",
+   "name": "Varadarāja",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīcaviṭikaṃṭivaradarāhabhaṭṭākṛtā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author's name is corrupt. 'varadarāha' is read as Varadarāja, the known author of the Madhyasiddhāntakaumudī. The prefix 'caviṭikaṃṭi' is unexplained and probably corrupt (perhaps a garbled epithet or place name), so it is not recorded as an affiliation. The colophon has no date, place, or copyist. The catalogue gives the scribe as 'Pūrṇacandra Paṇḍita Upādhyāya Bhaṭṭarāī', but the quoted colophon does not name him. He may appear elsewhere in the manuscript, so check the catalogue entry or images before adding him.",
+ "_meta": {
+  "reel": "A 1212/29",
+  "model": "opus",
+  "cost_usd": 0.048966800000000005,
+  "secs": 10.2
+ }
+}

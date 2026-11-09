@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "maheśa",
+   "name": "Maheśa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāyasa..raśrīmaheśakṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "suṃdarānaṃdajainena",
+   "name": "Sundarānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jaina"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ suṃdarānaṃdajaineneti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī śāke 1720 adhikaśrāvaṇakṛṣṇe 9 śanau",
+  "era": "ŚS",
+  "year": "1720",
+  "month": "Adhika Śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1798"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 501/5",
+  "model": "gemini-flash-latest",
+  "secs": 10.0,
+  "in_tok": 719,
+  "out_tok": 1286
+ }
+}

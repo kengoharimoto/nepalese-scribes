@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No historical persons, date, or place are mentioned in the colophon; it contains only the title/chapter colophon followed by standard scribal warning and excuse verses (yādṛśaṃ pustakaṃ dṛṣṭvā..., bhagnapṛṣṭi...).",
+ "_meta": {
+  "reel": "A 1119/5",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 810,
+  "out_tok": 651
+ }
+}

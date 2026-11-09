@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrakṣamānaṃ",
+   "name": "Rakṣamāna",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "Uṃkhācuka",
+   "evidence": "lakṣamānasya pustakaṃ ... uṃkhācuka vajrācārya śrīrakṣamānaṃ na[[thavata arthana]] coyā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "naipārābde gataitāni grahasvādasāgarā, māsa .. vaiśāṣe śukre, ⟪trita⟫tṛtīyāpracatuṣṭake || rohinyāṃ yogaśobhāgya, guruvāra samūke",
+  "era": "NS",
+  "year": "469",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "tṛtīyā / caturthī",
+  "weekday": "guruvāra",
+  "nakshatra_yoga": "rohiṇī, saubhāgya",
+  "ce_approx": "1349"
+ },
+ "place": {
+  "as_written": "uṃkhācuka",
+  "normalized": ""
+ },
+ "purpose": "thavata arthana (svārtha, for his own purpose/use)",
+ "notes": "The chronogram 'grahasvādasāgarā' represents 469 (graha = 9, svāda = 6, sāgara = 4; read in reverse order). The name is spelled both Rakṣamāna and Lakṣamāna (in 'lakṣamānasya pustakaṃ').",
+ "_meta": {
+  "reel": "A 126/6",
+  "model": "gemini-flash-latest",
+  "secs": 15.1,
+  "in_tok": 1058,
+  "out_tok": 1935
+ }
+}

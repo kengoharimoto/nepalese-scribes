@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvārāṇaśirāmena",
+   "name": "Vārāṇasīrāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "duja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ṛkhiti duja śrīvārāṇaśirāmena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvata 763 bhādrada(!) śu[[di]] 14",
+  "era": "NS",
+  "year": "763",
+  "month": "bhādrada(!)",
+  "paksa": "śu",
+  "tithi": "14",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1643"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe is named twice: first as 'śrīvārānasirāmeṇa' and then as 'duja śrīvārāṇaśirāmena' (dvija Śrī-Vārāṇasīrāma). The text copied is a section from the Durgābhaktitaraṅgiṇī.",
+ "_meta": {
+  "reel": "B 703/21",
+  "model": "gemini-flash-latest",
+  "secs": 9.8,
+  "in_tok": 783,
+  "out_tok": 1111
+ }
+}

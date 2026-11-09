@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācāryavajradhareṇa",
+   "name": "Vajradhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhya pūrṇaṃ ... vajrācāryavajradhareṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "avdanetraśūnyavyomakasaṃkhyaiḥ ... asite bhādrapakṣe",
+  "era": "NS",
+  "year": "1002",
+  "month": "Bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1882"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'netra-śūnya-vyoma-ka' yields 1002 (netra = 2, śūnya = 0, vyoma = 0, ka/eka = 1).",
+ "_meta": {
+  "reel": "A 127/8",
+  "model": "gemini-flash-latest",
+  "secs": 7.8,
+  "in_tok": 769,
+  "out_tok": 1082
+ }
+}

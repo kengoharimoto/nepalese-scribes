@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "trilocanadāsa",
+   "name": "Trilocanadāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "trilocanadāsakṛtāyāṃ kātaṃtravṛttipaṃjikāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śakābde 1586 || ... naipāle vidhuvāṇaratnakalite drībhebhabheṭvaikrame śāke kṣāśuga ‥ labhūmimilite corje ca rākātithau",
+  "era": "ŚS",
+  "year": "1586",
+  "month": "ūrja",
+  "paksa": "śukla",
+  "tithi": "rākā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1664"
+ },
+ "place": {
+  "as_written": "naipāle",
+  "normalized": "Nepal"
+ },
+ "purpose": "",
+ "notes": "The colophon contains two conflicting dates: an explicit prose date 'śakābde 1586' (1664 CE), followed by chronogram verses indicating Nepal Era 951 (vidhu-vāṇa-ratna = 1-5-9, c. 1831 CE) and Śaka 1751 (c. 1829 CE). The scribe is unnamed, described only as a 76-year-old ('ṣaṭsaptativārṣikena') acting under the command of 'munirāṭ' ('munirāḍājñāpareṇāmunā'), who transcribed the text from Bengali script ('baṃgālākṣarato bhisāritam').",
+ "_meta": {
+  "reel": "B 458/17",
+  "model": "gemini-flash-latest",
+  "secs": 21.0,
+  "in_tok": 910,
+  "out_tok": 2414
+ }
+}

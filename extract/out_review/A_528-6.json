@@ -1,0 +1,89 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: the roles king and commissioner are removed and replaced with 'other'. Bāz Bahādur Chand ordered the composition of the original Rājadharmakaustubha (ājñāpravṛttena governs kṛte). He did not commission this copy and was not the reigning king when it was made. The name is normalized to Vājabāhāduracandradeva.",
+   "p2: the name is corrected to Anantadeva. The long ā in 'sutenānaṃtadevena' comes from sandhi (sutena + anantadevena).",
+   "Date: the era is kept as VS, but the colophon only says 'saṃvat'. This uncertainty is now recorded in the notes.",
+   "Notes: expanded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vājavāhāduracaṃdradeva-",
+   "name": "Vājabāhāduracandradeva",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vājavāhāduracaṃdradevājñāpravṛttena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ānaṃtadevena",
+   "name": "Anantadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sutenānaṃtadevena kṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "āpadeva-",
+   "name": "Āpadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadāpadevasutena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "āpadevasutenānaṃtadevena"
+  },
+  {
+   "from": "p2",
+   "type": "other",
+   "to": "p1",
+   "evidence": "vājavāhāduracaṃdradevājñāpravṛttena ... ānaṃtadevena kṛte"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1752 samanāma phāgu",
+  "era": "VS",
+  "year": "1752",
+  "month": "phāgu (Phālguna)",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1695"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue's Scribe field ('Vājabāhāduracaṃḍardeva') is wrong. He is Bāz Bahādur Chand of Kumaon (r. c. 1638–1678), the patron who ordered Anantadeva to compose the work. He is not the scribe or the commissioner of this copy, and no scribe is named. The colophon closes the first dīdhiti of the Rājadharmakaustubha, part of Anantadeva's Smṛtikaustubha. The era is just 'saṃvat'. VS is assumed, which gives 1695 CE and fits the period after the author. ŚS (1830 CE) cannot be ruled out. 'samanāma' is unclear and may be corrupt, perhaps for a 'nāma saṃvatsara' formula.",
+ "_meta": {
+  "reel": "A 528/6",
+  "model": "opus",
+  "cost_usd": 0.0640908,
+  "secs": 16.6
+ }
+}

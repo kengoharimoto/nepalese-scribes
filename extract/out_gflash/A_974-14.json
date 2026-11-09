@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīhalāyudhavircitāyāṃ",
+   "name": "Halāyudha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīhalāyudhavircitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 840 māghaśudi 5",
+  "era": "NS",
+  "year": "840",
+  "month": "Māgha",
+  "paksa": "śudi",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1720"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Fol. 102r records the end of Hanubhairavastotra composed by Halāyudha; fol. 121v records the completion of the main work Ugracaṇḍīdevīpañcopacārapūjāpaddhati dated NS 840.",
+ "_meta": {
+  "reel": "A 974/14",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 736,
+  "out_tok": 832
+ }
+}

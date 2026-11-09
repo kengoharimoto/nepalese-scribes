@@ -1,0 +1,35 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "date.year: now just '1788' (the ŚS year); VS 1923 is recorded in notes",
+   "date.weekday: 'roja 5' read as Thursday",
+   "notes: both eras checked and found consistent; possible early-1867 date added"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāka 1788 samvat 1923 māśe pauṣaśukla 12 roja 5",
+  "era": "ŚS",
+  "year": "1788",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "12",
+  "weekday": "roja 5 (Thursday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1866"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives two eras, Śaka 1788 (+78 = 1866) and Vikrama saṃvat 1923 (−57 = 1866), and they agree. Pauṣa śukla 12 of that year falls in late December 1866 or early January 1867. 'roja 5' means the fifth weekday, Thursday. 'śrīsadāśiva' is an invocation to the deity, not a person. The catalogue gives Cirañjīvi Bhaṭṭarāi as the scribe, but that name is not in the quoted colophon. It probably comes from elsewhere in the manuscript, so it is left out here. The title 'śrīddāmalatantre' is a corruption of Uḍḍāmaratantra (Uḍḍāmareśvara).",
+ "_meta": {
+  "reel": "B 541/21",
+  "model": "opus",
+  "cost_usd": 0.0498988,
+  "secs": 12.2
+ }
+}

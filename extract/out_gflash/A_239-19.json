@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayabhūpatīndramalladevasana",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayabhūpatīndramalladevasana",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 834",
+  "era": "NS",
+  "year": "834",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1714"
+ },
+ "place": {
+  "as_written": "duvukvātha",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "duvukvāthapratiṣṭhāyāṅā juro (for the consecration/installation of Duvukvātha)",
+ "notes": "King Bhūpatīndra Malla of Bhaktapur performed the pratiṣṭhā of Duvukvātha in NS 834.",
+ "_meta": {
+  "reel": "A 239/19",
+  "model": "gemini-flash-latest",
+  "secs": 7.8,
+  "in_tok": 716,
+  "out_tok": 994
+ }
+}

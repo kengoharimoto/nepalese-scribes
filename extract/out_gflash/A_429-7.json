@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "maheśvara",
+   "name": "Maheśvara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "maheśvaraviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmanorathācārya",
+   "name": "Manoratha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanorathācāryasuta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīmanorathācāryasutamaheśvara"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1917 māghakṛṣṇaravau",
+  "era": "VS",
+  "year": "1917",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "",
+  "weekday": "ravau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1861"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 429/7",
+  "model": "gemini-flash-latest",
+  "secs": 8.8,
+  "in_tok": 679,
+  "out_tok": 1328
+ }
+}

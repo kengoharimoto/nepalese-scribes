@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 555 vaisāṣaśuklapradipadyāṃ(!) tithau aśuninakṣetre(!) siddhijo gevudavāsarot",
+  "era": "NS",
+  "year": "555",
+  "month": "vaisāṣa",
+  "paksa": "śukla",
+  "tithi": "pratipad (pradipadyāṃ)",
+  "weekday": "Wednesday (vudavāsarot)",
+  "nakshatra_yoga": "aśuninakṣetra, siddhijoga",
+  "ce_approx": "1435"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "jasyo 'rthena bhavatu svabham astu sarvvadā",
+ "notes": "No individual person (scribe, patron, or king) is named in the colophon. The phrase 'liti manate jasyo 'rthena bhavatu svabham astu sarvvadā' appears to be a corrupt benediction containing 'yasyārthena bhavatu śubham astu sarvadā' ('for whosever benefit [it may be], may it be auspicious always').",
+ "_meta": {
+  "reel": "B 12/16c (3)",
+  "model": "gemini-flash-latest",
+  "secs": 12.1,
+  "in_tok": 756,
+  "out_tok": 1417
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 841 māghaśukranavamyāṃ tithau",
+  "era": "NS",
+  "year": "841",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "navamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1721"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Vaṃśamaṇi as scribe, but this name does not appear in the quoted colophon text. Characters mentioned from the Bhagavadgītā (Keśava, Arjuna, Sañjaya, Dhṛtarāṣṭra, Kṛṣṇa) are excluded as textual/mythical figures.",
+ "_meta": {
+  "reel": "B 22/9",
+  "model": "gemini-flash-latest",
+  "secs": 14.3,
+  "in_tok": 1096,
+  "out_tok": 1691
+ }
+}

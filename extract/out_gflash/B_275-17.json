@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dharmmādhika(11)raṇikaśrījagaddhara",
+   "name": "Jagaddhara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "dharmādhikaraṇika"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījagaddharakṛtaṭīkāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmahādāmodarapaṇḍita",
+   "name": "Dāmodara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paṇḍita",
+    "mahāpaṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahādāmodarapaṇḍita",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "padhye ca nāthasya",
+   "name": "Padmanātha",
+   "roles": [
+    "owner",
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tannāṭakaṃ sarvalikheti nūnaṃ padhye ca nāthasya pustakam idaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīmahādāmodarapaṇḍitadharmmādhikaraṇikaśrījagaddhara"
+  }
+ ],
+ "date": {
+  "as_written": "śrīvikramābde karasapta nāga bhūvāre ravau bhādinipūrṇatithau ... samvat 936 pauṣa śudi 15 roja 1",
+  "era": "VS",
+  "year": "1872 (VS) / 936 (NS)",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "15",
+  "weekday": "ravivāra (roja 1)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1816"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'kara-sapta-nāga-bhū' yields VS 1872, corresponding to NS 936 (Pauṣa śudi 15, Sunday = January 14, 1816 CE). The scribe/owner's name is corruptly written as 'padhye ca nāthasya' (interpreted tentatively as Padmanātha).",
+ "_meta": {
+  "reel": "B 275/17",
+  "model": "gemini-flash-latest",
+  "secs": 18.8,
+  "in_tok": 794,
+  "out_tok": 2397
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnandalāla upādhyāyodmālako",
+   "name": "Nandalāla",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "Dumāla",
+   "residence": "",
+   "evidence": "śrīnandalāla upādhyāyodmālako puttaka ho",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī sāke 1783 saṃvat 1983 mi phāguṇa vadi 8 roja 6",
+  "era": "ŚS",
+  "year": "1783",
+  "month": "phāguṇa",
+  "paksa": "vadi",
+  "tithi": "8",
+  "weekday": "roja 6",
+  "nakshatra_yoga": "",
+  "ce_approx": "1862"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date Śāke 1783 Phālguna vadi 8 roja 6 (Friday) corresponds to 21 February 1862 CE (= VS 1918, as corrected by the cataloguer; 'saṃvat 1983' is a scribal slip for 1918). In Nepali: '... puttaka ho' means 'is the book of...'; 'satyanārāyaṇako putta ho' refers to the text of Satyanārāyaṇa, not a second person. 'upādhyāyodmālako' reflects sandhi for Upādhyāya + Udmāla/Dumāla (a Nepali Brahmin clan/thar).",
+ "_meta": {
+  "reel": "A 1149/41",
+  "model": "gemini-flash-latest",
+  "secs": 16.0,
+  "in_tok": 804,
+  "out_tok": 2199
+ }
+}

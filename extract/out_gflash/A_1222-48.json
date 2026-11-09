@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīhariśaṅkaradevana",
+   "name": "Hariśaṅkaradeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīhariśaṅkaradevana, sampūrṇṇa yānā dina juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 905 vaiśāṣa śuddhi 10 budhavārakuhnu",
+  "era": "NS",
+  "year": "905",
+  "month": "vaiśāṣa",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1785"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1222/48",
+  "model": "gemini-flash-latest",
+  "secs": 6.2,
+  "in_tok": 804,
+  "out_tok": 981
+ }
+}

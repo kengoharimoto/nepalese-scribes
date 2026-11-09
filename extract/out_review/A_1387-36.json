@@ -1,0 +1,66 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe's name normalized to stem without the brahmin suffix: 'Vinoda' (śarman kept in titles), not 'Vinodaśarman'",
+   "Place normalized to 'Vārāṇasī' per schema convention",
+   "Notes expanded: chronogram reading, saṃvatsara name not matching the southern 60-year cycle for Śaka 1730, corrupt words"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmahākavisubaṃdhu",
+   "name": "Subandhu",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahākavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahākavisubaṃdhuviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvinodaśarmaṇā",
+   "name": "Vinoda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ śrīvinodaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "khavahniśailadharaṇī saṃmite pramāthināmni samvatsare āṣāḍamāsya(!) site raviyutadaśamyāṃ",
+  "era": "ŚS",
+  "year": "1730",
+  "month": "Āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1808"
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The chronogram 'khavahniśailadharaṇī' read right to left gives kha 0, vahni 3, śaila 7, dharaṇī 1, so 1730. The colophon names no era. The catalogue reads it as Śaka 1730 and dates it Sunday 3 July 1808, which I have kept. The year name is a problem, though. Under the southern 60-year cycle, Śaka 1730 is Vibhava, and Pramāthin would be Śaka 1741 or 1801. Read as VS 1730 (1673 CE), the year would be Pramādin, not Pramāthin. The year name may follow the northern Jovian reckoning, or it may be a scribal slip, so the era is somewhat uncertain. 'āṣāḍamāsya(!)' is a corruption of āṣāḍhamāse. 'śrīviśveśvarāpanamanaḥ' is corrupt, probably for '(śrī)viśveśvarārpaṇam astu'. 'site' = śuklapakṣa; 'raviyuta' = Sunday; 'kāśyāṃ' = Kāśī (Vārāṇasī).",
+ "_meta": {
+  "reel": "A 1387/36",
+  "model": "opus",
+  "cost_usd": 0.5786216000000001,
+  "secs": 32.5
+ }
+}

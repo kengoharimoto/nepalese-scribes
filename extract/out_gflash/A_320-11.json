@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "amarasiṃha-",
+   "name": "Amarasiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "amarasiṃhakṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1714 dvitīyāyāṃ tithau viśāṣānakṣe(!)tre somavāsare meṣaśa(!)krāṃtau",
+  "era": "ŚS",
+  "year": "1714",
+  "month": "",
+  "paksa": "",
+  "tithi": "dvitīyā",
+  "weekday": "somavāsara",
+  "nakshatra_yoga": "viśākhā",
+  "ce_approx": "1792"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe is anonymous (likhitam idaṃ pustakam svahastena likhitam). The copying was completed at the Meṣasaṅkrānti.",
+ "_meta": {
+  "reel": "A 320/11",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 943,
+  "out_tok": 1138
+ }
+}

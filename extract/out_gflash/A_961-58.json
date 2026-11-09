@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṛṣṇalāla śarmaṇaḥ",
+   "name": "Kṛṣṇalāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "vakṣagotra",
+   "residence": "",
+   "evidence": "likhitaṃ pustakaṃ vakṣagotrāya kṛṣṇalāla śarmaṇaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1941 sāla mārgaśirṣaśukla 4 vāre 6",
+  "era": "VS",
+  "year": "1941",
+  "month": "mārgaśirṣa",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "vāre 6",
+  "nakshatra_yoga": "",
+  "ce_approx": "1884"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "vakṣagotrāya likely stands for vatsagotrāya; the mixed syntax (vakṣagotrāya kṛṣṇalāla śarmaṇaḥ) could indicate he was either the scribe or owner/commissioner, but the catalogue lists him as scribe.",
+ "_meta": {
+  "reel": "A 961/58",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 756,
+  "out_tok": 1014
+ }
+}

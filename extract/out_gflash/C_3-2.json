@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsthitirājamalla",
+   "name": "Sthitirājamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājā",
+    "nṛpati",
+    "rājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājāśrīsthitirājamallanṛpatau rājādhirāje",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": ".i(ken)i(r)..",
+   "name": ".i(ken)i(r)..",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mayā .i(ken)i(r).. .. .. vyākhyānaṃ likhitaṃ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "rājāśrīsthitirājamallanṛpatau rājādhirāje pi sa .. bde saptakhakāmabāṇasahite mayā .i(ken)i(r).. .. .. vyākhyānaṃ likhitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "bde saptakhakāmabāṇasahite ... (śukle r-ā)śvini pañcamītithiyute candrātmajevāsare",
+  "era": "NS",
+  "year": "507",
+  "month": "Āśvina",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1387"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is expressed via bhūtasaṃkhyā: sapta (7), kha (0), kāmabāṇa (5) = NS 507. Candrātmaja refers to Mercury/Wednesday. Scribe's name following 'mayā' is largely broken/illegible.",
+ "_meta": {
+  "reel": "C 3/2",
+  "model": "gemini-flash-latest",
+  "secs": 14.0,
+  "in_tok": 965,
+  "out_tok": 1786
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī śrīkamala(kṣaṇasya",
+   "name": "Kamalakṣaṇa",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śrīkamala(kṣaṇasya sakalaṃ śiṣyālikhyaṃ)",
+   "confidence": "low"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kṛṣṇa| saṃhakaḥ",
+   "name": "Kṛṣṇasaṃhaka",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "(vai ki taṃ kṛṣṇa| saṃhakaḥ) prayogamukhyaṃ likhitaṃ pustakaṃ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śrī śrīkamala(kṣaṇasya sakalaṃ śiṣyālikhyaṃ)"
+  }
+ ],
+ "date": {
+  "as_written": "milite bhavatsare, yukte site kāmatithau viśāṣabhe, bhṛgaur (!) ddine",
+  "era": "unspecified",
+  "year": "",
+  "month": "",
+  "paksa": "śuklapakṣa",
+  "tithi": "13",
+  "weekday": "Friday",
+  "nakshatra_yoga": "Viśākhā",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon text is fragmentary and preserved in verse with several uncertain readings in parentheses. A teacher's name is tentatively restored by the cataloguer as Kamalakṣaṇa (or perhaps Kamalākṣa), whose pupil wrote the manuscript. The scribe's name is tentatively read as Kṛṣṇasaṃhaka (or similar). Kāmatithi corresponds to the 13th tithi (trayodaśī), and viśāṣabha to Viśākhā nakṣatra.",
+ "_meta": {
+  "reel": "A 557/2",
+  "model": "gemini-flash-latest",
+  "secs": 16.3,
+  "in_tok": 766,
+  "out_tok": 3125
+ }
+}

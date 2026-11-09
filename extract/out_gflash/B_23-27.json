@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "macchedra(!)nātha",
+   "name": "Matsyendranātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "macchedra(!)nāthapādāvatārite",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat vedanāgāyugāyutāni(!) śrāvana(!)śuklanavamībhūmivāsare",
+  "era": "NS",
+  "year": "484",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "navamī",
+  "weekday": "bhūmivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1364"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is expressed via the bhūtasaṃkhyā chronogram veda (4), nāga (8), yuga (4) = NS 484. No scribe or patron is named; the colophon includes only the chapter colophon attributing the text to Matsyendranātha, a scribe's apology verse, and the date.",
+ "_meta": {
+  "reel": "B 23/27",
+  "model": "gemini-flash-latest",
+  "secs": 18.4,
+  "in_tok": 779,
+  "out_tok": 2148
+ }
+}

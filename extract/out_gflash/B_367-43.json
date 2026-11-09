@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pauḍyālopanāmakapaṇḍitacirañjīviśarmaṇā",
+   "name": "Cirañjīviśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paṇḍita",
+    "pauḍyālopanāmaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiteyaṃ pauḍyālopanāmakapaṇḍitacirañjīviśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1828 bhādraśūklaṃ 3",
+  "era": "ŚS",
+  "year": "1828",
+  "month": "bhādra",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1906"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 367/43",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 681,
+  "out_tok": 652
+ }
+}

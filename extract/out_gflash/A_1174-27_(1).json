@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmacchaṃkarācāryya",
+   "name": "Śaṅkarācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmacchaṃkarācāryyaviracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 821 āṣāḍhakṛṣṇadvādaśi somavāre",
+  "era": "NS",
+  "year": "821",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādaśī",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1701"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1174/27 (1)",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 715,
+  "out_tok": 695
+ }
+}

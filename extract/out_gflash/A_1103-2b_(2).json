@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kālidāsakṛtaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śamvat 1857 śāla paṣṭa śudi 8 roja 7 śāke 1722",
+  "era": "VS",
+  "year": "1857",
+  "month": "paṣṭa",
+  "paksa": "śudi",
+  "tithi": "8",
+  "weekday": "roja 7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1800"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Vikrama Saṃvat (1857) and Śaka Era (1722) are given. The scribe remains anonymous ('liṣītam edam postakam'). The month name 'paṣṭa' is likely corrupt (possibly for Pauṣa).",
+ "_meta": {
+  "reel": "A 1103/2b (2)",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 804,
+  "out_tok": 953
+ }
+}

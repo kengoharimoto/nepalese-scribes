@@ -1,0 +1,48 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "ce_approx emptied: the colophon gives only 'saṃ 79' with no era and no century, so 1823 rests only on the catalogue's guess of VS 1879. That guess is now kept in notes as a possibility.",
+   "Notes expanded to explain the abbreviated year, the abbreviation 'li' for likhitam, and the Devanagari script."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "moreśvareṇa",
+   "name": "Moreśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "li moreśvareṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 79 phālgunaśukla 4",
+  "era": "unspecified",
+  "year": "79",
+  "month": "phālguna",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is written in short form as 'saṃ 79', with no era and no century. The catalogue reads it as VS 1879, which would put Phālguna śukla 4 around February/March 1823 CE. Other centuries are equally possible (VS 1779, about 1723 CE; VS 1979, about 1923 CE), so ce_approx is left empty. 'li' is short for likhitam ('written'). Moreśvara is a Marathi-type name, which fits the Devanagari script; the copy may have been made outside Nepal or by a scribe from Mahārāṣṭra, but the colophon does not say.",
+ "_meta": {
+  "reel": "B 378/6",
+  "model": "opus",
+  "cost_usd": 0.0446588,
+  "secs": 10.7
+ }
+}

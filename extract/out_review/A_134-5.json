@@ -1,0 +1,89 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Vihāra name normalized to Śrīraghava vihāra: 'yacchrīraghava-nāmastha-vihāre' means 'in the vihāra named Śrī-Raghava', so the long ā in 'Rāghava' is not supported",
+   "Purpose rephrased as merit transfer; added the scribe's verse 'likhitvā mayā prāptaṃ yat kuśalaṃ … tenāstu buddho janaḥ'",
+   "Notes expanded: the commissioner's name is lost in the lacuna after 'likhāpiteyam'; the catalogue's VS 1989? is rejected; the date fits Śaṅkaradeva's reign; under_reign_of is attached to the owner only because the scribe is not named",
+   "Date, era, weekday and CE (NS 198 = c. 1078) confirmed"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paṇḍitabhikṣuprajñākaramatipādānāṃ",
+   "name": "Prajñākaramati",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "paṇḍita",
+    "bhikṣu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtir iyaṃ paṇḍitabhikṣuprajñākaramatipādānāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmacchaṃkaradevasya",
+   "name": "Śaṅkaradeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmacchaṃkaradevasya rājye vijayaśālinaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "buddhacaṃdrasya",
+   "name": "Buddhacandra",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "sthavira",
+    "bhikṣu"
+   ],
+   "affiliation": "Śrīraghava vihāra (śrīraghavanāmasthavihāre)",
+   "residence": "Māṇigla, Lalitapura",
+   "evidence": "dhanyasthavirabhikṣos tu buddhacaṃdrasya pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "śrīmacchaṃkaradevasya rājye vijayaśālinaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "aṣṭānavatisaṃyukte śate śaradi vatsare | kṛṣṇe śrāvaṇapañcamyāṃ vāsare kujam āhvaye",
+  "era": "NS",
+  "year": "198",
+  "month": "Śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1078"
+ },
+ "place": {
+  "as_written": "śrīlalitapure ramye śrīmāṇiglasasṃjñake || yacchrīraghavanāmasthavihāre",
+  "normalized": "Patan"
+ },
+ "purpose": "Merit transfer: the scribe dedicates the merit of copying so that people may become buddhas ('tenāstu buddho janaḥ'); the owner's merit leads to the supreme state of a bodhisattva ('tatpuṇyād bodhisatvasya labhate paramaṃ padam').",
+ "notes": "Era: none is named, but 'aṣṭānavatisaṃyukte śate' = 198. This fits NS 198 (c. 1078 CE) and the reign of Śaṅkaradeva (c. 1067–1080 CE, NS c. 187–200). The catalogue's 'VS 1989?' is wrong. 'kujam āhvaye' = Tuesday. Commissioner: 'likhāpiteyam' is followed by a long string of plural epithets and then a lacuna ('kleśa….'), so the commissioner's name is lost. That person may or may not be Buddhacandra, so Buddhacandra is recorded as owner only. Scribe: the scribe is anonymous ('likhitvā mayā') and has no person entry. Place: 'māṇiglasasṃjñake' is presumably a typo for 'māṇiglasaṃjñake', i.e. Māṇigal, the palace area of Patan. The vihāra name is read from 'yacchrīraghavanāmastha-' as Śrī-Raghava; the exact form is uncertain. Relation: under_reign_of is attached to the owner only because the scribe is not named.",
+ "_meta": {
+  "reel": "A 134/5",
+  "model": "opus",
+  "cost_usd": 0.6059536,
+  "secs": 39.9
+ }
+}

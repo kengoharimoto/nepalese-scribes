@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vaṃśanārān",
+   "name": "Vaṃśanārāyaṇa",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vaṃśanārān",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1943 sālamitī",
+  "era": "VS",
+  "year": "1943",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1886"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The Nepali phrase 'mṛtyuṃjayako pustaka ho || 50 || vaṃśanārān' indicates that the book belongs to or was written by Vaṃśanārān (Vaṃśanārāyaṇa).",
+ "_meta": {
+  "reel": "B 542/34",
+  "model": "gemini-flash-latest",
+  "secs": 7.6,
+  "in_tok": 719,
+  "out_tok": 896
+ }
+}

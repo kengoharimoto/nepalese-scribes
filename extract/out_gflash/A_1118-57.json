@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāśīrāmavairāgiṇā",
+   "name": "Kāśīrāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vairāgī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ kāśīrāmavairāgiṇā(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1711 samaye phālgunavadi 10",
+  "era": "VS",
+  "year": "1711",
+  "month": "phālguna",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1655"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīkṛṣṇārpam(!) astu",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1118/57",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 760,
+  "out_tok": 1130
+ }
+}

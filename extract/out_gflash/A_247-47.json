@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayabhūpatīndramalladevavarmmaṇaḥ",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "beneficiary"
+   ],
+   "titles": [
+    "varmman"
+   ],
+   "affiliation": "mānavagotra",
+   "residence": "",
+   "evidence": "mānavagotra śrīśrījayabhūpatīndramalladevavarmmaṇaḥ (2) śrī 3 sveṣṭadevatāprītyarthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrī 3 sveṣṭadevatāprītyarthaṃ, navagṛhapraveśa aśvasālāpratiṣṭhārthaṃ, śāntibalyārccana, nimityarthaṃ (for the pleasure of his tutelary deity, housewarming of a new house, and consecration of a horse stable)",
+ "notes": "The colophon text contains a ritual saṅkalpa/vākya performed on behalf of King Jayabhūpatīndramalladeva of Bhaktapur; no date or place is given in the quoted colophon fragment.",
+ "_meta": {
+  "reel": "A 247/47",
+  "model": "gemini-flash-latest",
+  "secs": 8.7,
+  "in_tok": 751,
+  "out_tok": 1323
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bālakṛṣṇabhaṭṭātmaja",
+   "name": "Bālakṛṣṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "Bharadvāja",
+   "residence": "",
+   "evidence": "bālakṛṣṇabhaṭṭātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dinakarakṛte",
+   "name": "Dinakara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "Bharadvāja",
+   "residence": "",
+   "evidence": "dinakarakṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīkṛṣṇa jośī",
+   "name": "Śrīkṛṣṇa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "Rāmanagara",
+   "evidence": "pustakam idaṃ śrīkṛṣṇa jośī || rāmanagaravāle",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "grandson_of",
+   "to": "p1",
+   "evidence": "bālakṛṣṇabhaṭṭātmaja†ma do bha† sūnu"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvata 1864 māse caitra sule pakṣe 11",
+  "era": "VS",
+  "year": "1864",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1807"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author Dinakara Bhaṭṭa's father's name between bālakṛṣṇabhaṭṭātmaja and sūnu is corrupt (†ma do bha†). The owner Śrīkṛṣṇa Jośī is designated as hailing from Ramnagar (rāmanagaravāle).",
+ "_meta": {
+  "reel": "A 356/5",
+  "model": "gemini-flash-latest",
+  "secs": 16.7,
+  "in_tok": 760,
+  "out_tok": 2504
+ }
+}

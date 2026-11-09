@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñabhavāni(!)siṃhena",
+   "name": "Bhavānīsiṃha",
+   "roles": [
+    "scribe",
+    "commissioner"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñabhavāni(!)siṃhena lekhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 9 || 55 || ❁ || vāna(!)vānā(!)navavarṣeṣu navamyāṃ bhādraśuklayo(!) jyeṣṭhā (!) baumavāsare",
+  "era": "NS",
+  "year": "955",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "navamī",
+  "weekday": "bhaumavāsara",
+  "nakshatra_yoga": "jyeṣṭhā",
+  "ce_approx": "1835"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'vāna-vānā-nava' corresponds to 5-5-9, confirming the numerical year 955. The verb 'lekhitaṃ' (caused to be written) may indicate Bhavānīsiṃha was the commissioner, though the cataloguer identifies him as the scribe.",
+ "_meta": {
+  "reel": "B 141/4",
+  "model": "gemini-flash-latest",
+  "secs": 9.9,
+  "in_tok": 737,
+  "out_tok": 1077
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmakurmā miśra",
+   "name": "Rāmakumāra Miśra",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmakurmā miśratike ihāṃ chāpi gai",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kāsinātha bhojaka",
+   "name": "Kāśīnātha Bhojaka",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhojaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liḥ kāsinātha bhojaka",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "phekukārī gara",
+   "name": "Pheku",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "kārīgara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "chāpane vālekā nāma phekukārī gara",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "naṃdakurmāmiśra",
+   "name": "Nandakumāra Miśra",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "cādani cauka",
+   "evidence": "cādani caukame naṃdakurmāmiśrake dukāna para milaigā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "miti agahana sudi 12 vura u samvat 1925",
+  "era": "VS",
+  "year": "1925",
+  "month": "Agrahāyaṇa",
+  "paksa": "śukla",
+  "tithi": "12",
+  "weekday": "vura u",
+  "nakshatra_yoga": "",
+  "ce_approx": "1868"
+ },
+ "place": {
+  "as_written": "śrīkāśīvīśvanāthapurī malle bullanāre",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "Colophon of a lithographed/printed edition in Hindi/vernacular. Kāśīnātha Bhojaka is the scribe/calligrapher (liḥ kāsinātha bhojaka), Pheku Kārīgara is the printer (chāpane vālekā), Rāmakumāra Miśra is the publisher/owner of the publication, and Nandakumāra Miśra is the bookseller with a shop in Chandni Chowk.",
+ "_meta": {
+  "reel": "E 1212/47",
+  "model": "gemini-flash-latest",
+  "secs": 21.1,
+  "in_tok": 812,
+  "out_tok": 2559
+ }
+}

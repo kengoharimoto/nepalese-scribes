@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī(!)anubhūtisvrūpācārya",
+   "name": "Anubhūtisvarūpācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī(!)anubhūtisvrūpācāryaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gaṃgārāmeṇa",
+   "name": "Gaṅgārāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ gaṃgārāmeṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rūdramaṇi brāhmaṇa(!)",
+   "name": "Rūdramaṇi",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṭhanārthaṃ rūdramaṇi brāhmaṇa(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "likhitam idaṃ pustakaṃ gaṃgārāmeṇa paṭhanārthaṃ rūdramaṇi brāhmaṇa(!)"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1739 samaye nāma pauṣamāse kṛṣṇapakṣe navamyāṃ tithau",
+  "era": "VS",
+  "year": "1739",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "navamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1682"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "paṭhanārtham",
+ "notes": "The catalogue guesses [ŚS] 1739 (? CE 1817), but standard saṃvat 1739 without specification in Devanagari Sārasvata manuscripts is usually VS 1739 (ca. 1682 CE).",
+ "_meta": {
+  "reel": "A 578/1",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 753,
+  "out_tok": 655
+ }
+}

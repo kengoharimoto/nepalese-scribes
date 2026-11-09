@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumatijaya jitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumatijaya jitāmitramalladevasana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 815 kārttika śudi 1 thvakuhnu",
+  "era": "NS",
+  "year": "815",
+  "month": "kārttika",
+  "paksa": "śudi",
+  "tithi": "1",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1694"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "King Jitāmitra Malla of Bhaktapur is mentioned with his well-known epithet 'Sumati'. The Newari phrase 'dayakā juroṃ' indicates he commissioned or caused the manuscript to be made.",
+ "_meta": {
+  "reel": "A 1235/19 (1)",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 711,
+  "out_tok": 958
+ }
+}

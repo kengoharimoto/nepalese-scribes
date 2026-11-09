@@ -1,0 +1,92 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṛṣṇānandasya",
+   "name": "Kṛṣṇānanda",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛṣṇānandasyātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīravi(!)ndrānandena",
+   "name": "Ravindrānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīravi(!)ndrānandena liṣi(!)tam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīrāmagopāladevaśarmma",
+   "name": "Rāmagopāla",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "devaśarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmagopāladevaśarmmakṛtau varṇabhairavaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīvindrānandopāyena",
+   "name": "Vindrānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvindrānandopāyena likhitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "kṛṣṇānandasyātmajaśrīravi(!)ndrānandena"
+  }
+ ],
+ "date": {
+  "as_written": "saṃ 958 miti bhādraśudi 7 ro 2; saṃ 959 caivadi 7 ro 7",
+  "era": "NS",
+  "year": "959",
+  "month": "Caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "7",
+  "weekday": "ro 7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1839"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The manuscript contains two texts. The first (Mantrakośa) was copied by Ravindrānanda, son of Kṛṣṇānanda, in NS 958 Bhādrapada śukla 7 (ro 2 = Monday, ~1838 CE). The second (Varṇabhairava, authored by Rāmagopāladevaśarman) was completed in NS 959 Caitra vadi 7 (ro 7 = Saturday, ~1839 CE) by 'śrīvindrānandopāyena', which likely represents the same scribe Ravindrānanda Upādhyāya. Kālānala mentioned in 'kālānalasya mantrakoṣaḥ' is omitted as a mythical/divine authority.",
+ "_meta": {
+  "reel": "A 176/16",
+  "model": "gemini-flash-latest",
+  "secs": 14.2,
+  "in_tok": 851,
+  "out_tok": 2078
+ }
+}

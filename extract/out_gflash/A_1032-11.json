@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmedinikara",
+   "name": "Medinīkara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmedinikarakṛtānekārthakoṣaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1768 śrīsamvat 1903 sālamiti mārgaśirṣavadi 2 roja 5",
+  "era": "ŚS",
+  "year": "1768 (ŚS) / 1903 (VS)",
+  "month": "mārgaśirṣa",
+  "paksa": "vadi",
+  "tithi": "2",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1846"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śaka era 1768 and Vikrama Saṃvat 1903 ('sālamiti') are given, corresponding to CE 1846. 'roja 5' indicates Thursday.",
+ "_meta": {
+  "reel": "A 1032/11",
+  "model": "gemini-flash-latest",
+  "secs": 7.2,
+  "in_tok": 717,
+  "out_tok": 990
+ }
+}

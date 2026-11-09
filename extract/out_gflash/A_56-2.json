@@ -1,0 +1,123 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadbhairavasiṃhasya",
+   "name": "Bhairavasiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahībhṛt",
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "Tīrabhukti",
+   "evidence": "śrīmadbhairavasiṃhadevakṛtau śrīviṣṇupūjākalpalatā paripūrṇṇam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīnarasiṃhātmaja",
+   "name": "Narasiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājādhirājaśrīnarasiṃhātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīmaddhṛdayanārāyaṇānuja",
+   "name": "Hṛdayanārāyaṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājādhirāja śrīmaddhṛdayanārāyaṇānuja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrījagajjyotirīśena",
+   "name": "Jagajjyoti",
+   "roles": [
+    "commissioner",
+    "king"
+   ],
+   "titles": [
+    "īśa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījagajjyotirīśena viṣṇupūjāratātmanā | ... viṣṇupūjakalparatā tasmāt tena likhāpitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "vinodo",
+   "name": "Vinoda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vinodo vyalikha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīnarasiṃhātmaja"
+  },
+  {
+   "from": "p1",
+   "type": "brother_of",
+   "to": "p3",
+   "evidence": "śrīmaddhṛdayanārāyaṇānuja"
+  },
+  {
+   "from": "p5",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "tena likhāpitā ... vinodo vyalikha"
+  }
+ ],
+ "date": {
+  "as_written": "śake mate pakṣabāṇa titibhir lakṣate gate || dvādaśyā pauṣaśuklasya",
+  "era": "ŚS",
+  "year": "1552",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1630"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "viṣṇupūjā",
+ "notes": "The catalogue records VS 1652, but the colophon explicitly states the Śaka era using the chronogram pakṣa (2) bāṇa (5) tithi (15) = Śaka 1552 (1630 CE), which matches the reign of King Jagajjyotirmalla of Bhaktapur.",
+ "_meta": {
+  "reel": "A 56/2",
+  "model": "gemini-flash-latest",
+  "secs": 21.9,
+  "in_tok": 927,
+  "out_tok": 3496
+ }
+}

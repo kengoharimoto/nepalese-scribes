@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devajñajasavarmmeṇa",
+   "name": "Jasavarman",
+   "roles": [
+    "scribe",
+    "beneficiary"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "śrīkovihāra",
+   "residence": "śrīlalitāpuraṇagare ... śrīkovihāre bhava(hlaḍhe)ye (ku)ligṛha",
+   "evidence": "likhita devajñajasavarmmeṇa svayaṃ śruyatārthahetunā lekhakṛtam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 604 māghamāse || śuklapakṣe || pañcamyāṃ + + + + .(ena)kṣetrapra aśvininakṣatre || śubhaprasuklayoge || ādityavāsare",
+  "era": "NS",
+  "year": "604",
+  "month": "māgha",
+  "paksa": "śuklapakṣa",
+  "tithi": "pañcamī",
+  "weekday": "ādityavāsara",
+  "nakshatra_yoga": "aśvinī nakṣatra, śukla yoga",
+  "ce_approx": "1484"
+ },
+ "place": {
+  "as_written": "śrīlalitāpuraṇagare",
+  "normalized": "Patan"
+ },
+ "purpose": "svayaṃ śruyatārthahetunā (for his own study/recitation)",
+ "notes": "The scribe wrote the text himself for his own purpose (svayaṃ śruyatārthahetunā). The exact reading of the toponym within Lalitapura (Kovihāra / Kuligṛha) contains lacunae and uncertainties.",
+ "_meta": {
+  "reel": "C 2/8",
+  "model": "gemini-flash-latest",
+  "secs": 11.8,
+  "in_tok": 961,
+  "out_tok": 1558
+ }
+}

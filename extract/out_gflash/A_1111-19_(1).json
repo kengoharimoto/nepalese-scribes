@@ -1,0 +1,95 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśveśvarasaraśvatī",
+   "name": "Viśveśvarasarasvatī",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paramahaṃsaparivrājakācāryaśrīmadviśveśvarasaraśvatīcaraṇāraviṃdamadhukareṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "madhusūdanasarasvatī",
+   "name": "Madhusūdanasarasvatī",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "madhusūdanasarasvatīsamakhyādhareṇa kenacid viracitā mahihmākhyastutiḥ (!) vyākhyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "ṣaridārajñānavān",
+   "name": "Jñānavān",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "kharidāra"
+   ],
+   "affiliation": "",
+   "residence": "madhuhīṭi ṭola",
+   "evidence": "śrīṣaridārajñānavān kā ghara",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "jīvanātha upādhyāyamiśra",
+   "name": "Jīvanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya",
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhanyā jīvanātha upādhyāyamiśra",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "viśveśvarasaraśvatīcaraṇāraviṃdamadhukareṇa"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1782 samvat 1917 sālamiti adhika āśvinavadi6 roja7",
+  "era": "VS",
+  "year": "1917",
+  "month": "adhika āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "6",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1860"
+ },
+ "place": {
+  "as_written": "madhuhīṭi ṭola śrīṣaridārajñānavān kā ghara",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "Both Śāke 1782 and Vikrama Saṃvat 1917 are specified. roja 7 denotes Saturday (śanivāra). Madhu Hiti is a toll/quarter in Kathmandu.",
+ "_meta": {
+  "reel": "A 1111/19 (1)",
+  "model": "gemini-flash-latest",
+  "secs": 12.4,
+  "in_tok": 904,
+  "out_tok": 1913
+ }
+}

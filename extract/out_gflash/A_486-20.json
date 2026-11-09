@@ -1,0 +1,95 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmacchaṃkarācārya",
+   "name": "Śaṅkarācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmacchaṃkarācāryaviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jagyanāthena",
+   "name": "Yajñanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jagyanāthena vipreṇa pū(!)stakaṃ likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "murāre ... girir iti sunāmnaḥ",
+   "name": "Murāri",
+   "roles": [
+    "beneficiary",
+    "reader"
+   ],
+   "titles": [
+    "giri"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "murāre pāṭhārthaṃ girir iti sunāmnaḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "gopālena",
+   "name": "Gopāla",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gopālenāvatarita",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "murāre pāṭhārthaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1833 samaya nāma bhādramāse site pakṣe pūrṇavāśyāyāṃ bhṛguvāsare",
+  "era": "VS",
+  "year": "1833",
+  "month": "bhādra",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1776"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "murāre pāṭhārthaṃ",
+ "notes": "The scribe's name is written as Jagyanātha (phonetic spelling of Yajñanātha). The verse preceding the date formula is corrupt and metrically flawed, but appears to state that the text was copied for the reading/study of Murārigiri (murāre pāṭhārthaṃ girir iti sunāmnaḥ) and possibly sponsored/instigated by Gopāla (gopālenāvatarita...).",
+ "_meta": {
+  "reel": "A 486/20",
+  "model": "gemini-flash-latest",
+  "secs": 17.6,
+  "in_tok": 1019,
+  "out_tok": 2576
+ }
+}

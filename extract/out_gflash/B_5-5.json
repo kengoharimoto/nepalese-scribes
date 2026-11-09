@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmukundaśarmmaṇā",
+   "name": "Mukundaśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "(makurī)grāma",
+   "evidence": "śrīmukundaśarmmaṇā likhitaiṣā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "la saṃ 395 caitrabadi saptamyāṃ budhe",
+  "era": "LS",
+  "year": "395",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "7",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1514"
+ },
+ "place": {
+  "as_written": "(makurī)grāme",
+  "normalized": ""
+ },
+ "purpose": "sudācārthaṃ(?)",
+ "notes": "Catalogue dates LS 395 to ~1275 AD, but standard reckoning of the Lakṣmaṇasena era (+1119) yields c. 1514 CE. The phrase 'sudācārthaṃ(?) phaladahasaṃ sudu(?)' before the scribe's name is corrupt and unclear.",
+ "_meta": {
+  "reel": "B 5/5",
+  "model": "gemini-flash-latest",
+  "secs": 11.2,
+  "in_tok": 933,
+  "out_tok": 1417
+ }
+}

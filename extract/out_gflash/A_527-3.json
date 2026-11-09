@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon contains only the concluding title attribution to the sage Yājñavalkya, a standard scribal apology verse, and auspicious wishes; no historical human agents, date, or place of copying are recorded.",
+ "_meta": {
+  "reel": "A 527/3",
+  "model": "gemini-flash-latest",
+  "secs": 16.0,
+  "in_tok": 732,
+  "out_tok": 2200
+ }
+}

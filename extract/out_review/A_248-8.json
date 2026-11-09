@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. Added to notes: the era is uncertain (VS assumed), 'kāmeśvarasya sevakaḥ' most likely refers to the deity, and 'lalitā…tmena' may hide a kinship term."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "madhusūdanaśarmaṇā",
+   "name": "Madhusūdana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ madhusūdanaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1772 bhādre māsi site ( pakṣe ) pūrṇā ca kujavāsare",
+  "era": "VS",
+  "year": "1772",
+  "month": "bhādra",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1715"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives the year only as 'śrīsaṃvat 1772' and names no era. The record assumes Vikrama Saṃvat (VS 1772 ≈ 1715 CE). If the era were Śaka, the date would be ≈ 1850 CE. The weekday (Tuesday) has not been checked against either option. 'śrīmatkāmeśvarī bhakto kāmeśvarasya sevakaḥ' most likely describes the scribe as a devotee of the goddess Kāmeśvarī and her consort, the god Kāmeśvara, not as the servant of a man named Kāmeśvara. The words before the scribe's name ('lalitā…tmena') are damaged. They could be 'lalitātmajena' ('son of Lalitā[...]'), which would name a parent, but they are too uncertain to record as a person.",
+ "_meta": {
+  "reel": "A 248/8",
+  "model": "opus",
+  "cost_usd": 0.0519548,
+  "secs": 12.3
+ }
+}

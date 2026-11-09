@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayarāmanyāyapaṃcānanabhaṭṭācāryya",
+   "name": "Jayarāma",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "nyāyapañcānana",
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahāmahopadhyāyaśrīyutajayarāmanyāyapaṃcānanabhaṭṭācāryyaviracitaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmadbhavānīśaṅkaro",
+   "name": "Bhavānīśaṅkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kārakākhyam alīlikhat || tryambakīyatithau śrīmadbhavānīśaṅkaro mudā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "guṇanāgavasāv abde [...] tryambakīyatithau",
+  "era": "NS",
+  "year": "883",
+  "month": "",
+  "paksa": "kṛṣṇa",
+  "tithi": "tryambakīya",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1763"
+ },
+ "place": {
+  "as_written": "nemapāle",
+  "normalized": "Nepal"
+ },
+ "purpose": "",
+ "notes": "Chronogram guṇa-nāga-vasu = 3-8-8 = NS 883. 'bāhula' in verse 1 indicates the kṛṣṇa pakṣa. 'tryambakīyatithi' refers to either trayodaśī or ekādaśī. 'nemapāle' likely stands for 'nepāle'.",
+ "_meta": {
+  "reel": "A 552/23",
+  "model": "gemini-flash-latest",
+  "secs": 13.9,
+  "in_tok": 787,
+  "out_tok": 1839
+ }
+}

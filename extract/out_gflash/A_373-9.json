@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "tārācaṃdra",
+   "name": "Tārācandra",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tārācaṃdrakṛtā vidagdhamukhamaṃḍa(4)natīkā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śake 1712 sādhāraṇasaṃvatsare kārtikavadyu (!) budhavāsare dvītīyaprahare (!)",
+  "era": "ŚS",
+  "year": "1712",
+  "month": "kārtika",
+  "paksa": "kṛṣṇa",
+  "tithi": "",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1790"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribe or patron is mentioned. The date omits a tithi number ('kārtikavadyu budhavāsare').",
+ "_meta": {
+  "reel": "A 373/9",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 777,
+  "out_tok": 996
+ }
+}

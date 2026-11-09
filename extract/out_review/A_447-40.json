@@ -1,0 +1,69 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Added role 'owner' to Uddhava: the colophon says he copied it 'svārtham' (for himself) as well as 'parārthaṃ'.",
+   "Notes expanded: the date conflict is left unresolved, and Nṛsiṃha (kuladaivata) and Kamalāpati are deities, not persons."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "uddhavena",
+   "name": "Uddhava",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛṣṇātmajena uddhavena iyaṃ śrāddhapaddhatir likhitā svārtham parārthaṃ ca",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kṛṣṇa-",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛṣṇātmajena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "kṛṣṇātmajena uddhavena"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1730 śakeṃ 1585 āśvinaśūddha 1 budhe",
+  "era": "VS",
+  "year": "1730",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1673"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthaṃ ca (for himself and for others)",
+ "notes": "The two eras disagree. VS 1730 is 1673 CE, but ŚS 1585 is 1663 CE (= VS 1720). Either '1585' is a mistake for 1595 or '1730' is a mistake for 1720. The VS year is kept as primary; the weekday (budha) has not been checked. Nṛsiṃha (family deity, 'kuladai[vatam]') and Kamalāpati are deities, not persons. The ṛṣis in the Śrīsūkta viniyoga at the end (Śrī, Ānanda, Kardama, Ciklīta, Indirāsuta) are not persons connected with this copy.",
+ "_meta": {
+  "reel": "A 447/40",
+  "model": "opus",
+  "cost_usd": 0.0582468,
+  "secs": 12.7
+ }
+}

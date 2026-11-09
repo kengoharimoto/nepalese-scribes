@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "aṣṭāvakramuni",
+   "name": "Aṣṭāvakra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "muni"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "aṣṭāvakramuniviracitaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "padmakeśaraśarmaṇā",
+   "name": "Padmakeśara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ granthaṃ padmakeśaraśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī samvat 1943 phālguṇakṛṣṇanavamyāṃ tithau budhavāsare",
+  "era": "VS",
+  "year": "1943",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "navamī",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1887"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 939/11",
+  "model": "gemini-flash-latest",
+  "secs": 8.6,
+  "in_tok": 744,
+  "out_tok": 1084
+ }
+}

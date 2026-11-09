@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmacchaṃkarācārya",
+   "name": "Śaṅkara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmacchaṃkarācāryaviracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1927 sāla vaiśāṣa vadi 12 roja 1",
+  "era": "VS",
+  "year": "1927",
+  "month": "vaiśāṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "12",
+  "weekday": "roja 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1870"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīśivārpaṇam astu",
+ "notes": "",
+ "_meta": {
+  "reel": "B 394/40",
+  "model": "gemini-flash-latest",
+  "secs": 8.1,
+  "in_tok": 825,
+  "out_tok": 913
+ }
+}

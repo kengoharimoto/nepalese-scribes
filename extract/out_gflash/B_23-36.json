@@ -1,0 +1,92 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayajyoti[r]malladevasya",
+   "name": "Jayajyotirmalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramamāheśvara",
+    "paramabhaṭṭāraka",
+    "prabhu"
+   ],
+   "affiliation": "raghuvaṃśa",
+   "residence": "",
+   "evidence": "śrīśrījayajyoti[r]malladevasya vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmānguṇajñajayabhairavamalladevaḥ",
+   "name": "Jayabhairavamalladeva",
+   "roles": [
+    "commissioner",
+    "beneficiary"
+   ],
+   "titles": [
+    "deva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devaśrījayabhairavamallasyārthe likhitam iti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "tejarāmeṇa kramācāryeṇa",
+   "name": "Tejarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kramācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhyate tejarāmeṇa kramācāryeṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "devaśrījayabhairavamallasyārthe likhitam iti"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīśrījayajyoti[r]malladevasya vijayarājye"
+  }
+ ],
+ "date": {
+  "as_written": "abde śailakṛsānuvāṇasahite māsāsite māghake cāturthītithisa(jña)ke bhṛgudine ṛṣe ca barhisthite | yoge maṇḍavare ghaṭe ravigate candre ca kanya(!)sthite",
+  "era": "NS",
+  "year": "537",
+  "month": "Māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturthī",
+  "weekday": "Friday",
+  "nakshatra_yoga": "ṛṣe ca barhisthite, maṇḍavare [gaṇḍavare?]",
+  "ce_approx": "1417"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for Jayabhairavamalladeva (devaśrījayabhairavamallasyārthe)",
+ "notes": "The catalogue mistakenly placed 'Jyotir Malla' in the 'Place of Copying' field. The year is given via chronogram: śaila (7), kṛśānu (3), vāṇa (5) = NS 537.",
+ "_meta": {
+  "reel": "B 23/36",
+  "model": "gemini-flash-latest",
+  "secs": 13.5,
+  "in_tok": 1192,
+  "out_tok": 1968
+ }
+}

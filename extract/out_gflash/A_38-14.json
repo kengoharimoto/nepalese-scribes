@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Only chapter colophons are preserved; the main scribal colophon is missing.",
+ "_meta": {
+  "reel": "A 38/14",
+  "model": "gemini-flash-latest",
+  "secs": 3.5,
+  "in_tok": 735,
+  "out_tok": 405
+ }
+}

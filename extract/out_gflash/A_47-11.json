@@ -1,0 +1,107 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījagatsthitirājamallaḥ devasya",
+   "name": "Jagatsthitirājamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnepālamaṇḍ⟪ā⟫alāddhirājyā(!) śrījagatsthitirājamallaḥ devasya vijasya vijarājasmaye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nāyakaḍhoṣṇanakasya",
+   "name": "Ḍhoṣṇanaka",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [
+    "dānapati",
+    "nāyaka"
+   ],
+   "affiliation": "",
+   "residence": "haṭhakhāchyaṃ vikraṇichyaṃ",
+   "evidence": "dānapate nāyakaḍhoṣṇanakasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "jyantanalakṣmīkasya",
+   "name": "Jyantanalakṣmī",
+   "roles": [
+    "donor",
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasya bhāryā jyantanalakṣmīkasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "vajrārya amarendracandreṇa",
+   "name": "Amarendracandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiḍam idaṃ vajrārya amarendracandreṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wife_of",
+   "to": "p2",
+   "evidence": "tasya bhāryā jyantanalakṣmīkasya"
+  },
+  {
+   "from": "p4",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "dānapate nāyakaḍhoṣṇanakasya ... likhiḍam idaṃ vajrārya amarendracandreṇa"
+  },
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrījagatsthitirājamallaḥ devasya vijasya vijarājasmaye"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 507 kārttikaśuklapratipadyāyās tithau buddhavāsare vaiśākhanakṣatre | śobhanayoge",
+  "era": "NS",
+  "year": "507",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "pratipadā",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "viśākhā, śobhana",
+  "ce_approx": "1386"
+ },
+ "place": {
+  "as_written": "haṭhakhāchyaṃ vikraṇichyaṃ gṛhanāmadheyam",
+  "normalized": ""
+ },
+ "purpose": "sarvvasampatihetunārthaṃ",
+ "notes": "The scribe's title vajrārya is an abbreviated/vernacular form of vajrācārya. Place of copying or residence of the donor is stated as house names (haṭhakhāchyaṃ vikraṇichyaṃ gṛhanāmadheyam).",
+ "_meta": {
+  "reel": "A 47/11",
+  "model": "gemini-flash-latest",
+  "secs": 13.9,
+  "in_tok": 2413,
+  "out_tok": 2204
+ }
+}

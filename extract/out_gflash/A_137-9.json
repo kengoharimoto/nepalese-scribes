@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "cakrapāninā",
+   "name": "Cakrapāṇi",
+   "roles": [
+    "commissioner",
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Ratnaketu Mahāvihāra",
+   "residence": "Suvarṇapraṇālīmahānagara",
+   "evidence": "vajrācārya cakrapāninā(!) likhā pitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 932 miti phalgunṇamāse śuklapakṣe dvitīyāyāṃ tithau śatabhiṣapara pūrvabhādranakṣatre śivajoge yathākarṇṇa(!)muhuttre(!) (śukravāsare)",
+  "era": "NS",
+  "year": "932",
+  "month": "phālguṇa",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "śukravāsara",
+  "nakshatra_yoga": "śatabhiṣapara pūrvabhādra, śivayoga",
+  "ce_approx": "1812"
+ },
+ "place": {
+  "as_written": "śrīsuvarṇapranārimahānagare ratnaketunāmamahāvyāhārayā",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "Cakrapāṇi is stated with the causative 'likhāpitā' (commissioned), but the subsequent scribal verse 'likhitaṃ mayā' strongly suggests he was either both scribe and patron or that 'likhāpitā' is used carelessly for 'likhitā'.",
+ "_meta": {
+  "reel": "A 137/9",
+  "model": "gemini-flash-latest",
+  "secs": 10.5,
+  "in_tok": 947,
+  "out_tok": 1644
+ }
+}

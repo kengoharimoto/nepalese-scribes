@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvidyāpatiśūruṇā",
+   "name": "Vidyāpati",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvidyāpatiśūruṇā | dānavākyāvalī devyāḥ pramāṇair vvimalīkṛtā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mahāmahāmahādevīśrīdhīramatidevī",
+   "name": "Dhīramatīdevī",
+   "roles": [
+    "queen",
+    "author"
+   ],
+   "titles": [
+    "mahāmahāmahādevī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahāmahādevīśrīdhīramatidevīviracitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "śrīvidyāpatiśūruṇā | dānavākyāvalī devyāḥ"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Work colophon attributing the text to Queen Dhīramatīdevī (wife of King Harisiṃhadeva/Narasiṃhadeva of the Oinivāra dynasty of Mithilā), actually compiled/formulated by the court poet and scholar Vidyāpati Sūri.",
+ "_meta": {
+  "reel": "B 33/14",
+  "model": "gemini-flash-latest",
+  "secs": 13.1,
+  "in_tok": 739,
+  "out_tok": 1647
+ }
+}

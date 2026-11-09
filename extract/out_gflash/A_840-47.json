@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dharmmarājatripāṭḥinā",
+   "name": "Dharmarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "tripāṭhin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dharmmarājatripāṭḥinā likhito ʼyaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 1982 | 5 | 29 | 4",
+  "era": "VS",
+  "year": "1982",
+  "month": "5",
+  "paksa": "",
+  "tithi": "29",
+  "weekday": "4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1925"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 840/47",
+  "model": "gemini-flash-latest",
+  "secs": 8.1,
+  "in_tok": 740,
+  "out_tok": 893
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 as_written now includes the honorific as it stands in the colophon: 'śrīmada | bhaimalladeva' (the '|' is a stray daṇḍa or line mark inside 'śrīmad Abhayamalladeva')",
+   "Weekday noted as read from the truncated 'śukra///', taken as Friday (śukravāra)",
+   "Notes: added that no scribe or commissioner is named, and that the date fits Abhaya Malla's reign"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmada | bhaimalladeva",
+   "name": "Abhayamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājādhirājaparameśvara⟪ma⟫ śrīmada | bhaimalladevavijayarājye",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 338 mārggaśirakṛṣṇa navamyāṃ śukra///",
+  "era": "NS",
+  "year": "338",
+  "month": "mārgaśira",
+  "paksa": "kṛṣṇa",
+  "tithi": "navamī",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1217"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is not stated, but 'samvat 338' together with the reign of Abhayamalladeva (c. 1216–1255 CE) means Nepāla Saṃvat. NS 338 Mārgaśira falls around November/December 1217 CE. The weekday is cut off at 'śukra///' and is taken as śukravāra (Friday). The '|' in 'śrīmada | bhaimalladeva' is a stray daṇḍa or line mark inside 'śrīmad Abhayamalladeva'. The deleted '⟪ma⟫' after parameśvara is a scribal false start. 'pustakena likhitam idaṃ' names no scribe or commissioner. The final 'ābha' may be an abbreviation (perhaps of Abhaya, or a scribe's mark), but it is too uncertain to record as a person.",
+ "_meta": {
+  "reel": "A 936/9",
+  "model": "opus",
+  "cost_usd": 0.5424376,
+  "secs": 20.8
+ }
+}

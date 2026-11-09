@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrītrivikrameṇa",
+   "name": "Trivikrama",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Vaṃlāni",
+   "evidence": "likhitaṃ vaṃlānihmayā śrītrivikrameṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 794 phālguṇa śu paṃcamī",
+  "era": "NS",
+  "year": "794",
+  "month": "phālguṇa",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1674"
+ },
+ "place": {
+  "as_written": "vaṃlāni",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The Newari qualifier 'vaṃlānihmayā' indicates the person/scribe originates from or resides in Vaṃlāni (-hma-yā being the animate genitive marker).",
+ "_meta": {
+  "reel": "C 106/7 (1)",
+  "model": "gemini-flash-latest",
+  "secs": 8.0,
+  "in_tok": 712,
+  "out_tok": 814
+ }
+}

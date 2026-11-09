@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkāśinātha(8)bhaṭṭācārya",
+   "name": "Kāśīnātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkāśinātha(8)bhaṭṭācāryakṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 859 mārgāśira śukre || ekādaśī, kunhu ... pūni (!), kuhnu",
+  "era": "NS",
+  "year": "859",
+  "month": "Mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "ekādaśī / pūrṇimā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1739"
+ },
+ "place": {
+  "as_written": "vucākkvtha ... bharākvātha",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The Newari colophon notes the copying was started at Vucākvāṭha on the 11th tithi and completed ('corā' / 'colā') at Bharākvāṭha on the full moon day ('pūni kuhnu'). The cataloguer gave NS 858, but the colophon text reads 859.",
+ "_meta": {
+  "reel": "A 429/28",
+  "model": "gemini-flash-latest",
+  "secs": 13.6,
+  "in_tok": 800,
+  "out_tok": 1895
+ }
+}

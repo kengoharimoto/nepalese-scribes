@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "upādhyāyaśrītathāgatadāsasya",
+   "name": "Tathāgatadāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtir upādhyāyaśrītathāgatadāsasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "G 8/16",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 662,
+  "out_tok": 456
+ }
+}

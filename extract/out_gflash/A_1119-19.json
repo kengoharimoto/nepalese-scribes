@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dāmodaro / dāmadareṇa",
+   "name": "Dāmodara",
+   "roles": [
+    "author",
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "stotram idaṃ dāmodaro ʼkarot ... dāmadareṇedaṃ likhitaṃ stotram",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "guṇeṃdukṣoṇibhṛtkṣoṇī ‥ ‥ puṇyetra vatsare | māghe māsi site",
+  "era": "unspecified",
+  "year": "1713",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "guror api guror guroḥ mude",
+ "notes": "The chronogram guṇa (3), indu (1), kṣoṇibhṛt (7), kṣoṇī (1) yields 1713 (likely Vikrama Saṃvat = c. 1656 CE, or Śaka = c. 1791 CE). Dāmodara is stated both as the composer (stotram idaṃ dāmodaro ʼkarot) and the copyist (dāmadareṇedaṃ likhitaṃ).",
+ "_meta": {
+  "reel": "A 1119/19",
+  "model": "gemini-flash-latest",
+  "secs": 10.2,
+  "in_tok": 779,
+  "out_tok": 1492
+ }
+}

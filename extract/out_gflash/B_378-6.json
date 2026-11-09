@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "moreśvareṇa",
+   "name": "Moreśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "li moreśvareṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 79 phālgunaśukla 4",
+  "era": "unspecified",
+  "year": "79",
+  "month": "phālguna",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1823"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is abbreviated as saṃ 79, which the catalogue identifies as VS 1879 (ca. 1822/1823 CE).",
+ "_meta": {
+  "reel": "B 378/6",
+  "model": "gemini-flash-latest",
+  "secs": 8.4,
+  "in_tok": 676,
+  "out_tok": 957
+ }
+}

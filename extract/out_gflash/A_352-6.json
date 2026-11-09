@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayarāṇajitmalladeva",
+   "name": "Jayarāṇajitmalladeva",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "mahārājadhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayarāṇajitmalladeva mahārājadhirāja viracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 887 āśvinakṛṣṇa ekādaśīkuhnu",
+  "era": "NS",
+  "year": "887",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1767"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Jayarāṇajitmalla (Raṇajit Malla of Bhaktapur) is mentioned as the author of the play.",
+ "_meta": {
+  "reel": "A 352/6",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 728,
+  "out_tok": 748
+ }
+}

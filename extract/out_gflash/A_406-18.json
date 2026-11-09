@@ -1,0 +1,85 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pāṭhakagovarddhanena",
+   "name": "Govardhana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "pāṭhaka"
+   ],
+   "affiliation": "ābhīrajñāti",
+   "residence": "śrīprakāśakasthāna",
+   "evidence": "pāṭhakagovarddhanena likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "laṣamaṇakena",
+   "name": "Lakṣmaṇaka",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "śrīvaravada",
+   "evidence": "laṣamaṇakena (!) ātmapaṭhanārthaṃ likhāpitāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "josi cāhujī",
+   "name": "Cāhujī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "josi"
+   ],
+   "affiliation": "",
+   "residence": "śrīvaravada",
+   "evidence": "josi cāhujī(8)suta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "pāṭhakagovarddhanena likhitaṃ ... laṣamaṇakena (!) ātmapaṭhanārthaṃ likhāpitāṃ"
+  },
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "josi cāhujī(8)suta laṣamaṇakena"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsaṃvat 1621 varṣe phālgunamāse śuklapratipadātithau guruvāsare",
+  "era": "VS",
+  "year": "1621",
+  "month": "phālguna",
+  "paksa": "śukla",
+  "tithi": "pratipadā",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1565"
+ },
+ "place": {
+  "as_written": "śrīprakāśakasthāna",
+  "normalized": ""
+ },
+ "purpose": "ātmapaṭhanārtham",
+ "notes": "Commissioned by Lakṣmaṇaka, son of the astrologer (josi) Cāhujī, resident of Varavada, for his own study (ātmapaṭhanārtham). Copied by Govardhana, an Ābhīra by caste, resident of Prakāśakasthāna.",
+ "_meta": {
+  "reel": "A 406/18",
+  "model": "gemini-flash-latest",
+  "secs": 10.8,
+  "in_tok": 804,
+  "out_tok": 1700
+ }
+}

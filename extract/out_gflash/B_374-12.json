@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vaidyanātha",
+   "name": "Vaidyanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vaidyanāthakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "hariharabhaṭtalulena",
+   "name": "Hariharabhaṭṭalula",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "hariharabhaṭtalulena likhitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name is read as 'hariharabhaṭtalulena' (possibly a misreading or scribal error for hariharabhaṭṭasutena or representing a local surname/byname Lula).",
+ "_meta": {
+  "reel": "B 374/12",
+  "model": "gemini-flash-latest",
+  "secs": 10.5,
+  "in_tok": 666,
+  "out_tok": 1228
+ }
+}

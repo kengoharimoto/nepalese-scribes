@@ -1,0 +1,101 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdivākaradaivajñātmaja",
+   "name": "Divākara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdivākaradaivajñātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīviśvanāthadaivajña",
+   "name": "Viśvanātha",
+   "roles": [
+    "commentator",
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīviśvanāthadaivajñaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "daivajñamahādeva",
+   "name": "Mahādeva",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñamahādevaprītyarthaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "gaṃgādhareṇa",
+   "name": "Gaṅgādhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ daivajñamahādevaprītyarthaṃ gaṃgādhareṇeti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīdivākaradaivajñātmajaśrīviśvanāthadaivajña"
+  },
+  {
+   "from": "p4",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "likhitam idaṃ pustakaṃ daivajñamahādevaprītyarthaṃ gaṃgādhareṇeti"
+  }
+ ],
+ "date": {
+  "as_written": "nepālasaṃmat (!) 805 kārttikaśuklatṛtīyāyāṃ gurau",
+  "era": "NS",
+  "year": "805",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "tṛtīyā",
+  "weekday": "gurau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1684"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "daivajñamahādevaprītyarthaṃ",
+ "notes": "",
+ "_meta": {
+  "reel": "B 350/4",
+  "model": "gemini-flash-latest",
+  "secs": 9.2,
+  "in_tok": 816,
+  "out_tok": 1640
+ }
+}

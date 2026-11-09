@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribal colophon with date, place, scribe, or patron. The quoted text contains only internal textual/chapter colophons from the collection.",
+ "_meta": {
+  "reel": "A 958/27",
+  "model": "gemini-flash-latest",
+  "secs": 9.4,
+  "in_tok": 1705,
+  "out_tok": 1184
+ }
+}

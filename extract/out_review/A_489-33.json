@@ -1,0 +1,35 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday: 'roja 3' read as day 3 of the week = Tuesday (maṅgalavāra); as written kept",
+   "ce_approx made more exact: VS 1939 Jyeṣṭha śukla 6 ≈ 23 May 1882 (new moon/solar eclipse 17 May 1882), and that date was a Tuesday, so it matches roja 3",
+   "notes: added the date check; the closing verses described more cautiously (they are Bhartṛhari-type subhāṣita stanzas)"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1939 sāla miti jeṣṭa śudi 6 roja 3",
+  "era": "VS",
+  "year": "1939",
+  "month": "Jyeṣṭha (jeṣṭa)",
+  "paksa": "śukla (śudi)",
+  "tithi": "6",
+  "weekday": "Tuesday (roja 3)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1882"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names no scribe, commissioner, owner or patron. The era isn't stated in the text. Reading the year as VS fits the catalogue field and the Nepali wording ('sāla miti ... roja'). VS 1939 Jyeṣṭha śukla 6 falls around 23 May 1882, which was a Tuesday, so it agrees with 'roja 3'. After the date the scribe added two corrupt subhāṣita stanzas ('dhanyās te vītarāgāḥ ...'), of the kind attributed to Bhartṛhari's śatakas. Neither stanza contains a personal name. 'vighnaṃ vināsanāye namaḥ' is an invocation.",
+ "_meta": {
+  "reel": "A 489/33",
+  "model": "opus",
+  "cost_usd": 0.0520148,
+  "secs": 12.7
+ }
+}

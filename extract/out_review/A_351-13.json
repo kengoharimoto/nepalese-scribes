@@ -1,0 +1,127 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Chronogram re-read: śaśi(1) śūnya(0) bāṇa(5), read right to left, gives 501. The first reading's 5012 (Kali era, about 1911 CE) is dropped. 501 fits Nepāla Saṃvat (NS 501 ≈ 1380/81 CE), the time of mahāpātra Jayasiṃha(rāma) Malla of Patan. 'samadvike' is unclear; it does not give a final digit 2.",
+   "Era set to NS (inferred, not stated); ce_approx changed from 1911 to 1381.",
+   "Jayasiṃhamalla: 'Dakṣiṇavihāra' moved from affiliation to residence (it is a locality in Patan). His role stays 'king' as the ruling mahāpātra; confidence lowered to medium.",
+   "Rāmadāsa: confidence lowered to medium. The verse praises him but does not explicitly call him the author.",
+   "Devajuabhaya: confidence lowered to medium, because the name may be Devaju (honorific) + Abhaya.",
+   "Place as_written cut to the toponym; noted the corrupt spelling for Lalitapurī.",
+   "Notes rewritten: conflict with the catalogue's VS 2010 and the chance that this is a modern copy."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmadāsaḥ",
+   "name": "Rāmadāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "guru"
+   ],
+   "affiliation": "",
+   "residence": "Nepālamaṇḍala",
+   "evidence": "nepālāvanepālamaṇḍalaguruḥ śrīrāmadāsaḥ sudhīḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmān jayasiṃhamallaḥ",
+   "name": "Jayasiṃhamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "pradhāna",
+    "mahāmahāpātra",
+    "mahāpātra",
+    "pātra"
+   ],
+   "affiliation": "pātra lineage (pātravatsa)",
+   "residence": "Dakṣiṇavihāra, Lalitapurī",
+   "evidence": "śrīdakṣiṇavihārapradhānamahāmahamahāpātraśrīyasiṃhamallapātra ... śrīmān jayasiṃhamallaḥ ... yatkṛtaṃ sthāpitaṃ rājyaṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīvajrācārya śrīamarendracandrena",
+   "name": "Amarendracandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhika śrīvajrācārya śrīamarendracandrena devajuabhayena dvayābhyāṃ likhāpayitavyaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "devajuabhayena",
+   "name": "Devajuabhaya",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devajuabhayena dvayābhyāṃ likhāpayitavyaṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrīrājasiṃhaḥ",
+   "name": "Rājasiṃha",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrājasiṃhaḥ ... virājate ʼyaṃ haritulyadīptiḥ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "śrīmān jayasiṃhamallaḥ ... yatkṛtaṃ sthāpitaṃ rājyaṃ"
+  },
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "śrīmān jayasiṃhamallaḥ ... yatkṛtaṃ sthāpitaṃ rājyaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvasarai samadvike śaśiśūnyabāṇai māse sitetara bhave dvitīyā ca pauṣe || nakṣatram eva varapuṣya tathāpi yuktaṃ vāres tathā bhṛgusutaḥś ca savaidhṛtiś ca",
+  "era": "NS",
+  "year": "501",
+  "month": "Pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvitīyā",
+  "weekday": "śukravāra (bhṛgusuta)",
+  "nakshatra_yoga": "Puṣya; Vaidhṛti yoga",
+  "ce_approx": "1381"
+ },
+ "place": {
+  "as_written": "śrīlalipūrī",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "Date: the chronogram 'śaśi-śūnya-bāṇaiḥ' (1-0-5, read right to left) gives 501. The era is not named. NS 501 (≈1380/81 CE) fits the reign of the Patan mahāpātra Jayasiṃha(rāma) Malla, so NS is inferred. 'samadvike' is obscure (perhaps corrupt for something like '-adhike'); here it is not taken as an extra digit. A full Moon in Pauṣa falls near Puṣya, so Puṣya nakṣatra on Pauṣa kṛṣṇa 2 makes sense. The catalogue's 'VS 2010' (1953 CE) does not follow from the chronogram as quoted. The manuscript is in Devanagari, so it may be a modern copy that repeats an older colophon (date, king). In that case the NS 501 date and the king belong to the exemplar, and VS 2010 may come from other evidence; this needs checking. Scribes: 'lekhika ... dvayābhyāṃ' says the two men wrote it; the causative 'likhāpayitavyaṃ' is taken loosely. 'devajuabhaya' may be Devaju (honorific) + Abhaya. 'śrīyasiṃhamalla' is a corruption of Jayasiṃhamalla; 'Dakṣiṇavihāra' is a locality in Patan. Jayasiṃhamalla was mahāpātra (feudal ruler of Patan), not a crowned king. Rājasiṃha appears only in a closing praise verse; who he is remains unclear. Rāmadāsa is praised as 'Nepālamaṇḍalaguru'; he is probably the author or the patron of the play, but the colophon does not say which.",
+ "_meta": {
+  "reel": "A 351/13",
+  "model": "opus",
+  "cost_usd": 0.15694000000000002,
+  "secs": 37.9
+ }
+}

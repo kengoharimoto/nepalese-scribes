@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "prabhākareṇa",
+   "name": "Prabhākara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Kāśī",
+   "evidence": "prabhākareṇaital likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vedāṃgatarkacaṃdrair hi gaṇyaibde vikramārkataḥ phālagunyāṃ bhānuje vāre ... saṃvat 1758",
+  "era": "VS",
+  "year": "1758",
+  "month": "Phālguna",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1701"
+ },
+ "place": {
+  "as_written": "kāśyāṃ / svastimadvārāṇasyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "sveṣṭasiddhaye",
+ "notes": "The catalogue queries the era as ŚS 1758, but the colophon explicitly states 'vikramārkataḥ' and 'saṃvat 1758' (hence VS 1758). The chronogram 'vedāṃgatarkacaṃdrair' appears corrupt or discrepant with 1758. 'mahīdharaprasādataḥ' likely refers to divine grace (Viṣṇu/Śiva as Mahīdhara), or possibly a teacher.",
+ "_meta": {
+  "reel": "A 91/12",
+  "model": "gemini-flash-latest",
+  "secs": 11.7,
+  "in_tok": 794,
+  "out_tok": 1523
+ }
+}

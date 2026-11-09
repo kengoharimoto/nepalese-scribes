@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śarmagaṇgādharakaraḍiyā",
+   "name": "Gaṅgādhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhet śarmagaṇgādharakaraḍiyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke khāgnigarūpabheditiśubhe yoge jñavārorjjage sūrye mārgavadī tithert(!) tudivase lagne ghaṭa(!) saṃyute",
+  "era": "ŚS",
+  "year": "khāgnigarūpa... (1?30)",
+  "month": "mārga",
+  "paksa": "vadī",
+  "tithi": "rt(!) tudivase",
+  "weekday": "jñavāra",
+  "nakshatra_yoga": "śubhe yoge",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "satputrapautrārthakaiḥ",
+ "notes": "Chronogram in the colophon is partially corrupt/unclear ('khāgnigarūpabhediti...'). 'karaḍiyā' may be a lineage/surname/caste name.",
+ "_meta": {
+  "reel": "B 541/11",
+  "model": "gemini-flash-latest",
+  "secs": 11.5,
+  "in_tok": 841,
+  "out_tok": 1372
+ }
+}

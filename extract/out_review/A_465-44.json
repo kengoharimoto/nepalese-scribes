@@ -1,0 +1,64 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. Added notes on the scribe's title, the inflected name form, the 'saṃ' era and the attribution to Śaṅkarācārya."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmatsaṃkarācārya",
+   "name": "Śaṅkarācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatsaṃkarācāryapraṇālikā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "voharāmūlānaṃdaṃ",
+   "name": "Mūlānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "voharā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ voharāmūlānaṃdaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 1890 jyeṣṭa suda paṃcadasī",
+  "era": "VS",
+  "year": "1890",
+  "month": "jyeṣṭa",
+  "paksa": "śukla",
+  "tithi": "15",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1833"
+ },
+ "place": {
+  "as_written": "dodhapure",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives only 'saṃ 1890'. Reading it as VS fits the catalogue field, the Devanagari script and the 'suda' (sudi) form; VS 1890 Jyeṣṭha śukla 15 falls around June 1833 CE. 'voharā' is probably the Vohrā/Bohrā community or trade name and is kept as a title. The scribe's name appears in the accusative/neuter form 'mūlānaṃdaṃ' and is given here in stem form. 'dodhapure' is unidentified: it may be a corruption of Jodhapura (Jodhpur), but that is not certain. The praṇālikā is only attributed to Śaṅkarācārya, and the attribution is traditional.",
+ "_meta": {
+  "reel": "A 465/44",
+  "model": "opus",
+  "cost_usd": 0.0516948,
+  "secs": 11.3
+ }
+}

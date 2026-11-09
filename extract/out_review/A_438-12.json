@@ -1,0 +1,48 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Added Śrīdatta as author (role 'author'). 'śrīdattapaddhatau' means 'in Śrīdatta's paddhati'; this is the Maithila Śrīdatta Upādhyāya, author of the Ekāgni(dāna)paddhati. So the name is an authorship attribution, not merely a word inside a title.",
+   "Everything else confirmed: there is no scribe, date, place or purpose."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīdatta-",
+   "name": "Śrīdatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "iti śrīśrīdattapaddhatāv",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon has only completion formulas for a section and for the whole text (puṣpikā). There is no scribal colophon, so nobody involved in making this copy is named. The author's name appears in two forms: 'śrīśrīdatta-' (honorific śrī + Śrīdatta) at fol. 115r9, and 'śrīpadatta-' at fol. 115r5–6, which is probably a miscopy of the same name. He is identified as the Maithila Śrīdatta Upādhyāya (c. 13th–14th century). 'Upādhyāya' is not written in the colophon, so it is not entered under titles.",
+ "_meta": {
+  "reel": "A 438/12",
+  "model": "opus",
+  "cost_usd": 0.5352056000000001,
+  "secs": 20.5
+ }
+}

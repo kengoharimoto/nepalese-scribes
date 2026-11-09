@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājendravikramasāhadevasya",
+   "name": "Rājendravikrama Śāhadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī 3 mahārājādhirājaparameśvaraparamabhaṭṭārakaśrīśrīśrīrājendravikramasāhadevasya vijayarājye",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "sakalasatvarāśinā manuttarajñānaphalaṃ prāptar astu",
+ "notes": "The colophon ends abruptly with 'dānapate nepāla', which appears to be truncated and might have intended to name the donor or give a date in Nepāla saṃvat.",
+ "_meta": {
+  "reel": "A 131/11",
+  "model": "gemini-flash-latest",
+  "secs": 13.9,
+  "in_tok": 900,
+  "out_tok": 1805
+ }
+}

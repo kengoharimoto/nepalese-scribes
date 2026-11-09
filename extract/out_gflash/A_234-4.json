@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rakṣmīnara",
+   "name": "Lakṣmīnara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śivācārya"
+   ],
+   "affiliation": "",
+   "residence": "Galakūṭa",
+   "evidence": "galakūṭayā śivācāryya rakṣmīnara tha o tanittina cokā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 938 phārguṇa śukla trayodasi śukravāra",
+  "era": "NS",
+  "year": "938",
+  "month": "phārguṇa",
+  "paksa": "śukla",
+  "tithi": "trayodasi",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1818"
+ },
+ "place": {
+  "as_written": "galakūṭayā",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name is written as 'rakṣmīnara' for Lakṣmīnara (or Lakṣmīnārāyaṇa). 'tha o tanittina cokā juro' indicates written by his own hand / by himself.",
+ "_meta": {
+  "reel": "A 234/4",
+  "model": "gemini-flash-latest",
+  "secs": 7.8,
+  "in_tok": 715,
+  "out_tok": 1069
+ }
+}

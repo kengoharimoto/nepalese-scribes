@@ -1,0 +1,77 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīpatibhaṭṭa",
+   "name": "Śrīpati",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīpatibhaṭṭaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dhanasiṃhana",
+   "name": "Dhanasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dhanasiṃhana coya thunakā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīdhanapatisana",
+   "name": "Dhanapati",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "śākyavaṃśa",
+   "residence": "",
+   "evidence": "śākyavaṃśa śrīdhanapatisana thavatanāmana harṣa jusyaṃ cotakā (!) juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "dhanasiṃhana coya thunakā juro ... śrīdhanapatisana thavatanāmana harṣa jusyaṃ cotakā (!) juro"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 828 mārggaśila (!) śudvi (!) 12 maṃgalavāla, (!)",
+  "era": "NS",
+  "year": "828",
+  "month": "mārggaśira",
+  "paksa": "śuklapakṣa",
+  "tithi": "12",
+  "weekday": "maṅgalavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1707"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "thavatanāmana harṣa jusyaṃ (for himself/in his own name gladly)",
+ "notes": "",
+ "_meta": {
+  "reel": "A 407/3",
+  "model": "gemini-flash-latest",
+  "secs": 9.8,
+  "in_tok": 826,
+  "out_tok": 1543
+ }
+}

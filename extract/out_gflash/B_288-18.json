@@ -1,0 +1,71 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayajitāmitramallaprabhuyā",
+   "name": "Jayajitāmitramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "prabhu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayajitāmitramallaprabhuyā ājñāna",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sūratasiṃhana",
+   "name": "Sūratasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sūratasiṃhana patrāṅka coyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "śrīśrījayajitāmitramallaprabhuyā ājñāna sūratasiṃhana patrāṅka coyā"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīśrījayajitāmitramallaprabhuyā ājñāna"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 793 āṣāḍha vadi 15",
+  "era": "NS",
+  "year": "793",
+  "month": "āṣāḍha",
+  "paksa": "vadi",
+  "tithi": "15",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1673"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīśrījayajitāmitramallaprabhuyā ājñāna",
+ "notes": "",
+ "_meta": {
+  "reel": "B 288/18",
+  "model": "gemini-flash-latest",
+  "secs": 15.3,
+  "in_tok": 749,
+  "out_tok": 2196
+ }
+}

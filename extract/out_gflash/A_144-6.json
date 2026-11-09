@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdharmarājaśarmaṇa(!) trīpāṭhīnā(!)",
+   "name": "Dharmarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman",
+    "tripāṭhin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdharmarājaśarmaṇa(!) trīpāṭhīnā(!) likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1964 sāla miti kārtika śudi 10 kārttika 30 gate roja 6 vāra 6",
+  "era": "VS",
+  "year": "1964",
+  "month": "kārtika",
+  "paksa": "śudi",
+  "tithi": "10",
+  "weekday": "roja 6 vāra 6",
+  "nakshatra_yoga": "",
+  "ce_approx": "1907"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthaṃ ca",
+ "notes": "",
+ "_meta": {
+  "reel": "A 144/6",
+  "model": "gemini-flash-latest",
+  "secs": 8.2,
+  "in_tok": 732,
+  "out_tok": 1020
+ }
+}

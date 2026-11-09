@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "haridattasya",
+   "name": "Haridatta",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "haridattasyedaṃ pustakam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1759",
+  "era": "ŚS",
+  "year": "1759",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1837"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1383/31 (2)",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 712,
+  "out_tok": 609
+ }
+}

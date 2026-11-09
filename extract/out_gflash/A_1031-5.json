@@ -1,0 +1,94 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkīrttisiṃhadeva",
+   "name": "Kīrttisiṃhadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "viṣayādhipati"
+   ],
+   "affiliation": "Vaghelavaṃśa",
+   "residence": "Mahīmahīyara",
+   "evidence": "śrīvaghelavaṃśodbhavaśrīmahīmahīyara(!)viṣayādhipatiśrīkīrttisiṃhadevājñayā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaṭṭojidīkṣita",
+   "name": "Bhaṭṭoji Dīkṣita",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī bhaṭṭojidīkṣitātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrībhānujidīkṣita",
+   "name": "Bhānuji Dīkṣita",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhānujidīkṣitaviracitāyām",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "ddharmmaddhajo",
+   "name": "Dharmadhvaja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam ida granther ddharmmaddhajosya",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrī bhaṭṭojidīkṣitātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1837 ... harervārarādityaryukte",
+  "era": "VS",
+  "year": "1837",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1780"
+ },
+ "place": {
+  "as_written": "barhirkhanagare",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date phrase 'barhirkhanagarharervārarādityaryukte' is corrupt for 'barhirkhanagare harivāsara-ādityavāra-yute' (in Barhirkha-nagara on Sunday, Ekādaśī). Dharmadhvaja appears to be the scribe ('likhitam ida granther ddharmmaddhajo 'sya kīrtte[ḥ]'). Kīrttisiṃhadeva of the Vaghela dynasty is the patron who commissioned Bhānuji Dīkṣita to compose the commentary.",
+ "_meta": {
+  "reel": "A 1031/5",
+  "model": "gemini-flash-latest",
+  "secs": 16.0,
+  "in_tok": 828,
+  "out_tok": 2490
+ }
+}

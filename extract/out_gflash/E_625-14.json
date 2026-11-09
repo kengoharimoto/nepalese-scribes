@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācāryacitta[[m]] ne(!)",
+   "name": "Citta",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "dānapati",
+    "vajrācārya"
+   ],
+   "affiliation": "maitrīpūrimahāvihāra",
+   "residence": "suvarṇṇapanārimahānagara",
+   "evidence": "dānapate suvarṇṇapanārimahānagare maitrīpūrimahāvihāre śrī 3 vajradevyā śevitaśrīvajrācāryacitta[[m]] ne(!) leṣāpitavyam(!)",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 955 mārgaśilakṛṣṇapaṃcamiparaṣaṣṭami ravivāre",
+  "era": "NS",
+  "year": "955",
+  "month": "mārgaśila",
+  "paksa": "kṛṣṇa",
+  "tithi": "paṃcamiparaṣaṣṭami",
+  "weekday": "ravivāre",
+  "nakshatra_yoga": "",
+  "ce_approx": "1834"
+ },
+ "place": {
+  "as_written": "suvarṇṇapanārimahānagare maitrīpūrimahāvihāre",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The commissioner's name appears as 'citta[[m]] ne(!)', which may represent the personal name Citta (or Cittamani/Cittana) with the Newari ergative suffix -ne/-na. 'śrī 3 vajradevyā' refers to the deity Vajradevī served by the donor.",
+ "_meta": {
+  "reel": "E 625/14",
+  "model": "gemini-flash-latest",
+  "secs": 27.9,
+  "in_tok": 822,
+  "out_tok": 3295
+ }
+}

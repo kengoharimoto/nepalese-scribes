@@ -1,0 +1,89 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīindradevasya",
+   "name": "Indradeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "Nepālamaṇḍala",
+   "evidence": "śrīindradevasya vija+rājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrītilocanavarmasya",
+   "name": "Tilocanavarman",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "pravaramahāyānayāyin"
+   ],
+   "affiliation": "Uttarabūvihāra",
+   "residence": "Lalitapura, Mānīgvala",
+   "evidence": "deyadharmo yaṃ pravaramahāyānayāyina śrītilocanavarmasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "kāyasthadevavarmanena",
+   "name": "Devavarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāyasthadevavarmanena tat pustako yaṃ likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "deyadharmo yaṃ pravaramahāyānayāyina śrītilocanavarmasya || ... kāyasthadevavarmanena tat pustako yaṃ likhitaṃ"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīindradevasya vija+rājye"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 253 aśuni śuklatṛtīyāyāṃ",
+  "era": "NS",
+  "year": "253",
+  "month": "Āśvina",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1133"
+ },
+ "place": {
+  "as_written": "śrīlalitapure śrīmānīgvalke uttarabūvihārādhivāsina",
+  "normalized": "Patan"
+ },
+ "purpose": "deyadharma, merit transfer to teachers, parents, and all beings for attaining supreme knowledge",
+ "notes": "",
+ "_meta": {
+  "reel": "A 47/6",
+  "model": "gemini-flash-latest",
+  "secs": 12.4,
+  "in_tok": 1196,
+  "out_tok": 1801
+ }
+}

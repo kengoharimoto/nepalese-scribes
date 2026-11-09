@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "māghavarāvasāvājīvi‥",
+   "name": "Māghavarāva Sāvājī",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ha || snākṣaramāghavarāvasāvājīvi‥ pustaka",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "mītī(!) aśāḍha śuddha || ❖ || saṃmat(!) || 1901 || śa(!)ke 1766",
+  "era": "VS",
+  "year": "1901",
+  "month": "aśāḍha",
+  "paksa": "śuddha",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1844"
+ },
+ "place": {
+  "as_written": "gvālera",
+  "normalized": "Gwalior"
+ },
+ "purpose": "śrīrāmārpaṇam astu",
+ "notes": "Double-dated in VS 1901 and ŚS 1766. 'mu || †gvālera†' likely denotes mukāma Gwalior. The scribe/owner's name is preceded by 'ha || snākṣara' (hastākṣara / svākṣara) and appears as 'māghavarāvasāvājīvi‥' (probably Mādhavarāva Sāvājī/Śivājī).",
+ "_meta": {
+  "reel": "B 540/40",
+  "model": "gemini-flash-latest",
+  "secs": 11.3,
+  "in_tok": 759,
+  "out_tok": 1341
+ }
+}

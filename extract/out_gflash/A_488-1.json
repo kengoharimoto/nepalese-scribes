@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhūpatīndramalladevo",
+   "name": "Bhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhūpatīndramalladevo na dayakā dina",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 812 vaiśāṣa va di 7",
+  "era": "NS",
+  "year": "812",
+  "month": "vaiśāṣa",
+  "paksa": "va",
+  "tithi": "7",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1692"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The phrase 'dayakā dina' in Newari indicates that King Bhūpatīndramalladeva had the manuscript prepared/commissioned on this day.",
+ "_meta": {
+  "reel": "A 488/1",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 677,
+  "out_tok": 647
+ }
+}

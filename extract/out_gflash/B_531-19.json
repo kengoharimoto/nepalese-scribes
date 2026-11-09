@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayasiṃha",
+   "name": "Jayasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ jayasiṃha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 803 jyeṣṭhaḥ śukla 1 bṛhaspativāra",
+  "era": "NS",
+  "year": "803",
+  "month": "jyeṣṭhaḥ",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1683"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 531/19",
+  "model": "gemini-flash-latest",
+  "secs": 7.6,
+  "in_tok": 681,
+  "out_tok": 969
+ }
+}

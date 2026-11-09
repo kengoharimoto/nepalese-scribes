@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nāthajī gujrātī",
+   "name": "Nāthajī",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "gujrātī"
+   ],
+   "affiliation": "jñātītravāḍimevāḍā",
+   "residence": "",
+   "evidence": "likhitaṃ nāthajī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1816 śrāvaṇe māsi śukle pakṣe dvādaśyāṃ tithau 12 ravivāsare",
+  "era": "VS",
+  "year": "1816",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "dvādaśī (12)",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1759"
+ },
+ "place": {
+  "as_written": "caṃpakāraṇye bhīmakṣetre paśupat(!)sannidhau gaṃḍakyā uttare bhāge",
+  "normalized": "Bhīmakṣetra"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 448/20",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 782,
+  "out_tok": 910
+ }
+}

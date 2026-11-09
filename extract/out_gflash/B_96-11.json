@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon text contains only chapter and section endings with no scribe, date, commissioner, or other historical persons named.",
+ "_meta": {
+  "reel": "B 96/11",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 870,
+  "out_tok": 662
+ }
+}

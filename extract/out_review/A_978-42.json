@@ -1,0 +1,34 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Era changed from 'unspecified' to VS. The colophon names no era, but 1921 can only be Vikrama: NS 1921 and ŚS 1921 would both fall in the future. ce_approx 1864 (1921−57) is kept and recorded as inferred.",
+   "Notes expanded: the era is inferred, and Jaṅgabahādura (Jang Bahadur Rana) comes only from the catalogue field."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvatsaraḥ || 19 ||| 21 |||",
+  "era": "VS",
+  "year": "1921",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1864"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives only 'saṃvatsaraḥ 19 21', i.e. year 1921, with no era stated. It is read as VS because NS and ŚS are impossible for that number, which matches the catalogue's VS 1921 (≈1864 CE). The catalogue field 'King: Jaṅgabahādura' is not supported by the colophon, which names no persons. Jang Bahadur Rana was prime minister, not king, in 1864, so the cataloguer probably added the name from the date. He is therefore not listed as a person.",
+ "_meta": {
+  "reel": "A 978/42",
+  "model": "opus",
+  "cost_usd": 0.04430679999999999,
+  "secs": 9.8
+ }
+}

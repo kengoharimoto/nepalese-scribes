@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājaguru paṃḍita hemarājapṃḍitajyū",
+   "name": "Hemarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "rājaguru",
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "hemarājapṃḍitajyū le ai mitimā likheko",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "1950 sāla śāṣāḍa(!) vadī 7 roja 3",
+  "era": "VS",
+  "year": "1950",
+  "month": "śāṣāḍa",
+  "paksa": "vadī",
+  "tithi": "7",
+  "weekday": "roja 3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1893"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Colophon is in Nepali. The scribe is the prominent scholar and royal preceptor Rājaguru Hemarāja Śarmā.",
+ "_meta": {
+  "reel": "A 1186/24",
+  "model": "gemini-flash-latest",
+  "secs": 8.2,
+  "in_tok": 719,
+  "out_tok": 1218
+ }
+}

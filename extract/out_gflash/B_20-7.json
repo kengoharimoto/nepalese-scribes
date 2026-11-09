@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 541 vaisākhakṛṣṇaḥ tītiyāṃ(!) tithau",
+  "era": "NS",
+  "year": "541",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "tṛtīyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1421"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "manajasyārthena (likely corrupt for manujasyārthena, 'for the sake of mankind')",
+ "notes": "No historical human persons are named. Aṃgaḍakumāra refers to the epic/mythical character Aṅgada and forms part of the text title/section. The phrase 'liṣiti manajasyārthena' appears to be a corrupt scribal formula for 'likhitaṃ manujasyārthena' (written for the benefit of humanity/others) rather than a personal name.",
+ "_meta": {
+  "reel": "B 20/7",
+  "model": "gemini-flash-latest",
+  "secs": 30.4,
+  "in_tok": 745,
+  "out_tok": 3509
+ }
+}

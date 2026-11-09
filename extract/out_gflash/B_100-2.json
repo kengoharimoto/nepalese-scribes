@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The quoted text consists solely of internal chapter colophons (adhyāya/parivarta titles). It contains no scribal colophon, dates, places, or historical persons related to the production of the manuscript.",
+ "_meta": {
+  "reel": "B 100/2",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 965,
+  "out_tok": 353
+ }
+}

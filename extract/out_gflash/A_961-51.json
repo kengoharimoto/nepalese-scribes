@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1952 sāka māghasuk(!)latṛti(!)yā śanivāre",
+  "era": "VS",
+  "year": "1952",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "tṛtīyā",
+  "weekday": "śanivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1896"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon text writes 'samvat 1952 sāka', conflating the words saṃvat and śāka, but the year clearly indicates Vikrama Samvat (c. 1896 CE).",
+ "_meta": {
+  "reel": "A 961/51",
+  "model": "gemini-flash-latest",
+  "secs": 10.4,
+  "in_tok": 722,
+  "out_tok": 1280
+ }
+}

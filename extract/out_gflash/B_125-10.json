@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmahāmahopādhyāya śrīkṛṣṇānandavi(dyā)vāgīśabhaṭṭācārya",
+   "name": "Kṛṣṇānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "vidyāvāgīśa",
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahāmahopādhyāya śrīkṛṣṇānandavi(dyā)vāgīśabhaṭṭācāryaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 877 phālgunaśuddhi (!) 2",
+  "era": "NS",
+  "year": "877",
+  "month": "phālguna",
+  "paksa": "śukla",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1757"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chapter 4 of Tantrasāra completed on this date; no scribe or patron is mentioned.",
+ "_meta": {
+  "reel": "B 125/10",
+  "model": "gemini-flash-latest",
+  "secs": 7.6,
+  "in_tok": 733,
+  "out_tok": 976
+ }
+}

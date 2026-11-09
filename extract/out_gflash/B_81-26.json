@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dharmagiri",
+   "name": "Dharmagiri",
+   "roles": [
+    "other",
+    "scribe"
+   ],
+   "titles": [
+    "sanyāsī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dharmagiri dhāyā sanyāsiyā muthisa",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 751 śrāvaṇamāsya kṛṣṇapakṣa ekadaśi kohnu",
+  "era": "NS",
+  "year": "751",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1631"
+ },
+ "place": {
+  "as_written": "dharmagiri dhāyā sanyāsiyā muthisa",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The cataloguer identified Dharmagiri Sanyāsī as the scribe. However, the Newari phrasing 'dharmagiri dhāyā sanyāsiyā muthisa coṅa…' specifies that the copyist was staying at the maṭha (muthi) of the sannyāsī named Dharmagiri; the actual scribe's name might have been in the following lacuna.",
+ "_meta": {
+  "reel": "B 81/26",
+  "model": "gemini-flash-latest",
+  "secs": 18.4,
+  "in_tok": 814,
+  "out_tok": 2214
+ }
+}

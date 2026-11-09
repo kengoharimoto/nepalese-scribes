@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "puruṣottamaḥ",
+   "name": "Puruṣottama",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rikhita puruṣottamaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 824 vaiśākamāse śukrera pakṣa śatamuraviśarttamyātithuśidhaṃḥ",
+  "era": "NS",
+  "year": "824",
+  "month": "vaiśāka",
+  "paksa": "śukla",
+  "tithi": "saptamī",
+  "weekday": "ravi",
+  "nakshatra_yoga": "",
+  "ce_approx": "1704"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The phrase 'śrī 3 śreṣṭhadevasalana śubha' appears to be a devotional closing invocation ('[taking] refuge in the venerable iṣṭadeva / supreme deity', Newari salana = śaraṇa) rather than a reference to a human person.",
+ "_meta": {
+  "reel": "C 20/3",
+  "model": "gemini-flash-latest",
+  "secs": 14.9,
+  "in_tok": 723,
+  "out_tok": 1945
+ }
+}

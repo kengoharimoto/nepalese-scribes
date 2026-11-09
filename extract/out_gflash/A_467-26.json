@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivadantaśarmānā",
+   "name": "Śivadanta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "Devīvaragrāma",
+   "evidence": "alikhad itdaṃ śivadantaśarmānā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "devī varagrām",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name is likely corrupt for Śivadattaśarman (written śivadantaśarmānā). The location appears to be Devīvaragrāma (devī varagrām eva).",
+ "_meta": {
+  "reel": "A 467/26",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 657,
+  "out_tok": 832
+ }
+}

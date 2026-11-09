@@ -1,0 +1,188 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2: name changed from Kuladattadeva to Kuladatta. The 'deva ju' in 'kuladatta deva ju' reads as an honorific, and he is not a king.",
+   "p4–p10: roles changed from donor to commissioner. 'dayakā juro' means they had the copy made; none of them is called dānapati.",
+   "p8/p9: 'mayaju' and 'bhāju' are honorifics (for a woman and a man), not real titles; both kept at low confidence.",
+   "place.normalized: 'Patan' removed. The emendation to Cakramahāvihāra is likely, but which present-day vihāra this is cannot be confirmed from the colophon.",
+   "Notes: explained why dhātu = 6 here and gave the alternative year; flagged the final list of names as unclear."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīvajrācāryya guṇasāgraju",
+   "name": "Guṇasāgara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Śrīmānadevasaṃskārita Cakramahāvihāra",
+   "residence": "Cakramahāvihāra",
+   "evidence": "śrīśrīvajrācāryya guṇasāgraju śrīvajrācārya kuladatta deva ju nihma sana coya dhuṃkā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvajrācārya kuladatta deva ju",
+   "name": "Kuladatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Śrīmānadevasaṃskārita Cakramahāvihāra",
+   "residence": "Cakramahāvihāra",
+   "evidence": "śrīvajrācārya kuladatta deva ju nihma sana coya dhuṃkā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "sākyavaṃśaśrīdharmarājajuna",
+   "name": "Dharmarāja",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "śākyavaṃśa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dānapati ⟪...⟫ sākyavaṃśaśrīdharmarājajuna dayakā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīdhanasiṃju",
+   "name": "Dhanasiṃha",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdhanasiṃju ... dayakā juro",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p5",
+   "as_written": "dhanapati siṃju",
+   "name": "Dhanapatisiṃha",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dhanapati siṃju ... dayakā juro",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p6",
+   "as_written": "manohari",
+   "name": "Manoharī",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "manohari ... dayakā juro",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p7",
+   "as_written": "(rahnā)vatī",
+   "name": "Ratnāvatī",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "(rahnā)vatī ... dayakā juro",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p8",
+   "as_written": "dhananā nadhimayaju",
+   "name": "Dhananandhī",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dhananā nadhimayaju ... dayakā juro",
+   "confidence": "low"
+  },
+  {
+   "pid": "p9",
+   "as_written": "dhanamā++bhāju",
+   "name": "Dhanamā..",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dhanamā++bhāju ... dayakā juro",
+   "confidence": "low"
+  },
+  {
+   "pid": "p10",
+   "as_written": "manaharṣamānajuyā",
+   "name": "Manaharṣamāna",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "manaharṣamānajuyā va dayakā juro",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "nihma sana coya dhuṃkā juro || || dānapati ⟪...⟫ sākyavaṃśaśrīdharmarājajuna dayakā juro"
+  },
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "nihma sana coya dhuṃkā juro || || dānapati ⟪...⟫ sākyavaṃśaśrīdharmarājajuna dayakā juro"
+  }
+ ],
+ "date": {
+  "as_written": "nepārābde ratnamunidhātu jeṣṭavadi 7 śukravāla",
+  "era": "NS",
+  "year": "679",
+  "month": "Jyeṣṭha",
+  "paksa": "vadi (kṛṣṇa)",
+  "tithi": "7",
+  "weekday": "śukravāra (Friday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1559"
+ },
+ "place": {
+  "as_written": "śrīmānadevasaṃskārita cakramahārāvasthita",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram, read right to left: ratna = 9, muni = 7, dhātu = ?. This gives NS 679 (CE 1559), the catalogue date, only if dhātu = 6, as in the Buddhist six dhātus (ṣaḍdhātu). That reading fits a Buddhist Newar colophon. The usual value is dhātu = 7, which would give NS 779 (CE 1659). A rough mean-lunation check of Jyeṣṭha kṛṣṇa 7 puts it on about a Sunday in 1559 and about a Thursday in 1659, so it is not clearly a Friday in either year and does not settle the question. I kept NS 679. The place reads 'cakramahārāvasthita', probably a corruption of cakramahāvihārāvasthita (cataloguer's note). It describes where the two scribes live, not explicitly where the copy was made, and I have not confirmed which present-day vihāra it is. The final sentence ('śrīdhanasiṃju ... dhana thvati svana manaharṣamānajuyā va dayakā juro') is unclear. It looks like a list of family members, probably of Manaharṣamāna, who also had the copy made; it may be a later addition. Where the names divide is uncertain ('dhananā nadhimayaju', 'dhanamā++bhāju', the stray 'dhana'). 'mayaju' and 'bhāju' are honorifics. The name of the d̄ānapati Dharmarāja is preceded by a deletion (⟪...⟫).",
+ "_meta": {
+  "reel": "B 99/4",
+  "model": "opus",
+  "cost_usd": 0.7917376,
+  "secs": 97.9
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Contains only a standard scribal apology verse without any names, dates, or places.",
+ "_meta": {
+  "reel": "A 475/70",
+  "model": "gemini-flash-latest",
+  "secs": 3.8,
+  "in_tok": 678,
+  "out_tok": 318
+ }
+}

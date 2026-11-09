@@ -1,0 +1,57 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Merged p1 and p2 into one person. 'Jayakīrttika' (in the Sanskrit deyadharma clause) and 'Jasakīrttiju' (Newari jasa = jaya, honorific -ju, in the dānapati clause) are almost certainly the same donor. The stem is given as Jayakīrti, since the -ka is pleonastic. Confidence is set to medium because the identification is inferred.",
+   "Added the role commissioner: the gold-and-silver copy was made for him as his deyadharma.",
+   "Split location data: Kāṣṭhamaṇḍapa and Rañjanatvalaka are now his residence; Kīrtipuṇya and Vajradhātu mahāvihāras are his affiliation.",
+   "Purpose rewritten as a summary of the merit-transfer formula instead of a raw quotation.",
+   "Notes expanded: the king's name is lost, the place of copying is not stated directly, more names follow, and the book is written in gold and silver letters."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhikṣuśrījayakīrttikasya / śākyabhikṣuśrījasakīrttiju",
+   "name": "Jayakīrti",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [
+    "paramopāsaka",
+    "bhikṣu",
+    "śākyabhikṣu",
+    "dānapati"
+   ],
+   "affiliation": "Kīrtipuṇyamahāvihāra; Vajradhātumahāvihāra",
+   "residence": "Kāṣṭhamaṇḍapa (Kathmandu), Rañjanatvalaka(?)",
+   "evidence": "deyadharmo yaṃ ... bhikṣuśrījayakīrttikasya; dānapatiśrīkāṣṭhamaṇḍapamahānagare ... śākyabhikṣuśrījasakīrttiju",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "śrīkāṣṭhamaṇḍapamahānagare rañjanatvalake(?) , śrīkīrttipuṇyamahāvihāre",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "deyadharma: merit transferred to teachers (ācāryopādhyāya…, standard formula, cut off) and all beings",
+ "notes": "The donor appears twice: as Jayakīrttika in the Sanskrit deyadharma clause and as Jasakīrttiju (Newari form) in the dānapati clause. They are treated as one person; if they are two, split them. The king's name is lost in the lacuna before '...nasya vijayarāje'. Only the ending -na survives, so no king is recorded. The cataloguer says the king is illegible. The place is given as the donor's residence and vihāra (Kāṣṭhamaṇḍapa = Kathmandu, Rañjanatvalaka, Kīrtipuṇyamahāvihāra; 'Vajradhātumahāvihārāvasthita' is ambiguous). The place of copying is inferred from this, as in the catalogue. The scribe is not legible in the quote. The cataloguer notes that 'a number of names follow' on fol. 94v5–95r1, probably the donor's family or co-donors, but they are not quoted. The manuscript is written in gold and silver letters (suvarṇarajatākṣareṇa). No date survives in the quoted colophon.",
+ "_meta": {
+  "reel": "A 1333/9",
+  "model": "opus",
+  "cost_usd": 0.5872615999999999,
+  "secs": 34.8
+ }
+}

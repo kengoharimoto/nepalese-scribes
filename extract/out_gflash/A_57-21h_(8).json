@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "tapodhanaśrīviśveśvareṇa",
+   "name": "Viśveśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "tapodhana"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ tapodhanaśrīviśveśvareṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Madaneśvara in 'śrīmadaneśvaraṃ namaḥ || namaskṛtya' refers to a deity (Śiva/Madaneśvara).",
+ "_meta": {
+  "reel": "A 57/21h (8)",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 716,
+  "out_tok": 554
+ }
+}

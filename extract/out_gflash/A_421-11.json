@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kavikālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkavikālidāsodite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rāmakṛṣṇayo",
+   "name": "Rāmakṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣītaṃ (!) rāmakṛṣṇayo pustakaṃ līṣītaṃ (!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1751 varṣe bhādrapadaśuddha 3 ravivāsare",
+  "era": "VS",
+  "year": "1751",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1694"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The phrase 'liṣītaṃ (!) rāmakṛṣṇayo pustakaṃ līṣītaṃ (!)' contains corrupt case endings (possibly meant to be rāmakṛṣṇena or rāmakṛṣṇasya).",
+ "_meta": {
+  "reel": "A 421/11",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 804,
+  "out_tok": 945
+ }
+}

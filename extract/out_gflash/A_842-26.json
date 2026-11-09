@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīṭi(!)kārāmaupādhyāyaḥ",
+   "name": "Ṭīkārāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ śrīṭi(!)kārāmaupādhyāyaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1689 pauṣaśudi 15",
+  "era": "ŚS",
+  "year": "1689",
+  "month": "pauṣa",
+  "paksa": "śudi",
+  "tithi": "15",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1767"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 842/26",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 707,
+  "out_tok": 638
+ }
+}

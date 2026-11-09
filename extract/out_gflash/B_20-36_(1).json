@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "tatpuruṣarāśena",
+   "name": "Tatpuruṣarāśa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tatpuruṣarāśena likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat [[Image:]] vaiśākhaśukla dvādaśyāṃ budhadine",
+  "era": "NS",
+  "year": "102",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "budhadina",
+  "nakshatra_yoga": "",
+  "ce_approx": "982"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year numerals are represented by an image placeholder [[Image:]] in the transcript, but read as NS 102 by the cataloguer. The scribe's name Tatpuruṣarāśa might be a variant or scribal error for the Śaiva name Tatpuruṣarāśi.",
+ "_meta": {
+  "reel": "B 20/36 (1)",
+  "model": "gemini-flash-latest",
+  "secs": 11.6,
+  "in_tok": 764,
+  "out_tok": 1381
+ }
+}

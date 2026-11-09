@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pṛthviṇārāyaṇasaha",
+   "name": "Pṛthvīnārāyaṇa Śāha",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Gorkha",
+   "evidence": "śrīgoraṣādeśe pṛthviṇārāyaṇasaha vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nilāṃmbara upādhyā",
+   "name": "Nīlāmbara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya",
+    "dvijanman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ śrīśrī nilāṃmbara upādhyā dvijānma (!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "pṛthviṇārāyaṇasaha vijayarājye ... likhitam idaṃ śrīśrī nilāṃmbara upādhyā"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1688 saṃvat 1824 || || māse 11 vāre 1",
+  "era": "ŚS",
+  "year": "1688 (ŚS) / 1824 (VS)",
+  "month": "11",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1767"
+ },
+ "place": {
+  "as_written": "śrīgoraṣādeśe kalpāriśunāṭāragrāme triśūlagaṃgānikaṭe",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śāke 1688 and Vikrama Saṃvat 1824 are stated; month 11 is Phālguna. The colophon opens with an injunction in Nepali: 'yo pustaka arkā kana herna na dinu satya guru ko āgyā'.",
+ "_meta": {
+  "reel": "B 168/4",
+  "model": "gemini-flash-latest",
+  "secs": 12.8,
+  "in_tok": 796,
+  "out_tok": 1869
+ }
+}

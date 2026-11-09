@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācāryaśrīratīkara",
+   "name": "Ratīkara",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "bhaṭṭāpurīmahānagara bāhāracchegṛha",
+   "evidence": "dānapati bhaṭṭāpurīmahānagara bāhāracchegṛhāvasthita vajrācāryaśrīratīkara ... thama svārtha yāya nimittina dvayakā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vajrācāryaśrījagaḍānandaneti",
+   "name": "Jagaḍānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "talumulamahāvihāra vantābāhāra",
+   "residence": "kaṭamaṇḍapamahānagara laraṃkṛta siṃkomaṃguḍi talumulamahāvihāra vantābāhāra paścimadiśe, khaṇḍacukagṛha",
+   "evidence": "likhiteyaṃ kaṭamaṇḍapamahānagara... vajrācāryaśrījagaḍānandaneti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "dānapati bhaṭṭāpurīmahānagara ... vajrācāryaśrīratīkara ... dvayakā juro ... likhiteyaṃ ... vajrācāryaśrījagaḍānandaneti"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 821 māghaśuddhi 5",
+  "era": "NS",
+  "year": "821",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1701"
+ },
+ "place": {
+  "as_written": "kaṭamaṇḍapamahānagara laraṃkṛta siṃkomaṃguḍi talumulamahāvihāra vantābāhāra paścimadiśe, khaṇḍacuka",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "svārtha (thama svārtha yāya nimittina)",
+ "notes": "The commissioner Ratīkara resides in Bhaktapur (Bhaṭṭāpurī), while the scribe Jagaḍānanda copied it in Kathmandu (Kaṭamaṇḍapa).",
+ "_meta": {
+  "reel": "A 1266/5",
+  "model": "gemini-flash-latest",
+  "secs": 11.5,
+  "in_tok": 1253,
+  "out_tok": 1960
+ }
+}

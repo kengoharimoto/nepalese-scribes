@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "khūbarāma misra",
+   "name": "Khūbarāma",
+   "roles": [
+    "reader",
+    "owner",
+    "scribe"
+   ],
+   "titles": [
+    "misra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṭhanārthaṃ khūbarāma misra",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1848",
+  "era": "VS",
+  "year": "1848",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1791"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "paṭhanārthaṃ likhyanārthaṃ",
+ "notes": "Vibhīṣaṇa (vibhīṣaṇaproktaṃ) is omitted as a mythical figure/epic character. Khūbarāma Misra is designated with 'paṭhanārthaṃ' (for reading), catalogued as scribe.",
+ "_meta": {
+  "reel": "A 489/27",
+  "model": "gemini-flash-latest",
+  "secs": 8.4,
+  "in_tok": 725,
+  "out_tok": 1058
+ }
+}

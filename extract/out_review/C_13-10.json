@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 confidence lowered from high to medium. 'lekhayāmi' is a causative verb in the 1st person, but it comes with an instrumental agent, which is ungrammatical. So it is unclear whether he wrote the copy himself or had it written. Scribe is kept as the most likely reading.",
+   "Notes now explain that 'aśanipāṇi' (aśani = vajra) is a Sanskritised form of 'vajrācārya' or 'vajrapāṇi'. It stays a title.",
+   "Date checked: NS 905 + 880 = 1785 CE. Era, month, pakṣa, tithi and weekday confirmed."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "asanipāṇi-śrī(dha)nendravajreṇa",
+   "name": "Dhanendravajra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "aśanipāṇi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dhīmatā asanipāṇi-śrī(dha)nendravajreṇa mudā lekhayāmi",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepālava[r]ṣa 905 jyeṣṭhakṛṣṇa aṣṭamī somavāra",
+  "era": "NS",
+  "year": "905",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1785"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Aśoka and Upagupta are the framing speakers of the avadāna and are left out. 'asanipāṇi' should be read 'aśanipāṇi' (aśani = vajra). It is most likely a Sanskritised form of the Vajrācārya caste title, not part of the personal name. The 'dha' of Dhanendravajra is in parentheses, so the cataloguer was unsure of that syllable. The verb 'lekhayāmi' is causative ('I have it written') but comes with the instrumental 'dhīmatā ... -vajreṇa' ('by the wise ...'), which is a mixed construction. Following the catalogue, he is treated as the scribe, but he may have been the commissioner.",
+ "_meta": {
+  "reel": "C 13/10",
+  "model": "opus",
+  "cost_usd": 0.5490096,
+  "secs": 22.6
+ }
+}

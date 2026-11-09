@@ -1,0 +1,114 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe evidence now includes 'pustaṃ mayā liṣyate'. Coyā here means 'wrote', not 'had written', so Khaḍganarasiṃha is the scribe, not a commissioner.",
+   "Mother's name lowered to medium confidence: 'aṃbā' could be part of the name, not just 'mother'.",
+   "Sukudhvakā is now given as Durgānandasiṃha's residence only. Khaḍganarasiṃha's residence is Bhaktapur, from 'vāse śrībhaktapure nagare'.",
+   "Added relation: Sujogalakṣmī wife_of Durgānandasiṃha (named as father and mother of the scribe).",
+   "Added a note that the verse chronogram 'nanda dvi aṃkaṃ' gives 929, against samvat 829 in the prose date.",
+   "Toned down the claim that Sukudhvakā is Sukuldhoka; it is now a probable identification."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahādeva",
+   "name": "Mahādeva",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahādevakṛte ratnamālāvivaraṇe",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "daivajñakhaḍganarasiṃhanaṃ",
+   "name": "Khaḍganarasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "Bhaktapur",
+   "evidence": "daivajñakhaḍganarasiṃ ... pustaṃ mayā liṣyate",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "daivajñadurgānaṃdasiṃ",
+   "name": "Durgānandasiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "Sukudhvakā (Bhaktapur)",
+   "evidence": "sukudhvakāyā daivajñadurgānandasiṃ yākāya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "aṃbāsujogalakṣmī",
+   "name": "Sujogalakṣmī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jananīaṃbāsujogalakṣmīsūtaḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "daivajñadurgānandasiṃ yākāya daivajñakhaḍganarasiṃhanaṃ"
+  },
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "jananīaṃbāsujogalakṣmīsūtaḥ daivajñakhaḍganarasiṃ"
+  },
+  {
+   "from": "p4",
+   "type": "wife_of",
+   "to": "p3",
+   "evidence": "pitā daivajñadurgānaṃdasiṃjananīaṃbāsujogalakṣmīsūtaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 829 vaiśāṣakṛṣṇāyā tṛtīyā jyeṣṭhānakṣatra parighayoga maṃgalavāra",
+  "era": "NS",
+  "year": "829",
+  "month": "vaiśāṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "tṛtīyā",
+  "weekday": "maṃgalavāra",
+  "nakshatra_yoga": "jyeṣṭhā nakṣatra, parigha yoga",
+  "ce_approx": "1709"
+ },
+ "place": {
+  "as_written": "vāse śrībhaktapure nagare",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "\"\"",
+ "notes": "The catalogue lists Durgānanda Siṃha as the scribe, but the colophon names him as the father. His son Khaḍganarasiṃha says 'pustaṃ mayā liṣyate' and 'daivajñakhaḍganarasiṃhanaṃ coyā', so the son is the scribe. Date conflict: the verse chronogram 'nanda dvi aṃkaṃ' (nanda = 9, dvi = 2, aṅka = 9) gives 929 whichever way it is read, but the prose date says samvat 829. The two dates agree on month, pakṣa, tithi, weekday, nakṣatra and yoga. I kept 829 (NS 829 = c. 1709 CE). NS 929 would be c. 1809 CE. Checking the weekday or nakṣatra could settle which year is right. Sukudhvakā is probably Sukuldhoka in Bhaktapur, but I have not confirmed it. The colophon gives no explicit owner or purpose.",
+ "_meta": {
+  "reel": "B 327/28",
+  "model": "opus",
+  "cost_usd": 0.6209856,
+  "secs": 39.2
+ }
+}

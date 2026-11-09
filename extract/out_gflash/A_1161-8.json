@@ -1,0 +1,72 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmahopādhyāyaśrīvarddha[[māna]]kṛtā",
+   "name": "Vardhamāna",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāyaśrīvarddha[[māna]]kṛtā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīpadmakara",
+   "name": "Padmakara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Nāhoṃsa",
+   "evidence": "śrīpadmakaraśrīmādhavaśarmmabhyāṃ likhitam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīmādhavaśarmmabhyāṃ",
+   "name": "Mādhavaśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "Nāhoṃsa",
+   "evidence": "śrīpadmakaraśrīmādhavaśarmmabhyāṃ likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "lasaṃ 388 śrāvaṇakṛṣṇaikādaśyāṃ śukre",
+  "era": "LS",
+  "year": "388",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1507"
+ },
+ "place": {
+  "as_written": "nāhoṃsagrāme",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1161/8",
+  "model": "gemini-flash-latest",
+  "secs": 7.2,
+  "in_tok": 985,
+  "out_tok": 1135
+ }
+}

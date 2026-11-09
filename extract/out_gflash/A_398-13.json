@@ -1,0 +1,77 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmahopādhyāyaśrījagaddhara",
+   "name": "Jagaddhara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāyaśrījagaddharaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīkṛṣṇena",
+   "name": "Śrīkṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkṛṣṇena likhitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīdevadāsadeva",
+   "name": "Devadāsadeva",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdevadāsadevayākāṃ śrīkṛṣṇa na coyā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "śrīdevadāsadevayākāṃ śrīkṛṣṇa na coyā"
+  }
+ ],
+ "date": {
+  "as_written": "netragotragirau varṣe mādhave prathame site | dvādaśyāṃ śanivāre ... samva(!) 772 naṣṭavaiṣākhaśu(kla)dvādaśī kuhnu",
+  "era": "NS",
+  "year": "772",
+  "month": "prathama Vaiśākha (naṣṭavaiṣākha)",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "śanivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1652"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'netragotragirau' encodes 772 (netra = 2, gotra = 7, giri = 7), corresponding to NS 772. 'svanihma' preceding Devadāsadeva could indicate a family/residence designation or a count, but its precise function here is unclear.",
+ "_meta": {
+  "reel": "A 398/13",
+  "model": "gemini-flash-latest",
+  "secs": 19.0,
+  "in_tok": 754,
+  "out_tok": 2670
+ }
+}

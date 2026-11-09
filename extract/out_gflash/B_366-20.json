@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sūryanātha-adhīkāriṇā",
+   "name": "Sūryanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "adhīkārī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ sūryanātha-adhīkāriṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "1974 /3/19/3",
+  "era": "VS",
+  "year": "1974",
+  "month": "3",
+  "paksa": "",
+  "tithi": "19",
+  "weekday": "3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1917"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date is written in numerical shorthand 1974/3/19/3, typically indicating VS 1974, month 3 (Āṣāḍha), day 19, Tuesday (weekday 3).",
+ "_meta": {
+  "reel": "B 366/20",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 697,
+  "out_tok": 665
+ }
+}

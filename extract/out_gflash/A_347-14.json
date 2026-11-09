@@ -1,0 +1,94 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkṛṣṇamiśra",
+   "name": "Kṛṣṇamiśra",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkṛṣṇamiśraviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaṭṭavināyaka",
+   "name": "Vināyaka",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭavināyakātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "dīkṣitarāmadāsa",
+   "name": "Rāmadāsa",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dīkṣitarāmadāsaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "mojīrāma vaiṣṇava",
+   "name": "Mojīrāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vaiṣṇava"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ ... mojīrāma vaiṣṇava",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "bhaṭṭavināyakātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1761 kārttikaśudi trayodasī",
+  "era": "VS",
+  "year": "1761",
+  "month": "Kārttika",
+  "paksa": "śudi",
+  "tithi": "trayodaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1704"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīrāmaprītyarthaṃ",
+ "notes": "",
+ "_meta": {
+  "reel": "A 347/14",
+  "model": "gemini-flash-latest",
+  "secs": 9.7,
+  "in_tok": 1015,
+  "out_tok": 1657
+ }
+}

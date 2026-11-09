@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "yājñavalkya",
+   "name": "Yājñavalkya",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yājñavalkyaproktā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīdāmodaraśarmmāmandaṇemukhyā",
+   "name": "Dāmodara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman",
+    "mukhya"
+   ],
+   "affiliation": "",
+   "residence": "Mandaṇe",
+   "evidence": "śrīdāmodaraśarmmāmandaṇemukhyā likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 877 pau śu 1 budhadine",
+  "era": "NS",
+  "year": "877",
+  "month": "pau",
+  "paksa": "śu",
+  "tithi": "1",
+  "weekday": "budhadine",
+  "nakshatra_yoga": "",
+  "ce_approx": "1757"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The manuscript was copied from an exemplar written in Kāśī (kāśyāṃ likhitādarśe dṛṣṭvā). The scribe appears to be Dāmodaraśarman, chief/resident of Mandaṇe (Kavrepalanchok area).",
+ "_meta": {
+  "reel": "B 432/7",
+  "model": "gemini-flash-latest",
+  "secs": 13.4,
+  "in_tok": 697,
+  "out_tok": 1631
+ }
+}

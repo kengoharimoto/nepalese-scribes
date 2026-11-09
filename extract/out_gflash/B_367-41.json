@@ -1,0 +1,104 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sakhibhaṭṭā",
+   "name": "Sakhibhaṭṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "Toro upanāman",
+   "residence": "",
+   "evidence": "sakhibhaṭṭānujanārayaṇasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nārayaṇasya",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "Toro upanāman",
+   "residence": "",
+   "evidence": "toro upanāmnā sakhibhaṭṭānujanārayaṇasyedaṃ pustakaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "goviṃdadīkṣitā",
+   "name": "Govindadīkṣita",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "Tāro upanāman",
+   "residence": "",
+   "evidence": "goviṃdadīkṣitānujanāgeśeṃṣa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "nāgeśeṃṣa(!)",
+   "name": "Nāgeśa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Tāro upanāman",
+   "residence": "",
+   "evidence": "tāro upanāmnāḥ goviṃdadīkṣitānujanāgeśeṃṣa(!) likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "brother_of",
+   "to": "p1",
+   "evidence": "sakhibhaṭṭānuja"
+  },
+  {
+   "from": "p4",
+   "type": "brother_of",
+   "to": "p3",
+   "evidence": "goviṃdadīkṣitānuja"
+  },
+  {
+   "from": "p4",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "sakhibhaṭṭānujanārayaṇasyedaṃ pustakaṃ ... nāgeśeṃṣa(!) likhitam"
+  }
+ ],
+ "date": {
+  "as_written": "śrīnṛpaśāstibāhana śake 1686 pauṣe ‥ raṇanāmasaṃvatsare caitraśudhanvatur daśyāṃ tithau ravivāre",
+  "era": "ŚS",
+  "year": "1686",
+  "month": "Caitra",
+  "paksa": "śukla",
+  "tithi": "caturdaśī",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1764"
+ },
+ "place": {
+  "as_written": "karavīrakṣetra",
+  "normalized": "Kolhapur"
+ },
+ "purpose": "",
+ "notes": "Both owner Nārāyaṇa and scribe Nāgeśa bear the Marathi surname (upanāman) Toro/Tāro (Tore). Karavīrakṣetra is Kolhapur in Maharashtra.",
+ "_meta": {
+  "reel": "B 367/41",
+  "model": "gemini-flash-latest",
+  "secs": 19.4,
+  "in_tok": 1026,
+  "out_tok": 2655
+ }
+}

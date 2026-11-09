@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dhuṃḍhirājña",
+   "name": "Dhuṇḍhirāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña",
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ (10) dhuṃḍhirājñedaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhāūnāmā",
+   "name": "Bhāū",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāūnāmāṃgajanmanā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "bhāūnāmāṃgajanmanā"
+  }
+ ],
+ "date": {
+  "as_written": "khayamanaṃdedusame punā(8)bhidhāne śukladhavalapakṣe ca || śivatithyāṃ ravivāre",
+  "era": "VS",
+  "year": "1920",
+  "month": "punābhidhāna",
+  "paksa": "śukla",
+  "tithi": "śivatithi (14)",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1863"
+ },
+ "place": {
+  "as_written": "śrīrāmanagare",
+  "normalized": "Rāmanagara"
+ },
+ "purpose": "",
+ "notes": "The chronogram 'kha-yama-nanda-indu' corresponds to 0-2-9-1, i.e., VS 1920. 'daivajñadīkṣitopākhya' indicates the Marathi family surname (upākhyā) Daivajña-Dīkṣita.",
+ "_meta": {
+  "reel": "A 429/22",
+  "model": "gemini-flash-latest",
+  "secs": 14.8,
+  "in_tok": 831,
+  "out_tok": 2017
+ }
+}

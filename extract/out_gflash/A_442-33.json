@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "goviṃda",
+   "name": "Goviṃda",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "cakārāśrugoviṃda",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vyāsādīnā nāthena",
+   "name": "Dīnānātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vyāsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lam vyāsādīnā nāthena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1924 jyeṣṭa śukla 10 bhaume",
+  "era": "VS",
+  "year": "1924",
+  "month": "jyeṣṭa",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "bhaume",
+  "nakshatra_yoga": "",
+  "ce_approx": "1867"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author verse fol. 7v7–8 contains 'cakārāśu goviṃdo ... deva āpābhidhānaḥ' (possibly Goviṃda with the alias or surname Āpā / Deva). 'lam' in 'lam vyāsādīnā nāthena' is the standard abbreviation for likhitam.",
+ "_meta": {
+  "reel": "A 442/33",
+  "model": "gemini-flash-latest",
+  "secs": 14.6,
+  "in_tok": 741,
+  "out_tok": 2044
+ }
+}

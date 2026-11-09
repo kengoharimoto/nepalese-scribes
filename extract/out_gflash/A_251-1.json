@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkālidāsena",
+   "name": "Kālidāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkālidāsena sañcitam",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 747 caitravaddi 2 śukravāsare",
+  "era": "NS",
+  "year": "747",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "2",
+  "weekday": "śukravāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1627"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The phrase 'śrīkālidāsena sañcitam' could indicate that Kālidāsa was either the scribe, the compiler/author, or the collector of the text.",
+ "_meta": {
+  "reel": "A 251/1",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 704,
+  "out_tok": 1059
+ }
+}

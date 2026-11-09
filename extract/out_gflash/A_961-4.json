@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "siddhinārāyaṇa(!)",
+   "name": "Siddhinārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam siddhinārāyaṇa(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1934 sāla miti adhikajyeṣṭavadi 7 roja",
+  "era": "VS",
+  "year": "1934",
+  "month": "adhikajyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "7",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1877"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 961/4",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 730,
+  "out_tok": 567
+ }
+}

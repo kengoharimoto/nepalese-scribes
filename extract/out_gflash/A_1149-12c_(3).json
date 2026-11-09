@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhuvaneśvareṇa",
+   "name": "Bhuvaneśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhuvaneśvareṇa likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "1988 caitra 30 gate roja 1",
+  "era": "VS",
+  "year": "1988",
+  "month": "caitra",
+  "paksa": "",
+  "tithi": "30 gate",
+  "weekday": "roja 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1932"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1149/12c (3)",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 676,
+  "out_tok": 722
+ }
+}

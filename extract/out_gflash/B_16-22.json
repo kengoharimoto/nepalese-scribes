@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīparamānandena",
+   "name": "Paramānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Uttamapuragrāma",
+   "evidence": "śrīparamānandenottamapuragrāmīyeṇa likhitam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vallābhācāryya",
+   "name": "Vallabhācārya",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vallābhācāryyakṛtaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "la saṃ 428 mārggaśuklapūrṇṇimāyāṃ gurau",
+  "era": "LS",
+  "year": "428",
+  "month": "mārgga",
+  "paksa": "śukla",
+  "tithi": "pūrṇṇimā",
+  "weekday": "gurau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1547"
+ },
+ "place": {
+  "as_written": "kakarauvagrāme",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe Paramānanda was a native/resident of Uttamapuragrāma (uttamapuragrāmīyeṇa) and copied the manuscript at Kakarauvagrāma. The text is the Saṃdehaviṣauṣadhi commentary on Māgha's Śiśupālavadha, here attributed to Vallabhācārya (Vallabhadeva).",
+ "_meta": {
+  "reel": "B 16/22",
+  "model": "gemini-flash-latest",
+  "secs": 11.1,
+  "in_tok": 744,
+  "out_tok": 1374
+ }
+}

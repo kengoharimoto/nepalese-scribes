@@ -1,0 +1,71 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "varāhamihira",
+   "name": "Varāhamihira",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "horāśāstravarāhamihirakṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaṭotpalena",
+   "name": "Bhaṭṭotpala",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭotpalenakṛtāḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "kuṭusvajapradhānāṅgamahāpātraśrījayasīmhamallavarmaṇaiḥ",
+   "name": "Jayasīmhamallavarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "pradhānāṅga",
+    "mahāpātra"
+   ],
+   "affiliation": "Uttaravihāra Hnolavihāra",
+   "residence": "Mānīgala",
+   "evidence": "svahastena likhitam iti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 471 śrāvaṇaśuklacaturthī para pañcamyān tithau || hasta(!)nakṣatre || sādhyayoge || bṛhaspativāsare",
+  "era": "NS",
+  "year": "471",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "caturthī para pañcamī",
+  "weekday": "bṛhaspativāsara",
+  "nakshatra_yoga": "hasta, sādhya",
+  "ce_approx": "1351"
+ },
+ "place": {
+  "as_written": "śrīmānīgalake uttaravihāre hnolavihāra",
+  "normalized": "Patan"
+ },
+ "purpose": "svārthaparārthahetunā",
+ "notes": "Mānīgala is ancient Patan/Lalitpur. The word kuṭusvaja preceding pradhānāṅgamahāpātra may indicate a clan, locality, or part of a title/name.",
+ "_meta": {
+  "reel": "B 20/22",
+  "model": "gemini-flash-latest",
+  "secs": 13.0,
+  "in_tok": 875,
+  "out_tok": 1754
+ }
+}

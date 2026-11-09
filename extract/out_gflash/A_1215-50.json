@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paramānandanaṃ",
+   "name": "Paramānanda",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paramānandanaṃ bali(4)mālā saphu hryayyā kayā jura",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1036 mti āṣādha śuklapakṣe cauthī maṃgalavāra",
+  "era": "NS",
+  "year": "1036",
+  "month": "āṣādha",
+  "paksa": "śuklapakṣa",
+  "tithi": "cauthī",
+  "weekday": "maṃgalavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1916"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Newari hryayyā kayā jura corresponds to hyānā kayā jura ('bought/purchased').",
+ "_meta": {
+  "reel": "A 1215/50",
+  "model": "gemini-flash-latest",
+  "secs": 8.5,
+  "in_tok": 710,
+  "out_tok": 1145
+ }
+}

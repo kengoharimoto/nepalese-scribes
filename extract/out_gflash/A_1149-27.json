@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vidyādharabhaṭṭarāi",
+   "name": "Vidyādhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭarāi"
+   ],
+   "affiliation": "",
+   "residence": "ṅaṭaṭola",
+   "evidence": "likhitaṃ nepālarajasthale(!) ṅaṭaṭolasthitavidyādharabhaṭṭarāi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1866 śrīśāke 1731 māghamāse kṛṣṇapakṣe 7 roja 7",
+  "era": "VS",
+  "year": "1866",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "7",
+  "weekday": "roja 7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1810"
+ },
+ "place": {
+  "as_written": "nepālarajasthale(!) ṅaṭaṭolasthita",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1149/27",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 742,
+  "out_tok": 936
+ }
+}

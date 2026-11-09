@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayabhūpatīndramalladeva",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrī jayabhūpatīndramalladeva",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 827 śrāvaṇa śudi 5 sahta nakṣatra siddhiyoga aṃgāravāra",
+  "era": "NS",
+  "year": "827",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "sahta nakṣatra siddhiyoga",
+  "ce_approx": "1707"
+ },
+ "place": {
+  "as_written": "bhairavaska thāvane",
+  "normalized": ""
+ },
+ "purpose": "bhairavaska thāvane toraṇa tayā dina",
+ "notes": "The manuscript records the setting up of a torana at the Bhairava shrine on this day during the reign of/by King Jayabhūpatīndra Malla of Bhaktapur.",
+ "_meta": {
+  "reel": "A 245/14",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 747,
+  "out_tok": 962
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājājayabhīmadevasya",
+   "name": "Jayabhīmadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "rājā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājādhirāja parameśvaraśrīmadrājājayabhīmadevasya vijayarājye",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepālika samvat 381 śrāvaṇakṛṣṇaikādaśyāṃ puṣyanakṣatre variyānayoge bhaumadine",
+  "era": "NS",
+  "year": "381",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "bhaumavāra",
+  "nakshatra_yoga": "puṣya nakṣatra, variyāna yoga",
+  "ce_approx": "1261"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthe parārthahetunā",
+ "notes": "The scribe refers to himself anonymously as mama / mayā.",
+ "_meta": {
+  "reel": "B 20/26",
+  "model": "gemini-flash-latest",
+  "secs": 7.9,
+  "in_tok": 805,
+  "out_tok": 1026
+ }
+}

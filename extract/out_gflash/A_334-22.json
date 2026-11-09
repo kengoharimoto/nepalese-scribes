@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṛṣṇarāmeṇa",
+   "name": "Kṛṣṇarāma",
+   "roles": [
+    "scribe",
+    "reader"
+   ],
+   "titles": [
+    "paṃḍya"
+   ],
+   "affiliation": "",
+   "residence": "udīcaṭola",
+   "evidence": "kṛṣṇarāmeṇa likhitaṃ ātmapaṭhanārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "puruṣottame māse krṣṇapakṣe ekādaśyāṃ saumyavāsare saṃvat 1907",
+  "era": "VS",
+  "year": "1907",
+  "month": "puruṣottama",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī",
+  "weekday": "saumyavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1850"
+ },
+ "place": {
+  "as_written": "udīcaṭola",
+  "normalized": ""
+ },
+ "purpose": "ātmapaṭhanārthaṃ",
+ "notes": "udīcaṭola appears as the scribe's neighborhood/locality (ṭola).",
+ "_meta": {
+  "reel": "A 334/22",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 799,
+  "out_tok": 969
+ }
+}

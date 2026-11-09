@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayānaṃdena",
+   "name": "Jayānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jayānaṃdena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "kāttikaśukla 9 saumyavāsare",
+  "era": "none",
+  "year": "",
+  "month": "kāttika",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "saumyavāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "viśveśvarasannidhau",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No year is specified in the date. The manuscript was written in the presence/vicinity of Viśveśvara (viśveśvarasannidhau).",
+ "_meta": {
+  "reel": "B 378/36",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 680,
+  "out_tok": 895
+ }
+}

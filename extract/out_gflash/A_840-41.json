@@ -1,0 +1,101 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīma[c]chamkarabhagavatpāda",
+   "name": "Śaṃkara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramahaṃsa",
+    "parivrājakācārya",
+    "bhagavatpāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadgoviṃdabhagavatpūjyapādaśiṣyaśrīma[c]chamkarabhagavatpādakṛtāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmadgoviṃdabhagavatpūjyapāda",
+   "name": "Govinda",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "paramahaṃsa",
+    "parivrājakācārya",
+    "bhagavatpūjyapāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadgoviṃdabhagavatpūjyapādaśiṣya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "yakṣyeśvarānandanāthety apābhidhānadaivajñadīkṣitavināyakasya",
+   "name": "Vināyaka",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "daivajña",
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pustakam idaṃ yakṣyeśvarānandanāthety apābhidhānadaivajñadīkṣitavināyakasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "khaṇḍeśvarānandanāthety aparābhidhānasya śrīkṛṣṇadaivajñasyedaṃ",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idānīṃ khaṇḍeśvarānandanāthety aparābhidhānasya śrīkṛṣṇadaivajñasyedaṃ pustakaṃ varīvartti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "śrīmadgoviṃdabhagavatpūjyapādaśiṣyaśrīma[c]chamkarabhagavatpādakṛtāyāṃ"
+  }
+ ],
+ "date": {
+  "as_written": "1810",
+  "era": "unspecified",
+  "year": "1810",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1753"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The initial owner is Daivajña Dīkṣita Vināyaka (dīkṣā name Yakṣyeśvarānandanātha), and later the book came into the possession of Śrīkṛṣṇa Daivajña (dīkṣā name Khaṇḍeśvarānandanātha). The year 1810 is likely VS (c. 1753 CE).",
+ "_meta": {
+  "reel": "A 840/41",
+  "model": "gemini-flash-latest",
+  "secs": 13.9,
+  "in_tok": 1193,
+  "out_tok": 2110
+ }
+}

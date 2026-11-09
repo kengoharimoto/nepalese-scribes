@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajradhareṇa",
+   "name": "Vajradhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "alikhad vajradhareṇa tat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "viśvadignemapālābde tapasye madane tithau || site",
+  "era": "NS",
+  "year": "1013",
+  "month": "Tapasya",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1893"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram viśva-dig indicates NS 1013 (viśva = 13, dig = 10) in Nepālābda. Tapasya corresponds to Phālguna, and Madanatithi to the 13th tithi. The catalogue records the scribe as Vajradhara Vajrācārya, but the colophon text itself does not include the title Vajrācārya.",
+ "_meta": {
+  "reel": "A 127/9",
+  "model": "gemini-flash-latest",
+  "secs": 8.3,
+  "in_tok": 712,
+  "out_tok": 1062
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jānakirāme",
+   "name": "Jānakirāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jānakirāme likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīkṛṣṇajośī",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pustakam idaṃ śrīkṛṣṇajośī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "jānakirāme likhitaṃ ... pustakam idaṃ śrīkṛṣṇajośī"
+  }
+ ],
+ "date": {
+  "as_written": "mārgaśirṣaśukla 3 bhṛgudine saṃvat 1927",
+  "era": "VS",
+  "year": "1927",
+  "month": "mārgaśirṣa",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "bhṛgudine",
+  "nakshatra_yoga": "",
+  "ce_approx": "1870"
+ },
+ "place": {
+  "as_written": "mīrajāpuravidhakṣye gaṃgātīre",
+  "normalized": "Mirzapur"
+ },
+ "purpose": "śrīrāmaprityarthaṃ",
+ "notes": "The catalogue gives Kathmandu as the place of copying, but the colophon explicitly specifies the banks of the Ganges in Mirzapur (mīrajāpuravidhakṣye gaṃgātīre).",
+ "_meta": {
+  "reel": "A 490/19",
+  "model": "gemini-flash-latest",
+  "secs": 9.7,
+  "in_tok": 781,
+  "out_tok": 1430
+ }
+}

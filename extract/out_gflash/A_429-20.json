@@ -1,0 +1,77 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkāśinātha",
+   "name": "Kāśīnātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkāśināthakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ikṣyārāmakasya",
+   "name": "Ikṣyārāma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajña ikṣyārāmakasya (!) putra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "jujuvīranāmnena",
+   "name": "Jujuvīra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "juju(6)vīranāmnena tāḍanāt",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "ikṣyārāmakasya (!) putra juju(6)vīranāmnena"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke samvat 1759 śrīvikramasaṃvat 1894 śrīnepālasaṃvat 958 māghaśudi15 roja6",
+  "era": "VS",
+  "year": "1894",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "15",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1838"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date gives three eras simultaneously: Śaka 1759, Vikrama Saṃvat 1894, and Nepāla Saṃvat 958. roja 6 corresponds to Friday (Māgha śukla 15 = 9 February 1838 CE).",
+ "_meta": {
+  "reel": "A 429/20",
+  "model": "gemini-flash-latest",
+  "secs": 10.0,
+  "in_tok": 793,
+  "out_tok": 1497
+ }
+}

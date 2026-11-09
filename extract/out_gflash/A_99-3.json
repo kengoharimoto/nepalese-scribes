@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdharmarājadīkṣita",
+   "name": "Dharmarājadīkṣita",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdharmarājadīkṣitaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vyāsa tulārāma",
+   "name": "Tulārāma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "vyāsa"
+   ],
+   "affiliation": "Audīcya Sahasra",
+   "residence": "",
+   "evidence": "vyāsa tulārāma utpanna",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vyāsa śubharāmeṇa",
+   "name": "Śubharāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vyāsa"
+   ],
+   "affiliation": "Audīcya Sahasra",
+   "residence": "",
+   "evidence": "likhitaṃ audīcca(!)sahasra upanāma vyāsa tulārāma utpanna vyāsa śubharāmeṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "vyāsa tulārāma utpanna vyāsa śubharāmeṇa"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1817 śaka 1682 āśvinakṛṣṇapakṣe tithau 9 gurau",
+  "era": "VS",
+  "year": "1817",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "guruvāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1760"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date specifies both Vikrama Saṃvat 1817 and Śaka 1682. Audīcya Sahasra refers to the Audīcya Sahasra sub-caste/community of Brahmins.",
+ "_meta": {
+  "reel": "A 99/3",
+  "model": "gemini-flash-latest",
+  "secs": 10.9,
+  "in_tok": 758,
+  "out_tok": 1488
+ }
+}

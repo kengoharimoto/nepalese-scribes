@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "naṃdikeśvarasūriṇā",
+   "name": "Nandikeśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaḥ ... naṃdikeśvarasūriṇā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīdharmāṃgadatanayo(!)",
+   "name": "Dharmāṅgada",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dharmāṃgadatanayo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "dharmāṃgadatanayo"
+  }
+ ],
+ "date": {
+  "as_written": "śaragajartuceṃ[[du]]śāke ... kuṃbhamāse",
+  "era": "ŚS",
+  "year": "1685",
+  "month": "Kumbha",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1764"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram śara (5) - gaja (8) - ṛtu (6) - indu (1) yields Śaka 1685. Kumbha solar month corresponds to February–March 1764 CE.",
+ "_meta": {
+  "reel": "A 1301/5",
+  "model": "gemini-flash-latest",
+  "secs": 9.5,
+  "in_tok": 723,
+  "out_tok": 1415
+ }
+}

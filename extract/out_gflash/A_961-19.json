@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīchavilālaśarmaṇā",
+   "name": "Chavilāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīchavilālaśarmaṇā likhitam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "devadyutipraṇītaṃ",
+   "name": "Devadyuti",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devadyutipraṇītaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1768 caitraśudi rāmanavamyāṃ gurau",
+  "era": "ŚS",
+  "year": "1768",
+  "month": "caitra",
+  "paksa": "śudi",
+  "tithi": "rāmanavamī",
+  "weekday": "gurau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1846"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue mistakenly enters the date 'ŚS 1768' in the Place of Copying field.",
+ "_meta": {
+  "reel": "A 961/19",
+  "model": "gemini-flash-latest",
+  "secs": 19.1,
+  "in_tok": 742,
+  "out_tok": 2609
+ }
+}

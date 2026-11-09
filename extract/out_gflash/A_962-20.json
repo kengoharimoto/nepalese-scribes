@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1944 sālamitī(!) vaiśāṣasudī(!) ṣaṣṭhi bhṛguvāsare",
+  "era": "VS",
+  "year": "1944",
+  "month": "vaiśāṣa",
+  "paksa": "sudī",
+  "tithi": "ṣaṣṭhi",
+  "weekday": "bhṛguvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1887"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No person or scribe is explicitly named in the colophon; 'na(!)' precedes 'idaṃ pustakam likhitaṃ'.",
+ "_meta": {
+  "reel": "A 962/20",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 730,
+  "out_tok": 647
+ }
+}

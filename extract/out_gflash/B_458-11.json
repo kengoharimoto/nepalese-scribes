@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñaharidatta†bhut†",
+   "name": "Haridatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "upasargārthadīpikām †niramāyī diṣadiśi† daivajñaharidatta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaṭṭopanāmakagaṃgādattena",
+   "name": "Gaṃgādatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭopanāmakagaṃgādattenālekhi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "navanigamanagendumite śake",
+  "era": "ŚS",
+  "year": "1749",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1827"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue mistakenly enters 'Gaṃgādatta Bhaṭṭa' as the place of copying, but he is clearly the copyist (bhaṭṭopanāmakagaṃgādattenālekhi). The earlier chronogram 'vedāṃkabhūpatiśaka' (Śaka 1694 = 1772 CE) refers to the composition of the Upasargārthadīpikā by Haridatta Daivajña.",
+ "_meta": {
+  "reel": "B 458/11",
+  "model": "gemini-flash-latest",
+  "secs": 9.7,
+  "in_tok": 765,
+  "out_tok": 1271
+ }
+}

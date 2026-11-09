@@ -1,0 +1,74 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed p3 'Saśeraṃtumāla' as scribe: 'vārāṇasīsaśeraṃtumāla' reads more like a place description (vārāṇasī + śahara/śahera 'city', possibly a mohalla name) than a personal name. No scribe is securely named; the uncertainty is now explained in notes.",
+   "Bhaṭṭoji: as_written kept, with a note that 'bhaṭṭaji' is a corrupt spelling of Bhaṭṭoji. Added a note that Lakṣmīdhara is the author's father, named only as the author's relative.",
+   "Date: tithi changed to '3 (tṛtīyā?)'. 'jātiyā' is probably a corrupt spelling of tṛtīyā, and the numeral 3 at the end supports this. Weekday normalized to Sunday (ādityavāra). Pakṣa normalized to kṛṣṇa (vadī).",
+   "Place: as_written changed to the full string."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭajidīkṣita",
+   "name": "Bhaṭṭoji",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lakṣmīdharaputrabhaṭṭajidīkṣitaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "lakṣmīdhara",
+   "name": "Lakṣmīdhara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "advaitasiddhāntasthāpanācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lakṣmīdharaputra",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "lakṣmīdharaputrabhaṭṭajidīkṣita"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1695 samae āṣāḍha vadī jātiyā vāra ādit vā 3",
+  "era": "VS",
+  "year": "1695",
+  "month": "Āṣāḍha",
+  "paksa": "kṛṣṇa (vadī)",
+  "tithi": "3 (jātiyā, probably corrupt for tṛtīyā)",
+  "weekday": "Sunday (ādit vāra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1638"
+ },
+ "place": {
+  "as_written": "vārāṇasīsaśeraṃtumāla",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "'likhitaṃ vārāṇasīsaśeraṃtumāla' is corrupt. It probably contains 'vārāṇasī śahara/śahera' ('the city of Vārāṇasī') plus a locality name (…tumāla?). It could also hide the scribe's name, but no personal name can be read with any confidence, so no scribe is recorded. 'bhaṭṭaji' is a corrupt spelling of Bhaṭṭoji. 'mauḥ manoramāyāṅ' is a corrupt spelling of prauḍhamanoramāyāṃ (the chapter is the kṛdanta section). The tithi 'jātiyā' plus the closing '3' suggests tṛtīyā. The year matches the catalogue (VS 1695 = c. 1638 CE). In the north-Indian pūrṇimānta reckoning, Āṣāḍha kṛṣṇa 3 would fall around June 1638.",
+ "_meta": {
+  "reel": "A 587/14",
+  "model": "opus",
+  "cost_usd": 0.0744028,
+  "secs": 20.8
+ }
+}

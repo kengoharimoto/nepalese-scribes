@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "machindravajrācāryye",
+   "name": "Machindra",
+   "roles": [
+    "scribe",
+    "donor"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "Tadhukṣe",
+   "evidence": "machindravajrācāryye | tadhukṣayāvajrācāryye kāruyāta coyāvaviyājulo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1019 miti vaiśāṣavadi 3 ro 1 ... samvat 1956 sālamiti jyeṣṭavadi 3 ro 1",
+  "era": "NS",
+  "year": "1019",
+  "month": "vaiśāṣa",
+  "paksa": "vadi",
+  "tithi": "3",
+  "weekday": "ro 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1899"
+ },
+ "place": {
+  "as_written": "tadhukṣe",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives double dating in both Nepāla Saṃvat (1019) and Vikrama Saṃvat (1956), both corresponding to 1899 CE. The phrase 'tadhukṣayāvajrācāryye' appears to be an accidental dittography of 'tadhukṣeyā machindravajrācāryye'. 'kāruyāta' is likely a corruption of 'kāryayāta' (for the purpose of) or possibly 'kāyāyāta' (for the son).",
+ "_meta": {
+  "reel": "A 108/11",
+  "model": "gemini-flash-latest",
+  "secs": 23.8,
+  "in_tok": 879,
+  "out_tok": 3538
+ }
+}

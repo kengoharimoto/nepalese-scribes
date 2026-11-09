@@ -1,0 +1,64 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Month normalized: taiṣa = Pauṣa (from tiṣya = Puṣya); the written form is kept in notes",
+   "Notes expanded: the chronogram cannot be read with confidence, the 'jinaḥ' after likhat is unclear, and the catalogue's 'Vīśvānaṃda' is a misspelling of Viśvānanda",
+   "Persons, relations, era and the other date fields confirmed"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīpūrṇānaṃdaparamahaṃsena",
+   "name": "Pūrṇānanda",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramahaṃsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpūrṇānaṃdaparamahaṃsena viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "viśvānaṃdo",
+   "name": "Viśvānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viśvānaṃdoʼ likhaj",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śailāgnighanage śāke taiṣe māse site dale || saptamyāṃ ravivare ca",
+  "era": "ŚS",
+  "year": "śailāgnighanage (chronogram, unresolved)",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram is unresolved. śaila = 7 and agni = 3, but 'ghanage' (the catalogue field has 'dhanage') matches no standard number word with certainty; it may be a corruption of e.g. naga = 7. Read right to left, three digits would give Śaka 737, which is too early for Pūrṇānanda (16th century). The year probably needs four digits, e.g. Śaka 17x7, roughly 1800 CE, but no CE date is given. taiṣa = Pauṣa. 'likhaj jinaḥ' is odd: 'jinaḥ' may be a misreading (e.g. of 'janaḥ') or an epithet of the scribe, and it is not treated as a separate person. The catalogue's 'Vīśvānaṃda' is a misspelling of Viśvānanda.",
+ "_meta": {
+  "reel": "A 192/6",
+  "model": "opus",
+  "cost_usd": 0.5690576,
+  "secs": 30.3
+ }
+}

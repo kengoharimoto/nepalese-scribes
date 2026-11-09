@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhāskarācāryya",
+   "name": "Bhāskara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhāskarācāryyaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dukhabhaṃjanadāsāya",
+   "name": "Dukhabhañjanadāsa",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dukhabhaṃjanadāsāya namastu (!) te",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1614 jyeṣṭhavadi 15",
+  "era": "ŚS",
+  "year": "1614",
+  "month": "jyeṣṭha",
+  "paksa": "vadi",
+  "tithi": "15",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1692"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svarggaprāptir astu",
+ "notes": "Dukhabhañjanadāsa is addressed with 'namastu te' (obeisance to you); he may be a guru/preceptor or a religious person associated with the copying.",
+ "_meta": {
+  "reel": "B 347/5",
+  "model": "gemini-flash-latest",
+  "secs": 15.9,
+  "in_tok": 733,
+  "out_tok": 1780
+ }
+}

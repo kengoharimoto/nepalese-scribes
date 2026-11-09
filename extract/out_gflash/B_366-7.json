@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1867 vaṣre śake 1732 māghakṛṣṇa 7 maṃdavāsare",
+  "era": "VS",
+  "year": "1867",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "7",
+  "weekday": "maṃdavāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1811"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons are named in the colophon. Both Vikrama Saṃvat (1867) and Śaka (1732) years are specified.",
+ "_meta": {
+  "reel": "B 366/7",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 705,
+  "out_tok": 848
+ }
+}

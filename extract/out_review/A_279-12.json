@@ -1,0 +1,133 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 Māṇikyamalla: roles changed from king+commissioner to 'other'. He had the original Subodhanī commentary made (kāritā), not this copy, and he is not the reigning king here.",
+   "p3: name changed to the stem 'Manohara', with 'śarman' moved to titles.",
+   "Relation p3→p2 changed from wrote_for to 'other', because it belongs to the history of the text, not to this copy.",
+   "Added relation p5 under_reign_of p4.",
+   "Tithi: kept the wording as written and flagged the reading as uncertain (possibly 13).",
+   "Notes: added the doubt about the era. The catalogue's ŚS reading may be right, because Trivikrama (Sen of Tanahun?) points to the later 18th century."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kavikālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkavikālidāsaviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "māṇi[[kya]]malla",
+   "name": "Māṇikyamalla",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "nṛpaśiromaṇi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "māṇi[[kya]]mallakāritā (!) śrīmanoharaśarmakṛtā (!) subodhanīṭīkā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "manoharaśarma",
+   "name": "Manohara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanoharaśarmakṛtā (!) subodhanīṭīkā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrī〈〈tri〉〉vikramanṛpasya bhūpate",
+   "name": "Trivikrama",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "nṛpa",
+    "bhūpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī〈〈tri〉〉vikramanṛpasya bhūpate rājña yā (!) likhitavān",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p5",
+   "as_written": "ṣaḍānanaḥ",
+   "name": "Ṣaḍānana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitavān ṣaḍānanaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p5",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "śrī〈〈tri〉〉vikramanṛpasya bhūpate rājña yā (!) likhitavān ṣaḍānanaḥ"
+  },
+  {
+   "from": "p5",
+   "type": "under_reign_of",
+   "to": "p4",
+   "evidence": "śrī〈〈tri〉〉vikramanṛpasya bhūpate"
+  },
+  {
+   "from": "p3",
+   "type": "other",
+   "to": "p2",
+   "evidence": "māṇi[[kya]]mallakāritā (!) śrīmanoharaśarmakṛtā (!) subodhanīṭīkā"
+  }
+ ],
+ "date": {
+  "as_written": "bhūkhaparvataśaśāṃkamitābde vikramakṣitipateḥ śanighasre || kārtikaśaradi pakṣaklakṣe (!) medinītridaśakaḥ",
+  "era": "VS",
+  "year": "1701",
+  "month": "Kārttika",
+  "paksa": "śukla (?)",
+  "tithi": "medinītridaśaka (unclear; possibly 13)",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1644"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "copied by order of King Trivikrama",
+ "notes": "The chronogram reads bhū 1, kha 0, parvata 7, śaśāṅka 1; read right to left, this gives 1701. 'vikramakṣitipateḥ ... abde' is the normal way of naming the Vikrama era, which gives VS 1701 = c. 1644 CE. This conflicts with the catalogue, which gives ŚS 1701 (= 1779 CE). The catalogue may be right. The patron Trivikrama could be Trivikrama Sen of Tanahun (later 18th century), and he fits 1779 better than 1644. Also, 'tri' was added as a correction (〈〈tri〉〉), so the scribe first wrote 'śrīvikramanṛpasya'; the 'vikrama' in the date verse may therefore be loose usage. Verses 1–2 are marked 'yugmam', meaning they form one sentence. Check the weekday to decide between the two eras. 'rājña yā' is a corruption of 'rājñājñayā' or 'ājñayā', so 'by order of the king'. 'pakṣaklakṣe' is probably 'pakṣe valakṣe' ('in the bright fortnight', i.e. śukla). 'medinītridaśakaḥ' is obscure; it may encode the tithi (13?). Māṇikyamalla and Manohara belong to the history of the Subodhanī commentary, not to this copy.",
+ "_meta": {
+  "reel": "A 279/12",
+  "model": "opus",
+  "cost_usd": 0.1092708,
+  "secs": 32.9
+ }
+}

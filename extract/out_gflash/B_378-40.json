@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmannārāyaṇīya",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paramahaṃsaparivrājakācāryyaparamakāruṇikabhagavacchrīmannārāyaṇīyaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīcchatrarājadeva",
+   "name": "Chatrarājadeva",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "rājopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "cchatrarājarāmakṛṣṇena taṃ mudā || +++ llekhayāmāsa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīrāmakṛṣṇena",
+   "name": "Rāmakṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "kātipurakvacheṃ",
+   "evidence": "śrīrāmakṛṣṇena coyājuroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "cchatrarājarāmakṛṣṇena taṃ mudā || +++ llekhayāmāsa"
+  }
+ ],
+ "date": {
+  "as_written": "samvad gate ca nepāle lokavedarṣir eva ca || nabhaśukladvitīyāyāṃ pūrvvākhāḍhagurau dine || ... samvat 747 śrāvaṇaśukladvitīyā",
+  "era": "NS",
+  "year": "747",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "2",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "Pūrvāṣāḍhā",
+  "ce_approx": "1627"
+ },
+ "place": {
+  "as_written": "kātipurakvacheṃ",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The chronogram lokavedarṣi denotes 747 (loka = 7, veda = 4, ṛṣi = 7). The residence Kvācheṃ is located in Kantipura (Kathmandu).",
+ "_meta": {
+  "reel": "B 378/40",
+  "model": "gemini-flash-latest",
+  "secs": 19.1,
+  "in_tok": 1001,
+  "out_tok": 2540
+ }
+}

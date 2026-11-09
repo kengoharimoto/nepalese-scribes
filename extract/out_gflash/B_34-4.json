@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭahṛdayadhara",
+   "name": "Hṛdayadhara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭahṛdayadharātmajaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaṭṭahṛdayadharātmaja",
+   "name": "Hṛdayadharātmaja",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭahṛdayadharātmajaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "bhaṭṭahṛdayadharātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1233 vaiśākhabadi 9 somadine",
+  "era": "unspecified",
+  "year": "1233",
+  "month": "vaiśākha",
+  "paksa": "badi",
+  "tithi": "9",
+  "weekday": "somadina",
+  "nakshatra_yoga": "",
+  "ce_approx": "1176"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author is referred to by the patronymic Bhaṭṭahṛdayadharātmaja (identifiable with Lakṣmīdhara, author of the Kṛtyakalpataru). The scribe is unnamed ('mama'). The catalogue dates the manuscript to VS 1233 (~1311 CE), but 1311 CE corresponds to Śaka 1233, whereas VS 1233 corresponds to ~1176 CE.",
+ "_meta": {
+  "reel": "B 34/4",
+  "model": "gemini-flash-latest",
+  "secs": 21.4,
+  "in_tok": 778,
+  "out_tok": 2758
+ }
+}

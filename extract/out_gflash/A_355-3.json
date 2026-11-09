@@ -1,0 +1,125 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīratnākaraśāntipādānāṃ",
+   "name": "Ratnākaraśānti",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "pāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtir iyaṃ śrīratnākaraśāntipādānāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "tribhuvanavīravikramasāhadevavarma",
+   "name": "Tribhuvanavīravikramasāhadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "śrīpañca"
+   ],
+   "affiliation": "",
+   "residence": "Nepāla",
+   "evidence": "śrīmannepālamaṇḍalamahārājādhirāja śrīpañcakālaṅkṛtatribhuvanavīravikramasāhadevavarma",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "candraseravarma",
+   "name": "Candrasera",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "pradhānāmātya",
+    "śrītrika",
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tatpradhānāmātyaśrītrikālaṅkṛtamahārājacandraseravarma",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "hemarājaśarma",
+   "name": "Hemarāja Śarman",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "rājaguru",
+    "vidvadvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājaguruśrīhemarājaśarmavidvadvarāṇām ājñayā tadīyabhāratībhavanālaṅkaraṇāya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "pūrṇaprasādaśarmaṇā",
+   "name": "Pūrṇaprasāda Śarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pūrṇaprasādaśarmaṇā vilikhya samāpitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p5",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "hemarājaśarmavidvadvarāṇām ājñayā tadīyabhāratībhavanālaṅkaraṇāya ... pūrṇaprasādaśarmaṇā vilikhya"
+  },
+  {
+   "from": "p5",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "śrīmannepālamaṇḍalamahārājādhirāja śrīpañcakālaṅkṛtatribhuvanavīravikramasāhadevavarma ... pūrṇaprasādaśarmaṇā vilikhya samāpitam"
+  },
+  {
+   "from": "p3",
+   "type": "servant_of",
+   "to": "p2",
+   "evidence": "tatpradhānāmātyaśrītrikālaṅkṛtamahārājacandraseravarma"
+  }
+ ],
+ "date": {
+  "as_written": "1986 vaikramābde 1049 nepālābde bhādraśukladvādaśyām indradhvajotsavadine ravau",
+  "era": "VS",
+  "year": "1986 VS / 1049 NS",
+  "month": "bhādra",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "ravau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1929"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "tadīyabhāratībhavanālaṅkaraṇāya cirāya sarveṣāṃ śubhāya bhaved iti",
+ "notes": "The manuscript was copied line-by-line from a palm-leaf original held in the Nepal Royal Library (Nepālarājakīyapustakālaya) dated Samvat 178 Māgha śukla pratipad, commissioned by Rājaguru Hemarāja Śarman for his Bhāratībhavana collection.",
+ "_meta": {
+  "reel": "A 355/3",
+  "model": "gemini-flash-latest",
+  "secs": 15.5,
+  "in_tok": 997,
+  "out_tok": 2522
+ }
+}

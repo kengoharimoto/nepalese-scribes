@@ -1,0 +1,77 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadudaya(!)",
+   "name": "Udaya",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadudaya(!)kṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sadupādhyāyaśrīlakṣṃīpatīnām",
+   "name": "Lakṣmīpati",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "sadupādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sadupādhyāyaśrīlakṣṃīpatīnām ājñayā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrījaṭādhareṇa",
+   "name": "Jaṭādhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījaṭādhareṇa likhitam idaṃ pustakam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "sadupādhyāyaśrīlakṣṃīpatīnām ājñayā śrījaṭādhareṇa likhitam"
+  }
+ ],
+ "date": {
+  "as_written": "la saṃ 339 ... bhādraśudi (ṣa)ṣṭyāṃ kuje",
+  "era": "LS",
+  "year": "339",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "6",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1458"
+ },
+ "place": {
+  "as_written": "(vasukāśuta)grāme",
+  "normalized": ""
+ },
+ "purpose": "ājñayā",
+ "notes": "Author name is a scribal truncation/corruption for Udayana (author of Nyāyavārttikatātparyapariśuddhi).",
+ "_meta": {
+  "reel": "A 1333/18",
+  "model": "gemini-flash-latest",
+  "secs": 8.9,
+  "in_tok": 857,
+  "out_tok": 1404
+ }
+}

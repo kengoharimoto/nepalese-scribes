@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "(śrī)prāṇanātho",
+   "name": "Prāṇanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "prāṇanātho likha[[t pustakaṃ]]",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "digvyomanāgenduyukte śubhābde budhe vāsare kṛṇṇapakṣe navamyāṃ ... mādhave",
+  "era": "VS",
+  "year": "1808",
+  "month": "Vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1751"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'digvyomanāgendu' represents 1808 (dig/diggaja = 8, vyoma = 0, nāga = 8, indu = 1).",
+ "_meta": {
+  "reel": "B 287/26",
+  "model": "gemini-flash-latest",
+  "secs": 7.6,
+  "in_tok": 742,
+  "out_tok": 830
+ }
+}

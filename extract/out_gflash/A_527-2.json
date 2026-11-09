@@ -1,0 +1,84 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhāradvājapadmanābhabhaṭṭopādhyāyātmajasya",
+   "name": "Padmanābha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭopādhyāya"
+   ],
+   "affiliation": "Bhāradvāja gotra",
+   "residence": "",
+   "evidence": "śrībhāradvājapadmanābhabhaṭṭopādhyāyātmajasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmatparamahaṃsaparivrājakaśrīviñāneśvarabhaṭṭakasya",
+   "name": "Vijñāneśvara",
+   "roles": [
+    "author",
+    "commentator"
+   ],
+   "titles": [
+    "paramahaṃsa",
+    "parivrājaka",
+    "bhaṭṭaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatparamahaṃsaparivrājakaśrīviñāneśvarabhaṭṭakasya kṛtā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "brāhmaṇabālū",
+   "name": "Bālū",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣikṛtaṃ brāhmaṇabālū",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrībhāradvājapadmanābhabhaṭṭopādhyāyātmajasya śrīmatparamahaṃsaparivrājakaśrīviñāneśvarabhaṭṭakasya"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 2825 phālgunakṛṣṇaṣaṣṭīravivāre",
+  "era": "VS",
+  "year": "2825",
+  "month": "phālguna",
+  "paksa": "kṛṣṇa",
+  "tithi": "ṣaṣṭī",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1768"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The manuscript reads saṃvat 2825, an obvious scribal slip for 1825 VS (1768 CE), which agrees with the catalogue record. The scribal colophon following liṣikṛtaṃ ('brāhmaṇabālūprakaraṇājñātībhūṇakṛṣṇalalāṭamadhye') is highly garbled; 'brāhmaṇa Bālū' is tentatively identified as the scribe.",
+ "_meta": {
+  "reel": "A 527/2",
+  "model": "gemini-flash-latest",
+  "secs": 18.4,
+  "in_tok": 859,
+  "out_tok": 2718
+ }
+}

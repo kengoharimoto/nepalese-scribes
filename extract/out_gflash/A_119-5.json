@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon contains only the title/chapter colophon (iti śrīmadaśokāvadāne kuṇālāvadānaṃ samāptam), the Pratītyasamutpāda-gāthā, and a benediction. No persons, dates, or places are mentioned.",
+ "_meta": {
+  "reel": "A 119/5",
+  "model": "gemini-flash-latest",
+  "secs": 4.0,
+  "in_tok": 707,
+  "out_tok": 418
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p3 as_written corrected to 'śivalāla gauḍa': 'ka' in 'gauḍakavudelaṣaṇḍīme' is the Hindi genitive postposition (Śivalāla Gauḍa kā), not part of the name",
+   "Place as_written divided as 'vudelaṣaṇḍī me' (Hindi locative 'in Bundelkhand')",
+   "p2 confidence lowered to medium: the name 'Śivaṭaha' is odd and may be corrupt",
+   "Notes extended: the catalogue's place and Hindi genitive, the weekday check and the weak basis for 'wrote_for'"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāśināthabhaṭṭācārya",
+   "name": "Kāśinātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāśināthabhaṭṭācāryaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śivaṭaha cauve",
+   "name": "Śivaṭaha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "cauve"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śivaṭaha cauve",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śivalāla gauḍa",
+   "name": "Śivalāla",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "gauḍa"
+   ],
+   "affiliation": "",
+   "residence": "Bundelkhand",
+   "evidence": "pustaka śivalāla gauḍaka",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "likhitaṃ śivaṭaha cauve pustaka śivalāla gauḍaka"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1931 mīºº bhādrapaºº kṛṣṇa amāvaśyāṃ guruvāsare",
+  "era": "VS",
+  "year": "1931",
+  "month": "bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "amāvasyā",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1874"
+ },
+ "place": {
+  "as_written": "vudelaṣaṇḍī me",
+  "normalized": "Bundelkhand"
+ },
+ "purpose": "",
+ "notes": "The catalogue gives the date as VS 1924, but the colophon reads saṃvat 1931 (= 1874 CE). Taken as amānta, Bhādrapada amāvasyā VS 1931 falls around 10–11 September 1874. 10 September 1874 was a Thursday, which fits guruvāsara. The catalogue calls Śivalāla a donor, but the colophon only says 'pustaka śivalāla gauḍa ka' (Hindi: 'the book of Śivalāla Gauḍa'), so owner is the right role. 'gauḍakavudelaṣaṇḍīme' should be read as 'gauḍa kā Bundelakhaṇḍī meṃ'. This means the place could equally be Śivalāla's residence rather than where the copy was made. 'cauve' = Caube (Caturvedī), a brahmin surname; 'gauḍa' = Gauḍa brahmin. The 'wrote_for' relation is inferred: the colophon puts the scribe and the owner side by side but doesn't say the copy was made for him. The scribe's name 'Śivaṭaha' may be corrupt.",
+ "_meta": {
+  "reel": "A 429/18",
+  "model": "opus",
+  "cost_usd": 0.0728868,
+  "secs": 18.6
+ }
+}

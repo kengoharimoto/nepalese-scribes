@@ -1,0 +1,67 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. Notes expanded: the gap in the father's name may be [Ballā]la (a guess, not attested here); the text closes with a prāyaścitta passage quoted from Hemādri; there is no scribal colophon."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śaṃkara",
+   "name": "Śaṃkara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "Cittapāvana kula; upanāman Dhāre",
+   "residence": "",
+   "evidence": "dhāre ity upanāmaka.......lasūnuśaṃkaraciracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": ".......la",
+   "name": "...la",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "Cittapāvana kula; upanāman Dhāre",
+   "residence": "",
+   "evidence": ".......lasūnu",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": ".......lasūnuśaṃkara"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "This is the author's colophon only. Śaṃkara is a Cittapāvana (Citpāvan) brahmin with the surname (upanāman) Dhāre. His father's name is in a gap ('.......la'). It may be [Ballā]la, but that is a guess. Hemādri is named only as the source of the prāyaścitta verses quoted after the colophon ('hemādrau'), so he is not listed. No scribe, date or place is given. The catalogue fields are empty.",
+ "_meta": {
+  "reel": "A 443/20",
+  "model": "opus",
+  "cost_usd": 0.058034800000000004,
+  "secs": 13.2
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: title normalized to 'karmācārya'; residence kept as written ('vidyāpiyā', perhaps Vidyāpīṭha) with the uncertainty noted",
+   "p2: removed 'dāṅā' as a title, since it is probably part of the Newari phrase or a nickname, not an office; name kept as Vakādhara, still low confidence",
+   "purpose rephrased as a benediction for the goddess's pleasure",
+   "notes rewritten: the meaning of the NS 832 line is uncertain"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "lakṣmīdharana",
+   "name": "Lakṣmīdhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmācārya"
+   ],
+   "affiliation": "",
+   "residence": "vidyāpiyā",
+   "evidence": "liṣiti vidyāpiyā karmmācarya, lakṣmīdharana saṃpurṇṇa yāṅā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vakādharaṃ dāṅāyā",
+   "name": "Vakādhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "saṃvat 832 vakādharaṃ dāṅāyā hlāṣa",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 834 śrāvana śuklasaptamīkuhnu",
+  "era": "NS",
+  "year": "834",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "saptamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1714"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for the pleasure of the goddess (iśvarī prītrīrastu)",
+ "notes": "Completed (saṃpurṇṇa yāṅā juro) in NS 834 (c. 1714 CE) by the karmācārya Lakṣmīdhara. 'vidyāpiyā' is probably a place-name in the genitive (Vidyāpī/Vidyāpīṭha?). This identification is uncertain. A second line, 'saṃvat 832 vakādharaṃ dāṅāyā hlāṣa', gives an earlier year, NS 832 (c. 1712). It may mean 'the hand(writing) (hlā) of Vakādhara(?)'. If so, Vakādhara wrote or began part of the copy two years before Lakṣmīdhara finished it. Other readings are possible: a separate note, or a different reading of 'vakādharaṃ dāṅāyā'. The name and the role are both doubtful.",
+ "_meta": {
+  "reel": "C 66/3",
+  "model": "opus",
+  "cost_usd": 0.5715456,
+  "secs": 28.2
+ }
+}

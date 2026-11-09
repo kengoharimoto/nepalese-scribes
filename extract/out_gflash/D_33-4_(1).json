@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devajñamidhiṃ(?) brahmabhārokena",
+   "name": "Brahma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña",
+    "bhāro"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devajñamidhiṃ(?) brahmabhārokena likṣitam idam",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 530 bhādrapadaśulā || paṃcamo tithau",
+  "era": "NS",
+  "year": "530",
+  "month": "bhādrapada",
+  "paksa": "śulā",
+  "tithi": "paṃcamo",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1410"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The reading 'devajñamidhiṃ(?) brahmabhārokena' is tentative; 'devajña' (daivajña) and 'bhāro' are titles, leaving Brahma (or Brahmabhāro) as the personal name of the scribe. Gālava ('gālavokṣe') mentioned in chapter colophons is the mythical sage of the Purāṇic narrative and not a historical author/person.",
+ "_meta": {
+  "reel": "D 33/4 (1)",
+  "model": "gemini-flash-latest",
+  "secs": 33.5,
+  "in_tok": 1120,
+  "out_tok": 4411
+ }
+}

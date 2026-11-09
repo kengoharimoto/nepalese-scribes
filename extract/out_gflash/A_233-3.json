@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayabhūpatīndramalladeva",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayabhūpatīndramalladeva sana kvātha pratiṣṭhā yāṅā yā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 827 vaiśākhaśukla akṣatṛtīyā budhavāra",
+  "era": "NS",
+  "year": "827",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "akṣatṛtīyā",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1707"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "kvātha pratiṣṭhā",
+ "notes": "The colophon notes that King Jayabhūpatīndramalladeva performed/sponsored the consecration of a fort/citadel (kvātha pratiṣṭhā) on this date.",
+ "_meta": {
+  "reel": "A 233/3",
+  "model": "gemini-flash-latest",
+  "secs": 13.7,
+  "in_tok": 712,
+  "out_tok": 1096
+ }
+}

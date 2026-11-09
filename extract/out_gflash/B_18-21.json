@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "la saṃ 217 bhādrabadi 2 somavāre",
+  "era": "LS",
+  "year": "217",
+  "month": "bhādra",
+  "paksa": "badi",
+  "tithi": "2",
+  "weekday": "somavāre",
+  "nakshatra_yoga": "",
+  "ce_approx": "1336"
+ },
+ "place": {
+  "as_written": "bhaktagrāmapattane",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "No scribe, commissioner, or patron is named in the colophon. The catalogue dates LS 217 to c. 1347 CE using an alternate Lakṣmaṇasena epoch (~1130 CE); using the standard epoch of 1119 CE gives 1336 CE.",
+ "_meta": {
+  "reel": "B 18/21",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 702,
+  "out_tok": 713
+ }
+}

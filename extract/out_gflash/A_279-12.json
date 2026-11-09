@@ -1,0 +1,117 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kavikālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kavikālidāsaviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "māṇi[[kya]]malla",
+   "name": "Māṇikyamalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "nṛpaśiromaṇi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsamastanṛpaśiromaṇiraṃjitapādapiṭhamāṇi[[kya]]mallakāritā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "manoharaśarma",
+   "name": "Manoharaśarman",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanoharaśarmakṛtā (!) subodhanīṭīkā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "〈〈tri〉〉vikramanṛpasya bhūpate",
+   "name": "Trivikrama",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "nṛpa",
+    "bhūpati",
+    "rājan"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī〈〈tri〉〉vikramanṛpasya bhūpate rājña yā (!) likhitavān",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "ṣaḍānanaḥ",
+   "name": "Ṣaḍānana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitavān ṣaḍānanaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p5",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "śrī〈〈tri〉〉vikramanṛpasya bhūpate rājña yā (!) likhitavān ṣaḍānanaḥ"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "māṇi[[kya]]mallakāritā (!) śrīmanoharaśarmakṛtā (!) subodhanīṭīkā"
+  }
+ ],
+ "date": {
+  "as_written": "bhūkhaparvataśaśāṃkamitābde vikramakṣitipateḥ śanighasre || kārtikaśaradi pakṣaklakṣe (!) medinītrida(12)śakaḥ",
+  "era": "VS",
+  "year": "1701",
+  "month": "kārtika",
+  "paksa": "śukla",
+  "tithi": "medinītridaśakaḥ",
+  "weekday": "śanivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1644"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The cataloguer recorded the date as ŚS 1701, but the colophon verse explicitly states 'vikramakṣitipateḥ ... abde' (VS 1701). Chronogram bhū (1) - kha (0) - parvata (7) - śaśāṅka (1) = 1701. 'rājña yā' is clearly a scribal corruption for 'ājñayā' ('by order of King Trivikrama, Ṣaḍānana wrote'). Māṇikyamalla and Manoharaśarman belong to the text history of the Subodhanī commentary, while Trivikrama and Ṣaḍānana are the patron and scribe of this copy.",
+ "_meta": {
+  "reel": "A 279/12",
+  "model": "gemini-flash-latest",
+  "secs": 19.1,
+  "in_tok": 932,
+  "out_tok": 3115
+ }
+}

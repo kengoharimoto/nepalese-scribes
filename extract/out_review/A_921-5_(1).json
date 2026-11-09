@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe's name field changed from the placeholder 'Unknown' to an empty string, because the name is lost in the gap; the vajrācārya title is kept",
+   "Residence widened to the full phrase 'laṃtale k(o)thyākache, Hlugrabāhāla', which looks like a house or quarter name inside the vihāra",
+   "Note added that 'śukra' is taken as śukla (bright fortnight), not śukravāra (Friday)",
+   "Note added that the place is the scribe's residence, not stated as the place of copying; 'Kathmandu' follows the catalogue"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīva(8)(jrācārya .......",
+   "name": "",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "maṇisaṃgha mahāvihāra (Hlugrabāhāla)",
+   "residence": "laṃtale k(o)thyākache, Hlugrabāhāla",
+   "evidence": "hlugrabāhālasa coṅahma śrīva(8)(jrācārya ....... svahastena likhitam",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 963 āṣāḍha śukra (7) 11 sa",
+  "era": "NS",
+  "year": "963",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1843"
+ },
+ "place": {
+  "as_written": "maṇisaṃgha mahā[[vihā]]ra laṃtale k(o)thyākacheyā, hlugrabāhālasa",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The scribe's personal name is lost in the gap after 'śrīvajrācārya'. All that survives is his title, vajrācārya, and that he lived ('coṅahma') at Hlugrabāhāla / Maṇisaṃgha Mahāvihāra, laṃtale k(o)thyākache, which is probably a house or quarter name. 'śukra' is read as śukla (bright fortnight), a common Newari spelling. It could instead mean Friday (śukravāra), but then no fortnight would be given. NS 963 is about 1843 CE. The colophon gives the scribe's residence, not explicitly the place of copying; 'Kathmandu' comes from the catalogue field.",
+ "_meta": {
+  "reel": "A 921/5 (1)",
+  "model": "opus",
+  "cost_usd": 0.0608668,
+  "secs": 16.4
+ }
+}

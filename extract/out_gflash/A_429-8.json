@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "maheśvarācārya",
+   "name": "Maheśvara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahe(11)śvarācāryaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1821 pauṣaśuddha5 gurau",
+  "era": "VS",
+  "year": "1821",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "gurau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1764"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name following 'likhitaṃ' is lost/illegible in the lacuna.",
+ "_meta": {
+  "reel": "A 429/8",
+  "model": "gemini-flash-latest",
+  "secs": 9.0,
+  "in_tok": 700,
+  "out_tok": 1167
+ }
+}

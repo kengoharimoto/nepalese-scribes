@@ -1,0 +1,55 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "maṇikākhyena",
+   "name": "Maṇika",
+   "roles": [
+    "corrector"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "maṇikākhyena pūritā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vīraśiṃhāvidhānena",
+   "name": "Vīrasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vīraśiṃhāvidhānena likhitañ ca",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vahniśūnyaśare yāte nepālābdi vidhīyate | aśunyāś ca site pakṣe tithau kāma bhṛgudine",
+  "era": "NS",
+  "year": "503",
+  "month": "Āśvina",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1383"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Maṇika filled in or restored (pūritā) the incomplete and worm-eaten manuscript; Vīrasiṃha is credited with the copying (likhitam). The month name 'aśunyāś ca' is a corruption of āśvina.",
+ "_meta": {
+  "reel": "B 13/39",
+  "model": "gemini-flash-latest",
+  "secs": 12.6,
+  "in_tok": 817,
+  "out_tok": 1516
+ }
+}

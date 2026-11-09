@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkavikālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkālidāsakṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1977 sālam iti jeṣṭhaśukle 6 roja 7",
+  "era": "VS",
+  "year": "1977",
+  "month": "jeṣṭha",
+  "paksa": "śukla",
+  "tithi": "6",
+  "weekday": "roja 7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1920"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribe or patron is mentioned. The manuscript was completed on Saturday, Jyeṣṭha śukla 6, VS 1977 (kādinasamāsam śubhabhaṃ).",
+ "_meta": {
+  "reel": "B 310/10",
+  "model": "gemini-flash-latest",
+  "secs": 9.3,
+  "in_tok": 984,
+  "out_tok": 1097
+ }
+}

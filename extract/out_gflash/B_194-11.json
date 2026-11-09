@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dharmaśa(r)mma",
+   "name": "Dharmaśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idam pustakaṃ dharmaśa(r)mma",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1983 sāla jyeṣṭha 23 roja 7 kṛṣṇapakṣe daśamyāṃ tithau",
+  "era": "VS",
+  "year": "1983",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī",
+  "weekday": "roja 7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1926"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe Dharmaśarman is given in an uninflected/corrupt nominative form 'dharmaśa(r)mma' immediately after 'likhitam idam pustakaṃ'.",
+ "_meta": {
+  "reel": "B 194/11",
+  "model": "gemini-flash-latest",
+  "secs": 8.4,
+  "in_tok": 737,
+  "out_tok": 911
+ }
+}

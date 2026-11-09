@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśākyasiṃhena",
+   "name": "Śākyasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Śākyaṃgumahāvihāra",
+   "residence": "śrīgopucchaparvvate śrīśākyaṃgumahāvīhāra",
+   "evidence": "śrīśākyasiṃhena idaṃ sūryyaśatakasya ṭīkāyāṃ sampūrṇṇam iti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 789 phālguṇaśuddhi 12",
+  "era": "NS",
+  "year": "789",
+  "month": "phālguṇa",
+  "paksa": "śukla",
+  "tithi": "12",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1669"
+ },
+ "place": {
+  "as_written": "śrīgopucchaparvvate śrīśākyaṃgumahāvīhāra",
+  "normalized": "Swayambhunath"
+ },
+ "purpose": "",
+ "notes": "Gopucchaparvata refers to the hill of Svayambhūnāth in the Kathmandu Valley.",
+ "_meta": {
+  "reel": "A 400/5",
+  "model": "gemini-flash-latest",
+  "secs": 7.9,
+  "in_tok": 950,
+  "out_tok": 1071
+ }
+}

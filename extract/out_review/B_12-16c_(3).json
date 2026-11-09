@@ -1,0 +1,36 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Normalized the nakshatra and yoga to Aśvinī and siddhi (aśuninakṣetre = aśvinīnakṣatre, siddhijo ge = siddhiyoge); normalized the weekday reading to budhavāsare.",
+   "Changed the purpose field from a corrupt quotation to a short gloss: written for the person on whose behalf (yasyārthena) it was copied.",
+   "Notes: added that 'liti manate' might hide a scribe's name (e.g. likhitam Anantena). No person was added because the reading is too uncertain.",
+   "Kept no persons, NS 555 and 1435 CE."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 555 vaisāṣaśuklapradipadyāṃ(!) tithau aśuninakṣetre(!) siddhijo gevudavāsarot",
+  "era": "NS",
+  "year": "555",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "pratipad",
+  "weekday": "Wednesday (budhavāsara)",
+  "nakshatra_yoga": "Aśvinī nakṣatra; siddhi yoga",
+  "ce_approx": "1435"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for the person on whose behalf (yasyārthena) it was written; benediction śubham astu sarvadā",
+ "notes": "The era is not named. It is taken as Nepāla Saṃvat because of the Newari script and the bare 'samvat' (NS 555 ≈ 1435 CE). The date formula is badly corrupted: aśuninakṣetre = aśvinīnakṣatre; siddhijo gevudavāsarot = siddhiyoge budhavāsare. The phrase 'liti manate jasyo 'rthena bhavatu svabham astu sarvvadā' is probably 'likhitam ... yasyārthena, bhavatu śubham astu sarvadā'. 'liti manate' might hide a scribe's name (e.g. likhitam Anantena), but this is too uncertain, so no person is recorded. Title 'pīṭhakāstotra' = Pīṭhikāstotra; 'samastavyaktavyāptinivatuyo' is corrupt.",
+ "_meta": {
+  "reel": "B 12/16c (3)",
+  "model": "opus",
+  "cost_usd": 0.057006799999999996,
+  "secs": 14.3
+ }
+}

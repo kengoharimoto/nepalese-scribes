@@ -1,0 +1,106 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 Viśveśvarasarasvatī: role changed from 'teacher' to 'other'. They are the commentator's guru and had nothing to do with making this copy; the pupil_of relation is kept.",
+   "p4 scribe: name normalised to Narasiṃha. The written form is 'narsiṃha', and 'siṃha' is moved to titles as a family name. This matches the catalogue's 'Narasiṃha Siṃha'. Confidence lowered to medium because the verse word order is odd and 'surārcitas' is unclear.",
+   "date.tithi: 'tuhīne' removed. It is not a tithi word; it is probably a metrical filler or a corrupt reading. Noted below.",
+   "p2 titles split into 'paramahaṃsa' and 'parivrājakācārya'.",
+   "purpose normalised to 'svārtha (for the scribe's own use)'.",
+   "Chronogram checked: kara 2, nāga 8, nanda 9, read right to left = 982. NS 982 + 880 = 1862 CE. Confirmed."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīpuṣpadanta",
+   "name": "Puṣpadanta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "gandharvarāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpuṣpadantanāmagaṃdharvarājaviracitaṃ mahimanaḥ stotraṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmadviśveśvarasarasvatī",
+   "name": "Viśveśvarasarasvatī",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "paramahaṃsa",
+    "parivrājakācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadviśveśvarasarasvatīcaraṇāravinda-madhukareṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "madhusūdanasarasvatī",
+   "name": "Madhusūdanasarasvatī",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "madhusūdanasarasvatī‥mākhyādhareṇa kecid (!) viracitā mahimākhyāstutivyākhyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīsiṃhanarsiṃhasurārcitas",
+   "name": "Narasiṃha",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "siṃha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsiṃhanarsiṃhasurārcitas taṃ lilekha svārthaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "śrīmadviśveśvarasarasvatīcaraṇāravinda-madhukareṇa madhusūdanasarasvatī"
+  }
+ ],
+ "date": {
+  "as_written": "naipālikābde karanāganande māse site bhādrapade tuhīne",
+  "era": "NS",
+  "year": "982",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1862"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtha (for the scribe's own use)",
+ "notes": "The chronogram kara (2), nāga (8), nanda (9), read right to left, gives NS 982, about 1862 CE. This matches the catalogue. 'site' is the bright fortnight (śukla). 'tuhīne' is not a tithi word; it may be a metrical filler or a corrupt reading of a tithi, so the tithi is left empty. The scribe's name appears in the verse as 'śrīsiṃhanarsiṃhasurārcitas', which corresponds to the catalogue's Narasiṃha Siṃha. Siṃha (family name) seems to come before the personal name Narsiṃha (= Narasiṃha). 'surārcitas' ('honoured by the gods'?) is unclear: it may be an epithet, or part of the name. Madhusūdanasarasvatī is the author of the commentary, and Viśveśvarasarasvatī is named only as their guru. Neither had anything to do with making this copy. 'kecid (!)' in the commentary colophon is corrupt (perhaps for 'kenacid').",
+ "_meta": {
+  "reel": "B 394/46",
+  "model": "opus",
+  "cost_usd": 0.6077696,
+  "secs": 37.4
+ }
+}

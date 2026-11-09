@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmakṛṣṇena nānābhāī dvitīyanāmadheyena",
+   "name": "Rāmakṛṣṇa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrītripāṭhidāmodarasūnunā rāmakṛṣṇena nānābhāī dvitīyanāmadheyena kṛtā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "tripāṭhidāmodara",
+   "name": "Dāmodara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "tripāṭhin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrītripāṭhidāmodarasūnunā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "tripāṭhidāmodarasūnunā"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1708 varṣe āṣāḍhamāse śuklapakṣe tṛtīyābhaume",
+  "era": "VS",
+  "year": "1708",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "bhauma",
+  "nakshatra_yoga": "",
+  "ce_approx": "1651"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author Rāmakṛṣṇa has the second/popular name Nānābhāī (nānābhāī dvitīyanāmadheya). The copyist's name is not specified ('likhitaṃ').",
+ "_meta": {
+  "reel": "B 357/1",
+  "model": "gemini-flash-latest",
+  "secs": 11.5,
+  "in_tok": 1008,
+  "out_tok": 1485
+ }
+}

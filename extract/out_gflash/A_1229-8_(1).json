@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ānanda paścat prathamo jayākhyo",
+   "name": "Jayānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ānanda paścat prathamo jayākhyo(exp. 28t1) cityārccaṇākhyaṃ vyalikhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 875 māgha śukla śrīpaṃcamī kavivāre / vāṇādrināgeṣu ca hāyanesmin, māgherjjune nāga(4)tithaubhi kāvye",
+  "era": "NS",
+  "year": "875",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "śrīpaṃcamī",
+  "weekday": "kavivāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1755"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date is given both in prose (saṃvat 875 māgha śukla śrīpañcamī kavivāre) and in chronogram verse (vāṇādrināgeṣu = 875, though the tithi in verse is read as nāgatithau).",
+ "_meta": {
+  "reel": "A 1229/8 (1)",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 753,
+  "out_tok": 850
+ }
+}

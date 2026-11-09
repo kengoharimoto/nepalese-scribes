@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. Added to the notes that the catalogue's Cetasiṃha may be a patron named in the text itself, and that the same author formula appears in both the text and the bhāṣā colophons."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīraṅganāthadaivajña",
+   "name": "Raṅganātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīraṅganāthadaivajñakṛta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists King Cetasiṃha, but the quoted colophons do not mention him. He may be named elsewhere in the manuscript, possibly as the patron of Raṅganātha's original work. If so, he is not the reigning king of this copy, so he is left out here. Both colophons (fol. 21v6–7 for the text, 21v9 for the bhāṣā) credit the work to Raṅganātha Daivajña. Neither names a scribe, gives a date or says where the copy was made. The colophon has the misspellings 'śṛī', 'rāgacandrodayabhāṣāyāṃ(!)' and 'saṃpūṇaṃ' (for saṃpūrṇaṃ).",
+ "_meta": {
+  "reel": "B 287/43",
+  "model": "opus",
+  "cost_usd": 0.044002799999999995,
+  "secs": 9.5
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 511 (kāśyāṃ? .. kha || grantha ? .. garaḥ? mayā) śukravāśare",
+  "era": "NS",
+  "year": "511",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "śukravāśare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1391"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon text is fragmentary and difficult to read. The word 'mayā' suggests a first-person agent ('... garaḥ? mayā ... vyākhyāta'), but no personal name can be securely identified. The reading 'kāśyāṃ?' could also be a misread month name.",
+ "_meta": {
+  "reel": "B 23/5",
+  "model": "gemini-flash-latest",
+  "secs": 10.7,
+  "in_tok": 694,
+  "out_tok": 1118
+ }
+}

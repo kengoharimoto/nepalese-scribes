@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvajrācāryyatadhisiṃha",
+   "name": "Tadhisiṃha",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "paramopāsaka",
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "deyaṃ dharmmo(!) yaṃ pravaramahāyānayāyinaḥ paramopāśakaḥ śrīvajrācāryyatadhisiṃhapramukhādīnāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvajrācāryyaguṇānaṇḍaneti(!)",
+   "name": "Guṇānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "śrīhenākaramahāvihāra",
+   "residence": "suvarṇapanārimahānagara",
+   "evidence": "likhite +suvarṇapanārimahānagare (śāntiṃghaṭa)++++ śrīhenākaramahāvihā++++śrīvajrācāryyaguṇānaṇḍaneti(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "deyaṃ dharmmo(!) yaṃ ... śrīvajrācāryyatadhisiṃhapramukhādīnāṃ ... likhite ... śrīvajrācāryyaguṇānaṇḍaneti(!)"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 934 māghamāse śuklapakṣe pratipadāyāṃ tithau śravaṇanakṣatre śuddhiyoge ++++++ etat dine",
+  "era": "NS",
+  "year": "934",
+  "month": "māgha",
+  "paksa": "śuklapakṣa",
+  "tithi": "pratipadā",
+  "weekday": "",
+  "nakshatra_yoga": "śravaṇanakṣatra, śuddhiyoga",
+  "ce_approx": "1814"
+ },
+ "place": {
+  "as_written": "+suvarṇapanārimahānagare (śāntiṃghaṭa)++++ śrīhenākaramahāvihā++++",
+  "normalized": "Patan"
+ },
+ "purpose": "merit transfer (ācāryyopādhyāyamatāpitṛpūrvvaṅgamaṃ kṛtvā sakarasatvarāśer anuttarajñānaphalāvāptaye)",
+ "notes": "Suvarṇapraṇālī (Suvarṇapanāri) and Henākara Mahāvihāra refer to locations in Patan (Lalitpur).",
+ "_meta": {
+  "reel": "A 108/9",
+  "model": "gemini-flash-latest",
+  "secs": 12.4,
+  "in_tok": 1007,
+  "out_tok": 2040
+ }
+}

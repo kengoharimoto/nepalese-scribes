@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Name changed from 'Dharmaśarman' to 'Dharma': 'śarman' is a brahmin suffix, so it now goes in titles",
+   "Weekday 'roja 7' now read as Saturday (śanivāra), the 7th day of the week",
+   "Notes now explain that 'jyeṣṭha 23' is the solar day of the month (gate)"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dharmaśa(r)mma",
+   "name": "Dharma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idam pustakaṃ dharmaśa(r)mma",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1983 sāla jyeṣṭha 23 roja 7 kṛṣṇapakṣe daśamyāṃ tithau",
+  "era": "VS",
+  "year": "1983",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī",
+  "weekday": "Saturday (roja 7)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1926"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is not named, but 'samvat 1983 sāla' with a solar day count ('jyeṣṭha 23', i.e. the 23rd solar day of Jyeṣṭha) and 'roja 7' (Saturday) fits Vikrama Saṃvat in 20th-century Nepal. That gives May–June 1926 CE. The scribe's name 'dharmaśa(r)mma' is written uninflected and in a corrupt form, for Dharma Śarmā. The colophon calls the text 'kātyāyanītantroktaprayogavidhiḥ', while the catalogue title is 'Mantraprayogavidhi'.",
+ "_meta": {
+  "reel": "B 194/11",
+  "model": "opus",
+  "cost_usd": 0.048162800000000006,
+  "secs": 9.9
+ }
+}

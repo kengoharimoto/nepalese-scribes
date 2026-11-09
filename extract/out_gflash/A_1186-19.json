@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ravisaṃkaraśarmmaṇaḥ",
+   "name": "Ravisaṃkara",
+   "roles": [
+    "owner",
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ravisaṃkaraśarmmaṇaḥ svapāṭhārthaṃ likhitaṃ mayā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svapāṭhārthaṃ",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1186/19",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 714,
+  "out_tok": 963
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayajitāmitra mallavarmmāhaṃ",
+   "name": "Jayajitāmitramalla",
+   "roles": [
+    "scribe",
+    "king"
+   ],
+   "titles": [
+    "varmā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śrīśrījayajitāmitra mallavarmmāhaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 798 māgha śudi dvādaśi bṛhapativāla",
+  "era": "NS",
+  "year": "798",
+  "month": "māgha",
+  "paksa": "śudi",
+  "tithi": "dvādaśi",
+  "weekday": "bṛhapativāla",
+  "nakshatra_yoga": "",
+  "ce_approx": "1678"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrī 3 revanta prīnātu",
+ "notes": "King Jayajitāmitramalla of Bhaktapur copied the manuscript himself (likhitaṃ ... varmmāham).",
+ "_meta": {
+  "reel": "B 703/13",
+  "model": "gemini-flash-latest",
+  "secs": 7.6,
+  "in_tok": 793,
+  "out_tok": 824
+ }
+}

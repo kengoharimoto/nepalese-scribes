@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed the title 'ācārya' from Devācārya: the name is kept whole as Devācārya, so listing 'ācārya' as a separate title counted it twice. The alternative reading (Deva + title ācārya) is mentioned in notes.",
+   "Lowered confidence for Devācārya to medium because the phrase is corrupt (lekhayet could be read as causative).",
+   "Weekday changed to 'bhauma (Tuesday)'.",
+   "Purpose shortened to a merit-transfer summary.",
+   "Notes expanded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devācāryena",
+   "name": "Devācārya",
+   "roles": [
+    "scribe",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devācāryena(!) lekhayet(!) sampūrṇa[ṃ] karomi",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 809 āṣāḍhaśuklapañcamyāṃ tithau bhaumadine",
+  "era": "NS",
+  "year": "809",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "bhauma (Tuesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1689"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "merit transfer: for the welfare of the scribe and his family (mama saparivārāṇāṃ kalyāṇam astu)",
+ "notes": "The era is not stated. NS is assumed from the Newari script and the catalogue; year 809 gives c. 1689 CE. The phrase 'vidūyati devācāryena(!) lekhayet(!) sampūrṇa[ṃ] karomi' is corrupt. 'vidūyati' is unclear: it could be a garbled verb or epithet, perhaps 'viduṣā', and is probably not a place name. 'lekhayet' looks causative, but 'sampūrṇaṃ karomi' (I complete it) and 'mama' (my) are in the first person, which marks Devācārya as the scribe. Devācārya might also be read as the personal name Deva with the title ācārya (possibly a Vajrācārya). It is kept here as a single name, matching the catalogue.",
+ "_meta": {
+  "reel": "A 135/10",
+  "model": "opus",
+  "cost_usd": 0.5530535999999999,
+  "secs": 23.3
+ }
+}

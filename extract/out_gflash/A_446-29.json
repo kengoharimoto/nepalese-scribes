@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "peṃdase ity upanāmnāʼnaṃtadīkṣitene",
+   "name": "Ananta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dīkṣita",
+    "peṃdase"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "peṃdase ity upanāmnāʼnaṃtadīkṣitene kāśyāṃ likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1859 śrīmukhasaṃvatsare śake 1724 duṃdubhisaṃvatsare māghaśuddhadaśamyām",
+  "era": "VS",
+  "year": "1859 (ŚS 1724)",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1803"
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "parameśvarārpaṇa",
+ "notes": "The scribe bears the Maharashtrian Brahmin surname (upanāman) Pendse (Peṃdase).",
+ "_meta": {
+  "reel": "A 446/29",
+  "model": "gemini-flash-latest",
+  "secs": 8.8,
+  "in_tok": 765,
+  "out_tok": 1240
+ }
+}

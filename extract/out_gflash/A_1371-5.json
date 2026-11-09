@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdhanajayasya",
+   "name": "Dhanañjaya",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdhanajayasya kṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "virātbhaṭṭa",
+   "name": "Virāṭ",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "virātbhaṭṭātmajeva",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "naraharibhaṭṭena",
+   "name": "Narahari",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitam idaṃ virātbhaṭṭātmajeva naraharibha<<>>ṭṭena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "virātbhaṭṭātmajeva"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1654 || āṣā(4)ḍhaśudi 13 bhṛguvāsare",
+  "era": "VS",
+  "year": "1654",
+  "month": "āṣāḍha",
+  "paksa": "śudi",
+  "tithi": "13",
+  "weekday": "bhṛguvāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1597"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "virātbhaṭṭātmajeva is an error for virāṭbhaṭṭātmajena. The era is Vikrama Saṃvat 1654 (confirmed by Friday, 17 June 1597 CE), contrary to the catalogue's query of Śaka era.",
+ "_meta": {
+  "reel": "A 1371/5",
+  "model": "gemini-flash-latest",
+  "secs": 15.1,
+  "in_tok": 862,
+  "out_tok": 2447
+ }
+}

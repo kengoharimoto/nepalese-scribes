@@ -1,0 +1,82 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācāryya śrīratnamānena",
+   "name": "Ratnamāna",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vajrācāryya śrīratnamānena suvarṇṇapatre leṣata",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvajrācāryaśrīkā++kasya",
+   "name": "Kā++ka",
+   "roles": [
+    "owner",
+    "commissioner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvajrācāryaśrīkā++kasya pāthapustakasvādhyārthenaḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "jajanu",
+   "name": "Jajanu",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "dānapati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dānapati jajanu",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "vajrācāryya śrīratnamānena suvarṇṇapatre leṣata(!) || śrīvajrācāryaśrīkā++kasya pāthapustakasvādhyārthenaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "śubhasambat 1001 chi sāla miti āśunakṛṣṇa nhu 7",
+  "era": "NS",
+  "year": "1001",
+  "month": "Āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "7",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1881"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīvajrācāryaśrīkā++kasya pāthapustakasvādhyārthenaḥ",
+ "notes": "The name of the commissioner/owner contains a two-character lacuna (śrīkā++kasya). 'dānapati jajanu' at the end may either be a personal name or an incomplete/corrupt form of 'yajamāna'.",
+ "_meta": {
+  "reel": "A 923/7",
+  "model": "gemini-flash-latest",
+  "secs": 13.4,
+  "in_tok": 897,
+  "out_tok": 1912
+ }
+}

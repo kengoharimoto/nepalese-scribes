@@ -1,0 +1,160 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "amarasiṃha",
+   "name": "Amarasiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "amarasiṃhakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmukuṃdabhaṭṭa",
+   "name": "Mukundabhaṭṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "dākṣiṇātya cittapāvana",
+   "residence": "",
+   "evidence": "śrīmukuṃdabhaṭṭātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrī(!)viśvanāthabhaṭṭa",
+   "name": "Viśvanāthabhaṭṭa",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī(!)viśvanāthabhaṭṭāṃghrilabdhavidyena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrītrivikramasena",
+   "name": "Trivikramasena",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "pārvataviṣayādhipa",
+    "prabhu"
+   ],
+   "affiliation": "",
+   "residence": "Pārvataviṣaya",
+   "evidence": "śrīmanmahārājādhirājapārvataviṣayādhipaśrītrivikramasenaprabhvāśritena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrījayadeva",
+   "name": "Jayadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "pāḍe",
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pāḍe ityupanāmakaśrījayadevākhyadvijasūnunā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "śrīkulanidhiśarmaṇā",
+   "name": "Kulanidhiśarman",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkulanidhiśarmaṇā viracitāyām amaradīpikāyām",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "veṇīrāma(karaḍiyā)",
+   "name": "Veṇīrāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karaḍiyā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ veṇīrāma(karaḍiyā)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "mukuṃdabhaṭṭātmaja"
+  },
+  {
+   "from": "p6",
+   "type": "pupil_of",
+   "to": "p3",
+   "evidence": "viśvanāthabhaṭṭāṃghrilabdhavidyena"
+  },
+  {
+   "from": "p6",
+   "type": "under_reign_of",
+   "to": "p4",
+   "evidence": "śrītrivikramasenaprabhvāśritena"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p5",
+   "evidence": "jayadevākhyadvijasūnunā"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsā(!)ke 1717 māse kārttikaśukravāsare",
+  "era": "ŚS",
+  "year": "1717",
+  "month": "kārttika",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "śukravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1795"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon first quotes the commentary's authorial pushpika detailing Kulanidhiśarman, his patron Trivikramasena (king of Parbat/Pārvata), his father Jayadeva Pāṇḍe/Pāḍe, and his teacher Viśvanāthabhaṭṭa (son of Mukundabhaṭṭa of the Citpāvan lineage); followed by the copyist colophon of Veṇīrāma Karaḍiyā dated Śaka 1717.",
+ "_meta": {
+  "reel": "A 320/13",
+  "model": "gemini-flash-latest",
+  "secs": 16.8,
+  "in_tok": 1029,
+  "out_tok": 3051
+ }
+}

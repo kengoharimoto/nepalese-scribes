@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "deva‥ty upanāmakalakṣmīnārāyaṇena",
+   "name": "Lakṣmīnārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "deva‥ty upanāmakalakṣmīnārāyaṇena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīguruparadevatāsvarūpiṇīśrīmahātripurasuṃdarīrājarājeśvarī [a]rpaṇam astu svāhā",
+ "notes": "The scribe has the surname/alias (upanāmaka) deva‥ti.",
+ "_meta": {
+  "reel": "B 542/46",
+  "model": "gemini-flash-latest",
+  "secs": 8.0,
+  "in_tok": 722,
+  "out_tok": 904
+ }
+}

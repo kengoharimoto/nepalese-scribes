@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhuvaneśvaraśarmaṇā",
+   "name": "Bhuvaneśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ bhuvaneśvaraśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "1998 sāla pauṣa śudī ekādaśī śomavāra 15 gate",
+  "era": "VS",
+  "year": "1998",
+  "month": "pauṣa",
+  "paksa": "śuklapakṣa",
+  "tithi": "ekādaśī",
+  "weekday": "śomavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1941"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives Kathmandu as place of copying, but it is not mentioned in the colophon text. The numerical sequence 1998 | 9 | 3 | 15 | 2 encodes the year (1998), month (9 = Pauṣa), gate (15), and weekday (2 = Monday/Śomavāra).",
+ "_meta": {
+  "reel": "A 1149/28 (1)",
+  "model": "gemini-flash-latest",
+  "secs": 8.2,
+  "in_tok": 901,
+  "out_tok": 1173
+ }
+}

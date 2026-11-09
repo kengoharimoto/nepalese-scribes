@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1917 sālamiti jyeṣṭhaśudi 7 orja 7 tasmin dine",
+  "era": "VS",
+  "year": "1917",
+  "month": "jyeṣṭha",
+  "paksa": "śuklapakṣa",
+  "tithi": "7",
+  "weekday": "orja 7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1860"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons are mentioned in the colophon. The term 'orja 7' likely represents 'roja 7' (day 7 of the week / Saturday).",
+ "_meta": {
+  "reel": "A 475/13",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 694,
+  "out_tok": 653
+ }
+}

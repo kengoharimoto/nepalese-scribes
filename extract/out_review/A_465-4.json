@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed role 'owner' from Harṣu: the colophon only says the copy was written by him (liṣitaṃ ... harṣu paṃthasya, a genitive of agent). Nothing says the book was his, and there is no svapaṭhanārtham.",
+   "Titles: 'paṃtha' is kept as the brahmin surname (Panta/Pantha), and 'brāhmaṇa' is kept.",
+   "Raised confidence to high: the scribe's name is clear.",
+   "Notes expanded to cover the weekday, the stray verse and 'karmamaṃtraṃ'."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "harṣu paṃthasya",
+   "name": "Harṣu",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa",
+    "paṃtha (Panta)"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ brāhmaṇā karmamaṃtraṃ harṣu paṃthasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī samvat 1886 māse 2 pakṣe 2 tithau 6 vāre 2",
+  "era": "VS",
+  "year": "1886",
+  "month": "2",
+  "paksa": "2",
+  "tithi": "6",
+  "weekday": "2 (Monday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1829"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is written only as 'samvat 1886'. VS is assumed, matching the catalogue field and the Devanagari script with the Panta surname; this gives about 1829 CE. Month, pakṣa and weekday are given only as numbers: month 2 (probably Vaiśākha), pakṣa 2 (probably the dark half) and weekday 2 (Monday). 'liṣitaṃ' stands for likhitaṃ, and 'brāhmaṇā' probably for brāhmaṇa. 'karmamaṃtraṃ' is unclear. It may describe the text (the rite's mantras) or be a garbled epithet of the scribe, so it is not treated as a name. 'paṃtha' is read as the brahmin surname Panta/Pantha. The text after śubham ('dva viṣṇu daivatyāṃ viṣṇulokanivāsinīm | varadāṃ 5') is a stray verse fragment, probably an invocation of Gāyatrī/Sāvitrī, and contains no persons.",
+ "_meta": {
+  "reel": "A 465/4",
+  "model": "opus",
+  "cost_usd": 0.5501176,
+  "secs": 22.4
+ }
+}

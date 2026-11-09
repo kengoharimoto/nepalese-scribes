@@ -1,0 +1,33 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Notes expanded: the colophon says only 'samvat'. NS is inferred from the Newari script and the catalogue field. Also noted that the dated colophon is at fol. 137v7 and the other passages are chapter colophons."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 785 āṣāḍha śukla paṃcamyāṃ tithau megha nakṣatre bṛhaspativārau",
+  "era": "NS",
+  "year": "785",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "megha (= maghā)",
+  "ce_approx": "1665"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names no persons: no scribe, commissioner, king or owner. The era is given only as 'samvat'. NS is assumed from the Newari script and the catalogue field (NS 785 = c. 1665 CE). The nakṣatra 'megha' is probably a corruption of maghā. The dated colophon with the śloka count 3596 is at fol. 137v7. The other passages quoted are colophons of paṭalas 1–14.",
+ "_meta": {
+  "reel": "A 201/4",
+  "model": "opus",
+  "cost_usd": 0.0493348,
+  "secs": 9.5
+ }
+}

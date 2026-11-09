@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Weekday 'roja 2' read as Monday (Nepali count: roja 1 = Sunday); the original wording is kept",
+   "Month normalised to Vaiśākha",
+   "Notes expanded: no scribe or commissioner is named, and the era is inferred"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "saka(!)rācaya",
+   "name": "Śaṅkara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "saka(!)rācayaviracitau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1920 sāla vaisākha sudina 9 roja 2",
+  "era": "VS",
+  "year": "1920",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "Monday (roja 2)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1863"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The corrupt 'sakarācaya' stands for Śaṅkarācārya, the traditional author of the text. 'sudina 9' means sudi 9, the 9th day of the bright half (śukla). 'roja 2' is Monday. The era is not named. Reading 'samvat 1920 sāla' as VS fits the Devanagari script and the Nepali wording (sāla, roja), giving roughly April/May 1863 CE. The catalogue gives SAM 1920. No scribe, commissioner or owner is named. The manuscript also contains the Indrākṣīstotra (fol. 4v), which has no date.",
+ "_meta": {
+  "reel": "A 1111/4 (2)",
+  "model": "opus",
+  "cost_usd": 0.0464748,
+  "secs": 10.0
+ }
+}

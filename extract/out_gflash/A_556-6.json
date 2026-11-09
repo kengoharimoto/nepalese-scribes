@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmacaṃdrācāryya",
+   "name": "Rāmacandra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmacaṃdrācāryyaviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 601 phālguṇa śukla dvitīyā",
+  "era": "NS",
+  "year": "601",
+  "month": "phālguṇa",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1481"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 556/6",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 719,
+  "out_tok": 761
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "puraṃdareṇa",
+   "name": "Purandara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīcaṇḍikayā likhitaṃ stavendraṃ puraṃdareṇeti prasiddhanāmnā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrījānasāhasya",
+   "name": "Jānasāha",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījānasāhasya saputrakasya tuṣṭyai",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "śrījānasāhasya saputrakasya tuṣṭyai ... likhitaṃ stavendraṃ puraṃdareṇeti"
+  }
+ ],
+ "date": {
+  "as_written": "bhūṣa(ṇa)gendupramite śakābde ghaṭasthite rke vaninandane hni",
+  "era": "ŚS",
+  "year": "bhūṣa(ṇa)gendupramite",
+  "month": "ghaṭasthite rke",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "vaninandane hni",
+  "nakshatra_yoga": "",
+  "ce_approx": "1789"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrījānasāhasya saputrakasya tuṣṭyai",
+ "notes": "Jānasāha (a Shah prince or nobleman) is described as 'śrīmanmahārājaprapautraka' (great-grandson of a mahārāja) and 'labdhavara' of the Devī. Year interpreted by the cataloguer as Śaka 1711.",
+ "_meta": {
+  "reel": "A 483/10",
+  "model": "gemini-flash-latest",
+  "secs": 15.6,
+  "in_tok": 965,
+  "out_tok": 2127
+ }
+}

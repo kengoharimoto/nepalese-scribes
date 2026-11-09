@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "Jayānaṃdadivākareṇa",
+   "name": "Jayānandadivākara",
+   "roles": [
+    "scribe",
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "Jayānaṃdadivākareṇa pathanārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1843 caitrakṛṣṇa 7 bhānu",
+  "era": "VS",
+  "year": "1843",
+  "month": "Caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "7",
+  "weekday": "bhānu",
+  "nakshatra_yoga": "",
+  "ce_approx": "1786"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "pathanārthaṃ",
+ "notes": "",
+ "_meta": {
+  "reel": "A 447/32",
+  "model": "gemini-flash-latest",
+  "secs": 8.1,
+  "in_tok": 1022,
+  "out_tok": 1055
+ }
+}

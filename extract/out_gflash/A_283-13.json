@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1906 sāla miti vaisākha vadī 4 roja 4",
+  "era": "VS",
+  "year": "1906",
+  "month": "vaisākha",
+  "paksa": "vadī",
+  "tithi": "4",
+  "weekday": "roja 4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1849"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon ends with 'rāma', which is treated as an invocation rather than a personal name of a scribe.",
+ "_meta": {
+  "reel": "A 283/13",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 696,
+  "out_tok": 641
+ }
+}

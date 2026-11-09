@@ -1,0 +1,206 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījaebhūpālendra malladevasya",
+   "name": "Bhūpālendramalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nepāleśvala",
+    "mahārājādhirāja",
+    "rājarājendra",
+    "sakalarājacakrādhiśvala"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījaebhūpālendra malladevasya vijayarārjya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīprabhākala",
+   "name": "Prabhākara",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "śākyabhikṣu",
+    "paramopāsaka",
+    "dānapati",
+    "jojamāna"
+   ],
+   "affiliation": "śrītarumulamahāvīhāra",
+   "residence": "śrīkāṣṭhamaṇḍapamahānagale mandu śiṃkvamaṃguṇḍi",
+   "evidence": "dānapati ... śākyabhīkṣu śrīprabhākala ... idaṃ kālaṇḍavyuha pustaka dayakā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīdhanarāja",
+   "name": "Dhanarāja",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhātṛ śākyabhīkṣu śrīdhanarāja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīśākyamuṇideva",
+   "name": "Śākyamunideva",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvitiyabhātṛ śākyabhīkṣu śrīśākyamuṇideva",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śumaṃṅgarālakṣmi",
+   "name": "Sumaṅgalālakṣmī",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhātṛmātrā śumaṃṅgarālakṣmi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "sundaliṅamayi",
+   "name": "Sundariṅamayi",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "prabhākalasya bhāryyājñā sundaliṅamayi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "jamunāmayi",
+   "name": "Jamunāmayī",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dhanarājasya dārā jamunāmayi",
+   "confidence": "high"
+  },
+  {
+   "pid": "p8",
+   "as_written": "dhanaśvalīmayī",
+   "name": "Dhanaśvalīmayī",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhātṛputrī dhanaśvalīmayī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p9",
+   "as_written": "śrīśulapatidevana",
+   "name": "Śūlapatideva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "vantāvvāhāra khaṇḍacuka māhāpāṭakūla",
+   "residence": "mandu siṃkvamuguṇḍī",
+   "evidence": "vajrācārjya śrīśulapatidevana likhyantī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "brother_of",
+   "to": "p2",
+   "evidence": "bhātṛ śākyabhīkṣu śrīdhanarāja"
+  },
+  {
+   "from": "p4",
+   "type": "brother_of",
+   "to": "p2",
+   "evidence": "dvitiyabhātṛ śākyabhīkṣu śrīśākyamuṇideva"
+  },
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p5",
+   "evidence": "bhātṛmātrā śumaṃṅgarālakṣmi"
+  },
+  {
+   "from": "p6",
+   "type": "wife_of",
+   "to": "p2",
+   "evidence": "prabhākalasya bhāryyājñā sundaliṅamayi"
+  },
+  {
+   "from": "p7",
+   "type": "wife_of",
+   "to": "p3",
+   "evidence": "dhanarājasya dārā jamunāmayi"
+  },
+  {
+   "from": "p9",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "likhitaṃ ... śrīśulapatidevana likhyantī ... jojamānaṣya āyuvṛddhil astu"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīśrījaebhūpālendra malladevasya vijayarārjya || || dānapati ... śrīprabhākala"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 814 mārgha māsya śukla pakṣa śrīpañcamyāyāṃ tithau urttraphāguṇīnakṣatre ati gandhajogya jathā karṇṇamuhutre śanīścalavālasale",
+  "era": "NS",
+  "year": "814",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "uttaraphalgunī nakṣatra, atigaṇḍa yoga",
+  "ce_approx": "1694"
+ },
+ "place": {
+  "as_written": "śrīkāṣṭhamaṇḍapamahānagale mandu śiṃkvamaṃguṇḍi śrītarumulamahāvīhārāvasthitaḥ",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "śakalasatvarāśinurttarajñāna phalaprāptayaṃntu / jojamānaṣya āyuvṛddhil astu",
+ "notes": "The colophon spells the donor Prabhākara as Prabhākala, as common in Newari pronunciation. Mentions his stay/journey to the North (uttrāpaṇṭhaśa ... tāsirumbu mahāvīhāle [Tashilhunpo?]) where the desire arose to have the manuscript copied.",
+ "_meta": {
+  "reel": "A 134/3",
+  "model": "gemini-flash-latest",
+  "secs": 12.9,
+  "in_tok": 1847,
+  "out_tok": 2507
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nandārāma dvije",
+   "name": "Nandārāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "Dāṅ Salyāna",
+   "evidence": "nandārāma dvije likhet",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "grahaugninandādharaṇī 1939 maṃmathodityavatsare || śrāvaṇasya dhikaśulke caturddaśi śanivāsare",
+  "era": "VS",
+  "year": "1939",
+  "month": "śrāvaṇa (adhika)",
+  "paksa": "śukla",
+  "tithi": "14",
+  "weekday": "śanivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1882"
+ },
+ "place": {
+  "as_written": "kumārikākhaṇḍe naipāle nagare",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The scribe Nandārāma, a dvija resident of Dang-Salyan (dāṅ salyānavāsi), was residing in Kathmandu (naipāle nagare sthitaḥ) at the time of writing.",
+ "_meta": {
+  "reel": "A 939/22",
+  "model": "gemini-flash-latest",
+  "secs": 11.2,
+  "in_tok": 747,
+  "out_tok": 856
+ }
+}

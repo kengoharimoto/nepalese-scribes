@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "garuḍopanāmaka moreśvareṇa",
+   "name": "Moreśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liºº garuḍopanāmaka moreśvareṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 90 śrāvaṇa śu 1 gurārajñaṃ māṣaḥ",
+  "era": "unspecified",
+  "year": "90",
+  "month": "śrāvaṇa",
+  "paksa": "śuklapakṣa",
+  "tithi": "1",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's family name (upanāma) is Garuḍa (garuḍopanāmaka), typical of Maharashtrian Brahmins. The date specifies year 90 without century digits; the phrase 'gurārajñaṃ māṣaḥ' is corrupt (perhaps intended for gurau...).",
+ "_meta": {
+  "reel": "B 362/6",
+  "model": "gemini-flash-latest",
+  "secs": 10.1,
+  "in_tok": 721,
+  "out_tok": 1067
+ }
+}

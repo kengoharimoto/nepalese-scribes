@@ -1,0 +1,75 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭaśrīlakṣmaṇācārya",
+   "name": "Lakṣmaṇa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa",
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭaśrīlakṣmaṇācāryaviracete",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīsāraṃgasādhu",
+   "name": "Sāraṅga",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "sādhu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsāraṃgasādhuvacanāmṛtena",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "kṛṣṇalālaśarmmaṇaḥ",
+   "name": "Kṛṣṇalāla",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ kṛṣṇalālaśarmmaṇaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1901 sāla miti śrāvaṇa śudi 12 roja 1",
+  "era": "VS",
+  "year": "1901",
+  "month": "śrāvaṇa",
+  "paksa": "śudi",
+  "tithi": "12",
+  "weekday": "roja 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1844"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records Kṛṣṇalālaśarman as donor, but the colophon text marks ownership ('idaṃ pustakaṃ kṛṣṇalālaśarmmaṇaḥ').",
+ "_meta": {
+  "reel": "A 403/25",
+  "model": "gemini-flash-latest",
+  "secs": 12.1,
+  "in_tok": 783,
+  "out_tok": 1838
+ }
+}

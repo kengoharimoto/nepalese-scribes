@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhāskara",
+   "name": "Bhāskaramalla",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhuvanalakṣmisuta bhāskara bhāna yahi dina kayala nāṭaka nilamāna",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhuvanalakṣmi",
+   "name": "Bhuvanalakṣmī",
+   "roles": [
+    "relative_only",
+    "queen"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhuvanalakṣmisuta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "bhuvanalakṣmisuta"
+  }
+ ],
+ "date": {
+  "as_written": "vasukaragaja samvata ... śucisitatiyathi gurudina",
+  "era": "NS",
+  "year": "828",
+  "month": "śuci",
+  "paksa": "sita",
+  "tithi": "tiya",
+  "weekday": "gurudina",
+  "nakshatra_yoga": "",
+  "ce_approx": "1708"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon appears to record the date of composition (nāṭaka nirmāṇa kayala) by King Bhāskara Malla rather than copying, though the catalogue records it as date of copying.",
+ "_meta": {
+  "reel": "A 345/2 (1)",
+  "model": "gemini-flash-latest",
+  "secs": 12.7,
+  "in_tok": 735,
+  "out_tok": 1736
+ }
+}

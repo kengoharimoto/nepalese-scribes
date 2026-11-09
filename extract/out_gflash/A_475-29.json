@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkṛṣṇajośī",
+   "name": "Śrīkṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jośī"
+   ],
+   "affiliation": "",
+   "residence": "Rāmanagara",
+   "evidence": "liḥ śrīkṛṣṇajośīrāmanagaravāle",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1947 śrāvaṇaśukle 14 budhe tṛtīyaprahare dine",
+  "era": "VS",
+  "year": "1947",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "14",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1890"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue accidentally lists 'VS 1947' under Place of Copying. The scribe is described as 'rāmanagaravāle' (from/resident of Ramnagar).",
+ "_meta": {
+  "reel": "A 475/29",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 769,
+  "out_tok": 991
+ }
+}

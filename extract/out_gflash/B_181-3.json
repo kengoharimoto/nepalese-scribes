@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vimalātmajena",
+   "name": "Vimalātmaja",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vimalātmajena viracitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 923 bhāśu a",
+  "era": "NS",
+  "year": "923",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "a",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1803"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author is named as Vimalātmaja ('son of Vimala'). In the date, 'bhāśu a' stands for Bhādrapada śukla, with 'a' likely abbreviating the tithi (e.g. aṣṭamī or a numeral).",
+ "_meta": {
+  "reel": "B 181/3",
+  "model": "gemini-flash-latest",
+  "secs": 8.2,
+  "in_tok": 664,
+  "out_tok": 923
+ }
+}

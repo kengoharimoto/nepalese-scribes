@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jaya ratnamaladeva",
+   "name": "Jayaratnamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "prabhūṭhākula"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jaya ratnamaladeva prabhūṭhākulasya vijayarāje",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rathanasiṃhena",
+   "name": "Ratnasiṃha",
+   "roles": [
+    "scribe",
+    "commissioner"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "śrīyaṃgla kāstamaṇḍapanagale madhyamarathyāyā pvaṃdyaṃ vaṃthaṃche",
+   "evidence": "devejñe leṣitaṃ rathanasiṃhena mamahṛtārtha putra patipālayet ajñāni juraṅāna thva sāstra dayakā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīśrī jaya ratnamaladeva prabhūṭhākulasya vijayarāje (2) śrīyaṃgla kāstamaṇḍapanagale ... leṣitaṃ rathanasiṃhena"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 631 māghaśukra || pañcamyāyāṃ (4) titho",
+  "era": "NS",
+  "year": "631",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1511"
+ },
+ "place": {
+  "as_written": "śrīyaṃgla kāstamaṇḍapanagale madhyamarathyāyā pvaṃdyaṃ vaṃthaṃche",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "mamahṛtārtha putra patipālayet",
+ "notes": "",
+ "_meta": {
+  "reel": "C 40/2",
+  "model": "gemini-flash-latest",
+  "secs": 15.5,
+  "in_tok": 1161,
+  "out_tok": 2066
+ }
+}

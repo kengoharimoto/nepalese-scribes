@@ -1,0 +1,84 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmānadevarājayā",
+   "name": "Mānadeva",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "rāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmānadevarājayāparipāṭajñaro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "devajñaravivarmmane",
+   "name": "Ravivarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "Bhaktapaṭṭana, Khanimaṃ ṭola",
+   "evidence": "devajñaravivarmmane ... cosyaṃ viyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "nāmakṛṣṇābhāro",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "śilpakālanāyaka",
+    "bhāro"
+   ],
+   "affiliation": "",
+   "residence": "Nekhāco ṭola",
+   "evidence": "nekhācoṭolayāśilpakālanāyakanāmakṛṣṇābhāro yātā cosyaṃ viyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "nekhācoṭolayāśilpakālanāyakanāmakṛṣṇābhāro yātā cosyaṃ viyā"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 764 kārttikaśudi paṃcamīpūrvvāṣāḍhānakṣatre śūlayoge śūkravāsare",
+  "era": "NS",
+  "year": "764",
+  "month": "kārttika",
+  "paksa": "śudi",
+  "tithi": "paṃcamī",
+  "weekday": "śūkravāsare",
+  "nakshatra_yoga": "pūrvvāṣāḍhānakṣatre śūlayoge",
+  "ce_approx": "1644"
+ },
+ "place": {
+  "as_written": "śrībhaktapaṭṭnādhivāsī || khanimaṃṭola",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "Mānadeva is mentioned in Newari as the authority/author of the work ('śrīmānadevarājayā paripāṭi julo'), not as the reigning monarch at the time of copying.",
+ "_meta": {
+  "reel": "B 46/5",
+  "model": "gemini-flash-latest",
+  "secs": 15.4,
+  "in_tok": 843,
+  "out_tok": 2037
+ }
+}

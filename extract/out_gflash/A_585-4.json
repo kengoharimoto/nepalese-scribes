@@ -1,0 +1,123 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "subhūticandra",
+   "name": "Subhūticandra",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "subhūticandrakṛto yaṃ subantaratnākaraṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "trailokyamallanarendra",
+   "name": "Trailokyamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "narendra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "trailokyamallanarendrabhuvaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "jagajyotirmallanṛpendraḥ",
+   "name": "Jagajjyotirmalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpendra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "patiratnaṃ ca jagajyotirmallanṛpendraḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "kkāśirāmaḥ",
+   "name": "Kāśirāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "etatsamayalikhitaṃ tamnābhidha kkāśirāmaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "satte rāma",
+   "name": "Satterāma",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāśirāmasya ātmaputraḥ | satte rāmabodhanārthaṃ asmiṃ pusṭaka likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "trailokyamallanarendrabhuvaḥ | patiratnaṃ ca jagajyotirmallanṛpendraḥ"
+  },
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "jagajyotirmallanṛpendraḥ | ... etatsamayalikhitaṃ tamnābhidha kkāśirāmaḥ"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "kāśirāmasya ātmaputraḥ | satte rāma"
+  },
+  {
+   "from": "p4",
+   "type": "wrote_for",
+   "to": "p5",
+   "evidence": "kāśirāmasya ātmaputraḥ | satte rāmabodhanārthaṃ asmiṃ pusṭaka likhitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "caitramāse śukre pakṣe | dvitīyāyāṃ tithau bṛspativāre ... sambat 7037",
+  "era": "NS",
+  "year": "7037",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1617"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for the education/instruction of the scribe's son Satterāma (ātmaputraḥ satterāmabodhanārthaṃ)",
+ "notes": "The year is written as 'sambat 7037', an obvious scribal error for NS 737, which corresponds to the reign of Jagajjyotir Malla of Bhaktapur (~1617 CE).",
+ "_meta": {
+  "reel": "A 585/4",
+  "model": "gemini-flash-latest",
+  "secs": 12.2,
+  "in_tok": 901,
+  "out_tok": 2171
+ }
+}

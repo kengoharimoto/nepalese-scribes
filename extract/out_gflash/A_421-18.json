@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ṣaḍīdārasya",
+   "name": "Ṣaḍīdāra",
+   "roles": [
+    "reader",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ṣaḍīdārasya pāṭhārthaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "ṣaḍīdārasya pāṭhārtham",
+ "notes": "ṣaḍīdāra may represent the Nepali administrative title kharīdāra used without an accompanying personal name, or it could be a personal name.",
+ "_meta": {
+  "reel": "A 421/18",
+  "model": "gemini-flash-latest",
+  "secs": 8.4,
+  "in_tok": 646,
+  "out_tok": 927
+ }
+}

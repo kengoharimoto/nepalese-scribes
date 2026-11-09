@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "saśrīdvārikānātharāmaśarmā",
+   "name": "Dvārikānātharāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "saśrīdvārikānātharāmaśarmālikhitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "sṃhṛ 67 miti āṣāḍha kṛṣṇā pṛ 4 ro 2",
+  "era": "NS",
+  "year": "961",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "4",
+  "weekday": "ro 2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1841"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue reads the scribe as 'Śrīrāma Śarmā' and the date as NS 961. The transcription 'sṃhṛ 67' appears to be an error/misreading for 'saṃ 961'. The scribe's name may be Dvārikānātharāma Śarmā or Rāma Śarmā preceded by Dvārikānātha.",
+ "_meta": {
+  "reel": "B 512/10",
+  "model": "gemini-flash-latest",
+  "secs": 29.5,
+  "in_tok": 747,
+  "out_tok": 3626
+ }
+}

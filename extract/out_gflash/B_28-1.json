@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadarimalladeva",
+   "name": "Arimalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājādhirājaparameśvaraparamabhaṭṭārakaśrīmadarimalladevavijayarājye",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 339 māghaśuklapratipada(!)",
+  "era": "NS",
+  "year": "339",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "pratipad",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1219"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribe or commissioner is named ('likhitam idaṃ pustakam').",
+ "_meta": {
+  "reel": "B 28/1",
+  "model": "gemini-flash-latest",
+  "secs": 7.8,
+  "in_tok": 804,
+  "out_tok": 890
+ }
+}

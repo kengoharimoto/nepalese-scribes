@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon contains only the standard scribal formula (yathādṛṣṭaṃ tathā likhitaṃ), ritual verses on the ten herbs (daśauṣadhi) and seven grains (saptavrīhi), and invocations to forms of Gaṇeśa (Maṇivināyaka, Āmoda, Pramoda, etc.). No human agents, date, or place are mentioned.",
+ "_meta": {
+  "reel": "A 1221/17",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 831,
+  "out_tok": 757
+ }
+}

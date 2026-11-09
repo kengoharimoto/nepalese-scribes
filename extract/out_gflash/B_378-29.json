@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devīdattaśarmaṇā",
+   "name": "Devīdatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ devīdattaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 18 || 10 || samvat || 19 || 45 || sāla miti vaiśāṣa vadi 30 roja || 6 ||",
+  "era": "VS",
+  "year": "1945 (ŚS 1810)",
+  "month": "vaiśāṣa",
+  "paksa": "vadi",
+  "tithi": "30",
+  "weekday": "roja 6 (śukravāra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1888"
+ },
+ "place": {
+  "as_written": "devapattananagarāt paścima",
+  "normalized": "Deopatan"
+ },
+ "purpose": "",
+ "notes": "Both Śaka era 1810 and Vikrama Samvat 1945 are specified.",
+ "_meta": {
+  "reel": "B 378/29",
+  "model": "gemini-flash-latest",
+  "secs": 8.7,
+  "in_tok": 874,
+  "out_tok": 1077
+ }
+}

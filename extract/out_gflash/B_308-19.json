@@ -1,0 +1,83 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhānudattamiśra",
+   "name": "Bhānudatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhānudattamiśraviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "pantopanāmakaḥ kaścin nāmnā śivanidhir dvijaḥ",
+   "name": "Śivanidhi",
+   "roles": [
+    "scribe",
+    "donor"
+   ],
+   "titles": [
+    "panta",
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pantopanāmakaḥ kaścin nāmnā śivanidhir dvijaḥ || 1 || likhitvā dattavān",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vāṇīvilāsaviduṣe",
+   "name": "Vāṇīvilāsa",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [
+    "vidvas"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dattavān kāvyabhāvanājñāya cārv imām (!) || vāṇīvilāsaviduṣe",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "likhitvā dattavān kāvyabhāvanājñāya cārv imām (!) || vāṇīvilāsaviduṣe"
+  }
+ ],
+ "date": {
+  "as_written": "rasābhrāśvakṣitiyute śāke",
+  "era": "ŚS",
+  "year": "1706",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1784"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "parārtha (given to the scholar Vāṇīvilāsa)",
+ "notes": "Chronogram: rasa (6), abhra (0), aśva (7), kṣiti (1) = Śāke 1706. Vāṇīvilāsa may alternatively be an epithet describing the scholar ('viduṣe') rather than a personal name, hence medium confidence.",
+ "_meta": {
+  "reel": "B 308/19",
+  "model": "gemini-flash-latest",
+  "secs": 13.6,
+  "in_tok": 798,
+  "out_tok": 1928
+ }
+}

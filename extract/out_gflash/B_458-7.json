@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sāmarājena",
+   "name": "Sāmarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sāmarājena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "sa[m]vat 1687",
+  "era": "VS",
+  "year": "1687",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1630"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Nṛsiṃha mentioned in 'nṛsiṃhakṛpayā' and 'śrīnṛsiṃhāya namaḥ' is the deity.",
+ "_meta": {
+  "reel": "B 458/7",
+  "model": "gemini-flash-latest",
+  "secs": 7.8,
+  "in_tok": 737,
+  "out_tok": 745
+ }
+}

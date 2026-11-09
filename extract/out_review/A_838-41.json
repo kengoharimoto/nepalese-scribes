@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Added 'vājapeyin' to the scribe's titles (ācāryavājappyayi = ācārya vājapeyī) instead of leaving it only in the notes",
+   "Normalized the residence: near Guhyeśvarī at Paśupati, belonging to Kāṣṭhamaṇḍapa (Kathmandu)",
+   "Place of copying cleared: kāṣṭhapaṃḍapasthāna describes where the scribe belongs. It is not stated as the place of copying. Explained in notes",
+   "Notes expanded on the corrupt forms and the era"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ācāryavājappyayi(‥)paśupatiśrīguhyaśvarīnīkaṭanī(!)vāsinakāṣṭhapaṃḍapasthānabhairavānda-ācārya(!)ṇa",
+   "name": "Bhairavānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "ācārya",
+    "vājapeyin"
+   ],
+   "affiliation": "",
+   "residence": "near Guhyeśvarī, Paśupati (paśupatiśrīguhyeśvarīnikaṭanivāsin); Kāṣṭhamaṇḍapa-sthāna (Kathmandu)",
+   "evidence": "bhairavānda-ācārya(!)ṇa liṣita⟨ṃ⟩m",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1854 phālguṇakṛṣṇa-aṣṭamī(!)",
+  "era": "VS",
+  "year": "1854",
+  "month": "phālguna",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1798"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is not named. 'saṃvat 1854' in a Devanagari MS fits VS; NS 1854 is impossible. VS 1854 Phālguna kṛṣṇa 8 falls around February–March 1798 CE. The name is written 'bhairavānda', a corrupt form of Bhairavānanda (the catalogue has Bairavānanda). 'vājappyayi(‥)' is read as vājapeyī, a brahmin title. The scribe is described as living near Guhyeśvarī at Paśupati, and the compound continues with 'kāṣṭhapaṃḍapasthāna' (Kāṣṭhamaṇḍapa = Kathmandu). That part most likely describes where he belongs. It does not explicitly name the place of copying, though copying in the Kathmandu area is probable.",
+ "_meta": {
+  "reel": "A 838/41",
+  "model": "opus",
+  "cost_usd": 0.5675696,
+  "secs": 28.3
+ }
+}

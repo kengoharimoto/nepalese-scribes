@@ -1,0 +1,77 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīviśvanāthapaṃcānana-",
+   "name": "Viśvanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "pañcānana"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīviśvanāthapaṃcānanaviracitto",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "viśvanātha-",
+   "name": "Viśvanātha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viśvanāthātmajaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "viśvanāthātmajaḥ",
+   "name": "Viśvanāthātmaja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitavāṃś cedaṃ viśvanāthātmajaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "viśvanāthātmajaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃ 1857 pauṣasya śuklapakṣe tu pratipad divase",
+  "era": "VS",
+  "year": "1857",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "pratipad",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1800"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon contains two scribal notes: a metrical verse dating the copy to VS 1857 Pauṣa śukla pratipad by 'the son of Viśvanātha' (viśvanāthātmajaḥ), and a prose line stating 'idaṃ bhāṣāpāreccheda‥pustakaṃ mayā likhitaṃ kuja‥re'. 'śukle' in the verse might be an error for 'śukre' (Friday), though the prose line mentions Tuesday ('kuja‥re').",
+ "_meta": {
+  "reel": "E 1991/9",
+  "model": "gemini-flash-latest",
+  "secs": 32.8,
+  "in_tok": 840,
+  "out_tok": 3939
+ }
+}

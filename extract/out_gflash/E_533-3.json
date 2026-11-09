@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīciraṃjīvabhaṭṭācāryya",
+   "name": "Cirañjīva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīciraṃjīvabhaṭṭācāryyakṛta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīmadvikra[[ma]]bhūbhṛtaḥ śaraphaṇī++++drair mite yāte varṣagaṇe cakaṃsaripuvallavyṛkṣa(?) māse male | pakṣārddhe gurupuṣpake sudiva⁅se⁆",
+  "era": "VS",
+  "year": "śaraphaṇī++++draiḥ",
+  "month": "māse male",
+  "paksa": "pakṣārddhe",
+  "tithi": "",
+  "weekday": "guru",
+  "nakshatra_yoga": "puṣpaka",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "sakalo pi vaṃśo 'vicchinnaḥ paṇḍito bhavatu",
+ "notes": "The scribe's name is lost in the lacuna after 'likhita+++++'. The date chronogram is partially effaced ('śaraphaṇī++++drair mite').",
+ "_meta": {
+  "reel": "E 533/3",
+  "model": "gemini-flash-latest",
+  "secs": 11.6,
+  "in_tok": 1262,
+  "out_tok": 1357
+ }
+}

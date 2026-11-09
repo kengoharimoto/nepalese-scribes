@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājopādhyāya śrībhāskararājena",
+   "name": "Bhāskararāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "rājopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājopādhyāya śrībhāskararājena liṣitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 777 mārggaśiravadi 10 thva kuhnu",
+  "era": "NS",
+  "year": "777",
+  "month": "mārggaśira",
+  "paksa": "vadi",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1657"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīśrīśrī bhavāṇīprīṇātu",
+ "notes": "",
+ "_meta": {
+  "reel": "A 239/7",
+  "model": "gemini-flash-latest",
+  "secs": 7.8,
+  "in_tok": 996,
+  "out_tok": 1167
+ }
+}

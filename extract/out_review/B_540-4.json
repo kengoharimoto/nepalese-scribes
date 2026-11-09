@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Notes made more precise: ŚS 1772 = c. 1850 CE and VS 1902 = c. 1845 CE, so the two eras disagree by 5 years (ŚS 1772 would correspond to VS 1907). Also noted the corrupt words in the colophon."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṛṣṇalālaśarmaṇaḥ",
+   "name": "Kṛṣṇalāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ kṛṣṇalālaśarmaṇaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1772 saṃvat 1902",
+  "era": "ŚS",
+  "year": "1772",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1850"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The two years in the colophon don't agree. Śāke 1772 gives c. 1850 CE. Saṃvat 1902, if it is Vikrama, gives c. 1845 CE, but the Vikrama year matching ŚS 1772 would be 1907. So one of the two numbers is probably a slip. ŚS 1772 is used here because it matches the catalogue field. 'kṛṣṇalālaśarmaṇaḥ' is a genitive after likhitaṃ ('written by Kṛṣṇalāla Śarman'). There are also scribal errors in the colophon: 'saṃdāde' stands for saṃvāde, and the cataloguer marked '†paphāṇa†' as corrupt.",
+ "_meta": {
+  "reel": "B 540/4",
+  "model": "opus",
+  "cost_usd": 0.0467628,
+  "secs": 9.7
+ }
+}

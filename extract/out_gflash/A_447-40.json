@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "uddhavena",
+   "name": "Uddhava",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛṣṇātmajena uddhavena iyaṃ śrāddhapaddhatir likhitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kṛṣṇa-",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛṣṇātmajena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "kṛṣṇātmajena uddhavena"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1730 śakeṃ 1585 āśvinaśūddha 1 budhe",
+  "era": "VS",
+  "year": "1730",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1673"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthaṃ ca",
+ "notes": "Both Saṃvat 1730 and Śaka 1585 are given, which are discrepant by ca. 10 years (VS 1730 corresponds to ŚS 1595 / 1673 CE, while ŚS 1585 corresponds to VS 1720 / 1663 CE). The Vedic ṛṣis (Ānanda, Kardama, Ciklīta, etc.) at the end belong to the Śrīsūkta-viniyoga.",
+ "_meta": {
+  "reel": "A 447/40",
+  "model": "gemini-flash-latest",
+  "secs": 12.1,
+  "in_tok": 898,
+  "out_tok": 1839
+ }
+}

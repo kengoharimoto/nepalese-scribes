@@ -1,0 +1,76 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 (Naranārāyaṇa): roles changed from king + commissioner to 'other'. 'kāritāyāṃ' means he commissioned the composition of the original Tantrakaumudī, not this copy, so he is not the reigning king of this manuscript.",
+   "p1 residence 'Kamatā' removed: it is only implied by the title kamateśvara, which stays in titles.",
+   "Notes: added a remark on the catalogue's 'Kamateśvaramalla' field."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahārājādhirājaśrīmalladevakamateśvaranaranārāyaṇa",
+   "name": "Malladeva Naranārāyaṇa",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "kamateśvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmalladevakamateśvaranaranārāyaṇakāritāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mahāmohopādhyāyatarkapañcānanaṭhakkuraśrīdevanātha",
+   "name": "Devanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "tarkapañcānana",
+    "ṭhakkura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmohopādhyāyatarkapañcānanaṭhakkuraśrīdevanāthakṛ(8)tāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "naranārāyaṇakāritāyāṃ ... devanāthakṛ(8)tāyāṃ"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "This is the author's colophon for the work, not a scribal colophon. It says that Devanātha Ṭhakkura (Tarkapañcānana) composed the Tantrakaumudī at the command of King Naranārāyaṇa of Kamatā (Koch Bihar, r. c. 1540–1587), styled Malladeva. Naranārāyaṇa commissioned the original text, not this copy, so he is not the reigning king of this manuscript. The catalogue's 'King: Kamateśvaramalla?' is a garbled reading of the compound 'malladeva-kamateśvara-naranārāyaṇa'. 'mahāmohopādhyāya' is a scribal error for mahāmahopādhyāya. 'samastakṛpayādhirājamaṇi' is probably corrupt (perhaps for samastabhūpādhirājamaṇi?). The excerpt gives no scribe, date or place.",
+ "_meta": {
+  "reel": "B 125/5",
+  "model": "opus",
+  "cost_usd": 0.0586348,
+  "secs": 12.3
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmacaṃdrācārya",
+   "name": "Rāmacandra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmacaṃdrācāryaviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃbat 1699 varṣe mārgaśirṣe māsi amāvāsyāyāṃ tithau śubhavasare",
+  "era": "VS",
+  "year": "1699",
+  "month": "mārgaśirṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "amāvāsyā",
+  "weekday": "śubhavasara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1642"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 555/4",
+  "model": "gemini-flash-latest",
+  "secs": 8.0,
+  "in_tok": 722,
+  "out_tok": 996
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrī sumati jayajitāmitrāmalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrī sumati jayajitāmitrāmalladevasana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 815 mārggaśira śudi 2 thvakuhnu",
+  "era": "NS",
+  "year": "815",
+  "month": "mārggaśira",
+  "paksa": "śudi",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1694"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Catalogue records Bhaktapur as place of copying based on King Jitāmitra Malla of Bhaktapur, but place is not explicitly written in the colophon.",
+ "_meta": {
+  "reel": "A 1235/19 (6)",
+  "model": "gemini-flash-latest",
+  "secs": 7.3,
+  "in_tok": 1180,
+  "out_tok": 948
+ }
+}

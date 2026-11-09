@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe confidence lowered from high to medium: the cataloguer's parentheses in 'viśva(la)jana' mark the syllable 'la' as uncertain, so the name could be Viśvalajana or Viśvajana",
+   "Notes expanded: the era is not named in the colophon, and no tithi is given"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivācārya, viśva(la)jana",
+   "name": "Viśvalajana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śivācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ śivācārya, viśva(la)jana",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 790 vaiśāṣa kṛṣṇa",
+  "era": "NS",
+  "year": "790",
+  "month": "vaiśāṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1670"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives only 'samvat 790' without naming the era. Reading it as NS (790 + 880 = c. 1670 CE) fits the Newari script and the catalogue. As VS it would be far too early. The scribe's name is written viśva(la)jana; the cataloguer's parentheses probably mark 'la' as uncertain, so the name may be Viśvajana. Śivācārya is taken as a title or caste name (a Śaiva priest). No tithi is given, only Vaiśākha kṛṣṇa.",
+ "_meta": {
+  "reel": "B 190/12",
+  "model": "opus",
+  "cost_usd": 0.044386800000000004,
+  "secs": 8.6
+ }
+}

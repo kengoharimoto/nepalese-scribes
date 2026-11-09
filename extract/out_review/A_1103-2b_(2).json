@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday: 'roja 7' read as the 7th day of the week, i.e. Saturday (if Sunday is counted as day 1)",
+   "notes: VS 1857 and ŚS 1722 agree (both give 1800 CE), so there is no conflict between eras; added the Persianate terms śāla/roja; added a note on the month and on the catalogue's date",
+   "Kālidāsa kept as author: the colophon gives him as author, though the attribution is traditional; the person list is otherwise confirmed"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kālidāsa",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kālidāsakṛtaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śamvat 1857 śāla paṣṭa śudi 8 roja 7 śāke 1722",
+  "era": "VS",
+  "year": "1857",
+  "month": "paṣṭa (Pauṣa?)",
+  "paksa": "śudi",
+  "tithi": "8",
+  "weekday": "roja 7 (Saturday?)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1800"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The two eras agree: VS 1857 − 57 = 1800 and ŚS 1722 + 78 = 1800. The date uses Persianate formulas: śāla (sāl, 'year') and roja (roz, 'day'), so roja 7 is probably the 7th weekday, Saturday. The month 'paṣṭa' is corrupt; Pauṣa is the most likely reading. If it is Pauṣa śukla 8, the date would fall around late December 1800 or early January 1801. That does not fit the catalogue's guess of 24 November 1800, which would point to Mārgaśīrṣa. The scribe is not named ('liṣītam edam postakam'). The attribution of the Ghaṭakarpara to Kālidāsa is traditional. The verse after the colophon is a stray śloka (dvijarājamukhī…) with no prosopographical content.",
+ "_meta": {
+  "reel": "A 1103/2b (2)",
+  "model": "opus",
+  "cost_usd": 0.5477576000000001,
+  "secs": 22.6
+ }
+}

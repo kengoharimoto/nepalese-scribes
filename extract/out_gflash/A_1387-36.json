@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmahākavisubaṃdhu",
+   "name": "Subandhu",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahākavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahākavisubaṃdhuviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvinodaśarmaṇā",
+   "name": "Vinodaśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ śrīvinodaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "khavahniśailadharaṇī saṃmite pramāthināmni samvatsare āṣāḍamāsya(!) site raviyutadaśamyāṃ",
+  "era": "ŚS",
+  "year": "1730",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1808"
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Varanasi"
+ },
+ "purpose": "",
+ "notes": "The chronogram 'khavahniśailadharaṇī' gives 1730 (kha = 0, vahni = 3, śaila = 7, dharaṇī = 1), interpreted as Śaka Saṃvat 1730.",
+ "_meta": {
+  "reel": "A 1387/36",
+  "model": "gemini-flash-latest",
+  "secs": 7.9,
+  "in_tok": 785,
+  "out_tok": 1200
+ }
+}

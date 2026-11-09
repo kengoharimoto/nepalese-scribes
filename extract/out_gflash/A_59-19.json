@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmadattena",
+   "name": "Rāmadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ rāmadattena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 523 kārttikakṛṣṇadvitīyāyāṃ | mṛgaśiranakṣatre 〇 | siddhiyoge (!) | śaneścaravāsare",
+  "era": "NS",
+  "year": "523",
+  "month": "kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvitīyā",
+  "weekday": "śaneścaravāsara",
+  "nakshatra_yoga": "mṛgaśiranakṣatra, siddhiyoga",
+  "ce_approx": "1403"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 59/19",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 753,
+  "out_tok": 599
+ }
+}

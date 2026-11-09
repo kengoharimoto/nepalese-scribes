@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 564 jeṣṭhaśukla trīasvā(!) tīthau tiṣitimanatejaguru",
+  "era": "NS",
+  "year": "564",
+  "month": "jeṣṭha",
+  "paksa": "śukla",
+  "tithi": "trīasvā(!)",
+  "weekday": "guru",
+  "nakshatra_yoga": "tiṣitimanateja",
+  "ce_approx": "1444"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon contains only the title/conclusion formula and a date with pañcāṅga details (tithi, tiṣi [Tiṣya nakṣatra], etc., and guru [Thursday]); no human persons (scribe, commissioner, owner, king) are mentioned.",
+ "_meta": {
+  "reel": "B 12/16a (1)",
+  "model": "gemini-flash-latest",
+  "secs": 18.0,
+  "in_tok": 685,
+  "out_tok": 1921
+ }
+}

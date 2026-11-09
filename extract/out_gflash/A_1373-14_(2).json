@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "siṃmanalasiṃ",
+   "name": "Siṃmanalasiṃha",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gītā siṃmanalasiṃ nāpā(7)vana",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvatra 958 || yanyāpuhnī 4 līsa",
+  "era": "NS",
+  "year": "958",
+  "month": "Yañlā",
+  "paksa": "",
+  "tithi": "puhnī 4 līsa",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1838"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The Newari phrase 'coyāgu gītā siṃmanalasiṃ nāpāvana' likely means 'the copied Gītā went together with Siṃmanalasiṃ[ha]' (possibly a colloquial/phonetic form of Siṃhanarasiṃha: Newari r/l and h/m variation).",
+ "_meta": {
+  "reel": "A 1373/14 (2)",
+  "model": "gemini-flash-latest",
+  "secs": 17.4,
+  "in_tok": 710,
+  "out_tok": 2374
+ }
+}

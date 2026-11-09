@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayabhūpatīndramalladevasana",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrī jayabhūpatīndramalladevasana",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 827 bhādra sudi 13",
+  "era": "NS",
+  "year": "827",
+  "month": "bhādra",
+  "paksa": "sudi",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1707"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrī3kaumārīskelupolalayā gajuli ccāya dayakā juroro",
+ "notes": "The colophon on fol. 34v records a deed or dedication by King Bhūpatīndra Malla of Bhaktapur (the making/gilding of a finial/gajuli for Kaumārī).",
+ "_meta": {
+  "reel": "B 194/17",
+  "model": "gemini-flash-latest",
+  "secs": 9.2,
+  "in_tok": 828,
+  "out_tok": 1082
+ }
+}

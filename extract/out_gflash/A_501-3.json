@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "haribhaṭṭācāryyātmaja",
+   "name": "Haribhaṭṭācārya",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "Ratnaghaṭa",
+   "evidence": "ratnaghaṭīyaharibhaṭṭācāryyātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "raghunandabhaṭṭācāryya",
+   "name": "Raghunandana",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "raghunandabhaṭṭācāryyaviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīdevakṛṣṇa",
+   "name": "Devakṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lilekha śrīdevakṛṣṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "haribhaṭṭācāryyātmajaśrīraghunandabhaṭṭācāryya"
+  }
+ ],
+ "date": {
+  "as_written": "nepālābde || yugagrahavasurabde kārttike śuklapakṣake ... nepālasaṃvat 894 miti kārttikamāse śuklapakṣe saptamyāṃ tithau śukravāsare",
+  "era": "NS",
+  "year": "894",
+  "month": "Kārttika",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1774"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 501/3",
+  "model": "gemini-flash-latest",
+  "secs": 8.8,
+  "in_tok": 801,
+  "out_tok": 1247
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī upādhyā uddhavarājena",
+   "name": "Uddhavarāja",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "upādhyā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī upādhyā uddhavarājena sañcitam idaṃ pustakaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīuddhavanāthaguro(!)",
+   "name": "Uddhavanātha",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "guru"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīuddhavanāthaguro(!) prasādāc",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīkālīdāsena",
+   "name": "Kālīdāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkālīdāsenalikhitam idaṃ pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "śrīuddhavanāthaguro(!) prasādācchrīkālīdāsenalikhitam idaṃ pustakaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 746 caitra śukla navamyāntithau puṣyanakṣatre ādityavāsare",
+  "era": "NS",
+  "year": "746",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "navamī",
+  "weekday": "ādityavāsara",
+  "nakshatra_yoga": "puṣya",
+  "ce_approx": "1626"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīśrīśrīdevīprītir astu",
+ "notes": "Two dates are given: first, NS 731 kārttika kṛṣṇa 3 budhavāra (Rohiṇī nakṣatra), recording when the Guhyakālīpratiṣṭhā was performed and the book was collected/acquired by Upādhyāya Uddhavarāja (with a pratiṣṭhā at Caparitale); second, NS 746 caitra śukla 9 ādityavāsare (Puṣya nakṣatra), the date of copying by Kālīdāsa. Guru Uddhavanātha and Upādhyāya Uddhavarāja may be the same person.",
+ "_meta": {
+  "reel": "A 235/2",
+  "model": "gemini-flash-latest",
+  "secs": 22.4,
+  "in_tok": 901,
+  "out_tok": 3757
+ }
+}

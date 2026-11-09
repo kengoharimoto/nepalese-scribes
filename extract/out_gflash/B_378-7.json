@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gahvaropanāmakamurāribhaṭtena",
+   "name": "Murāribhaṭṭa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "Gahvara (upanāman)",
+   "residence": "",
+   "evidence": "gahvaropanāmakamurāribhaṭtena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 1879 phālguṇakṛṣṇa 14 bhānau ... mahāśivarātridine",
+  "era": "VS",
+  "year": "1879",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "14",
+  "weekday": "bhānau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1823"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svarthaṃ parārthaṃ ca",
+ "notes": "The scribe has the upanāman (surname/alias) Gahvara.",
+ "_meta": {
+  "reel": "B 378/7",
+  "model": "gemini-flash-latest",
+  "secs": 7.7,
+  "in_tok": 812,
+  "out_tok": 984
+ }
+}

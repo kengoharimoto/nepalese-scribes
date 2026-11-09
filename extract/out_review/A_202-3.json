@@ -1,0 +1,115 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Saccidānandanātha: role changed from 'teacher' to 'other'. He is the author's guru, not a teacher connected with this copy. The corrupt 'caraṇāraviṃdadvaṃdvānte vā siro' is read as '-dvandvāntevāsinā' (pupil), so the pupil_of relation stays.",
+   "Bhākuṃtu: 'donor' added, because he wrote the copy and gave it away ('coyā va ... viyā'). Confidence lowered to medium because the name form is unusual.",
+   "Viśvanātha: 'caravanihma' recorded as a possible residence or locality (low certainty). Kept as beneficiary and owner, since he received the copy.",
+   "Added a relation: Bhākuṃtu gave the book to Viśvanātha ('other').",
+   "Notes: the corrupt passage, the odd yoga name and the catalogue's scribe error are now recorded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī śrī vidyānaṃdanāthena",
+   "name": "Vidyānandanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vidyānaṃdanāthena kṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīsaccidānaṃdanātha",
+   "name": "Saccidānandanātha",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsaccidānaṃdanāthacaraṇāraviṃdadvaṃdvānte vā siro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "brāhmaṇa śrībhākuṃtuna",
+   "name": "Bhākuṃtu",
+   "roles": [
+    "scribe",
+    "donor"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "brāhmaṇa śrībhākuṃtuna coyā va ... viyā juro",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrī upādhyā śrīviśvanāthaṃ",
+   "name": "Viśvanātha",
+   "roles": [
+    "beneficiary",
+    "owner"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "caravani? (śrī caravanihma)",
+   "evidence": "śrī caravanihma śrī upādhyā śrīviśvanāthaṃ jūyāta viyā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "śrīsaccidānaṃdanāthacaraṇāraviṃdadvaṃdvānte vā siro (= -antevāsinā)"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "brāhmaṇa śrībhākuṃtuna coyā va ... śrī upādhyā śrīviśvanāthaṃ jūyāta viyā juro"
+  },
+  {
+   "from": "p3",
+   "type": "other",
+   "to": "p4",
+   "evidence": "śrīviśvanāthaṃ jūyāta viyā juro (gave the book to him)"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 782 śrīvaṇa śuklapratipadyān tīthau puṣyānakṣatre yakṣe yoge ādityadine",
+  "era": "NS",
+  "year": "782",
+  "month": "Śrāvaṇa (śrīvaṇa)",
+  "paksa": "śukla",
+  "tithi": "pratipad",
+  "weekday": "Sunday (ādityadina)",
+  "nakshatra_yoga": "Puṣya nakṣatra; yoga 'yakṣa' (corrupt)",
+  "ce_approx": "1662"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for merit (puṇya); the copy was given to Upādhyāya Viśvanātha",
+ "notes": "The catalogue names Viśvanātha Upādhyāya as the scribe, but the colophon says the Brahmin Bhākuṃtu wrote the copy and gave it to Viśvanātha ('brāhmaṇa śrībhākuṃtuna coyā va ... śrīviśvanāthaṃ jūyāta viyā juro'). 'caraṇāraviṃdadvaṃdvānte vā siro' is a corruption of '-dvandvāntevāsinā' ('pupil at the lotus feet of'). 'śrī caravanihma' probably means 'the one of Caravani/Carava', perhaps a locality or a quarter; this is uncertain. 'yakṣe yoge' does not match any standard yoga name and is probably corrupt. Bhākuṃtu is an unusual name form ('-na' is the Newari ergative). NS 782 = c. 1662 CE.",
+ "_meta": {
+  "reel": "A 202/3",
+  "model": "opus",
+  "cost_usd": 0.08863080000000001,
+  "secs": 23.8
+ }
+}

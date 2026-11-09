@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumati jayajitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "commissioner",
+    "king"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumati jayajitāmitramalladevasana thva sāphuladayakā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 806 āṣāḍhakṛṣṇa aṣṭamī",
+  "era": "NS",
+  "year": "806",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1686"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Newari 'thva sāphu ladayakā' / 'dayakā' indicates that King Jitāmitramalla of Bhaktapur caused the manuscript to be made.",
+ "_meta": {
+  "reel": "A 346/12",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 706,
+  "out_tok": 848
+ }
+}

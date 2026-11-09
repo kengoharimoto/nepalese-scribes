@@ -1,0 +1,72 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śaṃkarācārya",
+   "name": "Śaṅkarācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśaṃkarācāryaviracitaṃ sauṃdaryalaharīstotraṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rāmacaṃdramiśra",
+   "name": "Rāmacandramiśra",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmacaṃdramiśraviracitā sauṃdaryalaharīṭīkā manoramākhyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rāmacaṃda",
+   "name": "Rāmacandra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "kāskipradeśa",
+   "evidence": "rāmacaṃdasutena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "pañcāṣṭarasabhūśāke gurau ca yamapaṃcake",
+  "era": "ŚS",
+  "year": "1685",
+  "month": "Kārtika",
+  "paksa": "kṛṣṇa",
+  "tithi": "yamapañcaka",
+  "weekday": "gurau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1763"
+ },
+ "place": {
+  "as_written": "kāskipradeśa",
+  "normalized": "Kaski"
+ },
+ "purpose": "",
+ "notes": "The scribe is identified as a Brahmin residing in Kaski and the son of Rāmacandra ('kāskipradeśasaṃsthena rāmacaṃdasutena ca brāhmaṇena'), but his individual name is lost in the following lacuna.",
+ "_meta": {
+  "reel": "A 486/16",
+  "model": "gemini-flash-latest",
+  "secs": 15.3,
+  "in_tok": 825,
+  "out_tok": 2065
+ }
+}

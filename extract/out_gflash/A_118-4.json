@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīviradevavajrācāryena",
+   "name": "Vīradeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīviradevavajrācāryena likhitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 789 vaiśāṣakṛṣṇa paṃcamyāṃ",
+  "era": "NS",
+  "year": "789",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1669"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The phrase 'thaṃdīśvaracāryapūrvam idānīṃ prakāśitaṃ' might refer to an earlier ācārya (Thaṃdīśvarācārya) who revealed/promulgated the text, or to an institution/place; left unextracted due to ambiguity.",
+ "_meta": {
+  "reel": "A 118/4",
+  "model": "gemini-flash-latest",
+  "secs": 9.6,
+  "in_tok": 823,
+  "out_tok": 1323
+ }
+}

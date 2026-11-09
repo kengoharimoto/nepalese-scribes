@@ -1,0 +1,122 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Notes expanded: chronogram checked (vāṇa 5, agni 3, ṛtu 6, mahī 1, read right to left = ŚS 1635, Jaya year, c. 1713/14 CE; this is when the commentary was composed); 'śājadhānyāṃ' flagged as a slip for 'rājadhānyāṃ'; reason given for identifying the place as Vārāṇasī."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīviśākhadattamahākavinā",
+   "name": "Viśākhadatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahākavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīviśākhadattamahākavinā viracite mudrārākṣasanāṭake",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "pṛthoḥ",
+   "name": "Pṛthu",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanmahā(8)rājapadabhājaḥ pṛthoḥ sūnunā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "ḍhuṃḍhirājavyāsayajvanā",
+   "name": "Ḍhuṇḍhirāja",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "vyāsayajvan"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ḍhuṃḍhirājavyāsayajvanā viracite mudrārākṣasanāṭakavyākhyāne",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrītryaṃbakaprabhuvaryā(3)śritena",
+   "name": "Tryambaka",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "prabhu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrītryaṃbakaprabhuvaryā(3)śritena",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śukadevābhidhena",
+   "name": "Śukadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "viśveśvaraśājadhānyāṃ (Vārāṇasī)",
+   "evidence": "likhitam idaṃ saṭīkaṃ mudrārākṣasanāṭakam upādhyāyena śukadevābhidhena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "pṛthoḥ sūnunā"
+  },
+  {
+   "from": "p3",
+   "type": "servant_of",
+   "to": "p4",
+   "evidence": "śrītryaṃbakaprabhuvaryā(3)śritena"
+  }
+ ],
+ "date": {
+  "as_written": "śāke 1653 āśvine māsi",
+  "era": "ŚS",
+  "year": "1653",
+  "month": "āśvina",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1731"
+ },
+ "place": {
+  "as_written": "viśveśvaraśājadhānyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The copying date is Śāke 1653, Āśvina, about 1731 CE. The catalogue's 'ŚŚ 1635' comes from the commentary's composition chronogram, not from the copying date. The chronogram is vāṇa (5) agni (3) ṛtu (6) mahī (1), read right to left as ŚS 1635, in the Jaya year, about 1713/14 CE. Another possibility is that the catalogue swapped the digits of 1653. 'viśveśvaraśājadhānyāṃ' is a slip, probably the cataloguer's, for 'viśveśvararājadhānyāṃ', 'in the capital of Viśveśvara'. Viśveśvara is the presiding deity of Kāśī, so the place is identified as Vārāṇasī. Tryambaka is the commentator's patron ('āśrita' means dependent or protégé); he is not connected with this copy. Pṛthu is named only as the father of the author, Viśākhadatta.",
+ "_meta": {
+  "reel": "A 351/12",
+  "model": "opus",
+  "cost_usd": 0.0815948,
+  "secs": 18.9
+ }
+}

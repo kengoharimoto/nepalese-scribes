@@ -1,0 +1,71 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date: weekday given as Thursday (guro = guruvāra); month 'induṣa' marked uncertain (pauṣa?); year 1714 kept but flagged as a guess because 'badhur ddaśe' is corrupt",
+   "p2/relation: kept at low confidence; the notes now give other readings (the 'upā(dhyāya)' title may belong to Mohanajīka himself, or Devajī may be a co-scribe)",
+   "Notes: the Hindi/Braj lines after the colophon are now mentioned (no person named, so nothing extracted from them)"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mohanajīkena",
+   "name": "Mohanajīka",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mohanajīkena likhiteyaṃ pustikā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "upādevajīnena",
+   "name": "Devajī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "upādevajīnena mohanajīkena",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "upādevajīnena mohanajīkena"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvan saptadaśe śate badhur ddaśe varṣenduṣaśūklādvādaśī guro(!)",
+  "era": "VS",
+  "year": "1714",
+  "month": "induṣa (pauṣa?)",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "Thursday (guro)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1657"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'saṃvan saptadaśe śate badhur ddaśe varṣe' means 'in the 17th century of the era (the 1700s), in the year …-daśa'. 'badhur ddaśe' is corrupt. Reading it as caturdaśe gives 1714, but other readings (e.g. vidhu = 1 → 1711) are possible. The era is not named; VS is assumed (Devanagari script, North Indian formula), which gives about 1657/58 CE. The month 'induṣa' (from 'varṣenduṣa') is probably corrupt, perhaps for pauṣa. 'upādevajīnena' is unclear. It could be a haplography for upā[dhyāya]-devajī-[sū]nunā ('son of Upādhyāya Devajī'), which is the reading used here. Alternatively the title upādhyāya may belong to the scribe, or Devajī may be a co-scribe. The scribe's name follows the catalogue (Mohanajīka); -jī is an honorific, so the base name may be Mohana. The lines 'ālohannamīnīpothī | ḍhānovamaḍīmītākī | rādhīyasarasīño hī' look like a corrupt Hindi/Braj verse, possibly an owner's or reader's jotting ('pothī' = book). No person can be read from them with confidence.",
+ "_meta": {
+  "reel": "B 484/4",
+  "model": "opus",
+  "cost_usd": 0.5823976,
+  "secs": 37.4
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "haladharo",
+   "name": "Haladhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vipro haladharo nāma saṃpūrṇaṃ likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vedanavagrahe yāte naipāle mārgaśīrṣake || tṛtīyākṛṣṇapakṣasya dine sūrye ca taddine",
+  "era": "NS",
+  "year": "994",
+  "month": "Mārgaśīrṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "3",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1873"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "sadāśiva suprasaṃno sty",
+ "notes": "Chronogram: veda (4) - nava (9) - graha (9) = NS 994.",
+ "_meta": {
+  "reel": "B 232/5",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 771,
+  "out_tok": 866
+ }
+}

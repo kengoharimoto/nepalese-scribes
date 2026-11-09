@@ -1,0 +1,143 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: removed 'beneficiary' and added 'commissioner'. As dānapati he sponsored the copy. Confidence lowered to medium because the word before his name is corrupt.",
+   "p3: name given as Jedhaṃ, the cataloguer's correction ji(je). Confidence set to medium.",
+   "Relations: added p3 son_of p2 and p5 son_of p4.",
+   "Date: weekday given as Sunday. Checked that the sun in Makara fits Māgha and that the moon in Meṣa fits Aśvinī. ce_approx 1840 kept.",
+   "Notes: added that no scribe is named, and gave a more careful reading of the corrupt phrases."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhājudhasiju",
+   "name": "Bhājudhasi",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [
+    "dānapati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dānapatihata(ṣāda)janani(!)śrībhājudhasiju",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "viralakṣmi(!)",
+   "name": "Viralakṣmī",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasya bhāryyā viralakṣmi(!)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīji(je)dhaṃju",
+   "name": "Jedhaṃ",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "putraśrīji(je)dhaṃju",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "jñānalakṣmī",
+   "name": "Jñānalakṣmī",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasya bhāryyājñānalakṣmī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrīmunirāja",
+   "name": "Munirāja",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "putraśrīmunirāja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wife_of",
+   "to": "p1",
+   "evidence": "tasya bhāryyā viralakṣmi(!)"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "putraśrīji(je)dhaṃju"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "viralakṣmi(!)putraśrīji(je)dhaṃju"
+  },
+  {
+   "from": "p4",
+   "type": "wife_of",
+   "to": "p3",
+   "evidence": "tasya bhāryyājñānalakṣmī"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "putraśrīmunirāja"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "jñānalakṣmīputraśrīmunirāja"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 960 miti māghamāse śuklapakṣe ṣaṣṭham(!)yāṃ mahāpuṇyatithau aśu(!)śvinīnakṣatre śubhayoge yathā †karṇṇamahotre† ādityavāra(!)sare makra(!)rāsigate savitari meṣarāsigate candramasi",
+  "era": "NS",
+  "year": "960",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "6 (ṣaṣṭhī)",
+  "weekday": "Sunday (ādityavāra)",
+  "nakshatra_yoga": "Aśvinī nakṣatra; śubha yoga; sun in Makara, moon in Meṣa",
+  "ce_approx": "1840"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for the sevenfold prosperity (saptavṛddhi) of the donor's whole family ('thuti sakalayā saptavṛddhi paripūrṇṇa juya māla')",
+ "notes": "No scribe is named. The phrase 'dānapatihata(ṣāda)janani(!)' before p1's name is corrupt. Its middle part is unclear, but it is presumably part of the description of the dānapati, not a separate person. 'janani' cannot refer to p1, since p1 has a wife. The honorific '-ju' (Newari) is dropped from the names. The cataloguer suggests 'je' for p3's 'ji', so the name could be Jidhaṃ as written. '†karṇṇamahotre†' probably stands for 'karaṇamuhūrte'. NS 960 Māgha śukla 6 falls in January/February 1840 CE. Sun in Makara fits Māgha, and moon in Meṣa fits Aśvinī. This matches the catalogue date of NS 960.",
+ "_meta": {
+  "reel": "B 94/1",
+  "model": "opus",
+  "cost_usd": 0.6151336,
+  "secs": 39.0
+ }
+}

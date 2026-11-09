@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The quoted text consists solely of chapter and section colophons from the avadāna narratives; no scribal colophon, dates, or historical persons are present.",
+ "_meta": {
+  "reel": "B 97/5",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 1605,
+  "out_tok": 482
+ }
+}

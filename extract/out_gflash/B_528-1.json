@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nānā",
+   "name": "Nānā",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitakarmmācārrya || nānā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 810 caitra śuklapaṃcamīaṃgāravāla",
+  "era": "NS",
+  "year": "810",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "aṅgāravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1690"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe appears to be a Karmācārya named Nānā (likhitakarmmācārrya || nānā), though nānā could conceivably be interpreted otherwise.",
+ "_meta": {
+  "reel": "B 528/1",
+  "model": "gemini-flash-latest",
+  "secs": 9.0,
+  "in_tok": 710,
+  "out_tok": 1026
+ }
+}

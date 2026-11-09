@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāpandītaḥ(!) nisaṃgācāryakuladatta",
+   "name": "Kuladatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāpaṇḍita",
+    "nisaṅgācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāpandītaḥ(!) nisaṃgācāryakuladattaviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1816 śrīsamvat 1951 nepālīyasaṃvat 1015 miti pauṣa vadi 7 roja",
+  "era": "VS",
+  "year": "1951",
+  "month": "pauṣa",
+  "paksa": "vadi",
+  "tithi": "7",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1895"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives the date in three eras: Śaka 1816, Vikrama Samvat 1951, and Nepāla Samvat 1015. The weekday is incomplete ('roja' without the day name).",
+ "_meta": {
+  "reel": "A 127/14",
+  "model": "gemini-flash-latest",
+  "secs": 9.7,
+  "in_tok": 806,
+  "out_tok": 1348
+ }
+}

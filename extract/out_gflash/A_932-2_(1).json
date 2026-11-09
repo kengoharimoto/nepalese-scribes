@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīśivasiṃhadeva­pāda­nām",
+   "name": "Śivasiṃhadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "samastaprakriyāvirājamāna",
+    "rūpanārāyaṇa",
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "samastaprakriyāvirājamānarūpanārāyaṇamahārājādhirājaśrīśrīśivasiṃhadeva­pāda­nāmājñayā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvidyāpati",
+   "name": "Vidyāpati",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvidyāpativiracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīmanohareṇa",
+   "name": "Manohara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanohareṇa likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "other",
+   "to": "p1",
+   "evidence": "śivasiṃhadeva­pāda­nāmājñayā śrīvidyāpativiracitāyāṃ"
+  }
+ ],
+ "date": {
+  "as_written": "lasaṃ 542 mārggaśuddhapañcamyāṃ candre",
+  "era": "LS",
+  "year": "542",
+  "month": "mārgga",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "candra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1661"
+ },
+ "place": {
+  "as_written": "sūrppapalyāṃ(?)",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "King Śivasiṃhadeva was the patron for whom Vidyāpati originally composed the text in the 15th century, and is not the contemporary reigning king at the time this manuscript was copied in LS 542 (ca. 1661 CE).",
+ "_meta": {
+  "reel": "A 932/2 (1)",
+  "model": "gemini-flash-latest",
+  "secs": 12.7,
+  "in_tok": 883,
+  "out_tok": 1885
+ }
+}

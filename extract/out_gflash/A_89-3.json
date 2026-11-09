@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "goviṃdabhaṭṭarā(hurī)kareṇa",
+   "name": "Goviṃda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "Rāhurīkara",
+   "residence": "",
+   "evidence": "goviṃdabhaṭṭarā(hurī)kareṇa brahmāvarttakṣetre likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1876 śake 1741",
+  "era": "VS",
+  "year": "1876",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1819"
+ },
+ "place": {
+  "as_written": "brahmāvarttakṣetre",
+  "normalized": "Brahmāvarta"
+ },
+ "purpose": "",
+ "notes": "Mentions both Vikrama Saṃvat 1876 and Śaka 1741. Invocations to Kṛṣṇa, Śivarāma, Gaṅgā, Sītārāma, and Khaṇḍerāya (a Maharashtrian form of Śiva) occur before the scribal statement. The scribe's surname Rāhurīkara refers to Rahuri in Maharashtra.",
+ "_meta": {
+  "reel": "A 89/3",
+  "model": "gemini-flash-latest",
+  "secs": 10.4,
+  "in_tok": 806,
+  "out_tok": 1278
+ }
+}

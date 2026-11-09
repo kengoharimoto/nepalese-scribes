@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Notes expanded: 'thaṃdīśvaracāryapūrvam' is probably a corrupt formula rather than a person's name, and the spelling 'vira' was normalized to Vīradeva."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīviradevavajrācāryena",
+   "name": "Vīradeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīviradevavajrācāryena likhitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 789 vaiśāṣakṛṣṇa paṃcamyāṃ",
+  "era": "NS",
+  "year": "789",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1669"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is not named ('saṃvat 789'). NS is assumed because the script is Newari, the scribe is a Vajrācārya and the catalogue says NS; NS 789 + 880 = 1669 CE, which matches the catalogue. 'viradeva' is read as Vīradeva. The phrase 'thaṃdīśvaracāryapūrvam idānīṃ prakāśitaṃ' is corrupt. It is probably a statement about how the text was handed down (perhaps something like 'sthavirācāryapūrvam', meaning 'formerly [taught] by the elder teachers, now made known'), not the name of someone connected with this copy, so no person was extracted from it. The ye dharmā verse is garbled, which is common.",
+ "_meta": {
+  "reel": "A 118/4",
+  "model": "opus",
+  "cost_usd": 0.0480348,
+  "secs": 8.9
+ }
+}

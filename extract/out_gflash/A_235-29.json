@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayabhūpatīndramallasana",
+   "name": "Jayabhūpatīndramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayabhūpatīndramallasana saṃpūrṇa yāṅā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 818 āṣāḍha śudi 15",
+  "era": "NS",
+  "year": "818",
+  "month": "āṣāḍha",
+  "paksa": "śudi",
+  "tithi": "15",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1698"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Nevārī 'saṃpūrṇa yāṅā' indicates completion by King Jayabhūpatīndra Malla of Bhaktapur.",
+ "_meta": {
+  "reel": "A 235/29",
+  "model": "gemini-flash-latest",
+  "secs": 7.3,
+  "in_tok": 726,
+  "out_tok": 828
+ }
+}

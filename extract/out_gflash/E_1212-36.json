@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsatyarājanajhā",
+   "name": "Satyarājana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jhā"
+   ],
+   "affiliation": "",
+   "residence": "sahara kāṭhamāḍau ṅe 8 naradevī ṭol nepāl",
+   "evidence": "likhitam idam pustakam śrīsatyarājanajhā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vikrama samvat 1968 mārga śukla 7 gate 1(3) roja 3",
+  "era": "VS",
+  "year": "1968",
+  "month": "mārga",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "roja 3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1911"
+ },
+ "place": {
+  "as_written": "sahara kāṭhamāḍau ṅe 8 naradevī ṭol nepāl",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "E 1212/36",
+  "model": "gemini-flash-latest",
+  "secs": 7.2,
+  "in_tok": 776,
+  "out_tok": 780
+ }
+}

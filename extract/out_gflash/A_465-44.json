@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmatsaṃkarācārya",
+   "name": "Śaṅkarācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatsaṃkarācāryapraṇālikā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "voharāmūlānaṃdaṃ",
+   "name": "Mūlānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "voharā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ voharāmūlānaṃdaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 1890 jyeṣṭa suda paṃcadasī",
+  "era": "VS",
+  "year": "1890",
+  "month": "jyeṣṭa",
+  "paksa": "śukla",
+  "tithi": "15",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1833"
+ },
+ "place": {
+  "as_written": "dodhapure",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The place name 'dodhapure' could possibly be a corruption or variant of Jodhapura (Jodhpur) or another toponym.",
+ "_meta": {
+  "reel": "A 465/44",
+  "model": "gemini-flash-latest",
+  "secs": 12.3,
+  "in_tok": 723,
+  "out_tok": 1772
+ }
+}

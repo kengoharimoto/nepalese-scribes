@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "guljāravaghai",
+   "name": "Guljāra",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "guljāravaghai",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1864 sālamī(!)ti āśvī(!)na⟪‥⟫sudi mahā-aṣṭami 8 roja 6",
+  "era": "VS",
+  "year": "1864",
+  "month": "āśvina",
+  "paksa": "śuklapakṣa",
+  "tithi": "8 (mahā-aṣṭamī)",
+  "weekday": "roja 6 (Friday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1807"
+ },
+ "place": {
+  "as_written": "bhīm siṃla",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The parenthetical note '(dava ⟪‥⟩⟩ṣarāḥ guljāravaghai)' may record a military/administrative note, possibly containing a title like 'dafadāra' and the personal name Gulzār/Guljāra followed by 'vaghai' (vagaira, 'etc.'). 'mukāma bhīm siṃla' refers to the place of writing/encampment.",
+ "_meta": {
+  "reel": "B 386/73",
+  "model": "gemini-flash-latest",
+  "secs": 12.8,
+  "in_tok": 728,
+  "out_tok": 1480
+ }
+}

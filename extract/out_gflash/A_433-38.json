@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdevācārya",
+   "name": "Devācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdevācāryaviracitāyāḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsāke 17[14] śrīsamvat 1849 kārtikavadi 12",
+  "era": "VS",
+  "year": "1849",
+  "month": "kārtika",
+  "paksa": "vadi",
+  "tithi": "12",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1792"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śāka (1714) and Vikrama Saṃvat (1849) dates are given.",
+ "_meta": {
+  "reel": "A 433/38",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 703,
+  "out_tok": 938
+ }
+}

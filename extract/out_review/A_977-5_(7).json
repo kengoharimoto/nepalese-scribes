@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. I checked that the three eras agree: ŚS 1769+78, VS 1904−57 and NS 967+880 all give 1847 CE.",
+   "Notes expanded: the catalogue's 'SAM 1769' is a Śaka year, and the weekday has not been checked."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgovindacaraṇaupādhyāyena",
+   "name": "Govindacaraṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgovindacaraṇaupādhyāyena liṣita idaṃ puṣṭakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke saṃvat 1769 sāla śrāvaṇa śu di 15 roja 5 ... vikramābda 1904 || naipālasaṃvat 967",
+  "era": "ŚS",
+  "year": "1769",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "15",
+  "weekday": "roja 5 (Thursday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1847"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives the date in three eras, and they agree: Śaka 1769, Vikrama 1904 and Nepāla 967 all equal 1847 CE. The day is Śrāvaṇa śukla 15 (the full moon), roughly August 1847. The catalogue's 'SAM 1769' is a Śaka year, not a Vikrama one. 'roja 5' is read as Thursday, but this has not been checked against the 1847 calendar.",
+ "_meta": {
+  "reel": "A 977/5 (7)",
+  "model": "opus",
+  "cost_usd": 0.050690799999999994,
+  "secs": 10.1
+ }
+}

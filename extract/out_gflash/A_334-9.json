@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivāśrameṇa",
+   "name": "Śivāśrama",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lī(!)khitaṃ paraupakārārthaṃ śivāśrameṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1760 samaya phālgunasuddha 2 dvitīyā",
+  "era": "VS",
+  "year": "1760",
+  "month": "phālguna",
+  "paksa": "śukla",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1704"
+ },
+ "place": {
+  "as_written": "nāradaghaṭe",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "paropakārārtham",
+ "notes": "Nāradaghaṭa is a well-known ghat on the Gaṅgā in Vārāṇasī.",
+ "_meta": {
+  "reel": "A 334/9",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 812,
+  "out_tok": 959
+ }
+}

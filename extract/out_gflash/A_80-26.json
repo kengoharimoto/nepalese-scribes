@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivādibhya(!)miśra",
+   "name": "Śivāditya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śivādibhya(!)miśraviracitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 161 ekottarāvārṣe (!) śrādhavaṇaśudi 15 ravau",
+  "era": "unspecified",
+  "year": "161",
+  "month": "śrādhavaṇa",
+  "paksa": "śukla",
+  "tithi": "15",
+  "weekday": "ravau",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author of the Saptapadārthī is Śivāditya (Śivādityamiśra), written here corruptly as śivādibhya(!)miśra. The era of the date 161 is unspecified and unclear.",
+ "_meta": {
+  "reel": "A 80/26",
+  "model": "gemini-flash-latest",
+  "secs": 8.1,
+  "in_tok": 694,
+  "out_tok": 985
+ }
+}

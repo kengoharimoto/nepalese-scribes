@@ -1,0 +1,91 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Purpose cut down to a short summary instead of the quoted formula",
+   "Date: 'dine 23' is the 23rd solar day of Vaiśākha, not a lunar tithi; moved it out of the tithi field and noted it",
+   "Notes: added the possible Vigrahapāla identifications and the corrupt readings (pameśvara, thapaiṇḍapātika); ce_approx left empty"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "amitavajreṇeti",
+   "name": "Amitavajra",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtā amitavajreṇeti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śākyabhikṣus thapaiṇḍapātikaviśuddhiśrījñānasya",
+   "name": "Viśuddhiśrījñāna",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "pravaramahāyānayāyin",
+    "śākyabhikṣu",
+    "sthavira",
+    "paiṇḍapātika"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "deyadharmmo ⌠ʼ⌡yaṃ pravaramahāyānayāyinaḥ śākyabhikṣus thapaiṇḍapātikaviśuddhiśrījñānasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīmadvigraha ❁ pāladeva",
+   "name": "Vigrahapāladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "parameśvara",
+    "paramabhaṭṭāraka",
+    "paramasaugata"
+   ],
+   "affiliation": "Pāla dynasty",
+   "residence": "",
+   "evidence": "śrīmadvigraha ❁ pāladevapravarddhamānalkalyāṇavijayarājye",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "śrīmadvigraha ❁ pāladevapravarddhamānalkalyāṇavijayarājye samvat 12"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 12 vaiśākhadine 23",
+  "era": "regnal",
+  "year": "12",
+  "month": "Vaiśākha",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "deyadharma (pious gift) of Viśuddhiśrījñāna; merit for teachers, preceptors, parents and all beings to attain supreme knowledge",
+ "notes": "The date is the 12th regnal year of the Pāla king Vigrahapāla, 23rd (solar) day of Vaiśākha. The colophon does not say which Vigrahapāla (I, II or III) is meant, so ce_approx is left empty. If it is Vigrahapāla III, his reign began c. 1041–1055 by various reckonings. 'pameśvara' is corrupt for parameśvara. 'śākyabhikṣus thapaiṇḍapātika' probably stands for śākyabhikṣusthavirapaiṇḍapātika, so 'sthavira' is a reconstruction. No scribe is named. 'sādhanam ālikhe(!)' refers to Amitavajra's writing of the sādhana, not to this copy. The text after the date (finger and colour correspondences, 'ne ne ...') is ritual or scribal matter with no persons in it.",
+ "_meta": {
+  "reel": "B 23/10 (1)",
+  "model": "opus",
+  "cost_usd": 0.0715188,
+  "secs": 16.1
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons or dates are mentioned in the colophon; only contains the text title, the Pratītyasamutpāda verse, and a generic benediction for the writer and reader (lekhapāṭhaka).",
+ "_meta": {
+  "reel": "A 924/1",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 733,
+  "out_tok": 491
+ }
+}

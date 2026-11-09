@@ -1,0 +1,86 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed p4 'Narabhūpaka' and its under_reign_of relation. 'kṣityāṃ vai narabhūpake' reads best as a generic metrical phrase ('while a king of men [ruled] on earth'), not a personal name. The king of Nepal in ŚS 1798 (1876 CE), Surendra Vikrama Śāha, is not named here.",
+   "Kept tithi '1' but flagged it as uncertain in notes: 'ekadine gate' may be a solar-day count, and no pakṣa is given.",
+   "Persons p1–p3, the son_of relation and the date (Śaka 1798 = 1876 CE, Nabhasya) confirmed."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭadāmodaronnītaṃ",
+   "name": "Dāmodara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭaśaṃkarātmajabhaṭṭadāmodaronnītaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaṭṭaśaṃkarātmaja",
+   "name": "Śaṃkara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭaśaṃkarātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "giridharnāmā",
+   "name": "Giridhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "alikhad giridharnāmā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "bhaṭṭaśaṃkarātmajabhaṭṭadāmodara"
+  }
+ ],
+ "date": {
+  "as_written": "śāke ʼṣṭanaṃdasaptaike nabhasyaikadine gate",
+  "era": "ŚS",
+  "year": "1798",
+  "month": "Nabhasya",
+  "paksa": "",
+  "tithi": "1",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1876"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram aṣṭa(8)-nanda(9)-sapta(7)-eka(1), read right to left, gives Śaka 1798 = 1876 CE, which matches the catalogue. Nabhasya is Bhādrapada. 'ekadine gate' (one day having passed) is ambiguous: it could be the 1st (solar) day of the month or the day after it. No pakṣa is given. 'giridharnāmā' is a corrupt form of Giridhara-nāmā. 'kṣityāṃ vai narabhūpake' is probably a generic reference to the ruling king, not a name, so no king is recorded. The verses after the colophon (from the Kālottara and Kulārṇava) are unrelated extracts written into the same manuscript, and they name no people.",
+ "_meta": {
+  "reel": "A 550/4",
+  "model": "opus",
+  "cost_usd": 0.5803696,
+  "secs": 29.5
+ }
+}

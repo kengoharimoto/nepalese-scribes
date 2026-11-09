@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṛṣṇa siṃhana",
+   "name": "Kṛṣṇasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛṣṇa siṃhana coyā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃmvat 874 ā(3)śuna śuddhi 15 maṃgalavārakuhnu",
+  "era": "NS",
+  "year": "874",
+  "month": "āśvina",
+  "paksa": "śuklapakṣa",
+  "tithi": "15",
+  "weekday": "maṅgalavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1754"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue fields list Kathmandu as the place of copying and Jayaprakāśa Malla as the king, but neither appears in the quoted colophon.",
+ "_meta": {
+  "reel": "A 1229/6",
+  "model": "gemini-flash-latest",
+  "secs": 5.4,
+  "in_tok": 711,
+  "out_tok": 706
+ }
+}

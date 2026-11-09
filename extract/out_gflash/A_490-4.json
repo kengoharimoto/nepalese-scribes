@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vyāsamunī",
+   "name": "Vyāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "muni"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vyāsamunīkṛtaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Vyāsa is mentioned as the traditional author (vyāsamunīkṛtaṃ). No scribe, patron, date, or place is given.",
+ "_meta": {
+  "reel": "A 490/4",
+  "model": "gemini-flash-latest",
+  "secs": 8.0,
+  "in_tok": 860,
+  "out_tok": 1088
+ }
+}

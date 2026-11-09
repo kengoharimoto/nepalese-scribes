@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsatyarājana jhā",
+   "name": "Satyarājana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jhā"
+   ],
+   "affiliation": "",
+   "residence": "sahara kāṭhamāḍau ṅe 8 naradevī ṭol nepāl",
+   "evidence": "idam likhitam idam pustakam śrīsatyarājana jhā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vikramāditya samvat 1968 sāl mārga śukla 4 gate 9 roja 6",
+  "era": "VS",
+  "year": "1968",
+  "month": "mārga",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "roja 6",
+  "nakshatra_yoga": "",
+  "ce_approx": "1911"
+ },
+ "place": {
+  "as_written": "sahara kāṭhamāḍau ṅe 8 naradevī ṭol nepāl",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "E 1212/34 (1)",
+  "model": "gemini-flash-latest",
+  "secs": 7.9,
+  "in_tok": 771,
+  "out_tok": 1019
+ }
+}

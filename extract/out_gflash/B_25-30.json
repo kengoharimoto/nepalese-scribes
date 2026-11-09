@@ -1,0 +1,105 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīānandadevasya",
+   "name": "Ānandadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīānandadevasya rājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī(udayasya",
+   "name": "Udaya",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "bhaṭṭa",
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī(udayasyadnaśiṣya",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "keśavavarmmaṇā",
+   "name": "Keśavavarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kulaputra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "keśavavarmmaṇā ... svayam eva ... likhitam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "candrakāntināmapatnī",
+   "name": "Candrakānti",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "candrakāntināmapatnīsamanvitena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīānandadevasya rājye ... keśavavarmmaṇā"
+  },
+  {
+   "from": "p3",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "śrī(udayasyadnaśiṣya... keśavavarmmaṇā"
+  },
+  {
+   "from": "p4",
+   "type": "wife_of",
+   "to": "p3",
+   "evidence": "candrakāntināmapatnīsamanvitena"
+  }
+ ],
+ "date": {
+  "as_written": "samvat (280) pauṣakṛṣṇacaturddaśyāṃ",
+  "era": "NS",
+  "year": "280",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturddaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1160"
+ },
+ "place": {
+  "as_written": "śrī.....dhrumāyāṃ | śrī(canagalaṇṭhālake)",
+  "normalized": ""
+ },
+ "purpose": "śrīmacchrībālauliṅkramāmnāyadīkṣitajanānāṃ sarvveṣām upakārārthaṃ",
+ "notes": "The reading '(bhaṭū) paṇḍita śrī(udayasyadnaśiṣyalākulaputra' likely reflects 'bhaṭṭapaṇḍita-śrī-udaya...-śiṣya-kulaputra'.",
+ "_meta": {
+  "reel": "B 25/30",
+  "model": "gemini-flash-latest",
+  "secs": 25.2,
+  "in_tok": 895,
+  "out_tok": 4161
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "saka(!)rācaya",
+   "name": "Śaṅkara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "saka(!)rācayaviracitau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1920 sāla vaisākha sudina 9 roja 2",
+  "era": "VS",
+  "year": "1920",
+  "month": "vaisākha",
+  "paksa": "śuklapakṣa",
+  "tithi": "9",
+  "weekday": "roja 2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1863"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Corrupt 'sakarācaya' represents Śaṅkarācārya. 'sudina 9' stands for sudi 9 (śuklapakṣa 9).",
+ "_meta": {
+  "reel": "A 1111/4 (2)",
+  "model": "gemini-flash-latest",
+  "secs": 10.3,
+  "in_tok": 705,
+  "out_tok": 1042
+ }
+}

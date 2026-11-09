@@ -1,0 +1,54 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Month: added the suggested reading Phālguna for the corrupt '(parālagna)'; left the paksa as vadi (kṛṣṇa)",
+   "Notes: the colophon says only 'saṃvat'; NS comes from the catalogue",
+   "Notes: the place may be Galeśvara, as the catalogue has it, if 'śrīmadbhogaleśvara' is a misreading of 'śrīmadgaleśvara'",
+   "Notes: the cataloguer marked the weekday with (!)"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsarvvagaṇena",
+   "name": "Sarvagaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paṇḍita",
+    "ācārya",
+    "bhaṭṭāraka"
+   ],
+   "affiliation": "Bhogaleśvaramaṭha",
+   "residence": "Bhogaleśvaramaṭha",
+   "evidence": "śrīmadbhogaleśvaramaṭhāvasthitapaṇḍitācāryabhaṭṭārakaśrīsarvvagaṇena pustakaṃ likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 806 (parālagnavadi) 10 bhauma(!)",
+  "era": "NS",
+  "year": "806",
+  "month": "parālagna (Phālguna?)",
+  "paksa": "vadi (kṛṣṇa)",
+  "tithi": "10",
+  "weekday": "bhauma (Tuesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1686"
+ },
+ "place": {
+  "as_written": "śrīmadbhogaleśvaramaṭha",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon says only 'saṃvat 806'. NS comes from the catalogue field and gives 1686 CE, which fits a Devanagari paper manuscript. Place: the text reads śrīmad-bhogaleśvaramaṭha-, but the catalogue gives Galeśvaramaṭha. That reading is possible if the text is a misprint for śrīmad-galeśvara (cf. Galeśvara/Galeshwor in western Nepal), so the identification is uncertain. The month '(parālagna)' is corrupt or doubtful, possibly Phālguna. The cataloguer flagged the weekday 'bhauma' with (!). 'paṇḍitācārya' may be one compound title. The last part of the work title in the first line ('mohādhūrottaraṃ sa....') is unclear.",
+ "_meta": {
+  "reel": "B 26/29",
+  "model": "opus",
+  "cost_usd": 0.0605228,
+  "secs": 14.7
+ }
+}

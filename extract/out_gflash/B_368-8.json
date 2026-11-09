@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāśīnāthabrāhmaṇēna",
+   "name": "Kāśīnātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ kāśyāṃ kāśīnāthabrāhmaṇēna",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1850 śrāvaṇamāse kṛṣṇapakṣe dvitīyāyāṃ guruvāsare",
+  "era": "VS",
+  "year": "1850",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvitīyā",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1793"
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 368/8",
+  "model": "gemini-flash-latest",
+  "secs": 6.8,
+  "in_tok": 723,
+  "out_tok": 693
+ }
+}

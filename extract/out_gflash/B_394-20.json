@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "padmadāsabhaktanāṃ",
+   "name": "Padmadāsa",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "bhakta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "leṣanārthe padmadāsabhaktanāṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1919 śālamiti māghavadi 7 roja 2",
+  "era": "VS",
+  "year": "1919",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "7",
+  "weekday": "roja 2 (Monday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1863"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "leṣanārthe",
+ "notes": "The phrase 'leṣanārthe padmadāsabhaktanāṃ' indicates the manuscript was written for the sake / copying of Padmadāsa (bhakta).",
+ "_meta": {
+  "reel": "B 394/20",
+  "model": "gemini-flash-latest",
+  "secs": 7.6,
+  "in_tok": 711,
+  "out_tok": 874
+ }
+}

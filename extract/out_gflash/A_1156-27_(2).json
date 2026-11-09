@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 667 bhārddapadamāśya(!) śuklapakṣa aṣṭamyāṃ tithau jaiṣṭhanakṣatre viskaṃbhayoge aṃgāravāsare saṃpūrṇadine",
+  "era": "NS",
+  "year": "667",
+  "month": "bhārddapada",
+  "paksa": "śuklapakṣa",
+  "tithi": "aṣṭamī",
+  "weekday": "aṃgāravāsara",
+  "nakshatra_yoga": "jaiṣṭhanakṣatre viskaṃbhayoge",
+  "ce_approx": "1547"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons (scribe, donor, king) are mentioned in the colophon.",
+ "_meta": {
+  "reel": "A 1156/27 (2)",
+  "model": "gemini-flash-latest",
+  "secs": 6.7,
+  "in_tok": 864,
+  "out_tok": 764
+ }
+}

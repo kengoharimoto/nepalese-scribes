@@ -1,0 +1,79 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name: 'Tejasarāma' is a guess at the lacuna and is not supported by the text; changed to '‥jasarāma' (first syllable lost) and lowered confidence to low",
+   "p1 titles: the colophon has paramopāśikaḥ, which reads like the feminine upāsikā, but the name is in the masculine genitive (-kasya); the conflict is now flagged in notes",
+   "p1 residence: 'Lalitakrama' replaced by Lalitapura (Patan); 'lalitavyūmāyā' is most likely a corruption of Lalitabrūmāyāṃ",
+   "place: the vihāras identify where the donor lives, not where the copy was made, so they moved to the donor's affiliation/residence and place is now empty",
+   "purpose: replaced the raw quotation with a short summary of the merit transfer",
+   "notes expanded"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ya ‥jasarāmakasya",
+   "name": "‥jasarāma",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "paramopāsaka",
+    "pravaramahāyānayāyin"
+   ],
+   "affiliation": "Māṇigalottaramahāvihāra; Pantivihāra",
+   "residence": "Lalitapura (Patan)",
+   "evidence": "deyadharmo ʼyaṃ pravaramahāyānayāyinaparamopāśikaḥ ... ya ‥jasarāmakasya",
+   "confidence": "low"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrījayasthitimalladevasya",
+   "name": "Jayasthitimalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājādhirājaparameśvaraparamabhaṭṭārakaśrījayasthitimalladevasya vijayarājye",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "śrījayasthitimalladevasya vijayarājye"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 511 śrāvaṇamāse kṛṣṇapañcamyāṃ caitranakṣatre dhruvayoge śaniścaravāsare",
+  "era": "NS",
+  "year": "511",
+  "month": "Śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Saturday (śaniścaravāsara)",
+  "nakshatra_yoga": "Citrā (caitra) nakṣatra, Dhruva yoga",
+  "ce_approx": "1391"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "Pious gift (deyadharma); merit dedicated first to the teachers (vajrācārya/upādhyāya) and parents, then to all beings, for the attainment of supreme knowledge",
+ "notes": "The donor passage is corrupt. 'paramopāśikaḥ' looks like the feminine upāsikā, while '‥jasarāmakasya' is a masculine genitive. So the donor may be an unnamed laywoman, with ‥jasarāma a related man (perhaps her husband), or the forms are simply garbled. The first syllable of the name is lost: Tejasarāma or Jayarāma are possible but unproven. 'lalitavyūmāyā' is probably Lalitabrūmāyāṃ (Patan). 'māṇigala' is Maṅgal Bazaar in Patan. 'pantivihāralivisthaṃ' is unclear and might mean a resident (-vāsin/-stha) of a 'Panti' vihāra. The text gives no scribe and no place of copying. NS 511 = 1391 CE, which falls within the reign of Jayasthiti Malla (c. 1382–1395) and matches the catalogue fields.",
+ "_meta": {
+  "reel": "C 1/5",
+  "model": "opus",
+  "cost_usd": 0.0785708,
+  "secs": 21.0
+ }
+}

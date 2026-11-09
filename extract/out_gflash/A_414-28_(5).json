@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "divākaradaivajña",
+   "name": "Divākara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdivākaradaivajñātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīviśvanāthadaivajña",
+   "name": "Viśvanātha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīviśvanāthadaivajñaviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīdivākaradaivajñātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 18 56 śāke 19 21 jyeṣṭa kṛṣṇa ṣaṣṭī taduttara saptamī maṃdavāsare",
+  "era": "VS",
+  "year": "1856",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "ṣaṣṭhī taduttara saptamī",
+  "weekday": "maṃdavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1799"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The Śaka year is given as 1921, which is a scribal error for ŚS 1721 (corresponding to VS 1856 / 1799 CE). No scribe name is mentioned with 'likhitaṃ'.",
+ "_meta": {
+  "reel": "A 414/28 (5)",
+  "model": "gemini-flash-latest",
+  "secs": 9.3,
+  "in_tok": 1090,
+  "out_tok": 1298
+ }
+}

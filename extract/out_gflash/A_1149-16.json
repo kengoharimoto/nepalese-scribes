@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "padmakesarasa(!)rmmaṇā",
+   "name": "Padmakesara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ padmakesarasa(!)rmmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1832 śrīsaṃvat 1967 sāla miti māgha śudi 12 roja 6",
+  "era": "VS",
+  "year": "1967",
+  "month": "māgha",
+  "paksa": "śudi",
+  "tithi": "12",
+  "weekday": "roja 6",
+  "nakshatra_yoga": "",
+  "ce_approx": "1911"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Colophon provides both Śāka 1832 and Vikrama Saṃvat 1967.",
+ "_meta": {
+  "reel": "A 1149/16",
+  "model": "gemini-flash-latest",
+  "secs": 6.2,
+  "in_tok": 756,
+  "out_tok": 804
+ }
+}

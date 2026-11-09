@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdharasvāminā",
+   "name": "Śrīdhara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "svāmin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdharasvāminā viracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nagāṣṭanavabhū samvat āṣāḍhe ca site tare || aṣṭamyāṃ kṣmāsute vāre",
+  "era": "VS",
+  "year": "1987",
+  "month": "āṣāḍha",
+  "paksa": "sita",
+  "tithi": "8",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1930"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is given in chronogram nagāṣṭanavabhū (1987, Vikrama Saṃvat = 1930 CE). kṣmāsutavāra = Tuesday (Bhaumavāra). No scribe or patron is named.",
+ "_meta": {
+  "reel": "E 533/6",
+  "model": "gemini-flash-latest",
+  "secs": 12.1,
+  "in_tok": 1512,
+  "out_tok": 1427
+ }
+}

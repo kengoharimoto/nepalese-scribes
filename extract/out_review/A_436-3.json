@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date: the first reading paired era ŚS / year 1614 with ce_approx 1795, which does not match (ŚS 1614 = c. 1692 CE). Changed to era VS, year 1852, ce_approx 1795, so the fields agree; the conflicting Śāka year is kept in as_written and explained in notes.",
+   "Notes: removed the claim that Bhādrapada śukla 7 of VS 1852 fell on a Tuesday, because it was not checked; the weekday still needs to be checked in a pañcāṅga.",
+   "Lakṣmīpati as author confirmed. The colophon names no scribe, commissioner or place."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīlakṣmīpati",
+   "name": "Lakṣmīpati",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīlakṣmīpativiracito",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke || 1614 || bhādrapadaśuklasaptamītithau bhaumavāre likhitaṃ || saṃvat || 1852 ||",
+  "era": "VS",
+  "year": "1852",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "saptamī",
+  "weekday": "bhaumavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1795"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The two eras in the colophon conflict. Śāke 1614 = c. 1692 CE, but saṃvat 1852 (taken as VS) = c. 1795 CE, which would be Śāka 1717. The record uses VS 1852 because 'saṃvat 1852' comes directly after 'likhitaṃ'. The Śāka figure '1614' may be a scribal or cataloguing error (for example for 1714 or 1717), though the Śāka date could also be the true one. The weekday (bhaumavāra, Bhādrapada śukla 7) has not been checked against either year; doing so would settle which date is right. The catalogue gives both dates. No scribe, commissioner or place of copying is named.",
+ "_meta": {
+  "reel": "A 436/3",
+  "model": "opus",
+  "cost_usd": 0.5505816,
+  "secs": 23.6
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhairavadatta",
+   "name": "Bhairavadatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "dviveda"
+   ],
+   "affiliation": "",
+   "residence": "Śrīṣṭikāpathapura",
+   "evidence": "bhairavadattakṛterke",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīkṛṣṇadatta",
+   "name": "Kṛṣṇadatta",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "dviveda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkṛṣṇadattasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīhaladharaśarmaṇā",
+   "name": "Haladhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "Bhaktapattana Bhairavasthāna",
+   "evidence": "śrīhaladharaśarmaṇā durgāvidhānapustakaṃ likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīkṛṣṇadattasuta"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1021 kārttikaśudi bhaumavāsare",
+  "era": "NS",
+  "year": "1021",
+  "month": "kārttika",
+  "paksa": "śudi",
+  "tithi": "",
+  "weekday": "bhaumavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1900"
+ },
+ "place": {
+  "as_written": "bhaktapattanabhairavasthāne",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "The exact tithi is not specified in the colophon (only 'kārttikaśudi bhaumavāsare'). Bhairavadatta is the author of the Bhairavadattārka, and Haladhara is the scribe of the manuscript.",
+ "_meta": {
+  "reel": "A 240/1",
+  "model": "gemini-flash-latest",
+  "secs": 12.7,
+  "in_tok": 774,
+  "out_tok": 2262
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayaprāṇamalladevasya",
+   "name": "Jayaprāṇamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājādhirājaparameśvaraparamabhaṭṭārakaśrīśrījayaprāṇamalladevasya vijayarāje(!)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrījitadevaju",
+   "name": "Jitadeva",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "paramopāśaka",
+    "śākyabhikṣu"
+   ],
+   "affiliation": "Paśupati Mahāvihāra",
+   "residence": "śrībhaktyāpurī mahānagarī, Vākṣimasthāna, Kvāthanaduṃtola",
+   "evidence": "dānapati śrībhaktyāpuryām mahānagaryām vākṣimasthāne kvāthanaduṃtolake paśupati mahāvihārāvasthitaśākyabhikṣu śrījitadevaju",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "kīrttilakṣmīḥ",
+   "name": "Kīrttilakṣmī",
+   "roles": [
+    "beneficiary",
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāryā kīrttilakṣmīḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrījīvatejarāma",
+   "name": "Jīvatejarāma",
+   "roles": [
+    "beneficiary",
+    "relative_only"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "prathamātmaja śākyabhikṣu śrījīvatejarāma",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrīvittaju",
+   "name": "Vitta",
+   "roles": [
+    "beneficiary",
+    "relative_only"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvitīyātmaja śākyabhikṣu śrīvittaju",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "vajrācāryaśrījitacandreṇa",
+   "name": "Jitacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Dakṣinamaṇisaṃgha Mahāvihāra",
+   "residence": "Kāṣṭhamaṇḍapa mahānagara",
+   "evidence": "lekhaka śrīkāṣṭhamaṇḍapamahānagare dakṣinamaṇisaṃghamahāvihārāvasthitavajrācāryaśrījitacandreṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "jayaprāṇamalladevasya vijayarāje(!) || dānapati ... śrījitadevaju"
+  },
+  {
+   "from": "p3",
+   "type": "wife_of",
+   "to": "p2",
+   "evidence": "śrījitadevaju bhāryā kīrttilakṣmīḥ"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrījitadevaju ... prathamātmaja śākyabhikṣu śrījīvatejarāma"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "dvitīyātmaja śākyabhikṣu śrīvittaju"
+  },
+  {
+   "from": "p6",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "dānapati ... śrījitadevaju ... lekhaka śrīkāṣṭhamaṇḍapamahānagare dakṣinamaṇisaṃghamahāvihārāvasthitavajrācāryaśrījitacandreṇa"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 65⁅5⁆ caitramāse kṛṣṇapakṣe ekādaśyāṃ tithau dhaniṣṭhānakṣatre śubhayoge somavāsare",
+  "era": "NS",
+  "year": "655",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī",
+  "weekday": "somavāsara",
+  "nakshatra_yoga": "dhaniṣṭhānakṣatre śubhayoge",
+  "ce_approx": "1535"
+ },
+ "place": {
+  "as_written": "śrīkāṣṭhamaṇḍapamahānagare dakṣinamaṇisaṃghamahāvihāra",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "āyurārogyavṛddhi for the donor and his family, and merit transfer (sarvasattvānukampayā / puṇyaprāpti)",
+ "notes": "The donor resided in Bhaktapur (Bhaktyāpurī, Vākṣimasthāna, Kvāthanaduṃtola, Paśupati Mahāvihāra), while the scribe was based in Kathmandu (Kāṣṭhamaṇḍapa, Dakṣinamaṇisaṃgha Mahāvihāra).",
+ "_meta": {
+  "reel": "A 47/9",
+  "model": "gemini-flash-latest",
+  "secs": 17.1,
+  "in_tok": 1566,
+  "out_tok": 3085
+ }
+}

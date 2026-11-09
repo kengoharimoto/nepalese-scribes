@@ -1,0 +1,94 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 (Salagaṃnābhā): confidence lowered to low. The segmentation is uncertain (salagaṃnā + bhā[ro/ju]?), and 'coyā' could just mark the date of writing rather than follow a scribe's name.",
+   "p2: evidence cleaned up; 'pustakadajinā viyā' read as 'pustaka dayakā biyā' ('made the book and gave it'), which supports both commissioner and donor.",
+   "p3: confidence lowered to medium, since 'pramukha' shows he heads a group whose other members are not named.",
+   "Purpose shortened to a summary of the merit wish.",
+   "Notes extended with readings of the corrupt Newari passages."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "salagaṃnābhā",
+   "name": "Salagaṃnābhā",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "salagaṃnābhā coyā",
+   "confidence": "low"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śāke bhikṣucakrapati",
+   "name": "Cakrapati",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śāke bhikṣucakrapati svaputra ... pustakadajinā viyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "ratnavāhādurapramukhanaṃ",
+   "name": "Ratnabahādura",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svaputra ratnavāhādurapramukhanaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "bhikṣucakrapati svaputra ratnavāhādura"
+  },
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "salagaṃnābhā coyā śāke bhikṣucakrapati"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1004 mti āṣāda vadi 2",
+  "era": "NS",
+  "year": "1004",
+  "month": "Āṣāḍha",
+  "paksa": "kṛṣṇa (vadi)",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1884"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "Donation of the book (pustaka dayakā biyā) by the yajamāna for growth of family, wealth and offspring, under the protection of Āryāvalokiteśvara",
+ "notes": "The colophon is Newari and badly corrupt. 'salagaṃnābhā coyā' is taken as the scribe's name followed by 'coyā' ('wrote'), but the segmentation is uncertain: 'bhā' may be bhāro/bhāju. 'śāke bhikṣu' = śākyabhikṣu. 'pustakadajinā viyā' probably = pustaka dayakā biyā. 'dharmmaraṃja jamānayā' probably = dharmarāja yajamānayā. 'janadhanasaṃtānavadayajayamāla ... āryyāvalokiteśvalasudis tilāyamā' probably = jana-dhana-santāna-vṛddhi jaya māla, śrī 3 Āryāvalokiteśvarasa dṛṣṭi tayamā. 'jala bhokṣisayā' and 'othvakāla viha' are unclear. The date checks out: NS 1004 + 880 = 1884 CE, matching the catalogue.",
+ "_meta": {
+  "reel": "A 111/6",
+  "model": "opus",
+  "cost_usd": 0.0827428,
+  "secs": 24.2
+ }
+}

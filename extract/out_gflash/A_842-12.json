@@ -1,0 +1,56 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahīdharaviracitāyāṃ",
+   "name": "Mahīdhara",
+   "roles": [
+    "author",
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "Vatsakula (śrīmadvatsakulodbhava)",
+   "residence": "Vārāṇasī (śrītīrtharāja)",
+   "evidence": "śrīmanmahīdharaviracitāyāṃ maṃtramahodadhinaukāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vyāso",
+   "name": "Vyāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhad vyāso naukāṃ maṃtramahodadhau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "āśvinasyāsite pakṣe paṃcamyāṃ budhavāsare",
+  "era": "none",
+  "year": "",
+  "month": "Āśvina",
+  "paksa": "asita",
+  "tithi": "pañcamī",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Verse 1 gives the composition date and place of the text/commentary by Mahīdhara in Vikrama Saṃvat (preṃsāyakabhedabhūpatimite śrīvikramārkād gate ... śrītīrtharāje vyadhāt). The manuscript copying colophon itself by scribe Vyāsa gives only the month, fortnight, lunar day, and weekday without an era or year.",
+ "_meta": {
+  "reel": "A 842/12",
+  "model": "gemini-flash-latest",
+  "secs": 14.5,
+  "in_tok": 958,
+  "out_tok": 1912
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "harṣu paṃthasya",
+   "name": "Harṣu",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "brāhmaṇa",
+    "paṃtha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ brāhmaṇā karmamaṃtraṃ harṣu paṃthasya",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī samvat 1886 māse 2 pakṣe 2 tithau 6 vāre 2",
+  "era": "VS",
+  "year": "1886",
+  "month": "2",
+  "paksa": "2",
+  "tithi": "6",
+  "weekday": "2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1829"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The genitive 'harṣu paṃthasya' with 'liṣitaṃ' may indicate either the scribe or the owner. The reading 'karmamaṃtraṃ' is unclear in context.",
+ "_meta": {
+  "reel": "A 465/4",
+  "model": "gemini-flash-latest",
+  "secs": 9.7,
+  "in_tok": 724,
+  "out_tok": 1274
+ }
+}

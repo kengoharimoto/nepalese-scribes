@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rādhākṛṣṇō",
+   "name": "Rādhākṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvijanman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vidhim alikhid imaṃ rāmacaṃdrārcanasya | rādhākṛṣṇō dvijanmā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "seravāhā duro",
+   "name": "Śeravāhādura",
+   "roles": [
+    "beneficiary",
+    "commissioner"
+   ],
+   "titles": [
+    "nṛpavaratanaya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nṛpavaratanayaḥ seravāhā duroʼ sāv etenaivārcita śrīraghukulatilakasyāśiṣāṃ pātram āstām",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "vidhim alikhid imaṃ rāmacaṃdrārcanasya | rādhākṛṣṇō dvijanmā nṛpavaratanayaḥ seravāhā duroʼ sāv etenaivārcita"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke vahninetrāvalarāśisumite caitrike śuklapakṣe paṃcamyāṃ saumyavāre",
+  "era": "ŚS",
+  "year": "vahninetrāvalarāśi",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1801"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for Śeravāhādura to perform the worship and receive the blessings of Rāmacandra (śrīraghukulatilakasyāśiṣāṃ pātram āstām)",
+ "notes": "Seravāhādura (Śer Bahādur Śāha, son of King Pratap Singh Shah) is addressed as 'nṛpavaratanaya'. The chronogram 'vahninetrāvalarāśi' likely encodes Śaka 1723 (Caitra śukla 5, Wednesday corresponds to 18 March 1801 CE).",
+ "_meta": {
+  "reel": "A 456/36",
+  "model": "gemini-flash-latest",
+  "secs": 20.2,
+  "in_tok": 762,
+  "out_tok": 2936
+ }
+}

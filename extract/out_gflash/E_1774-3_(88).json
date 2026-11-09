@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon contains only the title of the work, the Buddhist creed (ye dharmā...), and benedictions (śubham astu sarvajagatāṃ śubham astu likhitasya); no names or dates are given.",
+ "_meta": {
+  "reel": "E 1774/3 (88)",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 703,
+  "out_tok": 319
+ }
+}

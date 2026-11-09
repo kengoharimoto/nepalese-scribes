@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhāskarācārya",
+   "name": "Bhāskara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhāskarācāryavira[ci]te",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmanmahārājādhirājakīrttibamvamalla",
+   "name": "Kīrtibamvamalla",
+   "roles": [
+    "king",
+    "relative_only"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanmahārājādhirājakīrttibamvamallātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "nṛsiṃhavikramamallena",
+   "name": "Nṛsiṃhavikramamalla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nṛsiṃhavikramamallena likhitam idaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīmanmahārājādhirājakīrttibamvamallātmajanṛsiṃhavikramamallena"
+  }
+ ],
+ "date": {
+  "as_written": "śrīvikramārkasaṃvat 1862 śrīśālivāhanīya śāke 1727 sauramānena bhādramāse dina 3 gate cāndreṇāpi bhādrakṛṣṇa6 śukravāsare",
+  "era": "VS",
+  "year": "1862",
+  "month": "bhādra",
+  "paksa": "kṛṣṇa",
+  "tithi": "6",
+  "weekday": "śukravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1805"
+ },
+ "place": {
+  "as_written": "naipāladeśe kāntipurād uttare koṇe śrīrājagaṇēśamaṇḍape sthitaṃ śrīmuktināthād dakṣiṇadigvibhāge śrīkṛṣṇagaṇḍakīmaṅgalānadyoḥ saṅgame pulahāśramaveṇīnāmni nagaryāṃ",
+  "normalized": "Beni"
+ },
+ "purpose": "",
+ "notes": "The scribe Nṛsiṃhavikrama Malla was the son of King Kīrtibama Malla of Parbat. The copying took place in Beni (Veṇī) at the confluence of the Kṛṣṇagaṇḍakī and Maṅgalā (Myagdi) rivers.",
+ "_meta": {
+  "reel": "B 347/7",
+  "model": "gemini-flash-latest",
+  "secs": 14.1,
+  "in_tok": 917,
+  "out_tok": 2183
+ }
+}

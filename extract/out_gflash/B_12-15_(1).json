@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "amṛtarājakasya",
+   "name": "Amṛtarāja",
+   "roles": [
+    "scribe",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "śrībhaktāpurīṣārṇṇimaṃṭālathaṃ thuṣārṇṇi maṃnaniyaṃ(?) kuligṛha",
+   "evidence": "amṛtarājakasya svahastena likhitaṃ puṇyārthena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 631 āṣāḍhaśuklacaturthī parapaṃcamī pūrvaphālgunīnakṣatra variyānayoga ādityavāsare",
+  "era": "NS",
+  "year": "631",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "caturthī parapaṃcamī",
+  "weekday": "ādityavāsara",
+  "nakshatra_yoga": "pūrvaphālgunīnakṣatra variyānayoga",
+  "ce_approx": "1511"
+ },
+ "place": {
+  "as_written": "śrībhaktāpurīṣārṇṇimaṃṭālathaṃ",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "puṇyārthena yathāśāstroktaphalaprāptā bhavatu saṃtatisaṃtānalakṣmīvṛddhir astu ihatra saukhya paratra mokṣa",
+ "notes": "",
+ "_meta": {
+  "reel": "B 12/15 (1)",
+  "model": "gemini-flash-latest",
+  "secs": 12.0,
+  "in_tok": 1129,
+  "out_tok": 1551
+ }
+}

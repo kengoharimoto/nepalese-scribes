@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīdharasvāmi",
+   "name": "Śrīdhara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "svāmin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīdharasvāmiviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 828 vaiśāṣakṛṣṇayā dvādaśī budhabāra",
+  "era": "NS",
+  "year": "828",
+  "month": "Vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādaśī",
+  "weekday": "budhabāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1708"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No specific scribe name is provided, only the generic term 'lekhakasya' in the standard scribal apology verse.",
+ "_meta": {
+  "reel": "B 85/3",
+  "model": "gemini-flash-latest",
+  "secs": 7.3,
+  "in_tok": 781,
+  "out_tok": 840
+ }
+}

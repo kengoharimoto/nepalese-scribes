@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivāṅkaḥ",
+   "name": "Śivāṅka",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jayati kavir udāro daṇḍidaṇḍaḥ śivāṅkaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Śivāṅka is an epithet/name of the author Śivasvāmin. Mention of Raghukāra, Meṇṭha, and Daṇḍin in the colophon verse is merely rhetorical/poetic comparison. The final verse gives the grantha extent (1700 granthas and 26 syllables).",
+ "_meta": {
+  "reel": "A 24/12",
+  "model": "gemini-flash-latest",
+  "secs": 9.4,
+  "in_tok": 772,
+  "out_tok": 1320
+ }
+}

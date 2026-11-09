@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "māṇḍarīyadhīmaṇḍanaśarmmaṇena",
+   "name": "Maṇḍana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "Māṇḍarīya",
+   "residence": "",
+   "evidence": "māṇḍarīyadhīmaṇḍanaśarmmaṇena likhitam idaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "la saṃ 413 śrāvaṇaśudi 8 śukre",
+  "era": "LS",
+  "year": "413",
+  "month": "śrāvaṇa",
+  "paksa": "śuklapakṣa",
+  "tithi": "8",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1532"
+ },
+ "place": {
+  "as_written": "parihāragrāme",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Catalogue calculates LS 413 to ~1543 AD. 'Māṇḍarīya' refers to the Maithil Brahmin lineage/mūla (Māṇḍara).",
+ "_meta": {
+  "reel": "B 5/2",
+  "model": "gemini-flash-latest",
+  "secs": 11.9,
+  "in_tok": 860,
+  "out_tok": 1291
+ }
+}

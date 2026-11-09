@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīcaturbhujācārya",
+   "name": "Caturbhuja",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīcaturbhujācāryaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīsatyadharaśarmaṇā",
+   "name": "Satyadhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śrīsatyadharaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1786 bhādraśukladvādaśyāṃ",
+  "era": "VS",
+  "year": "1786",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1729"
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1151/21",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 836,
+  "out_tok": 1009
+ }
+}

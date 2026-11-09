@@ -1,0 +1,60 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībrahmacaitannyaśrīśaṃkarasvāminā",
+   "name": "Brahmacaitanyaśaṅkarasvāmin",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "svāmin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībrahmacaitannyaśrīśaṃkarasvāminā vira(4)citāyāṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "padmadāsabhaktanām",
+   "name": "Padmadāsa",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "bhakta"
+   ],
+   "affiliation": "",
+   "residence": "vurāṃṣelagrāma",
+   "evidence": "liṣanārthe (!) padmadāsabhaktanām",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1920 sāla mi(5)tiḥ āṣāḍa(!) vadi 6 roja 1",
+  "era": "VS",
+  "year": "1920",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "6",
+  "weekday": "roja 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1863"
+ },
+ "place": {
+  "as_written": "naipāladesye (!) śrīpaśupatiskṣetre (!) vaiṣṇama(6)ti (!) nadyāṃ (!) nikaṭe. †vurāṃṣelagrā〈〈‥〉〉me†",
+  "normalized": "Paśupatikṣetra"
+ },
+ "purpose": "padmadāsabhaktanām liṣanārthe",
+ "notes": "The author is given as śrībrahmacaitannyaśrīśaṃkarasvāmin. The copy was made for (or by) Padmadāsa Bhakta ('liṣanārthe padmadāsabhaktanām'). Roja 1 indicates Sunday.",
+ "_meta": {
+  "reel": "A 89/11",
+  "model": "gemini-flash-latest",
+  "secs": 16.4,
+  "in_tok": 815,
+  "out_tok": 2317
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Notes expanded: weekday cross-check, catalogue era equivalents, the unclear '(gāyatrī)yā julo'"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajña vallabharāma",
+   "name": "Vallabharāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiti (!) daivajña vallabharāma",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1003 miti śrāvana (!) sudī 7 roje 6 ... svātinakṣatra śulklayogaḥ śukravāra",
+  "era": "NS",
+  "year": "1003",
+  "month": "śrāvaṇa",
+  "paksa": "śuklapakṣa",
+  "tithi": "7",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "svāti, śukla",
+  "ce_approx": "1883"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives the scribe as 'Daivajña Vallabha', but the colophon reads 'daivajña vallabharāma'. The colophon does not name the era. NS fits because NS 1003 = 1883 CE, which agrees with the catalogue's VS 1940 and ŚS 1804 (neither is written in the colophon as quoted). 'roje 6' (6th weekday) matches śukravāra (Friday). '(gāyatrī)yā julo' is unclear. The cataloguer put 'gāyatrī' in parentheses. It could be a genitive in -yā ('of Gāyatrī'), meaning a person or an occasion such as a Gāyatrī observance. The Newari 'julo' probably means 'was completed'. No person was extracted from this phrase.",
+ "_meta": {
+  "reel": "A 888/1 (1)",
+  "model": "opus",
+  "cost_usd": 0.0506228,
+  "secs": 11.5
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "The first reading made Goviṃda the author. In the verse ('cakārāśu ... dvijair nodito deva āpābhidhānaḥ'), the subject of cakāra is the one 'named Āpā', who wrote at the urging of brahmins (dvijair nodito). The author is therefore Āpā/Āpādeva (added as p1, role author). Govinda is one of the brahmins who urged him (p2, role other).",
+   "Govinda's name is now the IAST stem 'Govinda', not 'Goviṃda'. Confidence lowered because the string 'goviṃda yo hekarādyair' is corrupt.",
+   "Scribe's name normalised to Dīnanātha (as written: 'vyāsādīnā nāthena'), with Vyāsa kept as a title/surname. Confidence lowered to medium because the word division is corrupt.",
+   "Added a 'wrote at the urging of' relation (type other) from the author to Govinda.",
+   "Notes: the era of 'saṃvat' is not stated. VS is assumed (1924 VS ≈ 1867 CE)."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "deva āpābhidhānaḥ",
+   "name": "Āpādeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "cakārā... nodito deva āpābhidhānaḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "goviṃda",
+   "name": "Govinda",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "goviṃda yo hekarādyair dvijai(!) nodito",
+   "confidence": "low"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vyāsādīnā nāthena",
+   "name": "Dīnanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vyāsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lam vyāsādīnā nāthena",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "other",
+   "to": "p2",
+   "evidence": "goviṃda yo hekarādyair dvijai(!) nodito deva āpābhidhānaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1924 jyeṣṭa śukla 10 bhaume",
+  "era": "VS",
+  "year": "1924",
+  "month": "Jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "Tuesday (bhauma)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1867"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author verse is corrupt. A likely reading is 'cakārāśu govinda-[...]-ādyair dvijair nodito devāpābhidhānaḥ': '[the one] named Āpā(deva) quickly composed [this], urged by Govinda and other brahmins'. 'yohekara' may hide a second name or a surname, so Govinda's role is uncertain. The author's name could be Āpā, Āpādeva, or Devāpā. 'lam' is probably an abbreviation of likhitam. The scribe's name is written 'vyāsādīnā nāthena', probably Vyāsa Dīnanātha/Dīnānātha. The colophon does not name the era. VS is assumed from the Devanagari script and the year 1924, giving about 1867 CE. If the year were ŚS, it would be about 2002 CE, which is impossible. The weekday was not checked.",
+ "_meta": {
+  "reel": "A 442/33",
+  "model": "opus",
+  "cost_usd": 0.07010279999999999,
+  "secs": 20.5
+ }
+}

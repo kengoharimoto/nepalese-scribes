@@ -1,0 +1,102 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmahopādhyāyamiśraśrīkṛṣṇa",
+   "name": "Kṛṣṇamiśra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahāmahopādhyāyamiśraśrīkṛṣṇaviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vikramasiṃhena",
+   "name": "Vikramasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhi[[taṃ]] vikramasiṃhena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīśrīsumatijayajitāmitramalladeva",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumatijayajitāmitramalladeva sana thva pustaka dayakā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "bhirāma paramāna",
+   "name": "Bhirāma",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "paramāna"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhirāma paramānayā belasa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "likhi[[taṃ]] vikramasiṃhena ... śrīśrīsumatijayajitāmitramalladeva sana thva pustaka dayakā"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "likhi[[taṃ]] vikramasiṃhena ... śrīśrīsumatijayajitāmitramalladeva sana thva pustaka dayakā"
+  }
+ ],
+ "date": {
+  "as_written": "samvat (820) vaiśākhaśuklapakṣa,caturthyāṃ tithau, budhavāre",
+  "era": "NS",
+  "year": "820",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "caturthī",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1700"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śaṃkaraprītir astu",
+ "notes": "The Newari phrase 'śrīśrīsumatijayajitāmitramalladeva sana thva pustaka dayakā' indicates that King Jitāmitramalla of Bhaktapur commissioned the manuscript. 'bhirāma paramānayā belasa' refers to the tenure of the local officer (pramāṇa) Bhirāma (Abhirāma).",
+ "_meta": {
+  "reel": "A 347/16",
+  "model": "gemini-flash-latest",
+  "secs": 10.9,
+  "in_tok": 780,
+  "out_tok": 1714
+ }
+}

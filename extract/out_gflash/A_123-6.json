@@ -1,0 +1,150 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsiddhinṛsiṃhasya",
+   "name": "Siddhinarasiṃha",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Lalitāpurī",
+   "evidence": "śrīśrīsiddhinṛsiṃhasya, vijaye lalitāpuri",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīnivāsena",
+   "name": "Śrīnivāsa",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Lalitāpurī",
+   "evidence": "nītitaḥ śrīnivāsena dviṣalloke vaśīkṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "jñānākhyena",
+   "name": "Jñāna",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "śākyakulaja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sthāpitaṃ svagṛhe śuddhe, jñānākhyena śubhārthinā || śrīśākyakulaje(na",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "mandoharī",
+   "name": "Mandoharī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sā dhīmandoharī bhāryyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrīyakṣasiṃhaś",
+   "name": "Yakṣasiṃha",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "hā (sma) śrīyakṣasiṃhaś ca",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p6",
+   "as_written": "māratī",
+   "name": "Māratī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tatpriyā māratī satī",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p7",
+   "as_written": "śrīsusiddhir",
+   "name": "Susiddhi",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsusiddhir upādhyāyaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīśrīsiddhinṛsiṃhasya, vijaye lalitāpuri"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "nītitaḥ śrīnivāsena dviṣalloke vaśīkṛte"
+  },
+  {
+   "from": "p4",
+   "type": "wife_of",
+   "to": "p3",
+   "evidence": "sā dhīmandoharī bhāryyā"
+  },
+  {
+   "from": "p6",
+   "type": "wife_of",
+   "to": "p5",
+   "evidence": "tatpriyā māratī satī"
+  }
+ ],
+ "date": {
+  "as_written": "muni-vājy-adrau khyāte naipālavatsare | māghaśukle ca saptamyāṃ revatyāṃ si(ddh)i ... graharājasya vāsare",
+  "era": "NS",
+  "year": "777",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "graharājasya vāsare (Sunday)",
+  "nakshatra_yoga": "revatī nakṣatra, siddhi yoga",
+  "ce_approx": "1657"
+ },
+ "place": {
+  "as_written": "lalitāpuri",
+  "normalized": "Patan"
+ },
+ "purpose": "jagatām vṛddhaye sukhaṃ / svagṛhe sthāpitaṃ",
+ "notes": "Year 777 NS is expressed by the chronogram muni (7) - vāji (7) - adri (7). King Siddhinarasiṃha Malla and crown prince/co-ruler Śrīnivāsa Malla are mentioned together. An unnamed or damaged Karmācārya priest is mentioned at the end alongside Susiddhi Upādhyāya.",
+ "_meta": {
+  "reel": "A 123/6",
+  "model": "gemini-flash-latest",
+  "secs": 19.8,
+  "in_tok": 2320,
+  "out_tok": 3159
+ }
+}

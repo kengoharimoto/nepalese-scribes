@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrībhūpatīndramalladevasana",
+   "name": "Bhūpatīndramalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrībhūpatīndramalladevasana bhūtayā kvāṭha pratiṣṭḥāyātā dayake se vijyāka",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat (828 ) caitrakṛṣṇa caturdaśī jīvavāra saṃpūrṇa saṃvat 828",
+  "era": "NS",
+  "year": "828",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturdaśī",
+  "weekday": "jīvavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1708"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "bhūtayā kvāṭha pratiṣṭḥāyātā dayake se vijyāka",
+ "notes": "The manuscript seems to have been prepared in relation to King Bhūpatīndra Malla's consecration of a fort (kvāṭha).",
+ "_meta": {
+  "reel": "A 231/41",
+  "model": "gemini-flash-latest",
+  "secs": 6.2,
+  "in_tok": 735,
+  "out_tok": 843
+ }
+}

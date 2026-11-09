@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭarāgha(!)",
+   "name": "Rāghava",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭarāgha(!)viracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rāmeśvaro",
+   "name": "Rāmeśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dharāmaravara"
+   ],
+   "affiliation": "",
+   "residence": "Bhaktapur",
+   "evidence": "graṃthaṃ bhaktapure dharāmaravaro rāmeśvaro trālikhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepāle rasabhūgajendrakalite saṃvatsare māsi vai vaiśākhe 1 tha kṛśībhavacchaśikale pakṣe tu ṣaṣṭhyāṃ tithau || gotrā gātrajavāsare sravaṇa bhe yoge pi ca brahmaṇi",
+  "era": "NS",
+  "year": "816",
+  "month": "Vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "ṣaṣṭhī",
+  "weekday": "gotrāgātrajavāsara (Tuesday / Bhaumavāsara)",
+  "nakshatra_yoga": "Śravaṇa nakṣatra, Brahma yoga",
+  "ce_approx": "1696"
+ },
+ "place": {
+  "as_written": "bhaktapure",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "The chronogram 'rasa-bhū-gajendra' denotes 816 (rasa = 6, bhū = 1, gajendra = 8). 'kṛśībhavac-chaśi-kale pakṣe' refers to the waning fortnight (kṛṣṇapakṣa). 'gotrāgātraja' (son of the earth) refers to Mars (Bhauma/Kujava-vāsara).",
+ "_meta": {
+  "reel": "A 1320/5 (2)",
+  "model": "gemini-flash-latest",
+  "secs": 9.5,
+  "in_tok": 876,
+  "out_tok": 1462
+ }
+}

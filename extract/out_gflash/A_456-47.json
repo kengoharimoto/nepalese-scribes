@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhūpatīndramahārājādhirājana",
+   "name": "Bhūpatīndra",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī3 bhūpatīndramahārājādhirājana thva sāphuli saṃpūrṇṇana khāṅā va dayakā dina julo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 813 jyeṣṭhamāse śuklapakṣe tṛtīyāyāṃ tithau puṣyanakṣatre dhruvayoge ādityavāsare bṛṣarāśi(ga)te savitari karkkatarāśigate candramasi",
+  "era": "NS",
+  "year": "813",
+  "month": "Jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "ādityavāsara",
+  "nakshatra_yoga": "puṣya, dhruva",
+  "ce_approx": "1693"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrī3 revantaprītir astu",
+ "notes": "Bhūpatīndra Malla of Bhaktapur caused the book (sāphuli) to be completed/made on this day (dayakā dina julo).",
+ "_meta": {
+  "reel": "A 456/47",
+  "model": "gemini-flash-latest",
+  "secs": 7.9,
+  "in_tok": 817,
+  "out_tok": 1139
+ }
+}

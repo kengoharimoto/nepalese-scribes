@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṣemeṃdra",
+   "name": "Kṣemendra",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṣemeṃdraviracitāyām",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The excerpt contains only chapter colophons (pallavas 40 to 50) naming the author Kṣemendra; no scribal colophon is preserved.",
+ "_meta": {
+  "reel": "B 99/9",
+  "model": "gemini-flash-latest",
+  "secs": 8.1,
+  "in_tok": 1098,
+  "out_tok": 1030
+ }
+}

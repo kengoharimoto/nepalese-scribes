@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṛṣṭīvirana / kliṣṭivirayā",
+   "name": "Kṛṣṭivīra",
+   "roles": [
+    "scribe",
+    "commissioner"
+   ],
+   "titles": [
+    "nāyaka"
+   ],
+   "affiliation": "",
+   "residence": "subharanakṣatrapura nagara, nāsanani",
+   "evidence": "kṛṣṭīvirana coyā, nāsanani, daṣinadisāsa vohma kliṣṭivirayā, mana ichyā juyāo coyāgu jula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "subha saṃvat 984 sāla miti vaisāṣa sukrayā aṭami loja 6 sa raonanakṣatra, subhajoga, sukravāra",
+  "era": "NS",
+  "year": "984",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "aṣṭamī",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "raonanakṣatra, subhajoga",
+  "ce_approx": "1864"
+ },
+ "place": {
+  "as_written": "subharanakṣatrapura nagarayā ... nāsanani",
+  "normalized": ""
+ },
+ "purpose": "svārtha (mana ichyā juyāo coyāgu jula)",
+ "notes": "The scribe copied the text for himself out of his own desire (mana ichyā juyāo). His name is spelled both kṛṣṭīvira and kliṣṭivira.",
+ "_meta": {
+  "reel": "B 172/8",
+  "model": "gemini-flash-latest",
+  "secs": 12.3,
+  "in_tok": 856,
+  "out_tok": 1657
+ }
+}

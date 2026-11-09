@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jaya bhūpatīndra malaa",
+   "name": "Jayabhūpatīndramalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī2 jaya bhūpatīndra malaa mahārājādhirāja sana",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 824 vaiśāṣa śukla pakṣa tṛtīyā kuhnu",
+  "era": "NS",
+  "year": "824",
+  "month": "vaiśāṣa",
+  "paksa": "śukla",
+  "tithi": "tṛtīyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1704"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "Commemorating/performing the siddhāgni ayutāhuti yajña and galālacchapratiṣṭhā",
+ "notes": "The colophon commemorates the day on which King Jayabhūpatīndramalla of Bhaktapur performed a Siddhāgni Ayutāhuti sacrifice and Galālacchā consecration.",
+ "_meta": {
+  "reel": "A 250/4",
+  "model": "gemini-flash-latest",
+  "secs": 7.2,
+  "in_tok": 762,
+  "out_tok": 969
+ }
+}

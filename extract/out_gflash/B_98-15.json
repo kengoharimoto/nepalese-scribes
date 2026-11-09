@@ -1,0 +1,83 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī amṛtānanda ju(na)",
+   "name": "Amṛtānanda",
+   "roles": [
+    "scribe",
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī amṛtānanda ju(na), .ā bh(etasa) (śrīmaha)jjātakamāl(āvy)ākhyā .. .. .. .. yāṅā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīdhanasiṃha",
+   "name": "Dhanasiṃha",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdhanasiṃha .. bhādrapada kṛ 9 saṃpūrṇaṃ",
+   "confidence": "low"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīpūrṇṇānaṃda juna",
+   "name": "Pūrṇānanda",
+   "roles": [
+    "scribe",
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "śrī amarāvatī dhā(yā) nagara, (nugasa)",
+   "evidence": "śrīpūrṇṇānaṃda juna, śrī amarāvatī dhā(yā) nagara, (nugasa), śrījātakamālāvyākhyā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrījaga(jj)itānaṃda",
+   "name": "Jagajjitānanda",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījaga(jj)itānaṃda",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 894 śrāvaṇa śu 1 somavāra ... bhādrapada kṛ 9",
+  "era": "NS",
+  "year": "894",
+  "month": "śrāvaṇa",
+  "paksa": "śuklapakṣa",
+  "tithi": "1",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1774"
+ },
+ "place": {
+  "as_written": "śrī amarāvatī dhā(yā) nagara, (nugasa)",
+  "normalized": ""
+ },
+ "purpose": "jagaddhite; etatpuṇyānubhāvena sambodhisādhanaṃ vrataṃ",
+ "notes": "Two distinct colophon/post-colophon notes are present: the first dated NS 894 (1774 CE) begun on Śrāvaṇa śukla 1 Monday and completed on Bhādrapada kṛṣṇa 9, recording work on the Mahajjātakamālāvyākhyā by Amṛtānanda and mentioning Dhanasiṃha; the second dated NS 927 (1807 CE) Āśvina śukla 15 Friday, naming Pūrṇānanda at Amarāvatī nagara (Nugasa) and Jagajjitānanda.",
+ "_meta": {
+  "reel": "B 98/15",
+  "model": "gemini-flash-latest",
+  "secs": 25.4,
+  "in_tok": 1148,
+  "out_tok": 3600
+ }
+}

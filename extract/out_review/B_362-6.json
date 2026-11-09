@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday filled as Thursday (guru), read from 'gurā-' in 'gurārajñaṃ'; marked as uncertain in notes",
+   "surname Garuḍa (upanāma) added to titles for p1",
+   "notes expanded on the abbreviated year and the corrupt phrase"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "garuḍopanāmaka moreśvareṇa",
+   "name": "Moreśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "Garuḍa (upanāma/surname)"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liºº garuḍopanāmaka moreśvareṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 90 śrāvaṇa śu 1 gurārajñaṃ māṣaḥ",
+  "era": "unspecified",
+  "year": "90",
+  "month": "śrāvaṇa",
+  "paksa": "śuklapakṣa",
+  "tithi": "1",
+  "weekday": "Thursday (guru)?",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's family name (upanāma) is Garuḍa (garuḍopanāmaka), which suggests a Maharashtrian Brahmin. The year 'saṃ 90' leaves out the century digits, so the era (probably VS or ŚS, e.g. 1890) and the CE date cannot be worked out. 'gurārajñaṃ māṣaḥ' is corrupt. 'gurā-' probably stands for gurau/guruvāra (Thursday), but that reading is uncertain. The rest of the phrase is unclear: '-rajñaṃ' might be a garbled nakṣatra/yoga name, and 'māṣaḥ' might be a garbled 'māsaḥ'. The colophon says the text comes from the Nidānapārijāta.",
+ "_meta": {
+  "reel": "B 362/6",
+  "model": "opus",
+  "cost_usd": 0.049526799999999996,
+  "secs": 10.9
+ }
+}

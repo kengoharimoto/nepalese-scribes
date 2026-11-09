@@ -1,0 +1,72 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Udayaharṣa is the scribe of the old palm-leaf exemplar, not of this copy. His colophon was copied along with the text ('ity antalekhayuta... tāḍapatrapustakād udhṛtya'). Role changed from scribe to other.",
+   "King read as Anantamalla: '-madhye' is probably a corruption of '-malle', i.e. nepālabhūpāle 'nantamalle 'bhidhāvati. His role changed from king to other, because he was reigning when the exemplar was written, not this copy. Confidence raised to medium, since the chronogram fits his reign.",
+   "Titles of the king: dropped 'nepālabhūpāla', which is a description, not a title. Residence cleared.",
+   "Notes: added the reading of the exemplar's chronogram (rasa 6, abhra 0, śruti 4, read right to left = 406, so NS 406, about 1286 CE, within Anantamalla's reign). Also noted that the catalogue's Scribe field names the exemplar's scribe."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāyasthodayaharṣeṇa",
+   "name": "Udayaharṣa",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāyasthodayaharṣeṇa harṣeṇa likhitaṃ drutaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nepālabhūpālānanta[madhye]",
+   "name": "Anantamalla",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yadā nepālabhūpālānantamadhyebhidhāvati",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "yadā nepālabhūpālānantamadhyebhidhāvati ... kāyasthodayaharṣeṇa harṣeṇa likhitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "1985 saṃvatsare",
+  "era": "VS",
+  "year": "1985",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1928"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "This Devanagari copy was made in saṃvat 1985. The era is not stated, but it is presumably VS, which gives about 1928/29 CE. The copy was taken from an old palm-leaf manuscript in Newari script, and the copyist of 1985 is not named. The verse colophon belongs to that exemplar and was reproduced with the text. That exemplar was written by Kāyastha Udayaharṣa on Kārttika kṛṣṇa 2, Tuesday (kuja), under a Nepalese king whose name is corrupt: 'nepālabhūpālānantamadhye', probably meaning Anantamalla. The chronogram 'rasa-abhra-śaya(?)-...-śruti' gives rasa = 6, abhra = 0 and śruti = 4. Read right to left this is 406, i.e. NS 406, about 1286 CE, which falls within Anantamalla's reign (NS 394–428). 'śaya' and 'saṃvatadāpaye' are corrupt, so this reading is tentative. The catalogue's Scribe field (Udayaharṣa) names the exemplar's scribe, not the scribe of this copy. Its Place field ('VS 1985') is actually the date.",
+ "_meta": {
+  "reel": "B 373/10",
+  "model": "opus",
+  "cost_usd": 0.07845079999999999,
+  "secs": 21.5
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrī sumati jaya jitāmitramalladevasana",
+   "name": "Jitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati",
+    "jaya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrī sumati jaya jitāmitramalladevasana dayakā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 802 vaiśākha śuddhi",
+  "era": "NS",
+  "year": "802",
+  "month": "vaiśākha",
+  "paksa": "śuklapakṣa",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1682"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records the date as NS 815, but the colophon text reads samvat 802.",
+ "_meta": {
+  "reel": "A 1235/19 (2)",
+  "model": "gemini-flash-latest",
+  "secs": 9.1,
+  "in_tok": 721,
+  "out_tok": 1140
+ }
+}

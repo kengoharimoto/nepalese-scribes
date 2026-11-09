@@ -1,0 +1,94 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vālmīkīye",
+   "name": "Vālmīki",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ityādirāmāyane vālmīkīye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīviṣṇuśaṅkarena",
+   "name": "Viṣṇuśaṅkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "brahmapurī",
+   "evidence": "śrīdvijavara, śrīviṣṇuśaṅkarena, saṃpūrṇṇa, kṛtaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīśrīrājyaprakāśa",
+   "name": "Rājyaprakāśamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājā"
+   ],
+   "affiliation": "",
+   "residence": "yara",
+   "evidence": "yarayā rājā, śrīśrīrājyaprakāśa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "kālidāśayā",
+   "name": "Kālidāsa",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "kāji"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāji, kālidāśayā prajyāyasa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "yarayā rājā, śrīśrīrājyaprakāśa"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 868 āśvinī kṛṣṇa navamyāntithau, puṣyānakṣatre, sādhyayoge, aṃgāravāra",
+  "era": "NS",
+  "year": "868",
+  "month": "āśvinī",
+  "paksa": "kṛṣṇa",
+  "tithi": "navamī",
+  "weekday": "aṃgāravāra",
+  "nakshatra_yoga": "puṣyānakṣatre, sādhyayoge",
+  "ce_approx": "1748"
+ },
+ "place": {
+  "as_written": "brahmapurī",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The colophon contains an attached contemporary historical note in Newari describing military events involving Gorkha, Tanahun, and Chitwan around Bhādrapada vadi 15 during the rule of King Rājyaprakāśamalla of Patan (Yala) and his kāji Kālidāsa.",
+ "_meta": {
+  "reel": "A 360/2",
+  "model": "gemini-flash-latest",
+  "secs": 21.8,
+  "in_tok": 1155,
+  "out_tok": 3539
+ }
+}

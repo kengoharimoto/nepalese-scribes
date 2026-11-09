@@ -1,0 +1,99 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 as_written narrowed to Kumārabhadra's own part of the compound; evidence shortened",
+   "p2 confidence lowered to low: one syllable is lost (so+matī), so 'Somamatī' is the cataloguer's restoration",
+   "Place cleared: Paranirvāṇamahāvihāra is the donors' affiliation (-vihārīya), not a stated place of copying",
+   "Purpose rewritten as a short summary (gift with merit transfer)",
+   "Weekday normalised to Sunday; tithi given as aṣṭamī (8); ce_approx given as 1164 (Māgha NS 284 falls in Jan/Feb 1164)",
+   "Notes expanded: no scribe is named; the catalogue's Scribe and Place fields are inferences"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhikṣukumārabhadra(-bhikṣuṇīso+matyor)",
+   "name": "Kumārabhadra",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "bhikṣu"
+   ],
+   "affiliation": "Paranirvāṇamahāvihāra; pravaramahāyānayāyin",
+   "residence": "",
+   "evidence": "deyadharmo ya. pravaramahāyānayāyinaḥ śrīparanirvāṇamahāvihārīyabhikṣukumārabhadra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhikṣuṇīso+matyor",
+   "name": "Somamatī",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "bhikṣuṇī"
+   ],
+   "affiliation": "Paranirvāṇamahāvihāra; pravaramahāyānayāyin",
+   "residence": "",
+   "evidence": "śrīparanirvāṇamahāvihārīya…bhikṣuṇīso+matyor",
+   "confidence": "low"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīmadānandadevasya",
+   "name": "Ānandadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadānandadevasya vijayarājye",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "śrīmadānandadevasya vijayarājye"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "śrīmadānandadevasya vijayarājye"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 284 māghaśukladivā 'ṣṭamyām | ādityadine",
+  "era": "NS",
+  "year": "284",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "aṣṭamī (8)",
+  "weekday": "Sunday (ādityadina)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1164"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "Pious gift (deyadharma) by the two donors; merit transferred to teachers, preceptors, parents and all beings so that they may attain supreme knowledge",
+ "notes": "The two people named appear in the standard deyadharma formula, which makes them donors. The colophon does not say they wrote the copy, and no scribe is named. The closing formula 'yathā dṛṣṭaṃ tathā likhitaṃ lekhako nāsti doṣaḥ' is generic. The catalogue's 'Scribe' field is therefore doubtful. 'Paranirvāṇamahāvihāra' is the donors' affiliation (-vihārīya), not an explicit place of copying, so the catalogue's Place field is an inference; the vihāra is not identified. The second syllable of the nun's name is lost (so+matī), and 'Somamatī' is the cataloguer's restoration. Era not stated ('samvat'), but NS fits Ānandadeva's reign (c. 1147–1167 CE). The cataloguer's folio references are inconsistent: the colophon is cited as fol. 216v6–217r4, while ch. 31 ends at 217v6.",
+ "_meta": {
+  "reel": "A 37/6",
+  "model": "opus",
+  "cost_usd": 0.0812668,
+  "secs": 17.3
+ }
+}

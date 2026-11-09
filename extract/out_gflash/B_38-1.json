@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmagovindatīrtha",
+   "name": "Rāmagovindatīrtha",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "tīrtha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmagovindatīrthaśiṣya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nārāyaṇatīrya",
+   "name": "Nārāyaṇatīrtha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "tīrtha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nārāyaṇatīryakṛtā sāṃkhyacaṃdrikā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "padmanidhiḥ",
+   "name": "Padmanidhi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sudhīvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhivān padmanidhiḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "rāmagovindatīrthaśiṣyanārāyaṇatīrya"
+  }
+ ],
+ "date": {
+  "as_written": "manva〈ke〉[ge]ndumita(!) varṣa(!) śrāvaṇe kṛṣṇa(!) bāṇa(!) ravisaṃjñavāsare",
+  "era": "unspecified",
+  "year": "1714",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "ravisaṃjñavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1792"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram manv-ag-endu corresponds to 14, 7, 1 (= Śaka 1714), and bāṇa represents tithi 5. Scribe is described as 'suddīvaraḥ' (presumably for sudhīvaraḥ).",
+ "_meta": {
+  "reel": "B 38/1",
+  "model": "gemini-flash-latest",
+  "secs": 15.7,
+  "in_tok": 787,
+  "out_tok": 1956
+ }
+}

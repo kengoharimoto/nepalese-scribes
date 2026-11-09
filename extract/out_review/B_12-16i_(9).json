@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Name normalized to a-stem 'Manateja': the cataloguer's emendation manateja(sya) is a genitive in -sya, which points to the stem Manateja. Manatejas would give Manatejasaḥ.",
+   "Confidence lowered from high to medium: the form is corrupt, and the genitive after liṣiti could also mark ownership, though scribe is the usual reading.",
+   "Tithi normalized to pratipadā (1); the form as written is kept in the notes.",
+   "Note added that the era is only 'samvat'. Nepāla Saṃvat is inferred from the Newari script and the low number."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "manateja(sya)ḥ",
+   "name": "Manateja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣiti manateja(sya)ḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 564 jeṣṭhakṛṣṇapradīpa(dyā) tithau",
+  "era": "NS",
+  "year": "564",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "pratipadā (1)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1444"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is written only as 'samvat'. NS (564 + 880 = 1444 CE) is inferred from the Newari script and the low year number. The tithi is written 'pradīpa(dyā)', a corruption of pratipadā. 'liṣiti' stands for likhitam. The name is written manatejaḥ and the cataloguer emends it to manatejasya, so it is read here as the a-stem Manateja. A genitive after likhitam normally names the scribe, but it could also be read as 'written for/belonging to' Manateja. 'saptasaptyā' in the title is a corruption of saptaśatyā.",
+ "_meta": {
+  "reel": "B 12/16i (9)",
+  "model": "opus",
+  "cost_usd": 0.0503348,
+  "secs": 12.4
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śandadeva",
+   "name": "Śandadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "nṛpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājā || ❁ || dhirājaparameśvaraśrīśandadevanṛpattau(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat ā cū 9 kārtikaśuklāṣṭamyāṃ śubhadine",
+  "era": "NS",
+  "year": "279",
+  "month": "Kārtika",
+  "paksa": "śukla",
+  "tithi": "8",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1159"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is recorded in letter numerals: ā = 200, cū = 70, 9 = 9 (NS 279). The king's name 'śandadeva' may be an orthographic error for Ānandadeva.",
+ "_meta": {
+  "reel": "B 26/21b",
+  "model": "gemini-flash-latest",
+  "secs": 7.6,
+  "in_tok": 720,
+  "out_tok": 892
+ }
+}

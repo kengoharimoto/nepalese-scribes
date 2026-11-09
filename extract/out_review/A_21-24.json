@@ -1,0 +1,64 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Notes expanded: the chronogram reads the same in either direction (4-9-4), so the year is LS 494. The catalogue's alternative, 414, is not supported. Added a ±1 year range for the LS conversion."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmahopādhyāyaśrīmadbhānudatta",
+   "name": "Bhānudatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāyaśrīmadbhānudattaprakā(4)śitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kaviśrīyadunandanena",
+   "name": "Yadunandana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "alekhi pustī rasamañj〈〈ī〉〉arīyaṃ tūrṇṇaṃ kaviśrīyadunandanena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "yugāṅkavedāṅkitalakṣmaṇā〈〈bd〉〉bde mārgge ca jīve ca balakṣapakṣe",
+  "era": "LS",
+  "year": "494",
+  "month": "Mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1613"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram is yuga (4), aṅka (9), veda (4), marked as a Lakṣmaṇa (LS) year. Read right to left it gives 494; because the digits are 4-9-4, it gives 494 either way. The catalogue's alternative, LS 414, does not follow from these number words. LS 494 + 1119 = 1613 CE. Because of the LS epoch question and the month (Mārgaśīrṣa, i.e. November–December), the date could also be late 1612. 'balakṣapakṣe' means the bright half (śukla). 'jīve' means Thursday (Bṛhaspativāra). No tithi is given.",
+ "_meta": {
+  "reel": "A 21/24",
+  "model": "opus",
+  "cost_usd": 0.08982799999999999,
+  "secs": 12.9
+ }
+}

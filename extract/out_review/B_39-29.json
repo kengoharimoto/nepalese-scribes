@@ -1,0 +1,66 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: residence normalised to Lalitapura (Patan); 'mahābauddhopāsaka' kept as a title, with a note that it could also mean a lay devotee attached to the Mahābauddha temple in Patan",
+   "p2: given Bihārī's evident identity, confidence raised from low to medium; noted that he wrote the base text (Satsaī), not the Hariprakāśa commentary",
+   "weekday normalised to Monday (somavāra)",
+   "paksa normalised to śukla",
+   "place: noted that 'lalitāpurīya' describes where the scribe lives; it is not an explicit place of copying"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījīvānandeti",
+   "name": "Jīvānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "mahābauddhopāsaka"
+   ],
+   "affiliation": "",
+   "residence": "Lalitapura (Patan)",
+   "evidence": "likhitaṃ lalitāpurīya śrīmahābauddhopāsakaśrījīvānandeti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvihāfīsoti",
+   "name": "Bihārī",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvihāfīsotikṛta śatasaī",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1903 sāla miti bhādra śudi 9 somavāsaraḥ",
+  "era": "VS",
+  "year": "1903",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1846"
+ },
+ "place": {
+  "as_written": "lalitāpurīya",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The phrase 'śrīvihāfīsotikṛta' is corrupt. It must refer to Bihārī (Vihārī/Bihārīdāsa), who wrote the Satsaī (śatasaī). The Hariprakāśa is a commentary on the Satsaī, usually attributed to Haricaraṇadāsa, but this colophon does not name him. Bihārī is recorded as author of the base text. The era VS fits the Nepali formula 'sāla miti', and the year 1903 matches the catalogue. I did not verify the weekday. 'lalitāpurīya' says that the scribe belongs to Lalitapura (Patan). It is not a direct statement of where the copy was made, though the catalogue gives Lalitapura as the place of copying. 'mahābauddhopāsaka' can be read two ways: 'great Buddhist lay devotee', or a lay devotee of the Mahābauddha temple in Patan.",
+ "_meta": {
+  "reel": "B 39/29",
+  "model": "opus",
+  "cost_usd": 0.0648388,
+  "secs": 17.0
+ }
+}

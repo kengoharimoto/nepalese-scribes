@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "āṃbekara ity upanāmakabālakṛṣṇena",
+   "name": "Bālakṛṣṇa",
+   "roles": [
+    "scribe",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "Āmbekara",
+   "residence": "",
+   "evidence": "likhitaṃ āṃbekara ity upanāmakabālakṛṣṇena phaḍake ity upanāmakaśabhūnāthasya dattaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "phaḍake ity upanāmakaśabhūnāthasya",
+   "name": "Śambhūnātha",
+   "roles": [
+    "beneficiary",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "Phaḍake",
+   "residence": "",
+   "evidence": "phaḍake ity upanāmakaśabhūnāthasya dattaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "likhitaṃ āṃbekara ity upanāmakabālakṛṣṇena phaḍake ity upanāmakaśabhūnāthasya dattaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 18023 mītī āṣāḍhakṛṣṇa 6 śukravāsaraḥ",
+  "era": "VS",
+  "year": "18023 [1823]",
+  "month": "Āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "6",
+  "weekday": "śukravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1766"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is written as 18023, an obvious scribal error for 1823 (VS 1823 ≈ 1766 CE). Both the scribe Bālakṛṣṇa and recipient Śambhūnātha have Maharashtrian Brahmin surnames (upanāman): Āmbekar and Phaḍke. Daśaratha from 'daśarathakṛtaṃ' is excluded as a mythical/puranic figure.",
+ "_meta": {
+  "reel": "A 1119/30",
+  "model": "gemini-flash-latest",
+  "secs": 12.1,
+  "in_tok": 810,
+  "out_tok": 1707
+ }
+}

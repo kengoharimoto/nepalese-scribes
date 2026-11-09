@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkāśīnātha",
+   "name": "Kāśīnātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkāśīnāthakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "travāḍiuttamarāma",
+   "name": "Uttamarāma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "travāḍi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "travāḍiuttamarāmātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "travāḍivallabharāmeṇa",
+   "name": "Vallabharāma",
+   "roles": [
+    "owner",
+    "reader"
+   ],
+   "titles": [
+    "travāḍi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "travāḍivallabharāmeṇa gṛhitaṃ ātmapaṭhanārthaṃ paropakārārthaṃ ca",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "travāḍiuttamarāmātmaja-travāḍivallabharāmeṇa"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1723 samaye āśvinamāse kṛṣṇapakṣe 11 bhṛguvāsare",
+  "era": "VS",
+  "year": "1723",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "bhṛguvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1666"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "ātmapaṭhanārthaṃ paropakārārthaṃ ca",
+ "notes": "An ownership note was added in a later hand recording the acquisition/possession of the manuscript by Travāḍi Vallabharāma, son of Travāḍi Uttamarāma.",
+ "_meta": {
+  "reel": "B 346/13",
+  "model": "gemini-flash-latest",
+  "secs": 8.6,
+  "in_tok": 788,
+  "out_tok": 1111
+ }
+}

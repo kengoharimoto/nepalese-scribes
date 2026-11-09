@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "satyadharaśarmaṇā",
+   "name": "Satyadhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ satyadharaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1655 māse 6 pitṛpakṣe caturdaśyāṃ",
+  "era": "ŚS",
+  "year": "1655",
+  "month": "6",
+  "paksa": "pitṛpakṣa",
+  "tithi": "caturdaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1733"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 357/4",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 725,
+  "out_tok": 685
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Purpose rephrased as a dedication: the formula offers the work to Vedapuruṣa and does not say the copy was made for anyone.",
+   "Notes extended: the date is missing, and 'samātaṃ' is a slip for 'samāptaṃ'."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "++++nārāyaṇena",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "++++nārāyaṇena likhitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "dedication to Vedapuruṣa (śrīvedapuruṣārpaṇam astu)",
+ "notes": "About four characters are lost or illegible before 'nārāyaṇena' (++++). So the scribe's full name may be longer: a compound such as Lakṣmīnārāyaṇa, or a name with a title or honorific in front. The catalogue gives the scribe as Nārāyaṇa. The colophon has no date or place. 'samātaṃ' is a slip for 'samāptaṃ'.",
+ "_meta": {
+  "reel": "A 447/29",
+  "model": "opus",
+  "cost_usd": 0.0437868,
+  "secs": 7.5
+ }
+}

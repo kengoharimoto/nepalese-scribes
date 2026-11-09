@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkaviśeṣarācārya",
+   "name": "Kaviśeṣara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkaviśeṣarācāryaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1830 sāvana vadi 25",
+  "era": "VS",
+  "year": "1830",
+  "month": "sāvana",
+  "paksa": "vadi",
+  "tithi": "25",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1773"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author name Kaviśeṣara is likely a scribal corruption of Kaviśekhara (attributed author of the Pañcasāyaka). The date specification 'vadi 25' is irregular for a pakṣa and may reflect solar reckoning or a scribal error.",
+ "_meta": {
+  "reel": "A 354/28",
+  "model": "gemini-flash-latest",
+  "secs": 8.7,
+  "in_tok": 682,
+  "out_tok": 1196
+ }
+}

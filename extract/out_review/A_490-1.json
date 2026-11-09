@@ -1,0 +1,74 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2: role changed from 'owner' to 'other'. The colophon only says the exemplar was obtained from this person (…karmmācājyayāke kāyāvaḥ, 'having taken it from'). Nothing says the copy belongs to them.",
+   "p2: dropped the guṭhi-head ('gosthikā-dhani') explanation. The -yāke ending marks a person ('from …'), and the person carries the title karmācārya, so this is most likely a personal name. The reading of the name itself is still uncertain.",
+   "purpose: changed to 'for teaching (his) children'. Newari macā means 'child' and śenayātā means 'in order to teach'. The meaning 'pupils' was dropped.",
+   "notes: added that the end title and the Newari note disagree about which text this is, and explained the reading of the purpose phrase."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devyandrakarmmācājyena",
+   "name": "Devendra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devyandrakarmmācājyena thava āṣalasena … hleyā julo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gvaṃ stikadhanikarmmācājyayāke",
+   "name": "Gvaṃstikadhani",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "karmācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "thava gvaṃ stikadhanikarmmācājyayāke kāyāvaḥ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "other",
+   "to": "p2",
+   "evidence": "gvaṃ stikadhanikarmmācājyayāke kāyāvaḥ devyandrakarmmācājyena"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for teaching (his own?) children (vavamacāto śenayātā)",
+ "notes": "The Newari note says roughly: 'this Sarasvatī-deva hymn (śirokaḥ = ślokaḥ), taken from [Gvaṃ]stikadhani Karmācārya, was written by Devendra Karmācārya in his own hand (thava āṣalasena) to teach the children (macā … śenayātā)'. 'vava' may be a corruption of 'thava' ('own'), giving 'his own children'. p2 only supplied the exemplar. The name is corrupt: 'gvaṃ stikadhani' could also split as a place or epithet 'Gvaṃ' plus the name 'Stikadhani', or hide some other form. The end title ('śrīskandhapurānya vihnunnārāyaṇāya', i.e. a Viṣṇu/Nārāyaṇa piece from the Skandapurāṇa) does not match the Newari note's 'sarasvati devayā śirokaḥ'. This is probably because the manuscript is a Stotrasaṅgraha and the note covers the whole collection or one hymn in it. The colophon is undated.",
+ "_meta": {
+  "reel": "A 490/1",
+  "model": "opus",
+  "cost_usd": 0.0726188,
+  "secs": 21.5
+ }
+}

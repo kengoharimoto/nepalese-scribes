@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayabhūpatīndramalladevasana",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayabhūpatīndramalladevasana yāṅā dina julo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 821 phālguṇakṛṣṇatrayodaśī ... samvat 823 bhādrapadakṛṣṇanavami puṣyanakṣatra bṛhaspativāra",
+  "era": "NS",
+  "year": "821 / 823",
+  "month": "Phālguna / Bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī / navamī",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "puṣya",
+  "ce_approx": "1701 / 1703"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon contains two dated event records: (1) NS 821 Phālguna kṛṣṇa 13 marking the Ākāśamahābhairava chariot consecration performed by King Jayabhūpatīndramalla; (2) NS 823 Bhādrapada kṛṣṇa 9 Puṣya nakṣatra Thursday marking the consecration of the Gaṇabhalali temple also performed by him.",
+ "_meta": {
+  "reel": "A 231/34",
+  "model": "gemini-flash-latest",
+  "secs": 9.0,
+  "in_tok": 869,
+  "out_tok": 1323
+ }
+}

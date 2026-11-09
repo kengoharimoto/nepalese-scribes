@@ -1,0 +1,36 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Persons: confirmed empty. The scribe speaks only as 'mama doṣo' and is never named; no king, patron or owner is named.",
+   "Notes: the NS chronogram ṛtu(6)-rasa(6)-nava(9), read right to left, gives NS 966, which is 1845/46 CE. That is about four years later than VS 1898 and Kali 4942 (both 1841/42 CE). The first reading listed NS 966 next to the other eras without flagging this conflict.",
+   "Notes: Śaka 1796 does not fit. VS 1898 needs Śaka 1763 (1796 = 1874 CE), so the number is probably a slip, and its cause is uncertain. The first reading called it 'inverted', which is not certain.",
+   "Weekday: 'aṃgavāra' is taken as aṅgāravāra (Tuesday), which matches the 'maṃgalavāra' in the first date."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śrī nepālasamvata ritu rasā nava varṣa saṃjña māghase ca śucīpache pañcamyā ca titho pauṣṇe ca nāma nakṣutre śubhe ca yoga maṃgalavārasano ... śrīkalījuge bhoga 4942 śrīśakrarājasya śakakāla 1796 śrīsamvata 1898 sāla miti māghaśukrayā paṃñcami reotinakṣetra śūbhayoge aṃgavārasare ca",
+  "era": "VS",
+  "year": "1898",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "maṅgalavāra (aṅgāravāra)",
+  "nakshatra_yoga": "revatī (pauṣṇa), śubha",
+  "ce_approx": "1842"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives two date statements, both for Māgha śukla 5, Revatī nakṣatra, śubha yoga, Tuesday. (1) A chronogram in Nepāla Saṃvat: ṛtu(6) rasa(6) nava(9), read right to left = NS 966 = 1845/46 CE. (2) A numerical date: Kali 4942, Śaka 1796, VS 1898. VS 1898 and Kali 4942 agree on Māgha, about January 1842 CE. Śaka 1796 (= 1874 CE) disagrees; VS 1898 would need Śaka 1763, so the figure is probably a slip. The NS chronogram is about four years off from the VS/Kali date. The record follows the explicit numerical VS date, but the conflict is unresolved: the NS date might be a slip, or it might belong to a different copy or exemplar. No persons are named; the scribe's apology ('mama doṣo na diyate') is anonymous. The title is corrupted in several ways (causathi lijñeśvara, cauṣaṣṭilīgāsvara), meaning Catuḥṣaṣṭiliṅgeśvara.",
+ "_meta": {
+  "reel": "A 1125/6 (2)",
+  "model": "opus",
+  "cost_usd": 0.0991468,
+  "secs": 32.8
+ }
+}

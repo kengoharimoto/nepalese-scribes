@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmacchrī śrījayajagajjyotirmmalladeva",
+   "name": "Jayajagajjyotirmalladeva",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājādhirāja, śrīmacchrī śrījayajagajjyotirmmalladeva viracitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke'tīte khaśaratithibhi 1550 rllakṣite hāyanaughe, śuklapakṣe suragurudine mādhave paurṇṇamāsyāṃ",
+  "era": "ŚS",
+  "year": "1550",
+  "month": "mādhava",
+  "paksa": "śukla",
+  "tithi": "paurṇamāsī",
+  "weekday": "suragurudina",
+  "nakshatra_yoga": "",
+  "ce_approx": "1628"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "vijñaprītyai",
+ "notes": "The date given (Śaka 1550 Vaiśākha pūrṇimā Thursday) is the date of composition of the work by King Jagajjyotirmalla. No scribe is named.",
+ "_meta": {
+  "reel": "B 16/4",
+  "model": "gemini-flash-latest",
+  "secs": 12.4,
+  "in_tok": 974,
+  "out_tok": 1591
+ }
+}

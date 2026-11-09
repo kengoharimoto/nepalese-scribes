@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumati jayajitāmitrāmalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "commissioner",
+    "king"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumati jayajitāmitrāmalladevasana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 815 mārggaśira sudi 7 thvakuhnu",
+  "era": "NS",
+  "year": "815",
+  "month": "mārggaśira",
+  "paksa": "sudi",
+  "tithi": "7",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1694"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The place Bhaktapur noted in the catalogue is based on King Jitāmitra Malla's realm, but no place name is explicitly written in the colophon.",
+ "_meta": {
+  "reel": "A 1235/19 (7)",
+  "model": "gemini-flash-latest",
+  "secs": 7.2,
+  "in_tok": 746,
+  "out_tok": 875
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday rendered as 'Monday (roja 2)' (roja 2 = second day of the week, counting from Sunday)",
+   "paksa normalized to 'śukla' (sudina = sudi = bright fortnight)",
+   "notes expanded: second colophon (Indrākṣīstotra) has no date or scribe; scribe and owner are not named"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "saka(!)rācaya",
+   "name": "Śaṅkara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "saka(!)rācayaviracitau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1920 sāla vaisākha sudina 9 roja 2",
+  "era": "VS",
+  "year": "1920",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "Monday (roja 2)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1863"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'saka(!)rācaya' is a corrupt spelling of Śaṅkarācārya, the traditional author of the Bhajagovindastotra. The era is not named ('samvat … sāla'), but year 1920 with Nepali date words (sāla, roja) points to Vikrama Saṃvat: Vaiśākha VS 1920 = about April–May 1863 CE, which agrees with the catalogue's 'SAM 1920'. The manuscript also contains the Indrākṣīstotra (colophon on fol. 4v3), which has no date. No scribe, commissioner or owner is named.",
+ "_meta": {
+  "reel": "A 1111/4 (1)",
+  "model": "opus",
+  "cost_usd": 0.0461028,
+  "secs": 9.2
+ }
+}

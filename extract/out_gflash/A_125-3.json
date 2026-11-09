@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācāyyai devarāja",
+   "name": "Devarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "līṣītaṃ vajrācāyyai devarāja coyā julaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvata 1003(6) mti vaisāṣa sudī 1 loja 2sa",
+  "era": "NS",
+  "year": "1003",
+  "month": "vaisāṣa",
+  "paksa": "sudī",
+  "tithi": "1",
+  "weekday": "loja 2sa",
+  "nakshatra_yoga": "",
+  "ce_approx": "1883"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Line break (6) occurs between 1003 and mti. 'loja 2sa' stands for roja 2 (Monday).",
+ "_meta": {
+  "reel": "A 125/3",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 816,
+  "out_tok": 997
+ }
+}

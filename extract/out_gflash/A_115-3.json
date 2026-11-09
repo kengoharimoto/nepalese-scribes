@@ -1,0 +1,88 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "turādharavakhāsiṃhayā",
+   "name": "Vakhāsiṃha",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [
+    "turādhara"
+   ],
+   "affiliation": "",
+   "residence": "śrīkāntipurimahānagare ṅaṃ tatorake somavāhārasannidhāne ṅatapithyāmūgalayautānāmagṛha",
+   "evidence": "dānapati ... turādharavakhāsiṃhayāmana saatidharmmacitte utpatijñasya o yā o śrī śrī rakṣā bhagavati pustaka vāvakā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīdharmmachriṃ",
+   "name": "Dharmaśrī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "śrīsākyaṃ sumahāvihāra",
+   "residence": "",
+   "evidence": "śākyabhikṣu śrīdharmmachriṃ putra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "jñānachriṃ",
+   "name": "Jñānaśrī",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "śrīsākyaṃ sumahāvihāra",
+   "residence": "",
+   "evidence": "liṣitaṃ ... śrīdharmmachriṃ putra jñānachriṃ thva pariniptasyana saṃpūrṇṇa siddhayakā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīdharmmachriṃ putra jñānachriṃ"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "dānapati ... turādharavakhāsiṃhayā ... pustaka vāvakā juro ... liṣitaṃ ... jñānachriṃ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 835 vaiśākhamāse śuklapakṣe pañcami pravaṣṭamyān tithau punarvasunakṣatre śūla joge jathākarṇṇamuhūrte budhavāsare",
+  "era": "NS",
+  "year": "835",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "pañcamī pravaṣṭamī",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "punarvasu, śūla",
+  "ce_approx": "1715"
+ },
+ "place": {
+  "as_written": "śrīkāntipurimahānagare",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "cāryyopādhyāyas tato pitṛpūrvvagamaṃ kṛtvā śakalasatvarāśīnāmanuttarajñānaphalaṃ prāptam astu",
+ "notes": "The title 'turādhara' corresponds to Tulādhara. The tithi phrase 'pañcami pravaṣṭamyān' is somewhat ambiguous (possibly pañcamī or aṣṭamī).",
+ "_meta": {
+  "reel": "A 115/3",
+  "model": "gemini-flash-latest",
+  "secs": 13.6,
+  "in_tok": 1149,
+  "out_tok": 2431
+ }
+}

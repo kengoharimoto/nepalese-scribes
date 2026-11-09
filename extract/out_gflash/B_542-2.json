@@ -1,0 +1,88 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "deveṃdrabhaṭṭena",
+   "name": "Devendra",
+   "roles": [
+    "scribe",
+    "donor"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ raghunāthabhaṭṭasutadeveṃdrabhaṭṭena || goviṃdajyotirvide dattam idaṃ pustakaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "raghunāthabhaṭṭa",
+   "name": "Raghunātha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "raghunāthabhaṭṭasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "goviṃdajyotirvide",
+   "name": "Govinda",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "goviṃdajyotirvide dattam idaṃ pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "raghunāthabhaṭṭasuta"
+  },
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "goviṃdajyotirvide dattam idaṃ pustakaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat | 1649 | varṣe āśvinavadi || 14 || ravau",
+  "era": "VS",
+  "year": "1649",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "14",
+  "weekday": "ravau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1592"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "gifted to Govinda Jyotirvid (goviṃdajyotirvide dattam idaṃ pustakaṃ)",
+ "notes": "",
+ "_meta": {
+  "reel": "B 542/2",
+  "model": "gemini-flash-latest",
+  "secs": 11.2,
+  "in_tok": 753,
+  "out_tok": 1434
+ }
+}

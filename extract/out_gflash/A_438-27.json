@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnaranāthasya",
+   "name": "Naranātha",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnaranāthasyedakaṃ pustakam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1919 sālamiti āṣāḍaśudi 12 roja 3 mā",
+  "era": "VS",
+  "year": "1919",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "12",
+  "weekday": "roja 3 (Tuesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1862"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 438/27",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 717,
+  "out_tok": 693
+ }
+}

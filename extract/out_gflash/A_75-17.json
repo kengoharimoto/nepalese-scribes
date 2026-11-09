@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmada(4)nnabhaṭṭopādhyāya",
+   "name": "Annabhaṭṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmada(4)nnabhaṭṭopādhyāyakṛta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvata || 18 || 17 ||",
+  "era": "unspecified",
+  "year": "1817",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1760"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is written as '18 || 17', likely representing Vikrama Saṃvat 1817 (ca. 1760 CE).",
+ "_meta": {
+  "reel": "A 75/17",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 692,
+  "out_tok": 786
+ }
+}

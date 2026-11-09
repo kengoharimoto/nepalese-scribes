@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 712 bhā",
+  "era": "NS",
+  "year": "712",
+  "month": "bhā",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1592"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons are named; the Newari text following the title provides ritual instructions (e.g., 'prohita ādi māle...' meaning the purohita etc. must be sought/are needed). Month 'bhā' likely abbreviates Bhādrapada.",
+ "_meta": {
+  "reel": "A 1229/20 (2)",
+  "model": "gemini-flash-latest",
+  "secs": 8.5,
+  "in_tok": 790,
+  "out_tok": 973
+ }
+}

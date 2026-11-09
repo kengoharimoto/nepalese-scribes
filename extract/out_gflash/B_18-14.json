@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśivasvāminaḥ",
+   "name": "Śivasvāmin",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "Kāśmīra",
+   "evidence": "bhaṭṭasya śrīśivasvāminaḥ kṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 648 āṣāḍhaśuklapaṣṭamyāṃ tithau citrānakṣatre vṛhaspativāsare",
+  "era": "NS",
+  "year": "648",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "paṣṭamī (ṣaṣṭhī)",
+  "weekday": "vṛhaspativāsara",
+  "nakshatra_yoga": "citrā",
+  "ce_approx": "1528"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribe, patron, or commissioner is named in the colophon.",
+ "_meta": {
+  "reel": "B 18/14",
+  "model": "gemini-flash-latest",
+  "secs": 8.6,
+  "in_tok": 833,
+  "out_tok": 1021
+ }
+}

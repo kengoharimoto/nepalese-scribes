@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "svātmārāmayogīṃdra",
+   "name": "Svātmārāma",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "yogīndra"
+   ],
+   "affiliation": "sahajānandasantāna",
+   "residence": "",
+   "evidence": "svātmārāmayogīṃdraviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "lakṣmaṇatriguṇāyuta",
+   "name": "Lakṣmaṇatriguṇāyata",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "triguṇāyata"
+   ],
+   "affiliation": "",
+   "residence": "Vārāṇasī",
+   "evidence": "liṣitaṃ lakṣmaṇatriguṇāyuta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 18||93 bhādra śu 2",
+  "era": "VS",
+  "year": "1893",
+  "month": "bhādra",
+  "paksa": "śu",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1836"
+ },
+ "place": {
+  "as_written": "kāśyāṃ madhya rājyamaṃdiraḥ || hanumat sannidhān",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "Copied in Kāśī (Vārāṇasī) near the Hanumat temple/shrine in the royal palace/residence (rājyamandira).",
+ "_meta": {
+  "reel": "A 61/2",
+  "model": "gemini-flash-latest",
+  "secs": 10.0,
+  "in_tok": 769,
+  "out_tok": 1307
+ }
+}

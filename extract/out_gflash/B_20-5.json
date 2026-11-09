@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "upādhyāyaśrī /// reṇa",
+   "name": "[...]ra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "upādhyāyaśrī /// reṇa likhitam idaṃ pustakam",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "salaṃ 335 bhādravadi 6 budhe",
+  "era": "LS",
+  "year": "335",
+  "month": "bhādra",
+  "paksa": "vadi",
+  "tithi": "6",
+  "weekday": "budhe",
+  "nakshatra_yoga": "",
+  "ce_approx": "1454"
+ },
+ "place": {
+  "as_written": "erkaharāgrāme",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's personal name is mostly lost in the lacuna (/// reṇa), bearing the title upādhyāya. 'salaṃ 335' corresponds to Lakṣmaṇasaṃvat (LS) 335 in Maithili context.",
+ "_meta": {
+  "reel": "B 20/5",
+  "model": "gemini-flash-latest",
+  "secs": 13.3,
+  "in_tok": 773,
+  "out_tok": 1745
+ }
+}

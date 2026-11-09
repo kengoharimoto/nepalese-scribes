@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Added the surname 'Phaḍake' (from phaḍakopanāmaka, 'surnamed Phaḍake') to the scribe's titles. It is the Marathi family name Phaḍke/Phadke, not a personal name.",
+   "Normalized purpose to 'svārtha and parārtha (for himself and for others)'.",
+   "Expanded the notes: surname reading, the odd 'jayati', no date or place, and why the scribe is not also tagged as owner."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "phaḍakopanāmaka kṛṣṇena",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "Phaḍake (upanāma/surname)"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "phaḍakopanāmaka kṛṣṇena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtha and parārtha (for himself and for others)",
+ "notes": "'phaḍakopanāmaka' = phaḍake + upanāmaka, 'whose surname is Phaḍake'. This is the Marathi brahmin surname Phaḍke/Phadke, which suggests the scribe was Maharashtrian. The catalogue's 'phaḍko' is a variant of the same name. 'svārthaṃ parārthaṃ jayati' is odd: 'jayati' may be a corruption or a formulaic ending. The scribe is not tagged as owner because the copy was made for others as well as for himself ('svārthaṃ parārthaṃ'), and the colophon does not say the book is his. The colophon has no date and no place.",
+ "_meta": {
+  "reel": "B 407/11",
+  "model": "opus",
+  "cost_usd": 0.0496788,
+  "secs": 11.3
+ }
+}

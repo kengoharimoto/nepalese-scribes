@@ -1,0 +1,83 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Tithi: manmathatithi given as śukla trayodaśī (13), Manmatha/Kāma's tithi",
+   "Weekday normalized to Tuesday (kuja)",
+   "Notes: the catalogue's King Jagajjyotir Malla (r. c. NS 733–757 / 1613–1637 CE) is not named and does not fit NS 766. Possible mismatch between the title and the colophon's Hastamuktāvalī noted",
+   "Place normalized as Nepal (Kathmandu Valley)"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śubhaṅkara",
+   "name": "Śubhaṅkara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śubhaṅkaraviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vinoda",
+   "name": "Vinoda",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "Sūrakula",
+   "residence": "",
+   "evidence": "vinodātmajo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "ananto",
+   "name": "Ananta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Sūrakula",
+   "residence": "",
+   "evidence": "vinodātmajo- nantoyaṃ kuladīpano likhad",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "vinodātmajo- nantoyaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "nepāle rasaṣaṣṭhiśailavimale jāte śubhe vatsare | bhādre śuklakuje ca manmathatithau svātyāṃ",
+  "era": "NS",
+  "year": "766",
+  "month": "Bhādra",
+  "paksa": "śukla",
+  "tithi": "13 (manmathatithi)",
+  "weekday": "Tuesday (kuja)",
+  "nakshatra_yoga": "Svātī",
+  "ce_approx": "1646"
+ },
+ "place": {
+  "as_written": "nepāle",
+  "normalized": "Nepal (Kathmandu Valley)"
+ },
+ "purpose": "",
+ "notes": "The chronogram rasa (6), ṣaṣṭhi (taken as 6), śaila (7), read right to left, gives NS 766, which is Bhādra 1646 CE. If ṣaṣṭhi were read literally as 60, the chronogram would not work, so 6 is the likely sense. Manmathatithi = trayodaśī. The catalogue gives King Jagajjyotir Malla, but no king is named in the quoted colophon. NS 766 also falls after his reign (he died c. 1637 CE), so that field is doubtful and no king has been added. The colophon calls the work Hastamuktāvalī by Śubhaṅkara, and the scribe calls it 'muktāvalīpustakaṃ'. The catalogue title is Saṅgītacintāmaṇi, so either the title field is wrong or the manuscript holds more than one text. 'sūrakulāvataṃsa' (ornament of the Sūra family) is read as Ananta's family, which makes it also Vinoda's. Ananta's 'kuladīpana' (lamp of the family) is an epithet, not a title.",
+ "_meta": {
+  "reel": "B 288/24",
+  "model": "opus",
+  "cost_usd": 0.0696708,
+  "secs": 17.5
+ }
+}

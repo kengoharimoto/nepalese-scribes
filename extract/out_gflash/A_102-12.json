@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "saccidānaṃdena",
+   "name": "Saccidānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ saccidānaṃdena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvata aṣṭādaśa 18 || dvādaśa12me varṣe (8) || ❁ || dakṣa[[ṇā]]yane vṛṣā (!) ṛtu (!) śrāvaṇamāsi śuktapakṣe (!) 8 janmāṣṭa(mi)grena",
+  "era": "VS",
+  "year": "1812",
+  "month": "śrāvaṇa",
+  "paksa": "śuklapakṣa",
+  "tithi": "8 (janmāṣṭamī)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1755"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date specifies the year in words and figures: 'aṣṭādaśa 18 dvādaśame 12' (VS 1812). Janmāṣṭamī is atypically marked as śuklapakṣa.",
+ "_meta": {
+  "reel": "A 102/12",
+  "model": "gemini-flash-latest",
+  "secs": 9.7,
+  "in_tok": 745,
+  "out_tok": 1364
+ }
+}

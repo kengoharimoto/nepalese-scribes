@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devyandrakarmmā cājyena",
+   "name": "Devendra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devyandrakarmmā cājyena thava āṣalasena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The cataloguer noted: 'A sentence follows which I do not understand: thva sarasvati deva yā śiro kathavagvastikadhani karmmā cājye yo kekāyāva devyandrakarmmā cājyena thava āṣalasena vavamacātośene yātāhleyājulo śubha ||'. Devendra Karmācārya (Devyandra Karmācājya) is clearly named as the scribe (Newari: 'thava āṣalasena' = in his own hand/letters). Other possible names or kin relations mentioned in this corrupt Newari clause (e.g. 'sarasvati deva', 'karmmā cājye yo kekāyāva') remain uncertain.",
+ "_meta": {
+  "reel": "A 1174/31 (15)",
+  "model": "gemini-flash-latest",
+  "secs": 15.7,
+  "in_tok": 778,
+  "out_tok": 2237
+ }
+}

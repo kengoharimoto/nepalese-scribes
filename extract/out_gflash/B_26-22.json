@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ācārya(oṃ)nāyakasya",
+   "name": "Oṃnāyaka",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "śivagalaṭvālakādhivāśinayo(bukkaṃche)krama",
+   "evidence": "ācārya(oṃ)nāyakasya nitatilakapuskaṃ(!)",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 389 phālguni(!) śuklapatipradyāṃ(!) śaniścaravāsare",
+  "era": "NS",
+  "year": "389",
+  "month": "phālguna",
+  "paksa": "śukla",
+  "tithi": "pratipad",
+  "weekday": "śaniścaravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1269"
+ },
+ "place": {
+  "as_written": "śivagalaṭvālaka",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The catalogue lists the scribe as Śrīkaṇṭhasūnu, but this name does not appear in the quoted colophon text. The owner's name reading '(oṃ)nāyaka' is partially uncertain due to parentheses in the transcript.",
+ "_meta": {
+  "reel": "B 26/22",
+  "model": "gemini-flash-latest",
+  "secs": 11.3,
+  "in_tok": 779,
+  "out_tok": 1408
+ }
+}

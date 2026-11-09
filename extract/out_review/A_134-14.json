@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date: chronogram checked (nāga 8, ibha 8, ṛṣi 7, dharā 1, read right to left = 1788); ŚS 1788 = c. 1866 CE confirmed",
+   "Month: glossed nabhasya as Bhādrapada",
+   "Notes: say that the dated verse records when the work itself was completed (the author's own date, carried over from the exemplar), so it may not be the date of this copy; the catalogue's copying date may come from this verse"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhaṭṭayajñeśvaronnīte",
+   "name": "Yajñeśvara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhaṭṭayajñeśvaronnīte",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śālivāhanīyaśāke ʼsmin nāgebharṣidharāmite śuklanabhasye ... pratipat tithau",
+  "era": "ŚS",
+  "year": "1788",
+  "month": "Bhādrapada (nabhasya)",
+  "paksa": "śukla",
+  "tithi": "pratipat",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1866"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram nāga (8), ibha (8), ṛṣi (7), dharā (1), read right to left, gives Śaka 1788, i.e. c. 1866 CE (Bhādrapada śukla 1). The verse says 'pūrṇo ʼbhūd grantho ʼyam' ('this work was completed'), together with a closing verse by the author. So it most likely records when Yajñeśvara Bhaṭṭa finished composing the work, carried over from the exemplar, not when this manuscript was copied. The catalogue's 'Date of Copying ŚS 1788' probably comes from this verse, so the actual copy may be the same date or later. No scribe, commissioner or place of copying is named.",
+ "_meta": {
+  "reel": "A 134/14",
+  "model": "opus",
+  "cost_usd": 0.5445336000000001,
+  "secs": 21.6
+ }
+}

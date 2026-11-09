@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jagajoti malleṃ",
+   "name": "Jagajjyotimalla",
+   "roles": [
+    "commissioner",
+    "king"
+   ],
+   "titles": [
+    "rājan"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pothī likhāyi apane jagajoti malleṃ || 0 || 0 || sarvvadā kalyāṇam astu rājñaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "ādhāpurāṇaka daye punu hātha ghorā ī vatsaraugaṇi vicāra karo vicārī | śrīkaṇṭhake tithi mahe kujake",
+  "era": "NS",
+  "year": "ādhāpurāṇaka daye punu hātha ghorā",
+  "month": "mahe",
+  "paksa": "",
+  "tithi": "śrīkaṇṭhake tithi",
+  "weekday": "kujake",
+  "nakshatra_yoga": "",
+  "ce_approx": "1625"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtha (apane)",
+ "notes": "The colophon contains a rhyming chronogram in vernacular verse: ādhāpurāṇaka (18/2 = 9), hātha (2), ghorā (7) giving an NS year in the 700s (likely NS 749 or 739, roughly the 1620s CE during King Jagajjyoti Malla's reign in Bhaktapur). Place Bhaktapur is supplied by the cataloguer based on the king's seat.",
+ "_meta": {
+  "reel": "B 311/23",
+  "model": "gemini-flash-latest",
+  "secs": 14.0,
+  "in_tok": 733,
+  "out_tok": 1780
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "srīśāke 1818 samvat 1953 sāla miti māgha vadi 22 roja 5",
+  "era": "ŚS",
+  "year": "1818",
+  "month": "māgha",
+  "paksa": "vadi",
+  "tithi": "22",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1897"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons are mentioned in the colophon. The date is given in both Śaka Era 1818 and Vikrama Samvat 1953. The specification 'vadi 22' likely refers to solar day (gate) 22 or is an error.",
+ "_meta": {
+  "reel": "A 1002/23",
+  "model": "gemini-flash-latest",
+  "secs": 8.0,
+  "in_tok": 692,
+  "out_tok": 932
+ }
+}

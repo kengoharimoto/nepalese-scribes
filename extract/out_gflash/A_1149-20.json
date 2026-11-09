@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhuvaneśvaraśarmaṇā",
+   "name": "Bhuvaneśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhuvaneśvaraśarmaṇā likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "1987 samvat || śāke 1852 || nepālisamvat 1050 san 1931 jeṣṭha 30 gate guruvāsare",
+  "era": "VS",
+  "year": "1987",
+  "month": "jeṣṭha",
+  "paksa": "",
+  "tithi": "30 gate",
+  "weekday": "guruvāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1931"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date is stated concurrently in four eras: Vikrama Saṃvat 1987, Śaka 1852, Nepāla Saṃvat 1050, and Common Era (san) 1931.",
+ "_meta": {
+  "reel": "A 1149/20",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 755,
+  "out_tok": 855
+ }
+}

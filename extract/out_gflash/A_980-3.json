@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījayanāthasarmā",
+   "name": "Jayanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "salyānadeśa",
+   "evidence": "śrījayanāthasarmālikhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śaptāṃkaśaptaści sa śākavarṣe nabhaḥkṛṣṇaśivā ca tithyau || yamārkṣayoge śrutvaṃ ca candravāre",
+  "era": "ŚS",
+  "year": "1797",
+  "month": "nabhas",
+  "paksa": "kṛṣṇa",
+  "tithi": "śivā (14)",
+  "weekday": "candravāra",
+  "nakshatra_yoga": "yamarkṣa",
+  "ce_approx": "1875"
+ },
+ "place": {
+  "as_written": "salyānadeśe ... lakṣmīnārāyaṇāgrata",
+  "normalized": "Salyan"
+ },
+ "purpose": "",
+ "notes": "The chronogram reads 'śaptāṃkaśaptaści [śaśi]' (sapta-aṅka-sapta-śaśi = 7, 9, 7, 1 reversed: Śaka 1797 = 1875 CE). Ādinātha in the text attribution (mahākālasaṃhitā) is mythical/divine and not included. Lakṣmīnārāyaṇa refers to a deity/temple ('in front of Lakṣmīnārāyaṇa').",
+ "_meta": {
+  "reel": "A 980/3",
+  "model": "gemini-flash-latest",
+  "secs": 11.7,
+  "in_tok": 818,
+  "out_tok": 1665
+ }
+}

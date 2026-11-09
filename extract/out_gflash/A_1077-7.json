@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The quoted text consists solely of chapter (sarga) colophons and is cut off at fol. 146r. No final scribal colophon naming persons or recording the date appears in the excerpt provided, although the catalogue metadata lists the date as [NS] 657 āṣāḍhaśukla 14 guruvāra (ca. 1537 CE).",
+ "_meta": {
+  "reel": "A 1077/7",
+  "model": "gemini-flash-latest",
+  "secs": 7.9,
+  "in_tok": 3324,
+  "out_tok": 937
+ }
+}

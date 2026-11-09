@@ -1,0 +1,121 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "King's name corrected to Jayasthitirājamalladeva: the colophon's 'jagatsthiti-' is a corruption of Jaya-, the king who reigned c. NS 502–515. Confidence lowered to medium.",
+   "Ḍhoṣṇanaka: dropped 'commissioner' because no causative verb (likhāpitam etc.) appears; kept 'donor' (dānapati) and added 'beneficiary' (sarvasampatihetunārthaṃ). Confidence lowered to medium because the name is odd and the '-ka' may be a suffix.",
+   "Jyantanalakṣmī: dropped 'donor' and 'relative_only' and gave her 'beneficiary', since she is named only as the dānapati's wife and the merit is for both of them. Confidence medium.",
+   "Added the relation Ḍhoṣṇanaka under_reign_of the king.",
+   "Notes expanded: the king's name corruption, the reading of the place as the donor's house, the -ka endings and the date check."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījagatsthitirājamallaḥ devasya",
+   "name": "Jayasthitirājamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnepālamaṇḍ⟪ā⟫alāddhirājyā(!) śrījagatsthitirājamallaḥ devasya vijarājasmaye",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nāyakaḍhoṣṇanakasya",
+   "name": "Ḍhoṣṇanaka",
+   "roles": [
+    "donor",
+    "beneficiary"
+   ],
+   "titles": [
+    "dānapati",
+    "nāyaka"
+   ],
+   "affiliation": "",
+   "residence": "haṭhakhāchyaṃ vikraṇichyaṃ (house name)",
+   "evidence": "dānapate nāyakaḍhoṣṇanakasya",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "jyantanalakṣmīkasya",
+   "name": "Jyantanalakṣmī",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasya bhāryā jyantanalakṣmīkasya",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "vajrārya amarendracandreṇa",
+   "name": "Amarendracandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiḍam idaṃ vajrārya amarendracandreṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wife_of",
+   "to": "p2",
+   "evidence": "tasya bhāryā jyantanalakṣmīkasya"
+  },
+  {
+   "from": "p4",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "dānapate nāyakaḍhoṣṇanakasya ... likhiḍam idaṃ vajrārya amarendracandreṇa"
+  },
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrījagatsthitirājamallaḥ devasya vijarājasmaye"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrījagatsthitirājamallaḥ devasya vijarājasmaye"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 507 kārttikaśuklapratipadyāyās tithau buddhavāsare vaiśākhanakṣatre | śobhanayoge",
+  "era": "NS",
+  "year": "507",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "pratipadā (1)",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "viśākhā; śobhana",
+  "ce_approx": "1386"
+ },
+ "place": {
+  "as_written": "haṭhakhāchyaṃ vikraṇichyaṃ gṛhanāmadheyam",
+  "normalized": ""
+ },
+ "purpose": "for the complete prosperity (sarvasampati) of the dānapati Ḍhoṣṇanaka and his wife Jyantanalakṣmī",
+ "notes": "The colophon writes the king as 'jagatsthitirājamalla'. This is a corruption of Jayasthitirājamalla (Jayasthiti Malla, r. c. NS 502–515 / 1382–1395 CE), which fits NS 507. The catalogue gives him as 'Sthitimalla'. The phrase 'vijasya vijarājasmaye' is a corrupt form of vijayarājye/samaye. The place, 'haṭhakhāchyaṃ vikraṇichyaṃ gṛhanāmadheyam', is literally the name of a house (Newari chẽ, 'house'). It most likely names the donor's house, which may also be where the copy was made; the locality is not identified. The '-ka' at the end of both lay names (Ḍhoṣṇanaka-sya, Jyantanalakṣmī-ka-sya) may be a suffix: Ḍhoṣṇana and Jyantalakṣmī/Jayantalakṣmī are possible readings. 'vajrārya' stands for vajrācārya. The colophon has no causative verb for having the copy made, so the dānapati is recorded as donor and beneficiary only. The date is NS 507 Kārttika śukla 1, Wednesday, Viśākhā nakṣatra, Śobhana yoga, which is October/November 1386 CE. Viśākhā is a plausible nakṣatra for Kārttika śukla 1, but the weekday has not been computed.",
+ "_meta": {
+  "reel": "A 47/11",
+  "model": "opus",
+  "cost_usd": 0.1169548,
+  "secs": 29.6
+ }
+}

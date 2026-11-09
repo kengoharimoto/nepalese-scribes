@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdevadatto",
+   "name": "Devadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvijaḥ || śrīdevadatto jayadaṃ hereḥ pradaṃ saptāhamāhātmyam alīlikhad",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vāṇāgagotrābjamite śake madhau bahnes tithau (śyāmala)pakṣake",
+  "era": "ŚS",
+  "year": "1775",
+  "month": "Caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1853"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram: vāṇa (5) + aga (7) + gotra (7) + abja (1) = Śāke 1775. Madhu = Caitra; vahni = 3; śyāmala = kṛṣṇapakṣa.",
+ "_meta": {
+  "reel": "B 269/18",
+  "model": "gemini-flash-latest",
+  "secs": 8.4,
+  "in_tok": 779,
+  "out_tok": 995
+ }
+}

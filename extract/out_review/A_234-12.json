@@ -1,0 +1,48 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes: Haripatideva as scribe (coyā = 'wrote', not the causative coyakā), the NS 801 date and the CE 1681 conversion are all correct",
+   "Notes expanded: '(2)?' may be the cataloguer's line marker rather than an alternative last digit; the -deva ending is taken as part of the name; the mantra after the colophon names no copy-related persons"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīharipatidevana",
+   "name": "Haripatideva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīharipatidevana coyā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 801 (2)? jyeṣṭha śukla navami",
+  "era": "NS",
+  "year": "801",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "navamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1681"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'samvat' with no named era, in a Newari colophon (coyā juro), is read as Nepāla Saṃvat: NS 801 = c. 1681 CE. The '(2)?' after 801 may be the cataloguer's line-number marker, or it may mark a doubtful last digit (802 = c. 1682 CE). The catalogue gives 801. 'Haripatidevana' is the ergative ('by Haripatideva'). The -deva ending is kept as part of the name, but no king of this name is known, so it is not treated as a regnal name. 'coyā juro' means 'was written', so the role is scribe, not commissioner. After the colophon comes a vernacular (Hindi/Bhojpuri-coloured) mantra invoking Kāmākhyā Devī of Kāmarūpa (kāmarideśa kaṃmacchādevi), with a jogī and a list of gifts. It names no persons connected with the copy.",
+ "_meta": {
+  "reel": "A 234/12",
+  "model": "opus",
+  "cost_usd": 0.0526988,
+  "secs": 12.9
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "(cakku)raśrīkama(la)dharasya",
+   "name": "Kamaladhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "ṭhakkura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "(cakku)raśrīkama(la)dharasya likhitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "la saṃ 359 ākhāḍhabadi 7 śukre",
+  "era": "LS",
+  "year": "359",
+  "month": "ākhāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "7",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1478"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "(cakku)ra likely represents ṭhakkura.",
+ "_meta": {
+  "reel": "H 109/12",
+  "model": "gemini-flash-latest",
+  "secs": 8.4,
+  "in_tok": 1082,
+  "out_tok": 856
+ }
+}

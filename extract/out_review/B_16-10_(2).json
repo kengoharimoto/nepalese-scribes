@@ -1,0 +1,73 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe changed from Viṣṇusiṃha to Bhārasiṃha. In 'likhitaṃ bhārasiṃhasya viṣṇusiṃhasya sūnunā', sūnunā ('by the son') is governed by viṣṇusiṃhasya, so the writer is the son of Viṣṇusiṃha. The genitive bhārasiṃhasya with likhitam is the agent ('written by Bhārasiṃha'), and 'viṣṇusiṃhasya sūnunā' stands in apposition to it.",
+   "Added the role 'owner' for Bhārasiṃha, because he copied it 'svārthapāṭhāya' (for his own study).",
+   "Viṣṇusiṃha's role changed to relative_only (father).",
+   "Relation reversed: Bhārasiṃha is son_of Viṣṇusiṃha.",
+   "Tithi removed. 'ṣaḍbhir divasasaṃjñakaiḥ' means the copy was finished in six days. It is not the 6th tithi.",
+   "Notes rewritten: the reading conflicts with the catalogue's Scribe field, and the era is inferred."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhārasiṃhasya",
+   "name": "Bhārasiṃha",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ bhārasiṃhasya viṣṇusiṃhasya sūnunā ... svārthapāṭhāya",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "viṣṇusiṃhasya",
+   "name": "Viṣṇusiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viṣṇusiṃhasya sūnunā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "bhārasiṃhasya viṣṇusiṃhasya sūnunā"
+  }
+ ],
+ "date": {
+  "as_written": "rasadiggajavedābde māse nabhasi pāṇḍare",
+  "era": "NS",
+  "year": "486",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1366"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthapāṭhāya (for the scribe's own study)",
+ "notes": "The chronogram rasa (6), diggaja (8), veda (4), read right to left, gives 486. The verse names no era. NS is inferred from the Newari script and the catalogue, which gives NS 486 = c. 1366 CE. Nabhas = Śrāvaṇa; pāṇḍara = śukla pakṣa. 'saṃpūrṇaṃ vyalikhat ... ṣaḍbhir divasasaṃjñakaiḥ' says the copying was completed in six days, so no tithi is given. The catalogue lists Viṣṇusiṃha as scribe, but grammatically Viṣṇusiṃha is the father ('viṣṇusiṃhasya sūnunā'), and the scribe is Bhārasiṃha (genitive agent with likhitam). It is possible, though less likely, that 'bhāra' is the title Bhāro, which would make the scribe an unnamed son of Viṣṇusiṃha.",
+ "_meta": {
+  "reel": "B 16/10 (2)",
+  "model": "opus",
+  "cost_usd": 0.0819468,
+  "secs": 23.1
+ }
+}

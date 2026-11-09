@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jogindrapatīna",
+   "name": "Yogīndrapati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "makhaṃtolamakhaṃbāhāla",
+   "evidence": "jogindrapatīna likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "makhaṃtolamakhaṃbāhāla",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 509/7",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 681,
+  "out_tok": 474
+ }
+}

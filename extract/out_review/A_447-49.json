@@ -1,0 +1,55 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: 'Upādhyāya' is a title, not a personal name. Name left empty; upādhyāya kept in titles only.",
+   "p1: residence cleared. The colophon gives the place of copying, not the scribe's home; the place stays under 'place'.",
+   "p1: evidence shortened and confidence raised to medium. The person is clearly the anonymous scribe; only the name is missing.",
+   "date: 'dinagate 17' is a solar day count (17th day of Vaiśākha), not a tithi. Tithi left empty, and this is explained in notes.",
+   "date: 'Citrabhānu' is the name of the Jovian year (saṃvatsara), not a nakṣatra or yoga. Removed from nakshatra_yoga and discussed in notes.",
+   "date: month normalized to 'Vaiśākha', paksa to 'śukla' and weekday to 'Sunday (ādityavāra)'.",
+   "notes expanded: the place reading, the possible personal name 'Rāma' in the title, and the saṃvatsara check."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "upādhyāyaḥ",
+   "name": "",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "maye(!) likhitaṃ ... li(!) upādhyāyaḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1733 māse vaiśāṣadinagae 17 ādityavāsare śuklapakṣe tithu || citrabhānunāmasaṃvatsa[re]",
+  "era": "ŚS",
+  "year": "1733",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "Sunday (ādityavāra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1811"
+ },
+ "place": {
+  "as_written": "nakurājye tāhnugrāme brahmasthāne",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe is anonymous. The colophon reads 'li(!) upādhyāyaḥ', probably 'likhitam upādhyāyena' ('written by the Upādhyāya'), and also uses 'mayā'. The phrase 'daśakarmmarāmapaddhati' could hide a personal name (Rāma, as author or owner?). More likely it is part of the title, so no person record was made for it. Date: Śaka 1733 + 78 = 1811 CE. 'Dinagate 17' is the 17th solar day of Vaiśākha, so roughly late April 1811. 'Tithu' has no number, so the tithi is not given. 'Citrabhānu' is the name of the 60-year Jovian saṃvatsara. Under the southern (luni-solar) reckoning, Śaka 1733 would be Prajāpati, not Citrabhānu. Under the northern (Bṛhaspati) reckoning, about 11 years ahead, it would be Citrabhānu. So the name fits if the northern reckoning is used, and the era is consistent. Place: 'nakurājye' is unclear. It may be a corruption, e.g. of a local rājya name, possibly 'Tanahũ-rājya'. 'Tāhnugrāma' may be Tanahun (Tanahũ) in central Nepal, but this is uncertain, so the place is not normalized. 'Brahmasthāne' = at the Brahmin settlement or temple site.",
+ "_meta": {
+  "reel": "A 447/49",
+  "model": "opus",
+  "cost_usd": 0.5830176,
+  "secs": 35.5
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viṣṇuśaṃkareṇa",
+   "name": "Viṣṇuśaṃkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ viṣṇuśaṃkareṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1683 māse 12 tithau 9 vāre 5",
+  "era": "ŚS",
+  "year": "1683",
+  "month": "12",
+  "paksa": "",
+  "tithi": "9",
+  "weekday": "5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1762"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 287/46",
+  "model": "gemini-flash-latest",
+  "secs": 6.2,
+  "in_tok": 742,
+  "out_tok": 763
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāśīnāthena",
+   "name": "Kāśīnātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāśīnāthena likhita",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1811 tāraṇasaṃvatsare mārgaśīṣa (!) kṛṣṇa dvitīyā",
+  "era": "VS",
+  "year": "1811",
+  "month": "Mārgaśīrṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvitīyā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1754"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīgurudevatārpaṇam astu",
+ "notes": "",
+ "_meta": {
+  "reel": "A 979/46",
+  "model": "gemini-flash-latest",
+  "secs": 4.9,
+  "in_tok": 746,
+  "out_tok": 636
+ }
+}

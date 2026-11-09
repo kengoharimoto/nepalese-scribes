@@ -1,0 +1,98 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vipraśrīkṛṣṇarāyasya",
+   "name": "Kṛṣṇarāya",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vipraśrīkṛṣṇarāyasyātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīlakṣmīrāyaśarmmanā",
+   "name": "Lakṣmīrāya",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "svanihmahanumantananiyaṃ tāccheyā",
+   "evidence": "śrīlakṣmīrāyaśarmmanā likhitaṃ saṃpūrṇṇaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīyogaprakāśamalla",
+   "name": "Yogaprakāśamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīyogaprakāśamallavijayarākṣye likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrībhūpalaṃ",
+   "name": "Bhūpāla",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "thva saṃphūla śrībhūpalaṃ +rahevayā+lo",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "vipraśrīkṛṣṇarāyasyātmaja"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "śrīyogaprakāśamallavijayarākṣye likhitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 843 kārttika,kṛṣṇa,trayodaśī,ādityavāre",
+  "era": "NS",
+  "year": "843",
+  "month": "Kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1723"
+ },
+ "place": {
+  "as_written": "svanihmahanumantananiyaṃ tāccheyā",
+  "normalized": "Patan"
+ },
+ "purpose": "śrīśrīśrīkṛṣṇaprītir astu",
+ "notes": "A second hand repeats part of the colophon and notes an acquisition/possession by Bhūpāla ('thva saṃphūla śrībhūpalaṃ...'). The scribe also notes copying with difficulty from a Gauḍīya (Bengali) exemplar: 'gauḍiyā akṣarasasoyāva mahākaṣṭayā hacoya jaro'.",
+ "_meta": {
+  "reel": "A 143/1",
+  "model": "gemini-flash-latest",
+  "secs": 17.2,
+  "in_tok": 1442,
+  "out_tok": 2626
+ }
+}

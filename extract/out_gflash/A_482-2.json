@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vāsudevabhārona",
+   "name": "Vāsudeva",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "bhāro"
+   ],
+   "affiliation": "kāśyapagotra",
+   "residence": "ipalācchaṭola",
+   "evidence": "kāśyapagotra ipalācchaṭolayā vāsudevabhārona śrī 3 indrāyaṇīprīti na śrī 3 paśupatiska dūtā hurā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 813 phālguṇakṛṣṇacaturddaśi utrabhadranakṣatre aindrayoge śaniścaravāsare",
+  "era": "NS",
+  "year": "813",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturddaśī",
+  "weekday": "śaniścaravāsara",
+  "nakshatra_yoga": "utrabhadranakṣatra, aindrayoga",
+  "ce_approx": "1693"
+ },
+ "place": {
+  "as_written": "ipalācchaṭola",
+  "normalized": ""
+ },
+ "purpose": "śrī 3 indrāyaṇīprīti na śrī 3 paśupatiska dūtā hurā (offered to Paśupati for the propitiation/pleasure of Indrāyaṇī)",
+ "notes": "",
+ "_meta": {
+  "reel": "A 482/2",
+  "model": "gemini-flash-latest",
+  "secs": 8.2,
+  "in_tok": 900,
+  "out_tok": 1218
+ }
+}

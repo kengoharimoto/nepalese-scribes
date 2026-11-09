@@ -1,0 +1,35 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday: 'roja 2' read as Monday (Persian roja + day number, counting from Sunday)",
+   "notes: says the era is unstated and NS is inferred, and that Mārgaśīrṣa NS 1019 falls in Nov/Dec 1898, not 1899 as the catalogue suggests",
+   "notes: translates the Newari dating clause"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1019 sālamitī maṃsira śudi 7 roja 2",
+  "era": "NS",
+  "year": "1019",
+  "month": "Mārgaśīrṣa (maṃsira)",
+  "paksa": "śukla (śudi)",
+  "tithi": "7",
+  "weekday": "Monday (roja 2)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1898"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names no scribe, owner or donor. Vasubandhu, Indrapṛṣṭa and the Jina are figures in the story, not people involved with this copy. The colophon just says 'samvat' with no era. NS is inferred from the Newari wording ('thva saphu siddhayekā dīna jula' = 'this was the day this book was finished') and from the Persian-style terms sālamitī/roja, which point to a late date. VS 1019 (962 CE) is not plausible. Since the NS year begins in Kārttika, Mārgaśīrṣa śukla 7 of NS 1019 falls in Nov/Dec 1898. The catalogue's '~1899' is slightly off. The weekday has not been checked against an ephemeris.",
+ "_meta": {
+  "reel": "A 119/4",
+  "model": "opus",
+  "cost_usd": 0.0522188,
+  "secs": 10.7
+ }
+}

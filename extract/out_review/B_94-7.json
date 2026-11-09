@@ -1,0 +1,63 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: name normalized from Leṣānanda to Lekhānanda (ṣ for kh is a common Newar spelling); as_written kept; confidence still low",
+   "p1: evidence cut to the shortest phrase",
+   "purpose cleared: 'śubham astu sarvajagatāṃ sarvadā' is a general blessing, not the purpose of the copy",
+   "notes expanded"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "leṣānanda",
+   "name": "Lekhānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "leṣānanda abhayānandena likhitaṃ",
+   "confidence": "low"
+  },
+  {
+   "pid": "p2",
+   "as_written": "abhayānandena",
+   "name": "Abhayānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "abhayānandena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "'leṣānanda abhayānandena likhitaṃ': 'leṣānanda' has no case ending. Most likely it is the first part of an uninflected compound naming two scribes (Lekhānanda and Abhayānanda), with ṣ written for kh as often in Newar manuscripts. It could also be a corruption, or a word meaning 'scribe' or a kinship term, so treat it as a second scribe only with low confidence. The catalogue gives 'Leṣānanda? Abhayānanda'. The colophon has no date or place. The colophon also gives the text title in several forms (Ratnāvadānamālā / Aśokāvadānamālā, Durgatipariśodhanadhāraṇīmaṇḍala chapter).",
+ "_meta": {
+  "reel": "B 94/7",
+  "model": "opus",
+  "cost_usd": 0.0507548,
+  "secs": 10.6
+ }
+}

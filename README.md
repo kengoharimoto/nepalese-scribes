@@ -6,9 +6,8 @@ entries in `/mnt2/kengo/E-texts/reference/ngmcp` (17,041 HTML files, 11,866 reel
 wiki mirror (6,211 further pages, 6,162 reels or bundle items that have no local card): 18,545
 manuscripts and inscriptions in all.
 
-Status: 1,847 of the 5,102 colophons in the worklist, nearly all from the cards added from the mirror
-and the later local cards, have not been read yet (the Gemini key ran out of credit). Until they are
-read, those manuscripts contribute only their catalogue fields (Scribe, King, Donor, Date of Copying).
+All 5,102 colophons in the worklist have a first reading; 990 have an Opus reading (second reading, or
+first where Gemini was unavailable). Register: 18,545 manuscripts and inscriptions, 5,186 dated, 3,705 persons.
 
 Chart: https://kengoharimoto.github.io/nepalese-scribes/ (built from `out/nepalese_scribes.html` by
 `.github/workflows/pages.yml` on every push that changes it; a private copy is also kept as a
@@ -56,6 +55,13 @@ reset time and skip reels already done, so they can simply be restarted.
   mirror). There Vasuvarman (vaidya, of Gaṇadevadevakula) is the owner, the book having been given to him;
   Harṣacandra, subject of *prākhilat* (for *prālikhat*), is read as the scribe, but he may have had the copy
   made (Acharya in Klebanov: causative; Suvedī & Tivārī read an ablative and a lost scribe's name): open.
+  Also open, between the catalogue entry and Klebanov's edition (draft of 2015): the place compound
+  (*°dūnīścalakanivāsino* in the entry, *°dūnīgvalaka°* in Klebanov and *gvalaka* in the earlier editions;
+  *gvala* = temple, Acharya); whether Gaṇadevadevakula is the place of copying (entry) or only Vasuvarman's
+  residence (Klebanov); the last sentence (entry *tadādhiśruyābhyāṃ na kaścid*, Klebanov *tad ādhikrayābhyāṃ
+  tadgotrajena kenacin na kañcid*, K *tadgotrajena cin na kaścid*); and the bundle (two manuscripts in the
+  entry, at least four codicological units in Klebanov). The entry's Owner field has "Vaidyavasvarman" for
+  Vasuvarman.
 - Paper manuscripts dated before 1300 are treated as undated (`date_doubtful`); the Aṃśuvarman ("Mānadeva")
   saṃvat is the Kārttikādi Śaka − 500 (K. P. Malla 2005; `calendar/verify.py`), recognised in the catalogue as
   'Mānadeva Saṃvat'; B 11/4, AS-dated and only in the title list, is added from `data/extra_manuscripts.json`.
@@ -63,6 +69,9 @@ reset time and skip reels already done, so they can simply be restarted.
 - Places: Deopatan (Devapattana, by Paśupati) is kept apart from Patan (Lalitpur).
 - Dates: recalculated from the colophons with the pañcāṅga and checked against the stated weekday
   (`calendar/verify.py`); the flat conversion below is kept as `date_flat` and used for year-only dates.
+  The program's Julian-day-to-Gregorian conversion makes the last day of February a "February 30" in
+  213 of the years 1583–2030 and computes it as the day after; `calendar/panc_batch.pl` replaces it (ten
+  dates corrected, three of them now verified). Julian-calendar dates (before 1582) were not affected.
 - Flat conversion (before the pañcāṅga): the catalogue date where it names the era; otherwise the colophon reading.
   NS + 880, VS − 57, ŚS + 78, LS + 1119. A bare "SAM" in the catalogue is read as NS for years up
   to 1150 in Newari script or below 1000, otherwise VS, and is marked as inferred.

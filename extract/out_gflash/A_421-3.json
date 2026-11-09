@@ -1,0 +1,119 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmacchivadaivajña-",
+   "name": "Śiva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmacchivadaivajñaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīkṛṣṇadaivajñātmaja-",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkṛṣṇadaivajñātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bhavānīśaṃkarapāṭhakena",
+   "name": "Bhavānīśaṃkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "pāṭhaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhavānīśaṃkarapāṭhakena likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "harikṛṣṇasya",
+   "name": "Harikṛṣṇa",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "harikṛṣṇasya śiṣyena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "lakṣmaṇasya",
+   "name": "Lakṣmaṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lakṣmaṇasya sutena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīkṛṣṇadaivajñātmaja"
+  },
+  {
+   "from": "p3",
+   "type": "pupil_of",
+   "to": "p4",
+   "evidence": "harikṛṣṇasya śiṣyena (!) ... bhavānīśaṃkareṇa ca"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p5",
+   "evidence": "lakṣmaṇasya sutena vai || guruprasādāl likhitaṃ bhavānīśaṃkareṇa ca"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 18||60 śake || 17||25 || bhādrapadakṛṣṇa || 14 || caṃdre ||",
+  "era": "VS",
+  "year": "1860",
+  "month": "Bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "14",
+  "weekday": "caṃdre",
+  "nakshatra_yoga": "",
+  "ce_approx": "1803"
+ },
+ "place": {
+  "as_written": "daśāśvamedhe ... kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "Both VS 1860 and Śaka 1725 are explicitly cited. Written at the Daśāśvamedha Ghāṭ in Kāśī.",
+ "_meta": {
+  "reel": "A 421/3",
+  "model": "gemini-flash-latest",
+  "secs": 10.9,
+  "in_tok": 879,
+  "out_tok": 1948
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayaraṇajinmalladeva mahārāhādhirāja / śrīśrījayaraṇajinmalladeva prabhu thākulasana",
+   "name": "Jayaraṇajitmalla",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "prabhu",
+    "thākula"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jayaraṇajinmalladeva mahārāhādhirāja viracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 862 mārggaśiravadi 14",
+  "era": "NS",
+  "year": "862",
+  "month": "mārggaśira",
+  "paksa": "kṛṣṇa",
+  "tithi": "14",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1741"
+ },
+ "place": {
+  "as_written": "mūlacukasa",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "śrī 3 taleju prītina",
+ "notes": "The colophon records King Jayaraṇajinmalla (Raṇajit Malla of Bhaktapur) as the author/producer who had the drama staged/offered in the Mūlacowk for the pleasure of Taleju.",
+ "_meta": {
+  "reel": "B 276/15",
+  "model": "gemini-flash-latest",
+  "secs": 9.6,
+  "in_tok": 854,
+  "out_tok": 1118
+ }
+}

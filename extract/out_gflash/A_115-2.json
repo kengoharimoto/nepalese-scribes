@@ -1,0 +1,116 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "siddhinarasiṃhamalladevasya",
+   "name": "Siddhinarasiṃhamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "śrīmadrājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "siddhinarasiṃhamalladevasya vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrījayamunibauddhācāryeṇa",
+   "name": "Jayamuni",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bauddhācārya",
+    "paramabrahmopāsaka",
+    "pravaramahāyānayāyin"
+   ],
+   "affiliation": "śrīmānībālakādhisira",
+   "residence": "śrīlalitacchūmā",
+   "evidence": "śrījayamunibauddhācāryeṇa likhita samāpta kṛtam iti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīnivāso",
+   "name": "Śrīnivāsa",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yacchrīnivāso nayadharmacārī dadau vinocchrīṃ likhanāya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "lakṣmyādinārāyaṇavāsudevau",
+   "name": "Lakṣmyādinārāyaṇa",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lakṣmyādinārāyaṇavāsudevau yajjitya gopiṃ dadataś ca prajñāṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p5",
+   "as_written": "lakṣmyādinārāyaṇavāsudevau",
+   "name": "Vāsudeva",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lakṣmyādinārāyaṇavāsudevau yajjitya gopiṃ dadataś ca prajñāṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "siddhinarasiṃhamalladevasya vijayarājye"
+  },
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "tasya prasādāc ca vijitya mārāṃl lilekha prajñāṃ sakalāṃ salakṣāṃ || yacchrīnivāso nayadharmacārī dadau vinocchrīṃ likhanāya"
+  }
+ ],
+ "date": {
+  "as_written": "samvat .. .. .. prathamāṣāḍhe śukladvitīyāyāṃ śanaiścaradine punarvasunakṣatre yoge vṛddhi ... abde naipālike khyāte grahaṣaḍgirisaṃyute | māse tu prathamāṣāḍhe śuklapakṣe dvitīyake || punarvasau ca nakṣatre vṛddhiyoge śanair dine",
+  "era": "NS",
+  "year": "769",
+  "month": "prathamāṣāḍha",
+  "paksa": "śukla",
+  "tithi": "2",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "punarvasu nakṣatra, vṛddhi yoga",
+  "ce_approx": "1649"
+ },
+ "place": {
+  "as_written": "śrīlalitacchūmāyāṃ",
+  "normalized": "Patan"
+ },
+ "purpose": "mātāpitṛpūrvaṅgamaṃ kṛtvā satvarāśer anuttaraṃ dhyānaphalāptaye; anena puṇyena sukhaṃ sarājyaṃ tuṣṭas ciraṃ gacchatu śaivalokaṃ",
+ "notes": "The year in digits is effaced in the prose ('samvat .. .. ..') but given as a chronogram in the concluding verse: 'graha-ṣaḍ-giri' = 9-6-7 in reverse = NS 769. Śrīnivāsa (Malla) was the crown prince under Siddhinarasiṃha Malla of Patan. Lakṣmyādinārāyaṇa and Vāsudeva are mentioned in the dual ('-vāsudevau ... tayoḥ savaṃśā') as having contributed to the copying/donation.",
+ "_meta": {
+  "reel": "A 115/2",
+  "model": "gemini-flash-latest",
+  "secs": 32.6,
+  "in_tok": 1347,
+  "out_tok": 6532
+ }
+}

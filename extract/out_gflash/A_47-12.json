@@ -1,0 +1,152 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmayājukasya",
+   "name": "Mayājuka",
+   "roles": [
+    "donor",
+    "beneficiary"
+   ],
+   "titles": [
+    "paramabhaṭṭārika",
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "śrīkhaṃnapūmahānagale thvaṃthvatorake",
+   "evidence": "deyadharmmo 'yaṃ pravaramahāyānayīyīna paramabhaṭṭārika saubhāgya vajrācārya śrīmayājukasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śucilakṣmī",
+   "name": "Śucilakṣmī",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "kutuṃbinī"
+   ],
+   "affiliation": "",
+   "residence": "śrīkhaṃnapūmahānagale thvaṃthvatorake",
+   "evidence": "dānapati || ... śrīmayājukasya bhāryā yā kutuṃbinī nuṃ śucilakṣmī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrījayarūpaju",
+   "name": "Jayarūpa",
+   "roles": [
+    "relative_only",
+    "donor"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasyāḥ putraḥ vajrācārya śrījayarūpaju",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "kamalalakṣmī",
+   "name": "Kamalalakṣmī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāryā(yāṃ) kamalalakṣmī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "dharmmasiṃhaju",
+   "name": "Dharmasiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "śākyavaṃśāvatāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "naptāḥ pautra śākyavaṃśāvatāra dharmmasiṃhaju",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "luṃgusyano",
+   "name": "Luṃgusyana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "sikomagurimahāvihāre",
+   "residence": "śrīnepālakāṣṭhamaṇḍapamahānagarīya maṃtrokocche",
+   "evidence": "luṃgusyano lilekha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wife_of",
+   "to": "p1",
+   "evidence": "śrīmayājukasya bhāryā yā kutuṃbinī nuṃ śucilakṣmī"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "tasyāḥ putraḥ vajrācārya śrījayarūpaju"
+  },
+  {
+   "from": "p4",
+   "type": "wife_of",
+   "to": "p3",
+   "evidence": "bhāryā(yāṃ) kamalalakṣmī"
+  },
+  {
+   "from": "p5",
+   "type": "grandson_of",
+   "to": "p2",
+   "evidence": "naptāḥ pautra śākyavaṃśāvatāra dharmmasiṃhaju"
+  },
+  {
+   "from": "p6",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "ete thva sakalasyaṃ thama lakṣāvāraṇayāyanimittina thvapaṃ(ñca)rakṣāvodhakā julor yāte ... luṃgusyano lilekha"
+  }
+ ],
+ "date": {
+  "as_written": "vede vasurase naipālikā ⟪(bha)⟫hāyane vaiśāṣe kṛṣṇapañcami tithau pūrvvāṣādhe śā(dhya) niśipatidivaśe vai ... samvat 684 || vaiśāṣakṛṣṇapañcam⟪yā⟩⟩yāṃ pūrvvāṣādhanakṣatre śādhyayogya aditavāsare",
+  "era": "NS",
+  "year": "684",
+  "month": "Vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "Pūrvāṣāḍhā nakṣatra, Sādhya yoga",
+  "ce_approx": "1564"
+ },
+ "place": {
+  "as_written": "śrīnepālakāṣṭhamaṇḍapamahānagarīya maṃtrokocche sikomagurimahāvihāre",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "thama lakṣāvāraṇayāyanimittina, sakalasatvarāśīnāmānuttarajñānaphala prāptum astu",
+ "notes": "The family commissioning the manuscript originates from Bhaktapur (śrīkhaṃnapūmahānagale thvaṃthvatorake), while the scribe Luṃgusyana copied it in Kathmandu (Kāṣṭhamaṇḍapa, Maṃtrokoccha, Sikomagurimahāvihāra). The weekday is first given in verse as niśipatidivasa (Monday) and later in prose as aditavāsara (Sunday).",
+ "_meta": {
+  "reel": "A 47/12",
+  "model": "gemini-flash-latest",
+  "secs": 21.2,
+  "in_tok": 1833,
+  "out_tok": 3574
+ }
+}

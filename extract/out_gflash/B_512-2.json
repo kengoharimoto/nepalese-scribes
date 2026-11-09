@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sāyukoṭety upanāmakacetanidhiśarmmaṇā dvijena",
+   "name": "Cetanidhi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman",
+    "dvija",
+    "sāyukoṭā (upanāma)"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idam pustakaṃ sāyukoṭety upanāmakacetanidhiśarmmaṇā dvijena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1941 sāla āṣāḍa(!)śudī 9 roja 4",
+  "era": "VS",
+  "year": "1941",
+  "month": "Āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "roja 4 (Wednesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1884"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Sāyukoṭā is given explicitly as a surname/byname (upanāmaka).",
+ "_meta": {
+  "reel": "B 512/2",
+  "model": "gemini-flash-latest",
+  "secs": 9.4,
+  "in_tok": 747,
+  "out_tok": 1234
+ }
+}

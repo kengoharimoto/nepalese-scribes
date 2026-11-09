@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "madhusūdanaśarmaṇā",
+   "name": "Madhusūdana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ madhusūdanaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1772 bhādre māsi site ( pakṣe ) pūrṇā ca kujavāsare",
+  "era": "VS",
+  "year": "1772",
+  "month": "bhādra",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1715"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The four-digit year 1772 designated as saṃvat corresponds to the Vikrama Era (ca. 1715 CE). The reading preceding the scribe's name ('lalitā…tmena') is damaged and unclear.",
+ "_meta": {
+  "reel": "A 248/8",
+  "model": "gemini-flash-latest",
+  "secs": 8.4,
+  "in_tok": 755,
+  "out_tok": 1196
+ }
+}

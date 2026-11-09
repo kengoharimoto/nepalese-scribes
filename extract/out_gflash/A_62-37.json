@@ -1,0 +1,76 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsadgurusvātmārāmayogīṃdra",
+   "name": "Svātmārāma",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "sadguru",
+    "yogīndra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsadgurusvātmārāmayogīṃdraviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "brahmānandabrahmacāri nepāli",
+   "name": "Brahmānanda",
+   "roles": [
+    "scribe",
+    "reader"
+   ],
+   "titles": [
+    "brahmacārin"
+   ],
+   "affiliation": "",
+   "residence": "Nepāla",
+   "evidence": "likhitaṃ brahmānandabrahmacāri nepāli sva ātmapaṭhanārthaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīmahantapadmapurike",
+   "name": "Padmapuri",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "mahanta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahantapadmapurike haveli me",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1920 sāla miti māgha śudi 6 budhavāsare",
+  "era": "VS",
+  "year": "1920",
+  "month": "māgha",
+  "paksa": "śudi",
+  "tithi": "6",
+  "weekday": "budhavāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1864"
+ },
+ "place": {
+  "as_written": "sarasvatītaṭe bālakhilyesvarapriyatāṃ gaḍhī me śrīmahantapadmapurike haveli me",
+  "normalized": ""
+ },
+ "purpose": "svārtha (sva ātmapaṭhanārthaṃ)",
+ "notes": "The text was copied by Brahmānanda Brahmacāri of Nepal in the havelī of Mahanta Padmapuri for his own study.",
+ "_meta": {
+  "reel": "A 62/37",
+  "model": "gemini-flash-latest",
+  "secs": 10.8,
+  "in_tok": 848,
+  "out_tok": 1477
+ }
+}

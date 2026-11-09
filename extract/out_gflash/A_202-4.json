@@ -1,0 +1,77 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvidyānandanāthena",
+   "name": "Vidyānandanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīvidyānandanāthena kṛte saubhāgyaratnākare",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīsaccidānandanātha",
+   "name": "Saccidānandanātha",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsaccidānandanāthacaraṇāravindadvandānte vāsinā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "daivajña devindrarājena",
+   "name": "Devindrarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajña devindrarājena ratnākarasaṃpūrṇṇa liṣitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "śrīsaccidānandanāthacaraṇāravindadvandānte vāsinā śrīśrīvidyānandanāthena"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 951 āṣāḍha śukla || dvādaśī || bṛhaspativāra || thva kuhnu",
+  "era": "NS",
+  "year": "951",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1831"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 202/4",
+  "model": "gemini-flash-latest",
+  "secs": 8.4,
+  "in_tok": 807,
+  "out_tok": 1342
+ }
+}

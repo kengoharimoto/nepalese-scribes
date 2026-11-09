@@ -1,0 +1,85 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "[ja]yakṛṣṇena",
+   "name": "Jayakṛṣṇa",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "mautikula",
+   "residence": "",
+   "evidence": "[ja]yakṛṣṇena kṛtāyāṃ siddhā⌠ṃ⌡takaumudīvyākhyāyāṃ subodhinyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "raghunāthabhaṭṭa",
+   "name": "Raghunātha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "mautikula",
+   "residence": "",
+   "evidence": "raghunāthabhaṭṭāṅgajena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīgov⟨i⟩[a]rddhanabhaṭṭa",
+   "name": "Govardhana",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "mautikula",
+   "residence": "",
+   "evidence": "śrīgov⟨i⟩[a]rddhanabhaṭṭātmaja",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "raghunāthabhaṭṭāṅgajena"
+  },
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "śrīgov⟨i⟩[a]rddhanabhaṭṭātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1848",
+  "era": "VS",
+  "year": "1848",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1791"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Jayakṛṣṇa Maunī (son of Raghunātha, grandson of Govardhana) is the author of the Subodhinī commentary on Bhaṭṭoji Dīkṣita's Siddhāntakaumudī.",
+ "_meta": {
+  "reel": "A 1107/4",
+  "model": "gemini-flash-latest",
+  "secs": 10.5,
+  "in_tok": 755,
+  "out_tok": 1532
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jogavaja",
+   "name": "Jogavajra",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Kvābāhāla",
+   "residence": "Thahititola, Kvābāhāla",
+   "evidence": "vajrācāryya jogavaja dānavaja cinimāyā cinikumāli thuti hmaṃ 4 samucaya juyā(4)o conagu velasa ati dharmacitta utpati juyāo thva visvaṃtarayāgu astamivratayāgu(5) vāṣaṃ saphu coyā sidhayakā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dānavaja",
+   "name": "Dānavajra",
+   "roles": [
+    "commissioner",
+    "donor",
+    "owner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Kvābāhāla",
+   "residence": "Thahititola, Kvābāhāla",
+   "evidence": "dānavajayā||(6)ta coyā biyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "cinimāyā",
+   "name": "Cinimāyā",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "Kvābāhāla",
+   "residence": "Thahititola, Kvābāhāla",
+   "evidence": "vajrācāryya jogavaja dānavaja cinimāyā cinikumāli thuti hmaṃ 4 samucaya juyā(4)o conagu velasa ati dharmacitta utpati juyāo thva visvaṃtarayāgu astamivratayāgu(5) vāṣaṃ saphu coyā sidhayakā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "cinikumāli",
+   "name": "Cinikumārī",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "Kvābāhāla",
+   "residence": "Thahititola, Kvābāhāla",
+   "evidence": "vajrācāryya jogavaja dānavaja cinimāyā cinikumāli thuti hmaṃ 4 samucaya juyā(4)o conagu velasa ati dharmacitta utpati juyāo thva visvaṃtarayāgu astamivratayāgu(5) vāṣaṃ saphu coyā sidhayakā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1055 sāla miti āṣā gā 5 roja 7",
+  "era": "NS",
+  "year": "1055",
+  "month": "Āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1935"
+ },
+ "place": {
+  "as_written": "thahititola kvābāhālasa",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "ati dharmacitta utpati juyāo (out of religious piety/devotion)",
+ "notes": "The manuscript was completed jointly by/for four members (Jogavajra, Dānavajra, Cinimāyā, Cinikumārī) and given to Dānavajra (dānavajayāta coyā biyā).",
+ "_meta": {
+  "reel": "B 100/5",
+  "model": "gemini-flash-latest",
+  "secs": 14.4,
+  "in_tok": 858,
+  "out_tok": 2072
+ }
+}

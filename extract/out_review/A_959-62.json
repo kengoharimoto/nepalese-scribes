@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Name changed from 'Bhavahariśarman' to 'Bhavahari': the brahmin suffix śarman goes in titles only.",
+   "Title 'jyotiṣi' normalised to 'jyotiṣī' (the stem form of jyotiṣin, meaning astrologer).",
+   "Weekday given as 'Tuesday (roja 3)' instead of the bare 'roja 3'."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījyotiṣibhavahariśarmaṇo",
+   "name": "Bhavahari",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jyotiṣī",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījyotiṣibhavahariśarmaṇo haste likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1815 sālamiti āśvinavadī(!) 8 roja 3",
+  "era": "ŚS",
+  "year": "1815",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "Tuesday (roja 3)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1893"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives ŚS 1851, but the colophon reads śāke 1815. The catalogue figure is probably a transposed-digit typo. ŚS 1815 is about 1893 CE (Āśvina kṛṣṇa 8 falls around September/October 1893). 'roja 3' is read as the third day of the week, counting Sunday as 1, which makes it Tuesday.",
+ "_meta": {
+  "reel": "A 959/62",
+  "model": "opus",
+  "cost_usd": 0.0469748,
+  "secs": 9.0
+ }
+}

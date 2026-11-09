@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date: tentative solution of the chronogram added to the notes (svāda = rasa = 6, dig = 4 or 8, bhūta = 5; read right to left this gives NS 546 or 586, i.e. CE 1425/26 or 1465/66). Era kept as unspecified and ce_approx left empty because the chronogram is uncertain.",
+   "Weekday normalized to Sunday (arka). nakshatra_yoga now gives Śobhana yoga plus a possible Puṣya nakṣatra, reading 'pujā(rkka)' as puṣyārka.",
+   "Year field now marks the chronogram as corrupt.",
+   "Residence normalized to stem form 'Davāraṇima (?)'. Place noted as the scribe's residence, not an explicitly stated place of copying.",
+   "Purpose added: copied from an earlier exemplar; the learned are asked to correct it."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāyasthajayaharṣa",
+   "name": "Jayaharṣa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "Davāraṇima (?)",
+   "evidence": "śrīdavāraṇimaṃmadhivāśina kāyasthajayaharṣa (a ‥na) likhitapustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "†svādadigābhūtābdāni phālguṇe sucidvādaśī | pujā(rkka)sobhano yogā",
+  "era": "unspecified",
+  "year": "svādadigābhūta (corrupt chronogram; possibly 546 or 586, see notes)",
+  "month": "Phālguna",
+  "paksa": "śukla (suci = śuci)",
+  "tithi": "dvādaśī",
+  "weekday": "Sunday (arka)",
+  "nakshatra_yoga": "Śobhana yoga; nakṣatra possibly Puṣya (pujā(rkka) = puṣyārka?)",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "śrīdavāraṇimaṃ(m adhivāsinā)",
+  "normalized": ""
+ },
+ "purpose": "Copied from an earlier exemplar (pūrvādarśadarśanena); the learned are asked to correct it (baudhe śodhanīyaṃ).",
+ "notes": "The cataloguer marks the chronogram as corrupt (†). svāda (taste) = rasa = 6, bhūta (element) = 5, and dig (direction) is normally 10, but here it must be a single digit, so 4 or 8. Read right to left this gives NS 546 (CE 1425/26) or NS 586 (CE 1465/66). Both fit the cataloguer's guess of the 15th century, but neither is certain. The era is not stated; NS is presumed for a Newari-script copy by a Kāyastha. 'pujā(rkka)' probably stands for puṣyārka, i.e. Puṣya nakṣatra on a Sunday; Puṣya on Phālguna śukla 12 is astronomically plausible. Śobhana is the yoga. The toponym 'śrīdavāraṇima' (catalogue: 'Khāraṇima???') is uncertain; it is given as the scribe's residence (adhivāsinā), not explicitly as the place of copying. '(a ‥na)' after the name is a lacuna, perhaps ātmanā. The scribe's name is clear; the place name and date are doubtful.",
+ "_meta": {
+  "reel": "B 36/9 (1)",
+  "model": "opus",
+  "cost_usd": 0.5910696,
+  "secs": 39.8
+ }
+}

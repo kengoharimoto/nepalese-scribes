@@ -1,0 +1,36 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Notes: the era is not stated ('samvat 841'). NS is inferred because VS or ŚS 841 would be far too early and LS 841 is impossible. ce_approx 1721 is kept on that assumption",
+   "Notes: 'māghaśukra' is read as māgha śukla",
+   "Notes: the dated colophon closes the Bhagavadgītā (adhyāya 18, fols. 58v-59r), not the Bṛhadāraṇyaka bhāṣya named in the title. This looks like a composite manuscript, and the date may apply only to the Gītā part",
+   "Persons left empty: Vaṃśamaṇi (the catalogue's scribe) does not appear in the quoted text"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 841 māghaśukranavamyāṃ tithau",
+  "era": "NS",
+  "year": "841",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "navamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1721"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is not named ('samvat 841'). NS is assumed (841 + 880 = 1721 CE) because it is the only plausible reading: VS or ŚS 841 would be too early and LS 841 is impossible. Maithili-script manuscripts sometimes use other eras, so treat the year with caution. 'māghaśukra' is taken as māgha śukla. The dated colophon closes Bhagavadgītā adhyāya 18 (fols. 58v-59r), but the title and the earlier brāhmaṇa colophons (Mitākṣarā on the Bṛhadāraṇyaka) belong to a different text. This looks like a composite manuscript, and the date may belong only to the Gītā part. The catalogue gives Vaṃśamaṇi as scribe, but the name is not in the quoted colophon, so it is left out here; it may come from another part of the manuscript. Gītā figures (Keśava, Arjuna, Sañjaya, Dhṛtarāṣṭra, Kṛṣṇa) are left out because they are characters in the text.",
+ "_meta": {
+  "reel": "B 22/9",
+  "model": "opus",
+  "cost_usd": 0.5552336,
+  "secs": 23.1
+ }
+}

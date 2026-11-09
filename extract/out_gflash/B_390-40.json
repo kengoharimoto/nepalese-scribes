@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "tripāṭhisadānaṃdena",
+   "name": "Sadānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "tripāṭhī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ tripāṭhisadānaṃdena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1854 āśvinakṛṣṇa 12 dvādaśyāṃ ravau",
+  "era": "VS",
+  "year": "1854",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "12 dvādaśī",
+  "weekday": "ravau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1797"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 390/40",
+  "model": "gemini-flash-latest",
+  "secs": 9.8,
+  "in_tok": 720,
+  "out_tok": 912
+ }
+}

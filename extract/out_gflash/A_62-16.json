@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnityanāthasiddhaviracitāyāṃ",
+   "name": "Nityanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "siddha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnityanāthasiddhaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "hṛdayarāmo",
+   "name": "Hṛdayarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "hṛdayarāmo vyalīlikhat",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "pṛthvīpati rājā",
+   "name": "Pṛthvīpati",
+   "roles": [
+    "king",
+    "beneficiary"
+   ],
+   "titles": [
+    "rājā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pṛthvīpati rājā ... atas tasya vinodāya ... likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "atas tasya vinodāya kiṃcid arthapradarśakam || likhitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "khaṣaṭ iṃdvātmake āke vibhavābdde ca phālgune || tithau pratipadi some",
+  "era": "ŚS",
+  "year": "160",
+  "month": "phālguna",
+  "paksa": "",
+  "tithi": "pratipad",
+  "weekday": "some",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "rājñaḥ pṛthvīpater vinodāya",
+ "notes": "The chronogram 'kha-ṣaṭ-indv-ātmake' yields only three digits (160), with 'āke' being an error for 'śāke'. King Pṛthvīpati is likely Pṛthvīpati Śāha of Gorkha (r. late 17th to early 18th century), which aligns with the jovian year Vibhava (Śaka 1610 = 1688 CE), suggesting a missing fourth digit.",
+ "_meta": {
+  "reel": "A 62/16",
+  "model": "gemini-flash-latest",
+  "secs": 22.3,
+  "in_tok": 886,
+  "out_tok": 2676
+ }
+}

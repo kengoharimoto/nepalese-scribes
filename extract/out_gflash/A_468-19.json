@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaṃgārāmapāṭhakakārkheḍakarasya",
+   "name": "Gaṅgārāma",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "pāṭhaka"
+   ],
+   "affiliation": "Kārkheḍakara",
+   "residence": "",
+   "evidence": "gaṃgārāmapāṭhakakārkheḍakarasya || svārthaṃ parārthaṃ ca",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1849 | āśivesya caturthyāṃ tu bahule bhūminandane",
+  "era": "VS",
+  "year": "1849",
+  "month": "āśvina",
+  "paksa": "bahula",
+  "tithi": "4",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1792"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthaṃ ca",
+ "notes": "āśivesya is likely a scribal error or corruption for āśvinasya. bhūminandana designates Tuesday (Maṅgala). Kārkheḍakara is a family name or toponymic cognomen.",
+ "_meta": {
+  "reel": "A 468/19",
+  "model": "gemini-flash-latest",
+  "secs": 7.2,
+  "in_tok": 699,
+  "out_tok": 919
+ }
+}

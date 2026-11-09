@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "haradevena",
+   "name": "Haradeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "haradevena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "māsi bhādre trayodaśyāṃ vāsare ca niśākare",
+  "era": "none",
+  "year": "",
+  "month": "bhādra",
+  "paksa": "",
+  "tithi": "trayodaśī",
+  "weekday": "niśākara (Monday)",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "mahāmāyāprasādataḥ",
+ "notes": "",
+ "_meta": {
+  "reel": "A 840/36",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 704,
+  "out_tok": 498
+ }
+}

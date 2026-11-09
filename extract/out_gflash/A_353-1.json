@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śriśrijaya(fol. 11v4)raṇajita malladeva",
+   "name": "Jayaraṇajitamalladeva",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śriśrijaya(fol. 11v4)raṇajita malladeva viracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Colophon of Act 1 (prathamo 'ṅkaḥ) naming King Jayaraṇajitamalladeva as the author. Place of copying (Bhaktapur) is mentioned in catalogue metadata based on the ruler's seat, but is absent from the colophon text.",
+ "_meta": {
+  "reel": "A 353/1",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 674,
+  "out_tok": 930
+ }
+}

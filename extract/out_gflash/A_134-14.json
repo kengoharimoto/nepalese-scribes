@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhaṭṭayajñeśvaronnīte",
+   "name": "Yajñeśvara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhaṭṭayajñeśvaronnīte",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śālivāhanīyaśāke ʼsmin nāgebharṣidharāmite śuklanabhasye ... pratipat tithau",
+  "era": "ŚS",
+  "year": "1788",
+  "month": "nabhasya",
+  "paksa": "śukla",
+  "tithi": "pratipat",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1866"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'nāgebharṣidharā' indicates Śaka 1788. The date may refer to the completion of the composition by Yajñeśvara Bhaṭṭa or of this copy.",
+ "_meta": {
+  "reel": "A 134/14",
+  "model": "gemini-flash-latest",
+  "secs": 8.0,
+  "in_tok": 768,
+  "out_tok": 1104
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayabhūpatīndra malladevasana",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayabhūpatīndra malladevasana kārttikavrata dhunakāyā vighniharaṇa bali biyāyā thva sāphula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 818 kārttika sudi 15",
+  "era": "NS",
+  "year": "818",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "15",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1697"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "kārttikavrata dhunakāyā vighniharaṇa bali biyāyā",
+ "notes": "Jayabhūpatīndramalla was the King of Bhaktapur (r. 1696–1722 CE). The manuscript was prepared for his performance of the Vighnaharaṇabali after concluding the Kārttikavrata.",
+ "_meta": {
+  "reel": "B 197/24",
+  "model": "gemini-flash-latest",
+  "secs": 11.2,
+  "in_tok": 958,
+  "out_tok": 1439
+ }
+}

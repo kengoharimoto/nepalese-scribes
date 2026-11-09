@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Scribe confidence lowered from high to medium: the verse can also be read with Bhūdeva as the personal name (as the catalogue does) and gaṇapati as an epithet; added an alternative-reading note",
+   "Tithi given as dvādaśī (Govinda's tithi), with 'govindasya tithau' as the source wording",
+   "Chronogram checked: śruti 4, danti 8, ghoṭaka 7, read right to left = 784, matching 'saṃ 784'. Era NS is inferred from the Newari script, so this is noted; ce_approx 1664 confirmed"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhūdevo ... gaṇapatir",
+   "name": "Gaṇapati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhūdeva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhūdevo likhati sma tāṃ gaṇapatir ggovindasevārataḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "yāte bde śrutidantighoṭakamite māse 'site phālguṇe, govindasya tithau di[[ne]] śaśadhare ... saṃ 784",
+  "era": "NS",
+  "year": "784",
+  "month": "Phālguna",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādaśī (govindasya tithi)",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1664"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram śruti(4)-danti(8)-ghoṭaka(7), read right to left, gives 784, which agrees with 'saṃ 784'. The colophon does not name the era. NS is assumed from the Newari script, giving about 1664 CE. 'Govindasya tithi' is taken to mean dvādaśī, Viṣṇu's tithi; ekādaśī is also possible. 'Śaśadhare' (moon) means Monday. Scribe's name: the catalogue gives Bhūdeva. Here bhūdeva is read as the common epithet 'brāhmaṇa' and Gaṇapati as the personal name. The reverse reading is also possible: Bhūdeva as the name, with gaṇapati as an epithet. That is why confidence is medium. The scribe calls himself 'govindasevārata', a devotee of Govinda.",
+ "_meta": {
+  "reel": "B 115/4",
+  "model": "opus",
+  "cost_usd": 0.5627016,
+  "secs": 23.8
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p3: 'bāpūjīpatayāṃ sadattam' read as a corruption of 'bāpūjīpaṃtāya (saṃ)dattam', meaning 'given to Bāpūjī Pant'. Roles changed from beneficiary to owner + beneficiary, since he received the book. 'paṃta' added to titles.",
+   "p1: no owner or donor role added. 'svārthaṃ parārthaṃ ca' is a standard formula, the book was then given away, and the colophon does not name the giver.",
+   "weekday: '(Wednesday)' added after saumyavāsara.",
+   "date checked: Viśvāvasu falls in ŚS 1707, which is 1785–86 CE. Āśvina śukla 9 is about October 1785.",
+   "purpose expanded to include the gift; notes expanded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śejvalīkaropanāmakasadāśivabhaṭṭātmajakṛṣṇabhaṭṭena",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "Śejvalīkara (surname, upanāma)",
+   "residence": "",
+   "evidence": "kṛṣṇabhaṭṭena likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śejvalīkaropanāmakasadāśivabhaṭṭa-",
+   "name": "Sadāśiva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "Śejvalīkara (surname, upanāma)",
+   "residence": "",
+   "evidence": "sadāśivabhaṭṭātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bāpūjīpatayāṃ",
+   "name": "Bāpūjī",
+   "roles": [
+    "owner",
+    "beneficiary"
+   ],
+   "titles": [
+    "paṃta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pustakaṃ bāpūjīpatayāṃ sadattam",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "sadāśivabhaṭṭātmajakṛṣṇabhaṭṭena"
+  }
+ ],
+ "date": {
+  "as_written": "śake 1707 viśvāvasunāmasaṃvatsare dakṣiṇāyane śaradṛtau āśvine māse śuklapakṣe navamyāṃ saumyavāsare",
+  "era": "ŚS",
+  "year": "1707",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "navamī",
+  "weekday": "saumyavāsara (Wednesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1785"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthaṃ ca; the book was then given to Bāpūjī (Pant)",
+ "notes": "'bāpūjīpatayāṃ sadattam' is corrupt. It is probably 'bāpūjīpaṃtāya saṃdattam' ('given to Bāpūjī Pant'). The colophon does not say who gave the book, so it is not certain that the scribe was the donor. ŚS 1707 agrees with the Viśvāvasu year (1785–86 CE). Āśvina śukla 9 is Mahānavamī, which fits the dedication to Āryādurgā. Gaṃbhīreśvara and Āryādurgā are deities, not persons or places. The surname Śejvalīkara and the name 'Bāpūjī Pant' point to a Maharashtrian brahmin milieu. The catalogue's scribe and date fields agree with the colophon.",
+ "_meta": {
+  "reel": "A 1151/30",
+  "model": "opus",
+  "cost_usd": 0.5957216000000001,
+  "secs": 35.1
+ }
+}

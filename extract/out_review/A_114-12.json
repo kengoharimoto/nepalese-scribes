@@ -1,0 +1,67 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2: name read as Jñānānanda. 'jñānandanaṃ' is best read as Jñānānanda plus the Newari agentive ending -naṃ, not as a stem Jñānanandana; confidence lowered to medium. The catalogue's 'Jñānanandan' is noted.",
+   "p2: role 'commissioner' removed and 'owner' added. 'dayakā thao saphalikhao' means he wrote his own (thao) book (saphū); nothing says he had it copied by someone else.",
+   "purpose rewritten in plain words: copied by the scribe for himself.",
+   "paksa normalized to śukla.",
+   "Notes expanded: the unclear words before the name may be a locality or an affiliation; 'mai. bhā.' is left unexplained; the NS date has been checked."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnāgārjuṇa",
+   "name": "Nāgārjuna",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnāgārjuṇaviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvajrācāryya jñānandanaṃ",
+   "name": "Jñānānanda",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvajrācāryya jñānandanaṃ dayakā thao saphalikhao",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 1013 jyeṣṭha śudi 4",
+  "era": "NS",
+  "year": "1013",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1893"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "copied by the scribe for himself ('thao saphalikhao', wrote his own book)",
+ "notes": "Name: 'jñānandanaṃ' is read as Jñānānanda + Newari agentive -naṃ (haplography of -ānanda- is possible). The catalogue gives 'Jñānanandan', which takes -naṃ as part of the name. 'sakyebhi tiṣṭhage vātārayā' before the name is unclear. It may be a corrupt locality, vihāra or residence (perhaps '-yā' as a genitive or residential ending), but no identification is safe. 'mai. bhā.' after the text colophon is also unexplained. The colophon calls the text 'dharmmaśāśtraṃ' (!) although the catalogue title is Dharmasaṅgraha. Date: NS 1013 + 880 = 1893 CE (Jyeṣṭha śukla 4).",
+ "_meta": {
+  "reel": "A 114/12",
+  "model": "opus",
+  "cost_usd": 0.5678736,
+  "secs": 28.5
+ }
+}

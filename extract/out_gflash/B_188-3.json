@@ -1,0 +1,72 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "hemarājo",
+   "name": "Hemarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "māse'likhacchanau cedaṃ, hemarājo nṛpājñayā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhūpatīndramallā",
+   "name": "Bhūpatīndramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "nṛpa",
+    "rājarāja"
+   ],
+   "affiliation": "sūryyavaṃśa",
+   "residence": "",
+   "evidence": "hemarājo nṛpājñayā || śrīsūryyavaṃśodbhava bhūpatīndramallānṛpānāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "hemarājo nṛpājñayā"
+  },
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "bhūpatīndramallānṛpānāṃ vijayī raṇaśrīḥ || nepāladeśe sucaritra veśe, vārvvartti viśvopari rājarājaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "ādityavasubhiryāte, nepālābde ca mādhave || māse'likhacchanau ... saṃvat 812 vaiśāṣa vadi 10",
+  "era": "NS",
+  "year": "812",
+  "month": "vaiśāṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1692"
+ },
+ "place": {
+  "as_written": "nepāladeśe",
+  "normalized": ""
+ },
+ "purpose": "nṛpājñayā",
+ "notes": "The chronogram 'ādityavasubhir' gives 12 (āditya) and 8 (vasu), matching NS 812 written numerically. Bhaktapur given in catalogue is inferred from King Bhūpatīndra Malla of Bhaktapur.",
+ "_meta": {
+  "reel": "B 188/3",
+  "model": "gemini-flash-latest",
+  "secs": 14.4,
+  "in_tok": 855,
+  "out_tok": 1952
+ }
+}

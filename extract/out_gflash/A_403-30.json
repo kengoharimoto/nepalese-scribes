@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭavīreśvareṇa",
+   "name": "Vīreśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ (!) bhaṭavīreśvareṇa (!)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaṭalakṣmaṇasutena",
+   "name": "Lakṣmaṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭalakṣmaṇasutena (!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "bhaṭavīreśvareṇa (!) bhaṭalakṣmaṇasutena (!)"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1716 va(4)rṣe phālguṇavadi 1 some",
+  "era": "unspecified",
+  "year": "1716",
+  "month": "phālguṇa",
+  "paksa": "vadi",
+  "tithi": "1",
+  "weekday": "some",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives the date as ŚS 1716, but the colophon only states saṃvat 1716 without specifying an era (could be VS 1716 / ca. 1660 CE or ŚS 1716 / ca. 1795 CE). bhaṭa is an orthographic variant of bhaṭṭa.",
+ "_meta": {
+  "reel": "A 403/30",
+  "model": "gemini-flash-latest",
+  "secs": 11.9,
+  "in_tok": 876,
+  "out_tok": 1933
+ }
+}

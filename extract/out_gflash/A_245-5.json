@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayabhūpatīndramalladevasana",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayabhūpatīndramalladevasana yāṅā julo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 821 phālguṇa (kṛṣṇa) trayodaśī",
+  "era": "NS",
+  "year": "821",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1701"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrī3ākāśabhairavayā khatapratiṣṭhā",
+ "notes": "The colophon notes that the chariot/palanquin consecration (khatapratiṣṭhā) of Ākāśabhairava was performed by King Jayabhūpatīndramalladeva of Bhaktapur.",
+ "_meta": {
+  "reel": "A 245/5",
+  "model": "gemini-flash-latest",
+  "secs": 10.0,
+  "in_tok": 716,
+  "out_tok": 1433
+ }
+}

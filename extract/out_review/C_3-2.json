@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Dropped p2: '.i(ken)i(r)..' is an illegible fragment after 'mayā', not a readable name. It may not be a name at all (e.g. a form of kenacit). The scribe is anonymous in effect, so the fragment is kept in notes only",
+   "Dropped the under_reign_of relation, which depended on p2",
+   "Notes: confirmed the chronogram and era, and explained why ce_approx is 1387 (Āśvina falls at the end of NS 507)"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsthitirājamalla",
+   "name": "Sthitirājamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājā",
+    "nṛpati",
+    "rājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājāśrīsthitirājamallanṛpatau rājādhirāje",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "sa .. bde saptakhakāmabāṇasahite ... (śukle r-ā)śvini pañcamītithiyute candrātmajevāsare",
+  "era": "NS",
+  "year": "507",
+  "month": "Āśvina",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1387"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram 'sapta (7) kha (0) kāmabāṇa (5)', read right to left, gives 507. The colophon does not name the era ('sa .. bde' is damaged), but Sthiti(rāja)malla reigned c. NS 502–515 (1382–1395 CE), so the era must be NS. That matches the catalogue. NS 507 runs from about October 1386 to October 1387, so Āśvina śukla 5 falls in September/October 1387 CE. Candrātmaja (Budha) = Wednesday. After 'mayā' a scribe's name may have stood, but only '.i(ken)i(r).. .. ..' survives. This is unreadable and may not even be a name, so no scribe is recorded. 'śraddhāvatāṃ śṛṇvatāṃ' describes the text's benefit to faithful listeners; it is not a purpose of copying.",
+ "_meta": {
+  "reel": "C 3/2",
+  "model": "opus",
+  "cost_usd": 0.5666776,
+  "secs": 27.4
+ }
+}

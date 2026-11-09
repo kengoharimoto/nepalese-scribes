@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgovarddhana",
+   "name": "Govardhana",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgovarddhanakṛtā tarkasaṃgrahavyākhyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat || 1(9)006 ||",
+  "era": "unspecified",
+  "year": "1(9)006",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1849"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe refers to himself anonymously (mayā). The year is written as 1(9)006, likely an error or reading for Vikrama Saṃvat 1906 (~1849 CE).",
+ "_meta": {
+  "reel": "A 74/13",
+  "model": "gemini-flash-latest",
+  "secs": 7.3,
+  "in_tok": 858,
+  "out_tok": 960
+ }
+}

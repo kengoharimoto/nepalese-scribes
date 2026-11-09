@@ -1,0 +1,88 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmahopādhyāyaśrījagaddhara",
+   "name": "Jagaddhara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyāyaśrījagaddharaviracitā tattvadīpinī vāsavadattāṭīkā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "haladharo / śrīhaladharaśarmmaṇā",
+   "name": "Haladhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "Hariharapuragrāma",
+   "evidence": "dvijo varaṃ haladharo likhan mathanasaṃyutaḥ pustakam ... śrīhaladharaśarmmaṇā likhitaiṣā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrī(jīve)śvaraśarmmaṇā",
+   "name": "Jīveśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ādyaṃ śakalam atrā(yi) śrī(jīve)śvaraśarmmaṇā patrāṇi pañcapañcāśa(l li)khyante sma",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "(śrī)dhanapatinā",
+   "name": "Dhanapati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Hariharapuragrāma",
+   "evidence": "patraṃ (śrī)dhanapatinā kiñ cit kiñ cit kva cit kva cit | (svadā)(?)haripuragrāme likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śucau sitacaturddaśīsavitasūryavāre ... lasaṃ 355 āṣaḍhaśuklacaturddaśyāṃ varau",
+  "era": "LS",
+  "year": "355",
+  "month": "Āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "14",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1474"
+ },
+ "place": {
+  "as_written": "hariharapuragrāme",
+  "normalized": "Hariharapura"
+ },
+ "purpose": "",
+ "notes": "Three scribes collaborated on the manuscript: Jīveśvaraśarman wrote the first 55 folios, Dhanapati contributed a few folios/passages, and Haladhara completed the rest.",
+ "_meta": {
+  "reel": "B 17/20",
+  "model": "gemini-flash-latest",
+  "secs": 14.8,
+  "in_tok": 1052,
+  "out_tok": 2085
+ }
+}

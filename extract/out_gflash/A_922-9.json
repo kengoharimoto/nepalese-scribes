@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The excerpt consists only of chapter colophons and the work's end title stating it was composed by Mañjuśrī (maṃjuśriyā kṛtam). As Mañjuśrī is a Bodhisattva/deity, he is excluded. No human scribe, commissioner, king, or date is mentioned.",
+ "_meta": {
+  "reel": "A 922/9",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 1209,
+  "out_tok": 628
+ }
+}

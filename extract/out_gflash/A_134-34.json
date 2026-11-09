@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācārya śrīratnadevana",
+   "name": "Ratnadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "maṃguḍi baṃtā vāhāra",
+   "residence": "śrīkāṣṭhamaṇḍapa mahānagale maṃḍūtola",
+   "evidence": "vajrācārya śrīratnadevana cosyaṃ viyā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 790 śrāvaṇaśuklapaṃcamī kuhnu",
+  "era": "NS",
+  "year": "790",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "paṃcamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1670"
+ },
+ "place": {
+  "as_written": "śrīkāṣṭhamaṇḍapa mahānagale maṃḍūtola siṃkva maṃguḍi baṃtā vāhāra",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The catalogue lists a donor 'Śrīcakranāna (śākya-bhikṣu)', but this name does not appear in the quoted colophon text.",
+ "_meta": {
+  "reel": "A 134/34",
+  "model": "gemini-flash-latest",
+  "secs": 7.7,
+  "in_tok": 779,
+  "out_tok": 1337
+ }
+}

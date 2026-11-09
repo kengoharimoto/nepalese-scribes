@@ -1,0 +1,155 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gokulabhāro",
+   "name": "Gokula",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "karmmācārya",
+    "bhāro"
+   ],
+   "affiliation": "",
+   "residence": "śrīvāṇikāpurīnagare",
+   "evidence": "karmmācārya gokulabhāro divyasiṃha bhāro nehmā phukiṃ jasyaṃ thavatā nimittiṃna karmmārcana cocakaṃ kāyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "divyasiṃha bhāro",
+   "name": "Divyasiṃha",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "bhāro"
+   ],
+   "affiliation": "",
+   "residence": "śrīvāṇikāpurīnagare",
+   "evidence": "karmmācārya gokulabhāro divyasiṃha bhāro nehmā phukiṃ jasyaṃ thavatā nimittiṃna karmmārcana cocakaṃ kāyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "devabhārona",
+   "name": "Devabhāro",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña",
+    "bhāro"
+   ],
+   "affiliation": "",
+   "residence": "khapva",
+   "evidence": "daivajña khapvayā devabhārona cosyaṃ viyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "pratāpamalla",
+   "name": "Pratāpamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājā"
+   ],
+   "affiliation": "",
+   "residence": "yā",
+   "evidence": "thva velasa yāyā rājā pratāpamalla",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "nivāsamalla",
+   "name": "Nivāsamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "yalā",
+   "evidence": "yalāyā nivāsamalla",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "jagatprakāśamalla",
+   "name": "Jagatprakāśamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "khapva",
+   "evidence": "khapvayā jagatprakāśamalla",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "jagajjyotimallayā",
+   "name": "Jagajjyotimalla",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jagajjyotimallayā puṣali",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "karmmācārya gokulabhāro divyasiṃha bhāro nehmā phukiṃ jasyaṃ thavatā nimittiṃna karmmārcana cocakaṃ kāyā daivajña khapvayā devabhārona cosyaṃ viyā"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "karmmācārya gokulabhāro divyasiṃha bhāro nehmā phukiṃ jasyaṃ thavatā nimittiṃna karmmārcana cocakaṃ kāyā daivajña khapvayā devabhārona cosyaṃ viyā"
+  },
+  {
+   "from": "p1",
+   "type": "other",
+   "to": "p2",
+   "evidence": "gokulabhāro divyasiṃha bhāro nehmā phukiṃ"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p6",
+   "evidence": "khapvayā devabhārona ... khapvayā jagatprakāśamalla"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 783 jyeṣṭaśukla aṣṭamyān tithau",
+  "era": "NS",
+  "year": "783",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "aṣṭamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1663"
+ },
+ "place": {
+  "as_written": "śrīśrīśrīcaṇḍeśvarī adhisthāne śrīvāṇikāpurīnagare",
+  "normalized": "Banepa"
+ },
+ "purpose": "thavatā nimittiṃna karmmārcana cocakaṃ kāyā (for their own use/ritual practice)",
+ "notes": "The cataloguer recorded the date as NS 782 based on a later historical memorandum in the colophon describing an event during the Caṇḍeśvarī jātrā in NS 782 ('samvat 782 śrī3caṇḍe(śva)rīyājātrāsa...'), but the copy itself is explicitly dated NS 783 at the beginning. The kings of the three Valley kingdoms at that time (Pratāpamalla of Kathmandu/Yā, Śrīnivāsamalla of Patan/Yalā, Jagatprakāśamalla of Bhaktapur/Khapva) are recorded in an extensive contemporary historical note.",
+ "_meta": {
+  "reel": "A 234/6",
+  "model": "gemini-flash-latest",
+  "secs": 18.2,
+  "in_tok": 1004,
+  "out_tok": 2978
+ }
+}

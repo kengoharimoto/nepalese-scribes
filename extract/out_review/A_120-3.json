@@ -1,0 +1,84 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 Nāmasaṃgati: 'thamanaṃ coyā jula' means he wrote it himself for his own study (svādhyāyanimitta), so the roles are now scribe + owner, plus donor because he is called dānapati. The residence is split from the affiliation.",
+   "p2: 'dānapati' is a role, not a title, so it is removed from titles.",
+   "p3 'Jayamāna' removed: 'jayomāna jyeṣṭapramukhādi sagaṇaparivārāṇāṃ' is almost certainly a corrupt 'yajamāna' ('the patron, with the eldest and the rest of his family'), not a personal name.",
+   "Removed 'jyeṣṭhapramukha' as a title.",
+   "King's name normalised as 'Gīrvāṇayuddhavikrama Śāha'. Honorifics trimmed to real titles.",
+   "Purpose reworded. Date fields normalised (nakṣatra Bharaṇī, yoga Varīyas). Notes expanded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gīrvāṇayuddhavikramasāhabāhādūrassamsertajaṅgadevānāṃ",
+   "name": "Gīrvāṇayuddhavikrama Śāha",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "nepāleśvara",
+    "hindūpati",
+    "bādaśāha",
+    "bahādura",
+    "śamśera jaṅga",
+    "deva"
+   ],
+   "affiliation": "Śāha dynasty",
+   "residence": "",
+   "evidence": "śrīmanmahārājādhirājahindūpativātsāhaśrīśrīśrīmadgīrvāṇayuddhavikramasāha... akhaṇḍavijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvajrācāryanāmasaṃgatiyā",
+   "name": "Nāmasaṃgati",
+   "roles": [
+    "scribe",
+    "owner",
+    "donor"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Henākara Mahāvihāra",
+   "residence": "Śāntighaṭacaitya quarter, Suvarṇapanāri (Suvarṇapraṇālī) mahānagara, Nepālamaṇḍala",
+   "evidence": "dānapati ... henākaramahāvihārayā śrīvajrācāryanāmasaṃgatiyā ... svgādhyāyanimirttina thamanaṃ coyā jula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "gīrvāṇayuddhavikramasāha... akhaṇḍavijayarājye"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 931 kārrtika māse śukla pakṣe pūmāsyān(!) tithau bharuṇinakṣatre variyānayoge ravivāsare tulārāśigate savitari meṣarāśigate candramasi",
+  "era": "NS",
+  "year": "931",
+  "month": "Kārttika",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "Sunday (ravivāra)",
+  "nakshatra_yoga": "Bharaṇī; Varīyas (variyāna)",
+  "ce_approx": "1810"
+ },
+ "place": {
+  "as_written": "nepālamaṇḍale suvarṇapanārimahānagare śāntighaṭacaityasthāne henākaramahāvihāra",
+  "normalized": ""
+ },
+ "purpose": "svādhyāya (copied by the scribe for his own study); merit and prosperity for the patron's family, and liberation hereafter",
+ "notes": "The catalogue's 'NS 391' is a slip for NS 931, as the colophon itself reads. NS 931 Kārttika śukla pūrṇimā falls in about Oct./Nov. 1810 CE, inside Gīrvāṇayuddha's reign (1799–1816). The weekday has not been checked. The Moon in Meṣa and the Sun in Tulā both fit Kārttika pūrṇimā. 'jayomāna' is read as a corrupt 'yajamāna' (the patron), not a personal name; if it were a name ('Jayamāna'), that person would be a beneficiary. 'coyā' is read as 'wrote' (compare 'coyakā', 'had written'), so Nāmasaṃgati is the scribe and not a commissioner. Suvarṇapanāri = Suvarṇapraṇālī; the modern town is left unidentified. The word 'dānapati' is quoted before the place and the person's name.",
+ "_meta": {
+  "reel": "A 120/3",
+  "model": "opus",
+  "cost_usd": 0.1010308,
+  "secs": 28.7
+ }
+}

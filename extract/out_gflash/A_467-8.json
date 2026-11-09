@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vaiyākaraṇakeśariṇā",
+   "name": "Vaiyākaraṇakeśarin",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "kāṣṭhamaṃḍapanagare",
+   "evidence": "liṣitaṃ kāṣṭhamaṃḍapanagare vaiyākaraṇakeśariṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1695 māse 6 tithau 6",
+  "era": "ŚS",
+  "year": "1695",
+  "month": "6",
+  "paksa": "",
+  "tithi": "6",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1773"
+ },
+ "place": {
+  "as_written": "kāṣṭhamaṃḍapanagare",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The scribe's name may be parsed either as Vaiyākaraṇakeśarin or as Keśarin with the scholarly title/epithet vaiyākaraṇa ('grammarian') or vaiyākaraṇakeśarin ('lion among grammarians').",
+ "_meta": {
+  "reel": "A 467/8",
+  "model": "gemini-flash-latest",
+  "secs": 12.3,
+  "in_tok": 751,
+  "out_tok": 1646
+ }
+}

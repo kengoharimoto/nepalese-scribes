@@ -1,0 +1,72 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Chronogram re-read: veda=4, aṅga=6, tarka=6, candra=1. Read right to left this gives VS 1664 (c. 1607 CE), not 1758. The year is now taken from the verse, and the conflict with 'saṃvat 1758' is explained in notes.",
+   "ce_approx changed from 1701 to 1607.",
+   "phālgunyāṃ read as the full-moon day of Phālguna: tithi set to pūrṇimā, paksa to śukla.",
+   "Added Mahīdhara as a probable teacher of the scribe (low confidence), with a pupil_of relation.",
+   "Cleared Prabhākara's residence: the colophon gives Kāśī only as the place of copying.",
+   "Purpose glossed."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "prabhākareṇa",
+   "name": "Prabhākara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāśyāṃ prabhākareṇaital likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mahīdhara(prasādataḥ)",
+   "name": "Mahīdhara",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahīdharaprasādataḥ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "mahīdharaprasādataḥ ... prabhākareṇaital likhitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "vedāṃgatarkacaṃdrair hi gaṇyaibde (!) vikramārkataḥ phālagunyāṃ (!) bhānuje vāre ... saṃvat 1758",
+  "era": "VS",
+  "year": "1664",
+  "month": "Phālguna",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1607"
+ },
+ "place": {
+  "as_written": "kāśyāṃ; svastimadvārāṇasyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "sveṣṭasiddhaye (for the fulfilment of the scribe's own wishes)",
+ "notes": "The two dates in the colophon disagree. The verse chronogram 'vedāṅga-tarka-candraiḥ' (4-6-6-1, read right to left) gives Vikrama 1664 (c. 1607 CE), on the full moon of Phālguna, a Saturday (bhānuja). The separate prose line 'svastimadvārāṇasyāṃ saṃvat 1758' gives VS 1758 (c. 1701 CE). That line may be a later or owner's addition, or a date copied from another source. The chronogram is the scribe's own dated verse, so it is used here. The catalogue's 'ŚS 1758 ?' looks wrong: the colophon says 'vikramārkataḥ'. 'mahīdharaprasādataḥ' may refer to Mahīdhara of Vārāṇasī, author of the Mantramahodadhi (1589 CE), who was active in Kāśī at about this time. That would fit VS 1664 and suggests he was the scribe's teacher. The phrase could also just mean divine grace ('the Earth-bearer'), so confidence is low. phālgunyāṃ = Phālgunī, the full-moon day of Phālguna (inferred).",
+ "_meta": {
+  "reel": "A 91/12",
+  "model": "opus",
+  "cost_usd": 0.0714748,
+  "secs": 19.6
+ }
+}

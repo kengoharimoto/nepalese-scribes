@@ -1,0 +1,49 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayajitāmitramallavarmanā",
+   "name": "Jayajitāmitramalla",
+   "roles": [
+    "scribe",
+    "king",
+    "author"
+   ],
+   "titles": [
+    "mahīndra",
+    "bhūpa",
+    "varman",
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sumatijayajitāmitramallo mahīndraḥ ... śrīśrījayajitāmitramallavarmanā svakarena likhitaṃ saṃpūrṇaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī nepālasamvat 802 vikramāditya saṃvat 1738 kaligatasaṃvat (4772) śake samvat 1603 phālhuṇamāse kṛṣṇapakṣe paṃmyāyā(!)tithau svātinakṣatre dhruvayoge kathākalanamuhutake(!) bēhapati(!)vāsare",
+  "era": "NS",
+  "year": "802",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "pañcamī (paṃmyāyā)",
+  "weekday": "Thursday (bēhapativāsara)",
+  "nakshatra_yoga": "svāti nakṣatra, dhruva yoga",
+  "ce_approx": "1682"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "kulāmbikā-bhakti / śrīsiddhilakṣmī-prīti",
+ "notes": "The catalogue records NS 776 from an earlier note ('saṃ 776 jyeṣṭha vadi 8 goyacchoyā dina'), but the main colophon records the completion in the King's own hand ('svakarena likhitaṃ') on NS 802 Phālguṇa kṛṣṇa 5 (matching VS 1738, Śaka 1603, Kali 4772).",
+ "_meta": {
+  "reel": "A 239/8",
+  "model": "gemini-flash-latest",
+  "secs": 13.7,
+  "in_tok": 1150,
+  "out_tok": 2153
+ }
+}

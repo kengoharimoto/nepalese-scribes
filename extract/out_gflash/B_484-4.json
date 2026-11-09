@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mohanajīkena",
+   "name": "Mohanajīka",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mohanajīkena likhiteyaṃ pustikā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "upādevajīnena",
+   "name": "Devajī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "upādevajīnena",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "upādevajīnena mohanajīkena"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvan saptadaśe śate badhur ddaśe varṣenduṣaśūklādvādaśī guro",
+  "era": "VS",
+  "year": "1714",
+  "month": "induṣa",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "guro",
+  "nakshatra_yoga": "",
+  "ce_approx": "1657"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date expression 'saṃvan saptadaśe śate badhur ddaśe' likely represents Vikrama Saṃvat 1714 (reading 'badhur ddaśe' as a corruption of 'caturdaśe'). The month 'induṣa' might be corrupt for 'pauṣa'. 'upādevajīnena' appears to be an error/haplography for 'upā[dhyāya-]devajī[-sū]nena' (son of Upādhyāya Devajī).",
+ "_meta": {
+  "reel": "B 484/4",
+  "model": "gemini-flash-latest",
+  "secs": 34.8,
+  "in_tok": 786,
+  "out_tok": 4210
+ }
+}

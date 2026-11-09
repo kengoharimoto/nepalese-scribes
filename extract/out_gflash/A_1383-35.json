@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī3balabhadra upādhyāya [[luñiṭyāla liṣaka]] sarmmaṇasya(!)",
+   "name": "Balabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya",
+    "śarman",
+    "liṣaka"
+   ],
+   "affiliation": "Luñiṭyāla",
+   "residence": "",
+   "evidence": "liṣitam idaṃ pustakaṃ śrī3balabhadra upādhyāya [[luñiṭyāla liṣaka]] sarmmaṇasya(!) likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1800 śrīsamvat 1935 sāla pauṣaśudi 12 roja 1 mā",
+  "era": "VS",
+  "year": "1935 (ŚS 1800)",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "12",
+  "weekday": "Sunday (roja 1)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1879"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The text attributes the work to Ādinātha (divine author), which has been excluded per guidelines. Luñiṭyāla is likely the Nepali Brahmin surname/thar (Luintel).",
+ "_meta": {
+  "reel": "A 1383/35",
+  "model": "gemini-flash-latest",
+  "secs": 8.5,
+  "in_tok": 953,
+  "out_tok": 1297
+ }
+}

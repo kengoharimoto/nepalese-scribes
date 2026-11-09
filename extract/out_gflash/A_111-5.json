@@ -1,0 +1,185 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "naravīrasiṃha",
+   "name": "Naravīrasiṃha",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "Ekuṣe Vakaṃ Vahāla",
+   "residence": "Lalitāpura",
+   "evidence": "dānapati śrīlalitāpuramahānagarayā ekuṣe vakaṃ vahālayā kāyaṣṭa jyeṣṭa naravīrasiṃha",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "tejalakṣmī",
+   "name": "Tejalakṣmī",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "Ekuṣe Vakaṃ Vahāla",
+   "residence": "Lalitāpura",
+   "evidence": "naravīrasiṃhabhāryyā tejalakṣmī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "mānavīrasiṃ",
+   "name": "Mānavīrasiṃha",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "Ekuṣe Vakaṃ Vahāla",
+   "residence": "Lalitāpura",
+   "evidence": "jyeṣṭaputra mānavīrasiṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "kṛṣṇamānasiṃ",
+   "name": "Kṛṣṇamānasiṃha",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "Ekuṣe Vakaṃ Vahāla",
+   "residence": "Lalitāpura",
+   "evidence": "dvitīyaputra kṛṣṇamānasiṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "kṛṇamānasiṃ",
+   "name": "Kṛṇamānasiṃha",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "Ekuṣe Vakaṃ Vahāla",
+   "residence": "Lalitāpura",
+   "evidence": "tṛtīyaputrakṛṇamānasiṃ",
+   "confidence": "low"
+  },
+  {
+   "pid": "p6",
+   "as_written": "kulamānasiṃ",
+   "name": "Kulamānasiṃha",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "Ekuṣe Vakaṃ Vahāla",
+   "residence": "Lalitāpura",
+   "evidence": "tṛtīyaputra kulamānasiṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "gajamānasiṃ",
+   "name": "Gajamānasiṃha",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "Ekuṣe Vakaṃ Vahāla",
+   "residence": "Lalitāpura",
+   "evidence": "caturthaputra gajamānasiṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p8",
+   "as_written": "śrītejadattena",
+   "name": "Tejadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Cakravāhāl",
+   "residence": "",
+   "evidence": "lekhaka śrī cakravāhālayā śrītejadattena coyā jula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wife_of",
+   "to": "p1",
+   "evidence": "naravīrasiṃhabhāryyā tejalakṣmī"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "jyeṣṭaputra mānavīrasiṃ"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "dvitīyaputra kṛṣṇamānasiṃ"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "tṛtīyaputrakṛṇamānasiṃ"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "tṛtīyaputra kulamānasiṃ"
+  },
+  {
+   "from": "p7",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "caturthaputra gajamānasiṃ"
+  },
+  {
+   "from": "p8",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "thva pustaka dayakā jula śubhaṃ || lekhaka śrī cakravāhālayā śrītejadattena coyā jula"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 967 adya vaiśāṣamāse śuklapakṣe tṛtīyāyāṃ mahāpuṇyatithau rohiṇīnakṣatre śau(!)bhana yoge yathākarṇṇam udgate ādityavāsare meṣarāsigate savitare vṛṣarāsigate candramasi",
+  "era": "NS",
+  "year": "967",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "ādityavāsara",
+  "nakshatra_yoga": "rohiṇīnakṣatre śaubhana yoge",
+  "ce_approx": "1847"
+ },
+ "place": {
+  "as_written": "śrīlalitāpuramahānagarayā ekuṣe vakaṃ vahālayā",
+  "normalized": "Patan"
+ },
+ "purpose": "dharmacitta utpatti juyāo thva pustaka dayakā jula",
+ "notes": "The phrase 'tṛtīyaputrakṛṇamānasiṃ' appears immediately before 'tṛtīyaputra kulamānasiṃ', likely representing a scribal error or dittography combining the number of the third son with the name of the second son (Kṛṣṇamānasiṃha) before writing Kulamānasiṃha.",
+ "_meta": {
+  "reel": "A 111/5",
+  "model": "gemini-flash-latest",
+  "secs": 28.2,
+  "in_tok": 1034,
+  "out_tok": 4877
+ }
+}

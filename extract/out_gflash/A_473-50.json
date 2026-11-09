@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājendra",
+   "name": "Rājendra",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nepālendra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājendrabhūmaṇḍale nepālendrapade",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke vidhuśailameghabhuvi yad rājendrabhūmaṇḍale nepālendrapade bhṛtau harasutaprakhyas tithau",
+  "era": "ŚS",
+  "year": "1771",
+  "month": "",
+  "paksa": "",
+  "tithi": "harasutaprakhya (?)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1849"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram: vidhu (1) śaila (7) megha (7) bhuvi (1) = ŚS 1771 (ca. 1849 CE). King Rājendra (Rājendravikrama Śāha) is invoked as Nepālendra, though he was deposed in 1847 CE. No clear scribe or commissioner name is mentioned unless 'harasutaprakhyas' conceals an epithet or corrupt name.",
+ "_meta": {
+  "reel": "A 473/50",
+  "model": "gemini-flash-latest",
+  "secs": 10.7,
+  "in_tok": 729,
+  "out_tok": 1751
+ }
+}

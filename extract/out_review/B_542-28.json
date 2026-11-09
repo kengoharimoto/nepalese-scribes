@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 role changed from 'other' to 'owner'. The name ends in a genitive, 'śarmaṇaṃ(!)', which should be 'śarmaṇaḥ', meaning 'of Tīrthadatta Panta Śarman'. This genitive closes the colophon, which most naturally marks ownership. Confidence lowered to low because he could also be the scribe.",
+   "p1 evidence trimmed to the name itself. 'Pantha' is normalized to the surname Panta (Pant) in titles. The extra 'da' in 'tirthadadatta' is treated as dittography.",
+   "Purpose rephrased: 'śivārpaṇam astu' is a dedication formula, not a statement of who the copy was for.",
+   "Notes expanded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ti(!)rthadadattapanthaśarmaṇaṃ(!)",
+   "name": "Tīrthadatta",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "panta",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ti(!)rthadadattapanthaśarmaṇaṃ(!)",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "dedication to Śiva (śivārpaṇam astu)",
+ "notes": "The closing formula is corrupt: 'lekhakapāṭhakayo śubhaṃ yo(!) ti(!)rthadadattapanthaśarmaṇaṃ(!)'. 'yo(!)' may be a damaged 'bhūyāt' ('may there be good fortune for scribe and reader'). The name follows, probably meant as 'tīrthadattapantaśarmaṇaḥ', a genitive: 'of Tīrthadatta Panta Śarman'. 'tirthadadatta' has a doubled 'da' (dittography). 'Pantha' is probably the Nepali brahmin surname Panta (Pant). The genitive suggests owner ('the book of …'), but he may be the scribe. The colophon is undated and names no place.",
+ "_meta": {
+  "reel": "B 542/28",
+  "model": "opus",
+  "cost_usd": 0.0578508,
+  "secs": 14.6
+ }
+}

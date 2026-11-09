@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The quoted text contains only chapter/section colophons of the Divyāvadāna stories (chapters 9, 10, and 21) without scribal colophon, personal names, date, or place.",
+ "_meta": {
+  "reel": "B 98/14 (2)",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 720,
+  "out_tok": 266
+ }
+}

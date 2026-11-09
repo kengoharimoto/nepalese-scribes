@@ -1,0 +1,89 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvajrācārya bauddhena",
+   "name": "Bauddha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "saṃpūrṇṇa[ṃ] likhitaṃ, śrīvajrācārya bauddhena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrībodhivajrācāryena",
+   "name": "Bodhivajra",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībodhivajrācāryena, śrīanurttaravajrācāryayā taṃ data viyā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīanurttaravajrācāryayā",
+   "name": "Anuttaravajra",
+   "roles": [
+    "beneficiary",
+    "owner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīanurttaravajrācāryayā taṃ data viyā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "saṃpūrṇṇa[ṃ] likhitaṃ, śrīvajrācārya bauddhena || śrīkāraṇḍavyūhapuṣṭa(!)[[kada]]yakā yā ... śrībodhivajrācāryena"
+  },
+  {
+   "from": "p2",
+   "type": "other",
+   "to": "p3",
+   "evidence": "śrībodhivajrācāryena, śrīanurttaravajrācāryayā taṃ data viyā juro"
+  }
+ ],
+ "date": {
+  "as_written": "samvata 773 vaiśa(!)ṣaśuklapapañcamyāṃ",
+  "era": "NS",
+  "year": "773",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1653"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "salhākvaphalaṃ saṃprāptaṃ",
+ "notes": "The colophon records the donation of the commissioned manuscript along with other ritual paraphernalia by Bodhivajrācārya to Anuttaravajrācārya.",
+ "_meta": {
+  "reel": "A 914/1",
+  "model": "gemini-flash-latest",
+  "secs": 13.3,
+  "in_tok": 928,
+  "out_tok": 2383
+ }
+}

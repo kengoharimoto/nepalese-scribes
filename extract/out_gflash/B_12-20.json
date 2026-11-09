@@ -1,0 +1,101 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayajoti(!)malladevasya",
+   "name": "Jayajotimalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "rājarājeśvara",
+    "paramabhaṭṭāraka",
+    "nepālabhuvanādhipendra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayajoti(!)malladevasya vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "manikarājena",
+   "name": "Manikarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nāmnā manikarājena likhyate",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrībhairavasvāminaḥ",
+   "name": "Bhairavasvāmin",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "svāmin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dhṛtvājñāṃ śirasā nidhāya sahasā śrībhairavasvāminaḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "gālavakṛte",
+   "name": "Gālava",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gālavakṛte mahālakṣmīmāhātmye",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīśrījayajoti(!)malladevasya vijayarājye ... nāmnā manikarājena likhyate"
+  },
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p3",
+   "evidence": "dhṛtvājñāṃ śirasā nidhāya sahasā śrībhairavasvāminaḥ || nāmnā manikarājena likhyate"
+  }
+ ],
+ "date": {
+  "as_written": "vahnau varṇṇavare śivānanagate śrīhāyane likhyate māse bharddapade(!) śite hi subhade śrīdvādaśī taddine | nakṣatre śravanābhidhānadivase śrīgīspatir(!) vāsare",
+  "era": "NS",
+  "year": "543",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "śravaṇā",
+  "ce_approx": "1423"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is expressed via bhūtasāṃkhyā: vahnau (3) varṇṇavare (4) śivānana (5) = NS 543. Bhairavasvāmin may be a guru/preceptor whose order the scribe carried out, or alternatively a tutelary deity.",
+ "_meta": {
+  "reel": "B 12/20",
+  "model": "gemini-flash-latest",
+  "secs": 19.7,
+  "in_tok": 1214,
+  "out_tok": 2646
+ }
+}

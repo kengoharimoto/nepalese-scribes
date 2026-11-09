@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dharmmarājena",
+   "name": "Dharmarāja",
+   "roles": [
+    "scribe",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dharmmarājena likhitvā ... dattam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "divyadevaśarmaṇāya",
+   "name": "Divyadeva",
+   "roles": [
+    "beneficiary",
+    "owner"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "divyadevaśarmaṇāya(!) dattam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "dharmmarājena likhitvā divyadevaśarmaṇāya(!) dattam"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1971",
+  "era": "VS",
+  "year": "1971",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1914"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "divyadevaśarmaṇāya dattam idaṃ pustakam",
+ "notes": "",
+ "_meta": {
+  "reel": "B 90/17",
+  "model": "gemini-flash-latest",
+  "secs": 8.2,
+  "in_tok": 706,
+  "out_tok": 971
+ }
+}

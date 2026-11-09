@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "(dhū)reśva",
+   "name": "Dhūreśva",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "(dhū)reśvaviracitāyāṃ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1920 ... miti mārga śudi 7 roja 5",
+  "era": "VS",
+  "year": "1920",
+  "month": "mārga",
+  "paksa": "śudi",
+  "tithi": "7",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1863"
+ },
+ "place": {
+  "as_written": "vanārasa",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The author/commentator name is uncertainly read by the cataloguer as '(dhū)reśva' in '(dhū)reśvaviracitāyāṃ'. No scribe name is mentioned ('likhā vanārasa mai' = written in Banaras).",
+ "_meta": {
+  "reel": "A 62/23",
+  "model": "gemini-flash-latest",
+  "secs": 9.8,
+  "in_tok": 727,
+  "out_tok": 1197
+ }
+}

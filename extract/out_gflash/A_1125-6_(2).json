@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śrī nepālasamvata ritu rasā nava varṣa saṃjña māghase ca śucīpache pañcamyā ca titho pauṣṇe ca nāma nakṣutre śubhe ca yoga maṃgalavārasano ... śrīkalījuge bhoga 4942 śrīśakrarājasya śakakāla 1796 śrīsamvata 1898 sāla miti māghaśukrayā paṃñcami reotinakṣetra śūbhayoge aṃgavārasare ca",
+  "era": "VS",
+  "year": "1898",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "maṅgalavāra",
+  "nakshatra_yoga": "revatī (pauṣṇa), śubha",
+  "ce_approx": "1842"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon calculates the date across four eras: Kaliyuga 4942, Śaka 1796 (likely corrupt/inverted for 1763), Vikrama Saṃvat 1898, and Nepāla Saṃvat 966 (chronogram: ṛtu-rasa-nava). VS 1898 and Kali 4942 correspond to early 1842 CE. No individual scribe, patron, or king is named.",
+ "_meta": {
+  "reel": "A 1125/6 (2)",
+  "model": "gemini-flash-latest",
+  "secs": 22.6,
+  "in_tok": 1070,
+  "out_tok": 3157
+ }
+}

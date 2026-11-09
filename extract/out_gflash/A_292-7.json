@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdharasvāmi°",
+   "name": "Śrīdharasvāmin",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "svāmin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdharasvāmiviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīrāmānaṃdaśarmaṇā",
+   "name": "Rāmānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ śrīrāmānaṃdaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1666 māse 2 tithau 28 vāsare 2",
+  "era": "ŚS",
+  "year": "1666",
+  "month": "2",
+  "paksa": "",
+  "tithi": "28",
+  "weekday": "2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1744"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Verses 1–4 are concluding verses of Śrīdharasvāmin's Bhāvārthadīpikā on the second skandha of the Bhāgavatapurāṇa.",
+ "_meta": {
+  "reel": "A 292/7",
+  "model": "gemini-flash-latest",
+  "secs": 10.0,
+  "in_tok": 1029,
+  "out_tok": 1546
+ }
+}

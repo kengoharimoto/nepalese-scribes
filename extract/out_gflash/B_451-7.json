@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jvālādatto",
+   "name": "Jvālādatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "budha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jvālādatto vudhoʼ likhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke [ʼ]vdhivasumedhaiś ca sammite māṣi mādhave",
+  "era": "ŚS",
+  "year": "abdhi-vasu-medha",
+  "month": "Mādhava",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Sarojasundara is the title of the text (Sarojasundarasmṛtisāra).",
+ "_meta": {
+  "reel": "B 451/7",
+  "model": "gemini-flash-latest",
+  "secs": 11.7,
+  "in_tok": 695,
+  "out_tok": 1232
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon contains only the concluding title statement (puṣpikā) with no mention of persons, date, or place.",
+ "_meta": {
+  "reel": "B 683/20",
+  "model": "gemini-flash-latest",
+  "secs": 5.0,
+  "in_tok": 689,
+  "out_tok": 431
+ }
+}

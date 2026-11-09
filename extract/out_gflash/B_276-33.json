@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāmandakīye",
+   "name": "Kāmandaki",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāmandakīye nītisāre",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "(devasenasarmmā) mokṣabrāhmaṇena",
+   "name": "Devasena",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman",
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ (devasenasarmmā) mokṣabrāhmaṇena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "kṣemaṃkaramiśreṇa",
+   "name": "Kṣemaṃkara",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhāyitaṃ kṣemaṃkaramiśreṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "likhitam idaṃ (devasenasarmmā) mokṣabrāhmaṇena lekhāyitaṃ kṣemaṃkaramiśreṇa"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvatsa (!) 1745 śrāvaṇakṛṣṇa 13 ravivāsare",
+  "era": "unspecified",
+  "year": "1745",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "indraprasthe",
+  "normalized": "Delhi"
+ },
+ "purpose": "",
+ "notes": "The era is given simply as 'saṃvatsa' (saṃvat 1745). The cataloguer interprets it as ŚS 1745 (c. 1823 CE), but VS 1745 (c. 1688 CE) is also possible in North India (Indraprastha/Delhi). The scribe's designation 'mokṣabrāhmaṇena' may refer to a particular community/status.",
+ "_meta": {
+  "reel": "B 276/33",
+  "model": "gemini-flash-latest",
+  "secs": 13.8,
+  "in_tok": 835,
+  "out_tok": 2139
+ }
+}

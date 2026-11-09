@@ -1,0 +1,35 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Notes: the era is not written out (only 'samvat'). NS is inferred from the Newari script and the three-digit year.",
+   "Notes: added that the five later śloka lines by another hand name no one, as far as the cataloguer reports.",
+   "Persons, date and CE conversion confirmed: 776 + 880 = 1656."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 7(76) āṣāḍhe śukle daśamyāṃ",
+  "era": "NS",
+  "year": "776",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1656"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names no persons. The year reads 'samvat 7(76)': the cataloguer reconstructed or was unsure of the digits '76', and the catalogue itself gives '776?'. The colophon only says 'samvat' without naming an era. NS is assumed from the Newari script and the three-digit year, giving about 1656 CE. Five more lines in śloka by a different hand follow the colophon. The cataloguer thinks they may recommend dāna and does not quote them, so they may hold later information that is not recorded here.",
+ "_meta": {
+  "reel": "B 98/11",
+  "model": "opus",
+  "cost_usd": 0.043498800000000004,
+  "secs": 9.7
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "la saṃ 221 bhādraśudi 10 budhe",
+  "era": "LS",
+  "year": "221",
+  "month": "bhādra",
+  "paksa": "śudi",
+  "tithi": "10",
+  "weekday": "budhe",
+  "nakshatra_yoga": "",
+  "ce_approx": "1340"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons are mentioned. The text breaks off during an opening saṃkalpa formula (oṃ adya bhādraśuklacaturddaśyāṃ tithau aihikage(?)).",
+ "_meta": {
+  "reel": "B 18/20",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 697,
+  "out_tok": 782
+ }
+}

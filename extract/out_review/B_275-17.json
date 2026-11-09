@@ -1,0 +1,68 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed Dāmodara (p2) and the son_of relation. The compound 'śrīmahādāmodarapaṇḍitadharmmādhikaraṇikaśrījagaddhara' has no putra/tanaya or any other kinship word, so the filiation is not supported, and Dāmodara has no connection with this copy. See notes.",
+   "Jagaddhara: added 'paṇḍita' to titles, since it is one of his own epithets.",
+   "Padmanātha: confidence lowered to low. The scribe role is kept but only weakly supported ('sarvalikheti'). The owner role rests on 'pustakam idaṃ'.",
+   "Date: the two dates are now kept apart. The VS verse gives Sunday, the full moon of Bhādra(pada), VS 1872. The NS line gives Sunday, Pauṣa śudi 15, NS 936. The first reading had wrongly attached Pauṣa to the VS verse.",
+   "ce_approx: changed to 1815–1816. Bhādra VS 1872 falls around Aug/Sep 1815 and Pauṣa NS 936 around Dec 1815/Jan 1816. The unverified exact equation with 14 Jan 1816 was removed."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dharmmādhika(11)raṇikaśrījagaddhara",
+   "name": "Jagaddhara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "dharmādhikaraṇika",
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījagaddharakṛtaṭīkāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "padhye ca nāthasya",
+   "name": "Padmanātha",
+   "roles": [
+    "owner",
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sarvalikheti nūnaṃ padhye ca nāthasya pustakam idaṃ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīvikramābde karasapta nāga bhūvāre ravau bhādinipūrṇatithau ... samvat 936 pauṣa śudi 15 roja 1",
+  "era": "VS",
+  "year": "1872 (verse, VS); 936 (NS line)",
+  "month": "Bhādra(pada) (verse); Pauṣa (NS line)",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā (15)",
+  "weekday": "Sunday (ravau; roja 1)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1815–1816"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram kara (2), sapta (7), nāga (8), bhū (1), read right to left, gives VS 1872. The verse dates the copy to a Sunday at the full moon of Bhādra ('bhādini' probably stands for Bhādra), around Aug/Sep 1815. The separate prose line gives NS 936 Pauṣa śudi 15, roja 1 (Sunday), around Dec 1815/Jan 1816. The two years fit the same period, but the months differ by about four months. The second date may mark the end of copying or a later note. The weekdays have not been checked. The verse is corrupt (!). 'padhye ca nāthasya' is read as Padmanātha, following the catalogue; Padmanābha is also possible. 'sarvalikheti' (≈ sarvaṃ likhitam) suggests that Padmanātha wrote the copy, but this is uncertain. 'mahādāmodarapaṇḍita' comes before Jagaddhara's own epithets (dharmādhikaraṇika). It may be a corruption of 'mahāmahopādhyāya' or part of the commentator's epithets. Nothing in the text supports reading it as his father, so it has been left out.",
+ "_meta": {
+  "reel": "B 275/17",
+  "model": "opus",
+  "cost_usd": 0.6061456,
+  "secs": 45.9
+ }
+}

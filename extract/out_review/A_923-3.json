@@ -1,0 +1,58 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Affiliation spelling normalized to Rudravarṇamahāvihāra (the colophon's 'rūdra' has a long ū)",
+   "Residence set to the vihāra itself (Rudravarṇa Mahāvihāra = Uku Bahal, Patan); the colophon gives no separate place of copying, so place.as_written cleared and the identification moved to notes",
+   "Titles: added pravaramahāyānayāyin (corrupt 'pravaramahāyāyinaḥ'); 'śākyavaṃśodbhava' rendered as the śākya title",
+   "Purpose rephrased: deyadharma (pious gift), the copy owned by Rāmānanda",
+   "Date: chronogram checked (nāga 8, muni 7, rasa 6, read right to left = 678); kept NS 678 = 1558 CE; 'krīnacandre' read as kṣīṇacandre, which means the dark fortnight (kṛṣṇa)",
+   "Notes expanded: the NS 934 note gives the date in CE (1814) and the dark-fortnight reading"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmānandena",
+   "name": "Rāmānanda",
+   "roles": [
+    "scribe",
+    "donor",
+    "owner"
+   ],
+   "titles": [
+    "pravaramahāyānayāyin",
+    "paramopāsaka",
+    "śākya"
+   ],
+   "affiliation": "Rudravarṇamahāvihāra",
+   "residence": "Rudravarṇamahāvihāra (Patan)",
+   "evidence": "deyadharmo yaṃ ... śrīmatrūdravarṇṇamahāvihārāvasitaḥ paramopāsaka śrīśākyavaṃṣodbhavaḥ śrīrāmānandena likhitā; śrīrā(m)ānandayā pustaka juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "naipāle hāyane yātaḥ nāgamuṇirasānvite cāṣāḍhe krīna(!)candre tuḥ(!) paṃcamyāñ ca tithau śubhe ... saṃvat 678 āṣāḍa kṛṣ(ṇa) pañcamāhuḥ",
+  "era": "NS",
+  "year": "678",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1558"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "deyadharma (pious gift); the book of Rāmānanda",
+ "notes": "The verse chronogram nāga (8) muni (7) rasa (6), read right to left, gives NS 678. This agrees with the prose 'saṃvat 678 āṣāḍa kṛṣ(ṇa) pañcamī', i.e. ~1558 CE. 'krīnacandre' probably stands for kṣīṇacandre (waning moon), which also gives the dark fortnight. The catalogue's 'NS 934' comes from a later added note, 'saṃvatt 934 śrāvaṇa śukla 1' (~1814 CE). It follows a verse about an epidemic (upasarga, mahāmārī) and is not the copying date. The colophon names no place of copying. The scribe lived at Rudravarṇa Mahāvihāra (Uku Bahal, Patan), so the copy was probably made there, but this is inference. Rāmānanda is called donor because of the deyadharma formula.",
+ "_meta": {
+  "reel": "A 923/3",
+  "model": "opus",
+  "cost_usd": 0.0724468,
+  "secs": 18.5
+ }
+}

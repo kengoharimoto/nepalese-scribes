@@ -1,0 +1,61 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadviṣṇudattasūriṇā",
+   "name": "Viṣṇudatta",
+   "roles": [
+    "author",
+    "commentator"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadviṣṇudattasūriṇā viracitam pratijñāsūtrabhāṣyam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "agnidattaśarmaṇā",
+   "name": "Agnidattaśarman",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idam agnidattaśarmaṇā dvijena svārtham",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "1918 sāla caitre māsi śuklapakṣe śanivāsare ṣaṣṭhyāṃ",
+  "era": "VS",
+  "year": "1918",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "ṣaṣṭhī",
+  "weekday": "śanivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1861"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtham",
+ "notes": "",
+ "_meta": {
+  "reel": "A 556/11",
+  "model": "gemini-flash-latest",
+  "secs": 10.5,
+  "in_tok": 745,
+  "out_tok": 1479
+ }
+}

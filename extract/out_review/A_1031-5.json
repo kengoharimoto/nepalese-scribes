@@ -1,0 +1,103 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Kīrttisiṃhadeva: role changed from 'king' to 'other'. He ordered the commentary itself (ājñayā … viracitāyām), so he is the patron of the original text, not the reigning king of this 1837 copy.",
+   "Bhaṭṭoji and Bhānuji: 'Dīkṣita' taken out of the names and kept only in titles (names now 'Bhaṭṭoji', 'Bhānuji').",
+   "Date: tithi filled in as ekādaśī (harer vāra = harivāsara) and weekday normalised to Sunday (ādityavāra). The year has no era name; VS 1837 = c. 1780 CE is kept as the likely reading and the assumption is stated in notes.",
+   "Place as_written changed to the actual colophon substring 'barhirkhanagar[e]'.",
+   "Notes rewritten: the verse is parsed and the doubts about the era and the scribe are flagged."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkīrttisiṃhadeva",
+   "name": "Kīrttisiṃhadeva",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "viṣayādhipati"
+   ],
+   "affiliation": "Vaghelavaṃśa",
+   "residence": "Mahīmahīyara(!) viṣaya",
+   "evidence": "śrīvaghelavaṃśodbhavaśrīmahīmahīyara(!)viṣayādhipatiśrīkīrttisiṃhadevājñayā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaṭṭojidīkṣita",
+   "name": "Bhaṭṭoji",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī bhaṭṭojidīkṣitātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrībhānujidīkṣita",
+   "name": "Bhānuji",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhānujidīkṣitaviracitāyām",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "ddharmmaddhajo",
+   "name": "Dharmadhvaja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam ida granther ddharmmaddhajosya",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrī bhaṭṭojidīkṣitātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1837 … harervārarādityaryukte",
+  "era": "VS",
+  "year": "1837",
+  "month": "",
+  "paksa": "",
+  "tithi": "ekādaśī (harer vāra = harivāsara)",
+  "weekday": "Sunday (ādityavāra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1780"
+ },
+ "place": {
+  "as_written": "barhirkhanagar[e]",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is given only as 'samvat 1837'. VS (= c. 1780 CE) is assumed because the script is Nagari and the text is Bhānuji Dīkṣita's 17th-century commentary. NS is impossible. ŚS 1837 (= 1915 CE) cannot be strictly ruled out. The final verse is corrupt; a probable reading is 'barhirkhanagare harer vāre ādityayukte likhitam idaṃ granthaṃ dharmadhvajo 'sya kīrteḥ': 'in Barhirkha-nagara, on Hari's day (ekādaśī) falling on a Sunday, Dharmadhvaja wrote this book …'. Dharmadhvaja as scribe is therefore probable but not certain, and the place name is uncertain. The date 1837 stands at the end of the mūla text (fol. 3r); the scribe verse comes after the ṭīkā colophon (fol. 3v). Kīrttisiṃhadeva, the Vaghela ruler of 'Mahīmahīyara(!)', ordered the original commentary; he is not the reigning king of this copy. 'yasya likhitaṃ kalyāṇaṃ sarvadā' is a blessing formula and names no one.",
+ "_meta": {
+  "reel": "A 1031/5",
+  "model": "opus",
+  "cost_usd": 0.0811868,
+  "secs": 21.9
+ }
+}

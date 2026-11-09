@@ -1,0 +1,104 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṛṣṇarāmeṇa",
+   "name": "Kṛṣṇarāma",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "govindarāmaputreṇa kṛṣṇarāmeṇa dhīmatā || kṛtasumanasāṃ prītyai gatisūtrārthanirṇayaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "govindarāma",
+   "name": "Govindarāma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "govindarāmaputreṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śivarāmau",
+   "name": "Śivarāma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadyādavaśivarāmau prapitāmahapitāmahau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "yādava",
+   "name": "Yādava",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadyādavaśivarāmau prapitāmahapitāmahau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "govindarāmaputreṇa"
+  },
+  {
+   "from": "p1",
+   "type": "grandson_of",
+   "to": "p3",
+   "evidence": "śrīmadyādavaśivarāmau prapitāmahapitāmahau"
+  },
+  {
+   "from": "p1",
+   "type": "other",
+   "to": "p4",
+   "evidence": "śrīmadyādavaśivarāmau prapitāmahapitāmahau"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsamvat 18 śrāvaṇa vadi 1 roja 4",
+  "era": "unspecified",
+  "year": "18",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "1",
+  "weekday": "roja 4",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "kāśyām cauleśvaraghaṭṭe",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "sumanasāṃ prītyai",
+ "notes": "The year is given simply as '18' (possibly an abbreviated Vikrama Saṃvat century or regnal year). The author Kṛṣṇarāma traces his lineage: son of Govindarāma, grandson of Śivarāma, great-grandson of Yādava. The copy was completed at Cauleśvara-ghaṭṭa in Kāśī (Vārāṇasī).",
+ "_meta": {
+  "reel": "A 587/9",
+  "model": "gemini-flash-latest",
+  "secs": 18.5,
+  "in_tok": 782,
+  "out_tok": 2744
+ }
+}

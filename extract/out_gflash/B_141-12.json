@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "puṇyānanda",
+   "name": "Puṇyānanda",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "paramayogīndra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "puṇyānandaśiṣyāmṛtānandanātha",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "amṛtānandanātha",
+   "name": "Amṛtānandanātha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "yogipravara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "puṇyānandaśiṣyāmṛtānandanāthayogipravaraviracitāyāṃ yonī(!)hṛdayadīpikāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "brahmadevadharaṇīsuro",
+   "name": "Brahmadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dharaṇīsura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yoginīhṛdayadīpikām alikhad īśvarīcaraṇasevako brahmadevadharaṇīsuro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "puṇyānandaśiṣyāmṛtānandanātha"
+  }
+ ],
+ "date": {
+  "as_written": "śrāvaṇe dviradalocanadviradasaṃkhya ākalitae hāyaṇe, hastabhe dhavalapakṣake jvala(dagni)bhūtithu mihiravāsare [...] samvat 828 śrāvaṇaśuklaṣaṣṭḥī",
+  "era": "NS",
+  "year": "828",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "ṣaṣṭhī",
+  "weekday": "mihiravāsara",
+  "nakshatra_yoga": "hasta",
+  "ce_approx": "1708"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "nikhila‥gopyatatvapadalabdhaye",
+ "notes": "Chronogram dvirada-locana-dvirada corresponds to 828. Contains Newari post-colophon remarks: 'mahā kaṣṭa na dayakā thva saṃsphuli gopyayāya mālapi viyamate vasunāraṃ'.",
+ "_meta": {
+  "reel": "B 141/12",
+  "model": "gemini-flash-latest",
+  "secs": 12.0,
+  "in_tok": 930,
+  "out_tok": 1594
+ }
+}

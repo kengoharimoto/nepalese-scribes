@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrī sumati jayajitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrī sumati jayajitāmitramalladevasana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 815 kārttikavadipaṃcamī thvakuhnu",
+  "era": "NS",
+  "year": "815",
+  "month": "kārttika",
+  "paksa": "vadi",
+  "tithi": "paṃcamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1694"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "King Jayajitāmitramalladeva of Bhaktapur commissioned the manuscript (Newari: dayakā juroṃ).",
+ "_meta": {
+  "reel": "A 1235/19 (4)",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 1011,
+  "out_tok": 779
+ }
+}

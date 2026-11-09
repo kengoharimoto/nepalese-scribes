@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśukrācārye",
+   "name": "Śukrācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśukrācārye viracitaṃ(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1946 sāle jeṣṭasudi 4 roja 1",
+  "era": "VS",
+  "year": "1946",
+  "month": "Jyeṣṭha",
+  "paksa": "śuklapakṣa",
+  "tithi": "4",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1889"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No copyist or patron is mentioned. The text following the date consists of a verse praising Maṅgala (Mars).",
+ "_meta": {
+  "reel": "A 958/10",
+  "model": "gemini-flash-latest",
+  "secs": 10.8,
+  "in_tok": 747,
+  "out_tok": 1307
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vallāladaivajñātmaja",
+   "name": "Vallāla",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "sakalagaṇakasārvabhauma",
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsakalagaṇakasārvabhaumavallāladaivajñātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "raṃganāthagaṇaka",
+   "name": "Raṅganātha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "gaṇaka",
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "raṃganāthagaṇakaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "mahārājādhirājakīrttivammamalla",
+   "name": "Kīrttivammamalla",
+   "roles": [
+    "king",
+    "relative_only"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīman mahārājādhirājakīrttivammamallātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīnarasiṃhavikramamallena",
+   "name": "Narasiṃhavikramamalla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnarasiṃhavikramamallena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "vallāladaivajñātmajaraṃganāthagaṇaka"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "mahārājādhirājakīrttivammamallātmajaśrīnarasiṃhavikramamallena"
+  }
+ ],
+ "date": {
+  "as_written": "vikramādityasya rājyātītasaṃvat 1859 svasti śrīśālivāhananṛpasya śakakṛtād gatavarṣāṇi 1724 tatra sauramānāt pauṣamāse dina ṣoḍaśagate cāndramānāt tu pauṣaśuklacaturthyāṃ bhaumavāsare",
+  "era": "VS",
+  "year": "1859",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "caturthī",
+  "weekday": "bhaumavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1802"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svapaṭhanārthaṃ",
+ "notes": "Double-dated in VS 1859 and ŚS 1724 (solar Pauṣa day 16, lunar Pauṣa śukla 4, Tuesday). Kīrttivamma Malla is the father of the scribe Narasiṃhavikrama Malla.",
+ "_meta": {
+  "reel": "B 355/14",
+  "model": "gemini-flash-latest",
+  "secs": 14.3,
+  "in_tok": 979,
+  "out_tok": 2118
+ }
+}

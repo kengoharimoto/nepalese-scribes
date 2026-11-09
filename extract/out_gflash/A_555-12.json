@@ -1,0 +1,103 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmacandra",
+   "name": "Rāmacandra",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmacandraviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīkṛ[[ṣṇā]]cāryya",
+   "name": "Kṛṣṇācārya",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkṛ[[ṣṇā]]cāryyasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīmadgopālācāryya",
+   "name": "Gopālācārya",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "paramahaṃsa",
+    "parivrājācārya",
+    "guru"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīparamahaṃsaparivrājācāryyaśrīmadgopālācāryyagurupūjyapādālasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "gaṅgādhareṇa",
+   "name": "Gaṅgādhara",
+   "roles": [
+    "scribe",
+    "minister"
+   ],
+   "titles": [
+    "mahāmantrin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmaṃtrī gaṅgādhareṇa likhitaiṣā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīkṛ[[ṣṇā]]cāryyasutaśrīrāmacandra"
+  },
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p3",
+   "evidence": "śrīmadgopālācāryyagurupūjyapādālasyaśrīkṛ[[ṣṇā]]cāryya"
+  }
+ ],
+ "date": {
+  "as_written": "nepālasaṃma(!)t 792 || ❖ || ❖ || .. .. .. .. .. .. .. .. .. daśamyāṃ bṛhaspatau",
+  "era": "NS",
+  "year": "792",
+  "month": "",
+  "paksa": "",
+  "tithi": "daśamī",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1672"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Month and pakṣa are lost in the lacuna. The scribe Gaṅgādhara is qualified as mahāmantrī.",
+ "_meta": {
+  "reel": "A 555/12",
+  "model": "gemini-flash-latest",
+  "secs": 12.8,
+  "in_tok": 779,
+  "out_tok": 1972
+ }
+}

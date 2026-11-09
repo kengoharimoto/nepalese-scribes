@@ -1,0 +1,74 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "saṃkarabhagavatpūjyapādācāryya",
+   "name": "Śaṅkara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya",
+    "bhagavatpūjyapāda",
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "saṃkarabhagavatpūjyapādācāryyakṛti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sureśvarācāryya",
+   "name": "Sureśvara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sureśvarācāryyanirmitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "devīdhara volās",
+   "name": "Devīdhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "volās",
+   "evidence": "idaṃ puṣṭakaṃ liṣitaṃ devīdhara volās",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1005 miti pauṣakṛṣṇa 11 roja 1",
+  "era": "NS",
+  "year": "1005",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "roja 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1885"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The word 'volās' following Devīdhara's name may represent a residence/locality (e.g., Bolāchem) or family/caste name.",
+ "_meta": {
+  "reel": "C 32/9 (1)",
+  "model": "gemini-flash-latest",
+  "secs": 11.2,
+  "in_tok": 958,
+  "out_tok": 1428
+ }
+}

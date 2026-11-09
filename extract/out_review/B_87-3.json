@@ -1,0 +1,76 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 scribe: confidence lowered to medium, because the name is run together with the unclear string 'dralivāyijoḥ'. The name could be longer than 'Naumiloka', and the evidence substring now includes it.",
+   "p2: 'lakṣyā vāhāra' moved from residence to affiliation, since it reads as a vihāra (bāhā) name. Evidence now quotes the dānapati phrase. The śākyabhikṣu title is kept, but it is uncertain.",
+   "Purpose shortened to a summary of the merit transfer instead of the raw quotation.",
+   "Date: the month 'stiṣoṣa' is flagged as corrupt. NS 963 + 880 = 1843 CE is confirmed.",
+   "Notes expanded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācāryyanaumilokadralivāyijoḥ",
+   "name": "Naumiloka",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ vajrācāryyanaumilokadralivāyijoḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sivikṣā ka ‥ ‥ ta",
+   "name": "Ka‥‥ta",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "Lakṣyā Vāhāra (vihāra)",
+   "residence": "",
+   "evidence": "dānapatijajomānaragaṃto lakṣyā vāhāra sivikṣā ka ‥ ‥ ta ... pustakadayakā jura",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "liṣitaṃ ... pustakadayakā jura"
+  }
+ ],
+ "date": {
+  "as_written": "śubhasaṃvat 963 stiṣoṣasudi 13",
+  "era": "NS",
+  "year": "963",
+  "month": "stiṣoṣa (corrupt; uncertain)",
+  "paksa": "sudi (śukla)",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1843"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "Merit transfer: by this merit, may the dānapati (yajamāna) quickly obtain wealth, offspring and sevenfold increase",
+ "notes": "The month 'stiṣoṣa' is corrupt and cannot be identified with confidence. 'sahnayāyā gumajiya ñāhnu' looks like a festival or day name, not a weekday. 'guta nā ṅo coyā jula' means the copy was finished. The scribe string 'naumilokadralivāyijoḥ' is unclear. 'joḥ' is probably an honorific ending (cf. Newari -ju), and 'dralivāyi' could be part of the name or a locality, so the catalogue's 'Naumiloka' is kept. In the donor's name, 'dānapati jajomāna' = yajamāna, and 'ragaṃto' is probably the Newari 'rogaṃto' ('together with the household'). 'lakṣyā vāhāra' looks like a Patan bāhā. 'sivikṣā' probably stands for śākyabhikṣu, but that reading is uncertain. The personal name is lost in a lacuna. The phrase 'juvura dhuranaṃ sva ikṣā mana bā ‥' may name further family members, but it is too garbled to extract. 'pustakadayakā jura' = 'had the book made', so the donor is the commissioner.",
+ "_meta": {
+  "reel": "B 87/3",
+  "model": "opus",
+  "cost_usd": 0.5918696,
+  "secs": 34.3
+ }
+}

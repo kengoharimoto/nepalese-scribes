@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījoganara",
+   "name": "Joganara",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "mahākumāraju"
+   ],
+   "affiliation": "",
+   "residence": "makvāṃpura",
+   "evidence": "thva verasa makvāṃpura mahākumāraju śrījoganara",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1808 pauṣa kṛṣṇa patipade (!) ādityavāra",
+  "era": "VS",
+  "year": "1808",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "patipade",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1751"
+ },
+ "place": {
+  "as_written": "makvāṃpura",
+  "normalized": "Makwanpur"
+ },
+ "purpose": "",
+ "notes": "The colophon text breaks off after 'śrījoganara', which likely represents a prince (mahākumāra) of the Sen dynasty of Makwanpur (possibly Joganārāyaṇa / Joganarendra).",
+ "_meta": {
+  "reel": "A 248/31",
+  "model": "gemini-flash-latest",
+  "secs": 10.2,
+  "in_tok": 731,
+  "out_tok": 1347
+ }
+}

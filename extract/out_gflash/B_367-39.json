@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gopālaya",
+   "name": "Gopāla",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gopālaya sūnunā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rāmacaṃdreṇ",
+   "name": "Rāmacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmacaṃdreṇ likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "gopālaya sūnunā rāmacaṃdreṇ"
+  }
+ ],
+ "date": {
+  "as_written": "śake 1759 kārtika śukla 92 gurau",
+  "era": "ŚS",
+  "year": "1759",
+  "month": "kārtika",
+  "paksa": "śukla",
+  "tithi": "92",
+  "weekday": "gurau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1837"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The tithi is written as 92, likely a scribal or reading error for 12 (dvādaśī) or 2. 'śrīrāmacaṃdrāya' at the end is an invocation or dedication to deity Rāmacandra.",
+ "_meta": {
+  "reel": "B 367/39",
+  "model": "gemini-flash-latest",
+  "secs": 7.7,
+  "in_tok": 670,
+  "out_tok": 995
+ }
+}

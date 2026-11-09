@@ -1,0 +1,87 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmacamḍratailaṃgena",
+   "name": "Rāmacandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "tailaṅga"
+   ],
+   "affiliation": "",
+   "residence": "Kāśī",
+   "evidence": "rāmacamḍratailaṃgena likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "tamana bhaṭlavārū ity upanāmaka rājeśvarasya",
+   "name": "Rājeśvara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "tamana bhaṭlavārū"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tamana bhaṭlavārū ity upanāmaka rājeśvarasya sūnunā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rājagurūjīhemarājasya",
+   "name": "Hemarāja",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "rājaguru"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ rājagurūjīhemarājasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "tamana bhaṭlavārū ity upanāmaka rājeśvarasya sūnunā rāmacamḍratailaṃgena"
+  },
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "idaṃ pustakaṃ rājagurūjīhemarājasya"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1960 jyeṣṭhe māse kṛṣṇapakṣe daśamyāṃ tithau bhṛguvāsare",
+  "era": "VS",
+  "year": "1960",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1903"
+ },
+ "place": {
+  "as_written": "śrīnepālakṣetre bhūmyām",
+  "normalized": "Kathmandu Valley"
+ },
+ "purpose": "parārtha",
+ "notes": "The owner is the prominent royal preceptor (Rājaguru) Hemarāja Śarmā.",
+ "_meta": {
+  "reel": "B 512/8",
+  "model": "gemini-flash-latest",
+  "secs": 12.1,
+  "in_tok": 826,
+  "out_tok": 1566
+ }
+}

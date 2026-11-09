@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Month normalized: śrādhavaṇa read as Śrāvaṇa (corrupt spelling)",
+   "Weekday given as Sunday (ravau); tithi 15 of the śukla fortnight noted as pūrṇimā",
+   "Notes expanded: year 161 with 'ekottara' looks like a digit has dropped out (e.g. VS 1661), so era and CE are left undetermined",
+   "Person record kept as it was (Śivāditya, author, miśra as a title)"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivādibhya(!)miśra",
+   "name": "Śivāditya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śivādibhya(!)miśraviracitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 161 ekottarāvārṣe (!) śrādhavaṇaśudi 15 ravau",
+  "era": "unspecified",
+  "year": "161",
+  "month": "Śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "15 (pūrṇimā)",
+  "weekday": "Sunday (ravau)",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author is Śivāditya (Śivādityamiśra); the colophon has the corrupt form śivādibhya(!)miśra. The year is given as 'saṃvat 161', and 'ekottarāvārṣe' (!) only spells out the 'one-over' part. A digit has probably been lost. Since the script is Devanagari, the date could be VS 1661, which would be about 1604 CE, but this is a guess, so era and CE are left blank. NS 161 (1041 CE) is very unlikely for a Devanagari copy of this text. Month 'śrādhavaṇa' is a corrupt spelling of Śrāvaṇa. No scribe, owner or place is named.",
+ "_meta": {
+  "reel": "A 80/26",
+  "model": "opus",
+  "cost_usd": 0.0495788,
+  "secs": 11.0
+ }
+}

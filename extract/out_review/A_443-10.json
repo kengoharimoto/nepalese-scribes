@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Weekday 'rarojaha' removed: 'roja(ha)' is the Nepali word for 'day'. Reading 'ra' as ravi (Sunday) is only a guess. Weekday and tithi are now blank and the possibilities are explained in notes",
+   "Date as_written now includes 'śubham', as in the colophon",
+   "Notes: added the one-year mismatch between Śaka 1806 and VS 1942, with an explanation"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ciraṃjīviśarmaṇā",
+   "name": "Ciraṃjīvi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ ciraṃjīviśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1806 saṃvat 1942 sāle miti bhādrasudirarojaha śubham",
+  "era": "VS",
+  "year": "1942",
+  "month": "Bhādra",
+  "paksa": "śukla (sudi)",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1885"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives two eras. VS 1942 − 57 = 1885 CE, so Bhādra śukla falls in about August–September 1885. Śaka 1806 + 78 = 1884, which is one year earlier: Śaka 1807 is the year that matches VS 1942. A one-year slip like this is common, for example when an expired year is confused with a current one. VS is taken as the main era. 'bhādrasudirarojaha' is probably garbled. 'roja' is Nepali for 'day', so the 'ra' may be a misread numeral (tithi) or an abbreviated weekday. This text is the Siddhivināyaka/Gaṇeśa caturthī pūjā, so the date may well be Bhādra śukla 4 (Gaṇeśacaturthī), but the text does not confirm this. The weekday was left blank.",
+ "_meta": {
+  "reel": "A 443/10",
+  "model": "opus",
+  "cost_usd": 0.058042800000000006,
+  "secs": 15.8
+ }
+}

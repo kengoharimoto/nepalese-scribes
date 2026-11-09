@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bālakṛṣṇaśarmaṇā",
+   "name": "Bālakṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃm(!) idaṃ pustakaṃ bālakṛṣṇaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1896 sāla miti kārttikaśudi 2 roja 6",
+  "era": "VS",
+  "year": "1896",
+  "month": "kārttika",
+  "paksa": "śuklapakṣa",
+  "tithi": "2",
+  "weekday": "roja 6",
+  "nakshatra_yoga": "",
+  "ce_approx": "1839"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 319/14",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 724,
+  "out_tok": 660
+ }
+}

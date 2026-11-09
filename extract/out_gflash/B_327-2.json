@@ -1,0 +1,94 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaṇeśadaivajña-",
+   "name": "Gaṇeśa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gaṇeśadaivajñaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "daivajñavaryadivākara-",
+   "name": "Divākara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajñavarya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñavaryadivākarātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "viśvanātha-",
+   "name": "Viśvanātha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "divākarātmajaviśvanāthaviracitaṃ siddhāṃtarahasyodāharaṇaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "devidattapaṃtena",
+   "name": "Devīdatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paṃta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devidattapaṃtena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "divākarātmajaviśvanātha"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsamvat 18|99 śake 17|64 kārttika dvādaśyāṃ candre",
+  "era": "VS",
+  "year": "1899",
+  "month": "kārttika",
+  "paksa": "",
+  "tithi": "dvādaśī",
+  "weekday": "candra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1842"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists the date as 'SS 1899', but the colophon gives both VS 1899 and Śaka 1764 (1899 - 135 = 1764), corresponding to 1842 CE.",
+ "_meta": {
+  "reel": "B 327/2",
+  "model": "gemini-flash-latest",
+  "secs": 13.5,
+  "in_tok": 813,
+  "out_tok": 1638
+ }
+}

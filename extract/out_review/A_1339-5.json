@@ -1,0 +1,64 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. Added to notes that the catalogue's ŚS 1560 would be about 1638 CE, and explained why the date fields stay empty."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībhāskarācārya",
+   "name": "Bhāskara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhāskarācāryaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vīreśvaradaivajña",
+   "name": "Vīreśvara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vīreśvaradaivajñakṛtam udāharaṇaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives the scribe as Gadādhara and the date as ŚS 1560 (about 1638 CE). Neither appears in the quoted colophon excerpt (fol. 34r1–2), so they are not recorded here. They may come from another part of the manuscript that the cataloguer did not quote. Vīreśvara Daivajña wrote the udāharaṇa (worked examples) on Bhāskara's Līlāvatī.",
+ "_meta": {
+  "reel": "A 1339/5",
+  "model": "opus",
+  "cost_usd": 0.045718800000000004,
+  "secs": 8.4
+ }
+}

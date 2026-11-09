@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhuvaneśvaśarmaṇā",
+   "name": "Bhuvaneśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "naradevī",
+   "evidence": "likhitam idaṃ pustakaṃ bhuvaneśvaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "1999 || 12 | 9 | 21",
+  "era": "VS",
+  "year": "1999",
+  "month": "12",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1943"
+ },
+ "place": {
+  "as_written": "naradevī",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The name bhuvaneśvaśarmaṇā is likely a scribal lapse for bhuvaneśvaraśarmaṇā. Naradevī is a well-known neighborhood (tole) in Kathmandu. The date elements following 1999 are written numerically as 12 | 9 | 21.",
+ "_meta": {
+  "reel": "A 1149/1",
+  "model": "gemini-flash-latest",
+  "secs": 7.8,
+  "in_tok": 725,
+  "out_tok": 1034
+ }
+}

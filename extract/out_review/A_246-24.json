@@ -1,0 +1,36 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "purpose cleared: 'sā+rapāṭhapratiṣṭhā yāṅā dina' gives the date as the day a pratiṣṭhā was performed, not the purpose of the copy; moved to notes",
+   "nakshatra_yoga normalized: 'aidra' read as aindra yoga",
+   "ce_approx 1713 kept; added a note on why it is not NS+880 = 1714",
+   "notes expanded: catalogue king not named in colophon, but consistent with the date"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 834 mārgaśiravadi 4 budhavāra puṣyanakṣatra aidra yoga",
+  "era": "NS",
+  "year": "834",
+  "month": "mārgaśira",
+  "paksa": "vadi (kṛṣṇa)",
+  "tithi": "4",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "puṣya nakṣatra; aindra yoga (written aidra)",
+  "ce_approx": "1713"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is not named ('samvat 834'), but the Newari script and the Newari phrase 'yāṅā dina' make it Nepāla Saṃvat. NS 834 begins in autumn 1713, so Mārgaśira kṛṣṇa 4 of NS 834 falls in Nov/Dec 1713 CE. NS+880 would give 1714, which is too late for this month. The closing phrase 'sā+rapāṭhapratiṣṭhā yāṅā dina' means 'the day on which the pratiṣṭhā of sā+rapāṭha (sārapāṭha?) was performed'. It marks the date as the day of a ritual, not the purpose of the copy. The word is damaged ('+'), so the reading is uncertain. No person is named in the colophon. The catalogue's king, Jaya-Bhūpatīndra Malla of Bhaktapur (r. c. 1696–1722), fits the date, but he is not named in the quoted text, so he is not added.",
+ "_meta": {
+  "reel": "A 246/24",
+  "model": "opus",
+  "cost_usd": 0.5069,
+  "secs": 16.0
+ }
+}

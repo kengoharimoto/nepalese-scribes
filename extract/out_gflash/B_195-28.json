@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumatjayajitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumatjayajitāmitramalladevasana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 800 mārggaśiraśudi 2 thva kuhnu",
+  "era": "NS",
+  "year": "800",
+  "month": "mārggaśira",
+  "paksa": "śudi",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1679"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "King Sumati Jayajitāmitramalla of Bhaktapur caused the manuscript to be prepared ('dayakā juroṃ').",
+ "_meta": {
+  "reel": "B 195/28",
+  "model": "gemini-flash-latest",
+  "secs": 8.7,
+  "in_tok": 785,
+  "out_tok": 1012
+ }
+}

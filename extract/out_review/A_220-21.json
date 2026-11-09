@@ -1,0 +1,77 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2: name changed from 'Viprācārya' to 'Vaṅgasena'. 'vaidya-vipra-ācārya' are titles; the name comes from 'vaṃgasenagraṃthaḥ' and is the known author of the text. 'vipra' added to titles.",
+   "Weekday: 'roja 4' read as Wednesday (budhavāra, counting Sunday as day 1).",
+   "Place: removed the normalization to Bhaktapur. 'harikṣatre' (Harikṣetra) is not a usual name for Bhaktapur and may point to Harihara-kṣetra / Sonpur near Patna, so the identification is uncertain.",
+   "Notes: rewritten to explain the place problem and the unclear 'dharyanārāyaṇavatāse'. No scribe is named.",
+   "ce_approx: kept 1844. Pauṣa śukla of VS 1900 falls around Dec 1843 / Jan 1844."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvaidyagadādhara-",
+   "name": "Gadādhara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "vaidya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvaidyagadādharasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vaidyaviprācārya- ... vaṃgasena-",
+   "name": "Vaṅgasena",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "vaidya",
+    "vipra",
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vaidyaviprācāryaviracitāyāṃ vaṃgasenagraṃthaḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "vaidyagadādharasutavaidyaviprācāryaviracitāyāṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1900 sāla miti pauṣa śudi 13 roja 4",
+  "era": "VS",
+  "year": "1900",
+  "month": "Pauṣa",
+  "paksa": "śukla (śudi)",
+  "tithi": "13",
+  "weekday": "Wednesday (roja 4)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1844"
+ },
+ "place": {
+  "as_written": "bhagatpatnanagare harikṣatre dharyanārāyaṇavatāse",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribe, commissioner or owner is named. 'bhagatpatnanagare' could be Bhaktapattana (Bhaktapur), but 'harikṣatre' (= harikṣetre) is more typical of Harihara-kṣetra (Sonpur, near Patna, Bihar), so the place is left unidentified. 'dharyanārāyaṇavatāse' is unclear. It may be '(Dhairya/Dharma)nārāyaṇa-āvāse', 'at the residence (or temple) of ...nārāyaṇa'. It could refer to a deity's temple or to a person's house, so no person has been extracted from it. The catalogue date VS 1900 agrees with the colophon. Akṣara count 410264, śloka count 12820.",
+ "_meta": {
+  "reel": "A 220/21",
+  "model": "opus",
+  "cost_usd": 0.0735748,
+  "secs": 20.4
+ }
+}

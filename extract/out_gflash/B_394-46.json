@@ -1,0 +1,93 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīpuṣpadanta",
+   "name": "Puṣpadanta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "gaṃdharvarāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpuṣpadantaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmadviśveśvarasarasvatī",
+   "name": "Viśveśvarasarasvatī",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadviśveśvarasarasvatīcaraṇāravinda-madhukareṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "madhusūdanasarasvatī",
+   "name": "Madhusūdanasarasvatī",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "madhusūdanasarasvatī‥mākhyādhareṇa kecid (!) viracitā mahimākhyastutivyākhyā samāptā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīsiṃhanarsiṃha",
+   "name": "Siṃhanarasiṃha",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsiṃhanarsiṃhasurārcitas taṃ lilekha svārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "śrīmadviśveśvarasarasvatīcaraṇāravinda-madhukareṇa"
+  }
+ ],
+ "date": {
+  "as_written": "naipālikābde karanāganande māse site bhādrapade tuhīne",
+  "era": "NS",
+  "year": "982",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "tuhīne",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1862"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ",
+ "notes": "The chronogram kara-nāga-nanda denotes 982 (2-8-9 reversed). The scribe's name is read in the catalogue as Narasiṃha Siṃha, but written in verse as śrīsiṃhanarsiṃha[surārcita].",
+ "_meta": {
+  "reel": "B 394/46",
+  "model": "gemini-flash-latest",
+  "secs": 23.4,
+  "in_tok": 1020,
+  "out_tok": 3081
+ }
+}

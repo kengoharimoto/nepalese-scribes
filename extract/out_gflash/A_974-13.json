@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śṛīśrī jaya bhūpatīndra malladevasana",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śṛīśrī jaya bhūpatīndra malladevasana yāṅā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 821 phālguna kṛṣṇa trayodaśī",
+  "era": "NS",
+  "year": "821",
+  "month": "phālguna",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1701"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon commemorates the rathapratiṣṭhā of Mahābhairava performed by King Bhūpatīndra Malla on this date. Place of copying is identified as Bhaktapur in catalogue metadata based on the king, but is not written in the colophon text itself.",
+ "_meta": {
+  "reel": "A 974/13",
+  "model": "gemini-flash-latest",
+  "secs": 9.0,
+  "in_tok": 760,
+  "out_tok": 1161
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśvanātha vipreṇa",
+   "name": "Viśvanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "kāṃttipuragrāmeṇaḥ",
+   "evidence": "liṣitam idaṃ || pustaka || viśvanātha vipreṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī śāke 17 śrī samvat 18 tithaya 3 nakṣetre 2 yoge 5 vāre 3",
+  "era": "ŚS",
+  "year": "1718",
+  "month": "",
+  "paksa": "",
+  "tithi": "3",
+  "weekday": "3",
+  "nakshatra_yoga": "nakṣetre 2 yoge 5",
+  "ce_approx": "1796"
+ },
+ "place": {
+  "as_written": "kāṃttipuragrāmeṇaḥ",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The year is written split as 'śrī śāke 17 śrī samvat 18', meaning Śaka 1718.",
+ "_meta": {
+  "reel": "A 980/37",
+  "model": "gemini-flash-latest",
+  "secs": 6.2,
+  "in_tok": 874,
+  "out_tok": 859
+ }
+}

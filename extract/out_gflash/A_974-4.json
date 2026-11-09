@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śubhagānanṃdanādhena",
+   "name": "Śubhagānandanātha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śubhagānanṃdanādhena viracitāyāṃ manoramākhyāyāṃ vyākhyāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat || 970 miti jyeṣṭhaśudi || 14 || roja || 1",
+  "era": "NS",
+  "year": "970",
+  "month": "jyeṣṭha",
+  "paksa": "śudi",
+  "tithi": "14",
+  "weekday": "roja || 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1850"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The commentator Śubhagānandanātha is also qualified by the descriptive name or title 'prapraṃcasārasiṃharājaprakāśābhidhānena'. No scribe or patron is mentioned for this chapter colophon.",
+ "_meta": {
+  "reel": "A 974/4",
+  "model": "gemini-flash-latest",
+  "secs": 11.7,
+  "in_tok": 898,
+  "out_tok": 1466
+ }
+}

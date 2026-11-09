@@ -1,0 +1,225 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "surendravikramasāhā〈ha〉bāhādura",
+   "name": "Surendravikramaśāhabahādura",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "śrīlalitāpurinagarādhipati",
+    "mahārājādhirāja",
+    "thākula"
+   ],
+   "affiliation": "",
+   "residence": "Lalitāpurī",
+   "evidence": "śrīlalitāpurinagarādhipati[ḥ] śrīśrīmahārājādhi〈|| ۞||〉 rāja śrīśrīsurendravikramasāhā〈ha〉bāhādurasamasya(!) thākulasya(!) vijayarājya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jīvanārāyaṇa",
+   "name": "Jīvanārāyaṇa",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "kāśyapagotra",
+   "residence": "Ekakṣeṭola, Bakaṃbāhāla",
+   "evidence": "dānapati ekakṣeṭola, bakaṃbāhālayā kāśyapagotra jīvanārāyaṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "dhaṃcā 〈tha〉thakunī",
+   "name": "Dhaṃcāthakunī",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "kāśyapagotra",
+   "residence": "Ekakṣeṭola, Bakaṃbāhāla",
+   "evidence": "dhaṃcā 〈tha〉thakunī",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "sāhebasiṃha",
+   "name": "Sāhebasiṃha",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "kāśyapagotra",
+   "residence": "Ekakṣeṭola, Bakaṃbāhāla",
+   "evidence": "sāhebasiṃha thvayā bhāryyā, munīthakuṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "munīthakuṃ",
+   "name": "Munīthakuṃ",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sāhebasiṃha thvayā bhāryyā, munīthakuṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "kulabāhādūrasiṃha",
+   "name": "Kulabahādūrasiṃha",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "putra kulabāhādūrasiṃha",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "jugabahādurasiṃha",
+   "name": "Jugabahādurasiṃha",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvitīyaputra jugabahādurasiṃha",
+   "confidence": "high"
+  },
+  {
+   "pid": "p8",
+   "as_written": "jīvanarasiṃha",
+   "name": "Jīvanarasiṃha",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svapitā divaṃgata juo, jīvanarasiṃha",
+   "confidence": "high"
+  },
+  {
+   "pid": "p9",
+   "as_written": "kṛṣṇalakṣmī",
+   "name": "Kṛṣṇalakṣmī",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mātā kṛṣṇalakṣmī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p10",
+   "as_written": "rāmanārāyaṇa",
+   "name": "Rāmanārāyaṇa",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jyeṣṭhabhrātā, rāmanārāyaṇa, thvate svahma divaṃgata juopanisa nāmana",
+   "confidence": "high"
+  },
+  {
+   "pid": "p11",
+   "as_written": "śrīindrapatiju",
+   "name": "Indrapati",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Bubāhāla",
+   "residence": "",
+   "evidence": "guru, bubāhālayā vajrācārya, śrīindrapatiju julo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p12",
+   "as_written": "śubhadattadevena",
+   "name": "Śubhadattadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Mānadevasaṃskāritacakramahāvihāra",
+   "residence": "Lalitāpurī",
+   "evidence": "likhitam idaṃ pustakaṃ lalitāpurīya, śrīmānadevasaṃskāritacakramahāvihāragṛhādhivāsitavajrācāryyaśrīśubhadattadevena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p5",
+   "type": "wife_of",
+   "to": "p4",
+   "evidence": "sāhebasiṃha thvayā bhāryyā, munīthakuṃ"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "putra kulabāhādūrasiṃha"
+  },
+  {
+   "from": "p7",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "dvitīyaputra jugabahādurasiṃha"
+  },
+  {
+   "from": "p12",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "dānapati ekakṣeṭola, bakaṃbāhālayā kāśyapagotra jīvanārāyaṇa ... likhitam idaṃ pustakaṃ ... vajrācāryyaśrīśubhadattadevena"
+  },
+  {
+   "from": "p12",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīśrīsurendravikramasāhā〈ha〉bāhādurasamasya(!) thākulasya(!) vijayarājya"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsamvat 1914 śrīśāke samvat 1779 śrīnepālasamvat 977 miti adya jyeṣṭhamāse śuklapakṣe paṃcamyāyāṃ(!) tithau (jyeṣṭhā) nakṣatre, vṛddhiparadhruvayoge yathākarṇṇamahotre(!), bṛhaspativārasale(!)",
+  "era": "VS",
+  "year": "1914",
+  "month": "Jyeṣṭha",
+  "paksa": "śuklapakṣa",
+  "tithi": "5",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "jyeṣṭhā, vṛddhiparadhruva",
+  "ce_approx": "1857"
+ },
+ "place": {
+  "as_written": "lalitāpurīya, śrīmānadevasaṃskāritacakramahāvihāra",
+  "normalized": "Patan"
+ },
+ "purpose": "In memory and for the merit of deceased father Jīvanarasiṃha, mother Kṛṣṇalakṣmī, and elder brother Rāmanārāyaṇa (thvate svahma divaṃgata juopanisa nāmana), for wealth, sons, happiness in this world and Sukhāvatī in the afterlife",
+ "notes": "The date gives three eras concordantly: VS 1914, Śaka 1779, NS 977.",
+ "_meta": {
+  "reel": "A 113/4",
+  "model": "gemini-flash-latest",
+  "secs": 26.2,
+  "in_tok": 1545,
+  "out_tok": 4866
+ }
+}

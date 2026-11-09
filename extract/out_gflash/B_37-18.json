@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmajusyaṃ",
+   "name": "Rāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "ju"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmajusyaṃ kāyapanistaṃ coyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 620 caitra śuddhi 2",
+  "era": "NS",
+  "year": "620",
+  "month": "caitra",
+  "paksa": "śuddhi",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1500"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for his sons (kāyapanistaṃ)",
+ "notes": "",
+ "_meta": {
+  "reel": "B 37/18",
+  "model": "gemini-flash-latest",
+  "secs": 22.7,
+  "in_tok": 689,
+  "out_tok": 2306
+ }
+}

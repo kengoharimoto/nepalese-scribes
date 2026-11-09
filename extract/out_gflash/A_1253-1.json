@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śriharirudradevasya",
+   "name": "Harirudradeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "śrīvaṃtāgṛha",
+   "evidence": "śriharirudradevasya sūnunāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīharimādhavena",
+   "name": "Harimādhava",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "śrīvaṃtāgṛha",
+   "evidence": "rikṣitaṃ ... areṣika svārtha hetunāṃ, śrīharimādhavena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śriharirudradevasya sūnunāṃ, areṣika svārtha hetunāṃ, śrīharimādhavena"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 716 śrāvaṇakṛṣṇe, tṛtiyā pra carthyāyāṃ tithau, utrabhadranakṣetre dhṛtayoge ādityavāsale",
+  "era": "NS",
+  "year": "716",
+  "month": "Śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "tṛtīyā pra caturthī",
+  "weekday": "ādityavāsara",
+  "nakshatra_yoga": "utrabhadranakṣetra, dhṛtayoga",
+  "ce_approx": "1596"
+ },
+ "place": {
+  "as_written": "śrīvaṃtāgṛha",
+  "normalized": ""
+ },
+ "purpose": "svārtha",
+ "notes": "The colophon also records earlier performance dates related to Harisiddhi dance rites: NS 716 Āśvina kṛṣṇa 4 (Sunday, Rohiṇī/Mṛgaśiras, Parigha) and Kārttika śukla 11 (Sunday, Uttarabhadrapadā, Vajra).",
+ "_meta": {
+  "reel": "A 1253/1",
+  "model": "gemini-flash-latest",
+  "secs": 20.2,
+  "in_tok": 1128,
+  "out_tok": 3304
+ }
+}

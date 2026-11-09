@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhikṣuśrījīvarakṣasya",
+   "name": "Jīvarakṣa",
+   "roles": [
+    "donor",
+    "scribe"
+   ],
+   "titles": [
+    "bhikṣu"
+   ],
+   "affiliation": "Ṣaḍakṣarī Mahāvihāra",
+   "residence": "Ṣaḍakṣarī Mahāvihāra",
+   "evidence": "deyadharmmo yaṃ ... bhikṣuśrījīvarakṣasya ... svayaṃ likhitaṃm itiḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 547 agahanaśuddhi 15 (vā)ṣpativāśare",
+  "era": "NS",
+  "year": "547",
+  "month": "Agahana",
+  "paksa": "śukla",
+  "tithi": "15",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1427"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "yad atra puṇyaṃ tad bhavatv āmātāpitṛpūrvvaṅgamaṃ kṛtvā sarvasattvarāśer anuttarajñānaphalāptaye",
+ "notes": "The scribe and donor is the Buddhist monk Jīvarakṣa, resident of Ṣaḍakṣarī Mahāvihāra, who copied the text himself (svayaṃ likhitam).",
+ "_meta": {
+  "reel": "A 994/4",
+  "model": "gemini-flash-latest",
+  "secs": 14.1,
+  "in_tok": 1168,
+  "out_tok": 1923
+ }
+}

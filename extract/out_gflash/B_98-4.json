@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The quoted text contains only chapter and final work colophons with no scribal information, date, or names of human agents.",
+ "_meta": {
+  "reel": "B 98/4",
+  "model": "gemini-flash-latest",
+  "secs": 5.5,
+  "in_tok": 869,
+  "out_tok": 525
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mīmāṃṣakabhaṭṭadinakara",
+   "name": "Dinakara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mīmāṃsaka",
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mīmāṃṣakabhaṭṭadinakarasūnu",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "gāgābhaṭṭāparanāmakaviśveśvara",
+   "name": "Viśveśvara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gāgābhaṭṭāparanāmakaviśveśvarakṛto",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "mīmāṃṣakabhaṭṭadinakarasūnu"
+  }
+ ],
+ "date": {
+  "as_written": "sake 1796 saṃvat 1931 vaiśākhaśukla 9 maṃdavāsare",
+  "era": "ŚS",
+  "year": "1796 (ŚS) / 1931 (VS)",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "maṃdavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1874"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīsāṃbasadāśivāṛpaṇam astu",
+ "notes": "The colophon provides dates in both Śaka (1796) and Vikrama Saṃvat (1931). No scribe or commissioner is mentioned.",
+ "_meta": {
+  "reel": "A 517/2",
+  "model": "gemini-flash-latest",
+  "secs": 10.0,
+  "in_tok": 848,
+  "out_tok": 1630
+ }
+}

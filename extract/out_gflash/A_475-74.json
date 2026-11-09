@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "haribālāpurakarabhāradvājena",
+   "name": "Haribālāpurakara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Bhāradvāja gotra",
+   "residence": "",
+   "evidence": "hastākṣara sakhā haribālāpurakarabhāradvājena likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vaidyanāthabhaṭṭaloropanāmakasya",
+   "name": "Vaidyanātha",
+   "roles": [
+    "beneficiary",
+    "owner"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "upanāma Loro",
+   "residence": "",
+   "evidence": "vaidyanāthabhaṭṭaloropanāmakasya śubhaṃ bhavatu",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "hastākṣara sakhā haribālāpurakarabhāradvājena likhitaṃ || vaidyanāthabhaṭṭaloropanāmakasya śubhaṃ bhavatu"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1845 bhādrapdakṛṣṇa 11 budhau taddine",
+  "era": "VS",
+  "year": "1845",
+  "month": "bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "budhau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1788"
+ },
+ "place": {
+  "as_written": "kāśīpurīrājadhānīśrīviśveśvarasannidhyaśrīgaṃgāmahātīrthe",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "vaidyanāthabhaṭṭaloropanāmakasya śubhaṃ bhavatu",
+ "notes": "The scribe identifies himself as the friend (sakhā) of Vaidyanātha Bhaṭṭa, with the surname Bālāpurakara (a Maharashtrian surname) and gotra Bhāradvāja. Vaidyanātha has the title Bhaṭṭa and surname/alias (upanāma) Loro.",
+ "_meta": {
+  "reel": "A 475/74",
+  "model": "gemini-flash-latest",
+  "secs": 20.0,
+  "in_tok": 791,
+  "out_tok": 2880
+ }
+}

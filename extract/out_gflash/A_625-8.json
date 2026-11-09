@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayabhūpatīndramalladeva sana",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayabhūpatīndramalladeva sana cūkavāsadevapratiṣṭhā siddhāgniayutāhutiyajñayāṅāyā thva saṃphuli",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 825 bhādrapadaśukladaśamī mūla śaniścaravāra kuhnu",
+  "era": "NS",
+  "year": "825",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "śaniścaravāra",
+  "nakshatra_yoga": "mūla",
+  "ce_approx": "1705"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "cūkavāsadevapratiṣṭhā siddhāgniayutāhutiyajñayāṅāyā thva saṃphuli",
+ "notes": "The manuscript was copied for the performance of the consecration of courtyard deities and the siddhāgni ayutāhuti sacrifice by King Jayabhūpatīndra Malla of Bhaktapur.",
+ "_meta": {
+  "reel": "A 625/8",
+  "model": "gemini-flash-latest",
+  "secs": 9.5,
+  "in_tok": 872,
+  "out_tok": 1151
+ }
+}

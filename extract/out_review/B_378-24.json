@@ -1,0 +1,35 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Month field cleared: 'ṛtāṣādri(!)' is corrupt, and reading it as the month Āṣāḍha is only a guess. It now appears only in the notes, as one possible reading alongside a corrupt chronogram.",
+   "Notes: the colophon is now quoted as written ('yadi sudho mama sudho vā'), with the standard formula given as the probable intended reading.",
+   "No persons, date era, year or ce_approx changed. ŚS 1614 + 78 = 1692 CE is confirmed."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "ṛtāṣādri(!) śrīśāke 1614",
+  "era": "ŚS",
+  "year": "1614",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1692"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names no persons. 'ṛtāṣādri(!)' is marked corrupt by the cataloguer. It could be a word-numeral chronogram (ṛtu = 6, adri = 7, perhaps āśā = 10), but no right-to-left reading gives 1614 cleanly. It could also be a garbled month name (Āṣāḍha), but this is uncertain, so the month is left empty. The closing words 'yadi sudho mama sudho vā mama doṣo na dīyate' are a corrupt form of the usual scribal apology (yadi śuddham aśuddhaṃ vā mama doṣo na dīyate). ŚS 1614 = c. 1692 CE, which matches the catalogue field.",
+ "_meta": {
+  "reel": "B 378/24",
+  "model": "opus",
+  "cost_usd": 0.0500268,
+  "secs": 12.8
+ }
+}

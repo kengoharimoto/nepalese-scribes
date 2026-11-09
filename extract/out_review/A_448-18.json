@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Author confidence lowered from medium to low: the cataloguer marks †samudāyakara† as corrupt, and it may not be a personal name at all (it could be read as 'samudāya-kṛtā', i.e. 'compiled').",
+   "Pakṣa normalised to śukla: 'te(!)' is most likely 'site' (bright fortnight). This fits the Durgotsava, whose saptamī falls in Āśvina śukla.",
+   "Year field: ŚS 1683 put in 'year', with VS 1818 recorded in as_written and notes.",
+   "Place normalized to Tanahun (Tanahũ), western Nepal.",
+   "Notes updated: both eras confirmed consistent (1683+78 = 1818-57 = 1761 CE)."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "†samudāyakara†",
+   "name": "Samudāyakara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "†samudāyakara†kṛtā",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "āśvinaśya te(!) pakṣe saptamyāṃ ravivāsane || śrīśāke 1683 śri(!)saṃvat 1818",
+  "era": "ŚS",
+  "year": "1683",
+  "month": "Āśvina",
+  "paksa": "śukla (te(!) for site)",
+  "tithi": "saptamī",
+  "weekday": "Sunday (ravivāsara)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1761"
+ },
+ "place": {
+  "as_written": "tanahugrāma",
+  "normalized": "Tanahun"
+ },
+ "purpose": "",
+ "notes": "The author's name is marked corrupt by the cataloguer (†samudāyakara†). It may be a garbled personal name, or not a name at all: 'samudāya-kṛtā' would mean 'compiled'. 'te(!) pakṣe' is probably 'site pakṣe' (bright fortnight), which fits Durgāpūjā saptamī in Āśvina śukla. The two eras agree: ŚS 1683 and VS 1818 both give 1761 CE (Sept/Oct 1761). No scribe or commissioner is named. 'tanahugrāmaśubhabham (!) astu' should be read as 'tanahugrāme, śubham astu'.",
+ "_meta": {
+  "reel": "A 448/18",
+  "model": "opus",
+  "cost_usd": 0.5492256,
+  "secs": 26.9
+ }
+}

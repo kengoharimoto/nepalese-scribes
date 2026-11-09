@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayabhūpatīndramalladevasana",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayabhūpatīndramalladevasanayāṅā dina juroḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 821 phālguṇakṛṣṇa trayodaśī",
+  "era": "NS",
+  "year": "821",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1701"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon notes the date when King Jayabhūpatīndramalla conducted the chariot ritual (ratha) of Ākāśa Mahābhairava.",
+ "_meta": {
+  "reel": "B 191/12",
+  "model": "gemini-flash-latest",
+  "secs": 8.4,
+  "in_tok": 721,
+  "out_tok": 961
+ }
+}

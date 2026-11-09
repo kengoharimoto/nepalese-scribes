@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayabhūpatīndra malladevasana",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayabhūpatīndra malladevasana vikramacaritra pyākhana dayaka(5)se bijyāṅā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "mūlacuka",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "The colophon notes the composition of the drama Vikramacaritra by King Jayabhūpatīndra Malla in the Mūlacowk (Royal Palace, Bhaktapur).",
+ "_meta": {
+  "reel": "A 353/5",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 706,
+  "out_tok": 861
+ }
+}

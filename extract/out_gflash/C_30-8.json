@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñānanta",
+   "name": "Ananta",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdaivajñānantaśutarāmadaivajñaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rāmadaivajña",
+   "name": "Rāma",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmadaivajñaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bhairave",
+   "name": "Bhairava",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "dvijakula",
+   "residence": "Kāntipura",
+   "evidence": "liṣite dvijakuleṣu ya bhairave",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "daivajñānantaśuta"
+  }
+ ],
+ "date": {
+  "as_written": "navarasaṇagāptamite śake adhikhāṃkaśaśivikramākṛte || śuddhajyeṣṭhasitapakṣavedage nāgaṛkṣaśubhaviśvayogake || ... jñavāsare",
+  "era": "ŚS",
+  "year": "1769",
+  "month": "śuddhajyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "jñavāsara",
+  "nakshatra_yoga": "nāga, viśva",
+  "ce_approx": "1847"
+ },
+ "place": {
+  "as_written": "kāṃtipureṣu deśe",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "Both Śaka 1769 (navarasanagāpta-) and Vikrama 1904 (adhikhāṅkaśaśi-) are given; Jyeṣṭha śukla 4 on Jñavāsara (Wednesday) corresponds to 19 May 1847 CE.",
+ "_meta": {
+  "reel": "C 30/8",
+  "model": "gemini-flash-latest",
+  "secs": 21.2,
+  "in_tok": 783,
+  "out_tok": 3098
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "King's name normalized to stem 'Jitāmitramalla': honorific prefix 'jaya' and suffix '-deva' moved out of the name, and 'jaya' added to titles",
+   "Commissioner role kept but confidence lowered to medium: 'dayakā juroṃ' ('was made/performed by') may refer to the king's Jagannātha consecration (pratiṣṭhā) rather than to having the manuscript copied",
+   "Notes expanded: the unclear Newari line 'oguli chātasa hleyā', the conflict with the catalogue date, and the ce_approx reasoning"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayajitāmitramalladevasana",
+   "name": "Jitāmitramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati",
+    "jaya",
+    "deva"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumati jayajitāmitramalladevasana dayakā juroṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 802 kārttika śudi 9",
+  "era": "NS",
+  "year": "802",
+  "month": "kārttika",
+  "paksa": "śudi",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1681"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon reads samvat 802, but the catalogue gives NS 815. The catalogue may have taken the date from elsewhere, or misread it; the number 812 in the cataloguer's reference is a running folio number, not a year. Kārttika śudi 9 in NS 802 falls in Oct/Nov 1681, because the NS year begins in Kārttika, so 1681 is correct rather than 802+880=1682. Jitāmitra Malla ruled Bhaktapur c. 1673–1696, so both dates fall within his reign. The catalogue's place, Bhaktapur, is inferred from the king and is not stated in the colophon. 'dayakā juroṃ' (Newari, 'was made/established by') could describe the king's performance of the Jagannātha pratiṣṭhā itself rather than his having the copy made, so the commissioner role is uncertain. The final line 'oguli chātasa hleyā' is unclear; it may be an instruction about where the text or offerings are to be placed.",
+ "_meta": {
+  "reel": "A 1235/19 (31)",
+  "model": "opus",
+  "cost_usd": 0.0635228,
+  "secs": 17.6
+ }
+}

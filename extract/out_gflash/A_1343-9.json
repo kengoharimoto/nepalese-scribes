@@ -1,0 +1,83 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vaiyāsikyāṃ",
+   "name": "Vyāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vaiyāsikyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "(śrī)gaurīśaṃkara",
+   "name": "Gaurīśaṃkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "(śrī)gaurīśaṃkaraśrīdāmodaraśrīlakṣmīdharadaivajña(pāhāne) etair samāptīkṛtaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīdāmodara",
+   "name": "Dāmodara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdāmodaraśrīlakṣmīdharadaivajña(pāhāne) etair samāptīkṛtaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīlakṣmīdharadaivajña",
+   "name": "Lakṣmīdhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīlakṣmīdharadaivajña(pāhāne) etair samāptīkṛtaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nāgayor antare vedaḥ jāyate cāpahāyane | kṛṣṇapakṣe caturthyāṃ ca saṃyute maṅgale",
+  "era": "NS",
+  "year": "848",
+  "month": "cāpa",
+  "paksa": "kṛṣṇa",
+  "tithi": "caturthī",
+  "weekday": "maṅgalavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1728"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "parārddhaṃ; śrī3kṛṣṇaprīti",
+ "notes": "The chronogram 'nāgayor antare vedaḥ' indicates the year 848 (veda = 4 between two nāgas = 8). The month is given as cāpa (Dhanus). The cataloguer tentatively reads '(pāhāne)' after daivajña.",
+ "_meta": {
+  "reel": "A 1343/9",
+  "model": "gemini-flash-latest",
+  "secs": 21.5,
+  "in_tok": 921,
+  "out_tok": 3445
+ }
+}

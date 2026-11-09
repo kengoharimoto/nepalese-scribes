@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "puruṣottamaviracite",
+   "name": "Puruṣottama",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Vīsalanagara",
+   "evidence": "puruṣottamaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rāvalanārāyaṇātmaja",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "rāvala"
+   ],
+   "affiliation": "",
+   "residence": "Vīsalanagara",
+   "evidence": "rāvalanārāyaṇātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "tra. śivaśaṃkareṇa",
+   "name": "Śivaśaṅkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "tra."
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ tra. śivaśaṃkareṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "rāvalanārāyaṇātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1734 samaye āṣāḍha śu da 1 śukre",
+  "era": "VS",
+  "year": "1734",
+  "month": "āṣāḍha",
+  "paksa": "śuklapakṣa",
+  "tithi": "da 1",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1677"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "ātmapaṭhanārthaṃ paropakārārthaṃ ca",
+ "notes": "The author Puruṣottama is designated as the son of Rāvala Nārāyaṇa of Vīsalanagara. The title/abbreviation 'tra.' preceding Śivaśaṅkara likely stands for 'trivikrama', 'trivedī', or 'tripāṭhī'.",
+ "_meta": {
+  "reel": "A 1057/21",
+  "model": "gemini-flash-latest",
+  "secs": 9.7,
+  "in_tok": 777,
+  "out_tok": 1406
+ }
+}

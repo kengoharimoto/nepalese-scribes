@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñakeśaripaṇḍita",
+   "name": "Keśari",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "daivajña",
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñakeśaripaṇḍitaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "haridattena",
+   "name": "Haridatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ haridattena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "jyeṣṭha māse site pakṣe saptamyaṃ śukravāsare",
+  "era": "none",
+  "year": "",
+  "month": "Jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "yoginaṃ paṭhanārthakam",
+ "notes": "The catalogue records the scribe as 'Harī', but the colophon clearly states 'likhitaṃ haridattena'. No year is mentioned in the date.",
+ "_meta": {
+  "reel": "A 62/28",
+  "model": "gemini-flash-latest",
+  "secs": 15.6,
+  "in_tok": 792,
+  "out_tok": 1911
+ }
+}

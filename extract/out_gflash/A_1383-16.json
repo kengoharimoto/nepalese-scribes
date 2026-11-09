@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "remeśvara(!)",
+   "name": "Rāmeśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "remeśvara(!) liṣitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ṭi(!)kārāmaśarmaṇe",
+   "name": "Ṭikārāma",
+   "roles": [
+    "beneficiary",
+    "reader"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ṭi(!)kārāmaśarmaṇe paṭhanārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "remeśvara(!) liṣitaṃ || ṭi(!)kārāmaśarmaṇe paṭhanārthaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 16||97 kārtikavadi 5 tithau 5",
+  "era": "ŚS",
+  "year": "1697",
+  "month": "kārtika",
+  "paksa": "vadi",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1775"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "ṭi(!)kārāmaśarmaṇe paṭhanārthaṃ",
+ "notes": "The catalogue records the era as SAM, but the text explicitly reads 'śrīśāke 16||97'.",
+ "_meta": {
+  "reel": "A 1383/16",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 736,
+  "out_tok": 1073
+ }
+}

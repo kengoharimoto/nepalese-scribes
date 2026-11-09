@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "durgānāthaśarmābhijñaḥ",
+   "name": "Durgānātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kavacam .. .. durgānāthaśarmābhijñaḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke viyadagninaga .. .. dīdhitiparimitena māse īśānatithau nāgarkṣe māheyadine",
+  "era": "ŚS",
+  "year": "viyadagninaga ..",
+  "month": "",
+  "paksa": "",
+  "tithi": "īśānatithi (11)",
+  "weekday": "māheyadina (Tuesday)",
+  "nakshatra_yoga": "nāgarkṣa (Āśleṣā)",
+  "ce_approx": "1808"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The Śaka year is expressed in chronogram with lacunae: viyad (0) agni (3) naga (7) [indu / bhū / etc.? 1], which likely yields Śāke 1730 (ca. 1808 CE). Māheya refers to Bhaumavāra (Tuesday).",
+ "_meta": {
+  "reel": "A 472/3",
+  "model": "gemini-flash-latest",
+  "secs": 8.2,
+  "in_tok": 746,
+  "out_tok": 1147
+ }
+}

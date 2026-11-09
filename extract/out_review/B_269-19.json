@@ -1,0 +1,36 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Era of each date stated in the year field (VS 1915; NS 1015) instead of a bare 'unspecified' pair. The era field stays 'unspecified' because the schema allows only one value.",
+   "ce_approx refined: VS 1915 Pauṣa vadi falls in Dec 1858 or Jan 1859; NS 1015 Mārgaśira vadi falls in about Nov/Dec 1894.",
+   "Notes expanded: the 'sasaṃpūṇa yānā' (Newari: 'completed') clause goes with the NS date, the two eras conflict by about 36 years, the śloka count is recorded, and the weekdays have not been checked.",
+   "Persons confirmed: none, because no human is named."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1915 pauṣavadi 4 roja 1 mā śubham || samvat 1015 maṃgaśilavadi 4 ro 1 sasaṃpūṇa yānā",
+  "era": "unspecified",
+  "year": "1915 (VS) / 1015 (NS)",
+  "month": "Pauṣa (VS date) / Mārgaśira (maṃgaśila, NS date)",
+  "paksa": "vadi (kṛṣṇa)",
+  "tithi": "4",
+  "weekday": "roja 1 / ro 1 = Sunday (both dates)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1858/59 (VS 1915) / 1894 (NS 1015)"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon has two dates that do not agree. (1) VS 1915, Pauṣa vadi 4, Sunday, followed by 'śubham': this is about Dec 1858 or Jan 1859 CE. (2) NS 1015, Mārgaśira vadi 4, Sunday, followed by the Newari 'sasaṃpūṇa yānā' ('completed'): this is about Nov/Dec 1894 CE. The two are about 36 years apart. They also run backwards in the month sequence: Mārgaśira comes before Pauṣa. The NS clause states that the work was completed, so it most likely dates this copy, and the VS date may come from the exemplar. A scribal error in one of the two years is also possible. The weekdays have not been checked against either date. The catalogue lists both NS 1015 and VS 1915. 'ślokajmā 687' (Newari: 'total ślokas 687') gives the length of the text. 'po(!)ṣa' is a cataloguer's mark for 'pauṣa'. No human person is named.",
+ "_meta": {
+  "reel": "B 269/19",
+  "model": "opus",
+  "cost_usd": 0.0622868,
+  "secs": 17.0
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīlakṣmīpati",
+   "name": "Lakṣmīpati",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīlakṣmīpativiracito",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke || 1614 || bhādrapadaśuklasaptamītithau bhaumavāre likhitaṃ || saṃvat || 1852 ||",
+  "era": "ŚS",
+  "year": "1614",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "saptamī",
+  "weekday": "bhaumavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1795"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śāke 1614 and Saṃvat 1852 are recorded; VS 1852 corresponds to 1795 CE (Śāke 1717), where Bhādrapada śukla 7 indeed fell on a Tuesday (bhaumavāra), suggesting '1614' might be a scribal error for Śāke 1717.",
+ "_meta": {
+  "reel": "A 436/3",
+  "model": "gemini-flash-latest",
+  "secs": 9.7,
+  "in_tok": 714,
+  "out_tok": 1488
+ }
+}

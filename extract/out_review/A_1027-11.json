@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date: 'vūddhike' read as the yoga Vṛddhi and added to nakshatra_yoga; 'sayyāsane' left uninterpreted and flagged in notes",
+   "Date as_written extended to include 'sayyāsane vūddhike'",
+   "Notes rewritten: chronogram check (1-5-5 read right to left = 551) and the unclear parts of the date stated explicitly"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāvar(!) dvāranāgasya",
+   "name": "Dvāranāga",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtir iyaṅ kāvar(!) dvāranāgasya",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nepāle śaśivāṇabhūtasahite nepālasamvatsare āṣāḍhe śitapakṣavahnitithike sayyāsane vūddhike | āditye",
+  "era": "NS",
+  "year": "551",
+  "month": "Āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "Sunday",
+  "nakshatra_yoga": "Vṛddhi (vūddhike), uncertain",
+  "ce_approx": "1431"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The Kundamālā's author appears as 'kāvar(!) dvāranāgasya'. Read 'kāvar' as kaveḥ ('of the poet'). The play is usually attributed to Dhīranāga, sometimes to Diṅnāga. Dvāranāga is probably a corruption of Dhīranāga; it is kept as written. Chronogram: śaśi = 1, vāṇa = 5, bhūta = 5. Read right to left this gives NS 551 (c. 1431 CE), which matches the catalogue. vahnitithi means tṛtīyā (the 3rd); śitapakṣa means śuklapakṣa (the bright half); āditye means Sunday. 'sayyāsane' (śayyāsane?) is unclear. It may be a corrupt nakṣatra name or part of the wordplay in the verse. 'vūddhike' probably refers to the yoga Vṛddhi. The date verse plays on the subject of the play, Sītā's banishment. No scribe, commissioner or owner is named. The other colophons in the manuscript (Rāmāyaṇasāvitrī, Pañcavaktrastuti, Hariharātmakastava from the Harivaṃśa) contain no personal data.",
+ "_meta": {
+  "reel": "A 1027/11",
+  "model": "opus",
+  "cost_usd": 0.5566135999999999,
+  "secs": 24.7
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāsirājasya",
+   "name": "Kāśīrāja",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāsirājasya svārthena",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat māsaṃ [[kra]]māllekhyaṃ saptīpañcaścaturthakaṃ (!) vaiśāṣapūrṇṇamāvāśyāṃ (!) śānniścaleṣu(!)",
+  "era": "NS",
+  "year": "754",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1634"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtha",
+ "notes": "The chronogram specifies 'kramāl lekhyaṃ' (written in natural order: saptī-pañca-caturthaka = 754). The text reads 'yogaśataṃ samālikhya puraco (!) kāsirājasya svārthena tā iti', where 'puraco' is obscure and Kāśīrāja is either the copyist copying for his own use or having it copied for his own use.",
+ "_meta": {
+  "reel": "B 39/6",
+  "model": "gemini-flash-latest",
+  "secs": 12.8,
+  "in_tok": 752,
+  "out_tok": 1390
+ }
+}

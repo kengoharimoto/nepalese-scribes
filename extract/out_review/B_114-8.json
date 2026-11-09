@@ -1,0 +1,69 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. Added a note that the wrote_for relation is inferred: the colophon puts the scribe's statement next to the ownership statement but does not say outright that the copy was made for Tārānātha."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsuṃdarānandena",
+   "name": "Sundarānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃʼ śrīsuṃdarānandena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrītārānāthaśarmaṇodaḥ",
+   "name": "Tārānātha",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrītārānāthaśarmaṇodaḥ pustaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "likhitaṃʼ śrīsuṃdarānandena śrītārānāthaśarmaṇodaḥ pustaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The words 'śrītārānāthaśarmaṇodaḥ pustaṃ' should be read as 'śrītārānāthaśarmaṇo 'daḥ pustakam', meaning 'this book belongs to Tārānātha Śarman'. The wrote_for relation is inferred: the scribe's statement stands next to the ownership statement. The colophon has no date. 'ṣaººgama' in the title is an abbreviation by the cataloguer. The verse count is given as 1100 ślokas.",
+ "_meta": {
+  "reel": "B 114/8",
+  "model": "opus",
+  "cost_usd": 0.0510988,
+  "secs": 10.6
+ }
+}

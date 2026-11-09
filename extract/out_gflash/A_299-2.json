@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīhemantamallavarmmaṇā",
+   "name": "Hemantamalla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "varmā"
+   ],
+   "affiliation": "mārttaṇḍānvaya",
+   "residence": "",
+   "evidence": "hemantamallo [ʼ]likhat",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "naipālike [ʼ]bde rasayugalagajaiḥ saṃmite bhādrakṛṣṇe vairiñcaḥ sutithau hayoḍuniyutau vyāghatake bhārggave",
+  "era": "NS",
+  "year": "826",
+  "month": "Bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "vairiñca",
+  "weekday": "bhārgava",
+  "nakshatra_yoga": "hayoḍu (Aśvinī), vyāghāta",
+  "ce_approx": "1706"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīśrīśrīsveṣṭadevatāprītyarthaṃ",
+ "notes": "The chronogram 'rasa-yugala-gaja' corresponds to 826 NS. Pārāśarya (Vyāsa) is invoked as the traditional narrator/author (pārāśaryamukhodgataṃ) but omitted here as a mythical sage.",
+ "_meta": {
+  "reel": "A 299/2",
+  "model": "gemini-flash-latest",
+  "secs": 8.4,
+  "in_tok": 883,
+  "out_tok": 1363
+ }
+}

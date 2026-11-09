@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sumati jayajitāmitramalladevasa",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jayajitāmitramalladevasa dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 815 pauṣavadi 4 thvakuhnu",
+  "era": "NS",
+  "year": "815",
+  "month": "pauṣa",
+  "paksa": "vadi",
+  "tithi": "4",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1695"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The manuscript was caused to be made/copied (dayakā juroṃ) by King Sumati Jayajitāmitra Malla of Bhaktapur.",
+ "_meta": {
+  "reel": "A 1235/19 (12)",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 706,
+  "out_tok": 789
+ }
+}

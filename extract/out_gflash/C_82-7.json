@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pūrṇṇacandra",
+   "name": "Pūrṇacandra",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ācārya pūrṇṇacandra viracitāyāḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīlakṣmīkāmadevasya",
+   "name": "Lakṣmīkāmadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rajādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rajādhirāja parameśvara paramabhaṭṭārakaḥ śrīlakṣmīkāmadevasya vijayarājyeḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "somara…… (2) .. lekhikena",
+   "name": "Somara...",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "somara…… (2) .. lekhikena likhitanna itti",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "śrīlakṣmīkāmadevasya vijayarājyeḥ | śrīkopravalabhya || || somara…… (2) .. lekhikena likhitanna itti"
+  }
+ ],
+ "date": {
+  "as_written": "a hṛ pta ... punarvasunakṣatre",
+  "era": "NS",
+  "year": "154",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "punarvasu",
+  "ce_approx": "1034"
+ },
+ "place": {
+  "as_written": "śrīkopravalabhya",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is expressed in letter-numerals (akṣarapallī): a (100) hṛ (50) pta (4) = NS 154, corresponding to the reign of Lakṣmīkāmadeva (ca. 1024–1040 CE). The scribe's name is broken after 'somara…'. 'śrīkopravalabhya' is likely a toponym in the ablative/locative.",
+ "_meta": {
+  "reel": "C 82/7",
+  "model": "gemini-flash-latest",
+  "secs": 10.7,
+  "in_tok": 779,
+  "out_tok": 1816
+ }
+}

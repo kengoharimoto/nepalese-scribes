@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "premarāja",
+   "name": "Premarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "premarājalikhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 753 bhādrapadaśudi",
+  "era": "NS",
+  "year": "753",
+  "month": "bhādrapada",
+  "paksa": "śudi",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1633"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The tithi is omitted after 'bhādrapadaśudi'.",
+ "_meta": {
+  "reel": "B 380/19",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 736,
+  "out_tok": 707
+ }
+}

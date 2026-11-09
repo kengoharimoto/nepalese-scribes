@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhuvaneśvara bhaṭṭarāī",
+   "name": "Bhuvaneśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭarāī"
+   ],
+   "affiliation": "",
+   "residence": "pyūṣā",
+   "evidence": "bhuvaneśvara bhaṭṭarāī pyūṣā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 2021 śrī śāke 1886 bhādra gate 1 āita bāra",
+  "era": "VS",
+  "year": "2021",
+  "month": "bhādra",
+  "paksa": "",
+  "tithi": "gate 1",
+  "weekday": "āita bāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1964"
+ },
+ "place": {
+  "as_written": "pyūṣā",
+  "normalized": "Pyūkhā"
+ },
+ "purpose": "",
+ "notes": "Date given in both Vikrama Saṃvat (2021) and Śaka Saṃvat (1886) with solar calendar day (gate 1).",
+ "_meta": {
+  "reel": "A 1172/21",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 708,
+  "out_tok": 870
+ }
+}

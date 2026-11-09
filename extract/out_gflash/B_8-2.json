@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdhanapatiśarmmaṇā",
+   "name": "Dhanapati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdhanapatiśarmmaṇā likhitam idaṃ pustakam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "lasaṃ 292 āśvinakṛṣṇaṣaṣṭhyāṃ (kuje",
+  "era": "LS",
+  "year": "292",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "ṣaṣṭhī",
+  "weekday": "kuja",
+  "nakshatra_yoga": "",
+  "ce_approx": "1411"
+ },
+ "place": {
+  "as_written": "(kujesura)..(grāme)",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The weekday and place reading is tentative due to damage/lacunae: '(kujesura)..(grāme)'.",
+ "_meta": {
+  "reel": "B 8/2",
+  "model": "gemini-flash-latest",
+  "secs": 7.9,
+  "in_tok": 809,
+  "out_tok": 947
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīśrīvidyānandanātha",
+   "name": "Vidyānandanātha",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "śāmbhavācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśāmbhavācārya śrīśrīśrīvidyānandanāthaśrīgirutaccaraṇakamalenivāsinā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kāruṇyānandanāthena",
+   "name": "Kāruṇyānandanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāruṇyānandanāthena kṛtāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śrīśrīśrīvidyānandanāthaśrīgirutaccaraṇakamalenivāsinā kāruṇyānandanāthena"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 808 phālguṇa śuddhi 14",
+  "era": "NS",
+  "year": "808",
+  "month": "phālguṇa",
+  "paksa": "śukla",
+  "tithi": "14",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1688"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Fol. 64v contains the chapter colophon of Śambhukramadīpikā naming Kāruṇyānandanātha (disciple of Vidyānandanātha) as author. Fol. 65v records the date of completion of copying in Newari (saṃpūrṇayāṅā divasa).",
+ "_meta": {
+  "reel": "A 248/45",
+  "model": "gemini-flash-latest",
+  "secs": 9.3,
+  "in_tok": 817,
+  "out_tok": 1505
+ }
+}

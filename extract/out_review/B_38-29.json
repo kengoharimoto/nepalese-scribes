@@ -1,0 +1,47 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. Added a note that the parenthesised string could be the cataloguer's transcription of what the manuscript actually reads, not a separate name, and that the CE conversion assumes the NS era, which the colophon does not state."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "yurarvva(6)ra",
+   "name": "Yurarvvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "(yurarvva(6)ra) na coyā",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ (865) aṣāḍha(śukla) a[[ṣṭamī]] ādityavāro",
+  "era": "NS",
+  "year": "865",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "aṣṭamī",
+  "weekday": "ādityavāra (Sunday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1745"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is not written. NS is assumed because the colophon uses the Newari 'coyā' and the year number is low (NS 865 = c. 1745 CE). 'na coyā' is the Newari agentive 'written by', so the word before it should be the scribe's name. It is quoted as '(yurarvva(6)ra)', running across the break to line 6. That form is corrupt and unidentified, perhaps a garbled personal name. It is also possible that the parenthesis is the cataloguer's report of what the manuscript actually has in place of the normalised 'ādityavāro'. In that case the scribe's name is lost or merged into it. The weekday has not been checked against the tithi. 'Gorakṣa' is part of the title, so it is not listed as a person.",
+ "_meta": {
+  "reel": "B 38/29",
+  "model": "opus",
+  "cost_usd": 0.0547788,
+  "secs": 13.3
+ }
+}

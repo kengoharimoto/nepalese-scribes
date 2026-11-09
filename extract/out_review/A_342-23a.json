@@ -1,0 +1,34 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Year reread as NS 854 (CE 1734), not 804: 'sara' is most likely śara, the standard bhūtasaṃkhyā word for 5 (the arrows of Kāma). Nothing in the colophon supports reading it as 0. The catalogue's 804 / 1684 is recorded in the notes.",
+   "Notes expanded: 'dā' is Newari for 'year'; possible readings of 'dava vera macoyāḥ' added."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 8 sara 4 dā",
+  "era": "NS",
+  "year": "854",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1734"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is written as a mix of digits and a number-word: '8 sara 4'. 'sara' = śara, which stands for 5, so with the digits in written order the year is NS 854 = CE 1734. The catalogue gives NS 804 (CE 1684), apparently taking 'sara' as zero, but śara is not a standard word for 0. If the word-numeral convention (right to left) were applied the year would be 458, which is implausible for pracalita script. Either 804 or 854 fits the script. The digits should be checked on the manuscript. 'dā' is Newari for 'year'. In 'dava vera macoyāḥ', 'vera' is probably Skt. velā 'time' and 'coyā' means 'written'. 'macoyāḥ' could be ma- + coyā 'written by/at' or the negative 'not written'. The phrase is unclear, and no name of scribe, owner or king appears.",
+ "_meta": {
+  "reel": "A 342/23a",
+  "model": "opus",
+  "cost_usd": 0.052438799999999994,
+  "secs": 14.6
+ }
+}

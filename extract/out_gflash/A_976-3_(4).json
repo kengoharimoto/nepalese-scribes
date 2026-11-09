@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devīdharavatā",
+   "name": "Devīdhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ devīdharavatā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1943 miti sāla bhādra vadi 8 ro 1 tadine",
+  "era": "VS",
+  "year": "1943",
+  "month": "bhādra",
+  "paksa": "vadi",
+  "tithi": "8",
+  "weekday": "ro 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1886"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "ro 1 indicates Sunday (ravivāra).",
+ "_meta": {
+  "reel": "A 976/3 (4)",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 679,
+  "out_tok": 762
+ }
+}

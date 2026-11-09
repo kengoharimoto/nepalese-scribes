@@ -1,0 +1,107 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Names kept in their attested Newari forms: Yogamān, Dhijamān Siṃha, Buddhimān Siṃha (not a Sanskritised 'Yogamāna').",
+   "Buddhimān Siṃha is the person the book was written and given to ('-yāta thva pustaka coyā viyā jula'). As the likely dānapati he gets commissioner + donor + owner instead of plain beneficiary.",
+   "Dhijamān Siṃha: the colophon is unclear whether he is a co-dānapati or is named only to identify his brother. He keeps commissioner + donor, but at medium confidence.",
+   "Residence: 'Maṃgala jeyā' is not part of a place name. The residence is reduced to Asaṃ (Asan) Ṭol, and the unclear words are explained in notes.",
+   "wrote_for relation now runs from the scribe to Buddhimān Siṃha, the recipient. A wrote_for link to Dhijamān Siṃha is kept at lower certainty.",
+   "Weekday: roja 4 is given as Wednesday.",
+   "Place: Ratnakīrtivihāra is identified as Makhan Bahal, Kathmandu."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvajrācāryayogamān(vilāsāt)",
+   "name": "Yogamān",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Ratnakīrtivihāra",
+   "residence": "Kāntipurī (Kathmandu)",
+   "evidence": "śrīvajrācāryayogamānvilāsāt likhāpi (!)",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "tulādhara dhijamān siṃha",
+   "name": "Dhijamān Siṃha",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "tulādhara"
+   ],
+   "affiliation": "",
+   "residence": "Asaṃ Ṭol (Asan, Kathmandu)",
+   "evidence": "dānapati asaṃṭolahiti maṃgala jeyā tulādhara dhijamān siṃha",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "buddhimān siṃhayāta",
+   "name": "Buddhimān Siṃha",
+   "roles": [
+    "commissioner",
+    "donor",
+    "owner"
+   ],
+   "titles": [
+    "tulādhara"
+   ],
+   "affiliation": "",
+   "residence": "Asaṃ Ṭol (Asan, Kathmandu)",
+   "evidence": "bhātṛ buddhimān siṃhayāta thva pustaka coyā viyā jula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "brother_of",
+   "to": "p2",
+   "evidence": "dhijamān siṃha bhātṛ buddhimān siṃhayāta"
+  },
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "buddhimān siṃhayāta thva pustaka coyā viyā jula"
+  },
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "dānapati ... tulādhara dhijamān siṃha bhātṛ buddhimān siṃhayāta ... coyā viyā jula"
+  }
+ ],
+ "date": {
+  "as_written": "śubha saṃvat 1016 śrāvaṇaśukla 14 roja 4 sasidhayakā",
+  "era": "NS",
+  "year": "1016",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "14",
+  "weekday": "roja 4 (Wednesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1896"
+ },
+ "place": {
+  "as_written": "naipāladeśe sthitakāṃtipuryāṃ śrīratnakīrttivihāranāmnā",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "written and given to the dānapati Buddhimān Siṃha (brother of Dhijamān Siṃha)",
+ "notes": "The era is not named, but 'saṃvat 1016' with Newari phrasing and a Tulādhara patron fits NS: 1016 + 880 = 1896 CE. 'likhāpi' (!) usually means 'caused to be written', but the Newari line 'coyā viyā jula' ('wrote and gave') points to Yogamān as the scribe, which agrees with the catalogue's tentative 'Scribe: Yogamān Vajrācārya ?'. The verse is corrupt and unmetrical. 'asaṃṭolahiti maṃgala jeyā' is unclear: Asaṃ Ṭol is Asan in Kathmandu, and 'hiti' (water conduit) may be a locality, but 'maṃgala jeyā' cannot be resolved; it may be part of a name or a locality. The grammar leaves it open whether the dānapati is Dhijamān Siṃha alone (giving the book to his brother), both brothers, or Buddhimān Siṃha. The tulādhara title for Buddhimān Siṃha is inferred from the family. 'sasidhayakā' is probably a slip for 'siddhayakā' (completed). Ratnakīrtivihāra is Makhan Bahal, Kathmandu.",
+ "_meta": {
+  "reel": "A 140/7",
+  "model": "opus",
+  "cost_usd": 0.1023228,
+  "secs": 29.9
+ }
+}

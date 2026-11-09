@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayabhūpatīndramalladeva",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayabhūpatīndramalla(2)deva gāḍe bijyāṅāva gāḍebhairavapūjā yāse bijyāṅā dina",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 835 pauṣavadi 14 arddhodayakuhnu",
+  "era": "NS",
+  "year": "835",
+  "month": "pauṣa",
+  "paksa": "vadi",
+  "tithi": "14",
+  "weekday": "",
+  "nakshatra_yoga": "arddhodaya",
+  "ce_approx": "1715"
+ },
+ "place": {
+  "as_written": "gāḍe",
+  "normalized": ""
+ },
+ "purpose": "gāḍebhairavapūjā yāse bijyāṅā dina",
+ "notes": "The colophon commemorates the day King Jayabhūpatīndramalladeva went to Gāḍe to perform the Gāḍebhairavapūjā on the auspicious day of Ardhodaya.",
+ "_meta": {
+  "reel": "A 236/4",
+  "model": "gemini-flash-latest",
+  "secs": 8.6,
+  "in_tok": 756,
+  "out_tok": 1233
+ }
+}

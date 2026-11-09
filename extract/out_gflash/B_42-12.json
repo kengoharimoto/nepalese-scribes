@@ -1,0 +1,80 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "laugākṣibhāskara",
+   "name": "Laugākṣibhāskara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahopādhyāyalaugākṣibhāskaraviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "durgādattena",
+   "name": "Durgādatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "",
+   "residence": "Vārāṇasī",
+   "evidence": "durgādattena sūriṇā || likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "ravināthena",
+   "name": "Ravinātha",
+   "roles": [
+    "commentator",
+    "corrector"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ravināthena tajjena(!) asmin granthe suṭippaṇam || tat kṛtaṃ nyastam etac ca śodhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "ravināthena tajjena"
+  }
+ ],
+ "date": {
+  "as_written": "iti saṃvat 1921 / saṃvat 1924",
+  "era": "VS",
+  "year": "1921 / 1924",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1864 / 1867"
+ },
+ "place": {
+  "as_written": "vārāṇasīṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "svapāṭhārthaṃ; dvijahetave",
+ "notes": "The manuscript was copied by Durgādatta in VS 1921 (1864 CE) in Vārāṇasī for his own study (svapāṭhārthaṃ). His son Ravinātha subsequently added glosses/commentary (suṭippaṇam) and corrected it in VS 1924 (1867 CE) for the benefit of Brahmins (dvijahetave).",
+ "_meta": {
+  "reel": "B 42/12",
+  "model": "gemini-flash-latest",
+  "secs": 10.4,
+  "in_tok": 874,
+  "out_tok": 1583
+ }
+}

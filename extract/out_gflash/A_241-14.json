@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmat trimallaṃvinā",
+   "name": "Trimalla",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmat trimallaṃvināviracitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author/commentator name appears corrupt as 'trimallaṃvināviracitaṃ' (fol. 15r10), likely a scribal corruption for 'trimallakavinā viracitaṃ' or 'trimallena viracitaṃ'. The root work is attributed to 'śrīmadbhāṣyakāra' (Rāmānuja).",
+ "_meta": {
+  "reel": "A 241/14",
+  "model": "gemini-flash-latest",
+  "secs": 10.8,
+  "in_tok": 682,
+  "out_tok": 1443
+ }
+}

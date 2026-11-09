@@ -1,0 +1,160 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Author name given as 'Anubhūtisvarūpa'; 'ācārya' kept only in titles",
+   "Added Priyaṃvada (low confidence), son of Bhavānīdāsa ('tatputro hi priyamvadaḥ'). Vīrabhadra and Hariśaṅkara now listed as his sons, not Bhavānīdāsa's",
+   "Vīrabhadra and Hariśaṅkara lowered to low confidence; Hariśaṅkara may be two people, Hari and Śaṅkara",
+   "Vidyānanda and Kabhocā Bhāju changed from relative_only/owner to 'other' with low confidence. The Newari note cannot be read with certainty, and 'vidyānaṃdayā' is probably a genitive ('of Vidyānanda')",
+   "Notes extended: the two month names agree, the verse date is garbled, the unnamed son in the verse may be the scribe, and Chatrasiṃha does not appear"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīparamahaṃsaparivrājakānubhūtisvarūpācārya",
+   "name": "Anubhūtisvarūpa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramahaṃsa",
+    "parivrājaka",
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīparamahaṃsaparivrājakānubhūtisvarūpācāryaviracitāyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrībhavānidāsa",
+   "name": "Bhavānīdāsa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "Upamanyuvaṃśa",
+   "residence": "",
+   "evidence": "śrīupamanyuvaṃśatilakaḥ ... nāmnā śrībhavānidāsarabhavat",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "priyamvadaḥ",
+   "name": "Priyaṃvada",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "Upamanyuvaṃśa",
+   "residence": "",
+   "evidence": "tatputro hi priyamvadaḥs tu",
+   "confidence": "low"
+  },
+  {
+   "pid": "p4",
+   "as_written": "vīro hi bhadro",
+   "name": "Vīrabhadra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "Upamanyuvaṃśa",
+   "residence": "",
+   "evidence": "tadd hi kūre sādhavaḥ || jyāyān | vīro hi bhadro",
+   "confidence": "low"
+  },
+  {
+   "pid": "p5",
+   "as_written": "hariḥ saṅkaro",
+   "name": "Hariśaṅkara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "Upamanyuvaṃśa",
+   "residence": "",
+   "evidence": "tadanu hariḥ saṅkaro sarvvavettā",
+   "confidence": "low"
+  },
+  {
+   "pid": "p6",
+   "as_written": "śrī vidyānaṃ dayā",
+   "name": "Vidyānanda",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī vidyānaṃ dayā kabho cā bhāju nasya ṅā juroḥ",
+   "confidence": "low"
+  },
+  {
+   "pid": "p7",
+   "as_written": "kabho cā bhāju",
+   "name": "Kabhocā",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "bhāju"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kabho cā bhāju nasya ṅā juroḥ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "nāmnā śrībhavānidāsarabhavat ... tatputro hi priyamvadaḥ"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "tadd hi kūre sādhavaḥ || jyāyān | vīro hi bhadro"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "tadanu hariḥ saṅkaro"
+  },
+  {
+   "from": "p5",
+   "type": "brother_of",
+   "to": "p4",
+   "evidence": "jyāyān | vīro hi bhadro, tadanu hariḥ saṅkaro"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 883 miti jyeṣṭhakṛṣna, tradasi, kuhnu",
+  "era": "NS",
+  "year": "883",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1763"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue names Chatrasiṃha as scribe, but the name does not appear in the quoted colophon. The colophon has two dates. The verse date reads 'āṣāḍhakṛṣṇapakṣe caturarāsigate raviravaśuravigate samvat'. It is garbled: perhaps a corrupt chronogram, perhaps a weekday such as ravivāra, but it cannot be read. The prose date reads NS 883 jyeṣṭha kṛṣṇa 13 (trayodaśī), followed by 'āṣāḍhasya'. The two month names do not conflict: kṛṣṇapakṣa āṣāḍha in the pūrṇimānta reckoning is the same fortnight as jyeṣṭha kṛṣṇa in the amānta reckoning. NS 883 = c. 1763 CE (May–June). The verse is a genealogy of the Upamanyu lineage: Bhavānīdāsa; his son Priyaṃvada ('priyaṃvada' could also be an epithet, 'sweet-speaking', of an unnamed son); in that family the elder Vīrabhadra, then Hari(-)śaṅkara (one person or two); a brother whose name begins with Śiva ('tattrātā śivapūrvvanāma' = tadbhrātā); and his unnamed son ('tatsunu ... satsaṃpradāyakaviḥ'). That unnamed son is probably the scribe or the person behind this copy. The final Newari line ('vidyānaṃ dayā kabho cā bhāju nasya ṅā juroḥ') is corrupt. 'Vidyānandayā' looks like a genitive. 'nasya ṅā juro' might be nyāṅā julo ('was bought'), which would make this a sale or ownership note, but that is uncertain. Kabhocā could also be a place or a misreading. The roles of Vidyānanda and Kabhocā are therefore left as 'other'.",
+ "_meta": {
+  "reel": "A 580/8",
+  "model": "opus",
+  "cost_usd": 0.6818936,
+  "secs": 61.7
+ }
+}

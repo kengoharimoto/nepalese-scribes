@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon text contains only liturgical formulas (āśaṃsāvidhi) with placeholder names (amukamalladeva, where amuka = 'so-and-so', and generic jajamāna/jajamānī). No historical persons, scribes, or dates are mentioned.",
+ "_meta": {
+  "reel": "B 380/21",
+  "model": "gemini-flash-latest",
+  "secs": 9.1,
+  "in_tok": 785,
+  "out_tok": 842
+ }
+}

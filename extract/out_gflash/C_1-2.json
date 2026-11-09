@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmacchaṅkaradevasya",
+   "name": "Śaṅkaradeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmacchaṅkaradevasya vijayaikarājye",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 100 [+] 90 [+] 7 [=197] phālguna(!)kṛṣṇaṣaṣṭhamyāṃ",
+  "era": "NS",
+  "year": "197",
+  "month": "phālguna",
+  "paksa": "kṛṣṇa",
+  "tithi": "ṣaṣṭhī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1077"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "C 1/2",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 829,
+  "out_tok": 808
+ }
+}

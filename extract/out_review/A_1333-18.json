@@ -1,0 +1,85 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: name normalized to Udayana (the written 'udaya(!)' is flagged by the cataloguer as an error for Udayana); confidence medium",
+   "p2: title normalized from 'sadupādhyāya' to 'upādhyāya' (sad- is an honorific prefix)",
+   "purpose: replaced the bare 'ājñayā' with a short description",
+   "notes: added the mismatch between the LS conversion and the catalogue date, and the uncertain place name"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadudaya(!)",
+   "name": "Udayana",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadudaya(!)kṛtau",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "sadupādhyāyaśrīlakṣṃīpatīnām",
+   "name": "Lakṣmīpati",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sadupādhyāyaśrīlakṣṃīpatīnām ājñayā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrījaṭādhareṇa",
+   "name": "Jaṭādhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījaṭādhareṇa likhitam idaṃ pustakam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "sadupādhyāyaśrīlakṣṃīpatīnām ājñayā śrījaṭādhareṇa likhitam"
+  }
+ ],
+ "date": {
+  "as_written": "la saṃ 339 ... bhādraśudi (ṣa)ṣṭyāṃ kuje",
+  "era": "LS",
+  "year": "339",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "6",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1458"
+ },
+ "place": {
+  "as_written": "(vasukāśuta)grāme",
+  "normalized": ""
+ },
+ "purpose": "copied at the command (ājñayā) of upādhyāya Lakṣmīpati",
+ "notes": "The text's author is Udayana; the colophon has 'udaya(!)'. LS 339 + 1119 = c. 1458 CE. The catalogue gives ~1469 AD, which looks like a different LS epoch (+1130); this should be checked. The place name '(vasukāśuta)grāma' is in the cataloguer's parentheses, so the reading is uncertain, and it is not identified. Lakṣmīpati is named with the honorific plural (-patīnām), which suggests a respected senior, possibly the scribe's teacher, but the colophon does not say so.",
+ "_meta": {
+  "reel": "A 1333/18",
+  "model": "opus",
+  "cost_usd": 0.0606308,
+  "secs": 12.8
+ }
+}

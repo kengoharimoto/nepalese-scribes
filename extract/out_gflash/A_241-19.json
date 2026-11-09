@@ -1,0 +1,48 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayajitāmitraṃ / sumatiḥ / śriśrīsumatijayajitāmitradevasana",
+   "name": "Jayajitāmitradeva",
+   "roles": [
+    "king",
+    "author",
+    "commissioner"
+   ],
+   "titles": [
+    "bhūmipa",
+    "mahārājādhirāja",
+    "sakalarājacakrādhīśvaracūḍāmaṇi"
+   ],
+   "affiliation": "sūryavaṃśa",
+   "residence": "",
+   "evidence": "sumatiḥ ... samalekhayad raghupater vaṃśodbhavo bhūmipaḥ ... mahārājādhirāja sūryavaṃśodbhava śriśrīsumatijayajitāmitradevasana ... dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke ? śūnyaśaśāṅkavāraṇamite pauṣe hi kṛṣṇe śanau pañcamyāṃ kila yonibhe ... samvat 810 pauṣa kṛṣṇa paṃcamī pūrvvaphālguṇīnakṣetre śaniścaravāra",
+  "era": "NS",
+  "year": "810",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "pañcamī",
+  "weekday": "śaniścaravāra",
+  "nakshatra_yoga": "pūrvvaphālguṇī (yonibha)",
+  "ce_approx": "1690"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svaṣṭeṇyāḥ parituṣṭaye / sveṣṭadevatāprītikāmanānuśastu",
+ "notes": "Although the Sanskrit verse begins with 'śāke', the chronogram 'śūnya-śaśāṅka-vāraṇa' (0-1-8 = 810) corresponds directly to the stated Nepal Saṃvat 810 during the reign of King Jitāmitra Malla of Bhaktapur.",
+ "_meta": {
+  "reel": "A 241/19",
+  "model": "gemini-flash-latest",
+  "secs": 14.3,
+  "in_tok": 1076,
+  "out_tok": 2315
+ }
+}

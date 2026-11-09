@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Notes expanded: the place is spelled differently in the colophon and the catalogue, vadi means the dark fortnight, and the -ra stem is inferred from the instrumental ending -reṇa"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "upādhyāyaśrī /// reṇa",
+   "name": "[...]ra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "upādhyāyaśrī /// reṇa likhitam idaṃ pustakam",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "salaṃ 335 bhādravadi 6 budhe",
+  "era": "LS",
+  "year": "335",
+  "month": "bhādra",
+  "paksa": "vadi",
+  "tithi": "6",
+  "weekday": "budhe",
+  "nakshatra_yoga": "",
+  "ce_approx": "1454"
+ },
+ "place": {
+  "as_written": "erkaharāgrāme",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Most of the scribe's personal name is lost in the lacuna. Only the instrumental ending '/// reṇa' survives, so the stem ends in -ra (e.g. -kara, -dhara, -īśvara). The scribe has the title upādhyāya. 'salaṃ 335' is read as Lakṣmaṇasaṃvat (LS) 335 because the manuscript is in Maithili script. LS 335 + 1119 = 1454 CE. 'vadi' means the dark fortnight (kṛṣṇapakṣa). The colophon spells the place 'erkaharāgrāme' (the cataloguer marked the surrounding text with (!)), while the catalogue field has 'Erkāhāragrāma'. The place cannot be identified.",
+ "_meta": {
+  "reel": "B 20/5",
+  "model": "opus",
+  "cost_usd": 0.0500748,
+  "secs": 10.6
+ }
+}

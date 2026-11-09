@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 934 naṣṭa bhādravadi 4",
+  "era": "NS",
+  "year": "934",
+  "month": "naṣṭa bhādra",
+  "paksa": "kṛṣṇa",
+  "tithi": "4",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1814"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons are named in the colophon; contains only the text conclusion, the standard scribal disclaimer verse (yādṛśa pustakaṃ dṛṣṭvā...), and the completion date.",
+ "_meta": {
+  "reel": "A 342/38",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 747,
+  "out_tok": 632
+ }
+}

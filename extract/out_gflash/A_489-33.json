@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1939 sāla miti jeṣṭa śudi 6 roja 3",
+  "era": "VS",
+  "year": "1939",
+  "month": "jeṣṭa",
+  "paksa": "śudi",
+  "tithi": "6",
+  "weekday": "roja 3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1882"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons (scribe, commissioner, or patron) are named. The text concludes with a corrupt quotation of subhāṣita verses from the Vairāgyaśataka.",
+ "_meta": {
+  "reel": "A 489/33",
+  "model": "gemini-flash-latest",
+  "secs": 6.7,
+  "in_tok": 821,
+  "out_tok": 761
+ }
+}

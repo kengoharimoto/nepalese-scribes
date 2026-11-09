@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Evidence replaced with a substring that actually occurs in the colophon; the first reading had used an ellipsis.",
+   "Year field now reads 'loka (3)…': only the first chronogram word survives, and read right to left it gives just the units digit 3.",
+   "Tithi normalized to ekādaśī (11); weekday normalized to Tuesday (kuja).",
+   "Notes expanded: the garbled 'likhitaṃ śrīṣa', the corrupt spelling 'dhrmma', and the vihāra name lost at its start; the catalogue gives the place only as 'Mahāvihāra'."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhikṣuśrīdhrmmarakṣitena",
+   "name": "Dharmarakṣita",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhikṣu"
+   ],
+   "affiliation": "‥‥kṣarīmahāvihāra",
+   "residence": "‥‥kṣarīmahāvihāre",
+   "evidence": "ṇivāsita(!) bhikṣuśrīdhrmmarakṣitena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīmatnepālasaṃvatsare | nepālābdagate lok………ekādaśyo(!) kuje dine",
+  "era": "NS",
+  "year": "loka (3)… (chronogram incomplete; units digit 3)",
+  "month": "",
+  "paksa": "",
+  "tithi": "ekādaśī (11)",
+  "weekday": "Tuesday (kuja)",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "‥‥kṣarīmahāvihāre",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is a bhūtasaṃkhyā chronogram, but only 'lok[a]' (= 3) survives before the lacuna. Read right to left, that gives only the units digit 3, so the NS year and CE date cannot be worked out. The month and pakṣa are lost; the surviving date is ekādaśī, Tuesday. 'likhitaṃ śrīṣa' is garbled or cut off. The scribe's name is written 'dhrmma-' for 'dharma-'. The start of the vihāra name is lost ('‥‥kṣarī-'). Ṣaḍakṣarī Mahāvihāra is a possible reading but is not confirmed. The catalogue gives the place only as 'Mahāvihāra'.",
+ "_meta": {
+  "reel": "B 24/14",
+  "model": "opus",
+  "cost_usd": 0.5537776,
+  "secs": 25.3
+ }
+}

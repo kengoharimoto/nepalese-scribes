@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī śrī jayabhūpatīndramalladevasana",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śrī jayabhūpatīndramalladevasanacūkacāsadevapratiṣṭhā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 825 bhādrapadaśukladaśamīmūlaśaniścaravāra kuhnuḥ",
+  "era": "NS",
+  "year": "825",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "śaniścaravāra",
+  "nakshatra_yoga": "mūla",
+  "ce_approx": "1705"
+ },
+ "place": {
+  "as_written": "cūkacāsa",
+  "normalized": ""
+ },
+ "purpose": "devapratiṣṭhā siddhāgni ahitāhūti yajña",
+ "notes": "The Newari agentive marker -sana indicates that King Jayabhūpatīndra Malla sponsored/performed the devapratiṣṭhā and ahitāhuti yajña in the courtyard (cūkacāsa) for which or during which this manuscript was made.",
+ "_meta": {
+  "reel": "A 487/5",
+  "model": "gemini-flash-latest",
+  "secs": 13.5,
+  "in_tok": 864,
+  "out_tok": 1871
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "harinandaśarmaṇena",
+   "name": "Harinanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ harinandaśarmaṇena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1709 śrāvaṇakṛṣṇa 2 roja 2",
+  "era": "ŚS",
+  "year": "1709",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "2",
+  "weekday": "roja 2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1787"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 379/28",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 710,
+  "out_tok": 563
+ }
+}

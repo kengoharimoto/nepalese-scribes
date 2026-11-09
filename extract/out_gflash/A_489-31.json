@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhīmārjjunaśarmmaṇā",
+   "name": "Bhīmārjuna",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "dāgasalyānadeśa",
+   "evidence": "lilekha bhīmārjjunaśarmmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vedāṅkaśailendu 1794 mite śakābde navākṣinandā śaśi 1929 vikramābde || māghe sitaidādaśi 11 manda vāre",
+  "era": "VS",
+  "year": "1929",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1873"
+ },
+ "place": {
+  "as_written": "dāgasalyānadeśoyaṃ rajasthalasamīpataḥ || sāradānikaṭe",
+  "normalized": "Dang Salyan"
+ },
+ "purpose": "kṛṣṇārpaṇa",
+ "notes": "Both Śaka 1794 and Vikrama 1929 are stated. The place of writing is specified as Dāṅga-Salyāna near Rajasthala by the Śāradā river.",
+ "_meta": {
+  "reel": "A 489/31",
+  "model": "gemini-flash-latest",
+  "secs": 9.8,
+  "in_tok": 778,
+  "out_tok": 1233
+ }
+}

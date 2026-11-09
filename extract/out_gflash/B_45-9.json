@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāmahopādhyayaśrīsiddhāṃtavāgīśabhaṭṭācārya",
+   "name": "Siddhāntavāgīśa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāmahopādhyayaśrīsiddhāṃtavāgīśabhaṭṭācāryaviracitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1821 samayanāmabhādrapadamāse kṛṣṇapakṣe dvitīyā caṃdravāsare",
+  "era": "VS",
+  "year": "1821",
+  "month": "bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvitīyā",
+  "weekday": "caṃdravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1764"
+ },
+ "place": {
+  "as_written": "kāśyāṃ madhye maṇīkarṇikāśaśmī(!)pe gaṃgātaṭe",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The scribe is not explicitly named (only likhitam).",
+ "_meta": {
+  "reel": "B 45/9",
+  "model": "gemini-flash-latest",
+  "secs": 10.5,
+  "in_tok": 766,
+  "out_tok": 1260
+ }
+}

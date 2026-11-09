@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Place of copying set to empty: śivagalaṭvālaka is the owner's place of residence (adhivāśin), not the stated place of copying, and identifying it as Patan is not certain",
+   "Residence of p1 rewritten as 'Śivagalaṭvāla(ka)' (with bukkaṃche as a possible local name or household), rather than the raw string run together with 'krama'",
+   "p1 confidence lowered to low, and the alternative readings of the name are recorded in notes",
+   "Notes expanded: the text title differs from the catalogue title, 'svayaṃ' is unclear, and Śrīkaṇṭhasūnu is not in the colophon",
+   "Date checked: NS 389 + 880 = 1269 CE, Phālguna śukla pratipad, Saturday, confirmed"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ācārya(oṃ)nāyakasya",
+   "name": "Oṃnāyaka",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "Śivagalaṭvāla(ka) (bukkaṃche)",
+   "evidence": "ācārya(oṃ)nāyakasya nitatilakapuskaṃ(!)",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 389 phālguni(!) śuklapatipradyāṃ(!) śaniścaravāsare",
+  "era": "NS",
+  "year": "389",
+  "month": "Phālguna",
+  "paksa": "śukla",
+  "tithi": "pratipad",
+  "weekday": "Saturday (śaniścaravāsara)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1269"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives the scribe as Śrīkaṇṭhasūnu, but that name does not appear in the quoted colophon. It may come from elsewhere in the manuscript, such as another colophon or the author's statement (Śrīkaṇṭha's son?), so no scribe has been added. The colophon names the text Nityāhnikatilaka of the Paścimāmnāya (paści(!)śāsanīya), not Pratiṣṭhātantra as in the catalogue title. The owner's phrase is corrupt: 'śivagalaṭvālakādhivāśinayo(bukkaṃche)krama ācārya(oṃ)nāyakasya'. 'Śivagala ṭvāla' is a locality (tole), possibly Sigaḥ in Kathmandu, though this is not certain. 'bukkaṃche' may be a house or local name. 'krama ācārya' may stand for kramācārya, a Kaula title. 'nāyaka' may be a title (head of a vihāra or lineage) rather than part of the name, so the personal name may really be 'Oṃ' or be missing. The cataloguer's parentheses around 'svayaṃ', 'bukkaṃche' and 'oṃ' seem to mark doubtful readings. 'śrī(svayaṃ)' could mean the owner copied the book himself, but that is too unclear to add the role of scribe.",
+ "_meta": {
+  "reel": "B 26/22",
+  "model": "opus",
+  "cost_usd": 0.0647308,
+  "secs": 17.5
+ }
+}

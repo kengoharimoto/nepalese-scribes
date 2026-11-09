@@ -1,0 +1,90 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "lakṣmīpūrvena bhaṭtena nārāyaṇa ya",
+   "name": "Lakṣmīnārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lakṣmīpūrvena bhaṭtena nārāyaṇa ya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīrāmavarṇaḥ",
+   "name": "Rāmavarman",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "himmativarmaṇaḥ putrasya śrīrāmavarṇaḥ kṛtāv adhyātmarāmāyaṇasetau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "himmativarmaṇaḥ",
+   "name": "Himmativarman",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "himmativarmaṇaḥ putrasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "mahīdhara-",
+   "name": "Mahīdhara",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahīdhararacitā rāmagītādīpikā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "himmativarmaṇaḥ putrasya"
+  }
+ ],
+ "date": {
+  "as_written": "śāke 1746 sāla miti jyeṣṭhamāse śuklapakṣe 3 roja 1 / ṛtuyugahayacandre māsi jeṣṭhe ca śukle śanipitudinavāre bāhunitthe(!) mṛgākhye",
+  "era": "ŚS",
+  "year": "1746",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "roja 1 (śanipitudina = Sunday)",
+  "nakshatra_yoga": "mṛga",
+  "ce_approx": "1824"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "jñānahetave",
+ "notes": "The manuscript contains multiple texts/commentaries with colophons: the commentary by Rāmavarman (son of Himmativarman) and the dīpikā by Mahīdhara. Both colophons give the date Śaka 1746 Jyeṣṭha śukla 3, Sunday (chronogram 'ṛtu-yuga-haya-candra' = 6-4-7-1 = 1746, and 'śanipitudina' = Sunday).",
+ "_meta": {
+  "reel": "B 74/5",
+  "model": "gemini-flash-latest",
+  "secs": 14.5,
+  "in_tok": 981,
+  "out_tok": 2076
+ }
+}

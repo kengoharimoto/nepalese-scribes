@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsarvvagaṇena",
+   "name": "Sarvagaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "paṇḍita",
+    "ācārya",
+    "bhaṭṭāraka"
+   ],
+   "affiliation": "Bhogaleśvaramaṭha",
+   "residence": "Bhogaleśvaramaṭha",
+   "evidence": "śrīsarvvagaṇena pustakaṃ likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 806 (parālagnavadi) 10 bhauma(!)",
+  "era": "NS",
+  "year": "806",
+  "month": "parālagna (?)",
+  "paksa": "vadi",
+  "tithi": "10",
+  "weekday": "bhauma",
+  "nakshatra_yoga": "",
+  "ce_approx": "1686"
+ },
+ "place": {
+  "as_written": "śrīmadbhogaleśvaramaṭha",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records the place as Galeśvaramaṭha, but the text reads śrīmadbhogaleśvaramaṭhāvasthita-. The month name is corrupt or unclear: '(parālagnavadi)'.",
+ "_meta": {
+  "reel": "B 26/29",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 749,
+  "out_tok": 961
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 Divākara: title normalized from 'daivajñavarya' to 'daivajña' ('-varya' is an honorific epithet)",
+   "p4 Devīdatta: title written as 'Panta' (Pant surname/caste name) rather than the colophon spelling 'paṃta'",
+   "date: weekday given as 'Monday (candra)'",
+   "notes: added that the textual chronogram 'dvabdhīndra' (= 142) is not the copying date, and checked that the two eras agree"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaṇeśadaivajña-",
+   "name": "Gaṇeśa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gaṇeśadaivajñaviracite siddhāṃtarahasye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "daivajñavaryadivākara-",
+   "name": "Divākara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñavaryadivākarātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "viśvanātha-",
+   "name": "Viśvanātha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "divākarātmajaviśvanāthaviracitaṃ siddhāṃtarahasyodāharaṇaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "devidattapaṃtena",
+   "name": "Devīdatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "Panta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devidattapaṃtena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "divākarātmajaviśvanātha"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsamvat 18|99 śake 17|64 kārttika dvādaśyāṃ candre",
+  "era": "VS",
+  "year": "1899",
+  "month": "kārttika",
+  "paksa": "",
+  "tithi": "dvādaśī",
+  "weekday": "Monday (candra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1842"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue field 'SS 1899' is wrong: 1899 is the Vikrama year (saṃvat), and the Śaka year is given separately as 1764. The two eras agree: VS 1899 − 57 = ŚS 1764 + 78 = 1842 CE. Kārttika therefore falls around Oct–Nov 1842. The pakṣa is not stated. 'dvabdhīndrālpe śakakāle' in the chapter colophon is a chronogram belonging to the text, not the copying date: dvi 2, abdhi 4, indu 1, read right to left = 142, below Gaṇeśa's epoch year Śaka 1442. Siddhāntarahasya is another name for Gaṇeśa's Grahalāghava; Viśvanātha's Udāharaṇa is a worked-example commentary on it.",
+ "_meta": {
+  "reel": "B 327/2",
+  "model": "opus",
+  "cost_usd": 0.5721576,
+  "secs": 27.3
+ }
+}

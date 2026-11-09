@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vaneśvaraśarmaṇā",
+   "name": "Vaneśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "pyūkhā",
+   "evidence": "likhitam || paṃ bhu || vaneśvaraśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 2007 sāl kārt⌠t⌡ika 17 gate roja 2",
+  "era": "VS",
+  "year": "2007",
+  "month": "kārt⌠t⌡ika",
+  "paksa": "",
+  "tithi": "17 gate",
+  "weekday": "roja 2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1950"
+ },
+ "place": {
+  "as_written": "pyūkhā",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The abbreviation 'paṃ bhu' preceding the scribe's name may stand for paṇḍita and a further designation or personal reference.",
+ "_meta": {
+  "reel": "A 1149/2",
+  "model": "gemini-flash-latest",
+  "secs": 8.3,
+  "in_tok": 711,
+  "out_tok": 1001
+ }
+}

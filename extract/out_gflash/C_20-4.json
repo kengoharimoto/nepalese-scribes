@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīparamahaṃsaparivrājakānubhūtisvarūpācāryya",
+   "name": "Anubhūtisvarūpācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramahaṃsa",
+    "parivrājaka",
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīparamahaṃsaparivrājakānubhūtisvarūpācāryyaviracitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 729 śrāvaṇaśuklatrayodaśyāṃ bṛhaspavārasare (!)",
+  "era": "NS",
+  "year": "729",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "trayodaśī",
+  "weekday": "bṛhaspativāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1609"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "C 20/4",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 731,
+  "out_tok": 814
+ }
+}

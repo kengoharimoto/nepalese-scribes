@@ -1,0 +1,120 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Śrīpati: role changed from commissioner to scribe (+owner, donor). 'śrīpatine(!) lekhitaṃ' is a corrupted instrumental (for śrīpatinā), so it means 'written by Śrīpati'. The scribe's svārtham makes him the owner, and 'dattaṃ' makes him the giver.",
+   "Gopālabhaṭṭa normalized to Gopāla with title bhaṭṭa. Bāṇabhaṭṭa normalized to Bāṇa with title bhaṭṭa.",
+   "Upanāma Deva recorded in the titles of Gopāla and Śrīpati (family surname).",
+   "Akhaṇḍakara kept as recipient (owner, beneficiary). His relation to Bāṇa is kept as son_of but flagged as uncertain, because 'bāṇabhaṭṭajām' is unclear (-ja 'son' or a truncated jāmātṛ 'son-in-law').",
+   "Added relation: Śrīpati wrote_for Akhaṇḍakara (gave the copy to him).",
+   "Purpose and notes expanded. The saṃvatsara name has been checked and agrees with the year."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devopanāmakagopālabhaṭṭa-",
+   "name": "Gopāla",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa",
+    "Deva (upanāma)"
+   ],
+   "affiliation": "Deva family (upanāma)",
+   "residence": "",
+   "evidence": "devopanāmakagopālabhaṭṭātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīpatine(!)",
+   "name": "Śrīpati",
+   "roles": [
+    "scribe",
+    "owner",
+    "donor"
+   ],
+   "titles": [
+    "Deva (upanāma)"
+   ],
+   "affiliation": "Deva family (upanāma)",
+   "residence": "",
+   "evidence": "gopālabhaṭṭātmajaśrīpatine(!) lekhitaṃ || svārthaṃ paropakārārthaṃ ca",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bāṇabhaṭṭajām",
+   "name": "Bāṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bāṇabhaṭṭajām",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "akhaṇḍakarasya",
+   "name": "Akhaṇḍakara",
+   "roles": [
+    "owner",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "akhaṇḍakarasya dattaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "gopālabhaṭṭātmajaśrīpatine"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "bāṇabhaṭṭajām akhaṇḍakarasya"
+  },
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "akhaṇḍakarasya dattaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "śake 1719 piṃgalānāmasaṃvatsare śrāvaṇaṃ vaya 14",
+  "era": "ŚS",
+  "year": "1719",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "14",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1797"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ paropakārārthaṃ ca (for himself and for others); afterwards given to Akhaṇḍakara",
+ "notes": "The catalogue names Akhaṇḍakara as the scribe. The colophon, however, says the copy was written (lekhitaṃ) by Śrīpati, son of Gopālabhaṭṭa of the Deva family, and then given (dattaṃ) to Akhaṇḍakara. So the catalogue's scribe field looks wrong. 'śrīpatine(!)' stands for the instrumental śrīpatinā. 'taddinī' = taddine. 'vaya' = vadi/vadya (kṛṣṇa pakṣa). 'bāṇabhaṭṭajām' is unclear. It may mean 'son of Bāṇabhaṭṭa' (-ja + stray m) or be an abbreviated jāmātre ('to the son-in-law of Bāṇabhaṭṭa'), so the son_of relation is uncertain. It is also unclear whether the upanāma Deva qualifies only Gopāla or the whole family; it is assigned to both. Date check: Śaka 1719 = 1797 CE. Piṅgala is year 51 of the 60-year cycle ((1719+12) mod 60 = 51), so the saṃvatsara name agrees with the year.",
+ "_meta": {
+  "reel": "A 447/26",
+  "model": "opus",
+  "cost_usd": 0.6200936,
+  "secs": 45.7
+ }
+}

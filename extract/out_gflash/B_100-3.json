@@ -1,0 +1,179 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "naravīrasiṃhayā",
+   "name": "Naravīrasiṃha",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "kāśyapagotra, bakaṃbāhāra",
+   "residence": "śrīlalitāpuramahānagara",
+   "evidence": "dānapati, śrīOlalitāpuramahānagarayā, bakaṃObāhārayā, kāśyapagotra, kāyaṣṭha, naravīrasiṃhayā ... thva śrī 2 lalitavistara pustaka cocakaṃO dayakā julo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dhanavīrasiṃ",
+   "name": "Dhanavīrasiṃha",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "piOtā dhanavīrasiṃ ... devaṃgata juyāo, nihmasayā nāmana",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "gaṃgālakṣmiO",
+   "name": "Gaṅgālakṣmī",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mātṛ gaṃgālakṣmiO nihmaṃ, devaṃgata juyāo, nihmasayā nāmana",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "mānavīrasiṃ",
+   "name": "Mānavīrasiṃha",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "naravīrasiṃhaOkasaya putra, mānavīrasiṃ ... thuti sakala parivārayāṃ, dharma citta utpatti juyāo, thva pustaka dayakā julo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "kṛṣṇṇa-mānasiṃ",
+   "name": "Kṛṣṇamānasiṃha",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dvitṛyaputra, kṛṣṇṇamānasiṃ ... thva pustaka dayakā julo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "kulamānasiṃ",
+   "name": "Kulamānasiṃha",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tṛtīyaputra, kulamānasiṃ ... thva pustaka dayakā julo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "tejalakṣmī",
+   "name": "Tejalakṣmī",
+   "roles": [
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāryyā, tejalakṣmī, thuti sakala parivārayāṃ, dharma citta utpatti juyāo, thva pustaka dayakā julo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p8",
+   "as_written": "śrītejadattaṃ",
+   "name": "Tejadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrītejadattaṃ likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "piOtā dhanavīrasiṃ"
+  },
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "mātṛ gaṃgālakṣmiO"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "naravīrasiṃhaOkasaya putra, mānavīrasiṃ"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "dvitṛyaputra, kṛṣṇṇamānasiṃ"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "tṛtīyaputra, kulamānasiṃ"
+  },
+  {
+   "from": "p7",
+   "type": "wife_of",
+   "to": "p1",
+   "evidence": "bhāryyā, tejalakṣmī"
+  },
+  {
+   "from": "p8",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "dānapati ... naravīrasiṃhayā ... śrītejadattaṃ likhitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 964 miti caitra śuklayā pūrṇṇamāsyāṃ tithau hastānakṣatra, vyāghātayoga, buddhavāra",
+  "era": "NS",
+  "year": "964",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "buddhavāra",
+  "nakshatra_yoga": "hastānakṣatra, vyāghātayoga",
+  "ce_approx": "1844"
+ },
+ "place": {
+  "as_written": "śrīOlalitāpuramahānagarayā, bakaṃObāhārayā",
+  "normalized": "Patan"
+ },
+ "purpose": "Merit transfer in the name of deceased parents Dhanavīrasiṃha and Gaṅgālakṣmī (piOtā dhanavīrasiṃ, mātṛ gaṃgālakṣmiO nihmaṃ, devaṃgata juyāo, nihmasayā nāmana)",
+ "notes": "The manuscript was copied at Bakaṃ Bāhāra in Lalitapur (Patan) on behalf of Naravīrasiṃha and his family.",
+ "_meta": {
+  "reel": "B 100/3",
+  "model": "gemini-flash-latest",
+  "secs": 31.5,
+  "in_tok": 1105,
+  "out_tok": 5084
+ }
+}

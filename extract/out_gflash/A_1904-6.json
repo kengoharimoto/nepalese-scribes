@@ -1,0 +1,130 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgadādharabhaṭṭācārya",
+   "name": "Gadādhara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīgadādharabhaṭṭācāryaviracitaḥ śaktivādaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīraṃganāthasūri",
+   "name": "Raṅganātha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīraṃganāthasūrisūnu",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "nārāyaṇa",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nārāyaṇānuja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "kṛṣṇabhaṭṭa",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛṣṇabhaṭṭaviracitaṃ śaktivādavivaraṇaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrībābu vārāṇasī prasādajī",
+   "name": "Vārāṇasīprasāda",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "bābū"
+   ],
+   "affiliation": "",
+   "residence": "mahallehaudakaṭorā, śrīkāśījī",
+   "evidence": "vārāṇasīprasādasya niyogena prayatnataḥ kāśīsaṃskṛtamudrāyām aṃkito yaṃ śilākṣaraiḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "bhāī pratāpasiṃhajī",
+   "name": "Pratāpasiṃha",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "bhāī"
+   ],
+   "affiliation": "",
+   "residence": "caurī galī, śrīkāśījī",
+   "evidence": "caurī galī meṃ bhāī pratāpasiṃhajī ke dukāna para milaigī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīraṃganāthasūrisūnu"
+  },
+  {
+   "from": "p4",
+   "type": "brother_of",
+   "to": "p3",
+   "evidence": "nārāyaṇānuja"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1940 phālguna su15 bhaumavāra",
+  "era": "VS",
+  "year": "1940",
+  "month": "phālguna",
+  "paksa": "śukla",
+  "tithi": "15",
+  "weekday": "bhaumavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1884"
+ },
+ "place": {
+  "as_written": "śrīkāśījī me (!) mahallehaudakaṭorā meṃ śrīyutabābū vārāṇasīprasādajī ke makāna meṃ kāśīsaṃskṛtamudrāyaṃtra meṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "Lithograph print (śilākṣara) produced at Kāśīsaṃskṛtamudrāyantra under the supervision of Bābū Vārāṇasīprasāda.",
+ "_meta": {
+  "reel": "A 1904/6",
+  "model": "gemini-flash-latest",
+  "secs": 13.3,
+  "in_tok": 956,
+  "out_tok": 2186
+ }
+}

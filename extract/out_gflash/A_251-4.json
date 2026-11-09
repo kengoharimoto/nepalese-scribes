@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayabhūpatīndra mallavarmāṇaḥ",
+   "name": "Jayabhūpatīndramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "varmā"
+   ],
+   "affiliation": "mānava gotra",
+   "residence": "",
+   "evidence": "mānavagotra yajamānasya śrīśrījayabhūpatīndra mallavarmāṇaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "navagṛhapraveśa aśvasālā pratiṣṭhārthaṃ śrī 3 hanubhairava paṃcopacārapūjā nimityarthaṃ",
+ "notes": "The colophon text contains the saṃkalpa/vākya of King Bhūpatīndra Malla of Bhaktapur as yajamāna for the consecration of a horse stable and house-entry ritual.",
+ "_meta": {
+  "reel": "A 251/4",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 789,
+  "out_tok": 1026
+ }
+}

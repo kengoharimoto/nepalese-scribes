@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Rāmacandra: dropped 'commissioner'. 'likhitaṃ rāmacaṃdrārthaṃ' only says the copy was written for him; no causative verb such as likhāpitam is used. Kept 'beneficiary'.",
+   "purpose rewritten as 'for Rāmacandra (parārtha)'.",
+   "notes: added that the two eras disagree. VS 1725 and Śaka 1589 are one year apart.",
+   "Kept ce_approx 1668 (VS − 57) and noted that Śaka 1589 gives 1667."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmacaṃdrārthaṃ",
+   "name": "Rāmacandra",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ rāmacaṃdrārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1725 śake 1589 āṣāḍha śuddha 11 śanau",
+  "era": "VS",
+  "year": "1725",
+  "month": "āṣāḍha",
+  "paksa": "śuddha",
+  "tithi": "11",
+  "weekday": "śanau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1668"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for Rāmacandra (parārtha)",
+ "notes": "The two eras disagree. Āṣāḍha of Caitrādi VS 1725 falls in Śaka 1590 (1668 CE), but the colophon gives Śaka 1589 (1667 CE). The usual difference between the eras is 135 years, and here it is 136. A Kārttikādi VS reckoning does not explain the gap, so this is probably a slip by the scribe. The weekday (Saturday) has not been checked against either year. The catalogue names Rāmacandra as scribe, but 'likhitaṃ rāmacaṃdrārthaṃ' means 'written for Rāmacandra'. The scribe is not named. Rāmacandra is the beneficiary, and probably the intended owner.",
+ "_meta": {
+  "reel": "A 419/35",
+  "model": "opus",
+  "cost_usd": 0.5485496,
+  "secs": 24.1
+ }
+}

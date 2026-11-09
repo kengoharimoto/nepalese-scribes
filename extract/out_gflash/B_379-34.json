@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayabhūpatīndra malla devasana",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrī jayabhūpatīndra malla devasana jīrṇōddhāra yāṅā dina",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 823 naṣṭaśrāvaṇa vadi 9",
+  "era": "NS",
+  "year": "823",
+  "month": "naṣṭaśrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1703"
+ },
+ "place": {
+  "as_written": "goladevala",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "jīrṇōddhāra yāṅā dina",
+ "notes": "The manuscript was copied at Goladevala on the day King Bhūpatīndra Malla of Bhaktapur performed a jīrṇoddhāra (restoration).",
+ "_meta": {
+  "reel": "B 379/34",
+  "model": "gemini-flash-latest",
+  "secs": 11.2,
+  "in_tok": 707,
+  "out_tok": 1222
+ }
+}

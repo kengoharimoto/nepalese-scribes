@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Weekday normalized to 'Sunday (ravai)'; tithi kept as aṣṭamī.",
+   "Place: noted that the colophon gives only the scribe's residence ('grāmāvasthitena'); this is taken as the place of copying by inference.",
+   "Notes expanded: the syllable 'vā' before Viṣṇupati may belong to a longer name or prefix lost in the lacuna; '(mairujyārastu)' is corrupt and not a person's name; the verse after the colophon is a benedictory verse with no names."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "(‥)vāviṣṇupatinā",
+   "name": "Viṣṇupati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "(acauśī) grāma",
+   "evidence": "(acauśī) grāmāvasthitena (‥)vāviṣṇupatinātiśrameṇālekhi pustakam",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "lasaṃ 376 āśvinakṛṣṇāṣṭamyāṃ ravai",
+  "era": "LS",
+  "year": "376",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "Sunday (ravai)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1495"
+ },
+ "place": {
+  "as_written": "(acauśī) grāma",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name follows a lacuna: '(‥)vāviṣṇupatinā' (catalogued as '?vāviṣṇupati'). The 'vā' may be the end of a lost first part of the name (e.g. a compound name or a title), so the scribe is given as Viṣṇupati with medium confidence. The place name '(acauśī)' is in the cataloguer's brackets, so the reading is uncertain. It is the scribe's place of residence ('grāmāvasthitena'), and here it is assumed to be where the copy was made. '(mairujyārastu)' is corrupt, probably part of the benedictory formula, and not a name. LS 376 + 1119 = c. 1495 CE. The date has not been checked against a calendar.",
+ "_meta": {
+  "reel": "B 5/9",
+  "model": "opus",
+  "cost_usd": 0.0545828,
+  "secs": 12.8
+ }
+}

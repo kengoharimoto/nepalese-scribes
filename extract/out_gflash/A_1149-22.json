@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "padmakeśaraśarmaṇā",
+   "name": "Padmakeśara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ padmakeśaraśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "rāma saṃvat 1934 miti bhādra śudi 8 roja 7",
+  "era": "VS",
+  "year": "1934",
+  "month": "bhādra",
+  "paksa": "śudi",
+  "tithi": "8",
+  "weekday": "roja 7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1877"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1149/22",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 720,
+  "out_tok": 750
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībṛhaspatī",
+   "name": "Bṛhaspati",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "vajrācārya",
+    "vidyārthin"
+   ],
+   "affiliation": "Hemavarṇa Mahāvihāra",
+   "residence": "Kvātha bhānta",
+   "evidence": "lekhaka śrībṛhaspatiḥ ... lekhaka kvātha bhānta hemavarṇṇa mahāvyahāra ... vidyārthi śrībṛhaspateḥ svārthe likhitāḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 941 mti pauṣa vadi 2",
+  "era": "NS",
+  "year": "941",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "2",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1821"
+ },
+ "place": {
+  "as_written": "hemavarṇṇa mahāvihārayā",
+  "normalized": "Patan"
+ },
+ "purpose": "svārtha",
+ "notes": "Fol. 169v has an internal colophon dated 'saṃvat 951 mti bhādra vadi 13', whereas the final colophon on fol. 298v gives 'saṃvat 941 mti pauṣa vadi 2'; Hemavarṇa Mahāvihāra is Kvābāhā / Hiraṇyavarṇa Mahāvihāra in Patan.",
+ "_meta": {
+  "reel": "C 13/11",
+  "model": "gemini-flash-latest",
+  "secs": 12.0,
+  "in_tok": 2474,
+  "out_tok": 1432
+ }
+}

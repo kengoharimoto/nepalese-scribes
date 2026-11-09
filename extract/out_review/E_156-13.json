@@ -1,0 +1,73 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Sudarśana: roles changed from commissioner+owner to beneficiary. 'yātacoyā' (yāta coyā) only says the copy was written for him. Commissioning and ownership are likely but not stated.",
+   "p2 scribe: name changed from 'Vakhanihma' to 'Vakhani'. '-hmaṃ' is the Newari agentive classifier (-mhaṃ), not part of the name. Confidence lowered to low.",
+   "p2: 'yāvavi' taken out of affiliation and put in notes. 'yāvaviyā' may be a genitive ('of Yāvavi'), giving a kin or locality link, rather than a vihāra name.",
+   "place: emptied. 'bhākūtuna coā' describes where the scribe lives, not where the copy was made.",
+   "purpose reworded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsudarśanabhāju",
+   "name": "Sudarśana",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [
+    "bhāju"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsudarśanabhāju yātacoyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvakhanihmaṃ",
+   "name": "Vakhani",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Bhākūtuna (?)",
+   "evidence": "cokahma śrībhākūtunacoā yāvaviyā śrīvakhanihmaṃ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "śrīvakhanihmaṃ śrīsudarśanabhāju yātacoyā"
+  }
+ ],
+ "date": {
+  "as_written": "saṃ 787 caitra śukla pratipadā kūnhu śuklavāra",
+  "era": "NS",
+  "year": "787",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "pratipadā",
+  "weekday": "śuklavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1667"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "written for Sudarśana Bhāju",
+ "notes": "The era is not written ('saṃ 787'). NS is assumed from the script and the catalogue. Caitra NS 787 falls in March/April 1667 CE. The weekday (Friday) has not been checked. The Newari phrase 'cokahma śrībhākūtunacoā yāvaviyā śrīvakhanihmaṃ' is hard to parse, and the cataloguer may have split the words wrongly. It roughly means 'the writer, Vakhani, living (coā) at Bhākūtuna, of Yāvavi'. 'yāvaviyā' could be a genitive giving the scribe's father, house or locality (for example Yā Bahi), so it is not recorded as an affiliation. The scribe's name 'Vakhani' is uncertain: it could be a garbled personal name or an occupational term. Sudarśana's title 'bhāju' is an honorific, often used for brahmins or gentlemen. He was probably also the commissioner and owner, but the colophon only says 'written for' him.",
+ "_meta": {
+  "reel": "E 156/13",
+  "model": "opus",
+  "cost_usd": 0.0766668,
+  "secs": 22.1
+ }
+}

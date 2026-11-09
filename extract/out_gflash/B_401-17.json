@@ -1,0 +1,75 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vaiyāsikyām",
+   "name": "Vyāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vaiyāsikyām",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kāmarāja",
+   "name": "Kāmarāja",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāmarāja suta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "kāmarāja suta",
+   "name": "Kāmarājasuta",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāmarāja suta śrīman jagadānaṃdakārakaḥ || utsāhaprabhumantrais tvaṃ trivikramasamo bhava",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "kāmarāja suta"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "utsāhaprabhumantrais tvaṃ trivikramasamo bhava",
+ "notes": "The colophon ends with an āśīrvāda verse addressed to the son of Kāmarāja (kāmarājasuta), wishing him to be equal to Trivikrama in the three royal powers (utsāha, prabhu, and mantra).",
+ "_meta": {
+  "reel": "B 401/17",
+  "model": "gemini-flash-latest",
+  "secs": 24.2,
+  "in_tok": 704,
+  "out_tok": 2820
+ }
+}

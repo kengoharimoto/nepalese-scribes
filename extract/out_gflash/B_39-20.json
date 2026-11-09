@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "svātmarāma",
+   "name": "Svātmārāma",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "sahajānaṃdasaṃtānaciṃtāmaṇi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svātmarāmaviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat | 1853 nabhasya site śivatithau śakra(pakṣe) bhṛgudine",
+  "era": "VS",
+  "year": "1853",
+  "month": "nabhasya",
+  "paksa": "sita",
+  "tithi": "śivatithi",
+  "weekday": "bhṛgudina",
+  "nakshatra_yoga": "",
+  "ce_approx": "1796"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribe is named ('likhitam idaṃ saṃpūrṇaṃ'). The reading of the colophon is noted by the cataloguer as coming from NAK records, not directly available on the microfilm reel.",
+ "_meta": {
+  "reel": "B 39/20",
+  "model": "gemini-flash-latest",
+  "secs": 11.3,
+  "in_tok": 839,
+  "out_tok": 1374
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvīreśvarena",
+   "name": "Vīreśvara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "śrīlalitapaṭṭnāvasthite śrīmāṇigalā naiṛtye sthāne brahmapure śrī thaṃ vuśalake śrī vakhani hmaṃ khālā cche gṛhe",
+   "evidence": "śrīvīreśvarena (!) likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "pūrṇṇānandaśarmmanā devajñāna",
+   "name": "Pūrṇānandaśarman",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pūrṇṇānandaśarmmanā devajñāna thva yā karmmayā ṅa",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rudrāya śrīlakṣmī devī",
+   "name": "Lakṣmīdevī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tha va mātṛ rudrāya śrīlakṣmī devīmṛtyuhetunā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "devasiṃhadevasya",
+   "name": "Devasiṃhadeva",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devasiṃhadevasya mātṛ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p5",
+   "as_written": "phi ku lakṣmīdevī",
+   "name": "Phikulakṣmīdevī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devasiṃhadevasya mātṛ phi ku lakṣmīdevī",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "tha va mātṛ rudrāya śrīlakṣmī devī"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p5",
+   "evidence": "devasiṃhadevasya mātṛ phi ku lakṣmīdevī"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 829 kārttikamāse śuklacaturddasi (!) parapūrṇamāsyāṃ tīthau (!) revati nakṣatra vajrayoge ādityavāsare",
+  "era": "NS",
+  "year": "829",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "caturdaśī parapūrṇamāsī",
+  "weekday": "ādityavāsara",
+  "nakshatra_yoga": "revatī nakṣatra, vajrayoga",
+  "ce_approx": "1708"
+ },
+ "place": {
+  "as_written": "śrīlalitapaṭṭnāvasthite śrīmāṇigalā naiṛtye sthāne brahmapure śrī thaṃ vuśalake śrī vakhani hmaṃ khālā cche gṛhe",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The manuscript contains the main completion colophon dated NS 829 (which the cataloguer calculates as astronomical NS 828, 28 Oct 1708 CE), followed by two family event records dated NS 824 and NS 785 recording consecrations/restorations.",
+ "_meta": {
+  "reel": "A 978/13 (3)",
+  "model": "gemini-flash-latest",
+  "secs": 25.9,
+  "in_tok": 1183,
+  "out_tok": 3880
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivabhaṭṭasuta",
+   "name": "Śivabhaṭṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "upādhyāya",
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadupādhyāyopanāmakaśivabhaṭṭasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "satīgarbhaja",
+   "name": "Satī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "satīgarbhaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "nāgojībhaṭṭakṛte",
+   "name": "Nāgojībhaṭṭa",
+   "roles": [
+    "commentator",
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nāgojībhaṭṭakṛte ... vyākhyāne",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śivanṛsiṃhena",
+   "name": "Śivanṛsiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śivanṛsiṃhena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śivabhaṭṭasuta"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "satīgarbhaja"
+  }
+ ],
+ "date": {
+  "as_written": "śrī śāke 1727 saṃvat 1862 mārga vadi 5 some",
+  "era": "VS",
+  "year": "1862",
+  "month": "mārga",
+  "paksa": "vadi",
+  "tithi": "5",
+  "weekday": "some",
+  "nakshatra_yoga": "",
+  "ce_approx": "1805"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīdevyārpaṇam astu",
+ "notes": "Both Śāka era 1727 and Vikrama Samvat 1862 are specified in the colophon.",
+ "_meta": {
+  "reel": "A 482/3a",
+  "model": "gemini-flash-latest",
+  "secs": 12.5,
+  "in_tok": 1033,
+  "out_tok": 1946
+ }
+}

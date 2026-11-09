@@ -1,0 +1,74 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2: removed role 'reader' (only the intended purpose is stated, not an actual reading) and added 'owner' by analogy with the rule for svapaṭhanārtha; roles are now beneficiary + owner",
+   "p2: confidence lowered to medium; the -giri ending is the Daśanāmī Giri order name, noted under affiliation",
+   "date.year normalised to '163x'; ce_approx given as the range 1573–1582 instead of the single year 1575",
+   "date: noted that the era is not stated; VS is assumed because the copy was made at Kāśī with the plain word 'saṃvat'",
+   "purpose rewritten as a short English phrase"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṛṣṇa nāmnā br[āḥma]ṇena",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ kāśyāṃ kṛṣṇa nāmnā br[āḥma]ṇena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "trivikramagiri",
+   "name": "Trivikramagiri",
+   "roles": [
+    "beneficiary",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "Giri (Daśanāmī order), inferred from name",
+   "residence": "",
+   "evidence": "trivikramagiripāṭhārthaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "likhitaṃ ... kṛṣṇa nāmnā br[āḥma]ṇena trivikramagiripāṭhārthaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 163 .. samaye pauṣa vadi 3",
+  "era": "VS",
+  "year": "163x",
+  "month": "Pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1573–1582"
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "for the reading (pāṭhārtham) of Trivikramagiri",
+ "notes": "The last digit of the year is lost ('163 ..'). The era is not named. VS is assumed because the copy was made at Kāśī and dated with plain 'saṃvat', which gives c. 1573–1582 CE. If the era were Śaka, the date would be c. 1711–1720 CE. Trivikramagiri is probably a Daśanāmī ascetic of the Giri order (the name could also be read as Trivikrama + Giri). The catalogue's scribe field (Kṛṣṇa) agrees with the colophon.",
+ "_meta": {
+  "reel": "A 482/13",
+  "model": "opus",
+  "cost_usd": 0.0687988,
+  "secs": 17.5
+ }
+}

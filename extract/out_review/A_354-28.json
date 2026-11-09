@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Author's name normalised to Kaviśekhara: 'ṣa' written for 'kha' is ordinary Devanagari spelling, not a scribal corruption, so the name is given as Kaviśekhara with confidence left high",
+   "Month noted as Śrāvaṇa (sāvana) in the notes",
+   "Notes rewritten: Kaviśekhara is the title of Jyotirīśvara; tithi 25 cannot be right"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīkaviśeṣarācārya",
+   "name": "Kaviśekhara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkaviśeṣarācāryaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1830 sāvana vadi 25",
+  "era": "VS",
+  "year": "1830",
+  "month": "sāvana (Śrāvaṇa)",
+  "paksa": "vadi (kṛṣṇa)",
+  "tithi": "25",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1773"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The written 'kaviśeṣara' is Kaviśekhara: in Devanagari manuscripts ṣa is regularly written for kha. Kaviśekhara is the title of Jyotirīśvara, the author of the Pañcasāyaka. The era is not stated, but the catalogue's VS fits a Devanagari manuscript (VS 1830 is about 1773 CE). The tithi '25' cannot be a lunar tithi within a pakṣa: it may be a misreading or a slip (e.g. for 2 or 5), or a solar day count. No scribe, owner or place is named.",
+ "_meta": {
+  "reel": "A 354/28",
+  "model": "opus",
+  "cost_usd": 0.048902799999999996,
+  "secs": 10.8
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Weekday added: 'bhṛtau' is probably a corruption of 'bhṛgau' (bhṛguvāra), which would make it Friday.",
+   "Tithi changed to caturthī (4th). 'Harasuta' (son of Hara) here most likely means Gaṇeśa, whose tithi is caturthī. 'Harasutaprakhya' is not a name.",
+   "Chronogram check: vidhu=1, śaila=7, bhū=1. 'Megha' is not a standard number-word and is taken as 7 only to match the catalogue's 1771. Read right to left this gives 1771; because the figure reads the same both ways, the reading direction does not matter.",
+   "King's confidence lowered to medium. Rājendra Vikrama Śāha was deposed in 1847 CE, so ŚS 1771 (1849 CE) falls after his reign. This is now stated in the notes.",
+   "'Nepālendra' kept as an epithet/title. The note's guess that the tithi phrase might hide a person's name has been dropped."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rājendra",
+   "name": "Rājendra",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nepālendra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājendrabhūmaṇḍale nepālendrapade",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke vidhuśailameghabhuvi yad rājendrabhūmaṇḍale nepālendrapade bhṛtau harasutaprakhyas tithau",
+  "era": "ŚS",
+  "year": "1771",
+  "month": "",
+  "paksa": "",
+  "tithi": "caturthī (probable; harasutaprakhya tithi = Gaṇeśa's tithi)",
+  "weekday": "Friday (bhṛtau, probably for bhṛgau; uncertain)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1849"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram: vidhu (1) śaila (7) megha (?) bhū (1). 'Megha' is not a standard number-word; it is taken as 7 only to match the catalogue's ŚS 1771, so the year is uncertain. ŚS 1771 = ca. 1849 CE. That is after King Rājendra Vikrama Śāha was deposed (1847 CE, succeeded by Surendra). Either the scribe still named the old king, or 'megha' should be read differently. 'Bhṛtau' is probably a corruption of 'bhṛgau' (Friday). 'Harasutaprakhya tithi' is probably caturthī (Gaṇeśa); ṣaṣṭhī (Skanda) is also possible. Month and pakṣa are not given. No scribe, commissioner or place is named.",
+ "_meta": {
+  "reel": "A 473/50",
+  "model": "opus",
+  "cost_usd": 0.5667256,
+  "secs": 27.8
+ }
+}

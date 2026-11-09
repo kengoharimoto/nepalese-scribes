@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvajrācāryyadānaratna",
+   "name": "Dānaratna",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Henākamahāvihāra",
+   "residence": "",
+   "evidence": "likhāyitā henākamahāvihārasya śrīvajrācāryyadānaratna || thavata nirmirttinaṃ dayakā julo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ nepāli || 1048 || jyeṣṭha gā 3 roja 4",
+  "era": "NS",
+  "year": "1048",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "3",
+  "weekday": "roja 4 (Wednesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1928"
+ },
+ "place": {
+  "as_written": "henākamahāvihārasya",
+  "normalized": "Patan"
+ },
+ "purpose": "thavata nirmirttinaṃ dayakā julo (made for oneself / svārtha)",
+ "notes": "Henākamahāvihāra (Hakhabāhā) is a well-known bāhā in Patan (Lalitpur).",
+ "_meta": {
+  "reel": "B 86/2",
+  "model": "gemini-flash-latest",
+  "secs": 9.2,
+  "in_tok": 795,
+  "out_tok": 1017
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśveśvarasaraś(!)vatī",
+   "name": "Viśveśvara Sarasvatī",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "paramahaṃsa",
+    "parivrājakācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viśveśvarasaraś(!)vatīcaraṇāraviṃdamadhukareṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "madhusūdanasarasvatī",
+   "name": "Madhusūdana Sarasvatī",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "sarasvatī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "madhusūdanasarasvatīsamākhyādhareṇa kenacid viracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīṣaridārajñānavānkā",
+   "name": "Jñānavāna",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "kharidāra"
+   ],
+   "affiliation": "",
+   "residence": "madhuhiṭitola",
+   "evidence": "śrīṣaridārajñānavānkā ghara",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "jīvanātha upādhyāya miśra",
+   "name": "Jīvanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya",
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhanyā jīvanātha upādhyāya miśra",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "viśveśvarasaraś(!)vatīcaraṇāraviṃdamadhukareṇa"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1782 samvat 1917 sālamiti adhika āśvinavadi 6 roja 7",
+  "era": "VS",
+  "year": "1917",
+  "month": "adhika āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "6",
+  "weekday": "roja 7 (Saturday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1860"
+ },
+ "place": {
+  "as_written": "madhuhiṭitola śrīṣaridārajñānavānkā ghara",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śaka 1782 and Vikrama Saṃvat 1917 are specified. Durvāsas is also mentioned at the end of the text ('durvāsāviracitaṃ') as a legendary author and thus omitted.",
+ "_meta": {
+  "reel": "A 1111/19",
+  "model": "gemini-flash-latest",
+  "secs": 13.3,
+  "in_tok": 1026,
+  "out_tok": 2137
+ }
+}

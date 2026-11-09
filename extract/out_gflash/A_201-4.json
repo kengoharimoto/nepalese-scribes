@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 785 āṣāḍha śukla paṃcamyāṃ tithau megha nakṣatre bṛhaspativārau",
+  "era": "NS",
+  "year": "785",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "paṃcamī",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "megha",
+  "ce_approx": "1665"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons (scribe, commissioner, king, etc.) are named in the colophon. The nakṣatra 'megha' is likely a corruption of maghā.",
+ "_meta": {
+  "reel": "A 201/4",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 1249,
+  "out_tok": 644
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī3balahadra-upādhyā[ya]luñiṃṭyāl",
+   "name": "Balabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "Luñiṃṭyāla",
+   "residence": "Bhīrapāni",
+   "evidence": "śrī3balahadra-upādhyā[ya]luñiṃṭyāl li(!)ṣaka[ḥ]",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1924 sālamiti bhādraśudi 9 roja 7",
+  "era": "VS",
+  "year": "1924",
+  "month": "bhādra",
+  "paksa": "śuklapakṣa",
+  "tithi": "9",
+  "weekday": "roja 7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1867"
+ },
+ "place": {
+  "as_written": "bhīrapāni",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name is written as balahadra (for Balabhadra); Luñiṃṭyāla is a Brahmin clan name (thar, modern Luitel).",
+ "_meta": {
+  "reel": "A 1383/9",
+  "model": "gemini-flash-latest",
+  "secs": 10.9,
+  "in_tok": 772,
+  "out_tok": 1620
+ }
+}

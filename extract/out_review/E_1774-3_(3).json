@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. Notes now add Dhanavīra as another possible reading of the corrupt name."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācāryyaśrīdhanavṛnāmnena",
+   "name": "Dhanavṛ",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mama vajrācāryyaśrīdhanavṛnāmnena(!) idaṃ vasudhārā, kalpanāmadhāraṇī, likhitaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The name 'Dhanavṛ' (marked (!) by the cataloguer) is probably corrupt or abbreviated. Possible readings include Dhanavīra, Dhanavṛddhi and Dhanavajra. 'mama ... nāmnena ... likhitaṃ' (written by me, named ...) shows only that he was the scribe. The colophon does not say the book is his, so the role 'owner' is not given. The colophon has no date or place.",
+ "_meta": {
+  "reel": "E 1774/3 (3)",
+  "model": "opus",
+  "cost_usd": 0.0466748,
+  "secs": 8.1
+ }
+}

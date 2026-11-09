@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśuke(!)devaśarmmaṇā",
+   "name": "Śukadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ śrīśuke(!)devaśarmmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsambat 1864 sāla mārgaśīraśudi 8 roja 2",
+  "era": "VS",
+  "year": "1864",
+  "month": "mārgaśīra",
+  "paksa": "śudi",
+  "tithi": "8",
+  "weekday": "roja 2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1807"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 540/15",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 728,
+  "out_tok": 687
+ }
+}

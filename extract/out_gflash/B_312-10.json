@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vāṇa",
+   "name": "Bāṇa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vāṇaviracitaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 1723mā⁅rga⁆śiraśudi 11 bhaume",
+  "era": "VS",
+  "year": "1723",
+  "month": "mārgaśira",
+  "paksa": "śudi",
+  "tithi": "11",
+  "weekday": "bhaume",
+  "nakshatra_yoga": "",
+  "ce_approx": "1666"
+ },
+ "place": {
+  "as_written": "vārāṇasīmadhyo",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 312/10",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 707,
+  "out_tok": 751
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdharācāryoṇā",
+   "name": "Śrīdhara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdharācāryoṇāśrutiṃ smṛtiṃ vidā kṛte smṛtyarthasāre",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "viśvāmītramāheśvaranāgaviṣṇubhaṭṭopādhyāya",
+   "name": "Nāgaviṣṇu",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa",
+    "upādhyāya",
+    "māheśvara"
+   ],
+   "affiliation": "Viśvāmitra gotra",
+   "residence": "",
+   "evidence": "viśvāmītramāheśvaranāgaviṣṇubhaṭṭopādhyāyasūnunā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "viśvāmītramāheśvaranāgaviṣṇubhaṭṭopādhyāyasūnunā | śrīdharācāryoṇā"
+  }
+ ],
+ "date": {
+  "as_written": "śrī sāke 1692 || śrī saṃvat 1827",
+  "era": "VS",
+  "year": "1827",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1770"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śaka 1692 and Vikrama Saṃvat 1827 are given, which consistently point to 1770 CE.",
+ "_meta": {
+  "reel": "A 1105/4",
+  "model": "gemini-flash-latest",
+  "secs": 16.3,
+  "in_tok": 882,
+  "out_tok": 2691
+ }
+}

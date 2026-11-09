@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "trāmlakāla pvana bhāroṇa",
+   "name": "Pvana",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "trāmlakāla",
+    "bhāro"
+   ],
+   "affiliation": "",
+   "residence": "śrīkāṣṭamaṇḍapa mahānagale caukvāṭha kvacheṃ",
+   "evidence": "thavata svārthana thva cānaka (5) graṃtha cocakā juro",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vajrācārya śrībyakhāsiṃhadevana",
+   "name": "Byakhāsiṃhadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "tarumulavihāre",
+   "residence": "sayaratora",
+   "evidence": "sayaratora tarumulavihāre vajrācārya śrībyakhāsiṃhadevana likhita",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "trāmlakāla pvana bhāroṇa thavata svārthana thva cānaka (5) graṃtha cocakā juro ... vajrācārya śrībyakhāsiṃhadevana likhita"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 767 aśunikṛṣṇa 5 paṃcaṃmyāṃ śuklavāre",
+  "era": "NS",
+  "year": "767",
+  "month": "aśuni",
+  "paksa": "kṛṣṇa",
+  "tithi": "5 paṃcaṃmyāṃ",
+  "weekday": "śuklavāre",
+  "nakshatra_yoga": "",
+  "ce_approx": "1647"
+ },
+ "place": {
+  "as_written": "śrīkāṣṭamaṇḍapa mahānagale caukvāṭha kvacheṃ / sayaratora tarumulavihāre",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "svārtha (thavata svārthana)",
+ "notes": "Trāmlakāla represents Tāmrakāra (caste/profession of coppersmiths); Pvana (or Pona) is the personal name of the commissioner.",
+ "_meta": {
+  "reel": "B 280/19",
+  "model": "gemini-flash-latest",
+  "secs": 14.2,
+  "in_tok": 892,
+  "out_tok": 2069
+ }
+}

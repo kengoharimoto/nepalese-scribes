@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1019 pauṣa kṛṣṇāṣṭamī || bhṛguvāre",
+  "era": "NS",
+  "year": "1019",
+  "month": "pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "bhṛguvāre",
+  "nakshatra_yoga": "",
+  "ce_approx": "1899"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons (scribe, commissioner, king) are mentioned in the colophon; it only records the date and completion of copying in Newari (thva ṣu coya siddha yakā jula).",
+ "_meta": {
+  "reel": "A 110/2",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 815,
+  "out_tok": 1020
+ }
+}

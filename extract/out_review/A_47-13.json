@@ -1,0 +1,78 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2: name normalized to 'Lakṣmīpālavarman'; 'bhallāka' (= bhalloka, later bhāro, an honorific/office title) moved to titles",
+   "p3 '(buauvarman)' removed as a separate person: 'prasiddhanāma' introduces the popular name of the donor himself, so it is an alias of p2 and is now recorded in notes",
+   "weekday normalized to Thursday (bṛhaspatidina)"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvijayakāmadevasya",
+   "name": "Vijayakāmadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvijayakāmadevasya vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīlakṣmīpālavarmabhallākena",
+   "name": "Lakṣmīpālavarman",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "bhallāka",
+    "pravaramahāyānayāyin",
+    "paramopāsaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "deyadha⁅rmmo⁆ yaṃ ... śrīlakṣmīpālavarmabhallākena likhā⁅pita⁆",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīvijayakāmadevasya vijayarājye | deyadha⁅rmmo⁆ yaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 312 vai⁅śā⁆〇⁅kla⁆tṛtīyāyām bṛhaspatidine",
+  "era": "NS",
+  "year": "312",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "Thursday (bṛhaspatidina)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1192"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "deyadharma (pious gift) for the benefit of all beings (sarvasattvārthahetu)",
+ "notes": "Era not stated, but taken as NS: the catalogue says so, and Vijayakāmadeva's reign (c. NS 312) fits. Month and pakṣa are partly restored (vai⁅śā⁆〇⁅kla⁆). 'bhallāka' is the title bhalloka (later bhāro); the catalogue writes 'Lakṣmīpālavarmabhalloka'. 'prasiddhanāma śrī (buauvarman)' gives the donor's popular name. The cataloguer marked the reading as uncertain; it could be something like Bubuvarman. It is not counted as a separate person. No scribe is named.",
+ "_meta": {
+  "reel": "A 47/13",
+  "model": "opus",
+  "cost_usd": 0.07591880000000001,
+  "secs": 16.8
+ }
+}

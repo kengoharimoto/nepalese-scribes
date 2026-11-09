@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīanantamaladesya(!)",
+   "name": "Anantamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīanantamaladesya(!) rājye",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samva 400 phalguṇakṛṣṇaekādaśyā(!) tithau || bhūmivāsare",
+  "era": "NS",
+  "year": "400",
+  "month": "phalguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "ekādaśī",
+  "weekday": "bhūmivāsare",
+  "nakshatra_yoga": "",
+  "ce_approx": "1280"
+ },
+ "place": {
+  "as_written": "śrīnepale(!) de(se) | śrīpasupti(!)sthāne",
+  "normalized": "Kathmandu, Paśupati"
+ },
+ "purpose": "",
+ "notes": "The scribe is anonymous (likhitaṃ subham). The king's name is written with scribal omission/error as 'śrīanantamaladesya(!)' for 'śrīanantamalladevasya'.",
+ "_meta": {
+  "reel": "B 12/10",
+  "model": "gemini-flash-latest",
+  "secs": 7.2,
+  "in_tok": 786,
+  "out_tok": 829
+ }
+}

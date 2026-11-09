@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Author's name: 'śrīmanvādhavānanda' read as śrīman + Mādhavānanda (the 'nv' comes from the honorific śrīmat run into the name), so the stem is Mādhavānanda(rāja), not 'Manvādhavānandarāja'. Name given as Mādhavānandarāja, keeping the final -rāja, which may be an honorific.",
+   "as_written now gives the full form 'śrīmanvādhavānandarāja'.",
+   "Confidence lowered from high to medium because the reading is a correction.",
+   "Notes expanded: no scribe or date; the title is misspelled in the catalogue fields."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmanvādhavānandarāja",
+   "name": "Mādhavānandarāja",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "rājadaivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrājadaivajñaśrīmanvādhavānandarājakṛte",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "This is only a chapter colophon (end of sarga 5). It names no scribe, owner or date and gives no place of copying. 'śrīmanvādhavānanda' is probably śrīman-Mādhavānanda: the honorific śrīmat has run into the name. The final -rāja could be part of the name or an honorific. 'subhāsābhūṣite' is probably subhāṣā-bhūṣite, meaning the text comes with a vernacular (bhāṣā) rendering. The catalogue title 'Sukhārṇāvārthaprakāśa' is misspelled for Sukhārṇavārthaprakāśa, as the colophon itself shows.",
+ "_meta": {
+  "reel": "A 907/10 (1)",
+  "model": "opus",
+  "cost_usd": 0.5411935999999999,
+  "secs": 20.9
+ }
+}

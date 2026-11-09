@@ -1,0 +1,70 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rakṣmīsiṃha bhā",
+   "name": "Lakṣmīsiṃha",
+   "roles": [
+    "commissioner",
+    "owner",
+    "beneficiary"
+   ],
+   "titles": [
+    "kvāṭhanāyaka",
+    "bhā"
+   ],
+   "affiliation": "",
+   "residence": "śrīkittīpula",
+   "evidence": "śrīkittīpulayā kvāṭhanāyaka, rakṣmīsiṃha bhāyāta, karaṇa kāeṣṭha lalītasiṃhana, saṃpūrṇṇa yāṅaṃ siddhayakāva biyā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "lalītasiṃha",
+   "name": "Lalitasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karaṇa",
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lalītasya samāpatāṃḥ ... karaṇa kāeṣṭha lalītasiṃhana, saṃpūrṇṇa yāṅaṃ siddhayakāva biyā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "rakṣmīsiṃha bhāyāta, karaṇa kāeṣṭha lalītasiṃhana, saṃpūrṇṇa yāṅaṃ siddhayakāva biyā juro"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 827 mārggaśirakṛṣṇa, catudaśyāntithau, jyeṣṭhānakṣatre, vṛrddhatiyoge, ādityavāsare",
+  "era": "NS",
+  "year": "827",
+  "month": "mārggaśira",
+  "paksa": "kṛṣṇa",
+  "tithi": "catudaśī",
+  "weekday": "ādityavāsara",
+  "nakshatra_yoga": "jyeṣṭhā, vṛrddhati",
+  "ce_approx": "1707"
+ },
+ "place": {
+  "as_written": "śrīkittīpula",
+  "normalized": "Kirtipur"
+ },
+ "purpose": "śrīviṣṇuprītir astu",
+ "notes": "The chronogram 'dvīpanetravasuvarṣa' corresponds to 827 (dvīpa = 7, netra = 2, vasu = 8). Kittīpula refers to Kīrtipura (Kirtipur), of which Lakṣmīsiṃha Bhā was the kvāṭhanāyaka (fort commander / governor).",
+ "_meta": {
+  "reel": "B 282/12",
+  "model": "gemini-flash-latest",
+  "secs": 13.4,
+  "in_tok": 1221,
+  "out_tok": 1735
+ }
+}

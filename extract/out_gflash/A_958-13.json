@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "induśeṣaraśarmaṇe",
+   "name": "Induśekhara",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "induśeṣaraśarmaṇe śubhaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1721 saṃvat 1906 sāla āśvinakṛṣṇa 10",
+  "era": "VS",
+  "year": "1906",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1849"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "induśeṣaraśarmaṇe śubhaṃ",
+ "notes": "The Śaka year 1721 is likely a scribal error or misreading of 1771, which matches VS 1906 (ca. 1849 CE). The name induśeṣara represents Induśekhara with the typical phonetic/graphemic exchange of ṣa for kha.",
+ "_meta": {
+  "reel": "A 958/13",
+  "model": "gemini-flash-latest",
+  "secs": 10.5,
+  "in_tok": 738,
+  "out_tok": 1368
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭajidīkṣita",
+   "name": "Bhaṭṭoji",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "dīkṣita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭajidīkṣitaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "lakṣmīdhara",
+   "name": "Lakṣmīdhara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lakṣmīdharaputra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "saśeraṃtumāla",
+   "name": "Saśeraṃtumāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Vārāṇasī",
+   "evidence": "likhitaṃ vārāṇasīsaśeraṃtumāla",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "lakṣmīdharaputra"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1695 samae āṣāḍha vadī jātiyā vāra ādit vā 3",
+  "era": "VS",
+  "year": "1695",
+  "month": "āṣāḍha",
+  "paksa": "vadī",
+  "tithi": "jātiyā",
+  "weekday": "ādit vāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1638"
+ },
+ "place": {
+  "as_written": "vārāṇasī",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The string 'saśeraṃtumāla' directly following 'likhitaṃ vārāṇasī' likely contains the scribe's name (possibly a corrupt reading of a vernacular name or a toponym/mohalla in Banaras). The tithi 'jātiyā' is likely corrupt for 'dvitīyā' or 'tṛtīyā' (note the numeral 3 at the end).",
+ "_meta": {
+  "reel": "A 587/14",
+  "model": "gemini-flash-latest",
+  "secs": 16.3,
+  "in_tok": 781,
+  "out_tok": 2102
+ }
+}

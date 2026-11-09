@@ -1,0 +1,67 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Decoded the chronogram: pakṣa=2, vāṇa=5, nanda=9, go=1, read right to left = 1952 (presumably VS).",
+   "Main date changed to the verse date that goes with 'likhiteyaṃ': VS 1952 Āṣāḍha kṛṣṇa 13, about mid-1895 CE. The closing Śāke 1816 / VS 1951 / NS 1015 Caitra vadi 8 date is moved to notes.",
+   "Notes rewritten."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ācāryyabharibhadrapādānāṃ",
+   "name": "Haribhadra",
+   "roles": [
+    "author",
+    "commentator"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtir iyam ācāryyabharibhadrapādānāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vajrācāryyajyotimānandena",
+   "name": "Jyotimānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiteyaṃ vajrācāryyajyotimānandena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "pakṣavānanandagoyute samvate || āṣāḍhakṛṣṇatrayodasyān tithau dine",
+  "era": "VS",
+  "year": "1952",
+  "month": "Āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1895"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon has two dates. (1) The verse chronogram pakṣa(2) vāṇa(5) nanda(9) go(1) = 1952, Āṣāḍha kṛṣṇa 13. The era is not named but is presumably VS: about June/July 1895. (2) The closing note: Śāke 1816, saṃvat 1951, NS 1015, Caitra vadi 8. These three years agree with each other, giving about March/April 1895. The two dates are only months apart and do not conflict. The Āṣāḍha date goes with 'likhiteyaṃ', so it probably marks when copying finished. The catalogue's VS 1952 matches the chronogram, not the 1951 of the closing note. 'bharibhadra' is a corrupt form of Haribhadra. The catalogue spells the scribe's name 'Jyotimānada'; the colophon reads Jyotimānanda.",
+ "_meta": {
+  "reel": "B 86/8",
+  "model": "opus",
+  "cost_usd": 0.6306204,
+  "secs": 42.6
+ }
+}

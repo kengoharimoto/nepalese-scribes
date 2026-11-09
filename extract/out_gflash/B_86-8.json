@@ -1,0 +1,60 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ācāryyabharibhadrapādānāṃ",
+   "name": "Haribhadra",
+   "roles": [
+    "author",
+    "commentator"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtir iyam ācāryyabharibhadrapādānāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vajrācāryyajyotimānandena",
+   "name": "Jyotimānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiteyaṃ vajrācāryyajyotimānandena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "pakṣavānanandagoyute samvate || āṣāḍhakṛṣṇatrayodasyān tithau dine || ... śrīśāke 1816 śrīsamvat 1951 nepālīsamvat 1015 miti caitravadi 8 roja",
+  "era": "VS",
+  "year": "1951",
+  "month": "Caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1895"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon contains two dates: a chronogram date in verse (pakṣavāṇanandagoyute saṃvate āṣāḍhakṛṣṇatrayodasyān) and an explicit date at the end giving Śāke 1816, VS 1951, NS 1015, Caitra vadi 8. The author name ācāryyabharibhadra is a corrupt form of Ācārya Haribhadra.",
+ "_meta": {
+  "reel": "B 86/8",
+  "model": "gemini-flash-latest",
+  "secs": 19.9,
+  "in_tok": 853,
+  "out_tok": 2771
+ }
+}

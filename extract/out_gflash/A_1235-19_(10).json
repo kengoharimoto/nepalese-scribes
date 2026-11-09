@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīśrī sumati jaya jitāmitramalladevasa",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīśrī sumati jaya jitāmitramalladevasa dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 815 pauṣaśudi 6 thvakuhnu",
+  "era": "NS",
+  "year": "815",
+  "month": "pauṣa",
+  "paksa": "śudi",
+  "tithi": "6",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1695"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Jayajitāmitramalladeva (Jitāmitra Malla) was the king of Bhaktapur.",
+ "_meta": {
+  "reel": "A 1235/19 (10)",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 723,
+  "out_tok": 761
+ }
+}

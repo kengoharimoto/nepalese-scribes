@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "muti (...) rāya",
+   "name": "Mutirāya",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "rāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhita muti (fol. 59v7 corner) rāya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records Bhaktapur as place of copying and Bhūpatīndra Malla as king (the author of the Prabhāvatīharaṇanāṭaka), but neither is mentioned in the quoted end-colophon snippet.",
+ "_meta": {
+  "reel": "A 348/2",
+  "model": "gemini-flash-latest",
+  "secs": 9.3,
+  "in_tok": 660,
+  "out_tok": 1097
+ }
+}

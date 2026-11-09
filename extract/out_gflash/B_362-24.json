@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaṃgādharabhaṭṭena",
+   "name": "Gaṅgādhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "Sāgara",
+   "evidence": "likhitam idaṃ sāgaravāsinā gaṃgādharabhaṭṭena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1825 kārttika sudi 7 aṣṭamyāṃ",
+  "era": "VS",
+  "year": "1825",
+  "month": "kārttika",
+  "paksa": "śuklapakṣa",
+  "tithi": "7 aṣṭamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1768"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe is described as an inhabitant of Sāgara (sāgaravāsin). The tithi is written as '7 aṣṭamyāṃ'.",
+ "_meta": {
+  "reel": "B 362/24",
+  "model": "gemini-flash-latest",
+  "secs": 8.7,
+  "in_tok": 689,
+  "out_tok": 1117
+ }
+}

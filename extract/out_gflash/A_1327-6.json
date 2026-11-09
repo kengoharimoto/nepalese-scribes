@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1958 sāla miti kārtika sudi 9 roja",
+  "era": "VS",
+  "year": "1958",
+  "month": "kārtika",
+  "paksa": "sudi",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1901"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No individual persons (scribe, commissioner, owner, king) are named in the colophon. The phrase 'puṇyara(!)kṣmīḥ satpuruṣasya...' belongs to the textual conclusion.",
+ "_meta": {
+  "reel": "A 1327/6",
+  "model": "gemini-flash-latest",
+  "secs": 11.7,
+  "in_tok": 727,
+  "out_tok": 1609
+ }
+}

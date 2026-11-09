@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1818 śrīsamvat 1951 śrīnepāliyasaṃvat 1015 sāla miti pauṣa śukla 8 roja",
+  "era": "ŚS",
+  "year": "1818",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "8",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1895"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date specifies three eras: ŚS 1818, VS 1951, and NS 1015. VS 1951 and NS 1015 correspond to 1894–1895 CE (Pauṣa śukla 8 = January 1895 CE), whereas ŚS 1818 appears to be discrepant (ŚS 1816 would correspond to VS 1951). Śākyasiṃha (the Buddha) is mentioned only as the speaker/subject of the text.",
+ "_meta": {
+  "reel": "B 97/3",
+  "model": "gemini-flash-latest",
+  "secs": 11.9,
+  "in_tok": 723,
+  "out_tok": 1488
+ }
+}

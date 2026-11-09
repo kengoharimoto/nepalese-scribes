@@ -1,0 +1,65 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Vācaspatimiśra: role reduced to 'author'. He wrote the Tattvakaumudī, which is itself a commentary on the Sāṃkhyakārikā, so 'commentator' only repeated the same fact.",
+   "p2 Ravinandana: confidence lowered to low. 'ravinaṃdane' could also be a locative meaning 'on the day of the son of Ravi', i.e. Saturday (Śani), but that would contradict 'śukravāsare' (Friday). This alternative is now in the notes.",
+   "Place: as_written changed to the compound as it appears ('muḍiṣusthāna-vāstavyaṃ'). It is a residence statement, not an explicit statement of where the copy was made.",
+   "Notes expanded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvācaspatimiśra",
+   "name": "Vācaspati",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvācaspatimiśraviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ravinaṃdane",
+   "name": "Ravinandana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Muḍiṣusthāna",
+   "evidence": "muḍiṣusthānavāstavyaṃ liṣyate(!) ravinaṃdane",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke1707 āṣāḍakṛṣṇadaśamyāṃ revati śukravāsare",
+  "era": "ŚS",
+  "year": "1707",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "revatī",
+  "ce_approx": "1785"
+ },
+ "place": {
+  "as_written": "muḍiṣusthāna",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe line 'muḍiṣusthānavāstavyaṃ liṣyate(!) ravinaṃdane' is ungrammatical. It means roughly 'written (likhyate) by Ravinandana, resident of Muḍiṣu-sthāna', with the instrumental expected but the locative written. Another reading is possible: 'ravinandane' as a locative meaning 'on the day of Ravi's son (Śani)', i.e. Saturday. That reading leaves no scribe name, and Saturday conflicts with 'śukravāsare' (Friday), so the personal-name reading is kept, with low confidence. Muḍiṣu is not identified. The sentence gives the scribe's residence and only implies the place of copying. ŚS 1707 = c. 1785 CE, which agrees with the catalogue. A Revatī nakṣatra on Āṣāḍha kṛṣṇa 10 is astronomically plausible; the weekday has not been checked. Vācaspati's title 'miśra' has been moved to titles.",
+ "_meta": {
+  "reel": "B 38/5",
+  "model": "opus",
+  "cost_usd": 0.06740679999999999,
+  "secs": 18.2
+ }
+}

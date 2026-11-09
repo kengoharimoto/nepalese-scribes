@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhavanāthaśarmaṇā",
+   "name": "Bhavanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "Kāśyapānvaya",
+   "residence": "",
+   "evidence": "likhitam idaṃ kasyapānvayasaṃbhūtena bhavanāthaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śarārinagabhūmite śrīśālivāhanīyaśake śrāvaṇaśuklapaṃcamyāṃ vidhau",
+  "era": "ŚS",
+  "year": "1765",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "Monday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1843"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram śara (5) - ari (6) - naga (7) - bhū (1) yields Śālivāhana Śaka 1765. Vidhu stands for Monday.",
+ "_meta": {
+  "reel": "B 407/20",
+  "model": "gemini-flash-latest",
+  "secs": 9.9,
+  "in_tok": 737,
+  "out_tok": 1051
+ }
+}

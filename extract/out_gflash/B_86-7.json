@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvajrācāryabauddhena",
+   "name": "Bauddha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "saṃpūrṇṇa(!) likhitaṃ, śrīvajrācāryabauddhena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrībodhivajrācāryena",
+   "name": "Bodhivajra",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībodhivajrācāryena, śrīanurttaravajrācāryayā taṃ data viyā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīanurttaravajrācāryayā",
+   "name": "Anuttaravajra",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīanurttaravajrācāryayā taṃ data viyā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "other",
+   "to": "p3",
+   "evidence": "śrībodhivajrācāryena, śrīanurttaravajrācāryayā taṃ data viyā juro"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 773 vaiśaṣa(!)śuklapañcamyāṃ",
+  "era": "NS",
+  "year": "773",
+  "month": "vaiśaṣa",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1653"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "gift/handover of the manuscript and ritual paraphernalia to Anuttaravajrācārya",
+ "notes": "The manuscript was copied by Bauddha Vajrācārya and subsequently gifted/handed over by Bodhivajrācārya to Anuttaravajrācārya along with ritual items (data viyā juro).",
+ "_meta": {
+  "reel": "B 86/7",
+  "model": "gemini-flash-latest",
+  "secs": 14.1,
+  "in_tok": 906,
+  "out_tok": 2151
+ }
+}

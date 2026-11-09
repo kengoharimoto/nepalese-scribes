@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīratnākaraśāntipādānāṃ",
+   "name": "Ratnākaraśānti",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "pāda"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtir iyaṃ śrīratnākaraśāntipādānāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat acūḍe māgha〇śuklapratipada",
+  "era": "NS",
+  "year": "acūḍe",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "pratipada",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1059"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is expressed in letter-numerals (akṣarapallī): a-cū-ḍe corresponds to 179 NS (100 + 70 + 9).",
+ "_meta": {
+  "reel": "A 20/9",
+  "model": "gemini-flash-latest",
+  "secs": 8.6,
+  "in_tok": 685,
+  "out_tok": 804
+ }
+}

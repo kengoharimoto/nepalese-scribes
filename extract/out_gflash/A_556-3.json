@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmacaṃdrācāryya",
+   "name": "Rāmacandra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmacaṃdrācāryyaviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 784",
+  "era": "NS",
+  "year": "784",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1664"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe refers to himself anonymously with the standard verse ('likhitaṃ mayā'). The catalogue assigns the era to Nepāla Saṃvat 784.",
+ "_meta": {
+  "reel": "A 556/3",
+  "model": "gemini-flash-latest",
+  "secs": 8.1,
+  "in_tok": 926,
+  "out_tok": 1129
+ }
+}

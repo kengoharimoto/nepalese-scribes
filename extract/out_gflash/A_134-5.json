@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paṇḍitabhikṣuprajñākaramatipādānāṃ",
+   "name": "Prajñākaramati",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "paṇḍita",
+    "bhikṣu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtir iyaṃ paṇḍitabhikṣuprajñākaramatipādānāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmacchaṃkaradevasya",
+   "name": "Śaṅkaradeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmacchaṃkaradevasya rājye vijayaśālinaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "buddhacaṃdrasya",
+   "name": "Buddhacandra",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "sthavira",
+    "bhikṣu"
+   ],
+   "affiliation": "Rāghavanāmasthavihāra",
+   "residence": "Māṇigla, Lalitapura",
+   "evidence": "dhanyasthavirabhikṣos tu buddhacaṃdrasya pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "śrīmacchaṃkaradevasya rājye vijayaśālinaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "aṣṭānavatisaṃyukte śate śaradi vatsare | kṛṣṇe śrāvaṇapañcamyāṃ vāsare kujam āhvaye",
+  "era": "NS",
+  "year": "198",
+  "month": "Śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1078"
+ },
+ "place": {
+  "as_written": "śrīlalitapure ramye śrīmāṇiglasasṃjñake || yacchrīraghavanāmasthavihāre",
+  "normalized": "Patan"
+ },
+ "purpose": "tatpuṇyād bodhisatvasya labhate paramaṃ padam",
+ "notes": "The catalogue queries VS 1989? for the date, but 'aṣṭānavatisaṃyukte śate' clearly means NS 198 (c. 1078 CE), which corresponds to the reign of the historical Licchavi/Transitional Period king Śaṅkaradeva. The scribe refers to himself anonymously ('likhitvā mayā').",
+ "_meta": {
+  "reel": "A 134/5",
+  "model": "gemini-flash-latest",
+  "secs": 15.1,
+  "in_tok": 1004,
+  "out_tok": 2552
+ }
+}

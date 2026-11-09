@@ -1,0 +1,70 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvaikuṇṭhapurīviracite",
+   "name": "Vaikuṇṭhapurī",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvaikuṇṭhapurīviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "viṣṇuprasāda",
+   "name": "Viṣṇuprasāda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vāhuja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viṣṇuprasāda ityākhyo vāhujaḥ ... tābhyāṃ tu likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "viśvanāthaś",
+   "name": "Viśvanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "gaṇakakula",
+   "residence": "",
+   "evidence": "gaṇakasya kule jāto viśvanāthaś ca ... tābhyāṃ tu likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "yamābhravasubhūśāke śrāvaṇasya pare dale || pañcamyān dasrabhe saumye vṛddhiyoge",
+  "era": "ŚS",
+  "year": "1802",
+  "month": "Śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "dasrabha (Aśvinī), Vṛddhi yoga",
+  "ce_approx": "1880"
+ },
+ "place": {
+  "as_written": "nepāle bhaktapuryyān tu maṅgaleśvarasannidhau",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "The catalogue records only 'Viṣṇuprada Kṣetrī', but the colophon explicitly names two scribes who jointly wrote the manuscript ('tābhyāṃ tu likhitaṃ'): Viṣṇuprasāda (a vāhuja / Kṣatriya) and Viśvanātha (born in the lineage of an astrologer/gaṇaka).",
+ "_meta": {
+  "reel": "C 29/11",
+  "model": "gemini-flash-latest",
+  "secs": 14.0,
+  "in_tok": 1454,
+  "out_tok": 1901
+ }
+}

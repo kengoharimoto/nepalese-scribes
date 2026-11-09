@@ -1,0 +1,82 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭaśrībhavadeva",
+   "name": "Bhavadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭaśrībhavadevakṛtaprāyaścittaprakaraṇaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rudrasāha",
+   "name": "Rudrasāha",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "girirājacūḍāmaṇi",
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "Gorkha",
+   "evidence": "mahārājādhirājaśrīśrīmadrudrasāhabhujyamāne",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "tilūśarmmaṇā",
+   "name": "Tilūśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ jyotirvit tilūśarmmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "mahārājādhirājaśrīśrīmadrudrasāhabhujyamāne goraṣāgrāme gajasthāne likhitaṃ jyotirvit tilūśarmmaṇā"
+  }
+ ],
+ "date": {
+  "as_written": "śrī śāke 1589 samaye jyeṣṭha vadi dvitīyāyāṃ tithau somavāsare",
+  "era": "ŚS",
+  "year": "1589",
+  "month": "Jyeṣṭha",
+  "paksa": "vadi",
+  "tithi": "dvitīyā",
+  "weekday": "somavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1667"
+ },
+ "place": {
+  "as_written": "goraṣāgrāme gajasthāne",
+  "normalized": "Gorkha"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 521/3",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 1057,
+  "out_tok": 919
+ }
+}

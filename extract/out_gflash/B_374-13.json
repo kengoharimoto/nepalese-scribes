@@ -1,0 +1,100 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvaidyanāthena / vaidyanātha-",
+   "name": "Vaidyanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "Lāmba (lāmbopanāmnā)",
+   "residence": "",
+   "evidence": "śrīvaidyanāthena vinirmiteyaṃ lāmbopanāmnā hi paretakāśī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "āyopādhya-",
+   "name": "Āyopādhya",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "āyopādhyātmaja",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "nīlakaṇṭhaśyāmena",
+   "name": "Nīlakaṇṭhaśyāma",
+   "roles": [
+    "scribe",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Rālagrāma",
+   "evidence": "nīlakaṇṭhaśyāmena rālagrāme likhitā lakṣaṇaśarmaṇe dattā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "lakṣaṇaśarmaṇe",
+   "name": "Lakṣaṇaśarman",
+   "roles": [
+    "beneficiary",
+    "owner"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lakṣaṇaśarmaṇe dattā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "āyopādhyātmaja"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "nīlakaṇṭhaśyāmena rālagrāme likhitā lakṣaṇaśarmaṇe dattā"
+  }
+ ],
+ "date": {
+  "as_written": "siddhārthasaṃvatsarāntargata+kṛṣṇabhaurapratipadāyāṃ",
+  "era": "unspecified",
+  "year": "siddhārtha",
+  "month": "",
+  "paksa": "kṛṣṇa",
+  "tithi": "pratipadā",
+  "weekday": "bhauma",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "rālagrāme",
+  "normalized": ""
+ },
+ "purpose": "paropakārārthaṃ",
+ "notes": "The author's date of composition is also provided in verse: vaiśākhakṛṣṇe ... plavaṅge ṣaṣṭyāṃ ca vāyor grāme. The copy itself was made in Rālagrāma during a Siddhārtha Jovian year on a Tuesday (bhauma) pratipad.",
+ "_meta": {
+  "reel": "B 374/13",
+  "model": "gemini-flash-latest",
+  "secs": 13.1,
+  "in_tok": 950,
+  "out_tok": 1747
+ }
+}

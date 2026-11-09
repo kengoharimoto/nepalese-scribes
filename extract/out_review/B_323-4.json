@@ -1,0 +1,64 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "place.normalized cleared: 'Vaṃdipura near Karbudā' cannot safely be equated with modern Bandipur (Tanahun), since several places are called Bandipur and Karbudā is unidentified",
+   "Scribe's residence normalized to the stem form 'Vaṃdipura (near Karbudā)'",
+   "Notes expanded: the era is only 'saṃvat', and VS is inferred; the weekday was not checked; there is a discrepancy between the catalogue and the colophon"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śārṅgadhara-",
+   "name": "Śārṅgadhara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śārṅgadharaviracitāyāṃ paddhatyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kṛṣṇa nevāreṇa",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "nevāra"
+   ],
+   "affiliation": "",
+   "residence": "Vaṃdipura (near Karbudā)",
+   "evidence": "karbudānikaṭe vaṃdipuragrāme vasata ... likhitaṃ kṛṣṇa nevāreṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1840 samaye āṣāḍha vadi 5 vāra śaniścara",
+  "era": "VS",
+  "year": "1840",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "śaniścara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1783"
+ },
+ "place": {
+  "as_written": "karbudānikaṭe vaṃdipuragrāme",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon reads saṃvat 1840, but the catalogue field gives 1847. Either the cataloguer misread the numeral or it is a typo. The era is only given as 'saṃvat'. I inferred VS from the Nepali/Devanagari context (vadi, vāra, a Gorkhālī-area village), which gives about 1783 CE. If the era were ŚS, the date would be 1918 CE, which is less likely. I did not check the weekday (Saturday) against the date. Vaṃdipura near Karbudā may be Bandipur in Tanahun, but that is not certain. The scribal verses (ādarśadoṣān..., yādṛśaṃ pustakaṃ...) are standard formulae and quite corrupt.",
+ "_meta": {
+  "reel": "B 323/4",
+  "model": "opus",
+  "cost_usd": 0.0597748,
+  "secs": 13.8
+ }
+}

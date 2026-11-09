@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1944 miti jyeṣṭha śudi 10 roja 4",
+  "era": "VS",
+  "year": "1944",
+  "month": "jyeṣṭha",
+  "paksa": "śudi",
+  "tithi": "10",
+  "weekday": "roja 4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1887"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons (scribe, patron, owner, or king) are mentioned in the colophon.",
+ "_meta": {
+  "reel": "A 840/10",
+  "model": "gemini-flash-latest",
+  "secs": 5.1,
+  "in_tok": 775,
+  "out_tok": 572
+ }
+}

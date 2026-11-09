@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pātañjala",
+   "name": "Patañjali",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pātañjalayogaśāstre",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat – samaya agahanavadi trayodaśi",
+  "era": "unspecified",
+  "year": "",
+  "month": "agahana",
+  "paksa": "vadi",
+  "tithi": "trayodaśi",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "kāśyāṃ madhye kāśipurā madhye",
+  "normalized": "Varanasi"
+ },
+ "purpose": "",
+ "notes": "The year number after saṃvat was left blank.",
+ "_meta": {
+  "reel": "A 61/11",
+  "model": "gemini-flash-latest",
+  "secs": 10.1,
+  "in_tok": 709,
+  "out_tok": 1154
+ }
+}

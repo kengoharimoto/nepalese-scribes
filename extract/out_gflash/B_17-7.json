@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The excerpt contains only chapter colophons (adhyāya/sarga-puṣpikā) of the Uttarakāṇḍa; no scribal colophon naming persons, date, or place is present.",
+ "_meta": {
+  "reel": "B 17/7",
+  "model": "gemini-flash-latest",
+  "secs": 3.9,
+  "in_tok": 715,
+  "out_tok": 392
+ }
+}

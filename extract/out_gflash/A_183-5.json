@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "joganarasiṃhena",
+   "name": "Joganarasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñavā saṅgyā(!) joganarasiṃhena saṃpūrṇena likhitam idaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1765 vikra 1900 nepāla 963 miti bhādra sudi 13 roja 4",
+  "era": "ŚS",
+  "year": "1765",
+  "month": "bhādra",
+  "paksa": "sudi",
+  "tithi": "13",
+  "weekday": "roja 4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1843"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The manuscript is triple-dated in Śaka 1765, Vikrama Saṃvat 1900, and Nepāla Saṃvat 963 (1843 CE). The title/designation preceding the scribe's name reads 'daivajñavā saṅgyā(!)'.",
+ "_meta": {
+  "reel": "A 183/5",
+  "model": "gemini-flash-latest",
+  "secs": 9.1,
+  "in_tok": 787,
+  "out_tok": 1371
+ }
+}

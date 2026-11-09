@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumati jaya jitāmitramalladevasana",
+   "name": "Jayajitāmitramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumati jaya jitāmitramalladevasana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 815 phālguṇa śudi 14 thvakuhnu",
+  "era": "NS",
+  "year": "815",
+  "month": "phālguṇa",
+  "paksa": "śudi",
+  "tithi": "14",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1695"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "King Jitāmitramalla of Bhaktapur is mentioned with the title sumati as having had the work/manuscript made (dayakā juroṃ). The place of copying (Bhaktapur) noted in the catalogue is not explicitly stated in the colophon.",
+ "_meta": {
+  "reel": "A 1235/19 (19)",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 750,
+  "out_tok": 1152
+ }
+}

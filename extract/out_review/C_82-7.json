@@ -1,0 +1,89 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p3 (scribe 'Somara…'): kept at low confidence, with a note that 'somara' may instead be the start of a weekday (somavāra) and the scribe's name may be lost in the lacuna",
+   "Date: era NS is only inferred, since no era is written; noted that the letter-numeral reading a-hṛ-pta = 154 rests on the catalogue",
+   "ce_approx left as 1034 (NS 154 = 1033/34 CE); fits Lakṣmīkāmadeva's reign",
+   "Notes expanded: corrupt place name and the uncertain letter-numeral values"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pūrṇṇacandra",
+   "name": "Pūrṇacandra",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ācārya pūrṇṇacandra viracitāyāḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīlakṣmīkāmadevasya",
+   "name": "Lakṣmīkāmadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rajādhirāja parameśvara paramabhaṭṭārakaḥ śrīlakṣmīkāmadevasya vijayarājyeḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "somara…… (2) .. lekhikena",
+   "name": "Somara…",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "somara…… (2) .. lekhikena likhitanna",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "śrīlakṣmīkāmadevasya vijayarājyeḥ"
+  }
+ ],
+ "date": {
+  "as_written": "(a hṛ pta) (59v1) dvayorddhi ....... punarvasunakṣatre",
+  "era": "NS",
+  "year": "154",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "punarvasu",
+  "ce_approx": "1034"
+ },
+ "place": {
+  "as_written": "śrīkopravalabhya",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is written in letter-numerals (a hṛ pta). The value 154 comes from the catalogue: no era is named, and the value of each sign could not be checked independently. NS 154 = 1033/34 CE, which fits Lakṣmīkāmadeva's reign (c. NS 144–160 / 1024–1040 CE). 'somara……' follows the place name and comes just before '.. lekhikena', so it is probably the start of the scribe's name (e.g. Somarāja…). It could also be the start of a weekday (somavāra), though. In that case the scribe's name is lost in the lacuna. 'śrīkopravalabhya' is a corrupt toponym (perhaps a vihāra or locality) and cannot be identified. 'dvayorddhi' is fragmentary, possibly part of the tithi. Pūrṇacandra wrote the pañjikā, a commentary on the Śabdalakṣaṇavivaraṇa, so his role is given as commentator.",
+ "_meta": {
+  "reel": "C 82/7",
+  "model": "opus",
+  "cost_usd": 0.07650280000000001,
+  "secs": 23.4
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "lakṣmaṇaḥ",
+   "name": "Lakṣmaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lilekha kila lakṣmaṇaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "āṣāḍhaśuklapakṣe ca paṃcamyāṃ saumyavāsare || virodhivatsare",
+  "era": "unspecified",
+  "year": "virodhivatsara",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "pañcamī",
+  "weekday": "saumyavāsara (Wednesday)",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is given as the Jovian year Virodhin (virodhivatsara). The number '30' before the date stanza likely marks the verse/stanza count.",
+ "_meta": {
+  "reel": "A 1032/2",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 709,
+  "out_tok": 853
+ }
+}

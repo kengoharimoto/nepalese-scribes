@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sumatijayajitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrī sumatijayajitāmitramalladevasana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 811 kārttikaśuklanavamī thva kuhnu",
+  "era": "NS",
+  "year": "811",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "navamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1691"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The Newari verb 'dayakā juroṃ' indicates the king caused the manuscript to be made / commissioned it.",
+ "_meta": {
+  "reel": "A 248/1",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 745,
+  "out_tok": 993
+ }
+}

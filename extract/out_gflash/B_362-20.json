@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "prenidhiśarma",
+   "name": "Prenidhiśarman",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paṃtha"
+   ],
+   "affiliation": "bhāradvājakula",
+   "residence": "",
+   "evidence": "bhāradvājakulaprasūtapaṃthopanāmaprenidhiśarmanirmitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author is likely the well-known 18th-century ritualist Premanidhi Pant (Bhāradvāja gotra), here written prenidhiśarman.",
+ "_meta": {
+  "reel": "B 362/20",
+  "model": "gemini-flash-latest",
+  "secs": 7.2,
+  "in_tok": 673,
+  "out_tok": 751
+ }
+}

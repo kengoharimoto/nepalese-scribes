@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śaukadevinā",
+   "name": "Śaukadevin",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śaukadevinā likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "aṣṭendunagabhū śāke vaiśākhe ... trayoaśyāṃ ... sugurau site",
+  "era": "ŚS",
+  "year": "1718",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "trayodaśī",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1796"
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The chronogram 'aṣṭa-indu-naga-bhū' corresponds to 1718 (Śaka). 'trayoaśyāṃ' is a scribal error for trayodaśyāṃ.",
+ "_meta": {
+  "reel": "E 533/11",
+  "model": "gemini-flash-latest",
+  "secs": 9.9,
+  "in_tok": 708,
+  "out_tok": 1026
+ }
+}

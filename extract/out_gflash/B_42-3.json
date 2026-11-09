@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmahopādhyāyalaugākṣibhāskara",
+   "name": "Laugākṣibhāskara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahopādhyāyalaugākṣibhāskaraviracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1896 vaiśākhaśuklapratipattithau",
+  "era": "VS",
+  "year": "1896",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "pratipad",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1839"
+ },
+ "place": {
+  "as_written": "gabhastīśvarasamīpe",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "Gabhastīśvara is a renowned shrine/Śiva-liṅga in Vārāṇasī (Kāśī). No scribe is named.",
+ "_meta": {
+  "reel": "B 42/3",
+  "model": "gemini-flash-latest",
+  "secs": 9.2,
+  "in_tok": 730,
+  "out_tok": 1056
+ }
+}

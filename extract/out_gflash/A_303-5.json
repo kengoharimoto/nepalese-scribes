@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "padmadāsabhaktānāṃ",
+   "name": "Padmadāsabhakta",
+   "roles": [
+    "commissioner",
+    "owner",
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ līṣanārthe (!) padmadāsabhaktānāṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1923 sāla miti āśviṇa (!) vadi 9 roja 3",
+  "era": "VS",
+  "year": "1923",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "Tuesday (roja 3)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1866"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "līṣanārthe",
+ "notes": "The catalogue reads the scribe as 'Padmabhāsabhakta'. The phrase 'likhitaṃ līṣanārthe padmadāsabhaktānāṃ' is grammatically ambiguous; Padmadāsabhakta may be the commissioner/owner for whom it was written, or the scribe himself.",
+ "_meta": {
+  "reel": "A 303/5",
+  "model": "gemini-flash-latest",
+  "secs": 13.9,
+  "in_tok": 750,
+  "out_tok": 1478
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdāmodaravipreṇa",
+   "name": "Dāmodara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdāmodaravipreṇa likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 980 kārttikaśudi 14 roja 4",
+  "era": "NS",
+  "year": "980",
+  "month": "kārttika",
+  "paksa": "śudi",
+  "tithi": "14",
+  "weekday": "roja 4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1860"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Vyāsa mentioned in passing ('vyāsoktādhyāya...') as the legendary composer/author.",
+ "_meta": {
+  "reel": "A 1015/9",
+  "model": "gemini-flash-latest",
+  "secs": 8.3,
+  "in_tok": 798,
+  "out_tok": 1058
+ }
+}

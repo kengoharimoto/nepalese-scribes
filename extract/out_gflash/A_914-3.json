@@ -1,0 +1,266 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācāryyaśrījayamuni",
+   "name": "Jayamuni",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "paramopāsaka",
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paramopāśaka, vajrācāryyaśrījayamuni ... pramukhānā sahasammatena lekhitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jayadharī",
+   "name": "Jayadharī",
+   "roles": [
+    "commissioner",
+    "donor",
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vajrācāryyaśrījayamuni, jayadharī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "padmadharī",
+   "name": "Padmadharī",
+   "roles": [
+    "commissioner",
+    "donor",
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jayadharī, padmadharī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "vajrācāryyaśrījayacandra",
+   "name": "Jayacandra",
+   "roles": [
+    "commissioner",
+    "donor",
+    "relative_only"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhrātā madhyamā vajrācāryyaśrījayacandra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "manodharī",
+   "name": "Manodharī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasya bhāryyā manodharī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "ratnadharī",
+   "name": "Ratnadharī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "manodharī, ratnadharī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "vajrācāryya śrījayadharmma",
+   "name": "Jayadharma",
+   "roles": [
+    "commissioner",
+    "donor",
+    "relative_only"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kanīṣṭa bhrātā vajrācāryya śrījayadharmma",
+   "confidence": "high"
+  },
+  {
+   "pid": "p8",
+   "as_written": "sumanadharī",
+   "name": "Sumanadharī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasya bharyyā sumanadharī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p9",
+   "as_written": "vajrācāryya śrījayadharmmamunī",
+   "name": "Jayadharmamuni",
+   "roles": [
+    "commissioner",
+    "donor",
+    "relative_only"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "putra vajrācāryya śrījayadharmmamunī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p10",
+   "as_written": "jayadharmmacandra",
+   "name": "Jayadharmacandra",
+   "roles": [
+    "commissioner",
+    "donor",
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jayadharmmacandra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p11",
+   "as_written": "jayajñānacandra",
+   "name": "Jayajñānacandra",
+   "roles": [
+    "commissioner",
+    "donor",
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jayajñānacandrapramukhānā sahasammatena lekhitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p12",
+   "as_written": "daivajñamukundarāje[na]",
+   "name": "Mukundarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhati(!)m idaṃ daivajñamukundarāje[na]",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wife_of",
+   "to": "p1",
+   "evidence": "vajrācāryyaśrījayamuni, jayadharī"
+  },
+  {
+   "from": "p3",
+   "type": "wife_of",
+   "to": "p1",
+   "evidence": "vajrācāryyaśrījayamuni, jayadharī, padmadharī"
+  },
+  {
+   "from": "p4",
+   "type": "brother_of",
+   "to": "p1",
+   "evidence": "bhrātā madhyamā vajrācāryyaśrījayacandra"
+  },
+  {
+   "from": "p5",
+   "type": "wife_of",
+   "to": "p4",
+   "evidence": "tasya bhāryyā manodharī"
+  },
+  {
+   "from": "p6",
+   "type": "wife_of",
+   "to": "p4",
+   "evidence": "tasya bhāryyā manodharī, ratnadharī"
+  },
+  {
+   "from": "p7",
+   "type": "brother_of",
+   "to": "p1",
+   "evidence": "kanīṣṭa bhrātā vajrācāryya śrījayadharmma"
+  },
+  {
+   "from": "p8",
+   "type": "wife_of",
+   "to": "p7",
+   "evidence": "tasya bharyyā sumanadharī"
+  },
+  {
+   "from": "p9",
+   "type": "son_of",
+   "to": "p7",
+   "evidence": "sumanadharī, putra vajrācāryya śrījayadharmmamunī"
+  },
+  {
+   "from": "p12",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "likhati(!)m idaṃ daivajñamukundarāje[na], śrījayamunivajrācāryyasya"
+  }
+ ],
+ "date": {
+  "as_written": "nepālābde gagaṇatarahite, samvat 818 vaiśākhamāse śuklapakṣe || trayodaśyāṃ hastanakṣatre, harṣaṇayoge, budhavāsare",
+  "era": "NS",
+  "year": "818",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "hasta, harṣaṇa",
+  "ce_approx": "1698"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "ācāryyopādhyāyamātāpitṛpūrvva(gamakṛ)tvā sakalasatvarāśer anuttarajñānaphalam āvatayed iti",
+ "notes": "",
+ "_meta": {
+  "reel": "A 914/3",
+  "model": "gemini-flash-latest",
+  "secs": 25.9,
+  "in_tok": 1244,
+  "out_tok": 4049
+ }
+}

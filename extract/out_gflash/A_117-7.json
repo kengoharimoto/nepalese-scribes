@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāpaṇḍitaratnakīrttipādānām",
+   "name": "Ratnakīrti",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāpaṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtir iyaṃ mahāpaṇḍitaratnakīrttipādānām",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "trailokyadattena",
+   "name": "Trailokyadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhita sukhena || trailokyadattena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "padātmahetoḥ (likely corrupt for parātmahetoḥ)",
+ "notes": "The manuscript was copied in two praharas of a full night (saṃnpūrṇarātripraharadvayena).",
+ "_meta": {
+  "reel": "A 117/7",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 765,
+  "out_tok": 919
+ }
+}

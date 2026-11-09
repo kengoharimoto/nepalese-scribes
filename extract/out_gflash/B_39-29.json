@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījīvānandeti",
+   "name": "Jīvānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "mahābauddhopāsaka"
+   ],
+   "affiliation": "",
+   "residence": "Lalitapur",
+   "evidence": "likhitaṃ lalitāpurīya śrīmahābauddhopāsakaśrījīvānandeti",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvihāfīsoti",
+   "name": "Vihārī",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvihāfīsotikṛta",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1903 sāla miti bhādra śudi 9 somavāsaraḥ",
+  "era": "VS",
+  "year": "1903",
+  "month": "bhādra",
+  "paksa": "śudi",
+  "tithi": "9",
+  "weekday": "somavāsaraḥ",
+  "nakshatra_yoga": "",
+  "ce_approx": "1846"
+ },
+ "place": {
+  "as_written": "lalitāpurīya",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The author's name appears corrupt or misread as 'śrīvihāfīsotikṛta', likely referring to the famous poet Bihārī (author of the Bihārī Satsaī). The scribe describes himself as an upāsaka of Mahābauddha from Lalitapur.",
+ "_meta": {
+  "reel": "B 39/29",
+  "model": "gemini-flash-latest",
+  "secs": 16.0,
+  "in_tok": 784,
+  "out_tok": 2025
+ }
+}

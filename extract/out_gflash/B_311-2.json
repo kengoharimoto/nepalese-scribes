@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhāravī",
+   "name": "Bhāravi",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāravīkṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rūpanāyanaśarmmaṇā",
+   "name": "Rūpanārāyaṇa",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rūpanāyanaśarmmaṇā idaṃ pustakaṃ svārthaṃ sampūrṇaṃ kṛtaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 931 phālguṇaśuklatrayodaśyāṃ guruvāre",
+  "era": "NS",
+  "year": "931",
+  "month": "phālguṇa",
+  "paksa": "śukla",
+  "tithi": "trayodaśī",
+  "weekday": "guruvāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1811"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtha",
+ "notes": "The scribe's name is written as rūpanāyanaśarmmaṇā (scribal error for rūpanārāyaṇaśarmmaṇā, as confirmed by the catalogue).",
+ "_meta": {
+  "reel": "B 311/2",
+  "model": "gemini-flash-latest",
+  "secs": 8.6,
+  "in_tok": 775,
+  "out_tok": 959
+ }
+}

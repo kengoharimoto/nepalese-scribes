@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadgovindācārya",
+   "name": "Govindācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paramahaṃsaparivrājakācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīparamahaṃsaparivrājakācāryaśrīmadgovindācāryaviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī śā 1747 saṃvat 1882 sāla miti pauṣa vadi 6 roja 6",
+  "era": "VS",
+  "year": "1882",
+  "month": "pauṣa",
+  "paksa": "vadi",
+  "tithi": "6",
+  "weekday": "roja 6",
+  "nakshatra_yoga": "",
+  "ce_approx": "1825"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date provides both Śaka Saṃvat 1747 (śā 1747) and Vikrama Saṃvat 1882 (saṃvat 1882 sāla).",
+ "_meta": {
+  "reel": "E 419/5 (2)",
+  "model": "gemini-flash-latest",
+  "secs": 8.5,
+  "in_tok": 726,
+  "out_tok": 1034
+ }
+}

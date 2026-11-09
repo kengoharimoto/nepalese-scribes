@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Text/chapter colophon only; no scribal colophon or historical persons mentioned.",
+ "_meta": {
+  "reel": "B 100/15",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 681,
+  "out_tok": 325
+ }
+}

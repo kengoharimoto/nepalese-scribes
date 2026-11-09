@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrī sumati jayajitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrī sumati jayajitāmitramalladevasana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 815 phālguṇa vadi 11 thvakuhnu",
+  "era": "NS",
+  "year": "815",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1695"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives Bhaktapur as the place of copying based on King Jayajitāmitramalladeva's reign, but no place name is mentioned in the colophon itself.",
+ "_meta": {
+  "reel": "A 1235/19 (21)",
+  "model": "gemini-flash-latest",
+  "secs": 6.1,
+  "in_tok": 717,
+  "out_tok": 745
+ }
+}

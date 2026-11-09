@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsadānaṃdavajrī",
+   "name": "Sadānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrī"
+   ],
+   "affiliation": "Rudravarṇa Mahāvihāra (rudravarṇo vihārād)",
+   "residence": "śrīlalitāpūradeśyāṃ",
+   "evidence": "likhitaṃ śrīsadānaṃdavajrī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "bāṇapaṃcād(!)ratnavindu śubhatithipratipadāśvine śaudhamāse śrīsūryyavāradivase",
+  "era": "VS",
+  "year": "1955",
+  "month": "Āśvina",
+  "paksa": "śukla",
+  "tithi": "pratipad",
+  "weekday": "sūryavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1898"
+ },
+ "place": {
+  "as_written": "śrīlalitāpūradeśyāṃ",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The chronogram bāṇa (5) - pañca (5) - ratna (9) - indu/vindu (1) in reverse order gives the year 1955, referring to Vikrama Saṃvat (1955 VS = 1898 CE). The scribe Sadānanda Vajrī is associated with Rudravarṇa Mahāvihāra in Lalitpur.",
+ "_meta": {
+  "reel": "A 961/72",
+  "model": "gemini-flash-latest",
+  "secs": 14.6,
+  "in_tok": 1027,
+  "out_tok": 1928
+ }
+}

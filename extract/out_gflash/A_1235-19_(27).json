@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumati jayajitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumati jayajitāmitramalladevasana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 815 vaiśāṣa śudi 3 thvakuhnu",
+  "era": "NS",
+  "year": "815",
+  "month": "vaiśāṣa",
+  "paksa": "śudi",
+  "tithi": "3",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1695"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The Newari phrase 'dayakā juroṃ' indicates that King Sumati Jayajitāmitramalla caused the text/manuscript to be made (commissioned or sponsored the work/ritual manual). Bhaktapur is recorded in the catalogue based on this ruler's seat.",
+ "_meta": {
+  "reel": "A 1235/19 (27)",
+  "model": "gemini-flash-latest",
+  "secs": 9.2,
+  "in_tok": 827,
+  "out_tok": 1244
+ }
+}

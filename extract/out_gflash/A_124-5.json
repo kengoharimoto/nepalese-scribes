@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The quoted passages are section/chapter colophons of the Vratāvadānamālā; no scribal colophon, dates, or historical persons are present.",
+ "_meta": {
+  "reel": "A 124/5",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 815,
+  "out_tok": 446
+ }
+}

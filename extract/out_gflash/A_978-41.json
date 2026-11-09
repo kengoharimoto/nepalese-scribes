@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "joganarasiṃ",
+   "name": "Joganarasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "joganarasiṃ naṃ coyā julo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 964 nepāla mārgaśiraśukla 6 somavāra 2",
+  "era": "NS",
+  "year": "964",
+  "month": "mārgaśira",
+  "paksa": "śukla",
+  "tithi": "6",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1843"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 978/41",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 753,
+  "out_tok": 751
+ }
+}

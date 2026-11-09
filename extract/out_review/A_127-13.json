@@ -1,0 +1,80 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 Bhāskaradeva: confidence raised from low to medium. 'bhāskaladeoca saṃskārita' is clearly the standard epithet of the Pārāvata-mahāvihāra (Itum Bāhā), so the reading itself is secure; role 'other' kept.",
+   "Notes: corrected the reign dates given for Bhāskara Malla of Kathmandu (c. NS 834–842 / 1714–1722 CE).",
+   "Notes: added that the lacuna before Cakrapatideva may have contained a scribe's name or other names, so his link to the vihāra is only inferred.",
+   "p3 affiliation marked as inferred.",
+   "Date: checked; ce_approx 1715 confirmed, since Phālguna NS 835 falls in Feb/Mar 1715."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kuladatta",
+   "name": "Kuladatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāpaṇḍita",
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kuladattaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrībhāskaladeoca(!)",
+   "name": "Bhāskaradeva",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhāskaladeoca(!) saṃskārita(!)",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīcakrapatidevena",
+   "name": "Cakrapatideva",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "Pārāvata-mahāvihāra (inferred)",
+   "residence": "Kāntipurī",
+   "evidence": "śrīcakrapatidevena likhāyitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 835 phāguṇa kṛṣṇa 4",
+  "era": "NS",
+  "year": "835",
+  "month": "phāguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "4",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1715"
+ },
+ "place": {
+  "as_written": "śrīkāntipuri(!)mahāgare pārāvatamahāvī(!)hāre",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "'śrībhāskaladeoca saṃskārita' belongs to the full name of the monastery: Bhāskaradeva-saṃskārita Pārāvata-mahāvihāra (Itum Bāhā, Kathmandu). It refers to the 11th-century king Bhāskaradeva, who restored the monastery. He is not the reigning king of this copy. That king would have been Bhāskara Malla of Kathmandu (c. NS 834–842), who is not named. There is a long lacuna (śrī‥‥) after the vihāra name, which may have held other names, possibly the scribe's. Cakrapatideva's link to the vihāra is therefore inferred and may be wrong. 'mahāpaṇḍitarecārya(!)' probably stands for mahāpaṇḍitācārya.",
+ "_meta": {
+  "reel": "A 127/13",
+  "model": "opus",
+  "cost_usd": 0.5749056,
+  "secs": 27.8
+ }
+}

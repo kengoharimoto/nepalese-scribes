@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadarimalladevasya",
+   "name": "Arimalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājādhirājaparameśvaraparamabhaṭṭārakaśrīmadarimalladevasya vijayona(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 331 śrāvaṇaśudi 7",
+  "era": "NS",
+  "year": "331",
+  "month": "śrāvaṇa",
+  "paksa": "śudi",
+  "tithi": "7",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1211"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "C 6/15 (2)",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 720,
+  "out_tok": 714
+ }
+}

@@ -1,0 +1,122 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "goviṃdajyotirvit",
+   "name": "Govinda",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña",
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "goviṃdajyotirvitsūnu-",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mādhavajyotirvid",
+   "name": "Mādhava",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mādhavajyotirvid-viracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "kalyāṇena",
+   "name": "Kalyāṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kalyāṇena likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "ha(ra) .. .. jyotirvit",
+   "name": "Hara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ha(ra) .. .. (jyotirvittanūja",
+   "confidence": "low"
+  },
+  {
+   "pid": "p5",
+   "as_written": "mukuṃdasya",
+   "name": "Mukunda",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mukuṃdasyedaṃ pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "goviṃdajyotirvitsūnu-mādhavajyotirvid"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "ha(ra) .. .. (jyotirvittanūjajyotirvin-mukuṃdasya"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p5",
+   "evidence": "kalyāṇena likhitaṃ ... mukuṃdasyedaṃ pustakaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1691 varṣe śake 1555 kārttikaśuddha 9 some",
+  "era": "VS",
+  "year": "1691",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1634"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Vikrama Saṃvat 1691 and Śaka 1555 are given in the date. The name of Mukuṃda's father is damaged (ha(ra) .. .. jyotirvit).",
+ "_meta": {
+  "reel": "A 414/28 (2)",
+  "model": "gemini-flash-latest",
+  "secs": 13.4,
+  "in_tok": 846,
+  "out_tok": 2117
+ }
+}

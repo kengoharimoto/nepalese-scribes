@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 959 kārtikamāse śuklapakṣa naniyāṃ tithau",
+  "era": "NS",
+  "year": "959",
+  "month": "kārtika",
+  "paksa": "śukla",
+  "tithi": "naniyāṃ",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1839"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No human persons are identifiable in the colophon. 'śrīśākyamuṇibhattārakasya' refers to the Buddha. The subsequent phrase 'oṃ namā śrīśākyamu(ni) .. na .. ājñādayaṃkara' appears to be a corrupt invocation or prayer rather than a personal name. The tithi 'naniyāṃ' is likely corrupt for 'navamyāṃ'.",
+ "_meta": {
+  "reel": "B 95/6",
+  "model": "gemini-flash-latest",
+  "secs": 12.8,
+  "in_tok": 793,
+  "out_tok": 1539
+ }
+}

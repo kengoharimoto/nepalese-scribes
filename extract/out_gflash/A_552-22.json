@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayarāma",
+   "name": "Jayarāma",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahopādhyāya jayarāmaviracita",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śūnyeṣu nāgenduyute pravarṣe ... mārgetha māse ʼsitapakṣaketithau yamasya vāre dvijarājasūnoḥ || samvat 1850",
+  "era": "VS",
+  "year": "1850",
+  "month": "Mārgaśīrṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "2",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1793"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram śūnya (0) - iṣu (5) - nāga (8) - indu (1) resolves to 1850. The tithi of Yama is dvitīyā, and the weekday of dvijarājasūnu (son of the moon) is Wednesday (Budhavāra). No scribe name is mentioned (śraddhālikhat appears to be śraddhā [= śraddhayā] alikhat).",
+ "_meta": {
+  "reel": "A 552/22",
+  "model": "gemini-flash-latest",
+  "secs": 12.0,
+  "in_tok": 739,
+  "out_tok": 1542
+ }
+}

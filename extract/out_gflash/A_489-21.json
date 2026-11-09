@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "tulasīrāmaśarmaṇaṃ",
+   "name": "Tulasīrāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ ... tulasīrāmaśarmaṇaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jīuka",
+   "name": "Jīuka",
+   "roles": [
+    "beneficiary",
+    "reader"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī jīukapāṭhārthaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "liṣitaṃ śrī jīukapāṭhārthaṃ tulasīrāmaśarmaṇaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "śāke 1689 māse śrāvaṇa śukladaśamyā tithau",
+  "era": "ŚS",
+  "year": "1689",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1767"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrī jīukapāṭhārthaṃ",
+ "notes": "",
+ "_meta": {
+  "reel": "A 489/21",
+  "model": "gemini-flash-latest",
+  "secs": 7.8,
+  "in_tok": 745,
+  "out_tok": 1390
+ }
+}

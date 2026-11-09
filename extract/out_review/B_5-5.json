@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name changed from 'Mukundaśarman' to 'Mukunda'; 'śarman' moved to titles",
+   "p1 residence cleared: (makurī)grāme only says where the copy was made, not where the scribe lived",
+   "purpose cleared: 'sudācārthaṃ(?)' is corrupt and cannot safely be read as a purpose; discussed in notes instead",
+   "notes expanded on the corrupt passage and the catalogue's CE date"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmukundaśarmmaṇā",
+   "name": "Mukunda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmukundaśarmmaṇā likhitaiṣā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "la saṃ 395 caitrabadi saptamyāṃ budhe",
+  "era": "LS",
+  "year": "395",
+  "month": "Caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "7 (saptamī)",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1514"
+ },
+ "place": {
+  "as_written": "(makurī)grāme",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives LS 395 as ~1275 AD, which does not match the conversion. LS + 1119 gives c. 1514 CE. 1275 is what NS 395 + 880 gives, so the cataloguer may have converted with the wrong era. The place name 'makurī' is the cataloguer's restoration, shown in parentheses. The phrase 'sudācārthaṃ(?) phaladahasaṃ sudu(?)' before the scribe's name is corrupt. 'sudācārthaṃ' might stand for sadācārārthaṃ, which would give a purpose, but this is uncertain. 'phaladahasaṃ' might hide a place or family name (Phaladaha?), and 'sudu(?)' might be an epithet or a garbled title of the scribe. None of these is safe to extract.",
+ "_meta": {
+  "reel": "B 5/5",
+  "model": "opus",
+  "cost_usd": 0.5471776,
+  "secs": 22.2
+ }
+}

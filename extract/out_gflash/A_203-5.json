@@ -1,0 +1,77 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "saccidānaṃdanātha",
+   "name": "Saccidānandanātha",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīsaccidānaṃdanāthacaraṇāraviṃdadvaṃdvāṃteviāsinā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīśrīvidyānaṃdanāthena",
+   "name": "Vidyānandanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīvidyānaṃdanāthena kṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "viśvanāthagauḍabrāhmaṇa",
+   "name": "Viśvanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "gauḍabrāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "kāśyāṃ madhye hāṭakeśvarasamīpe",
+   "evidence": "likhitaṃ viśvanāthagauḍabrāhmaṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "pupil_of",
+   "to": "p1",
+   "evidence": "śrīsaccidānaṃdanāthacaraṇāraviṃdadvaṃdvāṃteviāsinā śrīśrīvidyānaṃdanāthena"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1776 śāke 41 samaya māghakṛṣṇapakṣe amāvasyā 30 guruvāsare",
+  "era": "VS",
+  "year": "1776",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "amāvasyā 30",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1720"
+ },
+ "place": {
+  "as_written": "kāśyāṃ madhye hāṭakeśvarasamīpe",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "Both VS 1776 and abbreviated ŚS [16]41 are specified.",
+ "_meta": {
+  "reel": "A 203/5",
+  "model": "gemini-flash-latest",
+  "secs": 9.4,
+  "in_tok": 849,
+  "out_tok": 1572
+ }
+}

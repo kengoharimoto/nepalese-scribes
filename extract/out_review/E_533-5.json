@@ -1,0 +1,85 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Rāmānuja: removed 'vidvas' from titles; viduṣā is only the epithet 'learned', not a title or office",
+   "p2 Samaravṛṣa: role changed from 'teacher' to 'other'. He is the commentator's teacher and played no part in making this copy. Confidence lowered to medium because the name may be a synonym form of Samarapuṅgava",
+   "Added p3 Deśika (Vedāntadeśika) as author of the root text Yatirājasaptati, from 'śrīdeśikakṛta-' in the colophon (medium confidence)",
+   "Notes: dropped the guess 'bade raver asti' (Sunday) and recorded the doubtful 'kā' and 'bader asti' instead"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmānujena viduṣā",
+   "name": "Rāmānuja",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmānujena viduṣākhyā(!) yatirājasaptater vihitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "samaravṛṣadeśika",
+   "name": "Samaravṛṣa",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "deśika"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "samaravṛṣadeśikadayāprāptatrayyaṃta(bhā)ṣyatatvena",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīdeśika",
+   "name": "Deśika",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdeśikakṛtayatirājasaptati",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "samaravṛṣadeśikadayāprāptatrayyaṃta(bhā)ṣyatatvena rāmānujena"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1799 miti kā caitrāṣṭamī bader asti",
+  "era": "VS",
+  "year": "1799",
+  "month": "caitra",
+  "paksa": "vadī",
+  "tithi": "aṣṭamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1742"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The commentator Rāmānuja calls himself a pupil of Samaravṛṣadeśika. Since vṛṣa and puṅgava both mean 'bull', this is possibly a synonym form of Samarapuṅgava. The root text Yatirājasaptati is by Vedāntadeśika, named as 'śrīdeśika' in the colophon. No scribe, place or purpose is stated. Date: 'saṃvat 1799' can only be VS here (NS 1799 is impossible), giving about 1742 CE, which matches the catalogue. 'miti kā' is unclear: 'kā' might be a stray syllable or an abbreviation. 'bader asti' probably means 'badi' (dark fortnight) plus 'asti'. No weekday can be safely read from it, so the earlier reading 'raver' (Sunday) was dropped.",
+ "_meta": {
+  "reel": "E 533/5",
+  "model": "opus",
+  "cost_usd": 0.5881376,
+  "secs": 34.9
+ }
+}

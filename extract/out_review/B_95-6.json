@@ -1,0 +1,34 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No changes to persons, relations or date fields.",
+   "Notes expanded: the era is inferred, not stated; possible name fragment 'dayaṃkara' flagged; later hand in the dated line mentioned."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 959 kārtikamāse śuklapakṣa naniyāṃ tithau",
+  "era": "NS",
+  "year": "959",
+  "month": "kārtika",
+  "paksa": "śukla",
+  "tithi": "naniyāṃ",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1839"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No human persons can be identified with confidence. 'śrīśākyamuṇibhattārakasya' refers to the Buddha, and the stotra's author is not named. The line 'oṃ namā śrīśākyamu(ni) .. na .. ājñādayaṃkara || (śloytu)' is fragmentary. It may hide a personal name ('Dayaṃkara'/'Dayākara'?), perhaps a scribe or donor, but the lacunae make that only a guess, so no one is recorded. The colophon says only 'samvat'. The era is taken as NS because the script is Newari and VS/ŚS 959 would be implausibly early. NS 959 = c. 1839 CE (Kārtika falls in Oct/Nov 1839). The tithi 'naniyāṃ' is probably corrupt for 'navamyāṃ' (navamī). The cataloguer notes that the dated last line is in a slightly different hand, so the date may belong to a later addition rather than to the copying itself.",
+ "_meta": {
+  "reel": "B 95/6",
+  "model": "opus",
+  "cost_usd": 0.0514348,
+  "secs": 12.9
+ }
+}

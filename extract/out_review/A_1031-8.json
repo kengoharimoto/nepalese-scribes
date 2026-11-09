@@ -1,0 +1,83 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 Rudradeva: dropped 'reader'. The colophon has 'rudradevasya pāṭhārtham', which says the copy was made for his study; it does not say he read it. Kept 'beneficiary' and added 'owner', following the svapaṭhanārtham rule for a copy made for someone's study.",
+   "Notes: made clear that the era is a bare 'saṃvat', so VS is an inference, and that the catalogue's ŚS 1877 would mean c. 1955 CE."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "amarasiṃha-",
+   "name": "Amarasiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "amarasiṃhakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rudradevena; rudradevasya",
+   "name": "Rudradeva",
+   "roles": [
+    "scribe",
+    "beneficiary",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ rudradevena; rudradevasya pāṭhārtham",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "mahādevena",
+   "name": "Mahādeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Kāśī",
+   "evidence": "likhitaṃ kāśyāṃ mahādevena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "mahādevena rudradevasya pāṭhārtham"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsaṃvat 1877 kārttikakṛṣṇāṣṭamyāṃ",
+  "era": "VS",
+  "year": "1877",
+  "month": "kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1820"
+ },
+ "place": {
+  "as_written": "kāśyāṃ",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "for the study of Rudradeva (rudradevasya pāṭhārtham)",
+ "notes": "The manuscript has two scribes. Rudradeva copied kāṇḍa 1 (colophon on fol. 13v). Mahādeva copied kāṇḍa 2 at Kāśī for Rudradeva's study (fol. 53v). The date is a bare 'śrīsaṃvat 1877' with no era named. The copy was made in Kāśī in Nagari script, so Vikrama Saṃvat is the likely era (VS 1877 ≈ 1820 CE). The catalogue gives ŚS 1877, which would mean c. 1955 CE; that reading is not supported by the colophon. Rudradeva's role as owner is inferred from 'pāṭhārtham'; the colophon does not say the book is his.",
+ "_meta": {
+  "reel": "A 1031/8",
+  "model": "opus",
+  "cost_usd": 0.0662468,
+  "secs": 15.3
+ }
+}

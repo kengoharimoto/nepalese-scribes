@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jairāmagirī",
+   "name": "Jairāmagiri",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "giri"
+   ],
+   "affiliation": "",
+   "residence": "kirātadese tumaliṃga grāme āruṇanaditīre",
+   "evidence": "liṣitaṃ jairāmagirī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvatsara || śrīsāke || 1590 || varṣe māse śrāva⟨na⟩[ṇa]sudi navamyāṃ tithau śukravāre",
+  "era": "ŚS",
+  "year": "1590",
+  "month": "śrāvaṇa",
+  "paksa": "śuklapakṣa",
+  "tithi": "navamī",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1668"
+ },
+ "place": {
+  "as_written": "kirātadese tumaliṃga || grāme āruṇanaditīre",
+  "normalized": "Tumling"
+ },
+ "purpose": "",
+ "notes": "Written in Tumling in the Kirat country on the banks of the Arun river (kirātadese tumaliṃga grāme āruṇanaditīre).",
+ "_meta": {
+  "reel": "B 541/9",
+  "model": "gemini-flash-latest",
+  "secs": 4.2,
+  "in_tok": 816,
+  "out_tok": 382
+ }
+}

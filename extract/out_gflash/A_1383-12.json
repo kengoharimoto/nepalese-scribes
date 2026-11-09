@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī3balabhadra-upādhyā luñiṁṭyāl",
+   "name": "Balabhadra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "Luñiṁṭyāla",
+   "residence": "",
+   "evidence": "liṣitaṃ midaṃ pustkaṃ śrī3balabhadra-upādhyā luñiṁṭyāl",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1790 samvat 1925 sāla phāguṇaśudi 7 roja 5",
+  "era": "VS",
+  "year": "1925 (ŚS 1790)",
+  "month": "phāguṇa",
+  "paksa": "śudi",
+  "tithi": "7",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1869"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śaka 1790 and Vikrama Saṃvat 1925 are recorded. The clan/lineage name Luñiṁṭyāl corresponds to the Nepali Brahmin surname Luī̃ṭel.",
+ "_meta": {
+  "reel": "A 1383/12",
+  "model": "gemini-flash-latest",
+  "secs": 9.0,
+  "in_tok": 778,
+  "out_tok": 1246
+ }
+}

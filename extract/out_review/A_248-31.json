@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Joganara: title normalized to 'mahākumāra' (-ju is a Newari honorific suffix); confidence lowered to low because the colophon breaks off and the name may be incomplete (e.g. Joganarasiṃha / Joganārāyaṇa)",
+   "Joganara: role kept as 'other', with a note that the 'thva velasa …' formula usually names the authority in power at the time of copying",
+   "Tithi normalized to pratipad (written 'patipade')",
+   "Date: noted that the copy falls in Dec 1751/Jan 1752 and explained why VS is the era",
+   "Notes rewritten: the Sen identification is now presented as a guess"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījoganara",
+   "name": "Joganara",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "mahākumāra"
+   ],
+   "affiliation": "",
+   "residence": "makvāṃpura",
+   "evidence": "thva verasa makvāṃpura mahākumāraju śrījoganara",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1808 pauṣa kṛṣṇa patipade (!) ādityavāra",
+  "era": "VS",
+  "year": "1808",
+  "month": "Pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "pratipad (1)",
+  "weekday": "Sunday (ādityavāra)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1751"
+ },
+ "place": {
+  "as_written": "makvāṃpura",
+  "normalized": "Makwanpur"
+ },
+ "purpose": "",
+ "notes": "The era is not stated ('saṃvat'). NS 1808 is impossible. ŚS 1808 (1886 CE) would fall after the Gorkhā conquest of Makwanpur (1762), which does not fit a 'mahākumāra' of Makwanpur. VS 1808 = 1751/52 CE fits the late Sen period, so VS is assumed. Pauṣa kṛṣṇa pratipad falls around Dec 1751 / Jan 1752. The weekday was not checked. The colophon breaks off after 'śrījoganara', so the name may be incomplete. 'thva verasa (= velasa) …' ('at this time …') is the usual formula for naming the ruling authority at the time of copying. So Joganara is probably a Makwanpur prince (mahākumāra) in power, or the heir apparent, in whose time the copy was made. Whether he also commissioned it cannot be determined from the text as quoted. No scribe is named.",
+ "_meta": {
+  "reel": "A 248/31",
+  "model": "opus",
+  "cost_usd": 0.0613508,
+  "secs": 17.2
+ }
+}

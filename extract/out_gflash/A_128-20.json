@@ -1,0 +1,89 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sighadattadevena",
+   "name": "Siṃhadattadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Mānadevasaṃskāritaśrīcakramahāvihāra",
+   "residence": "",
+   "evidence": "likhitaṃ mānadevasaṃskāritaśrīcakramahāvihārādhiṣṭḥitaśrīvajrācāryaśrīsighadattadevena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vajrācārya pitā śrījī o dhana",
+   "name": "Jīvodhana",
+   "roles": [
+    "donor",
+    "relative_only"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Śrīyaśodharāmahāvihāra",
+   "residence": "Lalitāpura",
+   "evidence": "dānapatti(!) lalitāpuramahānagaraśrījashva(!)dharāmahāvihāle(!) gṛhe vāsita vajrācārya pitā śrījī o dhana",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "prathamaputra vajrācāryaśrīkulao(!)nta",
+   "name": "Kulavanta",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "Lalitāpura",
+   "evidence": "prathamaputra vajrācāryaśrīkulao(!)nta ... thva saddharmapuṇḍarīkā svamātāyā nāmna dayakaṃ tayā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "pitā śrījī o dhana ... prathamaputra vajrācāryaśrīkulao(!)nta"
+  },
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "likhitaṃ mānadevasaṃskāritaśrīcakramahāvihārādhiṣṭḥitaśrīvajrācāryaśrīsighadattadevena ... dayakaṃ tayā juro"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 962 āṣāḍhamāse kṛṣṇapakṣe aṣṭamyāyān tithau revatimakṣatre surayoge śaniścaravārasare",
+  "era": "NS",
+  "year": "962",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "śaniścaravāra",
+  "nakshatra_yoga": "revatī, sura (sukarma?)",
+  "ce_approx": "1842"
+ },
+ "place": {
+  "as_written": "lalitāpuramahānagara",
+  "normalized": "Patan"
+ },
+ "purpose": "for the merit of their deceased mother (svamātāyā nāmna)",
+ "notes": "A second date (NS 962 Jyeṣṭha śudi 6 somavāra) records a death in the family ('samāptā cittani divaṃgata juyā o'). A second son ('dvitīyaputraśrī…') is also mentioned as co-sponsor, but his personal name is lost in a lacuna.",
+ "_meta": {
+  "reel": "A 128/20",
+  "model": "gemini-flash-latest",
+  "secs": 28.4,
+  "in_tok": 1303,
+  "out_tok": 4404
+ }
+}

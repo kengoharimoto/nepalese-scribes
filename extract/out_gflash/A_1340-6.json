@@ -1,0 +1,84 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdaivajñanṛsiṃha",
+   "name": "Nṛsiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdaivajñanṛsiṃhasuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "divākara",
+   "name": "Divākara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña",
+    "ārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdaivajñanṛsiṃhasutadivākaraviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "devidattaśarmaṇā paṃtena",
+   "name": "Devīdatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman",
+    "paṃta",
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "nepāle",
+   "evidence": "likhitam idaṃ pu(7)stakaṃ devidattaśarmaṇā paṃtena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīdaivajñanṛsiṃhasutadivākara"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1765 vaiśākhamāse śuklapakṣe suraguruvāre",
+  "era": "ŚS",
+  "year": "1765",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "suraguruvāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1843"
+ },
+ "place": {
+  "as_written": "nepāle",
+  "normalized": "Nepal"
+ },
+ "purpose": "svārthaṃ parārthaṃ",
+ "notes": "The date is repeated metrically in the final verse: śara-rasā-gela-amite śākake (= Śāka 1765) rādhemāsi gurau hi meṣagaravau.",
+ "_meta": {
+  "reel": "A 1340/6",
+  "model": "gemini-flash-latest",
+  "secs": 11.5,
+  "in_tok": 844,
+  "out_tok": 2021
+ }
+}

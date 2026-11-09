@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The excerpt contains only the title/end-of-text marker followed by iconographical/maṇḍala descriptive instructions; no historical persons, scribal colophon, or date are present.",
+ "_meta": {
+  "reel": "A 1333/20",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 876,
+  "out_tok": 572
+ }
+}

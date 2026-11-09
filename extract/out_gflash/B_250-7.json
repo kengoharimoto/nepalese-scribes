@@ -1,0 +1,79 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vaiyāsikyāṃ",
+   "name": "Vyāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vaiyāsikyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vipraśrīsanatkumāropādhyāyaya",
+   "name": "Sanatkumāra",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "vipra",
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vipraśrīsanatkumāropādhyāyaya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "me haramān",
+   "name": "Meharamāna",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "ñala deśa",
+   "evidence": "ñala deśayā me haramān (ñā)che layāke",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "other",
+   "to": "p3",
+   "evidence": "san ñala deśayā me haramān (ñā)che layāke (yāñā) vakāyā takā 111 moho julo"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 998 miti jyeṣṭhaśudi 13 roja 5",
+  "era": "NS",
+  "year": "998",
+  "month": "jyeṣṭha",
+  "paksa": "śudi",
+  "tithi": "13",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1778"
+ },
+ "place": {
+  "as_written": "ñala deśa",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The Newari note added in the lower margin records a transaction (purchase/pawn) for 111 mohar coins involving Sanatkumāra Upādhyāya and Meharaman of Nyācche, Patan (Ñala deśa). The catalogue identifies Sanatkumāra Upādhyāya as the scribe.",
+ "_meta": {
+  "reel": "B 250/7",
+  "model": "gemini-flash-latest",
+  "secs": 26.8,
+  "in_tok": 827,
+  "out_tok": 3398
+ }
+}

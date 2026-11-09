@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Name kept as Rāmārādhya (normalising -ḍh- to -dh-), but 'ārāḍhya' removed from titles: the first reading counted it as both part of the name and a title. The alternative reading (name Rāma + title Ārādhya) is given in notes.",
+   "Confidence for p1 lowered from high to medium because the compound can be split in more than one way.",
+   "Year given as '[9]92' to show the catalogue's reconstruction of the lost first digit. ce_approx 1872 (992+880) kept but marked uncertain in notes.",
+   "Notes expanded: era is assumed to be NS, the number of the 'samvat' year is incomplete, and Kubjikāmata is a text title, not a person."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrībrāhmana-rāma-ārāḍhyasya",
+   "name": "Rāmārādhya",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībrāhmana-rāma-ārāḍhyasya mokṣārthena likhitam",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat ⊗92",
+  "era": "NS",
+  "year": "[9]92",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1872"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for the liberation (mokṣārtha) of the brāhmaṇa Rāmārādhya",
+ "notes": "The first digit of the year is lost (⊗). The catalogue reconstructs it as (9)92 with a question mark, so ce_approx 1872 is uncertain: a lost 8 would give NS 892 = 1772 CE. The colophon just says 'samvat'. NS is assumed because the script is Newari and the catalogue reads it that way. 'brāhmana-rāma-ārāḍhya' could also be split as the name Rāma plus the epithet/title ārādhya ('worshipful'; also a brahmin group name), with brāhmaṇa as the caste. The colophon names no scribe. 'Kubjikāmata' is part of the text title, not a person.",
+ "_meta": {
+  "reel": "C 2/3",
+  "model": "opus",
+  "cost_usd": 0.5461736,
+  "secs": 26.5
+ }
+}

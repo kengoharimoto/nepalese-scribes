@@ -1,0 +1,62 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "No substantive changes. Checked the date: ŚS 1791 (+78) and VS 1926 (−57) agree, and since Māgha śukla falls in January or February, the CE date is early 1870. The note now gives this reasoning."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nīlakaṇṭha",
+   "name": "Nīlakaṇṭha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nīlakaṇṭhaviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "puruṣottamaśarmaṇā",
+   "name": "Puruṣottama",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakam || puruṣottamaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke || 1791 śrīsamvat 1926 sālamāghaśukla 8 budhavāsare",
+  "era": "ŚS",
+  "year": "1791 (VS 1926)",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "8",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1870"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "dedication: śrīvāsayaṇārpaṇam astu (probably for śrīnārāyaṇārpaṇam astu)",
+ "notes": "The colophon gives the date in two eras, and they agree: ŚS 1791 and VS 1926 both correspond to 1869/70 CE. Māgha śukla 8 falls in January or February 1870. 'śrīvāsayaṇārpaṇam astu' is probably a corruption of śrīnārāyaṇārpaṇam astu, though śrīvāsudevārpaṇam is also possible. The Nīlakaṇṭha named here is the author of the text, not someone connected with this copy.",
+ "_meta": {
+  "reel": "B 323/9",
+  "model": "opus",
+  "cost_usd": 0.0554308,
+  "secs": 12.1
+ }
+}

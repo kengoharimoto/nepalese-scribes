@@ -1,0 +1,54 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name: removed the title 'ācārya' from the stem. The name is now 'Deva', probably cut short by the preceding lacuna. Confidence lowered to low.",
+   "p1 roles: kept commissioner + owner. Added a note that 'lekhitaṃ kṛtaṃ' could also mean he copied it himself.",
+   "Date: 'ditarā thoka' read as a probable misreading of Newari 'dillā thva', i.e. Āṣāḍha, bright fortnight. Month normalised to Āṣāḍha (Dillā). Tithi normalised to pūrṇimā.",
+   "Purpose shortened.",
+   "Notes: added the unnamed jajamāna (beneficiary) and the mismatch in the folio numbers."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "... devācāryeṇa",
+   "name": "Deva",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devācāryeṇa svārtha putrapautrādiśikṣāya hetunārthaṃ lekhitaṃ kṛtaṃ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 813 ditarā thoka pūrṇṇamāśikuhnu",
+  "era": "NS",
+  "year": "813",
+  "month": "Āṣāḍha (Dillā; written 'ditarā')",
+  "paksa": "śukla (thva, written 'thoka')",
+  "tithi": "pūrṇimā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1693"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtha, and for the instruction of sons and grandsons; merit for the jajamāna (long life, health, wealth, offspring, rebirth in Sukhāvatī)",
+ "notes": "The name is preceded by a lacuna ('... devācāryeṇa'). So the full name probably ended in -deva (e.g. X-deva), with ācārya as a title. 'Devācārya' could also be a surname or title on its own. 'lekhitaṃ kṛtaṃ' most likely means 'had it written' (commissioner), but it could mean he wrote it himself (scribe). The scribe is not otherwise named. The jajamāna (patron) who receives the merit is not named and is probably the same Deva. 'ditarā thoka' is taken to be a misreading of Newari 'dillā thva' (Āṣāḍha, bright fortnight). This is uncertain. NS 813 Āṣāḍha falls in about mid-1693 CE. The folio numbers in the colophon (91r5–92v4) do not match the chapter references (92v1 onward); this is probably the cataloguer's slip.",
+ "_meta": {
+  "reel": "A 1330/13",
+  "model": "opus",
+  "cost_usd": 0.5813455999999999,
+  "secs": 29.6
+ }
+}

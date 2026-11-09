@@ -1,0 +1,77 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījagaṃnātha",
+   "name": "Jagannātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījagaṃnāthaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīdurgārāmasūrī",
+   "name": "Durgārāma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdurgārāmasūrīsunu",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "dalapatirājma",
+   "name": "Dalapatirāja",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dalapatirājmaviracitā gaṃgālaharī bālavibodhinī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīdurgārāmasūrīsunudalapatirājma"
+  }
+ ],
+ "date": {
+  "as_written": "nepāla 984 māghaśukla 10 roja 4",
+  "era": "NS",
+  "year": "984",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "roja 4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1864"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe is omitted after 'liṣitaṃ'.",
+ "_meta": {
+  "reel": "A 472/52",
+  "model": "gemini-flash-latest",
+  "secs": 7.8,
+  "in_tok": 789,
+  "out_tok": 1315
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāmadāsaḥ",
+   "name": "Rāmadāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "guru"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nepālāvanepālamaṇḍalaguruḥ śrīrāmadāsaḥ sudhīḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmān jayasiṃhamallaḥ",
+   "name": "Jayasiṃhamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "pradhānamahāmahamahāpātra",
+    "mahāpātra"
+   ],
+   "affiliation": "Dakṣiṇavihāra",
+   "residence": "Lalitapur",
+   "evidence": "śrīdakṣiṇavihārapradhānamahāmahamahāpātraśrīyasiṃhamalla... śrīmān jayasiṃhamallaḥ ... yatkṛtaṃ sthāpitaṃ rājyaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīvajrācārya śrīamarendracandrena",
+   "name": "Amarendracandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhika śrīvajrācārya śrīamarendracandrena devajuabhayena dvayābhyāṃ likhāpayitavyaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "devajuabhayena",
+   "name": "Devajuabhaya",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devajuabhayena dvayābhyāṃ likhāpayitavyaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrīrājasiṃhaḥ",
+   "name": "Rājasiṃha",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrājasiṃhaḥ ... virājate ʼyaṃ haritulyadīptiḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvasarai samadvike śaśiśūnyabāṇai māse sitetara bhave dvitīyā ca pauṣe || nakṣatram eva varapuṣya tathāpi yuktaṃ vāres tathā bhṛgusutaḥś ca savaidhṛtiś ca",
+  "era": "unspecified",
+  "year": "5012",
+  "month": "Pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvitīyā",
+  "weekday": "śukravāra",
+  "nakshatra_yoga": "Puṣya, Vaidhṛti",
+  "ce_approx": "1911"
+ },
+ "place": {
+  "as_written": "śrīlalipūrīnāmadhyeyaṃ",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The chronogram 'samadvike śaśi-śūnya-bāṇaiḥ' (2 + 1-0-5 reversed = 5012) likely refers to the Kali era (Kali 5012 = c. 1911 CE). The catalogue field lists 'VS 2010' (1953 CE), which conflicts with the chronogram. Jayasiṃhamalla was the 14th-century Mahāpātra of Patan during whose reign the original drama was composed by Rāmadāsa; Amarendracandra and Devajuabhaya copied this manuscript.",
+ "_meta": {
+  "reel": "A 351/13",
+  "model": "gemini-flash-latest",
+  "secs": 37.4,
+  "in_tok": 1122,
+  "out_tok": 5271
+ }
+}

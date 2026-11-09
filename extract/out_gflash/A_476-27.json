@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "lekṣakalakṣmīkāntaśarmmaṇasya",
+   "name": "Lakṣmīkānta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekṣakalakṣmīkāntaśarmmaṇasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīdayānidhī(!)paṇḍitasya",
+   "name": "Dayānidhi",
+   "roles": [
+    "reader",
+    "beneficiary"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pāṭhakānāṃ śrīdayānidhī(!)paṇḍitasya dadāti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "lekṣakalakṣmīkāntaśarmmaṇasya pāṭhakānāṃ śrīdayānidhī(!)paṇḍitasya dadāti"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1762 samvat 1897 āśvinaśudi 6 roja ‥",
+  "era": "ŚS",
+  "year": "1762",
+  "month": "āśvina",
+  "paksa": "śukla",
+  "tithi": "6",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1840"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīkṛṣṇārppaṇam astu",
+ "notes": "Both Śaka era 1762 and Vikrama Saṃvat 1897 are given, pointing to CE 1840.",
+ "_meta": {
+  "reel": "A 476/27",
+  "model": "gemini-flash-latest",
+  "secs": 11.2,
+  "in_tok": 746,
+  "out_tok": 1502
+ }
+}

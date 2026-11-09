@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrśrījayabhūpatīndramalladevasana",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrśrījayabhūpatīndramalladevasana yāṅā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 821phālguṇa kṛṣṇa trayodaśī",
+  "era": "NS",
+  "year": "821",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1701"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "pratiṣṭhā of Ākāśa Mahābhairava",
+ "notes": "The colophon commemorates the pratiṣṭhā of Ākāśamahābhairava performed by King Jayabhūpatīndramalladeva of Bhaktapur.",
+ "_meta": {
+  "reel": "B 195/5",
+  "model": "gemini-flash-latest",
+  "secs": 8.1,
+  "in_tok": 714,
+  "out_tok": 995
+ }
+}

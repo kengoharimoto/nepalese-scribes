@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Name changed from 'Gaṅgādhara Śarman' to 'Gaṅgādhara': the brahmin suffix śarman goes in titles only",
+   "Removed the note's claim that month 10 is Māgha. A numbered month is ambiguous: as a solar month counted from Meṣa, the 10th is Makara (mid-Jan to mid-Feb), which falls in Pauṣa or Māgha",
+   "Added that ce_approx 1772 could be 1773 if month 10 is Makara",
+   "Added a note reading nakṣatra 22 as Śravaṇa and yoga 16 as Siddhi"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgaṃgadharasamanenaḥ",
+   "name": "Gaṅgādhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ śrīgaṃgadharasamanenaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1694 māse 10 dina 14 tithau 1 nakṣatre 22 yoge 16",
+  "era": "ŚS",
+  "year": "1694",
+  "month": "10",
+  "paksa": "",
+  "tithi": "1",
+  "weekday": "",
+  "nakshatra_yoga": "nakṣatra 22 (Śravaṇa?), yoga 16 (Siddhi?)",
+  "ce_approx": "1772"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name is a garbled instrumental, 'śrīgaṃgadharasamanenaḥ', for Gaṅgādharaśarmaṇā. This agrees with the catalogue's 'Gaṅgādhara Śarmā'. The date is given only in numbers: month 10, day (dina) 14, tithi 1, nakṣatra 22, yoga 16. The pakṣa is not stated. If month 10 is the solar month Makara (counted from Meṣa), the date falls around January–February, so the CE year could be 1773 instead of 1772 (ŚS 1694 + 78). Counting from Aśvinī, nakṣatra 22 is Śravaṇa; yoga 16 is Siddhi. The colophon ends with the standard verse 'yādṛśaṃ pustakaṃ dṛṣṭvā…', in which the scribe disclaims blame for errors.",
+ "_meta": {
+  "reel": "B 360/18",
+  "model": "opus",
+  "cost_usd": 0.055890800000000004,
+  "secs": 12.4
+ }
+}

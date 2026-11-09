@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīhemantamallavarmmaṇaḥ",
+   "name": "Hemantamalla",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "varmā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīhemantamallavarmmaṇaḥ thamacosyaṃ sidhakā dina juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 824 śrāvaṇamāse śuklapakṣe tṛtīyāyāṃ tithau pūrvvaphālguṇī nakṣatre parighayoge ādityavāsare yathākaraṇamuhūrttake karkkaṭarāśigate savitari siṃharāśigate (ś) candramasi",
+  "era": "NS",
+  "year": "824",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "ādityavāsara",
+  "nakshatra_yoga": "pūrvvaphālguṇī, parigha",
+  "ce_approx": "1704"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtha (thamacosyaṃ sidhakā dina)",
+ "notes": "The phrase 'thamacosyaṃ sidhakā' (thama cosyāṃ sidhakā) indicates that Hemantamalla Varmā copied the manuscript himself for his own use.",
+ "_meta": {
+  "reel": "A 264/11",
+  "model": "gemini-flash-latest",
+  "secs": 10.7,
+  "in_tok": 916,
+  "out_tok": 1295
+ }
+}

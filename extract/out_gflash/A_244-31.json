@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "karmmācārya meheramānana",
+   "name": "Meheramāna",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmmācārya"
+   ],
+   "affiliation": "",
+   "residence": "gvaladeśa bhatkunī ṭola dhvākāccheyā",
+   "evidence": "karmmācārya meheramānana svahastena bhairavāgni paddhati sidhayekaṃ coyā julo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1931 sāla mitri māgha vadi 2 roja 2",
+  "era": "VS",
+  "year": "1931",
+  "month": "māgha",
+  "paksa": "vadi",
+  "tithi": "2",
+  "weekday": "roja 2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1875"
+ },
+ "place": {
+  "as_written": "gvaladeśa bhatkunī ṭola dhvākāccheyā",
+  "normalized": "Deopatan"
+ },
+ "purpose": "",
+ "notes": "Gvaladeśa refers to Deopatan (near Paśupatināth).",
+ "_meta": {
+  "reel": "A 244/31",
+  "model": "gemini-flash-latest",
+  "secs": 7.3,
+  "in_tok": 758,
+  "out_tok": 1014
+ }
+}

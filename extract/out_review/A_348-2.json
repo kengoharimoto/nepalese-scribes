@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: dropped 'rāya' from titles because it is part of the given name Mutirāya (it can't be both name and title)",
+   "p1: confidence lowered from high to medium because the folio-corner note splits the name and the reading 'muti' may be corrupt (e.g. for Mūrti)",
+   "notes: added how 'śvāyaṃ grantha' might be read, and softened the claim that Bhūpatīndra Malla is the author"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "muti (fol. 59v7 corner) rāya",
+   "name": "Mutirāya",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhita muti (fol. 59v7 corner) rāya",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name is split by the cataloguer's note '(fol. 59v7 corner)': 'muti … rāya' is read here as one name, Mutirāya. 'muti' may be corrupt, possibly for Mūrti. 'śvāyaṃ grantha' is unclear: perhaps 'svayaṃ grantha', or a Newari phrase closing the text. It is not taken as a personal name. The catalogue gives Bhaktapur as the place of copying and Bhūpatīndra Malla as king. Bhūpatīndra Malla is probably meant as the author or patron of this Bhaktapur Newari drama. Neither the place nor the king appears in the quoted colophon, so neither is recorded. The copy is undated.",
+ "_meta": {
+  "reel": "A 348/2",
+  "model": "opus",
+  "cost_usd": 0.0522948,
+  "secs": 13.6
+ }
+}

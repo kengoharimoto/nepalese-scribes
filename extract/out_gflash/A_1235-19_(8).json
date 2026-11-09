@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayajitāmitrāmalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrī sumati jayajitāmitrāmalla(9)devasana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 815 mārggaśira vadi 8 thvakuhnu",
+  "era": "NS",
+  "year": "815",
+  "month": "mārggaśira",
+  "paksa": "vadi",
+  "tithi": "8",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1694"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Bhaktapur is recorded as the place in the catalogue entry, but does not explicitly appear in the transcribed colophon text.",
+ "_meta": {
+  "reel": "A 1235/19 (8)",
+  "model": "gemini-flash-latest",
+  "secs": 6.2,
+  "in_tok": 722,
+  "out_tok": 815
+ }
+}

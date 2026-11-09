@@ -1,0 +1,90 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "ce_approx corrected from 1778 to 1878 (NS 998 + 880)",
+   "Sanatkumāra: the marginal Newari note doesn't say he copied the manuscript. Read 'sanatkumāropādhyāyaya san' as 'from Sanatkumāra' (the seller). Roles changed from scribe+owner to owner (former) + other (seller). Scribe role dropped and confidence lowered. The catalogue's scribe attribution is recorded in notes.",
+   "Meharamān: role changed from 'other' to 'owner' (buyer, who paid 111 mohar)",
+   "Relation reworded as a sale, from the seller to the buyer",
+   "Place of copying: emptied. 'ñala deśa' is the buyer's residence, not the place of copying, and 'Ñala' is not Yala (Patan), so it can't be normalized to Patan.",
+   "weekday normalised to Thursday (roja 5)",
+   "Notes rewritten: the date belongs to the sale note, which may not be the date of copying"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vaiyāsikyāṃ",
+   "name": "Vyāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "saṃhitāyāṃ vaiyāsikyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vipraśrīsanatkumāropādhyāyaya",
+   "name": "Sanatkumāra",
+   "roles": [
+    "owner",
+    "other"
+   ],
+   "titles": [
+    "vipra",
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vipraśrīsanatkumāropādhyāyaya san",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p3",
+   "as_written": "me haramān",
+   "name": "Meharamāna",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Ñala deśa",
+   "evidence": "ñala deśayā me haramān (ñā)che layāke",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "other",
+   "to": "p3",
+   "evidence": "sanatkumāropādhyāyaya san ñala deśayā me haramān (ñā)che layāke (yāñā) vakāyā takā 111 moho julo"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 998 miti jyeṣṭhaśudi 13 roja 5",
+  "era": "NS",
+  "year": "998",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "Thursday (roja 5)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1878"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The only personal data is a Newari note in the bottom margin of fol. 101v, after the colophon. It appears to record a sale: Meharamān (me haramān, word division unclear) of Ñala deśa bought the book from Sanatkumāra Upādhyāya ('-yaya san' = from) for 111 ṭakā mohar. The words 'sathoṣunu' and '(ñā)che layāke (yāñā)' are unclear or corrupt, and the direction of the sale is my best reading. The date NS 998 (1878 CE) belongs to this note and may not be the date of copying. The catalogue's 'Scribe: Sanatkumāra Upādhyāya' isn't supported by the text: the note says nothing about who wrote the manuscript. Ñala may be Nala, near Banepa, but that is uncertain. It is not Yala (Patan).",
+ "_meta": {
+  "reel": "B 250/7",
+  "model": "opus",
+  "cost_usd": 0.0779908,
+  "secs": 21.6
+ }
+}

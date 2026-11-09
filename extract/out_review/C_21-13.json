@@ -1,0 +1,72 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed 'owner' from Jetamalla: the inserted, bracketed '[[likhitasvapustakabhā]]' is corrupt and doesn't clearly name him as owner. It could equally mean the scribe's own book. Explained in notes.",
+   "Purpose normalised to the probable reading dharmakāmādivṛddhaye.",
+   "Notes expanded: the interpolation, the NS conversion, and the identification of Jetamalla."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmaddevadhareṇa",
+   "name": "Devadhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmaddevadhareṇedaṃ samāptaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrījetamalla",
+   "name": "Jetamalla",
+   "roles": [
+    "governor"
+   ],
+   "titles": [
+    "viṣayādhipati",
+    "mahāsāmanta"
+   ],
+   "affiliation": "",
+   "residence": "Phaṇapiṅga",
+   "evidence": "śrīphaṇapiṅgasthāne viṣayādhipati mahāsāmanta śrījetamalla ... vijayarājye",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "śrīphaṇapiṅgasthāne viṣayādhipati mahāsāmanta śrījetamalla ... vijayarājye"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 367 caitraśukladaśamyāṃ",
+  "era": "NS",
+  "year": "367",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1247"
+ },
+ "place": {
+  "as_written": "śrīphaṇapiṅgasthāne",
+  "normalized": "Pharping"
+ },
+ "purpose": "dharmakāmādivṛddhaye (for the increase of dharma, kāma, etc.)",
+ "notes": "The era isn't named ('samvat 367'). Reading it as NS (as the catalogue suggests) and the 'viṣayādhipati mahāsāmanta' formula, which fits the 13th century, NS 367 Caitra falls in spring 1247 CE. The bracketed '[[likhitasvapustakabhā]]veṣu' looks like a later or corrupt insertion into the vijayarājye formula. It might mean 'written as [my/his] own book', but it is unclear whether 'sva' refers to the scribe Devadhara or to Jetamalla, so no owner role was assigned. 'makāmādivṛddhaye' is probably a damaged 'dharmakāmādivṛddhaye'. 'śribhadrākhyaṃ samastāṅgaḥ' is corrupt. It may hide a name or an epithet, but it was not extracted as a person. 'guṇinām prabho' is a vocative/epithet, not a person. Jetamalla was the feudatory ruler of Phaṇapiṅga (Pharping).",
+ "_meta": {
+  "reel": "C 21/13",
+  "model": "opus",
+  "cost_usd": 0.0669868,
+  "secs": 16.9
+ }
+}

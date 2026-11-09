@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmanarāmadevayā",
+   "name": "Manarāmadeva",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Paśacche",
+   "evidence": "paśaccheyā śrīmanarāmadevayā saṃphala(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "Saṃ 861 pauṣaśuklayā saptamī kuhnu",
+  "era": "NS",
+  "year": "861",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "saptamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1741"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The phrase 'paśaccheyā śrīmanarāmadevayā saṃphala(!)' indicates that the book (Newari saphū/saphala) belongs to Manarāmadeva of Paśacche (a tole/locality in the Kathmandu Valley).",
+ "_meta": {
+  "reel": "B 380/13",
+  "model": "gemini-flash-latest",
+  "secs": 12.6,
+  "in_tok": 701,
+  "out_tok": 1225
+ }
+}

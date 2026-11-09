@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "govindaśarmmā",
+   "name": "Govinda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "govindaśarmmā vyalikhad",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "navanavatihutāśaiś cihnite lakṣmaṇābde gatavati giridāyāṃ gauḍamadhyāśvinasya (?) | iha timiradaśamyām",
+  "era": "LS",
+  "year": "399",
+  "month": "Āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1518"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Year given by chronogram navanavati-hutāśa (99 and 3 = 399) in the Lakṣmaṇa era (lakṣmaṇābda).",
+ "_meta": {
+  "reel": "B 17/11",
+  "model": "gemini-flash-latest",
+  "secs": 9.4,
+  "in_tok": 725,
+  "out_tok": 1063
+ }
+}

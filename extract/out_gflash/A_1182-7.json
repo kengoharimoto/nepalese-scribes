@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śṛīvopadeva",
+   "name": "Vopadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śṛīvopadevaviracitaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1861 ‥ ‥ caitrakṛṣṇadvādaśyāḥ 12 gurvāsare",
+  "era": "VS",
+  "year": "1861",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "12",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1804"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Śrīsītārāmajī and Śrīrādhākṛṣṇajī at the end are deities and therefore excluded.",
+ "_meta": {
+  "reel": "A 1182/7",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 735,
+  "out_tok": 735
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dhanarāmasya",
+   "name": "Dhanarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dhanarāmasya likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "ṛtuvedavasucābde, phālguṇe sitapaye ⟪‥ ‥ ‥⟫[[tithiviṣṇu]]guruvāre",
+  "era": "NS",
+  "year": "846",
+  "month": "phālguṇa",
+  "paksa": "sita",
+  "tithi": "viṣṇu",
+  "weekday": "guruvāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1726"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram ṛtu-veda-vasu gives 6-4-8 reversed = NS 846. 'tithiviṣṇu' refers to viṣṇutithi (Ekādaśī or Dvādaśī).",
+ "_meta": {
+  "reel": "A 204/3",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 802,
+  "out_tok": 759
+ }
+}

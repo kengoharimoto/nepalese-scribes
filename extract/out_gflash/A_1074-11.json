@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "āryavarāhamahirasya",
+   "name": "Varāhamihira",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "āryavarāhamahirasya kṛtau",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat āla 2 kārttika śuklāta",
+  "era": "unspecified",
+  "year": "āla 2",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon attributes the work to Varāhamihira (corruptly 'āryavarāhamahirasya'). The date contains an obscure or corrupt year notation ('āla 2').",
+ "_meta": {
+  "reel": "A 1074/11",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 737,
+  "out_tok": 911
+ }
+}

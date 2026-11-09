@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīviśvānandanāmeyaṃ",
+   "name": "Viśvānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīviśvānandanāmeyaṃ, likhet",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīman naipālikevarṣe, vāṇaviśikhanandane || māse rādhe śite pakṣe, harite ca śubhe dine",
+  "era": "NS",
+  "year": "955",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "haridine",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1835"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "sarvasattvahitāsayaṃ",
+ "notes": "Year given in chronogram: vāṇa (5) viśikha (5) nandana (9) = NS 955. Māsa rādha refers to Vaiśākha; harite ca dine likely refers to haridina (Ekādaśī).",
+ "_meta": {
+  "reel": "A 140/10",
+  "model": "gemini-flash-latest",
+  "secs": 7.8,
+  "in_tok": 898,
+  "out_tok": 1057
+ }
+}

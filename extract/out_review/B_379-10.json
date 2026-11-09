@@ -1,0 +1,52 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Kṛṣṇalāla: 'likhitaṃ pustakaṃ kṛṣṇalālaśarmaṇaḥ' uses the genitive, which most naturally marks ownership ('the copied book of Kṛṣṇalāla'). Added role owner and kept scribe as a possible reading (genitive of agent). Confidence lowered to medium.",
+   "ce_approx 1684 kept: ŚS 1605 + 78 = 1683, but Phālguna falls in Feb/Mar 1684 CE. This is now explained in notes.",
+   "date.weekday normalized to 'Saturday (śanivāsara)'. Śaiśira ṛtu fits Phālguna."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṛṣṇalālaśarmaṇaḥ",
+   "name": "Kṛṣṇalāla",
+   "roles": [
+    "owner",
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ pustakaṃ kṛṣṇalālaśarmaṇaḥ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśālivāhanaśake 1605 śaisira ṛtau phālguṇakṛṣṇa dvādaśyāṃ tithau śanivāsare",
+  "era": "ŚS",
+  "year": "1605",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "dvādaśī",
+  "weekday": "Saturday (śanivāsara)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1684"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue field gives ŚS 1705, but the quoted colophon reads 'śrīśālivāhanaśake 1605'. One of the two is a typo. If 1705 is right, the date would be about 1784 CE. The genitive 'kṛṣṇalālaśarmaṇaḥ' after 'likhitaṃ pustakaṃ' can mean either 'the book of Kṛṣṇalāla' (owner) or 'written by Kṛṣṇalāla' (scribe). Both roles are given. ŚS 1605 + 78 = 1683, but Phālguna kṛṣṇa 12 falls in early 1684 CE. Śaiśira ṛtu matches Phālguna.",
+ "_meta": {
+  "reel": "B 379/10",
+  "model": "opus",
+  "cost_usd": 0.05781080000000001,
+  "secs": 13.7
+ }
+}

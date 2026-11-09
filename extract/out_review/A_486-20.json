@@ -1,0 +1,104 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: name reduced to stem 'Śaṅkara' with 'ācārya' kept in titles (title removed from the name)",
+   "p4 Gopāla: role changed from 'commissioner' to 'other'. Nothing in the colophon says he had the copy made: 'gopālenāvatarita' (literally 'brought down / transcribed by Gopāla') sits in a corrupt stanza and its meaning is unclear",
+   "p3: as_written trimmed and name kept as Murāri with 'giri' as the Daśanāmī title; 'murāre pāṭhārthaṃ' supports beneficiary/reader",
+   "purpose normalised to a short phrase",
+   "notes expanded: scribe's name also appears as 'jagyanāthayoḥ'; 'samaya nāma' unexplained; the stanza's first words may contain the scribe's name; Gopāla's role is uncertain"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmacchaṃkarācārya",
+   "name": "Śaṅkara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmacchaṃkarācāryaviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jagyanāthena",
+   "name": "Yajñanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jagyanāthena vipreṇa pū(!)stakaṃ likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "murāre ... girir iti sunāmnaḥ",
+   "name": "Murāri",
+   "roles": [
+    "beneficiary",
+    "reader"
+   ],
+   "titles": [
+    "giri"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "murāre pāṭhārthaṃ girir iti sunāmnaḥ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "gopālena",
+   "name": "Gopāla",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gopālenāvatarita",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "vilikhitaṃ ... murāre pāṭhārthaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1833 samaya nāma bhādramāse site pakṣe pūrṇavāśyāyāṃ bhṛguvāsare",
+  "era": "VS",
+  "year": "1833",
+  "month": "Bhādra",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1776"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for the reading (pāṭhārtham) of Murāri(giri)",
+ "notes": "The scribe's name 'jagyanātha' is a phonetic spelling of Yajñanātha. It also appears as 'jagyanāthayoḥ (!) śubhaṃ bhūyāt', a dual genitive that makes no grammatical sense. The stanza before the date is badly corrupt and has metrical errors. 'śubhasujñaijñativiracitam' may hide a name, possibly the scribe's (Yajña-?), but this is not certain. The stanza seems to say the copy was written for the reading of Murāri, whose proper name is given as '... Giri' (perhaps Murārigiri, a Daśanāmī ascetic). 'gopālenāvataritamahāśaṃkarakṣataṃ' names a Gopāla in an unclear role: he might be a co-copyist or the one who transmitted the text. There is no explicit wording saying he commissioned the copy, so his role is set to 'other'. 'samaya nāma' after the year is unexplained; it may be a corrupt saṃvatsara name. The date is taken as Vikrama era (VS) because VS 1833 fits Devanagari paper manuscripts and matches the catalogue: Bhādra śukla pūrṇimā, Friday, which is about Aug/Sept 1776 CE. The weekday has not been checked. The closing stanza is from Bhāgavatapurāṇa 11.5 and has nothing to do with who produced the copy.",
+ "_meta": {
+  "reel": "A 486/20",
+  "model": "opus",
+  "cost_usd": 0.09185879999999999,
+  "secs": 26.1
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sauramānena",
+   "name": "Sauramāna",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sauramānena ... likhitaṃ samāptam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1931 sāla ... bhādrapadamāse dina 23 gate ādityavāsare",
+  "era": "VS",
+  "year": "1931",
+  "month": "bhādrapada",
+  "paksa": "",
+  "tithi": "23 gate",
+  "weekday": "ādityavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1874"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 959/48",
+  "model": "gemini-flash-latest",
+  "secs": 4.8,
+  "in_tok": 721,
+  "out_tok": 601
+ }
+}

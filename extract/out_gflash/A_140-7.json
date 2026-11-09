@@ -1,0 +1,86 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvajrācāryayogamān",
+   "name": "Yogamāna",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Ratnakīrtivihāra",
+   "residence": "Kāntipurī",
+   "evidence": "śrīvajrācāryayogamānvilāsāt likhāpi",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "dhijamān siṃha",
+   "name": "Dhijamānsiṃha",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [
+    "tulādhara"
+   ],
+   "affiliation": "",
+   "residence": "Asaṃ Ṭolahiti Maṃgalajeyā",
+   "evidence": "dānapati asaṃṭolahiti maṃgala jeyā tulādhara dhijamān siṃha",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "buddhimān siṃha",
+   "name": "Buddhimānsiṃha",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhātṛ buddhimān siṃhayāta thva pustaka coyā viyā jula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "brother_of",
+   "to": "p2",
+   "evidence": "dhijamān siṃha bhātṛ buddhimān siṃhayāta"
+  },
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "śrīvajrācāryayogamānvilāsāt likhāpi (!) tantraiḥ (!) kallavīrākhye || dānapati ... dhijamān siṃha"
+  }
+ ],
+ "date": {
+  "as_written": "śubha saṃvat 1016 śrāvaṇaśukla 14 roja 4 sasidhayakā",
+  "era": "NS",
+  "year": "1016",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "14",
+  "weekday": "roja 4",
+  "nakshatra_yoga": "",
+  "ce_approx": "1896"
+ },
+ "place": {
+  "as_written": "naipāladeśe sthitakāṃtipuryāṃ śrīratnakīrttivihāranāmnā",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "given to brother Buddhimān Siṃha (bhātṛ buddhimān siṃhayāta thva pustaka coyā viyā jula)",
+ "notes": "The scribe is likely Yogamāna Vajrācārya of Ratnakīrtivihāra ('vilāsāt likhāpi' seems corrupt for vilāsena likhitam or likhāpitam). The book was commissioned/donated by the Tulādhara merchant Dhijamān Siṃha of Asan for his brother Buddhimān Siṃha.",
+ "_meta": {
+  "reel": "A 140/7",
+  "model": "gemini-flash-latest",
+  "secs": 15.7,
+  "in_tok": 967,
+  "out_tok": 2548
+ }
+}

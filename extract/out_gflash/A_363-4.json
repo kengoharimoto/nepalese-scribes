@@ -1,0 +1,83 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "padmasiṅana",
+   "name": "Padmasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "bāhāra",
+   "evidence": "bāhārayā padmasiṅana, thava rāhātisa davathya, seyāthya, jagannāthayātā nimittina coyā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jayajitāmitra, thākurasana",
+   "name": "Jayajitāmitra",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "thākura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī 3 jayajitāmitra, thākurasana",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "jagannāthaju",
+   "name": "Jagannātha",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jagannāthaju sudṛṣṭi tava verasa ... jagannāthayātā nimittina coyā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "bāhārayā padmasiṅana ... jagannāthayātā nimittina coyā juro"
+  },
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "śrī 3 jayajitāmitra, thākurasana, jagannāthaju sudṛṣṭi tava verasa, bāhārayā padmasiṅana ... coyā juro"
+  }
+ ],
+ "date": {
+  "as_written": "samvat śara śata vasū nabhamāse, aśitapakṣe, saptamī para, śrīkṛṣṇāṣṭamī, kṛrttikanakṣetre, vyārghātayoge, kujavāsare",
+  "era": "NS",
+  "year": "805",
+  "month": "nabhamāsa",
+  "paksa": "kṛṣṇa",
+  "tithi": "saptamī para, aṣṭamī",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "kṛrttikā, vyārghāta",
+  "ce_approx": "1685"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "jagannāthayātā nimittina",
+ "notes": "The year is given as 'śara śata vasū' (805 NS). King Jayajitāmitra Malla ruled Bhaktapur from 1673 to 1696 CE. Jagannātha was favored by the king ('sudṛṣṭi tava verasa') and the text was copied for him.",
+ "_meta": {
+  "reel": "A 363/4",
+  "model": "gemini-flash-latest",
+  "secs": 25.1,
+  "in_tok": 961,
+  "out_tok": 4042
+ }
+}

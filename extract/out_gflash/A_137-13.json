@@ -1,0 +1,92 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "(jayaprakāśamalla)devasya",
+   "name": "Jayaprakāśamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājādhirājaparameśvaraparamabhaṭṭārakaśrīśrī(jayaprakāśamalla)devasya vijarārjya(!)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "a<<>>moghasirdhi / amoghasina",
+   "name": "Amoghasiddhi",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [
+    "paramopāsaka",
+    "śākyabhikṣu",
+    "dānapati"
+   ],
+   "affiliation": "Kīrtipuṇyamahāvihāra (kṛttīpuṇyamavihāra)",
+   "residence": "Kāṣṭhamaṇḍapa, Lagana tole, Dhabu Vantāche",
+   "evidence": "dānapati kāṣṭhamaṇḍapamahānagara, laganatora, gaṅga naṣu vantā<<>>kṛttīpuṇya-mavihārāvasthita, dabhu vantāche ... sākṣabhikṣu śrī-amoghasina, thama svādhyāyāyanimittīna, thva bhagavatipancarakṣāpustaka cocakā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "dharmmakarana",
+   "name": "Dharmakara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "Sayao tole, Yitāche",
+   "evidence": "sayao tora darākṣe, ra yitācheyā, vajrācāryya dharmmakarana coyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīśrī(jayaprakāśamalla)devasya vijarārjya(!) || 0 || dānapati ... sākṣabhikṣu śrī-amoghasina"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "sākṣabhikṣu śrī-amoghasina ... thva bhagavatipancarakṣāpustaka cocakā juro ... vajrācāryya dharmmakarana coyā"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 865 māghamāsya kṛṣṇṇapakṣadaśami, muranakṣatrasurajoge, bṛhaspativāra",
+  "era": "NS",
+  "year": "865",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "mūlanakṣatra, surayoga",
+  "ce_approx": "1745"
+ },
+ "place": {
+  "as_written": "kāṣṭhamaṇḍapamahānagara",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "svādhyāyārtha and transfer of merit to parents and all sentient beings (thama svādhyāyāyanimittīna; mātāprītṛpūrvvagamaṃ kṛtvā, sakarasatvarāśeʼnurttarajñānaphalaṃ prāptayatu)",
+ "notes": "The king's name is placed in parentheses in the transcription, indicating it was supplied or partly legible. The donor's name is given as Amoghasiddhi in the Sanskrit formula ('amoghasirdhi') and in Newari inflected as 'amoghasina' (Amoghasī-na/Amoghasinha).",
+ "_meta": {
+  "reel": "A 137/13",
+  "model": "gemini-flash-latest",
+  "secs": 17.1,
+  "in_tok": 1309,
+  "out_tok": 2958
+ }
+}

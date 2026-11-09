@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "yo(!) ti(!)rthadadattapanthaśarmaṇaṃ(!)",
+   "name": "Tīrthadatta",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "pantha",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yo(!) ti(!)rthadadattapanthaśarmaṇaṃ(!)",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śivārpaṇam astu",
+ "notes": "The ending formula 'lekhakapāṭhakayo śubhaṃ yo(!) ti(!)rthadadattapanthaśarmaṇaṃ(!)' is corrupt (perhaps a mangled 'śubhaṃ bhūyāt' followed by the name of the scribe or owner Tīrthadatta Pantha Śarman).",
+ "_meta": {
+  "reel": "B 542/28",
+  "model": "gemini-flash-latest",
+  "secs": 13.7,
+  "in_tok": 746,
+  "out_tok": 1537
+ }
+}

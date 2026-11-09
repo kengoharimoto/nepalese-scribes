@@ -1,0 +1,49 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date: 'yanyāpuhnī 4 līsa' means '4 days after Yaṃlā (Yanyā) pūrṇimā'. Tithi is now 4 and pakṣa kṛṣṇa (inferred), and month is normalized to Yaṃlā (Bhādrapada). The first reading had put the whole phrase in tithi.",
+   "Person p1: kept as 'other' because the role is unclear, but confidence lowered to low. The name reading Siṃmanalasiṃha is uncertain (possibly Siṃhanarasiṃha).",
+   "Notes: added the stray 'rāva,' and a fuller explanation of the Newari phrase."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "siṃmanalasiṃ",
+   "name": "Siṃmanalasiṃha",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "coyāgu gītā siṃmanalasiṃ nāpā(7)vana",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "subha saṃvatra 958 || yanyāpuhnī 4 līsa",
+  "era": "NS",
+  "year": "958",
+  "month": "Yaṃlā (Bhādrapada)",
+  "paksa": "kṛṣṇa (inferred: 4 days after pūrṇimā)",
+  "tithi": "4",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1838"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is not named, but 'saṃvatra 958' in a Newari colophon means NS 958 (1838 CE), which matches the catalogue. 'yanyāpuhnī 4 līsa' = 4 days after Yaṃlā punhi (the Bhādra full moon), so about Bhādra kṛṣṇa 4. 'coyāgu gītā siṃmanalasiṃ nāpāvana' is roughly 'the written Gītā went with (nāpā vana) Siṃmanalasiṃ'. This could mean he received or owned it, or took it with him. It does not clearly make him the scribe, commissioner or owner, so his role is left as 'other'. The name may be a phonetic form of Siṃhanarasiṃha (Newari l/r and h/m variation), or it may be two words. The 'rāva,' before 'subha' at line 6 is unclear: it could be a fragment of a word or name, or of the weekday (e.g. -vāra). The scribe is not named.",
+ "_meta": {
+  "reel": "A 1373/14 (2)",
+  "model": "opus",
+  "cost_usd": 0.5673456,
+  "secs": 30.1
+ }
+}

@@ -1,0 +1,172 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jitāmitramalla",
+   "name": "Jitāmitramalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpati"
+   ],
+   "affiliation": "",
+   "residence": "Bhaktapur",
+   "evidence": "jitāmitramalla kaniṣṭhogramallavicakṣaṇe nṛpatau | śāśati bhaktagrāmaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ugramalla",
+   "name": "Ugramalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpati"
+   ],
+   "affiliation": "",
+   "residence": "Bhaktapur",
+   "evidence": "jitāmitramalla kaniṣṭhogramallavicakṣaṇe nṛpatau | śāśati bhaktagrāmaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "jayakīrttināmā",
+   "name": "Jayakīrti",
+   "roles": [
+    "minister",
+    "relative_only"
+   ],
+   "titles": [
+    "pradhāna"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājñaḥ pradhāno jayakīrttināmā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "viṣṇur",
+   "name": "Viṣṇu",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tadātmajo viṣṇur iti pratītaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "kāśīti",
+   "name": "Kāśī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāśīti nāmā jasasābhirāmas",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "dhārmmikapūrṇṇarāmaḥ",
+   "name": "Pūrṇarāma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasyātmajo dhārmmikapūrṇṇarāmaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "rāmeti candrānvitaḥ",
+   "name": "Rāmacandra",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmeti candrātmajaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p8",
+   "as_written": "lakṣmīdharaḥ",
+   "name": "Lakṣmīdhara",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmeti candrātmajaḥ śrīmadbhāgavataṃ saṃpūrṇṇam alikhal lakṣmīdharaḥ śāstradhīḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "brother_of",
+   "to": "p1",
+   "evidence": "jitāmitramalla kaniṣṭhogramalla"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "tadātmajo viṣṇur iti pratītaḥ"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p5",
+   "evidence": "tasyātmajo dhārmmikapūrṇṇarāmaḥ"
+  },
+  {
+   "from": "p8",
+   "type": "son_of",
+   "to": "p7",
+   "evidence": "rāmeti candrātmajaḥ śrīmadbhāgavataṃ saṃpūrṇṇam alikhal lakṣmīdharaḥ"
+  },
+  {
+   "from": "p8",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śāśati bhaktagrāmaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 804 kārttika su(!)kla dvādaśi utrabhadrakṣatre harṣanayoge ādityavāra",
+  "era": "NS",
+  "year": "804",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "utrabhadrakṣatre harṣanayoge",
+  "ce_approx": "1684"
+ },
+ "place": {
+  "as_written": "bhaktagrāma",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "svārtha (thavatā nimīrtti cayā), kṛṣṇaprītaye",
+ "notes": "The date is given both metrically in Sanskrit (vedadyauvasuvarṣage = 804) and in Newari prose. Lakṣmīdhara copies the text for his own use ('thavatā nimīrtti cayā'). Jitāmitramalla rules Bhaktapur along with his younger brother Ugramalla ('kaniṣṭhogramallavicakṣaṇe nṛpatau').",
+ "_meta": {
+  "reel": "A 285/2",
+  "model": "gemini-flash-latest",
+  "secs": 48.2,
+  "in_tok": 1143,
+  "out_tok": 8496
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīa(mṛtadeva)sya",
+   "name": "Amṛtadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājādhirājaparameśvaraśrīa(mṛtadeva)sya viaya || ❁ || rājyeḥ(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 296 caitraśuklapūrṇṇamāśyāṃ",
+  "era": "NS",
+  "year": "296",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "pūrṇṇamāśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1176"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The name of the king is partially restored by the cataloguer as a(mṛtadeva)sya. The scribe is not named (only 'pustako ʼyaṃ litam (!) iti').",
+ "_meta": {
+  "reel": "B 36/1",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 795,
+  "out_tok": 743
+ }
+}

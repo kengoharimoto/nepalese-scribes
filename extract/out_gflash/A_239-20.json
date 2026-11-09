@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayabhūpatīndramalladeva",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "prabhuthākura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayabhūpatīndramalladeva prabhuthākurasana kvātha pratiṣṭhāyā śānibalyarccanavidhiḥ sāphuli dayakā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "kvātha pratiṣṭhāyā (for the consecration ritual of a fort/citadel)",
+ "notes": "No date or named scribe is mentioned; the scribe refers to themselves anonymously with 'mayā'.",
+ "_meta": {
+  "reel": "A 239/20",
+  "model": "gemini-flash-latest",
+  "secs": 8.0,
+  "in_tok": 801,
+  "out_tok": 963
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dhanasiṃha",
+   "name": "Dhanasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "karmmācārya"
+   ],
+   "affiliation": "vidhyāpīṭha",
+   "residence": "",
+   "evidence": "likhitaṃ vidhyāpīṭhayā karmmācārya dhanasiṃha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 822 caitraśuklapurṇimā kuhnu",
+  "era": "NS",
+  "year": "822",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "purṇimā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1702"
+ },
+ "place": {
+  "as_written": "vidhyāpīṭha",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "vidhyāpīṭhayā indicates Dhanasiṃha was associated with/from Vidyāpīṭha.",
+ "_meta": {
+  "reel": "B 193/16",
+  "model": "gemini-flash-latest",
+  "secs": 9.2,
+  "in_tok": 764,
+  "out_tok": 1095
+ }
+}

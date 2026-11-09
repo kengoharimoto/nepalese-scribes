@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīṣaḍānana",
+   "name": "Ṣaḍānana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śrīṣaḍānana(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "bindupātāladurgenduvarṣemāse śarad gurau || dvitīyā cāśvine caṃdre",
+  "era": "unspecified",
+  "year": "1970",
+  "month": "Āśvina",
+  "paksa": "",
+  "tithi": "dvitīyā",
+  "weekday": "caṃdra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1913"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The chronogram bindu (0) - pātāla (7) - durga (9) - indu (1) yields 1970, presumed to be Vikrama Saṃvat (1913 CE).",
+ "_meta": {
+  "reel": "A 135/13",
+  "model": "gemini-flash-latest",
+  "secs": 9.3,
+  "in_tok": 739,
+  "out_tok": 1342
+ }
+}

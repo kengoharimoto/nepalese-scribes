@@ -1,0 +1,73 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Pakṣa normalised from 'śudi' to 'śukla' (the written form stays in as_written).",
+   "Maṇisaṃghamahāvihāra also entered as Jugapati's residence ('-āsthita' means 'living at'). Candrapati's affiliation with it is now marked in the notes as inferred from his father.",
+   "Place of copying kept, but the notes now say the colophon gives the vihāra only as the father's residence, not explicitly as the place of copying. The catalogue field is the basis for the place.",
+   "Purpose shortened to 'svārtha'. Notes expanded on 'dhaṃ kasya' and on titles."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jugapati dhaṃ kasya",
+   "name": "Jugapati",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Maṇisaṃghamahāvihāra",
+   "residence": "Maṇisaṃghamahāvihāra",
+   "evidence": "maṇisaṃghamahāvihārāsthitaśrīvajrācāryya jugapati dhaṃ kasya putra",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "candrapatinaṃ",
+   "name": "Candrapati",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "Maṇisaṃghamahāvihāra",
+   "residence": "",
+   "evidence": "candrapatinaṃ tha otakāraṇe coyā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "jugapati dhaṃ kasya putra candrapatinaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "miti caitraśudi 8 nhusa",
+  "era": "none",
+  "year": "",
+  "month": "Caitra",
+  "paksa": "śukla",
+  "tithi": "8",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "maṇisaṃghamahāvihārāsthita",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "svārtha (tha ota kāraṇe, 'for his own sake')",
+ "notes": "The father's name 'jugapati dhaṃ kasya' is uncertain. 'kasya' is probably a Sanskritised genitive ending, so the name may be Jugapati or something like Jugapatidhaṃ(ka). Only 'vajrācāryya' is written before the father's name. The catalogue also gives Candrapati as vajrācārya, which is likely but not stated for him, so it is not entered in his titles. The colophon names Maṇisaṃghamahāvihāra only as the father's residence. Treating it as the place of copying follows the catalogue field. There is no year, so the date cannot be converted.",
+ "_meta": {
+  "reel": "A 141/13",
+  "model": "opus",
+  "cost_usd": 0.0626908,
+  "secs": 15.4
+ }
+}

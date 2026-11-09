@@ -11,6 +11,27 @@ $pancanga_as_sub = 1;
 require "$ENV{PANCANGA}";
 $loc_lat = 27.7; $loc_lon = 85.3; $desantara = ($loc_lon - $Ujjaini_lon) / 360;
 
+# The program's JulianDay_to_GregorianDate turns the last day of February in many Gregorian years into
+# "February 30" (the 29th in leap years, the 28th in some others), and its calculations then run on the
+# day after. Replaced by the Fliegel–Van Flandern conversion, keeping the program's convention (the integer
+# part of the Julian day is the civil day, the fraction is carried in the day).
+{ no warnings 'redefine';
+  *JulianDay_to_GregorianDate = sub {  # assigned at run time, after the require has defined the original
+      my ($jdf) = @_;
+      my $jd = int($jdf);
+      my $a = $jd + 32044;
+      my $b = int((4 * $a + 3) / 146097);
+      my $c = $a - int(146097 * $b / 4);
+      my $d = int((4 * $c + 3) / 1461);
+      my $e = $c - int(1461 * $d / 4);
+      my $m = int((5 * $e + 2) / 153);
+      my $day = $e - int((153 * $m + 2) / 5) + 1 + ($jdf - $jd);
+      my $month = $m + 3 - 12 * int($m / 10);
+      my $year = 100 * $b + $d - 4800 + int($m / 10);
+      ($year, $month, $day);
+  };
+}
+
 sub squeeze { my $s = shift; $s =~ s/\s+//g; $s }
 
 while (<STDIN>) {

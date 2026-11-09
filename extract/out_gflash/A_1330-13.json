@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "... devācāryeṇa",
+   "name": "Devācārya",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devācāryeṇa svārtha putrapautrādiśikṣā(3)ya hetunārthaṃ lekhitaṃ kṛtaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 813 ditarā thoka pūrṇṇamāśikuhnu",
+  "era": "NS",
+  "year": "813",
+  "month": "ditarā thoka",
+  "paksa": "śukla",
+  "tithi": "pūrṇamāśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1693"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtha putrapautrādiśikṣāhetunārtham (for own benefit and instruction of sons and grandsons; merit to the jajamāna)",
+ "notes": "The beginning of the commissioner's name is preceded by an omission/lacuna (... devācāryeṇa), so the stem name might have been longer (ending in -devācārya). The month specification 'ditarā thoka' is unclear.",
+ "_meta": {
+  "reel": "A 1330/13",
+  "model": "gemini-flash-latest",
+  "secs": 13.0,
+  "in_tok": 1398,
+  "out_tok": 1983
+ }
+}

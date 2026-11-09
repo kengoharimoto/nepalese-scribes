@@ -1,0 +1,47 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Persons, date and place kept as they were; notes now explain why 'dava ‥ṣarāḥ' may be a signature or a word for 'letters', and note that Guljāra cannot safely be called the scribe"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "guljāravaghai",
+   "name": "Guljāra",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ṣarāḥ guljāravaghai",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1864 sālamī(!)ti āśvī(!)na⟪‥⟫sudi mahā-aṣṭami 8 roja 6",
+  "era": "VS",
+  "year": "1864",
+  "month": "āśvina",
+  "paksa": "śuklapakṣa",
+  "tithi": "8 (mahā-aṣṭamī)",
+  "weekday": "roja 6 (Friday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1807"
+ },
+ "place": {
+  "as_written": "bhīm siṃla",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The era is not stated, but 'samvat 1864' with the Persian-Nepali words sāla, roja and mukāma points to Vikrama Saṃvat, which gives about 1807 CE and matches the catalogue's 'SAM 1864'. Mahā-aṣṭamī is the Dasain aṣṭamī in Āśvina śukla 8, so the date falls in roughly Sept/Oct 1807; the weekday has not been checked. 'mukāma bhīm siṃla' gives the place of copying (Bhīmsiṃla, not identified). The parenthetical '(dava ⟪‥⟫ṣarāḥ guljāravaghai)' is unclear. It may be a later note or signature: 'dava..ṣarāḥ' might stand for dastakhat ('signature') or for akṣarāḥ ('letters'), followed by the name Gulzār/Guljāra and 'vaghai' (= vagaira, 'etc.'), or 'Guljāravaghai' may be one name. This may be the scribe's signature, but the colophon does not say so, so Guljāra's role is left as 'other' with low confidence.",
+ "_meta": {
+  "reel": "B 386/73",
+  "model": "opus",
+  "cost_usd": 0.0564468,
+  "secs": 14.0
+ }
+}

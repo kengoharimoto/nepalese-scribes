@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "lakṣmīdāsaupādhyāyaḥ",
+   "name": "Lakṣmīdāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "grāma siśauṃniñā",
+   "evidence": "liṣitaṃ (!) lakṣmīdāsaupādhyāyaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke || 1772 || saṃvat 1907 || || māghakṛṣṇa || 7 || roja 6",
+  "era": "ŚS",
+  "year": "1772",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "7",
+  "weekday": "roja 6",
+  "nakshatra_yoga": "",
+  "ce_approx": "1851"
+ },
+ "place": {
+  "as_written": "grāma siśauṃniñā",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records ŚS 1732, but the colophon clearly gives Śāka 1772 alongside VS 1907.",
+ "_meta": {
+  "reel": "A 429/17",
+  "model": "gemini-flash-latest",
+  "secs": 6.7,
+  "in_tok": 747,
+  "out_tok": 1042
+ }
+}

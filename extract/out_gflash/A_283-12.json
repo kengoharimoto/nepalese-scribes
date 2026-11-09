@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṛṣṇalālaśarmmaṇā",
+   "name": "Kṛṣṇalāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ kṛṣṇalālaśarmmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī śāke 1772 śrī saṃvat 1907",
+  "era": "VS",
+  "year": "1907 (VS) / 1772 (ŚS)",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1850"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śaka era 1772 and Vikrama Saṃvat 1907 are given, corresponding to 1850 CE.",
+ "_meta": {
+  "reel": "A 283/12",
+  "model": "gemini-flash-latest",
+  "secs": 6.2,
+  "in_tok": 728,
+  "out_tok": 874
+ }
+}

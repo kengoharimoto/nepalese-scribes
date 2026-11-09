@@ -1,0 +1,86 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdāna śrīju",
+   "name": "Dānaśrī",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Śrīvuvāhāra",
+   "residence": "oṃ kuli iṃ i gṛha",
+   "evidence": "dānapati śrīvuvāhāra oṃ kuli iṃ i gṛha || vajrācaryye || śrīdāna śrīju",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ratikuju",
+   "name": "Ratikū",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "saputra ratikuju",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "gunākuju",
+   "name": "Guṇāku",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tṛtīyaputra gunākuju || ete saṃmate na‥ śrīlaṃkāvatārapustaka(!) dayakā(?)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "saputra ratikuju"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "tṛtīyaputra gunākuju"
+  }
+ ],
+ "date": {
+  "as_written": "nepārābde vahnimunimātṛke māse māgha śukle ke caturthi tithau tārā urtta bhadrake parvvarasiddhiyoge ‥[[sa]]hīputra vāsare ravimakaragasare śaśadharamīnagate",
+  "era": "NS",
+  "year": "873",
+  "month": "Māgha",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "‥[[sa]]hīputravāsara",
+  "nakshatra_yoga": "urtta bhadrake parvvarasiddhiyoge",
+  "ce_approx": "1754"
+ },
+ "place": {
+  "as_written": "śrīvuvāhāra oṃ kuli iṃ i gṛha",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The chronogram 'vahnimunimātṛke' indicates NS 873 (vahni = 3, muni = 7, mātṛkā = 8). Śrīvuvāhāra refers to Bubahal/Vubhāhāra in Patan. The second son's name is lost in the lacuna ('dvitīya(pu) ........kuju').",
+ "_meta": {
+  "reel": "C 13/7",
+  "model": "gemini-flash-latest",
+  "secs": 15.2,
+  "in_tok": 1030,
+  "out_tok": 1945
+ }
+}

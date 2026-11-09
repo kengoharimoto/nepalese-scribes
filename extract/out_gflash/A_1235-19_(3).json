@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sumati jayajitāmitra malladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrī sumati jayajitāmitra malladevasana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 815 kārttika śudi 15 thvakuhnu",
+  "era": "NS",
+  "year": "815",
+  "month": "kārttika",
+  "paksa": "śudi",
+  "tithi": "15",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1694"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The names preceding the date (ghano, ghoṣo, virājaśva, etc.) list the nine maṇḍapas (navānāṃ navamaṇḍapāḥ) for the lakṣahoma ritual. Jayajitāmitra Malla ruled Bhaktapur.",
+ "_meta": {
+  "reel": "A 1235/19 (3)",
+  "model": "gemini-flash-latest",
+  "secs": 8.2,
+  "in_tok": 805,
+  "out_tok": 1185
+ }
+}

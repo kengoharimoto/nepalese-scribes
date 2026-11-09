@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumati jayajitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumati jayajitāmitramalladevasana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 815 caitra vadi 13 thvakuhnu",
+  "era": "NS",
+  "year": "815",
+  "month": "caitra",
+  "paksa": "vadi",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1695"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The Newari verb 'dayakā juroṃ' indicates that King Jitāmitra Malla caused the manuscript to be made / commissioned it. 'Sumati' is his well-known epithet.",
+ "_meta": {
+  "reel": "A 1235/19 (26)",
+  "model": "gemini-flash-latest",
+  "secs": 5.3,
+  "in_tok": 746,
+  "out_tok": 749
+ }
+}

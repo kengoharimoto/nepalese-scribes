@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rakṣmirāya",
+   "name": "Lakṣmīrāya",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jajomāna, rakṣmirāya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "harṣamāna",
+   "name": "Harṣamāna",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jajomāna, rakṣmirāya, harṣamāna",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 986 mti māgha kṛṣna 9 sa",
+  "era": "NS",
+  "year": "986",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1866"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "māhābauyā tāralākeguyā dhara jula",
+ "notes": "The colophon notes the provisions and fees (dakṣiṇā) for priests (mūlācārya, upādhyāya, mātrāju) for a ritual on behalf of Māhābau, with Rakṣmirāya and Harṣamāna named as patrons (jajomāna).",
+ "_meta": {
+  "reel": "A 129/8",
+  "model": "gemini-flash-latest",
+  "secs": 14.7,
+  "in_tok": 1079,
+  "out_tok": 2100
+ }
+}

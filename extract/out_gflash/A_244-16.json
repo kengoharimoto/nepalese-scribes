@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayabhūpatīndramalladevasana",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayabhūpatīndramalladevasanayāṅā dina julo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 821 phālguṇa kṛṣṇa trayodaśī thva kuhnu",
+  "era": "NS",
+  "year": "821",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1701"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "rathapratiṣṭhā",
+ "notes": "The colophon notes that the text or occasion coincided with the day King Jayabhūpatīndramalla performed the chariot consecration (rathapratiṣṭhā) of Ākāśamahābhairava.",
+ "_meta": {
+  "reel": "A 244/16",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 734,
+  "out_tok": 1029
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: the name is normalised to Ḍhuṇḍhirāja, the usual form of this Marathi name. The colophon writes 'dhuṃḍhi-', the catalogue gives 'Ḍuḍhurāja', and 'dhuṃḍhirājñedaṃ' = dhuṇḍhirājñā idam. Confidence lowered to medium.",
+   "p2: the titles 'daivajña' and 'dīkṣita' are added to Bhāū as well, because the compound daivajñadīkṣitopākhya-bhāūnāma qualifies the father. It is the family surname, so the son keeps it too.",
+   "date: the month 'punābhidhāne' is flagged as unclear. It is not a standard month name and may refer to an intercalary month. The era is not written in the colophon; it is taken as VS from the catalogue and the place.",
+   "notes expanded"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dhuṃḍhirājña",
+   "name": "Ḍhuṇḍhirāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña",
+    "dīkṣita"
+   ],
+   "affiliation": "Daivajña-Dīkṣita family (upākhyā)",
+   "residence": "",
+   "evidence": "likhitaṃ (10) dhuṃḍhirājñedaṃ",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhāūnāmā",
+   "name": "Bhāū",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña",
+    "dīkṣita"
+   ],
+   "affiliation": "Daivajña-Dīkṣita family (upākhyā)",
+   "residence": "",
+   "evidence": "daivajñadīkṣitopākhya bhāūnāmāṃgajanmanā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "bhāūnāmāṃgajanmanā"
+  }
+ ],
+ "date": {
+  "as_written": "khayamanaṃdedusame punā(8)bhidhāne śukladhavalapakṣe ca || śivatithyāṃ ravivāre",
+  "era": "VS",
+  "year": "1920",
+  "month": "punābhidhāna (unclear; possibly intercalary month)",
+  "paksa": "śukla",
+  "tithi": "śivatithi (14, caturdaśī)",
+  "weekday": "ravivāra (Sunday)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1863"
+ },
+ "place": {
+  "as_written": "śrīrāmanagare",
+  "normalized": "Rāmanagara"
+ },
+ "purpose": "",
+ "notes": "The chronogram kha (0), yama (2), nanda (9), indu (1), read right to left, gives 1920. The colophon writes only 'same' (saṃvat) and never names the era. VS is assumed from the catalogue and from Rāmanagara, which is probably the town near Vārāṇasī: VS 1920 is about 1863 CE. 'punābhidhāne' is not a recognisable month name. It may be corrupt, or it may mean 'named again', i.e. an intercalary (adhika) month; I could not confirm that. Śivatithi is taken as caturdaśī. 'daivajñadīkṣitopākhya' gives the family surname (upākhyā) Daivajña-Dīkṣita, a Marathi-style name. The catalogue's scribe name 'Ḍuḍhurājaśarmā' does not match the colophon, which reads 'dhuṃḍhirājña' and has no 'śarmā'.",
+ "_meta": {
+  "reel": "A 429/22",
+  "model": "opus",
+  "cost_usd": 0.07503880000000002,
+  "secs": 20.2
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Purpose rewritten as a short summary (merit transfer to teachers, parents and all beings) instead of a raw quotation",
+   "Place: Kāntipura is where the donor lives, not a stated place of copying. Replaced with the scribe's own locative phrase, left unnormalised",
+   "Donor's residence tidied; Kāntipura kept as residence",
+   "Jñānaśrī's śākyabhikṣu title and vihāra affiliation are inferred from his father, so confidence lowered to medium",
+   "Tithi reading explained in notes ('pravaṣṭamyān' probably means pañcamī running into ṣaṣṭhī)",
+   "Added the sun's and moon's signs and the muhūrta to the notes; added the under-reign relation as none (no king named)"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "turādharavakhāsiṃhayā",
+   "name": "Vakhāsiṃha",
+   "roles": [
+    "donor",
+    "commissioner"
+   ],
+   "titles": [
+    "turādhara (Tulādhara)"
+   ],
+   "affiliation": "",
+   "residence": "Kāntipura (śrīkāntipurimahānagare), Ṅaṃtatoraka (tola) near Somavāhāra, house called Ṅatapithyāmūgalayau",
+   "evidence": "dānapati ... turādharavakhāsiṃhayāmana ... bhagavati pustaka vāvakā juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīdharmmachriṃ",
+   "name": "Dharmaśrī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "śrīsākyaṃ sumahāvihāra",
+   "residence": "",
+   "evidence": "śākyabhikṣu śrīdharmmachriṃ putra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "jñānachriṃ",
+   "name": "Jñānaśrī",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "śrīsākyaṃ sumahāvihāra",
+   "residence": "",
+   "evidence": "liṣitaṃ ... śrīdharmmachriṃ putra jñānachriṃ ... saṃpūrṇṇa siddhayakā juro",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīdharmmachriṃ putra jñānachriṃ"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "turādharavakhāsiṃhayā ... pustaka vāvakā juro ... liṣitaṃ ... jñānachriṃ"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 835 vaiśākhamāse śuklapakṣe pañcami pravaṣṭamyān tithau punarvasunakṣatre śūla joge jathākarṇṇamuhūrte budhavāsare",
+  "era": "NS",
+  "year": "835",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "pañcamī (running into ṣaṣṭhī?)",
+  "weekday": "Wednesday (budhavāsara)",
+  "nakshatra_yoga": "Punarvasu; Śūla",
+  "ce_approx": "1715"
+ },
+ "place": {
+  "as_written": "śrīgvapūrcchati miliṣūnyakṣatra śrīsākyaṃ sumahāvihār(a)",
+  "normalized": ""
+ },
+ "purpose": "Donation by Vakhāsiṃha. The merit goes to teachers (ācāryopādhyāya), to parents and ancestors, and to all beings, so that they may reach supreme knowledge.",
+ "notes": "The era is not named, but the Newari script and Newari language fit NS: 835 + 880 = 1715 CE, which agrees with the catalogue. 'pañcami pravaṣṭamyān' is corrupt. It probably means pañcamī followed by ṣaṣṭhī ('parā ṣaṣṭhyām'), less likely aṣṭamī. Other date details: sun in Meṣa, moon in Mithuna, muhūrta 'jathākarṇṇa' (corrupt). The donor's name sits inside a run-together string: 'turādhara' = Tulādhara, a caste title; 'yāmana' is probably the genitive -yā plus mana ('mind'), going with 'ati dharmacitte'. The place of copying is not stated clearly. The scribe's phrase 'śrīgvapūrcchati miliṣūnyakṣatra śrīsākyaṃ sumahāvihār(a)' is corrupt, and the vihāra cannot be identified for certain. Kāntipura (Kathmandu) is named only as the donor's residence. The colophon gives the śākyabhikṣu title only to Dharmaśrī. It is extended to his son Jñānaśrī by inference.",
+ "_meta": {
+  "reel": "A 115/3",
+  "model": "opus",
+  "cost_usd": 0.0964588,
+  "secs": 27.6
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmahādevopādhyāyena",
+   "name": "Mahādeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahādevopādhyāyena likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 750 āśvinakṛṣṇapratipadyāditye",
+  "era": "NS",
+  "year": "750",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "pratipad",
+  "weekday": "āditya",
+  "nakshatra_yoga": "",
+  "ce_approx": "1630"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 557/8",
+  "model": "gemini-flash-latest",
+  "secs": 8.5,
+  "in_tok": 691,
+  "out_tok": 584
+ }
+}

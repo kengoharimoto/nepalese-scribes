@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñakutunā",
+   "name": "Kutu",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñakutunā (!) pūrṇṇaṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "bāṇāṣṭamunibhir yukte gate pālavatsare | bhādramāsy asite pakṣe | aṣṭamyāṃ bhārgave dine || ... samvat 785 bhādrapadakṛṣṇe | aṣṭamyāṃ dine",
+  "era": "NS",
+  "year": "785",
+  "month": "Bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1665"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name is read as Kutu (possibly Ketu) with a catalogue sic mark (!). The chronogram bāṇa (5) aṣṭa (8) muni (7) yields NS 785, confirmed by 'samvat 785'. 'pālavatsare' is likely an abbreviation/corruption for [ne]pālavatsare.",
+ "_meta": {
+  "reel": "A 17/5",
+  "model": "gemini-flash-latest",
+  "secs": 10.5,
+  "in_tok": 788,
+  "out_tok": 970
+ }
+}

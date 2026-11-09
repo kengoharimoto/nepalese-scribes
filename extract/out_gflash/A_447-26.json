@@ -1,0 +1,99 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "devopanāmakagopālabhaṭṭātmaja",
+   "name": "Gopālabhaṭṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devopanāmakagopālabhaṭṭātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīpatine",
+   "name": "Śrīpati",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpatine(!) lekhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "bāṇabhaṭṭajām",
+   "name": "Bāṇabhaṭṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bāṇabhaṭṭajām",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "akhaṇḍakarasya",
+   "name": "Akhaṇḍakara",
+   "roles": [
+    "owner",
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "akhaṇḍakarasya dattaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "gopālabhaṭṭātmajaśrīpatine"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "bāṇabhaṭṭajām akhaṇḍakarasya"
+  }
+ ],
+ "date": {
+  "as_written": "śake 1719 piṃgalānāmasaṃvatsare śrāvaṇaṃ vaya 14",
+  "era": "ŚS",
+  "year": "1719",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "14",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1797"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ paropakārārthaṃ ca",
+ "notes": "The catalogue lists Akhaṇḍakara as scribe, but the text reads 'akhaṇḍakarasya dattaṃ' (given to Akhaṇḍakara), suggesting he is the recipient/owner. Gopālabhaṭṭa bears the upanāma (surname) Deva ('devopanāmaka-'). 'vaya 14' stands for vadya/kṛṣṇa 14.",
+ "_meta": {
+  "reel": "A 447/26",
+  "model": "gemini-flash-latest",
+  "secs": 19.9,
+  "in_tok": 722,
+  "out_tok": 2899
+ }
+}

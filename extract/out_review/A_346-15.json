@@ -1,0 +1,47 @@
+{
+ "review": {
+  "verdict": "confirmed",
+  "changes": [
+   "Persons, relations and date unchanged; only the notes are expanded (the reading of 'cīyā' and the chance that Manorathasiṃha was also the scribe)"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "manorathasiṃhayā",
+   "name": "Manorathasiṃha",
+   "roles": [
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "manorathasiṃhayā (sāphūla)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 870 jyeṣṭha vadi 9",
+  "era": "NS",
+  "year": "870",
+  "month": "jyeṣṭha",
+  "paksa": "vadi",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1750"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Manorathasiṃha as the scribe. But Newari 'manorathasiṃhayā (sāphūla)' means 'the book (saphū) of Manorathasiṃha', which marks him as owner. 'citraketuyā bhāsā cīyā vio dina' appears to mean 'the day the Citraketu bhāṣā (Newari version) was written/finished', with 'cīyā vio' unclear. It names no scribe, so Manorathasiṃha may also have been the scribe, but the colophon does not say so. The era is not stated; NS is assumed from the Newari script and language (870 + 880 = 1750 CE).",
+ "_meta": {
+  "reel": "A 346/15",
+  "model": "opus",
+  "cost_usd": 0.0496908,
+  "secs": 11.7
+ }
+}

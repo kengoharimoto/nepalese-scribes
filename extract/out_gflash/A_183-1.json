@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīdhaneśvararājena",
+   "name": "Dhaneśvararāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śrīdhaneśvararājena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 961 ti(!) jyeṣṭhaśudi 5 roja 3",
+  "era": "NS",
+  "year": "961",
+  "month": "jyeṣṭha",
+  "paksa": "śudi",
+  "tithi": "5",
+  "weekday": "roja 3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1841"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 183/1",
+  "model": "gemini-flash-latest",
+  "secs": 4.6,
+  "in_tok": 716,
+  "out_tok": 656
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī2 jayabhūpatīndramalladeva",
+   "name": "Jayabhūpatīndramalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī2 jayabhūpatīndramalladeva sana chebaliviyadina",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 839 vaiśāṣa śuklasaptamī budhavāra",
+  "era": "NS",
+  "year": "839",
+  "month": "vaiśāṣa",
+  "paksa": "śukla",
+  "tithi": "saptamī",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1719"
+ },
+ "place": {
+  "as_written": "cepagāla thātā kavalicā thātā",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "chebaliviyadina (gṛhabali ceremony)",
+ "notes": "The text notes a house bali ritual (chebali) performed/given by King Bhūpatīndra Malla at Cepagāla / Kavalicā.",
+ "_meta": {
+  "reel": "A 234/18",
+  "model": "gemini-flash-latest",
+  "secs": 8.7,
+  "in_tok": 738,
+  "out_tok": 971
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmūṇiyā",
+   "name": "Muni",
+   "roles": [
+    "beneficiary",
+    "donor"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmūṇiyā upākarmmasā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrī sirahmakāyana",
+   "name": "Sirahma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī sirahmakāyana",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīmūṇiyā upākarmmasāśrī sirahmakāyana"
+  }
+ ],
+ "date": {
+  "as_written": "saṃ 882 śrāvaṇaśuklapūrṇṇimā luhnu",
+  "era": "NS",
+  "year": "882",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "pūrṇṇimā",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1762"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "dāna to a Brahmin at an Upākarma ceremony",
+ "notes": "The Newari text records a gift of the Guhyeśvarīsahasranāma to a Brahmin (śrībrāhmayāta dānaviyā juro) on the occasion of the Upākarma of Muni (śrīmūṇiyā upākarmmasā) by the son of Sirahma (śrī sirahmakāyana). 'Sirahma' is likely a metathesis or colloquial spelling for Sīharāma/Siṃharāma, and 'kāyana' is the Newari ergative 'by the son'. The recipient 'śrībrāhma yāta' refers to a Brahmin generically and is not included as an individual person.",
+ "_meta": {
+  "reel": "A 978/38",
+  "model": "gemini-flash-latest",
+  "secs": 50.3,
+  "in_tok": 710,
+  "out_tok": 8237
+ }
+}

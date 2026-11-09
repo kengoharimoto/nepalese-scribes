@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīviśvanātha",
+   "name": "Viśvanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viśvanāthaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vrāhmaṇabhairulāla",
+   "name": "Bhairulāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "Bāddharagaṃja",
+   "evidence": "likhitaṃ vrāhmaṇabhairulāla",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃmat 1908 śāke 1772 mītī (!) śrāvaṇakṛṣṇapakṣe 7",
+  "era": "VS",
+  "year": "1908",
+  "month": "śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "7",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1851"
+ },
+ "place": {
+  "as_written": "bāddharagaṃjamadhye",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives dual year specifications: VS 1908 and ŚS 1772.",
+ "_meta": {
+  "reel": "B 327/21",
+  "model": "gemini-flash-latest",
+  "secs": 8.0,
+  "in_tok": 771,
+  "out_tok": 1021
+ }
+}

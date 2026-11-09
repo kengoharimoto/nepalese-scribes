@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "harilāladvijena",
+   "name": "Harilāla",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ harilāladvijena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1690 māse 9 vāre 7",
+  "era": "ŚS",
+  "year": "1690",
+  "month": "9",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1768"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 380/41",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 713,
+  "out_tok": 554
+ }
+}

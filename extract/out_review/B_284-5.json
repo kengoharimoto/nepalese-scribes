@@ -1,0 +1,63 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Normalized the weekday to 'Saturday (śaniścaravāra)' and the nakshatra to Punarvasu; noted that the yoga reading 'vṛṃhana' is uncertain.",
+   "Jagasiṃha stays as scribe at medium confidence. No verb of writing is given; the role rests on the usual Newari formula 'thokuhnu' + name + locality.",
+   "Śivagati is kept at low confidence with role 'other'. It may be a later owner's or reader's mark, or a pious phrase rather than a name.",
+   "Notes now say that Bijarakvache is the scribe's locality (Newari genitive -yā), not explicitly the place of copying."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jagasiṃṅa",
+   "name": "Jagasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Bijarakvache",
+   "evidence": "thokuhnu jagasiṃṅa || || śubha...stu (5) bijarakvacheyā",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śivagati",
+   "name": "Śivagati",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śivagati",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 831 jyeṣṭha śukla śaniścaravāla ṣaṣṭhi naṣetra, punavasunakṣetra vṛṃhanayoga",
+  "era": "NS",
+  "year": "831",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "6 (ṣaṣṭhī)",
+  "weekday": "Saturday (śaniścaravāra)",
+  "nakshatra_yoga": "Punarvasu nakṣatra; yoga 'vṛṃhana' (unclear, perhaps Vṛddhi)",
+  "ce_approx": "1711"
+ },
+ "place": {
+  "as_written": "bijarakvacheyā",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is NS 831, which matches the catalogue field (= c. 1711 CE, May–June). The Newari phrase 'mitrarābha juva' means 'Mitralābha completed'. 'thokuhnu' means 'on this day'. 'bijarakvacheyā' carries the Newari genitive -yā, so it is the locality Jagasiṃha belongs to. It is recorded as the place only by inference and is not identified. 'jagasiṃṅa' is read as Jagasiṃha. Śivagati comes after the closing blessing and may be in a later hand. It could be a personal name, possibly a later owner, or a pious phrase. The yoga 'vṛṃhana' does not match any standard yoga name, so the reading is uncertain.",
+ "_meta": {
+  "reel": "B 284/5",
+  "model": "opus",
+  "cost_usd": 0.5628576,
+  "secs": 30.2
+ }
+}

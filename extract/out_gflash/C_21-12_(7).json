@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 766 .. .. pada śudi 15 a[[na]]ntavratadrāḍhyadine",
+  "era": "NS",
+  "year": "766",
+  "month": ".. .. pada",
+  "paksa": "śudi",
+  "tithi": "15",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1646"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No persons are mentioned in the colophon. The month reading is partially broken ('.. .. pada'), likely Bhādrapada given the reference to Anantavrata.",
+ "_meta": {
+  "reel": "C 21/12 (7)",
+  "model": "gemini-flash-latest",
+  "secs": 5.6,
+  "in_tok": 700,
+  "out_tok": 560
+ }
+}

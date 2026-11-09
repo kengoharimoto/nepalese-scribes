@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kāśīnāthena",
+   "name": "Kāśīnātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "sāmavedasupāṭhin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ kāśīnāthena sāmavedasupāṭhinā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "umara śāhī",
+   "name": "Umara Śāhī",
+   "roles": [
+    "commissioner",
+    "beneficiary"
+   ],
+   "titles": [
+    "śāhī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "umara śāhīsyārthe(!) liṣitam idaṃ pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "umara śāhīsyārthe(!) liṣitam idaṃ pustakaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "śrīśāke 1558 samaye caitra vadi 11 budhe dhaniṣṭā(!)nakṣatre maitrayoge",
+  "era": "ŚS",
+  "year": "1558",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "11",
+  "weekday": "Wednesday",
+  "nakshatra_yoga": "dhaniṣṭhā nakṣatra, maitra yoga",
+  "ce_approx": "1636"
+ },
+ "place": {
+  "as_written": "gorṣāgrāma",
+  "normalized": "Gorkha"
+ },
+ "purpose": "umara śāhīsyārthe",
+ "notes": "The ruler of Gorkha is mentioned generically as 'gorṣāgrāmabhūpāla' in a benediction, without a personal name.",
+ "_meta": {
+  "reel": "B 180/11",
+  "model": "gemini-flash-latest",
+  "secs": 13.6,
+  "in_tok": 852,
+  "out_tok": 1600
+ }
+}

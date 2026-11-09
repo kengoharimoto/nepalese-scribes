@@ -1,0 +1,104 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: added titles 'mahāyānayāyin' (written mahāyāyinaḥ) and 'paramasaugata' (written parasaugata)",
+   "p1: residence normalised to 'Kāraṇḍavihāra, Lalitapura'; affiliation set to Kāraṇḍavihāra",
+   "p1: evidence now includes 'deya dharmoyaṃ', which supports the donor role",
+   "p3: evidence shortened",
+   "purpose shortened to a summary of the merit transfer",
+   "date: nakshatra field tidied (Uttaraphālgunī, then Hasta)",
+   "notes expanded: date checked against the reign; place of copying inferred from the donor's residence; reading of the scribe's name uncertain"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nātha bhārokasya",
+   "name": "Nātha",
+   "roles": [
+    "donor"
+   ],
+   "titles": [
+    "paramopāsaka",
+    "mahāyānayāyin",
+    "paramasaugata",
+    "dānapati",
+    "bhāro"
+   ],
+   "affiliation": "Kāraṇḍavihāra",
+   "residence": "Kāraṇḍavihāra, Lalitapura",
+   "evidence": "deya dharmoyaṃ ... dānapati nātha bhārokasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīśrījayārjjunadeva",
+   "name": "Jayārjunadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara",
+    "paramabhaṭṭāraka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayārjjunadevavijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vajrācārya†śrītumaśrīnāmanena†",
+   "name": "Tumaśrī",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vajrācārya†śrītumaśrīnāmanena† | svahastena likhitam",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "deya dharmoyaṃ ... nātha bhārokasya ... svahastena likhitam"
+  },
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "śrīśrījayārjjunadevavijayarājye vajrācārya†śrītumaśrīnāmanena†"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 494 caitra śuklacaturdaśyān tithau uttaraphālguṇi para hasta nakṣatre dhruvayoge somavāsare",
+  "era": "NS",
+  "year": "494",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "14",
+  "weekday": "somavāsara (Monday)",
+  "nakshatra_yoga": "Uttaraphālgunī, then Hasta; dhruva yoga",
+  "ce_approx": "1374"
+ },
+ "place": {
+  "as_written": "śrīlalitāpuramahānaga[ra]vare śrīkāraṇḍavihāra",
+  "normalized": "Patan"
+ },
+ "purpose": "deyadharma of the donor Nātha; merit transferred to teachers, parents and all beings",
+ "notes": "The era is unstated but must be NS: NS 494 = 1374 CE, which falls in Jayārjunadeva's reign (c. 1360–1382). Caitra śukla 14 would be around March/April 1374. Kāraṇḍavihāra in Lalitapura is stated as the donor's residence (livi(!) gṛhādhivāsita, 'dwelling in the house'). It is not explicitly the place of copying, which the catalogue infers from it. The cataloguer marks the scribe's name as corrupt (†śrītumaśrīnāmanena†). 'Tumaśrī' is a tentative reading, probably meant as '...śrī nāmnā'. The catalogue gives the scribe only as '...vajrācārya'. The wrote_for relation is inferred: the donor's gift formula and the scribe's statement come one after the other.",
+ "_meta": {
+  "reel": "B 31/4",
+  "model": "opus",
+  "cost_usd": 0.6010936,
+  "secs": 33.6
+ }
+}

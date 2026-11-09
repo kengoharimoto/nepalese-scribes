@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paramānandanaṃ",
+   "name": "Paramānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paramānandanaṃ valimālā sa‥dbhyā kapājuran dhurāt",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1034 umjhi || śubha samvat 1034 umbhi āṣādhaśūklapakṣe cauthī mamgalavāra",
+  "era": "NS",
+  "year": "1034",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "cauthī",
+  "weekday": "maṅgalavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1914"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon contains Newari phrases ('kapājuran dhurāt'). The standard scribal apology at the end ('mama doṣa na diya‥') confirms Paramānanda as the copyist.",
+ "_meta": {
+  "reel": "A 840/12",
+  "model": "gemini-flash-latest",
+  "secs": 10.8,
+  "in_tok": 768,
+  "out_tok": 1182
+ }
+}

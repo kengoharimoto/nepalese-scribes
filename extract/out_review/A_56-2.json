@@ -1,0 +1,132 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Chronogram checked: pakṣa 2, bāṇa 5, tithi 15, read right to left, gives Śaka 1552 (1630 CE); era and year kept",
+   "Purpose rewritten: 'viṣṇupūjā' was not a copying purpose. It is now the king's devotion to Viṣṇu worship as the motive for commissioning the copy",
+   "Notes expanded: the corrupt passages are discussed, the clash with the catalogue's VS 1652 is explained, and Jagajjyoti is identified as Jagajjyotirmalla of Bhaktapur (place of copying not stated)",
+   "Bhairavasiṃha's residence changed to empty and Tīrabhukti moved to affiliation: Tīrabhukti is his kingdom as author, not a stated residence",
+   "Evidence fields shortened"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadbhairavasiṃhasya",
+   "name": "Bhairavasiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahībhṛt",
+    "mahārājādhirāja"
+   ],
+   "affiliation": "king of Tīrabhukti (Mithilā)",
+   "residence": "",
+   "evidence": "śrīmadbhairavasiṃhadevakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīnarasiṃhātmaja",
+   "name": "Narasiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājādhirājaśrīnarasiṃhātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīmaddhṛdayanārāyaṇānuja",
+   "name": "Hṛdayanārāyaṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmaddhṛdayanārāyaṇānuja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrījagajjyotirīśena",
+   "name": "Jagajjyoti",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "īśa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījagajjyotirīśena ... tena likhāpitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "vinodo",
+   "name": "Vinoda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vinodo vyalikha",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīnarasiṃhātmaja"
+  },
+  {
+   "from": "p1",
+   "type": "brother_of",
+   "to": "p3",
+   "evidence": "śrīmaddhṛdayanārāyaṇānuja"
+  },
+  {
+   "from": "p5",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "tena likhāpitā ... vinodo vyalikha"
+  }
+ ],
+ "date": {
+  "as_written": "śake mate pakṣabāṇa titibhir lakṣate gate || dvādaśyā pauṣaśuklasya",
+  "era": "ŚS",
+  "year": "1552",
+  "month": "Pauṣa",
+  "paksa": "śukla",
+  "tithi": "dvādaśī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1630"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "Copy commissioned by King Jagajjyoti, who was devoted to Viṣṇu worship and found no satisfaction without the words of the Purāṇas",
+ "notes": "Chronogram: pakṣa (2), bāṇa (5), tithi (15). Read right to left this gives Śaka 1552 ('titibhir' = tithibhiḥ; 'lakṣate' is probably lakṣite). Śaka 1552 is 1630 CE; Pauṣa śukla 12 falls around Dec 1630 or Jan 1631. The colophon says Śaka explicitly. The catalogue's 'VS 1652' (= c. 1595 CE) conflicts with this: the cataloguer probably misread the era or the digits. 1595 also falls before the reign of Jagajjyotirmalla of Bhaktapur (r. c. 1614–1637), while Śaka 1552 falls within it. Jagajjyoti ('jagajjyotirīśa') is taken to be Jagajjyotirmalla, but the colophon gives no -malla and names no place, so the place field is left empty. 'vyalikha cūtā' is corrupt, perhaps for 'vyalikhac chubhām' or similar; the scribe's name Vinoda is clear. Bhairavasiṃha(deva) of Tīrabhukti is the author, the Oinavāra king of Mithilā. His father Narasiṃha and elder brother Hṛdayanārāyaṇa are named only in the author's praśasti, so they are not connected with this copy.",
+ "_meta": {
+  "reel": "A 56/2",
+  "model": "opus",
+  "cost_usd": 0.0933828,
+  "secs": 25.6
+ }
+}

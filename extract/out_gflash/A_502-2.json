@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahārājādhirājaśrīmahādevīya",
+   "name": "Mahādeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājādhirājaśrīmahādevīya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīhemādriviracite",
+   "name": "Hemādri",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "samastakaraṇādhīśvara",
+    "sakalavidyāviśārada"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīhemādriviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "servant_of",
+   "to": "p1",
+   "evidence": "mahārājādhirājaśrīmahādevīya samastakaraṇādhīśvara"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Text colophon only; mentions the text author Hemādri and his patron, the Seuna/Yādava king Mahādeva.",
+ "_meta": {
+  "reel": "A 502/2",
+  "model": "gemini-flash-latest",
+  "secs": 9.4,
+  "in_tok": 693,
+  "out_tok": 1237
+ }
+}

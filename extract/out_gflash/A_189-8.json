@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmukundadaivajñena",
+   "name": "Mukunda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña",
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "tarṣāgālanāmadheyagrāme",
+   "evidence": "śrīmukundadaivajñena likhitam idaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrī(saṃ)vat 1831 śrīśāke 1696 māse 9 tithau 4 vāre 5 nakṣatre 9 rāśau 4 yoge 1 / raśe(!) 6 aṃka9bhūpe 16 śake pauṣamāse dine jīvasaṃjñe tithau gauri(!)putre || bhujaṃge r(!)kṣabhe yogaviṣkuṃbhasaṃjñe",
+  "era": "ŚS",
+  "year": "1696",
+  "month": "pauṣa",
+  "paksa": "",
+  "tithi": "4",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "āśleṣā (nakṣatre 9), viṣkambha (yoge 1)",
+  "ce_approx": "1774"
+ },
+ "place": {
+  "as_written": "tarṣāgālanāmadheyagrāme",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ vā putrāya śikṣaṇārthaṃ",
+ "notes": "Both Vikrama Saṃvat 1831 and Śaka Saṃvat 1696 are explicitly given in the colophon. The son for whose instruction the copy was made is not named.",
+ "_meta": {
+  "reel": "A 189/8",
+  "model": "gemini-flash-latest",
+  "secs": 10.8,
+  "in_tok": 1329,
+  "out_tok": 1822
+ }
+}

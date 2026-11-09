@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvālmīki",
+   "name": "Vālmīki",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvālmīkiviracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1898 sālamiti āśvīnavadi 14 roja 2",
+  "era": "VS",
+  "year": "1898",
+  "month": "āśvīna",
+  "paksa": "vadi",
+  "tithi": "14",
+  "weekday": "roja 2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1841"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 473/1",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 708,
+  "out_tok": 876
+ }
+}

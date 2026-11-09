@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ācārya āryadevapādānām",
+   "name": "Āryadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtir iyam ācārya āryadevapādānām iti",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1911 sālam iti āśvinavadi 1 rojaṃ",
+  "era": "VS",
+  "year": "1911",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "1",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1854"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 131/9",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 920,
+  "out_tok": 1078
+ }
+}

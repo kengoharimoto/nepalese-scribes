@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "āṃbrekaropanāmanārāyaṇena",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upanāma: Āṃbrekara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "āṃbrekaropanāmanārāyaṇena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1924 pramāthī nāmābde bhādrapadaśukladaśamyām",
+  "era": "VS",
+  "year": "1924",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1867"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthaṃ ca",
+ "notes": "The scribe bears the Maharashtrian surname (upanāma) Āmbrekar (Āṃbrekara).",
+ "_meta": {
+  "reel": "A 487/18",
+  "model": "gemini-flash-latest",
+  "secs": 8.2,
+  "in_tok": 834,
+  "out_tok": 1057
+ }
+}

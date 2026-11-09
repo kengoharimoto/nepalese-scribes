@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1670 varṣe kārttikavadya (!) 7 some",
+  "era": "VS",
+  "year": "1670",
+  "month": "kārttika",
+  "paksa": "vadya",
+  "tithi": "7",
+  "weekday": "some",
+  "nakshatra_yoga": "",
+  "ce_approx": "1613"
+ },
+ "place": {
+  "as_written": "śrī.vṛddha⁅n⁆agara",
+  "normalized": "Vadnagar"
+ },
+ "purpose": "",
+ "notes": "The colophon text breaks off at 'ābhyaṃtaranāgara-' so no personal name of the scribe or owner is preserved. Hanumat is excluded as a mythical/divine figure. The catalogue suggests ŚS 1670, but saṃvat 1670 Kārttika vadya 7 matches Monday in the Vikrama era (25 October 1613 CE).",
+ "_meta": {
+  "reel": "A 353/8",
+  "model": "gemini-flash-latest",
+  "secs": 16.7,
+  "in_tok": 748,
+  "out_tok": 2469
+ }
+}

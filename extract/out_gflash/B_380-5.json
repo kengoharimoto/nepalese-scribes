@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnīlakaṇṭharājena",
+   "name": "Nīlakaṇṭharāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnīlakaṇṭharājena liṣitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "mārggaśiladvitīyā somavāra samvat 766",
+  "era": "NS",
+  "year": "766",
+  "month": "mārggaśila",
+  "paksa": "",
+  "tithi": "dvitīyā",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1646"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 380/5",
+  "model": "gemini-flash-latest",
+  "secs": 8.9,
+  "in_tok": 781,
+  "out_tok": 1124
+ }
+}

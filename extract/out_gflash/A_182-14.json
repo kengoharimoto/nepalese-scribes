@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñaśivavarmmaṇā",
+   "name": "Śivavarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "śrībhaktapaṭṭana",
+   "evidence": "daivajñaśivavarmmaṇā likhitam idaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 727 caitrakṛṣṇadaśamyāṃ tithau",
+  "era": "NS",
+  "year": "727",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1607"
+ },
+ "place": {
+  "as_written": "śrībhaktapaṭṭanādhivāsī",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 182/14",
+  "model": "gemini-flash-latest",
+  "secs": 3.6,
+  "in_tok": 769,
+  "out_tok": 308
+ }
+}

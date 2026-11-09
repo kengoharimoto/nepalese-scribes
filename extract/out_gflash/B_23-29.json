@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "sāhu-asoganāmnasya",
+   "name": "Asoga",
+   "roles": [
+    "commissioner",
+    "beneficiary"
+   ],
+   "titles": [
+    "sāhu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sāhu-asoganāmnasya(!) nimityārtham(!)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jayatena",
+   "name": "Jayata",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kāyastha"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāyasthaḥ jayatena(!) likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "sāhu-asoganāmnasya(!) nimityārtham(!) kāyasthaḥ jayatena(!) likhitam"
+  }
+ ],
+ "date": {
+  "as_written": "śrīnepālasamvatsare | yugāṣṭavedā | dvir āṣāḍhakṛṣṇatrayodasīśanivāsare",
+  "era": "NS",
+  "year": "484",
+  "month": "dvir-āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "śanivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1364"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for Sāhu Asoga (sāhu-asoganāmnasya nimityārtham)",
+ "notes": "The chronogram 'yugāṣṭavedā' corresponds to 4-8-4 (NS 484). The cataloguer suggests the scribe's name Jayata may be an error for Jayanta. The commissioner's name 'Asoga' likely represents Aśoka.",
+ "_meta": {
+  "reel": "B 23/29",
+  "model": "gemini-flash-latest",
+  "secs": 9.3,
+  "in_tok": 907,
+  "out_tok": 1564
+ }
+}

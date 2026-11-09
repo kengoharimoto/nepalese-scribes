@@ -1,0 +1,50 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Roles for Padmadāsabhakta cut to scribe only. No causative verb such as likhāpitam supports 'commissioner', and no possessive formula supports 'owner'. The genitive after 'likhitaṃ' is read as naming the writer, which agrees with the catalogue's scribe field.",
+   "Purpose left empty. 'līṣanārthe' is corrupt and its meaning is uncertain; the possible readings are given in the notes.",
+   "Weekday changed to plain 'Tuesday'; the 'roja 3' form stays in as_written.",
+   "Notes expanded: the name as read differs from the catalogue's spelling, and the alternative reading is explained."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "padmadāsabhaktānāṃ",
+   "name": "Padmadāsabhakta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ līṣanārthe (!) padmadāsabhaktānāṃ",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1923 sāla miti āśviṇa (!) vadi 9 roja 3",
+  "era": "VS",
+  "year": "1923",
+  "month": "Āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1866"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue gives the scribe as 'Padmabhāsabhakta', but the colophon as quoted reads 'padmadāsabhakta-'. The colophon reading is used here. 'līṣanārthe' is corrupt. It could stand for 'likhanārthe' or 'lekhanārthe', or be a garbled 'paṭhanārthe'. If it means 'paṭhanārthe', the genitive plural (honorific) would mark Padmadāsabhakta as the person the copy was made for (owner/reader), not the writer. The first reading's roles 'commissioner' and 'owner' are not supported by any explicit formula, so only 'scribe' is kept, following the catalogue. 'bhakta' may be a name element rather than a title, so it stays in the name. The date is VS 1923, dark half of Āśvina, 9th tithi, Tuesday (roja 3), which falls around September–October 1866 CE.",
+ "_meta": {
+  "reel": "A 303/5",
+  "model": "opus",
+  "cost_usd": 0.5533616,
+  "secs": 24.2
+ }
+}

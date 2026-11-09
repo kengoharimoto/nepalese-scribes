@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "satpaṃśrīkālidāsasya",
+   "name": "Kālidāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "satpaṃ"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "satpaṃśrīkālidāsasya lipir iyaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śakā(bdaḥ) 1452",
+  "era": "ŚS",
+  "year": "1452",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1530"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue records Kālidāsa as donor, but the colophon text 'lipir iyaṃ' indicates he is the scribe. The title prefix 'satpaṃ' likely represents 'sat-paṇḍita'.",
+ "_meta": {
+  "reel": "B 11/1",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 1135,
+  "out_tok": 752
+ }
+}

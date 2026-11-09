@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "suṣadevākā",
+   "name": "Sukhadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daśakata suṣadevākā liṣī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 19○11",
+  "era": "VS",
+  "year": "1911",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1854"
+ },
+ "place": {
+  "as_written": "sāyapurāmadhya",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "daśakata reflects dastakhat ('signature'). The year appears written as 19○11 (likely 1911 VS).",
+ "_meta": {
+  "reel": "A 144/7",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 682,
+  "out_tok": 913
+ }
+}

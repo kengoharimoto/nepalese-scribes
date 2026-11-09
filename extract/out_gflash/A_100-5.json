@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "triṃvakabharasya",
+   "name": "Triṃvakabhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "triṃvakabharasya hasta likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mahī vekaṇabharasya",
+   "name": "Mahīvekaṇabhara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahī vekaṇabharasya putra triṃvakabharasya",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "mahī vekaṇabharasya putra triṃvakabharasya"
+  }
+ ],
+ "date": {
+  "as_written": "śake(!) dhātā nāma saṃvatsara bhādra pada vadhya ṣaṣṭI maṃdavāsare",
+  "era": "ŚS",
+  "year": "dhātā nāma saṃvatsara",
+  "month": "bhādrapada",
+  "paksa": "kṛṣṇa",
+  "tithi": "ṣaṣṭhī",
+  "weekday": "Saturday",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "śrī mathurā kṣetre",
+  "normalized": "Mathura"
+ },
+ "purpose": "",
+ "notes": "The samvatsara is Dhātṛ (Dhātā). Year number is not specified numerically. 'vadhya' = vadya (kṛṣṇa pakṣa).",
+ "_meta": {
+  "reel": "A 100/5",
+  "model": "gemini-flash-latest",
+  "secs": 4.1,
+  "in_tok": 691,
+  "out_tok": 498
+ }
+}

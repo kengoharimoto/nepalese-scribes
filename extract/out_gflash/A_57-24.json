@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 513 bhādrapadaśuklamaṃgalacaturthī prapaṃcaṃmyāṃyā(!) tithau || citranakṣetre(!) || śuddhiyoge || maṃgaladine",
+  "era": "NS",
+  "year": "513",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "caturthī / pañcamī",
+  "weekday": "maṃgalavāra",
+  "nakshatra_yoga": "citrā, śuddhi (vṛddhi?)",
+  "ce_approx": "1393"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "A standard scribal apology verse is present (jadi suddhamm aśudham vā || mama doṣo na dīyate), but the scribe does not record their name.",
+ "_meta": {
+  "reel": "A 57/24",
+  "model": "gemini-flash-latest",
+  "secs": 7.7,
+  "in_tok": 820,
+  "out_tok": 931
+ }
+}

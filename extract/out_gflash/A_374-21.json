@@ -1,0 +1,82 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kolācalamallināthasūri",
+   "name": "Mallinātha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "mahopādhyāya",
+    "sūri"
+   ],
+   "affiliation": "",
+   "residence": "Kolācala",
+   "evidence": "kolācalamallināthasūriviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vyāsa madhusūdana",
+   "name": "Madhusūdana",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "vyāsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vyāsa madhusūdanasūnunā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vyāsodaya kṛṣṇa",
+   "name": "Udayakṛṣṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vyāsa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vyāsa madhusūdanasūnunā vyāsodaya kṛṣṇakumārasaṃbhavaṭīkākhyaṃ pustakam ado lekhi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "vyāsa madhusūdanasūnunā vyāsodaya kṛṣṇa"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat saptadaśottaracatustriṃśattame prabhavanāmni saṃvatsare nabhasi māsi bahule pakṣe saptamyāṃ jñavāsarānvitāyāṃ",
+  "era": "VS",
+  "year": "1734",
+  "month": "nabhas",
+  "paksa": "bahula",
+  "tithi": "saptamī",
+  "weekday": "jñavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1677"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The prose gives the completion date as Saṃvat 1734 (prabhava saṃvatsara), Nabhas (Śrāvaṇa) bahula saptamī, Wednesday (jñavāsara). The following verse mentions copying on Nabhas sita ṣaṣṭhī, Friday (sitavāsara).",
+ "_meta": {
+  "reel": "A 374/21",
+  "model": "gemini-flash-latest",
+  "secs": 12.6,
+  "in_tok": 1292,
+  "out_tok": 2008
+ }
+}

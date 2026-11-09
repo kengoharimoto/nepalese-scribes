@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmatrāmapatina",
+   "name": "Rāmapati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatrāmapatina coyā juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 817 caitraśuklasaptamī +++ bāla thvakuhnusidhayakā",
+  "era": "NS",
+  "year": "817",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "saptamī",
+  "weekday": "+++ bāla",
+  "nakshatra_yoga": "",
+  "ce_approx": "1697"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1320/5 (1)",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 838,
+  "out_tok": 669
+ }
+}

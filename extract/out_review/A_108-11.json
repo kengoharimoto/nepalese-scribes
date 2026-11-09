@@ -1,0 +1,76 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Second person added: 'kāruyāta' is the Newari dative 'to/for Kāru'. So Kāru (Vajrācārya of Tadhukṣe) is the person who received the copy. The first reading took the word for a corruption of 'kāryayāta'.",
+   "Sentence read as Newari 'coyā va viyā julo' ('having written, [he] gave it'): Machindra is scribe and donor, Kāru is recipient (beneficiary). Relation added: Machindra wrote_for Kāru.",
+   "'tadhukṣayā vajrācāryye' is not a dittography. It describes the recipient, not the scribe.",
+   "Place of copying emptied: Tadhukṣe is only given as residence. The colophon does not say the copy was made there.",
+   "Date fields: weekday normalised to Sunday (ro 1). The notes now explain how the NS and VS dates relate (they may not be the same day). ce_approx 1899 kept."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "machindravajrācāryye",
+   "name": "Machindra",
+   "roles": [
+    "scribe",
+    "donor"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "Tadhukṣe",
+   "evidence": "tadhukṣeyāmachindravajrācāryye ... coyāvaviyājulo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kāruyāta",
+   "name": "Kāru",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "",
+   "residence": "Tadhukṣe",
+   "evidence": "tadhukṣayāvajrācāryye kāruyāta coyāvaviyājulo",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "kāruyāta coyāvaviyājulo"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1019 miti vaiśāṣavadi 3 ro 1 ... samvat 1956 sālamiti jyeṣṭavadi 3 ro 1",
+  "era": "NS",
+  "year": "1019",
+  "month": "Vaiśākha",
+  "paksa": "kṛṣṇa (vadi)",
+  "tithi": "3",
+  "weekday": "Sunday (ro 1)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1899"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "written and given to Kāru Vajrācārya of Tadhukṣe",
+ "notes": "The colophon has two dates. The first is NS 1019, Vaiśākha vadi 3, Sunday, which falls in April/May 1899. The second is VS 1956, Jyeṣṭha vadi 3, Sunday, also in 1899. VS 1956 begins in April 1899, so the two eras do not conflict. The dates could be the same day: Vaiśākha vadi in the amānta month system (common in Newar dating) is called Jyeṣṭha vadi in the pūrṇimānta system (common in Gorkhali dating). They could also be one month apart. The garbled 'māsi ‥ganyā' after the VS date is unclear. It may be a later note or another name, so it was not recorded as a person. 'sathosā(pu)' before 'tadhukṣeyā' is also unclear; it might be a place or household name. Tadhukṣe is probably a Kathmandu locality or household, but this is not certain. The scribe's name 'Machindra' probably stands for Matsyendra. The reading 'Kāru' is uncertain.",
+ "_meta": {
+  "reel": "A 108/11",
+  "model": "opus",
+  "cost_usd": 0.5928256000000001,
+  "secs": 37.5
+ }
+}

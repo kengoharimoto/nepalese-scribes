@@ -1,0 +1,112 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: as_written now uses the first occurrence ('mahāpāṇḍitaśrīśrīrāmavircite'), quoted exactly.",
+   "p3: confidence lowered to medium. It is unclear whether 'śrī' belongs to the name (Śrīvardhana, as the catalogue has it) or is an honorific (Vardhana). The metathesis vradhana → vardhana is noted.",
+   "p4: name normalized from Śirapatika to Śrīpati. 'śira' is a common miswriting of śrī, and -ka is a suffix. Residence normalized to 'Yāga grāma'.",
+   "Date: tithi normalized to caturthī ('cavothyāyā' = cauthī). NS 399 Phālguna śukla falls in Feb–Mar 1279 CE, inside Ananta Malla's reign.",
+   "Notes expanded: the place of copying is inferred from the scribe's residence, and the 'owner' reading of 'pustaka śiddhaṃ' is explained."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahāpāṇḍitaśrīśrīrāmavircite",
+   "name": "Rāma",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāpaṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahāpāṇḍitaśrīśrīrāmavircite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīśrīanaṃtamalladevasya",
+   "name": "Anantamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīanaṃtamalladevasya vijayarāje(!)",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīvradha(!)nena",
+   "name": "Śrīvardhana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "thānabhramastaka",
+   "evidence": "thānabhramastake vāstavyadvijavaraśrīvradha(!)nena likhitam",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śirapati(!)kasya",
+   "name": "Śrīpati",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "dvijavara"
+   ],
+   "affiliation": "",
+   "residence": "Yāga grāma",
+   "evidence": "yāgaṃ grāmādhivāśinadvijavaraśirapati(!)kasya pustaka",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "śrīśrīanaṃtamalladevasya vijayarāje(!)"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "likhitam | yāgaṃ grāmādhivāśinadvijavaraśirapati(!)kasya pustaka"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 399 phārguṇa(!)śukla†cavothyāyā† likhitadine",
+  "era": "NS",
+  "year": "399",
+  "month": "Phālguna",
+  "paksa": "śukla",
+  "tithi": "caturthī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1279"
+ },
+ "place": {
+  "as_written": "thānabhramastake",
+  "normalized": ""
+ },
+ "purpose": "for Śrīpati of Yāga grāma (his book)",
+ "notes": "The colophon names no era. It is taken as NS because of King Ananta Malla (r. c. 1274–1310). NS 399 Phālguna = early 1279 CE. 'thānabhramastake' is given as the scribe's residence ('vāstavya'). The catalogue treats it as the place of copying, but it cannot be identified. Scribe: 'śrīvradhana' is a metathesis for śrīvardhana. It is unclear whether 'śrī' is part of the name or an honorific. Owner: 'śirapatika' is most likely Śrīpati with a -ka suffix. 'yāgaṃ grāmādhivāśina' = resident of Yāga(ṃ) village. 'pustakaśiddhaṃ' probably means 'pustakaṃ siddham' ('the book of … is completed'), so he is read as owner/recipient. The tithi 'cavothyāyā' is marked corrupt by the cataloguer and is read as caturthī.",
+ "_meta": {
+  "reel": "B 36/22",
+  "model": "opus",
+  "cost_usd": 0.0868668,
+  "secs": 22.7
+ }
+}

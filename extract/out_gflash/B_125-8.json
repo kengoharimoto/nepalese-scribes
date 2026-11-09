@@ -1,0 +1,60 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "narasiṃhaṭhakkura",
+   "name": "Narasiṃha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "jagadekaguru",
+    "ṭhakkura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahāmahopādhyāyajagadekagurunarasiṃhaṭhakkuraviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "cā(4)nanta[[siṃha]]ḥ",
+   "name": "Anantasiṃha",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "svārthe yatnatais sutūrṇam alikhac ... cā(4)nanta[[siṃha]]ḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "vahnivyomaphaṇīndrakair adhigate nepāla(3)saṃvatsare | caitre māsi tathāṣṭamitithau sādrātigaṇḍe ravau",
+  "era": "NS",
+  "year": "803",
+  "month": "Caitra",
+  "paksa": "",
+  "tithi": "8",
+  "weekday": "ravivāra",
+  "nakshatra_yoga": "ārdrā, atigaṇḍa",
+  "ce_approx": "1683"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthe, śrītāriṇīprītaye",
+ "notes": "The year is expressed by the chronogram vahni (3), vyoma (0), phaṇīndra (8) = NS 803. Scribe copied the manuscript for his own use (svārthe).",
+ "_meta": {
+  "reel": "B 125/8",
+  "model": "gemini-flash-latest",
+  "secs": 12.3,
+  "in_tok": 839,
+  "out_tok": 1556
+ }
+}

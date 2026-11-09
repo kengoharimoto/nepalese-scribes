@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījyotiṣibhavahariśarmaṇo",
+   "name": "Bhavahariśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "jyotiṣi",
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrījyotiṣibhavahariśarmaṇo haste likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1815 sālamiti āśvinavadī(!) 8 roja 3",
+  "era": "ŚS",
+  "year": "1815",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "8",
+  "weekday": "roja 3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1893"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue has ŚS 1851 for the date, but the colophon text clearly reads 1815.",
+ "_meta": {
+  "reel": "A 959/62",
+  "model": "gemini-flash-latest",
+  "secs": 6.4,
+  "in_tok": 773,
+  "out_tok": 820
+ }
+}

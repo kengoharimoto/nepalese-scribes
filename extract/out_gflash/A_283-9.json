@@ -1,0 +1,82 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "anantopādhyāya",
+   "name": "Ananta",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "anantopādhyāyasūnur",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kāśīnāthopādhyāya",
+   "name": "Kāśīnātha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "upādhyāya",
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kāśīnāthopādhyāyaviracitā vedastutau śrīdharīyaṭīkāvyākhyā samāptā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "somanāthākhyena dvijanmanā",
+   "name": "Somanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvijanman"
+   ],
+   "affiliation": "",
+   "residence": "kāśyāṃ rāmaghāṭākhyābhidhe kṣetre",
+   "evidence": "likhitam idaṃ pustakaṃ somanāthākhyena dvijanmanā kāśyāṃ rāmaghāṭākhyābhidhe kṣetre",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "anantopādhyāyasūnur"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1929 sāla miti kārttika śudi 15 roja 5",
+  "era": "VS",
+  "year": "1929",
+  "month": "kārttika",
+  "paksa": "śudi",
+  "tithi": "15",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1872"
+ },
+ "place": {
+  "as_written": "kāśyāṃ rāmaghāṭākhyābhidhe kṣetre",
+  "normalized": "Varanasi"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 283/9",
+  "model": "gemini-flash-latest",
+  "secs": 8.0,
+  "in_tok": 827,
+  "out_tok": 1396
+ }
+}

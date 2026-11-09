@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvālmīkinā",
+   "name": "Vālmīki",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvālmīkinā viracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1703 jyeṣṭhasudi 5",
+  "era": "ŚS",
+  "year": "1703",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1781"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 473/16",
+  "model": "gemini-flash-latest",
+  "secs": 5.8,
+  "in_tok": 684,
+  "out_tok": 818
+ }
+}

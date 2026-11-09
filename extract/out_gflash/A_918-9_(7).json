@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvajrācārya cittamuniṃ",
+   "name": "Cittamuni",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "maitrīpūrimahāvihāra",
+   "residence": "",
+   "evidence": "śrīvajrācārya cittamuniṃ coseṃ sampūrṇṇa yāṅā julo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 953 miti mārgaśila kṛ 1 sa",
+  "era": "NS",
+  "year": "953",
+  "month": "mārgaśila",
+  "paksa": "kṛ",
+  "tithi": "1",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1832"
+ },
+ "place": {
+  "as_written": "maitrīpūrimahāvihārayā",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 918/9 (7)",
+  "model": "gemini-flash-latest",
+  "secs": 6.7,
+  "in_tok": 734,
+  "out_tok": 780
+ }
+}

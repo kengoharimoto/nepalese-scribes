@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvajrācāryya padmākarasiṃhana",
+   "name": "Padmākarasiṃha",
+   "roles": [
+    "scribe",
+    "commissioner"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "jyāthabāhāra",
+   "residence": "yaṃ thahiti jyāthabāhāra",
+   "evidence": "likhite yaṃ thahiti jyāthabāhārayā śrīvajrācāryya padmākarasiṃhana || thva pustaka dayekā jula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śubha saṃvat 957 mti māgrasilaśukla 1",
+  "era": "NS",
+  "year": "957",
+  "month": "māgrasila",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1836"
+ },
+ "place": {
+  "as_written": "hlāsadesaḥ hlājusāvāgrahe",
+  "normalized": "Lhasa"
+ },
+ "purpose": "",
+ "notes": "Although the catalogue record identified Thahiti kvāthavahāra / Jyāthabāhāra (Kathmandu) as the place of copying, the colophon specifies that the manuscript was written in Lhasa ('hlāsadesaḥ hlājusāvāgrahe coyā jula') by or for Padmākarasiṃha of Jyāthabāhāra, Thahiti, Kathmandu (Yaṃ).",
+ "_meta": {
+  "reel": "A 129/17",
+  "model": "gemini-flash-latest",
+  "secs": 11.4,
+  "in_tok": 805,
+  "out_tok": 1728
+ }
+}

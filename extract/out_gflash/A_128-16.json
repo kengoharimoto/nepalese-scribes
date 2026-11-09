@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nityānandākhyanārāyaṇabhaṭtena",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nityānandākhyanārāyaṇabhaṭtena racitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīvidyānandanāthākhya śrīśrīnivāsācāryaśiṣyeṇa",
+   "name": "Śrīnivāsa",
+   "roles": [
+    "teacher"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvidyānandanāthākhya śrīśrīnivāsācāryaśiṣyeṇa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "pupil_of",
+   "to": "p2",
+   "evidence": "śrīvidyānandanāthākhya śrīśrīnivāsācāryaśiṣyeṇa nityānandākhyanārāyaṇabhaṭtena"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1753 agahana vadi || 10 ||",
+  "era": "unspecified",
+  "year": "1753",
+  "month": "agahana",
+  "paksa": "vadi",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The cataloguer assigns the date to Śaka Saṃvat 1753 (c. 1831 CE), but 'saṃvat' with the vernacular month name 'agahana' (Agrahāyaṇa) in North Indian tradition usually indicates Vikrama Saṃvat (1753 VS = c. 1696 CE). Nārāyaṇabhaṭṭa (tantric/initiation name Nityānanda), pupil of Śrīnivāsācārya (tantric name Vidyānandanātha), is named as the author ('racitā'); no scribe is specifically named.",
+ "_meta": {
+  "reel": "A 128/16",
+  "model": "gemini-flash-latest",
+  "secs": 18.5,
+  "in_tok": 723,
+  "out_tok": 3069
+ }
+}

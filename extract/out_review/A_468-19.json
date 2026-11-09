@@ -1,0 +1,53 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 Gaṅgārāma: dropped role 'scribe'. The genitive '…kārkheḍakarasya' with 'svārthaṃ parārthaṃ ca' only shows ownership, and no verb of copying is present. Confidence lowered to medium.",
+   "p1: added Kārkheḍakara to titles as a family/toponymic surname next to pāṭhaka, and kept it in affiliation.",
+   "purpose rephrased. Date fields kept, with a note that the era is inferred and the weekday unverified.",
+   "notes expanded to cover the trailing fragment 'sā vāya' and the possible scribe role."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaṃgārāmapāṭhakakārkheḍakarasya",
+   "name": "Gaṅgārāma",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "pāṭhaka",
+    "Kārkheḍakara"
+   ],
+   "affiliation": "Kārkheḍakara (family name)",
+   "residence": "",
+   "evidence": "gaṃgārāmapāṭhakakārkheḍakarasya || svārthaṃ parārthaṃ ca",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1849 | āśivesya caturthyāṃ tu bahule bhūminandane",
+  "era": "VS",
+  "year": "1849",
+  "month": "Āśvina",
+  "paksa": "kṛṣṇa (bahula)",
+  "tithi": "4",
+  "weekday": "Tuesday (bhūminandana)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1792"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthaṃ ca (for his own use and for others)",
+ "notes": "The colophon says only 'saṃvat'. VS is assumed because the script is Devanagari and the owner appears to be from a Maharashtrian brahmin family (Pāṭhaka, Kārkheḍakara). Read as VS, the year is 1792 CE. The weekday (Tuesday, Āśvina kṛṣṇa 4) has not been checked. 'āśivesya' is a corrupt form of 'āśvinasya'. The genitive name with 'svārthaṃ parārthaṃ ca' marks Gaṅgārāma as owner. He was probably also the scribe, but the colophon does not say so. The colophon breaks off with 'sā vāya.', probably the start of a further statement, so it is left unread.",
+ "_meta": {
+  "reel": "A 468/19",
+  "model": "opus",
+  "cost_usd": 0.5544456,
+  "secs": 26.5
+ }
+}

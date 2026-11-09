@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "upādhyāyaḥ",
+   "name": "Upādhyāya",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "nakurājye tāhnugrāme",
+   "evidence": "maye(!) likhitaṃ daśakarmmarāmapaddhatipustakaṃ likhitaṃ nakurājye tāhnugrāme brahmasthāne li(!) upādhyāyaḥ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1733 māse vaiśāṣadinagae 17 ādityavāsare śuklapakṣe tithu || citrabhānunāmasaṃvatsa[re]",
+  "era": "ŚS",
+  "year": "1733",
+  "month": "vaiśāṣa",
+  "paksa": "śuklapakṣe",
+  "tithi": "",
+  "weekday": "ādityavāsare",
+  "nakshatra_yoga": "citrabhānunāmasaṃvatsara",
+  "ce_approx": "1811"
+ },
+ "place": {
+  "as_written": "nakurājye tāhnugrāme brahmasthāne",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's personal name is not preserved or clearly stated; only the title 'upādhyāyaḥ' (preceded by an uncertain/corrupt syllable 'li(!)') is given along with the first-person pronouns 'maye(!)' / 'mayā'.",
+ "_meta": {
+  "reel": "A 447/49",
+  "model": "gemini-flash-latest",
+  "secs": 13.0,
+  "in_tok": 793,
+  "out_tok": 1798
+ }
+}

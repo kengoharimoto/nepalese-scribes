@@ -1,0 +1,46 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsumati jayajitāmitramallo / śrīśrī sumati jayajitāmitamallana",
+   "name": "Jayajitāmitramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "mahīśa",
+    "sumati"
+   ],
+   "affiliation": "bhāsvadvaṃśa",
+   "residence": "",
+   "evidence": "śrīsumati jayajitāmitramallo mahīśaḥ, śaivīṃ lakṣāhutākhyāṃ sakalavidhimayīṃ paddhatiṃ saptatantoḥ || || samvat 802 māgha śudi 5 || śrīśrī sumati jayajitāmitamallana śrī 3 śaṃkaranārāyaṇa pratiṣṭhā (5) yāṅa sāphura dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "abde pāṇidyunāge taraṇitithiyute māghamāse ca śukle bhe'śvinyāṃ kāvyavāre ... samvat 802 māgha śudi 5",
+  "era": "NS",
+  "year": "802",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "kāvyavāra",
+  "nakshatra_yoga": "aśvinī",
+  "ce_approx": "1682"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrī 3 śaṃkaranārāyaṇa pratiṣṭhā yāṅa (for the consecration ritual of Śaṅkaranārāyaṇa)",
+ "notes": "The catalogue records the date as NS 815, but both the chronogram (pāṇi-dyu-nāga = 2, 0, 8 = 802) and the numerical gloss clearly state Samvat 802. Bhaktapur is given in the catalogue fields based on Jayajitāmitramalla's kingdom, but is not mentioned in the colophon text itself.",
+ "_meta": {
+  "reel": "A 1235/19 (23)",
+  "model": "gemini-flash-latest",
+  "secs": 13.3,
+  "in_tok": 968,
+  "out_tok": 1988
+ }
+}

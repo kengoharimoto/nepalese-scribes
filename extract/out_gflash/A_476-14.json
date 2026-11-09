@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmanāthena",
+   "name": "Rāmanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ rāmanāthena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1768 phālguṇaśudi 14",
+  "era": "VS",
+  "year": "1768",
+  "month": "phālguṇa",
+  "paksa": "śudi",
+  "tithi": "14",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1712"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 476/14",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 670,
+  "out_tok": 890
+ }
+}

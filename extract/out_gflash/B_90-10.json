@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmitra",
+   "name": "Śrīmitra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "mahāpaṇḍita",
+    "bhikṣuvarya"
+   ],
+   "affiliation": "Vikramaśīladevamahāvihāra",
+   "residence": "",
+   "evidence": "mahāpaṇḍitabhikṣuvaryyaśrīmitraviracityāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1954 sālamiti bhādravadi 12 roja 3",
+  "era": "VS",
+  "year": "1954",
+  "month": "bhādra",
+  "paksa": "kṛṣṇa",
+  "tithi": "12",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1897"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The author of the Marmakalikā pañjikā is referred to as bhikṣuvarya Śrīmitra of Vikramaśīla Mahāvihāra.",
+ "_meta": {
+  "reel": "B 90/10",
+  "model": "gemini-flash-latest",
+  "secs": 9.9,
+  "in_tok": 809,
+  "out_tok": 1184
+ }
+}

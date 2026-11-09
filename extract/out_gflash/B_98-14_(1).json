@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījayamuninā",
+   "name": "Jayamuni",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "lekhaka-śrījayamuneḥ || ... śrījayamuninā svārthaṃ parārthena likhito",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 777 phālguṇamāse śuklapakṣe pūrṇṇamāsyāṃ tithau pūrvaphālguṇīnakṣatre dhṛti(14)yoge budhavāsare",
+  "era": "NS",
+  "year": "777",
+  "month": "phālguṇa",
+  "paksa": "śukla",
+  "tithi": "pūrṇamāsī",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "pūrvaphālguṇī nakṣatra, dhṛti yoga",
+  "ce_approx": "1657"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthena (for one's own benefit and the benefit of others; bodhilābha for all beings)",
+ "notes": "",
+ "_meta": {
+  "reel": "B 98/14 (1)",
+  "model": "gemini-flash-latest",
+  "secs": 8.7,
+  "in_tok": 1054,
+  "out_tok": 997
+ }
+}

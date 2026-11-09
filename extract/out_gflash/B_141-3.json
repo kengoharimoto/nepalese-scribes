@@ -1,0 +1,83 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīyadunāthacakravartti",
+   "name": "Yadunātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "cakravartin"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīyadunāthacakravarttiviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mahāmahopādhyāyavidyābhūṣaṇabhā(!)ṭṭācārya",
+   "name": "Vidyābhūṣaṇabhaṭṭācārya",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "vidyābhūṣaṇa",
+    "bhaṭṭācārya"
+   ],
+   "affiliation": "gauḍadeśīya",
+   "residence": "Gauḍadeśa",
+   "evidence": "śrīgauḍadeśīyamahāmahopādhyāyavidyābhūṣaṇabhā(!)ṭṭācāryātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "daivajñadharaṇīdhara(!)",
+   "name": "Dharaṇīdhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ daivajñadharaṇīdhara(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "mahāmahopādhyāyavidyābhūṣaṇabhā(!)ṭṭācāryātmaja"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 832 paiṣakṛṣṇa || dasami(!) || jyeṣṭhanakṣatre || vyāghātayoge || aṃgāravāsare ||",
+  "era": "NS",
+  "year": "832",
+  "month": "Pauṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "dasamī",
+  "weekday": "Tuesday",
+  "nakshatra_yoga": "jyeṣṭhā, vyāghāta",
+  "ce_approx": "1712"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "B 141/3",
+  "model": "gemini-flash-latest",
+  "secs": 14.6,
+  "in_tok": 852,
+  "out_tok": 1853
+ }
+}

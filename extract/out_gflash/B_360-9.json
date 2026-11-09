@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kavī ity upanāmakanārāyaṇena",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "kavi"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kavī ity upanāmakanārāyaṇena likhitasyedaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1923 śake 1788 bahudhānanāmasaṃvare jyeṣṭhamāse śuklapakṣe aṣtamyāṃ saumyavāsare",
+  "era": "VS",
+  "year": "1923",
+  "month": "jyeṣṭha",
+  "paksa": "śuklapakṣa",
+  "tithi": "aṣṭamī",
+  "weekday": "saumyavāsara",
+  "nakshatra_yoga": "bahudhānya (saṃvatsara)",
+  "ce_approx": "1866"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīkṛṣṇārpaṇam astu",
+ "notes": "Both Vikrama Saṃvat (1923) and Śaka Era (1788) are provided, corresponding to the Bahudhānya saṃvatsara.",
+ "_meta": {
+  "reel": "B 360/9",
+  "model": "gemini-flash-latest",
+  "secs": 8.0,
+  "in_tok": 790,
+  "out_tok": 968
+ }
+}

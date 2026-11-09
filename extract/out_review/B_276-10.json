@@ -1,0 +1,107 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Yoganarendramalla: role 'king' changed to 'other'. He is named for the staging of the play in NS 820, not as the reigning king when this copy was made in NS 740. Residence 'era' read as Erayā = Yala (Patan).",
+   "Bhūpālendramalla: 'king' role removed and 'other' kept (he organised the staging, 'thva kāryya yāka'). The residence 'yayā' was wrong: that word belongs to the earlier phrase 'dana yayā śrī taravayā'. Residence left empty. Title normalised to ṭhākura.",
+   "Śivanārāyaṇa: Ivāhāra also given as residence. Confidence lowered to medium: he only began the copy (coya madhuṃko).",
+   "Yaśodhara: residence normalised to 'vaṃlāni (gṛha)'.",
+   "Added an 'other' relation: Yaśodhara finished the copy Śivanārāyaṇa had begun.",
+   "Place emptied: Ivāhāra and the vaṃlāni house are where the scribes live, not a stated place of copying.",
+   "Notes expanded: the date conflict and the unclear Bhīmadeva passage."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śivanārāyaṇācāryyana",
+   "name": "Śivanārāyaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "Ivāhāra",
+   "residence": "Ivāhāra",
+   "evidence": "ivāhārayā śivanārāyaṇācāryyana thva ghaṃtha coya madhuṃko",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrījaśodharana",
+   "name": "Yaśodhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "vaṃlāni (gṛha)",
+   "evidence": "vaṃlānihma gṛha nivāsita vipra śrījaśodharana saṃpūrṇa yāṅana coyā dina juro",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "erayā śrī joganarendra malla thākura",
+   "name": "Yoganarendramalla",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "ṭhākura"
+   ],
+   "affiliation": "",
+   "residence": "Erayā (Yala/Patan)",
+   "evidence": "erayā śrī joganarendra malla thākura esa bijyācakāva",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrī bhūpārendra malla thākulana",
+   "name": "Bhūpālendramalla",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "ṭhākura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī bhūpārendra malla thākulana thva kāryya yāka juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "other",
+   "to": "p1",
+   "evidence": "śivanārāyaṇācāryyana thva ghaṃtha coya madhuṃko ... śrījaśodharana saṃpūrṇa yāṅana coyā dina juro"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 740 vaiśākha śuddhi 13 somavāra",
+  "era": "NS",
+  "year": "740",
+  "month": "vaiśākha",
+  "paksa": "śukla",
+  "tithi": "13",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1620"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon has two dated notes. (1) NS 820 (c. 1700 CE) vaiśākha vaddhi (= badi, kṛṣṇa) 13, Sunday. This is the day the play was performed (pyākhana pidaṅa), on a stage in front of śrī 3 Buṃgadeva (Bungamati). King Yoganarendramalla of Yala/Patan attended, and so did the king of Khopa/Bhaktapur, who is not named. Bhūpālendramalla, king of Kathmandu, organised it ('thva kāryya yāka'). (2) NS 740 (c. 1620 CE) vaiśākha śuddhi 13, Monday. This is the copying itself: Śivanārāyaṇa of Ivāhāra began the copy, and vipra Yaśodhara finished it. Taken as the date of this copy. Conflict: the copying date, NS 740, is about 80 years before the performance note, NS 820, yet the 740 note comes after the 820 note. Either the 820 performance note was added to an older manuscript, or '740' is an error (e.g. for 840?). Because of this, both kings are recorded as 'other' (staging) and not as kings reigning when the copy was made. The catalogue fields agree with these dates. The passage 'thvaguri dana yayā śrī taravayā bhīmadeva hmaṃ 3 rubora parākasa hmaṃ 1 haṃsa bhoga biyāva ...' is unclear. It may describe offerings or participants at the performance, and Bhīmadeva may be a deity (Bhīmasena) rather than a person, so he is not listed. 'Ivāhāra' is probably a vihāra (possibly Ī Bahā/Ibahī, Patan), but this is not certain.",
+ "_meta": {
+  "reel": "B 276/10",
+  "model": "opus",
+  "cost_usd": 0.1100188,
+  "secs": 33.9
+ }
+}

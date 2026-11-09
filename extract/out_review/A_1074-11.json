@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "date.as_written now includes the '7' that stands before 'samvat' and may belong to the year",
+   "date.year given as written ('7 … āla 2') instead of only 'āla 2'; it is unread and there is no CE estimate",
+   "notes expanded: the year looks like garbled numerals or letter-numerals, era not stated, tithi missing, and the colophon names no scribe or owner"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "āryavarāhamahirasya",
+   "name": "Varāhamihira",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "āryavarāhamahirasya kṛtau saṃhitāyām",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "7 samvat āla 2 kārttika śuklāta",
+  "era": "unspecified",
+  "year": "7 … āla 2 (unread)",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The work is credited to Varāhamihira ('āryavarāhamahirasya' stands for -mihirasya). The year '7 samvat āla 2' is probably a misreading of numerals, possibly Newari letter-numerals. The '7' before samvat may be part of the year. The era is not stated, though Newari script suggests NS. Because the year cannot be read, there is no CE estimate. 'śuklāta' may be a corruption of 'śukla' plus a lost tithi. The closing verses are the usual protective formula ('udakānalacaurebhyo…'); the colophon names no scribe, commissioner or owner.",
+ "_meta": {
+  "reel": "A 1074/11",
+  "model": "opus",
+  "cost_usd": 0.0488308,
+  "secs": 11.7
+ }
+}

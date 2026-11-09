@@ -1,0 +1,65 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumatijayajitāmitramalladeva",
+   "name": "Sumatijayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumatijayajitāmitramalladeva sanathva pustaka dayakā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhāgirāma paramāna",
+   "name": "Bhāgirāma",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "paramāna"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgirāma paramānayāve rasa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīśrīsumatijayajitāmitramalladeva sanathva pustaka dayakā || bhāgirāma paramānayāve rasa"
+  }
+ ],
+ "date": {
+  "as_written": "samvata 810 kārttikasudi 9",
+  "era": "NS",
+  "year": "810",
+  "month": "kārttika",
+  "paksa": "sudi",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1690"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The Newari phrase 'bhāgirāma paramānayāve rasa' reflects 'Bhāgirāma paramānayā velasa' ('during the tenure of Bhāgirāma as Pramāṇa [officer/minister]'). 'sanathva' reflects the Newari ergative marker -sanaṃ and 'thva' ('this').",
+ "_meta": {
+  "reel": "B 141/2",
+  "model": "gemini-flash-latest",
+  "secs": 15.2,
+  "in_tok": 692,
+  "out_tok": 1737
+ }
+}

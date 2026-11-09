@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmatsaṃkarācāryya",
+   "name": "Śaṅkarācārya",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatsaṃkarācāryyaviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vidyādharabrāhmaṇena(!)",
+   "name": "Vidyādhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "brāhmaṇa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ pustkaṃ vidyādharabrāhmaṇena(!)",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke (17010) saṃvat 18⟪0⟫45 || śālavaiśāṣavadi 10 maṃgal[a]vāreṇa(!)",
+  "era": "VS",
+  "year": "1845",
+  "month": "vaiśāṣa",
+  "paksa": "vadi",
+  "tithi": "10",
+  "weekday": "maṃgalavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1788"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śaka and Vikrama Samvat are recorded. Śāke 17010 is an error for Śāke 1710, corresponding to VS 1845 (1788 CE).",
+ "_meta": {
+  "reel": "A 1387/2",
+  "model": "gemini-flash-latest",
+  "secs": 8.6,
+  "in_tok": 783,
+  "out_tok": 1249
+ }
+}

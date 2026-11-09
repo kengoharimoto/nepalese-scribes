@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśveśvaraśarmā",
+   "name": "Viśveśvaraśarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "makavānapurarājadhānī",
+   "evidence": "makavānapurarājadhānīliṣitaṃ viśveśvaraśarmā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1680 māse (7) pakṣe śuklatithau 5 vāre 4 nakṣatre 19",
+  "era": "ŚS",
+  "year": "1680",
+  "month": "7",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "4",
+  "nakshatra_yoga": "nakṣatre 19",
+  "ce_approx": "1758"
+ },
+ "place": {
+  "as_written": "makavānapurarājadhānī",
+  "normalized": "Makwanpur"
+ },
+ "purpose": "",
+ "notes": "Month given by cataloguer as (7) (Kārttika). Scribe wrote 'liṣitaṃ viśveśvaraśarmā' at Makwanpur royal palace/capital.",
+ "_meta": {
+  "reel": "A 447/17",
+  "model": "gemini-flash-latest",
+  "secs": 3.4,
+  "in_tok": 738,
+  "out_tok": 373
+ }
+}

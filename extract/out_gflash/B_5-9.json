@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "(‥)vāviṣṇupatinā",
+   "name": "Viṣṇupati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "(acauśī) grāma",
+   "evidence": "(acauśī) grāmāvasthitena (‥)vāviṣṇupatinātiśrameṇālekhi pustakam",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "lasaṃ 376 āśvinakṛṣṇāṣṭamyāṃ ravai",
+  "era": "LS",
+  "year": "376",
+  "month": "āśvina",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī",
+  "weekday": "ravai",
+  "nakshatra_yoga": "",
+  "ce_approx": "1495"
+ },
+ "place": {
+  "as_written": "(acauśī) grāma",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name has a preceding lacuna: '(‥)vāviṣṇupatinā' (catalogued as '?vāviṣṇupati'). The reading of the place '(acauśī) grāma' is also uncertain.",
+ "_meta": {
+  "reel": "B 5/9",
+  "model": "gemini-flash-latest",
+  "secs": 9.8,
+  "in_tok": 829,
+  "out_tok": 1231
+ }
+}

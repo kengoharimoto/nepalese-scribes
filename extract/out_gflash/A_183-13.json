@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "rāmaśaṃkaraśaramakaḥ",
+   "name": "Rāmaśaṅkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tad alikhad rāmaśaṃkaraśaramakaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "grahajaladhinande 'smin varṣe tapasi kṛṣṇake | śarvatithyāṃ",
+  "era": "NS",
+  "year": "949",
+  "month": "Māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "śarvatithi",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1829"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Chronogram: graha (9), jaladhi (4), nanda (9) = NS 949. Tapas denotes the month of Māgha. Śarvatithi usually denotes ekādaśī (11) or caturdaśī (14, Śivarātri).",
+ "_meta": {
+  "reel": "A 183/13",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 726,
+  "out_tok": 924
+ }
+}

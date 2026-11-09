@@ -1,0 +1,173 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "premanidhyāhūyoyaṃ",
+   "name": "Premanidhi Pantha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "dvija"
+   ],
+   "affiliation": "",
+   "residence": "Kūrmācala",
+   "evidence": "dvijakulasujani premanidhyāhūyoyaṃ prāyaś cittapradīpe",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīghanaśyāmadevo",
+   "name": "Ghanaśyāmadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "janaka iti mataḥ śrīghanaśyāmadevo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "pārvatī",
+   "name": "Pārvatī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mātā sā pārvatī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "udyotamatī",
+   "name": "Udyotamatī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "yasyodyotamatī satī guṇavatī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "malaivammaḥ",
+   "name": "Malaivamma",
+   "roles": [
+    "author",
+    "king"
+   ],
+   "titles": [
+    "kṣitipati",
+    "nṛpa",
+    "mahādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "Kammaśaila",
+   "evidence": "śrīmahādhirājamalaivammakṛtaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "subhadrākhyā",
+   "name": "Subhadrā",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "Vanakhāñcī",
+   "evidence": "subhadrākhyā mātā śikhari vanakhāṃcī nagapatiḥ pitā yasyāḥ karṇād api ca dalasāhaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "dalasāhaḥ",
+   "name": "Dalasāha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "nagapati"
+   ],
+   "affiliation": "",
+   "residence": "Vanakhāñcī",
+   "evidence": "vanakhāṃcī nagapatiḥ pitā yasyāḥ karṇād api ca dalasāhaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p8",
+   "as_written": "ramenāmallena",
+   "name": "Ramenāmalla",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanmalaivammanṛpātmajeṣu kanīyasā svīyaguṇair garīyasāḥ | ramenāmallena nijaprasūpitṛprakīrttayedīyakṛtipracāritā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "janaka iti mataḥ śrīghanaśyāmadevo"
+  },
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "mātā sā pārvatī"
+  },
+  {
+   "from": "p1",
+   "type": "husband_of",
+   "to": "p4",
+   "evidence": "yasyodyotamatī satī guṇavatī"
+  },
+  {
+   "from": "p8",
+   "type": "son_of",
+   "to": "p5",
+   "evidence": "śrīmanmalaivammanṛpātmajeṣu kanīyasā ... ramenāmallena"
+  },
+  {
+   "from": "p6",
+   "type": "wife_of",
+   "to": "p7",
+   "evidence": "subhadrākhyā mātā śikhari vanakhāṃcī nagapatiḥ pitā yasyāḥ karṇād api ca dalasāhaḥ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1855 miti .. .. .. śudī 5",
+  "era": "VS",
+  "year": "1855",
+  "month": "",
+  "paksa": "śuklapakṣa",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1798"
+ },
+ "place": {
+  "as_written": "gaṃḍakyāḥ savidhe hi dānapadataḥ khyāte tu deśe vare",
+  "normalized": ""
+ },
+ "purpose": "nijaprasūpitṛprakīrttaye",
+ "notes": "The colophon contains two dates: the text composition date in Śāka 1654 (veda-śara-ṛtu-bhū = 1654, approx. 1732 CE) on Gandaki river, and the manuscript copying date VS 1855 (approx. 1798 CE). Premanidhi Pantha composed the Prāyaścittapradīpa under King Malaivamma of Parbat (Kammaśaila/Gaganagiri). King Malaivamma's unnamed queen was the daughter of King Dalasāha of Khāñcī and Subhadrā. Malaivamma's younger son Ramenāmalla popularized or patronized the work. 'śata 1205' designates the grantha count (1205 slokas).",
+ "_meta": {
+  "reel": "A 521/4",
+  "model": "gemini-flash-latest",
+  "secs": 34.4,
+  "in_tok": 1256,
+  "out_tok": 5556
+ }
+}

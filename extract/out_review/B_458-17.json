@@ -1,0 +1,51 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date: the main date of this copy is now the Nepal verse date NS 951, Kārttika (ūrja) full moon (rākā) = c. 1830 CE. Śakābde 1586 / pratilikhitaṃ comes before the Bengali-script note and is most likely the date of the exemplar, not of this Devanagari copy.",
+   "ce_approx changed from 1664 to 1830 (Kārttika NS 951 falls in Oct–Nov 1830).",
+   "date.as_written now keeps only the verse date; the 1586 date and the clashes between eras are explained in notes.",
+   "Purpose added: transliterated from Bengali script at the order of a munirāṭ.",
+   "Notes expanded: chronogram readings, the corrupt Vikrama figure, and the unnamed munirāṭ."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "trilocanadāsa",
+   "name": "Trilocanadāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "trilocanadāsakṛtāyāṃ kātaṃtravṛttipaṃjikāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "naipāle vidhuvāṇaratnakalite drībhebhabheṭvaikrame śāke kṣāśuga ‥ labhūmimilite corje ca rākātithau",
+  "era": "NS",
+  "year": "951",
+  "month": "ūrja (Kārttika)",
+  "paksa": "śukla",
+  "tithi": "rākā (pūrṇimā)",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1830"
+ },
+ "place": {
+  "as_written": "naipāle",
+  "normalized": "Nepal"
+ },
+ "purpose": "transliterated from Bengali script at the order of a munirāṭ",
+ "notes": "The colophon has two layers. (1) 'śakābde 1586 || pratilikhitaṃ' (ŚS 1586 = 1664 CE) comes right after the author's colophon. It is followed by the note 'baṃgālyakṣarato bhisāritam', so it most likely gives the date of the Bengali-script exemplar, not of this copy. (2) The final verse dates the Nepal copy. Reading the chronogram from right to left, 'vidhu-vāṇa-ratna' (1-5-9) gives Nepal Saṃvat 951. 'drībhebhabheṭ' (Vikrama) is corrupt; the catalogue suggests VS 1887 (= 1830). The Śaka part 'kṣā-śuga ‥ la-bhūmi' is damaged and read as ŚS 1751(?), though ŚS 1752 would match Kārttika 1830. The month is ūrja (Kārttika), on the full moon (rākā). The three eras roughly agree on 1829–1830 CE; ŚS 1751 is a year off from NS 951 / VS 1887. The scribe is not named. He calls himself 76 years old ('ṣaṭsaptativārṣikena') and says he acted at the order of an unnamed 'munirāṭ' ('munirāḍājñāpareṇāmunā'). The munirāṭ may be his teacher or patron, perhaps the effective commissioner, but no name is given, so no person entry was created. 'bhisāritam' = abhisāritam (transliterated). The verse between the two dates ('no atra nanv atra pade…') is a grammatical note and names no persons.",
+ "_meta": {
+  "reel": "B 458/17",
+  "model": "opus",
+  "cost_usd": 0.0753308,
+  "secs": 21.4
+ }
+}

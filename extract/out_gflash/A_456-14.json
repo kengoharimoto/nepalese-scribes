@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaṇeśabhaṭalulena",
+   "name": "Gaṇeśabhaṭalula",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gaṇeśabhaṭalulena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "1753 varṣe kārti(!)",
+  "era": "unspecified",
+  "year": "1753",
+  "month": "kārti",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1696"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "paropakārārtham",
+ "notes": "The scribe's name may represent Gaṇeśa Bhaṭṭa Lule (with Maharashtrian surname Lule). Year 1753 is likely Vikrama Saṃvat (1696 CE).",
+ "_meta": {
+  "reel": "A 456/14",
+  "model": "gemini-flash-latest",
+  "secs": 10.0,
+  "in_tok": 722,
+  "out_tok": 1601
+ }
+}

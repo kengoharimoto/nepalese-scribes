@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vajrācāryasiddhānandena",
+   "name": "Siddhānanda",
+   "roles": [
+    "commissioner",
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Rājakīrti Mahāvihāra (rājakṛṭīmahāvihāla)",
+   "residence": "Kāntīpurinagara",
+   "evidence": "riṣitaṃ(!) kāntīpurinagare rājakṛṭīmahāvihāle(!) ʼvasthitavajrācāryasiddhānandena riṣāpitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śubhasamvat 948 phagun śuklapaṃcami aśunīnakṣatre(!) (!)śukraṃbha(!)yoge buddhavāre",
+  "era": "NS",
+  "year": "948",
+  "month": "phagun",
+  "paksa": "śukla",
+  "tithi": "paṃcamī",
+  "weekday": "buddhavāra",
+  "nakshatra_yoga": "aśunī nakṣatra, śukraṃbha yoga",
+  "ce_approx": "1828"
+ },
+ "place": {
+  "as_written": "kāntīpurinagare rājakṛṭīmahāvihāle(!)",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The colophon text contains both 'riṣitaṃ' (likhitam) and 'riṣāpitā' (likhāpitam) governing the instrumental 'vajrācāryasiddhānandena', indicating he may have written it himself or commissioned it.",
+ "_meta": {
+  "reel": "A 141/15",
+  "model": "gemini-flash-latest",
+  "secs": 10.7,
+  "in_tok": 806,
+  "out_tok": 1468
+ }
+}

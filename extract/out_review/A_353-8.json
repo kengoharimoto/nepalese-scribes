@@ -1,0 +1,36 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "weekday normalized: 'some' (somavāra) = Monday",
+   "notes: removed the unchecked claim that the date corresponds exactly to Monday 25 October 1613; the weekday has not been verified",
+   "notes: added that the era conflicts with the catalogue's ŚS 1670 (= 1748 CE) and explained why VS is preferred",
+   "notes: added that 'ābhyaṃtaranāgara-' refers to the Abhyantara Nāgara brahmin community and that the name that followed is lost"
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1670 varṣe kārttikavadya (!) 7 some",
+  "era": "VS",
+  "year": "1670",
+  "month": "kārttika",
+  "paksa": "vadya (kṛṣṇa)",
+  "tithi": "7",
+  "weekday": "Monday (some)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1613"
+ },
+ "place": {
+  "as_written": "śrī.vṛddha⁅n⁆agara",
+  "normalized": "Vadnagar"
+ },
+ "purpose": "",
+ "notes": "The quoted colophon stops at 'ābhyaṃtaranāgara-' (Abhyantara Nāgara, a group of Nāgara brahmins of Vṛddhanagara/Vadnagar, Gujarat). The scribe's or owner's name that followed is not quoted, so no person can be extracted. Hanumat, named as the author in the title formula, is a mythical figure and is not included. Era: the bare 'saṃvat' together with the Gujarati setting (Vadnagar, Nāgara, 'vadya') points to Vikrama Saṃvat. VS 1670 Kārttika vadi 7 falls about October–November 1613 CE. This conflicts with the catalogue's 'ŚS 1670', which would be 1748 CE. The Monday (some) weekday has not been checked against either era.",
+ "_meta": {
+  "reel": "A 353/8",
+  "model": "opus",
+  "cost_usd": 0.0579748,
+  "secs": 16.0
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "lakṣmaṇa",
+   "name": "Lakṣmaṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Nāndeukara",
+   "residence": "",
+   "evidence": "hastākṣaralakṣmaṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīdhara",
+   "name": "Śrīdhara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "Nāndeukara",
+   "residence": "",
+   "evidence": "lakṣmaṇaśrīdhara",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "lakṣmaṇaśrīdhara"
+  }
+ ],
+ "date": {
+  "as_written": "1924 mārgaśīrṣaśukla 14 bhaumavāsarataddine",
+  "era": "VS",
+  "year": "1924",
+  "month": "mārgaśīrṣa",
+  "paksa": "śukla",
+  "tithi": "14",
+  "weekday": "bhaumavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1867"
+ },
+ "place": {
+  "as_written": "naṃdagāvamadhye",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name 'lakṣmaṇaśrīdharanāṃde ukara' follows the Marathi naming convention: [given name] [father's name] [surname ending in -kar] (Lakṣmaṇa son of Śrīdhara, of the Nāndekara/Nāndeukara family).",
+ "_meta": {
+  "reel": "A 433/30",
+  "model": "gemini-flash-latest",
+  "secs": 16.3,
+  "in_tok": 756,
+  "out_tok": 2438
+ }
+}

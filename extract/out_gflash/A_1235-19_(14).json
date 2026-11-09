@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumati jayajitāmitrama(4)lladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "commissioner",
+    "king"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumati jayajitāmitrama(4)lladevasana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 815 māgha śudi 7 thvakuhnu",
+  "era": "NS",
+  "year": "815",
+  "month": "māgha",
+  "paksa": "śudi",
+  "tithi": "7",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1695"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "King Jayajitāmitramalla of Bhaktapur is mentioned with his well-known epithet 'sumati' as having caused the manuscript to be made (dayakā juroṃ).",
+ "_meta": {
+  "reel": "A 1235/19 (14)",
+  "model": "gemini-flash-latest",
+  "secs": 6.2,
+  "in_tok": 736,
+  "out_tok": 883
+ }
+}

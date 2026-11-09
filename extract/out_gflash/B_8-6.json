@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī(raghu)patinā",
+   "name": "Raghupati",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī(raghu)patinā likhitaiṣā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "lasaṃ 393 mārggaśudi 14 śanau",
+  "era": "LS",
+  "year": "393",
+  "month": "mārgga",
+  "paksa": "śudi",
+  "tithi": "14",
+  "weekday": "śanau",
+  "nakshatra_yoga": "",
+  "ce_approx": "1512"
+ },
+ "place": {
+  "as_written": "poāvīgrāme",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name has letters restored/bracketed in the transcript: (raghu). The text following the colophon is a short ritual description (satkārapratiṣṭhāvidhiḥ).",
+ "_meta": {
+  "reel": "B 8/6",
+  "model": "gemini-flash-latest",
+  "secs": 7.4,
+  "in_tok": 894,
+  "out_tok": 868
+ }
+}

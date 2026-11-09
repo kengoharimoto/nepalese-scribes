@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "āṃvarekaraupanāmakanārāyaṇabhaṭṭasya",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "Āṃvarekara (aupanāmaka)",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ āṃvarekaraupanāmakanārāyaṇabhaṭṭasyedaṃ pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīkṛṣṇārapaṇam astu || śrīsābhasadāsivārapaṇam asta",
+ "notes": "The scribe is anonymous ('likhitaṃ mayā'). The owner has the surname (upanāma) Āṃvarekara (likely a Maharashtrian Brahmin surname Ambarekar).",
+ "_meta": {
+  "reel": "A 1119/7",
+  "model": "gemini-flash-latest",
+  "secs": 6.3,
+  "in_tok": 945,
+  "out_tok": 947
+ }
+}

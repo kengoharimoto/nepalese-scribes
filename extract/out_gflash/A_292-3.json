@@ -1,0 +1,91 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kavicūḍāmaṇicakravarttī",
+   "name": "Kavicūḍāmaṇicakravartin",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kavicūḍāmaṇicakravarttīviracitā vedastutivyākhyā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nityānandena",
+   "name": "Nityānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "nityānandena likhitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vrajalālākhyo",
+   "name": "Vrajalāla",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "paṇḍita",
+    "vāḍava"
+   ],
+   "affiliation": "",
+   "residence": "nepālasaṃjñe viṣaye",
+   "evidence": "nepālasaṃjñe nivasan viṣaye paṃḍitarṣabhaḥ | vāḍavo vrajalālākhyo ... preṣayāmāsa patrikām | patrapūrūṣasahitāṃ lekhanārthaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "dīnānāthāya",
+   "name": "Dīnānātha",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "dīnānāthāya viduṣe preṣayāmāsa patrikām ... so pi māṃ preṣayāmāsa ... lekhanārthaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "vrajalālākhyo ... preṣayāmāsa patrikām ... lekhanārthaṃ śrutistuteḥ | so pi māṃ preṣayāmāsa ... lekhanārthaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "vedarttunagabhūmiś ca saṃmite śakakālake",
+  "era": "ŚS",
+  "year": "1764",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1842"
+ },
+ "place": {
+  "as_written": "nepālasaṃjñe ... viṣaye",
+  "normalized": "Kathmandu Valley"
+ },
+ "purpose": "lekhanārthaṃ śrutistuteḥ",
+ "notes": "Vrajalāla, residing in the Nepal Valley, sent a letter with paper to the scholar Dīnānātha to have the Śrutistuti copied; Dīnānātha then instructed Nityānanda to copy it.",
+ "_meta": {
+  "reel": "A 292/3",
+  "model": "gemini-flash-latest",
+  "secs": 10.5,
+  "in_tok": 854,
+  "out_tok": 1705
+ }
+}

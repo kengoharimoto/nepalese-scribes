@@ -1,0 +1,85 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ācāryaśrīgaṃgādhara",
+   "name": "Gaṅgādhara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ācāryaśrīgaṃgādharaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmadarimalladeva",
+   "name": "Arimalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "parameśvara",
+    "paramamāheśvara",
+    "ṣaḍanvayācārya",
+    "raghuvaṃśatilaka"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadarimalladevaprava[r]ddhamānarājy⁅e⁆",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "paṃḍitaśrīśrīdharasya",
+   "name": "Śrīdhara",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṃḍitaśrīśrīdharasya pustakam idaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p2",
+   "evidence": "śrīmadarimalladevaprava[r]ddhamānarājy⁅e⁆ | nepālīyasaṃvat 327 pauṣaśuklacaturddaśyāṃ tithau śukradine | paṃḍitaśrīśrīdharasya pustakam idaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "nepālīyasaṃvat 327 pauṣaśuklacaturddaśyāṃ tithau śukradine",
+  "era": "NS",
+  "year": "327",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "caturdaśī",
+  "weekday": "śukradina",
+  "nakshatra_yoga": "",
+  "ce_approx": "1207"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The catalogue lists Śrīdhara as donor, but the phrasing 'paṃḍitaśrīśrīdharasya pustakam idaṃ' denotes ownership.",
+ "_meta": {
+  "reel": "A 963/4a (1)",
+  "model": "gemini-flash-latest",
+  "secs": 8.1,
+  "in_tok": 1144,
+  "out_tok": 1156
+ }
+}

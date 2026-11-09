@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The manuscript contains only chapter colophons, the closing title of the work, an auspicious phrase (śubham astu), and the standard Buddhist pratītyasamutpāda verse (ye dharmā hetuprabhavāḥ...); no scribal colophon with personal names, dates, or places is present.",
+ "_meta": {
+  "reel": "A 1338/3",
+  "model": "gemini-flash-latest",
+  "secs": 5.2,
+  "in_tok": 791,
+  "out_tok": 616
+ }
+}

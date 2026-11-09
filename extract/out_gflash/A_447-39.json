@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "malhāriṇā",
+   "name": "Malhāri",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ malhāriṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The phrase 'sā[ṃ] prasanno stu' is likely an invocation for divine favor (probably Sāmba/Śiva).",
+ "_meta": {
+  "reel": "A 447/39",
+  "model": "gemini-flash-latest",
+  "secs": 4.3,
+  "in_tok": 671,
+  "out_tok": 430
+ }
+}

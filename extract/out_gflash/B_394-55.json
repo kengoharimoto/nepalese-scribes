@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vaṃśanārān dāsasya",
+   "name": "Vaṃśanārāndāsa",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitam idam pustakaṃ vaṃśanārān dāsasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsaṃvat 1949 māghakṛṣṇati(!)rodaśyāṃ tithau ravivāsare",
+  "era": "VS",
+  "year": "1949",
+  "month": "māgha",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "ravivāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1893"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The genitive 'vaṃśanārān dāsasya' with 'liṣitam idam pustakaṃ' may denote either the copyist or the owner (or both).",
+ "_meta": {
+  "reel": "B 394/55",
+  "model": "gemini-flash-latest",
+  "secs": 11.5,
+  "in_tok": 742,
+  "out_tok": 1237
+ }
+}

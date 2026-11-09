@@ -1,0 +1,89 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name: 'Bhānudattamiśra' → 'Bhānudatta' (miśra stays in titles only)",
+   "p2 titles: 'sanmiśra' normalised to 'miśra'; kept the epithet 'kavikalāsanātha'; added affiliation Maithila, since 'maithila' opens the compound that ends in Gaṇanātha",
+   "p3 scribe: confidence lowered to low because the cataloguer restored part of the name in parentheses",
+   "place.normalized: 'Udaipur' removed; Udayapura is probably Udayapur (Gaḍhī) in eastern Nepal, not Udaipur in Rajasthan, but neither is certain",
+   "notes: saṃkaṭasmaraṇena explained"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmadbhānudattamiśra",
+   "name": "Bhānudatta",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "Maithila",
+   "residence": "",
+   "evidence": "śrīmadbhānudattamiśraviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīgaṇanāthasanmiśra",
+   "name": "Gaṇanātha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "miśra",
+    "kavikalāsanātha"
+   ],
+   "affiliation": "Maithila",
+   "residence": "",
+   "evidence": "maithilaśrīmatkavikalāsanāthaśrīgaṇanāthasanmiśratanaya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rā(ma cūrka)reṇa",
+   "name": "Rāmacūrkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rā(ma cūrka)reṇa ... likhitaṃ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīgaṇanāthasanmiśratanayaśrīmadbhānudattamiśra"
+  }
+ ],
+ "date": {
+  "as_written": "āṣāḍhamāse kṛṣṇapkṣe navamyāṃ guruvāsare ... saṃvat || 1859 ||",
+  "era": "VS",
+  "year": "1859",
+  "month": "Āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "navamī",
+  "weekday": "Thursday (guruvāsara)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1802"
+ },
+ "place": {
+  "as_written": "udayapuramadhye",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon gives the era only as 'saṃvat'. VS (giving 1802 CE) is the likely reading for an 1859 date in Devanagari, which agrees with the catalogue. The scribe's name is partly restored by the cataloguer as 'rā(ma cūrka)reṇa', so 'Rāmacūrkara' is uncertain, and it could also be read as Rāma + a surname (Cūrkara?). 'saṃkaṭasmaraṇena' probably means 'remembering (the goddess) Saṅkaṭā' or 'with distress in mind'; it is not a person. Udayapura is probably Udayapur in eastern Nepal, but this is not certain. The Mūla colophon is the author's and does not belong to this copy.",
+ "_meta": {
+  "reel": "A 1362/8",
+  "model": "opus",
+  "cost_usd": 0.5776296,
+  "secs": 27.9
+ }
+}

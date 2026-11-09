@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "āryyaśūrapādā",
+   "name": "Āryaśūra",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtir iyaṃm āryyaśūrapādā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vajrācāryyaśrī(bhāju)nanda",
+   "name": "Bhājunanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "bhiṃccha vāhā",
+   "residence": "",
+   "evidence": "bhiṃccha vāhāyā vajrācāryyaśrī(bhāju)nanda (hnava) .. .. (yāvaisūsathva) jā(3)takamālā sa .. .. (yāḍhaṃcopaṃdhu)nakā juro",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 99 .. miti (āṣā) kṛ (a) .. .. .. .. .. .. .. .. .. .. .. .. .. āditya(vāra thva) kuhnu",
+  "era": "NS",
+  "year": "99..",
+  "month": "Āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "aṣṭamī?",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1875"
+ },
+ "place": {
+  "as_written": "bhiṃccha vāhā",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The catalogue card notes the year as NS 995, though the last digit is broken/missing in the transcribed colophon text. Bhiṃccha vāhā corresponds to Bhinchhe Bahal in Patan.",
+ "_meta": {
+  "reel": "A 119/17",
+  "model": "gemini-flash-latest",
+  "secs": 11.4,
+  "in_tok": 999,
+  "out_tok": 1747
+ }
+}

@@ -1,0 +1,143 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1 name: 'Gaṇeśadattaśarman' → 'Gaṇeśadatta' (śarman stays in titles only)",
+   "p4 name: clan name Rāṇā taken out of the stem and put in titles",
+   "p5 Sarvagaṇa: kept role 'other'. He copied the palm-leaf exemplar, not this copy; affiliation and residence normalised to Bhogaleśvaramaṭha",
+   "Relations added: p2 commissioned_from p1; p2 under_reign_of p3",
+   "Notes extended: samvat 806 of the exemplar converted under both eras, and the 1925 copyist's own argument that it is Vikrama rather than Nepāla saṃvat"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaṇeśadattaśarmadvārā",
+   "name": "Gaṇeśadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "gaṇeśadattaśarmadvārā likhitam idaṃ pustakaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmadrājagurumānyavarahemarājavidvadvarair",
+   "name": "Hemarāja",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "rājaguru",
+    "mānyavara",
+    "vidvadvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājagurumānyavarahemarājavidvadvarair gaṇeśadattaśarmadvārā likhitam",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrī5mahārājādhirāja tribhuvanavīravikramaśāhadeva",
+   "name": "Tribhuvanavīravikramaśāhadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tribhuvanavīravikramaśāhadevavijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "pradhānasaciva śrī3mahārājacandraśamśerajaṅgabahādūrarāṇā",
+   "name": "Candraśamśerajaṅgabahādūra",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "pradhānasaciva",
+    "mahārāja",
+    "rāṇā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pradhānasaciva śrī3mahārājacandraśamśerajaṅgabahādūrarāṇāpratipālite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrīsarvagaṇena",
+   "name": "Sarvagaṇa",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "paṇḍitācārya",
+    "bhaṭṭāraka"
+   ],
+   "affiliation": "Bhogaleśvaramaṭha",
+   "residence": "Bhogaleśvaramaṭha",
+   "evidence": "bhogaleśvaramaṭhāvasthita paṇḍitācāryabhaṭṭāraka śrīsarvagaṇena likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "hemarājavidvadvarair gaṇeśadattaśarmadvārā likhitam idaṃ pustakaṃ"
+  },
+  {
+   "from": "p2",
+   "type": "commissioned_from",
+   "to": "p1",
+   "evidence": "hemarājavidvadvarair gaṇeśadattaśarmadvārā likhitam"
+  },
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "tribhuvanavīravikramaśāhadevavijayarājye"
+  },
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "tribhuvanavīravikramaśāhadevavijayarājye"
+  }
+ ],
+ "date": {
+  "as_written": "1982 vaikramavarṣe jyeṣṭhamāse",
+  "era": "VS",
+  "year": "1982",
+  "month": "jyeṣṭha",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1925"
+ },
+ "place": {
+  "as_written": "kāṣṭhamaṇḍaparājadhānyāṃ",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "This is a modern Devanagari copy, made in Kathmandu in VS 1982 Jyeṣṭha (c. May–June 1925 CE). Gaṇeśadatta wrote it for Rājaguru Hemarāja. The ruler was King Tribhuvana and the prime minister was Candra Śamśera. It was copied from an old palm-leaf manuscript that the colophon describes as written in old Devanagari ('prācīnadevākṣaralipimaya'). The palm-leaf colophon is reproduced: 'samvat 806 phālguṇavadi 10 bhaume', written by Paṇḍitācārya Bhaṭṭāraka Sarvagaṇa of Bhogaleśvaramaṭha. Sarvagaṇa is therefore the scribe of the exemplar, not of this copy, and the catalogue's 'Scribe: Sarvagaṇa' refers to the exemplar. The year 806 has no era. The 1925 note itself argues that it is Vikrama rather than Nepāla saṃvat, because the palm-leaf and an intermediate copy look more than 300 years old. Read as VS, 806 would be c. 749 CE; read as NS, it would be c. 1686 CE. Neither reading is confirmed (the catalogue also queries it: '806 ???'). The record's main date is VS 1982. Hemarāja is presumably Rājaguru Hemarāja Paṇḍita, the well-known collector, though the colophon does not say he owned the copy.",
+ "_meta": {
+  "reel": "A 182/2",
+  "model": "opus",
+  "cost_usd": 0.6360896,
+  "secs": 44.6
+ }
+}

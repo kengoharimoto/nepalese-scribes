@@ -1,0 +1,113 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Purpose cleared: 'kṛtasumanasāṃ prītyai' is why the author wrote the work, not why this copy was made",
+   "Yādava and Śivarāma: 'paṇḍitaikaśeṣa-śeṣau' read as a family name, so affiliation is now Śeṣa family; 'paṇḍita' kept as a title at medium confidence",
+   "Relation to Yādava: still 'other', with a note that he is the great-grandfather (prapitāmaha)",
+   "Weekday changed from 'roja 4' to Wednesday (roja 4)",
+   "Notes rewritten: the year '18' looks cut short, there is no named scribe, and the catalogue place is confirmed"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kṛṣṇarāmeṇa",
+   "name": "Kṛṣṇarāma",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "govindarāmaputreṇa kṛṣṇarāmeṇa dhīmatā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "govindarāma(putreṇa)",
+   "name": "Govindarāma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "govindarāmaputreṇa",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śivarāmau",
+   "name": "Śivarāma",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "Śeṣa family",
+   "residence": "",
+   "evidence": "yādavaśivarāmau prapitāmahapitāmahau ... paṇḍitaikaśeṣaśeṣau",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "yādava(śivarāmau)",
+   "name": "Yādava",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "Śeṣa family",
+   "residence": "",
+   "evidence": "yādavaśivarāmau prapitāmahapitāmahau ... paṇḍitaikaśeṣaśeṣau",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "govindarāmaputreṇa kṛṣṇarāmeṇa"
+  },
+  {
+   "from": "p1",
+   "type": "grandson_of",
+   "to": "p3",
+   "evidence": "yādavaśivarāmau prapitāmahapitāmahau"
+  },
+  {
+   "from": "p1",
+   "type": "other",
+   "to": "p4",
+   "evidence": "yādavaśivarāmau prapitāmahapitāmahau (great-grandson)"
+  }
+ ],
+ "date": {
+  "as_written": "śrīsamvat 18 śrāvaṇa vadi 1 roja 4",
+  "era": "unspecified",
+  "year": "18",
+  "month": "Śrāvaṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "1",
+  "weekday": "Wednesday (roja 4)",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "kāśyām || || cauleśvaraghaṭṭe",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The two verses are the author's colophon. Kṛṣṇarāma is the son of Govindarāma; his grandfather was Śivarāma and his great-grandfather Yādava. 'paṇḍitaikaśeṣaśeṣau' probably calls the two ancestors leading paṇḍits of the Śeṣa family, the well-known Banaras lineage. That reading is uncertain and may be corrupt. No scribe is named in the copying statement 'likhitam idaṃ kāśyām', so the copyist is unknown. The author may have written this copy himself, but the colophon does not say so. The year 'saṃvat 18' looks cut short, perhaps an abbreviated 18xx, probably VS since the copy was made in Kāśī; no CE date is given. 'roja 4' is read as Wednesday, counting Sunday as day 1. This matches the catalogue place (Kāśī, Cauleśvaraghaṭṭa).",
+ "_meta": {
+  "reel": "A 587/9",
+  "model": "opus",
+  "cost_usd": 0.5910576000000001,
+  "secs": 31.3
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jinedra(!) vajrena",
+   "name": "Jinendra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ jinedra(!) vajrena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃvat 1941 sālamiti māghaśudi 6 roja 5",
+  "era": "VS",
+  "year": "1941",
+  "month": "māgha",
+  "paksa": "śudi",
+  "tithi": "6",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1885"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name Jinendra Vajra might represent the initiation name Jinendravajra or the personal name Jinendra with the Vajrācārya title/surname Vajra. Māgha śukla 6 of VS 1941 corresponds to January/February 1885 CE.",
+ "_meta": {
+  "reel": "B 156/12",
+  "model": "gemini-flash-latest",
+  "secs": 17.2,
+  "in_tok": 710,
+  "out_tok": 1835
+ }
+}

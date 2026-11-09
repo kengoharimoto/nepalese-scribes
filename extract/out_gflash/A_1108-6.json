@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "cakrarāja",
+   "name": "Cakrarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvijāti",
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "Bhaktagrāma",
+   "evidence": "cakrarāja dvijātīnām cakravarttisupaṇḍitaḥ | kena puṃsā pāṃdunā vai bhaktagrāmanivāsinā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "saṃ 805 kārttika va di 5",
+  "era": "NS",
+  "year": "805",
+  "month": "kārttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "5",
+  "weekday": "śukravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1684"
+ },
+ "place": {
+  "as_written": "bhaktagrāma",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "",
+ "notes": "The colophon verse mentions 'mite śāke' but gives 'saṃ 805', which is in Nepāla Saṃvat. The syntax around Cakrarāja ('cakrarāja dvijātīnām cakravarttisupaṇḍitaḥ | kena puṃsā pāṃdunā vai bhaktagrāmanivāsinā') is corrupt/unclear.",
+ "_meta": {
+  "reel": "A 1108/6",
+  "model": "gemini-flash-latest",
+  "secs": 12.0,
+  "in_tok": 767,
+  "out_tok": 1755
+ }
+}

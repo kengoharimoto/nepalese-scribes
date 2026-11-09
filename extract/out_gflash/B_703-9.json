@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīviṣṇudharana",
+   "name": "Viṣṇudhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ śrīviṣṇudharana",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 794 āśviṇI(15) śukra || saptamī śaniścala(16)vāla",
+  "era": "NS",
+  "year": "794",
+  "month": "āśviṇI",
+  "paksa": "śukla",
+  "tithi": "saptamī",
+  "weekday": "śaniścalavāla",
+  "nakshatra_yoga": "",
+  "ce_approx": "1674"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The words following the scribe's statement list ritual substances or plants in Newari (e.g., apāmārgga, samiṃsi) pertaining to the Śivamatadevaśodhanavidhi.",
+ "_meta": {
+  "reel": "B 703/9",
+  "model": "gemini-flash-latest",
+  "secs": 9.0,
+  "in_tok": 810,
+  "out_tok": 1075
+ }
+}

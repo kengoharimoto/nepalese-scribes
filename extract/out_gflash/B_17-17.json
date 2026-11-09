@@ -1,0 +1,141 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jayadevapaṇḍitakaveḥ",
+   "name": "Jayadeva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paṇḍita",
+    "kavi",
+    "kavirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tat sarvvañ jayadevapaṇḍitakaveḥ ... śrīharicaraṇasmaraṇapadmāvatīramaṇakavirājaśrījayadevakṛtaṃ śrīgītagovindābhidhānaṃ kāvyam idaṃ samāptaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrībhojadevaprabhavasya",
+   "name": "Bhojadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrībhojadevaprabhavasya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rāmadevīsuta",
+   "name": "Rāmadevī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmadevīsuta",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīrūpadevadvijaḥ",
+   "name": "Rūpadeva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "dvija",
+    "vipaścit"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "prālikhat ... śrīrūpadevadvijaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "jayaprākag(?)devasya",
+   "name": "Jayaprākagdeva",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jayaprākag(?)devasya vyalikhad idam evātirabhasāt",
+   "confidence": "low"
+  },
+  {
+   "pid": "p6",
+   "as_written": "śrījayarāyamallanṛpateś",
+   "name": "Jayarāyamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "nṛpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājye śrījayarāyamallanṛpateś",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrībhojadevaprabhavasya ... śrījayadevakasya"
+  },
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "rāmadevīsutaśrījayadevakasya"
+  },
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p6",
+   "evidence": "rājye śrījayarāyamallanṛpateś ... śrīrūpadevo 'grataḥ ... prālikhat"
+  },
+  {
+   "from": "p4",
+   "type": "wrote_for",
+   "to": "p5",
+   "evidence": "jayaprākag(?)devasya vyalikhad idam evātirabhasāt"
+  }
+ ],
+ "date": {
+  "as_written": "nepāle rasacandraṣaḍmukhamukhe samvatsare ... bhādre mā[[si]] site tithau vidhimukhe vāre suradviṭguror ... vasuvidhusamudrābdhijaśake(!)",
+  "era": "NS",
+  "year": "616",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "1",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1496"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Double-dated in both Nepal Saṃvat (rasa-candra-ṣaḍmukha = 616) and Śaka Saṃvat (vasu-vidhu-samudra-abdhija = 1418), both corresponding to 1496 CE. The reading 'jayaprākag(?)devasya' is noted as unmetrical and uncertain by the cataloguer.",
+ "_meta": {
+  "reel": "B 17/17",
+  "model": "gemini-flash-latest",
+  "secs": 34.8,
+  "in_tok": 1804,
+  "out_tok": 4753
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kamalākarabhaṭṭa",
+   "name": "Kamalākarabhaṭṭa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kamalākarabhaṭṭakṛte",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "rāmakṛṣṇabhaṭṭa",
+   "name": "Rāmakṛṣṇabhaṭṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rāmakṛṣṇabhaṭṭātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "nārāyaṇabhaṭṭasūri",
+   "name": "Nārāyaṇabhaṭṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa",
+    "sūri"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnārāyaṇabhaṭṭasūrisūnu",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "vyaṃṭa bhaṭa",
+   "name": "Vyaṃṭabhaṭa",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "bhaṭa",
+    "sūvedāra"
+   ],
+   "affiliation": "",
+   "residence": "Nasik",
+   "evidence": "he pustaka vyaṃṭa bhaṭa nāsikara sūvedāra asye yāce",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "rāmakṛṣṇabhaṭṭātmaja"
+  },
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "śrīnārāyaṇabhaṭṭasūrisūnu"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The Marathi scribbled ownership note indicates that this manuscript belongs to Subhedar Vyaṃṭa Bhaṭa (Vyaṅkaṭabhaṭṭa) of Nasik (nāsikara).",
+ "_meta": {
+  "reel": "B 361/3",
+  "model": "gemini-flash-latest",
+  "secs": 11.0,
+  "in_tok": 729,
+  "out_tok": 2006
+ }
+}

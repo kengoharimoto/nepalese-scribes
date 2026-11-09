@@ -1,0 +1,143 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "nīlakaṃṭhapaṇḍita",
+   "name": "Nīlakaṇṭha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "gotamītīrapuṇyastaṃbha",
+   "evidence": "nīlakaṃṭhapaṇḍitatanūja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bālopaṃḍita",
+   "name": "Bāla",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bālopaṃḍitāṃgaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "tryaṃbakapaṇḍita",
+   "name": "Tryambaka",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tryaṃbakapaṇḍitātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "anaṃtapaṇḍita",
+   "name": "Ananta",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "gotamītīrapuṇyastaṃbha",
+   "evidence": "anaṃtapaṇḍitaviracitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "vīrasiṃha",
+   "name": "Vīrasiṃha",
+   "roles": [
+    "king",
+    "relative_only"
+   ],
+   "titles": [
+    "mahādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahādhirājaprabhukulatilakāyamānaśrīvīrasiṃhatanūja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "caṃdrabhānu",
+   "name": "Candrabhānu",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīcaṃdrabhānu[[kutūhala]]kumudavanavikāsinī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "nīlakaṃṭhapaṇḍitatanūja"
+  },
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "bālopaṃḍitāṃgaja"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "tryaṃbakapaṇḍitātmaja"
+  },
+  {
+   "from": "p6",
+   "type": "son_of",
+   "to": "p5",
+   "evidence": "śrīvīrasiṃhatanūja"
+  }
+ ],
+ "date": {
+  "as_written": "miti bhādauvavadī (!) catudaśyā (!) 14 || śrīsaṃvat 1856",
+  "era": "VS",
+  "year": "1856",
+  "month": "bhādauva",
+  "paksa": "vadī",
+  "tithi": "catudaśyā 14",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1799"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon consists of the author's work colophon (naming Anantapaṇḍita and his ancestors up to Nīlakaṇṭha, of Puṇyastaṃbha on the Godāvarī, and his patron Candrabhānu son of Vīrasiṃha) followed by the manuscript completion date VS 1856 Bhādrapada kṛṣṇa 14. No copyist or commissioner of this specific physical manuscript copy is named.",
+ "_meta": {
+  "reel": "A 374/7",
+  "model": "gemini-flash-latest",
+  "secs": 19.3,
+  "in_tok": 860,
+  "out_tok": 3388
+ }
+}

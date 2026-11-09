@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "gaṃgādharopādhyāye[[na]]",
+   "name": "Gaṃgādhara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ gaṃgādharopādhyāye[[na]]",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1720 saṃvat 1855 sālaphālguṇakṛṣṇa 7 vāre bhauma",
+  "era": "ŚS",
+  "year": "1720",
+  "month": "phālguṇa",
+  "paksa": "kṛṣṇa",
+  "tithi": "7",
+  "weekday": "bhauma",
+  "nakshatra_yoga": "",
+  "ce_approx": "1799"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śaka 1720 and Vikrama Saṃvat 1855 are given in the colophon.",
+ "_meta": {
+  "reel": "A 447/19",
+  "model": "gemini-flash-latest",
+  "secs": 7.0,
+  "in_tok": 735,
+  "out_tok": 918
+ }
+}

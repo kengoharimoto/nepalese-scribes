@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "dharmarājatṛpāthī(!)nā",
+   "name": "Dharmarāja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "Tripāṭhī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ dharmarājatṛpāthī(!)nā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīsamvat 1954 sālamiti caitravadī 5 roja 1",
+  "era": "VS",
+  "year": "1954",
+  "month": "caitra",
+  "paksa": "vadī",
+  "tithi": "5",
+  "weekday": "roja 1",
+  "nakshatra_yoga": "",
+  "ce_approx": "1897"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārthaṃ parārthaṃ ca",
+ "notes": "",
+ "_meta": {
+  "reel": "A 438/20",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 724,
+  "out_tok": 806
+ }
+}

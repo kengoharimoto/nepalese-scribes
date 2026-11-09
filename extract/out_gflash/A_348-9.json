@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "jagatajaya / jagajjaya narapati",
+   "name": "Jagajjayamalla",
+   "roles": [
+    "king",
+    "author"
+   ],
+   "titles": [
+    "narapati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kumudini, devipati jagajjaya narapati",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kumudini, devi",
+   "name": "Kumudinīdevī",
+   "roles": [
+    "queen"
+   ],
+   "titles": [
+    "devī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kumudini, devipati",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wife_of",
+   "to": "p1",
+   "evidence": "kumudini, devipati"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 854 vaiśākha śukla dasmi budhavāra",
+  "era": "NS",
+  "year": "854",
+  "month": "Vaiśākha",
+  "paksa": "śukla",
+  "tithi": "10",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1734"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "An earlier composition date of the song/adaptation is given in chronogram: rasa-jaladhi-vasu = NS 846, Pauṣa śukla 14, Thursday. The manuscript copy was completed on NS 854 Vaiśākha śukla 10 Wednesday ('coya dhunakādina julo'). The scribe is anonymous ('mayā').",
+ "_meta": {
+  "reel": "A 348/9",
+  "model": "gemini-flash-latest",
+  "secs": 13.2,
+  "in_tok": 1033,
+  "out_tok": 1919
+ }
+}

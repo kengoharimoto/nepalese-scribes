@@ -1,0 +1,47 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "pedakomaṭivemabhūpāla",
+   "name": "Pedakomaṭivema",
+   "roles": [
+    "commentator",
+    "king"
+   ],
+   "titles": [
+    "bhūpāla",
+    "vīranāyaka",
+    "sakalavidyāviśārada"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pedakomaṭivemabhūpālaviracitā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Text colophon only: marks the end of the commentary Śṛṅgāradīpikā (Amarudīpikā) composed by the Reddi king Pedakomaṭi Vema; no scribal colophon or date is preserved.",
+ "_meta": {
+  "reel": "B 310/7",
+  "model": "gemini-flash-latest",
+  "secs": 8.4,
+  "in_tok": 674,
+  "out_tok": 1123
+ }
+}

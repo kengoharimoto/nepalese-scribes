@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumati jayajitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumati jayajitāmitramalladevasana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 815 vaiśāṣa vadi 13 thvakuhnu",
+  "era": "NS",
+  "year": "815",
+  "month": "vaiśāṣa",
+  "paksa": "kṛṣṇa",
+  "tithi": "13",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1695"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The place of copying (Bhaktapur) is identified by the cataloguer through the reigning king Jitāmitra Malla, but is not explicitly named in the colophon itself. The Newari phrase 'dayakā juroṃ' indicates that the king had the manuscript prepared/copied.",
+ "_meta": {
+  "reel": "A 1235/19 (32)",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 824,
+  "out_tok": 893
+ }
+}

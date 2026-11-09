@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ācāryasurasya",
+   "name": "Śūra",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "kṛtir ā(2)cāryasurasya",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon names Ācārya Śūra (Āryaśūra) as the author. No date, scribe, or patron is mentioned.",
+ "_meta": {
+  "reel": "A 125/12",
+  "model": "gemini-flash-latest",
+  "secs": 6.0,
+  "in_tok": 779,
+  "out_tok": 755
+ }
+}

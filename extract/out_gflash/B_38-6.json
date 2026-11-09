@@ -1,0 +1,59 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "vācaspatimiśra",
+   "name": "Vācaspati",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīvācaspatimiśraviracitā sāṃkhyatattvakaumudī samāptā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīgaṃgādattaśarmaṇā",
+   "name": "Gaṅgādatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "pustakam idam alekhi śrīgaṃgādattaśarmaṇā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "māsīṣe cāsite ... śakakhāṃkabhūpa 1690 mite paṃcāśvināgendau mitaśrīvikrame tha vatsare",
+  "era": "ŚS",
+  "year": "1690 (ŚS) / 1825 (VS)",
+  "month": "Iṣa (Āśvina)",
+  "paksa": "kṛṣṇa (asita)",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1768"
+ },
+ "place": {
+  "as_written": "kāmākhyāyā(mārkkiktau)",
+  "normalized": "Kāmākhyā"
+ },
+ "purpose": "",
+ "notes": "Both Śaka 1690 (kha-aṅka-bhūpa) and Vikrama 1825 (pañca-aśvina-aga-indu) are chronogrammatically recorded in the colophon, corresponding to ca. 1768 CE. The month is specified as Iṣa (= Āśvina), dark fortnight (asita).",
+ "_meta": {
+  "reel": "B 38/6",
+  "model": "gemini-flash-latest",
+  "secs": 13.7,
+  "in_tok": 798,
+  "out_tok": 1916
+ }
+}

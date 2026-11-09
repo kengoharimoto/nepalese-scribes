@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīratnākarabhaṭṭātmaja",
+   "name": "Ratnākara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "Śāṇḍilya gotra",
+   "residence": "",
+   "evidence": "śrīratnākarabhaṭṭātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaṭṭaśaṃkaro",
+   "name": "Śaṅkara",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "Śāṇḍilya gotra",
+   "residence": "",
+   "evidence": "bhaṭṭaśaṃkaro lilekhaitat svārtham",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīratnākarabhaṭṭātmaja bhaṭṭaśaṃkaro"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1697 caitre māsi śuklanavamyāṃ tithau",
+  "era": "VS",
+  "year": "1697",
+  "month": "caitra",
+  "paksa": "śukla",
+  "tithi": "navamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1640"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "svārtham",
+ "notes": "",
+ "_meta": {
+  "reel": "B 368/4",
+  "model": "gemini-flash-latest",
+  "secs": 12.2,
+  "in_tok": 740,
+  "out_tok": 1674
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "daivajñajotinarasiṃha",
+   "name": "Jyotinarasiṃha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajñajotinarasiṃhalikhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "daivajña saṃkarasiṃha",
+   "name": "Śaṅkarasiṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "daivajña saṃkarasiṃhasuta",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "daivajña saṃkarasiṃhasuta daivajñajotinarasiṃha"
+  }
+ ],
+ "date": {
+  "as_written": "śrī śāke 1720 māse 1 tithau 15 vāre 7",
+  "era": "ŚS",
+  "year": "1720",
+  "month": "1",
+  "paksa": "",
+  "tithi": "15",
+  "weekday": "7",
+  "nakshatra_yoga": "",
+  "ce_approx": "1798"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 1172/11",
+  "model": "gemini-flash-latest",
+  "secs": 6.6,
+  "in_tok": 765,
+  "out_tok": 953
+ }
+}

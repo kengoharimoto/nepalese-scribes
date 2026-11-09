@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī2 jayajitāmitra malladevasya",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "scribe",
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhiti śrī2 jayajitāmitra malladevasya svakarena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 797 āṣāḍhe vadi saptai aśvani nakṣete (!) dhṛtiyoge budhavāsare",
+  "era": "NS",
+  "year": "797",
+  "month": "āṣāḍha",
+  "paksa": "kṛṣṇa",
+  "tithi": "saptamī",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "aśvani nakṣatra, dhṛti yoga",
+  "ce_approx": "1677"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "śrīśrī girijāpatiḥ prīyatāṃ",
+ "notes": "King Jayajitāmitramalla of Bhaktapur is recorded as having written the manuscript with his own hand (svakarena).",
+ "_meta": {
+  "reel": "B 379/23",
+  "model": "gemini-flash-latest",
+  "secs": 7.6,
+  "in_tok": 1098,
+  "out_tok": 1059
+ }
+}

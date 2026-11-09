@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrī sumati jayajitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrī sumati jayajitāmitramalladevasana da(6)yakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 815 kārttikavadi 14 thvakuhnu",
+  "era": "NS",
+  "year": "815",
+  "month": "kārttika",
+  "paksa": "vadi",
+  "tithi": "14",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1694"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "King Jayajitāmitramalla of Bhaktapur is recorded as having caused the work/manuscript to be made (dayakā juroṃ). The place Bhaktapur noted in the catalogue is not explicitly stated in the colophon text itself.",
+ "_meta": {
+  "reel": "A 1235/19 (5)",
+  "model": "gemini-flash-latest",
+  "secs": 9.2,
+  "in_tok": 1004,
+  "out_tok": 1238
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon contains only the concluding formula of the text (chapter 13 of the Devīmāhātmya) with no scribal or production details.",
+ "_meta": {
+  "reel": "A 482/4",
+  "model": "gemini-flash-latest",
+  "secs": 4.4,
+  "in_tok": 671,
+  "out_tok": 430
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīnīlakaṇṭhaḥ",
+   "name": "Nīlakaṇṭha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "budhendra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "cakāra śrīnīlakaṇṭhaḥ śatakaṃ vudhendraḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ācāryyasiddhesvara",
+   "name": "Siddheśvara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadācāryyasiddhesvarātmaja",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrī śrīnivāsamallamahārājasya",
+   "name": "Śrīnivāsa Malla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī śrīnivāsamallamahārājasya nityādayos tu",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śrīmadācāryyasiddhesvarātmaja"
+  },
+  {
+   "from": "p1",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "śrī śrīnivāsamallamahārājasya nityādayos tu"
+  }
+ ],
+ "date": {
+  "as_written": "śrīvikramāditya śake (kṛtāgnyatyaṣṭhi) pramāṇe (1734 mukhaṃnandaṇai leḥ 797) nepālaśāke",
+  "era": "VS",
+  "year": "1734 (NS 797)",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1677"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon records the date of composition by Nīlakaṇṭha in both VS 1734 (chronogram kṛta-agni-atyaṣṭi = 4, 3, 17) and NS 797 during the reign of King Śrīnivāsa Malla of Patan.",
+ "_meta": {
+  "reel": "A 63/18",
+  "model": "gemini-flash-latest",
+  "secs": 14.5,
+  "in_tok": 808,
+  "out_tok": 2111
+ }
+}

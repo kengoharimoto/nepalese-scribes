@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "munindravajra",
+   "name": "Munindravajra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "mūlaśrīmahāvihāra pivāhā bhūjivāhā",
+   "residence": "mulaśrimahāvyāhā pivāhā bhūjivāhā",
+   "evidence": "munindravajra liṣyete",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "saṣadevarāja",
+   "name": "Śaṣadevarāja",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [],
+   "affiliation": "kṛtī vyāhārasāvāhā",
+   "residence": "kṛtī vyāhārasāvāhā",
+   "evidence": "saṣadevarāja ... dhamacita upati jura manasa ati ikṣā juyā dayakā jula",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "munindravajra liṣyete saṣadevarāja ... dayakā jula"
+  }
+ ],
+ "date": {
+  "as_written": "saṃmvat 1953 phāguna śukra aṃtamiṣuhnu",
+  "era": "VS",
+  "year": "1953",
+  "month": "phāguna",
+  "paksa": "śukla",
+  "tithi": "aṣṭamī",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1897"
+ },
+ "place": {
+  "as_written": "kṛtī vyāhā[[la]]rasāvāhāle",
+  "normalized": ""
+ },
+ "purpose": "dhamacita upati jura manasa ati ikṣā juyā dayakā jula",
+ "notes": "The four-digit year 1953 indicates Vikrama Samvat (c. 1897 CE). The commissioner's name saṣadevarāja is likely an orthography for Śaṅkhadevarāja or Śākyadevarāja. Scribe Munindravajra is affiliated with Mūlaśrīmahāvihāra (Pivāhā / Bhūjivāhā).",
+ "_meta": {
+  "reel": "A 134/33",
+  "model": "gemini-flash-latest",
+  "secs": 13.1,
+  "in_tok": 834,
+  "out_tok": 1971
+ }
+}

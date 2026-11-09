@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumati jayajitāmitramalladevasana",
+   "name": "Jayajitāmitramalladeva",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumati jayajitāmitramalladevasana dayakā juroṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 815 (5) caitra vadi 6 thvakuhnu",
+  "era": "NS",
+  "year": "815",
+  "month": "caitra",
+  "paksa": "vadi",
+  "tithi": "6",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1695"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Catalogue notes place of copying as Bhaktapur, which aligns with King Jitāmitra Malla of Bhaktapur, but the colophon itself does not mention the place name.",
+ "_meta": {
+  "reel": "A 1235/19 (25)",
+  "model": "gemini-flash-latest",
+  "secs": 6.9,
+  "in_tok": 737,
+  "out_tok": 834
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "tejadattena",
+   "name": "Tejadatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "idaṃ pustakaṃ tejadattena likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nīlakaṃṭhasya",
+   "name": "Nīlakaṇṭha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "caturddharavaṃśa",
+   "residence": "",
+   "evidence": "nīlakaṃṭhasya kṛtau bhāratabhāvadīpe",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "goviṃdasūri",
+   "name": "Govindasūri",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "sūri"
+   ],
+   "affiliation": "caturddharavaṃśa",
+   "residence": "",
+   "evidence": "goviṃdasūrisūnor",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "goviṃdasūrisūnor nīlakaṃṭhasya"
+  }
+ ],
+ "date": {
+  "as_written": "svasti śrīsamvat 1912 miti śrāvaṇaśudi 4 bṛhaspativāsare (fol. 84r); saṃvat 1913 sālamiti mārgavadi || 14 || roja budhadine (fol. 246r)",
+  "era": "VS",
+  "year": "1912–1913",
+  "month": "Śrāvaṇa / Mārga",
+  "paksa": "śukla / kṛṣṇa",
+  "tithi": "4 / 14",
+  "weekday": "Thursday / Wednesday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1855–1856"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Two dates are given in different sections of the manuscript: VS 1912 Śrāvaṇa śudi 4 (Thursday) and VS 1913 Mārga vadi 14 (Wednesday). The phrase 'sukīrtter astu viprasya' likely represents 'sukīrtir astu viprasya' ('may there be good fame to the Brahmin [scribe]') rather than a proper name Sukīrti.",
+ "_meta": {
+  "reel": "B 251/4",
+  "model": "gemini-flash-latest",
+  "secs": 17.8,
+  "in_tok": 1175,
+  "out_tok": 2062
+ }
+}

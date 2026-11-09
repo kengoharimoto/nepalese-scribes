@@ -1,0 +1,70 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: added a note that 'vaṃdyo' may be a surname (Vandya / Bandyopādhyāya) rather than the epithet 'venerable'. The name itself is unchanged.",
+   "p2: confidence lowered to medium; 'padmādāsamude' is a compound and the name boundary is not certain (it could be Padmādāsa or a feminine Padmā-based name).",
+   "date: month glossed as śuci = Āṣāḍha; tithi given as navamī (Durgā); weekday normalised to Tuesday; paksa left uncertain.",
+   "purpose: rewritten in plain English instead of the bare compound."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "viśvaharṣo",
+   "name": "Viśvaharṣa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "viśvaharṣo ʼlikhad",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "padmādāsa(mude)",
+   "name": "Padmādāsa",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "padmādāsamude mudā",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "viśvaharṣo ʼlikhad vaṃdyo padmādāsamude mudā"
+  }
+ ],
+ "date": {
+  "as_written": "giryantarikṣāṃkasomair mite vikramavatsare || śuci māse tīladale durgāyāṃ bhaumavāsare",
+  "era": "VS",
+  "year": "1907",
+  "month": "Āṣāḍha (śuci)",
+  "paksa": "tīladala (unclear; corrupt for sita- or asitadala?)",
+  "tithi": "navamī (durgā)",
+  "weekday": "Tuesday (bhaumavāsara)",
+  "nakshatra_yoga": "",
+  "ce_approx": "1850"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for the pleasure of Padmādāsa (padmādāsamude)",
+ "notes": "Chronogram read right to left: giri 7, antarikṣa 0, aṅka 9, soma 1 = VS 1907 (about 1850 CE), which matches the catalogue. Śuci usually means Āṣāḍha. 'tīladale' is probably corrupt; the paksa (bright or dark half) cannot be settled. Durgā is taken as navamī (the 9th tithi); aṣṭamī is less likely. 'vaṃdyo' can be read as 'venerable', describing the scribe, or as the Bengali surname Vandya/Bandyopādhyāya; if it is a surname, it belongs among Viśvaharṣa's titles. The name Padmādāsa is cut out of the compound 'padmādāsamude' and is not certain.",
+ "_meta": {
+  "reel": "A 958/2",
+  "model": "opus",
+  "cost_usd": 0.0633908,
+  "secs": 15.9
+ }
+}

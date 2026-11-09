@@ -1,0 +1,104 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: name given as stem 'Śaṅkara', with 'ācārya' kept in titles",
+   "p2: 'yajñanāthayoḥ śubhaṃ bhūyāt' added as further evidence for the scribe; the odd dual genitive is now flagged in notes",
+   "p3: role 'reader' dropped; the colophon only says the copy was made for his reading (pāṭhārtham), so he stays beneficiary. Affiliation changed from 'Daśanāmī' to 'Giri (Daśanāmī order, inferred)'",
+   "p4: kept as 'other' with low confidence, and the possible readings are now explained in notes",
+   "Date: 'pūrṇavāśyāyāṃ' read as pūrṇamāsyām; 'samayanāma' flagged as unclear",
+   "Notes expanded"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmacchaṃkaracārya",
+   "name": "Śaṅkara",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmacchaṃkaracāryaviracitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jagya(!)nāthena",
+   "name": "Yajñanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vipra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jagya(!)nāthena vipreṇa pustakaṃ likhitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "murāreḥ ... girir iti sunāmnaḥ",
+   "name": "Murāri",
+   "roles": [
+    "beneficiary"
+   ],
+   "titles": [
+    "giri"
+   ],
+   "affiliation": "Giri (Daśanāmī order, inferred)",
+   "residence": "",
+   "evidence": "murāreḥ pāṭhārthaṃ girir iti sunāmnaḥ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "gopālena",
+   "name": "Gopāla",
+   "roles": [
+    "other"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "sukhaṃ gopālenāvatarita",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "wrote_for",
+   "to": "p3",
+   "evidence": "murāreḥ pāṭhārthaṃ ... jagya(!)nāthena vipreṇa pustakaṃ likhitaṃ"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1833 samayanāmabhādramāse site pakṣe pūrṇavāśyāyāṃ (!) bhṛguvāsare",
+  "era": "VS",
+  "year": "1833",
+  "month": "Bhādrapada",
+  "paksa": "śukla",
+  "tithi": "pūrṇimā (15)",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1776"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for the reading of Murāri Giri (murāreḥ pāṭhārthaṃ)",
+ "notes": "The scribe's name is written 'jagyanātha', a spoken form of Yajñanātha. The cataloguer corrected it to Yajñanātha, which matches the catalogue field. 'yajñanāthayoḥ śubhaṃ bhūyāt' is a dual genitive, which is odd. It may be a scribal error for the singular yajñanāthasya, or it may mean two people (Yajña and Nātha?). It is taken here as the scribe alone. 'girir iti sunāmnaḥ' most likely means that Murāri carried the Daśanāmī name Giri, but this is inferred. The verse 'sukhaṃ gopālenāvataritamahśaṃkarakṣataṃ' is corrupt. Gopāla might be an earlier copyist, the composer of the verse, or a word play (an epithet of Kṛṣṇa), so this entry has low confidence. 'samayanāma' before Bhādramāse is unclear: perhaps a corrupt year name, or meaning 'in the month named'. 'pūrṇavāśyāyāṃ' is read as pūrṇamāsyām. The weekday (Friday) was not checked against an ephemeris. VS 1833 Bhādrapada falls in August/September 1776 CE. The closing verse 'dheyaṃ sadā ... mahāpurukha te caraṇāraviṃdaṃ' is a quoted stotra verse (Bhāgavata 11.5.33) and contains no persons.",
+ "_meta": {
+  "reel": "A 1301/12",
+  "model": "opus",
+  "cost_usd": 0.0877588,
+  "secs": 23.2
+ }
+}

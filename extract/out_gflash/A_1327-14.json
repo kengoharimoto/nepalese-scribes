@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīrāma",
+   "name": "Rāma",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīrāmaviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "sūrye turaṅge navacandraghasre jyeṣṭhākhyakṛṣṇe bhṛguvārayuktam",
+  "era": "ŚS",
+  "year": "1712",
+  "month": "Jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "navamī",
+  "weekday": "Friday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1790"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "suhetoḥ",
+ "notes": "The chronogram is likely sūrya (12), turaṅga (7), candra (1) indicating ŚS 1712, with navamī tithi ('navacandraghasre' or 9th day). No scribe or commissioner is explicitly named.",
+ "_meta": {
+  "reel": "A 1327/14",
+  "model": "gemini-flash-latest",
+  "secs": 10.3,
+  "in_tok": 737,
+  "out_tok": 1441
+ }
+}

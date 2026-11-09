@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ramākānta upādhyā",
+   "name": "Ramākānta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "methyāṃkāṭavaṣṇyā",
+   "evidence": "liṣitaṃ methyāṃkāṭavaṣṇyā ramākānta upādhyā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1759 śrīsaṃvat 1894 sāla miti āṣāḍha vadi 4 roja 5",
+  "era": "VS",
+  "year": "1894",
+  "month": "āṣāḍha",
+  "paksa": "vadi",
+  "tithi": "4",
+  "weekday": "roja 5",
+  "nakshatra_yoga": "",
+  "ce_approx": "1837"
+ },
+ "place": {
+  "as_written": "vāgmativiṣṇumatimadhyasthale kāṃtipure",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "śrīpaśupati prīte",
+ "notes": "Both Śāka 1759 and Vikrama Saṃvat 1894 are provided, corresponding to 1837 CE. The phrase 'methyāṃkāṭavaṣṇyā' preceding the scribe's name may designate his specific locality, clan, or family background.",
+ "_meta": {
+  "reel": "B 232/6",
+  "model": "gemini-flash-latest",
+  "secs": 9.0,
+  "in_tok": 827,
+  "out_tok": 1176
+ }
+}

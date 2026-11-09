@@ -1,0 +1,139 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "ācāryyaśrīkālidāsasya",
+   "name": "Kālidāsa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ācāryyaśrīkālidāsasya meghadūtakṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīnārāyaṇena",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīnārāyaṇena ṭīkeyaṃ kṛtā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrībhavānīśaṅkara",
+   "name": "Bhavānīśaṅkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "coya dhunakā śrībhavānī(6)śaṅkara śrīgaurīśaṅkara nehmasena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīgaurīśaṅkara",
+   "name": "Gaurīśaṅkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "coya dhunakā śrībhavānī(6)śaṅkara śrīgaurīśaṅkara nehmasena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrīśrīṛddinarasiṃha malla",
+   "name": "Ṛddhinarasiṃhamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīṛddinarasiṃha malla rājā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "miruju",
+   "name": "Miruju",
+   "roles": [
+    "minister"
+   ],
+   "titles": [
+    "cautārā"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "miruju (7) cautārā jura",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "mahendrasiṃhadeva",
+   "name": "Mahendrasiṃhadeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī 3(!) mahendrasiṃhadeva",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "under_reign_of",
+   "to": "p5",
+   "evidence": "coya dhunakā śrībhavānī(6)śaṅkara śrīgaurīśaṅkara nehmasena thvana hṅathukuhnu śrīśrīṛddinarasiṃha malla rājā"
+  },
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p5",
+   "evidence": "coya dhunakā śrībhavānī(6)śaṅkara śrīgaurīśaṅkara nehmasena thvana hṅathukuhnu śrīśrīṛddinarasiṃha malla rājā"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 835 māgha śukla caturddaśī ādityavārakunhu",
+  "era": "NS",
+  "year": "835",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "caturdaśī",
+  "weekday": "ādityavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1715"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The manuscript copying was completed in NS 835 by Bhavānīśaṅkara and Gaurīśaṅkara during the reign of Ṛddhinarasiṃha Malla of Patan. A later historical note added on fol. 30v records events of NS 837: the attack on Koṭibāhāra (Patan) by the people of Bhaktapur (khapvayāpiṃ), the death of Ṛddhinarasiṃha four days later, and the request by the subjects (prajā) to King Mahendrasiṃhadeva of Kathmandu to rule Patan (ñala).",
+ "_meta": {
+  "reel": "B 321/5",
+  "model": "gemini-flash-latest",
+  "secs": 18.4,
+  "in_tok": 993,
+  "out_tok": 2699
+ }
+}

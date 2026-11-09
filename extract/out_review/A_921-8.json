@@ -1,0 +1,75 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p1: as_written now includes the caste name ('mānaṃdhra jiodhanaṃ'). Residence glossed (Kipudesa = Kirtipur). Kept the reading Jīvadhana and lowered confidence to medium because the name is normalised from the Newari spelling.",
+   "p2: lowered confidence to medium (the stem Cakanāsiṃha is reconstructed from 'cakanāsiṃyā'). Residence glossed (Yadesa = Kathmandu, Kyalatora = Keltol). Title normalised as kaṃsakāra, with the written form kaṃsaḥkāḥ kept.",
+   "date: as_written now includes 'śubha'. Month normalised to Dillā (Āṣāḍha) and pakṣa to śukla (thva). Checked ce_approx: NS 959 + 880 = 1839.",
+   "purpose: shortened and normalised.",
+   "notes: added a note on the possible donor role (the book is called 'Vasudhārādeviyā pustaka')."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mānaṃdhra jiodhanaṃ",
+   "name": "Jīvadhana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "mānaṃdhra (Mānandhar)"
+   ],
+   "affiliation": "",
+   "residence": "Kipudesa (Kirtipur), Rāchicāche",
+   "evidence": "kipudesa rāchicācheyā mānaṃdhra jiodhanaṃ hlāsa mudariṃgāsa coyā jula",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p2",
+   "as_written": "cakanāsiṃyā",
+   "name": "Cakanāsiṃha",
+   "roles": [
+    "commissioner"
+   ],
+   "titles": [
+    "kaṃsakāra (kaṃsaḥkāḥ)"
+   ],
+   "affiliation": "",
+   "residence": "Yadesa (Kathmandu), Kyalatora (Keltol), hnu'che",
+   "evidence": "cakanāsiṃyā dharmmacesnā svacita tayāo dayāla",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "cakanāsiṃyā dharmmacesnā svacita tayāo dayāla || kipudesa rāchicācheyā mānaṃdhra jiodhanaṃ hlāsa mudariṃgāsa coyā jula"
+  }
+ ],
+ "date": {
+  "as_written": "śubha saṃmvat 959 mti dirāthvaka 5 hnu sa",
+  "era": "NS",
+  "year": "959",
+  "month": "Dillā (dirā; Āṣāḍha)",
+  "paksa": "śukla (thva)",
+  "tithi": "5",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1839"
+ },
+ "place": {
+  "as_written": "hlāsa mudariṃgāsa",
+  "normalized": "Lhasa"
+ },
+ "purpose": "dharma (religious merit) of the commissioner; merit transferred so that all beings attain Sukhāvatī",
+ "notes": "The catalogue gives the place of copying as Kathmandu. That is where the commissioner lived (yadesa kyalatora = Keltol, Kathmandu). The colophon itself says the copy was written in Lhasa, at Mudariṃgā ('hlāsa mudariṃgāsa coyā jula'), by a Mānandhar scribe from Kirtipur (kipudesa). This fits the Newar merchant communities in Lhasa. 'Jiodhanaṃ' is read as Jīvadhana. 'Cakanāsiṃ' is read as Cakanāsiṃha, though it could also be a Newari personal name such as Cakanā Siṃ. The book is called 'vasudhārādeviyā pustaka' (the book of the goddess Vasudhārā) and was made 'dharmmacesnā svacita' (out of religious intent, by his own wish). This may mean Cakanāsiṃha offered it as well as commissioning it, but the colophon does not say so explicitly, so the role is kept as commissioner only. Dates: Dillā = Āṣāḍha; NS 959 = 1839 CE.",
+ "_meta": {
+  "reel": "A 921/8",
+  "model": "opus",
+  "cost_usd": 0.0856508,
+  "secs": 24.5
+ }
+}

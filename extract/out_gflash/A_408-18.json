@@ -1,0 +1,57 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "davajñagaṇe(3)śa",
+   "name": "Gaṇeśa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "daivajña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "davajñagaṇe(3)śaviracitoyaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "durgādattenaiva",
+   "name": "Durgādatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "’likhitam idaṃ (10) ādhyāṃtā durgādattenaiva saṃpūrṇaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1900 (8)śāke 17‥ 64(!) bhādrapadamāse śuklapa(9)kṣe paurṇamāsyāṃ śukre",
+  "era": "VS",
+  "year": "1900",
+  "month": "bhādrapada",
+  "paksa": "śukla",
+  "tithi": "paurṇamāsī",
+  "weekday": "śukravāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1843"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon first gives the author's chronogram verse for the text's composition (Śāke 1537 / 1570? māgha kṛṣṇa guruvāsara), followed by the manuscript's copying date in VS 1900 / Śaka 1764/65 by Durgādatta.",
+ "_meta": {
+  "reel": "A 408/18",
+  "model": "gemini-flash-latest",
+  "secs": 10.0,
+  "in_tok": 844,
+  "out_tok": 1509
+ }
+}

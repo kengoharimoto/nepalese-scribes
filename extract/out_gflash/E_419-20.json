@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribal colophon containing historical persons, date, or place; only chapter and text colophons are preserved.",
+ "_meta": {
+  "reel": "E 419/20",
+  "model": "gemini-flash-latest",
+  "secs": 7.5,
+  "in_tok": 978,
+  "out_tok": 835
+ }
+}

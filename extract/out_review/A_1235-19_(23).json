@@ -1,0 +1,54 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Name normalized to 'Jitāmitramalla'. 'Sumati' and 'jaya' are Bhaktapur royal epithets, so 'sumati' was removed from titles and both are explained in notes.",
+   "Shortened the person's evidence.",
+   "Weekday given as Friday (kāvyavāra = Śukravāra).",
+   "Added a note that 'taraṇitithiyute' may conflict with śudi 5.",
+   "Notes: 'amaravāk' is the Sanskrit language, not a scribe, and no scribe is named."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīsumati jayajitāmitramallo / śrīśrī sumati jayajitāmitamallana",
+   "name": "Jitāmitramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "mahīśa"
+   ],
+   "affiliation": "bhāsvadvaṃśa (solar dynasty)",
+   "residence": "",
+   "evidence": "alikhayad ... śrīsumati jayajitāmitramallo mahīśaḥ ... paddhatiṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "abde pāṇidyunāge taraṇitithiyute māghamāse ca śukle bhe'śvinyāṃ kāvyavāre ... samvat 802 māgha śudi 5",
+  "era": "NS",
+  "year": "802",
+  "month": "māgha",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "Friday (kāvyavāra)",
+  "nakshatra_yoga": "aśvinī",
+  "ce_approx": "1682"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "Made for King Jitāmitramalla's consecration (pratiṣṭhā) of Śaṅkaranārāyaṇa. The book may only be taken out for royal pratiṣṭhās; anyone who takes it otherwise incurs the pañcamahāpātaka (five great sins).",
+ "notes": "The chronogram pāṇi (2), dyu (0), nāga (8), read right to left, gives 802. This matches 'samvat 802', so the catalogue's NS 815 looks wrong. NS 802 Māgha falls in early 1682 CE. 'Taraṇitithiyute' is unclear: taraṇi (the sun) could stand for 12 (the twelve Ādityas), or the phrase could mean the sun's tithi, saptamī (7). Either reading conflicts with the numerical śudi 5. 'Alikhayad amaravāk sādhu' means the king had the paddhati written well in Sanskrit. 'Amaravāk' is the language, not a person, and no scribe is named. 'Sumati jaya' are standard Bhaktapur royal epithets. The cataloguer's 'jitāmitamallana' is a slip for Jitāmitramalla. Bhaktapur (from the catalogue) is not stated in the colophon. 'Oguli chātasa hleyā juroṃ' seems to be a later note about where the book was kept.",
+ "_meta": {
+  "reel": "A 1235/19 (23)",
+  "model": "opus",
+  "cost_usd": 0.5845735999999999,
+  "secs": 32.9
+ }
+}

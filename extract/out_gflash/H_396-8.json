@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "kolacalamallināthasūri",
+   "name": "Mallinātha",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "mahāmahopādhyāya",
+    "sūri"
+   ],
+   "affiliation": "Kolacala",
+   "residence": "",
+   "evidence": "mahāmahopādhāyakolacalamallināthasūriviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhūmidevaḥ",
+   "name": "Bhūmideva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ʼlikhad bhūmidevaḥ samagraṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "gaṃdharvvajaivātrikasarpyamāne (!), saṃvatsare kṛṣṇamadhau caturthyāṃ | bhe vāyudaive kujavāsare vai, vyāghāṭayoge (!) tha meṣagate ʼrkke",
+  "era": "unspecified",
+  "year": "gaṃdharvvajaivātrikasarpya- (chronogram)",
+  "month": "Caitra (madhu)",
+  "paksa": "kṛṣṇa",
+  "tithi": "4",
+  "weekday": "Tuesday (kujavāsara)",
+  "nakshatra_yoga": "nakṣatra Svātī (vāyudaiva), Vyāghāta yoga",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The year is expressed via a chronogram: gandharva-jaivātrika-sarpa (possibly NS 81x). The scribe invokes Maheśa and copies the Ghaṇṭāpatha commentary by Kolacala Mallinātha.",
+ "_meta": {
+  "reel": "H 396/8",
+  "model": "gemini-flash-latest",
+  "secs": 13.5,
+  "in_tok": 899,
+  "out_tok": 1805
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrī indreṇa",
+   "name": "Indra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrī indreṇa likhi",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "śrīmadbhāgyena samāptaṃ means 'completed by good fortune'. The scribe is Indra (śrī indreṇa likhi[tam]).",
+ "_meta": {
+  "reel": "B 7/6",
+  "model": "gemini-flash-latest",
+  "secs": 9.3,
+  "in_tok": 843,
+  "out_tok": 1009
+ }
+}

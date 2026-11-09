@@ -1,0 +1,82 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahārājādhirājaśrīmukuṃdasenavarmaṇā",
+   "name": "Mukundasena",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "mahārājādhirāja"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājādhirājaśrīmukuṃdasenavarmaṇā kāritena",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīkulanidhiśarmaṇā",
+   "name": "Kulanidhi",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkulanidhiśarmaṇā viracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "devīdattapaṃtena",
+   "name": "Devīdatta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "panta"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "devīdattapaṃtena likhitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "commissioned_from",
+   "to": "p2",
+   "evidence": "mahārājādhirājaśrīmukuṃdasenavarmaṇā kāritena śrīkulanidhiśarmaṇā viracite"
+  }
+ ],
+ "date": {
+  "as_written": "śāke 1777 sāla miti āṣāḍhādhika śudi saptamyāṃ guruvāsare",
+  "era": "ŚS",
+  "year": "1777",
+  "month": "adhika-āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "7",
+  "weekday": "Thursday",
+  "nakshatra_yoga": "",
+  "ce_approx": "1855"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Mukundasena Varman commissioned the original composition of the text by Kulanidhi Śarman.",
+ "_meta": {
+  "reel": "C 31/2",
+  "model": "gemini-flash-latest",
+  "secs": 10.5,
+  "in_tok": 867,
+  "out_tok": 1657
+ }
+}

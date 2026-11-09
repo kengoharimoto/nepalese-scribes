@@ -1,0 +1,82 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "govinda",
+   "name": "Govinda",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "govinda eva bhuvane viditaḥ sukīrttiḥ | tasyātmajena racitā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīdevanāthavi(bu)dhena",
+   "name": "Devanātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "vibudha",
+    "tarkapañcānana",
+    "mahāmahopādhyāya"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīdevanāthavi(bu)dhena satāṃ mude stu || abde lakṣmaṇasenasya ... akarot kaumudīm etān devanātho",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrī[[gaṅgārāmasya",
+   "name": "Gaṅgārāma",
+   "roles": [
+    "scribe",
+    "owner"
+   ],
+   "titles": [
+    "karaṇa"
+   ],
+   "affiliation": "",
+   "residence": "(simaravālū)bhrāme",
+   "evidence": "śrī[[gaṅgārāmasya likhitaikhā(!)pustakam iti]]",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "tasyātmajena racitā khalu kaumudīyaṃ śrīdevanāthavi(bu)dhena"
+  }
+ ],
+ "date": {
+  "as_written": "lasaṃ 476 kārttikavadi daśamyāṃ śanau",
+  "era": "LS",
+  "year": "476",
+  "month": "kārttika",
+  "paksa": "vadi",
+  "tithi": "daśamī",
+  "weekday": "śani",
+  "nakshatra_yoga": "",
+  "ce_approx": "1595"
+ },
+ "place": {
+  "as_written": "(simaravālū)bhrāme",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The verses record the composition of the Mantrakaumudī by Devanātha, son of Govinda, in an earlier Lakṣmaṇasena year (viyacchūnyā-dvi-lakṣite). The copy itself is dated LS 476 in the marginal addition written by/for karaṇa Gaṅgārāma. Place reading '(simaravālū)bhrāme' likely stands for -grāme.",
+ "_meta": {
+  "reel": "A 963/6",
+  "model": "gemini-flash-latest",
+  "secs": 10.6,
+  "in_tok": 872,
+  "out_tok": 1532
+ }
+}

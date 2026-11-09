@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "paṃḍitabhikṣuvāgīśvarakīrtti",
+   "name": "Vāgīśvarakīrti",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "paṇḍita",
+    "bhikṣu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "paṃḍitabhikṣuvāgīśvarakīrttiviracite",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "nidhyadrigrahacande bde bhādraśukle ṣṭamītithau",
+  "era": "VS",
+  "year": "1979",
+  "month": "Bhādra",
+  "paksa": "śukla",
+  "tithi": "8",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1922"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The date is expressed by the chronogram nidhi (9), adri (7), graha (9), candra (1) = VS 1979. The donor mentioned in the catalogue (Rājaguru Hemarāja Śarmā) is the donor of the collection to the National Archives and is not mentioned in the colophon itself.",
+ "_meta": {
+  "reel": "B 90/12",
+  "model": "gemini-flash-latest",
+  "secs": 9.0,
+  "in_tok": 739,
+  "out_tok": 1102
+ }
+}

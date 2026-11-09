@@ -1,0 +1,75 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śubhaṅkara",
+   "name": "Śubhaṅkara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śubhaṅkaraviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "vinoda",
+   "name": "Vinoda",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "vinodātmajo",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "ananto",
+   "name": "Ananta",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "Sūrakula",
+   "residence": "",
+   "evidence": "vinodātmajo- nantoyaṃ kuladīpano likhad",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p3",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "vinodātmajo"
+  }
+ ],
+ "date": {
+  "as_written": "nepāle rasaṣaṣṭhiśailavimale jāte śubhe vatsare | bhādre śuklakuje ca manmathatithau svātyāṃ",
+  "era": "NS",
+  "year": "766",
+  "month": "bhādra",
+  "paksa": "śukla",
+  "tithi": "manmathatithi",
+  "weekday": "kuja",
+  "nakshatra_yoga": "svātī",
+  "ce_approx": "1646"
+ },
+ "place": {
+  "as_written": "nepāle",
+  "normalized": "Nepal"
+ },
+ "purpose": "",
+ "notes": "The catalogue mentions King Jagajjyotir Malla, but his name does not occur in the transcribed colophon lines. The year is given by the chronogram rasa (6) - ṣaṣṭhi (6) - śaila (7) = NS 766.",
+ "_meta": {
+  "reel": "B 288/24",
+  "model": "gemini-flash-latest",
+  "secs": 14.3,
+  "in_tok": 790,
+  "out_tok": 1898
+ }
+}

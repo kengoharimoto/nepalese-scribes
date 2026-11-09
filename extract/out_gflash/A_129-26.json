@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīvajrācāryyavividhiratna",
+   "name": "Vividhiratna",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "samaitrīpūramahāvihāra",
+   "residence": "",
+   "evidence": "samaitrīpūramahāvihārayā śrīvajrācāryyavividhiratna utrāpaṃthasadyagāspākapālāsaconāvelasatha(o)takāranasacoyātayājulo",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 991 mti bhādravakṛṣṇa 9",
+  "era": "NS",
+  "year": "991",
+  "month": "bhādrava",
+  "paksa": "kṛṣṇa",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1871"
+ },
+ "place": {
+  "as_written": "samaitrīpūramahāvihāra",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The colophon records in Newari that the text was written/kept written (coyā tayā julo) by Vajrācārya Vividhiratna of Maitrīpura Mahāvihāra while staying at an Uttarāpatha location (utrāpaṃthasa... conā velasa).",
+ "_meta": {
+  "reel": "A 129/26",
+  "model": "gemini-flash-latest",
+  "secs": 10.8,
+  "in_tok": 770,
+  "out_tok": 1468
+ }
+}

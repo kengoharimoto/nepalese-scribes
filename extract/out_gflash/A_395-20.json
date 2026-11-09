@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mānāṅkena",
+   "name": "Mānāṅka",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mānāṅkena viracitaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "ekādaśyāṃ li | | khitaṃ || saṃvat 800 āṣāḍhaśukla ||",
+  "era": "NS",
+  "year": "800",
+  "month": "āṣāḍha",
+  "paksa": "śukla",
+  "tithi": "11",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1680"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 395/20",
+  "model": "gemini-flash-latest",
+  "secs": 5.9,
+  "in_tok": 718,
+  "out_tok": 746
+ }
+}

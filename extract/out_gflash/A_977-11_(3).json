@@ -1,0 +1,58 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mahādinānātha",
+   "name": "Mahādinānātha",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmahādinānāthaviracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "ṭaṃkadhvajapāḍrā",
+   "name": "Ṭaṃkadhvaja",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "pāḍrā",
+    "kṣetrī"
+   ],
+   "affiliation": "",
+   "residence": "naipāle nagare",
+   "evidence": "likhaka ṭaṃkadhvajapāḍrā kṣetrī",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 1938 śrāvaṇasya śite pakṣa tṛtīyāṃ guruvāsare",
+  "era": "VS",
+  "year": "1938",
+  "month": "śrāvaṇa",
+  "paksa": "śukla",
+  "tithi": "3",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1881"
+ },
+ "place": {
+  "as_written": "deśe kumārikākhaṇḍe naipāle nagaresthita",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "The scribe is described as residing in the city of Nepal (naipāle nagare sthita) in Kumārikākhaṇḍa. His surname/title appears to be Pāḍrā (Pā̃ḍe) of the Kṣetrī (Chhetri) caste.",
+ "_meta": {
+  "reel": "A 977/11 (3)",
+  "model": "gemini-flash-latest",
+  "secs": 7.1,
+  "in_tok": 790,
+  "out_tok": 1243
+ }
+}

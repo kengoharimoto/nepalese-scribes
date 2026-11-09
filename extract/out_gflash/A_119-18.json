@@ -1,0 +1,69 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "surendra vikramasāhasya",
+   "name": "Surendra Vikramaśāha",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "girīrāja",
+    "cakra caudāmani",
+    "nara nārāyana"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājādhirāja surendra vikramasāhasya vijayarāje",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "(cika)dhigu bhājana",
+   "name": "Cikadhigubhājana",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Mānadevasaṃskārita Cakramahāvihāra",
+   "residence": "cakramavihārāvasthita",
+   "evidence": "likhitaṃ mānadevasasakārita cakramavihārāvasthita śrīvajrācāryya (cika)dhigu bhājana coyāgu julo",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "surendra vikramasāhasya vijayarāje || || likhitaṃ mānadevasasakārita cakramavihārāvasthita śrīvajrācāryya (cika)dhigu bhājana coyāgu julo"
+  }
+ ],
+ "date": {
+  "as_written": "saṃmvata 979 miti kārttikaśuklayā paṃcami, pūrvāṣāḍhāna[kṣa]tra, dhṛtiyoga budhavāra",
+  "era": "NS",
+  "year": "979",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "5",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "pūrvāṣāḍhā, dhṛti",
+  "ce_approx": "1858"
+ },
+ "place": {
+  "as_written": "mānadevasasakārita cakramavihāra",
+  "normalized": ""
+ },
+ "purpose": "dhanajanasaṃntā thila juyamāla, kṛvikṛyavāniryya vyapāla sāphalya juyamāla, dasākuśalapāpamocana juyamāla",
+ "notes": "Mānadeva is mentioned as the legendary/historical founder of Cakramahāvihāra (mānadevasaṃskārita), not a contemporary person. The scribe's name may be interpreted as Bhājana with the Newari adjective cikādhigu ('younger/small').",
+ "_meta": {
+  "reel": "A 119/18",
+  "model": "gemini-flash-latest",
+  "secs": 11.9,
+  "in_tok": 2200,
+  "out_tok": 2174
+ }
+}

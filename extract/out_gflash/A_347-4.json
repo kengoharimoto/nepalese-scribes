@@ -1,0 +1,68 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrīsumatijayajitāmitramalladevasana",
+   "name": "Jayajitāmitramalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "sumati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrīsumatijayajitāmitramalladevasana thva pustakadayakā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhāgirāmaparamānayā",
+   "name": "Bhāgirāma",
+   "roles": [
+    "minister",
+    "other"
+   ],
+   "titles": [
+    "paramāna"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhāgirāmaparamānayā belasa",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīśrīsumatijayajitāmitramalladevasana thva pustakadayakā, bhāgirāmaparamānayā belasa"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 810 kārttikaśudi 9",
+  "era": "NS",
+  "year": "810",
+  "month": "kārttika",
+  "paksa": "śudi",
+  "tithi": "9",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1690"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "thva pustakadayakā",
+ "notes": "The earlier date (Śāke 1553, VS 1688 = 1631 CE) on Śrāvaṇa kṛṣṇa 11, Thursday, is from the exemplar text copied. The second entry records that King Jayajitāmitramalla had this manuscript prepared in NS 810 (1690 CE) during the tenure of the officer (paramāna/pramāṇa) Bhāgirāma.",
+ "_meta": {
+  "reel": "A 347/4",
+  "model": "gemini-flash-latest",
+  "secs": 19.8,
+  "in_tok": 875,
+  "out_tok": 3353
+ }
+}

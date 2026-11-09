@@ -1,0 +1,128 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "p2 Yaśavantasiṃha: role changed from 'commissioner' to 'other'. 'prerita' means he urged Bhāskara to compose the work (the Yaśavantabhāskara). He did not have this copy made. Name normalised to 'Yaśavantasiṃha'.",
+   "p1 Indramaṇi: 'king' removed. He is named only as the father of the patron of the original work, not as the king reigning when this copy was made in VS 1813. Role is now relative_only.",
+   "p3 Āyājibhaṭṭa: confidence lowered to medium because the form may be corrupt (Āpājī?). Lineage moved to Bhāskara, with whom the compound connects it.",
+   "p5 scribe: 'Gamoḍha' moved to titles as a caste or subcaste name. Confidence lowered to low because of the lacuna before '...śvara-puruṣottama'.",
+   "place: normalised to 'Vārāṇasī'. 'śīkāśī' is taken as an error for 'śrīkāśī'.",
+   "notes expanded."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "madiṃdramaṇinṛpati",
+   "name": "Indramaṇi",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "nṛpati"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mahārājādhirājaśrīmadiṃdramaṇinṛpatinaṃdana",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "kumārayaśavaṃtasiṃha",
+   "name": "Yaśavantasiṃha",
+   "roles": [
+    "other"
+   ],
+   "titles": [
+    "kumāra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmatkumārayaśavaṃtasiṃhaprerita",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "āyājibhaṭṭa",
+   "name": "Āyājibhaṭṭa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadāyājibhaṭṭasūnu",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "bhāskara",
+   "name": "Bhāskara",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "Kāśyapa anvaya; Agnihotri kula",
+   "residence": "",
+   "evidence": "kāśyapānvayasaṃbhavāgnihotrikulatilakāyamāna...bhāskaraviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "gamoḍhacāturvedītrīpāṭhi /// śvarapuruṣottama",
+   "name": "Puruṣottama",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "Gamoḍha",
+    "cāturvedī",
+    "tripāṭhī"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ gamoḍhacāturvedītrīpāṭhi /// śvarapuruṣottama",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "iṃdramaṇinṛpatinaṃdana"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "āyājibhaṭṭasūnu"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1813 varṣe jyeṣṭhamāse śuklapakṣe dvitīyā guruvāsare",
+  "era": "VS",
+  "year": "1813",
+  "month": "jyeṣṭha",
+  "paksa": "śukla",
+  "tithi": "dvitīyā",
+  "weekday": "guruvāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1756"
+ },
+ "place": {
+  "as_written": "śīkāśīviśveśvarasaṃnidhau",
+  "normalized": "Vārāṇasī"
+ },
+ "purpose": "",
+ "notes": "The patron (Yaśavantasiṃha, son of Indramaṇi) and the author (Bhāskara, son of Āyājibhaṭṭa) belong to the composition of the Yaśavantabhāskara. They are not connected with this VS 1813 copy, so no reigning king is named. The scribe's name is damaged: 'Gamoḍha' (a brahmin subcaste?), 'cāturvedī' and 'trīpāṭhi' are titles or surnames, and the personal name after the lacuna reads '...śvara-puruṣottama'. It could be a compound name (e.g. ...śvara as the father's name) or an epithet. The catalogue's scribe field 'Gamoḍha Cāturvedī Trīpāṭhī' records only the titles. 'śīkāśī' is probably an error for 'śrīkāśī': the copy was made near Viśveśvara in Kāśī. VS 1813 = 1756 CE; the weekday has not been checked. The doubled phrase ⟪siṃhapreritaśrīmatka⟫ is a scribal dittography marked by the cataloguer.",
+ "_meta": {
+  "reel": "B 432/2",
+  "model": "opus",
+  "cost_usd": 0.6171176,
+  "secs": 39.8
+ }
+}

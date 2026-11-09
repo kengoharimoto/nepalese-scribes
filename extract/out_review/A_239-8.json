@@ -1,0 +1,58 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Removed role 'author': 'alekhi' and 'svakarena likhitaṃ' say the king wrote out this copy. They do not clearly say he composed the paddhati.",
+   "Titles: removed 'sumati', which is an epithet ('wise') inside the verse. Kept mahīndra, bhūpa, varman.",
+   "Date: checked the chronogram 'yoga(2)-kha(0)-nāga(8)', read right to left = 802, and 'asita-phaṇi-tithi' = kṛṣṇa pañcamī. Both agree with the prose date.",
+   "Notes: Kali 4772 does not match. The expected Kali year is about 4782 for CE 1681/82, so the first reading was wrong to say it matches.",
+   "Notes: NS 776 belongs to the text (the dīkṣā māsaphala section), not to the copying.",
+   "Purpose: reduced to the benediction, since no svārtha/parārtha statement is given.",
+   "Muhūrta and sun/moon rāśi added to the notes."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayajitāmitramallavarmanā",
+   "name": "Jayajitāmitramalla",
+   "roles": [
+    "scribe",
+    "king"
+   ],
+   "titles": [
+    "mahīndra",
+    "bhūpa",
+    "varman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayajitāmitramallavarmanā svakarena likhitaṃ saṃpūrṇaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "abde yogaukhanāge tvasitaphaṇitithau phāluṇe māsyalekhi ... śrī nepālasamvat 802 vikramāditya saṃvat 1738 kaligatasaṃvat (4772) śake samvat 1603 phālhuṇamāse kṛṣṇapakṣe paṃmyāyā(!)tithau svātinakṣatre dhruvayoge kathākalanamuhutake(!) bēhapati(!)vāsare",
+  "era": "NS",
+  "year": "802",
+  "month": "Phālguna",
+  "paksa": "kṛṣṇa",
+  "tithi": "5 (pañcamī; chronogram asita-phaṇi-tithi)",
+  "weekday": "Thursday (Bṛhaspativāra)",
+  "nakshatra_yoga": "Svāti nakṣatra, Dhruva yoga",
+  "ce_approx": "1682"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "benediction: śrī Siddhilakṣmī prīṇātu",
+ "notes": "The scribe is King Jitāmitra Malla of Bhaktapur (reigned c. NS 793–816). He wrote this copy himself ('svakarena likhitaṃ'; 'alekhi' in the verse). The verse might also mean he compiled the paddhati, but this is uncertain, so 'author' is not given. In the verse the name is given as 'sumatijayajitāmitramallo'; 'sumati' is an epithet. The chronogram yoga(2)-kha(0)-nāga(8), read right to left, gives 802, and asita-phaṇi-tithi gives kṛṣṇa pañcamī. Both agree with NS 802 Phālguna kṛṣṇa 5, VS 1738 and Śaka 1603, i.e. about Feb/March 1682 CE. The sun in Kumbha and the moon in Tulā (Svāti) are consistent with this. Kali 4772 is about 10 years too low (expected c. 4782); the cataloguer has already put it in parentheses. The catalogue's 'NS 776' comes from 'saṃ 776 jyeṣṭha vadi 8 goyacchoyā dina'. That is part of the text's dīkṣā-month section (c. 1656 CE, before the king's reign), not the copying date. The place is not stated; Bhaktapur is likely, given the king. Muhūrta 'kathākalana(?)' is corrupt.",
+ "_meta": {
+  "reel": "A 239/8",
+  "model": "opus",
+  "cost_usd": 0.6138176,
+  "secs": 43.7
+ }
+}

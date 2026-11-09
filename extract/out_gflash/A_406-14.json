@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīpatibhaṭṭa",
+   "name": "Śrīpati",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīpatibhaṭṭaviracitāyāṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1754 vaiśākhakṛṣṇadaśamyāṃ budhavāsare",
+  "era": "ŚS",
+  "year": "1754",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1832"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "",
+ "_meta": {
+  "reel": "A 406/14",
+  "model": "gemini-flash-latest",
+  "secs": 5.7,
+  "in_tok": 722,
+  "out_tok": 736
+ }
+}

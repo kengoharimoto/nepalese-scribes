@@ -1,0 +1,81 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmiśralaṭaka",
+   "name": "Laṭaka",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmiśralaṭakatanaya",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmanmiśrabhāva",
+   "name": "Bhāva",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "miśra"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmanmiśrabhāvaviracite",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīmaheśvarānaṃdena",
+   "name": "Maheśvarānanda",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "mahāboddhopāsaka"
+   ],
+   "affiliation": "",
+   "residence": "Lalitāpūrī",
+   "evidence": "likhitaṃ lalitāpūrīmahāboddhopāśakaśrīmaheśvarānaṃdena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "śrīmiśralaṭakatanayaśrīmanmiśrabhāvaviracite"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 1919 śrīśāke samvat 1784 nepālasamvat 982 sāla miti vaiśāṣakṛṣṇa-amāvāsyā. roja 2",
+  "era": "VS",
+  "year": "1919",
+  "month": "vaiśākha",
+  "paksa": "kṛṣṇa",
+  "tithi": "amāvāsyā",
+  "weekday": "roja 2",
+  "nakshatra_yoga": "",
+  "ce_approx": "1862"
+ },
+ "place": {
+  "as_written": "lalitāpūrī",
+  "normalized": "Patan"
+ },
+ "purpose": "",
+ "notes": "The manuscript contains multiple section colophons with two distinct copying dates: the first section ends on VS 1918 Māgha śukla 5 roja 4 (fol. 178v), and the second section on VS 1919, ŚS 1784, NS 982 Vaiśākha kṛṣṇa amāvāsyā roja 2 (fol. 268v), both copied by Maheśvarānanda in Lalitapur.",
+ "_meta": {
+  "reel": "A 952/6",
+  "model": "gemini-flash-latest",
+  "secs": 11.9,
+  "in_tok": 1031,
+  "out_tok": 1621
+ }
+}

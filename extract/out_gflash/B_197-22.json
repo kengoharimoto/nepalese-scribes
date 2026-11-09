@@ -1,0 +1,43 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīla⟪⟫kṣmaṇapati",
+   "name": "Lakṣmaṇapati",
+   "roles": [
+    "owner",
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "paśrache",
+   "evidence": "śrīla⟪⟫kṣmaṇapati paśracheyā juro || jathā dṛsti tathā likṣate",
+   "confidence": "medium"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 814 jyeṣṭha vadi 10",
+  "era": "NS",
+  "year": "814",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "10",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1694"
+ },
+ "place": {
+  "as_written": "paśrache",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "",
+ "notes": "Lakṣmaṇapati is identified with the Newari phrase 'śrīlakṣmaṇapati paśracheyā juro' (is of Lakṣmaṇapati of Paśrache), followed directly by the scribal disclaimer ('jathā dṛsti tathā likṣate mama dokho na diyate'), which suggests he may be the owner and/or scribe.",
+ "_meta": {
+  "reel": "B 197/22",
+  "model": "gemini-flash-latest",
+  "secs": 12.1,
+  "in_tok": 756,
+  "out_tok": 1453
+ }
+}

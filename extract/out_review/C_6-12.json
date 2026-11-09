@@ -1,0 +1,100 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Date: the colophon gives no era name. NS is inferred from the reign of Abhayamalla (c. 1216–1255 CE, about NS 336–375), which fits year 341. Kept NS 341 / 1221 CE and added a note explaining this.",
+   "Hāla: added the colophon's other name for Hāla, Śātavāhana ('śrīśātavāhanakośe'), to the notes. Hāla is the author of the root text, the kośa.",
+   "Scribe: noted that the name sits in an insertion [[...]] that replaces a deleted passage ⟪...⟫, so it may have been written by a second hand. The reading stays doubtful.",
+   "Purpose shortened to a summary.",
+   "Everything else confirmed: Tribhuvanapāla as commentator, Abhayamalladeva as reigning king, the under_reign_of relation, and Jyeṣṭha 341."
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "hāla",
+   "name": "Hāla",
+   "roles": [
+    "author"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "iti hālaviracitakośe",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrītribhuvanapāla",
+   "name": "Tribhuvanapāla",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrītribhuvanapālavivṛtau",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "rājādhirājaparameśvaraśrīabha(!)malladeva",
+   "name": "Abhayamalladeva",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "rājādhirāja",
+    "parameśvara"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "rājādhirājaparameśvaraśrīabha(!)malladevaśrīvijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "ni.ulāvaracaṃdreṇa",
+   "name": "Ni.ulāvaracandra",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "[[ni.ulāvaracaṃdreṇa]] mayā kaṣṭena likhyate",
+   "confidence": "low"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p3",
+   "evidence": "rājādhirājaparameśvaraśrīabha(!)malladevaśrīvijayarājye"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvaccharekacatvāriṃśādhikaśatatraye jyeṣṭhamāse",
+  "era": "NS",
+  "year": "341",
+  "month": "Jyeṣṭha",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1221"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "for his own sake and for others (svārthaṃ parārthahetvarthaṃ)",
+ "notes": "The colophon names no era ('saṃvacchara ... 341'). NS is inferred because the year fits the reign of Abhayamalla (c. NS 336–375 / 1216–1255 CE). This agrees with the catalogue (NS 341 ≈ 1221 CE). The king's name is written abha(!)malla for Abhayamalla. The colophon also calls Hāla Śātavāhana (śrīśātavāhanakośe). The scribe's name appears only inside a later insertion [[ni.ulāvaracaṃdreṇa]], which replaces a deleted passage ⟪...⟫. It may come from a second hand and is partly unreadable: a possible reading is Nikulāvaracandra or similar. 'svārthaṃ parārthahetvarthaṃ' may mean the scribe also owned the copy, but the colophon does not say so clearly, so the owner role was not added. The verse after it (yena trayeta(?)trimuni...) has lacunae and no usable names.",
+ "_meta": {
+  "reel": "C 6/12",
+  "model": "opus",
+  "cost_usd": 0.0805428,
+  "secs": 20.9
+ }
+}

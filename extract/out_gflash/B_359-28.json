@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhavāniśaṃkarācāryana",
+   "name": "Bhavānīśaṃkara",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "ācārya"
+   ],
+   "affiliation": "",
+   "residence": "Gaṇṭhakutacche",
+   "evidence": "bhavāniśaṃkarācāryana agastyavrata saṃpūrṇa yāṅā dina juro",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 807(!) bhādrapadaśuklapakṣa daśamī budhavāra",
+  "era": "NS",
+  "year": "807",
+  "month": "bhādrapada",
+  "paksa": "śuklapakṣa",
+  "tithi": "daśamī",
+  "weekday": "budhavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1687"
+ },
+ "place": {
+  "as_written": "gaṇṭhakutacche",
+  "normalized": ""
+ },
+ "purpose": "agastyavrata saṃpūrṇa yāṅā",
+ "notes": "It is possible that 'agastyavrata saṃpūrṇa yāṅā' refers to the completion of copying the Agastyavrata text, or the completion of the ritual observance itself.",
+ "_meta": {
+  "reel": "B 359/28",
+  "model": "gemini-flash-latest",
+  "secs": 12.4,
+  "in_tok": 842,
+  "out_tok": 1496
+ }
+}

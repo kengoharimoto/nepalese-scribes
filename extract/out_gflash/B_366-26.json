@@ -1,0 +1,67 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "narasaṃhasya",
+   "name": "Narasaṃha",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "moḍhacāturvedī",
+    "śuº"
+   ],
+   "affiliation": "Moḍhacāturvedī",
+   "residence": "",
+   "evidence": "moḍhacāturvedī śuº narasaṃhasya putra",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "bhaṭtaº kāśināthena",
+   "name": "Kāśinātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ ... bhaṭtaº kāśināthena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "narasaṃhasya putra bhaṭtaº kāśināthena"
+  }
+ ],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Moḍha Cāturvedī indicates Brahmin lineage from Gujarat/North India; śuº likely abbreviates Śukla.",
+ "_meta": {
+  "reel": "B 366/26",
+  "model": "gemini-flash-latest",
+  "secs": 7.7,
+  "in_tok": 670,
+  "out_tok": 844
+ }
+}

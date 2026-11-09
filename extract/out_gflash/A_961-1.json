@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "śāke 1808 samvat 1943 traihā ā(!)cītatī(!)thi(!) vadī 8 roja 3",
+  "era": "VS",
+  "year": "1943",
+  "month": "traihā ā(!)cīta",
+  "paksa": "vadī",
+  "tithi": "8",
+  "weekday": "roja 3",
+  "nakshatra_yoga": "",
+  "ce_approx": "1886"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Both Śāke 1808 and Samvat (VS) 1943 are mentioned, which corresponds to CE 1886. The month name is corrupt ('traihā ā(!)cīta[...]', likely Caitra). No human individuals are named.",
+ "_meta": {
+  "reel": "A 961/1",
+  "model": "gemini-flash-latest",
+  "secs": 6.5,
+  "in_tok": 716,
+  "out_tok": 676
+ }
+}

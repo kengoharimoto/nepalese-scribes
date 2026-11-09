@@ -1,0 +1,68 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śāradāvilāsaśarmadvārā",
+   "name": "Śāradāvilāsa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śāradāvilāsaśarmadvārā",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmadrājaguruhemarājapaṇḍitena",
+   "name": "Hemarāja",
+   "roles": [
+    "commissioner",
+    "owner"
+   ],
+   "titles": [
+    "rājaguru",
+    "paṇḍita"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmadrājaguruhemarājapaṇḍitena likhitam",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p1",
+   "type": "wrote_for",
+   "to": "p2",
+   "evidence": "śāradāvilāsaśarmadvārā śrīmadrājaguruhemarājapaṇḍitena likhitam"
+  }
+ ],
+ "date": {
+  "as_written": "1979 saṃvatsare",
+  "era": "VS",
+  "year": "1979",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": "1922"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The manuscript was copied from an older palm-leaf exemplar (purātanatāḍapatrapustakād) by Śāradāvilāsa Śarman for/by Rājaguru Hemarāja Paṇḍita in VS 1979.",
+ "_meta": {
+  "reel": "A 248/40",
+  "model": "gemini-flash-latest",
+  "secs": 11.7,
+  "in_tok": 726,
+  "out_tok": 1839
+ }
+}

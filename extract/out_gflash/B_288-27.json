@@ -1,0 +1,89 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīmajjagajjyotyir adhīśvarasya ... śrījagajjyotir īśāt",
+   "name": "Jagajjyotirmalla",
+   "roles": [
+    "king",
+    "commissioner"
+   ],
+   "titles": [
+    "adhīśvara",
+    "īśa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīmajjagajjyotyir adhīśvarasya nideśam āsādya ... labdhvādeśaṃ guṇagaṇanidheḥ śrījagajjyotir īśāt",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śrīmaithilo vaṅśamaṇir",
+   "name": "Vaṃśamaṇi",
+   "roles": [
+    "commentator"
+   ],
+   "titles": [
+    "maithila"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "saṃgītaśāstrasya cakāra ṭīkā śrīmaithilo vaṅśamaṇir manīṣāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "vijña induḥ",
+   "name": "Indu",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vijña"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "labdhvādeśaṃ guṇagaṇanidheḥ śrījagajjyotir īśāt | saṃgītādyaṃ samalikhad asau bhāskaraṃ vijña induḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "other",
+   "to": "p1",
+   "evidence": "śrīmajjagajjyotyir adhīśvarasya nideśam āsādya guṇottarasya | saṃgītaśāstrasya cakāra ṭīkā śrīmaithilo vaṅśamaṇir manīṣāṃ"
+  },
+  {
+   "from": "p3",
+   "type": "wrote_for",
+   "to": "p1",
+   "evidence": "labdhvādeśaṃ guṇagaṇanidheḥ śrījagajjyotir īśāt | saṃgītādyaṃ samalikhad asau bhāskaraṃ vijña induḥ"
+  }
+ ],
+ "date": {
+  "as_written": "nepālābde śaśiśaramunivyañjite śuklapakṣe | puṣye gaṇḍe suragurudine drākṣapakṣe daśamyāṃ",
+  "era": "NS",
+  "year": "751",
+  "month": "puṣya",
+  "paksa": "śukla",
+  "tithi": "daśamī",
+  "weekday": "suragurudina",
+  "nakshatra_yoga": "puṣya, gaṇḍa",
+  "ce_approx": "1631"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Vaṃśamaṇi (a Maithila scholar) composed the commentary (manīṣā) on the Saṅgītabhāskara under King Jagajjyotirmalla, and the scribe Indu copied it under the king's order in NS 751 (śaśi = 1, śara = 5, muni = 7).",
+ "_meta": {
+  "reel": "B 288/27",
+  "model": "gemini-flash-latest",
+  "secs": 18.5,
+  "in_tok": 943,
+  "out_tok": 2502
+ }
+}

@@ -1,0 +1,181 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīśrījayapārthivendramalladeva",
+   "name": "Jayapārthivendramalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [
+    "mahārājādhirāja",
+    "rājarājyendra",
+    "sakalarājacakrādhiśvara",
+    "nepāreśvara",
+    "paramabhaṭṭāraka",
+    "prabhu",
+    "ṭhākura"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīśrījayapārthivendramalladevaparamabhaṭṭārakadevānāṃ sadāsamalavijayināṃ prabhuthākurasya vijayarājye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "śākyabhikṣuśrīratnamuni",
+   "name": "Ratnamuni",
+   "roles": [
+    "donor",
+    "beneficiary"
+   ],
+   "titles": [
+    "vajrācārya",
+    "śākyabhikṣu",
+    "dānapati",
+    "paramopāsaka"
+   ],
+   "affiliation": "Śrītalumūlamahāvihāra",
+   "residence": "kāṣṭhamaṇḍapamahānagala mandutorake śrītalumūlamahāvihāra naiṛtyakonagṛha",
+   "evidence": "dānapati vajrācāryā śākyabhikṣuśrīratnamuni",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "manodharīlakṣmī",
+   "name": "Manodharīlakṣmī",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasya bhāryā manodharīlakṣmī",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "śrīpadmasiṃha",
+   "name": "Padmasiṃha",
+   "roles": [
+    "commissioner",
+    "donor"
+   ],
+   "titles": [
+    "śākyabhikṣu",
+    "dānapati"
+   ],
+   "affiliation": "Śrītalumūlamahāvihāra",
+   "residence": "",
+   "evidence": "śrīpadmasiṃha utrāpantha hlāsanāmasiddhakṣetrasa ... thva kāraṇḍavyuha ... likhāpitaṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p5",
+   "as_written": "śrīsivadeva",
+   "name": "Śivadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ratnamuni...putra śākyabhikṣu śrīsivadeva",
+   "confidence": "high"
+  },
+  {
+   "pid": "p6",
+   "as_written": "śrījayasiṃhadeva",
+   "name": "Jayasiṃhadeva",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "śākyabhikṣu"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "tasya bhātṛ śākyabhikṣu śrījayasiṃhadeva",
+   "confidence": "high"
+  },
+  {
+   "pid": "p7",
+   "as_written": "vajrācāryaśrīdhanamunidevana",
+   "name": "Dhanamunideva",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "vajrācārya"
+   ],
+   "affiliation": "Tarumūlamahāvihāra",
+   "residence": "tarumuramahāvihāre sikomaguli vantābāhāra pūrvadise khaṇḍacukagṛha",
+   "evidence": "vajrācāryaśrīdhanamunidevana likhāṃpitaṃ || || yādṛśaṃ pustaka dṛṣṭvā tādṛśaṃ likhitaṃ mayā",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p4",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrīśrījayapārthivendramalladevaparamabhaṭṭārakadevānāṃ ... vijayarājye"
+  },
+  {
+   "from": "p3",
+   "type": "wife_of",
+   "to": "p2",
+   "evidence": "tasya bhāryā manodharīlakṣmī"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "śākyabhikṣuśrīratnamuni tasya putra padmasiṃha"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p2",
+   "evidence": "ratnamuni...putra śākyabhikṣu śrīsivadeva"
+  },
+  {
+   "from": "p6",
+   "type": "brother_of",
+   "to": "p5",
+   "evidence": "tasya bhātṛ śākyabhikṣu śrījayasiṃhadeva"
+  },
+  {
+   "from": "p7",
+   "type": "wrote_for",
+   "to": "p4",
+   "evidence": "vajrācāryaśrīdhanamunidevana likhāṃpitaṃ || || yādṛśaṃ pustaka dṛṣṭvā tādṛśaṃ likhitaṃ mayā"
+  }
+ ],
+ "date": {
+  "as_written": "samvat 803 māghamāse śuklapakṣa saptami para aṣṭamyān tithau bharuni para kṛtikā nakṣatra śukramāna para brahmayoge yathākarṇa mahotre bṛhaspativārasare",
+  "era": "NS",
+  "year": "803",
+  "month": "māgha",
+  "paksa": "śuklapakṣa",
+  "tithi": "saptamī para aṣṭamī",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "bharaṇī para kṛttikā, śukramāna para brahma",
+  "ce_approx": "1683"
+ },
+ "place": {
+  "as_written": "tarumuramahāvihāre sikomaguli vantābāhāra",
+  "normalized": "Kathmandu"
+ },
+ "purpose": "Commissioned in Lhasa while inspired before the Akṣobhya statue; for the longevity, health, wealth, progeny, and attainment of Sukhāvatī for Padmasiṃha and his family.",
+ "notes": "Padmasiṃha commissioned three manuscripts (Kāraṇḍavyūha, Aparimitā, Durgatipariśodhana) written in gold and silver ink on black paper while on business/pilgrimage in Lhasa (utrāpantha hlāsanāmasiddhakṣetrasa). The scribe Dhanamunideva wrote it at Tarumūla Mahāvihāra (Sikhamū Bāhā) in Kathmandu.",
+ "_meta": {
+  "reel": "A 108/4",
+  "model": "gemini-flash-latest",
+  "secs": 32.0,
+  "in_tok": 1857,
+  "out_tok": 5578
+ }
+}

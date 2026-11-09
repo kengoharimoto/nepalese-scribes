@@ -1,0 +1,44 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrīgaṃgadharasamanenaḥ",
+   "name": "Gaṅgādhara Śarman",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "śarman"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ śrīgaṃgadharasamanenaḥ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "śrīśāke 1694 māse 10 dina 14 tithau 1 nakṣatre 22 yoge 16",
+  "era": "ŚS",
+  "year": "1694",
+  "month": "10",
+  "paksa": "",
+  "tithi": "1",
+  "weekday": "",
+  "nakshatra_yoga": "nakṣatre 22 yoge 16",
+  "ce_approx": "1772"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name appears in a corrupt instrumental form 'śrīgaṃgadharasamanenaḥ' (for Gaṅgādharaśarmaṇā). Month is given numerically as 10 (Māgha), solar day (dina) as 14, tithi as 1.",
+ "_meta": {
+  "reel": "B 360/18",
+  "model": "gemini-flash-latest",
+  "secs": 4.5,
+  "in_tok": 801,
+  "out_tok": 384
+ }
+}

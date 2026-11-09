@@ -1,0 +1,62 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "śrījayasthitirājamallasya",
+   "name": "Jayasthitirājamalla",
+   "roles": [
+    "king"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "śrībhaktapurī",
+   "evidence": "śrījayasthitirājamallasya vijaye",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "jantarāmena(!)",
+   "name": "Jantarāma",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "suvilacchatola",
+   "evidence": "suvilacchatolakastha jantarāmena(!) likhitami[[ti]]",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "under_reign_of",
+   "to": "p1",
+   "evidence": "śrījayasthitirājamallasya vijaye suvilacchatolakastha jantarāmena(!) likhitami[[ti]]"
+  }
+ ],
+ "date": {
+  "as_written": "samvat sukrasauryavaktra[[kāttikakṛṣṇa]]pañcamyāṃ tithau jeṣṭhānakṣatre suraguruvāsare",
+  "era": "NS",
+  "year": "516",
+  "month": "kāttika",
+  "paksa": "kṛṣṇa",
+  "tithi": "pañcamī",
+  "weekday": "suraguruvāsara",
+  "nakshatra_yoga": "jeṣṭhā",
+  "ce_approx": "1396"
+ },
+ "place": {
+  "as_written": "śrībhaktapurī ... suvilacchatolaka",
+  "normalized": "Bhaktapur"
+ },
+ "purpose": "subhaṃ bhavatu sarvvasattvānāṃ",
+ "notes": "The chronogram sukra-saurya-vaktra is interpreted as 516 NS (śukra = 6, vaktra = 1, etc.).",
+ "_meta": {
+  "reel": "B 31/40",
+  "model": "gemini-flash-latest",
+  "secs": 14.9,
+  "in_tok": 798,
+  "out_tok": 2049
+ }
+}

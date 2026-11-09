@@ -1,0 +1,102 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "bhaṭṭarāmeśvara",
+   "name": "Rāmeśvara",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭarāmeśvarasūnu-",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "nārāyaṇabhaṭṭa",
+   "name": "Nārāyaṇa",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "bhaṭṭarāmeśvarasūnunārāyaṇabhaṭṭakṛtāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "śrīkṛṣṇabhaṭṭa",
+   "name": "Kṛṣṇa",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "śrīkṛṣṇabhaṭṭātmaja-",
+   "confidence": "high"
+  },
+  {
+   "pid": "p4",
+   "as_written": "ciṃtāmaṇibhaṭṭena",
+   "name": "Cintāmaṇi",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitam idaṃ pustakaṃ śrīkṛṣṇabhaṭṭātmajaciṃtāmaṇibhaṭṭena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "bhaṭṭarāmeśvarasūnu-"
+  },
+  {
+   "from": "p4",
+   "type": "son_of",
+   "to": "p3",
+   "evidence": "śrīkṛṣṇabhaṭṭātmaja-"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1700 naṃdanasaṃvatsare caitrakṛṣṇadaśamyāṃ budhavāsare",
+  "era": "VS",
+  "year": "1700",
+  "month": "caitra",
+  "paksa": "kṛṣṇa",
+  "tithi": "daśamī",
+  "weekday": "budhavāsara",
+  "nakshatra_yoga": "",
+  "ce_approx": "1643"
+ },
+ "place": {
+  "as_written": "mathurāyāṃ",
+  "normalized": "Mathura"
+ },
+ "purpose": "svārthaṃ parārthaṃ ca",
+ "notes": "",
+ "_meta": {
+  "reel": "B 360/35",
+  "model": "gemini-flash-latest",
+  "secs": 10.6,
+  "in_tok": 791,
+  "out_tok": 1558
+ }
+}

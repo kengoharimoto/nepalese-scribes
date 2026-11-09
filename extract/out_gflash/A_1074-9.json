@@ -1,0 +1,28 @@
+{
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "samvat 538 jyeṣṭhakṛṣṇatrayodaśyāṃ || kṛttikanakṣatra || vyatiyoge || bṛhaspativāre",
+  "era": "NS",
+  "year": "538",
+  "month": "jyeṣṭha",
+  "paksa": "kṛṣṇa",
+  "tithi": "trayodaśī",
+  "weekday": "bṛhaspativāra",
+  "nakshatra_yoga": "kṛttikā, vyatīpāta (vyatiyoga)",
+  "ce_approx": "1418"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "No scribe, patron, or king is named. The colophon quotes an epoch/conversion verse stating that adding 802 (nayanākāśabhujaṅga) to the Nepāla year yields the Śaka year, which led to the cataloguer's hesitation between NS 538 and NS 802; the actual manuscript date is NS 538.",
+ "_meta": {
+  "reel": "A 1074/9",
+  "model": "gemini-flash-latest",
+  "secs": 10.1,
+  "in_tok": 955,
+  "out_tok": 1758
+ }
+}

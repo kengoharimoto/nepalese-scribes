@@ -1,0 +1,42 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "mubhājyūvirasinumāhātuḥ",
+   "name": "Mubhājyūvirasinumāhātu",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "liṣitaṃ mubhājyūvirasinumāhātuḥ",
+   "confidence": "low"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The scribe's name 'mubhājyūvirasinumāhātuḥ' is corrupt and uncertain. It may contain the Newari honorific/title 'mubhājyū' (mu-bhāju) followed by a personal name (perhaps Virasinu/Vīrasiṃha) and title/caste (such as Māhāto/Mahato).",
+ "_meta": {
+  "reel": "A 1119/8",
+  "model": "gemini-flash-latest",
+  "secs": 17.9,
+  "in_tok": 823,
+  "out_tok": 2410
+ }
+}

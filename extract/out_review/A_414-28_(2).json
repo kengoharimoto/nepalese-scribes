@@ -1,0 +1,124 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Kalyāṇa: confidence lowered to medium, because the cataloguer puts '(kalyāṇena likhitaṃ)' in parentheses as an uncertain reading",
+   "Mukunda's father: name changed to 'Ha(ra)…'. Only 'ha' is legible and '(ra)' is uncertain. Confidence stays low",
+   "Removed the wrote_for relation Kalyāṇa→Mukunda. The colophon does not say Kalyāṇa copied the book for Mukunda; the ownership statement may be a separate note",
+   "Notes: added the one-year conflict between VS 1691 and ŚS 1555"
+  ]
+ },
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "goviṃdajyotirvit",
+   "name": "Govinda",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "daivajña",
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "goviṃdajyotirvitsūnu-",
+   "confidence": "high"
+  },
+  {
+   "pid": "p2",
+   "as_written": "mādhavajyotirvid",
+   "name": "Mādhava",
+   "roles": [
+    "author"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "mādhavajyotirvid-viracitāyāṃ",
+   "confidence": "high"
+  },
+  {
+   "pid": "p3",
+   "as_written": "kalyāṇena",
+   "name": "Kalyāṇa",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "(kalyāṇena likhitaṃ)",
+   "confidence": "medium"
+  },
+  {
+   "pid": "p4",
+   "as_written": "ha(ra) .. .. (jyotirvit",
+   "name": "Ha(ra)…",
+   "roles": [
+    "relative_only"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "ha(ra) .. .. (jyotirvittanūja",
+   "confidence": "low"
+  },
+  {
+   "pid": "p5",
+   "as_written": "mukuṃdasya",
+   "name": "Mukunda",
+   "roles": [
+    "owner"
+   ],
+   "titles": [
+    "jyotirvid"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "jyotirvin-mukuṃdasyedaṃ pustakaṃ",
+   "confidence": "high"
+  }
+ ],
+ "relations": [
+  {
+   "from": "p2",
+   "type": "son_of",
+   "to": "p1",
+   "evidence": "goviṃdajyotirvitsūnu-mādhavajyotirvid"
+  },
+  {
+   "from": "p5",
+   "type": "son_of",
+   "to": "p4",
+   "evidence": "jyotirvittanūjajyotirvin-mukuṃdasya"
+  }
+ ],
+ "date": {
+  "as_written": "saṃvat 1691 varṣe śake 1555 kārttikaśuddha 9 some",
+  "era": "VS",
+  "year": "1691",
+  "month": "kārttika",
+  "paksa": "śukla",
+  "tithi": "9",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1634"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "The two eras disagree by one year. VS 1691 (Caitrādi) gives Kārttika 1634 CE. ŚS 1555 (+78) gives 1633 CE and would correspond to VS 1690. One of the two years may be expired rather than current, or simply miscounted. The weekday was not verified. The father of Mukunda is badly damaged: only 'ha' is legible and '(ra)' is uncertain, so it could be Hari-, Hara- or similar, followed by a lacuna. Kalyāṇa's role as scribe rests on a reading the cataloguer marks as uncertain with parentheses. It is unclear whether the ownership note ('mukuṃdasyedaṃ pustakaṃ .. khāvī saṃ 1691') belongs to the scribal colophon or is a separate note; 'khāvī' is unexplained. Govinda is called 'vidvaddaivajñamukuṭabhūṣaṇa' ('ornament on the crown of learned astrologers').",
+ "_meta": {
+  "reel": "A 414/28 (2)",
+  "model": "opus",
+  "cost_usd": 0.6025856,
+  "secs": 38.1
+ }
+}
