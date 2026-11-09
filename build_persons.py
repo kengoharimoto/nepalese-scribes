@@ -329,6 +329,16 @@ def licchavi_records():
 
 
 # ---------------------------------------------------------------- build
+DATE_OPEN = {
+    # Suśrutasaṃhitā NAK 5/333 (the colophon is not quoted in the catalogue entry): 'varṣe 'nalāṅgarasage
+    # nabhakālapakṣe viśve tithau dinakare divase gurau bhe', the year corrected in the manuscript
+    'B 29/19': ("open: the year of 'anala-aṅga/agni/aṅka-rasa' is corrected in the manuscript. Hemarāja Śarman "
+                "NS 633 (c. 1510; Sunday 11 Jul 1512 with the year current, Klebanov); Suvedī & Tivārī and D. R. Pant "
+                "Sunday 28 Jun 1573 (VS 1630); Klebanov NS 663 = Sunday 29 Jul 1543; Harimoto 2014: 1540; "
+                "catalogue 'Sunday, 29th July, 1465'"),
+}
+
+
 def main():
     recs = [json.loads(l) for f in ('records.jsonl', 'records_mirror.jsonl') if os.path.exists(D(f))
             for l in open(D(f))]
@@ -382,6 +392,8 @@ def main():
             doubtful = (f"doubtful: {date_note.lstrip('= ').split(',')[0] if date_note else '≈ ' + str(date['ce']) + ' CE'} "
                         f"is too early for a paper manuscript (an abbreviated or misread year, or the exemplar's date)")
             date, date_src, date_note = None, '', doubtful
+        if k in DATE_OPEN:  # readings of the date disagree: undated, with the alternatives in the note
+            date, date_src, date_note, doubtful = None, '', DATE_OPEN[k], DATE_OPEN[k]
         place = r.get('Place of Copying', '') or (o or {}).get('place', {}).get('normalized', '') \
             or (o or {}).get('place', {}).get('as_written', '')
         ms = {

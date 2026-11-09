@@ -1,0 +1,35 @@
+{
+ "review": {
+  "verdict": "corrected",
+  "changes": [
+   "Weekday changed from 'somavāsara' to 'somavāra', the standard form of the colophon's 'somavārasare'.",
+   "Notes: added the CE date of the exemplar (NS 686 ≈ 1566 CE). Also noted that Pauṣa śukla of NS 1018 falls in Dec 1897/Jan 1898, so the copy may date from late 1897. Kept 1898 as ce_approx by the NS+880 convention.",
+   "Otherwise the first reading is confirmed: no named persons, and the copy is dated NS 1018 Pauṣa śukla 4, Monday, as against the catalogue's NS 686."
+  ]
+ },
+ "persons": [],
+ "relations": [],
+ "date": {
+  "as_written": "svasti śrīnepālisamvat 1018 mitipauṣaśudi cautitithau || somavārasare sampūrṇam",
+  "era": "NS",
+  "year": "1018",
+  "month": "pauṣa",
+  "paksa": "śukla",
+  "tithi": "4",
+  "weekday": "somavāra",
+  "nakshatra_yoga": "",
+  "ce_approx": "1898"
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "\"\"",
+ "notes": "The catalogue gives NS 686 as the date of copying, but the colophon says NS 686 Bhādrapada śukla 9, Monday, is the date of the exemplar ('gurūpustakako miti', NS 686 ≈ 1566 CE). The present copy was completed on NS 1018 Pauṣa śukla 4 ('cauti'), Monday. NS 1018 began in about Oct/Nov 1897, so Pauṣa śukla falls in Dec 1897 or Jan 1898. ce_approx 1898 follows the NS+880 convention. The ye dharmā verse is badly corrupt. No scribe, patron or owner is named.",
+ "_meta": {
+  "reel": "A 1328/10",
+  "model": "opus",
+  "cost_usd": 0.046566800000000005,
+  "secs": 11.7
+ }
+}

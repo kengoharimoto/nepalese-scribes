@@ -2,6 +2,7 @@
  "_about": "Manuscripts dated in the Aṃśuvarman ('Mānadeva') saṃvat that are in the NGMCP title list (data/ngmcpdb_production.sql.bz2, calendar 'MS') but have no descriptive catalogue entry. (C 80/7, the Suśrutasaṃhitā of saṃvat 301, was listed here until its entry was found in the wiki mirror; see parse_mirror.py.) Date elements beyond era and year are cited from the literature. D 41/7 (Aṣṭasāhasrikā, Newari script, title list 'MS 901') is left out: 901 is impossible in this era and is most likely an NS year (c. 1781).",
  "B 11/4": {"title": "Skandapurāṇa", "title_id": 67034, "script": "Transitional Gupta", "material": "palm-leaf",
             "subject": "Purāṇa", "folios": 229, "size": "53.0 x 4.5 cm",
-            "date": {"era": "AS", "year": 234}, "date_raw": "saṃvat 234 (title list)",
-            "source": "NGMCP title list (title 67034); no descriptive catalogue entry"}
+            "date": {"era": "AS", "year": 234, "month": "Caitra", "paksa": "śukla", "tithi": "12"},
+            "date_raw": "saṃvat 234 caitraśukladvādaśyāṃ (no weekday)",
+            "source": "NGMCP title list (title 67034); no descriptive catalogue entry; month and tithi from Harimoto, RSO 84 (2011): 90 (Monday 10 March 811, unverifiable)"}
 }

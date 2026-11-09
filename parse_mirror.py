@@ -45,6 +45,8 @@ def to_card(raw):
     t = re.sub(r'<b>([^<]{1,40})</b>', label, t)
     t = re.sub(r'<br\s*/?>|</p>|</tr>|</div>|</blockquote>|</li>', '\n', t, flags=re.I)
     t = html.unescape(re.sub(r'<[^>]+>', '', t)).replace('ῑ', 'ī').replace('\xa0', ' ')
+    # wiki footnotes left as text ('<ref>Cf. Vt 2 ...</ref>', '<references/>') are not part of the field values
+    t = re.sub(r'<ref[^>]*>.*?</ref>|<references\s*/?>', '', t, flags=re.S)
     return unicodedata.normalize('NFC', t)
 
 
@@ -61,13 +63,18 @@ def colophons(card):
 
 
 def mirror_key(rec, fname):
-    """'A 1000-22 to A 1001-1' -> 'A 1000/22'; 'E 1774-3(30) Title.html' -> 'E 1774/3 (30)' (item of a bundle)."""
-    s = re.split(r'=|\bto\b', rec.get('Reel No.') or '')[0]
-    m = re.search(r'([A-Z]{1,2})\s*(\d+)\s*[/-]\s*(\d+)([a-z]?)(?![A-Za-z])', s) or \
-        re.search(r'([A-Z]{1,2})\s*(\d+)\s*-\s*(\d+)([a-z]?)(?![A-Za-z])', fname)
+    """'A 1000-22 to A 1001-1' -> 'A 1000/22'; 'E 1774-3(30) Title.html' -> 'E 1774/3 (30)' (item of a bundle).
+    The page title (file name) is the entry's identifier: where the Reel No. field gives other numbers (79
+    pages, nearly all typos such as 'A 29/19' for B 29-19 or 'A 11118/52'), the file name wins; the field
+    is used only for a part letter ('4a') or where the file name has no reel number."""
+    pat = r'([A-Z]{1,2})\s*0*(\d+)\s*[/-]\s*0*(\d+)([a-z]?)(?![A-Za-z])'
+    fm = re.match(r'([A-Z]{1,2})\s*0*(\d+)-0*(\d+)(?:([a-z])(?![a-z]))?', fname)  # '11Durgā': no part letter
+    m = re.search(pat, re.split(r'=|\bto\b', rec.get('Reel No.') or '')[0])
+    if fm and not (m and (m.group(1), int(m.group(2)), int(m.group(3))) == (fm.group(1), int(fm.group(2)), int(fm.group(3)))):
+        m = fm
     if not m:
         return 'mirror/' + fname
-    k = f'{m.group(1)} {int(m.group(2))}/{int(m.group(3))}{m.group(4)}'
+    k = f'{m.group(1)} {int(m.group(2))}/{int(m.group(3))}{m.group(4) or ""}'
     item = re.match(r'[^(]*?\d\s*\((\d+)\)', fname)
     return k + (f' ({item.group(1)})' if item else '')
 

@@ -3,11 +3,11 @@
 A register of the people named in Nepalese manuscripts (scribes, commissioners, owners, donors,
 reigning kings, teachers, and the kin named to identify them), built from the NGMCP catalogue
 entries in `/mnt2/kengo/E-texts/reference/ngmcp` (17,041 HTML files, 11,866 reels), completed from the
-wiki mirror (6,211 further pages, 6,162 reels or bundle items that have no local card): 18,545
+wiki mirror (6,217 further pages, 6,178 reels or bundle items that have no local card): 18,561
 manuscripts and inscriptions in all.
 
-All 5,102 colophons in the worklist have a first reading; 990 have an Opus reading (second reading, or
-first where Gemini was unavailable). Register: 18,545 manuscripts and inscriptions, 5,186 dated, 3,705 persons.
+All 5,106 colophons in the worklist have a first reading; 991 have an Opus reading (second reading, or
+first where Gemini was unavailable). Register: 18,561 manuscripts and inscriptions, 5,190 dated, 3,706 persons.
 
 Chart: https://kengoharimoto.github.io/nepalese-scribes/ (built from `out/nepalese_scribes.html` by
 `.github/workflows/pages.yml` on every push that changes it; a private copy is also kept as a
@@ -23,8 +23,8 @@ a mirror of its files is published under CC0 at https://github.com/INDOLOGY/NGMC
 | step | script | output |
 |---|---|---|
 | parse catalogue HTML (fields + «Colophon» excerpt) | `parse_ngmcp.py` | `data/records.jsonl` |
-| parse the wiki mirror (clone into `E-texts/reference/ngmcp-mirror-src/repo`), keeping the pages whose reel has no local card (same reel, or same inventory number and a similar title); every Colophon block is kept, bundle items ('E 1774-3(30)') stay separate | `parse_mirror.py` | `data/records_mirror.jsonl` |
-| select colophons that may name people or dates | `extract/make_worklist.py` | `extract/worklist.jsonl` (5,102 reels) |
+| parse the wiki mirror (clone into `E-texts/reference/ngmcp-mirror-src/repo`), keeping the pages whose reel has no local card (same reel, or same inventory number and a similar title); the page title gives the reel where the Reel No. field disagrees (79 pages, mostly typos: 'A 29/19' for B 29-19); wiki footnotes are removed; every Colophon block is kept, bundle items ('E 1774-3(30)') stay separate | `parse_mirror.py` | `data/records_mirror.jsonl` |
+| select colophons that may name people or dates | `extract/make_worklist.py` | `extract/worklist.jsonl` (5,106 reels) |
 | first reading of every colophon (Gemini Flash, key as in `indology-genealogy/pipeline/llm.py`) | `extract/extract_gemini.py` | `extract/out_gflash/` |
 | pick uncertain readings: low confidence, doubt in notes, catalogue Scribe/King not found, date off by > 2 years | `extract/select_review.py` | `extract/review_list.jsonl` |
 | second reading by Opus (`claude -p`), given the colophon and the first reading | `extract/review.py` | `extract/out_review/` |
@@ -55,16 +55,23 @@ reset time and skip reels already done, so they can simply be restarted.
   mirror). There Vasuvarman (vaidya, of Gaṇadevadevakula) is the owner, the book having been given to him;
   Harṣacandra, subject of *prākhilat* (for *prālikhat*), is read as the scribe, but he may have had the copy
   made (Acharya in Klebanov: causative; Suvedī & Tivārī read an ablative and a lost scribe's name): open.
-  Also open, between the catalogue entry and Klebanov's edition (draft of 2015): the place compound
-  (*°dūnīścalakanivāsino* in the entry, *°dūnīgvalaka°* in Klebanov and *gvalaka* in the earlier editions;
+  Also open, between KH's reading (catalogue entry; the same text in Harimoto, RSO 84, 2011: 88) and Klebanov's
+  edition (draft of 2015): the place compound (*°dūnīścalakanivāsino* in KH, *°dūnīgvalaka°* in Klebanov and *gvalaka* in the earlier editions;
   *gvala* = temple, Acharya); whether Gaṇadevadevakula is the place of copying (entry) or only Vasuvarman's
-  residence (Klebanov); the last sentence (entry *tadādhiśruyābhyāṃ na kaścid*, Klebanov *tad ādhikrayābhyāṃ
+  residence (Klebanov); the last sentence (KH *tadādhiśruyābhyāṃ na kaścid*, Klebanov *tad ādhikrayābhyāṃ
   tadgotrajena kenacin na kañcid*, K *tadgotrajena cin na kaścid*); and the bundle (two manuscripts in the
-  entry, at least four codicological units in Klebanov). The entry's Owner field has "Vaidyavasvarman" for
+  entry, "at least two" in Harimoto, JIBS 62.3, 2014: 23, at least four codicological units in Klebanov; the
+  2011 article's Fig. 1 names the dated one "KL 699-4"). The entry's Owner field has "Vaidyavasvarman" for
   Vasuvarman.
+- B 29/19 (Suśrutasaṃhitā, NAK 5/333, from Hemarāja Śarman's collection; scribe the vaidya Amarasiṃhaka, son
+  of Kamaladatta) is left undated (`DATE_OPEN` in `build_persons.py`): its year (*anala-aṅga/agni/aṅka-rasa*)
+  is corrected in the manuscript, and the readings give c. 1510/1512, 1543, 1573, Harimoto's 1540 (2014: 23) and
+  the catalogue's 1465. B 30/15 (NAK 5/334) is a modern printout of photographs of 5/333, and A 1267/11 is a
+  second filming of A 45/5 (Harimoto 2014, n. 1–2); neither has a catalogue entry here.
 - Paper manuscripts dated before 1300 are treated as undated (`date_doubtful`); the Aṃśuvarman ("Mānadeva")
   saṃvat is the Kārttikādi Śaka − 500 (K. P. Malla 2005; `calendar/verify.py`), recognised in the catalogue as
-  'Mānadeva Saṃvat'; B 11/4, AS-dated and only in the title list, is added from `data/extra_manuscripts.json`.
+  'Mānadeva Saṃvat'; B 11/4, AS-dated and only in the title list, is added from `data/extra_manuscripts.json`
+  (Caitra śukla 12 of 234 = Monday 10 March 811, unverifiable; Harimoto 2011: 90).
 - Month names: the poetic Mādhava is Vaiśākha, and the vṛddhi spelling jyaiṣṭha is Jyeṣṭha.
 - Places: Deopatan (Devapattana, by Paśupati) is kept apart from Patan (Lalitpur).
 - Dates: recalculated from the colophons with the pañcāṅga and checked against the stated weekday

@@ -1,0 +1,45 @@
+{
+ "persons": [
+  {
+   "pid": "p1",
+   "as_written": "upāsnī vaijanāthabhaṭṭena",
+   "name": "Vaijanātha",
+   "roles": [
+    "scribe"
+   ],
+   "titles": [
+    "upāsnī",
+    "bhaṭṭa"
+   ],
+   "affiliation": "",
+   "residence": "",
+   "evidence": "likhitaṃ-m idaṃ upāsnī vaijanāthabhaṭṭena",
+   "confidence": "high"
+  }
+ ],
+ "relations": [],
+ "date": {
+  "as_written": "",
+  "era": "none",
+  "year": "",
+  "month": "",
+  "paksa": "",
+  "tithi": "",
+  "weekday": "",
+  "nakshatra_yoga": "",
+  "ce_approx": ""
+ },
+ "place": {
+  "as_written": "",
+  "normalized": ""
+ },
+ "purpose": "",
+ "notes": "Upāsnī is likely the Maharashtrian Brahmin family/lineage name (Upāsani).",
+ "_meta": {
+  "reel": "A 83/17",
+  "model": "gemini-flash-latest",
+  "secs": 8.7,
+  "in_tok": 671,
+  "out_tok": 543
+ }
+}
